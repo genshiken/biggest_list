@@ -1,3 +1,16 @@
+complete/0/009-1/[cLT] 009-1 - 01 [DVD][CF5A2333].mkv
+complete/0/009-1/[cLT] 009-1 - 02 [DVD][FE41418A].mkv
+complete/0/009-1/[cLT] 009-1 - 03 [DVD][FFDD8814].mkv
+complete/0/009-1/[cLT] 009-1 - 04 [DVD][1A62552D].mkv
+complete/0/009-1/[cLT] 009-1 - 05 [DVD][E7022658].mkv
+complete/0/009-1/[cLT] 009-1 - 06 [DVD][5CA3CF6F].mkv
+complete/0/009-1/[cLT] 009-1 - 07 [DVD][B4FBF517].mkv
+complete/0/009-1/[cLT] 009-1 - 08 [DVD][D067B89B].mkv
+complete/0/009-1/[cLT] 009-1 - 09 [DVD][2C2B4FE1].mkv
+complete/0/009-1/[cLT] 009-1 - 09.5 [DVD][8BC2EF47].mkv
+complete/0/009-1/[cLT] 009-1 - 10 [DVD][92D90756].mkv
+complete/0/009-1/[cLT] 009-1 - 11 [DVD][BA1B8E61].mkv
+complete/0/009-1/[cLT] 009-1 - 12 [End][DVD][430C3C54].mkv
 complete/1/11eyes/[Shinji-Nekomimi] 11eyes - 01 [v2][93C2DE2A].mkv
 complete/1/11eyes/[Shinji-Nekomimi] 11eyes - 02 [86524146].mkv
 complete/1/11eyes/[Shinji-Nekomimi] 11eyes - 03 [v2][5BFAD77C].mkv
@@ -127,7 +140,6 @@ complete/a/Air Gear/[Kyuu] Air Gear - 24 [C241B914].avi
 complete/a/Air Gear/[Kyuu] Air Gear - 25 [End][B8590D16].avi
 complete/a/Air in Summer/[Triad] Air in Summer - 1 [EF9EC561].avi
 complete/a/Air in Summer/[Triad] Air in Summer - 2 [End][32B90D7E].avi
-complete/a/Air/[Koi] Air - 08 [71E36E98].avi
 complete/a/Air/[Koi] Air - 09 [0474A718].avi
 complete/a/Air/[Koi] Air - 10 [6ACF3F77].avi
 complete/a/Air/[Koi] Air - 11 [3F58B10B].avi
@@ -140,6 +152,7 @@ complete/a/Air/[uguu~] Air - 04 (1280x720) [BD][FC8EB878].mkv
 complete/a/Air/[uguu~] Air - 05 (1280x720) [BD][3C9DB668].mkv
 complete/a/Air/[uguu~] Air - 06 (1280x720) [BD][4FD4DC01].mkv
 complete/a/Air/[uguu~] Air - 07 (1280x720) [BD][1EF8E42D].mkv
+complete/a/Air/[uguu~] Air - 08 (1280x720) [BD][7D963DA4].mkv
 complete/a/Akagi/[Triad] Akagi - 01 [C416CB1F].avi
 complete/a/Akagi/[Triad] Akagi - 02 [CFCDC545].avi
 complete/a/Akagi/[Triad] Akagi - 03 [35B0007C].avi
@@ -428,6 +441,7 @@ complete/a/Aquarian Age/[a.f.k.] Aquarian Age - 10 [4F7BD598].avi
 complete/a/Aquarian Age/[a.f.k.] Aquarian Age - 11 [0ED8B75E].avi
 complete/a/Aquarian Age/[a.f.k.] Aquarian Age - 12 [F1FC5EE3].avi
 complete/a/Aquarian Age/[a.f.k.] Aquarian Age - 13 [End][A773E5B2].avi
+complete/a/Araiso Private High School Student Council Executive Committee OVA/[aarinfantasy-RyRo] Araiso Private High School Student Council Executive Committee OVA [4119B116].avi
 complete/a/Arakawa Under the Bridge/[Formula] Arakawa Under the Bridge - 01 [v2][C32863F3].mkv
 complete/a/Arakawa Under the Bridge/[Formula] Arakawa Under the Bridge - 02 [F5DE1EDC].mkv
 complete/a/Arakawa Under the Bridge/[Formula] Arakawa Under the Bridge - 03 [3E3A63C9].mkv
@@ -5804,7 +5818,7 @@ complete/k/Kiddy Grade/[KAA] Kiddy Grade - 21 [DVD][7E5C6DA5].mkv
 complete/k/Kiddy Grade/[KAA] Kiddy Grade - 22 [DVD][E64C8254].mkv
 complete/k/Kiddy Grade/[KAA] Kiddy Grade - 23 [DVD][B5311528].mkv
 complete/k/Kiddy Grade/[KAA] Kiddy Grade - 24 [End][DVD][9486A5DD].mkv
-complete/k/Kimagure Orange Road - Pilot/[Live-eviL] Kimagure Orange Road - Pilot [9D977BA6].mkv
+complete/k/Kimagure Orange Road (1985)/[Live-eviL] Kimagure Orange Road (1985) [9D977BA6].mkv
 complete/k/Kimi ga Nozomu Eien OVA/[Shinsen-Subs] Kimi ga Nozomu Eien OVA - 1 [DVD][CE4985AA].avi
 complete/k/Kimi ga Nozomu Eien OVA/[Shinsen-Subs] Kimi ga Nozomu Eien OVA - 2 [DVD][CDDEB389].mkv
 complete/k/Kimi ga Nozomu Eien OVA/[Shinsen-Subs] Kimi ga Nozomu Eien OVA - 3 [DVD][8B250725].mkv
@@ -6118,6 +6132,7 @@ complete/k/Kyou Kara Maou! R/[Shinsen-Subs] Kyou Kara Maou! R - 2 [AAA173F0].mkv
 complete/k/Kyou Kara Maou! R/[Shinsen-Subs] Kyou Kara Maou! R - 3 [F99D8745].mkv
 complete/k/Kyou Kara Maou! R/[Shinsen-Subs] Kyou Kara Maou! R - 4 [19833B02].mkv
 complete/k/Kyou Kara Maou! R/[Shinsen-Subs] Kyou Kara Maou! R - 5 [End][2FA12FB5].mkv
+complete/k/Kyou, Koi wo Hajimemasu OAD/[GX ST] Kyou, Koi wo Hajimemasu OAD [6C5DFFB5].mkv
 complete/k/Kyouran Kazoku Nikki/[SS-Eclipse] Kyouran Kazoku Nikki - 01 (1280x720) [E1608781].mkv
 complete/k/Kyouran Kazoku Nikki/[SS-Eclipse] Kyouran Kazoku Nikki - 02 (1280x720) [45EFCF50].mkv
 complete/k/Kyouran Kazoku Nikki/[SS-Eclipse] Kyouran Kazoku Nikki - 03 (1280x720) [7DB1077D].mkv
@@ -7127,6 +7142,30 @@ complete/m/Maria-sama ga miteru OVA/[Yamayuri] Maria-sama ga miteru OVA - 2 [E39
 complete/m/Maria-sama ga miteru OVA/[Yamayuri] Maria-sama ga miteru OVA - 3 [ADF8E8D6].mkv
 complete/m/Maria-sama ga miteru OVA/[Yamayuri] Maria-sama ga miteru OVA - 4 [591F6D9D].mkv
 complete/m/Maria-sama ga miteru OVA/[Yamayuri] Maria-sama ga miteru OVA - 5 [End][A6142C7F].mkv
+complete/m/Master Keaton/[A-Et] Master Keaton - 01 [DVD][2CAEA3A8].mkv
+complete/m/Master Keaton/[A-Et] Master Keaton - 02 [DVD][1577358D].mkv
+complete/m/Master Keaton/[A-Et] Master Keaton - 03 [DVD][E49BEE83].mkv
+complete/m/Master Keaton/[A-Et] Master Keaton - 04 [DVD][C15919C7].mkv
+complete/m/Master Keaton/[A-Et] Master Keaton - 05 [DVD][9E512544].mkv
+complete/m/Master Keaton/[A-Et] Master Keaton - 06 [DVD][CD4F4378].mkv
+complete/m/Master Keaton/[A-Et] Master Keaton - 07 [DVD][9A57BB9E].mkv
+complete/m/Master Keaton/[A-Et] Master Keaton - 08 [DVD][7267188B].mkv
+complete/m/Master Keaton/[A-Et] Master Keaton - 09 [DVD][A764FEAE].mkv
+complete/m/Master Keaton/[A-Et] Master Keaton - 10 [DVD][D3F1907C].mkv
+complete/m/Master Keaton/[A-Et] Master Keaton - 11 [DVD][A8D3ADDE].mkv
+complete/m/Master Keaton/[A-Et] Master Keaton - 12 [DVD][1741DE76].mkv
+complete/m/Master Keaton/[A-Et] Master Keaton - 13 [DVD][3D09755F].mkv
+complete/m/Master Keaton/[A-Et] Master Keaton - 14 [DVD][44DD14A9].mkv
+complete/m/Master Keaton/[A-Et] Master Keaton - 15 [DVD][BFC8F670].mkv
+complete/m/Master Keaton/[A-Et] Master Keaton - 16 [DVD][8B86E41E].mkv
+complete/m/Master Keaton/[A-Et] Master Keaton - 17 [DVD][F5CDC646].mkv
+complete/m/Master Keaton/[A-Et] Master Keaton - 18 [DVD][0325A63A].mkv
+complete/m/Master Keaton/[A-Et] Master Keaton - 19 [DVD][4EF10946].mkv
+complete/m/Master Keaton/[A-Et] Master Keaton - 20 [DVD][81B74C7A].mkv
+complete/m/Master Keaton/[A-Et] Master Keaton - 21 [DVD][40628AB3].mkv
+complete/m/Master Keaton/[A-Et] Master Keaton - 22 [DVD][06086EDA].mkv
+complete/m/Master Keaton/[A-Et] Master Keaton - 23 [DVD][006FCD14].mkv
+complete/m/Master Keaton/[A-Et] Master Keaton - 24 [End][DVD][C092DFA4].mkv
 complete/m/Matantei Loki Ragnarok/[B-A] Matantei Loki Ragnarok - 01 [2D6BA18F].mkv
 complete/m/Matantei Loki Ragnarok/[B-A] Matantei Loki Ragnarok - 02 [4490DFC7].mkv
 complete/m/Matantei Loki Ragnarok/[B-A] Matantei Loki Ragnarok - 03 [1646B4BF].mkv
@@ -7256,6 +7295,7 @@ complete/m/Minami-ke/[Ayu] Minami-ke - 10 (1280x720) [864FC2A6].mkv
 complete/m/Minami-ke/[Ayu] Minami-ke - 11 (1280x720) [v2][9992F8CA].mkv
 complete/m/Minami-ke/[Ayu] Minami-ke - 12 (1280x720) [753AA97F].mkv
 complete/m/Minami-ke/[Ayu] Minami-ke - 13 (1280x720) [End][2C0D7F29].mkv
+complete/m/MiniPato/[anime fin] MiniPato [DVD][2906CE7D].avi
 complete/m/Mission-E/[Minashigo-kai] Mission-E - 12 [E659F918].mkv
 complete/m/Mission-E/[oom] Mission-E - 01 (1280x720) [A578319C].mkv
 complete/m/Mission-E/[oom] Mission-E - 02 [v2][80484F13].avi
@@ -9658,8 +9698,9 @@ complete/s/Shounen Onmyouji/[Yoroshiku] Shounen Onmyouji - 23 [EDBB049B].mp4
 complete/s/Shounen Onmyouji/[Yoroshiku] Shounen Onmyouji - 24 [DE2F13B3].mp4
 complete/s/Shounen Onmyouji/[Yoroshiku] Shounen Onmyouji - 25 [DVD][9AE4A0AD].mp4
 complete/s/Shounen Onmyouji/[Yoroshiku] Shounen Onmyouji - 26 [End][DVD][16556B76].mp4
-complete/s/Shuffle! Memories/[Ayako] Shuffle! Memories - 01 [D6DAD0F7].avi
-complete/s/Shuffle! Memories/[Ayako] Shuffle! Memories - 02 [ED862C84].mp4
+complete/s/Shuffle! Memories OVA/[SHiN-gx] Shuffle! Memories OVA [DVD][64DC5CDB].mkv
+complete/s/Shuffle! Memories/[Ayako] Shuffle! Memories - 01 (1280x720) [DVD][0F036849].mkv
+complete/s/Shuffle! Memories/[Ayako] Shuffle! Memories - 02 (1280x720) [DVD][ABD08C95].mkv
 complete/s/Shuffle! Memories/[Ayako] Shuffle! Memories - 03 [318F452E].mp4
 complete/s/Shuffle! Memories/[Ayako] Shuffle! Memories - 04 [29CCC851].mkv
 complete/s/Shuffle! Memories/[Ayako] Shuffle! Memories - 05 [0F766D2E].mkv
@@ -9669,8 +9710,7 @@ complete/s/Shuffle! Memories/[Ayako] Shuffle! Memories - 08 [673B831D].mkv
 complete/s/Shuffle! Memories/[Ayako] Shuffle! Memories - 09 [3A510E08].mkv
 complete/s/Shuffle! Memories/[Ayako] Shuffle! Memories - 10 [A4B0E937].mkv
 complete/s/Shuffle! Memories/[Ayako] Shuffle! Memories - 11 [033A20E1].mkv
-complete/s/Shuffle! Memories/[Ayako] Shuffle! Memories - 12 [85C417A2].mkv
-complete/s/Shuffle! Memories/[SHiN-gx] Shuffle! Memories - OVA [DVD][64DC5CDB].mkv
+complete/s/Shuffle! Memories/[Ayako] Shuffle! Memories - 12 [End][85C417A2].mkv
 complete/s/Shuffle!/[Froth-Bite] Shuffle! - 01 [7BCE28E8].avi
 complete/s/Shuffle!/[Froth-Bite] Shuffle! - 02 [v2][7B1E02D8].avi
 complete/s/Shuffle!/[Froth-Bite] Shuffle! - 03 [65436244].avi
@@ -9966,32 +10006,32 @@ complete/s/Skip Beat/[Ureshii-Yoroshiku] Skip Beat - 09 (1280x720) [F68E5357].mk
 complete/s/Skip Beat/[Ureshii-Yoroshiku] Skip Beat - 10 (1280x720) [854EDFCB].mkv
 complete/s/Skip Beat/[Ureshii-Yoroshiku] Skip Beat - 11 (1280x720) [B4B4AD1F].mkv
 complete/s/Skip Beat/[Ureshii-Yoroshiku] Skip Beat - 12 (1280x720) [211CB393].mkv
-complete/s/Sky Girls/[Froth-Bite] Sky Girls - 01 [306EB51F].mp4
-complete/s/Sky Girls/[Froth-Bite] Sky Girls - 02 [4CFC47F8].mp4
-complete/s/Sky Girls/[Froth-Bite] Sky Girls - 03 [31FF7D43].mp4
-complete/s/Sky Girls/[Froth-Bite] Sky Girls - 04 [57992BFF].mp4
-complete/s/Sky Girls/[Froth-Bite] Sky Girls - 05 [6CD6C9A0].mp4
-complete/s/Sky Girls/[Froth-Bite] Sky Girls - 06 [D3033598].mp4
-complete/s/Sky Girls/[Froth-Bite] Sky Girls - 07 [2B8522D1].mp4
-complete/s/Sky Girls/[Froth-Bite] Sky Girls - 08 [C656902B].mp4
-complete/s/Sky Girls/[Froth-Bite] Sky Girls - 09 [DFD68455].mp4
-complete/s/Sky Girls/[Froth-Bite] Sky Girls - 10 [E81173FA].mp4
-complete/s/Sky Girls/[Froth-Bite] Sky Girls - 11 [2FB2724F].mp4
-complete/s/Sky Girls/[Froth-Bite] Sky Girls - 12 [0B0E56D8].mp4
-complete/s/Sky Girls/[Froth-Bite] Sky Girls - 13 [D54D242A].mp4
-complete/s/Sky Girls/[Froth-Bite] Sky Girls - 14 [F16D105B].mp4
-complete/s/Sky Girls/[Froth-Bite] Sky Girls - 15 [60E7C8D1].mp4
-complete/s/Sky Girls/[Froth-Bite] Sky Girls - 16 [49975690].mp4
-complete/s/Sky Girls/[Froth-Bite] Sky Girls - 17 [0385B381].mp4
-complete/s/Sky Girls/[Froth-Bite] Sky Girls - 18 [5943DE86].mp4
-complete/s/Sky Girls/[Froth-Bite] Sky Girls - 19 [560F77BC].mp4
-complete/s/Sky Girls/[Froth-Bite] Sky Girls - 20 [9F0348CB].mp4
-complete/s/Sky Girls/[Froth-Bite] Sky Girls - 21 [9EB087B5].mp4
-complete/s/Sky Girls/[Froth-Bite] Sky Girls - 22 [D9FBCB52].mp4
-complete/s/Sky Girls/[Froth-Bite] Sky Girls - 23 [09A2496D].mp4
-complete/s/Sky Girls/[Froth-Bite] Sky Girls - 24 [2A224AC3].mp4
-complete/s/Sky Girls/[Froth-Bite] Sky Girls - 25 [F346D2E0].mp4
-complete/s/Sky Girls/[Froth-Bite] Sky Girls - 26 [End][44F4E21E].mp4
+complete/s/Sky Girls/[Taedium] Sky Girls - 01 [DVD][14599D85].mkv
+complete/s/Sky Girls/[Taedium] Sky Girls - 02 [DVD][A9E9E0CD].mkv
+complete/s/Sky Girls/[Taedium] Sky Girls - 03 [DVD][897ED235].mkv
+complete/s/Sky Girls/[Taedium] Sky Girls - 04 [DVD][A8C8A239].mkv
+complete/s/Sky Girls/[Taedium] Sky Girls - 05 [DVD][0FF213B3].mkv
+complete/s/Sky Girls/[Taedium] Sky Girls - 06 [DVD][49BE8BA1].mkv
+complete/s/Sky Girls/[Taedium] Sky Girls - 07 [DVD][6A98B649].mkv
+complete/s/Sky Girls/[Taedium] Sky Girls - 08 [DVD][F571A7CE].mkv
+complete/s/Sky Girls/[Taedium] Sky Girls - 09 [DVD][CFC9261D].mkv
+complete/s/Sky Girls/[Taedium] Sky Girls - 10 [DVD][125F3746].mkv
+complete/s/Sky Girls/[Taedium] Sky Girls - 11 [DVD][0370564C].mkv
+complete/s/Sky Girls/[Taedium] Sky Girls - 12 [DVD][86E88B28].mkv
+complete/s/Sky Girls/[Taedium] Sky Girls - 13 [DVD][970D976A].mkv
+complete/s/Sky Girls/[Taedium] Sky Girls - 14 [DVD][DF31F4D1].mkv
+complete/s/Sky Girls/[Taedium] Sky Girls - 15 [DVD][F8BBFE60].mkv
+complete/s/Sky Girls/[Taedium] Sky Girls - 16 [DVD][CCBF7CAE].mkv
+complete/s/Sky Girls/[Taedium] Sky Girls - 17 [DVD][79C034D9].mkv
+complete/s/Sky Girls/[Taedium] Sky Girls - 18 [DVD][391B89DE].mkv
+complete/s/Sky Girls/[Taedium] Sky Girls - 19 [DVD][DB756E45].mkv
+complete/s/Sky Girls/[Taedium] Sky Girls - 20 [DVD][F648D488].mkv
+complete/s/Sky Girls/[Taedium] Sky Girls - 21 [DVD][B826BFFC].mkv
+complete/s/Sky Girls/[Taedium] Sky Girls - 22 [DVD][2FD7F265].mkv
+complete/s/Sky Girls/[Taedium] Sky Girls - 23 [DVD][520A0AD9].mkv
+complete/s/Sky Girls/[Taedium] Sky Girls - 24 [DVD][B06D0ED8].mkv
+complete/s/Sky Girls/[Taedium] Sky Girls - 25 [DVD][4AF2CD61].mkv
+complete/s/Sky Girls/[Taedium] Sky Girls - 26 [End][DVD][B93A0F51].mkv
 complete/s/Slayers Evolution-R/[Anon] Slayers Evolution-R - 01 (1024x576) [CC080FA1].mkv
 complete/s/Slayers Evolution-R/[Anon] Slayers Evolution-R - 02 (1024x576) [986AA07A].mkv
 complete/s/Slayers Evolution-R/[Anon] Slayers Evolution-R - 03 (1024x576) [3A6744FC].mkv
@@ -11176,6 +11216,32 @@ complete/t/Triangle Heart/[Triad] Triangle Heart - 1 [62BA66E8].avi
 complete/t/Triangle Heart/[Triad] Triangle Heart - 2 [13EF1417].avi
 complete/t/Triangle Heart/[Triad] Triangle Heart - 3 [DD635041].avi
 complete/t/Triangle Heart/[Triad] Triangle Heart - 4 [End][1B5531F7].avi
+complete/t/Trigun/[KAA] Trigun - 01 [DVD][43FDAA29][v2].avi
+complete/t/Trigun/[KAA] Trigun - 02 [DVD][8AB2BA5C][v2].avi
+complete/t/Trigun/[KAA] Trigun - 03 [DVD][F740A6D4][v2].avi
+complete/t/Trigun/[KAA] Trigun - 04 [DVD][43DD54CD][v2].avi
+complete/t/Trigun/[KAA] Trigun - 05 [DVD][515EA677][v2].avi
+complete/t/Trigun/[KAA] Trigun - 06 [DVD][50D122BD][v2].avi
+complete/t/Trigun/[KAA] Trigun - 07 [DVD][E407D9A2][v2].avi
+complete/t/Trigun/[KAA] Trigun - 08 [DVD][17DEF9C7].avi
+complete/t/Trigun/[KAA] Trigun - 09 [DVD][CDE50EF1].avi
+complete/t/Trigun/[KAA] Trigun - 10 [DVD][A3082815].avi
+complete/t/Trigun/[KAA] Trigun - 11 [DVD][D16F8741].avi
+complete/t/Trigun/[KAA] Trigun - 12 [DVD][D708744A].avi
+complete/t/Trigun/[KAA] Trigun - 13 [DVD][678273EA].avi
+complete/t/Trigun/[KAA] Trigun - 14 [DVD][E5075E59].avi
+complete/t/Trigun/[KAA] Trigun - 15 [DVD][9665F1B0].avi
+complete/t/Trigun/[KAA] Trigun - 16 [DVD][4A14A49E].avi
+complete/t/Trigun/[KAA] Trigun - 17 [DVD][E1170CD5].avi
+complete/t/Trigun/[KAA] Trigun - 18 [DVD][98267054].avi
+complete/t/Trigun/[KAA] Trigun - 19 [DVD][2F41510B].avi
+complete/t/Trigun/[KAA] Trigun - 20 [DVD][60DABF54].avi
+complete/t/Trigun/[KAA] Trigun - 21 [DVD][5680D01E].avi
+complete/t/Trigun/[KAA] Trigun - 22 [DVD][2A48B871].avi
+complete/t/Trigun/[KAA] Trigun - 23 [DVD][C69B7475].avi
+complete/t/Trigun/[KAA] Trigun - 24 [DVD][2DB7900E].avi
+complete/t/Trigun/[KAA] Trigun - 25 [DVD][25AF91BD].avi
+complete/t/Trigun/[KAA] Trigun - 26 [End][DVD][AEFA8172].avi
 complete/t/Trinity Blood/[mahou] Trinity Blood - 01 [31956385].avi
 complete/t/Trinity Blood/[mahou] Trinity Blood - 02 [9A1B493F].avi
 complete/t/Trinity Blood/[mahou] Trinity Blood - 03 [FA76C260].avi

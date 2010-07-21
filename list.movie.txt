@@ -44,6 +44,7 @@ movie/Fullmetal Alchemist - The Conqueror of Shamballa/[KAA] Fullmetal Alchemist
 movie/Ghost in the Shell/[KAA] Ghost in the Shell - Innocence [DVD][00C92C0A].mkv
 movie/Gokinjo Monogatari Movie/[Yuurisan-Subs] Gokinjo Monogatari - Movie [81F06CCC].mkv
 movie/Gundam - Char's Counterattack/[OZC] Gundam - Char's Counterattack (1280x720) [7DF4FA68].mkv
+movie/Gundam SEED CE73 Stargazer/[Mendoi] Gundam SEED CE73 Stargazer [DVD][DE19D759].mp4
 movie/Gundam Wing Endless Waltz/[EG] Gundam Wing Endless Waltz Remastered [v2][49A7A358].mkv
 movie/Hoshi no Koe - Voices of a Distant Star/[niizk] Hoshi no Koe - Voices of a Distant Star [54929BA5].mkv
 movie/Hoshi no Koe/[KAA] Hoshi no Koe [3E86A406].mkv
@@ -70,6 +71,7 @@ movie/Macross - Do You Remember Love/[FLF & L-E] Macross - Do You Remember Love 
 movie/Mahou Shoujo Lyrical Nanoha - The Movie 1st/[BSS] Mahou Shoujo Lyrical Nanoha - The Movie 1st [LQ][B3B89A9D].mkv
 movie/Major - The Ball of Friendship/[Frostii] Major - The Ball of Friendship [4F59FE07].mkv
 movie/Meguriau Sekai/[ANBU] Meguriau Sekai [AF23178A].mkv
+movie/Metropolis/[THORA] Metropolis [BD][323F7DC7].mkv
 movie/Munto Movie/[Exiled-Destiny] Munto - Movie 1 [52343279].mkv
 movie/Munto Movie/[Exiled-Destiny] Munto - Movie 2 [620E941E].mkv
 movie/My Neighbor Totoro/[niizk] My Neighbor Totoro [59A5021B].mkv
@@ -79,6 +81,7 @@ movie/One Piece/[Nakama-Fansubs] One Piece - Movie 9 [DVD][CB9E7E89].mp4
 movie/Pale Cocoon/[Doremi-HF-Shakugan] Pale Cocoon [BAEE1167].avi
 movie/Paprika/[THORA] Paprika (2006) (1280x720) [BD][29C190A5].mkv
 movie/Patlabor Movie/[THORA] Patlabor Movie (1920x1040) [BD][5F02E5DE].mkv
+movie/Patlabor WXIII/[THORA] Patlabor WXIII [BD][5B5DB50F].mkv
 movie/Piano no Mori/[Live-eviL] Piano no Mori [9932815F].mkv
 movie/Ponyo on the Cliff by the Sea/[niizk] Ponyo on the Cliff by the Sea (1920x1040) [0DF075A4].mkv
 movie/Pretty Cure All-Stars DX2 Movie/[Curecom-Doremi] Pretty Cure All-Stars DX2 Movie [DVD][1BDB9DC5].mkv
@@ -116,7 +119,6 @@ movie/[KAA] Cowboy Bebop Movie [DVD][DCB9E280].avi
 movie/[Kuro-Hana] Death Note - Special (1280x720) [651E84B9].mkv
 movie/[Live-eviL] Windaria [47D12022].avi
 movie/[MW] Lensman - 1 - Complete Movie.mkv
-movie/[Mendoi] Gundam SEED CE73 Stargazer [DVD][DE19D759].mp4
 movie/[NERV] Evangelion Rebuild 1.0 You Are Not Alone [DVD][28D45F5F].mkv
 movie/[No-Subs] Mizu no Kotoba [94835474].mkv
 movie/[OMFG] Initial D - Battle Stage [79E236FF].avi
