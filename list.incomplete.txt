@@ -160,7 +160,7 @@ incomplete/Ask Dr. Rin!/[HnK & L-E] Ask Dr. Rin! - 09 [69294171].avi
 incomplete/Ask Dr. Rin!/[HnK & L-E] Ask Dr. Rin! - 10 [23C37344].avi
 incomplete/Ask Dr. Rin!/[HnK & L-E] Ask Dr. Rin! - 11 [580BE701].avi
 incomplete/Asobi ni Iku Yo!/[Ayako-SubDESU] Asobi ni Iku Yo! - 02 (1280x720) [8E7C13F5].mkv
-incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 01 [v2][DDCB2A4C].mkv
+incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 01 [v3][079EFF6D].mkv
 incomplete/Astro Fighter Sunred/[ANBU] Astro Fighter Sunred - 01 [170751D6].mkv
 incomplete/Astro Fighter Sunred/[ANBU] Astro Fighter Sunred - 02 [B22B9E90].mkv
 incomplete/Astro Fighter Sunred/[ANBU] Astro Fighter Sunred - 03 [4A5E438E].mkv
@@ -873,6 +873,7 @@ incomplete/Golgo 13/[BSS] Golgo 13 - 14 [C6F7C2DC].mkv
 incomplete/Golgo 13/[BSS] Golgo 13 - 15 [CF0D6C2C].mkv
 incomplete/Golgo 13/[Doutei] Golgo 13 - 31 [500DC855].mkv
 incomplete/Golgo 13/[Doutei] Golgo 13 - 32 [346157C3].mkv
+incomplete/Golgo 13/[Doutei] Golgo 13 - 33 [52669673].mkv
 incomplete/Golgo 13/[fucmnack] Golgo 13 - 18 (1280x720) [9613CDC3].mkv
 incomplete/Golgo 13/[fucmnack] Golgo 13 - 19 (1280x720) [0B9C4756].mkv
 incomplete/Golgo 13/[fucmnack] Golgo 13 - 20 (1280x720) [3B9F601A].mkv
@@ -1075,6 +1076,7 @@ incomplete/Hetalia World Series/[Rumbel] Hetalia World Series - 12 [4668399C].mk
 incomplete/Hetalia World Series/[Rumbel] Hetalia World Series - 13 [F2CAE29C].mkv
 incomplete/Hetalia World Series/[Rumbel] Hetalia World Series - 14 [847303AB].mkv
 incomplete/Hetalia World Series/[Rumbel] Hetalia World Series - 15 [EAA6A88E].mkv
+incomplete/Hetalia World Series/[Rumbel] Hetalia World Series - 16 [36618177].mkv
 incomplete/High School of the Dead/[Commie] High School of the Dead - 01 [v2][4E28B6B4].mkv
 incomplete/High School of the Dead/[Commie] High School of the Dead - 02 [v2][1834BB83].mkv
 incomplete/High School of the Dead/[Commie] High School of the Dead - 03 [5BF91A30].mkv
@@ -1203,6 +1205,7 @@ incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 74 (1280x720) [1FC5B773].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 75 (1280x720) [7C00215C].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 76 (1280x720) [725A41A5].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 77 (1280x720) [7DF1A7B6].mkv
+incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 78 (1280x720) [FDDEAAE7].mkv
 incomplete/Initial D Battle Stage/[Shinsen-Subs] Initial D Battle Stage - 2 [End][B54855AA].mkv
 incomplete/Inuyasha Kanketsu-hen/[O-L] Inuyasha Kanketsu-hen - 01 (1280x720) [686D7CCE].mkv
 incomplete/Inuyasha Kanketsu-hen/[O-L] Inuyasha Kanketsu-hen - 02 (1280x720) [A0F39387].mkv
@@ -1227,6 +1230,7 @@ incomplete/Jushin Liger/[Onibaku] Jushin Liger - 01 [D58023F1].mkv
 incomplete/Juuni Kokuki/[Arigatou] Juuni Kokuki - 01 [800E8F88].mkv
 incomplete/Juushin Enbu - Hero Tales/[DATS] Juushin Enbu - Hero Tales - 03 (1280x720) [3BD687F3].mkv
 incomplete/Juushin Enbu - Hero Tales/[Gekkostate] Juushin Enbu - Hero Tales - 01 (1024x576) [A06DD797].mp4
+incomplete/K-ON!!/[CoalGuys] K-ON!! - 16 [EF4834DA].mkv
 incomplete/K-ON!!/[Frostii] K-ON!! - 01 [A4D58BA0].mkv
 incomplete/K-ON!!/[Frostii] K-ON!! - 02 [CBE8AFDC].mkv
 incomplete/K-ON!!/[Frostii] K-ON!! - 03 [6585A6D6].mkv
@@ -1241,6 +1245,7 @@ incomplete/K-ON!!/[Frostii] K-ON!! - 11 [87E3D5F7].mkv
 incomplete/K-ON!!/[Frostii] K-ON!! - 12 [7A721A7F].mkv
 incomplete/K-ON!!/[Frostii] K-ON!! - 13 [85A60751].mkv
 incomplete/K-ON!!/[Frostii] K-ON!! - 14 [D61C99B4].mkv
+incomplete/K-ON!!/[Frostii] K-ON!! - 15 [C53BE153].mkv
 incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 01 (1280x720) [149F1EB5].mkv
 incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 02 (1280x720) [A3508CA2].mkv
 incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 03 (1280x720) [F0D374A8].mkv
@@ -2073,6 +2078,7 @@ incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 44 [DVD][D15
 incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 45 [DVD][007F1103].mkv
 incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 46 [DVD][CB1A1E7E].mkv
 incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 47 [DVD][2BB78045].mkv
+incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 48 [DVD][9E4B5341].mkv
 incomplete/Prince of Tennis - Another Story OVA/[IP] Prince of Tennis - Another Story OVA - 1 [E77F84B8].avi
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 05 [1B8BEC0C].mkv
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 08 [69EF2B35].mkv
@@ -2433,6 +2439,7 @@ incomplete/Souten Kouro/[Lunar] Souten Kouro - 09 (1280x720) [8ACE6834].mkv
 incomplete/Souten no Ken/[Sentosha] Souten no Ken - 01 [DVD][7CBE4115].avi
 incomplete/Strike Witches 2/[Commie] Strike Witches 2 - 01 [688CC62B].mkv
 incomplete/Strike Witches 2/[Commie] Strike Witches 2 - 02 [v2][1AA41B0B].mkv
+incomplete/Strike Witches 2/[HorribleSubs] Strike Witches 2 - 03 (1280x720) [4FBD6A0A].mkv
 incomplete/Strong World/[yibis] Strong World - 0 [DVD][49C1A026].mkv
 incomplete/Taiko Drum Master/[Triad] Taiko Drum Master - 14 [DVD][658D86C5].mkv
 incomplete/Tales of Symphonia - OVA - Tethe'alla/[Formula] Tales of Symphonia - OVA - Tethe'alla - 1 [89135783].mkv
@@ -2590,6 +2597,8 @@ incomplete/Turn-A Gundam/[EG] Turn-A Gundam - 33 [3F2C3251].mkv
 incomplete/Turn-A Gundam/[EG] Turn-A Gundam - 34 [572F06D5].mkv
 incomplete/Turn-A Gundam/[EG] Turn-A Gundam - 35 [1AC6F359].mkv
 incomplete/Turn-A Gundam/[EG] Turn-A Gundam - 36 [7B24FEB1].mkv
+incomplete/Turn-A Gundam/[EG] Turn-A Gundam - 37 [4020F73E].mkv
+incomplete/Turn-A Gundam/[EG] Turn-A Gundam - 38 [1EDBE7C3].mkv
 incomplete/Turn-A Gundam/[EG] Turn-A Gundam - Ending [v2][39333AE4].mkv
 incomplete/Turn-A Gundam/[EG] Turn-A Gundam - Opening [v2][2640070C].mkv
 incomplete/Ukkari Penelope (2009)/[BSS] Ukkari Penelope (2009) - 15 [3A2849A0].mkv
