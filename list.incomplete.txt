@@ -44,6 +44,7 @@ incomplete/Akahori Gedou Hour Rabuge/[Himitsu] Akahori Gedou Hour Rabuge - 11 [6
 incomplete/Amagami SS/[Eclipse] Amagami SS - 01 (1280x720) [4876C56A].mkv
 incomplete/Amagami SS/[Eclipse] Amagami SS - 02 (1280x720) [409F0F7F].mkv
 incomplete/Amagami SS/[Eclipse] Amagami SS - 03 (1280x720) [283C6AF2].mkv
+incomplete/Amagami SS/[UTW] Amagami SS - 04 (1280x720) [AD539A08].mkv
 incomplete/Angel Heart/[Ani-Kraze] Angel Heart - 02 [A954E411].avi
 incomplete/Angel Heart/[Ani-Kraze] Angel Heart - 03 [CD2D52CA].avi
 incomplete/Angel Heart/[Ani-Kraze] Angel Heart - 04 [32C0C7F0].avi
@@ -536,6 +537,7 @@ incomplete/Detective Conan/[DCTP] Detective Conan - 577 (1280x720) [E5FC7B2B].mp
 incomplete/Detective Conan/[DCTP] Detective Conan - 578 (1280x720) [4F29D81D].mp4
 incomplete/Detective Conan/[DCTP] Detective Conan - 579 (1280x720) [FCD1AE48].mp4
 incomplete/Detective Conan/[DCTP] Detective Conan - 580 (1280x720) [D8A23606].mp4
+incomplete/Detective Conan/[DCTP] Detective Conan - 581 (1280x720) [4414B661].mp4
 incomplete/Detective Conan/[FBI] Detective Conan - 001 [Remastered][8548B1E5].mkv
 incomplete/Detective Conan/[GS] Detective Conan - 453 (1280x720) [v2][77E1DA00].mkv
 incomplete/Detective Conan/[Kienai-AZFS] Detective Conan - 261 [ED11012B].mp4
@@ -1004,6 +1006,7 @@ incomplete/Heroman/[HorribleSubs] Heroman - 13 (1280x720) [CF801D83].mkv
 incomplete/Heroman/[HorribleSubs] Heroman - 14 (1280x720) [A708186D].mkv
 incomplete/Heroman/[HorribleSubs] Heroman - 15 (1280x720) [9E24B23C].mkv
 incomplete/Heroman/[HorribleSubs] Heroman - 16 (1280x720) [0775443D].mkv
+incomplete/Heroman/[HorribleSubs] Heroman - 17 (1280x720) [0A32033D].mkv
 incomplete/Hetalia Axis Powers/[gg] Hetalia Axis Powers - 01 [DVD][E68B5765].mkv
 incomplete/Hetalia Axis Powers/[gg] Hetalia Axis Powers - 02 [DVD][23C618E5].mkv
 incomplete/Hetalia Axis Powers/[gg] Hetalia Axis Powers - 03 [DVD][018F3E7B].mkv
@@ -1610,6 +1613,7 @@ incomplete/Kuroshitsuji II/[Commie] Kuroshitsuji II - 01 [02A3640C].mkv
 incomplete/Kuroshitsuji II/[Commie] Kuroshitsuji II - 02 [CEF406B3].mkv
 incomplete/Kuroshitsuji II/[Shinsen-Subs] Kuroshitsuji II - 01 (1280x720) [697B0F43].mkv
 incomplete/Kuroshitsuji II/[Shinsen-Subs] Kuroshitsuji II - 02 (1280x720) [D617F202].mkv
+incomplete/Kuroshitsuji II/[Shinsen-Subs] Kuroshitsuji II - 03 (1280x720) [59639744].mkv
 incomplete/Kyou Kara Maou/[AonE Ani-Kraze] Kyou Kara Maou - 52 [F3C040AF].avi
 incomplete/Kyou Kara Maou/[AonE Ani-Kraze] Kyou Kara Maou - 53 [v2][13773816].avi
 incomplete/Kyou Kara Maou/[AonE Ani-Kraze] Kyou Kara Maou - 54 [CE38CBB8].avi
@@ -1833,6 +1837,7 @@ incomplete/Motto Ojamajo Doremi/[Doremi] Motto Ojamajo Doremi - 19 [894B40C0].av
 incomplete/Motto Ojamajo Doremi/[Doremi] Motto Ojamajo Doremi - 20 [73534105].avi
 incomplete/Motto Ojamajo Doremi/[Doremi] Motto Ojamajo Doremi - 21 [47648E96].avi
 incomplete/Motto Ojamajo Doremi/[Doremi] Motto Ojamajo Doremi - 22 [4B80D001].avi
+incomplete/Motto Ojamajo Doremi/[Doremi] Motto Ojamajo Doremi - 23 [21E98542].avi
 incomplete/Mouryou no Hako/[Aero] Mouryou no Hako - 01 (1280x720) [B1D69AB0].mkv
 incomplete/Mouryou no Hako/[Aero] Mouryou no Hako - 02 (1280x720) [v2][88995FB4].mkv
 incomplete/Mouryou no Hako/[Aero] Mouryou no Hako - 03 (1280x720) [v2][DEFA6F6E].mkv
@@ -1916,6 +1921,7 @@ incomplete/Natsu no Arashi - Akinai-chuu/[Commie] Natsu no Arashi - Akinai-chuu 
 incomplete/Natsu no Arashi - Akinai-chuu/[SFW-Shinji] Natsu no Arashi - Akinai-chuu - 01 [v2][D08BED07].mkv
 incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 01 [v2][E46F2A29].mkv
 incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 02 [754FE16D].mkv
+incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 03 [78D2C5C7].mkv
 incomplete/Occult Academy/[Commie] Occult Academy - 01 [v2][3BD9BD2D].mkv
 incomplete/Occult Academy/[Commie] Occult Academy - 02 [FCF0006A].mkv
 incomplete/Occult Academy/[HorribleSubs] Occult Academy - 01 (1280x720) [25EB55D4].mkv
@@ -2017,6 +2023,7 @@ incomplete/One Piece/[ADC-Elites] One Piece - 290 [57B4FC2E].avi
 incomplete/One Piece/[ADC-Elites] One Piece - 291 [8B891D98].avi
 incomplete/One Piece/[ADC-Elites] One Piece - 292 [A7C18986].avi
 incomplete/One Piece/[ADC-Elites] One Piece - 293 [1CB1364D].avi
+incomplete/One Piece/[AnimeSS] One Piece - 352 (1280x720) [F19461ED].mp4
 incomplete/One Piece/[INP] One Piece - 340 (1280x720) [F4672D6A].mp4
 incomplete/One Piece/[INP] One Piece - 341 (1280x720) [1D2C93BF].mp4
 incomplete/One Piece/[INP] One Piece - 342 (1280x720) [26E1E308].mp4
@@ -2319,6 +2326,7 @@ incomplete/One Piece/[K-F] One Piece - Special 1 [DVD][DF62ACA0].avi
 incomplete/One Piece/[K-F] One Piece - Special 2 [v2][DVD][03CFFEF6].avi
 incomplete/One Piece/[K-F] One Piece - Special 3 [DVD][6F259023].mp4
 incomplete/One Piece/[K-F] One Piece - Special 4 [DVD][0BE160AB].mp4
+incomplete/One Piece/[KubuSubs] One Piece - 398 (1280x720) [669AA1DE].mkv
 incomplete/One Piece/[N - F] One Piece - 373 (1280x720) [v2][3B87598E].mp4
 incomplete/One Piece/[N - F] One Piece - 374 (1280x720) [095EE70B].mp4
 incomplete/One Piece/[N - F] One Piece - 375 (1280x720) [05477C87].mp4
@@ -2327,6 +2335,9 @@ incomplete/One Piece/[N - F] One Piece - 377 (1280x720) [76FF96F0].mp4
 incomplete/One Piece/[N - F] One Piece - 378 (1280x720) [C81FCD6F].mp4
 incomplete/One Piece/[N - F] One Piece - 379 (1280x720) [4445DB80].mp4
 incomplete/One Piece/[N - F] One Piece - 380 (1280x720) [E4323E1B].mp4
+incomplete/One Piece/[UTSF] One Piece - 411 (1280x720) [6FEBFDF7].mp4
+incomplete/One Piece/[Unknown] One Piece - 385 (1280x720) [E2C5B5DC].mkv
+incomplete/One Piece/[V S] One Piece - 381 (1280x720) [0B865595].mkv
 incomplete/One Piece/[Vegapunk] One Piece - 294 (1280x720) [v2][34646F90].avi
 incomplete/One Piece/[Vegapunk] One Piece - 295 (1280x720) [v3][C89632C3].avi
 incomplete/One Piece/[Vegapunk] One Piece - 296 (1280x720) [5DE86559].avi
@@ -2376,6 +2387,8 @@ incomplete/One Piece/[Vegapunk] One Piece - 338 (1920x1080) [202C358F].mp4
 incomplete/One Piece/[Vegapunk] One Piece - 339 (1920x1080) [323539A1].mp4
 incomplete/One Piece/[Vegapunk] One Piece - Opening 7 (1280x720) [6B7F029D].mp4
 incomplete/One Piece/[Vegapunk] One Piece - Opening 8 (1280x720) [D45E5410].mp4
+incomplete/One Piece/[funisub] One Piece - 423 (1280x720) [F3AFD755].mkv
+incomplete/One Piece/[funisub] One Piece - 427 (1280x720) [37995359].mkv
 incomplete/One Piece/[yibis] One Piece - 382 (1280x720) [0BBDE856].mkv
 incomplete/One Piece/[yibis] One Piece - 383 (1280x720) [8E8A5EA0].mkv
 incomplete/One Piece/[yibis] One Piece - 384 (1280x720) [73C35167].mkv
@@ -2423,6 +2436,7 @@ incomplete/One Piece/[yibis] One Piece - 458 (1280x720) [7CB7D473].mkv
 incomplete/Ookami-san/[Mazui] Ookami-san - 01 [85C5D887].mkv
 incomplete/Ookami-san/[Mazui] Ookami-san - 02 [568FF795].mkv
 incomplete/Ookami-san/[Mazui] Ookami-san - 03 [9078B82B].mkv
+incomplete/Ookami-san/[Mazui] Ookami-san - 04 [AC1724F1].mkv
 incomplete/Patalliro/[aarinfantasy] Patalliro - 14 [B04ACEDC].avi
 incomplete/Perrine/[C1] Perrine - 01 [DD61EE37].avi
 incomplete/Perrine/[C1] Perrine - 02 [7D8E124B].avi
@@ -2461,54 +2475,6 @@ incomplete/Popolocrois Story/[A-BT-Pakapuka] PopoloCrois Story - 21 [10B31944].a
 incomplete/Popolocrois Story/[A-BT-Pakapuka] PopoloCrois Story - 22 [1CD068FE].avi
 incomplete/Popolocrois Story/[A-BT-Pakapuka] PopoloCrois Story - 23 [C7886995].avi
 incomplete/Popolocrois Story/[A-BT-Pakapuka] PopoloCrois Story - 24 [260E91CA].avi
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 01 [DVD][012996D3].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 02 [DVD][DC881F1F].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 03 [DVD][F2E1D739].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 04 [DVD][F00AA2AE].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 05 [DVD][4BC7233A].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 06 [DVD][82D23CFA].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 07 [DVD][7E52E57A].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 08 [DVD][AE0F9D35].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 09 [DVD][E37EC1B0].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 10 [DVD][A9E6FB74].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 11 [DVD][291106D2].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 12 [DVD][663D3ECA].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 13 [DVD][930DE4C8].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 14 [DVD][63A7185C].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 15 [DVD][A6BB4F30].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 16 [DVD][9338354B].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 17 [DVD][5FA4806F].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 18 [DVD][4A495122].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 19 [DVD][F9948638].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 20 [DVD][4CA53829].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 21 [DVD][7C71D27F].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 22 [DVD][3BF745F8].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 23 [DVD][4C8EBBC6].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 24 [DVD][49343682].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 25 [DVD][2BDBDDEF].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 26 [DVD][BED132F0].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 27 [DVD][E4D16C29].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 28 [DVD][FEA6ECDA].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 29 [DVD][CAB63DC9].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 30 [DVD][604F1377].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 31 [DVD][6DBFBB39].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 32 [DVD][5A8C57C2].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 33 [DVD][2AB0F19B].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 34 [DVD][29DF09FF].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 35 [DVD][880FB7B2].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 36 [DVD][F1702BE8].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 37 [DVD][84CA2498].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 38 [DVD][1456CA13].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 39 [DVD][FB6F35B8].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 40 [DVD][E6BE1A30].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 41 [DVD][FC902ADB].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 42 [DVD][E405A9BA].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 43 [DVD][F75F006C].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 44 [DVD][D15D25EF].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 45 [DVD][007F1103].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 46 [DVD][CB1A1E7E].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 47 [DVD][2BB78045].mkv
-incomplete/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 48 [DVD][9E4B5341].mkv
 incomplete/Prince of Tennis - Another Story OVA/[IP] Prince of Tennis - Another Story OVA - 1 [E77F84B8].avi
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 05 [1B8BEC0C].mkv
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 08 [69EF2B35].mkv
@@ -3224,10 +3190,3 @@ incomplete/Yutori-chan/[Yuurisan-Subs] Yutori-chan - 07 [Webrip][3A9D919B].mkv
 incomplete/Yutori-chan/[Yuurisan-Subs] Yutori-chan - 08 [Webrip][30F6D48F].mkv
 incomplete/Yutori-chan/[Yuurisan-Subs] Yutori-chan - 09 [Webrip][CD5CE1AE].mkv
 incomplete/Yutori-chan/[Yuurisan-Subs] Yutori-chan - 10 [Webrip][7F780B3C].mkv
-incomplete/hack SIGN/[KAA] hack SIGN - 01 [DVD][10234CD2].mkv
-incomplete/hack SIGN/[KAA] hack SIGN - 02 [DVD][E9EF51A7].mkv
-incomplete/hack SIGN/[KAA] hack SIGN - 03 [DVD][B79B6E0F].mkv
-incomplete/hack SIGN/[KAA] hack SIGN - 04 [DVD][84D1D2DF].mkv
-incomplete/hack SIGN/[KAA] hack SIGN - 05 [DVD][A552889C].mkv
-incomplete/hack SIGN/[KAA] hack SIGN - 06 [DVD][A2500BE4].mkv
-incomplete/hack SIGN/[KAA] hack SIGN - 07 [DVD][EECFC015].mkv
