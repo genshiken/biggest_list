@@ -44,6 +44,7 @@ incomplete/Akahori Gedou Hour Rabuge/[Himitsu] Akahori Gedou Hour Rabuge - 11 [6
 incomplete/Amagami SS/[Eclipse] Amagami SS - 01 (1280x720) [4876C56A].mkv
 incomplete/Amagami SS/[Eclipse] Amagami SS - 02 (1280x720) [409F0F7F].mkv
 incomplete/Amagami SS/[Eclipse] Amagami SS - 03 (1280x720) [283C6AF2].mkv
+incomplete/Amagami SS/[Eclipse] Amagami SS - 04 (1280x720) [9439459B].mkv
 incomplete/Amagami SS/[UTW] Amagami SS - 04 (1280x720) [AD539A08].mkv
 incomplete/Angel Heart/[Ani-Kraze] Angel Heart - 02 [A954E411].avi
 incomplete/Angel Heart/[Ani-Kraze] Angel Heart - 03 [CD2D52CA].avi
@@ -1267,6 +1268,7 @@ incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 12 (1280x720) [
 incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 13 (1280x720) [606E6108].mkv
 incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 14 (1280x720) [4F034DDF].mkv
 incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 15 (1280x720) [D9518632].mkv
+incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 16 (1280x720) [61EF13A9].mkv
 incomplete/Kamichama Karin/[Kedex] Kamichama Karin - 01 [77A49DFF].avi
 incomplete/Kamichama Karin/[Kedex] Kamichama Karin - 02 [4D18F7AF].avi
 incomplete/Kamichama Karin/[Kedex] Kamichama Karin - 03 [40DD32D9].avi
@@ -3007,7 +3009,11 @@ incomplete/Turn-A Gundam/[EG] Turn-A Gundam - 35 [1AC6F359].mkv
 incomplete/Turn-A Gundam/[EG] Turn-A Gundam - 36 [7B24FEB1].mkv
 incomplete/Turn-A Gundam/[EG] Turn-A Gundam - 37 [4020F73E].mkv
 incomplete/Turn-A Gundam/[EG] Turn-A Gundam - 38 [1EDBE7C3].mkv
+incomplete/Turn-A Gundam/[EG] Turn-A Gundam - 39 [40C96CC0].mkv
+incomplete/Turn-A Gundam/[EG] Turn-A Gundam - 40 [42EF0FD3].mkv
+incomplete/Turn-A Gundam/[EG] Turn-A Gundam - Ending 2 [67AFB4C3].mkv
 incomplete/Turn-A Gundam/[EG] Turn-A Gundam - Ending [v2][39333AE4].mkv
+incomplete/Turn-A Gundam/[EG] Turn-A Gundam - Opening 2 [9F95DB7D].mkv
 incomplete/Turn-A Gundam/[EG] Turn-A Gundam - Opening [v2][2640070C].mkv
 incomplete/Ukkari Penelope (2009)/[BSS] Ukkari Penelope (2009) - 15 [3A2849A0].mkv
 incomplete/Ukkari Penelope (2009)/[BSS] Ukkari Penelope (2009) - 16 [EB8E980B].mkv
