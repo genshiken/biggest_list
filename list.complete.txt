@@ -376,8 +376,6 @@ complete/a/Amatsuki/[Ureshii] Amatsuki - 11 [B0E19FB4].mkv
 complete/a/Amatsuki/[Ureshii] Amatsuki - 12 [C941FD0A].mkv
 complete/a/Amatsuki/[Ureshii] Amatsuki - 13 [End][33949FB4].mkv
 complete/a/Angel Beats! - Special/[Tortoise-Commie] Angel Beats! - Special [A423213C].mkv
-complete/a/Angel Beats!/[Mazui] Angel Beats! - 10 [8620A891].mkv
-complete/a/Angel Beats!/[Mazui] Angel Beats! - 11 [0BB1404F].mkv
 complete/a/Angel Beats!/[Mazui] Angel Beats! - 12 [234F6A36].mkv
 complete/a/Angel Beats!/[Mazui] Angel Beats! - 13 [End][22F46E66].mkv
 complete/a/Angel Beats!/[SS] Angel Beats! - 01 (1280x720) [9B213376].mkv
@@ -389,6 +387,8 @@ complete/a/Angel Beats!/[SS] Angel Beats! - 06 (1280x720) [A01DDBD8].mkv
 complete/a/Angel Beats!/[SS] Angel Beats! - 07 (1280x720) [AF6C20D3].mkv
 complete/a/Angel Beats!/[SS] Angel Beats! - 08 (1280x720) [57D2BEA8].mkv
 complete/a/Angel Beats!/[SS] Angel Beats! - 09 (1280x720) [882C4613].mkv
+complete/a/Angel Beats!/[SS] Angel Beats! - 10 (1280x720) [D62F78A6].mkv
+complete/a/Angel Beats!/[SS] Angel Beats! - 11 (1280x720) [638A01A9].mkv
 complete/a/Angel Beats!/[UTW] Angel Beats! - 01 (1920x1080) [BD][6B6D6A0A].mkv
 complete/a/Angel Beats!/[UTW] Angel Beats! - 02 (1920x1080) [BD][581C8EA8].mkv
 complete/a/Angelique - Kagayaki no Ashita OVA/[SMS] Angelique - Kagayaki no Ashita - OVA [761AC663].mkv
@@ -1038,6 +1038,7 @@ complete/b/Black Lagoon/[Shinsen-Subs] Black Lagoon - 21 [70FB57B3].avi
 complete/b/Black Lagoon/[Shinsen-Subs] Black Lagoon - 22 [D6AD560D].avi
 complete/b/Black Lagoon/[Shinsen-Subs] Black Lagoon - 23 [81A371C0].avi
 complete/b/Black Lagoon/[Shinsen-Subs] Black Lagoon - 24 [End][CC4D0823].avi
+complete/b/Black Rock Shooter OVA/[gg] Black Rock Shooter OVA Abridged [8849D2A8].mkv
 complete/b/Blade of the Immortal/[Arigatou] Blade of the Immortal - 01 [078A24B1].mkv
 complete/b/Blade of the Immortal/[Arigatou] Blade of the Immortal - 02 [B6C36316].mkv
 complete/b/Blade of the Immortal/[Arigatou] Blade of the Immortal - 03 [8333A174].mkv
@@ -9266,6 +9267,7 @@ complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 02 (12
 complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 03 (1280x720) [BD][61A21085].mkv
 complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 04 (1280x720) [BD][8BB429C7].mkv
 complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 05 (1280x720) [BD][D4367B07].mkv
+complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 06 (1280x720) [BD][702FDE3A].mkv
 complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - Ending (Clean) (1280x720) [BD][438C246F].mp4
 complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - Opening (Clean) (1280x720) [BD][FC94590D].mp4
 complete/r/Rosario + Vampire/[Seto Otaku] Rosario + Vampire - 01 (1280x720) [BD][D9FC1CEF].mkv
