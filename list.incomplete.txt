@@ -161,8 +161,8 @@ incomplete/Ask Dr. Rin!/[HnK & L-E] Ask Dr. Rin! - 08 [7001DA65].avi
 incomplete/Ask Dr. Rin!/[HnK & L-E] Ask Dr. Rin! - 09 [69294171].avi
 incomplete/Ask Dr. Rin!/[HnK & L-E] Ask Dr. Rin! - 10 [23C37344].avi
 incomplete/Ask Dr. Rin!/[HnK & L-E] Ask Dr. Rin! - 11 [580BE701].avi
-incomplete/Asobi ni Iku Yo!/[Ayako-SubDESU] Asobi ni Iku Yo! - 02 (1280x720) [8E7C13F5].mkv
 incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 01 [v3][079EFF6D].mkv
+incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 02 [4796E9B8].mkv
 incomplete/Astro Fighter Sunred/[ANBU] Astro Fighter Sunred - 01 [170751D6].mkv
 incomplete/Astro Fighter Sunred/[ANBU] Astro Fighter Sunred - 02 [B22B9E90].mkv
 incomplete/Astro Fighter Sunred/[ANBU] Astro Fighter Sunred - 03 [4A5E438E].mkv
@@ -1620,6 +1620,8 @@ incomplete/Kurenai OVA/[Commie] Kurenai OVA - 01 [F08AFC06].mkv
 incomplete/Kurenai OVA/[gleam] Kurenai OVA - 01 [0E73F000].mkv
 incomplete/Kuroshitsuji II/[Commie] Kuroshitsuji II - 01 [02A3640C].mkv
 incomplete/Kuroshitsuji II/[Commie] Kuroshitsuji II - 02 [CEF406B3].mkv
+incomplete/Kuroshitsuji II/[Commie] Kuroshitsuji II - 03 [4A8CBF85].​mkv
+incomplete/Kuroshitsuji II/[Commie] Kuroshitsuji II - 04 [3D9B302B].mkv
 incomplete/Kuroshitsuji II/[Shinsen-Subs] Kuroshitsuji II - 01 (1280x720) [697B0F43].mkv
 incomplete/Kuroshitsuji II/[Shinsen-Subs] Kuroshitsuji II - 02 (1280x720) [D617F202].mkv
 incomplete/Kuroshitsuji II/[Shinsen-Subs] Kuroshitsuji II - 03 (1280x720) [59639744].mkv
@@ -1937,6 +1939,7 @@ incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 02 [754FE16D].mkv
 incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 03 [78D2C5C7].mkv
 incomplete/Occult Academy/[Commie] Occult Academy - 01 [v2][3BD9BD2D].mkv
 incomplete/Occult Academy/[Commie] Occult Academy - 02 [FCF0006A].mkv
+incomplete/Occult Academy/[Commie] Occult Academy - 03 [E736AFE0].mkv
 incomplete/Occult Academy/[HorribleSubs] Occult Academy - 01 (1280x720) [25EB55D4].mkv
 incomplete/Occult Academy/[HorribleSubs] Occult Academy - 03 (1280x720) [50414C67].mkv
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 01 [3A853D01].avi
@@ -2694,19 +2697,8 @@ incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 02 (1024x576) [9
 incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 01 (1280x720) [804D1CBC].mkv
 incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 02 (1280x720) [826D5501].mkv
 incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - 01 [BD8BC276].mkv
-incomplete/Sengoku Basara/[Frostii] Sengoku Basara - 01 (1280x720) [v3][225E93B1].mkv
-incomplete/Sengoku Basara/[Frostii] Sengoku Basara - 02 (1280x720) [v2][AD5B8F22].mkv
-incomplete/Sengoku Basara/[Frostii] Sengoku Basara - 03 (1280x720) [BD840EAC].mkv
-incomplete/Sengoku Basara/[Pretentious] Sengoku Basara - 13 [2C91C679].mkv
-incomplete/Sengoku Basara/[gSS] Sengoku Basara - 04 [8C836004].mkv
-incomplete/Sengoku Basara/[gSS] Sengoku Basara - 05 [179A9A9F].mkv
-incomplete/Sengoku Basara/[gSS] Sengoku Basara - 06 [016EAAE3].mkv
-incomplete/Sengoku Basara/[gSS] Sengoku Basara - 07 [0DCBAB42].mkv
-incomplete/Sengoku Basara/[gSS] Sengoku Basara - 08 [F50B237C].mkv
-incomplete/Sengoku Basara/[gSS] Sengoku Basara - 09 [7303DB0A].mkv
-incomplete/Sengoku Basara/[gSS] Sengoku Basara - 10 [FFAEFE7D].mkv
-incomplete/Sengoku Basara/[gg] Sengoku Basara - 11 [1790506A].mkv
-incomplete/Sengoku Basara/[gg] Sengoku Basara - 12 [62BACAD4].mkv
+incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - 02 [93B0D6D5].mkv
+incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - Opening [F8076451].mkv
 incomplete/Senkou no Night Raid/[Commie] Senkou no Night Raid - 01 [D5EE9405].mkv
 incomplete/Senkou no Night Raid/[KnKF-Conclave] Senkou no Night Raid - 01 (1280x720) [CA953645].mkv
 incomplete/Senkou no Night Raid/[Pretentious] Senkou no Night Raid - 01 [96291A0C].mkv
@@ -2860,6 +2852,7 @@ incomplete/Tales of Symphonia - OVA - Tethe'alla/[Formula] Tales of Symphonia - 
 incomplete/The Legend of the Legendary Heroes/[Commie] The Legend of the Legendary Heroes - 01 [v2][2972390D].mkv
 incomplete/The Legend of the Legendary Heroes/[Commie] The Legend of the Legendary Heroes - 02 [v2][AE5AACC7].mkv
 incomplete/The Legend of the Legendary Heroes/[Commie] The Legend of the Legendary Heroes - 03 [F9410F5A].mkv
+incomplete/The Legend of the Legendary Heroes/[Commie] The Legend of the Legendary Heroes - 04 [7288D664].mkv
 incomplete/The Melancholy of Haruhi Suzumiya S2/[CoalGG] The Melancholy of Haruhi Suzumiya S2 - 01 [v2][A905C5A6].mkv
 incomplete/The Melancholy of Haruhi Suzumiya S2/[a.f.k.] The Melancholy of Haruhi Suzumiya S2 - 02 [074EF365].avi
 incomplete/The Melancholy of Haruhi Suzumiya S2/[a.f.k.] The Melancholy of Haruhi Suzumiya S2 - 03 [F6D1A015].avi

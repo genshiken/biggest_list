@@ -89,6 +89,19 @@ complete/a/Ah My Goddess/[AonE-AnY] Ah My Goddess - 22 [F0AED01C].avi
 complete/a/Ah My Goddess/[AonE-AnY] Ah My Goddess - 23 [6F661999].avi
 complete/a/Ah My Goddess/[AonE-AnY] Ah My Goddess - 24 [End][7EADC927].avi
 complete/a/Ai Yori Aoshi - Special/[KAA] Ai Yori Aoshi - Dream Story [DVD][CEBADCA7].mkv
+complete/a/Ai Yori Aoshi Enishi/[Exiled-Destiny] Ai Yori Aoshi Enishi - 00 [B86C85A7].mkv
+complete/a/Ai Yori Aoshi Enishi/[Exiled-Destiny] Ai Yori Aoshi Enishi - 01 [9F1F79E8].mkv
+complete/a/Ai Yori Aoshi Enishi/[Exiled-Destiny] Ai Yori Aoshi Enishi - 02 [E46446E2].mkv
+complete/a/Ai Yori Aoshi Enishi/[Exiled-Destiny] Ai Yori Aoshi Enishi - 03 [C77F3B71].mkv
+complete/a/Ai Yori Aoshi Enishi/[Exiled-Destiny] Ai Yori Aoshi Enishi - 04 [3FFA2637].mkv
+complete/a/Ai Yori Aoshi Enishi/[Exiled-Destiny] Ai Yori Aoshi Enishi - 05 [5B0EC686].mkv
+complete/a/Ai Yori Aoshi Enishi/[Exiled-Destiny] Ai Yori Aoshi Enishi - 06 [024D018E].mkv
+complete/a/Ai Yori Aoshi Enishi/[Exiled-Destiny] Ai Yori Aoshi Enishi - 07 [199BCD5B].mkv
+complete/a/Ai Yori Aoshi Enishi/[Exiled-Destiny] Ai Yori Aoshi Enishi - 08 [6760C332].mkv
+complete/a/Ai Yori Aoshi Enishi/[Exiled-Destiny] Ai Yori Aoshi Enishi - 09 [737077B6].mkv
+complete/a/Ai Yori Aoshi Enishi/[Exiled-Destiny] Ai Yori Aoshi Enishi - 10 [931020CB].mkv
+complete/a/Ai Yori Aoshi Enishi/[Exiled-Destiny] Ai Yori Aoshi Enishi - 11 [FBC1FE28].mkv
+complete/a/Ai Yori Aoshi Enishi/[Exiled-Destiny] Ai Yori Aoshi Enishi - 12 [End][09AD2259].mkv
 complete/a/Ai Yori Aoshi/[KAA] Ai Yori Aoshi - 01 [v2][DVD][28C4404B].mkv
 complete/a/Ai Yori Aoshi/[KAA] Ai Yori Aoshi - 02 [DVD][CDD11F1F].mkv
 complete/a/Ai Yori Aoshi/[KAA] Ai Yori Aoshi - 03 [v2][DVD][BB0D3CE1].mkv
@@ -4042,18 +4055,14 @@ complete/g/Gundam ZZ/[EG] Gundam ZZ - 26 (960x720) [BD][DE27043E].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - 27 (960x720) [BD][D9ED27C2].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - 28 (960x720) [BD][E6273CB9].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - 29 (960x720) [BD][846997B2].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 30 (960x720) [BD][E31F64DD].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 31 (960x720) [BD][E95EB024].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - Ending 1 (960x720) [357CA372].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - Ending 3 (960x720) [BD][72253889].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - Opening 1 (960x720) [C9AE9CA8].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - Opening 2 (960x720) [30E09188].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - Opening 3 (960x720) [BD][2444206B].mkv
 complete/g/Gundam ZZ/[HL] Gundam ZZ - 00 [9A993385].mkv
-complete/g/Gundam ZZ/[HL] Gundam ZZ - 26 [2C28E516].mkv
-complete/g/Gundam ZZ/[HL] Gundam ZZ - 27 [426D0992].mkv
-complete/g/Gundam ZZ/[HL] Gundam ZZ - 28 [49A2B7BE].mkv
-complete/g/Gundam ZZ/[HL] Gundam ZZ - 29 [517F77D6].mkv
-complete/g/Gundam ZZ/[HL] Gundam ZZ - 30 [7487B08E].mkv
-complete/g/Gundam ZZ/[HL] Gundam ZZ - 31 [E7341F58].mkv
 complete/g/Gundam ZZ/[HL] Gundam ZZ - 32 [5BE9DD38].mkv
 complete/g/Gundam ZZ/[HL] Gundam ZZ - 33 [2B7DAE9E].mkv
 complete/g/Gundam ZZ/[HL] Gundam ZZ - 34 [9CE8CD0C].mkv
@@ -9844,6 +9853,19 @@ complete/s/Sekirei/[Retrofit Titanium Chihiro] Sekirei - 09 [DVD][DE3954B8].mkv
 complete/s/Sekirei/[Retrofit Titanium Chihiro] Sekirei - 10 [DVD][94D67F91].mkv
 complete/s/Sekirei/[Retrofit Titanium Chihiro] Sekirei - 11 [v2][DVD][CE101ECB].mkv
 complete/s/Sekirei/[Retrofit Titanium Chihiro] Sekirei - 12 [End][v2][DVD][FDA86FCE].mkv
+complete/s/Sengoku Basara/[Frostii] Sengoku Basara - 01 (1280x720) [v3][225E93B1].mkv
+complete/s/Sengoku Basara/[Frostii] Sengoku Basara - 02 (1280x720) [v2][AD5B8F22].mkv
+complete/s/Sengoku Basara/[Frostii] Sengoku Basara - 03 (1280x720) [BD840EAC].mkv
+complete/s/Sengoku Basara/[Pretentious] Sengoku Basara - 13 [End][2C91C679].mkv
+complete/s/Sengoku Basara/[gSS] Sengoku Basara - 04 [8C836004].mkv
+complete/s/Sengoku Basara/[gSS] Sengoku Basara - 05 [179A9A9F].mkv
+complete/s/Sengoku Basara/[gSS] Sengoku Basara - 06 [016EAAE3].mkv
+complete/s/Sengoku Basara/[gSS] Sengoku Basara - 07 [0DCBAB42].mkv
+complete/s/Sengoku Basara/[gSS] Sengoku Basara - 08 [F50B237C].mkv
+complete/s/Sengoku Basara/[gSS] Sengoku Basara - 09 [7303DB0A].mkv
+complete/s/Sengoku Basara/[gSS] Sengoku Basara - 10 [FFAEFE7D].mkv
+complete/s/Sengoku Basara/[gg] Sengoku Basara - 11 [1790506A].mkv
+complete/s/Sengoku Basara/[gg] Sengoku Basara - 12 [62BACAD4].mkv
 complete/s/Seto no Hanayome OVA/[Seto Otaku] Seto no Hanayome OVA - 1 [v2][DVD][4EB08EF7].mkv
 complete/s/Seto no Hanayome OVA/[Seto Otaku] Seto no Hanayome OVA - 2 [End][DVD][38603DCD].mkv
 complete/s/Seto no Hanayome OVA/[Seto Otaku] Seto no Hanayome OVA - Ending (Clean) [DVD][A85BA652].mp4
