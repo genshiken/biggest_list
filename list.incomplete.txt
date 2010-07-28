@@ -281,6 +281,7 @@ incomplete/Bleach/[HorribleSubs] Bleach - 277 (1280x720) [B2CEEF8B].mkv
 incomplete/Bleach/[HorribleSubs] Bleach - 278 (1280x720) [78647DA0].mkv
 incomplete/Bleach/[HorribleSubs] Bleach - 279 (1280x720) [683311D5].mkv
 incomplete/Bleach/[HorribleSubs] Bleach - 280 (1280x720) [7A856EC8].mkv
+incomplete/Bleach/[HorribleSubs] Bleach - 281 (1280x720) [03CFC148].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 01 [AFCE3665].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 02 [A90F670C].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 03 [A47F2053].mkv
@@ -656,6 +657,7 @@ incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 13 (1280x720) [D4CD1F35].mkv
 incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 14 (1280x720) [1999A9F7].mkv
 incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 18 (1280x720) [590C1B9C].mkv
 incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 38 (1280x720) [9B387F70].mkv
+incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 39 (1280x720) [48D0872A].mkv
 incomplete/Fairy Tail/[Mamiko] Fairy Tail - 01 [0307DF54].mkv
 incomplete/Fairy Tail/[Mamiko] Fairy Tail - 02 [531F9793].mkv
 incomplete/Fairy Tail/[Mamiko] Fairy Tail - 03 [C7677EC8].mkv
@@ -723,6 +725,7 @@ incomplete/Gintama/[HorribleSubs] Gintama - 193 [720E02D2].mkv
 incomplete/Gintama/[Rumbel-Nakama] Gintama - 137 [BD798DCD].mkv
 incomplete/Gintama/[Rumbel-Nakama] Gintama - 138 [F6ACE39F].mkv
 incomplete/Gintama/[Rumbel-Nakama] Gintama - 139 [0E3BE8F4].mkv
+incomplete/Gintama/[Rumbel-Nakama] Gintama - 140 [26DFB28E].mkv
 incomplete/Gintama/[Rumbel-sMi] Gintama - 068 [0F52624F].mkv
 incomplete/Gintama/[Rumbel-sMi] Gintama - 069 [3A9CE0EC].mkv
 incomplete/Gintama/[Rumbel-sMi] Gintama - 070 [5F0520D8].mkv
@@ -1082,9 +1085,9 @@ incomplete/Hetalia World Series/[Rumbel] Hetalia World Series - 13 [F2CAE29C].mk
 incomplete/Hetalia World Series/[Rumbel] Hetalia World Series - 14 [847303AB].mkv
 incomplete/Hetalia World Series/[Rumbel] Hetalia World Series - 15 [EAA6A88E].mkv
 incomplete/Hetalia World Series/[Rumbel] Hetalia World Series - 16 [36618177].mkv
-incomplete/High School of the Dead/[Commie] High School of the Dead - 01 [v2][4E28B6B4].mkv
-incomplete/High School of the Dead/[Commie] High School of the Dead - 02 [v2][1834BB83].mkv
-incomplete/High School of the Dead/[Commie] High School of the Dead - 03 [5BF91A30].mkv
+incomplete/High School of the Dead/[gg] High School of the Dead - 01 [v2][CC80766D].mkv
+incomplete/High School of the Dead/[gg] High School of the Dead - 02 [CE57D321].mkv
+incomplete/High School of the Dead/[gg] High School of the Dead - 03 [v2][56C9F2B7].mkv
 incomplete/High School of the Dead/[gg] High School of the Dead - 04 [30154FD5].mkv
 incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[Chihiro] Hime Chen! Otogi Chikku Idol Lilpri - 01 (1280x720) [10115E01].mkv
 incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[Chihiro] Hime Chen! Otogi Chikku Idol Lilpri - 02 (1280x720) [10115E02].mkv
@@ -1780,6 +1783,7 @@ incomplete/Major S6/[umai] Major S6 - 13 [1821D448].mkv
 incomplete/Major S6/[umai] Major S6 - 14 [6A06BA34].mkv
 incomplete/Major S6/[umai] Major S6 - 15 [65C27BFA].mkv
 incomplete/Major S6/[umai] Major S6 - 16 [3EE32BEB].mkv
+incomplete/Major S6/[umai] Major S6 - 17 [FC2B05DB].mkv
 incomplete/Maple Story/[Ashes-WIW] Maple Story - 01 [5B1872E3].mkv
 incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 09.5 (1280x720) [14DEFFF1].mkv
 incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 10 (1280x720) [2EE10D6A].mkv
@@ -1942,6 +1946,7 @@ incomplete/Occult Academy/[Commie] Occult Academy - 02 [FCF0006A].mkv
 incomplete/Occult Academy/[Commie] Occult Academy - 03 [E736AFE0].mkv
 incomplete/Occult Academy/[HorribleSubs] Occult Academy - 01 (1280x720) [25EB55D4].mkv
 incomplete/Occult Academy/[HorribleSubs] Occult Academy - 03 (1280x720) [50414C67].mkv
+incomplete/Occult Academy/[HorribleSubs] Occult Academy - 04 (1280x720) [F25ADDDF].mkv
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 01 [3A853D01].avi
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 02 [08A1F4E5].avi
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 03 [A66358B8].avi

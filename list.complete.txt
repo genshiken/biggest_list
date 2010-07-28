@@ -8414,7 +8414,6 @@ complete/o/Ookamikakushi/[gg] Ookamikakushi - 08 [42451F99].mkv
 complete/o/Ookamikakushi/[gg] Ookamikakushi - 09 [64FD4DEA].mkv
 complete/o/Ookamikakushi/[gg] Ookamikakushi - 10 [A6526019].mkv
 complete/o/Ookamikakushi/[gg] Ookamikakushi - 11 [CC4DD2EE].mkv
-complete/o/Ookiku Furikabutte S2/[Central Anime] Ookiku Furikabutte S2 - 09 [BD841253].mkv
 complete/o/Ookiku Furikabutte S2/[Central Anime] Ookiku Furikabutte S2 - 10 [C719ABE3].mkv
 complete/o/Ookiku Furikabutte S2/[Central Anime] Ookiku Furikabutte S2 - 11 [E66959C9].mkv
 complete/o/Ookiku Furikabutte S2/[Central Anime] Ookiku Furikabutte S2 - 12 [CA7830F4].mkv
@@ -8427,6 +8426,7 @@ complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 05 [v2][15ADE4
 complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 06 [A328BECE].mkv
 complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 07 [71AD185B].mkv
 complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 08 [0BAB8DAC].mkv
+complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 09 [8E86ED07].mkv
 complete/o/Ookiku Furikabutte/[Central Anime] Ookiku Furikabutte - 14 [WS][69EFBA74].avi
 complete/o/Ookiku Furikabutte/[Central Anime] Ookiku Furikabutte - 15 [WS][29EA70CE].avi
 complete/o/Ookiku Furikabutte/[Central Anime] Ookiku Furikabutte - 16 [WS][F009F5C1].avi
@@ -12270,7 +12270,7 @@ complete/w/Working!!/[Himatsubushi] Working!! - 11 [5D164F08].mkv
 complete/w/Working!!/[Himatsubushi] Working!! - 13 [End][5AE519C5].mkv
 complete/w/Working!!/[SHiN-gx] Working!! - 01 [DVD][B4E8CBC0].mkv
 complete/w/Working!!/[SHiN-gx] Working!! - 02 [DVD][053BAC1C].mkv
-complete/w/Working!!/[SHiN-gx] Working!! - 03 [8FDC7FF9].mkv
+complete/w/Working!!/[SHiN-gx] Working!! - 03 [DVD][4B8D9505].mkv
 complete/w/Working!!/[SHiN-gx] Working!! - 04 [1E20442D].mkv
 complete/w/Working!!/[SHiN-gx] Working!! - 05 [828CD764].mkv
 complete/w/World Destruction/[Osu!] World Destruction - 01 (1280x720) [84AF69E2].mkv
