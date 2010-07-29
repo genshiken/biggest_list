@@ -675,6 +675,7 @@ incomplete/Fairy Tail/[Ryugan] Fairy Tail - 18 (1280x720) [v2][BFB8E2B3].mkv
 incomplete/Fairy Tail/[Ryugan] Fairy Tail - 33 (1280x720) [5728F0BA].mkv
 incomplete/Fairy Tail/[Ryugan] Fairy Tail - 35 (1280x720) [B9639469].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 01 [DVD][B9677652].mkv
+incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 07 [07F8EB78].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 34 [HD][FDDA9130].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - Ending 1 [DVD][7713EB8D].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - Opening 1 [DVD][90EB43BB].mkv
@@ -881,6 +882,7 @@ incomplete/Golgo 13/[BSS] Golgo 13 - 15 [CF0D6C2C].mkv
 incomplete/Golgo 13/[Doutei] Golgo 13 - 31 [500DC855].mkv
 incomplete/Golgo 13/[Doutei] Golgo 13 - 32 [346157C3].mkv
 incomplete/Golgo 13/[Doutei] Golgo 13 - 33 [52669673].mkv
+incomplete/Golgo 13/[Doutei] Golgo 13 - 34 [207E15F7].mkv
 incomplete/Golgo 13/[fucmnack] Golgo 13 - 18 (1280x720) [9613CDC3].mkv
 incomplete/Golgo 13/[fucmnack] Golgo 13 - 19 (1280x720) [0B9C4756].mkv
 incomplete/Golgo 13/[fucmnack] Golgo 13 - 20 (1280x720) [3B9F601A].mkv
@@ -1516,6 +1518,7 @@ incomplete/Keroro Gunsou/[Keroro] Keroro Gunsou - 125 [160088E5].avi
 incomplete/Keroro Gunsou/[Keroro] Keroro Gunsou - 126 [3BF553CF].avi
 incomplete/Keroro Gunsou/[Keroro] Keroro Gunsou - 127 [94923A21].avi
 incomplete/Keroro Gunsou/[Keroro] Keroro Gunsou - 128 [53921C4E].avi
+incomplete/Keroro Gunsou/[Keroro] Keroro Gunsou - 129 [EC2FF911].avi
 incomplete/Keroro Gunsou/[Soldats-UA] Keroro Gunsou - 001 [F0259E04].avi
 incomplete/Keroro Gunsou/[Soldats-UA] Keroro Gunsou - 002 [286F48DF].avi
 incomplete/Keroro Gunsou/[Soldats-UA] Keroro Gunsou - 003 [955A0A59].avi
@@ -1616,6 +1619,7 @@ incomplete/Kiss x Sis - OAD/[SS-BBS] Kiss x Sis - OAD - 02 [8B1ABBB1].mkv
 incomplete/Kodomo no Jikan 2nd Term/[Jisatsu-Underwater] Kodomo no Jikan 2nd Term - 02 [9CB83832].mkv
 incomplete/Kodomo no Jikan 2nd Term/[SFW] Kodomo no Jikan 2nd Term - 03 [DVD][12482517].mkv
 incomplete/Kodomo no Jikan 2nd Term/[Underwater] Kodomo no Jikan 2nd Term - 01 [ED788AC6].mkv
+incomplete/Koisuru Boukun OVA/[aarinfantasy] Koisuru Boukun OVA - 1 [DD397B27].avi
 incomplete/Konjiki no Gash Bell (1-107,110+)/[A-Destiny] Konjiki no Gash Bell - 108 [0951D906].mp4
 incomplete/Konjiki no Gash Bell (1-107,110+)/[A-Destiny] Konjiki no Gash Bell - 109 [43537A2A].mp4
 incomplete/Konjiki no Gash Bell - OVA/[A-Destiny] Konjiki no Gash Bell - OVA 1 [C681146F].mp4
@@ -2515,6 +2519,7 @@ incomplete/Rainbow/[FroZen] Rainbow - 07 [7CF9A805].mkv
 incomplete/Rainbow/[FroZen] Rainbow - 08 [13F3C9BD].mkv
 incomplete/Rainbow/[FroZen] Rainbow - 09 [50E35889].mkv
 incomplete/Rainbow/[FroZen] Rainbow - 10 [43C5958F].mkv
+incomplete/Rainbow/[FroZen] Rainbow - 11 [A588487A].mkv
 incomplete/Reform Without Wasted Draws - The Legend of Koizumi/[gg] Reform Without Wasted Draws - The Legend of Koizumi - 01 [Webcast][61B04813].mkv
 incomplete/Ristorante Paradiso/[Frostii] Ristorante Paradiso - 01 (1280x720) [35044B77].mkv
 incomplete/Ristorante Paradiso/[Frostii] Ristorante Paradiso - 02 (1280x720) [97D2CC70].mkv
@@ -2697,12 +2702,14 @@ incomplete/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 15 [v0][8431992C].mk
 incomplete/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 16 [v0][C5295687].mkv
 incomplete/Seitokai Yakuindomo/[Ayako] Seitokai Yakuindomo - 02 [DFBD72EB].mkv
 incomplete/Seitokai Yakuindomo/[Ayako] Seitokai Yakuindomo - 03 (1280x720) [40BA8F75].mkv
+incomplete/Seitokai Yakuindomo/[Ayako] Seitokai Yakuindomo - 04 (1280x720) [3FF68852].mkv
 incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 01 (1024x576) [v2][383FD033].mkv
 incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 02 (1024x576) [942D6FB9].mkv
 incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 01 (1280x720) [804D1CBC].mkv
 incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 02 (1280x720) [826D5501].mkv
 incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - 01 [BD8BC276].mkv
 incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - 02 [93B0D6D5].mkv
+incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - 03 [127DB50F].mkv
 incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - Opening [F8076451].mkv
 incomplete/Senkou no Night Raid/[Commie] Senkou no Night Raid - 01 [D5EE9405].mkv
 incomplete/Senkou no Night Raid/[KnKF-Conclave] Senkou no Night Raid - 01 (1280x720) [CA953645].mkv

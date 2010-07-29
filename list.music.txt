@@ -395,6 +395,7 @@ music/Nipponsei/[Nipponsei] Demashitaa Powerpuff Girls Z ED4 Single - Himawari [
 music/Nipponsei/[Nipponsei] Demashitaa! Powerpuff Girls Z ED Single - Mayonaka no Door [Yifei].zip
 music/Nipponsei/[Nipponsei] Demashitaa! Powerpuff Girls Z OP Single - Kibou no Kakera [Kitade Nana].zip
 music/Nipponsei/[Nipponsei] Dennou Coil Original Soundtrack.zip
+music/Nipponsei/[Nipponsei] Densetsu no Yuusha no Densetsu OP Single - LAMENT ~Yagate Yorokobi wo~ [Yuuki Aira].zip
 music/Nipponsei/[Nipponsei] Doujin Work ED Single - Yumemiru Otome [Mizubashi Mai].zip
 music/Nipponsei/[Nipponsei] Doujin Work OP Single - I jan Yuujou [MAKI].zip
 music/Nipponsei/[Nipponsei] Dragonaut -THE RESSONANCE- ED Single - Rain of Love [Fukui Yukari].zip
@@ -696,6 +697,7 @@ music/Nipponsei/[Nipponsei] OVER DRIVE OP Single - WINDER Boku wa Koko ni iru [S
 music/Nipponsei/[Nipponsei] Odin Sphere Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Oh Edo Rocket Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] One Piece OP9 Single - Jungle P [5050].zip
+music/Nipponsei/[Nipponsei] Ookami-san to Shichinin no Nakama-tachi OP Single - Ready Go! [May'n].zip
 music/Nipponsei/[Nipponsei] Ookiku Furikabutte ED Single - Medaka ga Mita Niji [Takada Kozue].zip
 music/Nipponsei/[Nipponsei] Ookiku Furikabutte Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Otogi Juushi Akazukin Drama & Soundtrack Album 2.zip
@@ -1129,19 +1131,30 @@ music/Nipponsei/[Nipponsei] xxxHOLiC ED2 Single - Kagerou [BUCK-TICK].zip
 music/Nipponsei/[Nipponsei] xxxHOLiC Movie Manatsu no Yoru no Yume Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] xxxHOLiC Movie Theme Single - Sanagi [Suga Shikao] 320k.zip
 music/Nipponsei/[Nipponsei] xxxHOLiC OP Single - 19sai [Suga Shikao].zip
+music/Nipponsei/[Nipponsei]_Amagami_SS_ED1_Single_-_Kimi_no_Hitomi_ni_Koishiteru_[Itou_Shizuka].zip
+music/Nipponsei/[Nipponsei]_Amagami_SS_OP_Single_-_i_Love_[azusa].zip
 music/Nipponsei/[Nipponsei]_Angel_Beats__Insert_Song_Album_-_Keep_The_Beats__[Girls_Dead_Monster].zip
+music/Nipponsei/[Nipponsei]_Angel_Beats__Original_Soundtrack.zip
 music/Nipponsei/[Nipponsei]_Arakawa_Under_The_Bridge_ED_Single_-_Sakasama_Bridge_[Suneohair].zip
 music/Nipponsei/[Nipponsei]_Cross_Game_OP_Single_-_Summer_rain_[Kobukuro].zip
+music/Nipponsei/[Nipponsei]_Fairy_Tail_ED4_Single_-_Kimi_ga_Iru_Kara_[Shimokawa_Mikuni].zip
 music/Nipponsei/[Nipponsei]_Fairy_Tail_Original_Soundtrack_Vol.1.zip
 music/Nipponsei/[Nipponsei]_Fairy_Tail_Original_Soundtrack_Vol.2.zip
 music/Nipponsei/[Nipponsei]_G.A._Geijutsuka_Art_Design_Class_-_music_palette.zip
+music/Nipponsei/[Nipponsei]_Hidamari_Sketch_X_Hoshimittsu_Character_CD_5_-_Miyako_[Mizuhashi_Kaori].zip
 music/Nipponsei/[Nipponsei]_Kaichou_wa_Maid-sama__Character_Concept_CD1_-_School_Side.zip
 music/Nipponsei/[Nipponsei]_Kaichou_wa_Maid-sama__Character_Concept_CD2_-_Maid_Side.zip
+music/Nipponsei/[Nipponsei]_Kaichou_wa_Maid-sama__Character_Concept_CD3_-_Maid_Side_2.zip
+music/Nipponsei/[Nipponsei]_Kaichou_wa_Maid-sama__Character_Concept_CD4_-_Another_Side.zip
 music/Nipponsei/[Nipponsei]_Kaichou_wa_Maid-sama__Original_Soundtrack.zip
 music/Nipponsei/[Nipponsei]_Kiddy_Girl-and_Character_Song_9_-_Geacht_er_[Hino_Satoshi].zip
 music/Nipponsei/[Nipponsei]_Kiss_X_Sis_Character_Song___Soundtrack.zip
 music/Nipponsei/[Nipponsei]_Mayoi_Neko_Overrun__Character_CD3_-_Kiriya_Nozomi_[Taketatsu_Ayana].zip
 music/Nipponsei/[Nipponsei]_Mayoi_Neko_Overrun__Character_CD4_-_Tsuzuki_Otome_[Satou_Satomi].zip
+music/Nipponsei/[Nipponsei]_Seikimatsu_Occult_Gakuin_ED_Single_-_Kimi_ga_Iru_Basho_[Takagaki_Ayahi].zip
+music/Nipponsei/[Nipponsei]_Seitokai_Yakuindomo_OP_Single_-_Yamato_Nadeshiko_Education_[Triple_Booking].zip
+music/Nipponsei/[Nipponsei]_Sekirei__Pure_Engagement__OP_ED_Single_-_Hakuyoku_no_Seiyaku__Pure_Engagement__[Various].zip
+music/Nipponsei/[Nipponsei]_Sora_no_Woto_Character_Image_Song_Single_-_Kanata___Rio_[Various].zip
 music/Nipponsei/[Nipponsei]_Sora_no_Woto_Character_Image_Song_Single_-_Rio___Filicia_[Various].zip
 music/Nipponsei/[Nipponsei]_To_Aru_Kagaku_no_Railgun_Original_Soundtrack_2_-_MOMENT.zip
 music/Nipponsei/[aznmp3 - Nipponsei] Capeta Opening Single - Venus [Tackey & Tsubasa] [192kbps.2006.01.18].zip
@@ -1254,6 +1267,7 @@ music/iSiscon/[iSiscon]_Loveplus_Character_Single_BOX_Disc_2_-_Kobayakawa_Ringo_
 music/iSiscon/[iSiscon]_Loveplus_Character_Single_BOX_Disc_3_-_Anegasaki_Nene_Disc_(FLAC).rar
 music/iSiscon/[iSiscon]_Magicarat_Radiant_Maxi_Single_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Matsuda_Risa_-_Amatsu_Misora_ni!_Charactor_Song_Vol.2_Kiyosumi_Serika_(FLAC).rar
+music/iSiscon/[iSiscon]_May'n_-_Ookami-san_to_Shichinin_no_Nakama-tachi_OP_Single_-_Ready_Go!_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Moonstone_-_Angel_Ring_Original_Soundtrack_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_NANA,_Hashimoto_Miyuki_-_Neko_Koi_Original_Vocal_Single_(FLAC).rar
 music/iSiscon/[iSiscon]_Oukawa_Mio_-_Amatsu_Misora_ni!_Charactor_Song_Vol.1_Hitotsubashi_Kanna_(FLAC).rar
