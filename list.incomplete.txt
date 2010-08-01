@@ -164,6 +164,7 @@ incomplete/Ask Dr. Rin!/[HnK & L-E] Ask Dr. Rin! - 10 [23C37344].avi
 incomplete/Ask Dr. Rin!/[HnK & L-E] Ask Dr. Rin! - 11 [580BE701].avi
 incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 01 [v3][079EFF6D].mkv
 incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 02 [4796E9B8].mkv
+incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 03 [44E72E12].mkv
 incomplete/Asobi ni Iku Yo!/[HorribleSubs] Asobi ni Iku Yo! - 03 (1280x720) [6D6B98B0].mkv
 incomplete/Astro Fighter Sunred/[ANBU] Astro Fighter Sunred - 01 [170751D6].mkv
 incomplete/Astro Fighter Sunred/[ANBU] Astro Fighter Sunred - 02 [B22B9E90].mkv
@@ -558,6 +559,7 @@ incomplete/Detective Conan/[Kienai] Detective Conan - 423 [8E151EC5].mp4
 incomplete/Detective Holmes/[FBI] Detective Holmes - 01 [E0975B64].mkv
 incomplete/Digimon Xros Wars/[OD-WPP] Digimon Xros Wars - 01 (1280x720) [911339DE].mkv
 incomplete/Digimon Xros Wars/[OD-WPP] Digimon Xros Wars - 02 (1280x720) [DE5BDA94].mkv
+incomplete/Digimon Xros Wars/[OD-WPP] Digimon Xros Wars - 04 (1280x720) [CDA778E2].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 01 (1280x720) [EF50D001].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 02 (1280x720) [16DC8D8E].mkv
 incomplete/Dirty Pair TV/[FLF & L-E] Dirty Pair TV - 01 [9689517F].mkv
@@ -1226,6 +1228,7 @@ incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 79 (1280x720) [5A49C609].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 80 (1280x720) [5D414FE9].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 81 (1280x720) [A36C0DB2].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 82 (1280x720) [A9A8EF2B].mkv
+incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 83 (1280x720) [F72C60B6].mkv
 incomplete/Initial D Battle Stage/[Shinsen-Subs] Initial D Battle Stage - 2 [End][B54855AA].mkv
 incomplete/Inuyasha Kanketsu-hen/[O-L] Inuyasha Kanketsu-hen - 01 (1280x720) [686D7CCE].mkv
 incomplete/Inuyasha Kanketsu-hen/[O-L] Inuyasha Kanketsu-hen - 02 (1280x720) [A0F39387].mkv
@@ -1954,6 +1957,7 @@ incomplete/Natsu no Arashi - Akinai-chuu/[SFW-Shinji] Natsu no Arashi - Akinai-c
 incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 01 [v2][E46F2A29].mkv
 incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 02 [754FE16D].mkv
 incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 03 [78D2C5C7].mkv
+incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 04 [54254C18].mkv
 incomplete/Occult Academy/[Commie] Occult Academy - 01 [v2][3BD9BD2D].mkv
 incomplete/Occult Academy/[Commie] Occult Academy - 02 [FCF0006A].mkv
 incomplete/Occult Academy/[Commie] Occult Academy - 03 [E736AFE0].mkv
@@ -2531,21 +2535,6 @@ incomplete/Rainbow/[FroZen] Rainbow - 09 [50E35889].mkv
 incomplete/Rainbow/[FroZen] Rainbow - 10 [43C5958F].mkv
 incomplete/Rainbow/[FroZen] Rainbow - 11 [A588487A].mkv
 incomplete/Reform Without Wasted Draws - The Legend of Koizumi/[gg] Reform Without Wasted Draws - The Legend of Koizumi - 01 [Webcast][61B04813].mkv
-incomplete/Ristorante Paradiso/[Frostii] Ristorante Paradiso - 01 (1280x720) [35044B77].mkv
-incomplete/Ristorante Paradiso/[Frostii] Ristorante Paradiso - 02 (1280x720) [97D2CC70].mkv
-incomplete/Ristorante Paradiso/[Frostii] Ristorante Paradiso - 03 (1280x720) [12B5A6B4].mkv
-incomplete/Ristorante Paradiso/[Frostii] Ristorante Paradiso - 04 (1280x720) [4E8D6725].mkv
-incomplete/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 01 [7CE6409E].mkv
-incomplete/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 02 [F791E97C].mkv
-incomplete/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 03 [E15085CA].mkv
-incomplete/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 04 [275A1051].mkv
-incomplete/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 05 [55D28AB8].mkv
-incomplete/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 06 [F174A8A0].mkv
-incomplete/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 07 [8F04ACE2].mkv
-incomplete/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 08 [C4190B5D].mkv
-incomplete/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 09 [F9349C3A].mkv
-incomplete/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 10 [9DA4144F].mkv
-incomplete/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 11 [1261D415].mkv
 incomplete/Rockman EXE Beast/[WPP de Puku] Rockman EXE Beast - 17 [D12F8EC3].avi
 incomplete/Rockman.EXE Axess/[wpp] Rockman.EXE Axess - 01 [4BF2D92B].avi
 incomplete/Rockman.EXE Axess/[wpp] Rockman.EXE Axess - 02 [41B25E09].avi

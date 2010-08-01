@@ -402,6 +402,7 @@ complete/a/Angel Beats!/[SS] Angel Beats! - 08 (1280x720) [57D2BEA8].mkv
 complete/a/Angel Beats!/[SS] Angel Beats! - 09 (1280x720) [882C4613].mkv
 complete/a/Angel Beats!/[SS] Angel Beats! - 10 (1280x720) [D62F78A6].mkv
 complete/a/Angel Beats!/[SS] Angel Beats! - 11 (1280x720) [638A01A9].mkv
+complete/a/Angel Beats!/[SS] Angel Beats! - 12 (1280x720) [71C8E87A].mkv
 complete/a/Angel Beats!/[UTW] Angel Beats! - 01 (1920x1080) [BD][6B6D6A0A].mkv
 complete/a/Angel Beats!/[UTW] Angel Beats! - 02 (1920x1080) [BD][581C8EA8].mkv
 complete/a/Angelique - Kagayaki no Ashita OVA/[SMS] Angelique - Kagayaki no Ashita - OVA [761AC663].mkv
@@ -9254,6 +9255,17 @@ complete/r/RideBack/[Frostii] RideBack - 09 (1280x720) [BE6420EC].mkv
 complete/r/RideBack/[Frostii] RideBack - 10 (1280x720) [1F73117D].mkv
 complete/r/RideBack/[Frostii] RideBack - 11 (1280x720) [9A11DFE2].mkv
 complete/r/RideBack/[Frostii] RideBack - 12 (1280x720) [End][C718759B].mkv
+complete/r/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 01 [7CE6409E].mkv
+complete/r/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 02 [F791E97C].mkv
+complete/r/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 03 [E15085CA].mkv
+complete/r/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 04 [275A1051].mkv
+complete/r/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 05 [55D28AB8].mkv
+complete/r/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 06 [F174A8A0].mkv
+complete/r/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 07 [8F04ACE2].mkv
+complete/r/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 08 [C4190B5D].mkv
+complete/r/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 09 [F9349C3A].mkv
+complete/r/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 10 [9DA4144F].mkv
+complete/r/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 11 [End][1261D415].mkv
 complete/r/Rizelmine/[AC] Rizelmine - 01 [7190B8FD].avi
 complete/r/Rizelmine/[AC] Rizelmine - 02 [D8142B16].avi
 complete/r/Rizelmine/[AC] Rizelmine - 03 [995FD3EF].avi
