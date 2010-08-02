@@ -1009,6 +1009,7 @@ incomplete/HeartCatch PreCure!/[Doremi] HeartCatch PreCure! - 21 (1280x720) [572
 incomplete/HeartCatch PreCure!/[Doremi] HeartCatch PreCure! - 22 (1280x720) [94ACD71D].mkv
 incomplete/HeartCatch PreCure!/[Doremi] HeartCatch PreCure! - 23 (1280x720) [1B1D7A45].mkv
 incomplete/HeartCatch PreCure!/[Doremi] HeartCatch PreCure! - 24 (1280x720) [598FF52B].mkv
+incomplete/HeartCatch PreCure!/[Doremi] HeartCatch PreCure! - 25 (1280x720) [227A120A].mkv
 incomplete/Hell Teacher Nube/[ANFS] Hell Teacher Nube - 09 [01E61B16].avi
 incomplete/Hell Teacher Nube/[Flomp] Hell Teacher Nube - 10 [4F190991].mkv
 incomplete/Hell Teacher Nube/[Yami] Hell Teacher Nube - 11 [061B3E8E].avi
@@ -2616,6 +2617,7 @@ incomplete/Saint October/[AoG] Saint October - 16 [C508CCC8].mkv
 incomplete/Saint October/[AoG] Saint October - 17 [46F1474E].mkv
 incomplete/Saint October/[AoG] Saint October - 18 [E2652201].mkv
 incomplete/Saint October/[AoG] Saint October - 19 [1E51D5B2].mkv
+incomplete/Saint October/[AoG] Saint October - 20 [02B842AF].mkv
 incomplete/Saint October/[Dyslexic] Saint October - 01 [773E9EB3].avi
 incomplete/Saint October/[Dyslexic] Saint October - 02 [v2][27FDCA7A].avi
 incomplete/Saint October/[Dyslexic] Saint October - 12 [52EA0D60].avi
@@ -2721,6 +2723,7 @@ incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 01 (1024x576) [v
 incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 02 (1024x576) [942D6FB9].mkv
 incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 01 (1280x720) [804D1CBC].mkv
 incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 02 (1280x720) [826D5501].mkv
+incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 03 (1280x720) [0EF556CA].mkv
 incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - 01 [BD8BC276].mkv
 incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - 02 [93B0D6D5].mkv
 incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - 03 [127DB50F].mkv
@@ -3079,7 +3082,6 @@ incomplete/Usaru-san/[Diffusion] Usaru-san - 03 [23E911DB].mkv
 incomplete/Usaru-san/[Diffusion] Usaru-san - 04 [452D2338].mkv
 incomplete/Utawarerumono OVA/[SubSmith] Utawarerumono OVA - 1 (1280x720) [BD][F2C28BAB].mkv
 incomplete/Utawarerumono OVA/[SubSmith] Utawarerumono OVA - 2 (1280x720) [BD][91F162D2].mkv
-incomplete/Utawarerumono OVA/[SubSmith] Utawarerumono OVA - 2 [DVD][53E3837E].mkv
 incomplete/Utawarerumono OVA/[SubSmith] Utawarerumono OVA - 3 (1280x720) [BD][094C8EB1].mkv
 incomplete/Utawarerumono OVA/[SubSmith] Utawarerumono OVA - Picture Drama 1 [DVD][BA0E5167].mkv
 incomplete/VS Knight Lamune & 40 fire/[Live-eviL] VS Knight Lamune & 40 fire - 01 [89E7EFC0].avi

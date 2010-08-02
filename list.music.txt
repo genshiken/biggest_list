@@ -256,6 +256,7 @@ music/Nipponsei/[Nipponsei] Asatte no Houkou Character Image Album - Komorebi Di
 music/Nipponsei/[Nipponsei] Asatte no Houkou ED Single - Sweet Home Song [Yumao].zip
 music/Nipponsei/[Nipponsei] Asatte no Houkou OP Single - Hikari no Kisetsu [Suara].zip
 music/Nipponsei/[Nipponsei] Asatte no Houkou Original Soundtrack - truth.zip
+music/Nipponsei/[Nipponsei] Asobi ni Iku yo! OP Single - Now loading... SKY!! [Sphere].zip
 music/Nipponsei/[Nipponsei] BECK ED Single - above the clouds [meister].zip
 music/Nipponsei/[Nipponsei] BECK OP Single - HIT IN THE USA [BEAT CRUSADERS].zip
 music/Nipponsei/[Nipponsei] BECK Original Soundtrack - BECK.zip
@@ -443,6 +444,7 @@ music/Nipponsei/[Nipponsei] Full Metal Alchemist Original Soundtrack 1 [2BBC4AAF
 music/Nipponsei/[Nipponsei] Full Metal Alchemist Original Soundtrack 2.zip
 music/Nipponsei/[Nipponsei] Full Metal Alchemist Original Soundtrack 3.zip
 music/Nipponsei/[Nipponsei] Full Metal Panic! TSR OP ED Single - Minamikaze [Shimokawa Mikuni].zip
+music/Nipponsei/[Nipponsei] Fullmetal Alchemist Brotherhood Original Soundtrack 3.zip
 music/Nipponsei/[Nipponsei] Fushigi Hoshi no Futago Hime ED Single - Oshare Fantasy [Fine Rain] (320 kbps).zip
 music/Nipponsei/[Nipponsei] Gakuen Alice OP ED Single - Pikapika no Taiyo [Ueda Kana   Kugimiya Rie] [E1FCC52E] 320k CBR.zip
 music/Nipponsei/[Nipponsei] Gakuen Utopia Manabi Straight Character Mini Album Vol.1 - Amamiya Manami [Horie Yui].zip
@@ -467,6 +469,7 @@ music/Nipponsei/[Nipponsei] Genshiken 2 OP Single - disarm dreamer [Misato Aki].
 music/Nipponsei/[Nipponsei] Ghost Hound OP Album - Poltergeist [Kojima Mayumi].zip
 music/Nipponsei/[Nipponsei] Ghost In The Shell - Stand Alone Complex - Solid State Society Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Ghost In The Shell - Stand Alone Complex O.S.T. 3 [320k].zip
+music/Nipponsei/[Nipponsei] Giant Killing OP Single - My story ~Mada Minu Ashita he~ [THE CHERRY COKES].zip
 music/Nipponsei/[Nipponsei] Gift eternal rainbow Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Gift ~eternal rainbow~ ED Single - Kokoro Niji wo Kakete [Fujiya Misato].zip
 music/Nipponsei/[Nipponsei] Gift ~eternal rainbow~ OP Single - Nijiiro Sentimental [Hashimoto Miyuki].zip
@@ -826,6 +829,7 @@ music/Nipponsei/[Nipponsei] Seikai no Senki III OVA ED Single - Tenohira no Yume
 music/Nipponsei/[Nipponsei] Seirei no Moribito ED Single - Itoshii Hito he [Tainaka Sachi].zip
 music/Nipponsei/[Nipponsei] Seirei no Moribito Original Soundtrack Vol.2.zip
 music/Nipponsei/[Nipponsei] Seishuu Heiki Kanojo Another love song Original Soundtrack.zip
+music/Nipponsei/[Nipponsei] Seitokai Yakuindomo ED Single - Aoi Haru [angela].zip
 music/Nipponsei/[Nipponsei] Sekaiju no Maikyuu Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Sensei no Ojikan - Furare Kibun de Rock n Roll [DROPS].zip
 music/Nipponsei/[Nipponsei] Sensei no Ojikan - Oshieteageru [can-goo].zip
@@ -870,6 +874,7 @@ music/Nipponsei/[Nipponsei] Shoujo Jang Geum no Yume OP Single - Ima ga Daisuki 
 music/Nipponsei/[Nipponsei] Shounen Onmyouji ED Single - Yakusoku [Kiuji Saori].zip
 music/Nipponsei/[Nipponsei] Shounen Onmyouji OP - Egao no Wake [Hikita Kaori].zip
 music/Nipponsei/[Nipponsei] Shugo Chara OP ED Single - Honto no Jibun [Buono ].zip
+music/Nipponsei/[Nipponsei] Shukufuku no Campanella OP Single - Shiawase wa Tsuki Yori Tatakau [Misato Aki].zip
 music/Nipponsei/[Nipponsei] Sketchbook full color s ED Single - Sketchbook wo Motta Mama [Makino Yui].zip
 music/Nipponsei/[Nipponsei] Sketchbook full color s OP Single - Kaze Sagashi [Kiyoura Natsumi].zip
 music/Nipponsei/[Nipponsei] Sketchbook full colors sound sketch book.zip
@@ -1271,6 +1276,7 @@ music/iSiscon/[iSiscon]_May'n_-_Ookami-san_to_Shichinin_no_Nakama-tachi_OP_Singl
 music/iSiscon/[iSiscon]_Moonstone_-_Angel_Ring_Original_Soundtrack_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_NANA,_Hashimoto_Miyuki_-_Neko_Koi_Original_Vocal_Single_(FLAC).rar
 music/iSiscon/[iSiscon]_Oukawa_Mio_-_Amatsu_Misora_ni!_Charactor_Song_Vol.1_Hitotsubashi_Kanna_(FLAC).rar
+music/iSiscon/[iSiscon]_Palette_-_Steal_My_Heart_~Rhapsody_of_moonlight~_Soundtrack_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Shin_Koihime_Musou_Charactor_Song_CD1_-_Kazoe_Yakuman_Shimai_(Chou_Sanshimai)_(FLAC).rar
 music/iSiscon/[iSiscon]_Shin_Koihime_Musou_Charactor_Song_CD2_-_Enjutsu_Choukun_Kakuka_(FLAC).rar
 music/iSiscon/[iSiscon]_Shindou_Mayumi,_Que_Seran_Pasaran_-_Citoron-soft_Memorial_Song_[w_scans]_(FLAC).rar
@@ -1291,6 +1297,7 @@ music/iSiscon/[iSiscon]_WONDER_STRAWBERRY☆F_-_Zettai☆Daisuki_[w_scans]_(FLAC
 music/iSiscon/[iSiscon]_Windows_7_Madobe_Nanami_-_Nanairo_Generator_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_asuza_-_Amagami_SS_OP_Theme_-_i_Love_(FLAC).rar
 music/iSiscon/[iSiscon]_ryo,_kz,_VOCALOID_-_Hatsune_Miku_Project_DIVA_2nd_-_Kocchi_Muite_Babe_yellow_[w_scans]_(FLAC).rar
+music/iSiscon/[iSiscon]_sphere_-_Asobi_ni_Iku_yo!_OP_Single_-_Now_loading...SKY!!_[w_scans]_(FLAC).rar
 music/losslessone/[LonE]_12012_-_Romeo_x_Juliet_ED_Single_-_CYCLONE_[w_scans]_(FLAC).rar
 music/losslessone/[LonE]_369_-_Nijuu-Mensou_no_Musume_OP_Single_-_Kasumi_[w_scans]_(FLAC).rar
 music/losslessone/[LonE]_4-EVER,_Clover,_Miyazaki_Ui,_Waragetcha_V_-_Master_of_Epic_The_Animation_Age_ORIGINAL_SOUND_TRACK_-_MUSIC_OF_THE_ETERNITIES_[w_scans]_(FLAC).rar
