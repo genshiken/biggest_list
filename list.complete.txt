@@ -698,13 +698,15 @@ complete/b/Baka to Test to Shokanju/[gg] Baka to Test to Shokanju - 11 [81981E3E
 complete/b/Baka to Test to Shokanju/[gg] Baka to Test to Shokanju - 12 [FCC670E6].mkv
 complete/b/Baka to Test to Shokanju/[gg] Baka to Test to Shokanju - 13 [End][6DA585EF].mkv
 complete/b/Baka to Test to Shoukanjuu - Christmas Special/[LSS] Baka to Test to Shoukanjuu - Christmas Special [Webcast][B41E9F09].mkv
+complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 11 (1920x1080) [BD][D3A601EE].mkv
+complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 12 (1920x1080) [BD][95BB247A].mkv
+complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 13 (1920x1080) [BD][8C00AC96].mkv
+complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 14 (1920x1080) [BD][46505F63].mkv
+complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - Ending 3 (1920x1080) [BD][48203556].mkv
+complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - Opening 5b (1920x1080) [BD][C23AA6BB].mkv
+complete/b/Bakemonogatari/[Unofficial-qIIq] Bakemonogatari - 15 (1920x1080) [End][BD][BED24D2F].mkv
 complete/b/Bakemonogatari/[gg] Bakemonogatari - 09 [5E8B7A48].mkv
 complete/b/Bakemonogatari/[gg] Bakemonogatari - 10 [E40C2606].mkv
-complete/b/Bakemonogatari/[gg] Bakemonogatari - 11 [E3AAF21C].mkv
-complete/b/Bakemonogatari/[gg] Bakemonogatari - 12 [4F8856B0].mkv
-complete/b/Bakemonogatari/[gg] Bakemonogatari - 13 [F5C47F6C].mkv
-complete/b/Bakemonogatari/[pem] Bakemonogatari - 14 [7EBD3158].mkv
-complete/b/Bakemonogatari/[pem] Bakemonogatari - 15 [End][174959B2].mkv
 complete/b/Bakemonogatari/[qIIq-THORA] Bakemonogatari - 01 (1920x1080) [BD][1633191F].mkv
 complete/b/Bakemonogatari/[qIIq-THORA] Bakemonogatari - 02 (1920x1080) [BD][0BE3CC73].mkv
 complete/b/Bakemonogatari/[qIIq-THORA] Bakemonogatari - 03 (1920x1080) [BD][86A3B4C5].mkv
@@ -3764,6 +3766,12 @@ complete/g/Guin Saga/[frong] Guin Saga - 23 (1280x720) [7BE856D1].mkv
 complete/g/Guin Saga/[frong] Guin Saga - 24 (1280x720) [2E201630].mkv
 complete/g/Guin Saga/[frong] Guin Saga - 25 (1280x720) [730635EF].mkv
 complete/g/Guin Saga/[frong] Guin Saga - 26 (1280x720) [End][4839CFFA].mkv
+complete/g/Gunbuster/[G P] Gunbuster - 01 [B8D69D43].mkv
+complete/g/Gunbuster/[G P] Gunbuster - 02 [132639AC].mkv
+complete/g/Gunbuster/[G P] Gunbuster - 03 [3092BABB].mkv
+complete/g/Gunbuster/[G P] Gunbuster - 04 [3AD79262].mkv
+complete/g/Gunbuster/[G P] Gunbuster - 05 [5D3C5BE8].mkv
+complete/g/Gunbuster/[G P] Gunbuster - 06 [End][FE41E60B].mkv
 complete/g/Gundam 00 S2/[Menclave] Gundam 00 S2 - 01 (1280x720) [v2][4863FBE8].mkv
 complete/g/Gundam 00 S2/[Menclave] Gundam 00 S2 - 02 (1280x720) [v3][175EA617].mkv
 complete/g/Gundam 00 S2/[Menclave] Gundam 00 S2 - 03 (1280x720) [44481F44].mkv
@@ -6198,11 +6206,11 @@ complete/k/Kirameki Project OVA/[Exiled-Destiny] Kirameki Project OVA - 5 [End][
 complete/k/Kiss x Sis/[Coalgirls] Kiss x Sis - 01 (1280x720) [BD][CD040216].mkv
 complete/k/Kiss x Sis/[Coalgirls] Kiss x Sis - 02 (1280x720) [BD][7FCBC94D].mkv
 complete/k/Kiss x Sis/[Coalgirls] Kiss x Sis - 03 (1280x720) [BD][259EC5B9].mkv
+complete/k/Kiss x Sis/[Coalgirls] Kiss x Sis - 04 (1280x720) [BD][971955C4].mkv
+complete/k/Kiss x Sis/[Coalgirls] Kiss x Sis - 05 (1280x720) [BD][B1BBB0BA].mkv
+complete/k/Kiss x Sis/[Coalgirls] Kiss x Sis - 06 (1280x720) [BD][15E80171].mkv
 complete/k/Kiss x Sis/[Coalgirls] Kiss x Sis - Ending (1280x720) [BD][90FD1D36].mkv
 complete/k/Kiss x Sis/[Coalgirls] Kiss x Sis - Opening (1280x720) [BD][4E4623F4].mkv
-complete/k/Kiss x Sis/[Ryuumaru] Kiss x Sis - 04 [6ED739F9].mkv
-complete/k/Kiss x Sis/[Ryuumaru] Kiss x Sis - 05 [v2][9B48ABA5].mkv
-complete/k/Kiss x Sis/[Ryuumaru] Kiss x Sis - 06 [273DF60A].mkv
 complete/k/Kiss x Sis/[Ryuumaru] Kiss x Sis - 07 [740E81F0].mkv
 complete/k/Kiss x Sis/[Ryuumaru] Kiss x Sis - 08 [62BAC00F].mkv
 complete/k/Kiss x Sis/[Ryuumaru] Kiss x Sis - 09 [CF351431].mkv
@@ -9538,6 +9546,19 @@ complete/s/SRWOG - Divine Wars/[SoS-dp] SRWOG - Divine Wars - 23 [AC78EA06].mkv
 complete/s/SRWOG - Divine Wars/[SoS-dp] SRWOG - Divine Wars - 24 [A4931E7E].mkv
 complete/s/SRWOG - Divine Wars/[SoS-dp] SRWOG - Divine Wars - 25 [A9A7054F].mkv
 complete/s/SRWOG - Divine Wars/[SoS-dp] SRWOG - Divine Wars - 26 [End][A72A9070].mkv
+complete/s/Saint Seiya - The Lost Canvas/[gleam] Saint Seiya - The Lost Canvas - 01 (1280x720) [1FD9C05F].mkv
+complete/s/Saint Seiya - The Lost Canvas/[gleam] Saint Seiya - The Lost Canvas - 02 (1280x720) [3C72FEFE].mkv
+complete/s/Saint Seiya - The Lost Canvas/[gleam] Saint Seiya - The Lost Canvas - 03 (1280x720) [BD][9A7219EE].mkv
+complete/s/Saint Seiya - The Lost Canvas/[gleam] Saint Seiya - The Lost Canvas - 04 (1280x720) [BD][7EAF164C].mkv
+complete/s/Saint Seiya - The Lost Canvas/[gleam] Saint Seiya - The Lost Canvas - 05 (1280x720) [BD][95C1FAA7].mkv
+complete/s/Saint Seiya - The Lost Canvas/[gleam] Saint Seiya - The Lost Canvas - 06 (1280x720) [BD][C20EFE94].mkv
+complete/s/Saint Seiya - The Lost Canvas/[gleam] Saint Seiya - The Lost Canvas - 07 (1280x720) [BD][722596E6].mkv
+complete/s/Saint Seiya - The Lost Canvas/[gleam] Saint Seiya - The Lost Canvas - 08 (1280x720) [BD][AE4DAB22].mkv
+complete/s/Saint Seiya - The Lost Canvas/[gleam] Saint Seiya - The Lost Canvas - 09 (1280x720) [BD][09D07B45].mkv
+complete/s/Saint Seiya - The Lost Canvas/[gleam] Saint Seiya - The Lost Canvas - 10 (1280x720) [BD][3A26BEE3].mkv
+complete/s/Saint Seiya - The Lost Canvas/[gleam] Saint Seiya - The Lost Canvas - 11 (1280x720) [BD][E0C2B78C].mkv
+complete/s/Saint Seiya - The Lost Canvas/[gleam] Saint Seiya - The Lost Canvas - 12 (1280x720) [BD][FA536382].mkv
+complete/s/Saint Seiya - The Lost Canvas/[gleam] Saint Seiya - The Lost Canvas - 13 (1280x720) [End][BD][3D5B737E].mkv
 complete/s/Saishuu Shiken Kujira/[Undine & F-B] Saishuu Shiken Kujira - OVA [E48BFEB1].mp4
 complete/s/Saishuu Shiken Kujira/[Undine] Saishuu Shiken Kujira - 01 [076F358C].mp4
 complete/s/Saishuu Shiken Kujira/[Undine] Saishuu Shiken Kujira - 02 [99C50165].mp4
@@ -11379,6 +11400,12 @@ complete/t/They Are My Noble Masters/[AniYoshi] They Are My Noble Masters - 10 [
 complete/t/They Are My Noble Masters/[AniYoshi] They Are My Noble Masters - 11 [93F3DCAC].mkv
 complete/t/They Are My Noble Masters/[AniYoshi] They Are My Noble Masters - 12 [8012D053].mkv
 complete/t/They Are My Noble Masters/[AniYoshi] They Are My Noble Masters - 13 [End][9F4D0DDE].mkv
+complete/t/Time of Eve/[Yabai] Time of Eve - 1 [DVD][397A3F67].mkv
+complete/t/Time of Eve/[Yabai] Time of Eve - 2 [DVD][07153138].mkv
+complete/t/Time of Eve/[Yabai] Time of Eve - 3 [v2][DVD][C6033409].mkv
+complete/t/Time of Eve/[Yabai] Time of Eve - 4 [DVD][E14F07FF].mkv
+complete/t/Time of Eve/[Yabai] Time of Eve - 5 [DVD][46F1FA3F].mkv
+complete/t/Time of Eve/[Yabai] Time of Eve - 6 [End][DVD][770460BD].mkv
 complete/t/To Heart - Special/[Exiled-Destiny] To Heart - Special 1 [B6AE0004].mkv
 complete/t/To Heart - Special/[Exiled-Destiny] To Heart - Special 2 [8A21978E].mkv
 complete/t/To Heart - Special/[Exiled-Destiny] To Heart - Special 3 [6E954FAC].mkv
