@@ -214,6 +214,13 @@
 !new/upload/[D-A]Love Hina Again - Textless Ending 2 (DivX 5.0.5).avi
 !new/upload/[D-A]Love Hina Again - Textless Ending 3 (DivX 5.0.5).avi
 !new/upload/[D-A]Love Hina Again - Textless Opening (DivX 5.0.5).avi
+!new/upload/[EAC] [100804] TVアニメ けいおん!! ED2 「NO, Thank You!」[初回限定盤]／放課後ティータイム (wav+cue+BK).rar
+!new/upload/[EAC] [100804] TVアニメ けいおん!! OP2 「Utauyo!!MIRACLE」[初回限定盤]／放課後ティータイム (wav+cue+BK).rar
+!new/upload/[EG]ZZ_Gundam_BD_32(720p)[0AC8B8CD].mkv
+!new/upload/[EG]ZZ_Gundam_BD_33(720p)[D3420967].mkv
+!new/upload/[EG]ZZ_Gundam_BD_34(720p)[FA912749].mkv
+!new/upload/[EG]ZZ_Gundam_BD_35(720p)[F7011CEA].mkv
+!new/upload/[EG]ZZ_Gundam_BD_36(720p)[778A68B6].mkv
 !new/upload/[EG]ZZ_Gundam_BD_37(720p)[22517645].mkv
 !new/upload/[EG]ZZ_Gundam_BD_38(720p)[543A3436].mkv
 !new/upload/[EG]ZZ_Gundam_BD_39(720p)[F6F3DE61].mkv
@@ -221,6 +228,7 @@
 !new/upload/[EG]ZZ_Gundam_BD_41(720p)[81580ED2].mkv
 !new/upload/[HorribleSubs] Fairy Tail - 40 [720p].mkv
 !new/upload/[HorribleSubs] Occult Academy - 05 [720p].mkv
+!new/upload/[J-pwq] The Tatami Galaxy - 08 [EF540113].mkv
 !new/upload/[KAA]_Love_Hina_Spring_Movie.DVD[866F2857].avi
 !new/upload/[LonE]_Katakiri_Rekka_-_PSP_Second_Novel_-Kanojo_no_Natsu,_15-fun_no_Kioku-_OP_ED_Single_-_Zanshou_[w_scans]_(FLAC).rar
 !new/upload/[Movie-1986]_Touch_2__Sayonara_no_Okurimono/Touch_2__Sayonara_no_Okurimono_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][C6396C54].avi
@@ -686,6 +694,11 @@
 !new/upload/[TV_Special-1998]_Touch__Miss_Lonely_Yesterday_-_Arekara,_Kimi_wa/Touch - Special/[CA] Touch - Special [01E4B4F3].avi
 !new/upload/[TV_Special-2001]_Touch__Crossroad_-_Kaze_no_Yukue/Touch__Crossroad_-_Kaze_no_Yukue_-_1[1]_-_TV_Special_[640x480][MJN][54862002].avi
 !new/upload/[Underwater] Strike Witches 2 - 04 [720p][4F959936].mkv
+!new/upload/[chibi-Doki] Seikon no Qwaser - 01 (1280x720 h264 BD FLAC) [02B62155].mkv
+!new/upload/[chibi-Doki] Seikon no Qwaser - 02 (1280x720 h264 BD FLAC) [3808D311].mkv
+!new/upload/[chibi-Doki] Seikon no Qwaser - 03 (1280x720 h264 BD FLAC) [919F7357].mkv
+!new/upload/[chibi-Doki] Seikon no Qwaser - 04 (1280x720 h264 BD FLAC) [A3435B02].mkv
+!new/upload/[chibi-Doki] Seikon no Qwaser - 05 (1280x720 h264 BD FLAC) [BCFD6E31].mkv
 !new/upload/[gg]_HIGHSCHOOL_OF_THE_DEAD_-_05_[B44B25EE].mkv
 !new/upload/[ray=out]_Gurren_Lagann_Parallel_Works_2_-_Gunmen_Symphonia_[DVD][5AE0DE60].mkv
 !new/upload/[ray=out]_Gurren_Lagann_Parallel_Works_2_-_The_sense_of_Wonder_[DVD][CA544CDB].mkv
