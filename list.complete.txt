@@ -4119,22 +4119,22 @@ complete/g/Gundam ZZ/[EG] Gundam ZZ - 28 (960x720) [BD][E6273CB9].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - 29 (960x720) [BD][846997B2].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - 30 (960x720) [BD][E31F64DD].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - 31 (960x720) [BD][E95EB024].mkv
-complete/g/Gundam ZZ/[EG] Gundam ZZ - Ending 1 (960x720) [357CA372].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 32 (960x720) [BD][0AC8B8CD].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 33 (960x720) [BD][D3420967].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 34 (960x720) [BD][FA912749].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 35 (960x720) [BD][F7011CEA].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 36 (960x720) [BD][778A68B6].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 37 (960x720) [BD][22517645].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 38 (960x720) [BD][543A3436].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 39 (960x720) [BD][F6F3DE61].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 40 (960x720) [BD][AD095FA4].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 41 (960x720) [BD][81580ED2].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - Ending (960x720) [357CA372].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - Ending 3 (960x720) [BD][72253889].mkv
-complete/g/Gundam ZZ/[EG] Gundam ZZ - Opening 1 (960x720) [C9AE9CA8].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - Opening (960x720) [C9AE9CA8].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - Opening 2 (960x720) [30E09188].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - Opening 3 (960x720) [BD][2444206B].mkv
 complete/g/Gundam ZZ/[HL] Gundam ZZ - 00 [9A993385].mkv
-complete/g/Gundam ZZ/[HL] Gundam ZZ - 32 [5BE9DD38].mkv
-complete/g/Gundam ZZ/[HL] Gundam ZZ - 33 [2B7DAE9E].mkv
-complete/g/Gundam ZZ/[HL] Gundam ZZ - 34 [9CE8CD0C].mkv
-complete/g/Gundam ZZ/[HL] Gundam ZZ - 35 [E84DC1EB].mkv
-complete/g/Gundam ZZ/[HL] Gundam ZZ - 36 [71D9A3C3].mkv
-complete/g/Gundam ZZ/[HL] Gundam ZZ - 37 [57CC478F].mkv
-complete/g/Gundam ZZ/[HL] Gundam ZZ - 38 [1C6C45BC].mkv
-complete/g/Gundam ZZ/[HL] Gundam ZZ - 39 [4C8A3FEC].mkv
-complete/g/Gundam ZZ/[HL] Gundam ZZ - 40 [E7701E0F].mkv
-complete/g/Gundam ZZ/[HL] Gundam ZZ - 41 [357EA65D].mkv
 complete/g/Gundam ZZ/[HL] Gundam ZZ - 42 [3798DA4C].mkv
 complete/g/Gundam ZZ/[HL] Gundam ZZ - 43 [C1DEB923].mkv
 complete/g/Gundam ZZ/[HL] Gundam ZZ - 44 [2EE4D2C0].mkv
@@ -9862,6 +9862,30 @@ complete/s/Scrapped Princess/[Keep-ANBU] Scrapped Princess - 23 [9C598B9B].avi
 complete/s/Scrapped Princess/[Keep-ANBU] Scrapped Princess - 24 [End][1865B490].avi
 complete/s/Seikai no Senki III/[AonE-Conclave] Seikai no Senki III - 1 [9D56F59B].mkv
 complete/s/Seikai no Senki III/[AonE-Conclave] Seikai no Senki III - 2 [End][4A40B3B1].mkv
+complete/s/Seikon no Qwaser/[SubDesu] Seikon no Qwaser - 17 [B8B86277].mkv
+complete/s/Seikon no Qwaser/[SubDesu] Seikon no Qwaser - 18 [E1E1B420].mkv
+complete/s/Seikon no Qwaser/[SubDesu] Seikon no Qwaser - 19 [AD3C68C1].mkv
+complete/s/Seikon no Qwaser/[SubDesu] Seikon no Qwaser - 20 [232BE813].mkv
+complete/s/Seikon no Qwaser/[SubDesu] Seikon no Qwaser - 21 [B9C49DB8].mkv
+complete/s/Seikon no Qwaser/[SubDesu] Seikon no Qwaser - 22 [07E7ACC4].mkv
+complete/s/Seikon no Qwaser/[SubDesu] Seikon no Qwaser - 23 [8FF0D8B7].mkv
+complete/s/Seikon no Qwaser/[SubDesu] Seikon no Qwaser - 24 [End][746ED6FF].mkv
+complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 01 (1280x720) [BD][02B62155].mkv
+complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 02 (1280x720) [BD][3808D311].mkv
+complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 03 (1280x720) [BD][919F7357].mkv
+complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 04 (1280x720) [BD][A3435B02].mkv
+complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 05 (1280x720) [BD][BCFD6E31].mkv
+complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 06 [0787957C].mkv
+complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 07 [85BE7FA9].mkv
+complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 08 [F82D3E01].mkv
+complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 09 [F4E516FB].mkv
+complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 10 [B9A1A2F7].mkv
+complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 11 [2F268636].mkv
+complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 12 [AC44154A].mkv
+complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 13 [v0][988DB090].mkv
+complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 14 [v0][042C5E59].mkv
+complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 15 [v0][8431992C].mkv
+complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 16 [v0][C5295687].mkv
 complete/s/Seirei Tsukai/[Anon-chan] Seirei Tsukai [40B9AB0F].mkv
 complete/s/Seirei no Moribito/[A-Kraze] Seirei no Moribito - 01 [DVD][6CF0066D].mkv
 complete/s/Seirei no Moribito/[A-Kraze] Seirei no Moribito - 02 [DVD][E76EAAA8].mkv
