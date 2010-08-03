@@ -7373,7 +7373,7 @@ complete/m/Major S4/[A-E Saizen SD] Major S4 - 21 (1280x720) [76AA52D3].mkv
 complete/m/Major S4/[A-E Saizen SD] Major S4 - 22 (1280x720) [80E063FF].mkv
 complete/m/Major S4/[A-E Saizen SD] Major S4 - 23 (1280x720) [21D749CF].mkv
 complete/m/Major S4/[A-E Saizen SD] Major S4 - 24 (1280x720) [A3968779].mkv
-complete/m/Major S4/[A-E Saizen SD] Major S4 - 25 (1280x720) [A3F1992E].mkv
+complete/m/Major S4/[A-E Saizen SD] Major S4 - 25 (1280x720) [A904E1A5].mkv
 complete/m/Major S4/[A-E Saizen SD] Major S4 - 26 (1280x720) [End][EE9A95B5].mkv
 complete/m/Major S5/[MJN] Major S5 - 01 [HD][B0981D72].mp4
 complete/m/Major S5/[MJN] Major S5 - 02 [HD][41CC6597].mp4
@@ -8960,7 +8960,6 @@ complete/p/Princess Lover!/[polished] Princess Lover! - 10 [DVD][FDD94B7E].mkv
 complete/p/Princess Lover!/[polished] Princess Lover! - 11 [DVD][B99DC866].mkv
 complete/p/Princess Lover!/[polished] Princess Lover! - 12 [End][DVD][8A2FC6F1].mkv
 complete/p/Princess Minerva/[AM] Princess Minerva [7C2948E3].avi
-complete/p/Princess Princess/.DS_Store
 complete/p/Princess Princess/[aarinfantasy-KissSub] Princess Princess - 01 [15653420].avi
 complete/p/Princess Princess/[aarinfantasy-KissSub] Princess Princess - 02 [3283F61E].avi
 complete/p/Princess Princess/[aarinfantasy-KissSub] Princess Princess - 03 [5792857A].avi
@@ -11947,7 +11946,7 @@ complete/t/Tsukuyomi Moon Phase/[mahou] Tsukuyomi Moon Phase - 25 [58F56F03].avi
 complete/t/Tsukuyomi Moon Phase/[mahou] Tsukuyomi Moon Phase - 26 [End][DVD][8F749B20].avi
 complete/t/Twin Angel OVA/[Ayako-m.3.3.w] Twin Angel OVA - 1 [v2][ABB526E9].mkv
 complete/t/Twin Angel OVA/[Ayako-m.3.3.w] Twin Angel OVA - 2 [End][A084F925].mkv
-complete/t/Two Walnuts/[Saizen] Two Walnuts [DVD][FCFB7A7C].mkv
+complete/t/Two Walnuts/[Saizen] Two Walnuts [DVD][2A4E81B9].mkv
 complete/t/Tytania/[ANBU] Tytania - 01 [FF1B3892].mkv
 complete/t/Tytania/[ANBU] Tytania - 02 [9DD152A0].mkv
 complete/t/Tytania/[ANBU] Tytania - 03 [2C3F8AFF].mkv
