@@ -702,6 +702,8 @@
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/upload/[TV_Special-1998]_Touch__Miss_Lonely_Yesterday_-_Arekara,_Kimi_wa/Touch - Special/[CA] Touch - Special [01E4B4F3].avi
 !new/upload/[TV_Special-2001]_Touch__Crossroad_-_Kaze_no_Yukue/Touch__Crossroad_-_Kaze_no_Yukue_-_1[1]_-_TV_Special_[640x480][MJN][54862002].avi
+!new/upload/[UTW]_Angel_Beats!_-_03_[BD][h264-1080p_FLAC][97725AE3].mkv
+!new/upload/[UTW]_Angel_Beats!_-_04_[BD][h264-1080p_FLAC][B6F8DE24].mkv
 !new/upload/[Wasurenai] Marie & Gali - 15 [H264 1280x720] [9BD56384].mkv
 !new/upload/[iSiscon]_Itou_Kanako_-_STEINS_GATE_Image_Song_&_Starry_Sky_~in_Spring~_Ending_Theme_-_A.R_&_Star-Crossed_[w_scans]_(FLAC).rar
 !new/upload/[iSiscon]_Toyosaki_Aki,_Hikasa_Youko,_Satou_Satomi,_Kotobuki_Minako,_Taketatsu_Ayana_-_K-ON!!_ED2_Single_-_NO,Thank_You!_[w_scans]_(FLAC).rar
@@ -710,6 +712,7 @@
 !new/upload/[loner]_Yoko_Ishida_-_Strike_Witches_2_OP_Single_-_STRIKE_WITCHES_~Egao_no_Mahou~_[FLAC].7z
 !new/upload/[ray=out]_Gurren_Lagann_Parallel_Works_2_-_Gunmen_Symphonia_[DVD][5AE0DE60].mkv
 !new/upload/[ray=out]_Gurren_Lagann_Parallel_Works_2_-_The_sense_of_Wonder_[DVD][CA544CDB].mkv
+!new/upload/[ray=out]_Tengen_Toppa_Gurren_Lagann_KIRAMEKI★YOUKO_BOX_-PIECES_of_SWEET_STARS-_[DVD][3612BF83].mkv
 !new/upload/[ray=out]_Tengen_Toppa_Gurren_Lagann_KIRAMEKI★YOUKO_BOX_-PIECES_of_SWEET_STARS-_[DVD][FD550ACE].mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
