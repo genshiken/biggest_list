@@ -230,25 +230,6 @@
 !new/upload/Samurai Champloo 24.mkv
 !new/upload/Samurai Champloo 25.mkv
 !new/upload/Samurai Champloo 26.mkv
-!new/upload/[Ayako-SubDESU]_Asobi_ni_Iku_Yo!_-_01v2_[720p][H264][99A5B7E4].mkv
-!new/upload/[C1]Perrine_-_33[XviD][028AD159].avi
-!new/upload/[Chihiro]_Zettai_Karen_Children_OVA_[h264][8628ABCB].mkv
-!new/upload/[CoalGuys] K-ON!! S2 - 18 [63552577].mkv
-!new/upload/[Coalgirls]_Strike_Witches_01_(1280x720_Blu-Ray_FLAC)_[AF4B942E].mkv
-!new/upload/[Coalgirls]_Strike_Witches_02_(1280x720_Blu-Ray_FLAC)_[A99DE9F7].mkv
-!new/upload/[Coalgirls]_Strike_Witches_03_(1280x720_Blu-Ray_FLAC)_[B4422D47].mkv
-!new/upload/[Coalgirls]_Strike_Witches_04_(1280x720_Blu-Ray_FLAC)_[25A52421].mkv
-!new/upload/[Coalgirls]_Strike_Witches_05_(1280x720_Blu-Ray_FLAC)_[D0AF86DB].mkv
-!new/upload/[Coalgirls]_Strike_Witches_06_(1280x720_Blu-Ray_FLAC)_[D7F2E6AF].mkv
-!new/upload/[Coalgirls]_Strike_Witches_07_(1280x720_Blu-Ray_FLAC)_[1FAF1298].mkv
-!new/upload/[Coalgirls]_Strike_Witches_08_(1280x720_Blu-Ray_FLAC)_[AE198885].mkv
-!new/upload/[Coalgirls]_Strike_Witches_09_(1280x720_Blu-Ray_FLAC)_[438BF675].mkv
-!new/upload/[Coalgirls]_Strike_Witches_10_(1280x720_Blu-Ray_FLAC)_[9A85F7B0].mkv
-!new/upload/[Coalgirls]_Strike_Witches_11_(1280x720_Blu-Ray_FLAC)_[5407B208].mkv
-!new/upload/[Coalgirls]_Strike_Witches_12_(1280x720_Blu-Ray_FLAC)_[6348A9F6].mkv
-!new/upload/[Commie] Sengoku BASARA Two - 04 [5247BC44].mkv
-!new/upload/[Commie] Shiki - 04 [0A9F1BCF].mkv
-!new/upload/[Commie] The Legend of the Legendary Heroes - 05 [27A879A4].mkv
 !new/upload/[D-A]Love Hina Again - 01 (DivX 5.0.5).ogm
 !new/upload/[D-A]Love Hina Again - 02 (DivX 5.0.5).ogm
 !new/upload/[D-A]Love Hina Again - 03 (DivX 5.0.5).ogm
@@ -257,17 +238,9 @@
 !new/upload/[D-A]Love Hina Again - Textless Ending 2 (DivX 5.0.5).avi
 !new/upload/[D-A]Love Hina Again - Textless Ending 3 (DivX 5.0.5).avi
 !new/upload/[D-A]Love Hina Again - Textless Opening (DivX 5.0.5).avi
-!new/upload/[Doutei]Golgo 13 - 36[DVD][9D2BF035].mkv
 !new/upload/[EAC] [100804] TVアニメ けいおん!! ED2 「NO, Thank You!」[初回限定盤]／放課後ティータイム (wav+cue+BK).rar
 !new/upload/[EAC] [100804] TVアニメ けいおん!! OP2 「Utauyo!!MIRACLE」[初回限定盤]／放課後ティータイム (wav+cue+BK).rar
-!new/upload/[FroZen]_RAINBOW_14_[8EC8784F].mkv
-!new/upload/[HorribleSubs] HEROMAN - 19 [720p].mkv
-!new/upload/[HorribleSubs] Naruto Shippuuden - 172 [720p].mkv
-!new/upload/[HorribleSubs] Strike Witches 2 - 05 [720p].mkv
-!new/upload/[J-pwq] The Tatami Galaxy - 08 [EF540113].mkv
 !new/upload/[KAA]_Love_Hina_Spring_Movie.DVD[866F2857].avi
-!new/upload/[LonE]_Katakiri_Rekka_-_PSP_Second_Novel_-Kanojo_no_Natsu,_15-fun_no_Kioku-_OP_ED_Single_-_Zanshou_[w_scans]_(FLAC).rar
-!new/upload/[Mazui]_Ookami-san_-_06_[4A1AB63B].mkv
 !new/upload/[Movie-1986]_Touch_2__Sayonara_no_Okurimono/Touch_2__Sayonara_no_Okurimono_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][C6396C54].avi
 !new/upload/[Movie-1986]_Touch__Sebangou_no_Nai_Ace/Touch__Sebangou_no_Nai_Ace_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][83A7DB30].avi
 !new/upload/[Movie-1987]_Touch_3__Kimi_ga_Toorisugita_Ato_ni_-_Don_t_Pass_Me_By/Touch_3__Kimi_ga_Toorisugita_Ato_ni_-_Don_t_Pass_Me_By_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][FBFB9072].avi
@@ -288,18 +261,6 @@
 !new/upload/[Movie-2002]_Inuyasha__Kagami_no_Naka_no_Mugenjou/Inuyasha__Kagami_no_Naka_no_Mugenjou_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][5BE86486].mkv
 !new/upload/[Movie-2003]_Inuyasha_-_Tenka_Hadou_no_Ken/Inuyasha_-_Tenka_Hadou_no_Ken_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][729CFBDD].mkv
 !new/upload/[Movie-2004]_Inuyasha__Guren_no_Houraijima/Inuyasha__Guren_no_Houraijima_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][ED7FAAFB].mkv
-!new/upload/[NipponSex]_(21.07.2010)_coμ_-Kuroi_Ryuu_to_Yasashii_Oukoku-_Original_Soundtrack_[Various]_(320k).rar
-!new/upload/[NipponSex]_(30.07.2010)_Oretachi_ni_Tsubasa_ha_nai_After_Story_OST_[Acchorike,_Misato_Aki]_(320k).rar
-!new/upload/[NipponSex]_(30.07.2010)_Vestige_-Yaiba_ni_Nokoru_ha_Kimi_no_Omokage-_OST_[Angel_Note,_Nakase_Hina,_Rita]_(320k).rar
-!new/upload/[Nipponsei] Dance In The Vampire Bund Original Soundtrack.zip
-!new/upload/[Nipponsei] Eve no Jikan Movie Original Soundtrack.zip
-!new/upload/[Nipponsei] K-ON!! ED2 Single - NO, Thank You! [Various].zip
-!new/upload/[Nipponsei] K-ON!! OP2 Single - Utauyo!! MIRACLE [Various].zip
-!new/upload/[Nipponsei] K-ON!! Original Soundtrack Vol.1.zip
-!new/upload/[Nipponsei] Senkou no Night Raid Original Soundtrack.zip
-!new/upload/[Nipponsei] Strike Witches 2 OP Single - STRIKE WITCHES 2 ~Egao no Mahou~ [Ishida Youko].zip
-!new/upload/[Nipponsei] Zettai Karen Children OVA OP Single - Seventh Heaven [Various].zip
-!new/upload/[OD-WPP]_Digimon_Xros_Wars_-_05_[A6B6C235].mkv
 !new/upload/[OVA-1989]_Kimagure_Orange_Road__Hawaiian_Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/upload/[OVA-1989]_Kimagure_Orange_Road__Shiroi_Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/upload/[OVA-1991]_Kimagure_Orange_Road__Omoi_Gakenai_Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -344,14 +305,6 @@
 !new/upload/[OVA-2008]_Saint_Seiya__Meiou_Hades_Elysion-hen/Saint_Seiya__Meiou_Hades_Elysion-hen_-_4[6]_-_The_Legendary_Gold_Cloths_[640x480][DVD][NankH-TMD][40D5147A]v2.mkv
 !new/upload/[OVA-2008]_Saint_Seiya__Meiou_Hades_Elysion-hen/Saint_Seiya__Meiou_Hades_Elysion-hen_-_5[6]_-_Awakening_from_Myth_[640x480][DVD][NankH-TMD][E1FD392C]v2.mkv
 !new/upload/[OVA-2008]_Saint_Seiya__Meiou_Hades_Elysion-hen/Saint_Seiya__Meiou_Hades_Elysion-hen_-_6[6]_-_To_the_World_where_Light_Overflows_[640x480][DVD][NankH-TMD][82AD6FEE]v2.mkv
-!new/upload/[Rumbel-Nakama]_Gintama_-_141_[H264][60AF6D4A].mkv
-!new/upload/[RyRo]_Digimon_Xros_Wars_-_05_(1280x720_x264_AAC)_[987FE371].mkv
-!new/upload/[RyRo]_Inazuma_Eleven_-_85_(1280x720_x264_AAC)_[FA3D411F].mkv
-!new/upload/[RyRo]_Inazuma_Eleven_-_86_(1280x720_x264_AAC)_[D9E083E4].mkv
-!new/upload/[Ryuumaru] Seitokai Yakuindomo - 03 [1024x576][8AA52B46].mkv
-!new/upload/[SHiN-gx] Working!! - 06 [848x480 h.264 AAC][705EE74B].mkv
-!new/upload/[SS]_Angel_Beats!_-_13_(1280x720_H.264)_[D8840574].mkv
-!new/upload/[Saizen]_Ashita_no_Joe_-_18_[DVD][24548935].mkv
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -747,20 +700,11 @@
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/upload/[TV_Special-1998]_Touch__Miss_Lonely_Yesterday_-_Arekara,_Kimi_wa/Touch - Special/[CA] Touch - Special [01E4B4F3].avi
 !new/upload/[TV_Special-2001]_Touch__Crossroad_-_Kaze_no_Yukue/Touch__Crossroad_-_Kaze_no_Yukue_-_1[1]_-_TV_Special_[640x480][MJN][54862002].avi
-!new/upload/[UTW]_Amagami_SS_-_06_[h264-720p][D8AA05E3].mkv
-!new/upload/[UTW]_Angel_Beats!_-_03_[BD][h264-1080p_FLAC][97725AE3].mkv
-!new/upload/[UTW]_Angel_Beats!_-_04_[BD][h264-1080p_FLAC][B6F8DE24].mkv
-!new/upload/[Wasurenai] Marie & Gali - 15 [H264 1280x720] [9BD56384].mkv
-!new/upload/[iSiscon]_Itou_Kanako_-_STEINS_GATE_Image_Song_&_Starry_Sky_~in_Spring~_Ending_Theme_-_A.R_&_Star-Crossed_[w_scans]_(FLAC).rar
-!new/upload/[iSiscon]_Toyosaki_Aki,_Hikasa_Youko,_Satou_Satomi,_Kotobuki_Minako,_Taketatsu_Ayana_-_K-ON!!_ED2_Single_-_NO,Thank_You!_[w_scans]_(FLAC).rar
-!new/upload/[iSiscon]_Toyosaki_Aki,_Hikasa_Youko,_Satou_Satomi,_Kotobuki_Minako,_Taketatsu_Ayana_-_K-ON!!_OP2_Single_-_Utauyo!!_MIRACLE_(FLAC).rar
-!new/upload/[iSiscon]_Various_Artists_-_GWAVE_2009_2nd_Ace_[w_scans]_(FLAC).rar
 !new/upload/[loner]_Yoko_Ishida_-_Strike_Witches_2_OP_Single_-_STRIKE_WITCHES_~Egao_no_Mahou~_[FLAC].7z
 !new/upload/[ray=out]_Gurren_Lagann_Parallel_Works_2_-_Gunmen_Symphonia_[DVD][5AE0DE60].mkv
 !new/upload/[ray=out]_Gurren_Lagann_Parallel_Works_2_-_The_sense_of_Wonder_[DVD][CA544CDB].mkv
 !new/upload/[ray=out]_Tengen_Toppa_Gurren_Lagann_KIRAMEKI★YOUKO_BOX_-PIECES_of_SWEET_STARS-_[DVD][3612BF83].mkv
 !new/upload/[ray=out]_Tengen_Toppa_Gurren_Lagann_KIRAMEKI★YOUKO_BOX_-PIECES_of_SWEET_STARS-_[DVD][FD550ACE].mkv
-!new/upload/[yibis]_One_Piece_460_[720p][8DC98723].mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -861,8 +805,6 @@
 !new/upload/bla/zx.black.heaven.12.sub.rar
 !new/upload/bla/zx.black.heaven.13.dub.avi
 !new/upload/bla/zx.black.heaven.13.sub.rar
-!new/upload/hs/[HorribleSubs] Densetsu no Yuusha no Densetsu - 05 [360p].mkv
-!new/upload/hs/[HorribleSubs] Mitsudomoe - 05 (1280x720).mkv
 !new/upload/lama/__/Ayakashi Ayashi [Nanashi-gg]/[Nanashi-gg] Ayakashi Ayashi - 01 [C5678D73].mkv
 !new/upload/lama/__/Ayakashi Ayashi [Nanashi-gg]/[Nanashi-gg] Ayakashi Ayashi - 02 [8BBF7C20].mkv
 !new/upload/lama/__/Ayakashi Ayashi [Nanashi-gg]/[Nanashi-gg] Ayakashi Ayashi - 03 [42811245].mkv

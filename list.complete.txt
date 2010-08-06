@@ -389,12 +389,6 @@ complete/a/Amatsuki/[Ureshii] Amatsuki - 11 [B0E19FB4].mkv
 complete/a/Amatsuki/[Ureshii] Amatsuki - 12 [C941FD0A].mkv
 complete/a/Amatsuki/[Ureshii] Amatsuki - 13 [End][33949FB4].mkv
 complete/a/Angel Beats! - Special/[Tortoise-Commie] Angel Beats! - Special [A423213C].mkv
-complete/a/Angel Beats!/[Mazui] Angel Beats! - 12 [234F6A36].mkv
-complete/a/Angel Beats!/[Mazui] Angel Beats! - 13 [End][22F46E66].mkv
-complete/a/Angel Beats!/[SS] Angel Beats! - 01 (1280x720) [9B213376].mkv
-complete/a/Angel Beats!/[SS] Angel Beats! - 02 (1280x720) [96A7F8D5].mkv
-complete/a/Angel Beats!/[SS] Angel Beats! - 03 (1280x720) [7378C000].mkv
-complete/a/Angel Beats!/[SS] Angel Beats! - 04 (1280x720) [D579D97B].mkv
 complete/a/Angel Beats!/[SS] Angel Beats! - 05 (1280x720) [9DF68ACB].mkv
 complete/a/Angel Beats!/[SS] Angel Beats! - 06 (1280x720) [A01DDBD8].mkv
 complete/a/Angel Beats!/[SS] Angel Beats! - 07 (1280x720) [AF6C20D3].mkv
@@ -403,8 +397,11 @@ complete/a/Angel Beats!/[SS] Angel Beats! - 09 (1280x720) [882C4613].mkv
 complete/a/Angel Beats!/[SS] Angel Beats! - 10 (1280x720) [D62F78A6].mkv
 complete/a/Angel Beats!/[SS] Angel Beats! - 11 (1280x720) [638A01A9].mkv
 complete/a/Angel Beats!/[SS] Angel Beats! - 12 (1280x720) [71C8E87A].mkv
+complete/a/Angel Beats!/[SS] Angel Beats! - 13 (1280x720) [End][D8840574].mkv
 complete/a/Angel Beats!/[UTW] Angel Beats! - 01 (1920x1080) [BD][6B6D6A0A].mkv
 complete/a/Angel Beats!/[UTW] Angel Beats! - 02 (1920x1080) [BD][581C8EA8].mkv
+complete/a/Angel Beats!/[UTW] Angel Beats! - 03 (1920x1080) [BD][97725AE3].mkv
+complete/a/Angel Beats!/[UTW] Angel Beats! - 04 (1920x1080) [BD][B6F8DE24].mkv
 complete/a/Angelique - Kagayaki no Ashita OVA/[SMS] Angelique - Kagayaki no Ashita - OVA [761AC663].mkv
 complete/a/Ani-Kuri 15/[Doremi] Ani-Kuri 15 (1920x1080) [1D80604C].mkv
 complete/a/Antique Bakery/[gg] Antique Bakery - 01 [7533E2C5].mkv
@@ -10928,20 +10925,18 @@ complete/s/Strawberry Panic/[Doremi] Strawberry Panic - 24 [48F042E4].mkv
 complete/s/Strawberry Panic/[Doremi] Strawberry Panic - 25 [2DA75C05].mkv
 complete/s/Strawberry Panic/[Doremi] Strawberry Panic - 26 [End][C4D63ACF].mkv
 complete/s/Strike Witches OVA/[StrikeS] Strike Witches OVA [25A3DAAF].mkv
-complete/s/Strike Witches/[Underwater] Strike Witches - 01 [DVD][524460D1].mkv
-complete/s/Strike Witches/[Underwater] Strike Witches - 02 [DVD][F690D33D].mkv
-complete/s/Strike Witches/[Underwater] Strike Witches - 03 [DVD][D35C2D29].mkv
-complete/s/Strike Witches/[Underwater] Strike Witches - 04 [DVD][BBC04CE1].mkv
-complete/s/Strike Witches/[Underwater] Strike Witches - 05 [DVD][0F79F444].mkv
-complete/s/Strike Witches/[Underwater] Strike Witches - 06 [DVD][A5EA3CEA].mkv
-complete/s/Strike Witches/[Underwater] Strike Witches - 07 [DVD][B8E74E35].mkv
-complete/s/Strike Witches/[Underwater] Strike Witches - 08 [DVD][3D3F8086].mkv
-complete/s/Strike Witches/[Underwater] Strike Witches - 09 [DVD][FEC25C86].mkv
-complete/s/Strike Witches/[Underwater] Strike Witches - 10 [DVD][337CEC1F].mkv
-complete/s/Strike Witches/[Underwater] Strike Witches - 11 [DVD][37FB4D4A].mkv
-complete/s/Strike Witches/[Underwater] Strike Witches - 12 [End][DVD][EF314992].mkv
-complete/s/Strike Witches/[Underwater] Strike Witches - Ending [DVD][0BD38F27].mkv
-complete/s/Strike Witches/[Underwater] Strike Witches - Opening [DVD][7FE9F98F].mkv
+complete/s/Strike Witches/[Coalgirls] Strike Witches - 01 (1280x720) [BD][AF4B942E].mkv
+complete/s/Strike Witches/[Coalgirls] Strike Witches - 02 (1280x720) [BD][A99DE9F7].mkv
+complete/s/Strike Witches/[Coalgirls] Strike Witches - 03 (1280x720) [BD][B4422D47].mkv
+complete/s/Strike Witches/[Coalgirls] Strike Witches - 04 (1280x720) [BD][25A52421].mkv
+complete/s/Strike Witches/[Coalgirls] Strike Witches - 05 (1280x720) [BD][D0AF86DB].mkv
+complete/s/Strike Witches/[Coalgirls] Strike Witches - 06 (1280x720) [BD][D7F2E6AF].mkv
+complete/s/Strike Witches/[Coalgirls] Strike Witches - 07 (1280x720) [BD][1FAF1298].mkv
+complete/s/Strike Witches/[Coalgirls] Strike Witches - 08 (1280x720) [BD][AE198885].mkv
+complete/s/Strike Witches/[Coalgirls] Strike Witches - 09 (1280x720) [BD][438BF675].mkv
+complete/s/Strike Witches/[Coalgirls] Strike Witches - 10 (1280x720) [BD][9A85F7B0].mkv
+complete/s/Strike Witches/[Coalgirls] Strike Witches - 11 (1280x720) [BD][5407B208].mkv
+complete/s/Strike Witches/[Coalgirls] Strike Witches - 12 (1280x720) [End][BD][6348A9F6].mkv
 complete/s/Sumomo mo Momo mo OVA/[Yabai] Sumomomo Momomo - 23 OVA [DVD][B1FBF6A0].mkv
 complete/s/Sumomo mo Momo mo OVA/[Yabai] Sumomomo Momomo - 24 OVA [DVD][5CF41FA4].mkv
 complete/s/Sumomo mo Momo mo/[Froth-Bite] Sumomo mo Momo mo - 01 [BCF2FC16].mp4
@@ -11361,6 +11356,17 @@ complete/t/The Skull Man/[Shinsen-Subs] The Skull Man - 11 [C1530719].avi
 complete/t/The Skull Man/[Shinsen-Subs] The Skull Man - 12 [E1189689].avi
 complete/t/The Skull Man/[Shinsen-Subs] The Skull Man - 13 [End][FCEB7441].avi
 complete/t/The Sky Crawlers/[gg-THORA] The Sky Crawlers (1280x720) [D4C2F99E].mkv
+complete/t/The Tatami Galaxy/[Commie] The Tatami Galaxy - 01 [3F092F05].mkv
+complete/t/The Tatami Galaxy/[Commie] The Tatami Galaxy - 02 [F30A228E].mkv
+complete/t/The Tatami Galaxy/[Commie] The Tatami Galaxy - 03 [0936F17D].mkv
+complete/t/The Tatami Galaxy/[J-pwq] The Tatami Galaxy - 04 [43576F2D].mkv
+complete/t/The Tatami Galaxy/[J-pwq] The Tatami Galaxy - 05 [0FE6E16E].mkv
+complete/t/The Tatami Galaxy/[J-pwq] The Tatami Galaxy - 06 [FEC7998F].mkv
+complete/t/The Tatami Galaxy/[J-pwq] The Tatami Galaxy - 07 [59E9A121].mkv
+complete/t/The Tatami Galaxy/[J-pwq] The Tatami Galaxy - 08 [EF540113].mkv
+complete/t/The Tatami Galaxy/[J-pwq] The Tatami Galaxy - 09 [AEC02994].mkv
+complete/t/The Tatami Galaxy/[J-pwq] The Tatami Galaxy - 10 [231A3E93].mkv
+complete/t/The Tatami Galaxy/[J-pwq] The Tatami Galaxy - 11 [End][931F1CFF].mkv
 complete/t/The Third - Aoi Hitomi no Shoujo/[Ayu] The Third - Aoi Hitomi no Shoujo - 01 [02F71A89].avi
 complete/t/The Third - Aoi Hitomi no Shoujo/[Ayu] The Third - Aoi Hitomi no Shoujo - 02 [DDFB905E].avi
 complete/t/The Third - Aoi Hitomi no Shoujo/[Ayu] The Third - Aoi Hitomi no Shoujo - 03 [B7592269].avi
@@ -12377,7 +12383,6 @@ complete/w/Witchblade/[Makoto] Witchblade - 23 [DVD][1D4E6CED].mkv
 complete/w/Witchblade/[Makoto] Witchblade - 24 [End][DVD][FAEB8F27].mkv
 complete/w/Working!!/[FFFpeeps] Working!! - 10 [274121A7].mkv
 complete/w/Working!!/[FFFpeeps] Working!! - 12 [8F468685].mkv
-complete/w/Working!!/[Himatsubushi] Working!! - 06 [FD80F3CA].mkv
 complete/w/Working!!/[Himatsubushi] Working!! - 07 [BDECF697].mkv
 complete/w/Working!!/[Himatsubushi] Working!! - 08 [47A6C966].mkv
 complete/w/Working!!/[Himatsubushi] Working!! - 09 [40B10963].mkv
@@ -12388,6 +12393,7 @@ complete/w/Working!!/[SHiN-gx] Working!! - 02 [DVD][053BAC1C].mkv
 complete/w/Working!!/[SHiN-gx] Working!! - 03 [DVD][4B8D9505].mkv
 complete/w/Working!!/[SHiN-gx] Working!! - 04 [1E20442D].mkv
 complete/w/Working!!/[SHiN-gx] Working!! - 05 [828CD764].mkv
+complete/w/Working!!/[SHiN-gx] Working!! - 06 [705EE74B].mkv
 complete/w/World Destruction/[Osu!] World Destruction - 01 (1280x720) [84AF69E2].mkv
 complete/w/World Destruction/[Osu!] World Destruction - 02 (1280x720) [BFFE1AF9].mkv
 complete/w/World Destruction/[Osu!] World Destruction - 03 [EEEB75A8].mkv
@@ -12918,6 +12924,7 @@ complete/z/Zeta Gundam/[EG] Zeta Gundam - Ending 1 [BD][8BB539EF].mkv
 complete/z/Zeta Gundam/[EG] Zeta Gundam - Ending 2 [BD][F83F4D49].mkv
 complete/z/Zeta Gundam/[EG] Zeta Gundam - Opening 1 [BD][0C721EAB].mkv
 complete/z/Zeta Gundam/[EG] Zeta Gundam - Opening 2 [BD][6C8357CE].mkv
+complete/z/Zettai Karen Children OVA/[Chihiro] Zettai Karen Children OVA [8628ABCB].mkv
 complete/z/Zettai Karen Children/[Chihiro] Zettai Karen Children - 15 [36C55993].mkv
 complete/z/Zettai Karen Children/[Chihiro] Zettai Karen Children - 16 [19495A57].mkv
 complete/z/Zettai Karen Children/[Chihiro] Zettai Karen Children - 17 [487C34AB].mkv

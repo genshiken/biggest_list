@@ -48,6 +48,7 @@ incomplete/Amagami SS/[Eclipse] Amagami SS - 04 (1280x720) [9439459B].mkv
 incomplete/Amagami SS/[Eclipse] Amagami SS - 05 (1280x720) [5E9FAB73].mkv
 incomplete/Amagami SS/[UTW] Amagami SS - 04 (1280x720) [AD539A08].mkv
 incomplete/Amagami SS/[UTW] Amagami SS - 05 (1280x720) [6164F8BF].mkv
+incomplete/Amagami SS/[UTW] Amagami SS - 06 (1280x720) [D8AA05E3].mkv
 incomplete/Angel Heart/[Ani-Kraze] Angel Heart - 02 [A954E411].avi
 incomplete/Angel Heart/[Ani-Kraze] Angel Heart - 03 [CD2D52CA].avi
 incomplete/Angel Heart/[Ani-Kraze] Angel Heart - 04 [32C0C7F0].avi
@@ -152,6 +153,7 @@ incomplete/Ashita no Joe/[Saizen] Ashita no Joe - 14 [DVD][B7B192EE].mkv
 incomplete/Ashita no Joe/[Saizen] Ashita no Joe - 15 [DVD][5E775B49].mkv
 incomplete/Ashita no Joe/[Saizen] Ashita no Joe - 16 [DVD][8B8D3011].mkv
 incomplete/Ashita no Joe/[Saizen] Ashita no Joe - 17 [DVD][4E562BCD].mkv
+incomplete/Ashita no Joe/[Saizen] Ashita no Joe - 18 [DVD][24548935].mkv
 incomplete/Ask Dr. Rin!/[HnK & L-E] Ask Dr. Rin! - 01 [8A308477].avi
 incomplete/Ask Dr. Rin!/[HnK & L-E] Ask Dr. Rin! - 02 [3C2C41AD].avi
 incomplete/Ask Dr. Rin!/[HnK & L-E] Ask Dr. Rin! - 03 [98A38321].avi
@@ -163,6 +165,7 @@ incomplete/Ask Dr. Rin!/[HnK & L-E] Ask Dr. Rin! - 08 [7001DA65].avi
 incomplete/Ask Dr. Rin!/[HnK & L-E] Ask Dr. Rin! - 09 [69294171].avi
 incomplete/Ask Dr. Rin!/[HnK & L-E] Ask Dr. Rin! - 10 [23C37344].avi
 incomplete/Ask Dr. Rin!/[HnK & L-E] Ask Dr. Rin! - 11 [580BE701].avi
+incomplete/Asobi ni Iku Yo!/[Ayako-SubDESU] Asobi ni Iku Yo! - 01 (1280x720) [v2][99A5B7E4].mkv
 incomplete/Asobi ni Iku Yo!/[Ayako-SubDESU] Asobi ni Iku Yo! - 04 (1280x720) [6C43359B].mkv
 incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 01 [v3][079EFF6D].mkv
 incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 02 [4796E9B8].mkv
@@ -568,9 +571,11 @@ incomplete/Digimon Xros Wars/[OD-WPP] Digimon Xros Wars - 01 (1280x720) [911339D
 incomplete/Digimon Xros Wars/[OD-WPP] Digimon Xros Wars - 02 (1280x720) [DE5BDA94].mkv
 incomplete/Digimon Xros Wars/[OD-WPP] Digimon Xros Wars - 03 (1280x720) [BFBCF376].mkv
 incomplete/Digimon Xros Wars/[OD-WPP] Digimon Xros Wars - 04 (1280x720) [CDA778E2].mkv
+incomplete/Digimon Xros Wars/[OD-WPP] Digimon Xros Wars - 05 [A6B6C235].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 01 (1280x720) [EF50D001].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 02 (1280x720) [16DC8D8E].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 03 (1280x720) [E022751F].mkv
+incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 05 (1280x720) [987FE371].mkv
 incomplete/Dirty Pair TV/[FLF & L-E] Dirty Pair TV - 01 [9689517F].mkv
 incomplete/Dirty Pair TV/[FLF & L-E] Dirty Pair TV - 02 [793D547A].mkv
 incomplete/Dirty Pair TV/[FLF & L-E] Dirty Pair TV - 03 [AEF9424F].mkv
@@ -747,6 +752,7 @@ incomplete/Gintama/[Rumbel-Nakama] Gintama - 137 [BD798DCD].mkv
 incomplete/Gintama/[Rumbel-Nakama] Gintama - 138 [F6ACE39F].mkv
 incomplete/Gintama/[Rumbel-Nakama] Gintama - 139 [0E3BE8F4].mkv
 incomplete/Gintama/[Rumbel-Nakama] Gintama - 140 [26DFB28E].mkv
+incomplete/Gintama/[Rumbel-Nakama] Gintama - 141 [60AF6D4A].mkv
 incomplete/Gintama/[Rumbel-sMi] Gintama - 068 [0F52624F].mkv
 incomplete/Gintama/[Rumbel-sMi] Gintama - 069 [3A9CE0EC].mkv
 incomplete/Gintama/[Rumbel-sMi] Gintama - 070 [5F0520D8].mkv
@@ -904,6 +910,7 @@ incomplete/Golgo 13/[Doutei] Golgo 13 - 32 [346157C3].mkv
 incomplete/Golgo 13/[Doutei] Golgo 13 - 33 [52669673].mkv
 incomplete/Golgo 13/[Doutei] Golgo 13 - 34 [207E15F7].mkv
 incomplete/Golgo 13/[Doutei] Golgo 13 - 35 [DVD][EC908806].mkv
+incomplete/Golgo 13/[Doutei] Golgo 13 - 36 [DVD][9D2BF035].mkv
 incomplete/Golgo 13/[fucmnack] Golgo 13 - 18 (1280x720) [9613CDC3].mkv
 incomplete/Golgo 13/[fucmnack] Golgo 13 - 19 (1280x720) [0B9C4756].mkv
 incomplete/Golgo 13/[fucmnack] Golgo 13 - 20 (1280x720) [3B9F601A].mkv
@@ -1038,6 +1045,7 @@ incomplete/Heroman/[HorribleSubs] Heroman - 15 (1280x720) [9E24B23C].mkv
 incomplete/Heroman/[HorribleSubs] Heroman - 16 (1280x720) [0775443D].mkv
 incomplete/Heroman/[HorribleSubs] Heroman - 17 (1280x720) [0A32033D].mkv
 incomplete/Heroman/[HorribleSubs] Heroman - 18 (1280x720) [146E6680].mkv
+incomplete/Heroman/[HorribleSubs] Heroman - 19 (1280x720) [8EC7F8BB].mkv
 incomplete/Hetalia Axis Powers/[gg] Hetalia Axis Powers - 01 [DVD][E68B5765].mkv
 incomplete/Hetalia Axis Powers/[gg] Hetalia Axis Powers - 02 [DVD][23C618E5].mkv
 incomplete/Hetalia Axis Powers/[gg] Hetalia Axis Powers - 03 [DVD][018F3E7B].mkv
@@ -1250,6 +1258,8 @@ incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 81 (1280x720) [A36C0DB2].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 82 (1280x720) [A9A8EF2B].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 83 (1280x720) [F72C60B6].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 84 (1280x720) [605823D2].mkv
+incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 85 (1280x720) [FA3D411F].mkv
+incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 86 (1280x720) [D9E083E4].mkv
 incomplete/Initial D Battle Stage/[Shinsen-Subs] Initial D Battle Stage - 2 [End][B54855AA].mkv
 incomplete/Inuyasha Kanketsu-hen/[O-L] Inuyasha Kanketsu-hen - 01 (1280x720) [686D7CCE].mkv
 incomplete/Inuyasha Kanketsu-hen/[O-L] Inuyasha Kanketsu-hen - 02 (1280x720) [A0F39387].mkv
@@ -1274,6 +1284,7 @@ incomplete/Jushin Liger/[Onibaku] Jushin Liger - 01 [D58023F1].mkv
 incomplete/Juuni Kokuki/[Arigatou] Juuni Kokuki - 01 [800E8F88].mkv
 incomplete/Juushin Enbu - Hero Tales/[DATS] Juushin Enbu - Hero Tales - 03 (1280x720) [3BD687F3].mkv
 incomplete/Juushin Enbu - Hero Tales/[Gekkostate] Juushin Enbu - Hero Tales - 01 (1024x576) [A06DD797].mp4
+incomplete/K-ON!!/[CoalGuys] K-ON!! - 18 [63552577].mkv
 incomplete/K-ON!!/[Frostii] K-ON!! - 01 [A4D58BA0].mkv
 incomplete/K-ON!!/[Frostii] K-ON!! - 02 [CBE8AFDC].mkv
 incomplete/K-ON!!/[Frostii] K-ON!! - 03 [6585A6D6].mkv
@@ -1830,8 +1841,8 @@ incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 10 (1280x720) [v2][4A1D1C25].
 incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 11 (1280x720) [15B4E490].mkv
 incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 12 (1280x720) [22D5E320].mkv
 incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 13 (1280x720) [F04F4BB4].mkv
-incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 14 (1280x720) [E97FA167].mkv
 incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 14 (1280x720) [v2][994BB917].mkv
+incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 15 (1280x720) [9BD56384].mkv
 incomplete/Mermaid Melody Pichi Pichi Pitch/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 47 [DVD][74E5AD02].avi
 incomplete/Might Gaine/[Nyoro~n Subs] Might Gaine - 01 [E4BED354].mkv
 incomplete/Minami-ke Drama CD/[BSS] Minami-ke Drama CD - 01 - Rolling Around [93DC7733].mkv
@@ -1854,6 +1865,7 @@ incomplete/Mitsudomoe/[HorribleSubs] Mitsudomoe - 01 (1280x720) [56B68B19].mkv
 incomplete/Mitsudomoe/[HorribleSubs] Mitsudomoe - 02 (1280x720) [7048D204].mkv
 incomplete/Mitsudomoe/[HorribleSubs] Mitsudomoe - 03 (1280x720) [E3886CA2].mkv
 incomplete/Mitsudomoe/[HorribleSubs] Mitsudomoe - 04 (1280x720) [9E43A9AD].mkv
+incomplete/Mitsudomoe/[HorribleSubs] Mitsudomoe - 05 (1280x720) [1756056F].mkv
 incomplete/Mitsudomoe/[RaveSubs] Mitsudomoe - 01 (1280x720) [v2][8E6792C6].mkv
 incomplete/Mitsudomoe/[RaveSubs] Mitsudomoe - 02 (1280x720) [E8513815].mkv
 incomplete/Mitsudomoe/[RaveSubs] Mitsudomoe - 03 (1280x720) [v2][B0BE5B25].mkv
@@ -1949,6 +1961,7 @@ incomplete/Nanami-chan/[Froth-Bite] Nanami-chan - 18 [72B49597].mp4
 incomplete/Nanami-chan/[Froth-Bite] Nanami-chan - 32 [658664F4].mp4
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuden - 171 (1280x720) [F8B9ED50].mkv
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 168 (1280x720) [B4DBD6A4].mkv
+incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 172 (1280x720) [57B98F66].mkv
 incomplete/Naruto/[AonE] Naruto - 158 [336D6158].avi
 incomplete/Naruto/[DB] Naruto - 135 [72843002].avi
 incomplete/Naruto/[DB] Naruto - 136 [EE9A3057].avi
@@ -1985,6 +1998,7 @@ incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 01 [v2][E46F2A29].mk
 incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 02 [754FE16D].mkv
 incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 03 [78D2C5C7].mkv
 incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 04 [54254C18].mkv
+incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 05 [A78726D7].mkv
 incomplete/Occult Academy/[Commie] Occult Academy - 01 [v2][3BD9BD2D].mkv
 incomplete/Occult Academy/[Commie] Occult Academy - 02 [FCF0006A].mkv
 incomplete/Occult Academy/[Commie] Occult Academy - 03 [E736AFE0].mkv
@@ -2501,11 +2515,13 @@ incomplete/One Piece/[yibis] One Piece - 456 (1280x720) [AD1DAF74].mkv
 incomplete/One Piece/[yibis] One Piece - 457 (1280x720) [62D6E5B6].mkv
 incomplete/One Piece/[yibis] One Piece - 458 (1280x720) [7CB7D473].mkv
 incomplete/One Piece/[yibis] One Piece - 459 (1280x720) [1825A179].mkv
+incomplete/One Piece/[yibis] One Piece - 460 (1280x720) [8DC98723].mkv
 incomplete/Ookami-san/[Mazui] Ookami-san - 01 [85C5D887].mkv
 incomplete/Ookami-san/[Mazui] Ookami-san - 02 [568FF795].mkv
 incomplete/Ookami-san/[Mazui] Ookami-san - 03 [9078B82B].mkv
 incomplete/Ookami-san/[Mazui] Ookami-san - 04 [AC1724F1].mkv
 incomplete/Ookami-san/[Mazui] Ookami-san - 05 [33ACB0A5].mkv
+incomplete/Ookami-san/[Mazui] Ookami-san - 06 [4A1AB63B].mkv
 incomplete/Patalliro/[aarinfantasy] Patalliro - 14 [B04ACEDC].avi
 incomplete/Perrine/[C1] Perrine - 01 [DD61EE37].avi
 incomplete/Perrine/[C1] Perrine - 02 [7D8E124B].avi
@@ -2539,6 +2555,7 @@ incomplete/Perrine/[C1] Perrine - 29 [55362434].avi
 incomplete/Perrine/[C1] Perrine - 30 [79B313BA].avi
 incomplete/Perrine/[C1] Perrine - 31 [5669D8CF].avi
 incomplete/Perrine/[C1] Perrine - 32 [51DBDC1F].avi
+incomplete/Perrine/[C1] Perrine - 33 [028AD159].avi
 incomplete/Popolocrois Story/[A-BT & Pakapuka] Popolocrois Story - 25 [End][F3B59583].avi
 incomplete/Popolocrois Story/[A-BT-Pakapuka] PopoloCrois Story - 21 [10B31944].avi
 incomplete/Popolocrois Story/[A-BT-Pakapuka] PopoloCrois Story - 22 [1CD068FE].avi
@@ -2560,6 +2577,7 @@ incomplete/Rainbow/[FroZen] Rainbow - 09 [50E35889].mkv
 incomplete/Rainbow/[FroZen] Rainbow - 10 [43C5958F].mkv
 incomplete/Rainbow/[FroZen] Rainbow - 11 [A588487A].mkv
 incomplete/Rainbow/[FroZen] Rainbow - 12 [A8BD2409].mkv
+incomplete/Rainbow/[FroZen] Rainbow - 14 [8EC8784F].mkv
 incomplete/Reform Without Wasted Draws - The Legend of Koizumi/[gg] Reform Without Wasted Draws - The Legend of Koizumi - 01 [Webcast][61B04813].mkv
 incomplete/Rockman EXE Beast/[WPP de Puku] Rockman EXE Beast - 17 [D12F8EC3].avi
 incomplete/Rockman.EXE Axess/[wpp] Rockman.EXE Axess - 01 [4BF2D92B].avi
@@ -2700,12 +2718,14 @@ incomplete/Seitokai Yakuindomo/[Ayako] Seitokai Yakuindomo - 04 (1280x720) [3FF6
 incomplete/Seitokai Yakuindomo/[Ayako] Seitokai Yakuindomo - 05 (1280x720) [F49CC1EB].mkv
 incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 01 (1024x576) [v2][383FD033].mkv
 incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 02 (1024x576) [942D6FB9].mkv
+incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 03 (1024x576) [8AA52B46].mkv
 incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 01 (1280x720) [804D1CBC].mkv
 incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 02 (1280x720) [826D5501].mkv
 incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 03 (1280x720) [0EF556CA].mkv
 incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - 01 [BD8BC276].mkv
 incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - 02 [93B0D6D5].mkv
 incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - 03 [127DB50F].mkv
+incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - 04 [5247BC44].mkv
 incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - Opening [F8076451].mkv
 incomplete/Senkou no Night Raid/[Commie] Senkou no Night Raid - 01 [D5EE9405].mkv
 incomplete/Senkou no Night Raid/[KnKF-Conclave] Senkou no Night Raid - 01 (1280x720) [CA953645].mkv
@@ -2726,6 +2746,7 @@ incomplete/Shakugan no Shana S OVA/[SS-Eclipse] Shakugan no Shana S OVA - 2 (128
 incomplete/Shiki/[Commie] Shiki - 01 [v2][FBB2EA96].mkv
 incomplete/Shiki/[Commie] Shiki - 02 [6D0BD07B].mkv
 incomplete/Shiki/[Commie] Shiki - 03 [E600A5D1].mkv
+incomplete/Shiki/[Commie] Shiki - 04 [0A9F1BCF].mkv
 incomplete/Shugo Chara! Party!/[Fubuki] Shugo Chara! Party! - 01 (1280x720) [049EC961].mkv
 incomplete/Shugo Chara! Party!/[Fubuki] Shugo Chara! Party! - 02 (1280x720) [B6E53932].mkv
 incomplete/Shugo Chara! Party!/[Fubuki] Shugo Chara! Party! - 03 (1280x720) [1BDF2EED].mkv
@@ -2849,6 +2870,7 @@ incomplete/Souten Kouro/[Lunar] Souten Kouro - 07 (1280x720) [12112170].mkv
 incomplete/Souten Kouro/[Lunar] Souten Kouro - 08 (1280x720) [5342C117].mkv
 incomplete/Souten Kouro/[Lunar] Souten Kouro - 09 (1280x720) [8ACE6834].mkv
 incomplete/Souten no Ken/[Sentosha] Souten no Ken - 01 [DVD][7CBE4115].avi
+incomplete/Strike Witches 2/[HorribleSubs] Strike Witches 2 - 05 (1280x720) [0EEC6CCB].mkv
 incomplete/Strike Witches 2/[Underwater] Strike Witches 2 - 01 (1280x720) [v2][D901D7EE].mkv
 incomplete/Strike Witches 2/[Underwater] Strike Witches 2 - 02 (1280x720) [59BC29E8].mkv
 incomplete/Strike Witches 2/[Underwater] Strike Witches 2 - 03 (1280x720) [7E6B9956].mkv
@@ -2861,6 +2883,7 @@ incomplete/The Legend of the Legendary Heroes/[Commie] The Legend of the Legenda
 incomplete/The Legend of the Legendary Heroes/[Commie] The Legend of the Legendary Heroes - 02 [v2][AE5AACC7].mkv
 incomplete/The Legend of the Legendary Heroes/[Commie] The Legend of the Legendary Heroes - 03 [F9410F5A].mkv
 incomplete/The Legend of the Legendary Heroes/[Commie] The Legend of the Legendary Heroes - 04 [7288D664].mkv
+incomplete/The Legend of the Legendary Heroes/[Commie] The Legend of the Legendary Heroes - 05 [27A879A4].mkv
 incomplete/The Melancholy of Haruhi Suzumiya S2/[CoalGG] The Melancholy of Haruhi Suzumiya S2 - 01 [v2][A905C5A6].mkv
 incomplete/The Melancholy of Haruhi Suzumiya S2/[a.f.k.] The Melancholy of Haruhi Suzumiya S2 - 02 [074EF365].avi
 incomplete/The Melancholy of Haruhi Suzumiya S2/[a.f.k.] The Melancholy of Haruhi Suzumiya S2 - 03 [F6D1A015].avi
@@ -2920,16 +2943,6 @@ incomplete/The Snow Queen/[Live-eviL] The Snow Queen - 20 [2AADCD14].mp4
 incomplete/The Snow Queen/[Live-eviL] The Snow Queen - 21 [4E380EFC].mp4
 incomplete/The Snow Queen/[Live-eviL] The Snow Queen - 22 [7906E687].mp4
 incomplete/The Snow Queen/[Live-eviL] The Snow Queen - 23 [DEE1AD14].mp4
-incomplete/The Tatami Galaxy/[Commie] The Tatami Galaxy - 01 [3F092F05].mkv
-incomplete/The Tatami Galaxy/[Commie] The Tatami Galaxy - 02 [F30A228E].mkv
-incomplete/The Tatami Galaxy/[Commie] The Tatami Galaxy - 03 [0936F17D].mkv
-incomplete/The Tatami Galaxy/[J-pwq] The Tatami Galaxy - 04 [43576F2D].mkv
-incomplete/The Tatami Galaxy/[J-pwq] The Tatami Galaxy - 05 [0FE6E16E].mkv
-incomplete/The Tatami Galaxy/[J-pwq] The Tatami Galaxy - 06 [FEC7998F].mkv
-incomplete/The Tatami Galaxy/[J-pwq] The Tatami Galaxy - 07 [59E9A121].mkv
-incomplete/The Tatami Galaxy/[J-pwq] The Tatami Galaxy - 09 [AEC02994].mkv
-incomplete/The Tatami Galaxy/[J-pwq] The Tatami Galaxy - 10 [231A3E93].mkv
-incomplete/The Tatami Galaxy/[J-pwq] The Tatami Galaxy - 11 [End][931F1CFF].mkv
 incomplete/The Trapp Family Story/[Live-eviL] The Trapp Family Story - 01 [B12BB06F].avi
 incomplete/The Trapp Family Story/[Live-eviL] The Trapp Family Story - 02 [B226A997].avi
 incomplete/The Trapp Family Story/[Live-eviL] The Trapp Family Story - 03 [C9F86AAC].avi
