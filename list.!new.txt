@@ -17,6 +17,8 @@
 !new/upload/Black Rock Shooter OVA/[Mazui] Black Rock Shooter OVA [2022D8AE].mkv
 !new/upload/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/upload/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
+!new/upload/Carol_-_1_-_OVA_-_(RAW).avi
+!new/upload/Carol_-_1_-_OVA_-_(RAW).ssa
 !new/upload/CoreAVC_2.0_Professional_with_key.rar
 !new/upload/Diebuster_Movie_(2006)_[720p,BluRay,x264,DTS]_-_THORA.mkv
 !new/upload/Gunbuster_Movie_(1988)_[720p,BluRay,x264]_part1_-_THORA.mkv
@@ -247,7 +249,9 @@
 !new/upload/[Coalgirls] Canaan - 13 (1280x720) [End][BD][3788D934].mkv
 !new/upload/[Coalgirls] Canaan - Ending (1280x720) [BD][3B12BB6F].mkv
 !new/upload/[Coalgirls] Canaan - Opening (1280x720) [BD][5619738F].mkv
+!new/upload/[Commie] Asobi ni Ikuyo! - 04 [693E3458].mkv
 !new/upload/[Commie] Nurarihyon no Mago - 05 [A78726D7].mkv
+!new/upload/[Commie] Seikimatsu Occult Gakuin - 05 [FB3D283E].mkv
 !new/upload/[D-A]Love Hina Again - 01 (DivX 5.0.5).ogm
 !new/upload/[D-A]Love Hina Again - 02 (DivX 5.0.5).ogm
 !new/upload/[D-A]Love Hina Again - 03 (DivX 5.0.5).ogm
@@ -259,6 +263,8 @@
 !new/upload/[EAC] [100804] TVアニメ けいおん!! ED2 「NO, Thank You!」[初回限定盤]／放課後ティータイム (wav+cue+BK).rar
 !new/upload/[EAC] [100804] TVアニメ けいおん!! OP2 「Utauyo!!MIRACLE」[初回限定盤]／放課後ティータイム (wav+cue+BK).rar
 !new/upload/[Eclipse] Amagami SS - 06 (1280x720 h264) [3ECC82BB].mkv
+!new/upload/[FTV-Wasurenai] 11eyes - 01 [1280x720 BD H264] [07238189].mkv
+!new/upload/[FTV-Wasurenai] 11eyes - 02 [1280x720 BD H264] [85D7593D].mkv
 !new/upload/[HorribleSubs] Kateikyoushi Hitman Reborn - 196 [720p].mkv
 !new/upload/[HorribleSubs] Mitsudomoe - 06 [720p].mkv
 !new/upload/[KAA]_Love_Hina_Spring_Movie.DVD[866F2857].avi
@@ -732,6 +738,7 @@
 !new/upload/[Wasurenai-imuR88] Bihada Ichizoku - 12 [H264 1280x720] [96663393].mkv
 !new/upload/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 48 [DVD XviD 640x476] [FD3E3AAA].avi
 !new/upload/[aether] MELL - RIDEBACK [9C86F8A0].mkv
+!new/upload/[iSiscon]_Sakakibara_Yui_-_Sora_wo_Aogite_Kumo_Takaku_OP_ED_Single_-_Let's_start_now_[w_scans]_(FLAC).rar
 !new/upload/[iSiscon]_Various_Artists_-_Sphere_Harukana_Sora_Character_Song_CD_[w_scans]_(FLAC).rar
 !new/upload/[loner]_Yoko_Ishida_-_Strike_Witches_2_OP_Single_-_STRIKE_WITCHES_~Egao_no_Mahou~_[FLAC].7z
 !new/upload/[ray=out]_Gurren_Lagann_Parallel_Works_2_-_Gunmen_Symphonia_[DVD][5AE0DE60].mkv
