@@ -224,6 +224,7 @@
 !new/upload/[EAC] [100804] TVアニメ けいおん!! ED2 「NO, Thank You!」[初回限定盤]／放課後ティータイム (wav+cue+BK).rar
 !new/upload/[EAC] [100804] TVアニメ けいおん!! OP2 「Utauyo!!MIRACLE」[初回限定盤]／放課後ティータイム (wav+cue+BK).rar
 !new/upload/[HorribleSubs] HEROMAN - 20 [720p].mkv
+!new/upload/[HorribleSubs] Naruto Shippuuden - 173 [720p].mkv
 !new/upload/[HorribleSubs] Strike Witches 2 - 06 [720p].mkv
 !new/upload/[KAA]_Love_Hina_Spring_Movie.DVD[866F2857].avi
 !new/upload/[Konno Azure] Koe de Oshigoto! CH25 [Tonigobe].rar
@@ -297,6 +298,7 @@
 !new/upload/[OVA-2008]_Saint_Seiya__Meiou_Hades_Elysion-hen/Saint_Seiya__Meiou_Hades_Elysion-hen_-_6[6]_-_To_the_World_where_Light_Overflows_[640x480][DVD][NankH-TMD][82AD6FEE]v2.mkv
 !new/upload/[RyRo]_Inazuma_Eleven_-_87_(1280x720_x264_AAC)_[455FEBAA].mkv
 !new/upload/[RyRo]_Inazuma_Eleven_-_88-89_(1280x720_x264_AAC)_[93FE73A6].mkv
+!new/upload/[Ryuumaru] Seitokai Yakuindomo - 05 [1024x576][F53C4CA4].mkv
 !new/upload/[Seto_Otaku]_Rosario_to_Vampire_~Capu2~_-_07_[BD][1280x720_H264-AAC][0FBA931D].mkv
 !new/upload/[Seto_Otaku]_Rosario_to_Vampire_~Capu2~_-_08_[BD][1280x720_H264-AAC][F25D5DDA].mkv
 !new/upload/[Shinsen-Subs]_Kuroshitsuji_II_-_05_[1280x720_H.264_AAC][7DDA00EB].mkv
