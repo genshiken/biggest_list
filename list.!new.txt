@@ -23,7 +23,6 @@
 !new/upload/Diebuster_Movie_(2006)_[720p,BluRay,x264,DTS]_-_THORA.mkv
 !new/upload/Gunbuster_Movie_(1988)_[720p,BluRay,x264]_part1_-_THORA.mkv
 !new/upload/Gunbuster_Movie_(1988)_[720p,BluRay,x264]_part2_-_THORA.mkv
-!new/upload/Kamen Rider W - 46HD[W-Time].mkv
 !new/upload/Love Hina Again/[D-A]Love Hina Again - 01 (DivX 5.0.5).ogm
 !new/upload/Love Hina Again/[D-A]Love Hina Again - 02 (DivX 5.0.5).ogm
 !new/upload/Love Hina Again/[D-A]Love Hina Again - 03 (DivX 5.0.5).ogm
@@ -798,35 +797,34 @@
 !new/upload/bla/zx.black.heaven.12.sub.rar
 !new/upload/bla/zx.black.heaven.13.dub.avi
 !new/upload/bla/zx.black.heaven.13.sub.rar
-!new/upload/heroic_age_lightningblade/Heroic Age ED.mkv
-!new/upload/heroic_age_lightningblade/Heroic Age Ep 1 'The Ruined Planet' [Blu-Ray 720p].mkv
-!new/upload/heroic_age_lightningblade/Heroic Age Ep 10 'The Hero of Solitude' [Blu-Ray 720p].mkv
-!new/upload/heroic_age_lightningblade/Heroic Age Ep 11 'The Star of Brilliance' [Blu-Ray 720p].mkv
-!new/upload/heroic_age_lightningblade/Heroic Age Ep 12 'The Torch of Destruction' [Blu-Ray 720p].mkv
-!new/upload/heroic_age_lightningblade/Heroic Age Ep 13 'The Battle in the Space-Time Continuum' [Blu-Ray 720p].mkv
-!new/upload/heroic_age_lightningblade/Heroic Age Ep 14 'The Raging One' [Blu-Ray 720p].mkv
-!new/upload/heroic_age_lightningblade/Heroic Age Ep 15 'When the Light Falls' [Blu-Ray 720p].mkv
-!new/upload/heroic_age_lightningblade/Heroic Age Ep 16 'Overcoming the Fates' [Blu-Ray 720p].mkv
-!new/upload/heroic_age_lightningblade/Heroic Age Ep 17 'The Retributive Troops' [Blu-Ray 720p].mkv
-!new/upload/heroic_age_lightningblade/Heroic Age Ep 18 'The Victorious Day' [Blu-Ray 720p].mkv
-!new/upload/heroic_age_lightningblade/Heroic Age Ep 19 'The Invasion Between the Planet Systems' [Blu-Ray 720p].mkv
-!new/upload/heroic_age_lightningblade/Heroic Age Ep 2 'The Forgotten Child' [Blu-Ray 720p V2].mkv
-!new/upload/heroic_age_lightningblade/Heroic Age Ep 20 'The Nodos of Darkness' [Blu-Ray 720p].mkv
-!new/upload/heroic_age_lightningblade/Heroic Age Ep 21 'The Planet Codomos' [Blu-Ray 720p].mkv
-!new/upload/heroic_age_lightningblade/Heroic Age Ep 22 'The Agreement of Death' [Blu-Ray 720p].mkv
-!new/upload/heroic_age_lightningblade/Heroic Age Ep 23 'The Four' [Blu-Ray 720p].mkv
-!new/upload/heroic_age_lightningblade/Heroic Age Ep 24 'Elysium' [Blu-Ray 720p].mkv
-!new/upload/heroic_age_lightningblade/Heroic Age Ep 25 'The Last Contract' [Blu-Ray 720p].mkv
-!new/upload/heroic_age_lightningblade/Heroic Age Ep 26 'Age' [Blu-Ray 720p].mkv
-!new/upload/heroic_age_lightningblade/Heroic Age Ep 3 'The Tribe of Hero' [Blu-Ray 720p V2].mkv
-!new/upload/heroic_age_lightningblade/Heroic Age Ep 4 'The Planet Titarros' [Blu-Ray 720p].mkv
-!new/upload/heroic_age_lightningblade/Heroic Age Ep 5 'The Nodos' [Blu-Ray 720p].mkv
-!new/upload/heroic_age_lightningblade/Heroic Age Ep 6 'The Cemetery Belt' [Blu-Ray 720p].mkv
-!new/upload/heroic_age_lightningblade/Heroic Age Ep 7 'The Agreement' [Blu-Ray 720p V2].mkv
-!new/upload/heroic_age_lightningblade/Heroic Age Ep 8 'The Flashing Nodos' [Blu-Ray 720p].mkv
-!new/upload/heroic_age_lightningblade/Heroic Age Ep 9 'The Flashing Nodos' [Blu-Ray 720p].mkv
-!new/upload/heroic_age_lightningblade/Heroic Age OP v2.mkv
-!new/upload/heroic_age_lightningblade/Heroic Age.sfv
+!new/upload/heroic_age_lightningblade/Heroic Age - 01 (1280x720) [BD].mkv
+!new/upload/heroic_age_lightningblade/Heroic Age - 02 (1280x720) [BD].mkv
+!new/upload/heroic_age_lightningblade/Heroic Age - 03 (1280x720) [BD].mkv
+!new/upload/heroic_age_lightningblade/Heroic Age - 04 (1280x720) [BD].mkv
+!new/upload/heroic_age_lightningblade/Heroic Age - 05 (1280x720) [BD].mkv
+!new/upload/heroic_age_lightningblade/Heroic Age - 06 (1280x720) [BD].mkv
+!new/upload/heroic_age_lightningblade/Heroic Age - 07 (1280x720) [BD].mkv
+!new/upload/heroic_age_lightningblade/Heroic Age - 08 (1280x720) [BD].mkv
+!new/upload/heroic_age_lightningblade/Heroic Age - 09 (1280x720) [BD].mkv
+!new/upload/heroic_age_lightningblade/Heroic Age - 10 (1280x720) [BD].mkv
+!new/upload/heroic_age_lightningblade/Heroic Age - 11 (1280x720) [BD].mkv
+!new/upload/heroic_age_lightningblade/Heroic Age - 12 (1280x720) [BD].mkv
+!new/upload/heroic_age_lightningblade/Heroic Age - 13 (1280x720) [BD].mkv
+!new/upload/heroic_age_lightningblade/Heroic Age - 14 (1280x720) [BD].mkv
+!new/upload/heroic_age_lightningblade/Heroic Age - 15 (1280x720) [BD].mkv
+!new/upload/heroic_age_lightningblade/Heroic Age - 16 (1280x720) [BD].mkv
+!new/upload/heroic_age_lightningblade/Heroic Age - 17 (1280x720) [BD].mkv
+!new/upload/heroic_age_lightningblade/Heroic Age - 18 (1280x720) [BD].mkv
+!new/upload/heroic_age_lightningblade/Heroic Age - 19 (1280x720) [BD].mkv
+!new/upload/heroic_age_lightningblade/Heroic Age - 20 (1280x720) [BD].mkv
+!new/upload/heroic_age_lightningblade/Heroic Age - 21 (1280x720) [BD].mkv
+!new/upload/heroic_age_lightningblade/Heroic Age - 22 (1280x720) [BD].mkv
+!new/upload/heroic_age_lightningblade/Heroic Age - 23 (1280x720) [BD].mkv
+!new/upload/heroic_age_lightningblade/Heroic Age - 24 (1280x720) [BD].mkv
+!new/upload/heroic_age_lightningblade/Heroic Age - 25 (1280x720) [BD].mkv
+!new/upload/heroic_age_lightningblade/Heroic Age - 26 (1280x720) [BD].mkv
+!new/upload/heroic_age_lightningblade/Heroic Age - Ending.mkv
+!new/upload/heroic_age_lightningblade/Heroic Age - Opening [v2].mkv
 !new/upload/lama/__/Ayakashi Ayashi [Nanashi-gg]/[Nanashi-gg] Ayakashi Ayashi - 01 [C5678D73].mkv
 !new/upload/lama/__/Ayakashi Ayashi [Nanashi-gg]/[Nanashi-gg] Ayakashi Ayashi - 02 [8BBF7C20].mkv
 !new/upload/lama/__/Ayakashi Ayashi [Nanashi-gg]/[Nanashi-gg] Ayakashi Ayashi - 03 [42811245].mkv
