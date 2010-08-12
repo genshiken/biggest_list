@@ -11,10 +11,11 @@ complete/0/009-1/[cLT] 009-1 - 09.5 [DVD][8BC2EF47].mkv
 complete/0/009-1/[cLT] 009-1 - 10 [DVD][92D90756].mkv
 complete/0/009-1/[cLT] 009-1 - 11 [DVD][BA1B8E61].mkv
 complete/0/009-1/[cLT] 009-1 - 12 [End][DVD][430C3C54].mkv
-complete/1/11eyes/[Shinji-Nekomimi] 11eyes - 01 [v2][93C2DE2A].mkv
-complete/1/11eyes/[Shinji-Nekomimi] 11eyes - 02 [86524146].mkv
-complete/1/11eyes/[Shinji-Nekomimi] 11eyes - 03 [v2][5BFAD77C].mkv
-complete/1/11eyes/[Shinji-Nekomimi] 11eyes - 04 [FF57AD17].mkv
+complete/1/11eyes OVA/[Seiippai] 11eyes OVA (1920x1080) [BD][EFEA9AC6].mkv
+complete/1/11eyes/[FTV-Wasurenai] 11eyes - 01 (1280x720) [BD][07238189].mkv
+complete/1/11eyes/[FTV-Wasurenai] 11eyes - 02 (1280x720) [BD][85D7593D].mkv
+complete/1/11eyes/[FTV-Wasurenai] 11eyes - 03 (1280x720) [BD][143C5A8B].mkv
+complete/1/11eyes/[FTV-Wasurenai] 11eyes - 04 (1280x720) [BD][A8BDECCF].mkv
 complete/1/11eyes/[Shinji-Nekomimi] 11eyes - 05 [4506A383].mkv
 complete/1/11eyes/[Shinji-Nekomimi] 11eyes - 06 [7E3C30D8].mkv
 complete/1/11eyes/[Shinji-Nekomimi] 11eyes - 07 [87CB7CF5].mkv
@@ -695,24 +696,29 @@ complete/b/Baka to Test to Shokanju/[gg] Baka to Test to Shokanju - 11 [81981E3E
 complete/b/Baka to Test to Shokanju/[gg] Baka to Test to Shokanju - 12 [FCC670E6].mkv
 complete/b/Baka to Test to Shokanju/[gg] Baka to Test to Shokanju - 13 [End][6DA585EF].mkv
 complete/b/Baka to Test to Shoukanjuu - Christmas Special/[LSS] Baka to Test to Shoukanjuu - Christmas Special [Webcast][B41E9F09].mkv
+complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 01 (1920x1080) [BD][CB8C0798].mkv
+complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 02 (1920x1080) [BD][A9C08B88].mkv
+complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 03 (1920x1080) [BD][BEE27A09].mkv
+complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 04 (1920x1080) [BD][D817C8BC].mkv
+complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 05 (1920x1080) [BD][BDA67DFD].mkv
+complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 06 (1920x1080) [BD][C5E11F8B].mkv
+complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 07 (1920x1080) [BD][9BA87313].mkv
+complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 08 (1920x1080) [BD][37496ED6].mkv
+complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 09 (1920x1080) [BD][F5A7FB10].mkv
+complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 10 (1920x1080) [BD][0638979B].mkv
 complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 11 (1920x1080) [BD][D3A601EE].mkv
 complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 12 (1920x1080) [BD][95BB247A].mkv
+complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 13 (1920x1080) [BD][96E896D7].mkv
+complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 14 (1920x1080) [BD][69AF9DB4].mkv
+complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 15 (1920x1080) [BD][91C6A3EF].mkv
+complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - Ending (1920x1080) [BD][CAE34AE3].mkv
 complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - Ending 3 (1920x1080) [BD][48203556].mkv
+complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - Ending 4 (1920x1080) [BD][3741B457].mkv
+complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - Opening 2 (1920x1080) [BD][16AFEF2F].mkv
+complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - Opening 3 (1920x1080) [BD][CE88BB8E].mkv
+complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - Opening 4a (1920x1080) [BD][F4B6CA3A].mkv
+complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - Opening 4b (1920x1080) [BD][D36ED5B9].mkv
 complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - Opening 5b (1920x1080) [BD][C23AA6BB].mkv
-complete/b/Bakemonogatari/[Unofficial-qIIq] Bakemonogatari - 15 (1920x1080) [End][BD][BED24D2F].mkv
-complete/b/Bakemonogatari/[gg] Bakemonogatari - 09 [5E8B7A48].mkv
-complete/b/Bakemonogatari/[gg] Bakemonogatari - 10 [E40C2606].mkv
-complete/b/Bakemonogatari/[qIIq-THORA] Bakemonogatari - 01 (1920x1080) [BD][1633191F].mkv
-complete/b/Bakemonogatari/[qIIq-THORA] Bakemonogatari - 02 (1920x1080) [BD][0BE3CC73].mkv
-complete/b/Bakemonogatari/[qIIq-THORA] Bakemonogatari - 03 (1920x1080) [BD][86A3B4C5].mkv
-complete/b/Bakemonogatari/[qIIq-THORA] Bakemonogatari - 04 (1920x1080) [BD][A64288C7].mkv
-complete/b/Bakemonogatari/[qIIq-THORA] Bakemonogatari - 05 (1920x1080) [BD][CCB9B08B].mkv
-complete/b/Bakemonogatari/[qIIq-THORA] Bakemonogatari - 06 (1920x1080) [BD][631708DD].mkv
-complete/b/Bakemonogatari/[qIIq-THORA] Bakemonogatari - 07 (1920x1080) [BD][363520A2].mkv
-complete/b/Bakemonogatari/[qIIq-THORA] Bakemonogatari - 08 (1920x1080) [BD][1805728A].mkv
-complete/b/Bakemonogatari/[qIIq-THORA] Bakemonogatari - Ending (1920x1080) [BD][103BF38E].mkv
-complete/b/Bakemonogatari/[qIIq-THORA] Bakemonogatari - Opening 2 (1920x1080) [BD][05F80779].mkv
-complete/b/Bakemonogatari/[qIIq-THORA] Bakemonogatari - Opening 3 (1920x1080) [BD][61CC1936].mkv
 complete/b/Bamboo Blade/[Huzzah-Doremi] Bamboo Blade - 01 [B10F68D1].mkv
 complete/b/Bamboo Blade/[Huzzah-Doremi] Bamboo Blade - 02 [465CC36D].mkv
 complete/b/Bamboo Blade/[Huzzah-Doremi] Bamboo Blade - 03 [D972AE98].mkv
@@ -1247,19 +1253,21 @@ complete/b/Buzzer Beater (2007)/[Saizen] Buzzer Beater (2007) - 10 [F932EC67].mk
 complete/b/Buzzer Beater (2007)/[Saizen] Buzzer Beater (2007) - 11 [CFFB3293].mkv
 complete/b/Buzzer Beater (2007)/[Saizen] Buzzer Beater (2007) - 12 [21ED4659].mkv
 complete/b/Buzzer Beater (2007)/[Saizen] Buzzer Beater (2007) - 13 [End][4371EC78].mkv
-complete/c/CANAAN/[gg] CANAAN - 01 [v2][3561386D].mkv
-complete/c/CANAAN/[gg] CANAAN - 02 [9D948DC4].mkv
-complete/c/CANAAN/[gg] CANAAN - 03 [46F2C606].mkv
-complete/c/CANAAN/[gg] CANAAN - 04 [D293F6E3].mkv
-complete/c/CANAAN/[gg] CANAAN - 05 [DCFD03D9].mkv
-complete/c/CANAAN/[gg] CANAAN - 06 [0B559A66].mkv
-complete/c/CANAAN/[gg] CANAAN - 07 [5A036D47].mkv
-complete/c/CANAAN/[gg] CANAAN - 08 [2AE20E20].mkv
-complete/c/CANAAN/[gg] CANAAN - 09 [0769B1D6].mkv
-complete/c/CANAAN/[gg] CANAAN - 10 [A47FF488].mkv
-complete/c/CANAAN/[gg] CANAAN - 11 [25D5E7BE].mkv
-complete/c/CANAAN/[gg] CANAAN - 12 [1B79E90F].mkv
-complete/c/CANAAN/[gg] CANAAN - 13 [End][78986F1E].mkv
+complete/c/Canaan/[Coalgirls] Canaan - 01 (1280x720) [BD][82F5E274].mkv
+complete/c/Canaan/[Coalgirls] Canaan - 02 (1280x720) [BD][9B1C8487].mkv
+complete/c/Canaan/[Coalgirls] Canaan - 03 (1280x720) [BD][075050D8].mkv
+complete/c/Canaan/[Coalgirls] Canaan - 04 (1280x720) [BD][57B8CEEB].mkv
+complete/c/Canaan/[Coalgirls] Canaan - 05 (1280x720) [BD][6468C36E].mkv
+complete/c/Canaan/[Coalgirls] Canaan - 06 (1280x720) [BD][8E9EC5F8].mkv
+complete/c/Canaan/[Coalgirls] Canaan - 07 (1280x720) [BD][99403794].mkv
+complete/c/Canaan/[Coalgirls] Canaan - 08 (1280x720) [BD][3A4B1D16].mkv
+complete/c/Canaan/[Coalgirls] Canaan - 09 (1280x720) [BD][903E5DB4].mkv
+complete/c/Canaan/[Coalgirls] Canaan - 10 (1280x720) [BD][99E36290].mkv
+complete/c/Canaan/[Coalgirls] Canaan - 11 (1280x720) [BD][0431389F].mkv
+complete/c/Canaan/[Coalgirls] Canaan - 12 (1280x720) [BD][3BA19A0E].mkv
+complete/c/Canaan/[Coalgirls] Canaan - 13 (1280x720) [End][BD][3788D934].mkv
+complete/c/Canaan/[Coalgirls] Canaan - Ending (1280x720) [BD][3B12BB6F].mkv
+complete/c/Canaan/[Coalgirls] Canaan - Opening (1280x720) [BD][5619738F].mkv
 complete/c/Candy Boy OVA/[Frostii] Candy Boy - ONA [DVD][1640D2FE].mkv
 complete/c/Candy Boy/[Frostii] Candy Boy - 1 [DVD][7501BB85].mkv
 complete/c/Candy Boy/[Frostii] Candy Boy - 2 [DVD][1BF7685F].mkv
@@ -9344,6 +9352,8 @@ complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 03 (12
 complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 04 (1280x720) [BD][8BB429C7].mkv
 complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 05 (1280x720) [BD][D4367B07].mkv
 complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 06 (1280x720) [BD][702FDE3A].mkv
+complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 09 [BD] (1280x720) [33DFC98A].mkv
+complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 10 (1280x720) [BD][3A22400D].mkv
 complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - Ending (Clean) (1280x720) [BD][438C246F].mp4
 complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - Opening (Clean) (1280x720) [BD][FC94590D].mp4
 complete/r/Rosario + Vampire/[Seto Otaku] Rosario + Vampire - 01 (1280x720) [BD][D9FC1CEF].mkv
@@ -11795,10 +11805,10 @@ complete/t/Touch/[CA] Touch - 098 [FBC496B3].avi
 complete/t/Touch/[CA] Touch - 099 [652A63FD].avi
 complete/t/Touch/[CA] Touch - 100 [236E2F22].avi
 complete/t/Touch/[CA] Touch - 101 [End][690195BD].avi
-complete/t/Touka Gettan/[SRN] Touka Gettan - 01 [25F2BC89].avi
-complete/t/Touka Gettan/[SRN] Touka Gettan - 02 [E4F5BFFA].avi
-complete/t/Touka Gettan/[SRN] Touka Gettan - 03 [70DA98CE].avi
-complete/t/Touka Gettan/[SRN] Touka Gettan - 04 [B27C63F4].avi
+complete/t/Touka Gettan/[ReDone] Touka Gettan - 01 [v2][DVD][BA458FD5].mkv
+complete/t/Touka Gettan/[ReDone] Touka Gettan - 02 [DVD][DCBD6DE5].mkv
+complete/t/Touka Gettan/[ReDone] Touka Gettan - 03 [DVD][491ACAE1].mkv
+complete/t/Touka Gettan/[ReDone] Touka Gettan - 04 [DVD][E4D93368].mkv
 complete/t/Touka Gettan/[SRN] Touka Gettan - 05 [44B36646].avi
 complete/t/Touka Gettan/[SRN] Touka Gettan - 06 [729F742A].avi
 complete/t/Touka Gettan/[SRN] Touka Gettan - 07 [6EB7B007].avi
