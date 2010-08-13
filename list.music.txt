@@ -397,6 +397,7 @@ music/Nipponsei/[Nipponsei] Demashitaa Powerpuff Girls Z ED4 Single - Himawari [
 music/Nipponsei/[Nipponsei] Demashitaa! Powerpuff Girls Z ED Single - Mayonaka no Door [Yifei].zip
 music/Nipponsei/[Nipponsei] Demashitaa! Powerpuff Girls Z OP Single - Kibou no Kakera [Kitade Nana].zip
 music/Nipponsei/[Nipponsei] Dennou Coil Original Soundtrack.zip
+music/Nipponsei/[Nipponsei] Densetsu no Yuusha no Densetsu ED Single - Truth Of My Destiny [Ceui].zip
 music/Nipponsei/[Nipponsei] Densetsu no Yuusha no Densetsu OP Single - LAMENT ~Yagate Yorokobi wo~ [Yuuki Aira].zip
 music/Nipponsei/[Nipponsei] Doujin Work ED Single - Yumemiru Otome [Mizubashi Mai].zip
 music/Nipponsei/[Nipponsei] Doujin Work OP Single - I jan Yuujou [MAKI].zip
@@ -642,6 +643,7 @@ music/Nipponsei/[Nipponsei] Master of Epic OP Single - Miracle Episode I [Clover
 music/Nipponsei/[Nipponsei] Minami-ke ED Single - Colourful DAYS [Various].zip
 music/Nipponsei/[Nipponsei] Minami-ke OP Single - Keikenchi Joushouchuu [Various].zip
 music/Nipponsei/[Nipponsei] Mitsudomoe ED Single - Yume iro no Koi [Atsumi Saori].zip
+music/Nipponsei/[Nipponsei] Mitsudomoe OP Single - Mittsu Kazoete Daishuugou! [Various].zip
 music/Nipponsei/[Nipponsei] Moetan Original Soundtrack Character Mini Album.zip
 music/Nipponsei/[Nipponsei] Mononoke Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Moonlight Mile Original Soundtrack.zip
@@ -1289,6 +1291,7 @@ music/iSiscon/[iSiscon]_Moonstone_-_Angel_Ring_Original_Soundtrack_[w_scans]_(FL
 music/iSiscon/[iSiscon]_NANA,_Hashimoto_Miyuki_-_Neko_Koi_Original_Vocal_Single_(FLAC).rar
 music/iSiscon/[iSiscon]_Oukawa_Mio_-_Amatsu_Misora_ni!_Charactor_Song_Vol.1_Hitotsubashi_Kanna_(FLAC).rar
 music/iSiscon/[iSiscon]_Palette_-_Steal_My_Heart_~Rhapsody_of_moonlight~_Soundtrack_[w_scans]_(FLAC).rar
+music/iSiscon/[iSiscon]_Sakakibara_Yui_-_Sora_wo_Aogite_Kumo_Takaku_OP_ED_Single_-_Let's_start_now_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Shin_Koihime_Musou_Charactor_Song_CD1_-_Kazoe_Yakuman_Shimai_(Chou_Sanshimai)_(FLAC).rar
 music/iSiscon/[iSiscon]_Shin_Koihime_Musou_Charactor_Song_CD2_-_Enjutsu_Choukun_Kakuka_(FLAC).rar
 music/iSiscon/[iSiscon]_Shindou_Mayumi,_Que_Seran_Pasaran_-_Citoron-soft_Memorial_Song_[w_scans]_(FLAC).rar
@@ -1314,6 +1317,7 @@ music/iSiscon/[iSiscon]_Windows_7_Madobe_Nanami_-_Nanairo_Generator_[w_scans]_(F
 music/iSiscon/[iSiscon]_asuza_-_Amagami_SS_OP_Theme_-_i_Love_(FLAC).rar
 music/iSiscon/[iSiscon]_ryo,_kz,_VOCALOID_-_Hatsune_Miku_Project_DIVA_2nd_-_Kocchi_Muite_Babe_yellow_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_sphere_-_Asobi_ni_Iku_yo!_OP_Single_-_Now_loading...SKY!!_[w_scans]_(FLAC).rar
+music/loner/[loner]_Yoko_Ishida_-_Strike_Witches_2_OP_Single_-_STRIKE_WITCHES_~Egao_no_Mahou~_[FLAC].7z
 music/losslessone/[LonE]_12012_-_Romeo_x_Juliet_ED_Single_-_CYCLONE_[w_scans]_(FLAC).rar
 music/losslessone/[LonE]_369_-_Nijuu-Mensou_no_Musume_OP_Single_-_Kasumi_[w_scans]_(FLAC).rar
 music/losslessone/[LonE]_4-EVER,_Clover,_Miyazaki_Ui,_Waragetcha_V_-_Master_of_Epic_The_Animation_Age_ORIGINAL_SOUND_TRACK_-_MUSIC_OF_THE_ETERNITIES_[w_scans]_(FLAC).rar

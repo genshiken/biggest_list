@@ -167,6 +167,7 @@ complete/a/Air/[uguu~] Air - 07 (1280x720) [BD][1EF8E42D].mkv
 complete/a/Air/[uguu~] Air - 08 (1280x720) [BD][7D963DA4].mkv
 complete/a/Air/[uguu~] Air - 09 (1280x720) [BD][0F5B29B2].mkv
 complete/a/Air/[uguu~] Air - 10 (1280x720) [BD][09BF7610].mkv
+complete/a/Air/[uguu~] Air - 11 (1280x720) [BD][2C7BDEFC].mkv
 complete/a/Akagi/[Triad] Akagi - 01 [C416CB1F].avi
 complete/a/Akagi/[Triad] Akagi - 02 [CFCDC545].avi
 complete/a/Akagi/[Triad] Akagi - 03 [35B0007C].avi
@@ -891,6 +892,18 @@ complete/b/Berserk/[AXP] Berserk - 22 [DVD][8453F01F].ogm
 complete/b/Berserk/[AXP] Berserk - 23 [DVD][369579E5].ogm
 complete/b/Berserk/[AXP] Berserk - 24 [DVD][94264DC0].ogm
 complete/b/Berserk/[AXP] Berserk - 25 [End][DVD][9CA212E8].ogm
+complete/b/Bihada Ichizoku/[Wasurenai-imuR88] Bihada Ichizoku - 01 (1280x720) [EDE56860].mkv
+complete/b/Bihada Ichizoku/[Wasurenai-imuR88] Bihada Ichizoku - 02 (1280x720) [8F16DE73].mkv
+complete/b/Bihada Ichizoku/[Wasurenai-imuR88] Bihada Ichizoku - 03 (1280x720) [61D68734].mkv
+complete/b/Bihada Ichizoku/[Wasurenai-imuR88] Bihada Ichizoku - 04 (1280x720) [99A81E28].mkv
+complete/b/Bihada Ichizoku/[Wasurenai-imuR88] Bihada Ichizoku - 05 (1280x720) [666437C2].mkv
+complete/b/Bihada Ichizoku/[Wasurenai-imuR88] Bihada Ichizoku - 06 (1280x720) [0AB1DAE6].mkv
+complete/b/Bihada Ichizoku/[Wasurenai-imuR88] Bihada Ichizoku - 07 (1280x720) [73758F51].mkv
+complete/b/Bihada Ichizoku/[Wasurenai-imuR88] Bihada Ichizoku - 08 (1280x720) [EE30957E].mkv
+complete/b/Bihada Ichizoku/[Wasurenai-imuR88] Bihada Ichizoku - 09 (1280x720) [7B7859F5].mkv
+complete/b/Bihada Ichizoku/[Wasurenai-imuR88] Bihada Ichizoku - 10 (1280x720) [0CA18E50].mkv
+complete/b/Bihada Ichizoku/[Wasurenai-imuR88] Bihada Ichizoku - 11 (1280x720) [051BD72D].mkv
+complete/b/Bihada Ichizoku/[Wasurenai-imuR88] Bihada Ichizoku - 12 (1280x720) [End][96663393].mkv
 complete/b/Binbou Shimai Monogatari/[Doremi-BINBOU] Binbou Shimai Monogatari - 01 [E3729A80].avi
 complete/b/Binbou Shimai Monogatari/[Doremi-BINBOU] Binbou Shimai Monogatari - 02 [056489D4].avi
 complete/b/Binbou Shimai Monogatari/[Doremi-BINBOU] Binbou Shimai Monogatari - 03 [FA9ED238].avi
@@ -2318,6 +2331,12 @@ complete/d/Devil May Cry/[AonE-Conclave] Devil May Cry - 09 (1280x720) [BC838E0D
 complete/d/Devil May Cry/[AonE-Conclave] Devil May Cry - 10 (1280x720) [462E3D72].mp4
 complete/d/Devil May Cry/[AonE-Conclave] Devil May Cry - 11 (1280x720) [76919F57].mp4
 complete/d/Devil May Cry/[AonE-Conclave] Devil May Cry - 12 (1280x720) [End][7F436CA4].mp4
+complete/d/Diebuster/[KAA] Diebuster - 1 [v3][DVD][48ECC48D].mkv
+complete/d/Diebuster/[KAA] Diebuster - 2 [DVD][E41C5177].mkv
+complete/d/Diebuster/[KAA] Diebuster - 3 [DVD][8E604446].mkv
+complete/d/Diebuster/[KAA] Diebuster - 4 [DVD][A8AF55D6].mkv
+complete/d/Diebuster/[KAA] Diebuster - 5 [DVD][F6276C63].mkv
+complete/d/Diebuster/[KAA] Diebuster - 6 [End][DVD][52325748].mkv
 complete/d/Digimon Adventure Zero Two/[Positron] Digimon Adventure Zero Two - 01 [v2][6A41A3AB].mkv
 complete/d/Digimon Adventure Zero Two/[Positron] Digimon Adventure Zero Two - 02 [v2][7404EF0A].mkv
 complete/d/Digimon Adventure Zero Two/[Positron] Digimon Adventure Zero Two - 03 [v2][E7FA9ABC].mkv
@@ -4533,32 +4552,34 @@ complete/h/Here is Greenwood/[HD] Here is Greenwood - 3 [ED5B0ABC].mkv
 complete/h/Here is Greenwood/[HD] Here is Greenwood - 4 [9E4F8C80].mkv
 complete/h/Here is Greenwood/[HD] Here is Greenwood - 5 [584E35BA].mkv
 complete/h/Here is Greenwood/[HD] Here is Greenwood - 6 [End][9AAAA290].mkv
-complete/h/Heroic Age/[Shinsen-Corp] Heroic Age - 01 [C1C353B5].avi
-complete/h/Heroic Age/[Shinsen-Corp] Heroic Age - 02 [582C5280].avi
-complete/h/Heroic Age/[Shinsen-Corp] Heroic Age - 03 [D076030E].avi
-complete/h/Heroic Age/[Shinsen-Corp] Heroic Age - 04 [7FE46EFC].avi
-complete/h/Heroic Age/[Shinsen-Corp] Heroic Age - 05 [26C8D681].avi
-complete/h/Heroic Age/[Shinsen-Corp] Heroic Age - 06 [DBE54529].avi
-complete/h/Heroic Age/[Shinsen-Subs] Heroic Age - 07 [F51C8195].avi
-complete/h/Heroic Age/[Shinsen-Subs] Heroic Age - 08 [4AAB2D02].avi
-complete/h/Heroic Age/[Shinsen-Subs] Heroic Age - 09 [64C84D76].avi
-complete/h/Heroic Age/[Shinsen-Subs] Heroic Age - 10 [F051B0A2].avi
-complete/h/Heroic Age/[Shinsen-Subs] Heroic Age - 11 [DB4976B4].avi
-complete/h/Heroic Age/[Shinsen-Subs] Heroic Age - 12 [3B084F1A].avi
-complete/h/Heroic Age/[Shinsen-Subs] Heroic Age - 13 [05A8945A].avi
-complete/h/Heroic Age/[Shinsen-Subs] Heroic Age - 14 [DF563B15].avi
-complete/h/Heroic Age/[Shinsen-Subs] Heroic Age - 15 [E0095605].avi
-complete/h/Heroic Age/[Shinsen-Subs] Heroic Age - 16 [E51DB684].avi
-complete/h/Heroic Age/[Shinsen-Subs] Heroic Age - 17 [C6B9D789].avi
-complete/h/Heroic Age/[Shinsen-Subs] Heroic Age - 18 [471A3A34].avi
-complete/h/Heroic Age/[Shinsen-Subs] Heroic Age - 19 [7EB2589F].avi
-complete/h/Heroic Age/[Shinsen-Subs] Heroic Age - 20 [89E5AD71].avi
-complete/h/Heroic Age/[Shinsen-Subs] Heroic Age - 21 [EB0A71FD].avi
-complete/h/Heroic Age/[Shinsen-Subs] Heroic Age - 22 [72F3405F].avi
-complete/h/Heroic Age/[Shinsen-Subs] Heroic Age - 23 [E2046C4C].avi
-complete/h/Heroic Age/[Shinsen-Subs] Heroic Age - 24 [12E480D3].avi
-complete/h/Heroic Age/[Shinsen-Subs] Heroic Age - 25 [8C88BDA5].avi
-complete/h/Heroic Age/[Shinsen-Subs] Heroic Age - 26 [End][DDB47C3B].avi
+complete/h/Heroic Age/[lightningblade] Heroic Age - 01 (1280x720) [BD][98901780].mkv
+complete/h/Heroic Age/[lightningblade] Heroic Age - 02 (1280x720) [BD][C3DF6C1B].mkv
+complete/h/Heroic Age/[lightningblade] Heroic Age - 03 (1280x720) [BD][DE0E46E5].mkv
+complete/h/Heroic Age/[lightningblade] Heroic Age - 04 (1280x720) [BD][D1C4A269].mkv
+complete/h/Heroic Age/[lightningblade] Heroic Age - 05 (1280x720) [BD][783C280A].mkv
+complete/h/Heroic Age/[lightningblade] Heroic Age - 06 (1280x720) [BD][F81A65C7].mkv
+complete/h/Heroic Age/[lightningblade] Heroic Age - 07 (1280x720) [BD][EFE4E380].mkv
+complete/h/Heroic Age/[lightningblade] Heroic Age - 08 (1280x720) [BD][64083AA9].mkv
+complete/h/Heroic Age/[lightningblade] Heroic Age - 09 (1280x720) [BD][4169B8F5].mkv
+complete/h/Heroic Age/[lightningblade] Heroic Age - 10 (1280x720) [BD][7AAFD189].mkv
+complete/h/Heroic Age/[lightningblade] Heroic Age - 11 (1280x720) [BD][7CBCB38F].mkv
+complete/h/Heroic Age/[lightningblade] Heroic Age - 12 (1280x720) [BD][7AD5D8DE].mkv
+complete/h/Heroic Age/[lightningblade] Heroic Age - 13 (1280x720) [BD][9A5D5B1A].mkv
+complete/h/Heroic Age/[lightningblade] Heroic Age - 14 (1280x720) [BD][DBF6B120].mkv
+complete/h/Heroic Age/[lightningblade] Heroic Age - 15 (1280x720) [BD][ECECBD91].mkv
+complete/h/Heroic Age/[lightningblade] Heroic Age - 16 (1280x720) [BD][A0A39358].mkv
+complete/h/Heroic Age/[lightningblade] Heroic Age - 17 (1280x720) [BD][3A994A2D].mkv
+complete/h/Heroic Age/[lightningblade] Heroic Age - 18 (1280x720) [BD][4698074A].mkv
+complete/h/Heroic Age/[lightningblade] Heroic Age - 19 (1280x720) [BD][93491AE1].mkv
+complete/h/Heroic Age/[lightningblade] Heroic Age - 20 (1280x720) [BD][CC1FAA94].mkv
+complete/h/Heroic Age/[lightningblade] Heroic Age - 21 (1280x720) [BD][7149F251].mkv
+complete/h/Heroic Age/[lightningblade] Heroic Age - 22 (1280x720) [BD][6DC5F4D3].mkv
+complete/h/Heroic Age/[lightningblade] Heroic Age - 23 (1280x720) [BD][7D527D55].mkv
+complete/h/Heroic Age/[lightningblade] Heroic Age - 24 (1280x720) [BD][90E58396].mkv
+complete/h/Heroic Age/[lightningblade] Heroic Age - 25 (1280x720) [BD][B9441F84].mkv
+complete/h/Heroic Age/[lightningblade] Heroic Age - 26 (1280x720) [End][BD][096D0359].mkv
+complete/h/Heroic Age/[lightningblade] Heroic Age - Ending [F3510637].mkv
+complete/h/Heroic Age/[lightningblade] Heroic Age - Opening [v2][C8866491].mkv
 complete/h/Hidamari Sketch - Hoshi Mittsu/[Nutbladder] Hidamari Sketch - Hoshi Mittsu - 01 [27DCE80A].mkv
 complete/h/Hidamari Sketch - Hoshi Mittsu/[Nutbladder] Hidamari Sketch - Hoshi Mittsu - 02 [v2][FFFFFFFF].mkv
 complete/h/Hidamari Sketch - Hoshi Mittsu/[Nutbladder] Hidamari Sketch - Hoshi Mittsu - 03 [5004D38D].mkv
@@ -6682,6 +6703,14 @@ complete/l/Love Hina - Again/[a4e] Love Hina - Again - 1 [7E08D378].mkv
 complete/l/Love Hina - Again/[a4e] Love Hina - Again - 2 [14DB4571].mkv
 complete/l/Love Hina - Again/[a4e] Love Hina - Again - 3 [End][1C14ECC9].mkv
 complete/l/Love Hina - Christmas Special/[zx] Love Hina - Christmas Special [v2][52942DDA].mkv
+complete/l/Love Hina Again/[D-A] Love Hina Again - 1 [94BF2190].ogm
+complete/l/Love Hina Again/[D-A] Love Hina Again - 2 [573C79DE].ogm
+complete/l/Love Hina Again/[D-A] Love Hina Again - 3 [End][9605F861].ogm
+complete/l/Love Hina Again/[D-A] Love Hina Again - Ending (Clean) [3D20C850].avi
+complete/l/Love Hina Again/[D-A] Love Hina Again - Ending 2 (Clean) [AD88D8B4].avi
+complete/l/Love Hina Again/[D-A] Love Hina Again - Ending 3 (Clean) [872FF2C8].avi
+complete/l/Love Hina Again/[D-A] Love Hina Again - Opening (Clean) [F8E7B37E].avi
+complete/l/Love Hina Again/[D-A] Love Hina Again - Outtakes [19117848].avi
 complete/l/Love Hina/[zx] Love Hina - 01 [F505514A].mkv
 complete/l/Love Hina/[zx] Love Hina - 02 [EFFE5E03].mkv
 complete/l/Love Hina/[zx] Love Hina - 03 [CACBB082].mkv
@@ -9336,13 +9365,6 @@ complete/r/Romeo x Juliet/[umai] Romeo x Juliet - 18 [AFEE7EA1].mkv
 complete/r/Romeo x Juliet/[umai] Romeo x Juliet - 19 [3056933D].mkv
 complete/r/Romeo x Juliet/[umai] Romeo x Juliet - 20 [C780138D].mkv
 complete/r/Romeo x Juliet/[umai] Romeo x Juliet - 21 [AE227533].mkv
-complete/r/Rosario + Vampire Capu2/[Retrofit-Ayako-m.3.3.w] Rosario + Vampire Capu2 - 04 [5F03322C].mkv
-complete/r/Rosario + Vampire Capu2/[Retrofit-Ayako-m.3.3.w] Rosario + Vampire Capu2 - 05 [FB414A98].mkv
-complete/r/Rosario + Vampire Capu2/[Retrofit-Ayako-m.3.3.w] Rosario + Vampire Capu2 - 06 [DBCAF0B6].mkv
-complete/r/Rosario + Vampire Capu2/[Retrofit-Ayako-m.3.3.w] Rosario + Vampire Capu2 - 07 [A3B9FF10].mkv
-complete/r/Rosario + Vampire Capu2/[Retrofit-Ayako-m.3.3.w] Rosario + Vampire Capu2 - 08 [4FFF0357].mkv
-complete/r/Rosario + Vampire Capu2/[Retrofit-Ayako-m.3.3.w] Rosario + Vampire Capu2 - 09 [24FB6A5B].mkv
-complete/r/Rosario + Vampire Capu2/[Retrofit-Ayako-m.3.3.w] Rosario + Vampire Capu2 - 10 [619A9112].mkv
 complete/r/Rosario + Vampire Capu2/[Retrofit-Ayako-m.3.3.w] Rosario + Vampire Capu2 - 11 [19D7D3C3].mkv
 complete/r/Rosario + Vampire Capu2/[Retrofit-Ayako-m.3.3.w] Rosario + Vampire Capu2 - 12 [6497F151].mkv
 complete/r/Rosario + Vampire Capu2/[Retrofit-Ayako-m.3.3.w] Rosario + Vampire Capu2 - 13 [End][4C42598A].mkv
@@ -9352,7 +9374,9 @@ complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 03 (12
 complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 04 (1280x720) [BD][8BB429C7].mkv
 complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 05 (1280x720) [BD][D4367B07].mkv
 complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 06 (1280x720) [BD][702FDE3A].mkv
-complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 09 [BD] (1280x720) [33DFC98A].mkv
+complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 07 (1280x720) [BD][0FBA931D].mkv
+complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 08 (1280x720) [BD][F25D5DDA].mkv
+complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 09 (1280x720) [BD][33DFC98A].mkv
 complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 10 (1280x720) [BD][3A22400D].mkv
 complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - Ending (Clean) (1280x720) [BD][438C246F].mp4
 complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - Opening (Clean) (1280x720) [BD][FC94590D].mp4
@@ -9741,6 +9765,32 @@ complete/s/Samurai 7/[KAA] Samurai 7 - 23 [DVD][C5B5CA18].mkv
 complete/s/Samurai 7/[KAA] Samurai 7 - 24 [DVD][4190B9F7].mkv
 complete/s/Samurai 7/[KAA] Samurai 7 - 25 [DVD][C397B40F].mkv
 complete/s/Samurai 7/[KAA] Samurai 7 - 26 [End][DVD][04B1CC93].mkv
+complete/s/Samurai Champloo/[NPC] Samurai Champloo - 01 [14A4D6FC].mkv
+complete/s/Samurai Champloo/[NPC] Samurai Champloo - 02 [270050B2].mkv
+complete/s/Samurai Champloo/[NPC] Samurai Champloo - 03 [40DD49CA].mkv
+complete/s/Samurai Champloo/[NPC] Samurai Champloo - 04 [87162E16].mkv
+complete/s/Samurai Champloo/[NPC] Samurai Champloo - 05 [4230BFB7].mkv
+complete/s/Samurai Champloo/[NPC] Samurai Champloo - 06 [1C01626C].mkv
+complete/s/Samurai Champloo/[NPC] Samurai Champloo - 07 [1E4A917A].mkv
+complete/s/Samurai Champloo/[NPC] Samurai Champloo - 08 [309EB80D].mkv
+complete/s/Samurai Champloo/[NPC] Samurai Champloo - 09 [E07B85BF].mkv
+complete/s/Samurai Champloo/[NPC] Samurai Champloo - 10 [10DB514B].mkv
+complete/s/Samurai Champloo/[NPC] Samurai Champloo - 11 [0E1D831E].mkv
+complete/s/Samurai Champloo/[NPC] Samurai Champloo - 12 [AB515D8F].mkv
+complete/s/Samurai Champloo/[NPC] Samurai Champloo - 13 [71DE81F3].mkv
+complete/s/Samurai Champloo/[NPC] Samurai Champloo - 14 [A9C916FB].mkv
+complete/s/Samurai Champloo/[NPC] Samurai Champloo - 15 [8F55D093].mkv
+complete/s/Samurai Champloo/[NPC] Samurai Champloo - 16 [4FF16E55].mkv
+complete/s/Samurai Champloo/[NPC] Samurai Champloo - 17 [A56FB4DA].mkv
+complete/s/Samurai Champloo/[NPC] Samurai Champloo - 18 [9846F959].mkv
+complete/s/Samurai Champloo/[NPC] Samurai Champloo - 19 [642CFE5F].mkv
+complete/s/Samurai Champloo/[NPC] Samurai Champloo - 20 [43254DA3].mkv
+complete/s/Samurai Champloo/[NPC] Samurai Champloo - 21 [A9735ED3].mkv
+complete/s/Samurai Champloo/[NPC] Samurai Champloo - 22 [4BBFE1CC].mkv
+complete/s/Samurai Champloo/[NPC] Samurai Champloo - 23 [CB5980A5].mkv
+complete/s/Samurai Champloo/[NPC] Samurai Champloo - 24 [5B5EADF6].mkv
+complete/s/Samurai Champloo/[NPC] Samurai Champloo - 25 [64DCB054].mkv
+complete/s/Samurai Champloo/[NPC] Samurai Champloo - 26 [End][4E169422].mkv
 complete/s/Sasameki Koto/[Formula] Sasameki Koto - 01 [5D952652].mkv
 complete/s/Sasameki Koto/[Formula] Sasameki Koto - 02 [DBC6AE06].mkv
 complete/s/Sasameki Koto/[Formula] Sasameki Koto - 03 [841FEDAB].mkv
