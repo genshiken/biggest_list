@@ -379,6 +379,7 @@ music/Nipponsei/[Nipponsei] Code Geass R2 Sound Episode 1.zip
 music/Nipponsei/[Nipponsei] Code Geass R2 Sound Episode 2.zip
 music/Nipponsei/[Nipponsei] Code Geass R2 Sound Episode 3.zip
 music/Nipponsei/[Nipponsei] Code Geass R2 Sound Episode 4.zip
+music/Nipponsei/[Nipponsei] Code Geass R2 Sound Episode 5.zip
 music/Nipponsei/[Nipponsei] Coyote Ragtime Show OP ED Single - COYOTE [Naoki with Power Sound & Sana].zip
 music/Nipponsei/[Nipponsei] Coyote Ragtime Show Original Soundtrack - COYOTE MUSIC SHOW!!.zip
 music/Nipponsei/[Nipponsei] D.C. II Da Capo II ED Single - Yasashisa wa Ame no Youni [CooRie].zip
@@ -409,6 +410,8 @@ music/Nipponsei/[Nipponsei] Doujin Work ED Single - Yumemiru Otome [Mizubashi Ma
 music/Nipponsei/[Nipponsei] Doujin Work OP Single - I jan Yuujou [MAKI].zip
 music/Nipponsei/[Nipponsei] Dragonaut -THE RESSONANCE- ED Single - Rain of Love [Fukui Yukari].zip
 music/Nipponsei/[Nipponsei] Dragonaut -THE RESSONANCE- OP Single - perfect blue [Jazzin Park].zip
+music/Nipponsei/[Nipponsei] Druaga no Tou ~the AEGIS of URUK~ ED Single - Touchousha Tachi [KENN].zip
+music/Nipponsei/[Nipponsei] Druaga no Tou ~the Sword of URUK~ ED Single - Mahou Tsukai desu kedo. [Orikasa Fumiko].zip
 music/Nipponsei/[Nipponsei] El Cazador OP Single - Hikari no Yukue [savage genius].zip
 music/Nipponsei/[Nipponsei] El Cazador Original Soundtrack 1.zip
 music/Nipponsei/[Nipponsei] Erementar Gerad ED Single - Yakusoku [Kuroda Michihiro] (320 kbps).zip
@@ -1155,32 +1158,45 @@ music/Nipponsei/[Nipponsei] xxxHOLiC ED2 Single - Kagerou [BUCK-TICK].zip
 music/Nipponsei/[Nipponsei] xxxHOLiC Movie Manatsu no Yoru no Yume Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] xxxHOLiC Movie Theme Single - Sanagi [Suga Shikao] 320k.zip
 music/Nipponsei/[Nipponsei] xxxHOLiC OP Single - 19sai [Suga Shikao].zip
+music/Nipponsei/[Nipponsei]_11eyes_Original_Soundtrack.zip
 music/Nipponsei/[Nipponsei]_Amagami_SS_ED1_Single_-_Kimi_no_Hitomi_ni_Koishiteru_[Itou_Shizuka].zip
 music/Nipponsei/[Nipponsei]_Amagami_SS_OP_Single_-_i_Love_[azusa].zip
 music/Nipponsei/[Nipponsei]_Angel_Beats__Insert_Song_Album_-_Keep_The_Beats__[Girls_Dead_Monster].zip
+music/Nipponsei/[Nipponsei]_Angel_Beats__Insert_Song_Single_-_Little_Braver_[Girls_Dead_Monster].zip
 music/Nipponsei/[Nipponsei]_Angel_Beats__Original_Soundtrack.zip
 music/Nipponsei/[Nipponsei]_Arakawa_Under_The_Bridge_ED_Single_-_Sakasama_Bridge_[Suneohair].zip
 music/Nipponsei/[Nipponsei]_Cross_Game_OP_Single_-_Summer_rain_[Kobukuro].zip
+music/Nipponsei/[Nipponsei]_Durarara___ED2_Single_-_Butterfly_[ON_OFF].zip
 music/Nipponsei/[Nipponsei]_Fairy_Tail_ED4_Single_-_Kimi_ga_Iru_Kara_[Shimokawa_Mikuni].zip
 music/Nipponsei/[Nipponsei]_Fairy_Tail_Original_Soundtrack_Vol.1.zip
 music/Nipponsei/[Nipponsei]_Fairy_Tail_Original_Soundtrack_Vol.2.zip
 music/Nipponsei/[Nipponsei]_G.A._Geijutsuka_Art_Design_Class_-_music_palette.zip
+music/Nipponsei/[Nipponsei]_Ginmaku_Hetalia_Axis_Powers_OP_Single_-_WA__Wa___World_Ondo_[Various].zip
+music/Nipponsei/[Nipponsei]_Ginmaku_Hetalia_Axis_Powers_Paint_it,_White_Sound_World.zip
+music/Nipponsei/[Nipponsei]_Hidamari_Sketch_X_Hoshimittsu_Character_CD_4_-_Nori_[Harada_Hitomi].zip
 music/Nipponsei/[Nipponsei]_Hidamari_Sketch_X_Hoshimittsu_Character_CD_5_-_Miyako_[Mizuhashi_Kaori].zip
+music/Nipponsei/[Nipponsei]_K-ON___Insert_Song_Single_-_LOVE_[DEATH_DEVIL].zip
 music/Nipponsei/[Nipponsei]_Kaichou_wa_Maid-sama__Character_Concept_CD1_-_School_Side.zip
 music/Nipponsei/[Nipponsei]_Kaichou_wa_Maid-sama__Character_Concept_CD2_-_Maid_Side.zip
 music/Nipponsei/[Nipponsei]_Kaichou_wa_Maid-sama__Character_Concept_CD3_-_Maid_Side_2.zip
 music/Nipponsei/[Nipponsei]_Kaichou_wa_Maid-sama__Character_Concept_CD4_-_Another_Side.zip
 music/Nipponsei/[Nipponsei]_Kaichou_wa_Maid-sama__Original_Soundtrack.zip
+music/Nipponsei/[Nipponsei]_Keroro_Gunsou_ED17_Single_-_Kuttsuke_Hattsuke_Wonderland_[Matsumoto_Tamaki].zip
 music/Nipponsei/[Nipponsei]_Kiddy_Girl-and_Character_Song_9_-_Geacht_er_[Hino_Satoshi].zip
 music/Nipponsei/[Nipponsei]_Kiss_X_Sis_Character_Song___Soundtrack.zip
+music/Nipponsei/[Nipponsei]_Kobato_ED2_Album_-_Watashi_ni_Dekiru_Koto_[Nakajima_Megumi].zip
+music/Nipponsei/[Nipponsei]_Mayoi_Neko_Overrun__Character_CD1_-_Serizawa_Fumino_[Itou_Kanae].zip
+music/Nipponsei/[Nipponsei]_Mayoi_Neko_Overrun__Character_CD2_-_Umenomori_Chise_[Iguchi_Yuka].zip
 music/Nipponsei/[Nipponsei]_Mayoi_Neko_Overrun__Character_CD3_-_Kiriya_Nozomi_[Taketatsu_Ayana].zip
 music/Nipponsei/[Nipponsei]_Mayoi_Neko_Overrun__Character_CD4_-_Tsuzuki_Otome_[Satou_Satomi].zip
 music/Nipponsei/[Nipponsei]_Seikimatsu_Occult_Gakuin_ED_Single_-_Kimi_ga_Iru_Basho_[Takagaki_Ayahi].zip
 music/Nipponsei/[Nipponsei]_Seitokai_Yakuindomo_OP_Single_-_Yamato_Nadeshiko_Education_[Triple_Booking].zip
 music/Nipponsei/[Nipponsei]_Sekirei__Pure_Engagement__OP_ED_Single_-_Hakuyoku_no_Seiyaku__Pure_Engagement__[Various].zip
+music/Nipponsei/[Nipponsei]_Senkou_no_Night_Raid_OP_Single_-_Yakusoku_[MUCC].zip
 music/Nipponsei/[Nipponsei]_Sora_no_Woto_Character_Image_Song_Single_-_Kanata___Rio_[Various].zip
 music/Nipponsei/[Nipponsei]_Sora_no_Woto_Character_Image_Song_Single_-_Rio___Filicia_[Various].zip
 music/Nipponsei/[Nipponsei]_To_Aru_Kagaku_no_Railgun_Original_Soundtrack_2_-_MOMENT.zip
+music/Nipponsei/[Nipponsei]_Working___Original_Soundtrack_Vol.1.zip
 music/Nipponsei/[aznmp3 - Nipponsei] Capeta Opening Single - Venus [Tackey & Tsubasa] [192kbps.2006.01.18].zip
 music/Nipponsei/[aznmp3 - Nipponsei] Fushigi Hoshi no Futago Hime - New ending theme Batatatarun [320kbps.x Scans -2005.11.02].zip
 music/Nipponsei/[aznmp3 - Nipponsei] One Piece Character Suits Series 1-3 [192kbps.2004.09.29].tar
@@ -1231,9 +1247,6 @@ music/Sunset Swish - Mozaiku Kakera[320kbps.2007.02.28 X Scans].rar
 music/[BSS] Darker Than Black - Gemini of the Meteor - Original Soundtrack [FLAC].zip
 music/[JPNM] BUMP OF CHICKEN - Supernova x Karma.rar
 music/[Moe][EAC]NUMBER201 - Fate-hollow ataraxia ORIGINAL SOUNDTRACK (APE).rar
-music/[Nipponsei] Code Geass R2 Sound Episode 5.zip
-music/[Nipponsei] Druaga no Tou ~the AEGIS of URUK~ ED Single - Touchousha Tachi [KENN].zip
-music/[Nipponsei] Druaga no Tou ~the Sword of URUK~ ED Single - Mahou Tsukai desu kedo. [Orikasa Fumiko].zip
 music/[O-L]_Eve_no_Jikan_Image_Song_Single_-_Yasashii_Jikan_no_Naka_de_[Rie_Tanaka].zip
 music/[QTS] Kara no Kyoukai chapter.6 -Boukyaku Rokuon- Original Soundtrack (Yuki Kajiura).rar
 music/[Reneissanse] So-Ra-No-Wo-To OP 「Hikari no Senritsu」(DVDiso)／Kalafina (Flac)/01.Hikari no Senritsu.flac
@@ -3183,19 +3196,6 @@ music/nipponsex/[NipponSex]_(28.11.2008)_Alicesoft_Sound_Album_Vol._15_-_Toushin
 music/nipponsex/[NipponSex]_(29.01.2009)_Shin_Koihime_Musou_Soundtrack_CD_[Various]_(320k).rar
 music/nipponsex/[NipponSex]_(30.07.2010)_Oretachi_ni_Tsubasa_ha_nai_After_Story_OST_[Acchorike,_Misato_Aki]_(320k).rar
 music/nipponsex/[NipponSex]_(30.07.2010)_Vestige_-Yaiba_ni_Nokoru_ha_Kimi_no_Omokage-_OST_[Angel_Note,_Nakase_Hina,_Rita]_(320k).rar
-music/ns-clean/[Nipponsei]_11eyes_Original_Soundtrack.zip
-music/ns-clean/[Nipponsei]_Angel_Beats__Insert_Song_Single_-_Little_Braver_[Girls_Dead_Monster].zip
-music/ns-clean/[Nipponsei]_Durarara___ED2_Single_-_Butterfly_[ON_OFF].zip
-music/ns-clean/[Nipponsei]_Ginmaku_Hetalia_Axis_Powers_OP_Single_-_WA__Wa___World_Ondo_[Various].zip
-music/ns-clean/[Nipponsei]_Ginmaku_Hetalia_Axis_Powers_Paint_it,_White_Sound_World.zip
-music/ns-clean/[Nipponsei]_Hidamari_Sketch_X_Hoshimittsu_Character_CD_4_-_Nori_[Harada_Hitomi].zip
-music/ns-clean/[Nipponsei]_K-ON___Insert_Song_Single_-_LOVE_[DEATH_DEVIL].zip
-music/ns-clean/[Nipponsei]_Keroro_Gunsou_ED17_Single_-_Kuttsuke_Hattsuke_Wonderland_[Matsumoto_Tamaki].zip
-music/ns-clean/[Nipponsei]_Kobato_ED2_Album_-_Watashi_ni_Dekiru_Koto_[Nakajima_Megumi].zip
-music/ns-clean/[Nipponsei]_Mayoi_Neko_Overrun__Character_CD1_-_Serizawa_Fumino_[Itou_Kanae].zip
-music/ns-clean/[Nipponsei]_Mayoi_Neko_Overrun__Character_CD2_-_Umenomori_Chise_[Iguchi_Yuka].zip
-music/ns-clean/[Nipponsei]_Senkou_no_Night_Raid_OP_Single_-_Yakusoku_[MUCC].zip
-music/ns-clean/[Nipponsei]_Working___Original_Soundtrack_Vol.1.zip
 music/temp/[2005-11-22]_[ACHGM-DIE]_[1675]_PS2_SHUFFLE_ON_THE_STAGE_OP_Single_-_ORIGINAL_[w_scans].rar
 music/temp/[2005-12-20]_[ACHGM-DIE]_[1791]_PS2_SHUFFLE_ON_THE_STAGE_RE-MIX_ALBUM_COMPOSITION_ELEVEN.rar
 music/temp/[2007-11-26]_[ACHGM-DIE]_[3599]_Tsubasa_TOKYO_REVELATIONS_ED_Single_-_Saigo_no_Kajitsu_[w_scans].rar

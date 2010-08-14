@@ -3787,12 +3787,12 @@ complete/g/Guin Saga/[frong] Guin Saga - 23 (1280x720) [7BE856D1].mkv
 complete/g/Guin Saga/[frong] Guin Saga - 24 (1280x720) [2E201630].mkv
 complete/g/Guin Saga/[frong] Guin Saga - 25 (1280x720) [730635EF].mkv
 complete/g/Guin Saga/[frong] Guin Saga - 26 (1280x720) [End][4839CFFA].mkv
-complete/g/Gunbuster/[G P] Gunbuster - 01 [B8D69D43].mkv
-complete/g/Gunbuster/[G P] Gunbuster - 02 [132639AC].mkv
-complete/g/Gunbuster/[G P] Gunbuster - 03 [3092BABB].mkv
-complete/g/Gunbuster/[G P] Gunbuster - 04 [3AD79262].mkv
-complete/g/Gunbuster/[G P] Gunbuster - 05 [5D3C5BE8].mkv
-complete/g/Gunbuster/[G P] Gunbuster - 06 [End][FE41E60B].mkv
+complete/g/Gunbuster/[G_P] Gunbuster - 1 [B8D69D43].mkv
+complete/g/Gunbuster/[G_P] Gunbuster - 2 [132639AC].mkv
+complete/g/Gunbuster/[G_P] Gunbuster - 3 [3092BABB].mkv
+complete/g/Gunbuster/[G_P] Gunbuster - 4 [3AD79262].mkv
+complete/g/Gunbuster/[G_P] Gunbuster - 5 [5D3C5BE8].mkv
+complete/g/Gunbuster/[G_P] Gunbuster - 6 [End][FE41E60B].mkv
 complete/g/Gundam 00 S2/[Menclave] Gundam 00 S2 - 01 (1280x720) [v2][4863FBE8].mkv
 complete/g/Gundam 00 S2/[Menclave] Gundam 00 S2 - 02 (1280x720) [v3][175EA617].mkv
 complete/g/Gundam 00 S2/[Menclave] Gundam 00 S2 - 03 (1280x720) [44481F44].mkv
@@ -11753,6 +11753,8 @@ complete/t/Toshokan Sensou/[Froth-Bite & Menclave] Toshokan Sensou - 10 (1280x72
 complete/t/Toshokan Sensou/[Froth-Bite & Menclave] Toshokan Sensou - 11 (1280x720) [F2D02647].mkv
 complete/t/Toshokan Sensou/[Froth-Bite & Menclave] Toshokan Sensou - 12 (1280x720) [End][AA92BD1D].mkv
 complete/t/Toshokan Sensou/[Froth-Bite & Menclave] Toshokan Sensou - DVD Special [520695AD].mkv
+complete/t/Touch TV Special/[CA] Touch TV Special - Miss Lonely Yesterday (1998) [01E4B4F3].avi
+complete/t/Touch TV Special/[MJN] Touch TV Special - Crossroad (2001) [54862002].avi
 complete/t/Touch/[CA] Touch - 001 [C9954C39].avi
 complete/t/Touch/[CA] Touch - 002 [E2852080].avi
 complete/t/Touch/[CA] Touch - 003 [22155510].avi

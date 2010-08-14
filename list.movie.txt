@@ -19,6 +19,7 @@ movie/Detective Conan Movie/[B-Org] Detective Conan - Movie 11 (Part 1) [6CF1697
 movie/Detective Conan Movie/[B-Org] Detective Conan - Movie 11 (Part 2) [B8C270F7].mkv
 movie/Detective Conan Movie/[DCTP] Detective Conan - Movie 12 [BA79F197].mkv
 movie/Detective Conan Movie/[DCTP] Detective Conan - Movie 13 [EFC07D98].mkv
+movie/Diebuster Movie (2006)/[THORA] Diebuster Movie (2006) [720p,BD][B82B5C95].mkv
 movie/Digimon Adventure 3D - Digimon Grand Prix!/[RyRo] Digimon Adventure 3D - Digimon Grand Prix! [DVD][AC48BC2B].mkv
 movie/Digimon Movie/[wpp] Digimon - Movie 5 [C4C94880].avi
 movie/Digimon Movie/[wpp] Digimon - Movie 6 [521F2407].avi
@@ -43,6 +44,8 @@ movie/Fresh Pretty Cure!/[CureCom-Doremi] Fresh Pretty Cure! - Movie [DVD][AC03D
 movie/Fullmetal Alchemist - The Conqueror of Shamballa/[KAA] Fullmetal Alchemist - The Conqueror of Shamballa [EA07D24E].mkv
 movie/Ghost in the Shell/[KAA] Ghost in the Shell - Innocence [DVD][00C92C0A].mkv
 movie/Gokinjo Monogatari Movie/[Yuurisan-Subs] Gokinjo Monogatari - Movie [81F06CCC].mkv
+movie/Gunbuster Movie/[THORA] Gunbuster Movie (1988) - Part 1 [720p,BD][ED918128].mkv
+movie/Gunbuster Movie/[THORA] Gunbuster Movie (1988) - Part 2 [720p,BD][EE2264D2].mkv
 movie/Gundam - Char's Counterattack/[OZC] Gundam - Char's Counterattack (1280x720) [7DF4FA68].mkv
 movie/Gundam SEED CE73 Stargazer/[Mendoi] Gundam SEED CE73 Stargazer [DVD][DE19D759].mp4
 movie/Gundam Wing Endless Waltz/[EG] Gundam Wing Endless Waltz Remastered [v2][49A7A358].mkv
