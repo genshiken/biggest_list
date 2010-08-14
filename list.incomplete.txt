@@ -47,10 +47,14 @@ incomplete/Amagami SS/[Eclipse] Amagami SS - 03 (1280x720) [283C6AF2].mkv
 incomplete/Amagami SS/[Eclipse] Amagami SS - 04 (1280x720) [9439459B].mkv
 incomplete/Amagami SS/[Eclipse] Amagami SS - 05 (1280x720) [5E9FAB73].mkv
 incomplete/Amagami SS/[Eclipse] Amagami SS - 06 (1280x720) [3ECC82BB].mkv
+incomplete/Amagami SS/[Eclipse] Amagami SS - 07 (1280x720) [54F7A2E0].mkv
 incomplete/Amagami SS/[UTW] Amagami SS - 01 (1280x720) [v2][B561EBCC].mkv
+incomplete/Amagami SS/[UTW] Amagami SS - 02 (1280x720) [619D9FDF].mkv
+incomplete/Amagami SS/[UTW] Amagami SS - 03 (1280x720) [FF97E96A].mkv
 incomplete/Amagami SS/[UTW] Amagami SS - 04 (1280x720) [AD539A08].mkv
 incomplete/Amagami SS/[UTW] Amagami SS - 05 (1280x720) [6164F8BF].mkv
 incomplete/Amagami SS/[UTW] Amagami SS - 06 (1280x720) [D8AA05E3].mkv
+incomplete/Amagami SS/[UTW] Amagami SS - 07 (1280x720) [83B8F09D].mkv
 incomplete/Angel Heart/[Ani-Kraze] Angel Heart - 02 [A954E411].avi
 incomplete/Angel Heart/[Ani-Kraze] Angel Heart - 03 [CD2D52CA].avi
 incomplete/Angel Heart/[Ani-Kraze] Angel Heart - 04 [32C0C7F0].avi
@@ -168,13 +172,11 @@ incomplete/Ask Dr. Rin!/[HnK & L-E] Ask Dr. Rin! - 08 [7001DA65].avi
 incomplete/Ask Dr. Rin!/[HnK & L-E] Ask Dr. Rin! - 09 [69294171].avi
 incomplete/Ask Dr. Rin!/[HnK & L-E] Ask Dr. Rin! - 10 [23C37344].avi
 incomplete/Ask Dr. Rin!/[HnK & L-E] Ask Dr. Rin! - 11 [580BE701].avi
-incomplete/Asobi ni Iku Yo!/[Ayako-SubDESU] Asobi ni Iku Yo! - 01 (1280x720) [v2][99A5B7E4].mkv
-incomplete/Asobi ni Iku Yo!/[Ayako-SubDESU] Asobi ni Iku Yo! - 04 (1280x720) [6C43359B].mkv
 incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 01 [v3][079EFF6D].mkv
 incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 02 [4796E9B8].mkv
 incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 03 [44E72E12].mkv
 incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 04 [693E3458].mkv
-incomplete/Asobi ni Iku Yo!/[HorribleSubs] Asobi ni Iku Yo! - 03 (1280x720) [6D6B98B0].mkv
+incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 05 [FF85704E].mkv
 incomplete/Astro Fighter Sunred/[ANBU] Astro Fighter Sunred - 01 [170751D6].mkv
 incomplete/Astro Fighter Sunred/[ANBU] Astro Fighter Sunred - 02 [B22B9E90].mkv
 incomplete/Astro Fighter Sunred/[ANBU] Astro Fighter Sunred - 03 [4A5E438E].mkv
@@ -344,6 +346,7 @@ incomplete/Captain Harlock/[Live-eviL] Captain Harlock - 29 [8BB922FC].mkv
 incomplete/Captain Tsubasa Road to 2002/[Saizen-SD] Captain Tsubasa Road to 2002 - 14 [DVD][86E89C7B].mkv
 incomplete/Captain Tsubasa Road to 2002/[Saizen-SD] Captain Tsubasa Road to 2002 - 15 [DVD][287646F6].mkv
 incomplete/Captain Tsubasa Road to 2002/[Saizen-SD] Captain Tsubasa Road to 2002 - 16 [DVD][69CD35B1].mkv
+incomplete/Captain Tsubasa Road to 2002/[Saizen-SD] Captain Tsubasa Road to 2002 - 17 [v2][DVD][4F01685F].mkv
 incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 01 (960x720) [BD][62E1631D].mkv
 incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 02 (960x720) [BD][6ACE08AB].mkv
 incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 03 (960x720) [BD][A81B915A].mkv
@@ -1262,6 +1265,8 @@ incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 85 (1280x720) [FA3D411F].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 86 (1280x720) [D9E083E4].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 87 (1280x720) [455FEBAA].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 88-89 (1280x720) [93FE73A6].mkv
+incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 90 (1280x720) [EB8B7CDB].mkv
+incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 91 (1280x720) [4F62E98D].mkv
 incomplete/Initial D Battle Stage/[Shinsen-Subs] Initial D Battle Stage - 2 [End][B54855AA].mkv
 incomplete/Inuyasha Kanketsu-hen/[O-L] Inuyasha Kanketsu-hen - 01 (1280x720) [686D7CCE].mkv
 incomplete/Inuyasha Kanketsu-hen/[O-L] Inuyasha Kanketsu-hen - 02 (1280x720) [A0F39387].mkv
@@ -1323,6 +1328,8 @@ incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 15 (1280x720) [
 incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 16 (1280x720) [61EF13A9].mkv
 incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 17 (1280x720) [B6FBB919].mkv
 incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 18 (1280x720) [75E1C621].mkv
+incomplete/Kaichu!/[DATS] Kaichu! - 01 [0C7CD2E1].mkv
+incomplete/Kaichu!/[DATS] Kaichu! - 02 [D04FA15B].mkv
 incomplete/Kamichama Karin/[Kedex] Kamichama Karin - 01 [77A49DFF].avi
 incomplete/Kamichama Karin/[Kedex] Kamichama Karin - 02 [4D18F7AF].avi
 incomplete/Kamichama Karin/[Kedex] Kamichama Karin - 03 [40DD32D9].avi
@@ -1877,6 +1884,7 @@ incomplete/Mitsudomoe/[HorribleSubs] Mitsudomoe - 03 (1280x720) [E3886CA2].mkv
 incomplete/Mitsudomoe/[HorribleSubs] Mitsudomoe - 04 (1280x720) [9E43A9AD].mkv
 incomplete/Mitsudomoe/[HorribleSubs] Mitsudomoe - 05 (1280x720) [1756056F].mkv
 incomplete/Mitsudomoe/[HorribleSubs] Mitsudomoe - 06 (1280x720) [CBAFC77A].mkv
+incomplete/Mitsudomoe/[HorribleSubs] Mitsudomoe - 07 (1280x720) [77710EAF].mkv
 incomplete/Mitsudomoe/[RaveSubs] Mitsudomoe - 01 (1280x720) [v2][8E6792C6].mkv
 incomplete/Mitsudomoe/[RaveSubs] Mitsudomoe - 02 (1280x720) [E8513815].mkv
 incomplete/Mitsudomoe/[RaveSubs] Mitsudomoe - 03 (1280x720) [v2][B0BE5B25].mkv
@@ -2014,12 +2022,13 @@ incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 02 [754FE16D].mkv
 incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 03 [78D2C5C7].mkv
 incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 04 [54254C18].mkv
 incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 05 [A78726D7].mkv
+incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 06 [B4D9B2E3].mkv
 incomplete/Occult Academy/[Commie] Occult Academy - 01 [v2][3BD9BD2D].mkv
 incomplete/Occult Academy/[Commie] Occult Academy - 02 [FCF0006A].mkv
 incomplete/Occult Academy/[Commie] Occult Academy - 03 [E736AFE0].mkv
 incomplete/Occult Academy/[Commie] Occult Academy - 04 [97D716CF].mkv
 incomplete/Occult Academy/[Commie] Occult Academy - 05 [FB3D283E].mkv
-incomplete/Occult Academy/[HorribleSubs] Occult Academy - 06 (1280x720) [F3A04D52].mkv
+incomplete/Occult Academy/[Commie] Occult Academy - 06 [11CA49C2].mkv
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 01 [3A853D01].avi
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 02 [08A1F4E5].avi
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 03 [A66358B8].avi
@@ -2536,6 +2545,7 @@ incomplete/Ookami-san/[Mazui] Ookami-san - 03 [9078B82B].mkv
 incomplete/Ookami-san/[Mazui] Ookami-san - 04 [AC1724F1].mkv
 incomplete/Ookami-san/[Mazui] Ookami-san - 05 [33ACB0A5].mkv
 incomplete/Ookami-san/[Mazui] Ookami-san - 06 [4A1AB63B].mkv
+incomplete/Ookami-san/[Mazui] Ookami-san - 07 [C5217F7D].mkv
 incomplete/Patalliro/[aarinfantasy] Patalliro - 14 [B04ACEDC].avi
 incomplete/Perrine/[C1] Perrine - 01 [DD61EE37].avi
 incomplete/Perrine/[C1] Perrine - 02 [7D8E124B].avi
@@ -2593,6 +2603,7 @@ incomplete/Rainbow/[FroZen] Rainbow - 10 [43C5958F].mkv
 incomplete/Rainbow/[FroZen] Rainbow - 11 [A588487A].mkv
 incomplete/Rainbow/[FroZen] Rainbow - 12 [A8BD2409].mkv
 incomplete/Rainbow/[FroZen] Rainbow - 14 [8EC8784F].mkv
+incomplete/Rainbow/[FroZen] Rainbow - 15 [503DA9C7].mkv
 incomplete/Reform Without Wasted Draws - The Legend of Koizumi/[gg] Reform Without Wasted Draws - The Legend of Koizumi - 01 [Webcast][61B04813].mkv
 incomplete/Rockman EXE Beast/[WPP de Puku] Rockman EXE Beast - 17 [D12F8EC3].avi
 incomplete/Rockman.EXE Axess/[wpp] Rockman.EXE Axess - 01 [4BF2D92B].avi
@@ -2735,6 +2746,7 @@ incomplete/Seitokai Yakuindomo/[Ayako] Seitokai Yakuindomo - 06 (1280x720) [A9BA
 incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 01 (1024x576) [v2][383FD033].mkv
 incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 02 (1024x576) [942D6FB9].mkv
 incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 03 (1024x576) [8AA52B46].mkv
+incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 04 (1024x576) [072611CE].mkv
 incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 05 (1024x576) [F53C4CA4].mkv
 incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 01 (1280x720) [804D1CBC].mkv
 incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 02 (1280x720) [826D5501].mkv
@@ -2777,7 +2789,7 @@ incomplete/Shugo Chara! Party!/[Fubuki] Shugo Chara! Party! - 09 (1280x720) [5FF
 incomplete/Shugo Chara! Party!/[Fubuki] Shugo Chara! Party! - 10 (1280x720) [5484D6EF].mkv
 incomplete/Shukufuku no Campanella/[Commie] Shukufuku no Campanella - 01 [E5B4224D].mkv
 incomplete/Shukufuku no Campanella/[Commie] Shukufuku no Campanella - 02 [179B03DF].mkv
-incomplete/Shukufuku no Campanella/[Commie] Shukufuku no Campanella - 03 [DD53A139].mkv
+incomplete/Shukufuku no Campanella/[Commie] Shukufuku no Campanella - 03 [v2][AD6214F8].mkv
 incomplete/Shukufuku no Campanella/[Commie] Shukufuku no Campanella - 04 [2BF3DEE5].mkv
 incomplete/Shukufuku no Campanella/[Commie] Shukufuku no Campanella - 05 [9DC67B50].mkv
 incomplete/Sisters of Wellber/[C1] Sisters of Wellber - 01 [1BAA09A7].avi
@@ -2889,12 +2901,12 @@ incomplete/Souten Kouro/[Lunar] Souten Kouro - 07 (1280x720) [12112170].mkv
 incomplete/Souten Kouro/[Lunar] Souten Kouro - 08 (1280x720) [5342C117].mkv
 incomplete/Souten Kouro/[Lunar] Souten Kouro - 09 (1280x720) [8ACE6834].mkv
 incomplete/Souten no Ken/[Sentosha] Souten no Ken - 01 [DVD][7CBE4115].avi
-incomplete/Strike Witches 2/[HorribleSubs] Strike Witches 2 - 06 (1280x720) [5F3362AC].mkv
 incomplete/Strike Witches 2/[Underwater] Strike Witches 2 - 01 (1280x720) [v2][D901D7EE].mkv
 incomplete/Strike Witches 2/[Underwater] Strike Witches 2 - 02 (1280x720) [59BC29E8].mkv
 incomplete/Strike Witches 2/[Underwater] Strike Witches 2 - 03 (1280x720) [7E6B9956].mkv
 incomplete/Strike Witches 2/[Underwater] Strike Witches 2 - 04 (1280x720) [4F959936].mkv
 incomplete/Strike Witches 2/[Underwater] Strike Witches 2 - 05 (1280x720) [96A8902C].mkv
+incomplete/Strike Witches 2/[Underwater] Strike Witches 2 - 06 (1280x720) [D2F927BA].mkv
 incomplete/Strong World/[yibis] Strong World - 0 [DVD][49C1A026].mkv
 incomplete/Taiko Drum Master/[Triad] Taiko Drum Master - 14 [DVD][658D86C5].mkv
 incomplete/Tales of Symphonia - OVA - Tethe'alla/[Formula] Tales of Symphonia - OVA - Tethe'alla - 1 [89135783].mkv
