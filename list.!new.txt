@@ -6,6 +6,33 @@
 !new/upload/Carol/[raw] Carol OVA.avi
 !new/upload/CoreAVC_2.0_Professional_with_key.zip
 !new/upload/Koe de Oshigoto!/Koe de Oshigoto! - 25 [Tonigobe].zip
+!new/upload/Kurokami_01_[BD_1080p][AtsA][8207F4A3].mkv
+!new/upload/Kurokami_02_[BD_1080p][AtsA][BA905114].mkv
+!new/upload/Kurokami_03_[BD_1080p][AtsA][5400D580].mkv
+!new/upload/Kurokami_04_[BD_1080p][AtsA][D0930FB0].mkv
+!new/upload/Kurokami_05_[BD_1080p][AtsA][3F45A240].mkv
+!new/upload/Kurokami_06_[BD_1080p][AtsA][F3171C61].mkv
+!new/upload/Kurokami_07_[BD_1080p][AtsA][DAB63821].mkv
+!new/upload/Kurokami_08_[BD_1080p][AtsA][7BE9257D].mkv
+!new/upload/Kurokami_09_[BD_1080p][AtsA][F350A994].mkv
+!new/upload/Kurokami_10_[BD_1080p][AtsA][3E01ECD0].mkv
+!new/upload/Kurokami_11_[BD_1080p][AtsA][3EDD7D40].mkv
+!new/upload/Kurokami_12_[BD_1080p][AtsA][CD1245FB].mkv
+!new/upload/Kurokami_13_[BD_1080p][AtsA][7CBD5740].mkv
+!new/upload/Kurokami_14_[BD_1080p][AtsA][3392F22E].mkv
+!new/upload/Kurokami_15_[BD_1080p][AtsA][10D4C433].mkv
+!new/upload/Kurokami_16_[BD_1080p][AtsA][96373373].mkv
+!new/upload/Kurokami_17_[BD_1080p][AtsA][A505A606].mkv
+!new/upload/Kurokami_18_[BD_1080p][AtsA][2A750EC8].mkv
+!new/upload/Kurokami_19_[BD_1080p][AtsA][A4D40282].mkv
+!new/upload/Kurokami_20_[BD_1080p][AtsA][572F3500].mkv
+!new/upload/Kurokami_21_[BD_1080p][AtsA][23656832].mkv
+!new/upload/Kurokami_22_[BD_1080p][AtsA][DEF98EAD].mkv
+!new/upload/Kurokami_23_[BD_1080p][AtsA][677856FF].mkv
+!new/upload/Kurokami_OP1_Clean_[BD_1080p][AtsA][F0457B63].mkv
+!new/upload/Kurokami_OP2_Clean_[BD_1080p][AtsA][7428998A].mkv
+!new/upload/Kurokami_OP3_Clean_[BD_1080p][AtsA][D8B05619].mkv
+!new/upload/Kurokami_OVA_[BD_1080p][AtsA][105A11C2].mkv
 !new/upload/Nihonjin no Shiranai Nihongo ep04 (704x396 XviD).avi
 !new/upload/Nihonjin no Shiranai Nihongo ep05 (704x396 XviD).avi
 !new/upload/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
@@ -187,6 +214,12 @@
 !new/upload/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x23_DVDRiP.rmvb
 !new/upload/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x24_DVDRiP.rmvb
 !new/upload/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x25_DVDRiP.rmvb
+!new/upload/[CrunchySubs] Tono to Issho - 01 [720p].mkv
+!new/upload/[CrunchySubs] Tono to Issho - 02 [720p].mkv
+!new/upload/[CrunchySubs] Tono to Issho - 03 [720p].mkv
+!new/upload/[CrunchySubs] Tono to Issho - 04 [720p].mkv
+!new/upload/[CrunchySubs] Tono to Issho - 05 [720p].mkv
+!new/upload/[CrunchySubs] Tono to Issho - 06 [720p].mkv
 !new/upload/[DATS] Shibawanko's Japanese Spirit 03-04 [h264][71AD2201].mkv
 !new/upload/[EAC] [DVDISO] [100728] (シングル) TVアニメ あそびにいくヨ！ OP 「Now loading...SKY!!」 ／ スフィア(寿美菜子・高垣彩陽・戸松遥・豊崎愛生) (iso+mds).rar
 !new/upload/[EG] Gundam ZZ - 42 (960x720) [BD][C0532A53].mkv
@@ -199,6 +232,8 @@
 !new/upload/[EG] ZZ Gundam BD - Opening 3 (1280x720) [2444206B].mkv
 !new/upload/[EG] ZZ Gundam BD - Opening 3 (1920x1080) [786518ED].mkv
 !new/upload/[EG]ZZ_Gundam_25_PATCH.zip
+!new/upload/[HorribleSubs] Giant Killing - 20 [720p].mkv
+!new/upload/[HorribleSubs] Uraboku - 19 [480p].mkv
 !new/upload/[Monokage]_Mudazumo_Naki_Kaikaku_-_The_Legend_of_Koizumi_[CAE5A5FE].mkv
 !new/upload/[Movie-1986]_Touch_2__Sayonara_no_Okurimono/Touch_2__Sayonara_no_Okurimono_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][C6396C54].avi
 !new/upload/[Movie-1986]_Touch__Sebangou_no_Nai_Ace/Touch__Sebangou_no_Nai_Ace_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][83A7DB30].avi
@@ -660,6 +695,7 @@
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/upload/[Triad]_The_Legend_of_Koizumi_-_01.mkv
 !new/upload/[iSiscon]_OToGi_8_-_Ookami-san_to_Shichinin_no_Nakama-Tachi_ED_Single_-_Akazukin-chan_Goyoujin_[w_scans]_(FLAC).rar
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
