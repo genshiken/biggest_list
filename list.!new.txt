@@ -214,6 +214,9 @@
 !new/upload/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x23_DVDRiP.rmvb
 !new/upload/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x24_DVDRiP.rmvb
 !new/upload/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x25_DVDRiP.rmvb
+!new/upload/[Commie] Nyan Koi - ED [BD 720p FLAC].mkv
+!new/upload/[Commie] Nyan Koi - OP [BD 720p FLAC].mkv
+!new/upload/[Commie] Shiki - 05 [7FFFC031].mkv
 !new/upload/[CrunchySubs] Tono to Issho - 01 [720p].mkv
 !new/upload/[CrunchySubs] Tono to Issho - 02 [720p].mkv
 !new/upload/[CrunchySubs] Tono to Issho - 03 [720p].mkv
@@ -222,18 +225,9 @@
 !new/upload/[CrunchySubs] Tono to Issho - 06 [720p].mkv
 !new/upload/[DATS] Shibawanko's Japanese Spirit 03-04 [h264][71AD2201].mkv
 !new/upload/[EAC] [DVDISO] [100728] (シングル) TVアニメ あそびにいくヨ！ OP 「Now loading...SKY!!」 ／ スフィア(寿美菜子・高垣彩陽・戸松遥・豊崎愛生) (iso+mds).rar
-!new/upload/[EG] Gundam ZZ - 42 (960x720) [BD][C0532A53].mkv
-!new/upload/[EG] Gundam ZZ - 43 (960x720) [BD][C636E227].mkv
-!new/upload/[EG] Gundam ZZ - 44 (960x720) [BD][170638C4].mkv
-!new/upload/[EG] Gundam ZZ - 45 (960x720) [BD][D3BAD8E7].mkv
-!new/upload/[EG] Gundam ZZ - 46 (960x720) [BD][AE06F96D].mkv
-!new/upload/[EG] Gundam ZZ - 47 (960x720) [BD][FB629E85].mkv
-!new/upload/[EG] ZZ Gundam BD - Ending 2 (1280x720) [72253889].mkv
-!new/upload/[EG] ZZ Gundam BD - Opening 3 (1280x720) [2444206B].mkv
-!new/upload/[EG] ZZ Gundam BD - Opening 3 (1920x1080) [786518ED].mkv
-!new/upload/[EG]ZZ_Gundam_25_PATCH.zip
 !new/upload/[HorribleSubs] Giant Killing - 20 [720p].mkv
 !new/upload/[HorribleSubs] Uraboku - 19 [480p].mkv
+!new/upload/[Mazui]_Katanagatari_-_08_[BC9141A7].mkv
 !new/upload/[Monokage]_Mudazumo_Naki_Kaikaku_-_The_Legend_of_Koizumi_[CAE5A5FE].mkv
 !new/upload/[Movie-1986]_Touch_2__Sayonara_no_Okurimono/Touch_2__Sayonara_no_Okurimono_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][C6396C54].avi
 !new/upload/[Movie-1986]_Touch__Sebangou_no_Nai_Ace/Touch__Sebangou_no_Nai_Ace_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][83A7DB30].avi
@@ -255,7 +249,9 @@
 !new/upload/[Movie-2002]_Inuyasha__Kagami_no_Naka_no_Mugenjou/Inuyasha__Kagami_no_Naka_no_Mugenjou_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][5BE86486].mkv
 !new/upload/[Movie-2003]_Inuyasha_-_Tenka_Hadou_no_Ken/Inuyasha_-_Tenka_Hadou_no_Ken_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][729CFBDD].mkv
 !new/upload/[Movie-2004]_Inuyasha__Guren_no_Houraijima/Inuyasha__Guren_no_Houraijima_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][ED7FAAFB].mkv
+!new/upload/[Nipponsei] Asobi ni Iku yo! ED Single - Omoide ga Jama wo Suru [Tomatsu Haruka].zip
 !new/upload/[Nipponsei] Ookami-san to Shichinin no Nakama-tachi ED Single - Akazukin-chan Goyoujin [OToGi8].zip
+!new/upload/[Nipponsei] Shukufuku no Campanella ED Single - Mirai Kaikisen [Hashimoto Miyuki].zip
 !new/upload/[OVA-1989]_Kimagure_Orange_Road__Hawaiian_Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/upload/[OVA-1989]_Kimagure_Orange_Road__Shiroi_Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/upload/[OVA-1991]_Kimagure_Orange_Road__Omoi_Gakenai_Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -696,7 +692,6 @@
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/upload/[Triad]_The_Legend_of_Koizumi_-_01.mkv
-!new/upload/[iSiscon]_OToGi_8_-_Ookami-san_to_Shichinin_no_Nakama-Tachi_ED_Single_-_Akazukin-chan_Goyoujin_[w_scans]_(FLAC).rar
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -797,6 +792,21 @@
 !new/upload/bla/zx.black.heaven.12.sub.rar
 !new/upload/bla/zx.black.heaven.13.dub.avi
 !new/upload/bla/zx.black.heaven.13.sub.rar
+!new/upload/eg/[EG] Gundam ZZ - 42 (960x720) [BD][C0532A53].mkv
+!new/upload/eg/[EG] Gundam ZZ - 43 (960x720) [BD][C636E227].mkv
+!new/upload/eg/[EG] Gundam ZZ - 44 (960x720) [BD][170638C4].mkv
+!new/upload/eg/[EG] Gundam ZZ - 45 (960x720) [BD][D3BAD8E7].mkv
+!new/upload/eg/[EG] Gundam ZZ - 46 (960x720) [BD][AE06F96D].mkv
+!new/upload/eg/[EG] Gundam ZZ - 47 (960x720) [BD][FB629E85].mkv
+!new/upload/eg/[EG] ZZ Gundam BD - Ending 2 (1280x720) [72253889].mkv
+!new/upload/eg/[EG] ZZ Gundam BD - Opening 3 (1280x720) [2444206B].mkv
+!new/upload/eg/[EG] ZZ Gundam BD - Opening 3 (1920x1080) [786518ED].mkv
+!new/upload/eg/[EG]ZZ_Gundam_25_PATCH.zip
+!new/upload/eg/p/ZZ_25_patch
+!new/upload/eg/p/[EG]ZZ_Gundam_BD_25_V2(720p)[FDE1C06D].mkv
+!new/upload/eg/p/patch.bat
+!new/upload/eg/p/xdelta3.exe
+!new/upload/katana08v2patch.zip
 !new/upload/lama/__/Ayakashi Ayashi [Nanashi-gg]/[Nanashi-gg] Ayakashi Ayashi - 01 [C5678D73].mkv
 !new/upload/lama/__/Ayakashi Ayashi [Nanashi-gg]/[Nanashi-gg] Ayakashi Ayashi - 02 [8BBF7C20].mkv
 !new/upload/lama/__/Ayakashi Ayashi [Nanashi-gg]/[Nanashi-gg] Ayakashi Ayashi - 03 [42811245].mkv
