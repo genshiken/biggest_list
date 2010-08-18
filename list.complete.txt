@@ -564,8 +564,7 @@ complete/a/Asu no Yoichi/[AniYoshi] Asu no Yoichi - 06 [WS][15FD84EB].mkv
 complete/a/Asu no Yoichi/[AniYoshi] Asu no Yoichi - 07 [DVD][AC4F7EAD].mkv
 complete/a/Asu no Yoichi/[AniYoshi] Asu no Yoichi - 08 [DVD][B57454ED].mkv
 complete/a/Asu no Yoichi/[AniYoshi] Asu no Yoichi - 09 [DVD][8830EF7A].mkv
-complete/a/Asu no Yoichi/[CoalGuys-Doremi] Asu no Yoichi - 09 [77DB1DBE].mkv
-complete/a/Asu no Yoichi/[CoalGuys-Doremi] Asu no Yoichi - 10 [B615121E].mkv
+complete/a/Asu no Yoichi/[AniYoshi] Asu no Yoichi - 10 [DVD][7F92422D].mkv
 complete/a/Asu no Yoichi/[CoalGuys-Doremi] Asu no Yoichi - 11 [D05CED22].mkv
 complete/a/Asu no Yoichi/[CoalGuys-Doremi] Asu no Yoichi - 12 [End][1D5BFF04].mkv
 complete/a/Asura Cryin'/[AniYoshi] Asura Cryin' - 01 [F75F8B5A].mkv
@@ -8348,6 +8347,8 @@ complete/n/Nurse Witch Komugi-chan/[Exiled-Destiny] Nurse Witch Komugi-chan - 2.
 complete/n/Nurse Witch Komugi-chan/[Exiled-Destiny] Nurse Witch Komugi-chan - 3 [9CAA782D].mkv
 complete/n/Nurse Witch Komugi-chan/[Exiled-Destiny] Nurse Witch Komugi-chan - 4 [0679BDCD].mkv
 complete/n/Nurse Witch Komugi-chan/[Exiled-Destiny] Nurse Witch Komugi-chan - 5 [End][E8E75D7E].mkv
+complete/n/Nyan Koi/[Commie] Nyan Koi - Ending (1280x720) [BD][43198AD7].mkv
+complete/n/Nyan Koi/[Commie] Nyan Koi - Opening (1280x720) [BD][6AE27054].mkv
 complete/n/Nyan Koi/[gg] Nyan Koi - 01 [v2][D7A01B31].mkv
 complete/n/Nyan Koi/[gg] Nyan Koi - 02 [028D0D49].mkv
 complete/n/Nyan Koi/[gg] Nyan Koi - 03 [AEE77D9E].mkv
