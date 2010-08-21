@@ -6425,30 +6425,33 @@ complete/k/Kurogane no Linebarrels/[SubDESU] Kurogane no Linebarrels - 21 (1280x
 complete/k/Kurogane no Linebarrels/[SubDESU] Kurogane no Linebarrels - 22 (1280x720) [805A2D82].mkv
 complete/k/Kurogane no Linebarrels/[SubDESU] Kurogane no Linebarrels - 23 (1280x720) [E0017217].mkv
 complete/k/Kurogane no Linebarrels/[SubDESU] Kurogane no Linebarrels - 24 (1280x720) [End][3A51539D].mkv
-complete/k/Kurokami - OVA/[Hiyono] Kurokami - OVA (1280x720) [BD][3F7A22B4].mkv
-complete/k/Kurokami/[Nuke-BandaiaTV] Kurokami - 01 (1280x720) [F15A43CC].mkv
-complete/k/Kurokami/[Nuke-BandaiaTV] Kurokami - 02 (1280x720) [D4E416A5].mkv
-complete/k/Kurokami/[Nuke-BandaiaTV] Kurokami - 03 (1280x720) [A2271753].mkv
-complete/k/Kurokami/[Nuke-BandaiaTV] Kurokami - 04 (1280x720) [FC8E0141].mkv
-complete/k/Kurokami/[Nuke-BandaiaTV] Kurokami - 05 (1280x720) [4389DBF5].mkv
-complete/k/Kurokami/[Nuke-BandaiaTV] Kurokami - 06 (1280x720) [6EC62FBF].mkv
-complete/k/Kurokami/[Nuke-BandaiaTV] Kurokami - 07 (1280x720) [FAB95248].mkv
-complete/k/Kurokami/[Nuke-BandaiaTV] Kurokami - 08 (1280x720) [2C37D70B].mkv
-complete/k/Kurokami/[Nuke-BandaiaTV] Kurokami - 09 (1280x720) [6A794479].mkv
-complete/k/Kurokami/[Nuke-BandaiaTV] Kurokami - 10 (1280x720) [448317EA].mkv
-complete/k/Kurokami/[Nuke-BandaiaTV] Kurokami - 11 (1280x720) [893B77B5].mkv
-complete/k/Kurokami/[Nuke-BandaiaTV] Kurokami - 12 (1280x720) [D43DA664].mkv
-complete/k/Kurokami/[Nuke-BandaiaTV] Kurokami - 13 (1280x720) [010F01FC].mkv
-complete/k/Kurokami/[Nuke-BandaiaTV] Kurokami - 14 (1280x720) [827103D6].mkv
-complete/k/Kurokami/[Nuke-BandaiaTV] Kurokami - 15 (1280x720) [E3F78184].mkv
-complete/k/Kurokami/[Nuke-BandaiaTV] Kurokami - 16 (1280x720) [CBBB8B37].mkv
-complete/k/Kurokami/[Nuke-BandaiaTV] Kurokami - 17 (1280x720) [B155AB32].mkv
-complete/k/Kurokami/[Nuke-BandaiaTV] Kurokami - 18 (1280x720) [34D0D267].mkv
-complete/k/Kurokami/[Nuke-BandaiaTV] Kurokami - 19 (1280x720) [CF419BBA].mkv
-complete/k/Kurokami/[Nuke-BandaiaTV] Kurokami - 20 (1280x720) [4080C078].mkv
-complete/k/Kurokami/[Nuke-BandaiaTV] Kurokami - 21 (1280x720) [CC6478AF].mkv
-complete/k/Kurokami/[Nuke-BandaiaTV] Kurokami - 22 (1280x720) [38F5CF1B].mkv
-complete/k/Kurokami/[Nuke-BandaiaTV] Kurokami - 23 (1280x720) [End][4B5AA9C0].mkv
+complete/k/Kurokami OVA/[AtsA] Kurokami OVA (1920x1080) [BD][105A11C2].mkv
+complete/k/Kurokami/[AtsA] Kurokami - 01 (1920x1080) [BD][8207F4A3].mkv
+complete/k/Kurokami/[AtsA] Kurokami - 02 (1920x1080) [BD][BA905114].mkv
+complete/k/Kurokami/[AtsA] Kurokami - 03 (1920x1080) [BD][5400D580].mkv
+complete/k/Kurokami/[AtsA] Kurokami - 04 (1920x1080) [BD][D0930FB0].mkv
+complete/k/Kurokami/[AtsA] Kurokami - 05 (1920x1080) [BD][3F45A240].mkv
+complete/k/Kurokami/[AtsA] Kurokami - 06 (1920x1080) [BD][F3171C61].mkv
+complete/k/Kurokami/[AtsA] Kurokami - 07 (1920x1080) [BD][DAB63821].mkv
+complete/k/Kurokami/[AtsA] Kurokami - 08 (1920x1080) [BD][7BE9257D].mkv
+complete/k/Kurokami/[AtsA] Kurokami - 09 (1920x1080) [BD][F350A994].mkv
+complete/k/Kurokami/[AtsA] Kurokami - 10 (1920x1080) [BD][3E01ECD0].mkv
+complete/k/Kurokami/[AtsA] Kurokami - 11 (1920x1080) [BD][3EDD7D40].mkv
+complete/k/Kurokami/[AtsA] Kurokami - 12 (1920x1080) [BD][CD1245FB].mkv
+complete/k/Kurokami/[AtsA] Kurokami - 13 (1920x1080) [BD][7CBD5740].mkv
+complete/k/Kurokami/[AtsA] Kurokami - 14 (1920x1080) [BD][3392F22E].mkv
+complete/k/Kurokami/[AtsA] Kurokami - 15 (1920x1080) [BD][10D4C433].mkv
+complete/k/Kurokami/[AtsA] Kurokami - 16 (1920x1080) [BD][96373373].mkv
+complete/k/Kurokami/[AtsA] Kurokami - 17 (1920x1080) [BD][A505A606].mkv
+complete/k/Kurokami/[AtsA] Kurokami - 18 (1920x1080) [BD][2A750EC8].mkv
+complete/k/Kurokami/[AtsA] Kurokami - 19 (1920x1080) [BD][A4D40282].mkv
+complete/k/Kurokami/[AtsA] Kurokami - 20 (1920x1080) [BD][572F3500].mkv
+complete/k/Kurokami/[AtsA] Kurokami - 21 (1920x1080) [BD][23656832].mkv
+complete/k/Kurokami/[AtsA] Kurokami - 22 (1920x1080) [BD][DEF98EAD].mkv
+complete/k/Kurokami/[AtsA] Kurokami - 23 (1920x1080) [End][BD][677856FF].mkv
+complete/k/Kurokami/[AtsA] Kurokami - Opening (Clean) [BD][F0457B63].mkv
+complete/k/Kurokami/[AtsA] Kurokami - Opening 2 (Clean) [BD][7428998A].mkv
+complete/k/Kurokami/[AtsA] Kurokami - Opening 3 (Clean) [BD][D8B05619].mkv
 complete/k/Kuroshitsuji - OVA/[Shinsen-Subs] Kuroshitsuji - OVA [51FDE428].mkv
 complete/k/Kuroshitsuji/[Shinsen-Subs] Kuroshitsuji - 01 (1280x720) [AA8CD9EB].mkv
 complete/k/Kuroshitsuji/[Shinsen-Subs] Kuroshitsuji - 02 (1280x720) [A529B597].mkv

@@ -5,36 +5,8 @@
 !new/upload/Carol/[raw] Carol OVA.ass
 !new/upload/Carol/[raw] Carol OVA.avi
 !new/upload/CoreAVC_2.0_Professional_with_key.zip
-!new/upload/Junkers Come Here/[niizk] Junkers Come Here [DBAC403C].mkv
 !new/upload/Kamen Rider W - 47HD[W-Time].mkv
 !new/upload/Koe de Oshigoto!/Koe de Oshigoto! - 25 [Tonigobe].zip
-!new/upload/Kurokami_01_[BD_1080p][AtsA][8207F4A3].mkv
-!new/upload/Kurokami_02_[BD_1080p][AtsA][BA905114].mkv
-!new/upload/Kurokami_03_[BD_1080p][AtsA][5400D580].mkv
-!new/upload/Kurokami_04_[BD_1080p][AtsA][D0930FB0].mkv
-!new/upload/Kurokami_05_[BD_1080p][AtsA][3F45A240].mkv
-!new/upload/Kurokami_06_[BD_1080p][AtsA][F3171C61].mkv
-!new/upload/Kurokami_07_[BD_1080p][AtsA][DAB63821].mkv
-!new/upload/Kurokami_08_[BD_1080p][AtsA][7BE9257D].mkv
-!new/upload/Kurokami_09_[BD_1080p][AtsA][F350A994].mkv
-!new/upload/Kurokami_10_[BD_1080p][AtsA][3E01ECD0].mkv
-!new/upload/Kurokami_11_[BD_1080p][AtsA][3EDD7D40].mkv
-!new/upload/Kurokami_12_[BD_1080p][AtsA][CD1245FB].mkv
-!new/upload/Kurokami_13_[BD_1080p][AtsA][7CBD5740].mkv
-!new/upload/Kurokami_14_[BD_1080p][AtsA][3392F22E].mkv
-!new/upload/Kurokami_15_[BD_1080p][AtsA][10D4C433].mkv
-!new/upload/Kurokami_16_[BD_1080p][AtsA][96373373].mkv
-!new/upload/Kurokami_17_[BD_1080p][AtsA][A505A606].mkv
-!new/upload/Kurokami_18_[BD_1080p][AtsA][2A750EC8].mkv
-!new/upload/Kurokami_19_[BD_1080p][AtsA][A4D40282].mkv
-!new/upload/Kurokami_20_[BD_1080p][AtsA][572F3500].mkv
-!new/upload/Kurokami_21_[BD_1080p][AtsA][23656832].mkv
-!new/upload/Kurokami_22_[BD_1080p][AtsA][DEF98EAD].mkv
-!new/upload/Kurokami_23_[BD_1080p][AtsA][677856FF].mkv
-!new/upload/Kurokami_OP1_Clean_[BD_1080p][AtsA][F0457B63].mkv
-!new/upload/Kurokami_OP2_Clean_[BD_1080p][AtsA][7428998A].mkv
-!new/upload/Kurokami_OP3_Clean_[BD_1080p][AtsA][D8B05619].mkv
-!new/upload/Kurokami_OVA_[BD_1080p][AtsA][105A11C2].mkv
 !new/upload/Nausicaä_of_the_Valley_of_the_Wind_(1984)_[720p,BluRay,x264]_-_THORA.md5
 !new/upload/Nausicaä_of_the_Valley_of_the_Wind_(1984)_[720p,BluRay,x264]_-_THORA.mkv
 !new/upload/Nausicaä_of_the_Valley_of_the_Wind_(1984)_[720p,BluRay,x264]_-_THORA.nfo
@@ -247,6 +219,7 @@
 !new/upload/[HorribleSubs] Asobi ni Iku Yo! - 06 (1280x720) [1EDD2C87].mkv
 !new/upload/[HorribleSubs] Fairy Tail - 41 (1280x720) [18A9418B].mkv
 !new/upload/[HorribleSubs] Heroman - 21 (1280x720) [CCAD67BD].mkv
+!new/upload/[HorribleSubs] Kateikyoushi Hitman Reborn - 198 [720p].mkv
 !new/upload/[HorribleSubs] Naruto Shippuuden - 174 (1280x720) [390B2B19].mkv
 !new/upload/[HorribleSubs] Strike Witches 2 - 07 (1280x720) [74C2CA23].mkv
 !new/upload/[HorribleSubs] Uragiri wa Boku no Namae wo Shitteiru - 18 [9335686F].mkv
@@ -898,6 +871,7 @@
 !new/upload/lama/_extras/[SS] Mai-Otome - Promo.avi
 !new/upload/lama/_extras/[Shinsen-Subs] Da Capo Second Season - Promo [F6073EBD].avi
 !new/upload/lama/_extras/[WF] School Rumble - 27 [83EC0104].avi
+!new/upload/porco_rosso[h264.vorbis][niizk].mkv
 !new/upload/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス OVA 「青空が描きたい」.mkv
 !new/upload/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 映像特典 「The たんかい」.mkv
 !new/upload/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 第01話 「えがいてあそぼ」.mkv
@@ -1186,6 +1160,7 @@
 !new/upload/ss/[all4seiya][galaxy][SAINT_SEIYA][TV112][DVDRIP][XVID_MP3][JP_CH].mkv
 !new/upload/ss/[all4seiya][galaxy][SAINT_SEIYA][TV113][DVDRIP][XVID_MP3][JP_CH].mkv
 !new/upload/ss/[all4seiya][galaxy][SAINT_SEIYA][TV114][DVDRIP][XVID_MP3][JP_CH].mkv
+!new/upload/whisper_of_the_heart(rev2)[h264.ac3][niizk].mkv
 !new/upload/zz/cowboy_bebop_remastered_01[h264.ac3][niizk].mkv
 !new/upload/zz/cowboy_bebop_remastered_02[h264.ac3][niizk].mkv
 !new/upload/zz/cowboy_bebop_remastered_03[h264.ac3][niizk].mkv
