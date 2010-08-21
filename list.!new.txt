@@ -233,6 +233,7 @@
 !new/upload/[DATS] Ontama! - 04 [053BAEFC].mkv
 !new/upload/[DATS] Ontama! 01 [2F0C7231].mkv
 !new/upload/[DATS] Ontama! 02 [2FBB11E1].mkv
+!new/upload/[DATS] Ontama! 05 [70E8AC84].mkv
 !new/upload/[DATS] Shibawanko's Japanese Spirit 03-04 [h264][71AD2201].mkv
 !new/upload/[Doremi] HeartCatch PreCure! - 26 (1280x720) [E961F6DA].mkv
 !new/upload/[Doutei]Golgo 13 - 37[DVD][C92F4768].mkv
@@ -272,6 +273,7 @@
 !new/upload/[Movie-2004]_Inuyasha__Guren_no_Houraijima/Inuyasha__Guren_no_Houraijima_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][ED7FAAFB].mkv
 !new/upload/[Nipponsei] Amagami SS ED2 Single - Kitto Ashita wa... [Satou Rina].zip
 !new/upload/[Nipponsei] Highschool of the Dead OP Single - HIGHSCHOOL OF THE DEAD [Kishida Kyoudan & The Myoujou Rocket].zip
+!new/upload/[Nipponsei] Sekimatsu Occult Gakuin OP Single - Flying Humanoid [Nakagawa Shouko].zip
 !new/upload/[OD-WPP] Digimon Xros Wars - 07 (1280x720) [1CF7F6ED].mkv
 !new/upload/[OVA-1989]_Kimagure_Orange_Road__Hawaiian_Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/upload/[OVA-1989]_Kimagure_Orange_Road__Shiroi_Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
@@ -322,6 +324,7 @@
 !new/upload/[RyRo] Inazuma Eleven - 95 (1280x720) [94E9D59A].mkv
 !new/upload/[Ryuumaru] Sekirei - Pure Engagement - 04 (1280x720) [117B3236].mkv
 !new/upload/[Ryuumaru] Sekirei - Pure Engagement - 05 (1280x720) [EA02D84B].mkv
+!new/upload/[Ryuumaru] Sekirei ~Pure Engagement~ - 06v2 [720p][592284D3].mkv
 !new/upload/[SD-Taka] Dragon Ball Kai - 055 (1280x720) [448DD1A1].mkv
 !new/upload/[SD-Taka] Dragon Ball Kai - 056 (1280x720) [01F076FD].mkv
 !new/upload/[SHS-FoSu] Armored Trooper Votoms - Phantom Arc - 03 (1280x720) [6BD53E7C].mkv
@@ -846,6 +849,7 @@
 !new/upload/eg/p/patch.bat
 !new/upload/eg/p/xdelta3.exe
 !new/upload/gedo_senki_-_tales_from_earthsea(rev2)[h264.dts][niizk].mkv
+!new/upload/junkers_come_here[h264.vorbis][niizk].mkv
 !new/upload/lama/__/Ayakashi Ayashi [Nanashi-gg]/[Nanashi-gg] Ayakashi Ayashi - 01 [C5678D73].mkv
 !new/upload/lama/__/Ayakashi Ayashi [Nanashi-gg]/[Nanashi-gg] Ayakashi Ayashi - 02 [8BBF7C20].mkv
 !new/upload/lama/__/Ayakashi Ayashi [Nanashi-gg]/[Nanashi-gg] Ayakashi Ayashi - 03 [42811245].mkv
