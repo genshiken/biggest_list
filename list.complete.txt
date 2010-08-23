@@ -12,6 +12,7 @@ complete/0/009-1/[cLT] 009-1 - 10 [DVD][92D90756].mkv
 complete/0/009-1/[cLT] 009-1 - 11 [DVD][BA1B8E61].mkv
 complete/0/009-1/[cLT] 009-1 - 12 [End][DVD][430C3C54].mkv
 complete/1/11eyes OVA/[Seiippai] 11eyes OVA (1920x1080) [BD][EFEA9AC6].mkv
+complete/1/11eyes/[Commie] 11eyes - Ending (1920x1080) [BD][FAF2457B].mkv
 complete/1/11eyes/[FTV-Wasurenai] 11eyes - 01 (1280x720) [BD][07238189].mkv
 complete/1/11eyes/[FTV-Wasurenai] 11eyes - 02 (1280x720) [BD][85D7593D].mkv
 complete/1/11eyes/[FTV-Wasurenai] 11eyes - 03 (1280x720) [BD][143C5A8B].mkv
@@ -8046,9 +8047,6 @@ complete/n/Natsume Yuujinchou/[BSS] Natsume Yuujinchou - 10 [41577B82].mkv
 complete/n/Natsume Yuujinchou/[BSS] Natsume Yuujinchou - 11 [BA42F76C].mkv
 complete/n/Natsume Yuujinchou/[BSS] Natsume Yuujinchou - 12 [B15C979D].mkv
 complete/n/Natsume Yuujinchou/[BSS] Natsume Yuujinchou - 13 [End][217FF831].mkv
-complete/n/Needless/[ANBU] Needless - 01 [D4976A3E].mkv
-complete/n/Needless/[ANBU] Needless - 02 [CE29239F].mkv
-complete/n/Needless/[Ayako-Himatsubushi] Needless - 03 (1280x720) [75859762].mkv
 complete/n/Needless/[Ayako-Himatsubushi] Needless - 04 (1280x720) [6E30FADA].mkv
 complete/n/Needless/[Ayako-Himatsubushi] Needless - 05 (1280x720) [AF9210F2].mkv
 complete/n/Needless/[Ayako-Himatsubushi] Needless - 06 (1280x720) [C80A4BF3].mkv
@@ -8070,6 +8068,9 @@ complete/n/Needless/[Ayako-Himatsubushi] Needless - 21 (1280x720) [768E10AC].mkv
 complete/n/Needless/[Ayako-Himatsubushi] Needless - 22 (1280x720) [102B2984].mkv
 complete/n/Needless/[Ayako-Himatsubushi] Needless - 23 (1280x720) [EB07E592].mkv
 complete/n/Needless/[Ayako-Himatsubushi] Needless - 24 (1280x720) [End][BC46EDE6].mkv
+complete/n/Needless/[DmonHiro] Needless - 01 (1280x720) [BD][DE9C2CBA].mkv
+complete/n/Needless/[DmonHiro] Needless - 02 (1280x720) [BD][25167C20].mkv
+complete/n/Needless/[DmonHiro] Needless - 03 (1280x720) [BD][94667AD1].mkv
 complete/n/Negima OVA/[AQS-Anime] Negima OVA - Haru [E02565D0].mkv
 complete/n/Negima OVA/[AQS-Anime] Negima OVA - Natsu [3A869559].mkv
 complete/n/Negima!/[Exiled-Destiny] Negima! - 01 [0A6A0F79].mkv
@@ -10727,6 +10728,7 @@ complete/s/Sora no Woto/[Commie] Sora no Woto - 10 [1E1496CB].mkv
 complete/s/Sora no Woto/[Commie] Sora no Woto - 11 [E032EB41].mkv
 complete/s/Sora no Woto/[Commie] Sora no Woto - 12 [End][C98A952F].mkv
 complete/s/Sora no Woto/[pwq] Sora no Woto - 07.5 [BD][1B10DADA].mkv
+complete/s/Sora wo Kakeru Shoujo/[Commie] Sora wo Kakeru Shoujo - Opening (1280x720) [BD][BE969D80].mkv
 complete/s/Sora wo Kakeru Shoujo/[II-Subs] Sora wo Kakeru Shoujo - 13 (1280x720) [D8F4EAE3].mkv
 complete/s/Sora wo Kakeru Shoujo/[II-Subs] Sora wo Kakeru Shoujo - 14 (1280x720) [2591A90C].mkv
 complete/s/Sora wo Kakeru Shoujo/[II-Subs] Sora wo Kakeru Shoujo - 15 (1280x720) [BFC5BE8C].mkv

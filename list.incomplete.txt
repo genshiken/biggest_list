@@ -144,6 +144,7 @@ incomplete/Aoki Densetsu Shoot!/[Saizen] Aoki Densetsu Shoot! - 46 [DVD][D073F90
 incomplete/Aoki Densetsu Shoot!/[Saizen] Aoki Densetsu Shoot! - 48 [DVD][EFD1516B].mkv
 incomplete/Armored Trooper Votoms - Phantom Arc/[SHS-FoSu] Armored Trooper Votoms - Phantom Arc - 01 (1280x720) [0C9F405D].mkv
 incomplete/Armored Trooper Votoms - Phantom Arc/[SHS-FoSu] Armored Trooper Votoms - Phantom Arc - 02 (1280x720) [62FF6947].mkv
+incomplete/Armored Trooper Votoms - Phantom Arc/[SHS-FoSu] Armored Trooper Votoms - Phantom Arc - 03 (1280x720) [6BD53E7C].mkv
 incomplete/Ashita no Joe/[Saizen] Ashita no Joe - 01 [DVD][69BCAC10].mkv
 incomplete/Ashita no Joe/[Saizen] Ashita no Joe - 02 [DVD][3ABA8A8C].mkv
 incomplete/Ashita no Joe/[Saizen] Ashita no Joe - 03 [DVD][D162E486].mkv
@@ -178,6 +179,7 @@ incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 02 [4796E9B8].mkv
 incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 03 [44E72E12].mkv
 incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 04 [693E3458].mkv
 incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 05 [FF85704E].mkv
+incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 06 [10762643].mkv
 incomplete/Astro Fighter Sunred/[ANBU] Astro Fighter Sunred - 01 [170751D6].mkv
 incomplete/Astro Fighter Sunred/[ANBU] Astro Fighter Sunred - 02 [B22B9E90].mkv
 incomplete/Astro Fighter Sunred/[ANBU] Astro Fighter Sunred - 03 [4A5E438E].mkv
@@ -577,6 +579,7 @@ incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 01 (1280x720) [EF50D001]
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 02 (1280x720) [16DC8D8E].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 03 (1280x720) [E022751F].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 05 (1280x720) [987FE371].mkv
+incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 06 (1280x720) [FD52993C].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 07 (1280x720) [5F9D4312].mkv
 incomplete/Dirty Pair TV/[FLF & L-E] Dirty Pair TV - 01 [9689517F].mkv
 incomplete/Dirty Pair TV/[FLF & L-E] Dirty Pair TV - 02 [793D547A].mkv
@@ -644,6 +647,8 @@ incomplete/Dragon Ball Kai/[SD-Taka] Dragon Ball Kai - 051 (1280x720) [0BA6F7C3]
 incomplete/Dragon Ball Kai/[SD-Taka] Dragon Ball Kai - 052 (1280x720) [7631CF32].mkv
 incomplete/Dragon Ball Kai/[SD-Taka] Dragon Ball Kai - 053 (1280x720) [46889961].mkv
 incomplete/Dragon Ball Kai/[SD-Taka] Dragon Ball Kai - 054 (1280x720) [3C483E4B].mkv
+incomplete/Dragon Ball Kai/[SD-Taka] Dragon Ball Kai - 055 (1280x720) [448DD1A1].mkv
+incomplete/Dragon Ball Kai/[SD-Taka] Dragon Ball Kai - 056 (1280x720) [01F076FD].mkv
 incomplete/Dragon Ball Z/[DBNL] Dragon Ball Z - 040 [8D790326].mkv
 incomplete/Dragon Ball Z/[DBNL] Dragon Ball Z - 041 [5186B7D8].mkv
 incomplete/Dragon Ball Z/[DBNL] Dragon Ball Z - 042 [71E7D72D].mkv
@@ -1277,6 +1282,8 @@ incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 90 (1280x720) [EB8B7CDB].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 91 (1280x720) [4F62E98D].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 92 (1280x720) [6F884697].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 93 (1280x720) [FA5F12A8].mkv
+incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 94 (1280x720) [62721611].mkv
+incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 95 (1280x720) [94E9D59A].mkv
 incomplete/Initial D Battle Stage/[Shinsen-Subs] Initial D Battle Stage - 2 [End][B54855AA].mkv
 incomplete/Inuyasha Kanketsu-hen/[O-L] Inuyasha Kanketsu-hen - 01 (1280x720) [686D7CCE].mkv
 incomplete/Inuyasha Kanketsu-hen/[O-L] Inuyasha Kanketsu-hen - 02 (1280x720) [A0F39387].mkv
@@ -1285,10 +1292,15 @@ incomplete/Inuyasha Kanketsu-hen/[O-L] Inuyasha Kanketsu-hen - 04 (1280x720) [40
 incomplete/Inuyasha Kanketsu-hen/[O-L] Inuyasha Kanketsu-hen - 05 (1280x720) [D886E787].mkv
 incomplete/Inuyasha Kanketsu-hen/[O-L] Inuyasha Kanketsu-hen - 06 (1280x720) [5F9573FF].mkv
 incomplete/Inuyasha Kanketsu-hen/[O-L] Inuyasha Kanketsu-hen - 07 (1280x720) [140FDCE1].mkv
-incomplete/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 01 (1280x720) [BD][822E87DA].mkv
-incomplete/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 02 (1280x720) [BD][7480EE00].mkv
-incomplete/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 07 (1280x720) [v2][BD][F695F392].mkv
-incomplete/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 08 (1280x720) [BD][FAEC97BC].mkv
+incomplete/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 01 (1280x720) [BD][13658A69].mkv
+incomplete/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 02 (1280x720) [BD][50F35264].mkv
+incomplete/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 03 (1280x720) [BD][081AF9DD].mkv
+incomplete/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 04 (1280x720) [BD][BA70CF68].mkv
+incomplete/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 05 (1280x720) [BD][ECA143D6].mkv
+incomplete/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 06 (1280x720) [BD][515CB4BC].mkv
+incomplete/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 07 (1280x720) [BD][9B0AB523].mkv
+incomplete/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 08 (1280x720) [BD][02656E90].mkv
+incomplete/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 09 (1280x720) [BD][7DB91636].mkv
 incomplete/Isekai no Seikishi Monogatari/[Wasurenai] Isekai no Seikishi Monogatari - 10 (1280x720) [BD][21AF365C].mkv
 incomplete/Jigoku Shoujo Mitsuganae/[SS-Ayu] Jigoku Shoujo Mitsuganae - 01 [329008CE].mkv
 incomplete/Jigoku Shoujo Mitsuganae/[SS-Ayu] Jigoku Shoujo Mitsuganae - 02 [38A1851A].mkv
@@ -1704,6 +1716,8 @@ incomplete/Kuroshitsuji II/[Commie] Kuroshitsuji II - 04 [3D9B302B].mkv
 incomplete/Kuroshitsuji II/[Commie] Kuroshitsuji II - 05 [7748FD97].mkv
 incomplete/Kuroshitsuji II/[Commie] Kuroshitsuji II - 06 [E2571497].mkv
 incomplete/Kuroshitsuji II/[Commie] Kuroshitsuji II - 07 [AA849892].mkv
+incomplete/Kuroshitsuji II/[Commie] Kuroshitsuji II - 08 [697199D0].mkv
+incomplete/Kuttsukiboshi/[UTW] Kuttsukiboshi - 1 [LQ][021AC18A].mkv
 incomplete/Kyou Kara Maou/[AonE Ani-Kraze] Kyou Kara Maou - 52 [F3C040AF].avi
 incomplete/Kyou Kara Maou/[AonE Ani-Kraze] Kyou Kara Maou - 53 [v2][13773816].avi
 incomplete/Kyou Kara Maou/[AonE Ani-Kraze] Kyou Kara Maou - 54 [CE38CBB8].avi
@@ -1863,6 +1877,7 @@ incomplete/Major S6/[umai] Major S6 - 16 [3EE32BEB].mkv
 incomplete/Major S6/[umai] Major S6 - 17 [FC2B05DB].mkv
 incomplete/Major S6/[umai] Major S6 - 18 [FA86F169].mkv
 incomplete/Major S6/[umai] Major S6 - 19 [FBA20D33].mkv
+incomplete/Major S6/[umai] Major S6 - 20 [B5D3790D].mkv
 incomplete/Maple Story/[Ashes-WIW] Maple Story - 01 [5B1872E3].mkv
 incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 09.5 (1280x720) [14DEFFF1].mkv
 incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 10 (1280x720) [2EE10D6A].mkv
@@ -2045,7 +2060,7 @@ incomplete/Occult Academy/[Commie] Occult Academy - 03 [E736AFE0].mkv
 incomplete/Occult Academy/[Commie] Occult Academy - 04 [97D716CF].mkv
 incomplete/Occult Academy/[Commie] Occult Academy - 05 [FB3D283E].mkv
 incomplete/Occult Academy/[Commie] Occult Academy - 06 [11CA49C2].mkv
-incomplete/Occult Academy/[HorribleSubs] Occult Academy - 07 (1280x720) [6962B75C].mkv
+incomplete/Occult Academy/[Commie] Occult Academy - 07 [5A2CAF44].mkv
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 01 [3A853D01].avi
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 02 [08A1F4E5].avi
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 03 [A66358B8].avi
@@ -2676,6 +2691,8 @@ incomplete/SD Gundam Legend of the Three Kingdoms Brave Battle Warriors/[Huzzah]
 incomplete/SD Gundam Legend of the Three Kingdoms Brave Battle Warriors/[Huzzah] SD Gundam Legend of the Three Kingdoms Brave Battle Warriors - 12 [D8792872].mkv
 incomplete/SD Gundam Legend of the Three Kingdoms Brave Battle Warriors/[Huzzah] SD Gundam Legend of the Three Kingdoms Brave Battle Warriors - 13 [B2413CB1].mkv
 incomplete/SD Gundam Legend of the Three Kingdoms Brave Battle Warriors/[Huzzah] SD Gundam Legend of the Three Kingdoms Brave Battle Warriors - 14 [6A80E711].mkv
+incomplete/SD Gundam Legend of the Three Kingdoms Brave Battle Warriors/[Huzzah] SD Gundam Legend of the Three Kingdoms Brave Battle Warriors - 17 [2D1F95AE].mkv
+incomplete/SD Gundam Legend of the Three Kingdoms Brave Battle Warriors/[Huzzah] SD Gundam Legend of the Three Kingdoms Brave Battle Warriors - 18 [FE3D8880].mkv
 incomplete/SF Saiyuuki Starzinger/[ILA] SF Saiyuuki Starzinger - 06 [65FAA7B3].mkv
 incomplete/SF Saiyuuki Starzinger/[ILA] SF Saiyuuki Starzinger - 07 [6EACF02F].mkv
 incomplete/Saint October/[AoG] Saint October - 14 [8A7C9F10].mkv
@@ -2771,6 +2788,10 @@ incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 05 (1024x576) [F
 incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 01 (1280x720) [804D1CBC].mkv
 incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 02 (1280x720) [826D5501].mkv
 incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 03 (1280x720) [0EF556CA].mkv
+incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 04 (1280x720) [117B3236].mkv
+incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 05 (1280x720) [EA02D84B].mkv
+incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 06 (1280x720) [v2][592284D3].mkv
+incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 07 (1280x720) [D0241CFE].mkv
 incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - 01 [BD8BC276].mkv
 incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - 02 [93B0D6D5].mkv
 incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - 03 [127DB50F].mkv
@@ -2779,6 +2800,7 @@ incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - 05 [346E78E5].mkv
 incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - 06 [C0F2B3AD].mkv
 incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - Opening [F8076451].mkv
 incomplete/Senkou no Night Raid/[Commie] Senkou no Night Raid - 01 [D5EE9405].mkv
+incomplete/Senkou no Night Raid/[Commie] Senkou no Night Raid - Opening (1920x1080) [BD][24CC67BD].mkv
 incomplete/Senkou no Night Raid/[KnKF-Conclave] Senkou no Night Raid - 01 (1280x720) [CA953645].mkv
 incomplete/Senkou no Night Raid/[Pretentious] Senkou no Night Raid - 01 [96291A0C].mkv
 incomplete/Senkou no Night Raid/[Pretentious] Senkou no Night Raid - 02 [073973EF].mkv
@@ -2817,6 +2839,7 @@ incomplete/Shukufuku no Campanella/[Commie] Shukufuku no Campanella - 04 [2BF3DE
 incomplete/Shukufuku no Campanella/[Commie] Shukufuku no Campanella - 05 [9DC67B50].mkv
 incomplete/Shukufuku no Campanella/[Commie] Shukufuku no Campanella - 06 [9DABB3C5].mkv
 incomplete/Shukufuku no Campanella/[Commie] Shukufuku no Campanella - 07 [23FD3C9E].mkv
+incomplete/Shukufuku no Campanella/[Commie] Shukufuku no Campanella - 08 [569E8BFA].mkv
 incomplete/Sisters of Wellber/[C1] Sisters of Wellber - 01 [1BAA09A7].avi
 incomplete/Sisters of Wellber/[C1] Sisters of Wellber - 02 [4F496048].avi
 incomplete/Sisters of Wellber/[C1] Sisters of Wellber - 03 [F172197F].avi
@@ -2932,6 +2955,7 @@ incomplete/Strike Witches 2/[Underwater] Strike Witches 2 - 03 (1280x720) [7E6B9
 incomplete/Strike Witches 2/[Underwater] Strike Witches 2 - 04 (1280x720) [4F959936].mkv
 incomplete/Strike Witches 2/[Underwater] Strike Witches 2 - 05 (1280x720) [96A8902C].mkv
 incomplete/Strike Witches 2/[Underwater] Strike Witches 2 - 06 (1280x720) [D2F927BA].mkv
+incomplete/Strike Witches 2/[Underwater] Strike Witches 2 - 07 (1280x720) [ED24FEF6].mkv
 incomplete/Strong World/[yibis] Strong World - 0 [DVD][49C1A026].mkv
 incomplete/Taiko Drum Master/[Triad] Taiko Drum Master - 14 [DVD][658D86C5].mkv
 incomplete/Tales of Symphonia - OVA - Tethe'alla/[Formula] Tales of Symphonia - OVA - Tethe'alla - 1 [89135783].mkv
