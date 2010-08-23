@@ -195,6 +195,7 @@
 !new/upload/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x25_DVDRiP.rmvb
 !new/upload/[Animanda] Senkou no Night Raid - 07 [Special][7EBC8D18].mkv
 !new/upload/[Ayako-SubDESU] Asobi ni Iku Yo! - 06 (1280x720) [17534C68].mkv
+!new/upload/[Ayako-SubDESU]_Asobi_ni_Iku_Yo!_-_07_[720p][H264][FFCA7A0A].mkv
 !new/upload/[CrunchySubs] Tono to Issho - 01 [720p].mkv
 !new/upload/[CrunchySubs] Tono to Issho - 02 [720p].mkv
 !new/upload/[CrunchySubs] Tono to Issho - 03 [720p].mkv
@@ -223,6 +224,8 @@
 !new/upload/[Froth-Bite]Binchotan_-_07-08[2AC25A22].mp4
 !new/upload/[Froth-Bite]Binchotan_-_09-10[0D8CF0C1].mp4
 !new/upload/[Froth-Bite]Binchotan_-_11-12[704BE6A8].mp4
+!new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_15_[E846E191].mkv
+!new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_16_[8C64DB6D].mkv
 !new/upload/[Mazui] Ookami-san - 08 [9DDF2F74].mkv
 !new/upload/[Monokage]_Mudazumo_Naki_Kaikaku_-_The_Legend_of_Koizumi_[CAE5A5FE].mkv
 !new/upload/[Movie-1986]_Touch_2__Sayonara_no_Okurimono/Touch_2__Sayonara_no_Okurimono_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][C6396C54].avi
@@ -1169,6 +1172,7 @@
 !new/upload/ss/[all4seiya][galaxy][SAINT_SEIYA][TV112][DVDRIP][XVID_MP3][JP_CH].mkv
 !new/upload/ss/[all4seiya][galaxy][SAINT_SEIYA][TV113][DVDRIP][XVID_MP3][JP_CH].mkv
 !new/upload/ss/[all4seiya][galaxy][SAINT_SEIYA][TV114][DVDRIP][XVID_MP3][JP_CH].mkv
+!new/upload/umi_ga_kikoeru_-_the_ocean_waves[h264.vorbis][niizk].mkv
 !new/upload/whisper_of_the_heart(rev2)[h264.ac3][niizk].mkv
 !new/upload/zz/cowboy_bebop_remastered_01[h264.ac3][niizk].mkv
 !new/upload/zz/cowboy_bebop_remastered_02[h264.ac3][niizk].mkv
