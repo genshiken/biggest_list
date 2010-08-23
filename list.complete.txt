@@ -11866,7 +11866,7 @@ complete/t/Touka Gettan/[ReDone] Touka Gettan - 01 [v2][DVD][BA458FD5].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 02 [DVD][DCBD6DE5].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 03 [DVD][491ACAE1].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 04 [DVD][E4D93368].mkv
-complete/t/Touka Gettan/[SRN] Touka Gettan - 05 [44B36646].avi
+complete/t/Touka Gettan/[ReDone] Touka Gettan - 05 [DVD][19302CC3].mkv
 complete/t/Touka Gettan/[SRN] Touka Gettan - 06 [729F742A].avi
 complete/t/Touka Gettan/[SRN] Touka Gettan - 07 [6EB7B007].avi
 complete/t/Touka Gettan/[SRN] Touka Gettan - 08 [2E264FD4].avi
@@ -12097,6 +12097,7 @@ complete/u/Umi Monogatari/[chibi-Formula] Umi Monogatari - 09 (1280x720) [124643
 complete/u/Umi Monogatari/[chibi-Formula] Umi Monogatari - 10 (1280x720) [7C914AD9].mkv
 complete/u/Umi Monogatari/[chibi-Formula] Umi Monogatari - 11 (1280x720) [B24043C1].mkv
 complete/u/Umi Monogatari/[chibi-Formula] Umi Monogatari - 12 (1280x720) [End][1F6EB4A5].mkv
+complete/u/Umi ga Kikoeru/[niizk] Umi ga Kikoeru [754934F9].mkv
 complete/u/Umineko no Naku Koro ni/[gg] Umineko no Naku Koro ni - 01 (1280x720) [BD][4470E8C2].mkv
 complete/u/Umineko no Naku Koro ni/[gg] Umineko no Naku Koro ni - 02 (1280x720) [BD][0B68E333].mkv
 complete/u/Umineko no Naku Koro ni/[gg] Umineko no Naku Koro ni - 03 (1280x720) [BD][8418A5CA].mkv

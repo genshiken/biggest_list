@@ -89,6 +89,7 @@ movie/Patlabor Movie/[THORA] Patlabor Movie (1920x1040) [BD][5F02E5DE].mkv
 movie/Patlabor WXIII/[THORA] Patlabor WXIII [BD][5B5DB50F].mkv
 movie/Piano no Mori/[Live-eviL] Piano no Mori [9932815F].mkv
 movie/Ponyo on the Cliff by the Sea/[niizk] Ponyo on the Cliff by the Sea (1920x1040) [0DF075A4].mkv
+movie/Porco Rosso/[niizk] Porco Rosso [24FEEEAA].mkv
 movie/Pretty Cure All-Stars DX2 Movie/[Curecom-Doremi] Pretty Cure All-Stars DX2 Movie [DVD][1BDB9DC5].mkv
 movie/Pretty Cure Splash Star Movie/[PCSS] Pretty Cure Splash Star Movie [D086C8DB].mkv
 movie/Rockman.EXE Movie - Hikari to Yami no PROGRAM/[WPP] Rockman.EXE Movie - Hikari to Yami no PROGRAM [0D3AC681].avi
@@ -104,6 +105,7 @@ movie/Tengen Toppa Gurren Lagann The Movie/[BSS] Tengen Toppa Gurren Lagann The 
 movie/Tengen Toppa Gurren Lagann The Movie/[BSS] Tengen Toppa Gurren Lagann The Movie - Lagann-hen [8A75A457].mkv
 movie/Toki wo Kakeru Shoujo/[CrystalNova-KAA] Toki wo Kakeru Shoujo [DVD][9F6FF2F3].mkv
 movie/Toki wo Kakeru Shoujo/[niizk] Toki wo Kakeru Shoujo (1904x1072) [95E82425].mkv
+movie/Whisper of the Heart/[niizk] Whisper of the Heart [v2][2D11DBE2].mkv
 movie/Zeta Gundam/[T-N] Zeta Gundam - Movie 1 [8F112ECE].avi
 movie/Zeta Gundam/[T-N] Zeta Gundam - Movie 2 [906E55BD].avi
 movie/Zeta Gundam/[T-N] Zeta Gundam - Movie 3 [D906DC63].avi

@@ -5,8 +5,6 @@
 !new/upload/Carol/[raw] Carol OVA.ass
 !new/upload/Carol/[raw] Carol OVA.avi
 !new/upload/CoreAVC_2.0_Professional_with_key.zip
-!new/upload/Kamen Rider W - 47HD[W-Time].mkv
-!new/upload/Kamen Rider W - 48HD[W-Time].mkv
 !new/upload/Koe de Oshigoto!/Koe de Oshigoto! - 25 [Tonigobe].zip
 !new/upload/MSNegima_c299_reddevilshn_[vnsharing.net].rar
 !new/upload/Nausicaä_of_the_Valley_of_the_Wind_(1984)_[720p,BluRay,x264]_-_THORA.md5
@@ -193,9 +191,57 @@
 !new/upload/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x23_DVDRiP.rmvb
 !new/upload/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x24_DVDRiP.rmvb
 !new/upload/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x25_DVDRiP.rmvb
-!new/upload/[Animanda] Senkou no Night Raid - 07 [Special][7EBC8D18].mkv
-!new/upload/[Ayako-SubDESU] Asobi ni Iku Yo! - 06 (1280x720) [17534C68].mkv
-!new/upload/[Ayako-SubDESU]_Asobi_ni_Iku_Yo!_-_07_[720p][H264][FFCA7A0A].mkv
+!new/upload/[A-FanRips]Zenki - 01[Dual Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki - 02[Dual Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki - 03[Dual Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki - 04[Dual Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki - 05[Dual Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki - 06[Dual Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki - 07[Dual Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki - 08[Dual Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki - 09[Dual Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki - 10[Dual Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki - 11[Dual Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki - 12[Dual Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki - 13[Dual Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki - 14[Dual Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki - 15[Dual Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki - 16[Dual Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki - 17[Dual Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki - 18[Dual Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki - 19[Dual Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki - 20[Dual Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki - 21[Dual Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki - 22[Dual Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki - 23[Dual Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki - 24[Dual Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki - 25[Dual Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki - 26[Dual Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki_-_27[Dual_Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki_-_28[Dual_Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki_-_29[Dual_Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki_-_30[Dual_Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki_-_31[Dual_Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki_-_32[Dual_Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki_-_33[Dual_Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki_-_34[Dual_Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki_-_35[Dual_Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki_-_36[Dual_Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki_-_37[Dual_Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki_-_38[Dual_Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki_-_39[Dual_Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki_-_40[Dual_Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki_-_41[Dual_Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki_-_42[Dual_Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki_-_43[Dual_Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki_-_44[Dual_Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki_-_45[Dual_Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki_-_46[Dual_Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki_-_47[Dual_Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki_-_48[Dual_Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki_-_49[Dual_Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki_-_50[Dual_Audio][XviD].mkv
+!new/upload/[A-FanRips]Zenki_-_51[Dual_Audio][XviD].mkv
 !new/upload/[CrunchySubs] Tono to Issho - 01 [720p].mkv
 !new/upload/[CrunchySubs] Tono to Issho - 02 [720p].mkv
 !new/upload/[CrunchySubs] Tono to Issho - 03 [720p].mkv
@@ -203,20 +249,13 @@
 !new/upload/[CrunchySubs] Tono to Issho - 05 [720p].mkv
 !new/upload/[CrunchySubs] Tono to Issho - 06 [720p].mkv
 !new/upload/[CrunchySubs] Tono to Issho - 07 (1280x720).mkv
-!new/upload/[DATS] Ontama! - 03 [00BDF47B].mkv
-!new/upload/[DATS] Ontama! - 04 [053BAEFC].mkv
-!new/upload/[DATS] Ontama! 01 [2F0C7231].mkv
-!new/upload/[DATS] Ontama! 02 [2FBB11E1].mkv
-!new/upload/[DATS] Ontama! 05 [70E8AC84].mkv
 !new/upload/[DATS] Shibawanko's Japanese Spirit 03-04 [h264][71AD2201].mkv
-!new/upload/[DB]_Ninku_04_[7581FA4D].avi
 !new/upload/[Doremi] HeartCatch PreCure! - 26 (1280x720) [E961F6DA].mkv
 !new/upload/[Doutei]Golgo 13 - 37[DVD][C92F4768].mkv
 !new/upload/[EAC] [100813(C78)] PrismRhythm -プリズムリズム- ED.VocalCollection -Belltina- (tak+InternalCue+files[CD-Extra]+bmp rr5).rar
 !new/upload/[EAC] [100813(C78)] [100827] [ゆずソフト] 「のーぶる☆わーくす」キャラクターソング vol.1 恋の爆弾 (tak+InternalCue+bmp rr5).rar
 !new/upload/[EAC] [100813(C78)] [MOONSTONE] Cy-Rim Project - Angel Ring ～繋げようよ 恋のリング～ (tak+InternalCue+bmp rr5).rar
 !new/upload/[EAC] [DVDISO] [100728] (シングル) TVアニメ あそびにいくヨ！ OP 「Now loading...SKY!!」 ／ スフィア(寿美菜子・高垣彩陽・戸松遥・豊崎愛生) (iso+mds).rar
-!new/upload/[Eclipse] Amagami SS - 08 (1280x720 h264) [9C9DE014].mkv
 !new/upload/[Frostii] K-ON!! B-Side Theater - Uraon!! - 1 [854809C9].mkv
 !new/upload/[Froth-Bite]Binchotan_-_01-02[68D2946D].mp4
 !new/upload/[Froth-Bite]Binchotan_-_03-04[9F7AA835].mp4
@@ -224,9 +263,7 @@
 !new/upload/[Froth-Bite]Binchotan_-_07-08[2AC25A22].mp4
 !new/upload/[Froth-Bite]Binchotan_-_09-10[0D8CF0C1].mp4
 !new/upload/[Froth-Bite]Binchotan_-_11-12[704BE6A8].mp4
-!new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_15_[E846E191].mkv
-!new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_16_[8C64DB6D].mkv
-!new/upload/[Mazui] Ookami-san - 08 [9DDF2F74].mkv
+!new/upload/[HorribleSubs] Fairy Tail - 43 [720p].mkv
 !new/upload/[Monokage]_Mudazumo_Naki_Kaikaku_-_The_Legend_of_Koizumi_[CAE5A5FE].mkv
 !new/upload/[Movie-1986]_Touch_2__Sayonara_no_Okurimono/Touch_2__Sayonara_no_Okurimono_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][C6396C54].avi
 !new/upload/[Movie-1986]_Touch__Sebangou_no_Nai_Ace/Touch__Sebangou_no_Nai_Ace_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][83A7DB30].avi
@@ -249,12 +286,6 @@
 !new/upload/[Movie-2003]_Inuyasha_-_Tenka_Hadou_no_Ken/Inuyasha_-_Tenka_Hadou_no_Ken_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][729CFBDD].mkv
 !new/upload/[Movie-2004]_Inuyasha__Guren_no_Houraijima/Inuyasha__Guren_no_Houraijima_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][ED7FAAFB].mkv
 !new/upload/[Nicchi]Otaku+no+Musume-san+52.rar
-!new/upload/[Nipponsei] Amagami SS ED2 Single - Kitto Ashita wa... [Satou Rina].zip
-!new/upload/[Nipponsei] Highschool of the Dead OP Single - HIGHSCHOOL OF THE DEAD [Kishida Kyoudan & The Myoujou Rocket].zip
-!new/upload/[Nipponsei] Nurarihyon no Mago ED Single - Sparky Start [Various].zip
-!new/upload/[Nipponsei] Sekimatsu Occult Gakuin OP Single - Flying Humanoid [Nakagawa Shouko].zip
-!new/upload/[Nipponsei] Yojouhan Shinwa Taikei Original Soundtrack.zip
-!new/upload/[OD-WPP] Digimon Xros Wars - 07 (1280x720) [1CF7F6ED].mkv
 !new/upload/[OVA-1989]_Kimagure_Orange_Road__Hawaiian_Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/upload/[OVA-1989]_Kimagure_Orange_Road__Shiroi_Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/upload/[OVA-1991]_Kimagure_Orange_Road__Omoi_Gakenai_Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -883,7 +914,6 @@
 !new/upload/lama/_extras/[SS] Mai-Otome - Promo.avi
 !new/upload/lama/_extras/[Shinsen-Subs] Da Capo Second Season - Promo [F6073EBD].avi
 !new/upload/lama/_extras/[WF] School Rumble - 27 [83EC0104].avi
-!new/upload/porco_rosso[h264.vorbis][niizk].mkv
 !new/upload/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス OVA 「青空が描きたい」.mkv
 !new/upload/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 映像特典 「The たんかい」.mkv
 !new/upload/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 第01話 「えがいてあそぼ」.mkv
@@ -1172,8 +1202,6 @@
 !new/upload/ss/[all4seiya][galaxy][SAINT_SEIYA][TV112][DVDRIP][XVID_MP3][JP_CH].mkv
 !new/upload/ss/[all4seiya][galaxy][SAINT_SEIYA][TV113][DVDRIP][XVID_MP3][JP_CH].mkv
 !new/upload/ss/[all4seiya][galaxy][SAINT_SEIYA][TV114][DVDRIP][XVID_MP3][JP_CH].mkv
-!new/upload/umi_ga_kikoeru_-_the_ocean_waves[h264.vorbis][niizk].mkv
-!new/upload/whisper_of_the_heart(rev2)[h264.ac3][niizk].mkv
 !new/upload/zz/cowboy_bebop_remastered_01[h264.ac3][niizk].mkv
 !new/upload/zz/cowboy_bebop_remastered_02[h264.ac3][niizk].mkv
 !new/upload/zz/cowboy_bebop_remastered_03[h264.ac3][niizk].mkv
