@@ -845,7 +845,6 @@
 !new/upload/eg/p/[EG]ZZ_Gundam_BD_25_V2(720p)[FDE1C06D].mkv
 !new/upload/eg/p/patch.bat
 !new/upload/eg/p/xdelta3.exe
-!new/upload/gedo_senki_-_tales_from_earthsea(rev2)[h264.dts][niizk].mkv
 !new/upload/hs/[HorribleSubs] Asobi ni Iku Yo! - 06 (1280x720) [1EDD2C87].mkv
 !new/upload/hs/[HorribleSubs] Fairy Tail - 41 (1280x720) [18A9418B].mkv
 !new/upload/hs/[HorribleSubs] Giant Killing - 21 [720p].mkv
@@ -858,19 +857,6 @@
 !new/upload/hs/[HorribleSubs] Uraboku - 20 [480p].mkv
 !new/upload/hs/[HorribleSubs] Uragiri wa Boku no Namae wo Shitteiru - 18 [9335686F].mkv
 !new/upload/hs/[HorribleSubs] Yumeiro Patissiere - 46 [720p].mkv
-!new/upload/lama/__/Ayakashi Ayashi [Nanashi-gg]/[Nanashi-gg] Ayakashi Ayashi - 01 [C5678D73].mkv
-!new/upload/lama/__/Ayakashi Ayashi [Nanashi-gg]/[Nanashi-gg] Ayakashi Ayashi - 02 [8BBF7C20].mkv
-!new/upload/lama/__/Ayakashi Ayashi [Nanashi-gg]/[Nanashi-gg] Ayakashi Ayashi - 03 [42811245].mkv
-!new/upload/lama/__/Ayakashi Ayashi [Nanashi-gg]/[Nanashi-gg] Ayakashi Ayashi - 04 [19FB23A8].mkv
-!new/upload/lama/__/Ayakashi Ayashi [Nanashi-gg]/[Nanashi-gg] Ayakashi Ayashi - 05 [D4F04F99].mkv
-!new/upload/lama/__/Ayakashi Ayashi [Nanashi-gg]/[Nanashi-gg] Ayakashi Ayashi - 06 [A3F98A34].mkv
-!new/upload/lama/__/Bakumatsu Kikansetsu Irohanihoheto [Conclave-Ayu]/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 01 [DVD][DAC042E0].mkv
-!new/upload/lama/__/Bakumatsu Kikansetsu Irohanihoheto [Conclave-Ayu]/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 02 [DVD][19B75C94].mkv
-!new/upload/lama/__/Bakumatsu Kikansetsu Irohanihoheto [Conclave-Ayu]/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 03 [DVD][DEBB5FEF].mkv
-!new/upload/lama/__/Bakumatsu Kikansetsu Irohanihoheto [Conclave-Ayu]/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 04 [DVD][83592925].mkv
-!new/upload/lama/__/Hellsing Ultimate OVA I, II, IV/Hellsing_OVA_I_[AoeN].avi
-!new/upload/lama/__/Hellsing Ultimate OVA I, II, IV/[BF-BoH] Hellsing Ultimate - 02 [BEDD2FB1].avi
-!new/upload/lama/__/Hellsing Ultimate OVA I, II, IV/[DR]Hellsing_OVA_-_IV.mkv
 !new/upload/lama/__/Magikano/Magikano - 01 [AnimeU].avi
 !new/upload/lama/__/Magikano/Magikano - 02 [AnimeU].avi
 !new/upload/lama/__/Magikano/Magikano - 03 [AnimeU].avi
@@ -884,36 +870,16 @@
 !new/upload/lama/__/Magikano/Magikano - 12 [AnimeU].avi
 !new/upload/lama/__/Magikano/Magikano - 13 [AnimeU].avi
 !new/upload/lama/__/Okane ga Nai/[aarinfantasy] Okane ga Nai - OVA 3 [BF0E4291].avi
-!new/upload/lama/__/Prince of Tennis/[Anime7] Prince of Tennis - Futari no Samurai.avi
 !new/upload/lama/__/Shuffle! Memories [AnimeU]/[AnimeU] Shuffle! Memories - 01 [DB53BE6D].avi
-!new/upload/lama/__/[A-Kraze] Hoshizora Kiseki - OVA [DVD][F64F469A].mp4
 !new/upload/lama/__/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/upload/lama/__/[Ayako] Wei� Survive R - 01 - H264 - E975A989.mkv
 !new/upload/lama/__/[C1_L-E_MJN]_Little_Princess_Sara_-_01_[12B12455].avi
-!new/upload/lama/__/[Froth-Bite] Sky Girls - OVA [135583CB].mp4
 !new/upload/lama/__/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
 !new/upload/lama/__/[KnKF] Detective Conan - Movie 10 - P1 [AD7851FC].avi
 !new/upload/lama/__/[KnKF] Detective Conan - Movie 10 - P2 [7AA97A53].avi
 !new/upload/lama/__/[Kuroneko] Fullmetal Alchemist - Chibi Party OAV [DB1546EB].avi
 !new/upload/lama/__/[TAC Studios] Hunter X Hunter - Requiem.avi
 !new/upload/lama/__/[Zeonic-Corps] Mobile Suit Gundam Seed CE 73 Stargazer Trailer [1F8DAD77].avi
-!new/upload/lama/_extras/[Ayako] Ikkitousen Dragon Destiny - Special 1 [B16C4099].avi
-!new/upload/lama/_extras/[Ayu] Iriya No Sora UFO No Natsu - Promo [A571992A].avi
-!new/upload/lama/_extras/[Doremi Freelance] Mai-Otome - DVD Special 1 - Mai-HiME Movie Trailer v1.5 [1337C0DE].avi
-!new/upload/lama/_extras/[Doremi-OTOME] Mai-Otome - DVD Special 4 - Shiho Spirals [4C35DAA9].avi
-!new/upload/lama/_extras/[Doremi-OTOME] Mai-Otome - DVD Special 5 - By the Red Sky [EA258F42].avi
-!new/upload/lama/_extras/[Doremi-OTOME] Mai-Otome - DVD Special 6 - Graduation Memories [FFC55ADE].avi
-!new/upload/lama/_extras/[Doremi-OTOME] Mai-Otome - DVD Special 7 - In Aswad's Village [464A5E76].avi
-!new/upload/lama/_extras/[Doremi-OTOME] Mai-Otome - DVD Special 8 - The Legend of the Fire String Ruby [v3][FD54F080].avi
-!new/upload/lama/_extras/[Doremi-OTOME] Mai-Otome - DVD Special 9 - Mai-Otome VS Mai-HiME [39F2ADD5].avi
-!new/upload/lama/_extras/[Froth-Bite] Magical Pokan - Special 01 [C463668F].mp4
-!new/upload/lama/_extras/[Froth-Bite] Magical Pokan - Special 02 [ECD15E4E].mp4
-!new/upload/lama/_extras/[Froth-Bite] Magical Pokan - Special 03 [3BF76441].mp4
-!new/upload/lama/_extras/[SS-Doremi] Mai-Otome - DVD Special 2 - This Week's Armitage [F6A362CE].avi
-!new/upload/lama/_extras/[SS-Doremi] Mai-Otome - DVD Special 3 - Juliet's Conspiracy [AFF4AF17].avi
-!new/upload/lama/_extras/[SS] Mai-Otome - Promo.avi
-!new/upload/lama/_extras/[Shinsen-Subs] Da Capo Second Season - Promo [F6073EBD].avi
-!new/upload/lama/_extras/[WF] School Rumble - 27 [83EC0104].avi
 !new/upload/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス OVA 「青空が描きたい」.mkv
 !new/upload/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 映像特典 「The たんかい」.mkv
 !new/upload/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 第01話 「えがいてあそぼ」.mkv
@@ -1202,29 +1168,3 @@
 !new/upload/ss/[all4seiya][galaxy][SAINT_SEIYA][TV112][DVDRIP][XVID_MP3][JP_CH].mkv
 !new/upload/ss/[all4seiya][galaxy][SAINT_SEIYA][TV113][DVDRIP][XVID_MP3][JP_CH].mkv
 !new/upload/ss/[all4seiya][galaxy][SAINT_SEIYA][TV114][DVDRIP][XVID_MP3][JP_CH].mkv
-!new/upload/zz/cowboy_bebop_remastered_01[h264.ac3][niizk].mkv
-!new/upload/zz/cowboy_bebop_remastered_02[h264.ac3][niizk].mkv
-!new/upload/zz/cowboy_bebop_remastered_03[h264.ac3][niizk].mkv
-!new/upload/zz/cowboy_bebop_remastered_04[h264.ac3][niizk].mkv
-!new/upload/zz/cowboy_bebop_remastered_05[h264.ac3][niizk].mkv
-!new/upload/zz/cowboy_bebop_remastered_06[h264.ac3][niizk].mkv
-!new/upload/zz/cowboy_bebop_remastered_07[h264.ac3][niizk].mkv
-!new/upload/zz/cowboy_bebop_remastered_08[h264.ac3][niizk].mkv
-!new/upload/zz/cowboy_bebop_remastered_09[h264.ac3][niizk].mkv
-!new/upload/zz/cowboy_bebop_remastered_10[h264.ac3][niizk].mkv
-!new/upload/zz/cowboy_bebop_remastered_11[h264.ac3][niizk].mkv
-!new/upload/zz/cowboy_bebop_remastered_12[h264.ac3][niizk].mkv
-!new/upload/zz/cowboy_bebop_remastered_13[h264.ac3][niizk].mkv
-!new/upload/zz/cowboy_bebop_remastered_14[h264.ac3][niizk].mkv
-!new/upload/zz/cowboy_bebop_remastered_15[h264.ac3][niizk].mkv
-!new/upload/zz/cowboy_bebop_remastered_16[h264.ac3][niizk].mkv
-!new/upload/zz/cowboy_bebop_remastered_17[h264.ac3][niizk].mkv
-!new/upload/zz/cowboy_bebop_remastered_18[h264.ac3][niizk].mkv
-!new/upload/zz/cowboy_bebop_remastered_19[h264.ac3][niizk].mkv
-!new/upload/zz/cowboy_bebop_remastered_20[h264.ac3][niizk].mkv
-!new/upload/zz/cowboy_bebop_remastered_21[h264.ac3][niizk].mkv
-!new/upload/zz/cowboy_bebop_remastered_22[h264.ac3][niizk].mkv
-!new/upload/zz/cowboy_bebop_remastered_23[h264.ac3][niizk].mkv
-!new/upload/zz/cowboy_bebop_remastered_24[h264.ac3][niizk].mkv
-!new/upload/zz/cowboy_bebop_remastered_25[h264.ac3][niizk].mkv
-!new/upload/zz/cowboy_bebop_remastered_26[h264.ac3][niizk].mkv

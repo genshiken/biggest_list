@@ -1812,6 +1812,32 @@ complete/c/Cosprayers/[Triad] Cosprayers - 8 [End][0CF502AF].avi
 complete/c/Cossette no Shouzou/[niizk] Cossette no Shouzou - 1 [DVD][6E927130].mkv
 complete/c/Cossette no Shouzou/[niizk] Cossette no Shouzou - 2 [DVD][B6973B1D].mkv
 complete/c/Cossette no Shouzou/[niizk] Cossette no Shouzou - 3 [End][DVD][3A24D475].mkv
+complete/c/Cowboy Bebop/[niizk] Cowboy Bebop - 01 [v2][54690097].mkv
+complete/c/Cowboy Bebop/[niizk] Cowboy Bebop - 02 [v2][260705C1].mkv
+complete/c/Cowboy Bebop/[niizk] Cowboy Bebop - 03 [v2][F3F6F441].mkv
+complete/c/Cowboy Bebop/[niizk] Cowboy Bebop - 04 [v2][7F7A1EAD].mkv
+complete/c/Cowboy Bebop/[niizk] Cowboy Bebop - 05 [v2][992A9248].mkv
+complete/c/Cowboy Bebop/[niizk] Cowboy Bebop - 06 [v2][4860E490].mkv
+complete/c/Cowboy Bebop/[niizk] Cowboy Bebop - 07 [v2][454A21E0].mkv
+complete/c/Cowboy Bebop/[niizk] Cowboy Bebop - 08 [v2][62D05423].mkv
+complete/c/Cowboy Bebop/[niizk] Cowboy Bebop - 09 [v2][FE545F47].mkv
+complete/c/Cowboy Bebop/[niizk] Cowboy Bebop - 10 [v2][D45C9D56].mkv
+complete/c/Cowboy Bebop/[niizk] Cowboy Bebop - 11 [v2][DF057E16].mkv
+complete/c/Cowboy Bebop/[niizk] Cowboy Bebop - 12 [v2][ABEE778E].mkv
+complete/c/Cowboy Bebop/[niizk] Cowboy Bebop - 13 [v2][7386D703].mkv
+complete/c/Cowboy Bebop/[niizk] Cowboy Bebop - 14 [v2][94634FFD].mkv
+complete/c/Cowboy Bebop/[niizk] Cowboy Bebop - 15 [v2][51BEFD12].mkv
+complete/c/Cowboy Bebop/[niizk] Cowboy Bebop - 16 [v2][F827DB42].mkv
+complete/c/Cowboy Bebop/[niizk] Cowboy Bebop - 17 [v2][C2508635].mkv
+complete/c/Cowboy Bebop/[niizk] Cowboy Bebop - 18 [v2][43DFBCC6].mkv
+complete/c/Cowboy Bebop/[niizk] Cowboy Bebop - 19 [v2][AC898127].mkv
+complete/c/Cowboy Bebop/[niizk] Cowboy Bebop - 20 [v2][55946114].mkv
+complete/c/Cowboy Bebop/[niizk] Cowboy Bebop - 21 [v2][B41AB91B].mkv
+complete/c/Cowboy Bebop/[niizk] Cowboy Bebop - 22 [v2][379F0D6E].mkv
+complete/c/Cowboy Bebop/[niizk] Cowboy Bebop - 23 [v2][65F9A1E3].mkv
+complete/c/Cowboy Bebop/[niizk] Cowboy Bebop - 24 [v2][741B8A2D].mkv
+complete/c/Cowboy Bebop/[niizk] Cowboy Bebop - 25 [v2][B368F2E7].mkv
+complete/c/Cowboy Bebop/[niizk] Cowboy Bebop - 26 [End][v2][F535CEB0].mkv
 complete/c/Coyote Ragtime Show/[gg] Coyote Ragtime Show - 01 [0D15195C].mkv
 complete/c/Coyote Ragtime Show/[gg] Coyote Ragtime Show - 02 [FF48A888].mkv
 complete/c/Coyote Ragtime Show/[gg] Coyote Ragtime Show - 03 [A3AEEC9E].mkv
@@ -4876,7 +4902,8 @@ complete/h/Honey & Clover II/[Solar-IDE] Honey & Clover II - 12 (1280x720) [End]
 complete/h/Hoshi no Umi no Amuri/[Hitode] Hoshi no Umi no Amuri - 1 [9235B6A3].mkv
 complete/h/Hoshi no Umi no Amuri/[OFP] Hoshi no Umi no Amuri - 3 [End][C67FD87C].mkv
 complete/h/Hoshi no Umi no Amuri/[ujisub] Hoshi no Umi no Amuri - 2 [DVD][6BE6A279].mkv
-complete/h/Hoshizora Kiseki - OVA/[MSF] Hoshizora Kiseki - OVA [A3851242].mkv
+complete/h/Hoshizora Kiseki OVA/[A-Kraze] Hoshizora Kiseki OVA [DVD][F64F469A].mp4
+complete/h/Hoshizora Kiseki OVA/[MSF] Hoshizora Kiseki OVA [A3851242].mkv
 complete/h/Hunter X Hunter GI Final/[AonE-N!] Hunter X Hunter GI Final - 01 [8070008E].avi
 complete/h/Hunter X Hunter GI Final/[AonE-N!] Hunter X Hunter GI Final - 02 [112097E5].avi
 complete/h/Hunter X Hunter GI Final/[AonE-N!] Hunter X Hunter GI Final - 03 [DE25492F].avi
@@ -7265,11 +7292,8 @@ complete/m/Mahou Tsukai ni Taisetsu na Koto - Natsu no Sora/[AnY-Conclave] Mahou
 complete/m/Mahou Tsukai ni Taisetsu na Koto - Natsu no Sora/[AnY-Conclave] Mahou Tsukai ni Taisetsu na Koto - Natsu no Sora - 11 (1280x720) [01D51549].mkv
 complete/m/Mahou Tsukai ni Taisetsu na Koto - Natsu no Sora/[AnY-Conclave] Mahou Tsukai ni Taisetsu na Koto - Natsu no Sora - 12 (1280x720) [End][3A000FE9].mkv
 complete/m/Mai-Otome S.ifr/[SS] Mai-Otome S.ifr - 1 (1920x1080) [BD][4BF8843A].mkv
-complete/m/Mai-Otome S.ifr/[SS] Mai-Otome S.ifr - 1 [835F703A].mkv
 complete/m/Mai-Otome S.ifr/[SS] Mai-Otome S.ifr - 2 (1920x1080) [BD][628F641E].mkv
-complete/m/Mai-Otome S.ifr/[SS] Mai-Otome S.ifr - 2 [6532EFEF].mkv
 complete/m/Mai-Otome S.ifr/[SS] Mai-Otome S.ifr - 3 (1920x1080) [End][BD][FBC0E0DA].mkv
-complete/m/Mai-Otome S.ifr/[SS] Mai-Otome S.ifr - 3 [End][727197A3].mkv
 complete/m/Mai-Otome Zwei/[SS] Mai-Otome Zwei - 1 [C7E8D780].mkv
 complete/m/Mai-Otome Zwei/[SS] Mai-Otome Zwei - 2 [EAD3EAF2].mkv
 complete/m/Mai-Otome Zwei/[SS] Mai-Otome Zwei - 3 [23DEEEAB].mkv
@@ -10602,6 +10626,7 @@ complete/s/Skip Beat/[Ureshii-Yoroshiku] Skip Beat - 09 (1280x720) [F68E5357].mk
 complete/s/Skip Beat/[Ureshii-Yoroshiku] Skip Beat - 10 (1280x720) [854EDFCB].mkv
 complete/s/Skip Beat/[Ureshii-Yoroshiku] Skip Beat - 11 (1280x720) [B4B4AD1F].mkv
 complete/s/Skip Beat/[Ureshii-Yoroshiku] Skip Beat - 12 (1280x720) [211CB393].mkv
+complete/s/Sky Girls OVA/[Froth-Bite] Sky Girls OVA [135583CB].mp4
 complete/s/Sky Girls/[Taedium] Sky Girls - 01 [DVD][14599D85].mkv
 complete/s/Sky Girls/[Taedium] Sky Girls - 02 [DVD][A9E9E0CD].mkv
 complete/s/Sky Girls/[Taedium] Sky Girls - 03 [DVD][897ED235].mkv
@@ -11302,6 +11327,12 @@ complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 22 
 complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 23 [A3617874].avi
 complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 24 [76FCEAA1].avi
 complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 25 [End][D6DF3C0C].avi
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Nanashi-gg] Tenpou Ibun Ayakashi Ayashi - 01 [C5678D73].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Nanashi-gg] Tenpou Ibun Ayakashi Ayashi - 02 [8BBF7C20].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Nanashi-gg] Tenpou Ibun Ayakashi Ayashi - 03 [42811245].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Nanashi-gg] Tenpou Ibun Ayakashi Ayashi - 04 [19FB23A8].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Nanashi-gg] Tenpou Ibun Ayakashi Ayashi - 05 [D4F04F99].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Nanashi-gg] Tenpou Ibun Ayakashi Ayashi - 06 [A3F98A34].mkv
 complete/t/The Daughter of Twenty Faces/[Live-eviL] The Daughter of Twenty Faces - 01 (1280x720) [076483C0].mkv
 complete/t/The Daughter of Twenty Faces/[Live-eviL] The Daughter of Twenty Faces - 02 (1280x720) [1E299631].mkv
 complete/t/The Daughter of Twenty Faces/[Live-eviL] The Daughter of Twenty Faces - 03 (1280x720) [7A24613A].mkv
