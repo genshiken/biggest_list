@@ -244,6 +244,7 @@
 !new/upload/[A-FanRips]Zenki_-_49[Dual_Audio][XviD].mkv
 !new/upload/[A-FanRips]Zenki_-_50[Dual_Audio][XviD].mkv
 !new/upload/[A-FanRips]Zenki_-_51[Dual_Audio][XviD].mkv
+!new/upload/[Ayako]_Seitokai_Yakuindomo_-_08_[720p][H264][43B95F18].mkv
 !new/upload/[CrunchySubs] Tono to Issho - 01 [720p].mkv
 !new/upload/[CrunchySubs] Tono to Issho - 02 [720p].mkv
 !new/upload/[CrunchySubs] Tono to Issho - 03 [720p].mkv
@@ -334,6 +335,33 @@
 !new/upload/[OVA-2008]_Saint_Seiya__Meiou_Hades_Elysion-hen/Saint_Seiya__Meiou_Hades_Elysion-hen_-_4[6]_-_The_Legendary_Gold_Cloths_[640x480][DVD][NankH-TMD][40D5147A]v2.mkv
 !new/upload/[OVA-2008]_Saint_Seiya__Meiou_Hades_Elysion-hen/Saint_Seiya__Meiou_Hades_Elysion-hen_-_5[6]_-_Awakening_from_Myth_[640x480][DVD][NankH-TMD][E1FD392C]v2.mkv
 !new/upload/[OVA-2008]_Saint_Seiya__Meiou_Hades_Elysion-hen/Saint_Seiya__Meiou_Hades_Elysion-hen_-_6[6]_-_To_the_World_where_Light_Overflows_[640x480][DVD][NankH-TMD][82AD6FEE]v2.mkv
+!new/upload/[RaX]Slayers_Evolution-R_-_01_-_Newcomer__A_New_Journey_[x264_aac_5.1]_[6A6AD5BB].mkv
+!new/upload/[RaX]Slayers_Evolution-R_-_02_-_Oh_My_Head__Where's_My_Head_[x264_aac_5.1]_[4D2ED918].mkv
+!new/upload/[RaX]Slayers_Evolution-R_-_03_-_Partner__Sharing_Mind_and_Body_[x264_aac_5.1]_[7D1A4040].mkv
+!new/upload/[RaX]Slayers_Evolution-R_-_04_-_Quality_Time__A_Home_Life_with_Love_[x264_aac_5.1]_[BE3A4E41].mkv
+!new/upload/[RaX]Slayers_Evolution-R_-_05_-_Raider__Voice_From_the_Darkness_[x264_aac_5.1]_[6E52FF6C].mkv
+!new/upload/[RaX]Slayers_Evolution-R_-_06_-_Seek__Who's_Being_Targeted_[x264_aac_5.1]_[5249B1C5].mkv
+!new/upload/[RaX]Slayers_Evolution-R_-_07_-_Townscape__Because_It's_Manmade_[x264_aac_5.1]_[4556A2C6].mkv
+!new/upload/[RaX]Slayers_Evolution-R_-_08_-_Uncover__The_Exposed_Darkness_[x264_aac_5.1]_[500D0E79].mkv
+!new/upload/[RaX]Slayers_Evolution-R_-_09_-_Voice__What's_Inside_the_Jar_[x264_aac_5.1]_[48FE651A].mkv
+!new/upload/[RaX]Slayers_Evolution-R_-_10_-_Wisdom__Seek_the_Time_That_Will_Never_Return_[x264_aac_5.1]_[51465669].mkv
+!new/upload/[RaX]Slayers_Evolution-R_-_11_-_Xeno__The_Price_of_Revival_[x264_aac_5.1]_[634B83C9].mkv
+!new/upload/[RaX]Slayers_Evolution-R_-_12_-_Yesterdays_Memory__Days_Regained_[x264_aac_5.1]_[B82B5E81].mkv
+!new/upload/[RaX]Slayers_Evolution-R_-_13_-_Zero_Hour__The_Destroyed_One_[x264_aac_5.1]_[0C99BAE4].mkv
+!new/upload/[RaX]Slayers_Revolution_-_01_-_Amazing!_The_Astonishing_Dragon_Slave!_[x264_aac_5.1]_[28882370].mkv
+!new/upload/[RaX]Slayers_Revolution_-_02_-_Because!_You're_Lina_Inverse_That's_Why_[x264_aac_5.1]_[A8339B1F].mkv
+!new/upload/[RaX]Slayers_Revolution_-_03_-_Chase!_The_Endless_Pursuit_[x264_aac_5.1]_[E94365F3].mkv
+!new/upload/[RaX]Slayers_Revolution_-_04_-_Drifter!_Who's_Chasing_Whom!_[x264_aac_5.1]_[5EB7C0EA].mkv
+!new/upload/[RaX]Slayers_Revolution_-_05_-_Eternal!_The_Forever-Sleeping_Forest!_[x264_aac_5.1]_[2B501709].mkv
+!new/upload/[RaX]Slayers_Revolution_-_06_-_Fall_On!_Strange_Festival!_Bizarre_Festival_Push_That_Ball_Up!_[x264_aac_5.1]_[D8F14741].mkv
+!new/upload/[RaX]Slayers_Revolution_-_07_-_Gorgeous!_The_Targeted_Luxury_Liner_[x264_aac_5.1]_[32297BEF].mkv
+!new/upload/[RaX]Slayers_Revolution_-_08_-_Hurry_Up!_Run_Through!_No_Don't_[x264_aac_5.1]_[7DE23EB0].mkv
+!new/upload/[RaX]Slayers_Revolution_-_09_-_Insider!_The_One_Who_Knows_the_Truth!_[x264_aac_5.1]_[3D837A93].mkv
+!new/upload/[RaX]Slayers_Revolution_-_10_-_Judgment!_The_Silver_One_Rises_Again!_[x264_aac_5.1]_[D89C2164].mkv
+!new/upload/[RaX]Slayers_Revolution_-_11_-_Keep_Out!_The_Demon_Beast_Looms!_[x264_aac_5.1]_[473C287C].mkv
+!new/upload/[RaX]Slayers_Revolution_-_12_-_Legacy!_Decisive_Battle_in_Seyruun_[x264_aac_5.1]_[C411C037].mkv
+!new/upload/[RaX]Slayers_Revolution_-_13_-_Misty!_The_Blades_Are_Brought_Down!_[x264_aac_5.1]_[C9D8E810].mkv
+!new/upload/[RyRo]_Inazuma_Eleven_-_96_(1280x720_x264_AAC)_[132CDAD7].mkv
 !new/upload/[Ryuumaru] Seitokai Yakuindomo - 06 [1024x576][DDBF8557].mkv
 !new/upload/[Ryuumaru] Sekirei ~Pure Engagement~ - 08 [720p][2DBC8F92].mkv
 !new/upload/[SHiN-gx] Kuttsukiboshi - Teaser Trailer 2 [720x480 AR h.264 AAC][v2][8815A59A].mkv
@@ -881,8 +909,6 @@
 !new/upload/lama/__/[Ayako] Weiﬂ Survive R - 01 - H264 - E975A989.mkv
 !new/upload/lama/__/[C1_L-E_MJN]_Little_Princess_Sara_-_01_[12B12455].avi
 !new/upload/lama/__/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
-!new/upload/lama/__/[KnKF] Detective Conan - Movie 10 - P1 [AD7851FC].avi
-!new/upload/lama/__/[KnKF] Detective Conan - Movie 10 - P2 [7AA97A53].avi
 !new/upload/lama/__/[Kuroneko] Fullmetal Alchemist - Chibi Party OAV [DB1546EB].avi
 !new/upload/lama/__/[TAC Studios] Hunter X Hunter - Requiem.avi
 !new/upload/lama/__/[Zeonic-Corps] Mobile Suit Gundam Seed CE 73 Stargazer Trailer [1F8DAD77].avi
