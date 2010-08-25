@@ -907,27 +907,25 @@
 !new/upload/hs/[HorribleSubs] Uraboku - 20 [480p].mkv
 !new/upload/hs/[HorribleSubs] Uragiri wa Boku no Namae wo Shitteiru - 18 [9335686F].mkv
 !new/upload/hs/[HorribleSubs] Yumeiro Patissiere - 46 [720p].mkv
-!new/upload/lama/__/Magikano/Magikano - 01 [AnimeU].avi
-!new/upload/lama/__/Magikano/Magikano - 02 [AnimeU].avi
-!new/upload/lama/__/Magikano/Magikano - 03 [AnimeU].avi
-!new/upload/lama/__/Magikano/Magikano - 04 [AnimeU].avi
-!new/upload/lama/__/Magikano/Magikano - 06 [AnimeU].avi
-!new/upload/lama/__/Magikano/Magikano - 07 [AnimeU].avi
-!new/upload/lama/__/Magikano/Magikano - 08 [AnimeU].avi
-!new/upload/lama/__/Magikano/Magikano - 09 [AnimeU].avi
-!new/upload/lama/__/Magikano/Magikano - 10 [AnimeU].avi
-!new/upload/lama/__/Magikano/Magikano - 11 [AnimeU].avi
-!new/upload/lama/__/Magikano/Magikano - 12 [AnimeU].avi
-!new/upload/lama/__/Magikano/Magikano - 13 [AnimeU].avi
-!new/upload/lama/__/Okane ga Nai/[aarinfantasy] Okane ga Nai - OVA 3 [BF0E4291].avi
-!new/upload/lama/__/Shuffle! Memories [AnimeU]/[AnimeU] Shuffle! Memories - 01 [DB53BE6D].avi
-!new/upload/lama/__/[Arabdreamers] Detective Conan - Movie 09.mkv
-!new/upload/lama/__/[Ayako] Wei� Survive R - 01 - H264 - E975A989.mkv
-!new/upload/lama/__/[C1_L-E_MJN]_Little_Princess_Sara_-_01_[12B12455].avi
-!new/upload/lama/__/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
-!new/upload/lama/__/[Kuroneko] Fullmetal Alchemist - Chibi Party OAV [DB1546EB].avi
-!new/upload/lama/__/[TAC Studios] Hunter X Hunter - Requiem.avi
-!new/upload/lama/__/[Zeonic-Corps] Mobile Suit Gundam Seed CE 73 Stargazer Trailer [1F8DAD77].avi
+!new/upload/lama/Magikano/Magikano - 01 [AnimeU].avi
+!new/upload/lama/Magikano/Magikano - 02 [AnimeU].avi
+!new/upload/lama/Magikano/Magikano - 03 [AnimeU].avi
+!new/upload/lama/Magikano/Magikano - 04 [AnimeU].avi
+!new/upload/lama/Magikano/Magikano - 06 [AnimeU].avi
+!new/upload/lama/Magikano/Magikano - 07 [AnimeU].avi
+!new/upload/lama/Magikano/Magikano - 08 [AnimeU].avi
+!new/upload/lama/Magikano/Magikano - 09 [AnimeU].avi
+!new/upload/lama/Magikano/Magikano - 10 [AnimeU].avi
+!new/upload/lama/Magikano/Magikano - 11 [AnimeU].avi
+!new/upload/lama/Magikano/Magikano - 12 [AnimeU].avi
+!new/upload/lama/Magikano/Magikano - 13 [AnimeU].avi
+!new/upload/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
+!new/upload/lama/[Ayako] Wei� Survive R - 01 - H264 - E975A989.mkv
+!new/upload/lama/[C1_L-E_MJN]_Little_Princess_Sara_-_01_[12B12455].avi
+!new/upload/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
+!new/upload/lama/[Kuroneko] Fullmetal Alchemist - Chibi Party OAV [DB1546EB].avi
+!new/upload/lama/[TAC Studios] Hunter X Hunter - Requiem.avi
+!new/upload/lama/[Zeonic-Corps] Mobile Suit Gundam Seed CE 73 Stargazer Trailer [1F8DAD77].avi
 !new/upload/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス OVA 「青空が描きたい」.mkv
 !new/upload/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 映像特典 「The たんかい」.mkv
 !new/upload/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 第01話 「えがいてあそぼ」.mkv
