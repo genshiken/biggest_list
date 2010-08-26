@@ -155,6 +155,7 @@ complete/a/Air Gear/[Kyuu] Air Gear - 24 [C241B914].avi
 complete/a/Air Gear/[Kyuu] Air Gear - 25 [End][B8590D16].avi
 complete/a/Air in Summer/[Triad] Air in Summer - 1 [EF9EC561].avi
 complete/a/Air in Summer/[Triad] Air in Summer - 2 [End][32B90D7E].avi
+complete/a/Air in Summer/[uguu~] Air in Summer - 1 (1920x1080) [BD][8F1C0998].mkv
 complete/a/Air/[Koi] Air - 13 [End][346ACEAB].avi
 complete/a/Air/[uguu~] Air - 01 (1280x720) [BD][9F57E231].mkv
 complete/a/Air/[uguu~] Air - 02 (1280x720) [BD][86E0D3BB].mkv
@@ -4176,23 +4177,17 @@ complete/g/Gundam ZZ/[EG] Gundam ZZ - 38 (960x720) [BD][543A3436].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - 39 (960x720) [BD][F6F3DE61].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - 40 (960x720) [BD][AD095FA4].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - 41 (960x720) [BD][81580ED2].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 42 (960x720) [BD][C0532A53].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 43 (960x720) [BD][C636E227].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 44 (960x720) [BD][170638C4].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 45 (960x720) [BD][D3BAD8E7].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 46 (960x720) [BD][AE06F96D].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 47 (960x720) [End][BD][FB629E85].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - Ending (960x720) [357CA372].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - Ending 3 (960x720) [BD][72253889].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - Opening (960x720) [C9AE9CA8].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - Opening 2 (960x720) [30E09188].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - Opening 3 (960x720) [BD][2444206B].mkv
-complete/g/Gundam ZZ/[HL] Gundam ZZ - 00 [9A993385].mkv
-complete/g/Gundam ZZ/[HL] Gundam ZZ - 42 [3798DA4C].mkv
-complete/g/Gundam ZZ/[HL] Gundam ZZ - 43 [C1DEB923].mkv
-complete/g/Gundam ZZ/[HL] Gundam ZZ - 44 [2EE4D2C0].mkv
-complete/g/Gundam ZZ/[HL] Gundam ZZ - 45 [245D85A3].mkv
-complete/g/Gundam ZZ/[HL] Gundam ZZ - 46 [EDAF3143].mkv
-complete/g/Gundam ZZ/[HL] Gundam ZZ - 47 [End][B812A3E4].mkv
-complete/g/Gundam ZZ/[HL] Gundam ZZ - Ending 1 [F4DB69B2].mkv
-complete/g/Gundam ZZ/[HL] Gundam ZZ - Ending 2 [23103275].mkv
-complete/g/Gundam ZZ/[HL] Gundam ZZ - Opening 1 (Ver. 2) [8EAD1617].mkv
-complete/g/Gundam ZZ/[HL] Gundam ZZ - Opening 1 [88913C75].mkv
-complete/g/Gundam ZZ/[HL] Gundam ZZ - Opening 2 [53F45F1A].mkv
 complete/g/Gungrave/[AonE] Gungrave - 01 [3DBFD027].avi
 complete/g/Gungrave/[AonE] Gungrave - 02 [098077E8].avi
 complete/g/Gungrave/[AonE] Gungrave - 03 [C734298E].avi

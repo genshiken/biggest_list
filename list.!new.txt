@@ -260,7 +260,6 @@
 !new/upload/[A-FanRips]Zenki_-_49[Dual_Audio][XviD].mkv
 !new/upload/[A-FanRips]Zenki_-_50[Dual_Audio][XviD].mkv
 !new/upload/[A-FanRips]Zenki_-_51[Dual_Audio][XviD].mkv
-!new/upload/[Ayako]_Seitokai_Yakuindomo_-_08_[720p][H264][43B95F18].mkv
 !new/upload/[CrunchySubs] Tono to Issho - 01 [720p].mkv
 !new/upload/[CrunchySubs] Tono to Issho - 02 [720p].mkv
 !new/upload/[CrunchySubs] Tono to Issho - 03 [720p].mkv
@@ -288,6 +287,7 @@
 !new/upload/[HorribleSubs] Bleach - 285 [720p].mkv
 !new/upload/[HorribleSubs] Fairy Tail - 43 [720p].mkv
 !new/upload/[HorribleSubs] Occult Academy - 08 [720p].mkv
+!new/upload/[HorribleSubs] Strike Witches 2 - 08 [720p].mkv
 !new/upload/[Huzzah]_Thriller_Restaurant_21_[3B250CE7].mkv
 !new/upload/[Huzzah]_Thriller_Restaurant_22_[CF465F42].mkv
 !new/upload/[Huzzah]_Thriller_Restaurant_23_[65A172D2].mkv
@@ -806,7 +806,6 @@
 !new/upload/[manhole]Binchou-tan_Aozora_ni_wasuremono.mkv
 !new/upload/[manhole]Binchou-tan_Marching_Song.mkv
 !new/upload/[r0r1p0p]_Binchou-tan_Promotional_Video_[83D09A88].avi
-!new/upload/[yibis]_One_Piece_463_[720p][37A4A136].mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -907,32 +906,14 @@
 !new/upload/bla/zx.black.heaven.12.sub.rar
 !new/upload/bla/zx.black.heaven.13.dub.avi
 !new/upload/bla/zx.black.heaven.13.sub.rar
-!new/upload/eg/[EG] Gundam ZZ - 42 (960x720) [BD][C0532A53].mkv
-!new/upload/eg/[EG] Gundam ZZ - 43 (960x720) [BD][C636E227].mkv
-!new/upload/eg/[EG] Gundam ZZ - 44 (960x720) [BD][170638C4].mkv
-!new/upload/eg/[EG] Gundam ZZ - 45 (960x720) [BD][D3BAD8E7].mkv
-!new/upload/eg/[EG] Gundam ZZ - 46 (960x720) [BD][AE06F96D].mkv
-!new/upload/eg/[EG] Gundam ZZ - 47 (960x720) [BD][FB629E85].mkv
-!new/upload/eg/[EG] ZZ Gundam BD - Ending 2 (1280x720) [72253889].mkv
-!new/upload/eg/[EG] ZZ Gundam BD - Opening 3 (1280x720) [2444206B].mkv
-!new/upload/eg/[EG] ZZ Gundam BD - Opening 3 (1920x1080) [786518ED].mkv
 !new/upload/eg/[EG]ZZ_Gundam_25_PATCH.zip
 !new/upload/eg/p/ZZ_25_patch
 !new/upload/eg/p/[EG]ZZ_Gundam_BD_25_V2(720p)[FDE1C06D].mkv
 !new/upload/eg/p/patch.bat
 !new/upload/eg/p/xdelta3.exe
-!new/upload/hs/[HorribleSubs] Asobi ni Iku Yo! - 06 (1280x720) [1EDD2C87].mkv
-!new/upload/hs/[HorribleSubs] Fairy Tail - 41 (1280x720) [18A9418B].mkv
-!new/upload/hs/[HorribleSubs] Giant Killing - 21 [720p].mkv
-!new/upload/hs/[HorribleSubs] Heroman - 21 (1280x720) [CCAD67BD].mkv
-!new/upload/hs/[HorribleSubs] Kateikyoushi Hitman Reborn - 198 [720p].mkv
-!new/upload/hs/[HorribleSubs] Lilpri - 21 [720p].mkv
-!new/upload/hs/[HorribleSubs] Mitsudomoe - 08 [720p].mkv
-!new/upload/hs/[HorribleSubs] Naruto Shippuuden - 174 (1280x720) [390B2B19].mkv
-!new/upload/hs/[HorribleSubs] Strike Witches 2 - 07 (1280x720) [74C2CA23].mkv
-!new/upload/hs/[HorribleSubs] Uraboku - 20 [480p].mkv
-!new/upload/hs/[HorribleSubs] Uragiri wa Boku no Namae wo Shitteiru - 18 [9335686F].mkv
-!new/upload/hs/[HorribleSubs] Yumeiro Patissiere - 46 [720p].mkv
+!new/upload/eg/zz/[EG] Gundam ZZ - Ending 2 (960x720) [BD][72253889].mkv
+!new/upload/eg/zz/[EG] ZZ Gundam BD - Opening 3 (1280x720) [2444206B].mkv
+!new/upload/eg/zz/[EG] ZZ Gundam BD - Opening 3 (1920x1080) [786518ED].mkv
 !new/upload/lama/Magikano/Magikano - 01 [AnimeU].avi
 !new/upload/lama/Magikano/Magikano - 02 [AnimeU].avi
 !new/upload/lama/Magikano/Magikano - 03 [AnimeU].avi
@@ -1240,4 +1221,3 @@
 !new/upload/ss/[all4seiya][galaxy][SAINT_SEIYA][TV112][DVDRIP][XVID_MP3][JP_CH].mkv
 !new/upload/ss/[all4seiya][galaxy][SAINT_SEIYA][TV113][DVDRIP][XVID_MP3][JP_CH].mkv
 !new/upload/ss/[all4seiya][galaxy][SAINT_SEIYA][TV114][DVDRIP][XVID_MP3][JP_CH].mkv
-!new/upload/tokyo_godfathers(rev2)[h264.ac3][niizk].mkv
