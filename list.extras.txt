@@ -49,6 +49,9 @@ extras/Bakemonogatari/[Coalgirls] Bakemonogatari - TV PV 09 (1920x1080) [BD][E5B
 extras/Bakemonogatari/[Coalgirls] Bakemonogatari - TV PV 10 (1920x1080) [BD][CCBA734D].mkv
 extras/Bakemonogatari/[Coalgirls] Bakemonogatari - TV PV 11 (1920x1080) [BD][E2FE0055].mkv
 extras/Bakemonogatari/[Coalgirls] Bakemonogatari - TV PV 12 (1920x1080) [BD][8B766913].mkv
+extras/Binchotan/[manhole] Binchotan - Aozora ni wasuremono [F2D6280B].mkv
+extras/Binchotan/[manhole] Binchotan - Marching Song [CB0EDE73].mkv
+extras/Binchotan/[r0r1p0p] Binchotan - Promotional Video [83D09A88].avi
 extras/Black Jack TV/[Froth-Bite] Black Jack TV - Karte NG Extras [28CF7921].mp4
 extras/Black Rock Shooter/[TMD] Black Rock Shooter - Pilot Edition DVD - 01 (original Instrumental) [8CAEF4E2].mkv
 extras/Black Rock Shooter/[TMD] Black Rock Shooter - Pilot Edition DVD - 02 (2M MIX Miku Hatsune voice Beta) [13F08C35].mkv
@@ -124,6 +127,7 @@ extras/Gundam 0079/[Zeonic-Corps] Gundam 0079 - Trailer 2 [64EB165C].mkv
 extras/Gundam 0079/[Zeonic-Corps] Gundam 0079 - Trailer 3 [44EFE216].mkv
 extras/Gundam ZZ/[EG] Gundam ZZ - Gundam Frag (1920x1080) [546747A1].mkv
 extras/Gundam ZZ/[EG] Gundam ZZ - Gundam Frag II (1920x1080) [49465CA8].mkv
+extras/Gundam ZZ/[HL] Gundam ZZ - 00 [9A993385].mkv
 extras/Gunslinger Girl - Il Teatrino OVA/[COR] Gunslinger Girl - Il Teatrino OVA - Ending 1 (Clean) [3809349D].mkv
 extras/Gunslinger Girl - Il Teatrino OVA/[COR] Gunslinger Girl - Il Teatrino OVA - Ending 2 (Clean) [3809349D].mkv
 extras/Gunslinger Girl - Il Teatrino OVA/[COR] Gunslinger Girl - Il Teatrino OVA - Japanese Cast Inverview - Voice of Hilshire [CD301189].mkv
@@ -171,13 +175,14 @@ extras/Jubei-chan 2/[CitadelofTheRaven] Jubei-chan 2 - Shinkage Sword Lesson [27
 extras/Jubei-chan 2/[CitadelofTheRaven] Jubei-chan 2 - Tea Ceremony Lesson [7D8FB55D].mkv
 extras/Jubei-chan 2/[CitadelofTheRaven] Jubei-chan 2 - The Making of J2 [DD2EB974].mkv
 extras/Jubei-chan 2/[CitadelofTheRaven] Jubei-chan 2 - US Trailer [498AF657].mkv
-extras/K-ON!/[Frostii] K-ON! - B-Side Theater - Uaron 01 [BD][A4804380].mkv
-extras/K-ON!/[Frostii] K-ON! - B-Side Theater - Uaron 02 [BD][31F760D0].mkv
-extras/K-ON!/[Frostii] K-ON! - B-Side Theater - Uaron 03 [BD][8B9E0A76].mkv
-extras/K-ON!/[Frostii] K-ON! - B-Side Theater - Uaron 04 [BD][ADD4C207].mkv
-extras/K-ON!/[Frostii] K-ON! - B-Side Theater - Uaron 05 [BD][00EEDA20].mkv
-extras/K-ON!/[Frostii] K-ON! - B-Side Theater - Uaron 06 [BD][3BA770E1].mkv
-extras/K-ON!/[Frostii] K-ON! - B-Side Theater - Uaron 07 [BD][9F89E659].mkv
+extras/K-ON!!/[Frostii] K-ON!! - B-Side Theater - Uraon!! 1 [854809C9].mkv
+extras/K-ON!/[Frostii] K-ON! - B-Side Theater - Uaron 1 [BD][A4804380].mkv
+extras/K-ON!/[Frostii] K-ON! - B-Side Theater - Uaron 2 [BD][31F760D0].mkv
+extras/K-ON!/[Frostii] K-ON! - B-Side Theater - Uaron 3 [BD][8B9E0A76].mkv
+extras/K-ON!/[Frostii] K-ON! - B-Side Theater - Uaron 4 [BD][ADD4C207].mkv
+extras/K-ON!/[Frostii] K-ON! - B-Side Theater - Uaron 5 [BD][00EEDA20].mkv
+extras/K-ON!/[Frostii] K-ON! - B-Side Theater - Uaron 6 [BD][3BA770E1].mkv
+extras/K-ON!/[Frostii] K-ON! - B-Side Theater - Uaron 7 [BD][9F89E659].mkv
 extras/Kampfer/[Commie] Kampfer - Entrail Animals Feature (1920x1080) [BD][60B43E9E].mkv
 extras/Kampfer/[SHiN-gx] Kampfer - Teaser Trailer [Webrip][402F6883].mkv
 extras/Kanon/[SS-Eclipse] Kanon - Promo [E3CE768D].mkv

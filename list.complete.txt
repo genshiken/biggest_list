@@ -914,6 +914,12 @@ complete/b/Binbou Shimai Monogatari/[Doremi-BINBOU] Binbou Shimai Monogatari - 0
 complete/b/Binbou Shimai Monogatari/[Doremi-BINBOU] Binbou Shimai Monogatari - 08 [A7E92834].avi
 complete/b/Binbou Shimai Monogatari/[Doremi-BINBOU] Binbou Shimai Monogatari - 09 [AEE6542E].avi
 complete/b/Binbou Shimai Monogatari/[Doremi-BINBOU] Binbou Shimai Monogatari - 10 [End][31906EB6].avi
+complete/b/Binchotan/[Froth-Bite] Binchotan - 01-02 [68D2946D].mp4
+complete/b/Binchotan/[Froth-Bite] Binchotan - 03-04 [9F7AA835].mp4
+complete/b/Binchotan/[Froth-Bite] Binchotan - 05-06 [C771A50D].mp4
+complete/b/Binchotan/[Froth-Bite] Binchotan - 07-08 [2AC25A22].mp4
+complete/b/Binchotan/[Froth-Bite] Binchotan - 09-10 [0D8CF0C1].mp4
+complete/b/Binchotan/[Froth-Bite] Binchotan - 11-12 [End][704BE6A8].mp4
 complete/b/Birdy The Mighty Decode - The Cipher/[Nuke] Birdy The Mighty Decode - The Cipher [DVD][8B8B0F66].mkv
 complete/b/Birdy The Mighty Decode 2/[Nuke] Birdy The Mighty Decode 2 - 01 [F85F31ED].mkv
 complete/b/Birdy The Mighty Decode 2/[Nuke] Birdy The Mighty Decode 2 - 02 [3027B7C2].mkv
@@ -4136,31 +4142,31 @@ complete/g/Gundam X/[HL] Gundam X - Opening 1 Ver. 2 [6674FCA1].avi
 complete/g/Gundam X/[HL] Gundam X - Opening 1 Ver. 3 [17D89433].avi
 complete/g/Gundam X/[HL] Gundam X - Opening 2 Ver. 1 [6C0104CC].avi
 complete/g/Gundam X/[HL] Gundam X - Opening 2 Ver. 2 [49B3917A].avi
-complete/g/Gundam ZZ/[EG] Gundam ZZ - 01 (960x720) [2857331C].mkv
-complete/g/Gundam ZZ/[EG] Gundam ZZ - 02 (960x720) [E7E4AFEC].mkv
-complete/g/Gundam ZZ/[EG] Gundam ZZ - 03 (960x720) [C814F65F].mkv
-complete/g/Gundam ZZ/[EG] Gundam ZZ - 04 (960x720) [317A1392].mkv
-complete/g/Gundam ZZ/[EG] Gundam ZZ - 05 (960x720) [E171DA14].mkv
-complete/g/Gundam ZZ/[EG] Gundam ZZ - 06 (960x720) [79882090].mkv
-complete/g/Gundam ZZ/[EG] Gundam ZZ - 07 (960x720) [5ACF8BDF].mkv
-complete/g/Gundam ZZ/[EG] Gundam ZZ - 08 (960x720) [E55D32B6].mkv
-complete/g/Gundam ZZ/[EG] Gundam ZZ - 09 (960x720) [1C8A53ED].mkv
-complete/g/Gundam ZZ/[EG] Gundam ZZ - 10 (960x720) [5F59452D].mkv
-complete/g/Gundam ZZ/[EG] Gundam ZZ - 11 (960x720) [12C0317A].mkv
-complete/g/Gundam ZZ/[EG] Gundam ZZ - 12 (960x720) [582EBC6C].mkv
-complete/g/Gundam ZZ/[EG] Gundam ZZ - 13 (960x720) [8955DAF6].mkv
-complete/g/Gundam ZZ/[EG] Gundam ZZ - 14 (960x720) [5B7C8EB9].mkv
-complete/g/Gundam ZZ/[EG] Gundam ZZ - 15 (920x720) [5E958190].mkv
-complete/g/Gundam ZZ/[EG] Gundam ZZ - 16 (960x720) [48867791].mkv
-complete/g/Gundam ZZ/[EG] Gundam ZZ - 17 (960x720) [F9B46C19].mkv
-complete/g/Gundam ZZ/[EG] Gundam ZZ - 18 (960x720) [0EA68F5D].mkv
-complete/g/Gundam ZZ/[EG] Gundam ZZ - 19 (960x720) [DA7F971F].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 01 (960x720) [BD][2857331C].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 02 (960x720) [BD][E7E4AFEC].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 03 (960x720) [BD][C814F65F].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 04 (960x720) [BD][317A1392].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 05 (960x720) [BD][E171DA14].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 06 (960x720) [BD][79882090].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 07 (960x720) [BD][5ACF8BDF].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 08 (960x720) [BD][E55D32B6].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 09 (960x720) [BD][1C8A53ED].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 10 (960x720) [BD][5F59452D].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 11 (960x720) [BD][12C0317A].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 12 (960x720) [BD][582EBC6C].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 13 (960x720) [BD][8955DAF6].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 14 (960x720) [BD][5B7C8EB9].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 15 (920x720) [BD][5E958190].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 16 (960x720) [BD][48867791].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 17 (960x720) [BD][F9B46C19].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 18 (960x720) [BD][0EA68F5D].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 19 (960x720) [BD][DA7F971F].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - 20 (960x720) [BD][33E2BCCB].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - 21 (960x720) [BD][2CC82B9C].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - 22 (960x720) [BD][BE870836].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - 23 (960x720) [BD][FDE4C712].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - 24 (960x720) [BD][22C7EE94].mkv
-complete/g/Gundam ZZ/[EG] Gundam ZZ - 25 (960x720) [BD][FDE1C06D].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - 25 (960x720) [v2][BD][CFA6AA36].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - 26 (960x720) [BD][DE27043E].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - 27 (960x720) [BD][D9ED27C2].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - 28 (960x720) [BD][E6273CB9].mkv
@@ -4183,10 +4189,12 @@ complete/g/Gundam ZZ/[EG] Gundam ZZ - 44 (960x720) [BD][170638C4].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - 45 (960x720) [BD][D3BAD8E7].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - 46 (960x720) [BD][AE06F96D].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - 47 (960x720) [End][BD][FB629E85].mkv
-complete/g/Gundam ZZ/[EG] Gundam ZZ - Ending (960x720) [357CA372].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - Ending (960x720) [BD][357CA372].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - Ending 2 (960x720) [BD][72253889].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - Ending 3 (960x720) [BD][72253889].mkv
-complete/g/Gundam ZZ/[EG] Gundam ZZ - Opening (960x720) [C9AE9CA8].mkv
-complete/g/Gundam ZZ/[EG] Gundam ZZ - Opening 2 (960x720) [30E09188].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - Opening (960x720) [BD][C9AE9CA8].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - Opening 2 (960x720) [BD][30E09188].mkv
+complete/g/Gundam ZZ/[EG] Gundam ZZ - Opening 3 (1488x1080) [BD][786518ED].mkv
 complete/g/Gundam ZZ/[EG] Gundam ZZ - Opening 3 (960x720) [BD][2444206B].mkv
 complete/g/Gungrave/[AonE] Gungrave - 01 [3DBFD027].avi
 complete/g/Gungrave/[AonE] Gungrave - 02 [098077E8].avi
@@ -9231,30 +9239,30 @@ complete/r/Red Garden/[gg] Red Garden - 19 [AFFAB943].mkv
 complete/r/Red Garden/[gg] Red Garden - 20 [90F36903].mkv
 complete/r/Red Garden/[gg] Red Garden - 21 [994CB7B1].mkv
 complete/r/Red Garden/[gg] Red Garden - 22 [End][982CF2BF].mkv
-complete/r/Regios/[Ayako] Regios - 01 (1280x720) [CC0F8252].mkv
-complete/r/Regios/[Ayako] Regios - 02 (1280x720) [0D4A5F94].mkv
-complete/r/Regios/[Ayako] Regios - 03 (1280x720) [EB7FC16F].mkv
-complete/r/Regios/[Ayako] Regios - 04 (1280x720) [14E0FC8E].mkv
-complete/r/Regios/[Ayako] Regios - 05 (1280x720) [69350E62].mkv
-complete/r/Regios/[Ayako] Regios - 06 (1280x720) [90E05EEA].mkv
-complete/r/Regios/[Ayako] Regios - 07 (1280x720) [8943545F].mkv
-complete/r/Regios/[Ayako] Regios - 08 (1280x720) [E7E6723D].mkv
-complete/r/Regios/[Ayako] Regios - 09 [8A8946DE].avi
-complete/r/Regios/[Ayako] Regios - 10 [8A2F00C5].avi
-complete/r/Regios/[Ayako] Regios - 11 [0637FE9F].avi
-complete/r/Regios/[Ayako] Regios - 12 [D6B55E9A].avi
-complete/r/Regios/[Ayako] Regios - 13 [9680429B].avi
-complete/r/Regios/[Ayako] Regios - 14 [028DD74C].avi
-complete/r/Regios/[Yuurisan-Subs] Regios - 15 [DVD][70BE2DD1].mkv
-complete/r/Regios/[Yuurisan-Subs] Regios - 16 [DVD][79D5BC6E].mkv
-complete/r/Regios/[Yuurisan-Subs] Regios - 17 [DVD][C47C40AC].mkv
-complete/r/Regios/[Yuurisan-Subs] Regios - 18 [DVD][8A3D6BB5].mkv
-complete/r/Regios/[Yuurisan-Subs] Regios - 19 [DVD][09025814].mkv
-complete/r/Regios/[Yuurisan-Subs] Regios - 20 [DVD][B98E038E].mkv
-complete/r/Regios/[Yuurisan-Subs] Regios - 21 [DVD][B987977C].mkv
-complete/r/Regios/[Yuurisan-Subs] Regios - 22 [DVD][736D0DAC].mkv
-complete/r/Regios/[Yuurisan-Subs] Regios - 23 [DVD][0799018E].mkv
-complete/r/Regios/[Yuurisan-Subs] Regios - 24 [End][DVD][5DDA2C5C].mkv
+complete/r/Regios/[Yuurisan-Subs] Regios - 01 [v2][DVD][C2A88895].mkv
+complete/r/Regios/[Yuurisan-Subs] Regios - 02 [v2][DVD][846F6C7D].mkv
+complete/r/Regios/[Yuurisan-Subs] Regios - 03 [v2][DVD][D2723917].mkv
+complete/r/Regios/[Yuurisan-Subs] Regios - 04 [v2][DVD][DA2E7FEB].mkv
+complete/r/Regios/[Yuurisan-Subs] Regios - 05 [v2][DVD][3693AC4E].mkv
+complete/r/Regios/[Yuurisan-Subs] Regios - 06 [v2][DVD][8CABAAA9].mkv
+complete/r/Regios/[Yuurisan-Subs] Regios - 07 [v2][DVD][BDB4ED76].mkv
+complete/r/Regios/[Yuurisan-Subs] Regios - 08 [v2][DVD][DD6F3F66].mkv
+complete/r/Regios/[Yuurisan-Subs] Regios - 09 [v2][DVD][55899857].mkv
+complete/r/Regios/[Yuurisan-Subs] Regios - 10 [v2][DVD][A7B41B52].mkv
+complete/r/Regios/[Yuurisan-Subs] Regios - 11 [v2][DVD][370BF5D1].mkv
+complete/r/Regios/[Yuurisan-Subs] Regios - 12 [v2][DVD][2B719945].mkv
+complete/r/Regios/[Yuurisan-Subs] Regios - 13 [v2][DVD][B3476CD5].mkv
+complete/r/Regios/[Yuurisan-Subs] Regios - 14 [v2][DVD][4737C5F3].mkv
+complete/r/Regios/[Yuurisan-Subs] Regios - 15 [v2][DVD][70BE2DD1].mkv
+complete/r/Regios/[Yuurisan-Subs] Regios - 16 [v2][DVD][79D5BC6E].mkv
+complete/r/Regios/[Yuurisan-Subs] Regios - 17 [v2][DVD][C47C40AC].mkv
+complete/r/Regios/[Yuurisan-Subs] Regios - 18 [v2][DVD][8A3D6BB5].mkv
+complete/r/Regios/[Yuurisan-Subs] Regios - 19 [v2][DVD][09025814].mkv
+complete/r/Regios/[Yuurisan-Subs] Regios - 20 [v2][DVD][B98E038E].mkv
+complete/r/Regios/[Yuurisan-Subs] Regios - 21 [v2][DVD][B987977C].mkv
+complete/r/Regios/[Yuurisan-Subs] Regios - 22 [v2][DVD][736D0DAC].mkv
+complete/r/Regios/[Yuurisan-Subs] Regios - 23 [v2][DVD][0799018E].mkv
+complete/r/Regios/[Yuurisan-Subs] Regios - 24 [End][v2][DVD][5DDA2C5C].mkv
 complete/r/Reideen/[Shinsen-Subs] Reideen - 01 [D3402C84].avi
 complete/r/Reideen/[Shinsen-Subs] Reideen - 02 [C2A6BDB1].mkv
 complete/r/Reideen/[Shinsen-Subs] Reideen - 03 [92055622].mkv
@@ -10004,7 +10012,6 @@ complete/s/Seitokai no Ichizon/[SS-Eclipse] Seitokai no Ichizon - 09 (1024x576) 
 complete/s/Seitokai no Ichizon/[SS-Eclipse] Seitokai no Ichizon - 10 (1024x576) [A9CB259A].mkv
 complete/s/Seitokai no Ichizon/[SS-Eclipse] Seitokai no Ichizon - 11 (1024x576) [190B2E1D].mkv
 complete/s/Seitokai no Ichizon/[SS-Eclipse] Seitokai no Ichizon - 12 (1024x576) [End][00147561].mkv
-complete/s/Sekirei OVA/[Chihiro] Sekirei - OVA [v2][01DAE87D].mkv
 complete/s/Sekirei OVA/[DmonHiro] Sekirei OVA [B208F0EC].mkv
 complete/s/Sekirei/[DmonHiro] Sekirei - 01 [C7F09618].mkv
 complete/s/Sekirei/[DmonHiro] Sekirei - 02 [832F088B].mkv
@@ -10029,18 +10036,6 @@ complete/s/Sekirei/[DmonHiro] Sekirei - Ending (Clean, Tsukiumi Edition) [12039A
 complete/s/Sekirei/[DmonHiro] Sekirei - Ending (Clean, Uzume Edition) [FE621517].mkv
 complete/s/Sekirei/[DmonHiro] Sekirei - Ending 2 [9434B806].mkv
 complete/s/Sekirei/[DmonHiro] Sekirei - Opening (Clean) [696E89C7].mkv
-complete/s/Sekirei/[Retrofit Titanium Chihiro] Sekirei - 01 [DVD][2141CA42].mkv
-complete/s/Sekirei/[Retrofit Titanium Chihiro] Sekirei - 02 [DVD][795A5C35].mkv
-complete/s/Sekirei/[Retrofit Titanium Chihiro] Sekirei - 03 [DVD][47BB2DD7].mkv
-complete/s/Sekirei/[Retrofit Titanium Chihiro] Sekirei - 04 [DVD][7593DF91].mkv
-complete/s/Sekirei/[Retrofit Titanium Chihiro] Sekirei - 05 [DVD][A853932D].mkv
-complete/s/Sekirei/[Retrofit Titanium Chihiro] Sekirei - 06 [DVD][E8DCCD1A].mkv
-complete/s/Sekirei/[Retrofit Titanium Chihiro] Sekirei - 07 [DVD][7A6A1A55].mkv
-complete/s/Sekirei/[Retrofit Titanium Chihiro] Sekirei - 08 [DVD][BFD317A8].mkv
-complete/s/Sekirei/[Retrofit Titanium Chihiro] Sekirei - 09 [DVD][DE3954B8].mkv
-complete/s/Sekirei/[Retrofit Titanium Chihiro] Sekirei - 10 [DVD][94D67F91].mkv
-complete/s/Sekirei/[Retrofit Titanium Chihiro] Sekirei - 11 [v2][DVD][CE101ECB].mkv
-complete/s/Sekirei/[Retrofit Titanium Chihiro] Sekirei - 12 [End][v2][DVD][FDA86FCE].mkv
 complete/s/Sengoku Basara/[Frostii] Sengoku Basara - 01 (1280x720) [v3][225E93B1].mkv
 complete/s/Sengoku Basara/[Frostii] Sengoku Basara - 02 (1280x720) [v2][AD5B8F22].mkv
 complete/s/Sengoku Basara/[Frostii] Sengoku Basara - 03 (1280x720) [BD840EAC].mkv

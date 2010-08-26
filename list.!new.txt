@@ -275,15 +275,6 @@
 !new/upload/[EAC] [100813(C78)] [100827] [ゆずソフト] 「のーぶる☆わーくす」キャラクターソング vol.1 恋の爆弾 (tak+InternalCue+bmp rr5).rar
 !new/upload/[EAC] [100813(C78)] [MOONSTONE] Cy-Rim Project - Angel Ring ～繋げようよ 恋のリング～ (tak+InternalCue+bmp rr5).rar
 !new/upload/[EAC] [DVDISO] [100728] (シングル) TVアニメ あそびにいくヨ！ OP 「Now loading...SKY!!」 ／ スフィア(寿美菜子・高垣彩陽・戸松遥・豊崎愛生) (iso+mds).rar
-!new/upload/[Frostii] K-ON!! B-Side Theater - Uraon!! - 1 [854809C9].mkv
-!new/upload/[Frostii]_K-On!!_-_19v2_[65BFD1AD].mkv
-!new/upload/[Frostii]_K-On!!_-_20_[943D733C].mkv
-!new/upload/[Froth-Bite]Binchotan_-_01-02[68D2946D].mp4
-!new/upload/[Froth-Bite]Binchotan_-_03-04[9F7AA835].mp4
-!new/upload/[Froth-Bite]Binchotan_-_05-06[C771A50D].mp4
-!new/upload/[Froth-Bite]Binchotan_-_07-08[2AC25A22].mp4
-!new/upload/[Froth-Bite]Binchotan_-_09-10[0D8CF0C1].mp4
-!new/upload/[Froth-Bite]Binchotan_-_11-12[704BE6A8].mp4
 !new/upload/[HorribleSubs] Bleach - 285 [720p].mkv
 !new/upload/[HorribleSubs] Fairy Tail - 43 [720p].mkv
 !new/upload/[HorribleSubs] Occult Academy - 08 [720p].mkv
@@ -383,11 +374,6 @@
 !new/upload/[RaX]Slayers_Revolution_-_11_-_Keep_Out!_The_Demon_Beast_Looms!_[x264_aac_5.1]_[473C287C].mkv
 !new/upload/[RaX]Slayers_Revolution_-_12_-_Legacy!_Decisive_Battle_in_Seyruun_[x264_aac_5.1]_[C411C037].mkv
 !new/upload/[RaX]Slayers_Revolution_-_13_-_Misty!_The_Blades_Are_Brought_Down!_[x264_aac_5.1]_[C9D8E810].mkv
-!new/upload/[RyRo]_Digimon_Xros_Wars_-_08_(1280x720_x264_AAC)_[B126683C].mkv
-!new/upload/[RyRo]_Inazuma_Eleven_-_96_(1280x720_x264_AAC)_[132CDAD7].mkv
-!new/upload/[Ryuumaru] Seitokai Yakuindomo - 06 [1024x576][DDBF8557].mkv
-!new/upload/[Ryuumaru] Seitokai Yakuindomo - 07 [1024x576][10C61256].mkv
-!new/upload/[Ryuumaru] Sekirei ~Pure Engagement~ - 08 [720p][2DBC8F92].mkv
 !new/upload/[SHiN-gx] Kuttsukiboshi - Teaser Trailer 2 [720x480 AR h.264 AAC][v2][8815A59A].mkv
 !new/upload/[SHiN-gx] Kuttsukiboshi - Teaser Trailer [Webrip][704x396 h.264 AAC][65FB90F3].mkv
 !new/upload/[Seto Otaku] Seto no Hanayome - 04 (1280x720) [BD][662EEE8C].mkv
@@ -787,25 +773,6 @@
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/upload/[Tsubaki-Subs] Hellsing Ultimate OVA - 05 [DVD x264 AC3][7E15928E].mkv
-!new/upload/[Yuurisan-Subs]_Koukaku_no_Regios_-_01v2_(DVD)_[C2A88895].mkv
-!new/upload/[Yuurisan-Subs]_Koukaku_no_Regios_-_02v2_(DVD)_[846F6C7D].mkv
-!new/upload/[Yuurisan-Subs]_Koukaku_no_Regios_-_03v2_(DVD)_[D2723917].mkv
-!new/upload/[Yuurisan-Subs]_Koukaku_no_Regios_-_04v2_(DVD)_[D65A69A3].mkv
-!new/upload/[Yuurisan-Subs]_Koukaku_no_Regios_-_05v2_(DVD)_[31B0F0F8].mkv
-!new/upload/[Yuurisan-Subs]_Koukaku_no_Regios_-_06v2_(DVD)_[6E06323C].mkv
-!new/upload/[Yuurisan-Subs]_Koukaku_no_Regios_-_07v2_(DVD)_[AEB1A6EB].mkv
-!new/upload/[Yuurisan-Subs]_Koukaku_no_Regios_-_08v2_(DVD)_[C85B32D0].mkv
-!new/upload/[Yuurisan-Subs]_Koukaku_no_Regios_-_09v2_(DVD)_[689ECF56].mkv
-!new/upload/[Yuurisan-Subs]_Koukaku_no_Regios_-_10v2_(DVD)_[D8D838DF].mkv
-!new/upload/[Yuurisan-Subs]_Koukaku_no_Regios_-_11v2_(DVD)_[A3C088FF].mkv
-!new/upload/[Yuurisan-Subs]_Koukaku_no_Regios_-_12v2_(DVD)_[CF352C26].mkv
-!new/upload/[Yuurisan-Subs]_Koukaku_no_Regios_-_13v2_(DVD)_[8D7C32EE].mkv
-!new/upload/[Yuurisan-Subs]_Koukaku_no_Regios_-_14v2_(DVD)_[309BFB48].mkv
-!new/upload/[darkcloud]_MonHun_Diary_Felyne_Village_in_Danger_Felynes_in_a_Pinch_03_[084bb4bd].mkv
-!new/upload/[kk]_K-On!!_-_21_[A54420A9].mkv
-!new/upload/[manhole]Binchou-tan_Aozora_ni_wasuremono.mkv
-!new/upload/[manhole]Binchou-tan_Marching_Song.mkv
-!new/upload/[r0r1p0p]_Binchou-tan_Promotional_Video_[83D09A88].avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -906,14 +873,6 @@
 !new/upload/bla/zx.black.heaven.12.sub.rar
 !new/upload/bla/zx.black.heaven.13.dub.avi
 !new/upload/bla/zx.black.heaven.13.sub.rar
-!new/upload/eg/[EG]ZZ_Gundam_25_PATCH.zip
-!new/upload/eg/p/ZZ_25_patch
-!new/upload/eg/p/[EG]ZZ_Gundam_BD_25_V2(720p)[FDE1C06D].mkv
-!new/upload/eg/p/patch.bat
-!new/upload/eg/p/xdelta3.exe
-!new/upload/eg/zz/[EG] Gundam ZZ - Ending 2 (960x720) [BD][72253889].mkv
-!new/upload/eg/zz/[EG] ZZ Gundam BD - Opening 3 (1280x720) [2444206B].mkv
-!new/upload/eg/zz/[EG] ZZ Gundam BD - Opening 3 (1920x1080) [786518ED].mkv
 !new/upload/lama/Magikano/Magikano - 01 [AnimeU].avi
 !new/upload/lama/Magikano/Magikano - 02 [AnimeU].avi
 !new/upload/lama/Magikano/Magikano - 03 [AnimeU].avi
