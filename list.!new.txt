@@ -1,5 +1,6 @@
 !new/upload/Appleseed.Ex.Machina.2007.1080p.BluRay.x264-AVCHD_tehPARADOX.COM/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.mkv
 !new/upload/Black Rock Shooter OVA/[Mazui] Black Rock Shooter OVA [2022D8AE].mkv
+!new/upload/Brave_Story_(2006)_[720p,BluRay,x264]_-_THORA.mkv
 !new/upload/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/upload/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/upload/Carol/[raw] Carol OVA.ass
@@ -14,6 +15,14 @@
 !new/upload/Hellsing Ultimate OVA 03 [DVDRip(HQ)_848x480][AAC_jpn-eng-ger][Sub_fre-eng-ger-spa].mkv
 !new/upload/Hellsing Ultimate OVA 04 [DVDRip(HQ)_848x480][AAC_jpn-eng-ger][Sub_fre-eng-ger-spa].mkv
 !new/upload/Hellsing Ultimate OVA 05 [DVDRip(HQ)_848x480][AAC_jpn][Sub_fre-eng].mkv
+!new/upload/Kamen Rider W - 01DVD [W-Time].mkv
+!new/upload/Kamen Rider W - 02DVD [W-Time].mkv
+!new/upload/Kamen Rider W - 03DVD [W-Time].mkv
+!new/upload/Kamen Rider W - 04DVD [W-Time].mkv
+!new/upload/Kamen Rider W - 05DVD [W-Time].mkv
+!new/upload/Kamen Rider W - 06DVD [W-Time].mkv
+!new/upload/Kamen Rider W - 07DVD [W-Time].mkv
+!new/upload/Kamen Rider W - 08DVD [W-Time].mkv
 !new/upload/Koe de Oshigoto!/Koe de Oshigoto! - 25 [Tonigobe].zip
 !new/upload/MSNegima_c299_reddevilshn_[vnsharing.net].rar
 !new/upload/Nausicaä_of_the_Valley_of_the_Wind_(1984)_[720p,BluRay,x264]_-_THORA.md5
@@ -778,6 +787,20 @@
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/upload/[Tsubaki-Subs] Hellsing Ultimate OVA - 05 [DVD x264 AC3][7E15928E].mkv
+!new/upload/[Yuurisan-Subs]_Koukaku_no_Regios_-_01v2_(DVD)_[C2A88895].mkv
+!new/upload/[Yuurisan-Subs]_Koukaku_no_Regios_-_02v2_(DVD)_[846F6C7D].mkv
+!new/upload/[Yuurisan-Subs]_Koukaku_no_Regios_-_03v2_(DVD)_[D2723917].mkv
+!new/upload/[Yuurisan-Subs]_Koukaku_no_Regios_-_04v2_(DVD)_[D65A69A3].mkv
+!new/upload/[Yuurisan-Subs]_Koukaku_no_Regios_-_05v2_(DVD)_[31B0F0F8].mkv
+!new/upload/[Yuurisan-Subs]_Koukaku_no_Regios_-_06v2_(DVD)_[6E06323C].mkv
+!new/upload/[Yuurisan-Subs]_Koukaku_no_Regios_-_07v2_(DVD)_[AEB1A6EB].mkv
+!new/upload/[Yuurisan-Subs]_Koukaku_no_Regios_-_08v2_(DVD)_[C85B32D0].mkv
+!new/upload/[Yuurisan-Subs]_Koukaku_no_Regios_-_09v2_(DVD)_[689ECF56].mkv
+!new/upload/[Yuurisan-Subs]_Koukaku_no_Regios_-_10v2_(DVD)_[D8D838DF].mkv
+!new/upload/[Yuurisan-Subs]_Koukaku_no_Regios_-_11v2_(DVD)_[A3C088FF].mkv
+!new/upload/[Yuurisan-Subs]_Koukaku_no_Regios_-_12v2_(DVD)_[CF352C26].mkv
+!new/upload/[Yuurisan-Subs]_Koukaku_no_Regios_-_13v2_(DVD)_[8D7C32EE].mkv
+!new/upload/[Yuurisan-Subs]_Koukaku_no_Regios_-_14v2_(DVD)_[309BFB48].mkv
 !new/upload/[darkcloud]_MonHun_Diary_Felyne_Village_in_Danger_Felynes_in_a_Pinch_03_[084bb4bd].mkv
 !new/upload/[kk]_K-On!!_-_21_[A54420A9].mkv
 !new/upload/[manhole]Binchou-tan_Aozora_ni_wasuremono.mkv
