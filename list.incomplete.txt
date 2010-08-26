@@ -299,6 +299,7 @@ incomplete/Bleach/[HorribleSubs] Bleach - 281 (1280x720) [03CFC148].mkv
 incomplete/Bleach/[HorribleSubs] Bleach - 282 (1280x720) [2AB5C9E5].mkv
 incomplete/Bleach/[HorribleSubs] Bleach - 283 (1280x720) [D4182085].mkv
 incomplete/Bleach/[HorribleSubs] Bleach - 284 (1280x720) [BFDBFC15].mkv
+incomplete/Bleach/[HorribleSubs] Bleach - 285 (1280x720) [EFD16194].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 01 [AFCE3665].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 02 [A90F670C].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 03 [A47F2053].mkv
@@ -696,6 +697,7 @@ incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 39 (1280x720) [48D0872A].mkv
 incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 40 (1280x720) [65706834].mkv
 incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 41 (1280x720) [18A9418B].mkv
 incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 42 (1280x720) [C4C42331].mkv
+incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 43 (1280x720) [67A0251D].mkv
 incomplete/Fairy Tail/[Mamiko] Fairy Tail - 01 [0307DF54].mkv
 incomplete/Fairy Tail/[Mamiko] Fairy Tail - 02 [531F9793].mkv
 incomplete/Fairy Tail/[Mamiko] Fairy Tail - 03 [C7677EC8].mkv
@@ -932,6 +934,7 @@ incomplete/Golgo 13/[Doutei] Golgo 13 - 33 [52669673].mkv
 incomplete/Golgo 13/[Doutei] Golgo 13 - 34 [207E15F7].mkv
 incomplete/Golgo 13/[Doutei] Golgo 13 - 35 [DVD][EC908806].mkv
 incomplete/Golgo 13/[Doutei] Golgo 13 - 36 [DVD][9D2BF035].mkv
+incomplete/Golgo 13/[Doutei] Golgo 13 - 37 [DVD][C92F4768].mkv
 incomplete/Golgo 13/[fucmnack] Golgo 13 - 18 (1280x720) [9613CDC3].mkv
 incomplete/Golgo 13/[fucmnack] Golgo 13 - 19 (1280x720) [0B9C4756].mkv
 incomplete/Golgo 13/[fucmnack] Golgo 13 - 20 (1280x720) [3B9F601A].mkv
@@ -1046,9 +1049,10 @@ incomplete/Hell Teacher Nube/[Flomp] Hell Teacher Nube - 10 [4F190991].mkv
 incomplete/Hell Teacher Nube/[Yami] Hell Teacher Nube - 11 [061B3E8E].avi
 incomplete/Hell Teacher Nube/[Yami] Hell Teacher Nube - 12 [5C0FA8C6].avi
 incomplete/Hell Teacher Nube/[Yami] Hell Teacher Nube - 13 [9AECC647].avi
-incomplete/Hellsing Ultimate/[DGz] Hellsing Ultimate - 06 (1280x720) [F11F3479].mkv
-incomplete/Hellsing Ultimate/[DGz] Hellsing Ultimate - 07 (1280x720) [A3417E30].mkv
-incomplete/Hellsing Ultimate/[mahou] Hellsing Ultimate - 03 [DVD][1EB4C066].mkv
+incomplete/Hellsing Ultimate/[DGz] Hellsing Ultimate - 6 (1280x720) [F11F3479].mkv
+incomplete/Hellsing Ultimate/[DGz] Hellsing Ultimate - 7 (1280x720) [A3417E30].mkv
+incomplete/Hellsing Ultimate/[Tsubaki-Subs] Hellsing Ultimate - 5 [DVD][7E15928E].mkv
+incomplete/Hellsing Ultimate/[mahou] Hellsing Ultimate - 3 [DVD][1EB4C066].mkv
 incomplete/Heroman/[Commie] Heroman - 01 [D56AC2D5].mkv
 incomplete/Heroman/[Commie] Heroman - 02 [FE2192B6].mkv
 incomplete/Heroman/[Commie] Heroman - 03 [E5EEFB76].mkv
@@ -2082,6 +2086,7 @@ incomplete/Occult Academy/[Commie] Occult Academy - 04 [97D716CF].mkv
 incomplete/Occult Academy/[Commie] Occult Academy - 05 [FB3D283E].mkv
 incomplete/Occult Academy/[Commie] Occult Academy - 06 [11CA49C2].mkv
 incomplete/Occult Academy/[Commie] Occult Academy - 07 [5A2CAF44].mkv
+incomplete/Occult Academy/[HorribleSubs] Occult Academy - 08 (1280x720) [8DDD758C].mkv
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 01 [3A853D01].avi
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 02 [08A1F4E5].avi
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 03 [A66358B8].avi
@@ -2985,6 +2990,7 @@ incomplete/Souten Kouro/[Lunar] Souten Kouro - 07 (1280x720) [12112170].mkv
 incomplete/Souten Kouro/[Lunar] Souten Kouro - 08 (1280x720) [5342C117].mkv
 incomplete/Souten Kouro/[Lunar] Souten Kouro - 09 (1280x720) [8ACE6834].mkv
 incomplete/Souten no Ken/[Sentosha] Souten no Ken - 01 [DVD][7CBE4115].avi
+incomplete/Strike Witches 2/[HorribleSubs] Strike Witches 2 - 08 (1280x720) [22BECFCC].mkv
 incomplete/Strike Witches 2/[Underwater] Strike Witches 2 - 01 (1280x720) [v2][D901D7EE].mkv
 incomplete/Strike Witches 2/[Underwater] Strike Witches 2 - 02 (1280x720) [59BC29E8].mkv
 incomplete/Strike Witches 2/[Underwater] Strike Witches 2 - 03 (1280x720) [7E6B9956].mkv
@@ -3087,26 +3093,13 @@ incomplete/The Trapp Family Story/[Live-eviL] The Trapp Family Story - 21 [BDCAC
 incomplete/The Trapp Family Story/[Live-eviL] The Trapp Family Story - 22 [655D3D12].avi
 incomplete/The Trapp Family Story/[Live-eviL] The Trapp Family Story - 23 [C4067960].avi
 incomplete/The Trapp Family Story/[Live-eviL] The Trapp Family Story - 24 [C471ADD5].avi
-incomplete/Thriller Restaurant/[Huzzah] Thriller Restaurant - 13 [C65C7039].mkv
-incomplete/Thriller Restaurant/[Huzzah] Thriller Restaurant - 14 [DB042678].mkv
-incomplete/Thriller Restaurant/[Huzzah] Thriller Restaurant - 15 [664D79C7].mkv
-incomplete/Thriller Restaurant/[Huzzah] Thriller Restaurant - 16 [68605019].mkv
-incomplete/Thriller Restaurant/[Huzzah] Thriller Restaurant - 17 [7751919F].mkv
-incomplete/Thriller Restaurant/[Huzzah] Thriller Restaurant - 18 [6920080C].mkv
-incomplete/Thriller Restaurant/[Huzzah] Thriller Restaurant - 19 [993671CA].mkv
-incomplete/Thriller Restaurant/[Huzzah] Thriller Restaurant - 20 [5607F11E].mkv
-incomplete/Thriller Restaurant/[gg] Thriller Restaurant - 01 [98922993].mkv
-incomplete/Thriller Restaurant/[gg] Thriller Restaurant - 02 [37B34C7E].mkv
-incomplete/Thriller Restaurant/[gg] Thriller Restaurant - 03 [DC58B271].mkv
-incomplete/Thriller Restaurant/[gg] Thriller Restaurant - 04 [1304F1F8].mkv
-incomplete/Thriller Restaurant/[gg] Thriller Restaurant - 05 [DCF750F5].mkv
-incomplete/Thriller Restaurant/[gg] Thriller Restaurant - 06 [BDFB0A13].mkv
-incomplete/Thriller Restaurant/[gg] Thriller Restaurant - 07 [F80E69DC].mkv
-incomplete/Thriller Restaurant/[gg] Thriller Restaurant - 08 [097855BD].mkv
-incomplete/Thriller Restaurant/[gg] Thriller Restaurant - 09 [80073879].mkv
-incomplete/Thriller Restaurant/[gg] Thriller Restaurant - 10 [A3ADD99F].mkv
-incomplete/Thriller Restaurant/[gg] Thriller Restaurant - 11 [5B91D9F5].mkv
-incomplete/Thriller Restaurant/[gg] Thriller Restaurant - 12 [7C5F2597].mkv
+incomplete/Tono to Issho/[CrunchySubs] Tono to Issho - 01 (1280x720) [09F78AD2].mkv
+incomplete/Tono to Issho/[CrunchySubs] Tono to Issho - 02 (1280x720) [E7ECE8B8].mkv
+incomplete/Tono to Issho/[CrunchySubs] Tono to Issho - 03 (1280x720) [7766D71A].mkv
+incomplete/Tono to Issho/[CrunchySubs] Tono to Issho - 04 (1280x720) [06C3B66D].mkv
+incomplete/Tono to Issho/[CrunchySubs] Tono to Issho - 05 (1280x720) [879630F4].mkv
+incomplete/Tono to Issho/[CrunchySubs] Tono to Issho - 06 (1280x720) [4A0FEFA2].mkv
+incomplete/Tono to Issho/[CrunchySubs] Tono to Issho - 07 (1280x720) [4E5E078D].mkv
 incomplete/Touhou Unofficial Doujin Anime/[StrikeS-Ayako] Touhou Unofficial Doujin Anime - 01 [v2][3164C789].mkv
 incomplete/Turn-A Gundam/[EG] Turn-A Gundam - 01 [v2][E8F575A6].mkv
 incomplete/Turn-A Gundam/[EG] Turn-A Gundam - 02 [v2][EC3C89DA].mkv
