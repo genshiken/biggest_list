@@ -19,6 +19,8 @@ movie/Detective Conan Movie/[B-Org] Detective Conan - Movie 11 (Part 1) [6CF1697
 movie/Detective Conan Movie/[B-Org] Detective Conan - Movie 11 (Part 2) [B8C270F7].mkv
 movie/Detective Conan Movie/[DCTP] Detective Conan - Movie 12 [BA79F197].mkv
 movie/Detective Conan Movie/[DCTP] Detective Conan - Movie 13 [EFC07D98].mkv
+movie/Detective Conan Movie/[KnKF] Detective Conan - Movie 10 (Part 1) [AD7851FC].avi
+movie/Detective Conan Movie/[KnKF] Detective Conan - Movie 10 (Part 2) [7AA97A53].avi
 movie/Diebuster Movie (2006)/[THORA] Diebuster Movie (2006) [720p,BD][B82B5C95].mkv
 movie/Digimon Adventure 3D - Digimon Grand Prix!/[RyRo] Digimon Adventure 3D - Digimon Grand Prix! [DVD][AC48BC2B].mkv
 movie/Digimon Movie/[wpp] Digimon - Movie 5 [C4C94880].avi
@@ -82,6 +84,7 @@ movie/Munto Movie/[Exiled-Destiny] Munto - Movie 1 [52343279].mkv
 movie/Munto Movie/[Exiled-Destiny] Munto - Movie 2 [620E941E].mkv
 movie/My Neighbor Totoro/[niizk] My Neighbor Totoro [59A5021B].mkv
 movie/Naruto Shippuuden/[DB] Naruto Shippuuden - Movie 3 [BCC77C3B].avi
+movie/Nausicaa of the Valley of the Wind (1984)/[THORA] Nausicaa of the Valley of the Wind (1984) [BD][6D0CA03D].mkv
 movie/Ojamajo Doremi Sharp Movie/[Doremi] Ojamajo Doremi Sharp Movie [27E34A4E].avi
 movie/One Piece/[Nakama-Fansubs] One Piece - Movie 9 [DVD][CB9E7E89].mp4
 movie/Pale Cocoon/[Doremi-HF-Shakugan] Pale Cocoon [BAEE1167].avi
