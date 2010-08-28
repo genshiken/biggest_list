@@ -209,6 +209,7 @@
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_19_[D9D8A7A6].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_20_[4377872D].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_21_[7ECAC3F5].mkv
+!new/upload/[Mazui]_Ookami-san_-_09v2_[D4F05F8E].mkv
 !new/upload/[Movie-1986]_Touch_2__Sayonara_no_Okurimono/Touch_2__Sayonara_no_Okurimono_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][C6396C54].avi
 !new/upload/[Movie-1986]_Touch__Sebangou_no_Nai_Ace/Touch__Sebangou_no_Nai_Ace_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][83A7DB30].avi
 !new/upload/[Movie-1987]_Touch_3__Kimi_ga_Toorisugita_Ato_ni_-_Don_t_Pass_Me_By/Touch_3__Kimi_ga_Toorisugita_Ato_ni_-_Don_t_Pass_Me_By_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][FBFB9072].avi
@@ -280,6 +281,7 @@
 !new/upload/[OVA-2008]_Saint_Seiya__Meiou_Hades_Elysion-hen/Saint_Seiya__Meiou_Hades_Elysion-hen_-_4[6]_-_The_Legendary_Gold_Cloths_[640x480][DVD][NankH-TMD][40D5147A]v2.mkv
 !new/upload/[OVA-2008]_Saint_Seiya__Meiou_Hades_Elysion-hen/Saint_Seiya__Meiou_Hades_Elysion-hen_-_5[6]_-_Awakening_from_Myth_[640x480][DVD][NankH-TMD][E1FD392C]v2.mkv
 !new/upload/[OVA-2008]_Saint_Seiya__Meiou_Hades_Elysion-hen/Saint_Seiya__Meiou_Hades_Elysion-hen_-_6[6]_-_To_the_World_where_Light_Overflows_[640x480][DVD][NankH-TMD][82AD6FEE]v2.mkv
+!new/upload/[Ryuumaru] Seitokai Yakuindomo - 08 [1024x576][4598E4A9].mkv
 !new/upload/[SHiN-gx] Working!! - 04 [DVD][720x480 AR h.264 AAC][12430851].mkv
 !new/upload/[Seto_Otaku]_Rosario_to_Vampire_~Capu2~_-_11_[BD][1280x720_H264-AAC][2AFA2F11].mkv
 !new/upload/[Seto_Otaku]_Rosario_to_Vampire_~Capu2~_-_12_[BD][1280x720_H264-AAC][FBB981BE].mkv
@@ -705,18 +707,6 @@
 !new/upload/cor.tv.magikano.11.[B77368F8].mkv
 !new/upload/cor.tv.magikano.12.[D5C84B25].mkv
 !new/upload/cor.tv.magikano.13.[4A5D6FD7].mkv
-!new/upload/lama/Magikano/Magikano - 01 [AnimeU].avi
-!new/upload/lama/Magikano/Magikano - 02 [AnimeU].avi
-!new/upload/lama/Magikano/Magikano - 03 [AnimeU].avi
-!new/upload/lama/Magikano/Magikano - 04 [AnimeU].avi
-!new/upload/lama/Magikano/Magikano - 06 [AnimeU].avi
-!new/upload/lama/Magikano/Magikano - 07 [AnimeU].avi
-!new/upload/lama/Magikano/Magikano - 08 [AnimeU].avi
-!new/upload/lama/Magikano/Magikano - 09 [AnimeU].avi
-!new/upload/lama/Magikano/Magikano - 10 [AnimeU].avi
-!new/upload/lama/Magikano/Magikano - 11 [AnimeU].avi
-!new/upload/lama/Magikano/Magikano - 12 [AnimeU].avi
-!new/upload/lama/Magikano/Magikano - 13 [AnimeU].avi
 !new/upload/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/upload/lama/[Ayako] Weiﬂ Survive R - 01 - H264 - E975A989.mkv
 !new/upload/lama/[C1_L-E_MJN]_Little_Princess_Sara_-_01_[12B12455].avi
