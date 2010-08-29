@@ -5,6 +5,7 @@
 !new/upload/Carol/[raw] Carol OVA.ass
 !new/upload/Carol/[raw] Carol OVA.avi
 !new/upload/CoreAVC_2.0_Professional_with_key.zip
+!new/upload/Detective Conan - 585 [DCTP][720p][B2886C56].mp4
 !new/upload/Hellsing Ultimate OVA 01 [DVDRip(HQ)_848x480][AAC_jpn-eng-fre-ger][Sub_fre-eng-ger-spa-dut].mkv
 !new/upload/Hellsing Ultimate OVA 02 [DVDRip(HQ)_848x480][AAC_jpn-eng-ger-fre][Sub_fre-eng-ger-spa-dut].mkv
 !new/upload/Hellsing Ultimate OVA 03 [DVDRip(HQ)_848x480][AAC_jpn-eng-ger][Sub_fre-eng-ger-spa].mkv
@@ -196,6 +197,7 @@
 !new/upload/[Ayako]_G.A._Geijutsuka_Art_Design_Class_-_OVA_[704x400][H264][C120861F].mkv
 !new/upload/[CXC-iMangaScans]-MedakaBox_ch56.zip
 !new/upload/[CXC-iMangaScans]-MedakaBox_ch57.zip
+!new/upload/[Chihiro]_Zettai_Karen_Children_OVA_[h264][68EB97D6].mkv
 !new/upload/[Coalgirls]_Seitokai_Yakuindomo_01_(1920x1080_Blu-Ray_FLAC)_[912D6FAB].mkv
 !new/upload/[Coalgirls]_Seitokai_Yakuindomo_02_(1920x1080_Blu-Ray_FLAC)_[EBB16865].mkv
 !new/upload/[Commie] Kuroshitsuji II - 09 [1E06A900].mkv
@@ -205,12 +207,16 @@
 !new/upload/[DATS] Shibawanko's Japanese Spirit 03-04 [h264][71AD2201].mkv
 !new/upload/[DB]_Ninku_05_[8EFDC096].avi
 !new/upload/[Doutei]Golgo 13 - 38[DVD][78D92354].mkv
+!new/upload/[Doutei]Golgo 13 - 39[DVD][116122F2].mkv
 !new/upload/[EAC] [100813(C78)] PrismRhythm -プリズムリズム- ED.VocalCollection -Belltina- (tak+InternalCue+files[CD-Extra]+bmp rr5).rar
 !new/upload/[EAC] [100813(C78)] [100827] [ゆずソフト] 「のーぶる☆わーくす」キャラクターソング vol.1 恋の爆弾 (tak+InternalCue+bmp rr5).rar
 !new/upload/[EAC] [100813(C78)] [MOONSTONE] Cy-Rim Project - Angel Ring ～繋げようよ 恋のリング～ (tak+InternalCue+bmp rr5).rar
 !new/upload/[EAC] [DVDISO] [100728] (シングル) TVアニメ あそびにいくヨ！ OP 「Now loading...SKY!!」 ／ スフィア(寿美菜子・高垣彩陽・戸松遥・豊崎愛生) (iso+mds).rar
 !new/upload/[Eclipse] Amagami SS - 09 (1280x720 h264) [5803A0F7].mkv
+!new/upload/[Frostii]_K-On!!_-_21_[6175D262].mkv
+!new/upload/[Frostii]_K-On!!_B-Side_Theater_-_Uraon!!_-_2_[680139CA].mkv
 !new/upload/[HorribleSubs] Kateikyoushi Hitman Reborn - 199 [720p].mkv
+!new/upload/[HorribleSubs] Lilpri - 22 [720p].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_19_[D9D8A7A6].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_20_[4377872D].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_21_[7ECAC3F5].mkv
@@ -286,6 +292,14 @@
 !new/upload/[OVA-2008]_Saint_Seiya__Meiou_Hades_Elysion-hen/Saint_Seiya__Meiou_Hades_Elysion-hen_-_4[6]_-_The_Legendary_Gold_Cloths_[640x480][DVD][NankH-TMD][40D5147A]v2.mkv
 !new/upload/[OVA-2008]_Saint_Seiya__Meiou_Hades_Elysion-hen/Saint_Seiya__Meiou_Hades_Elysion-hen_-_5[6]_-_Awakening_from_Myth_[640x480][DVD][NankH-TMD][E1FD392C]v2.mkv
 !new/upload/[OVA-2008]_Saint_Seiya__Meiou_Hades_Elysion-hen/Saint_Seiya__Meiou_Hades_Elysion-hen_-_6[6]_-_To_the_World_where_Light_Overflows_[640x480][DVD][NankH-TMD][82AD6FEE]v2.mkv
+!new/upload/[PHT-KAW]_Senkou_no_Night_Raid_07_[h264][4BA920CB].mkv
+!new/upload/[PHT-KAW]_Senkou_no_Night_Raid_08_[h264][97DB40DC].mkv
+!new/upload/[PHT-KAW]_Senkou_no_Night_Raid_09_[h264][0B01E54E].mkv
+!new/upload/[PHT-KAW]_Senkou_no_Night_Raid_10_[h264][CE2B5818].mkv
+!new/upload/[PHT-KAW]_Senkou_no_Night_Raid_11_[h264][8103561E].mkv
+!new/upload/[PHT-KAW]_Senkou_no_Night_Raid_12_[h264][72A5EC10].mkv
+!new/upload/[PHT-KAW]_Senkou_no_Night_Raid_13_[h264][595CB3D3].mkv
+!new/upload/[ReDone] Touka Gettan - 06 (DVD) [ACE5DC47].mkv
 !new/upload/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 04 [Webrip][640x480 h.264 AAC][4EC96427].mkv
 !new/upload/[SHiN-gx] Working!! - 04 [DVD][720x480 AR h.264 AAC][12430851].mkv
 !new/upload/[Seto_Otaku]_Rosario_to_Vampire_~Capu2~_-_11_[BD][1280x720_H264-AAC][2AFA2F11].mkv
@@ -592,6 +606,7 @@
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/upload/[TastyMelon] Black Lagoon OVA - Roberta's Blood Trail - 01v2 [BD][720p][30F851AF].mkv
 !new/upload/[Translatorgasm]_Eden_of_the_East_Movie_II_-_Paradise_Lost_[39b3205b].mkv
 !new/upload/[uguu~]_AIR_in_Summer_02_(BD-1080p)_[5D750C98].mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
