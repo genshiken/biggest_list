@@ -200,6 +200,7 @@
 !new/upload/[Chihiro]_Zettai_Karen_Children_OVA_[h264][68EB97D6].mkv
 !new/upload/[Coalgirls]_Seitokai_Yakuindomo_01_(1920x1080_Blu-Ray_FLAC)_[912D6FAB].mkv
 !new/upload/[Coalgirls]_Seitokai_Yakuindomo_02_(1920x1080_Blu-Ray_FLAC)_[EBB16865].mkv
+!new/upload/[Commie] Eden of the East Movie II - Paradise Lost - OP [BD 1080p FLAC].mkv
 !new/upload/[Commie] Kuroshitsuji II - 09 [1E06A900].mkv
 !new/upload/[Commie] Shukufuku no Campanella - 09 [2C7E6516].mkv
 !new/upload/[CureCom] Fresh Pretty Cure! - 08 [HD][F893BFB8].mkv
@@ -220,6 +221,7 @@
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_19_[D9D8A7A6].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_20_[4377872D].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_21_[7ECAC3F5].mkv
+!new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_22_[707572FA].mkv
 !new/upload/[Mazui]_Ookami-san_-_09v2_[D4F05F8E].mkv
 !new/upload/[Movie-1986]_Touch_2__Sayonara_no_Okurimono/Touch_2__Sayonara_no_Okurimono_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][C6396C54].avi
 !new/upload/[Movie-1986]_Touch__Sebangou_no_Nai_Ace/Touch__Sebangou_no_Nai_Ace_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][83A7DB30].avi
@@ -244,10 +246,13 @@
 !new/upload/[Nipponsei] Hidamari Sketch X Hoshimittsu Character CD 6 - Sae [Shintani Ryouko].zip
 !new/upload/[Nipponsei] Kaichou wa Maid-sama! Character Concept CD5 - Another Side 2.zip
 !new/upload/[Nipponsei] Kaichou wa Maid-sama! Maid Latte Songs!.zip
+!new/upload/[Nipponsei] Katanagatari OP2 Single - Katana to Saya [ALI PROJECT].zip
+!new/upload/[Nipponsei] Kuroshitsuji II ED Single - Bird [Matsushita Yuuya].zip
 !new/upload/[Nipponsei] Mitsudomoe Character Song 1 - Mitsuba [Takagaki Ayahi].zip
 !new/upload/[Nipponsei] Mitsudomoe Character Song 2 - Futaba [Akesaka Satomi].zip
 !new/upload/[Nipponsei] Mitsudomoe Character Song 3 - Hitoha [Tomatsu Haruka].zip
 !new/upload/[Nipponsei] NARUTO Shippuuden ED14 Single - Utakata Hanabi [supercell].zip
+!new/upload/[Nipponsei] Working!! Original Soundtrack Vol.2.zip
 !new/upload/[OVA-1989]_Kimagure_Orange_Road__Hawaiian_Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/upload/[OVA-1989]_Kimagure_Orange_Road__Shiroi_Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/upload/[OVA-1991]_Kimagure_Orange_Road__Omoi_Gakenai_Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -300,8 +305,10 @@
 !new/upload/[PHT-KAW]_Senkou_no_Night_Raid_12_[h264][72A5EC10].mkv
 !new/upload/[PHT-KAW]_Senkou_no_Night_Raid_13_[h264][595CB3D3].mkv
 !new/upload/[ReDone] Touka Gettan - 06 (DVD) [ACE5DC47].mkv
+!new/upload/[RyRo]_Inazuma_Eleven_-_97_(1280x720_x264_AAC)_[3670764F].mkv
 !new/upload/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 04 [Webrip][640x480 h.264 AAC][4EC96427].mkv
 !new/upload/[SHiN-gx] Working!! - 04 [DVD][720x480 AR h.264 AAC][12430851].mkv
+!new/upload/[SHiN-gx] Working!! - 06 [DVD][720x480 AR h.264 AAC][58897591].mkv
 !new/upload/[Seto_Otaku]_Rosario_to_Vampire_~Capu2~_-_11_[BD][1280x720_H264-AAC][2AFA2F11].mkv
 !new/upload/[Seto_Otaku]_Rosario_to_Vampire_~Capu2~_-_12_[BD][1280x720_H264-AAC][FBB981BE].mkv
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
