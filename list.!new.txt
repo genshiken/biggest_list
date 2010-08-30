@@ -304,6 +304,7 @@
 !new/upload/[PHT-KAW]_Senkou_no_Night_Raid_11_[h264][8103561E].mkv
 !new/upload/[PHT-KAW]_Senkou_no_Night_Raid_12_[h264][72A5EC10].mkv
 !new/upload/[PHT-KAW]_Senkou_no_Night_Raid_13_[h264][595CB3D3].mkv
+!new/upload/[ReDone] Koihime Musou - OVA (DVD 720x480 H264 AC3) [FB61BD44].mkv
 !new/upload/[ReDone] Touka Gettan - 06 (DVD) [ACE5DC47].mkv
 !new/upload/[RyRo]_Inazuma_Eleven_-_97_(1280x720_x264_AAC)_[3670764F].mkv
 !new/upload/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 04 [Webrip][640x480 h.264 AAC][4EC96427].mkv
@@ -615,6 +616,11 @@
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/upload/[TastyMelon] Black Lagoon OVA - Roberta's Blood Trail - 01v2 [BD][720p][30F851AF].mkv
 !new/upload/[Translatorgasm]_Eden_of_the_East_Movie_II_-_Paradise_Lost_[39b3205b].mkv
+!new/upload/[gg]_HIGHSCHOOL_OF_THE_DEAD_-_09_[3A25004C].mkv
+!new/upload/[uguu~]_AIR_01v3_(BD-720p)_[9BC179D6].mkv
+!new/upload/[uguu~]_AIR_02v2_(BD-720p)_[BBD55736].mkv
+!new/upload/[uguu~]_AIR_03v3_(BD-720p)_[0BF71849].mkv
+!new/upload/[uguu~]_AIR_04v3_(BD-720p)_[237080D3].mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
