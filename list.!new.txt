@@ -212,11 +212,11 @@
 !new/upload/[EAC] [100813(C78)] [100827] [ゆずソフト] 「のーぶる☆わーくす」キャラクターソング vol.1 恋の爆弾 (tak+InternalCue+bmp rr5).rar
 !new/upload/[EAC] [100813(C78)] [MOONSTONE] Cy-Rim Project - Angel Ring ～繋げようよ 恋のリング～ (tak+InternalCue+bmp rr5).rar
 !new/upload/[EAC] [DVDISO] [100728] (シングル) TVアニメ あそびにいくヨ！ OP 「Now loading...SKY!!」 ／ スフィア(寿美菜子・高垣彩陽・戸松遥・豊崎愛生) (iso+mds).rar
-!new/upload/[Eclipse] Amagami SS - 09 (1280x720 h264) [5803A0F7].mkv
-!new/upload/[Frostii]_K-On!!_-_21_[6175D262].mkv
-!new/upload/[Frostii]_K-On!!_B-Side_Theater_-_Uraon!!_-_2_[680139CA].mkv
+!new/upload/[HorribleSubs] Giant Killing - 22 [720p].mkv
 !new/upload/[HorribleSubs] Kateikyoushi Hitman Reborn - 199 [720p].mkv
 !new/upload/[HorribleSubs] Lilpri - 22 [720p].mkv
+!new/upload/[HorribleSubs] Mitsudomoe - 09 [720p].mkv
+!new/upload/[HorribleSubs] Uraboku - 21 [480p].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_19_[D9D8A7A6].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_20_[4377872D].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_21_[7ECAC3F5].mkv
@@ -608,7 +608,6 @@
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/upload/[TastyMelon] Black Lagoon OVA - Roberta's Blood Trail - 01v2 [BD][720p][30F851AF].mkv
 !new/upload/[Translatorgasm]_Eden_of_the_East_Movie_II_-_Paradise_Lost_[39b3205b].mkv
-!new/upload/[uguu~]_AIR_in_Summer_02_(BD-1080p)_[5D750C98].mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx

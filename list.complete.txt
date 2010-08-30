@@ -153,10 +153,9 @@ complete/a/Air Gear/[Kyuu] Air Gear - 22 [5A65AF2E].avi
 complete/a/Air Gear/[Kyuu] Air Gear - 23 [9B36B8A0].avi
 complete/a/Air Gear/[Kyuu] Air Gear - 24 [C241B914].avi
 complete/a/Air Gear/[Kyuu] Air Gear - 25 [End][B8590D16].avi
-complete/a/Air in Summer/[Triad] Air in Summer - 1 [EF9EC561].avi
-complete/a/Air in Summer/[Triad] Air in Summer - 2 [End][32B90D7E].avi
 complete/a/Air in Summer/[uguu~] Air in Summer - 1 (1920x1080) [BD][8F1C0998].mkv
-complete/a/Air/[Koi] Air - 13 [End][346ACEAB].avi
+complete/a/Air in Summer/[uguu~] Air in Summer - 2 (1920x1080) [End][BD][5D750C98].mkv
+complete/a/Air/[Koi] Air - 13 [Recap][346ACEAB].avi
 complete/a/Air/[uguu~] Air - 01 (1280x720) [BD][9F57E231].mkv
 complete/a/Air/[uguu~] Air - 02 (1280x720) [BD][86E0D3BB].mkv
 complete/a/Air/[uguu~] Air - 03 (1280x720) [BD][733896FD].mkv
@@ -168,7 +167,7 @@ complete/a/Air/[uguu~] Air - 08 (1280x720) [BD][7D963DA4].mkv
 complete/a/Air/[uguu~] Air - 09 (1280x720) [BD][0F5B29B2].mkv
 complete/a/Air/[uguu~] Air - 10 (1280x720) [BD][09BF7610].mkv
 complete/a/Air/[uguu~] Air - 11 (1280x720) [BD][2C7BDEFC].mkv
-complete/a/Air/[uguu~] Air - 12 (1280x720) [BD][49EBAF34].mkv
+complete/a/Air/[uguu~] Air - 12 (1280x720) [End][BD][49EBAF34].mkv
 complete/a/Akagi/[Triad] Akagi - 01 [C416CB1F].avi
 complete/a/Akagi/[Triad] Akagi - 02 [CFCDC545].avi
 complete/a/Akagi/[Triad] Akagi - 03 [35B0007C].avi
