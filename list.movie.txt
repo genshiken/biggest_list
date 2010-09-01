@@ -47,6 +47,7 @@ movie/Fresh Pretty Cure!/[CureCom-Doremi] Fresh Pretty Cure! - Movie [DVD][AC03D
 movie/Fullmetal Alchemist - The Conqueror of Shamballa/[KAA] Fullmetal Alchemist - The Conqueror of Shamballa [EA07D24E].mkv
 movie/Ged Senki - Tales from Earthsea/[niizk] Ged Senki - Tales from Earthsea [v2][39703EB2].mkv
 movie/Ghost in the Shell/[KAA] Ghost in the Shell - Innocence [DVD][00C92C0A].mkv
+movie/Ghost in the Shell/[niizk] Ghost in the Shell [BD][5A1FF951].mkv
 movie/Gokinjo Monogatari Movie/[Yuurisan-Subs] Gokinjo Monogatari - Movie [81F06CCC].mkv
 movie/Gunbuster Movie/[THORA] Gunbuster Movie (1988) - Part 1 [720p,BD][ED918128].mkv
 movie/Gunbuster Movie/[THORA] Gunbuster Movie (1988) - Part 2 [720p,BD][EE2264D2].mkv

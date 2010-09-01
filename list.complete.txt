@@ -156,10 +156,10 @@ complete/a/Air Gear/[Kyuu] Air Gear - 25 [End][B8590D16].avi
 complete/a/Air in Summer/[uguu~] Air in Summer - 1 (1920x1080) [BD][8F1C0998].mkv
 complete/a/Air in Summer/[uguu~] Air in Summer - 2 (1920x1080) [End][BD][5D750C98].mkv
 complete/a/Air/[Koi] Air - 13 [Recap][346ACEAB].avi
-complete/a/Air/[uguu~] Air - 01 (1280x720) [BD][9F57E231].mkv
-complete/a/Air/[uguu~] Air - 02 (1280x720) [BD][86E0D3BB].mkv
-complete/a/Air/[uguu~] Air - 03 (1280x720) [BD][733896FD].mkv
-complete/a/Air/[uguu~] Air - 04 (1280x720) [BD][FC8EB878].mkv
+complete/a/Air/[uguu~] Air - 01 (1280x720) [v3][BD][9BC179D6].mkv
+complete/a/Air/[uguu~] Air - 02 (1280x720) [v2][BD][BBD55736].mkv
+complete/a/Air/[uguu~] Air - 03 (1280x720) [v3][BD][0BF71849].mkv
+complete/a/Air/[uguu~] Air - 04 (1280x720) [v3][BD][237080D3].mkv
 complete/a/Air/[uguu~] Air - 05 (1280x720) [BD][3C9DB668].mkv
 complete/a/Air/[uguu~] Air - 06 (1280x720) [BD][4FD4DC01].mkv
 complete/a/Air/[uguu~] Air - 07 (1280x720) [BD][1EF8E42D].mkv
@@ -9441,9 +9441,6 @@ complete/r/Romeo x Juliet/[umai] Romeo x Juliet - 18 [AFEE7EA1].mkv
 complete/r/Romeo x Juliet/[umai] Romeo x Juliet - 19 [3056933D].mkv
 complete/r/Romeo x Juliet/[umai] Romeo x Juliet - 20 [C780138D].mkv
 complete/r/Romeo x Juliet/[umai] Romeo x Juliet - 21 [AE227533].mkv
-complete/r/Rosario + Vampire Capu2/[Retrofit-Ayako-m.3.3.w] Rosario + Vampire Capu2 - 11 [19D7D3C3].mkv
-complete/r/Rosario + Vampire Capu2/[Retrofit-Ayako-m.3.3.w] Rosario + Vampire Capu2 - 12 [6497F151].mkv
-complete/r/Rosario + Vampire Capu2/[Retrofit-Ayako-m.3.3.w] Rosario + Vampire Capu2 - 13 [End][4C42598A].mkv
 complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 01 (1280x720) [v2][BD][F470CD70].mkv
 complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 02 (1280x720) [BD][5CBDEEA5].mkv
 complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 03 (1280x720) [BD][61A21085].mkv
@@ -9454,6 +9451,8 @@ complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 07 (12
 complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 08 (1280x720) [BD][F25D5DDA].mkv
 complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 09 (1280x720) [BD][33DFC98A].mkv
 complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 10 (1280x720) [BD][3A22400D].mkv
+complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 11 (1280x720) [BD][2AFA2F11].mkv
+complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 12 (1280x720) [BD][FBB981BE].mkv
 complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - 13 (1280x720) [End][BD][13231064].mkv
 complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - Ending (Clean) (1280x720) [BD][438C246F].mp4
 complete/r/Rosario + Vampire Capu2/[Seto Otaku] Rosario + Vampire Capu2 - Opening (Clean) (1280x720) [BD][FC94590D].mp4
@@ -11646,9 +11645,11 @@ complete/t/To Love-Ru/[Yabai] To Love-Ru - 08 [DVD][A0A7A470].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - 09 [DVD][CE91E587].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - 10 [DVD][54ECA974].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - 11 [DVD][FC9153E0].mkv
-complete/t/To Love-Ru/[Yabai] To Love-Ru - Ending [DVD][EF8BFCD1].mkv
-complete/t/To Love-Ru/[Yabai] To Love-Ru - Opening [DVD][149603D7].mkv
-complete/t/To Love-Ru/[polished] To Love-Ru - 12 [DVD][DA266A3D].mkv
+complete/t/To Love-Ru/[Yabai] To Love-Ru - 12 [DVD][E88EDCB3].mkv
+complete/t/To Love-Ru/[Yabai] To Love-Ru - Ending (clean) [DVD][ED4D6663].mkv
+complete/t/To Love-Ru/[Yabai] To Love-Ru - Ending [v2][DVD][8629235A].mkv
+complete/t/To Love-Ru/[Yabai] To Love-Ru - Opening (clean) [DVD][876BE74A].mkv
+complete/t/To Love-Ru/[Yabai] To Love-Ru - Opening [v2][DVD][A9ADB3C1].mkv
 complete/t/To Love-Ru/[polished] To Love-Ru - 13 [DVD][FB981630].mkv
 complete/t/To Love-Ru/[polished] To Love-Ru - 14 [DVD][C725D768].mkv
 complete/t/To Love-Ru/[polished] To Love-Ru - 15 [DVD][7106D5C1].mkv
@@ -12549,10 +12550,9 @@ complete/w/Working!!/[Himatsubushi] Working!! - 13 [End][5AE519C5].mkv
 complete/w/Working!!/[SHiN-gx] Working!! - 01 [DVD][B4E8CBC0].mkv
 complete/w/Working!!/[SHiN-gx] Working!! - 02 [DVD][053BAC1C].mkv
 complete/w/Working!!/[SHiN-gx] Working!! - 03 [DVD][4B8D9505].mkv
-complete/w/Working!!/[SHiN-gx] Working!! - 04 [1E20442D].mkv
-complete/w/Working!!/[SHiN-gx] Working!! - 05 [828CD764].mkv
+complete/w/Working!!/[SHiN-gx] Working!! - 04 [DVD][12430851].mkv
 complete/w/Working!!/[SHiN-gx] Working!! - 05 [DVD][A7E8970F].mkv
-complete/w/Working!!/[SHiN-gx] Working!! - 06 [705EE74B].mkv
+complete/w/Working!!/[SHiN-gx] Working!! - 06 [DVD][58897591].mkv
 complete/w/World Destruction/[Osu!] World Destruction - 01 (1280x720) [84AF69E2].mkv
 complete/w/World Destruction/[Osu!] World Destruction - 02 (1280x720) [BFFE1AF9].mkv
 complete/w/World Destruction/[Osu!] World Destruction - 03 [EEEB75A8].mkv
