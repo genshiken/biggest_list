@@ -221,9 +221,39 @@
 !new/upload/Torrent downloaded from Demonoid.com.txt
 !new/upload/TranslationNotes.txt
 !new/upload/[Ayako]_G.A._Geijutsuka_Art_Design_Class_-_OVA_[704x400][H264][C120861F].mkv
+!new/upload/[B-G]_XENOGLOSSIA_01.DVD[H.264_AAC]_[44E26B8E].mkv
+!new/upload/[B-G]_XENOGLOSSIA_02.DVD[H.264_AAC]_[2B841684].mkv
+!new/upload/[B-G]_XENOGLOSSIA_03.DVD[H.264_AAC]_[203EED2B].mkv
+!new/upload/[B-G]_XENOGLOSSIA_04.DVD[H.264_AAC]_[C5833D91].mkv
+!new/upload/[B-G]_XENOGLOSSIA_05.DVD[H.264_AAC]_[CB1D0EDF].mkv
+!new/upload/[B-G]_XENOGLOSSIA_06.DVD[H.264_AAC]_[F07559C6].mkv
+!new/upload/[B-G]_XENOGLOSSIA_07.DVD[H.264_AAC]_[354A97A1].mkv
+!new/upload/[B-G]_XENOGLOSSIA_08.DVD[H.264_AAC]_[38C87FBC].mkv
+!new/upload/[B-G]_XENOGLOSSIA_09.DVD[H.264_AAC]_[F832C19C].mkv
+!new/upload/[B-G]_XENOGLOSSIA_10.DVD[H.264_AAC]_[3F86CF54].mkv
+!new/upload/[B-G]_XENOGLOSSIA_11.DVD[H.264_AAC]_[0CDCB315].mkv
+!new/upload/[B-G]_XENOGLOSSIA_12.DVD[H.264_AAC]_[CD9BF4BC].mkv
+!new/upload/[B-G]_XENOGLOSSIA_13.DVD[H.264_AAC]_[9A06D560].mkv
+!new/upload/[B-G]_XENOGLOSSIA_14.DVD[H.264_AAC]_[219700BA].mkv
+!new/upload/[B-G]_XENOGLOSSIA_15.DVD[H.264_AAC]_[BC2CDDCF].mkv
+!new/upload/[B-G]_XENOGLOSSIA_16.DVD[H.264_AAC]_[ED43DC62].mkv
+!new/upload/[B-G]_XENOGLOSSIA_17.DVD[H.264_AAC]_[BBA3C341].mkv
+!new/upload/[B-G_&_BakaWolf]_XENOGLOSSIA_18.DVD[H.264_AAC]_[3AA5B094].mkv
+!new/upload/[B-G_&_BakaWolf]_XENOGLOSSIA_19.DVD[H.264_AAC]_[7B2F7CF7].mkv
+!new/upload/[B-G_&_BakaWolf]_XENOGLOSSIA_20.DVD[H.264_AAC]_[0A17C54D].mkv
+!new/upload/[B-G_&_BakaWolf]_XENOGLOSSIA_21.DVD[H.264_AAC]_[BAA96055].mkv
+!new/upload/[B-G_&_BakaWolf]_XENOGLOSSIA_22.DVD[H.264_AAC]_[AE5F43B0].mkv
+!new/upload/[B-G_&_BakaWolf]_XENOGLOSSIA_23.DVD[H.264_AAC]_[9C19F89A].mkv
+!new/upload/[B-G_&_BakaWolf]_XENOGLOSSIA_24.DVD[H.264_AAC]_[9EDABE76].mkv
+!new/upload/[B-G_&_BakaWolf]_XENOGLOSSIA_25.DVD[H.264_AAC]_[237C6405].mkv
+!new/upload/[B-G_&_BakaWolf]_XENOGLOSSIA_26.DVD[H.264_AAC]_[0A3F1FAE].mkv
 !new/upload/[CXC-iMangaScans]-MedakaBox_ch56.zip
 !new/upload/[CXC-iMangaScans]-MedakaBox_ch57.zip
 !new/upload/[Chihiro]_Zettai_Karen_Children_OVA_[h264][68EB97D6].mkv
+!new/upload/[Coalgirls]_Kiss_x_Sis_07_(1280x720_Blu-Ray_FLAC)_[07F22D4C].mkv
+!new/upload/[Coalgirls]_Kiss_x_Sis_08_(1280x720_Blu-Ray_FLAC)_[34A77C23].mkv
+!new/upload/[Coalgirls]_Kiss_x_Sis_09_(1280x720_Blu-Ray_FLAC)_[65CC0E40].mkv
+!new/upload/[Coalgirls]_Kiss_x_Sis_ED2_(1280x720_Blu-Ray_FLAC)_[BE81E765].mkv
 !new/upload/[Coalgirls]_Seitokai_Yakuindomo_01_(1920x1080_Blu-Ray_FLAC)_[912D6FAB].mkv
 !new/upload/[Coalgirls]_Seitokai_Yakuindomo_02_(1920x1080_Blu-Ray_FLAC)_[EBB16865].mkv
 !new/upload/[Commie] Eden of the East Movie II - Paradise Lost - OP [BD 1080p FLAC].mkv
@@ -240,6 +270,8 @@
 !new/upload/[EAC] [100813(C78)] [100827] [ゆずソフト] 「のーぶる☆わーくす」キャラクターソング vol.1 恋の爆弾 (tak+InternalCue+bmp rr5).rar
 !new/upload/[EAC] [100813(C78)] [MOONSTONE] Cy-Rim Project - Angel Ring ～繋げようよ 恋のリング～ (tak+InternalCue+bmp rr5).rar
 !new/upload/[EAC] [DVDISO] [100728] (シングル) TVアニメ あそびにいくヨ！ OP 「Now loading...SKY!!」 ／ スフィア(寿美菜子・高垣彩陽・戸松遥・豊崎愛生) (iso+mds).rar
+!new/upload/[HnG-Otoko] Sakigake!! Otokojuku 14 (DVD) [7FE3551A].mkv
+!new/upload/[HorribleSubs] Bleach - 286 [720p].mkv
 !new/upload/[HorribleSubs] Fairy Tail - 44 [720p].mkv
 !new/upload/[HorribleSubs] Giant Killing - 22 [720p].mkv
 !new/upload/[HorribleSubs] Kateikyoushi Hitman Reborn - 199 [720p].mkv
@@ -251,6 +283,7 @@
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_20_[4377872D].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_21_[7ECAC3F5].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_22_[707572FA].mkv
+!new/upload/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 14 [H264 1280x720] [4B7F57A9].mkv
 !new/upload/[Mazui]_Ookami-san_-_09v2_[D4F05F8E].mkv
 !new/upload/[Movie-1986]_Touch_2__Sayonara_no_Okurimono/Touch_2__Sayonara_no_Okurimono_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][C6396C54].avi
 !new/upload/[Movie-1986]_Touch__Sebangou_no_Nai_Ace/Touch__Sebangou_no_Nai_Ace_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][83A7DB30].avi
@@ -272,6 +305,8 @@
 !new/upload/[Movie-2002]_Inuyasha__Kagami_no_Naka_no_Mugenjou/Inuyasha__Kagami_no_Naka_no_Mugenjou_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][5BE86486].mkv
 !new/upload/[Movie-2003]_Inuyasha_-_Tenka_Hadou_no_Ken/Inuyasha_-_Tenka_Hadou_no_Ken_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][729CFBDD].mkv
 !new/upload/[Movie-2004]_Inuyasha__Guren_no_Houraijima/Inuyasha__Guren_no_Houraijima_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][ED7FAAFB].mkv
+!new/upload/[NipponSex]_(27.08.2010)_Cthulhu_-Great_Hunting-_Original_Soundtrack_[Denkishiki_Karen_Ongaku_Shuudan]_(320k).rar
+!new/upload/[NipponSex]_(27.08.2010)_Prism☆Magical_Vocal_Collection_[Various]_(320k).rar
 !new/upload/[Nipponsei] Hidamari Sketch X Hoshimittsu Character CD 6 - Sae [Shintani Ryouko].zip
 !new/upload/[Nipponsei] Kaichou wa Maid-sama! Character Concept CD5 - Another Side 2.zip
 !new/upload/[Nipponsei] Kaichou wa Maid-sama! Maid Latte Songs!.zip
@@ -336,6 +371,8 @@
 !new/upload/[ReDone] Koihime Musou - OVA (DVD 720x480 H264 AC3) [FB61BD44].mkv
 !new/upload/[ReDone] Touka Gettan - 06 (DVD) [ACE5DC47].mkv
 !new/upload/[RyRo]_Inazuma_Eleven_-_97_(1280x720_x264_AAC)_[3670764F].mkv
+!new/upload/[Ryuumaru] Ichiban Ushiro no Daimaou - Special 2 [Blu-ray, 720p, AAC][EA6412DA].mkv
+!new/upload/[Ryuumaru] Sekirei ~Pure Engagement~ - 09 [720p][52ECD155].mkv
 !new/upload/[SD]_Tori_no_Uta_OVA_[E3C02CC9].mkv
 !new/upload/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 04 [Webrip][640x480 h.264 AAC][4EC96427].mkv
 !new/upload/[SHiN-gx] Working!! - 04 [DVD][720x480 AR h.264 AAC][12430851].mkv
@@ -646,11 +683,23 @@
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/upload/[TastyMelon] Black Lagoon OVA - Roberta's Blood Trail - 01v2 [BD][720p][30F851AF].mkv
 !new/upload/[Translatorgasm]_Eden_of_the_East_Movie_II_-_Paradise_Lost_[39b3205b].mkv
+!new/upload/[Yabai]_To_LOVE-Ru_-_12_[DVD][E88EDCB3].mkv
+!new/upload/[Yabai]_To_LOVE-Ru_ED_[DVD][8629235A].mkv
+!new/upload/[Yabai]_To_LOVE-Ru_ED_[DVD][Softsub][ED4D6663].mkv
+!new/upload/[Yabai]_To_LOVE-Ru_OP_[DVD][A9ADB3C1].mkv
+!new/upload/[Yabai]_To_LOVE-Ru_OP_[DVD][Softsub][876BE74A].mkv
+!new/upload/[Yabai]_To_LOVE-Ru_Set_Softsub_OP-ED_as_Default.rar
 !new/upload/[gg]_HIGHSCHOOL_OF_THE_DEAD_-_09_[3A25004C].mkv
+!new/upload/[iSiscon]_Hashimoto_Miyuki_-_TV_Anime_Shukufuku_no_Campanella_ED_Single_-_Mirai_Kaikisen_(FLAC).rar
+!new/upload/[iSiscon]_KOTOKO_-_Prism_Magical_PRISM_Gerenations!_Climax_Opening_Theme_-_Gensou_no_Houseki_(FLAC).rar
+!new/upload/[iSiscon]_Rita_-_Blueberry&Yogurt_-_Meaning_(Extra).rar
+!new/upload/[kk]_K-On!!_-_22_[54DAEE7C].mkv
 !new/upload/[uguu~]_AIR_01v3_(BD-720p)_[9BC179D6].mkv
 !new/upload/[uguu~]_AIR_02v2_(BD-720p)_[BBD55736].mkv
 !new/upload/[uguu~]_AIR_03v3_(BD-720p)_[0BF71849].mkv
 !new/upload/[uguu~]_AIR_04v3_(BD-720p)_[237080D3].mkv
+!new/upload/[umai]_Major_S6_-_21_[2FD6E0EF].mkv
+!new/upload/[yibis]_One_Piece_464_[720p][564039B9].mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -751,24 +800,6 @@
 !new/upload/bla/zx.black.heaven.12.sub.rar
 !new/upload/bla/zx.black.heaven.13.dub.avi
 !new/upload/bla/zx.black.heaven.13.sub.rar
-!new/upload/cor.extras.magikano.vol1.clean.closing.[99CDF2E7].mkv
-!new/upload/cor.extras.magikano.vol1.clean.opening.[E78A2614].mkv
-!new/upload/cor.extras.magikano.vol2.clean.closing.[8E1C1487].mkv
-!new/upload/cor.extras.magikano.vol3.clean.closing.[E0D10D12].mkv
-!new/upload/cor.extras.magikano.vol3.clean.opening.[F0E3DCF4].mkv
-!new/upload/cor.tv.magikano.01.[7A4741C1].mkv
-!new/upload/cor.tv.magikano.02.[356FB503].mkv
-!new/upload/cor.tv.magikano.03.[229A14A4].mkv
-!new/upload/cor.tv.magikano.04.[5E09E9CB].mkv
-!new/upload/cor.tv.magikano.05.[E8DB6C54].mkv
-!new/upload/cor.tv.magikano.06.[C2D4B3AC].mkv
-!new/upload/cor.tv.magikano.07.[893ADF61].mkv
-!new/upload/cor.tv.magikano.08.[B511B699].mkv
-!new/upload/cor.tv.magikano.09.[F0A4B2CC].mkv
-!new/upload/cor.tv.magikano.10.[B96794D2].mkv
-!new/upload/cor.tv.magikano.11.[B77368F8].mkv
-!new/upload/cor.tv.magikano.12.[D5C84B25].mkv
-!new/upload/cor.tv.magikano.13.[4A5D6FD7].mkv
 !new/upload/ghost_in_the_shell[1856x1008.h264.flac.ac3][niizk].mkv
 !new/upload/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/upload/lama/[Ayako] Wei� Survive R - 01 - H264 - E975A989.mkv
