@@ -241,6 +241,8 @@
 !new/upload/[EAC] [100813(C78)] [MOONSTONE] Cy-Rim Project - Angel Ring ～繋げようよ 恋のリング～ (tak+InternalCue+bmp rr5).rar
 !new/upload/[EAC] [DVDISO] [100728] (シングル) TVアニメ あそびにいくヨ！ OP 「Now loading...SKY!!」 ／ スフィア(寿美菜子・高垣彩陽・戸松遥・豊崎愛生) (iso+mds).rar
 !new/upload/[HnG-Otoko] Sakigake!! Otokojuku 14 (DVD) [7FE3551A].mkv
+!new/upload/[HorribleSubs] Strike Witches 2 - 09 [720p].mkv
+!new/upload/[KiteSeekers-PFSubs] Shin Koihime Musou - Live Revolution [BD 1080p H264 AAC] [A457A2C6].mkv
 !new/upload/[Movie-1986]_Touch_2__Sayonara_no_Okurimono/Touch_2__Sayonara_no_Okurimono_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][C6396C54].avi
 !new/upload/[Movie-1986]_Touch__Sebangou_no_Nai_Ace/Touch__Sebangou_no_Nai_Ace_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][83A7DB30].avi
 !new/upload/[Movie-1987]_Touch_3__Kimi_ga_Toorisugita_Ato_ni_-_Don_t_Pass_Me_By/Touch_3__Kimi_ga_Toorisugita_Ato_ni_-_Don_t_Pass_Me_By_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][FBFB9072].avi
@@ -311,11 +313,14 @@
 !new/upload/[PHT-KAW]_Senkou_no_Night_Raid_10_[h264][CE2B5818].mkv
 !new/upload/[PHT-KAW]_Senkou_no_Night_Raid_11_[h264][8103561E].mkv
 !new/upload/[PHT-KAW]_Senkou_no_Night_Raid_12_[h264][72A5EC10].mkv
+!new/upload/[PHT-KAW]_Senkou_no_Night_Raid_12v2_[h264][11CAE898].mkv
 !new/upload/[PHT-KAW]_Senkou_no_Night_Raid_13_[h264][595CB3D3].mkv
+!new/upload/[PHT-KAW]_Senkou_no_Night_Raid_13v2_[h264][3A5DD193].mkv
 !new/upload/[ReDone] Koihime Musou - OVA (DVD 720x480 H264 AC3) [FB61BD44].mkv
 !new/upload/[ReDone] Touka Gettan - 06 (DVD) [ACE5DC47].mkv
 !new/upload/[SD]_Tori_no_Uta_OVA_[E3C02CC9].mkv
 !new/upload/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 04 [Webrip][4EC96427].mkv
+!new/upload/[TMD]_Saint_Seiya_-_006_[DVD-h264][D0D02063].mkv
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -620,6 +625,19 @@
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/upload/[TastyMelon] Black Lagoon OVA - Roberta's Blood Trail - 01v2 [BD][720p][30F851AF].mkv
 !new/upload/[Translatorgasm]_Eden_of_the_East_Movie_II_-_Paradise_Lost_[39b3205b].mkv
+!new/upload/[UTW]_Angel_Beats!_-_05_[BD][h264-1080p_FLAC][4EDEFA11].mkv
+!new/upload/[UTW]_Angel_Beats!_-_06_[BD][h264-1080p_FLAC][2A719EA1].mkv
+!new/upload/[gg]_ayakashi_Japanese_Classic_Horror_01_(h264)_[C13AD16E].mkv
+!new/upload/[gg]_ayakashi_Japanese_Classic_Horror_02v2_(h264)_[03053DF2].mkv
+!new/upload/[gg]_ayakashi_Japanese_Classic_Horror_03_(h264)_[8ED20747].mkv
+!new/upload/[gg]_ayakashi_Japanese_Classic_Horror_04_(h264)_[053DD050].mkv
+!new/upload/[gg]_ayakashi_Japanese_Classic_Horror_05_(h264)_[C4A8E74C].mkv
+!new/upload/[gg]_ayakashi_Japanese_Classic_Horror_06_(h264)_[BF68AA48].mkv
+!new/upload/[gg]_ayakashi_Japanese_Classic_Horror_07_(h264)_[A39F9967].mkv
+!new/upload/[gg]_ayakashi_Japanese_Classic_Horror_08_(h264)_[4D24F352].mkv
+!new/upload/[gg]_ayakashi_Japanese_Classic_Horror_09_(h264)_[68076AD4].mkv
+!new/upload/[gg]_ayakashi_Japanese_Classic_Horror_10_(h264)_[196845D8].mkv
+!new/upload/[gg]_ayakashi_Japanese_Classic_Horror_11_(h264)_[39F4D6BD].mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
