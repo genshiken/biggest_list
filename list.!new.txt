@@ -5,6 +5,7 @@
 !new/upload/Carol/[raw] Carol OVA.ass
 !new/upload/Carol/[raw] Carol OVA.avi
 !new/upload/CoreAVC_2.0_Professional_with_key.zip
+!new/upload/Detective Conan - 397 [Kienai][459CFEF5].mp4
 !new/upload/Detective Conan - 585 [DCTP][720p][B2886C56].mp4
 !new/upload/Hellsing Ultimate OVA 01 [DVDRip(HQ)_848x480][AAC_jpn-eng-fre-ger][Sub_fre-eng-ger-spa-dut].mkv
 !new/upload/Hellsing Ultimate OVA 02 [DVDRip(HQ)_848x480][AAC_jpn-eng-ger-fre][Sub_fre-eng-ger-spa-dut].mkv
@@ -628,6 +629,7 @@
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/upload/[TastyMelon] Black Lagoon OVA - Roberta's Blood Trail - 01v2 [BD][720p][30F851AF].mkv
 !new/upload/[Translatorgasm]_Eden_of_the_East_Movie_II_-_Paradise_Lost_[39b3205b].mkv
+!new/upload/[UTW]_Amagami_SS_-_10_[h264-720p][4692753B].mkv
 !new/upload/[UTW]_Angel_Beats!_-_05_[BD][h264-1080p_FLAC][4EDEFA11].mkv
 !new/upload/[UTW]_Angel_Beats!_-_06_[BD][h264-1080p_FLAC][2A719EA1].mkv
 !new/upload/[gg]_ayakashi_Japanese_Classic_Horror_01_(h264)_[C13AD16E].mkv
