@@ -257,6 +257,21 @@
 !new/upload/[CXC-iMangaScans]-MedakaBox_ch56.zip
 !new/upload/[CXC-iMangaScans]-MedakaBox_ch57.zip
 !new/upload/[Chihiro]_Zettai_Karen_Children_OVA_[h264][68EB97D6].mkv
+!new/upload/[Coalgirls]_Haibane_Renmei_01_(1280x720_Blu-Ray_FLAC)_[D845F906].mkv
+!new/upload/[Coalgirls]_Haibane_Renmei_02_(1280x720_Blu-Ray_FLAC)_[CEBC907D].mkv
+!new/upload/[Coalgirls]_Haibane_Renmei_03_(1280x720_Blu-Ray_FLAC)_[5EFFE80A].mkv
+!new/upload/[Coalgirls]_Haibane_Renmei_04_(1280x720_Blu-Ray_FLAC)_[85F742B0].mkv
+!new/upload/[Coalgirls]_Haibane_Renmei_05_(1280x720_Blu-Ray_FLAC)_[B5FF2998].mkv
+!new/upload/[Coalgirls]_Haibane_Renmei_06_(1280x720_Blu-Ray_FLAC)_[B428E56D].mkv
+!new/upload/[Coalgirls]_Haibane_Renmei_07_(1280x720_Blu-Ray_FLAC)_[C29731F4].mkv
+!new/upload/[Coalgirls]_Haibane_Renmei_08_(1280x720_Blu-Ray_FLAC)_[03616E78].mkv
+!new/upload/[Coalgirls]_Haibane_Renmei_09_(1280x720_Blu-Ray_FLAC)_[A0A1EC4D].mkv
+!new/upload/[Coalgirls]_Haibane_Renmei_10_(1280x720_Blu-Ray_FLAC)_[31FAB2D5].mkv
+!new/upload/[Coalgirls]_Haibane_Renmei_11_(1280x720_Blu-Ray_FLAC)_[B09D1D6C].mkv
+!new/upload/[Coalgirls]_Haibane_Renmei_12_(1280x720_Blu-Ray_FLAC)_[F5797D1F].mkv
+!new/upload/[Coalgirls]_Haibane_Renmei_13_(1280x720_Blu-Ray_FLAC)_[CFBDEB8F].mkv
+!new/upload/[Coalgirls]_Haibane_Renmei_ED_(1280x720_Blu-Ray_FLAC)_[53E637EC].mkv
+!new/upload/[Coalgirls]_Haibane_Renmei_OP_(1280x720_Blu-Ray_FLAC)_[D0A5ECC1].mkv
 !new/upload/[Coalgirls]_Kiss_x_Sis_07_(1280x720_Blu-Ray_FLAC)_[07F22D4C].mkv
 !new/upload/[Coalgirls]_Kiss_x_Sis_08_(1280x720_Blu-Ray_FLAC)_[34A77C23].mkv
 !new/upload/[Coalgirls]_Kiss_x_Sis_09_(1280x720_Blu-Ray_FLAC)_[65CC0E40].mkv
@@ -267,14 +282,17 @@
 !new/upload/[Commie] Kuroshitsuji II - 09 [1E06A900].mkv
 !new/upload/[Commie] Kuroshitsuji II - 10 [1DBB4324].mkv
 !new/upload/[Commie] Shukufuku no Campanella - 09 [2C7E6516].mkv
+!new/upload/[Commie] Shukufuku no Campanella - 10 [DE8BE86F].mkv
 !new/upload/[CureCom] Fresh Pretty Cure! - 08 [HD][F893BFB8].mkv
 !new/upload/[CureCom] Fresh Pretty Cure! - 09 [HD][BF90ECA9].mkv
+!new/upload/[DATS] Dark Cat - 01 [D5D2040E].mkv
 !new/upload/[DATS] Shibawanko's Japanese Spirit 03-04 [h264][71AD2201].mkv
 !new/upload/[Doremi].Motto.Ojamajo.Doremi.29.[1C312622].avi
 !new/upload/[EAC] [100813(C78)] PrismRhythm -プリズムリズム- ED.VocalCollection -Belltina- (tak+InternalCue+files[CD-Extra]+bmp rr5).rar
 !new/upload/[EAC] [100813(C78)] [100827] [ゆずソフト] 「のーぶる☆わーくす」キャラクターソング vol.1 恋の爆弾 (tak+InternalCue+bmp rr5).rar
 !new/upload/[EAC] [100813(C78)] [MOONSTONE] Cy-Rim Project - Angel Ring ～繋げようよ 恋のリング～ (tak+InternalCue+bmp rr5).rar
 !new/upload/[EAC] [DVDISO] [100728] (シングル) TVアニメ あそびにいくヨ！ OP 「Now loading...SKY!!」 ／ スフィア(寿美菜子・高垣彩陽・戸松遥・豊崎愛生) (iso+mds).rar
+!new/upload/[Himatsubushi] Hyakka Ryouran Samurai Girls - 01 [H264][720p][PREAIRING][7985921E].mkv
 !new/upload/[HnG-Otoko] Sakigake!! Otokojuku 14 (DVD) [7FE3551A].mkv
 !new/upload/[HorribleSubs] HEROMAN - 23 [720p].mkv
 !new/upload/[HorribleSubs] Naruto Shippuuden - 176 [720p].mkv
@@ -301,6 +319,7 @@
 !new/upload/[Movie-2002]_Inuyasha__Kagami_no_Naka_no_Mugenjou/Inuyasha__Kagami_no_Naka_no_Mugenjou_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][5BE86486].mkv
 !new/upload/[Movie-2003]_Inuyasha_-_Tenka_Hadou_no_Ken/Inuyasha_-_Tenka_Hadou_no_Ken_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][729CFBDD].mkv
 !new/upload/[Movie-2004]_Inuyasha__Guren_no_Houraijima/Inuyasha__Guren_no_Houraijima_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][ED7FAAFB].mkv
+!new/upload/[NipponSex]_(27.08.2010)_Suzukaze_no_Melt_Original_Vocal_Maxi_Single_[Various]_(320k).rar
 !new/upload/[OVA-1989]_Kimagure_Orange_Road__Hawaiian_Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/upload/[OVA-1989]_Kimagure_Orange_Road__Shiroi_Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/upload/[OVA-1991]_Kimagure_Orange_Road__Omoi_Gakenai_Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -358,6 +377,7 @@
 !new/upload/[ReDone] Koihime Musou - OVA (DVD 720x480 H264 AC3) [FB61BD44].mkv
 !new/upload/[ReDone] Touka Gettan - 06 (DVD) [ACE5DC47].mkv
 !new/upload/[SD]_Tori_no_Uta_OVA_[E3C02CC9].mkv
+!new/upload/[SHiN-gx] Kuttsukiboshi - 01 [DVD][720x480 AR h.264 AC3][630B6F83].mkv
 !new/upload/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 04 [Webrip][4EC96427].mkv
 !new/upload/[Shimeji] Queen's Blade OVA - 01 [BD] [84A31B1C].mkv
 !new/upload/[TMD]_Saint_Seiya_-_006_[DVD-h264][D0D02063].mkv
@@ -668,6 +688,7 @@
 !new/upload/[UTW]_Amagami_SS_-_10_[h264-720p][4692753B].mkv
 !new/upload/[UTW]_Angel_Beats!_-_05_[BD][h264-1080p_FLAC][4EDEFA11].mkv
 !new/upload/[UTW]_Angel_Beats!_-_06_[BD][h264-1080p_FLAC][2A719EA1].mkv
+!new/upload/[Underwater] Strike Witches 2 - 09 [720p][7EC58935].mkv
 !new/upload/[gg]_ayakashi_Japanese_Classic_Horror_01_(h264)_[C13AD16E].mkv
 !new/upload/[gg]_ayakashi_Japanese_Classic_Horror_02v2_(h264)_[03053DF2].mkv
 !new/upload/[gg]_ayakashi_Japanese_Classic_Horror_03_(h264)_[8ED20747].mkv
