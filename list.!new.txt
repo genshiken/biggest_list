@@ -228,6 +228,7 @@
 !new/upload/[720p Remux] Hidamari Sketch Hoshimittsu 05 [BDrip x264 AAC] [DFC5A73A].mkv
 !new/upload/[720p Remux] Hidamari Sketch Hoshimittsu 06 [BDrip x264 AAC] [AAC6932F].mkv
 !new/upload/[Ayako]_G.A._Geijutsuka_Art_Design_Class_-_OVA_[704x400][H264][C120861F].mkv
+!new/upload/[Ayako]_Seitokai_Yakuindomo_-_10_[720p][H264][A21F5260].mkv
 !new/upload/[B-G]_XENOGLOSSIA_01.DVD[H.264_AAC]_[44E26B8E].mkv
 !new/upload/[B-G]_XENOGLOSSIA_02.DVD[H.264_AAC]_[2B841684].mkv
 !new/upload/[B-G]_XENOGLOSSIA_03.DVD[H.264_AAC]_[203EED2B].mkv
@@ -281,6 +282,7 @@
 !new/upload/[Commie] Eden of the East Movie II - Paradise Lost - OP [BD 1080p FLAC].mkv
 !new/upload/[Commie] Kuroshitsuji II - 09 [1E06A900].mkv
 !new/upload/[Commie] Kuroshitsuji II - 10 [1DBB4324].mkv
+!new/upload/[Commie] Nurarihyon no Mago - 08 [A2992893].mkv
 !new/upload/[Commie] Shukufuku no Campanella - 09 [2C7E6516].mkv
 !new/upload/[Commie] Shukufuku no Campanella - 10 [DE8BE86F].mkv
 !new/upload/[CureCom] Fresh Pretty Cure! - 08 [HD][F893BFB8].mkv
@@ -300,9 +302,12 @@
 !new/upload/[EAC] [DVDISO] [100728] (シングル) TVアニメ あそびにいくヨ！ OP 「Now loading...SKY!!」 ／ スフィア(寿美菜子・高垣彩陽・戸松遥・豊崎愛生) (iso+mds).rar
 !new/upload/[Himatsubushi] Hyakka Ryouran Samurai Girls - 01 [H264][720p][PREAIRING][7985921E].mkv
 !new/upload/[HnG-Otoko] Sakigake!! Otokojuku 14 (DVD) [7FE3551A].mkv
+!new/upload/[HorribleSubs] Giant Killing - 23 [720p].mkv
 !new/upload/[HorribleSubs] HEROMAN - 23 [720p].mkv
+!new/upload/[HorribleSubs] Mitsudomoe - 10 [480p].mkv
 !new/upload/[HorribleSubs] Naruto Shippuuden - 176 [720p].mkv
 !new/upload/[HorribleSubs] Strike Witches 2 - 09 [720p].mkv
+!new/upload/[HorribleSubs] Uraboku - 22 [480p].mkv
 !new/upload/[HorribleSubs] Yumeiro Patissiere - 47 [720p].mkv
 !new/upload/[KiteSeekers-PFSubs] Shin Koihime Musou - Live Revolution [BD 1080p H264 AAC] [A457A2C6].mkv
 !new/upload/[Mazui]_Ookami-san_-_10_[FC2054F8].mkv
@@ -327,6 +332,7 @@
 !new/upload/[Movie-2003]_Inuyasha_-_Tenka_Hadou_no_Ken/Inuyasha_-_Tenka_Hadou_no_Ken_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][729CFBDD].mkv
 !new/upload/[Movie-2004]_Inuyasha__Guren_no_Houraijima/Inuyasha__Guren_no_Houraijima_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][ED7FAAFB].mkv
 !new/upload/[NipponSex]_(27.08.2010)_Suzukaze_no_Melt_Original_Vocal_Maxi_Single_[Various]_(320k).rar
+!new/upload/[OD-WPP]_Digimon_Xros_Wars_-_09_[720p]_[554BED00].mkv
 !new/upload/[OVA-1989]_Kimagure_Orange_Road__Hawaiian_Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/upload/[OVA-1989]_Kimagure_Orange_Road__Shiroi_Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/upload/[OVA-1991]_Kimagure_Orange_Road__Omoi_Gakenai_Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -387,6 +393,7 @@
 !new/upload/[SD]_Tori_no_Uta_OVA_[E3C02CC9].mkv
 !new/upload/[SHiN-gx] Kuttsukiboshi - 01 [DVD][720x480 AR h.264 AC3][630B6F83].mkv
 !new/upload/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 04 [Webrip][4EC96427].mkv
+!new/upload/[SHiN-gx] Working!! - 07 [DVD][720x480 AR h.264 AAC][8F951620].mkv
 !new/upload/[Shimeji] Queen's Blade OVA - 01 [BD] [84A31B1C].mkv
 !new/upload/[TMD]_Saint_Seiya_-_006_[DVD-h264][D0D02063].mkv
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
