@@ -287,10 +287,13 @@
 !new/upload/[CureCom] Fresh Pretty Cure! - 09 [HD][BF90ECA9].mkv
 !new/upload/[DATS] Dark Cat - 01 [D5D2040E].mkv
 !new/upload/[DATS] Dark Cat - 02 [4F364972].mkv
+!new/upload/[DATS] Hipira-kun - 05 [h264][C175B164].mkv
 !new/upload/[DATS] Shibawanko's Japanese Spirit 03-04 [h264][71AD2201].mkv
 !new/upload/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_05_[8a591219].avi
 !new/upload/[DB]_Ninku_06_[CE635DAC].avi
 !new/upload/[Doremi].Motto.Ojamajo.Doremi.29.[1C312622].avi
+!new/upload/[Doutei]Golgo 13 - 40[DVD][D36A65E5].mkv
+!new/upload/[Doutei]Golgo 13 - 41[DVD][628BDA68].mkv
 !new/upload/[EAC] [100813(C78)] PrismRhythm -プリズムリズム- ED.VocalCollection -Belltina- (tak+InternalCue+files[CD-Extra]+bmp rr5).rar
 !new/upload/[EAC] [100813(C78)] [100827] [ゆずソフト] 「のーぶる☆わーくす」キャラクターソング vol.1 恋の爆弾 (tak+InternalCue+bmp rr5).rar
 !new/upload/[EAC] [100813(C78)] [MOONSTONE] Cy-Rim Project - Angel Ring ～繋げようよ 恋のリング～ (tak+InternalCue+bmp rr5).rar
@@ -716,6 +719,7 @@
 !new/upload/[mudabone] Hidamari Sketch Hoshimittsu 10 [BD 720p H264-AAC] [AB5E0FCC].mkv
 !new/upload/[mudabone] Hidamari Sketch Hoshimittsu 11 [BD 720p H264-AAC] [30DC605D].mkv
 !new/upload/[mudabone] Hidamari Sketch Hoshimittsu 12 [BD 720p H264-AAC] [C0D435B4].mkv
+!new/upload/[yibis]_One_Piece_Movie_9_[720p][780350D8].mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
