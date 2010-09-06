@@ -311,6 +311,7 @@
 !new/upload/[HorribleSubs] Strike Witches 2 - 09 [720p].mkv
 !new/upload/[HorribleSubs] Uraboku - 22 [480p].mkv
 !new/upload/[HorribleSubs] Yumeiro Patissiere - 47 [720p].mkv
+!new/upload/[INP]_One_Piece_-_Strong_World[H264_1920x1080][116926DE].mkv
 !new/upload/[KiteSeekers-PFSubs] Shin Koihime Musou - Live Revolution [BD 1080p H264 AAC] [A457A2C6].mkv
 !new/upload/[Mazui]_Ookami-san_-_10_[FC2054F8].mkv
 !new/upload/[Movie-1986]_Touch_2__Sayonara_no_Okurimono/Touch_2__Sayonara_no_Okurimono_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][C6396C54].avi
@@ -728,7 +729,6 @@
 !new/upload/[mudabone] Hidamari Sketch Hoshimittsu 10 [BD 720p H264-AAC] [AB5E0FCC].mkv
 !new/upload/[mudabone] Hidamari Sketch Hoshimittsu 11 [BD 720p H264-AAC] [30DC605D].mkv
 !new/upload/[mudabone] Hidamari Sketch Hoshimittsu 12 [BD 720p H264-AAC] [C0D435B4].mkv
-!new/upload/[yibis]_One_Piece_Movie_9_[720p][780350D8].mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
