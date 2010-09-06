@@ -1300,6 +1300,7 @@ music/[SHiN-gx_Genjo] Kannagi - Kannagi Character Karaoke CD - Nagi Uta [FLAC][1
 music/amusic/[amusic] Faylan - CANAAN OP Single - AROUSING SOUL [w scans] (FLAC).zip
 music/amusic/[amusic] Kalafina - Seventh Heaven (FLAC).zip
 music/iSiscon/[iSiscon]_ASa_Project_-_Atchi_Muite_Koi_Full_Soundtrack_[w_scans]_(FLAC).rar
+music/iSiscon/[iSiscon]_Acid_Black_Cherry_-_Another_Century's_Episode_R_Image_Song_-_Re-birth_[wo_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Ar_tonelico_3_Sekai_Shuen_no_Hikigane_wa_Shojo_no_Uta_ga_Hiku_-_Original_Soundtrack_(FLAC).rar
 music/iSiscon/[iSiscon]_Aso_Natsuko_-_Movement_of_magic_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Cy-Rim_Project_-_Angel_Ring_OP_ED_Single_-_AngelRing_~Tsunegeyouyo_Koi_no_RINGU~_[w_scans]_(FLAC).rar
@@ -1338,6 +1339,8 @@ music/iSiscon/[iSiscon]_Moonstone_-_Angel_Ring_Original_Soundtrack_[w_scans]_(FL
 music/iSiscon/[iSiscon]_NANA,_Hashimoto_Miyuki_-_Neko_Koi_Original_Vocal_Single_(FLAC).rar
 music/iSiscon/[iSiscon]_OToGi_8_-_Ookami-san_to_Shichinin_no_Nakama-Tachi_ED_Single_-_Akazukin-chan_Goyoujin_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Oukawa_Mio_-_Amatsu_Misora_ni!_Charactor_Song_Vol.1_Hitotsubashi_Kanna_(FLAC).rar
+music/iSiscon/[iSiscon]_Palette_-_Mashiro-iro_Symphony_Original_Drama_CD_Vol.1_-_Sena_Airi_[w_scans]_(FLAC).rar
+music/iSiscon/[iSiscon]_Palette_-_Mashiro-iro_Symphony_Original_Drama_CD_Vol.2_-_Uryuu_Sakuno_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Palette_-_Steal_My_Heart_~Rhapsody_of_moonlight~_Soundtrack_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Rita_-_Blueberry&Yogurt_-_Meaning_(Extra).rar
 music/iSiscon/[iSiscon]_Rita_-_Blueberry&Yogurt_-_Meaning_(FLAC).rar
@@ -1364,8 +1367,10 @@ music/iSiscon/[iSiscon]_Various_Artists_-_Barbarian_On_The_Groove_Works_[w_scans
 music/iSiscon/[iSiscon]_Various_Artists_-_GWAVE_2009_2nd_Ace_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Various_Artists_-_Hoshizora_no_Memoria_Eternal_Hearts_Vocal_Tracks_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Various_Artists_-_PrismRhythm_ED_Vocal_Collection_-Belltina-_[w_scans]_(FLAC).rar
+music/iSiscon/[iSiscon]_Various_Artists_-_Prism_Magical_PRISM_Gerenations!_Vocal_Collection_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Various_Artists_-_Sphere_Harukana_Sora_Character_Song_CD_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Various_Artists_-_THE_IDOLM@STER_Break!_Vol.3_[w_scans]_(FLAC).rar
+music/iSiscon/[iSiscon]_Vocaloid_-_VocaL@ntis_~Hatsune_Miku_ga_Lantis_no_Kami_Kyoku_wo_Utattemita~_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_WONDER_STRAWBERRY☆F_-_Zettai☆Daisuki_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Windows_7_Madobe_Nanami_-_Nanairo_Generator_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Yashima_Yadtsuki_(CV._Aoba_Ringo)_-_Ama_Ane_OP_Single_-_Anata_dake_no_ANSWER_[w_scans]_(FLAC).rar

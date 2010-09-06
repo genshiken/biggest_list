@@ -290,6 +290,10 @@
 !new/upload/[DATS] Dark Cat - 01 [D5D2040E].mkv
 !new/upload/[DATS] Dark Cat - 02 [4F364972].mkv
 !new/upload/[DATS] Hipira-kun - 05 [h264][C175B164].mkv
+!new/upload/[DATS] Hipira-kun - 07 [h264][6E14F209].mkv
+!new/upload/[DATS] Hipira-kun - 08 [h264][CB84416D].mkv
+!new/upload/[DATS] Hipira-kun - 09 [h264][7189C1EC].mkv
+!new/upload/[DATS] Hipira-kun - 10 [h264][60B43670].mkv
 !new/upload/[DATS] Shibawanko's Japanese Spirit 03-04 [h264][71AD2201].mkv
 !new/upload/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_05_[8a591219].avi
 !new/upload/[DB]_Ninku_06_[CE635DAC].avi
@@ -301,16 +305,9 @@
 !new/upload/[EAC] [100813(C78)] [MOONSTONE] Cy-Rim Project - Angel Ring ～繋げようよ 恋のリング～ (tak+InternalCue+bmp rr5).rar
 !new/upload/[EAC] [DVDISO] [100728] (シングル) TVアニメ あそびにいくヨ！ OP 「Now loading...SKY!!」 ／ スフィア(寿美菜子・高垣彩陽・戸松遥・豊崎愛生) (iso+mds).rar
 !new/upload/[FroZen]_RAINBOW_16_[2D36E456].mkv
+!new/upload/[Frostii_Live-eviL]_Winter_Sonata_-_23_[D0A404C3].mkv
 !new/upload/[Himatsubushi] Hyakka Ryouran Samurai Girls - 01 [H264][720p][PREAIRING][7985921E].mkv
 !new/upload/[HnG-Otoko] Sakigake!! Otokojuku 14 (DVD) [7FE3551A].mkv
-!new/upload/[HorribleSubs] Giant Killing - 23 [720p].mkv
-!new/upload/[HorribleSubs] HEROMAN - 23 [720p].mkv
-!new/upload/[HorribleSubs] Mitsudomoe - 10 [480p].mkv
-!new/upload/[HorribleSubs] Mitsudomoe - 10 [720p].mkv
-!new/upload/[HorribleSubs] Naruto Shippuuden - 176 [720p].mkv
-!new/upload/[HorribleSubs] Strike Witches 2 - 09 [720p].mkv
-!new/upload/[HorribleSubs] Uraboku - 22 [480p].mkv
-!new/upload/[HorribleSubs] Yumeiro Patissiere - 47 [720p].mkv
 !new/upload/[INP]_One_Piece_-_Strong_World[H264_1920x1080][116926DE].mkv
 !new/upload/[KiteSeekers-PFSubs] Shin Koihime Musou - Live Revolution [BD 1080p H264 AAC] [A457A2C6].mkv
 !new/upload/[Mazui]_Ookami-san_-_10_[FC2054F8].mkv
@@ -382,6 +379,7 @@
 !new/upload/[OVA-2008]_Saint_Seiya__Meiou_Hades_Elysion-hen/Saint_Seiya__Meiou_Hades_Elysion-hen_-_6[6]_-_To_the_World_where_Light_Overflows_[640x480][DVD][NankH-TMD][82AD6FEE]v2.mkv
 !new/upload/[OZC]Ghost in the Shell Stand Alone Complex - Solid State Society.mkv
 !new/upload/[OZC]Ghost in the Shell Stand Alone Complex - The Laughing Man.mkv
+!new/upload/[Over-Time]_Kamen_Rider_OOO_-_01_[81D8EA1A].mkv
 !new/upload/[PHT-KAW]_Senkou_no_Night_Raid_07_[h264][4BA920CB].mkv
 !new/upload/[PHT-KAW]_Senkou_no_Night_Raid_08_[h264][97DB40DC].mkv
 !new/upload/[PHT-KAW]_Senkou_no_Night_Raid_09_[h264][0B01E54E].mkv
@@ -393,12 +391,12 @@
 !new/upload/[PHT-KAW]_Senkou_no_Night_Raid_13v2_[h264][3A5DD193].mkv
 !new/upload/[ReDone] Koihime Musou - OVA (DVD 720x480 H264 AC3) [FB61BD44].mkv
 !new/upload/[ReDone] Touka Gettan - 06 (DVD) [ACE5DC47].mkv
+!new/upload/[RyRo]_Inazuma_Eleven_-_98_(1280x720_x264_AAC)_[BE4CC477].mkv
 !new/upload/[SD]_Tori_no_Uta_OVA_[E3C02CC9].mkv
 !new/upload/[SHiN-gx] Kuttsukiboshi - 01 [DVD][720x480 AR h.264 AC3][630B6F83].mkv
 !new/upload/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 04 [Webrip][4EC96427].mkv
 !new/upload/[SHiN-gx] Working!! - 07 [DVD][720x480 AR h.264 AAC][8F951620].mkv
 !new/upload/[Shimeji] Queen's Blade OVA - 01 [BD] [84A31B1C].mkv
-!new/upload/[TMD]_Saint_Seiya_-_006_[DVD-h264][D0D02063].mkv
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -702,33 +700,6 @@
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/upload/[TastyMelon] Black Lagoon OVA - Roberta's Blood Trail - 01v2 [BD][720p][30F851AF].mkv
-!new/upload/[Translatorgasm]_Eden_of_the_East_Movie_II_-_Paradise_Lost_[39b3205b].mkv
-!new/upload/[UTW]_Amagami_SS_-_10_[h264-720p][4692753B].mkv
-!new/upload/[UTW]_Angel_Beats!_-_05_[BD][h264-1080p_FLAC][4EDEFA11].mkv
-!new/upload/[UTW]_Angel_Beats!_-_06_[BD][h264-1080p_FLAC][2A719EA1].mkv
-!new/upload/[Underwater] Strike Witches 2 - 09 [720p][7EC58935].mkv
-!new/upload/[gg]_ayakashi_Japanese_Classic_Horror_01_(h264)_[C13AD16E].mkv
-!new/upload/[gg]_ayakashi_Japanese_Classic_Horror_02v2_(h264)_[03053DF2].mkv
-!new/upload/[gg]_ayakashi_Japanese_Classic_Horror_03_(h264)_[8ED20747].mkv
-!new/upload/[gg]_ayakashi_Japanese_Classic_Horror_04_(h264)_[053DD050].mkv
-!new/upload/[gg]_ayakashi_Japanese_Classic_Horror_05_(h264)_[C4A8E74C].mkv
-!new/upload/[gg]_ayakashi_Japanese_Classic_Horror_06_(h264)_[BF68AA48].mkv
-!new/upload/[gg]_ayakashi_Japanese_Classic_Horror_07_(h264)_[A39F9967].mkv
-!new/upload/[gg]_ayakashi_Japanese_Classic_Horror_08_(h264)_[4D24F352].mkv
-!new/upload/[gg]_ayakashi_Japanese_Classic_Horror_09_(h264)_[68076AD4].mkv
-!new/upload/[gg]_ayakashi_Japanese_Classic_Horror_10_(h264)_[196845D8].mkv
-!new/upload/[gg]_ayakashi_Japanese_Classic_Horror_11_(h264)_[39F4D6BD].mkv
-!new/upload/[iSiscon]_Acid_Black_Cherry_-_Another_Century's_Episode_R_Image_Song_-_Re-birth_[wo_scans]_(FLAC).rar
-!new/upload/[iSiscon]_Palette_-_Mashiro-iro_Symphony_Original_Drama_CD_Vol.1_-_Sena_Airi_[w_scans]_(FLAC).rar
-!new/upload/[iSiscon]_Palette_-_Mashiro-iro_Symphony_Original_Drama_CD_Vol.2_-_Uryuu_Sakuno_[w_scans]_(FLAC).rar
-!new/upload/[iSiscon]_Various_Artists_-_Prism_Magical_PRISM_Gerenations!_Vocal_Collection_[w_scans]_(FLAC).rar
-!new/upload/[iSiscon]_Vocaloid_-_VocaL@ntis_~Hatsune_Miku_ga_Lantis_no_Kami_Kyoku_wo_Utattemita~_[w_scans]_(FLAC).rar
-!new/upload/[mudabone] Hidamari Sketch Hoshimittsu 07 [BD 720p H264-AAC] [97C8447F].mkv
-!new/upload/[mudabone] Hidamari Sketch Hoshimittsu 08v2 [BD 720p H264-AAC] [B4353212].mkv
-!new/upload/[mudabone] Hidamari Sketch Hoshimittsu 09 [BD 720p H264-AAC] [A21233F3].mkv
-!new/upload/[mudabone] Hidamari Sketch Hoshimittsu 10 [BD 720p H264-AAC] [AB5E0FCC].mkv
-!new/upload/[mudabone] Hidamari Sketch Hoshimittsu 11 [BD 720p H264-AAC] [30DC605D].mkv
-!new/upload/[mudabone] Hidamari Sketch Hoshimittsu 12 [BD 720p H264-AAC] [C0D435B4].mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx

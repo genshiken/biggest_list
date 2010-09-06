@@ -391,8 +391,6 @@ complete/a/Amatsuki/[Ureshii] Amatsuki - 11 [B0E19FB4].mkv
 complete/a/Amatsuki/[Ureshii] Amatsuki - 12 [C941FD0A].mkv
 complete/a/Amatsuki/[Ureshii] Amatsuki - 13 [End][33949FB4].mkv
 complete/a/Angel Beats! - Special/[Tortoise-Commie] Angel Beats! - Special [A423213C].mkv
-complete/a/Angel Beats!/[SS] Angel Beats! - 05 (1280x720) [9DF68ACB].mkv
-complete/a/Angel Beats!/[SS] Angel Beats! - 06 (1280x720) [A01DDBD8].mkv
 complete/a/Angel Beats!/[SS] Angel Beats! - 07 (1280x720) [AF6C20D3].mkv
 complete/a/Angel Beats!/[SS] Angel Beats! - 08 (1280x720) [57D2BEA8].mkv
 complete/a/Angel Beats!/[SS] Angel Beats! - 09 (1280x720) [882C4613].mkv
@@ -404,6 +402,8 @@ complete/a/Angel Beats!/[UTW] Angel Beats! - 01 (1920x1080) [BD][6B6D6A0A].mkv
 complete/a/Angel Beats!/[UTW] Angel Beats! - 02 (1920x1080) [BD][581C8EA8].mkv
 complete/a/Angel Beats!/[UTW] Angel Beats! - 03 (1920x1080) [BD][97725AE3].mkv
 complete/a/Angel Beats!/[UTW] Angel Beats! - 04 (1920x1080) [BD][B6F8DE24].mkv
+complete/a/Angel Beats!/[UTW] Angel Beats! - 05 (1920x1080) [BD][4EDEFA11].mkv
+complete/a/Angel Beats!/[UTW] Angel Beats! - 06 (1920x1080) [BD][2A719EA1].mkv
 complete/a/Angelique - Kagayaki no Ashita OVA/[SMS] Angelique - Kagayaki no Ashita - OVA [761AC663].mkv
 complete/a/Ani-Kuri 15/[Doremi] Ani-Kuri 15 (1920x1080) [1D80604C].mkv
 complete/a/Antique Bakery/[gg] Antique Bakery - 01 [7533E2C5].mkv
@@ -606,6 +606,17 @@ complete/a/Asura Cryin'/[Commie] Asura Cryin' - Opening 2 (Clean) [v2][B2C882D3]
 complete/a/Asura Cryin'/[Commie] Asura Cryin' - Opening 2 (Karaoke) [C90F560A].mkv
 complete/a/Asura Cryin'/[Commie] Asura Cryin' - Opening 3 (Clean) [4E382139].mkv
 complete/a/Asura Cryin'/[Commie] Asura Cryin' - Opening 3 (Karaoke) [6DBB7EF9].mkv
+complete/a/Ayakashi - Japanese Classic Horror/[gg] Ayakashi - Japanese Classic Horror - 01 [C13AD16E].mkv
+complete/a/Ayakashi - Japanese Classic Horror/[gg] Ayakashi - Japanese Classic Horror - 02 [v2][03053DF2].mkv
+complete/a/Ayakashi - Japanese Classic Horror/[gg] Ayakashi - Japanese Classic Horror - 03 [8ED20747].mkv
+complete/a/Ayakashi - Japanese Classic Horror/[gg] Ayakashi - Japanese Classic Horror - 04 [053DD050].mkv
+complete/a/Ayakashi - Japanese Classic Horror/[gg] Ayakashi - Japanese Classic Horror - 05 [C4A8E74C].mkv
+complete/a/Ayakashi - Japanese Classic Horror/[gg] Ayakashi - Japanese Classic Horror - 06 [BF68AA48].mkv
+complete/a/Ayakashi - Japanese Classic Horror/[gg] Ayakashi - Japanese Classic Horror - 07 [A39F9967].mkv
+complete/a/Ayakashi - Japanese Classic Horror/[gg] Ayakashi - Japanese Classic Horror - 08 [4D24F352].mkv
+complete/a/Ayakashi - Japanese Classic Horror/[gg] Ayakashi - Japanese Classic Horror - 09 [68076AD4].mkv
+complete/a/Ayakashi - Japanese Classic Horror/[gg] Ayakashi - Japanese Classic Horror - 10 [196845D8].mkv
+complete/a/Ayakashi - Japanese Classic Horror/[gg] Ayakashi - Japanese Classic Horror - 11 [End][39F4D6BD].mkv
 complete/a/Ayakashi/[Animanda] Ayakashi - 01 [v2][BE09A1E1].mkv
 complete/a/Ayakashi/[Animanda] Ayakashi - 02 [v2][36B5EDE3].mkv
 complete/a/Ayakashi/[Animanda] Ayakashi - 03 [CFCFC92A].mkv
@@ -4651,6 +4662,12 @@ complete/h/Hidamari Sketch Hoshi Mittsu/[Tortoise] Hidamari Sketch Hoshi Mittsu 
 complete/h/Hidamari Sketch Hoshi Mittsu/[Tortoise] Hidamari Sketch Hoshi Mittsu - 02 (1920x1080) [BD][386246B9].mkv
 complete/h/Hidamari Sketch Hoshi Mittsu/[Tortoise] Hidamari Sketch Hoshi Mittsu - 03 (1920x1080) [BD][3CE57687].mkv
 complete/h/Hidamari Sketch Hoshi Mittsu/[Tortoise] Hidamari Sketch Hoshi Mittsu - 04 (1920x1080) [BD][B427EFDE].mkv
+complete/h/Hidamari Sketch Hoshi Mittsu/[mudabone] Hidamari Sketch Hoshi Mittsu - 07 (1280x720) [BD][97C8447F].mkv
+complete/h/Hidamari Sketch Hoshi Mittsu/[mudabone] Hidamari Sketch Hoshi Mittsu - 08 (1280x720) [BD][v2][B4353212].mkv
+complete/h/Hidamari Sketch Hoshi Mittsu/[mudabone] Hidamari Sketch Hoshi Mittsu - 09 (1280x720) [BD][A21233F3].mkv
+complete/h/Hidamari Sketch Hoshi Mittsu/[mudabone] Hidamari Sketch Hoshi Mittsu - 10 (1280x720) [BD][AB5E0FCC].mkv
+complete/h/Hidamari Sketch Hoshi Mittsu/[mudabone] Hidamari Sketch Hoshi Mittsu - 11 (1280x720) [BD][30DC605D].mkv
+complete/h/Hidamari Sketch Hoshi Mittsu/[mudabone] Hidamari Sketch Hoshi Mittsu - 12 (1280x720) [End][BD][C0D435B4].mkv
 complete/h/Hidamari Sketch Special/[SpoonSubs] Hidamari Sketch - Special 1 [8EC053A1].mkv
 complete/h/Hidamari Sketch Special/[SpoonSubs] Hidamari Sketch - Special 2 [End][1DFE384A].mkv
 complete/h/Hidamari Sketch x365 Special/[Nutbladder] Hidamari Sketch x365 - SP 1 [DVD][246C3958].mkv
