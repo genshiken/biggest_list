@@ -5,6 +5,7 @@
 !new/upload/Carol/[raw] Carol OVA.ass
 !new/upload/Carol/[raw] Carol OVA.avi
 !new/upload/CoreAVC_2.0_Professional_with_key.zip
+!new/upload/Deadman_Wonderland_c37.zip
 !new/upload/Detective Conan - 397 [Kienai][459CFEF5].mp4
 !new/upload/Detective Conan - 585 [DCTP][720p][B2886C56].mp4
 !new/upload/Hellsing Ultimate OVA 01 [DVDRip(HQ)_848x480][AAC_jpn-eng-fre-ger][Sub_fre-eng-ger-spa-dut].mkv
@@ -201,6 +202,7 @@
 !new/upload/[720p Remux] Hidamari Sketch Hoshimittsu 04 [BDrip x264 AAC] [ECD8F86D].mkv
 !new/upload/[720p Remux] Hidamari Sketch Hoshimittsu 05 [BDrip x264 AAC] [DFC5A73A].mkv
 !new/upload/[720p Remux] Hidamari Sketch Hoshimittsu 06 [BDrip x264 AAC] [AAC6932F].mkv
+!new/upload/[AQS]_Love_Hina-Colour_Special_Celebrating_Negima_chapter_300.zip
 !new/upload/[Ayako]_G.A._Geijutsuka_Art_Design_Class_-_OVA_[704x400][H264][C120861F].mkv
 !new/upload/[Ayako]_Seitokai_Yakuindomo_-_10_[720p][H264][A21F5260].mkv
 !new/upload/[CXC-iMangaScans]-MedakaBox_ch56.zip
@@ -258,8 +260,10 @@
 !new/upload/[Himatsubushi] Hyakka Ryouran Samurai Girls - 01 [H264][720p][PREAIRING][7985921E].mkv
 !new/upload/[HnG-Otoko] Sakigake!! Otokojuku 14 (DVD) [7FE3551A].mkv
 !new/upload/[HorribleSubs] Fairy Tail - 45 [720p].mkv
+!new/upload/[HorribleSubs] Occult Academy - 10 [720p].mkv
 !new/upload/[INP]_One_Piece_-_Strong_World[H264_1920x1080][116926DE].mkv
 !new/upload/[KiteSeekers-PFSubs] Shin Koihime Musou - Live Revolution [BD 1080p H264 AAC] [A457A2C6].mkv
+!new/upload/[Mamiko]_Tamayura_OVA_01_Early_Broadcast_[720p]_[55891B1A].mkv
 !new/upload/[Movie-1986]_Touch_2__Sayonara_no_Okurimono/Touch_2__Sayonara_no_Okurimono_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][C6396C54].avi
 !new/upload/[Movie-1986]_Touch__Sebangou_no_Nai_Ace/Touch__Sebangou_no_Nai_Ace_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][83A7DB30].avi
 !new/upload/[Movie-1987]_Touch_3__Kimi_ga_Toorisugita_Ato_ni_-_Don_t_Pass_Me_By/Touch_3__Kimi_ga_Toorisugita_Ato_ni_-_Don_t_Pass_Me_By_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][FBFB9072].avi
@@ -331,11 +335,15 @@
 !new/upload/[OZC]Ghost in the Shell Stand Alone Complex 2nd GIG - Individual Eleven.mkv
 !new/upload/[ReDone] Koihime Musou - OVA (DVD 720x480 H264 AC3) [FB61BD44].mkv
 !new/upload/[ReDone] Touka Gettan - 06 (DVD) [ACE5DC47].mkv
+!new/upload/[Ryuumaru] Seitokai Yakuindomo - 10 [1024x576][5CBF6EAE].mkv
 !new/upload/[SD]_Tori_no_Uta_OVA_[E3C02CC9].mkv
 !new/upload/[SHiN-gx] Kuttsukiboshi - 01 [DVD][720x480 AR h.264 AC3][630B6F83].mkv
 !new/upload/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 04 [Webrip][4EC96427].mkv
 !new/upload/[SHiN-gx] Working!! - 07 [DVD][720x480 AR h.264 AAC][8F951620].mkv
+!new/upload/[Saizen]_Igano_Kabamaru_-_01_[5F1FCE3C].mkv
+!new/upload/[Saizen]_Igano_Kabamaru_-_02_[CD5565DA].mkv
 !new/upload/[Shimeji] Queen's Blade OVA - 01 [BD] [84A31B1C].mkv
+!new/upload/[TMD]_Saint_Seiya_-_007_[DVD-h264][20214AB4].mkv
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -639,6 +647,7 @@
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/upload/[TastyMelon] Black Lagoon OVA - Roberta's Blood Trail - 01v2 [BD][720p][30F851AF].mkv
+!new/upload/[gg]_HIGHSCHOOL_OF_THE_DEAD_-_10v2_[F927D4A2].mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
