@@ -49,8 +49,16 @@
 !new/upload/-ian87-/Arashi - LOVE RAINBOW [DVDISO].iso.000
 !new/upload/-ian87-/Arashi - LOVE RAINBOW [DVDISO].iso.001
 !new/upload/-ian87-/Arashi - LOVE RAINBOW [DVDISO].iso.002
+!new/upload/-ian87-/COV-079.avix
+!new/upload/-ian87-/EVDV-53116.wmv.000
+!new/upload/-ian87-/EVDV-53116.wmv.001
 !new/upload/-ian87-/Elephant Kashimashi - ashita he no kioku.avix
 !new/upload/-ian87-/Erina Mano - Kitty Paradise (Pakupaku Pak kukku) 20100907.ts
+!new/upload/-ian87-/Every Little Thing Concert tour 2009~2010 MEET Disc1.iso.000
+!new/upload/-ian87-/Every Little Thing Concert tour 2009~2010 MEET Disc1.iso.001
+!new/upload/-ian87-/Every Little Thing Concert tour 2009~2010 MEET Disc1.iso.002
+!new/upload/-ian87-/Every Little Thing Concert tour 2009~2010 MEET Disc1.iso.003
+!new/upload/-ian87-/Every Little Thing Concert tour 2009~2010 MEET Disc1.iso.004
 !new/upload/-ian87-/French Kiss - Zutto Mae Kara Drama.mp4
 !new/upload/-ian87-/Girls' Generation - GENIE (Dance Ver.).avi
 !new/upload/-ian87-/Hanah - alone in my room (DVD rip PV).avix
@@ -60,7 +68,10 @@
 !new/upload/-ian87-/Hotaru no Hikari2 ep10[1920x1080p H.264 AAC].mkv.000
 !new/upload/-ian87-/Hotaru no Hikari2 ep10[1920x1080p H.264 AAC].mkv.001
 !new/upload/-ian87-/ISSA x SoulJa - Breathe (PV).avix
+!new/upload/-ian87-/Kasoken no Onna 2010 ep07 (960x540 x264) JPN SUB.mkv
+!new/upload/-ian87-/Kasoken no Onna 2010 ep08 (960x540 x264) JPN SUB.mkv
 !new/upload/-ian87-/Katsura Chizuru Shinsatsu Nichiroku ep01 (1280x720 x264).mp4
+!new/upload/-ian87-/MAX - Donna Toki mo (PV).avix
 !new/upload/-ian87-/MAY'S - hoshi no kazu dake dakishimete (Movie Ver.).avix
 !new/upload/-ian87-/Mari Yaguchi - How to Monkey Baby 20100908.mp4
 !new/upload/-ian87-/Music Japan - 2010.09.05.mp4
@@ -72,6 +83,7 @@
 !new/upload/-ian87-/Smileage - Sakigake! Ongaku Banzuke Eight 100908.mpq
 !new/upload/-ian87-/Solanin.avi.000
 !new/upload/-ian87-/Solanin.avi.001
+!new/upload/-ian87-/The Gospellers - Ai no Shooting Star (PV).avix
 !new/upload/-ian87-/Yui Aragaki - [PV] Hana Mizuki (1440x1080 MPEG2 M-ON!).mpg
 !new/upload/-ian87-/Yukirin's weather forecast (100907 Hiruobi!).avi
 !new/upload/-ian87-/Yukirin's weather forecast (100908 Hiruobi!).avix
@@ -430,6 +442,7 @@
 !new/upload/[AQS]_Love_Hina-Colour_Special_Celebrating_Negima_chapter_300.zip
 !new/upload/[Animanda]_Senkou_no_Night_Raid_-_08_[4658BE3A].mkv
 !new/upload/[Animanda]_Senkou_no_Night_Raid_-_09_[437EDA40].mkv
+!new/upload/[Animanda]_Senkou_no_Night_Raid_-_10_[D1B136BA].mkv
 !new/upload/[Ayako-SubDESU]_Asobi_ni_Iku_Yo!_-_09_[720p][H264][261F0BB9].mkv
 !new/upload/[Ayako]_G.A._Geijutsuka_Art_Design_Class_-_OVA_[704x400][H264][C120861F].mkv
 !new/upload/[Ayako]_Seitokai_Yakuindomo_-_10_[720p][H264][A21F5260].mkv
@@ -494,6 +507,7 @@
 !new/upload/[EAC] [100813(C78)] [100827] [ゆずソフト] 「のーぶる☆わーくす」キャラクターソング vol.1 恋の爆弾 (tak+InternalCue+bmp rr5).rar
 !new/upload/[EAC] [100813(C78)] [MOONSTONE] Cy-Rim Project - Angel Ring ～繋げようよ 恋のリング～ (tak+InternalCue+bmp rr5).rar
 !new/upload/[EAC] [DVDISO] [100728] (シングル) TVアニメ あそびにいくヨ！ OP 「Now loading...SKY!!」 ／ スフィア(寿美菜子・高垣彩陽・戸松遥・豊崎愛生) (iso+mds).rar
+!new/upload/[Eclipse] Kaichou wa Maid-sama - 21 (1280x720 h264) [29D4F4BF].mkv
 !new/upload/[FroZen]_RAINBOW_16_[2D36E456].mkv
 !new/upload/[Frostii]_K-On!!_-_22_[4F1A5C83].mkv
 !new/upload/[Frostii_Live-eviL]_Winter_Sonata_-_23_[D0A404C3].mkv
@@ -504,6 +518,7 @@
 !new/upload/[HorribleSubs] Fairy Tail - 45 [720p].mkv
 !new/upload/[HorribleSubs] HEROMAN - 24 [720p].mkv
 !new/upload/[HorribleSubs] Naruto Shippuuden - 177 [720p].mkv
+!new/upload/[HorribleSubs] Naruto Shippuuden - 177v2 [720p].mkv
 !new/upload/[HorribleSubs] Occult Academy - 10 [720p].mkv
 !new/upload/[HorribleSubs] Strike Witches 2 - 10 [720p].mkv
 !new/upload/[INP]_One_Piece_-_Strong_World[H264_1920x1080][116926DE].mkv
@@ -625,7 +640,6 @@
 !new/upload/[Shinsen-Subs]_Bakumatsu_Kikansetsu_Irohanihoheto_-_24_[B792F07D].avi
 !new/upload/[Shinsen-Subs]_Bakumatsu_Kikansetsu_Irohanihoheto_-_25_[5527F587].avi
 !new/upload/[Shinsen-Subs]_Bakumatsu_Kikansetsu_Irohanihoheto_-_26_[F095C4F5][FINAL].avi
-!new/upload/[TMD]_Saint_Seiya_-_007_[DVD-h264][20214AB4].mkv
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -929,11 +943,7 @@
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/upload/[TastyMelon] Black Lagoon OVA - Roberta's Blood Trail - 01v2 [BD][720p][30F851AF].mkv
-!new/upload/[gg]_Break_Blade_-_2_(1080p)_[39A31FD8].mkv
-!new/upload/[gg]_HIGHSCHOOL_OF_THE_DEAD_-_10v2_[F927D4A2].mkv
 !new/upload/[iSiscon]_HO-KAGO_TEATIME_-_K-ON!!_Insert_Song_Single_-_Gohan_ha_Okazu_-_U&I_(FLAC).rar
-!new/upload/[umai]_Major_S6_-_22_[8F33A348].mkv
-!new/upload/[yibis]_One_Piece_465_[720p][D08BB26C].mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -1034,32 +1044,6 @@
 !new/upload/bla/zx.black.heaven.12.sub.rar
 !new/upload/bla/zx.black.heaven.13.dub.avi
 !new/upload/bla/zx.black.heaven.13.sub.rar
-!new/upload/hk/Harukanaru Toki no Naka de 01.avi
-!new/upload/hk/Harukanaru Toki no Naka de 02.avi
-!new/upload/hk/Harukanaru Toki no Naka de 03.avi
-!new/upload/hk/Harukanaru Toki no Naka de 04.avi
-!new/upload/hk/Harukanaru Toki no Naka de 05.avi
-!new/upload/hk/Harukanaru Toki no Naka de 06.avi
-!new/upload/hk/Harukanaru Toki no Naka de 07.avi
-!new/upload/hk/Harukanaru Toki no Naka de 08.avi
-!new/upload/hk/Harukanaru Toki no Naka de 09.avi
-!new/upload/hk/Harukanaru Toki no Naka de 10.avi
-!new/upload/hk/Harukanaru Toki no Naka de 11.avi
-!new/upload/hk/Harukanaru Toki no Naka de 12.avi
-!new/upload/hk/Harukanaru Toki no Naka de 13.avi
-!new/upload/hk/Harukanaru Toki no Naka de 14.avi
-!new/upload/hk/Harukanaru Toki no Naka de 15.avi
-!new/upload/hk/Harukanaru Toki no Naka de 16.avi
-!new/upload/hk/Harukanaru Toki no Naka de 17.avi
-!new/upload/hk/Harukanaru Toki no Naka de 18.avi
-!new/upload/hk/Harukanaru Toki no Naka de 19.avi
-!new/upload/hk/Harukanaru Toki no Naka de 20.avi
-!new/upload/hk/Harukanaru Toki no Naka de 21.avi
-!new/upload/hk/Harukanaru Toki no Naka de 22.avi
-!new/upload/hk/Harukanaru Toki no Naka de 23.avi
-!new/upload/hk/Harukanaru Toki no Naka de 24.avi
-!new/upload/hk/Harukanaru Toki no Naka de 25.avi
-!new/upload/hk/Harukanaru Toki no Naka de 26.avi
 !new/upload/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/upload/lama/[Ayako] Wei� Survive R - 01 - H264 - E975A989.mkv
 !new/upload/lama/[C1_L-E_MJN]_Little_Princess_Sara_-_01_[12B12455].avi

@@ -60,6 +60,7 @@ incomplete/Amagami SS/[UTW] Amagami SS - 07 (1280x720) [83B8F09D].mkv
 incomplete/Amagami SS/[UTW] Amagami SS - 08 (1280x720) [2A252B27].mkv
 incomplete/Amagami SS/[UTW] Amagami SS - 09 (1280x720) [744BDCCB].mkv
 incomplete/Amagami SS/[UTW] Amagami SS - 10 (1280x720) [4692753B].mkv
+incomplete/Amagami SS/[UTW] Amagami SS - 11 (1280x720) [08500434].mkv
 incomplete/Angel Heart/[Ani-Kraze] Angel Heart - 02 [A954E411].avi
 incomplete/Angel Heart/[Ani-Kraze] Angel Heart - 03 [CD2D52CA].avi
 incomplete/Angel Heart/[Ani-Kraze] Angel Heart - 04 [32C0C7F0].avi
@@ -339,6 +340,7 @@ incomplete/Bobobo-Bo Bo-Bobo/[HnG-Hajike] Bobobo-Bo Bo-Bobo - 02 [DVD][F2AAE1D5]
 incomplete/Bobobo-Bo Bo-Bobo/[HnG-Hajike] Bobobo-Bo Bo-Bobo - 03 [DVD][36A022AF].mkv
 incomplete/Break Blade/[gg] Break Blade - 1 (1280x720) [A9337483].mkv
 incomplete/Break Blade/[gg] Break Blade - 1 (1920x1080) [A406CFAD].mkv
+incomplete/Break Blade/[gg] Break Blade - 2 (1920x1080) [39A31FD8].mkv
 incomplete/Capeta/[A-E & Saizen] Capeta - 41 [DVD][2C0C0D94].mkv
 incomplete/Capeta/[A-E & Saizen] Capeta - 42 [DVD][178CFD76].mkv
 incomplete/Capeta/[A-E & Saizen] Capeta - 43 [DVD][CE393DB9].mkv
@@ -1177,6 +1179,7 @@ incomplete/High School of the Dead/[gg] High School of the Dead - 06 [9B3D11E8].
 incomplete/High School of the Dead/[gg] High School of the Dead - 07 [916B984D].mkv
 incomplete/High School of the Dead/[gg] High School of the Dead - 08 [49F5974B].mkv
 incomplete/High School of the Dead/[gg] High School of the Dead - 09 [3A25004C].mkv
+incomplete/High School of the Dead/[gg] High School of the Dead - 10 [v2][F927D4A2].mkv
 incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[Chihiro] Hime Chen! Otogi Chikku Idol Lilpri - 01 (1280x720) [10115E01].mkv
 incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[Chihiro] Hime Chen! Otogi Chikku Idol Lilpri - 02 (1280x720) [10115E02].mkv
 incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[Chihiro] Hime Chen! Otogi Chikku Idol Lilpri - 03 (1280x720) [10115E03].mkv
@@ -1928,6 +1931,7 @@ incomplete/Major S6/[umai] Major S6 - 18 [FA86F169].mkv
 incomplete/Major S6/[umai] Major S6 - 19 [FBA20D33].mkv
 incomplete/Major S6/[umai] Major S6 - 20 [B5D3790D].mkv
 incomplete/Major S6/[umai] Major S6 - 21 [2FD6E0EF].mkv
+incomplete/Major S6/[umai] Major S6 - 22 [8F33A348].mkv
 incomplete/Maple Story/[Ashes-WIW] Maple Story - 01 [5B1872E3].mkv
 incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 09.5 (1280x720) [14DEFFF1].mkv
 incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 10 (1280x720) [2EE10D6A].mkv
@@ -2638,6 +2642,7 @@ incomplete/One Piece/[yibis] One Piece - 461 (1280x720) [627EAA2B].mkv
 incomplete/One Piece/[yibis] One Piece - 462 (1280x720) [v2][58E61060].mkv
 incomplete/One Piece/[yibis] One Piece - 463 (1280x720) [37A4A136].mkv
 incomplete/One Piece/[yibis] One Piece - 464 (1280x720) [564039B9].mkv
+incomplete/One Piece/[yibis] One Piece - 465 (1280x720) [D08BB26C].mkv
 incomplete/Ontama!/[DATS] Ontama! - 01 [2F0C7231].mkv
 incomplete/Ontama!/[DATS] Ontama! - 02 [2FBB11E1].mkv
 incomplete/Ontama!/[DATS] Ontama! - 03 [00BDF47B].mkv
@@ -2796,7 +2801,6 @@ incomplete/Saint October/[mbt & l-w] Saint October - 08 [E1491F0D].mkv
 incomplete/Saint October/[mbt & l-w] Saint October - 09 [A1B37450].mkv
 incomplete/Saint October/[mbt & l-w] Saint October - 10 [DBCE4708].mkv
 incomplete/Saint October/[mbt & l-w] Saint October - 11 [081B336E].mkv
-incomplete/Saint Seiya/[AznA] Saint Seiya - 07 [A312FF7A].avi
 incomplete/Saint Seiya/[AznA] Saint Seiya - 08 [4CE9DAA0].avi
 incomplete/Saint Seiya/[AznA] Saint Seiya - 09 [9227EAA7].avi
 incomplete/Saint Seiya/[AznA] Saint Seiya - 10 [1FC1939F].avi
@@ -2839,6 +2843,7 @@ incomplete/Saint Seiya/[TMD] Saint Seiya - 003 [DVD][FA1F8224].mkv
 incomplete/Saint Seiya/[TMD] Saint Seiya - 004 [DVD][F9D85A26].mkv
 incomplete/Saint Seiya/[TMD] Saint Seiya - 005 [DVD][6960B381].mkv
 incomplete/Saint Seiya/[TMD] Saint Seiya - 006 [DVD][D0D02063].mkv
+incomplete/Saint Seiya/[TMD] Saint Seiya - 007 [DVD][20214AB4].mkv
 incomplete/Saint Seiya/[Unknown] Saint Seiya - 100 [A056D4F6].avi
 incomplete/Saint Seiya/[Unknown] Saint Seiya - 101 [AB1A1182].avi
 incomplete/Saint Seiya/[Unknown] Saint Seiya - 102 [11461B0C].avi
