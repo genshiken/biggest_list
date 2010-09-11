@@ -48,6 +48,9 @@ movie/Fresh Pretty Cure!/[CureCom-Doremi] Fresh Pretty Cure! - Movie [DVD][AC03D
 movie/Fullmetal Alchemist - The Conqueror of Shamballa/[KAA] Fullmetal Alchemist - The Conqueror of Shamballa [EA07D24E].mkv
 movie/Ged Senki - Tales from Earthsea/[niizk] Ged Senki - Tales from Earthsea [v2][39703EB2].mkv
 movie/Ghost in the Shell/[KAA] Ghost in the Shell - Innocence [DVD][00C92C0A].mkv
+movie/Ghost in the Shell/[OZC] Ghost in the Shell Stand Alone Complex - Solid State Society [9E41633F].mkv
+movie/Ghost in the Shell/[OZC] Ghost in the Shell Stand Alone Complex - The Laughing Man [C8051FC7].mkv
+movie/Ghost in the Shell/[OZC] Ghost in the Shell Stand Alone Complex 2nd GIG - Individual Eleven [5708864C].mkv
 movie/Ghost in the Shell/[niizk] Ghost in the Shell [BD][5A1FF951].mkv
 movie/Gokinjo Monogatari Movie/[Yuurisan-Subs] Gokinjo Monogatari - Movie [81F06CCC].mkv
 movie/Gunbuster Movie/[THORA] Gunbuster Movie (1988) - Part 1 [720p,BD][ED918128].mkv
@@ -87,6 +90,7 @@ movie/Munto Movie/[Exiled-Destiny] Munto - Movie 1 [52343279].mkv
 movie/Munto Movie/[Exiled-Destiny] Munto - Movie 2 [620E941E].mkv
 movie/My Neighbor Totoro/[niizk] My Neighbor Totoro [59A5021B].mkv
 movie/Naruto Shippuuden/[DB] Naruto Shippuuden - Movie 3 [BCC77C3B].avi
+movie/Naruto Shippuuden/[SD-Taka] Naruto Shippuuden - Movie 3 [FA615D4F].mp4
 movie/Nausicaa of the Valley of the Wind (1984)/[THORA] Nausicaa of the Valley of the Wind (1984) [BD][6D0CA03D].mkv
 movie/Ojamajo Doremi Sharp Movie/[Doremi] Ojamajo Doremi Sharp Movie [27E34A4E].avi
 movie/One Piece/[yibis] One Piece - Movie 9 (1280x720) [780350D8].mkv
