@@ -99,6 +99,15 @@
 !new/upload/-ian87-/Hotaru no Hikari2 ep10[1920x1080p H.264 AAC].mkv.001
 !new/upload/-ian87-/ISSA x SoulJa - Breathe (PV).avix
 !new/upload/-ian87-/Inagaki Junichi & Aikawa nanase - Ai ga Tomaranai (10.09.29).avix
+!new/upload/-ian87-/JKR09aaa.jpg
+!new/upload/-ian87-/JKR09aab.jpg
+!new/upload/-ian87-/JKR09aac.jpg
+!new/upload/-ian87-/JKR09aad.jpg
+!new/upload/-ian87-/JKR09aae.jpg
+!new/upload/-ian87-/JKR09aaf.jpg
+!new/upload/-ian87-/JKR09aag.jpg
+!new/upload/-ian87-/JKR09aah.jpg
+!new/upload/-ian87-/JKR09aai.jpg
 !new/upload/-ian87-/JYJ Tour Part 1.avi.000
 !new/upload/-ian87-/JYJ Tour Part 1.avi.001
 !new/upload/-ian87-/JYJ Tour Part 2.avi.000
@@ -176,6 +185,9 @@
 !new/upload/-ian87-/anri-kawai-shibuyashoten.avi.001
 !new/upload/-ian87-/gackt-ever-VTS_01_1.vobx
 !new/upload/-ian87-/gackt-ever-dvdiso.tar
+!new/upload/-ian87-/hotaru2 #10000.pdf
+!new/upload/-ian87-/hotaru2 #10001.pdf
+!new/upload/-ian87-/hotaru2 #10002.pdf
 !new/upload/-ian87-/jitb2010.tar
 !new/upload/-ian87-/lynch. [JUDGEMENT] spot_full.avi
 !new/upload/-ian87-/miwa - change [DVDISO].isod
@@ -187,6 +199,12 @@
 !new/upload/-ian87-/tetsuya bass book.7z
 !new/upload/-ian87-/the GazettE - Red (10.09.22).avix
 !new/upload/-ian87-/the GazettE - [PV] Red.avix
+!new/upload/-ian87-/unubore10.part1.rar
+!new/upload/-ian87-/unubore10.part2.rar
+!new/upload/-ian87-/unubore10.part3.rar
+!new/upload/-ian87-/unubore10.part4.rar
+!new/upload/-ian87-/unubore10.part5.rar
+!new/upload/-ian87-/unubore10.part6.rar
 !new/upload/-ian87-/xaxaqi/Happiness.E37.HDTV.720p.x264-CLiMAX.mkv.001
 !new/upload/-ian87-/xaxaqi/Happiness.E37.HDTV.720p.x264-CLiMAX.mkv.002
 !new/upload/-ian87-/xaxaqi/Happiness.E37.HDTV.720p.x264-CLiMAX.mkv.003
@@ -565,8 +583,11 @@
 !new/upload/[Coalgirls]_Seitokai_Yakuindomo_01_(1920x1080_Blu-Ray_FLAC)_[912D6FAB].mkv
 !new/upload/[Coalgirls]_Seitokai_Yakuindomo_02_(1920x1080_Blu-Ray_FLAC)_[EBB16865].mkv
 !new/upload/[Commie] Eden of the East Movie II - Paradise Lost - OP [BD 1080p FLAC].mkv
+!new/upload/[Commie] Sengoku BASARA Two - 07 [067FE1EC].mkv
+!new/upload/[Commie] Shukufuku no Campanella - 11 [7F63118E].mkv
 !new/upload/[CureCom] Fresh Pretty Cure! - 08 [HD][F893BFB8].mkv
 !new/upload/[CureCom] Fresh Pretty Cure! - 09 [HD][BF90ECA9].mkv
+!new/upload/[DB]_Ninku_07_[154B2691].avi
 !new/upload/[Derp]_Legend_of_the_Legendary_Heroes_-_08_(1280x720_x264_AAC).mkv
 !new/upload/[Derp]_Legend_of_the_Legendary_Heroes_-_09_(1280x720_x264_AAC).mkv
 !new/upload/[Derp]_Legend_of_the_Legendary_Heroes_-_10_(1280x720_x264_AAC).mkv
@@ -579,8 +600,10 @@
 !new/upload/[Eclipse] Kaichou wa Maid-sama - 21 (1280x720 h264) [29D4F4BF].mkv
 !new/upload/[Himatsubushi] Hyakka Ryouran Samurai Girls - 01 [H264][720p][PREAIRING][7985921E].mkv
 !new/upload/[HnG-Otoko] Sakigake!! Otokojuku 14 (DVD) [7FE3551A].mkv
+!new/upload/[HorribleSubs] Yumeiro Patissiere - 48 [720p].mkv
 !new/upload/[INP]_One_Piece_-_Strong_World[H264_1920x1080][116926DE].mkv
 !new/upload/[KiteSeekers-PFSubs] Shin Koihime Musou - Live Revolution [BD 1080p H264 AAC] [A457A2C6].mkv
+!new/upload/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 15 [H264 1280x720] [58F4712F].mkv
 !new/upload/[Movie-1986]_Touch_2__Sayonara_no_Okurimono/Touch_2__Sayonara_no_Okurimono_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][C6396C54].avi
 !new/upload/[Movie-1986]_Touch__Sebangou_no_Nai_Ace/Touch__Sebangou_no_Nai_Ace_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][83A7DB30].avi
 !new/upload/[Movie-1987]_Touch_3__Kimi_ga_Toorisugita_Ato_ni_-_Don_t_Pass_Me_By/Touch_3__Kimi_ga_Toorisugita_Ato_ni_-_Don_t_Pass_Me_By_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][FBFB9072].avi
@@ -645,6 +668,8 @@
 !new/upload/[OVA-2008]_Saint_Seiya__Meiou_Hades_Elysion-hen/Saint_Seiya__Meiou_Hades_Elysion-hen_-_4[6]_-_The_Legendary_Gold_Cloths_[640x480][DVD][NankH-TMD][40D5147A]v2.mkv
 !new/upload/[OVA-2008]_Saint_Seiya__Meiou_Hades_Elysion-hen/Saint_Seiya__Meiou_Hades_Elysion-hen_-_5[6]_-_Awakening_from_Myth_[640x480][DVD][NankH-TMD][E1FD392C]v2.mkv
 !new/upload/[OVA-2008]_Saint_Seiya__Meiou_Hades_Elysion-hen/Saint_Seiya__Meiou_Hades_Elysion-hen_-_6[6]_-_To_the_World_where_Light_Overflows_[640x480][DVD][NankH-TMD][82AD6FEE]v2.mkv
+!new/upload/[RG-RyRo]Pocket_Monsters_-_AG_Movie_3_-_Mew_and_the_Wave-Guiding_Hero_Lucario[DVD-h264-AAC-SUB][E4AF749A].mkv
+!new/upload/[Ryuumaru] Seitokai Yakuindomo - 11 [1024x576][45F65C35].mkv
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
