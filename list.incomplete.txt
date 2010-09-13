@@ -2909,14 +2909,6 @@ incomplete/Saint Seiya/[Unknown] Saint Seiya - 111 [1FBB622F].avi
 incomplete/Saint Seiya/[Unknown] Saint Seiya - 112 [29B2B10D].avi
 incomplete/Saint Seiya/[Unknown] Saint Seiya - 113 [659A0AF1].avi
 incomplete/Saint Seiya/[Unknown] Saint Seiya - 114 [End][A5C8608A].avi
-incomplete/Seitokai Yakuindomo/[Ayako] Seitokai Yakuindomo - 02 [DFBD72EB].mkv
-incomplete/Seitokai Yakuindomo/[Ayako] Seitokai Yakuindomo - 03 (1280x720) [40BA8F75].mkv
-incomplete/Seitokai Yakuindomo/[Ayako] Seitokai Yakuindomo - 04 (1280x720) [3FF68852].mkv
-incomplete/Seitokai Yakuindomo/[Ayako] Seitokai Yakuindomo - 05 (1280x720) [F49CC1EB].mkv
-incomplete/Seitokai Yakuindomo/[Ayako] Seitokai Yakuindomo - 06 (1280x720) [A9BAAE72].mkv
-incomplete/Seitokai Yakuindomo/[Ayako] Seitokai Yakuindomo - 07 (1280x720) [B840D90D].mkv
-incomplete/Seitokai Yakuindomo/[Ayako] Seitokai Yakuindomo - 08 (1280x720) [43B95F18].mkv
-incomplete/Seitokai Yakuindomo/[Ayako] Seitokai Yakuindomo - 10 (1280x720) [A21F5260].mkv
 incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 01 (1024x576) [v2][383FD033].mkv
 incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 02 (1024x576) [942D6FB9].mkv
 incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 03 (1024x576) [8AA52B46].mkv
@@ -2927,6 +2919,7 @@ incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 07 (1024x576) [1
 incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 08 (1024x576) [4598E4A9].mkv
 incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 09 (1024x576) [7EA88A1B].mkv
 incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 10 (1024x576) [5CBF6EAE].mkv
+incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 11 (1024x576) [45F65C35].mkv
 incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 01 (1280x720) [804D1CBC].mkv
 incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 02 (1280x720) [826D5501].mkv
 incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 03 (1280x720) [0EF556CA].mkv

@@ -661,8 +661,6 @@ complete/a/Azumanga Daioh/[a4e] Azumanga Daioh - 23 [40805B9D].mkv
 complete/a/Azumanga Daioh/[a4e] Azumanga Daioh - 24 [8A9ED3FA].mkv
 complete/a/Azumanga Daioh/[a4e] Azumanga Daioh - 25 [CA0A38C8].mkv
 complete/a/Azumanga Daioh/[a4e] Azumanga Daioh - 26 [End][2117E714].mkv
-complete/b/B Gata H Kei/[CoalGuys] B Gata H Kei - 01 [531DF322].mkv
-complete/b/B Gata H Kei/[CoalGuys] B Gata H Kei - 02 [A708B8F5].mkv
 complete/b/B Gata H Kei/[CoalGuys] B Gata H Kei - 03 [EE01648B].mkv
 complete/b/B Gata H Kei/[CoalGuys] B Gata H Kei - 04 [EDE606E8].mkv
 complete/b/B Gata H Kei/[CoalGuys] B Gata H Kei - 05 [DF9C7910].mkv
@@ -673,6 +671,8 @@ complete/b/B Gata H Kei/[CoalGuys] B Gata H Kei - 09 [090D767B].mkv
 complete/b/B Gata H Kei/[CoalGuys] B Gata H Kei - 10 [A3ACCDA3].mkv
 complete/b/B Gata H Kei/[CoalGuys] B Gata H Kei - 11 [0D11BE42].mkv
 complete/b/B Gata H Kei/[CoalGuys] B Gata H Kei - 12 [End][0017B6C5].mkv
+complete/b/B Gata H Kei/[UTW] B Gata H Kei - 01 (1920x1080) [BD][F0517388].mkv
+complete/b/B Gata H Kei/[UTW] B Gata H Kei - 02 (1920x1080) [BD][4E9DD8D4].mkv
 complete/b/BALDR FORCE EXE Resolution/[Megami] BALDR FORCE EXE Resolution - 1 [08D4A401].mkv
 complete/b/BALDR FORCE EXE Resolution/[Megami] BALDR FORCE EXE Resolution - 2 [BE5489D0].mkv
 complete/b/BALDR FORCE EXE Resolution/[Megami] BALDR FORCE EXE Resolution - 3 [6E07E289].mkv
