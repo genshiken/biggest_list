@@ -10394,15 +10394,15 @@ complete/s/Shikabane Hime Kuro/[TMD] Shikabane Hime Kuro - 09 (1280x720) [DF5036
 complete/s/Shikabane Hime Kuro/[TMD] Shikabane Hime Kuro - 10 (1280x720) [5E378D5C].mkv
 complete/s/Shikabane Hime Kuro/[TMD] Shikabane Hime Kuro - 11 (1280x720) [7504DB16].mkv
 complete/s/Shikabane Hime Kuro/[TMD] Shikabane Hime Kuro - 12 (1280x720) [End][48EFFC55].mkv
-complete/s/Shin Koihime Musou - Otome Tairan/[Commie] Shin Koihime Musou - Otome Tairan - 01 [4BE80B4B].mkv
-complete/s/Shin Koihime Musou - Otome Tairan/[Commie] Shin Koihime Musou - Otome Tairan - 02 [2AEAFB12].mkv
-complete/s/Shin Koihime Musou - Otome Tairan/[Commie] Shin Koihime Musou - Otome Tairan - 04 [BE78B0FC].mkv
 complete/s/Shin Koihime Musou - Otome Tairan/[Commie] Shin Koihime Musou - Otome Tairan - 05 [9D088CF9].mkv
 complete/s/Shin Koihime Musou - Otome Tairan/[Commie] Shin Koihime Musou - Otome Tairan - 06 [4961D845].mkv
 complete/s/Shin Koihime Musou - Otome Tairan/[Commie] Shin Koihime Musou - Otome Tairan - 07 [6C99F567].mkv
 complete/s/Shin Koihime Musou - Otome Tairan/[Commie] Shin Koihime Musou - Otome Tairan - 08 [292475FE].mkv
 complete/s/Shin Koihime Musou - Otome Tairan/[Commie] Shin Koihime Musou - Otome Tairan - 10 [F0DF90B8].mkv
-complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 03 (1280x720) [4B78E1A0].mkv
+complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 01 (1280x720) [BD][8550BE8F].mkv
+complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 02 (1280x720) [BD][21B706AB].mkv
+complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 03 (1280x720) [BD][CFAC2F68].mkv
+complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 04 (1280x720) [BD][CC03352A].mkv
 complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 09 (1280x720) [C4DD2517].mkv
 complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 11 (1280x720) [D1DFF020].mkv
 complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 12 (1280x720) [End][BA4C40A7].mkv
@@ -11774,12 +11774,12 @@ complete/t/To Heart/[Exiled-Destiny] To Heart - 10 [DAB7587B].mkv
 complete/t/To Heart/[Exiled-Destiny] To Heart - 11 [0C047AF8].mkv
 complete/t/To Heart/[Exiled-Destiny] To Heart - 12 [BFAB7815].mkv
 complete/t/To Heart/[Exiled-Destiny] To Heart - 13 [End][5449E99B].mkv
-complete/t/To Love-Ru - OVA/[AniYabai] To Love-Ru - OVA 1 [DVD][2DB2FB93].mkv
-complete/t/To Love-Ru - OVA/[AniYabai] To Love-Ru - OVA 2 [DVD][658F8F7B].mkv
-complete/t/To Love-Ru - OVA/[Mamiko] To Love-Ru - OVA 3 [C7599C42].mkv
-complete/t/To Love-Ru - OVA/[Mamiko] To Love-Ru - OVA 4 [649FF251].mkv
-complete/t/To Love-Ru - OVA/[Mamiko] To Love-Ru - OVA 5 [AE8F4AB9].mkv
-complete/t/To Love-Ru - OVA/[Mamiko] To Love-Ru - OVA 6 [End][9C8DC010].mkv
+complete/t/To Love-Ru OVA/[AniYabai] To Love-Ru OVA - 1 [DVD][2DB2FB93].mkv
+complete/t/To Love-Ru OVA/[AniYabai] To Love-Ru OVA - 2 [DVD][658F8F7B].mkv
+complete/t/To Love-Ru OVA/[AniYabai] To Love-Ru OVA - 3 [DVD][EBD1EB7F].mkv
+complete/t/To Love-Ru OVA/[Mamiko] To Love-Ru OVA - 4 [649FF251].mkv
+complete/t/To Love-Ru OVA/[Mamiko] To Love-Ru OVA - 5 [AE8F4AB9].mkv
+complete/t/To Love-Ru OVA/[Mamiko] To Love-Ru OVA - 6 [End][9C8DC010].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - 01 [DVD][ED651E3F].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - 02 [DVD][BA42F79B].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - 03 [DVD][AE9E412C].mkv
