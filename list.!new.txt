@@ -475,6 +475,7 @@
 !new/upload/Carol/[raw] Carol OVA.ass
 !new/upload/Carol/[raw] Carol OVA.avi
 !new/upload/CoreAVC_2.0_Professional_with_key.zip
+!new/upload/Detective Conan - 587 [DCTP][720p][35049B33].mp4
 !new/upload/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/upload/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/upload/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
@@ -871,42 +872,17 @@
 !new/upload/[CXC-iMangaScans]-MedakaBox_ch57.zip
 !new/upload/[Chihiro]_Zettai_Karen_Children_OVA_[h264][68EB97D6].mkv
 !new/upload/[Coalgirls]_Eden_of_the_East_Movie_I_-_The_King_of_Eden_(1920x1080_Blu-Ray_FLAC)_[268965BF].mkv
-!new/upload/[Coalgirls]_Haibane_Renmei_01_(1280x720_Blu-Ray_FLAC)_[D845F906].mkv
-!new/upload/[Coalgirls]_Haibane_Renmei_02_(1280x720_Blu-Ray_FLAC)_[CEBC907D].mkv
-!new/upload/[Coalgirls]_Haibane_Renmei_03_(1280x720_Blu-Ray_FLAC)_[5EFFE80A].mkv
-!new/upload/[Coalgirls]_Haibane_Renmei_04_(1280x720_Blu-Ray_FLAC)_[85F742B0].mkv
-!new/upload/[Coalgirls]_Haibane_Renmei_05_(1280x720_Blu-Ray_FLAC)_[B5FF2998].mkv
-!new/upload/[Coalgirls]_Haibane_Renmei_06_(1280x720_Blu-Ray_FLAC)_[B428E56D].mkv
-!new/upload/[Coalgirls]_Haibane_Renmei_07_(1280x720_Blu-Ray_FLAC)_[C29731F4].mkv
-!new/upload/[Coalgirls]_Haibane_Renmei_08_(1280x720_Blu-Ray_FLAC)_[03616E78].mkv
-!new/upload/[Coalgirls]_Haibane_Renmei_09_(1280x720_Blu-Ray_FLAC)_[A0A1EC4D].mkv
-!new/upload/[Coalgirls]_Haibane_Renmei_10_(1280x720_Blu-Ray_FLAC)_[31FAB2D5].mkv
-!new/upload/[Coalgirls]_Haibane_Renmei_11_(1280x720_Blu-Ray_FLAC)_[B09D1D6C].mkv
-!new/upload/[Coalgirls]_Haibane_Renmei_12_(1280x720_Blu-Ray_FLAC)_[F5797D1F].mkv
-!new/upload/[Coalgirls]_Haibane_Renmei_13_(1280x720_Blu-Ray_FLAC)_[CFBDEB8F].mkv
-!new/upload/[Coalgirls]_Haibane_Renmei_ED_(1280x720_Blu-Ray_FLAC)_[53E637EC].mkv
-!new/upload/[Coalgirls]_Haibane_Renmei_OP_(1280x720_Blu-Ray_FLAC)_[D0A5ECC1].mkv
 !new/upload/[Coalgirls]_Kiss_x_Sis_07_(1280x720_Blu-Ray_FLAC)_[07F22D4C].mkv
 !new/upload/[Coalgirls]_Kiss_x_Sis_08_(1280x720_Blu-Ray_FLAC)_[34A77C23].mkv
 !new/upload/[Coalgirls]_Kiss_x_Sis_09_(1280x720_Blu-Ray_FLAC)_[65CC0E40].mkv
 !new/upload/[Coalgirls]_Kiss_x_Sis_ED2_(1280x720_Blu-Ray_FLAC)_[BE81E765].mkv
 !new/upload/[Coalgirls]_Seitokai_Yakuindomo_01_(1920x1080_Blu-Ray_FLAC)_[912D6FAB].mkv
 !new/upload/[Coalgirls]_Seitokai_Yakuindomo_02_(1920x1080_Blu-Ray_FLAC)_[EBB16865].mkv
-!new/upload/[Commie] Asobi ni Ikuyo! - 08 [07C4F947].mkv
-!new/upload/[Commie] Eden of the East Movie II - Paradise Lost - OP [BD 1080p FLAC].mkv
-!new/upload/[Commie] Sengoku BASARA Two - 07 [067FE1EC].mkv
-!new/upload/[Commie] Shiki - 07 [554D2702].mkv
-!new/upload/[Commie] Shukufuku no Campanella - 11 [7F63118E].mkv
-!new/upload/[Commie] The Legend of the Legendary Heroes - 08 [E1811BFF].mkv
 !new/upload/[CrunchySubs] Uraboku - 23 [480p].mkv
 !new/upload/[CureCom] Fresh Pretty Cure! - 08 [HD][F893BFB8].mkv
 !new/upload/[CureCom] Fresh Pretty Cure! - 09 [HD][BF90ECA9].mkv
 !new/upload/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_06_[5bbcda47].avi
 !new/upload/[DB]_Ninku_07_[154B2691].avi
-!new/upload/[Derp]_Legend_of_the_Legendary_Heroes_-_08_(1280x720_x264_AAC).mkv
-!new/upload/[Derp]_Legend_of_the_Legendary_Heroes_-_09_(1280x720_x264_AAC).mkv
-!new/upload/[Derp]_Legend_of_the_Legendary_Heroes_-_10_(1280x720_x264_AAC).mkv
-!new/upload/[Derp]_Legend_of_the_Legendary_Heroes_-_11_(1280x720_x264_AAC).mkv
 !new/upload/[DmonHiro] Shin Koihime Musou - Otome Tairan 01 (Bluray, 720p, AAC) [8550BE8F].mkv
 !new/upload/[DmonHiro] Shin Koihime Musou - Otome Tairan 02 (Bluray, 720p, AAC) [21B706AB].mkv
 !new/upload/[DmonHiro] Shin Koihime Musou - Otome Tairan 03 (Bluray, 720p, AAC) [CFAC2F68].mkv
@@ -919,41 +895,11 @@
 !new/upload/[EAC] [DVDISO] [100728] (シングル) TVアニメ あそびにいくヨ！ OP 「Now loading...SKY!!」 ／ スフィア(寿美菜子・高垣彩陽・戸松遥・豊崎愛生) (iso+mds).rar
 !new/upload/[Eclipse] Amagami SS - 11 (1280x720 h264) [CA900E4D].mkv
 !new/upload/[Eclipse] Kaichou wa Maid-sama - 21 (1280x720 h264) [29D4F4BF].mkv
-!new/upload/[Exiled-Destiny]_Lucky_Star_Ep01_(4A25C979).mkv
-!new/upload/[Exiled-Destiny]_Lucky_Star_Ep02_(26DAE191).mkv
-!new/upload/[Exiled-Destiny]_Lucky_Star_Ep03_(F35F8647).mkv
-!new/upload/[Exiled-Destiny]_Lucky_Star_Ep04_(D6F3BB08).mkv
-!new/upload/[Exiled-Destiny]_Lucky_Star_Ep05_(BCAAC023).mkv
-!new/upload/[Exiled-Destiny]_Lucky_Star_Ep06_(DB2AFCDC).mkv
-!new/upload/[Exiled-Destiny]_Lucky_Star_Ep07_(5CCE20DB).mkv
-!new/upload/[Exiled-Destiny]_Lucky_Star_Ep08_(30204A54).mkv
-!new/upload/[Exiled-Destiny]_Lucky_Star_Ep09_(67A01A6C).mkv
-!new/upload/[Exiled-Destiny]_Lucky_Star_Ep10_(5BA95557).mkv
-!new/upload/[Exiled-Destiny]_Lucky_Star_Ep11_(738ABF45).mkv
-!new/upload/[Exiled-Destiny]_Lucky_Star_Ep12_(3C23FBAF).mkv
-!new/upload/[Exiled-Destiny]_Lucky_Star_Ep13_(2AD0FFC6).mkv
-!new/upload/[Exiled-Destiny]_Lucky_Star_Ep14_(68F34E86).mkv
-!new/upload/[Exiled-Destiny]_Lucky_Star_Ep15_(D34E0483).mkv
-!new/upload/[Exiled-Destiny]_Lucky_Star_Ep16_(5C8E85FD).mkv
-!new/upload/[Exiled-Destiny]_Lucky_Star_Ep17_(16043040).mkv
-!new/upload/[Exiled-Destiny]_Lucky_Star_Ep18_(F005BEED).mkv
-!new/upload/[Exiled-Destiny]_Lucky_Star_Ep19_(626466E8).mkv
-!new/upload/[Exiled-Destiny]_Lucky_Star_Ep20_(D17FD88C).mkv
-!new/upload/[Exiled-Destiny]_Lucky_Star_Ep21_(D2238181).mkv
-!new/upload/[Exiled-Destiny]_Lucky_Star_Ep22_(832A607E).mkv
-!new/upload/[Exiled-Destiny]_Lucky_Star_Ep23_(AE06ABFB).mkv
-!new/upload/[Exiled-Destiny]_Lucky_Star_Ep24_(2A8D2922).mkv
 !new/upload/[FroZen]_RAINBOW_17_[D0E10238].mkv
+!new/upload/[Frostii]_K-On!!_-_23_[BF3282DA].mkv
 !new/upload/[Frostii_Live-eviL]_Winter_Sonata_-_24_[960F073B].mkv
 !new/upload/[Himatsubushi] Hyakka Ryouran Samurai Girls - 01 [H264][720p][PREAIRING][7985921E].mkv
 !new/upload/[HnG-Otoko] Sakigake!! Otokojuku 14 (DVD) [7FE3551A].mkv
-!new/upload/[HorribleSubs] Fairy Tail - 46 [720p].mkv
-!new/upload/[HorribleSubs] Giant Killing - 24 [720p].mkv
-!new/upload/[HorribleSubs] Lilpri - 24 [720p].mkv
-!new/upload/[HorribleSubs] Mitsudomoe - 11 [720p].mkv
-!new/upload/[HorribleSubs] Occult Academy - 11 [720p].mkv
-!new/upload/[HorribleSubs] Uraboku - 23 [480p].mkv
-!new/upload/[HorribleSubs] Yumeiro Patissiere - 48 [720p].mkv
 !new/upload/[INP]_One_Piece_-_Strong_World[H264_1920x1080][116926DE].mkv
 !new/upload/[KiteSeekers-PFSubs] Shin Koihime Musou - Live Revolution [BD 1080p H264 AAC] [A457A2C6].mkv
 !new/upload/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 15 [H264 1280x720] [58F4712F].mkv
@@ -972,15 +918,10 @@
 !new/upload/[Movie-1995]_Slam_Dunk__Hoero_Basketman_Tamashii!!_Hanamichi_to_Nagarekawa_no_Nekki_Natsu/Slam_Dunk__Hoero_Basketman_Tamashii!!_Hanamichi_to_Nagarekawa_no_Nekki_Natsu_-_1[1]_-_Complete_Movie_[848x480][DVD][-ANF-][DC7200A7].mkv
 !new/upload/[Movie-1995]_Slam_Dunk__Shouhoku_Saidai_no_Kiki!_Moero_Sakuragi_Hanamichi/Slam_Dunk__Shouhoku_Saidai_no_Kiki!_Moero_Sakuragi_Hanamichi_-_1[1]_-_Complete_Movie_[848x480][DVD][-ANF-][D20B56CA].mkv
 !new/upload/[Movie-1997]_Mononoke_Hime/Mononoke_Hime_-_1[1]_-_Complete_Movie_[688x432][DVD][niizk][C677AF24].mkv
-!new/upload/[Movie-1997]_Shinseiki_Evangelion_Gekijouban__Shi_to_Shinsei/Shinseiki_Evangelion_Gekijouban__Shi_to_Shinsei_-_1-2[2]_-_Death_[648x436][DVD][zx][58BC4921].mkv
-!new/upload/[Movie-1997]_Shinseiki_Evangelion_Gekijouban__The_End_of_Evangelion/Shinseiki_Evangelion_Gekijouban__The_End_of_Evangelion_-_1[1]_-_Complete_Movie_[704x480][DVD][zx][19DB2A42]v3.mkv
 !new/upload/[Movie-2001]_Inuyasha_-_Toki_o_Koeru_Omoi/Inuyasha_-_Toki_o_Koeru_Omoi_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][56EF2069].mkv
 !new/upload/[Movie-2002]_Inuyasha__Kagami_no_Naka_no_Mugenjou/Inuyasha__Kagami_no_Naka_no_Mugenjou_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][5BE86486].mkv
 !new/upload/[Movie-2003]_Inuyasha_-_Tenka_Hadou_no_Ken/Inuyasha_-_Tenka_Hadou_no_Ken_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][729CFBDD].mkv
 !new/upload/[Movie-2004]_Inuyasha__Guren_no_Houraijima/Inuyasha__Guren_no_Houraijima_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][ED7FAAFB].mkv
-!new/upload/[Nekomimi] Sora no Otoshimono - 14 (OAD) [CF9904D1].mkv
-!new/upload/[Nipponsei] Asobi ni Iku yo! Drama & Character Song CD.zip
-!new/upload/[Nipponsei] Heart Catch Precure! ED2 Single - Tomorrow Song ~Ashita no Uta~ [Kudou Mayu & Ikeda Aya].zip
 !new/upload/[OVA-1989]_Kimagure_Orange_Road__Hawaiian_Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/upload/[OVA-1989]_Kimagure_Orange_Road__Shiroi_Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/upload/[OVA-1991]_Kimagure_Orange_Road__Omoi_Gakenai_Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -1004,40 +945,6 @@
 !new/upload/[OVA-1997]_Macross_Dynamite_7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/upload/[OVA-1997]_Macross_Dynamite_7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/upload/[OVA-1997]_Macross_Dynamite_7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
-!new/upload/[OVA-1999]_Master_Keaton_(1999)/Master_Keaton_(1999)_-_01[15]_-_(25)_Kalihman_of_the_Desert_[640x480][DVD][A-Et][41170A20].mkv
-!new/upload/[OVA-1999]_Master_Keaton_(1999)/Master_Keaton_(1999)_-_02[15]_-_(26)_Family_[640x480][DVD][A-Et][9B9F2425].mkv
-!new/upload/[OVA-1999]_Master_Keaton_(1999)/Master_Keaton_(1999)_-_03[15]_-_(27)_The_Red_Wind_[640x480][DVD][A-Et][9FE9006D].mkv
-!new/upload/[OVA-1999]_Master_Keaton_(1999)/Master_Keaton_(1999)_-_04[15]_-_(28)_A_Message_from_Alexeyev_[640x480][DVD][A-Et][7B28B43E].mkv
-!new/upload/[OVA-1999]_Master_Keaton_(1999)/Master_Keaton_(1999)_-_05[15]_-_(29)_The_Forbidden_Fruit_[640x480][DVD][A-Et][3E7F3C93].mkv
-!new/upload/[OVA-1999]_Master_Keaton_(1999)/Master_Keaton_(1999)_-_06[15]_-_(30)_The_Highlands_in_Your_Eyes_[640x480][DVD][A-Et][AE6689D3].mkv
-!new/upload/[OVA-1999]_Master_Keaton_(1999)/Master_Keaton_(1999)_-_07[15]_-_(31)_The_Scent_is_the_Key_[640x480][DVD][A-Et][73D822C7].mkv
-!new/upload/[OVA-1999]_Master_Keaton_(1999)/Master_Keaton_(1999)_-_08[15]_-_(32)_The_Back_Street_[640x480][DVD][A-Et][ACF2F410].mkv
-!new/upload/[OVA-1999]_Master_Keaton_(1999)/Master_Keaton_(1999)_-_09[15]_-_(33)_Devil_Like_an_Angel_[640x480][DVD][A-Et][C4DFE919].mkv
-!new/upload/[OVA-1999]_Master_Keaton_(1999)/Master_Keaton_(1999)_-_10[15]_-_(34)_The_Agate_Color_of_Time_[640x480][DVD][A-Et][D648E495].mkv
-!new/upload/[OVA-1999]_Master_Keaton_(1999)/Master_Keaton_(1999)_-_11[15]_-_(35)_Love_in_May_[640x480][DVD][A-Et][5BD61DEA].mkv
-!new/upload/[OVA-1999]_Master_Keaton_(1999)/Master_Keaton_(1999)_-_12[15]_-_(36)_Blue_Friday_[640x480][DVD][A-Et][4A94ECE4].mkv
-!new/upload/[OVA-1999]_Master_Keaton_(1999)/Master_Keaton_(1999)_-_13[15]_-_(37)_Interview_Day_[640x480][DVD][A-Et][F20A5EDB].mkv
-!new/upload/[OVA-1999]_Master_Keaton_(1999)/Master_Keaton_(1999)_-_14[15]_-_(38)_Hunting_Season_Part_1_[640x480][DVD][A-Et][D5D48BA8].mkv
-!new/upload/[OVA-1999]_Master_Keaton_(1999)/Master_Keaton_(1999)_-_15[15]_-_(39)_Hunting_Season_Part_2_[640x480][DVD][A-Et][1E181CBF].mkv
-!new/upload/[OVA-2008]_Saint_Seiya__Meiou_Hades_Elysion-hen/Saint_Seiya__Meiou_Hades_Elysion-hen_-_1[6]_-_Mortal_Battle_in_Elysion_[640x480][DVD][~NankH~][B556F8B5]v2.mkv
-!new/upload/[OVA-2008]_Saint_Seiya__Meiou_Hades_Elysion-hen/Saint_Seiya__Meiou_Hades_Elysion-hen_-_2[6]_-_Death_and_Sleep_Gods_[640x480][DVD][~NankH~][C135ACA7]v2.mkv
-!new/upload/[OVA-2008]_Saint_Seiya__Meiou_Hades_Elysion-hen/Saint_Seiya__Meiou_Hades_Elysion-hen_-_3[6]_-_Gold_Reinforcements_[640x480][DVD][~NankH~][DE5148FA]v2.mkv
-!new/upload/[OVA-2008]_Saint_Seiya__Meiou_Hades_Elysion-hen/Saint_Seiya__Meiou_Hades_Elysion-hen_-_4[6]_-_The_Legendary_Gold_Cloths_[640x480][DVD][NankH-TMD][40D5147A]v2.mkv
-!new/upload/[OVA-2008]_Saint_Seiya__Meiou_Hades_Elysion-hen/Saint_Seiya__Meiou_Hades_Elysion-hen_-_5[6]_-_Awakening_from_Myth_[640x480][DVD][NankH-TMD][E1FD392C]v2.mkv
-!new/upload/[OVA-2008]_Saint_Seiya__Meiou_Hades_Elysion-hen/Saint_Seiya__Meiou_Hades_Elysion-hen_-_6[6]_-_To_the_World_where_Light_Overflows_[640x480][DVD][NankH-TMD][82AD6FEE]v2.mkv
-!new/upload/[Over-Time]_Kamen_Rider_OOO_-_01v2_[F85F0293].mkv
-!new/upload/[Over-Time]_Kamen_Rider_OOO_-_02_[2FF75641].mkv
-!new/upload/[RG-RyRo]Pocket_Monsters_-_AG_Movie_3_-_Mew_and_the_Wave-Guiding_Hero_Lucario[DVD-h264-AAC-SUB][E4AF749A].mkv
-!new/upload/[ReDone] To Heart ~Remember my Memories~ 01 (DVD) [04641A84].mkv
-!new/upload/[Rumbel-Nakama]_Gintama_-_143_[H264][ACEB84B2].mkv
-!new/upload/[Rumbel-Nakama]_Gintama_-_144_[H264][674A5E93].mkv
-!new/upload/[RyRo]_Inazuma_Eleven_-_99_(1280x720_x264_AAC)_[254B1C9A].mkv
-!new/upload/[Ryuumaru] Seitokai Yakuindomo - 02 [720p - Bluray][3DB1FD1F].mkv
-!new/upload/[SD&Taka]_Dragonball_Kai_-_057_[720p][A6DEE8DC].mkv
-!new/upload/[SD&Taka]_Dragonball_Kai_-_058_[720p][D1395BF1].mkv
-!new/upload/[SD&Taka]_Dragonball_Kai_-_059_[720p][A2B4A392].mkv
-!new/upload/[SD&Taka]_Dragonball_Kai_-_060_[720p][A7D3411C].mkv
-!new/upload/[Shinboku]_True_Tears_-_Drama_CD_-_Hiromi's_Case_[Subbed][E5BBA1D3].mkv
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -1262,43 +1169,6 @@
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_164[167]_-_Possessed_by_a_Parasite__Shippo,_Our_Worst_Enemy_[640x480][DVD][AHQ][4C963E58].mkv
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_165[167]_-_The_Ultimate_Key_to_Defeating_Naraku_[640x480][DVD][AHQ][4F34C194].mkv
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_166-167[167]_-_The_Bond_Between_Them,_Use_the_Sacred_Jewel_Shard!_Part_1_[640x480][DVD][AHQ][2D920FE4].mkv
-!new/upload/[TV_Series-2003]_Gunslinger_Girl/Gunslinger_Girl_-_01[13]_-_Fratello_(Siblings)_[704x480][DVD][KAA][6BD6EC44].mkv
-!new/upload/[TV_Series-2003]_Gunslinger_Girl/Gunslinger_Girl_-_02[13]_-_Orione_(Orion)_[704x480][DVD][KAA][D894D6FB].mkv
-!new/upload/[TV_Series-2003]_Gunslinger_Girl/Gunslinger_Girl_-_03[13]_-_Ragazzo_(Boy)_[704x480][DVD][KAA][B49F5B1E].mkv
-!new/upload/[TV_Series-2003]_Gunslinger_Girl/Gunslinger_Girl_-_04[13]_-_Bambola_(Doll)_[704x480][DVD][KAA][AA009C0C].mkv
-!new/upload/[TV_Series-2003]_Gunslinger_Girl/Gunslinger_Girl_-_05[13]_-_Promessa_(Promise)_[704x480][DVD][KAA][FF2CD42F].mkv
-!new/upload/[TV_Series-2003]_Gunslinger_Girl/Gunslinger_Girl_-_06[13]_-_Gelato_(Ice_Cream)_[704x480][DVD][KAA][D8028AB7].mkv
-!new/upload/[TV_Series-2003]_Gunslinger_Girl/Gunslinger_Girl_-_07[13]_-_Protezione_(Protection)_[704x480][DVD][KAA][8F3348E1].mkv
-!new/upload/[TV_Series-2003]_Gunslinger_Girl/Gunslinger_Girl_-_08[13]_-_Il_Principe_del_Regno_Della_Pasta_(The_Prince_of_the_Kingdom_of_Pasta)_[704x480][DVD][KAA][A19F3B85].mkv
-!new/upload/[TV_Series-2003]_Gunslinger_Girl/Gunslinger_Girl_-_09[13]_-_Lycoris_Radiata_Herb_(Cluster_Amaryllis)_[704x480][DVD][KAA][64DBA3F7].mkv
-!new/upload/[TV_Series-2003]_Gunslinger_Girl/Gunslinger_Girl_-_10[13]_-_Amare_(To_Love)_[704x480][DVD][KAA][C1ADB74D].mkv
-!new/upload/[TV_Series-2003]_Gunslinger_Girl/Gunslinger_Girl_-_11[13]_-_Febbre_Alta_(High_Fever)_[704x480][DVD][KAA][E1A70F36].mkv
-!new/upload/[TV_Series-2003]_Gunslinger_Girl/Gunslinger_Girl_-_12[13]_-_Simbiosi_(Symbiosis)_[704x480][DVD][KAA][D923C2D9].mkv
-!new/upload/[TV_Series-2003]_Gunslinger_Girl/Gunslinger_Girl_-_13[13]_-_Stella_Cadente_(Falling_Star)_[704x480][DVD][KAA][3CC0AB72].mkv
-!new/upload/[TV_Series-2003]_Peace_Maker_Kurogane/Peace_Maker_Kurogane_-_01[24]_-_Cherry_Blossoms_[704x528][DVD][a4e][1537FBE3].mkv
-!new/upload/[TV_Series-2003]_Peace_Maker_Kurogane/Peace_Maker_Kurogane_-_02[24]_-_Will_[704x528][DVD][a4e][17C329F8].mkv
-!new/upload/[TV_Series-2003]_Peace_Maker_Kurogane/Peace_Maker_Kurogane_-_03[24]_-_Crimson_[704x528][DVD][a4e][1AF02DFD].mkv
-!new/upload/[TV_Series-2003]_Peace_Maker_Kurogane/Peace_Maker_Kurogane_-_04[24]_-_Shadow_[704x528][DVD][a4e][9587C5DB].mkv
-!new/upload/[TV_Series-2003]_Peace_Maker_Kurogane/Peace_Maker_Kurogane_-_05[24]_-_Moon_[704x528][DVD][a4e][2BD6DAD1].mkv
-!new/upload/[TV_Series-2003]_Peace_Maker_Kurogane/Peace_Maker_Kurogane_-_06[24]_-_Warrior_[704x528][DVD][a4e][89C8B53B].mkv
-!new/upload/[TV_Series-2003]_Peace_Maker_Kurogane/Peace_Maker_Kurogane_-_07[24]_-_Suzu_[704x528][DVD][a4e][08D91555].mkv
-!new/upload/[TV_Series-2003]_Peace_Maker_Kurogane/Peace_Maker_Kurogane_-_08[24]_-_Love_[704x528][DVD][a4e][AB5E7CDF].mkv
-!new/upload/[TV_Series-2003]_Peace_Maker_Kurogane/Peace_Maker_Kurogane_-_09[24]_-_Ryo_[704x528][DVD][a4e][6C5379C8]v2.mkv
-!new/upload/[TV_Series-2003]_Peace_Maker_Kurogane/Peace_Maker_Kurogane_-_10[24]_-_Quiet_[704x528][DVD][a4e][DB5D2C73]v2.mkv
-!new/upload/[TV_Series-2003]_Peace_Maker_Kurogane/Peace_Maker_Kurogane_-_11[24]_-_Plot_[704x528][DVD][a4e][D67BD3D5]v2.mkv
-!new/upload/[TV_Series-2003]_Peace_Maker_Kurogane/Peace_Maker_Kurogane_-_12[24]_-_Big_Brother_[704x528][DVD][a4e][C1F1DE44]v2.mkv
-!new/upload/[TV_Series-2003]_Peace_Maker_Kurogane/Peace_Maker_Kurogane_-_13[24]_-_Gaze_[704x528][DVD][a4e][140DB1F1].mkv
-!new/upload/[TV_Series-2003]_Peace_Maker_Kurogane/Peace_Maker_Kurogane_-_14[24]_-_Thoughts_[704x528][DVD][a4e][58C9D7C3].mkv
-!new/upload/[TV_Series-2003]_Peace_Maker_Kurogane/Peace_Maker_Kurogane_-_15[24]_-_Poetry_[704x528][DVD][a4e][6B7ED259].mkv
-!new/upload/[TV_Series-2003]_Peace_Maker_Kurogane/Peace_Maker_Kurogane_-_16[24]_-_Deceit_[704x528][DVD][a4e][87381452].mkv
-!new/upload/[TV_Series-2003]_Peace_Maker_Kurogane/Peace_Maker_Kurogane_-_17[24]_-_Hollow_[704x528][DVD][a4e][A2CD18AC].mkv
-!new/upload/[TV_Series-2003]_Peace_Maker_Kurogane/Peace_Maker_Kurogane_-_18[24]_-_Rain_[704x528][DVD][a4e][5AB7FA64].mkv
-!new/upload/[TV_Series-2003]_Peace_Maker_Kurogane/Peace_Maker_Kurogane_-_19[24]_-_Sky_[704x528][DVD][a4e][B779C2D7].mkv
-!new/upload/[TV_Series-2003]_Peace_Maker_Kurogane/Peace_Maker_Kurogane_-_20[24]_-_Blade_[704x528][DVD][a4e][B8505C39].mkv
-!new/upload/[TV_Series-2003]_Peace_Maker_Kurogane/Peace_Maker_Kurogane_-_21[24]_-_Battle_Array_[704x528][DVD][a4e][E36719E7].mkv
-!new/upload/[TV_Series-2003]_Peace_Maker_Kurogane/Peace_Maker_Kurogane_-_22[24]_-_Fight_[704x528][DVD][a4e][B9C442FA].mkv
-!new/upload/[TV_Series-2003]_Peace_Maker_Kurogane/Peace_Maker_Kurogane_-_23[24]_-_Truth_[704x528][DVD][a4e][E291D66C].mkv
-!new/upload/[TV_Series-2003]_Peace_Maker_Kurogane/Peace_Maker_Kurogane_-_24[24]_-_Iron_[704x528][DVD][a4e][28D15984].mkv
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -1314,39 +1184,6 @@
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/upload/[Urusai]_Bokura_Ga_Ita_01_[DVD_h264_AC3]_[2AEFBE85].mkv
-!new/upload/[Urusai]_Bokura_Ga_Ita_02_[DVD_h264_AC3]_[4FB3CDBC].mkv
-!new/upload/[Urusai]_Bokura_Ga_Ita_03_[DVD_h264_AC3]_[169D685A].mkv
-!new/upload/[Urusai]_Bokura_Ga_Ita_04_[DVD_h264_AC3]_[89CAF67A].mkv
-!new/upload/[Urusai]_Bokura_Ga_Ita_05_[DVD_h264_AC3]_[054DC602].mkv
-!new/upload/[Urusai]_Bokura_Ga_Ita_06_[DVD_h264_AC3]_[808740F2].mkv
-!new/upload/[Urusai]_Bokura_Ga_Ita_07_[DVD_h264_AC3]_[FD2EE1DB].mkv
-!new/upload/[Urusai]_Bokura_Ga_Ita_08_[DVD_h264_AC3]_[A5C1F921].mkv
-!new/upload/[Urusai]_Bokura_Ga_Ita_09_[DVD_h264_AC3]_[06594BA2].mkv
-!new/upload/[Urusai]_Bokura_Ga_Ita_10_[DVD_h264_AC3]_[71B5F592].mkv
-!new/upload/[Urusai]_Bokura_Ga_Ita_11_[DVD_h264_AC3]_[BFD685EC].mkv
-!new/upload/[Urusai]_Bokura_Ga_Ita_12_[DVD_h264_AC3]_[3D21844C].mkv
-!new/upload/[Urusai]_Bokura_Ga_Ita_13_[DVD_h264_AC3]_[4A6EF446].mkv
-!new/upload/[Urusai]_Bokura_Ga_Ita_14_[DVD_h264_AC3]_[A26E5CF5].mkv
-!new/upload/[Urusai]_Bokura_Ga_Ita_15_[DVD_h264_AC3]_[AC2C127D].mkv
-!new/upload/[Urusai]_Bokura_Ga_Ita_16_[DVD_h264_AC3]_[606A8314].mkv
-!new/upload/[Urusai]_Bokura_Ga_Ita_17_[DVD_h264_AC3]_[F79E1BD1].mkv
-!new/upload/[Urusai]_Bokura_Ga_Ita_18_[DVD_h264_AC3]_[8E76E77F].mkv
-!new/upload/[Urusai]_Bokura_Ga_Ita_19_[DVD_h264_AC3]_[CAF28F16].mkv
-!new/upload/[Urusai]_Bokura_Ga_Ita_20_[DVD_h264_AC3]_[AF9C5A1A].mkv
-!new/upload/[Urusai]_Bokura_Ga_Ita_21_[DVD_h264_AC3]_[B2712354].mkv
-!new/upload/[Urusai]_Bokura_Ga_Ita_22_[DVD_h264_AC3]_[780290C9].mkv
-!new/upload/[Urusai]_Bokura_Ga_Ita_23_[DVD_h264_AC3]_[6CBD6DF7].mkv
-!new/upload/[Urusai]_Bokura_Ga_Ita_24_[DVD_h264_AC3]_[A948E12C].mkv
-!new/upload/[Urusai]_Bokura_Ga_Ita_25_[DVD_h264_AC3]_[5BD50D1B].mkv
-!new/upload/[Urusai]_Bokura_Ga_Ita_26_[DVD_h264_AC3]_[B812C730].mkv
-!new/upload/[gg]_HIGHSCHOOL_OF_THE_DEAD_-_11_[D37B6D2B].mkv
-!new/upload/[iSiscon] Katakiri Rekka, Zwei, Ayane - Kourin no Machi, Lavender no Shoujo - Theme Song (FLAC).rar
-!new/upload/[iSiscon]_Asriel_-_11eyes_-Resona_Forma-_ED_Theme_-_INNOCENT_[w_scans]_(FLAC).rar
-!new/upload/[iSiscon]_Ayane_-_11eyes_-Resona_Forma-_OP_Theme_-_Juujika_ni_Sasagu_Nanae_Ensou_[w_scans]_(FLAC).rar
-!new/upload/[iSiscon]_Tamura_Yukari_-_Citron_no_Ame_[w_scans]_(FLAC).rar
-!new/upload/[iSiscon]_Tsukiyama_Sena_(CV._Gogyou_Nazuna)_-_Noble_Works_Character_Song_Vol.2_-_Oshigoto_Shimasu_[w_scans]_(FLAC).rar
-!new/upload/[iSiscon]_Various_Artists_-_Love_Live!_School_idol_project_-_Bokura_no_LIVE_Kimi_to_no_LIFE_[w_scans]_(FLAC).rar
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -1449,11 +1286,9 @@
 !new/upload/bla/zx.black.heaven.13.sub.rar
 !new/upload/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/upload/lama/[Ayako] Wei� Survive R - 01 - H264 - E975A989.mkv
-!new/upload/lama/[C1_L-E_MJN]_Little_Princess_Sara_-_01_[12B12455].avi
 !new/upload/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
 !new/upload/lama/[Kuroneko] Fullmetal Alchemist - Chibi Party OAV [DB1546EB].avi
 !new/upload/lama/[TAC Studios] Hunter X Hunter - Requiem.avi
-!new/upload/lama/[Zeonic-Corps] Mobile Suit Gundam Seed CE 73 Stargazer Trailer [1F8DAD77].avi
 !new/upload/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス OVA 「青空が描きたい」.mkv
 !new/upload/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 映像特典 「The たんかい」.mkv
 !new/upload/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 第01話 「えがいてあそぼ」.mkv

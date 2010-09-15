@@ -190,6 +190,7 @@ incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 03 [44E72E12].mkv
 incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 04 [693E3458].mkv
 incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 05 [FF85704E].mkv
 incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 06 [10762643].mkv
+incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 08 [07C4F947].mkv
 incomplete/Astro Fighter Sunred/[ANBU] Astro Fighter Sunred - 01 [170751D6].mkv
 incomplete/Astro Fighter Sunred/[ANBU] Astro Fighter Sunred - 02 [B22B9E90].mkv
 incomplete/Astro Fighter Sunred/[ANBU] Astro Fighter Sunred - 03 [4A5E438E].mkv
@@ -311,6 +312,7 @@ incomplete/Bleach/[HorribleSubs] Bleach - 284 (1280x720) [BFDBFC15].mkv
 incomplete/Bleach/[HorribleSubs] Bleach - 285 (1280x720) [EFD16194].mkv
 incomplete/Bleach/[HorribleSubs] Bleach - 286 (1280x720) [B1057F31].mkv
 incomplete/Bleach/[HorribleSubs] Bleach - 287 (1280x720) [8DFD88E3].mkv
+incomplete/Bleach/[HorribleSubs] Bleach - 288 (1280x720) [F31FB131].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 01 [AFCE3665].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 02 [A90F670C].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 03 [A47F2053].mkv
@@ -682,6 +684,10 @@ incomplete/Dragon Ball Kai/[SD-Taka] Dragon Ball Kai - 053 (1280x720) [46889961]
 incomplete/Dragon Ball Kai/[SD-Taka] Dragon Ball Kai - 054 (1280x720) [3C483E4B].mkv
 incomplete/Dragon Ball Kai/[SD-Taka] Dragon Ball Kai - 055 (1280x720) [448DD1A1].mkv
 incomplete/Dragon Ball Kai/[SD-Taka] Dragon Ball Kai - 056 (1280x720) [01F076FD].mkv
+incomplete/Dragon Ball Kai/[SD-Taka] Dragon Ball Kai - 057 (1280x720) [A6DEE8DC].mkv
+incomplete/Dragon Ball Kai/[SD-Taka] Dragon Ball Kai - 058 (1280x720) [D1395BF1].mkv
+incomplete/Dragon Ball Kai/[SD-Taka] Dragon Ball Kai - 059 (1280x720) [A2B4A392].mkv
+incomplete/Dragon Ball Kai/[SD-Taka] Dragon Ball Kai - 060 (1280x720) [A7D3411C].mkv
 incomplete/Dragon Ball Z/[DBNL] Dragon Ball Z - 040 [8D790326].mkv
 incomplete/Dragon Ball Z/[DBNL] Dragon Ball Z - 041 [5186B7D8].mkv
 incomplete/Dragon Ball Z/[DBNL] Dragon Ball Z - 042 [71E7D72D].mkv
@@ -723,6 +729,7 @@ incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 42 (1280x720) [C4C42331].mkv
 incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 43 (1280x720) [67A0251D].mkv
 incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 44 (1280x720) [72F8A35C].mkv
 incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 45 (1280x720) [61FB0644].mkv
+incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 46 (1280x720) [1229D49E].mkv
 incomplete/Fairy Tail/[Mamiko] Fairy Tail - 01 [0307DF54].mkv
 incomplete/Fairy Tail/[Mamiko] Fairy Tail - 02 [531F9793].mkv
 incomplete/Fairy Tail/[Mamiko] Fairy Tail - 03 [C7677EC8].mkv
@@ -802,6 +809,7 @@ incomplete/Giant Killing/[HorribleSubs] Giant Killing - 20 (1280x720) [33A519C3]
 incomplete/Giant Killing/[HorribleSubs] Giant Killing - 21 (1280x720) [3F490ACD].mkv
 incomplete/Giant Killing/[HorribleSubs] Giant Killing - 22 (1280x720) [4998DDF2].mkv
 incomplete/Giant Killing/[HorribleSubs] Giant Killing - 23 (1280x720) [ACE100A4].mkv
+incomplete/Giant Killing/[HorribleSubs] Giant Killing - 24 (1280x720) [29447DEE].mkv
 incomplete/Gintama OVA/[Hiyono] Gintama OVA - Shiroyasha Koutan [DVD][BB1F4720].mkv
 incomplete/Gintama OVA/[Rumbel] Gintama - OVA - Shiroyasha Koutan [7ACD0725].mkv
 incomplete/Gintama/[HorribleSubs] Gintama - 193 [720E02D2].mkv
@@ -811,6 +819,8 @@ incomplete/Gintama/[Rumbel-Nakama] Gintama - 139 [0E3BE8F4].mkv
 incomplete/Gintama/[Rumbel-Nakama] Gintama - 140 [26DFB28E].mkv
 incomplete/Gintama/[Rumbel-Nakama] Gintama - 141 [60AF6D4A].mkv
 incomplete/Gintama/[Rumbel-Nakama] Gintama - 142 [4EA45EEB].mkv
+incomplete/Gintama/[Rumbel-Nakama] Gintama - 143 [ACEB84B2].mkv
+incomplete/Gintama/[Rumbel-Nakama] Gintama - 144 [674A5E93].mkv
 incomplete/Gintama/[Rumbel-sMi] Gintama - 068 [0F52624F].mkv
 incomplete/Gintama/[Rumbel-sMi] Gintama - 069 [3A9CE0EC].mkv
 incomplete/Gintama/[Rumbel-sMi] Gintama - 070 [5F0520D8].mkv
@@ -1209,6 +1219,7 @@ incomplete/High School of the Dead/[gg] High School of the Dead - 07 [916B984D].
 incomplete/High School of the Dead/[gg] High School of the Dead - 08 [49F5974B].mkv
 incomplete/High School of the Dead/[gg] High School of the Dead - 09 [3A25004C].mkv
 incomplete/High School of the Dead/[gg] High School of the Dead - 10 [v2][F927D4A2].mkv
+incomplete/High School of the Dead/[gg] High School of the Dead - 11 [D37B6D2B].mkv
 incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[Chihiro] Hime Chen! Otogi Chikku Idol Lilpri - 01 (1280x720) [10115E01].mkv
 incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[Chihiro] Hime Chen! Otogi Chikku Idol Lilpri - 02 (1280x720) [10115E02].mkv
 incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[Chihiro] Hime Chen! Otogi Chikku Idol Lilpri - 03 (1280x720) [10115E03].mkv
@@ -1233,6 +1244,7 @@ incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi C
 incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 20 (1280x720) [2047BD79].mkv
 incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 21 (1280x720) [447CB7F9].mkv
 incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 22 (1280x720) [4FC4D4F6].mkv
+incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 24 (1280x720) [3FA1C869].mkv
 incomplete/Hime-chan's Ribbon/[h-b] Hime-chan's Ribbon - 01 [E3FEC3B1].avi
 incomplete/Hime-chan's Ribbon/[h-b] Hime-chan's Ribbon - 02 [014FF00B].avi
 incomplete/Hime-chan's Ribbon/[h-b] Hime-chan's Ribbon - 03 [3AE2FFE4].avi
@@ -1367,6 +1379,7 @@ incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 95 (1280x720) [94E9D59A].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 96 (1280x720) [132CDAD7].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 97 (1280x720) [3670764F].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 98 (1280x720) [BE4CC477].mkv
+incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 99 (1280x720) [254B1C9A].mkv
 incomplete/Initial D Battle Stage/[Shinsen-Subs] Initial D Battle Stage - 2 [End][B54855AA].mkv
 incomplete/Inuyasha Kanketsu-hen/[O-L] Inuyasha Kanketsu-hen - 01 (1280x720) [686D7CCE].mkv
 incomplete/Inuyasha Kanketsu-hen/[O-L] Inuyasha Kanketsu-hen - 02 (1280x720) [A0F39387].mkv
@@ -1852,6 +1865,7 @@ incomplete/Literature Girl/[Taco] Literature Girl OVA - 01 [2276F216].mkv
 incomplete/Literature Girl/[gg] Literature Girl - Preview [4C732EF8].mkv
 incomplete/Little Princess Sara/[C1 & L-E & MJN] Little Princess Sara - 01 [12B12455].avi
 incomplete/Little Princess Sara/[C1 & L-E & MJN] Little Princess Sara - 02 [947311DF].avi
+incomplete/Little Princess Sara/[C1 L-E MJN] Little Princess Sara - 01 [12B12455].avi
 incomplete/Lord of Lords Ryu Knight/[Triad] Lord of Lords Ryu Knight - 26 [412CF08F].avi
 incomplete/Lord of Lords Ryu Knight/[Triad] Lord of Lords Ryu Knight - 27 [D33DBA59].avi
 incomplete/Lord of Lords Ryu Knight/[Triad] Lord of Lords Ryu Knight - 28 [F27352EF].avi
@@ -2012,6 +2026,7 @@ incomplete/Mitsudomoe/[HorribleSubs] Mitsudomoe - 07 (1280x720) [77710EAF].mkv
 incomplete/Mitsudomoe/[HorribleSubs] Mitsudomoe - 08 (1280x720) [E5459E61].mkv
 incomplete/Mitsudomoe/[HorribleSubs] Mitsudomoe - 09 (1280x720) [4A1EAAF1].mkv
 incomplete/Mitsudomoe/[HorribleSubs] Mitsudomoe - 10 (1280x720) [397192B9].mkv
+incomplete/Mitsudomoe/[HorribleSubs] Mitsudomoe - 11 (1280x720) [F22AE1B0].mkv
 incomplete/Mitsudomoe/[RaveSubs] Mitsudomoe - 01 (1280x720) [v2][8E6792C6].mkv
 incomplete/Mitsudomoe/[RaveSubs] Mitsudomoe - 02 (1280x720) [E8513815].mkv
 incomplete/Mitsudomoe/[RaveSubs] Mitsudomoe - 03 (1280x720) [v2][B0BE5B25].mkv
@@ -2175,6 +2190,7 @@ incomplete/Occult Academy/[Commie] Occult Academy - 07 [5A2CAF44].mkv
 incomplete/Occult Academy/[HorribleSubs] Occult Academy - 08 (1280x720) [8DDD758C].mkv
 incomplete/Occult Academy/[HorribleSubs] Occult Academy - 09 (1280x720) [E653E0C6].mkv
 incomplete/Occult Academy/[HorribleSubs] Occult Academy - 10 (1280x720) [61A74CFB].mkv
+incomplete/Occult Academy/[HorribleSubs] Occult Academy - 11 (1280x720) [315C5366].mkv
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 01 [3A853D01].avi
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 02 [08A1F4E5].avi
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 03 [A66358B8].avi
@@ -2910,7 +2926,7 @@ incomplete/Saint Seiya/[Unknown] Saint Seiya - 112 [29B2B10D].avi
 incomplete/Saint Seiya/[Unknown] Saint Seiya - 113 [659A0AF1].avi
 incomplete/Saint Seiya/[Unknown] Saint Seiya - 114 [End][A5C8608A].avi
 incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 01 (1024x576) [v2][383FD033].mkv
-incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 02 (1024x576) [942D6FB9].mkv
+incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 02 (1280x720) [BD][3DB1FD1F].mkv
 incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 03 (1024x576) [8AA52B46].mkv
 incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 04 (1024x576) [072611CE].mkv
 incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 05 (1024x576) [F53C4CA4].mkv
@@ -2930,12 +2946,14 @@ incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 07 (
 incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 08 (1280x720) [2DBC8F92].mkv
 incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 09 (1280x720) [52ECD155].mkv
 incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 10 (1280x720) [5A09D9A1].mkv
+incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 11 (1280x720) [94290EB1].mkv
 incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - 01 [BD8BC276].mkv
 incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - 02 [93B0D6D5].mkv
 incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - 03 [127DB50F].mkv
 incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - 04 [5247BC44].mkv
 incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - 05 [346E78E5].mkv
 incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - 06 [C0F2B3AD].mkv
+incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - 07 [067FE1EC].mkv
 incomplete/Sengoku Basara Two/[Commie] Sengoku Basara Two - Opening [F8076451].mkv
 incomplete/Senkou no Night Raid/[Animanda] Senkou no Night Raid - 07 [Special][7EBC8D18].mkv
 incomplete/Senkou no Night Raid/[Animanda] Senkou no Night Raid - 08 [4658BE3A].mkv
@@ -2972,6 +2990,7 @@ incomplete/Shiki/[Commie] Shiki - 03 [E600A5D1].mkv
 incomplete/Shiki/[Commie] Shiki - 04 [0A9F1BCF].mkv
 incomplete/Shiki/[Commie] Shiki - 05 [7FFFC031].mkv
 incomplete/Shiki/[Commie] Shiki - 06 [0ADC6D09].mkv
+incomplete/Shiki/[Commie] Shiki - 07 [554D2702].mkv
 incomplete/Shugo Chara! Party!/[Fubuki] Shugo Chara! Party! - 01 (1280x720) [049EC961].mkv
 incomplete/Shugo Chara! Party!/[Fubuki] Shugo Chara! Party! - 02 (1280x720) [B6E53932].mkv
 incomplete/Shugo Chara! Party!/[Fubuki] Shugo Chara! Party! - 03 (1280x720) [1BDF2EED].mkv
@@ -2992,6 +3011,7 @@ incomplete/Shukufuku no Campanella/[Commie] Shukufuku no Campanella - 07 [23FD3C
 incomplete/Shukufuku no Campanella/[Commie] Shukufuku no Campanella - 08 [569E8BFA].mkv
 incomplete/Shukufuku no Campanella/[Commie] Shukufuku no Campanella - 09 [2C7E6516].mkv
 incomplete/Shukufuku no Campanella/[Commie] Shukufuku no Campanella - 10 [DE8BE86F].mkv
+incomplete/Shukufuku no Campanella/[Commie] Shukufuku no Campanella - 11 [7F63118E].mkv
 incomplete/Sisters of Wellber/[C1] Sisters of Wellber - 01 [1BAA09A7].avi
 incomplete/Sisters of Wellber/[C1] Sisters of Wellber - 02 [4F496048].avi
 incomplete/Sisters of Wellber/[C1] Sisters of Wellber - 03 [F172197F].avi
@@ -3126,6 +3146,10 @@ incomplete/The Legend of the Legendary Heroes/[Commie] The Legend of the Legenda
 incomplete/The Legend of the Legendary Heroes/[Commie] The Legend of the Legendary Heroes - 05 [27A879A4].mkv
 incomplete/The Legend of the Legendary Heroes/[Commie] The Legend of the Legendary Heroes - 06 [4965EEFD].mkv
 incomplete/The Legend of the Legendary Heroes/[Commie] The Legend of the Legendary Heroes - 07 [42658D2C].mkv
+incomplete/The Legend of the Legendary Heroes/[Commie] The Legend of the Legendary Heroes - 08 [E1811BFF].mkv
+incomplete/The Legend of the Legendary Heroes/[Commie] The Legend of the Legendary Heroes - 09 [AB97856A].mkv
+incomplete/The Legend of the Legendary Heroes/[Derp] The Legend of the Legendary Heroes - 10 (1280x720) [24E471BA].mkv
+incomplete/The Legend of the Legendary Heroes/[Derp] The Legend of the Legendary Heroes - 11 (1280x720) [533DBE3B].mkv
 incomplete/The Melancholy of Haruhi Suzumiya S2/[CoalGG] The Melancholy of Haruhi Suzumiya S2 - 01 [v2][A905C5A6].mkv
 incomplete/The Melancholy of Haruhi Suzumiya S2/[a.f.k.] The Melancholy of Haruhi Suzumiya S2 - 02 [074EF365].avi
 incomplete/The Melancholy of Haruhi Suzumiya S2/[a.f.k.] The Melancholy of Haruhi Suzumiya S2 - 03 [F6D1A015].avi
@@ -3209,6 +3233,7 @@ incomplete/The Trapp Family Story/[Live-eviL] The Trapp Family Story - 21 [BDCAC
 incomplete/The Trapp Family Story/[Live-eviL] The Trapp Family Story - 22 [655D3D12].avi
 incomplete/The Trapp Family Story/[Live-eviL] The Trapp Family Story - 23 [C4067960].avi
 incomplete/The Trapp Family Story/[Live-eviL] The Trapp Family Story - 24 [C471ADD5].avi
+incomplete/To Heart - Remember my Memories/[ReDone] To Heart - Remember my Memories - 01 [DVD][04641A84].mkv
 incomplete/Tono to Issho/[CrunchySubs] Tono to Issho - 01 (1280x720) [09F78AD2].mkv
 incomplete/Tono to Issho/[CrunchySubs] Tono to Issho - 02 (1280x720) [E7ECE8B8].mkv
 incomplete/Tono to Issho/[CrunchySubs] Tono to Issho - 03 (1280x720) [7766D71A].mkv
@@ -3298,6 +3323,7 @@ incomplete/Uragiri wa Boku no Namae wo Shitteiru/[HorribleSubs] Uragiri wa Boku 
 incomplete/Uragiri wa Boku no Namae wo Shitteiru/[HorribleSubs] Uragiri wa Boku no Namae wo Shitteiru - 20 [40E3989E].mkv
 incomplete/Uragiri wa Boku no Namae wo Shitteiru/[HorribleSubs] Uragiri wa Boku no Namae wo Shitteiru - 21 [0C5F9E31].mkv
 incomplete/Uragiri wa Boku no Namae wo Shitteiru/[HorribleSubs] Uragiri wa Boku no Namae wo Shitteiru - 22 [10FE7DE4].mkv
+incomplete/Uragiri wa Boku no Namae wo Shitteiru/[HorribleSubs] Uragiri wa Boku no Namae wo Shitteiru - 23 [7AFCFB55].mkv
 incomplete/Uragiri wa Boku no Namae wo Shitteiru/[Yuurisan-Subs] Uragiri wa Boku no Namae wo Shitteiru - 01 [37B920D9].mkv
 incomplete/Uragiri wa Boku no Namae wo Shitteiru/[Yuurisan-Subs] Uragiri wa Boku no Namae wo Shitteiru - 02 [415AE315].mkv
 incomplete/Uragiri wa Boku no Namae wo Shitteiru/[Yuurisan-Subs] Uragiri wa Boku no Namae wo Shitteiru - 03 [v2][D113F0AB].mkv
@@ -3437,6 +3463,7 @@ incomplete/Yumeiro Patissiere/[HorribleSubs] Yumeiro Patissiere - 44 (1280x720) 
 incomplete/Yumeiro Patissiere/[HorribleSubs] Yumeiro Patissiere - 45 (1280x720) [1D212A91].mkv
 incomplete/Yumeiro Patissiere/[HorribleSubs] Yumeiro Patissiere - 46 (1280x720) [E021AD92].mkv
 incomplete/Yumeiro Patissiere/[HorribleSubs] Yumeiro Patissiere - 47 (1280x720) [974EA8E6].mkv
+incomplete/Yumeiro Patissiere/[HorribleSubs] Yumeiro Patissiere - 48 (1280x720) [96C9DB6D].mkv
 incomplete/Yumeiro Patissiere/[SMS] Yumeiro Patissiere - 01 [8EA96FA1].mkv
 incomplete/Yumeiro Patissiere/[SMS] Yumeiro Patissiere - 02 [CB2036F8].mkv
 incomplete/Yumeiro Patissiere/[SMS] Yumeiro Patissiere - 03 [D4883B20].mkv

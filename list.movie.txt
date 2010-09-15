@@ -34,6 +34,7 @@ movie/Doraemon/[Doremi-Doraemon] Nobita And The Wind Wizard Movie 2003 [8469BD68
 movie/Doraemon/[Doremi-Doraemon] Nobita's Dinosaur Movie 2006 [94FCCFBE].avi
 movie/Doraemon/[Doremi-Doraemon] Nobita's New Adventure Into The Magic Planet Movie 2007 [C34F26C7].mkv
 movie/Doraemon/[Nobita] Nobita no Kekkon Zenya [FC36662B].mkv
+movie/Eden of the East/[Commie] Eden of the East - Movie II - Opening (1920x1080) [BD][E76EF0FF].mkv
 movie/Eden of the East/[Commie] Eden of the East - The Movie I - King of Eden (1920x1080) [D4CDF725].mkv
 movie/Eden of the East/[DB-gg] Eden of the East - The Movie I - King of Eden [0747D19A].avi
 movie/Eden of the East/[Translatorgasm] Eden of the East - The Movie II - Paradise Lost [39B3205B].mkv
@@ -99,6 +100,7 @@ movie/Paprika/[THORA] Paprika (2006) (1280x720) [BD][29C190A5].mkv
 movie/Patlabor Movie/[THORA] Patlabor Movie (1920x1040) [BD][5F02E5DE].mkv
 movie/Patlabor WXIII/[THORA] Patlabor WXIII [BD][5B5DB50F].mkv
 movie/Piano no Mori/[Live-eviL] Piano no Mori [9932815F].mkv
+movie/Pokemon/[RG-RyRo] Pokemon - AG Movie 3 [DVD][E4AF749A].mkv
 movie/Ponyo on the Cliff by the Sea/[niizk] Ponyo on the Cliff by the Sea (1920x1040) [0DF075A4].mkv
 movie/Porco Rosso/[niizk] Porco Rosso [24FEEEAA].mkv
 movie/Pretty Cure All-Stars DX2 Movie/[Curecom-Doremi] Pretty Cure All-Stars DX2 Movie [DVD][1BDB9DC5].mkv
