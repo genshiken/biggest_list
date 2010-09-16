@@ -5631,30 +5631,6 @@ complete/j/Juusoukikou Dancouga Nova/[Shinsen-Subs] Juusoukikou Dancouga Nova - 
 complete/k/K-ON! OVA/[CoalGuys] K-ON! - 14 OVA [72A0FDDB].mkv
 complete/k/K-ON! OVA/[Frostii] K-ON! - 14 OVA [BD][1A8A95B5].mkv
 complete/k/K-ON! OVA/[Frostii] K-ON! - 14 OVA [v2][BD][5D2BFA03].mkv
-complete/k/K-ON!!/[CoalGuys] K-ON!! - 24 [End][5E14AAF3].mkv
-complete/k/K-ON!!/[Frostii] K-ON!! - 01 [A4D58BA0].mkv
-complete/k/K-ON!!/[Frostii] K-ON!! - 02 [CBE8AFDC].mkv
-complete/k/K-ON!!/[Frostii] K-ON!! - 03 [6585A6D6].mkv
-complete/k/K-ON!!/[Frostii] K-ON!! - 04 [E9C82B61].mkv
-complete/k/K-ON!!/[Frostii] K-ON!! - 05 [4B111488].mkv
-complete/k/K-ON!!/[Frostii] K-ON!! - 06 [EF7D2B0B].mkv
-complete/k/K-ON!!/[Frostii] K-ON!! - 07 [0A46427D].mkv
-complete/k/K-ON!!/[Frostii] K-ON!! - 08 [083ACA1B].mkv
-complete/k/K-ON!!/[Frostii] K-ON!! - 09 [4F665181].mkv
-complete/k/K-ON!!/[Frostii] K-ON!! - 10 [4D6B8DE5].mkv
-complete/k/K-ON!!/[Frostii] K-ON!! - 11 [87E3D5F7].mkv
-complete/k/K-ON!!/[Frostii] K-ON!! - 12 [7A721A7F].mkv
-complete/k/K-ON!!/[Frostii] K-ON!! - 13 [85A60751].mkv
-complete/k/K-ON!!/[Frostii] K-ON!! - 14 [D61C99B4].mkv
-complete/k/K-ON!!/[Frostii] K-ON!! - 15 [C53BE153].mkv
-complete/k/K-ON!!/[Frostii] K-ON!! - 16 [CA2F1A00].mkv
-complete/k/K-ON!!/[Frostii] K-ON!! - 17 [3C080C6D].mkv
-complete/k/K-ON!!/[Frostii] K-ON!! - 18 [CF48B7A4].mkv
-complete/k/K-ON!!/[Frostii] K-ON!! - 19 [v2][65BFD1AD].mkv
-complete/k/K-ON!!/[Frostii] K-ON!! - 20 [943D733C].mkv
-complete/k/K-ON!!/[Frostii] K-ON!! - 21 [6175D262].mkv
-complete/k/K-ON!!/[Frostii] K-ON!! - 22 [4F1A5C83].mkv
-complete/k/K-ON!!/[Frostii] K-ON!! - 23 [BF3282DA].mkv
 complete/k/K-ON!/[CoalGuys] K-ON! - 13 [End][EEAB90C2].mkv
 complete/k/K-ON!/[Frostii] K-ON! - 01 [BD][B4E180E8].mkv
 complete/k/K-ON!/[Frostii] K-ON! - 02 [BD][B05DE25E].mkv
