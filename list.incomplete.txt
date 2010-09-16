@@ -182,9 +182,6 @@ incomplete/Ask Dr. Rin!/[HnK & L-E] Ask Dr. Rin! - 08 [7001DA65].avi
 incomplete/Ask Dr. Rin!/[HnK & L-E] Ask Dr. Rin! - 09 [69294171].avi
 incomplete/Ask Dr. Rin!/[HnK & L-E] Ask Dr. Rin! - 10 [23C37344].avi
 incomplete/Ask Dr. Rin!/[HnK & L-E] Ask Dr. Rin! - 11 [580BE701].avi
-incomplete/Asobi ni Iku Yo!/[Ayako-SubDESU] Asobi ni Iku Yo! - 06 (1280x720) [17534C68].mkv
-incomplete/Asobi ni Iku Yo!/[Ayako-SubDESU] Asobi ni Iku Yo! - 07 (1280x720) [FFCA7A0A].mkv
-incomplete/Asobi ni Iku Yo!/[Ayako-SubDESU] Asobi ni Iku Yo! - 08 (1280x720) [1B81A9F4].mkv
 incomplete/Asobi ni Iku Yo!/[Ayako-SubDESU] Asobi ni Iku Yo! - 09 (1280x720) [261F0BB9].mkv
 incomplete/Asobi ni Iku Yo!/[Ayako-SubDESU] Asobi ni Iku Yo! - 10 (1280x720) [29961D3E].mkv
 incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 01 [v3][079EFF6D].mkv
@@ -193,6 +190,7 @@ incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 03 [44E72E12].mkv
 incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 04 [693E3458].mkv
 incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 05 [FF85704E].mkv
 incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 06 [10762643].mkv
+incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 07 [DFDC796A].mkv
 incomplete/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 08 [07C4F947].mkv
 incomplete/Astro Fighter Sunred/[ANBU] Astro Fighter Sunred - 01 [170751D6].mkv
 incomplete/Astro Fighter Sunred/[ANBU] Astro Fighter Sunred - 02 [B22B9E90].mkv
@@ -1417,29 +1415,6 @@ incomplete/Jushin Liger/[Onibaku] Jushin Liger - 01 [D58023F1].mkv
 incomplete/Juuni Kokuki/[Arigatou] Juuni Kokuki - 01 [800E8F88].mkv
 incomplete/Juushin Enbu - Hero Tales/[DATS] Juushin Enbu - Hero Tales - 03 (1280x720) [3BD687F3].mkv
 incomplete/Juushin Enbu - Hero Tales/[Gekkostate] Juushin Enbu - Hero Tales - 01 (1024x576) [A06DD797].mp4
-incomplete/K-ON!!/[Frostii] K-ON!! - 01 [A4D58BA0].mkv
-incomplete/K-ON!!/[Frostii] K-ON!! - 02 [CBE8AFDC].mkv
-incomplete/K-ON!!/[Frostii] K-ON!! - 03 [6585A6D6].mkv
-incomplete/K-ON!!/[Frostii] K-ON!! - 04 [E9C82B61].mkv
-incomplete/K-ON!!/[Frostii] K-ON!! - 05 [4B111488].mkv
-incomplete/K-ON!!/[Frostii] K-ON!! - 06 [EF7D2B0B].mkv
-incomplete/K-ON!!/[Frostii] K-ON!! - 07 [0A46427D].mkv
-incomplete/K-ON!!/[Frostii] K-ON!! - 08 [083ACA1B].mkv
-incomplete/K-ON!!/[Frostii] K-ON!! - 09 [4F665181].mkv
-incomplete/K-ON!!/[Frostii] K-ON!! - 10 [4D6B8DE5].mkv
-incomplete/K-ON!!/[Frostii] K-ON!! - 11 [87E3D5F7].mkv
-incomplete/K-ON!!/[Frostii] K-ON!! - 12 [7A721A7F].mkv
-incomplete/K-ON!!/[Frostii] K-ON!! - 13 [85A60751].mkv
-incomplete/K-ON!!/[Frostii] K-ON!! - 14 [D61C99B4].mkv
-incomplete/K-ON!!/[Frostii] K-ON!! - 15 [C53BE153].mkv
-incomplete/K-ON!!/[Frostii] K-ON!! - 16 [CA2F1A00].mkv
-incomplete/K-ON!!/[Frostii] K-ON!! - 17 [3C080C6D].mkv
-incomplete/K-ON!!/[Frostii] K-ON!! - 18 [CF48B7A4].mkv
-incomplete/K-ON!!/[Frostii] K-ON!! - 19 [v2][65BFD1AD].mkv
-incomplete/K-ON!!/[Frostii] K-ON!! - 20 [943D733C].mkv
-incomplete/K-ON!!/[Frostii] K-ON!! - 21 [6175D262].mkv
-incomplete/K-ON!!/[Frostii] K-ON!! - 22 [4F1A5C83].mkv
-incomplete/K-ON!!/[Frostii] K-ON!! - 23 [BF3282DA].mkv
 incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 01 (1280x720) [149F1EB5].mkv
 incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 02 (1280x720) [A3508CA2].mkv
 incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 03 (1280x720) [F0D374A8].mkv
@@ -2717,6 +2692,7 @@ incomplete/One Piece/[yibis] One Piece - 462 (1280x720) [v2][58E61060].mkv
 incomplete/One Piece/[yibis] One Piece - 463 (1280x720) [37A4A136].mkv
 incomplete/One Piece/[yibis] One Piece - 464 (1280x720) [564039B9].mkv
 incomplete/One Piece/[yibis] One Piece - 465 (1280x720) [D08BB26C].mkv
+incomplete/One Piece/[yibis] One Piece - 466 (1280x720) [1099B034].mkv
 incomplete/Ontama!/[DATS] Ontama! - 01 [2F0C7231].mkv
 incomplete/Ontama!/[DATS] Ontama! - 02 [2FBB11E1].mkv
 incomplete/Ontama!/[DATS] Ontama! - 03 [00BDF47B].mkv
@@ -2937,7 +2913,7 @@ incomplete/Saint Seiya/[Unknown] Saint Seiya - 111 [1FBB622F].avi
 incomplete/Saint Seiya/[Unknown] Saint Seiya - 112 [29B2B10D].avi
 incomplete/Saint Seiya/[Unknown] Saint Seiya - 113 [659A0AF1].avi
 incomplete/Saint Seiya/[Unknown] Saint Seiya - 114 [End][A5C8608A].avi
-incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 01 (1024x576) [v2][383FD033].mkv
+incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 01 (1280x720) [BD][E4FAEC11].mkv
 incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 02 (1280x720) [BD][3DB1FD1F].mkv
 incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 03 (1024x576) [8AA52B46].mkv
 incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 04 (1024x576) [072611CE].mkv
@@ -3134,6 +3110,7 @@ incomplete/Souten Kouro/[Lunar] Souten Kouro - 07 (1280x720) [12112170].mkv
 incomplete/Souten Kouro/[Lunar] Souten Kouro - 08 (1280x720) [5342C117].mkv
 incomplete/Souten Kouro/[Lunar] Souten Kouro - 09 (1280x720) [8ACE6834].mkv
 incomplete/Souten no Ken/[Sentosha] Souten no Ken - 01 [DVD][7CBE4115].avi
+incomplete/Strike Witches 2/[HorribleSubs] Strike Witches 2 - 11 (1280x720) [F778B741].mkv
 incomplete/Strike Witches 2/[Underwater] Strike Witches 2 - 01 (1280x720) [v2][D901D7EE].mkv
 incomplete/Strike Witches 2/[Underwater] Strike Witches 2 - 02 (1280x720) [59BC29E8].mkv
 incomplete/Strike Witches 2/[Underwater] Strike Witches 2 - 03 (1280x720) [7E6B9956].mkv
