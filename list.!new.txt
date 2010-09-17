@@ -276,6 +276,9 @@
 !new/upload/-ian87-/kamis/100915 Suppon no Onnatachi ep16.avix
 !new/upload/-ian87-/kamis/AKB48 - Shukan AKB Vol 6 Disc 1 - Behind the Scenes.mkv
 !new/upload/-ian87-/kamis/AKB48 - Shukan AKB Vol 6 Disc 2 Special.mkv
+!new/upload/-ian87-/kamis/Aiuchi Rina - Last Scene [DVDISO].iso.000
+!new/upload/-ian87-/kamis/Aiuchi Rina - Last Scene [DVDISO].iso.001
+!new/upload/-ian87-/kamis/Anata no Utahime PV Edit.mp4
 !new/upload/-ian87-/kamis/Erina Mano - Kitty Paradise (Pakupaku Pak kukku) 20100914.ts
 !new/upload/-ian87-/kamis/Gekkan Idoling!!! - 201007 (Part 1).mp4
 !new/upload/-ian87-/kamis/Gekkan Idoling!!! - 201007 (Part 2).mp4
@@ -285,14 +288,24 @@
 !new/upload/-ian87-/kamis/Gekkan Idoling!!! - 201008 (Part 2).mp4
 !new/upload/-ian87-/kamis/Gekkan Idoling!!! - 201008 (Part 3).mp4
 !new/upload/-ian87-/kamis/Gekkan Idoling!!! - 201008 (Part 4).mp4
+!new/upload/-ian87-/kamis/Hotaru no Hikari 2 ep11 [1920x1080p H.264 AAC].mkv.000
+!new/upload/-ian87-/kamis/Hotaru no Hikari 2 ep11 [1920x1080p H.264 AAC].mkv.001
+!new/upload/-ian87-/kamis/Hotaru no Hikari 2 ep11 [1920x1080p H.264 AAC].mkv.002
+!new/upload/-ian87-/kamis/Kalafina - Kagayaku Sora no Shijima ni wa.tar
+!new/upload/-ian87-/kamis/Kogane no Seiya Sousetsu ni Kuchite.mp4
+!new/upload/-ian87-/kamis/Koi suru VOC@LOID.mp4
+!new/upload/-ian87-/kamis/Koichi Muitte Baby.mp4
+!new/upload/-ian87-/kamis/MELT.mp4
 !new/upload/-ian87-/kamis/Mari Yaguchi - How to Monkey Baby 20100915.mp4
 !new/upload/-ian87-/kamis/Miporin no Ekubo (1280x720 x264).mkv.000
 !new/upload/-ian87-/kamis/Miporin no Ekubo (1280x720 x264).mkv.001
 !new/upload/-ian87-/kamis/Morning Musume OG - The Music Hour 20100914.avix
+!new/upload/-ian87-/kamis/Starduster PV Edit.mp4
 !new/upload/-ian87-/kamis/[H!F] Ikinari Ougon Densetsu (2010.03.11) Gal Sone & Morning Musume (H264).mp4
 !new/upload/-ian87-/kamis/[Hyakupa] Mano Erina - Mano Guam.mp4.000
 !new/upload/-ian87-/kamis/[Hyakupa] Mano Erina - Mano Guam.mp4.001
 !new/upload/-ian87-/kamis/manoerina-genkimonodeikou.tar
+!new/upload/-ian87-/kamis/sad-budokan-TITLE02_01.avix
 !new/upload/-ian87-/lynch. [JUDGEMENT] spot_full.avi
 !new/upload/-ian87-/miwa - change [DVDISO].isod
 !new/upload/-ian87-/music005.tar
@@ -533,6 +546,7 @@
 !new/upload/Carol/[raw] Carol OVA.ass
 !new/upload/Carol/[raw] Carol OVA.avi
 !new/upload/CoreAVC_2.0_Professional_with_key.zip
+!new/upload/Ghost_in_the_Shell_-_Innocence_[3xR][Blu-ray.1080p.H264.AC3][7C2C6303].mkv
 !new/upload/Highschool_of_the_Dead_c27_[ENG].zip
 !new/upload/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/upload/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
@@ -886,6 +900,7 @@
 !new/upload/[Coalgirls]_Kiss_x_Sis_ED2_(1280x720_Blu-Ray_FLAC)_[BE81E765].mkv
 !new/upload/[Coalgirls]_Seitokai_Yakuindomo_01_(1920x1080_Blu-Ray_FLAC)_[912D6FAB].mkv
 !new/upload/[Coalgirls]_Seitokai_Yakuindomo_02_(1920x1080_Blu-Ray_FLAC)_[EBB16865].mkv
+!new/upload/[Commie] Kuroshitsuji II - 12 [END] [59D3E279].mkv
 !new/upload/[Commie] The Legend of the Legendary Heroes - 10 [860AD6A4].mkv
 !new/upload/[CrunchySubs] Tono to Issho - 10 [720p].mkv
 !new/upload/[CrunchySubs] Tono to Issho - 11 [720p].mkv
@@ -899,6 +914,7 @@
 !new/upload/[HorribleSubs] HEROMAN - 25 [720p].mkv
 !new/upload/[INP]_One_Piece_-_Strong_World[H264_1920x1080][116926DE].mkv
 !new/upload/[KiteSeekers-PFSubs] Shin Koihime Musou - Live Revolution [BD 1080p H264 AAC] [A457A2C6].mkv
+!new/upload/[Mazui]_Ookami-san_-_10v2_[9D6F6817].mkv
 !new/upload/[Mazui]_Ookami-san_-_12_[F8E1E04A].mkv
 !new/upload/[Movie-1986]_Touch_2__Sayonara_no_Okurimono/Touch_2__Sayonara_no_Okurimono_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][C6396C54].avi
 !new/upload/[Movie-1986]_Touch__Sebangou_no_Nai_Ace/Touch__Sebangou_no_Nai_Ace_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][83A7DB30].avi
@@ -918,6 +934,8 @@
 !new/upload/[Movie-2002]_Inuyasha__Kagami_no_Naka_no_Mugenjou/Inuyasha__Kagami_no_Naka_no_Mugenjou_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][5BE86486].mkv
 !new/upload/[Movie-2003]_Inuyasha_-_Tenka_Hadou_no_Ken/Inuyasha_-_Tenka_Hadou_no_Ken_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][729CFBDD].mkv
 !new/upload/[Movie-2004]_Inuyasha__Guren_no_Houraijima/Inuyasha__Guren_no_Houraijima_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][ED7FAAFB].mkv
+!new/upload/[Nipponsei] K-ON!! Official Band Yarouyo!! ~Let's MUSIC!! 2~ Band Score.zip
+!new/upload/[Nipponsei] Kyou, Koi wo Hajimemasu ED Single - Ijiwaru na Koi [Itou Kanae].zip
 !new/upload/[OVA-1989]_Kimagure_Orange_Road__Hawaiian_Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/upload/[OVA-1989]_Kimagure_Orange_Road__Shiroi_Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/upload/[OVA-1991]_Kimagure_Orange_Road__Omoi_Gakenai_Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -941,6 +959,8 @@
 !new/upload/[OVA-1997]_Macross_Dynamite_7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/upload/[OVA-1997]_Macross_Dynamite_7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/upload/[OVA-1997]_Macross_Dynamite_7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
+!new/upload/[Setsuna] Kawada Mami & KOTOKO - Radiance & Chi ni Kaeru ~On the Earth~ - Starship Operators OP&ED (FLAC).7z
+!new/upload/[TMD]_Saint_Seiya_-_009_[DVD-h264][86500723].mkv
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/upload/[TV_Series-2000]_Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -1180,6 +1200,7 @@
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/upload/[TV_Series-2007]_GR_-Giant_Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/upload/[loner]_Sae_Nakata_(Hiromi_Konno)_Amagami_SS_ED_Single_3_-_Anata_Shika_Mienai_[FLAC].7z
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
