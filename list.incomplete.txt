@@ -1141,6 +1141,7 @@ incomplete/Heroman/[HorribleSubs] Heroman - 21 (1280x720) [CCAD67BD].mkv
 incomplete/Heroman/[HorribleSubs] Heroman - 22 (1280x720) [F003741F].mkv
 incomplete/Heroman/[HorribleSubs] Heroman - 23 (1280x720) [E4FEC383].mkv
 incomplete/Heroman/[HorribleSubs] Heroman - 24 (1280x720) [156BD896].mkv
+incomplete/Heroman/[HorribleSubs] Heroman - 25 (1280x720) [441AE647].mkv
 incomplete/Hetalia Axis Powers/[gg] Hetalia Axis Powers - 01 [DVD][E68B5765].mkv
 incomplete/Hetalia Axis Powers/[gg] Hetalia Axis Powers - 02 [DVD][23C618E5].mkv
 incomplete/Hetalia Axis Powers/[gg] Hetalia Axis Powers - 03 [DVD][018F3E7B].mkv
@@ -1250,6 +1251,7 @@ incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi C
 incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 21 (1280x720) [447CB7F9].mkv
 incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 22 (1280x720) [4FC4D4F6].mkv
 incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 24 (1280x720) [3FA1C869].mkv
+incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 25 (1280x720) [ECF88773].mkv
 incomplete/Hime-chan's Ribbon/[h-b] Hime-chan's Ribbon - 01 [E3FEC3B1].avi
 incomplete/Hime-chan's Ribbon/[h-b] Hime-chan's Ribbon - 02 [014FF00B].avi
 incomplete/Hime-chan's Ribbon/[h-b] Hime-chan's Ribbon - 03 [3AE2FFE4].avi
@@ -1819,17 +1821,6 @@ incomplete/Konjiki no Gash Bell (1-107,110+)/[A-Destiny] Konjiki no Gash Bell - 
 incomplete/Konjiki no Gash Bell - OVA/[A-Destiny] Konjiki no Gash Bell - OVA 1 [C681146F].mp4
 incomplete/Kurenai OVA/[Commie] Kurenai OVA - 01 [F08AFC06].mkv
 incomplete/Kurenai OVA/[gleam] Kurenai OVA - 01 [0E73F000].mkv
-incomplete/Kuroshitsuji II/[Commie] Kuroshitsuji II - 01 [02A3640C].mkv
-incomplete/Kuroshitsuji II/[Commie] Kuroshitsuji II - 02 [CEF406B3].mkv
-incomplete/Kuroshitsuji II/[Commie] Kuroshitsuji II - 03 [4A8CBF85].​mkv
-incomplete/Kuroshitsuji II/[Commie] Kuroshitsuji II - 04 [3D9B302B].mkv
-incomplete/Kuroshitsuji II/[Commie] Kuroshitsuji II - 05 [7748FD97].mkv
-incomplete/Kuroshitsuji II/[Commie] Kuroshitsuji II - 06 [E2571497].mkv
-incomplete/Kuroshitsuji II/[Commie] Kuroshitsuji II - 07 [AA849892].mkv
-incomplete/Kuroshitsuji II/[Commie] Kuroshitsuji II - 08 [697199D0].mkv
-incomplete/Kuroshitsuji II/[Commie] Kuroshitsuji II - 09 [1E06A900].mkv
-incomplete/Kuroshitsuji II/[Commie] Kuroshitsuji II - 10 [1DBB4324].mkv
-incomplete/Kuroshitsuji II/[Commie] Kuroshitsuji II - 11 [B5AF4697].mkv
 incomplete/Kuttsukiboshi/[SHiN-gx] Kuttsukiboshi - 01 [DVD][630B6F83].mkv
 incomplete/Kuttsukiboshi/[UTW] Kuttsukiboshi - 1 [LQ][021AC18A].mkv
 incomplete/Kyou Kara Maou/[AonE Ani-Kraze] Kyou Kara Maou - 52 [F3C040AF].avi
@@ -2198,7 +2189,7 @@ incomplete/Occult Academy/[Commie] Occult Academy - 04 [97D716CF].mkv
 incomplete/Occult Academy/[Commie] Occult Academy - 05 [FB3D283E].mkv
 incomplete/Occult Academy/[Commie] Occult Academy - 06 [11CA49C2].mkv
 incomplete/Occult Academy/[Commie] Occult Academy - 07 [5A2CAF44].mkv
-incomplete/Occult Academy/[HorribleSubs] Occult Academy - 08 (1280x720) [8DDD758C].mkv
+incomplete/Occult Academy/[Commie] Occult Academy - 08 [F4F4CF88].mkv
 incomplete/Occult Academy/[HorribleSubs] Occult Academy - 09 (1280x720) [E653E0C6].mkv
 incomplete/Occult Academy/[HorribleSubs] Occult Academy - 10 (1280x720) [61A74CFB].mkv
 incomplete/Occult Academy/[HorribleSubs] Occult Academy - 11 (1280x720) [315C5366].mkv
@@ -2733,7 +2724,9 @@ incomplete/Ookami-san/[Mazui] Ookami-san - 07 [C5217F7D].mkv
 incomplete/Ookami-san/[Mazui] Ookami-san - 08 [9DDF2F74].mkv
 incomplete/Ookami-san/[Mazui] Ookami-san - 09 [v2][D4F05F8E].mkv
 incomplete/Ookami-san/[Mazui] Ookami-san - 10 [F2C054F8].mkv
+incomplete/Ookami-san/[Mazui] Ookami-san - 10 [v2][9D6F6817].mkv
 incomplete/Ookami-san/[Mazui] Ookami-san - 11 [A26657BB].mkv
+incomplete/Ookami-san/[Mazui] Ookami-san - 12 [F8E1E04A].mkv
 incomplete/Patalliro/[aarinfantasy] Patalliro - 14 [B04ACEDC].avi
 incomplete/Perrine/[C1] Perrine - 01 [DD61EE37].avi
 incomplete/Perrine/[C1] Perrine - 02 [7D8E124B].avi
@@ -2923,6 +2916,7 @@ incomplete/Saint Seiya/[TMD] Saint Seiya - 005 [DVD][6960B381].mkv
 incomplete/Saint Seiya/[TMD] Saint Seiya - 006 [DVD][D0D02063].mkv
 incomplete/Saint Seiya/[TMD] Saint Seiya - 007 [DVD][20214AB4].mkv
 incomplete/Saint Seiya/[TMD] Saint Seiya - 008 [DVD][436C47AF].mkv
+incomplete/Saint Seiya/[TMD] Saint Seiya - 009 [DVD][86500723].mkv
 incomplete/Saint Seiya/[Unknown] Saint Seiya - 100 [A056D4F6].avi
 incomplete/Saint Seiya/[Unknown] Saint Seiya - 101 [AB1A1182].avi
 incomplete/Saint Seiya/[Unknown] Saint Seiya - 102 [11461B0C].avi
@@ -2949,6 +2943,7 @@ incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 08 (1024x576) [4
 incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 09 (1024x576) [7EA88A1B].mkv
 incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 10 (1024x576) [5CBF6EAE].mkv
 incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 11 (1024x576) [45F65C35].mkv
+incomplete/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 12 (1024x576) [C7E36FAB].mkv
 incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 01 (1280x720) [804D1CBC].mkv
 incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 02 (1280x720) [826D5501].mkv
 incomplete/Sekirei - Pure Engagement/[Ryuumaru] Sekirei - Pure Engagement - 03 (1280x720) [0EF556CA].mkv
@@ -2972,6 +2967,7 @@ incomplete/Senkou no Night Raid/[Animanda] Senkou no Night Raid - 07 [Special][7
 incomplete/Senkou no Night Raid/[Animanda] Senkou no Night Raid - 08 [4658BE3A].mkv
 incomplete/Senkou no Night Raid/[Animanda] Senkou no Night Raid - 09 [437EDA40].mkv
 incomplete/Senkou no Night Raid/[Animanda] Senkou no Night Raid - 10 [D1B136BA].mkv
+incomplete/Senkou no Night Raid/[Animanda] Senkou no Night Raid - 11 [FF71369E].mkv
 incomplete/Senkou no Night Raid/[Commie] Senkou no Night Raid - 01 [D5EE9405].mkv
 incomplete/Senkou no Night Raid/[Commie] Senkou no Night Raid - Opening (1920x1080) [BD][24CC67BD].mkv
 incomplete/Senkou no Night Raid/[KnKF-Conclave] Senkou no Night Raid - 01 (1280x720) [CA953645].mkv
@@ -3025,6 +3021,7 @@ incomplete/Shukufuku no Campanella/[Commie] Shukufuku no Campanella - 08 [569E8B
 incomplete/Shukufuku no Campanella/[Commie] Shukufuku no Campanella - 09 [2C7E6516].mkv
 incomplete/Shukufuku no Campanella/[Commie] Shukufuku no Campanella - 10 [DE8BE86F].mkv
 incomplete/Shukufuku no Campanella/[Commie] Shukufuku no Campanella - 11 [7F63118E].mkv
+incomplete/Shukufuku no Campanella/[Commie] Shukufuku no Campanella - 12 [C46C960E].mkv
 incomplete/Sisters of Wellber/[C1] Sisters of Wellber - 01 [1BAA09A7].avi
 incomplete/Sisters of Wellber/[C1] Sisters of Wellber - 02 [4F496048].avi
 incomplete/Sisters of Wellber/[C1] Sisters of Wellber - 03 [F172197F].avi
@@ -3162,7 +3159,7 @@ incomplete/The Legend of the Legendary Heroes/[Commie] The Legend of the Legenda
 incomplete/The Legend of the Legendary Heroes/[Commie] The Legend of the Legendary Heroes - 07 [42658D2C].mkv
 incomplete/The Legend of the Legendary Heroes/[Commie] The Legend of the Legendary Heroes - 08 [E1811BFF].mkv
 incomplete/The Legend of the Legendary Heroes/[Commie] The Legend of the Legendary Heroes - 09 [AB97856A].mkv
-incomplete/The Legend of the Legendary Heroes/[Derp] The Legend of the Legendary Heroes - 10 (1280x720) [24E471BA].mkv
+incomplete/The Legend of the Legendary Heroes/[Commie] The Legend of the Legendary Heroes - 10 [860AD6A4].mkv
 incomplete/The Legend of the Legendary Heroes/[Derp] The Legend of the Legendary Heroes - 11 (1280x720) [533DBE3B].mkv
 incomplete/The Melancholy of Haruhi Suzumiya S2/[CoalGG] The Melancholy of Haruhi Suzumiya S2 - 01 [v2][A905C5A6].mkv
 incomplete/The Melancholy of Haruhi Suzumiya S2/[a.f.k.] The Melancholy of Haruhi Suzumiya S2 - 02 [074EF365].avi
@@ -3480,6 +3477,7 @@ incomplete/Yumeiro Patissiere/[HorribleSubs] Yumeiro Patissiere - 45 (1280x720) 
 incomplete/Yumeiro Patissiere/[HorribleSubs] Yumeiro Patissiere - 46 (1280x720) [E021AD92].mkv
 incomplete/Yumeiro Patissiere/[HorribleSubs] Yumeiro Patissiere - 47 (1280x720) [974EA8E6].mkv
 incomplete/Yumeiro Patissiere/[HorribleSubs] Yumeiro Patissiere - 48 (1280x720) [96C9DB6D].mkv
+incomplete/Yumeiro Patissiere/[HorribleSubs] Yumeiro Patissiere - 49 (1280x720) [73990339].mkv
 incomplete/Yumeiro Patissiere/[SMS] Yumeiro Patissiere - 01 [8EA96FA1].mkv
 incomplete/Yumeiro Patissiere/[SMS] Yumeiro Patissiere - 02 [CB2036F8].mkv
 incomplete/Yumeiro Patissiere/[SMS] Yumeiro Patissiere - 03 [D4883B20].mkv
