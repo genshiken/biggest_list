@@ -34,6 +34,7 @@ movie/Doraemon/[Doremi-Doraemon] Nobita And The Wind Wizard Movie 2003 [8469BD68
 movie/Doraemon/[Doremi-Doraemon] Nobita's Dinosaur Movie 2006 [94FCCFBE].avi
 movie/Doraemon/[Doremi-Doraemon] Nobita's New Adventure Into The Magic Planet Movie 2007 [C34F26C7].mkv
 movie/Doraemon/[Nobita] Nobita no Kekkon Zenya [FC36662B].mkv
+movie/Eden of the East/[Coalgirls] Eden of the East - Movie 1 (1920x1080) [BD][268965BF].mkv
 movie/Eden of the East/[Commie] Eden of the East - Movie II - Opening (1920x1080) [BD][E76EF0FF].mkv
 movie/Eden of the East/[Commie] Eden of the East - The Movie I - King of Eden (1920x1080) [D4CDF725].mkv
 movie/Eden of the East/[DB-gg] Eden of the East - The Movie I - King of Eden [0747D19A].avi
@@ -48,6 +49,7 @@ movie/Franz Kafka's ~A Country Doctor~/[AnimeClipse-Ureshii] Franz Kafka's ~A Co
 movie/Fresh Pretty Cure!/[CureCom-Doremi] Fresh Pretty Cure! - Movie [DVD][AC03D6C0].mkv
 movie/Fullmetal Alchemist - The Conqueror of Shamballa/[KAA] Fullmetal Alchemist - The Conqueror of Shamballa [EA07D24E].mkv
 movie/Ged Senki - Tales from Earthsea/[niizk] Ged Senki - Tales from Earthsea [v2][39703EB2].mkv
+movie/Ghost in the Shell/[3xR] Ghost in the Shell - Innocence (1920x1080) 7C2C6303].mkv
 movie/Ghost in the Shell/[KAA] Ghost in the Shell - Innocence [DVD][00C92C0A].mkv
 movie/Ghost in the Shell/[OZC] Ghost in the Shell Stand Alone Complex - Solid State Society [9E41633F].mkv
 movie/Ghost in the Shell/[OZC] Ghost in the Shell Stand Alone Complex - The Laughing Man [C8051FC7].mkv
@@ -59,6 +61,7 @@ movie/Gunbuster Movie/[THORA] Gunbuster Movie (1988) - Part 2 [720p,BD][EE2264D2
 movie/Gundam - Char's Counterattack/[OZC] Gundam - Char's Counterattack (1280x720) [7DF4FA68].mkv
 movie/Gundam SEED CE73 Stargazer/[Mendoi] Gundam SEED CE73 Stargazer [DVD][DE19D759].mp4
 movie/Gundam Wing Endless Waltz/[EG] Gundam Wing Endless Waltz Remastered [v2][49A7A358].mkv
+movie/Haruka Naru Toki no Naka de - Maihitoyo/[C1] Haruka Naru Toki no Naka de - Maihitoyo [97889F2C].mkv
 movie/Hoshi no Koe - Voices of a Distant Star/[niizk] Hoshi no Koe - Voices of a Distant Star [54929BA5].mkv
 movie/Hoshi no Koe/[KAA] Hoshi no Koe [3E86A406].mkv
 movie/Howl's Moving Castle (2004)/[THORA] Howl's Moving Castle (2004) (1280x720) [2EA73143].mkv
@@ -76,6 +79,7 @@ movie/Kara no Kyoukai/[gg-TakaJun] Kara no Kyoukai - Chapter 6 - Oblivion Record
 movie/Kara no Kyoukai/[gg-TakaJun] Kara no Kyoukai - Chapter 7 - Murder Study (Part 2) [9789CE05].mkv
 movie/Kino no Tabi/[niizk] Kino no Tabi - Movie 1 - Life Goes On [66C0CDD2].mkv
 movie/Kino no Tabi/[niizk] Kino no Tabi - Movie 2 - The Country of Illness - For You [66B947E6].mkv
+movie/Literature Girl/[Doki] Literature Girl (1920x1080) [BD][AA6A7997].mkv
 movie/Love Hina Spring Movie/[KAA] Love Hina Spring Movie [DVD][866F2857].avi
 movie/Lupin III - The Last Job/[Frostii] Lupin III - The Last Job [9F1B054B].mkv
 movie/Lupin III/[F-B & Ureshii] Lupin III - Angel Tactics [0A2AD5F6].mkv
@@ -94,6 +98,7 @@ movie/Naruto Shippuuden/[DB] Naruto Shippuuden - Movie 3 [BCC77C3B].avi
 movie/Naruto Shippuuden/[SD-Taka] Naruto Shippuuden - Movie 3 [FA615D4F].mp4
 movie/Nausicaa of the Valley of the Wind (1984)/[THORA] Nausicaa of the Valley of the Wind (1984) [BD][6D0CA03D].mkv
 movie/Ojamajo Doremi Sharp Movie/[Doremi] Ojamajo Doremi Sharp Movie [27E34A4E].avi
+movie/One Piece/[INP] One Piece - Movie 10 (1920x1080) [116926DE].mkv
 movie/One Piece/[yibis] One Piece - Movie 9 (1280x720) [780350D8].mkv
 movie/Pale Cocoon/[Doremi-HF-Shakugan] Pale Cocoon [BAEE1167].avi
 movie/Paprika/[THORA] Paprika (2006) (1280x720) [BD][29C190A5].mkv
@@ -131,7 +136,6 @@ movie/[AonE] Final Fantasy VII - Dirge of the Cerberus CG Movies [94988310].mp4
 movie/[Arienai] Pretty Cure Max Heart Movie - 2 [CB8EB36E].mp4
 movie/[At0m5k] G-9 - OVA [92980238].mkv
 movie/[Ayu] Bakuretsu Tenshi - Infinity [74EAB946].mkv
-movie/[C1] Haruka Naru Toki no Naka de -Maihitoyo- [97889F2C].mkv
 movie/[C1] Hotori - Tada Saiwai wo Koinegau [5E61851F].avi
 movie/[DATS] Digimon Savers - The Movie [C250CC7E].avi
 movie/[DB] Bleach Movie [D382C035].avi
