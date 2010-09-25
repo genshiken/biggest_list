@@ -708,8 +708,10 @@
 !new/upload/[Doutei]Golgo 13 - 45[DVD][60DB41FF].mkv
 !new/upload/[Fabulous] Pokemon Best Wishes Black & White - 01 [E82BAE1E].mkv
 !new/upload/[HorribleSubs] HEROMAN - 26 [720p].mkv
+!new/upload/[HorribleSubs] Kateikyoushi Hitman Reborn - 203 [720p].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_23_[834CEFC1].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_24_[5C257A77].mkv
+!new/upload/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 17 [H264 1280x720] [903E459C].mkv
 !new/upload/[Movie-1986] Touch - 2 Sayonara no Okurimono/Thumbs.db
 !new/upload/[Movie-1986] Touch - 2 Sayonara no Okurimono/Thumbs.db:encryptable
 !new/upload/[Movie-1986] Touch - 2 Sayonara no Okurimono/Touch_2__Sayonara_no_Okurimono_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][C6396C54].avi
@@ -997,6 +999,21 @@
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/upload/[UTW]_Amagami_SS_-_13_[h264-720p][F2431D22].mkv
 !new/upload/[Underwater] Strike Witches 2 - 12 [720p][98CEAF13].mkv
+!new/upload/[amusic] Ceui - The Legend of the Legendary Heroes ED Single - Truth of My Destiny [w scans] (FLAC).zip
+!new/upload/[amusic] CooRie - Literature Girl Memoire OP Single - Musou Garden (FLAC).zip
+!new/upload/[amusic] Faylan - CANAAN Promo Single - AROUSING SOUL [w scans] (FLAC).zip
+!new/upload/[amusic] Fortune Arterial Image Theme Maxi Single - It's my precious time! [w scans] (FLAC).zip
+!new/upload/[amusic] Girls Dead Monster - Angel Beats! Girls Dead Monster OFFICIAL BAND SCORE - Keep The Beats [w scans] (FLAC).zip
+!new/upload/[amusic] Kylee - Heroman OP2 Single - missing (FLAC).zip
+!new/upload/[amusic] Nakagawa Shouko - Occult Academy OP Single - Flying Humanoid [w scans] (FLAC).zip
+!new/upload/[amusic] TRIPLE BOOKING - Seitokai Yakuindomo OP Single - Yamato Nadeshiko Education [w scans] (FLAC).zip
+!new/upload/[amusic] Takagaki Ayahi - Occult Academy ED Single - Kimi ga Iru Basho [w scans] (FLAC).zip
+!new/upload/[amusic] Various Artists - Angel Beats! ORIGINAL SOUNDTRACK [w scans] (FLAC).zip
+!new/upload/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
+!new/upload/[amusic] Various Artists - Mashiro-iro Symphony OP Single - Symphonic Love (FLAC).zip
+!new/upload/[amusic] Yuuki Aira - The Legend of the Legendary Heroes OP Single - LAMENT - Yagate Yorokobi wo [w scans] (FLAC).zip
+!new/upload/[amusic] angela - Seitokai Yakuindomo ED Single - Aoi Haru [w scans] (FLAC).zip
+!new/upload/[amusic] azusa - Amagami SS OP Single - i Love [w scans] (FLAC).zip
 !new/upload/[iSiscon]_Kotobuki_Minako_-_Shiny+_[w_scans]_(FLAC).rar
 !new/upload/[iSiscon]_Misato_Aki_-_Ore-Tachi_ni_Tsubasa_ha_nai_After_Story_OP_Theme_-_Cross_Illusion_[w_scans]_(FLAC).rar
 !new/upload/[iSiscon]_Various_Artists_-_Shukufuku_no_Campanella_Character_Song_Album_-_Coccarda_[w_scans]_(FLAC).rar
