@@ -682,6 +682,7 @@
 !new/upload/[Commie] Seikimatsu Occult Gakuin - 10 [DB613EC1].mkv
 !new/upload/[Commie] Seikimatsu Occult Gakuin - 11 [97441B18].mkv
 !new/upload/[Commie] Sengoku BASARA Two - 10 [50580617].mkv
+!new/upload/[Commie] The Legend of the Legendary Heroes - 12 [46366A6B].mkv
 !new/upload/[Commie]_Kampfer_-_01-12_[BD_1080p_FLAC].sfv
 !new/upload/[Commie]_Kampfer_-_01_[BD_1080p_FLAC][609939BE].mkv
 !new/upload/[Commie]_Kampfer_-_02_[BD_1080p_FLAC][57641978].mkv
@@ -994,6 +995,10 @@
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/upload/[UTW]_Amagami_SS_-_13_[h264-720p][F2431D22].mkv
+!new/upload/[iSiscon]_Kotobuki_Minako_-_Shiny+_[w_scans]_(FLAC).rar
+!new/upload/[iSiscon]_Misato_Aki_-_Ore-Tachi_ni_Tsubasa_ha_nai_After_Story_OP_Theme_-_Cross_Illusion_[w_scans]_(FLAC).rar
+!new/upload/[iSiscon]_Various_Artists_-_Shukufuku_no_Campanella_Character_Song_Album_-_Coccarda_[w_scans]_(FLAC).rar
+!new/upload/[yibis]_One_Piece_467_[720p][0E695DDA].mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
