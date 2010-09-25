@@ -730,6 +730,7 @@
 !new/upload/[Movie-2002] Inuyasha Kagami no Naka no Mugenjou/Inuyasha__Kagami_no_Naka_no_Mugenjou_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][5BE86486].mkv
 !new/upload/[Movie-2003] Inuyasha - Tenka Hadou no Ken/Inuyasha_-_Tenka_Hadou_no_Ken_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][729CFBDD].mkv
 !new/upload/[Movie-2004] Inuyasha Guren no Houraijima/Inuyasha__Guren_no_Houraijima_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][ED7FAAFB].mkv
+!new/upload/[Nipponsei] Highschool of the Dead ED Album - H.O.T.D. [Kurosaki Maon].zip
 !new/upload/[OD-WPP]_Digimon_Xros_Wars_-_10-11_[720p]_[257409F7].mkv
 !new/upload/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/upload/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
@@ -995,6 +996,7 @@
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/upload/[UTW]_Amagami_SS_-_13_[h264-720p][F2431D22].mkv
+!new/upload/[Underwater] Strike Witches 2 - 12 [720p][98CEAF13].mkv
 !new/upload/[iSiscon]_Kotobuki_Minako_-_Shiny+_[w_scans]_(FLAC).rar
 !new/upload/[iSiscon]_Misato_Aki_-_Ore-Tachi_ni_Tsubasa_ha_nai_After_Story_OP_Theme_-_Cross_Illusion_[w_scans]_(FLAC).rar
 !new/upload/[iSiscon]_Various_Artists_-_Shukufuku_no_Campanella_Character_Song_Album_-_Coccarda_[w_scans]_(FLAC).rar
