@@ -678,10 +678,13 @@
 !new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 23 [6EE329E8].mkv
 !new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 24 [46DBBF27].mkv
 !new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 25 [End][5A08829C].mkv
+!new/upload/[Ayako-SubDESU]_Asobi_ni_Iku_Yo!_-_12_[720p][H264][6BDA7299].mkv
+!new/upload/[Ayako]_Seitokai_Yakuindomo_-_13_[720p][H264][F4B96036].mkv
 !new/upload/[CoalGuys] K-ON!! S2 - 25 (Extra) [0861F488].mkv
 !new/upload/[Commie] Seikimatsu Occult Gakuin - 10 [DB613EC1].mkv
 !new/upload/[Commie] Seikimatsu Occult Gakuin - 11 [97441B18].mkv
 !new/upload/[Commie] Sengoku BASARA Two - 10 [50580617].mkv
+!new/upload/[Commie] Shiki - 08 [9BFF9DA0].mkv
 !new/upload/[Commie] The Legend of the Legendary Heroes - 12 [46366A6B].mkv
 !new/upload/[Commie]_Kampfer_-_01-12_[BD_1080p_FLAC].sfv
 !new/upload/[Commie]_Kampfer_-_01_[BD_1080p_FLAC][609939BE].mkv
@@ -704,11 +707,16 @@
 !new/upload/[Commie]_Kampfer_-_Shizuku_Shower_Omake_[BD_1080p_FLAC][691DA8E3].mkv
 !new/upload/[Commie]_Kampfer_-_Shizuku_Transformation_Seq._[BD_1080p_FLAC][1F752678].mkv
 !new/upload/[CrunchySubs] Tono to Issho - 12 [720p].mkv
+!new/upload/[DB]_Ninku_09_[B9E35DCE].avi
+!new/upload/[Derp]_Legend_of_the_Legendary_Heroes_-_13_(1280x720_x264_AAC).mkv
+!new/upload/[Doremi].Motto.Ojamajo.Doremi.31.[BE814FD9].avi
 !new/upload/[Doutei]Golgo 13 - 44[DVD][8727B366].mkv
 !new/upload/[Doutei]Golgo 13 - 45[DVD][60DB41FF].mkv
 !new/upload/[Fabulous] Pokemon Best Wishes Black & White - 01 [E82BAE1E].mkv
 !new/upload/[HorribleSubs] HEROMAN - 26 [720p].mkv
 !new/upload/[HorribleSubs] Kateikyoushi Hitman Reborn - 203 [720p].mkv
+!new/upload/[HorribleSubs] Lilpri - 26 [720p].mkv
+!new/upload/[HorribleSubs] Yumeiro Patissiere - 50 [720p].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_23_[834CEFC1].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_24_[5C257A77].mkv
 !new/upload/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 17 [H264 1280x720] [903E459C].mkv
@@ -758,6 +766,8 @@
 !new/upload/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/upload/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
 !new/upload/[ReDone] To Heart ~Remember my Memories~ 02 (DVD) [18FA126A].mkv
+!new/upload/[ReDone] Touka Gettan - 10 (DVD) [AF690004].mkv
+!new/upload/[Ryuumaru] Seitokai Yakuindomo - 13 (Final) [1024x576][7B4E64BA].mkv
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -1017,7 +1027,9 @@
 !new/upload/[iSiscon]_Kotobuki_Minako_-_Shiny+_[w_scans]_(FLAC).rar
 !new/upload/[iSiscon]_Misato_Aki_-_Ore-Tachi_ni_Tsubasa_ha_nai_After_Story_OP_Theme_-_Cross_Illusion_[w_scans]_(FLAC).rar
 !new/upload/[iSiscon]_Various_Artists_-_Shukufuku_no_Campanella_Character_Song_Album_-_Coccarda_[w_scans]_(FLAC).rar
+!new/upload/[umai]_Major_S6_-_24_[1730F8DD].mkv
 !new/upload/[yibis]_One_Piece_467_[720p][0E695DDA].mkv
+!new/upload/[yibis]_One_Piece_467_v2_[720p][3521D721].mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
