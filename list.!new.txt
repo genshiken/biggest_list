@@ -732,6 +732,7 @@
 !new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_29_[H264_-_AAC][a750d06e].mp4
 !new/upload/[Ayako-SubDESU]_Asobi_ni_Iku_Yo!_-_12_[720p][H264][6BDA7299].mkv
 !new/upload/[Ayako]_Seitokai_Yakuindomo_-_13_[720p][H264][F4B96036].mkv
+!new/upload/[BWS]Pocket_Monsters_Best_Wishes_001_To_the_Isshu_Region!_The_Shadow_of_Zekrom!![H264_720P][EEF21420].mkv
 !new/upload/[CoalGuys] K-ON!! S2 - 25 (Extra) [0861F488].mkv
 !new/upload/[Commie] Seikimatsu Occult Gakuin - 10 [DB613EC1].mkv
 !new/upload/[Commie] Seikimatsu Occult Gakuin - 11 [97441B18].mkv
@@ -824,6 +825,7 @@
 !new/upload/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/upload/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
 !new/upload/[ReDone] To Heart ~Remember my Memories~ 02 (DVD) [18FA126A].mkv
+!new/upload/[ReDone] To Heart ~Remember my Memories~ 03 (DVD) [16AE26CE].mkv
 !new/upload/[ReDone] Touka Gettan - 10 (DVD) [AF690004].mkv
 !new/upload/[RyRo]_Inazuma_Eleven_-_101_(1280x720_x264_AAC)_[0061D558].mkv
 !new/upload/[Ryuumaru] Seitokai Yakuindomo - 13 (Final) [1024x576][7B4E64BA].mkv
@@ -1070,7 +1072,6 @@
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/upload/[UTW]_Amagami_SS_-_13_[h264-720p][F2431D22].mkv
-!new/upload/[Underwater] Strike Witches 2 - 12 [720p][98CEAF13].mkv
 !new/upload/[amusic] Ceui - The Legend of the Legendary Heroes ED Single - Truth of My Destiny [w scans] (FLAC).zip
 !new/upload/[amusic] CooRie - Literature Girl Memoire OP Single - Musou Garden (FLAC).zip
 !new/upload/[amusic] Faylan - CANAAN Promo Single - AROUSING SOUL [w scans] (FLAC).zip
@@ -1089,9 +1090,6 @@
 !new/upload/[iSiscon]_Kotobuki_Minako_-_Shiny+_[w_scans]_(FLAC).rar
 !new/upload/[iSiscon]_Misato_Aki_-_Ore-Tachi_ni_Tsubasa_ha_nai_After_Story_OP_Theme_-_Cross_Illusion_[w_scans]_(FLAC).rar
 !new/upload/[iSiscon]_Various_Artists_-_Shukufuku_no_Campanella_Character_Song_Album_-_Coccarda_[w_scans]_(FLAC).rar
-!new/upload/[umai]_Major_S6_-_24_[1730F8DD].mkv
-!new/upload/[yibis]_One_Piece_467_[720p][0E695DDA].mkv
-!new/upload/[yibis]_One_Piece_467_v2_[720p][3521D721].mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
