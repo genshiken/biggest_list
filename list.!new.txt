@@ -362,6 +362,7 @@
 !new/upload/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/upload/Carol/[raw] Carol OVA.ass
 !new/upload/Carol/[raw] Carol OVA.avi
+!new/upload/Detective Conan - 589 [DCTP][720p][11BAF210].mp4
 !new/upload/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/upload/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/upload/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
@@ -653,6 +654,28 @@
 !new/upload/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 165. Time for the Crystal to Shine! Beautiful Power of Dreams (v2) [243AEA50].ogm
 !new/upload/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 166. Dreams Forever! Light Throughout the Sky (v2) [A17C8F85].ogm
 !new/upload/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] Sailor Moon SuperS Plus Ami-chan no Hatsukoi R2 DVD(H264.AC3).mkv
+!new/upload/Sugar Sugar Rune 30 [Arienai_-_Seishun].mp4
+!new/upload/Sugar Sugar Rune 31 [Arienai_-_Seishun].mp4
+!new/upload/Sugar Sugar Rune 32 [Arienai_-_Seishun].mp4
+!new/upload/Sugar Sugar Rune 33 [Hatsuyuki-SFS].avi
+!new/upload/Sugar Sugar Rune 34 [Hatsuyuki-SFS].avi
+!new/upload/Sugar Sugar Rune 35 [Hatsuyuki-SFS].avi
+!new/upload/Sugar Sugar Rune 36 [Hatsuyuki-SFS].avi
+!new/upload/Sugar Sugar Rune 37 [Hatsuyuki-SFS].avi
+!new/upload/Sugar Sugar Rune 38 [Hatsuyuki-SFS].avi
+!new/upload/Sugar Sugar Rune 39 [Hatsuyuki-SFS].avi
+!new/upload/Sugar Sugar Rune 40 [Hatsuyuki-SFS].avi
+!new/upload/Sugar Sugar Rune 41 [Hatsuyuki-SFS].avi
+!new/upload/Sugar Sugar Rune 42 [Hatsuyuki-SFS].avi
+!new/upload/Sugar Sugar Rune 43 [Hatsuyuki-SFS].avi
+!new/upload/Sugar Sugar Rune 44 [Hatsuyuki-SFS].avi
+!new/upload/Sugar Sugar Rune 45 [Hatsuyuki-SFS].avi
+!new/upload/Sugar Sugar Rune 46 [Hatsuyuki-SFS].avi
+!new/upload/Sugar Sugar Rune 47 [Hatsuyuki-SFS].avi
+!new/upload/Sugar Sugar Rune 48 [Hatsuyuki-SFS].avi
+!new/upload/Sugar Sugar Rune 49 [Hatsuyuki-SFS].avi
+!new/upload/Sugar Sugar Rune 50 [Hatsuyuki-SFS].avi
+!new/upload/Sugar Sugar Rune 51 END [Hatsuyuki-SFS].avi
 !new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 01 [E243EEC6].mkv
 !new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 02 [5D00D883].mkv
 !new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 03 [E43D1F94].mkv
@@ -678,12 +701,42 @@
 !new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 23 [6EE329E8].mkv
 !new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 24 [46DBBF27].mkv
 !new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 25 [End][5A08829C].mkv
+!new/upload/[Arienai]_Sugar_Sugar_Rune_-_01_[H264_-_AAC][09928A96].mp4
+!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_02_[H264_-_AAC][701423BA].mp4
+!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_03_[H264_-_AAC][D456276C].mp4
+!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_04_[H264_-_AAC][F09D13AE].mp4
+!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_05_[H264_-_AAC][73510317].mp4
+!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_06_[H264_-_AAC][32DA1A4B].mp4
+!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_07_[H264_-_AAC][D4D84B4B].mp4
+!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_08_[H264_-_AAC][6C87B4F7].mp4
+!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_09_[H264_-_AAC][6F823500].mp4
+!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_10_[H264_-_AAC][0653206B].mp4
+!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_11_[H264_-_AAC][47774B7C].mp4
+!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_12_[H264_-_AAC][69C0E7F5].mp4
+!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_13_[H264_-_AAC][22CF762A].mp4
+!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_14_[H264_-_AAC][A048CF68].mp4
+!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_15_[H264_-_AAC][2D351777].mp4
+!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_16_[H264_-_AAC][7a9202ee].mp4
+!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_17_[H264_-_AAC][2339b54e].mp4
+!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_18_[H264_-_AAC][e54cec68].mp4
+!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_19_[H264_-_AAC][af181585].mp4
+!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_20_[H264_-_AAC][24c9290e].mp4
+!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_21_[H264_-_AAC][c2217153].mp4
+!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_22_[H264_-_AAC][808c27f3].mp4
+!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_23_[H264_-_AAC][7ddd69d6].mp4
+!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_24_[H264_-_AAC][6ca8a901].mp4
+!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_25_[H264_-_AAC][ec69a5ae].mp4
+!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_26_[H264_-_AAC][6c762613].mp4
+!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_27_[H264_-_AAC][c63aab24].mp4
+!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_28_[H264_-_AAC][095710a8].mp4
+!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_29_[H264_-_AAC][a750d06e].mp4
 !new/upload/[Ayako-SubDESU]_Asobi_ni_Iku_Yo!_-_12_[720p][H264][6BDA7299].mkv
 !new/upload/[Ayako]_Seitokai_Yakuindomo_-_13_[720p][H264][F4B96036].mkv
 !new/upload/[CoalGuys] K-ON!! S2 - 25 (Extra) [0861F488].mkv
 !new/upload/[Commie] Seikimatsu Occult Gakuin - 10 [DB613EC1].mkv
 !new/upload/[Commie] Seikimatsu Occult Gakuin - 11 [97441B18].mkv
 !new/upload/[Commie] Sengoku BASARA Two - 10 [50580617].mkv
+!new/upload/[Commie] Sengoku BASARA Two - 11 [689DD151].mkv
 !new/upload/[Commie] Shiki - 08 [9BFF9DA0].mkv
 !new/upload/[Commie] The Legend of the Legendary Heroes - 12 [46366A6B].mkv
 !new/upload/[Commie]_Kampfer_-_01-12_[BD_1080p_FLAC].sfv
@@ -709,10 +762,13 @@
 !new/upload/[CrunchySubs] Tono to Issho - 12 [720p].mkv
 !new/upload/[DB]_Ninku_09_[B9E35DCE].avi
 !new/upload/[Derp]_Legend_of_the_Legendary_Heroes_-_13_(1280x720_x264_AAC).mkv
+!new/upload/[Doremi].HeartCatch.PreCure!.32.[1280x720].[4202ABB2].mkv
 !new/upload/[Doremi].Motto.Ojamajo.Doremi.31.[BE814FD9].avi
 !new/upload/[Doutei]Golgo 13 - 44[DVD][8727B366].mkv
 !new/upload/[Doutei]Golgo 13 - 45[DVD][60DB41FF].mkv
 !new/upload/[Fabulous] Pokemon Best Wishes Black & White - 01 [E82BAE1E].mkv
+!new/upload/[FroZen]_RAINBOW_18_[286DDC1C].mkv
+!new/upload/[HorribleSubs] Giant Killing - 26 [720p].mkv
 !new/upload/[HorribleSubs] HEROMAN - 26 [720p].mkv
 !new/upload/[HorribleSubs] Kateikyoushi Hitman Reborn - 203 [720p].mkv
 !new/upload/[HorribleSubs] Lilpri - 26 [720p].mkv
@@ -768,6 +824,9 @@
 !new/upload/[ReDone] To Heart ~Remember my Memories~ 02 (DVD) [18FA126A].mkv
 !new/upload/[ReDone] Touka Gettan - 10 (DVD) [AF690004].mkv
 !new/upload/[Ryuumaru] Seitokai Yakuindomo - 13 (Final) [1024x576][7B4E64BA].mkv
+!new/upload/[S.F.S.]_Sugar_Sugar_Rune_-_30_ [FF068188].mp4
+!new/upload/[S.F.S.]_Sugar_Sugar_Rune_-_31_[A4549FC3].mp4
+!new/upload/[S.F.S.]_Sugar_Sugar_Rune_-_32_ [FA1062FC].mp4
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
