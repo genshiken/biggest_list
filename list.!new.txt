@@ -701,6 +701,8 @@
 !new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 23 [6EE329E8].mkv
 !new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 24 [46DBBF27].mkv
 !new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 25 [End][5A08829C].mkv
+!new/upload/[AniYoshi]_Asu_no_Yoichi_-_11_[DVD][6067052E].mkv
+!new/upload/[AniYoshi]_Asu_no_Yoichi_-_12_[DVD][F4515EF1].mkv
 !new/upload/[Arienai]_Sugar_Sugar_Rune_-_01_[H264_-_AAC][09928A96].mp4
 !new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_02_[H264_-_AAC][701423BA].mp4
 !new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_03_[H264_-_AAC][D456276C].mp4
@@ -764,16 +766,19 @@
 !new/upload/[DB]_Ninku_09_[B9E35DCE].avi
 !new/upload/[Derp]_Legend_of_the_Legendary_Heroes_-_13_(1280x720_x264_AAC).mkv
 !new/upload/[Doremi].HeartCatch.PreCure!.32.[1280x720].[4202ABB2].mkv
+!new/upload/[Doremi].HeartCatch.PreCure!.33.[1280x720].[396E3530].mkv
 !new/upload/[Doremi].Motto.Ojamajo.Doremi.31.[BE814FD9].avi
 !new/upload/[Doutei]Golgo 13 - 44[DVD][8727B366].mkv
 !new/upload/[Doutei]Golgo 13 - 45[DVD][60DB41FF].mkv
 !new/upload/[Fabulous] Pokemon Best Wishes Black & White - 01 [E82BAE1E].mkv
 !new/upload/[FroZen]_RAINBOW_18_[286DDC1C].mkv
+!new/upload/[HorribleSubs] Fairy Tail - 48 [720p].mkv
 !new/upload/[HorribleSubs] Giant Killing - 26 [720p].mkv
 !new/upload/[HorribleSubs] HEROMAN - 26 [720p].mkv
 !new/upload/[HorribleSubs] Kateikyoushi Hitman Reborn - 203 [720p].mkv
 !new/upload/[HorribleSubs] Lilpri - 26 [720p].mkv
 !new/upload/[HorribleSubs] Mitsudomoe - 13 [720p].mkv
+!new/upload/[HorribleSubs] Occult Academy - 13 [720p].mkv
 !new/upload/[HorribleSubs] Yumeiro Patissiere - 50 [720p].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_23_[834CEFC1].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_24_[5C257A77].mkv
@@ -1072,6 +1077,7 @@
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/upload/[UTW]_Amagami_SS_-_13_[h264-720p][F2431D22].mkv
+!new/upload/[Wasurenai] Marie & Gali - 17 [H264 1280x720] [31A3E85C].mkv
 !new/upload/[amusic] Ceui - The Legend of the Legendary Heroes ED Single - Truth of My Destiny [w scans] (FLAC).zip
 !new/upload/[amusic] CooRie - Literature Girl Memoire OP Single - Musou Garden (FLAC).zip
 !new/upload/[amusic] Faylan - CANAAN Promo Single - AROUSING SOUL [w scans] (FLAC).zip
