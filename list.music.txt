@@ -1353,12 +1353,14 @@ music/iSiscon/[iSiscon]_Itou_Shizuka_-_Amagami_SS_ED_Theme_1_Morishima_Haruka_-_
 music/iSiscon/[iSiscon]_KOTOKO_-_Prism_Magical_PRISM_Gerenations!_Climax_Opening_Theme_-_Gensou_no_Houseki_(FLAC).rar
 music/iSiscon/[iSiscon]_Kanemoto_Akari_(CV._Manaka_Umi)_-_Noble_Works_Character_Song_Vol.1_-_Koi_no_Bakudan_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Key_Sounds_Label_-_Kud_Wafter_Original_Soundtrack_[w_scans]_(FLAC).rar
+music/iSiscon/[iSiscon]_Kotobuki_Minako_-_Shiny+_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Loveplus_Character_Single_BOX_Disc_1_-_Takane_Manaka_Disc_(FLAC).rar
 music/iSiscon/[iSiscon]_Loveplus_Character_Single_BOX_Disc_2_-_Kobayakawa_Ringo_Disc_(FLAC).rar
 music/iSiscon/[iSiscon]_Loveplus_Character_Single_BOX_Disc_3_-_Anegasaki_Nene_Disc_(FLAC).rar
 music/iSiscon/[iSiscon]_Magicarat_Radiant_Maxi_Single_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Matsuda_Risa_-_Amatsu_Misora_ni!_Charactor_Song_Vol.2_Kiyosumi_Serika_(FLAC).rar
 music/iSiscon/[iSiscon]_May'n_-_Ookami-san_to_Shichinin_no_Nakama-tachi_OP_Single_-_Ready_Go!_[w_scans]_(FLAC).rar
+music/iSiscon/[iSiscon]_Misato_Aki_-_Ore-Tachi_ni_Tsubasa_ha_nai_After_Story_OP_Theme_-_Cross_Illusion_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Misato_Aki_-_TV_Anime_Shukufuku_no_Campanella_OP_Single_-_Shiawase_ha_Tsuki_yori_Takaku_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Moonstone_-_Angel_Ring_Original_Soundtrack_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_NANA,_Hashimoto_Miyuki_-_Neko_Koi_Original_Vocal_Single_(FLAC).rar
@@ -1398,6 +1400,7 @@ music/iSiscon/[iSiscon]_Various_Artists_-_Hoshizora_no_Memoria_Eternal_Hearts_Vo
 music/iSiscon/[iSiscon]_Various_Artists_-_Love_Live!_School_idol_project_-_Bokura_no_LIVE_Kimi_to_no_LIFE_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Various_Artists_-_PrismRhythm_ED_Vocal_Collection_-Belltina-_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Various_Artists_-_Prism_Magical_PRISM_Gerenations!_Vocal_Collection_[w_scans]_(FLAC).rar
+music/iSiscon/[iSiscon]_Various_Artists_-_Shukufuku_no_Campanella_Character_Song_Album_-_Coccarda_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Various_Artists_-_Sphere_Harukana_Sora_Character_Song_CD_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Various_Artists_-_THE_IDOLM@STER_Break!_Vol.3_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Vocaloid_-_VocaL@ntis_~Hatsune_Miku_ga_Lantis_no_Kami_Kyoku_wo_Utattemita~_[w_scans]_(FLAC).rar
