@@ -769,6 +769,7 @@
 !new/upload/[Commie] Seikimatsu Occult Gakuin - 11 [97441B18].mkv
 !new/upload/[Commie] Sengoku BASARA Two - 10 [50580617].mkv
 !new/upload/[Commie] Sengoku BASARA Two - 11 [689DD151].mkv
+!new/upload/[Commie] Sengoku BASARA Two - 12 [END] [A1075BDE].mkv
 !new/upload/[Commie] Shiki - 08 [9BFF9DA0].mkv
 !new/upload/[Commie] The Legend of the Legendary Heroes - 12 [46366A6B].mkv
 !new/upload/[Commie]_Kampfer_-_01-12_[BD_1080p_FLAC].sfv
@@ -800,6 +801,7 @@
 !new/upload/[Doremi].Motto.Ojamajo.Doremi.31.[BE814FD9].avi
 !new/upload/[Doutei]Golgo 13 - 44[DVD][8727B366].mkv
 !new/upload/[Doutei]Golgo 13 - 45[DVD][60DB41FF].mkv
+!new/upload/[Doutei]Golgo 13 - 46[DVD][92EC4DF1].mkv
 !new/upload/[Fabulous] Pokemon Best Wishes Black & White - 01 [E82BAE1E].mkv
 !new/upload/[FroZen]_RAINBOW_18_[286DDC1C].mkv
 !new/upload/[HorribleSubs] Bleach - 290 [720p].mkv
@@ -834,6 +836,7 @@
 !new/upload/[Movie-2002] Inuyasha Kagami no Naka no Mugenjou/Inuyasha__Kagami_no_Naka_no_Mugenjou_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][5BE86486].mkv
 !new/upload/[Movie-2003] Inuyasha - Tenka Hadou no Ken/Inuyasha_-_Tenka_Hadou_no_Ken_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][729CFBDD].mkv
 !new/upload/[Movie-2004] Inuyasha Guren no Houraijima/Inuyasha__Guren_no_Houraijima_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][ED7FAAFB].mkv
+!new/upload/[NipponSex]_(24.09.2010)_I've_GIRL'S_COMPILATION_7_-_EXTRACT_[Various]_(320k).rar
 !new/upload/[Nipponsei] Highschool of the Dead ED Album - H.O.T.D. [Kurosaki Maon].zip
 !new/upload/[Nipponsei] Kaichou wa Maid-sama! Virtual Live Album.zip
 !new/upload/[OD-WPP]_Digimon_Xros_Wars_-_10-11_[720p]_[257409F7].mkv
@@ -865,6 +868,7 @@
 !new/upload/[ReDone] Touka Gettan - 10 (DVD) [AF690004].mkv
 !new/upload/[RyRo]_Inazuma_Eleven_-_101_(1280x720_x264_AAC)_[0061D558].mkv
 !new/upload/[Ryuumaru] Seitokai Yakuindomo - 13 (Final) [1024x576][7B4E64BA].mkv
+!new/upload/[Ryuumaru] Sekirei ~Pure Engagement~ - 13 [720p][35C35B50].mkv
 !new/upload/[S.F.S.]_Sugar_Sugar_Rune_-_30_ [FF068188].mp4
 !new/upload/[S.F.S.]_Sugar_Sugar_Rune_-_31_[A4549FC3].mp4
 !new/upload/[S.F.S.]_Sugar_Sugar_Rune_-_32_ [FA1062FC].mp4
@@ -1126,6 +1130,8 @@
 !new/upload/[amusic] Yuuki Aira - The Legend of the Legendary Heroes OP Single - LAMENT - Yagate Yorokobi wo [w scans] (FLAC).zip
 !new/upload/[amusic] angela - Seitokai Yakuindomo ED Single - Aoi Haru [w scans] (FLAC).zip
 !new/upload/[amusic] azusa - Amagami SS OP Single - i Love [w scans] (FLAC).zip
+!new/upload/[pwq]_Sora_no_Woto_-_01_[BD]_[C3CEDA78].mkv
+!new/upload/[pwq]_Sora_no_Woto_-_02_[BD]_[3EF30DC0].mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
