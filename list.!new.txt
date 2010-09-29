@@ -701,6 +701,34 @@
 !new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 23 [6EE329E8].mkv
 !new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 24 [46DBBF27].mkv
 !new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 25 [End][5A08829C].mkv
+!new/upload/To_Aru_Kagaku_no_Railgun_-_01_[BD_1080p][AtsA][F44D9E51].mkv
+!new/upload/To_Aru_Kagaku_no_Railgun_-_02_[BD_1080p][AtsA][673B0132].mkv
+!new/upload/To_Aru_Kagaku_no_Railgun_-_03_[BD_1080p][AtsA][9AE97D26].mkv
+!new/upload/To_Aru_Kagaku_no_Railgun_-_04_[BD_1080p][AtsA][D1094D05].mkv
+!new/upload/To_Aru_Kagaku_no_Railgun_-_05_[BD_1080p][AtsA][E4E4A465].mkv
+!new/upload/To_Aru_Kagaku_no_Railgun_-_06_[BD_1080p][AtsA][DD7A8216].mkv
+!new/upload/To_Aru_Kagaku_no_Railgun_-_07_[BD_1080p][AtsA][44ED76B4].mkv
+!new/upload/To_Aru_Kagaku_no_Railgun_-_08_[BD_1080p][AtsA][94C0EE9E].mkv
+!new/upload/To_Aru_Kagaku_no_Railgun_-_09_[BD_1080p][AtsA][20639003].mkv
+!new/upload/To_Aru_Kagaku_no_Railgun_-_10_[BD_1080p][AtsA][6BB6EAE5].mkv
+!new/upload/To_Aru_Kagaku_no_Railgun_-_11_[BD_1080p][AtsA][13D19E24].mkv
+!new/upload/To_Aru_Kagaku_no_Railgun_-_12_[BD_1080p][AtsA][43B89563].mkv
+!new/upload/To_Aru_Kagaku_no_Railgun_-_13_[BD_1080p][AtsA][8B66BC78].mkv
+!new/upload/To_Aru_Kagaku_no_Railgun_-_14_[BD_1080p][AtsA][DD138D77].mkv
+!new/upload/To_Aru_Kagaku_no_Railgun_-_15_[BD_1080p][AtsA][AA0B4697].mkv
+!new/upload/To_Aru_Kagaku_no_Railgun_-_16_[BD_1080p][AtsA][67EB3440].mkv
+!new/upload/To_Aru_Kagaku_no_Railgun_-_17_[BD_1080p][AtsA][2B35B02A].mkv
+!new/upload/To_Aru_Kagaku_no_Railgun_-_18_[BD_1080p][AtsA][7C577A9D].mkv
+!new/upload/To_Aru_Kagaku_no_Railgun_-_19_[BD_1080p][AtsA][5962E889].mkv
+!new/upload/To_Aru_Kagaku_no_Railgun_-_20_[BD_1080p][AtsA][EC7DC667].mkv
+!new/upload/To_Aru_Kagaku_no_Railgun_-_21_[BD_1080p][AtsA][3D9D0905].mkv
+!new/upload/To_Aru_Kagaku_no_Railgun_-_22v2_[BD_1080p][AtsA][3EB250E6].mkv
+!new/upload/To_Aru_Kagaku_no_Railgun_-_23_[BD_1080p][AtsA][44078370].mkv
+!new/upload/To_Aru_Kagaku_no_Railgun_-_24_[BD_1080p][AtsA][A948C855].mkv
+!new/upload/To_Aru_Kagaku_no_Railgun_-_ED1_Clean_[BD_1080p][AtsA][E49279C2].mkv
+!new/upload/To_Aru_Kagaku_no_Railgun_-_ED2_Clean_[BD_1080p][AtsA][A864E738].mkv
+!new/upload/To_Aru_Kagaku_no_Railgun_-_OP1_Clean_[BD_1080p][AtsA][A05D1AE0].mkv
+!new/upload/To_Aru_Kagaku_no_Railgun_-_OP2_Clean_[BD_1080p][AtsA][1DBD4E2B].mkv
 !new/upload/[AniYoshi]_Asu_no_Yoichi_-_11_[DVD][6067052E].mkv
 !new/upload/[AniYoshi]_Asu_no_Yoichi_-_12_[DVD][F4515EF1].mkv
 !new/upload/[Arienai]_Sugar_Sugar_Rune_-_01_[H264_-_AAC][09928A96].mp4
@@ -774,6 +802,7 @@
 !new/upload/[Doutei]Golgo 13 - 45[DVD][60DB41FF].mkv
 !new/upload/[Fabulous] Pokemon Best Wishes Black & White - 01 [E82BAE1E].mkv
 !new/upload/[FroZen]_RAINBOW_18_[286DDC1C].mkv
+!new/upload/[HorribleSubs] Bleach - 290 [720p].mkv
 !new/upload/[HorribleSubs] Fairy Tail - 48 [720p].mkv
 !new/upload/[HorribleSubs] Giant Killing - 26 [720p].mkv
 !new/upload/[HorribleSubs] HEROMAN - 26 [720p].mkv
