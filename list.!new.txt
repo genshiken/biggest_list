@@ -729,6 +729,7 @@
 !new/upload/To_Aru_Kagaku_no_Railgun_-_ED2_Clean_[BD_1080p][AtsA][A864E738].mkv
 !new/upload/To_Aru_Kagaku_no_Railgun_-_OP1_Clean_[BD_1080p][AtsA][A05D1AE0].mkv
 !new/upload/To_Aru_Kagaku_no_Railgun_-_OP2_Clean_[BD_1080p][AtsA][1DBD4E2B].mkv
+!new/upload/[ANBU]_Planzet_[12EF5EDB].mkv
 !new/upload/[AniYoshi]_Asu_no_Yoichi_-_11_[DVD][6067052E].mkv
 !new/upload/[AniYoshi]_Asu_no_Yoichi_-_12_[DVD][F4515EF1].mkv
 !new/upload/[Arienai]_Sugar_Sugar_Rune_-_01_[H264_-_AAC][09928A96].mp4
@@ -872,6 +873,7 @@
 !new/upload/[S.F.S.]_Sugar_Sugar_Rune_-_30_ [FF068188].mp4
 !new/upload/[S.F.S.]_Sugar_Sugar_Rune_-_31_[A4549FC3].mp4
 !new/upload/[S.F.S.]_Sugar_Sugar_Rune_-_32_ [FA1062FC].mp4
+!new/upload/[SubSmith] ToHeart2 adnext OVA 01 - First Name [DVD][4CA53FF4].mkv
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -1130,11 +1132,15 @@
 !new/upload/[amusic] Yuuki Aira - The Legend of the Legendary Heroes OP Single - LAMENT - Yagate Yorokobi wo [w scans] (FLAC).zip
 !new/upload/[amusic] angela - Seitokai Yakuindomo ED Single - Aoi Haru [w scans] (FLAC).zip
 !new/upload/[amusic] azusa - Amagami SS OP Single - i Love [w scans] (FLAC).zip
+!new/upload/[iSiscon]_Miyazaki_Ui_-_PSP_L@ve_once_Image_Song_-_Sweet_Heaven_[w_scans]_(FLAC).rar
+!new/upload/[iSiscon]_Satou_Hiromi,_Sena,_touko,_Differencia_-_Tasogare_no_Shinsemia_ORIGINAL_SOUNDTRACK_[w_scans]_(FLAC).rar
+!new/upload/[iSiscon]_Various_Artists_-_I've_GIRL'S_COMPILATION_7_-_EXTRACT_[w_scans]_(FLAC).rar
 !new/upload/[pwq]_Sora_no_Woto_-_01_[BD]_[C3CEDA78].mkv
 !new/upload/[pwq]_Sora_no_Woto_-_02_[BD]_[3EF30DC0].mkv
 !new/upload/[pwq]_Sora_no_Woto_-_03_[BD]_[F5B7E0CE].mkv
 !new/upload/[pwq]_Sora_no_Woto_-_04_[BD]_[C12C9DFF].mkv
 !new/upload/[pwq]_Sora_no_Woto_-_05_[BD]_[B8B56D53].mkv
+!new/upload/[yibis]_One_Piece_468_[720p][7D59F861].mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
