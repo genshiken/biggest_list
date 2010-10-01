@@ -812,11 +812,13 @@
 !new/upload/[HorribleSubs] Kateikyoushi Hitman Reborn - 203 [720p].mkv
 !new/upload/[HorribleSubs] Lilpri - 26 [720p].mkv
 !new/upload/[HorribleSubs] Mitsudomoe - 13 [720p].mkv
+!new/upload/[HorribleSubs] Naruto Shippuuden - 179 [720p].mkv
 !new/upload/[HorribleSubs] Occult Academy - 13 [720p].mkv
 !new/upload/[HorribleSubs] Yumeiro Patissiere - 50 [720p].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_23_[834CEFC1].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_24_[5C257A77].mkv
 !new/upload/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 17 [H264 1280x720] [903E459C].mkv
+!new/upload/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 18 [H264 1280x720] [E815DC71].mkv
 !new/upload/[Movie-1986] Touch - 2 Sayonara no Okurimono/Thumbs.db
 !new/upload/[Movie-1986] Touch - 2 Sayonara no Okurimono/Thumbs.db:encryptable
 !new/upload/[Movie-1986] Touch - 2 Sayonara no Okurimono/Touch_2__Sayonara_no_Okurimono_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][C6396C54].avi
@@ -1135,12 +1137,6 @@
 !new/upload/[iSiscon]_Miyazaki_Ui_-_PSP_L@ve_once_Image_Song_-_Sweet_Heaven_[w_scans]_(FLAC).rar
 !new/upload/[iSiscon]_Satou_Hiromi,_Sena,_touko,_Differencia_-_Tasogare_no_Shinsemia_ORIGINAL_SOUNDTRACK_[w_scans]_(FLAC).rar
 !new/upload/[iSiscon]_Various_Artists_-_I've_GIRL'S_COMPILATION_7_-_EXTRACT_[w_scans]_(FLAC).rar
-!new/upload/[pwq]_Sora_no_Woto_-_01_[BD]_[C3CEDA78].mkv
-!new/upload/[pwq]_Sora_no_Woto_-_02_[BD]_[3EF30DC0].mkv
-!new/upload/[pwq]_Sora_no_Woto_-_03_[BD]_[F5B7E0CE].mkv
-!new/upload/[pwq]_Sora_no_Woto_-_04_[BD]_[C12C9DFF].mkv
-!new/upload/[pwq]_Sora_no_Woto_-_05_[BD]_[B8B56D53].mkv
-!new/upload/[yibis]_One_Piece_468_[720p][7D59F861].mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
