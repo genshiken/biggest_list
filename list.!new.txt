@@ -694,6 +694,7 @@
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_001_To_the_Isshu_Region!_The_Shadow_of_Zekrom!![H264_720P][EEF21420].mkv
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_002_Iris_and_Kibago![H264_720P][CB118364].mkv
 !new/upload/[CoalGuys] K-ON!! S2 - 25 (Extra) [0861F488].mkv
+!new/upload/[CoalGuys] K-ON!! S2 - 26 [8DCC38A5].mkv
 !new/upload/[Commie] Seikimatsu Occult Gakuin - 10 [DB613EC1].mkv
 !new/upload/[Commie] Seikimatsu Occult Gakuin - 11 [97441B18].mkv
 !new/upload/[Commie] Sengoku BASARA Two - 10 [50580617].mkv
@@ -725,6 +726,7 @@
 !new/upload/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_07_[bbe3bea6].avi
 !new/upload/[DB]_Ninku_09_[B9E35DCE].avi
 !new/upload/[Derp]_Legend_of_the_Legendary_Heroes_-_13_(1280x720_x264_AAC).mkv
+!new/upload/[Derp]_Legend_of_the_Legendary_Heroes_-_14_(1280x720_x264_AAC).mkv
 !new/upload/[Doremi].HeartCatch.PreCure!.32.[1280x720].[4202ABB2].mkv
 !new/upload/[Doremi].HeartCatch.PreCure!.33.[1280x720].[396E3530].mkv
 !new/upload/[Doremi].Motto.Ojamajo.Doremi.31.[BE814FD9].avi
@@ -742,9 +744,12 @@
 !new/upload/[HorribleSubs] Mitsudomoe - 13 [720p].mkv
 !new/upload/[HorribleSubs] Naruto Shippuuden - 179 [720p].mkv
 !new/upload/[HorribleSubs] Occult Academy - 13 [720p].mkv
+!new/upload/[HorribleSubs] Panty and Stocking with Garterbelt - 01 [720p].mkv
+!new/upload/[HorribleSubs] Sora No Otoshimono Forte - 01 [720p].mkv
 !new/upload/[HorribleSubs] Yumeiro Patissiere - 50 [720p].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_23_[834CEFC1].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_24_[5C257A77].mkv
+!new/upload/[KiteSeekers-PFSubs] Shin Koihime Musou - OVA [BD 720p H264 AAC] [908E6A41].mkv
 !new/upload/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 17 [H264 1280x720] [903E459C].mkv
 !new/upload/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 18 [H264 1280x720] [E815DC71].mkv
 !new/upload/[Movie-1986] Touch - 2 Sayonara no Okurimono/Thumbs.db
@@ -798,6 +803,7 @@
 !new/upload/[ReDone] To Heart ~Remember my Memories~ 03 (DVD) [16AE26CE].mkv
 !new/upload/[ReDone] Touka Gettan - 10 (DVD) [AF690004].mkv
 !new/upload/[RyRo]_Inazuma_Eleven_-_101_(1280x720_x264_AAC)_[0061D558].mkv
+!new/upload/[Ryuumaru] MM! - 01 [95EC299B].mkv
 !new/upload/[Ryuumaru] Seitokai Yakuindomo - 13 (Final) [1024x576][7B4E64BA].mkv
 !new/upload/[Ryuumaru] Sekirei ~Pure Engagement~ - 13 [720p][35C35B50].mkv
 !new/upload/[S.F.S.]_Sugar_Sugar_Rune_-_30_ [FF068188].mp4
@@ -1062,9 +1068,18 @@
 !new/upload/[amusic] Yuuki Aira - The Legend of the Legendary Heroes OP Single - LAMENT - Yagate Yorokobi wo [w scans] (FLAC).zip
 !new/upload/[amusic] angela - Seitokai Yakuindomo ED Single - Aoi Haru [w scans] (FLAC).zip
 !new/upload/[amusic] azusa - Amagami SS OP Single - i Love [w scans] (FLAC).zip
+!new/upload/[iSiscon]_765PRO_ALLSTARS_-_THE_IDOLM@STER_ARTIST_2_-_Prologue_[w_scans]_(FLAC).rar
+!new/upload/[iSiscon]_Misato_Aki,_Endou_Masaaki_-_MUV-LUV_ALTERNATIVE_Chronicles_OP&ED_Single_[w_scans]_(FLAC).rar
 !new/upload/[iSiscon]_Miyazaki_Ui_-_PSP_L@ve_once_Image_Song_-_Sweet_Heaven_[w_scans]_(FLAC).rar
 !new/upload/[iSiscon]_Satou_Hiromi,_Sena,_touko,_Differencia_-_Tasogare_no_Shinsemia_ORIGINAL_SOUNDTRACK_[w_scans]_(FLAC).rar
 !new/upload/[iSiscon]_Various_Artists_-_I've_GIRL'S_COMPILATION_7_-_EXTRACT_[w_scans]_(FLAC).rar
+!new/upload/[iSiscon]_Yakushi_Ruri_-_colorful_plus_[w_scans]_(FLAC).rar
+!new/upload/[iSiscon]_cassis_-_ReBirthday_[w_scans]_(FLAC).rar
+!new/upload/[pwq]_Sora_no_Woto_-_10_[BD]_[57E0EDBB].mkv
+!new/upload/[pwq]_Sora_no_Woto_-_11_[BD]_[7F732268].mkv
+!new/upload/[pwq]_Sora_no_Woto_-_12_[BD]_[7FB6F3B1].mkv
+!new/upload/[uguu~]_Zoku_Sayonara_Zetsubou_Sensei_01_(DVD)_[767946CB].mkv
+!new/upload/[umai]_Major_S6_-_25_[35C22900].mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
