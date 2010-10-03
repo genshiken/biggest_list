@@ -659,6 +659,7 @@
 !new/upload/To_Aru_Kagaku_no_Railgun_-_OP2_Clean_[BD_1080p][AtsA][1DBD4E2B].mkv
 !new/upload/[ANBU]_Dragon_Quest_-_01_[941B9B6A].mkv
 !new/upload/[ANBU]_Planzet_[12EF5EDB].mkv
+!new/upload/[ANBU]_Professor_Layton_and_the_Eternal_Diva_[9212887D].mkv
 !new/upload/[AniYoshi]_Asu_no_Yoichi_-_11_[DVD][6067052E].mkv
 !new/upload/[AniYoshi]_Asu_no_Yoichi_-_12_[DVD][F4515EF1].mkv
 !new/upload/[Arienai]_Sugar_Sugar_Rune_-_01_[H264_-_AAC][09928A96].mp4
@@ -694,6 +695,7 @@
 !new/upload/[Ayako]_Seitokai_Yakuindomo_-_13_[720p][H264][F4B96036].mkv
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_001_To_the_Isshu_Region!_The_Shadow_of_Zekrom!![H264_720P][EEF21420].mkv
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_002_Iris_and_Kibago![H264_720P][CB118364].mkv
+!new/upload/[BWS]Pocket_Monsters_Best_Wishes_003_Mijumaru!_Meguroco!_Close_Call!![H264_720P][896A6149].mkv
 !new/upload/[CoalGuys] K-ON!! S2 - 25 (Extra) [0861F488].mkv
 !new/upload/[CoalGuys] K-ON!! S2 - 26 [8DCC38A5].mkv
 !new/upload/[Coalgirls]_Cardcaptor_Sakura_24_(960x720_Blu-Ray_FLAC)_[3296F035].mkv
@@ -721,6 +723,7 @@
 !new/upload/[Commie]_Kampfer_-_11_[BD_1080p_FLAC][809DBA69].mkv
 !new/upload/[Commie]_Kampfer_-_12_[BD_1080p_FLAC][A50186F8].mkv
 !new/upload/[Commie]_Kampfer_-_Akane_Transformation_Seq._[BD_1080p_FLAC][53F36CEE].mkv
+!new/upload/[Commie]_Kampfer_-_Dressing_Omake_Audio_Fix_Patch_[BD_1080p_FLAC].rar
 !new/upload/[Commie]_Kampfer_-_Groping_Shizuku_Omake_[BD_1080p_FLAC][61DC1FD4].mkv
 !new/upload/[Commie]_Kampfer_-_Mikoto_Transformation_Seq._[BD_1080p_FLAC][D9F3B971].mkv
 !new/upload/[Commie]_Kampfer_-_Natsuru_Akane_Dressing_Room_Omake_[BD_1080p_FLAC][EB97F7C4].mkv
@@ -730,6 +733,7 @@
 !new/upload/[CrunchySubs] Tono to Issho - 12 [720p].mkv
 !new/upload/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_07_[bbe3bea6].avi
 !new/upload/[DB]_Ninku_09_[B9E35DCE].avi
+!new/upload/[DB]_Ninku_10_[8F371D97].avi
 !new/upload/[Derp]_Legend_of_the_Legendary_Heroes_-_13_(1280x720_x264_AAC).mkv
 !new/upload/[Derp]_Legend_of_the_Legendary_Heroes_-_14_(1280x720_x264_AAC).mkv
 !new/upload/[Doremi].HeartCatch.PreCure!.32.[1280x720].[4202ABB2].mkv
@@ -747,6 +751,7 @@
 !new/upload/[HorribleSubs] HEROMAN - 26 [720p].mkv
 !new/upload/[HorribleSubs] Kateikyoushi Hitman Reborn - 203 [720p].mkv
 !new/upload/[HorribleSubs] Lilpri - 26 [720p].mkv
+!new/upload/[HorribleSubs] Lilpri - 27 [720p].mkv
 !new/upload/[HorribleSubs] Mitsudomoe - 13 [720p].mkv
 !new/upload/[HorribleSubs] Naruto Shippuuden - 179 [720p].mkv
 !new/upload/[HorribleSubs] Occult Academy - 13 [720p].mkv
@@ -817,6 +822,7 @@
 !new/upload/[S.F.S.]_Sugar_Sugar_Rune_-_30_ [FF068188].mp4
 !new/upload/[S.F.S.]_Sugar_Sugar_Rune_-_31_[A4549FC3].mp4
 !new/upload/[S.F.S.]_Sugar_Sugar_Rune_-_32_ [FA1062FC].mp4
+!new/upload/[SGKK-Doki] Senkou no Night Raid - 00 (1280x720 h264 BD FLAC) [2F39EDAB].mkv
 !new/upload/[SMC] Sailor Moon Stars 167v2 R2 DVD(H264.AC3)[2F033D3C].mkv
 !new/upload/[SMC] Sailor Moon Stars 168v2 R2 DVD(H264.AC3)[5EA2CE48].mkv
 !new/upload/[SMC] Sailor Moon Stars 169v2 R2 DVD(H264.AC3)[64695E63].mkv
@@ -1095,6 +1101,8 @@
 !new/upload/[UTW]_B_Gata_H_Kei_-_03_[BD][h264-1080p_AC3][53D87BAA].mkv
 !new/upload/[UTW]_B_Gata_H_Kei_-_04_[BD][h264-1080p_AC3][033D0AFF].mkv
 !new/upload/[Wasurenai] Marie & Gali - 17 [H264 1280x720] [31A3E85C].mkv
+!new/upload/[Wasurenai] Marie & Gali - 18 [H264 1280x720] [CBC071FB].mkv
+!new/upload/[aarinfantasy]_Gokujyo_no_Koibito_1_[9F092A1D].avi
 !new/upload/[amusic] Ceui - The Legend of the Legendary Heroes ED Single - Truth of My Destiny [w scans] (FLAC).zip
 !new/upload/[amusic] CooRie - Literature Girl Memoire OP Single - Musou Garden (FLAC).zip
 !new/upload/[amusic] Faylan - CANAAN Promo Single - AROUSING SOUL [w scans] (FLAC).zip
@@ -1123,6 +1131,7 @@
 !new/upload/[pwq]_Sora_no_Woto_-_10_[BD]_[57E0EDBB].mkv
 !new/upload/[pwq]_Sora_no_Woto_-_11_[BD]_[7F732268].mkv
 !new/upload/[pwq]_Sora_no_Woto_-_12_[BD]_[7FB6F3B1].mkv
+!new/upload/[ray=out]_Before_Green_Gables_-_12_[HD][AF045DAC].mkv
 !new/upload/[uguu~]_Zoku_Sayonara_Zetsubou_Sensei_01_(DVD)_[767946CB].mkv
 !new/upload/[umai]_Major_S6_-_25_[35C22900].mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
@@ -1500,3 +1509,4 @@
 !new/upload/ss/[all4seiya][galaxy][SAINT_SEIYA][TV112][DVDRIP][XVID_MP3][JP_CH].mkv
 !new/upload/ss/[all4seiya][galaxy][SAINT_SEIYA][TV113][DVDRIP][XVID_MP3][JP_CH].mkv
 !new/upload/ss/[all4seiya][galaxy][SAINT_SEIYA][TV114][DVDRIP][XVID_MP3][JP_CH].mkv
+!new/upload/utw-ubw.part2.rar
