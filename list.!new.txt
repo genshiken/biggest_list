@@ -739,6 +739,7 @@
 !new/upload/[Doutei]Golgo 13 - 45[DVD][60DB41FF].mkv
 !new/upload/[Doutei]Golgo 13 - 46[DVD][92EC4DF1].mkv
 !new/upload/[Fabulous] Pokemon Best Wishes Black & White - 01 [E82BAE1E].mkv
+!new/upload/[Formula]_Tales_of_Symphonia_OVA_-_Tethe'alla_Bonus_1_[CA7D8F4F].mkv
 !new/upload/[FroZen]_RAINBOW_18_[286DDC1C].mkv
 !new/upload/[HorribleSubs] Bleach - 290 [720p].mkv
 !new/upload/[HorribleSubs] Fairy Tail - 48 [720p].mkv
@@ -821,6 +822,33 @@
 !new/upload/[SMC] Sailor Moon Stars 171v2 R2 DVD(H264.AC3)[B1535DE7].mkv
 !new/upload/[SMC] Sailor Moon Stars 172v2 R2 DVD(H264.AC3)[15C23E8B].mkv
 !new/upload/[SMC] Sailor Moon Stars 173v2 R2 DVD(H264.AC3)[442CE78A].mkv
+!new/upload/[SMC] Sailor Moon Stars 174v2 R2 DVD(H264.AC3)[9E8DED06].mkv
+!new/upload/[SMC] Sailor Moon Stars 175v2 R2 DVD(H264.AC3)[FFC78660].mkv
+!new/upload/[SMC] Sailor Moon Stars 176v2 R2 DVD(H264.AC3)[77AD17E5].mkv
+!new/upload/[SMC] Sailor Moon Stars 177v2 R2 DVD(H264.AC3)[35D3C03C].mkv
+!new/upload/[SMC] Sailor Moon Stars 178v2 R2 DVD(H264.AC3)[BC2A4DD6].mkv
+!new/upload/[SMC] Sailor Moon Stars 179v2 R2 DVD(H264.AC3)[9719B41B].mkv
+!new/upload/[SMC] Sailor Moon Stars 180v2 R2 DVD(H264.AC3)[FC01063D].mkv
+!new/upload/[SMC] Sailor Moon Stars 181v2 R2 DVD(H264.AC3)[F2549632].mkv
+!new/upload/[SMC] Sailor Moon Stars 182v2 R2 DVD(H264.AC3)[76DEEF91].mkv
+!new/upload/[SMC] Sailor Moon Stars 183v2 R2 DVD(H264.AC3)[9213D7DC].mkv
+!new/upload/[SMC] Sailor Moon Stars 184v2 R2 DVD(H264.AC3)[55935B33].mkv
+!new/upload/[SMC] Sailor Moon Stars 185 R2 DVD(H264.AC3)[31113B39].mkv
+!new/upload/[SMC] Sailor Moon Stars 186 R2 DVD(H264.AC3)[C9D22348].mkv
+!new/upload/[SMC] Sailor Moon Stars 187 R2 DVD(H264.AC3)[B0C31B14].mkv
+!new/upload/[SMC] Sailor Moon Stars 188 R2 DVD(H264.AC3)[2820B90A].mkv
+!new/upload/[SMC] Sailor Moon Stars 189 R2 DVD(H264.AC3)[A74B3BCB].mkv
+!new/upload/[SMC] Sailor Moon Stars 190 R2 DVD(H264.AC3)[274FB89F].mkv
+!new/upload/[SMC] Sailor Moon Stars 191 R2 DVD(H264.AC3)[20606EA7].mkv
+!new/upload/[SMC] Sailor Moon Stars 192 R2 DVD(H264.AC3)[2FD42B0E].mkv
+!new/upload/[SMC] Sailor Moon Stars 193 R2 DVD(H264.AC3)[6C51D60A].mkv
+!new/upload/[SMC] Sailor Moon Stars 194 R2 DVD(H264.AC3)[8BA7BA65].mkv
+!new/upload/[SMC] Sailor Moon Stars 195 R2 DVD(H264.AC3)[ECFE903B].mkv
+!new/upload/[SMC] Sailor Moon Stars 196 R2 DVD(H264.AC3)[ECFB750D].mkv
+!new/upload/[SMC] Sailor Moon Stars 197 R2 DVD(H264.AC3)[7D5990D1].mkv
+!new/upload/[SMC] Sailor Moon Stars 198 R2 DVD(H264.AC3)[D531DFD8].mkv
+!new/upload/[SMC] Sailor Moon Stars 199 R2 DVD(H264.AC3)[8A01664D].mkv
+!new/upload/[SMC] Sailor Moon Stars 200 R2 DVD(H264.AC3)[E595A0A9].mkv
 !new/upload/[SubSmith] ToHeart2 adnext OVA 01 - First Name [DVD][4CA53FF4].mkv
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
@@ -1080,7 +1108,9 @@
 !new/upload/[amusic] Yuuki Aira - The Legend of the Legendary Heroes OP Single - LAMENT - Yagate Yorokobi wo [w scans] (FLAC).zip
 !new/upload/[amusic] angela - Seitokai Yakuindomo ED Single - Aoi Haru [w scans] (FLAC).zip
 !new/upload/[amusic] azusa - Amagami SS OP Single - i Love [w scans] (FLAC).zip
+!new/upload/[gg]_Bakuman_-_01_[0709DA14].mkv
 !new/upload/[iSiscon]_765PRO_ALLSTARS_-_THE_IDOLM@STER_ARTIST_2_-_Prologue_[w_scans]_(FLAC).rar
+!new/upload/[iSiscon]_KISIDA_KYODAN_&_THE_AKEBOSI_ROCKETS_-_TV_Anime_HIGH_SCHOOL_OF_THE_DEAD_OP_Theme_[w_scans]_(FLAC).rar
 !new/upload/[iSiscon]_Misato_Aki,_Endou_Masaaki_-_MUV-LUV_ALTERNATIVE_Chronicles_OP&ED_Single_[w_scans]_(FLAC).rar
 !new/upload/[iSiscon]_Miyazaki_Ui_-_PSP_L@ve_once_Image_Song_-_Sweet_Heaven_[w_scans]_(FLAC).rar
 !new/upload/[iSiscon]_Satou_Hiromi,_Sena,_touko,_Differencia_-_Tasogare_no_Shinsemia_ORIGINAL_SOUNDTRACK_[w_scans]_(FLAC).rar
