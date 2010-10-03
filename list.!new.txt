@@ -657,6 +657,7 @@
 !new/upload/To_Aru_Kagaku_no_Railgun_-_ED2_Clean_[BD_1080p][AtsA][A864E738].mkv
 !new/upload/To_Aru_Kagaku_no_Railgun_-_OP1_Clean_[BD_1080p][AtsA][A05D1AE0].mkv
 !new/upload/To_Aru_Kagaku_no_Railgun_-_OP2_Clean_[BD_1080p][AtsA][1DBD4E2B].mkv
+!new/upload/[ANBU]_Dragon_Quest_-_01_[941B9B6A].mkv
 !new/upload/[ANBU]_Planzet_[12EF5EDB].mkv
 !new/upload/[AniYoshi]_Asu_no_Yoichi_-_11_[DVD][6067052E].mkv
 !new/upload/[AniYoshi]_Asu_no_Yoichi_-_12_[DVD][F4515EF1].mkv
@@ -695,6 +696,10 @@
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_002_Iris_and_Kibago![H264_720P][CB118364].mkv
 !new/upload/[CoalGuys] K-ON!! S2 - 25 (Extra) [0861F488].mkv
 !new/upload/[CoalGuys] K-ON!! S2 - 26 [8DCC38A5].mkv
+!new/upload/[Coalgirls]_Cardcaptor_Sakura_24_(960x720_Blu-Ray_FLAC)_[3296F035].mkv
+!new/upload/[Coalgirls]_Cardcaptor_Sakura_25_(960x720_Blu-Ray_FLAC)_[6D99B97C].mkv
+!new/upload/[Coalgirls]_Cardcaptor_Sakura_26_(960x720_Blu-Ray_FLAC)_[EFE19AF6].mkv
+!new/upload/[Coalgirls]_Cardcaptor_Sakura_27_(960x720_Blu-Ray_FLAC)_[9E8C0F7C].mkv
 !new/upload/[Commie] Seikimatsu Occult Gakuin - 10 [DB613EC1].mkv
 !new/upload/[Commie] Seikimatsu Occult Gakuin - 11 [97441B18].mkv
 !new/upload/[Commie] Sengoku BASARA Two - 10 [50580617].mkv
@@ -809,6 +814,13 @@
 !new/upload/[S.F.S.]_Sugar_Sugar_Rune_-_30_ [FF068188].mp4
 !new/upload/[S.F.S.]_Sugar_Sugar_Rune_-_31_[A4549FC3].mp4
 !new/upload/[S.F.S.]_Sugar_Sugar_Rune_-_32_ [FA1062FC].mp4
+!new/upload/[SMC] Sailor Moon Stars 167v2 R2 DVD(H264.AC3)[2F033D3C].mkv
+!new/upload/[SMC] Sailor Moon Stars 168v2 R2 DVD(H264.AC3)[5EA2CE48].mkv
+!new/upload/[SMC] Sailor Moon Stars 169v2 R2 DVD(H264.AC3)[64695E63].mkv
+!new/upload/[SMC] Sailor Moon Stars 170v2 R2 DVD(H264.AC3)[98E512E4].mkv
+!new/upload/[SMC] Sailor Moon Stars 171v2 R2 DVD(H264.AC3)[B1535DE7].mkv
+!new/upload/[SMC] Sailor Moon Stars 172v2 R2 DVD(H264.AC3)[15C23E8B].mkv
+!new/upload/[SMC] Sailor Moon Stars 173v2 R2 DVD(H264.AC3)[442CE78A].mkv
 !new/upload/[SubSmith] ToHeart2 adnext OVA 01 - First Name [DVD][4CA53FF4].mkv
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
