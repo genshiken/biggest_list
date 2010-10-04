@@ -291,6 +291,7 @@
 !new/upload/Carol/[raw] Carol OVA.ass
 !new/upload/Carol/[raw] Carol OVA.avi
 !new/upload/Detective Conan - 589 [DCTP][720p][11BAF210].mp4
+!new/upload/Detective Conan - 590 [DCTP][720p][DEDC48BA].mp4
 !new/upload/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/upload/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/upload/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
@@ -702,6 +703,12 @@
 !new/upload/[Coalgirls]_Cardcaptor_Sakura_25_(960x720_Blu-Ray_FLAC)_[6D99B97C].mkv
 !new/upload/[Coalgirls]_Cardcaptor_Sakura_26_(960x720_Blu-Ray_FLAC)_[EFE19AF6].mkv
 !new/upload/[Coalgirls]_Cardcaptor_Sakura_27_(960x720_Blu-Ray_FLAC)_[9E8C0F7C].mkv
+!new/upload/[Coalgirls]_Occult_Academy_01_(1920x1080_Blu-ray_FLAC)_[23F6D2DB].mkv
+!new/upload/[Coalgirls]_Occult_Academy_02_(1920x1080_Blu-ray_FLAC)_[7CC4D473].mkv
+!new/upload/[Coalgirls]_Occult_Academy_NCED_(1920x1080_Blu-ray_FLAC)_[34F6B2B0].mkv
+!new/upload/[Coalgirls]_Occult_Academy_NCOP_(1920x1080_Blu-ray_FLAC)_[7B63A3C4].mkv
+!new/upload/[Coalgirls]_Occult_Academy_SP01_(1920x1080_Blu-ray_FLAC)_[B7C02673].mkv
+!new/upload/[Coalgirls]_Occult_Academy_SP01_3D_(1920x1080_Blu-ray_FLAC)_[8C3D9182].mkv
 !new/upload/[Commie] Seikimatsu Occult Gakuin - 10 [DB613EC1].mkv
 !new/upload/[Commie] Seikimatsu Occult Gakuin - 11 [97441B18].mkv
 !new/upload/[Commie] Sengoku BASARA Two - 10 [50580617].mkv
@@ -743,6 +750,7 @@
 !new/upload/[Doutei]Golgo 13 - 45[DVD][60DB41FF].mkv
 !new/upload/[Doutei]Golgo 13 - 46[DVD][92EC4DF1].mkv
 !new/upload/[Fabulous] Pokemon Best Wishes Black & White - 01 [E82BAE1E].mkv
+!new/upload/[Force-Works] Iron Man - 01 [A66813DB].mkv
 !new/upload/[Formula]_Tales_of_Symphonia_OVA_-_Tethe'alla_Bonus_1_[CA7D8F4F].mkv
 !new/upload/[FroZen]_RAINBOW_18_[286DDC1C].mkv
 !new/upload/[HorribleSubs] Bleach - 290 [720p].mkv
