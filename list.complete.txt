@@ -556,6 +556,18 @@ complete/a/Asatte no Houkou/[Ureshii] Asatte no Houkou - 09 [DVD][C429C64D].mkv
 complete/a/Asatte no Houkou/[Ureshii] Asatte no Houkou - 10 [DVD][CE24CAAA].mkv
 complete/a/Asatte no Houkou/[Ureshii] Asatte no Houkou - 11 [DVD][3D5C6058].mkv
 complete/a/Asatte no Houkou/[Ureshii] Asatte no Houkou - 12 [End][DVD][CC409D83].mkv
+complete/a/Asobi ni Iku Yo!/[Ayako-SubDESU] Asobi ni Iku Yo! - 09 [720p][261F0BB9].mkv
+complete/a/Asobi ni Iku Yo!/[Ayako-SubDESU] Asobi ni Iku Yo! - 10 [720p][29961D3E].mkv
+complete/a/Asobi ni Iku Yo!/[Ayako-SubDESU] Asobi ni Iku Yo! - 11 [720p][D9F70C1C].mkv
+complete/a/Asobi ni Iku Yo!/[Ayako-SubDESU] Asobi ni Iku Yo! - 12 [End 720p][6BDA7299].mkv
+complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 01 [v3][079EFF6D].mkv
+complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 02 [4796E9B8].mkv
+complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 03 [44E72E12].mkv
+complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 04 [693E3458].mkv
+complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 05 [FF85704E].mkv
+complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 06 [10762643].mkv
+complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 07 [DFDC796A].mkv
+complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 08 [07C4F947].mkv
 complete/a/Asu no Yoichi/[AniYoshi] Asu no Yoichi - 01 [WS][C512E27E].mkv
 complete/a/Asu no Yoichi/[AniYoshi] Asu no Yoichi - 02 [WS][A4A57006].mkv
 complete/a/Asu no Yoichi/[AniYoshi] Asu no Yoichi - 03 [WS][7165138C].mkv
@@ -566,8 +578,8 @@ complete/a/Asu no Yoichi/[AniYoshi] Asu no Yoichi - 07 [DVD][AC4F7EAD].mkv
 complete/a/Asu no Yoichi/[AniYoshi] Asu no Yoichi - 08 [DVD][B57454ED].mkv
 complete/a/Asu no Yoichi/[AniYoshi] Asu no Yoichi - 09 [DVD][8830EF7A].mkv
 complete/a/Asu no Yoichi/[AniYoshi] Asu no Yoichi - 10 [DVD][7F92422D].mkv
-complete/a/Asu no Yoichi/[CoalGuys-Doremi] Asu no Yoichi - 11 [D05CED22].mkv
-complete/a/Asu no Yoichi/[CoalGuys-Doremi] Asu no Yoichi - 12 [End][1D5BFF04].mkv
+complete/a/Asu no Yoichi/[AniYoshi] Asu no Yoichi - 11 [DVD][6067052E].mkv
+complete/a/Asu no Yoichi/[AniYoshi] Asu no Yoichi - 12 [End][DVD][F4515EF1].mkv
 complete/a/Asura Cryin'/[AniYoshi] Asura Cryin' - 01 [F75F8B5A].mkv
 complete/a/Asura Cryin'/[AniYoshi] Asura Cryin' - 02 [4A6ABDE4].mkv
 complete/a/Asura Cryin'/[AniYoshi] Asura Cryin' - 04 [9C0F6866].mkv
@@ -661,8 +673,6 @@ complete/a/Azumanga Daioh/[a4e] Azumanga Daioh - 23 [40805B9D].mkv
 complete/a/Azumanga Daioh/[a4e] Azumanga Daioh - 24 [8A9ED3FA].mkv
 complete/a/Azumanga Daioh/[a4e] Azumanga Daioh - 25 [CA0A38C8].mkv
 complete/a/Azumanga Daioh/[a4e] Azumanga Daioh - 26 [End][2117E714].mkv
-complete/b/B Gata H Kei/[CoalGuys] B Gata H Kei - 03 [EE01648B].mkv
-complete/b/B Gata H Kei/[CoalGuys] B Gata H Kei - 04 [EDE606E8].mkv
 complete/b/B Gata H Kei/[CoalGuys] B Gata H Kei - 05 [DF9C7910].mkv
 complete/b/B Gata H Kei/[CoalGuys] B Gata H Kei - 06 [949B3912].mkv
 complete/b/B Gata H Kei/[CoalGuys] B Gata H Kei - 07 [87967BC2].mkv
@@ -673,6 +683,8 @@ complete/b/B Gata H Kei/[CoalGuys] B Gata H Kei - 11 [0D11BE42].mkv
 complete/b/B Gata H Kei/[CoalGuys] B Gata H Kei - 12 [End][0017B6C5].mkv
 complete/b/B Gata H Kei/[UTW] B Gata H Kei - 01 (1920x1080) [BD][F0517388].mkv
 complete/b/B Gata H Kei/[UTW] B Gata H Kei - 02 (1920x1080) [BD][4E9DD8D4].mkv
+complete/b/B Gata H Kei/[UTW] B Gata H Kei - 03 (1920x1080) [BD][53D87BAA].mkv
+complete/b/B Gata H Kei/[UTW] B Gata H Kei - 04 (1920x1080) [BD][033D0AFF].mkv
 complete/b/BALDR FORCE EXE Resolution/[Megami] BALDR FORCE EXE Resolution - 1 [08D4A401].mkv
 complete/b/BALDR FORCE EXE Resolution/[Megami] BALDR FORCE EXE Resolution - 2 [BE5489D0].mkv
 complete/b/BALDR FORCE EXE Resolution/[Megami] BALDR FORCE EXE Resolution - 3 [6E07E289].mkv
@@ -4817,6 +4829,32 @@ complete/h/Heroic Age/[lightningblade] Heroic Age - 25 (1280x720) [BD][B9441F84]
 complete/h/Heroic Age/[lightningblade] Heroic Age - 26 (1280x720) [End][BD][096D0359].mkv
 complete/h/Heroic Age/[lightningblade] Heroic Age - Ending [F3510637].mkv
 complete/h/Heroic Age/[lightningblade] Heroic Age - Opening [v2][C8866491].mkv
+complete/h/Heroman/[Commie] Heroman - 01 [D56AC2D5].mkv
+complete/h/Heroman/[Commie] Heroman - 02 [FE2192B6].mkv
+complete/h/Heroman/[Commie] Heroman - 03 [E5EEFB76].mkv
+complete/h/Heroman/[Commie] Heroman - 04 [72A08CD4].mkv
+complete/h/Heroman/[Commie] Heroman - 05 [66FB77C3].mkv
+complete/h/Heroman/[Commie] Heroman - 06 [B6E036DA].mkv
+complete/h/Heroman/[Commie] Heroman - 07 [EAE00133].mkv
+complete/h/Heroman/[Commie] Heroman - 08 [66511ACF].mkv
+complete/h/Heroman/[Commie] Heroman - 09 [E9A1665D].mkv
+complete/h/Heroman/[Commie] Heroman - 10 [F4594EF2].mkv
+complete/h/Heroman/[Commie] Heroman - 11 [7C7529C4].mkv
+complete/h/Heroman/[Commie] Heroman - 12 [CA2E2FF8].mkv
+complete/h/Heroman/[HorribleSubs] Heroman - 13 (1280x720) [CF801D83].mkv
+complete/h/Heroman/[HorribleSubs] Heroman - 14 (1280x720) [A708186D].mkv
+complete/h/Heroman/[HorribleSubs] Heroman - 15 (1280x720) [9E24B23C].mkv
+complete/h/Heroman/[HorribleSubs] Heroman - 16 (1280x720) [0775443D].mkv
+complete/h/Heroman/[HorribleSubs] Heroman - 17 (1280x720) [0A32033D].mkv
+complete/h/Heroman/[HorribleSubs] Heroman - 18 (1280x720) [146E6680].mkv
+complete/h/Heroman/[HorribleSubs] Heroman - 19 (1280x720) [8EC7F8BB].mkv
+complete/h/Heroman/[HorribleSubs] Heroman - 20 (1280x720) [CE5DD5FC].mkv
+complete/h/Heroman/[HorribleSubs] Heroman - 21 (1280x720) [CCAD67BD].mkv
+complete/h/Heroman/[HorribleSubs] Heroman - 22 (1280x720) [F003741F].mkv
+complete/h/Heroman/[HorribleSubs] Heroman - 23 (1280x720) [E4FEC383].mkv
+complete/h/Heroman/[HorribleSubs] Heroman - 24 (1280x720) [156BD896].mkv
+complete/h/Heroman/[HorribleSubs] Heroman - 25 (1280x720) [441AE647].mkv
+complete/h/Heroman/[HorribleSubs] Heroman - 26 (1280x720) [End][6ABEBD8D].mkv
 complete/h/Hidamari Sketch Hoshi Mittsu/[Nutbladder] Hidamari Sketch Hoshi Mittsu - 01 [27DCE80A].mkv
 complete/h/Hidamari Sketch Hoshi Mittsu/[Nutbladder] Hidamari Sketch Hoshi Mittsu - 02 [v2][FFFFFFFF].mkv
 complete/h/Hidamari Sketch Hoshi Mittsu/[Nutbladder] Hidamari Sketch Hoshi Mittsu - 03 [5004D38D].mkv
@@ -5977,21 +6015,18 @@ complete/k/Kamisama Kazoku/[Rabbit-Force] Kamisama Kazoku - 12 [DVD][000093EF].m
 complete/k/Kamisama Kazoku/[Rabbit-Force] Kamisama Kazoku - 13 [End][DVD][2434847E].mkv
 complete/k/Kamisama Kazoku/[Rabbit-Force] Kamisama Kazoku - Ending (Clean) [DVD][B4895B7A].mkv
 complete/k/Kamisama Kazoku/[Rabbit-Force] Kamisama Kazoku - Opening (Clean) [DVD][70CC93A0].mkv
-complete/k/Kampfer/[Coalgirls] Kampfer - 01 (1920x1080) [BD][A47BF81E].mkv
-complete/k/Kampfer/[Coalgirls] Kampfer - 02 (1920x1080) [BD][C6B6CA13].mkv
-complete/k/Kampfer/[Coalgirls] Kampfer - 03 (1920x1080) [BD][B477A930].mkv
-complete/k/Kampfer/[Coalgirls] Kampfer - 04 (1920x1080) [BD][1E4D9D30].mkv
-complete/k/Kampfer/[Coalgirls] Kampfer - 05 (1920x1080) [BD][DD91E963].mkv
-complete/k/Kampfer/[Coalgirls] Kampfer - 06 (1920x1080) [BD][E4B78E82].mkv
-complete/k/Kampfer/[Coalgirls] Kampfer - 07 (1920x1080) [BD][B5ECE7D3].mkv
-complete/k/Kampfer/[Coalgirls] Kampfer - 08 (1920x1080) [BD][759441D1].mkv
-complete/k/Kampfer/[Coalgirls] Kampfer - 09 (1920x1080) [BD][A85C3E6A].mkv
-complete/k/Kampfer/[Coalgirls] Kampfer - 10 (1920x1080) [BD][1FD83FEC].mkv
-complete/k/Kampfer/[Coalgirls] Kampfer - 11 (1920x1080) [BD][EA6E3570].mkv
-complete/k/Kampfer/[Coalgirls] Kampfer - 12 (1920x1080) [End][BD][1D5F5A43].mkv
-complete/k/Kampfer/[Coalgirls] Kampfer - Ending (1920x1080) [BD][145A6DC3].mkv
-complete/k/Kampfer/[Coalgirls] Kampfer - Opening (1920x1080) [BD][6BADC36D].mkv
-complete/k/Kampfer/[Coalgirls] Kampfer - Opening 2 (1920x1080) [BD][CEBFFF07].mkv
+complete/k/Kampfer/[Commie] Kampfer - 01 [1080p BD][609939BE].mkv
+complete/k/Kampfer/[Commie] Kampfer - 02 [1080p BD][57641978].mkv
+complete/k/Kampfer/[Commie] Kampfer - 03 [1080p BD][CE9AD675].mkv
+complete/k/Kampfer/[Commie] Kampfer - 04 [1080p BD][7E72E974].mkv
+complete/k/Kampfer/[Commie] Kampfer - 05 [1080p BD][F73539DF].mkv
+complete/k/Kampfer/[Commie] Kampfer - 06 [1080p BD][D42B32B9].mkv
+complete/k/Kampfer/[Commie] Kampfer - 07 [1080p BD][458C47AE].mkv
+complete/k/Kampfer/[Commie] Kampfer - 08 [1080p BD][91F89794].mkv
+complete/k/Kampfer/[Commie] Kampfer - 09 [1080p BD][80E6ABDB].mkv
+complete/k/Kampfer/[Commie] Kampfer - 10 [1080p BD][F52B3297].mkv
+complete/k/Kampfer/[Commie] Kampfer - 11 [1080p BD][809DBA69].mkv
+complete/k/Kampfer/[Commie] Kampfer - 12 [End 1080p BD][A50186F8].mkv
 complete/k/Kanamemo/[Underwater] Kanamemo - 01 [A0FF3A67].mkv
 complete/k/Kanamemo/[Underwater] Kanamemo - 02 [6D136236].mkv
 complete/k/Kanamemo/[Underwater] Kanamemo - 03 [C23F09D2].mkv
@@ -7731,6 +7766,31 @@ complete/m/Major S5/[MJN] Major S5 - 22 [HD][38F7AE52].mp4
 complete/m/Major S5/[MJN] Major S5 - 23 [HD][28BF4312].mp4
 complete/m/Major S5/[MJN] Major S5 - 24 [HD][DDD7A945].mp4
 complete/m/Major S5/[MJN] Major S5 - 25 [End][HD][296189C8].mp4
+complete/m/Major S6/[umai] Major S6 - 01 [v2][D39DFAE7].mkv
+complete/m/Major S6/[umai] Major S6 - 02 [3F88D9A1].mkv
+complete/m/Major S6/[umai] Major S6 - 03 [5C75E076].mkv
+complete/m/Major S6/[umai] Major S6 - 04 [FFD1A142].mkv
+complete/m/Major S6/[umai] Major S6 - 05 [47836282].mkv
+complete/m/Major S6/[umai] Major S6 - 06 [0BE03C56].mkv
+complete/m/Major S6/[umai] Major S6 - 07 [0EDBA7FA].mkv
+complete/m/Major S6/[umai] Major S6 - 08 [v2][C6CAD4C2].mkv
+complete/m/Major S6/[umai] Major S6 - 09 [FFC6B387].mkv
+complete/m/Major S6/[umai] Major S6 - 10 [50864A04].mkv
+complete/m/Major S6/[umai] Major S6 - 11 [2840B94E].mkv
+complete/m/Major S6/[umai] Major S6 - 12 [1850B14E].mkv
+complete/m/Major S6/[umai] Major S6 - 13 [1821D448].mkv
+complete/m/Major S6/[umai] Major S6 - 14 [6A06BA34].mkv
+complete/m/Major S6/[umai] Major S6 - 15 [65C27BFA].mkv
+complete/m/Major S6/[umai] Major S6 - 16 [3EE32BEB].mkv
+complete/m/Major S6/[umai] Major S6 - 17 [FC2B05DB].mkv
+complete/m/Major S6/[umai] Major S6 - 18 [FA86F169].mkv
+complete/m/Major S6/[umai] Major S6 - 19 [FBA20D33].mkv
+complete/m/Major S6/[umai] Major S6 - 20 [B5D3790D].mkv
+complete/m/Major S6/[umai] Major S6 - 21 [2FD6E0EF].mkv
+complete/m/Major S6/[umai] Major S6 - 22 [8F33A348].mkv
+complete/m/Major S6/[umai] Major S6 - 23 [570F5455].mkv
+complete/m/Major S6/[umai] Major S6 - 24 [1730F8DD].mkv
+complete/m/Major S6/[umai] Major S6 - 25 [End][35C22900].mkv
 complete/m/Major/[F-B & MJN] Major - 01 [DVD][29F75388].avi
 complete/m/Major/[F-B & MJN] Major - 02 [DVD][9130342A].avi
 complete/m/Major/[F-B & MJN] Major - 03 [DVD][B7633D03].avi
@@ -8052,6 +8112,22 @@ complete/m/Mission-E/[oom] Mission-E - 08 [1C1F2340].avi
 complete/m/Mission-E/[oom] Mission-E - 09 [46ECE211].avi
 complete/m/Mission-E/[oom] Mission-E - 10 [3583E4CB].avi
 complete/m/Mission-E/[oom] Mission-E - 11 [810C8C95].avi
+complete/m/Mitsudomoe/[HorribleSubs] Mitsudomoe - 01 (1280x720) [56B68B19].mkv
+complete/m/Mitsudomoe/[HorribleSubs] Mitsudomoe - 02 (1280x720) [7048D204].mkv
+complete/m/Mitsudomoe/[HorribleSubs] Mitsudomoe - 03 (1280x720) [E3886CA2].mkv
+complete/m/Mitsudomoe/[HorribleSubs] Mitsudomoe - 04 (1280x720) [9E43A9AD].mkv
+complete/m/Mitsudomoe/[HorribleSubs] Mitsudomoe - 05 (1280x720) [1756056F].mkv
+complete/m/Mitsudomoe/[HorribleSubs] Mitsudomoe - 06 (1280x720) [CBAFC77A].mkv
+complete/m/Mitsudomoe/[HorribleSubs] Mitsudomoe - 07 (1280x720) [77710EAF].mkv
+complete/m/Mitsudomoe/[HorribleSubs] Mitsudomoe - 08 (1280x720) [E5459E61].mkv
+complete/m/Mitsudomoe/[HorribleSubs] Mitsudomoe - 09 (1280x720) [4A1EAAF1].mkv
+complete/m/Mitsudomoe/[HorribleSubs] Mitsudomoe - 10 (1280x720) [397192B9].mkv
+complete/m/Mitsudomoe/[HorribleSubs] Mitsudomoe - 11 (1280x720) [F22AE1B0].mkv
+complete/m/Mitsudomoe/[HorribleSubs] Mitsudomoe - 12 (1280x720) [A45C4082].mkv
+complete/m/Mitsudomoe/[HorribleSubs] Mitsudomoe - 13 (1280x720) [End][99074B22].mkv
+complete/m/Mitsudomoe/[RaveSubs] Mitsudomoe - 01 (1280x720) [v2][8E6792C6].mkv
+complete/m/Mitsudomoe/[RaveSubs] Mitsudomoe - 02 (1280x720) [E8513815].mkv
+complete/m/Mitsudomoe/[RaveSubs] Mitsudomoe - 03 (1280x720) [v2][B0BE5B25].mkv
 complete/m/Mnemosyne/[A-E & Ureshii] Mnemosyne - 2 [DVD][1D3C117D].mkv
 complete/m/Mnemosyne/[A-E & Ureshii] Mnemosyne - 3 [DVD][6E543F20].mkv
 complete/m/Mnemosyne/[A-E & Ureshii] Mnemosyne - 4 [DVD][1B7AAB48].mkv
@@ -8677,6 +8753,19 @@ complete/n/Nyan Koi/[gg] Nyan Koi - 09 [37FAC9C0].mkv
 complete/n/Nyan Koi/[gg] Nyan Koi - 10 [484A7BD0].mkv
 complete/n/Nyan Koi/[gg] Nyan Koi - 11 [v2][7ECC487F].mkv
 complete/n/Nyan Koi/[gg] Nyan Koi - 12 [End][B2D47F45].mkv
+complete/o/Occult Academy/[Commie] Occult Academy - 01 [v2][3BD9BD2D].mkv
+complete/o/Occult Academy/[Commie] Occult Academy - 02 [FCF0006A].mkv
+complete/o/Occult Academy/[Commie] Occult Academy - 03 [E736AFE0].mkv
+complete/o/Occult Academy/[Commie] Occult Academy - 04 [97D716CF].mkv
+complete/o/Occult Academy/[Commie] Occult Academy - 05 [FB3D283E].mkv
+complete/o/Occult Academy/[Commie] Occult Academy - 06 [11CA49C2].mkv
+complete/o/Occult Academy/[Commie] Occult Academy - 07 [5A2CAF44].mkv
+complete/o/Occult Academy/[Commie] Occult Academy - 08 [F4F4CF88].mkv
+complete/o/Occult Academy/[Commie] Occult Academy - 09 [AFD94CBF].mkv
+complete/o/Occult Academy/[Commie] Occult Academy - 10 [DB613EC1].mkv
+complete/o/Occult Academy/[Commie] Occult Academy - 11 [97441B18].mkv
+complete/o/Occult Academy/[HorribleSubs] Occult Academy - 12 (1280x720) [07AD91DD].mkv
+complete/o/Occult Academy/[HorribleSubs] Occult Academy - 13 (1280x720) [End][E7253DD0].mkv
 complete/o/Oh! Edo Rocket/[Shinsen-Subs] Oh! Edo Rocket - 01 [80A393F6].mkv
 complete/o/Oh! Edo Rocket/[Shinsen-Subs] Oh! Edo Rocket - 02 [031DC023].mkv
 complete/o/Oh! Edo Rocket/[Shinsen-Subs] Oh! Edo Rocket - 03 [E5A7C0B3].mkv
@@ -9979,6 +10068,40 @@ complete/s/Sailor Moon R/[SMC] Sailor Moon R - Opening (Remastered) [v3][67A545E
 complete/s/Sailor Moon R/[SMC] Sailor Moon R - Opening 2 [F2246640].mkv
 complete/s/Sailor Moon R/[SMC] Sailor Moon R - Opening 3 [AB19166B].mkv
 complete/s/Sailor Moon R/[SMC] Sailor Moon R - Opening [C550FB05].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 01 [v2][DVD][2F033D3C].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 02 [v2][DVD][5EA2CE48].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 03 [v2][DVD][64695E63].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 04 [v2][DVD][98E512E4].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 05 [v2][DVD][B1535DE7].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 06 [v2][DVD][15C23E8B].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 07 [v2][DVD][442CE78A].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 08 [v2][DVD][9E8DED06].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 09 [v2][DVD][FFC78660].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 10 [v2][DVD][77AD17E5].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 11 [v2][DVD][35D3C03C].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 12 [v2][DVD][BC2A4DD6].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 13 [v2][DVD][9719B41B].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 14 [v2][DVD][FC01063D].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 15 [v2][DVD][F2549632].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 16 [v2][DVD][76DEEF91].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 17 [v2][DVD][9213D7DC].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 18 [v2][DVD][55935B33].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 19 [DVD][31113B39].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 20 [DVD][C9D22348].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 21 [DVD][B0C31B14].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 22 [DVD][2820B90A].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 23 [DVD][A74B3BCB].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 24 [DVD][274FB89F].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 25 [DVD][20606EA7].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 26 [DVD][2FD42B0E].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 27 [DVD][6C51D60A].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 28 [DVD][8BA7BA65].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 29 [DVD][ECFE903B].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 30 [DVD][ECFB750D].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 31 [DVD][7D5990D1].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 32 [DVD][D531DFD8].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 33 [DVD][8A01664D].mkv
+complete/s/Sailor Moon Sailor Stars/[SMC] Sailor Moon Sailor Stars - 34 [End][DVD][E595A0A9].mkv
 complete/s/Sailor Moon/[KAA] Sailor Moon - 01 [v3][1972A4E5].mkv
 complete/s/Sailor Moon/[KAA] Sailor Moon - 02 [v3][88470663].mkv
 complete/s/Sailor Moon/[KAA] Sailor Moon - 03 [v2][46024225].mkv
@@ -10431,6 +10554,21 @@ complete/s/Seirei no Moribito/[A-Kraze] Seirei no Moribito - 23 [DVD][839054E5].
 complete/s/Seirei no Moribito/[A-Kraze] Seirei no Moribito - 24 [DVD][A01ED0FA].mkv
 complete/s/Seirei no Moribito/[A-Kraze] Seirei no Moribito - 25 [DVD][6293E29F].mkv
 complete/s/Seirei no Moribito/[A-Kraze] Seirei no Moribito - 26 [End][DVD][420AD858].mkv
+complete/s/Seitokai Yakuindomo/[Coalgirls] Seitokai Yakuindomo - 01 (1920x1080) [BD][912D6FAB].mkv
+complete/s/Seitokai Yakuindomo/[Coalgirls] Seitokai Yakuindomo - 02 (1920x1080) [BD][EBB16865].mkv
+complete/s/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 01 (1280x720) [BD][E4FAEC11].mkv
+complete/s/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 02 (1280x720) [BD][3DB1FD1F].mkv
+complete/s/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 03 (1024x576) [8AA52B46].mkv
+complete/s/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 04 (1024x576) [072611CE].mkv
+complete/s/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 05 (1024x576) [F53C4CA4].mkv
+complete/s/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 06 (1024x576) [DDBF8557].mkv
+complete/s/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 07 (1024x576) [10C61256].mkv
+complete/s/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 08 (1024x576) [4598E4A9].mkv
+complete/s/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 09 (1024x576) [7EA88A1B].mkv
+complete/s/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 10 (1024x576) [5CBF6EAE].mkv
+complete/s/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 11 (1024x576) [45F65C35].mkv
+complete/s/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 12 (1024x576) [C7E36FAB].mkv
+complete/s/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 13 (1024x576) [End][7B4E64BA].mkv
 complete/s/Seitokai no Ichizon/[SS-Eclipse] Seitokai no Ichizon - 01 (1024x576) [0F1C5BCB].mkv
 complete/s/Seitokai no Ichizon/[SS-Eclipse] Seitokai no Ichizon - 02 (1024x576) [DB13AB32].mkv
 complete/s/Seitokai no Ichizon/[SS-Eclipse] Seitokai no Ichizon - 03 (1024x576) [A4BD21F8].mkv
@@ -11176,18 +11314,6 @@ complete/s/Sora no Otoshimono/[Shinji-Nekomimi] Sora no Otoshimono - 10 [5BD2F62
 complete/s/Sora no Otoshimono/[Shinji-Nekomimi] Sora no Otoshimono - 11 [B6AEC23C].mkv
 complete/s/Sora no Otoshimono/[Shinji-Nekomimi] Sora no Otoshimono - 12 [47007DFC].mkv
 complete/s/Sora no Otoshimono/[Shinji-Nekomimi] Sora no Otoshimono - 13 [End][v2][666DD738].mkv
-complete/s/Sora no Woto/[Commie] Sora no Woto - 01 [B761BE81].mkv
-complete/s/Sora no Woto/[Commie] Sora no Woto - 02 [F3CABECF].mkv
-complete/s/Sora no Woto/[Commie] Sora no Woto - 03 [28F5CF17].mkv
-complete/s/Sora no Woto/[Commie] Sora no Woto - 04 [092AE30A].mkv
-complete/s/Sora no Woto/[Commie] Sora no Woto - 05 [6F5DC9D1].mkv
-complete/s/Sora no Woto/[Commie] Sora no Woto - 06 [585EEDF1].mkv
-complete/s/Sora no Woto/[Commie] Sora no Woto - 07 [v2][01E82B34].mkv
-complete/s/Sora no Woto/[Commie] Sora no Woto - 08 [B4D01423].mkv
-complete/s/Sora no Woto/[Commie] Sora no Woto - 09 [F7FE67D8].mkv
-complete/s/Sora no Woto/[Commie] Sora no Woto - 10 [1E1496CB].mkv
-complete/s/Sora no Woto/[Commie] Sora no Woto - 11 [E032EB41].mkv
-complete/s/Sora no Woto/[Commie] Sora no Woto - 12 [End][C98A952F].mkv
 complete/s/Sora no Woto/[pwq] Sora no Woto - 01 [BD][C3CEDA78].mkv
 complete/s/Sora no Woto/[pwq] Sora no Woto - 02 [BD][3EF30DC0].mkv
 complete/s/Sora no Woto/[pwq] Sora no Woto - 03 [BD][F5B7E0CE].mkv
@@ -11198,7 +11324,10 @@ complete/s/Sora no Woto/[pwq] Sora no Woto - 07 [BD][F5F531E1].mkv
 complete/s/Sora no Woto/[pwq] Sora no Woto - 07.5 [BD][1B10DADA].mkv
 complete/s/Sora no Woto/[pwq] Sora no Woto - 08 [BD][B46C2CA0].mkv
 complete/s/Sora no Woto/[pwq] Sora no Woto - 09 [BD][DAAB1FDC].mkv
-complete/s/Sora no Woto/[pwq] Sora no Woto - 13 [BD][AB1000E2].mkv
+complete/s/Sora no Woto/[pwq] Sora no Woto - 10 [BD][57E0EDBB].mkv
+complete/s/Sora no Woto/[pwq] Sora no Woto - 11 [BD][7F732268].mkv
+complete/s/Sora no Woto/[pwq] Sora no Woto - 12 [End][BD][7FB6F3B1].mkv
+complete/s/Sora no Woto/[pwq] Sora no Woto - 13 Extra [BD][AB1000E2].mkv
 complete/s/Sora wo Kakeru Shoujo/[Commie] Sora wo Kakeru Shoujo - Opening (1280x720) [BD][BE969D80].mkv
 complete/s/Sora wo Kakeru Shoujo/[II-Subs] Sora wo Kakeru Shoujo - 13 (1280x720) [D8F4EAE3].mkv
 complete/s/Sora wo Kakeru Shoujo/[II-Subs] Sora wo Kakeru Shoujo - 14 (1280x720) [2591A90C].mkv
@@ -11484,6 +11613,57 @@ complete/s/Strike Witches/[Coalgirls] Strike Witches - 09 (1280x720) [BD][438BF6
 complete/s/Strike Witches/[Coalgirls] Strike Witches - 10 (1280x720) [BD][9A85F7B0].mkv
 complete/s/Strike Witches/[Coalgirls] Strike Witches - 11 (1280x720) [BD][5407B208].mkv
 complete/s/Strike Witches/[Coalgirls] Strike Witches - 12 (1280x720) [End][BD][6348A9F6].mkv
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 02 [701423BA].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 03 [D456276C].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 04 [F09D13AE].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 05 [73510317].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 06 [32DA1A4B].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 07 [D4D84B4B].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 08 [6C87B4F7].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 09 [6F823500].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 10 [0653206B].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 11 [v2][47774B7C].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 12 [69C0E7F5].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 13 [22CF762A].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 14 [A048CF68].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 15 [2D351777].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 16 [7A9202EE].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 17 [2339B54E].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 18 [E54CEC68].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 19 [AF181585].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 20 [24C9290E].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 21 [C2217153].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 22 [808C27F3].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 23 [7DDD69D6].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 24 [6CA8A901].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 25 [EC69A5AE].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 26 [6C762613].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 27 [C63AAB24].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 28 [095710A8].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 29 [A750D06E].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 30 [FF068188].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 31 [A4549FC3].mp4
+complete/s/Sugar Sugar Rune/[Arienai-Seishun] Sugar Sugar Rune - 32 [FA1062FC].mp4
+complete/s/Sugar Sugar Rune/[Arienai] Sugar Sugar Rune - 01 [09928A96].mp4
+complete/s/Sugar Sugar Rune/[Hatsuyuki-SFS] Sugar Sugar Rune - 33 [B8EB9B20].avi
+complete/s/Sugar Sugar Rune/[Hatsuyuki-SFS] Sugar Sugar Rune - 34 [F6C302E9].avi
+complete/s/Sugar Sugar Rune/[Hatsuyuki-SFS] Sugar Sugar Rune - 35 [F31A63D2].avi
+complete/s/Sugar Sugar Rune/[Hatsuyuki-SFS] Sugar Sugar Rune - 36 [D15AF7E2].avi
+complete/s/Sugar Sugar Rune/[Hatsuyuki-SFS] Sugar Sugar Rune - 37 [558D2D46].avi
+complete/s/Sugar Sugar Rune/[Hatsuyuki-SFS] Sugar Sugar Rune - 38 [CF0F4A23].avi
+complete/s/Sugar Sugar Rune/[Hatsuyuki-SFS] Sugar Sugar Rune - 39 [CB291583].avi
+complete/s/Sugar Sugar Rune/[Hatsuyuki-SFS] Sugar Sugar Rune - 40 [8AC50AE1].avi
+complete/s/Sugar Sugar Rune/[Hatsuyuki-SFS] Sugar Sugar Rune - 41 [621AA0DC].avi
+complete/s/Sugar Sugar Rune/[Hatsuyuki-SFS] Sugar Sugar Rune - 42 [55FE8749].avi
+complete/s/Sugar Sugar Rune/[Hatsuyuki-SFS] Sugar Sugar Rune - 43 [7D92A4FA].avi
+complete/s/Sugar Sugar Rune/[Hatsuyuki-SFS] Sugar Sugar Rune - 44 [E420843A].avi
+complete/s/Sugar Sugar Rune/[Hatsuyuki-SFS] Sugar Sugar Rune - 45 [9509B1AA].avi
+complete/s/Sugar Sugar Rune/[Hatsuyuki-SFS] Sugar Sugar Rune - 46 [F028CDA0].avi
+complete/s/Sugar Sugar Rune/[Hatsuyuki-SFS] Sugar Sugar Rune - 47 [E1F01704].avi
+complete/s/Sugar Sugar Rune/[Hatsuyuki-SFS] Sugar Sugar Rune - 48 [8D660F14].avi
+complete/s/Sugar Sugar Rune/[Hatsuyuki-SFS] Sugar Sugar Rune - 49 [639015DA].avi
+complete/s/Sugar Sugar Rune/[Hatsuyuki-SFS] Sugar Sugar Rune - 50 [FD2DBB8B].avi
+complete/s/Sugar Sugar Rune/[Hatsuyuki-SFS] Sugar Sugar Rune - 51 [End][B590E0DE].avi
 complete/s/Sumomo mo Momo mo OVA/[Yabai] Sumomomo Momomo - 23 OVA [DVD][B1FBF6A0].mkv
 complete/s/Sumomo mo Momo mo OVA/[Yabai] Sumomomo Momomo - 24 OVA [DVD][5CF41FA4].mkv
 complete/s/Sumomo mo Momo mo/[Froth-Bite] Sumomo mo Momo mo - 01 [BCF2FC16].mp4
@@ -11760,37 +11940,31 @@ complete/t/Tengen Toppa Gurren Lagann/[Order] Tengen Toppa Gurren Lagann - 16 [C
 complete/t/Tengen Toppa Gurren Lagann/[Order] Tengen Toppa Gurren Lagann - 17 [D9BC5B33].mp4
 complete/t/Tengen Toppa Gurren Lagann/[Order] Tengen Toppa Gurren Lagann - 18 [5A0CDD5F].mp4
 complete/t/Tengen Toppa Gurren Lagann/[Order] Tengen Toppa Gurren Lagann - 19 [DE3C393D].mp4
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 01 [90313FFF].avi
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 02 [BDFD18A6].avi
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 03 [E51B6EC6].avi
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 04 [ABFF52B9].avi
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 05 [8D123812].avi
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 06 [E56C7700].avi
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 07 [3703EAD9].avi
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 08 [B2FDA57B].avi
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 09 [005B3A8A].avi
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 10 [6C5CC783].avi
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 11 [0416E381].avi
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 12 [960F24A4].avi
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 13 [F7B787F8].avi
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 14 [4681206A].avi
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 15 [81BBB27D].avi
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 16 [54501A52].avi
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 17 [43871F01].avi
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 18 [9EAC8FDD].avi
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 19 [1A9DC13E].avi
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 20 [40EC067B].avi
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 21 [DC0CD2C3].avi
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 22 [F6342F56].avi
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 23 [A3617874].avi
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 24 [76FCEAA1].avi
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Lunar] Tenpou Ibun Ayakashi Ayashi - 25 [End][D6DF3C0C].avi
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Nanashi-gg] Tenpou Ibun Ayakashi Ayashi - 01 [C5678D73].mkv
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Nanashi-gg] Tenpou Ibun Ayakashi Ayashi - 02 [8BBF7C20].mkv
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Nanashi-gg] Tenpou Ibun Ayakashi Ayashi - 03 [42811245].mkv
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Nanashi-gg] Tenpou Ibun Ayakashi Ayashi - 04 [19FB23A8].mkv
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Nanashi-gg] Tenpou Ibun Ayakashi Ayashi - 05 [D4F04F99].mkv
-complete/t/Tenpou Ibun Ayakashi Ayashi/[Nanashi-gg] Tenpou Ibun Ayakashi Ayashi - 06 [A3F98A34].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 01 [E243EEC6].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 02 [5D00D883].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 03 [E43D1F94].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 04 [7A772474].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 05 [8ADD15F1].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 06 [91613421].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 07 [F6199A4D].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 08 [E6EBBC2C].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 09 [E130DBD5].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 10 [BD80E065].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 11 [03665010].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 12 [A4F83962].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 13 [9BF86E1D].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 14 [46DFD337].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 15 [D97ECC82].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 16 [5CC5D026].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 17 [A1019D2B].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 18 [8AEF622A].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 19 [C9A47D5F].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 20 [BAD8BCBF].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 21 [8F394281].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 22 [CF96CF48].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 23 [6EE329E8].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 24 [46DBBF27].mkv
+complete/t/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 25 [End][5A08829C].mkv
 complete/t/The Daughter of Twenty Faces/[Live-eviL] The Daughter of Twenty Faces - 01 (1280x720) [076483C0].mkv
 complete/t/The Daughter of Twenty Faces/[Live-eviL] The Daughter of Twenty Faces - 02 (1280x720) [1E299631].mkv
 complete/t/The Daughter of Twenty Faces/[Live-eviL] The Daughter of Twenty Faces - 03 (1280x720) [7A24613A].mkv
@@ -12087,30 +12261,34 @@ complete/t/To Love-Ru/[polished] To Love-Ru - 23 [DVD][2A3BBEAA].mkv
 complete/t/To Love-Ru/[polished] To Love-Ru - 24 [DVD][D7B870FE].mkv
 complete/t/To Love-Ru/[polished] To Love-Ru - 25 [DVD][34D58436].mkv
 complete/t/To Love-Ru/[polished] To Love-Ru - 26 [End][DVD][09A4E0F8].mkv
-complete/t/Toaru Kagaku no Railgun/[Nuke] Toaru Kagaku no Railgun - 01 (1280x720) [F8448B15].mkv
-complete/t/Toaru Kagaku no Railgun/[Nuke] Toaru Kagaku no Railgun - 02 (1280x720) [EE47425B].mkv
-complete/t/Toaru Kagaku no Railgun/[Nuke] Toaru Kagaku no Railgun - 03 (1280x720) [6C873464].mkv
-complete/t/Toaru Kagaku no Railgun/[Nuke] Toaru Kagaku no Railgun - 04 (1280x720) [E39E8230].mkv
-complete/t/Toaru Kagaku no Railgun/[Nuke] Toaru Kagaku no Railgun - 05 (1280x720) [v2][5815908B].mkv
-complete/t/Toaru Kagaku no Railgun/[Nuke] Toaru Kagaku no Railgun - 06 (1280x720) [5B802401].mkv
-complete/t/Toaru Kagaku no Railgun/[Nuke] Toaru Kagaku no Railgun - 07 (1280x720) [62A22F70].mkv
-complete/t/Toaru Kagaku no Railgun/[Nuke] Toaru Kagaku no Railgun - 08 (1280x720) [8B9B7FC9].mkv
-complete/t/Toaru Kagaku no Railgun/[Nuke] Toaru Kagaku no Railgun - 09 (1280x720) [9B24CB4E].mkv
-complete/t/Toaru Kagaku no Railgun/[Nuke] Toaru Kagaku no Railgun - 10 (1280x720) [350CD057].mkv
-complete/t/Toaru Kagaku no Railgun/[Nuke] Toaru Kagaku no Railgun - 11 (1280x720) [9EFA3855].mkv
-complete/t/Toaru Kagaku no Railgun/[Nuke] Toaru Kagaku no Railgun - 12 (1280x720) [23E8F4F1].mkv
-complete/t/Toaru Kagaku no Railgun/[Nuke] Toaru Kagaku no Railgun - 13 (1280x720) [D6F232AD].mkv
-complete/t/Toaru Kagaku no Railgun/[Nuke] Toaru Kagaku no Railgun - 14 (1280x720) [9828DC09].mkv
-complete/t/Toaru Kagaku no Railgun/[Nuke] Toaru Kagaku no Railgun - 15 (1280x720) [27591C80].mkv
-complete/t/Toaru Kagaku no Railgun/[Nuke] Toaru Kagaku no Railgun - 16 (1280x720) [F75844F2].mkv
-complete/t/Toaru Kagaku no Railgun/[Nuke] Toaru Kagaku no Railgun - 17 (1280x720) [F5B05C9C].mkv
-complete/t/Toaru Kagaku no Railgun/[Nuke] Toaru Kagaku no Railgun - 18 (1280x720) [3FF78B77].mkv
-complete/t/Toaru Kagaku no Railgun/[Nuke] Toaru Kagaku no Railgun - 19 (1280x720) [3B842661].mkv
-complete/t/Toaru Kagaku no Railgun/[Nuke] Toaru Kagaku no Railgun - 20 (1280x720) [47400A64].mkv
-complete/t/Toaru Kagaku no Railgun/[Nuke] Toaru Kagaku no Railgun - 21 (1280x720) [97D86F39].mkv
-complete/t/Toaru Kagaku no Railgun/[Nuke] Toaru Kagaku no Railgun - 22 (1280x720) [9B1A4101].mkv
-complete/t/Toaru Kagaku no Railgun/[Nuke] Toaru Kagaku no Railgun - 23 (1280x720) [7D31DD9F].mkv
-complete/t/Toaru Kagaku no Railgun/[Nuke] Toaru Kagaku no Railgun - 24 (1280x720) [End][CD1C612F].mkv
+complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - 01 (1920x1080) [BD][F44D9E51].mkv
+complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - 02 (1920x1080) [BD][673B0132].mkv
+complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - 03 (1920x1080) [BD][9AE97D26].mkv
+complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - 04 (1920x1080) [BD][D1094D05].mkv
+complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - 05 (1920x1080) [BD][E4E4A465].mkv
+complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - 06 (1920x1080) [BD][DD7A8216].mkv
+complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - 07 (1920x1080) [BD][44ED76B4].mkv
+complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - 08 (1920x1080) [BD][94C0EE9E].mkv
+complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - 09 (1920x1080) [BD][20639003].mkv
+complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - 10 (1920x1080) [BD][6BB6EAE5].mkv
+complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - 11 (1920x1080) [BD][13D19E24].mkv
+complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - 12 (1920x1080) [BD][43B89563].mkv
+complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - 13 (1920x1080) [BD][8B66BC78].mkv
+complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - 14 (1920x1080) [BD][DD138D77].mkv
+complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - 15 (1920x1080) [BD][AA0B4697].mkv
+complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - 16 (1920x1080) [BD][67EB3440].mkv
+complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - 17 (1920x1080) [BD][2B35B02A].mkv
+complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - 18 (1920x1080) [BD][7C577A9D].mkv
+complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - 19 (1920x1080) [BD][5962E889].mkv
+complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - 20 (1920x1080) [BD][EC7DC667].mkv
+complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - 21 (1920x1080) [BD][3D9D0905].mkv
+complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - 22 (1920x1080) [v2][BD][3EB250E6].mkv
+complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - 23 (1920x1080) [BD][44078370].mkv
+complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - 24 (1920x1080) [End][BD][A948C855].mkv
+complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - Ending (Clean) (1920x1080) [BD][E49279C2].mkv
+complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - Ending 2 (Clean) (1920x1080) [BD][A864E738].mkv
+complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - Opening (Clean) (1920x1080) [BD][A05D1AE0].mkv
+complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - Opening 2 (Clean) (1920x1080) [BD][1DBD4E2B].mkv
 complete/t/Toaru Majutsu no Index/[Eclipse] Toaru Majutsu no Index - 01 (1280x720) [678AB4A6].mkv
 complete/t/Toaru Majutsu no Index/[Eclipse] Toaru Majutsu no Index - 02 (1280x720) [B4690E27].mkv
 complete/t/Toaru Majutsu no Index/[Eclipse] Toaru Majutsu no Index - 03 (1280x720) [AC578F83].mkv
@@ -12387,7 +12565,7 @@ complete/t/Touka Gettan/[ReDone] Touka Gettan - 06 [DVD][ACE5DC47].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 07 [DVD][DAF31EF9].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 08 [DVD][4D75EA1A].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 09 [DVD][3B3C5637].mkv
-complete/t/Touka Gettan/[SRN] Touka Gettan - 10 [497E3745].avi
+complete/t/Touka Gettan/[ReDone] Touka Gettan - 10 [DVD][AF690004].mkv
 complete/t/Touka Gettan/[SRN] Touka Gettan - 11 [A6185D91].avi
 complete/t/Touka Gettan/[SRN] Touka Gettan - 12 [CC487E8F].avi
 complete/t/Touka Gettan/[SRN] Touka Gettan - 13 [85AA1C61].avi
@@ -13752,6 +13930,7 @@ complete/z/Zoku Sayonara Zetsubou Sensei/[anon] Zoku Sayonara Zetsubou Sensei - 
 complete/z/Zoku Sayonara Zetsubou Sensei/[anon] Zoku Sayonara Zetsubou Sensei - 07 [D913521A].mkv
 complete/z/Zoku Sayonara Zetsubou Sensei/[anon] Zoku Sayonara Zetsubou Sensei - 08 [D1CD64FB].avi
 complete/z/Zoku Sayonara Zetsubou Sensei/[anon] Zoku Sayonara Zetsubou Sensei - 09 [29313464].avi
+complete/z/Zoku Sayonara Zetsubou Sensei/[uguu~] Zoku Sayonara Zetsubou Sensei - 01 [DVD][767946CB].mkv
 complete/z/Zoku Sayonara Zetsubou Sensei/[volans] Zoku Sayonara Zetsubou Sensei - 10 [C516C96D].mkv
 complete/z/Zoku Sayonara Zetsubou Sensei/[volans] Zoku Sayonara Zetsubou Sensei - 11 [65382D64].mkv
 complete/z/Zoku Sayonara Zetsubou Sensei/[volans] Zoku Sayonara Zetsubou Sensei - 12 [257F369B].mkv

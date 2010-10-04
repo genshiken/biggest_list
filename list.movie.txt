@@ -44,6 +44,7 @@ movie/Evangelion - Death (True)^2/[zx] Evangelion - Death (True)^2 [58BC4921].mk
 movie/Evangelion - End of Evangelion/[zx] Evangelion - End of Evangelion [v3][19DB2A42].mkv
 movie/Evangelion 1.11/[THORA] Evangelion 1.11 (1920x1080) [BD][77790EE2].mkv
 movie/Evangelion 2.22/[UTW-THORA] Evangelion 2.22 (1920x1080) [v2][BD][13434436].mkv
+movie/Fate-stay night - Unlimited Blade Works/[UTW] Fate-stay night - Unlimited Blade Works (1280x720) [BD][70764BA9].mkv
 movie/Final Fintasy Advent Children Complete (2009)/[THORA] Final Fintasy Advent Children Complete (2009) (1280x720) [BD][B724543F].mkv
 movie/Franz Kafka's ~A Country Doctor~/[AnimeClipse-Ureshii] Franz Kafka's ~A Country Doctor~ [1F056511].mkv
 movie/Fresh Pretty Cure!/[CureCom-Doremi] Fresh Pretty Cure! - Movie [DVD][AC03D6C0].mkv
@@ -68,6 +69,10 @@ movie/Howl's Moving Castle (2004)/[THORA] Howl's Moving Castle (2004) (1280x720)
 movie/Ice the Movie/[HQR] Ice the Movie [DVD][20869DF2].mkv
 movie/Initial D 3rd Stage/[Unknown] Initial D 3rd Stage [572D2FAC].avi
 movie/Inukami! The Movie/[Mendoi-SHS] Inukai! The Movie [DVD][55AD2594].mkv
+movie/Inuyasha/[BluDragon] Inuyasha - Movie 1 [DVD][56EF2069].mkv
+movie/Inuyasha/[BluDragon] Inuyasha - Movie 2 [DVD][5BE86486].mkv
+movie/Inuyasha/[BluDragon] Inuyasha - Movie 3 [DVD][729CFBDD].mkv
+movie/Inuyasha/[BluDragon] Inuyasha - Movie 4 [DVD][ED7FAAFB].mkv
 movie/Junkers Come Here/[niizk] Junkers Come Here [DBAC403C].mkv
 movie/Kaiketsu Zorori/[Alopex] Kaiketsu Zorori [6C93DF0F].mkv
 movie/Kara no Kyoukai/[gg-TakaJun] Kara no Kyoukai - Chapter 1 - Overlooking View [v2][3F2E8FEA].mkv
@@ -77,6 +82,11 @@ movie/Kara no Kyoukai/[gg-TakaJun] Kara no Kyoukai - Chapter 4 - Void Shrine [B2
 movie/Kara no Kyoukai/[gg-TakaJun] Kara no Kyoukai - Chapter 5 - Paradox Spiral [999900E4].mkv
 movie/Kara no Kyoukai/[gg-TakaJun] Kara no Kyoukai - Chapter 6 - Oblivion Recorder [238F9CE7].mkv
 movie/Kara no Kyoukai/[gg-TakaJun] Kara no Kyoukai - Chapter 7 - Murder Study (Part 2) [9789CE05].mkv
+movie/Kimagure Orange Road/[bishi] Kimagure Orange Road - Hurricane! Henshin Shoujo Akane [DVD][0E10A7E6].avi
+movie/Kimagure Orange Road/[bishi] Kimagure Orange Road - I Want to Return to That Day [DVD][5D5C8BB2].avi
+movie/Kimagure Orange Road/[bishi] Kimagure Orange Road - Koi no Stage = Heart on Fire! Haru wa Idol! [DVD][8C69265D].avi
+movie/Kimagure Orange Road/[bishi] Kimagure Orange Road - Koi no Stage = Heart on Fire! Star Tanjou! [DVD][932DDCF1].avi
+movie/Kimagure Orange Road/[bishi] Kimagure Orange Road - Wagahai wa Neko de Attari Osakana de Attari [DVD][64C860F3].avi
 movie/Kino no Tabi/[niizk] Kino no Tabi - Movie 1 - Life Goes On [66C0CDD2].mkv
 movie/Kino no Tabi/[niizk] Kino no Tabi - Movie 2 - The Country of Illness - For You [66B947E6].mkv
 movie/Literature Girl/[Doki] Literature Girl (1920x1080) [BD][AA6A7997].mkv
@@ -87,10 +97,12 @@ movie/Lupin III/[F-B & Ureshii] Lupin III - Green vs Red [15911C89].mkv
 movie/Lupin III/[Frostii] Lupin III - Sweet Lost Night [A6F43CEC].mp4
 movie/Lupin III/[Froth-Bite] Lupin III - Seven Days Rhapsody [9C54E469].mp4
 movie/Macross - Do You Remember Love/[FLF & L-E] Macross - Do You Remember Love [5A494D81].mkv
+movie/Macross 7/[Central-Anime] Macross 7 Movie [DVD][108E6838].mkv
 movie/Mahou Shoujo Lyrical Nanoha - The Movie 1st/[BSS] Mahou Shoujo Lyrical Nanoha - The Movie 1st [LQ][B3B89A9D].mkv
 movie/Major - The Ball of Friendship/[Frostii] Major - The Ball of Friendship [4F59FE07].mkv
 movie/Meguriau Sekai/[ANBU] Meguriau Sekai [AF23178A].mkv
 movie/Metropolis/[THORA] Metropolis [BD][323F7DC7].mkv
+movie/Mononoke Hime/[niizk] Mononoke Hime [DVD][C677AF24].mkv
 movie/Munto Movie/[Exiled-Destiny] Munto - Movie 1 [52343279].mkv
 movie/Munto Movie/[Exiled-Destiny] Munto - Movie 2 [620E941E].mkv
 movie/My Neighbor Totoro/[niizk] My Neighbor Totoro [59A5021B].mkv
@@ -105,16 +117,22 @@ movie/Paprika/[THORA] Paprika (2006) (1280x720) [BD][29C190A5].mkv
 movie/Patlabor Movie/[THORA] Patlabor Movie (1920x1040) [BD][5F02E5DE].mkv
 movie/Patlabor WXIII/[THORA] Patlabor WXIII [BD][5B5DB50F].mkv
 movie/Piano no Mori/[Live-eviL] Piano no Mori [9932815F].mkv
+movie/Planzet/[ANBU] Planzet [12EF5EDB].mkv
 movie/Pokemon/[RG-RyRo] Pokemon - AG Movie 3 [DVD][E4AF749A].mkv
 movie/Ponyo on the Cliff by the Sea/[niizk] Ponyo on the Cliff by the Sea (1920x1040) [0DF075A4].mkv
 movie/Porco Rosso/[niizk] Porco Rosso [24FEEEAA].mkv
 movie/Pretty Cure All-Stars DX2 Movie/[Curecom-Doremi] Pretty Cure All-Stars DX2 Movie [DVD][1BDB9DC5].mkv
 movie/Pretty Cure Splash Star Movie/[PCSS] Pretty Cure Splash Star Movie [D086C8DB].mkv
 movie/Prince of Tennis/[Anime7] Prince of Tennis - Futari no Samurai [3762DB87].avi
+movie/Professor Layton and the Eternal Diva/[ANBU] Professor Layton and the Eternal Diva [9212887D].mkv
 movie/Rockman.EXE Movie - Hikari to Yami no PROGRAM/[WPP] Rockman.EXE Movie - Hikari to Yami no PROGRAM [0D3AC681].avi
 movie/Sailor Moon R The Movie/[SMC] Sailor Moon R - The Movie [DVD][68A6CC04].mkv
 movie/Sailor Moon SuperS The Movie/[SMC] Sailor Moon SuperS - The Movie [DVD][56FEEB41].mkv
 movie/Shakugan no Shana Movie/[SS-Eclipse] Shakugan no Shana Movie [35FADF8B].mkv
+movie/Slam Dunk/[-ANF-] Slam Dunk - Movie 3 [DVD][D20B56CA].mkv
+movie/Slam Dunk/[-ANF-] Slam Dunk - Movie 4 [DVD][DC7200A7].mkv
+movie/Slam Dunk/[txxz] Slam Dunk - Movie 1 [DVD][1627A9FD].mkv
+movie/Slam Dunk/[txxz] Slam Dunk - Movie 2 [DVD][7F5D63D3].mkv
 movie/Spirited Away/[niizk] Spirited Away [0827A6C3].mkv
 movie/Summer Wars/[Frostii] Summer Wars (1280x720) [BD][9B12BBFA].mkv
 movie/Suzumiya Haruhi no Shoushitsu/[Mazui] Suzumiya Haruhi no Shoushitsu [Camrip][Super-LQ][Eyecancer][443A6A97].mkv
@@ -125,6 +143,9 @@ movie/Tengen Toppa Gurren Lagann The Movie/[BSS] Tengen Toppa Gurren Lagann The 
 movie/Toki wo Kakeru Shoujo/[CrystalNova-KAA] Toki wo Kakeru Shoujo [DVD][9F6FF2F3].mkv
 movie/Toki wo Kakeru Shoujo/[niizk] Toki wo Kakeru Shoujo (1904x1072) [95E82425].mkv
 movie/Tokyo Godfathers/[niizk] Tokyo Godfathers [v2][B0C13487].mkv
+movie/Touch/[Nexus] Touch 2 [C6396C54].avi
+movie/Touch/[Nexus] Touch 3 [FBFB9072].avi
+movie/Touch/[Nexus] Touch [83A7DB30].avi
 movie/Whisper of the Heart/[niizk] Whisper of the Heart [v2][2D11DBE2].mkv
 movie/Zeta Gundam/[T-N] Zeta Gundam - Movie 1 [8F112ECE].avi
 movie/Zeta Gundam/[T-N] Zeta Gundam - Movie 2 [906E55BD].avi

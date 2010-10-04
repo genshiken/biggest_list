@@ -1,4 +1,5 @@
 !new/.broken/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.mkv
+!new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
 !new/upload/-ian87-/Daimajin Kanon ep22 (1280x720 x264).mp4
 !new/upload/-ian87-/Discography.avix
 !new/upload/-ian87-/ET-KING - [PV] Hajimari no Kotoba feat. Chiaki.avix
@@ -290,8 +291,6 @@
 !new/upload/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/upload/Carol/[raw] Carol OVA.ass
 !new/upload/Carol/[raw] Carol OVA.avi
-!new/upload/Detective Conan - 589 [DCTP][720p][11BAF210].mp4
-!new/upload/Detective Conan - 590 [DCTP][720p][DEDC48BA].mp4
 !new/upload/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/upload/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/upload/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
@@ -509,40 +508,6 @@
 !new/upload/Sailor Moon/SailorMoon S (Season 3)/[smc] 125. A Bright Shooting Star! Saturn, and the Messiah.ogm
 !new/upload/Sailor Moon/SailorMoon S (Season 3)/[smc] 126. A New Life! Time for Separation of the Destined Stars.ogm
 !new/upload/Sailor Moon/SailorMoon S (Season 3)/[smc] 127. Self-Awareness as a Soldier Strength Lies in the Pure Heart.ogm
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 167.avi
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 168.avi
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 169.avi
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 170.avi
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 171.avi
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 172.avi
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 173.avi
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 174.avi
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 175.avi
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 176.avi
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 177.avi
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 178.avi
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 179.avi
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 180.avi
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 181.avi
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 182.avi
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 183.avi
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 184.avi
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 185.avi
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 186.avi
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 187.avi
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 188.avi
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 189.avi
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 190.avi
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 191.mkv
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 192.mkv
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 193.avi
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 194.avi
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 195.mkv
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 196.mkv
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 197.mkv
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 198.mkv
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 199.mkv
-!new/upload/Sailor Moon/SailorMoon Sailor Stars (Season 5)/Sailor Moon Sailor Stars 200.mkv
 !new/upload/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 128. Meeting of Fate! The Night where a Pegasus Flies (v2) [8B209005].ogm
 !new/upload/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 129. Super Transformations Again! Pegusus' Power (v2) [B14F8121].ogm
 !new/upload/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 130. Protect a Mother's Dream! (v2) [A86F05A8].ogm
@@ -583,220 +548,18 @@
 !new/upload/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 165. Time for the Crystal to Shine! Beautiful Power of Dreams (v2) [243AEA50].ogm
 !new/upload/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 166. Dreams Forever! Light Throughout the Sky (v2) [A17C8F85].ogm
 !new/upload/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] Sailor Moon SuperS Plus Ami-chan no Hatsukoi R2 DVD(H264.AC3).mkv
-!new/upload/Sugar Sugar Rune 30 [Arienai_-_Seishun].mp4
-!new/upload/Sugar Sugar Rune 31 [Arienai_-_Seishun].mp4
-!new/upload/Sugar Sugar Rune 32 [Arienai_-_Seishun].mp4
-!new/upload/Sugar Sugar Rune 33 [Hatsuyuki-SFS].avi
-!new/upload/Sugar Sugar Rune 34 [Hatsuyuki-SFS].avi
-!new/upload/Sugar Sugar Rune 35 [Hatsuyuki-SFS].avi
-!new/upload/Sugar Sugar Rune 36 [Hatsuyuki-SFS].avi
-!new/upload/Sugar Sugar Rune 37 [Hatsuyuki-SFS].avi
-!new/upload/Sugar Sugar Rune 38 [Hatsuyuki-SFS].avi
-!new/upload/Sugar Sugar Rune 39 [Hatsuyuki-SFS].avi
-!new/upload/Sugar Sugar Rune 40 [Hatsuyuki-SFS].avi
-!new/upload/Sugar Sugar Rune 41 [Hatsuyuki-SFS].avi
-!new/upload/Sugar Sugar Rune 42 [Hatsuyuki-SFS].avi
-!new/upload/Sugar Sugar Rune 43 [Hatsuyuki-SFS].avi
-!new/upload/Sugar Sugar Rune 44 [Hatsuyuki-SFS].avi
-!new/upload/Sugar Sugar Rune 45 [Hatsuyuki-SFS].avi
-!new/upload/Sugar Sugar Rune 46 [Hatsuyuki-SFS].avi
-!new/upload/Sugar Sugar Rune 47 [Hatsuyuki-SFS].avi
-!new/upload/Sugar Sugar Rune 48 [Hatsuyuki-SFS].avi
-!new/upload/Sugar Sugar Rune 49 [Hatsuyuki-SFS].avi
-!new/upload/Sugar Sugar Rune 50 [Hatsuyuki-SFS].avi
-!new/upload/Sugar Sugar Rune 51 END [Hatsuyuki-SFS].avi
-!new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 01 [E243EEC6].mkv
-!new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 02 [5D00D883].mkv
-!new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 03 [E43D1F94].mkv
-!new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 04 [7A772474].mkv
-!new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 05 [8ADD15F1].mkv
-!new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 06 [91613421].mkv
-!new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 07 [F6199A4D].mkv
-!new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 08 [E6EBBC2C].mkv
-!new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 09 [E130DBD5].mkv
-!new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 10 [BD80E065].mkv
-!new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 11 [03665010].mkv
-!new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 12 [A4F83962].mkv
-!new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 13 [9BF86E1D].mkv
-!new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 14 [46DFD337].mkv
-!new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 15 [D97ECC82].mkv
-!new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 16 [5CC5D026].mkv
-!new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 17 [A1019D2B].mkv
-!new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 18 [8AEF622A].mkv
-!new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 19 [C9A47D5F].mkv
-!new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 20 [BAD8BCBF].mkv
-!new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 21 [8F394281].mkv
-!new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 22 [CF96CF48].mkv
-!new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 23 [6EE329E8].mkv
-!new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 24 [46DBBF27].mkv
-!new/upload/Tenpou Ibun Ayakashi Ayashi/[Arigatou] Tenpou Ibun Ayakashi Ayashi - 25 [End][5A08829C].mkv
-!new/upload/To_Aru_Kagaku_no_Railgun_-_01_[BD_1080p][AtsA][F44D9E51].mkv
-!new/upload/To_Aru_Kagaku_no_Railgun_-_02_[BD_1080p][AtsA][673B0132].mkv
-!new/upload/To_Aru_Kagaku_no_Railgun_-_03_[BD_1080p][AtsA][9AE97D26].mkv
-!new/upload/To_Aru_Kagaku_no_Railgun_-_04_[BD_1080p][AtsA][D1094D05].mkv
-!new/upload/To_Aru_Kagaku_no_Railgun_-_05_[BD_1080p][AtsA][E4E4A465].mkv
-!new/upload/To_Aru_Kagaku_no_Railgun_-_06_[BD_1080p][AtsA][DD7A8216].mkv
-!new/upload/To_Aru_Kagaku_no_Railgun_-_07_[BD_1080p][AtsA][44ED76B4].mkv
-!new/upload/To_Aru_Kagaku_no_Railgun_-_08_[BD_1080p][AtsA][94C0EE9E].mkv
-!new/upload/To_Aru_Kagaku_no_Railgun_-_09_[BD_1080p][AtsA][20639003].mkv
-!new/upload/To_Aru_Kagaku_no_Railgun_-_10_[BD_1080p][AtsA][6BB6EAE5].mkv
-!new/upload/To_Aru_Kagaku_no_Railgun_-_11_[BD_1080p][AtsA][13D19E24].mkv
-!new/upload/To_Aru_Kagaku_no_Railgun_-_12_[BD_1080p][AtsA][43B89563].mkv
-!new/upload/To_Aru_Kagaku_no_Railgun_-_13_[BD_1080p][AtsA][8B66BC78].mkv
-!new/upload/To_Aru_Kagaku_no_Railgun_-_14_[BD_1080p][AtsA][DD138D77].mkv
-!new/upload/To_Aru_Kagaku_no_Railgun_-_15_[BD_1080p][AtsA][AA0B4697].mkv
-!new/upload/To_Aru_Kagaku_no_Railgun_-_16_[BD_1080p][AtsA][67EB3440].mkv
-!new/upload/To_Aru_Kagaku_no_Railgun_-_17_[BD_1080p][AtsA][2B35B02A].mkv
-!new/upload/To_Aru_Kagaku_no_Railgun_-_18_[BD_1080p][AtsA][7C577A9D].mkv
-!new/upload/To_Aru_Kagaku_no_Railgun_-_19_[BD_1080p][AtsA][5962E889].mkv
-!new/upload/To_Aru_Kagaku_no_Railgun_-_20_[BD_1080p][AtsA][EC7DC667].mkv
-!new/upload/To_Aru_Kagaku_no_Railgun_-_21_[BD_1080p][AtsA][3D9D0905].mkv
-!new/upload/To_Aru_Kagaku_no_Railgun_-_22v2_[BD_1080p][AtsA][3EB250E6].mkv
-!new/upload/To_Aru_Kagaku_no_Railgun_-_23_[BD_1080p][AtsA][44078370].mkv
-!new/upload/To_Aru_Kagaku_no_Railgun_-_24_[BD_1080p][AtsA][A948C855].mkv
-!new/upload/To_Aru_Kagaku_no_Railgun_-_ED1_Clean_[BD_1080p][AtsA][E49279C2].mkv
-!new/upload/To_Aru_Kagaku_no_Railgun_-_ED2_Clean_[BD_1080p][AtsA][A864E738].mkv
-!new/upload/To_Aru_Kagaku_no_Railgun_-_OP1_Clean_[BD_1080p][AtsA][A05D1AE0].mkv
-!new/upload/To_Aru_Kagaku_no_Railgun_-_OP2_Clean_[BD_1080p][AtsA][1DBD4E2B].mkv
-!new/upload/[ANBU]_Dragon_Quest_-_01_[941B9B6A].mkv
-!new/upload/[ANBU]_Planzet_[12EF5EDB].mkv
-!new/upload/[ANBU]_Professor_Layton_and_the_Eternal_Diva_[9212887D].mkv
-!new/upload/[AniYoshi]_Asu_no_Yoichi_-_11_[DVD][6067052E].mkv
-!new/upload/[AniYoshi]_Asu_no_Yoichi_-_12_[DVD][F4515EF1].mkv
-!new/upload/[Arienai]_Sugar_Sugar_Rune_-_01_[H264_-_AAC][09928A96].mp4
-!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_02_[H264_-_AAC][701423BA].mp4
-!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_03_[H264_-_AAC][D456276C].mp4
-!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_04_[H264_-_AAC][F09D13AE].mp4
-!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_05_[H264_-_AAC][73510317].mp4
-!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_06_[H264_-_AAC][32DA1A4B].mp4
-!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_07_[H264_-_AAC][D4D84B4B].mp4
-!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_08_[H264_-_AAC][6C87B4F7].mp4
-!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_09_[H264_-_AAC][6F823500].mp4
-!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_10_[H264_-_AAC][0653206B].mp4
-!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_11_[H264_-_AAC][47774B7C].mp4
-!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_12_[H264_-_AAC][69C0E7F5].mp4
-!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_13_[H264_-_AAC][22CF762A].mp4
-!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_14_[H264_-_AAC][A048CF68].mp4
-!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_15_[H264_-_AAC][2D351777].mp4
-!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_16_[H264_-_AAC][7a9202ee].mp4
-!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_17_[H264_-_AAC][2339b54e].mp4
-!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_18_[H264_-_AAC][e54cec68].mp4
-!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_19_[H264_-_AAC][af181585].mp4
-!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_20_[H264_-_AAC][24c9290e].mp4
-!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_21_[H264_-_AAC][c2217153].mp4
-!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_22_[H264_-_AAC][808c27f3].mp4
-!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_23_[H264_-_AAC][7ddd69d6].mp4
-!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_24_[H264_-_AAC][6ca8a901].mp4
-!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_25_[H264_-_AAC][ec69a5ae].mp4
-!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_26_[H264_-_AAC][6c762613].mp4
-!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_27_[H264_-_AAC][c63aab24].mp4
-!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_28_[H264_-_AAC][095710a8].mp4
-!new/upload/[Arienai_-_Seishun]_Sugar_Sugar_Rune_-_29_[H264_-_AAC][a750d06e].mp4
-!new/upload/[Ayako-SubDESU]_Asobi_ni_Iku_Yo!_-_12_[720p][H264][6BDA7299].mkv
-!new/upload/[Ayako]_Seitokai_Yakuindomo_-_13_[720p][H264][F4B96036].mkv
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_001_To_the_Isshu_Region!_The_Shadow_of_Zekrom!![H264_720P][EEF21420].mkv
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_002_Iris_and_Kibago![H264_720P][CB118364].mkv
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_003_Mijumaru!_Meguroco!_Close_Call!![H264_720P][896A6149].mkv
-!new/upload/[CoalGuys] K-ON!! S2 - 25 (Extra) [0861F488].mkv
-!new/upload/[CoalGuys] K-ON!! S2 - 26 [8DCC38A5].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_24_(960x720_Blu-Ray_FLAC)_[3296F035].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_25_(960x720_Blu-Ray_FLAC)_[6D99B97C].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_26_(960x720_Blu-Ray_FLAC)_[EFE19AF6].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_27_(960x720_Blu-Ray_FLAC)_[9E8C0F7C].mkv
 !new/upload/[Coalgirls]_Occult_Academy_01_(1920x1080_Blu-ray_FLAC)_[23F6D2DB].mkv
 !new/upload/[Coalgirls]_Occult_Academy_02_(1920x1080_Blu-ray_FLAC)_[7CC4D473].mkv
 !new/upload/[Coalgirls]_Occult_Academy_NCED_(1920x1080_Blu-ray_FLAC)_[34F6B2B0].mkv
 !new/upload/[Coalgirls]_Occult_Academy_NCOP_(1920x1080_Blu-ray_FLAC)_[7B63A3C4].mkv
 !new/upload/[Coalgirls]_Occult_Academy_SP01_(1920x1080_Blu-ray_FLAC)_[B7C02673].mkv
 !new/upload/[Coalgirls]_Occult_Academy_SP01_3D_(1920x1080_Blu-ray_FLAC)_[8C3D9182].mkv
-!new/upload/[Commie] Seikimatsu Occult Gakuin - 10 [DB613EC1].mkv
-!new/upload/[Commie] Seikimatsu Occult Gakuin - 11 [97441B18].mkv
-!new/upload/[Commie] Sengoku BASARA Two - 10 [50580617].mkv
-!new/upload/[Commie] Sengoku BASARA Two - 11 [689DD151].mkv
-!new/upload/[Commie] Sengoku BASARA Two - 12 [END] [A1075BDE].mkv
-!new/upload/[Commie] Shiki - 08 [9BFF9DA0].mkv
-!new/upload/[Commie] The Legend of the Legendary Heroes - 12 [46366A6B].mkv
-!new/upload/[Commie]_Kampfer_-_01-12_[BD_1080p_FLAC].sfv
-!new/upload/[Commie]_Kampfer_-_01_[BD_1080p_FLAC][609939BE].mkv
-!new/upload/[Commie]_Kampfer_-_02_[BD_1080p_FLAC][57641978].mkv
-!new/upload/[Commie]_Kampfer_-_03_[BD_1080p_FLAC][CE9AD675].mkv
-!new/upload/[Commie]_Kampfer_-_04_[BD_1080p_FLAC][7E72E974].mkv
-!new/upload/[Commie]_Kampfer_-_05_[BD_1080p_FLAC][F73539DF].mkv
-!new/upload/[Commie]_Kampfer_-_06_[BD_1080p_FLAC][D42B32B9].mkv
-!new/upload/[Commie]_Kampfer_-_07_[BD_1080p_FLAC][458C47AE].mkv
-!new/upload/[Commie]_Kampfer_-_08_[BD_1080p_FLAC][91F89794].mkv
-!new/upload/[Commie]_Kampfer_-_09_[BD_1080p_FLAC][80E6ABDB].mkv
-!new/upload/[Commie]_Kampfer_-_10_[BD_1080p_FLAC][F52B3297].mkv
-!new/upload/[Commie]_Kampfer_-_11_[BD_1080p_FLAC][809DBA69].mkv
-!new/upload/[Commie]_Kampfer_-_12_[BD_1080p_FLAC][A50186F8].mkv
-!new/upload/[Commie]_Kampfer_-_Akane_Transformation_Seq._[BD_1080p_FLAC][53F36CEE].mkv
-!new/upload/[Commie]_Kampfer_-_Dressing_Omake_Audio_Fix_Patch_[BD_1080p_FLAC].rar
-!new/upload/[Commie]_Kampfer_-_Groping_Shizuku_Omake_[BD_1080p_FLAC][61DC1FD4].mkv
-!new/upload/[Commie]_Kampfer_-_Mikoto_Transformation_Seq._[BD_1080p_FLAC][D9F3B971].mkv
-!new/upload/[Commie]_Kampfer_-_Natsuru_Akane_Dressing_Room_Omake_[BD_1080p_FLAC][EB97F7C4].mkv
-!new/upload/[Commie]_Kampfer_-_Natsuru_Transformation_Seq._[BD_1080p_FLAC][0EAF2104].mkv
-!new/upload/[Commie]_Kampfer_-_Shizuku_Shower_Omake_[BD_1080p_FLAC][691DA8E3].mkv
-!new/upload/[Commie]_Kampfer_-_Shizuku_Transformation_Seq._[BD_1080p_FLAC][1F752678].mkv
-!new/upload/[CrunchySubs] Tono to Issho - 12 [720p].mkv
-!new/upload/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_07_[bbe3bea6].avi
-!new/upload/[DB]_Ninku_09_[B9E35DCE].avi
-!new/upload/[DB]_Ninku_10_[8F371D97].avi
-!new/upload/[Derp]_Legend_of_the_Legendary_Heroes_-_13_(1280x720_x264_AAC).mkv
-!new/upload/[Derp]_Legend_of_the_Legendary_Heroes_-_14_(1280x720_x264_AAC).mkv
-!new/upload/[Doremi].HeartCatch.PreCure!.32.[1280x720].[4202ABB2].mkv
-!new/upload/[Doremi].HeartCatch.PreCure!.33.[1280x720].[396E3530].mkv
-!new/upload/[Doremi].Motto.Ojamajo.Doremi.31.[BE814FD9].avi
-!new/upload/[Doutei]Golgo 13 - 44[DVD][8727B366].mkv
-!new/upload/[Doutei]Golgo 13 - 45[DVD][60DB41FF].mkv
-!new/upload/[Doutei]Golgo 13 - 46[DVD][92EC4DF1].mkv
-!new/upload/[Fabulous] Pokemon Best Wishes Black & White - 01 [E82BAE1E].mkv
 !new/upload/[Force-Works] Iron Man - 01 [A66813DB].mkv
 !new/upload/[Formula]_Tales_of_Symphonia_OVA_-_Tethe'alla_Bonus_1_[CA7D8F4F].mkv
-!new/upload/[FroZen]_RAINBOW_18_[286DDC1C].mkv
-!new/upload/[HorribleSubs] Bleach - 290 [720p].mkv
-!new/upload/[HorribleSubs] Fairy Tail - 48 [720p].mkv
-!new/upload/[HorribleSubs] Giant Killing - 26 [720p].mkv
-!new/upload/[HorribleSubs] HEROMAN - 26 [720p].mkv
-!new/upload/[HorribleSubs] Kateikyoushi Hitman Reborn - 203 [720p].mkv
-!new/upload/[HorribleSubs] Lilpri - 26 [720p].mkv
-!new/upload/[HorribleSubs] Lilpri - 27 [720p].mkv
-!new/upload/[HorribleSubs] Mitsudomoe - 13 [720p].mkv
-!new/upload/[HorribleSubs] Naruto Shippuuden - 179 [720p].mkv
-!new/upload/[HorribleSubs] Occult Academy - 13 [720p].mkv
-!new/upload/[HorribleSubs] Panty and Stocking with Garterbelt - 01 [720p].mkv
-!new/upload/[HorribleSubs] Sora No Otoshimono Forte - 01 [720p].mkv
-!new/upload/[HorribleSubs] Tegami Bachi REVERSE - 26 [720p].mkv
-!new/upload/[HorribleSubs] Yumeiro Patissiere - 50 [720p].mkv
-!new/upload/[HorribleSubs] Yumeiro Patissiere Professional - 01 [720p].mkv
-!new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_23_[834CEFC1].mkv
-!new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_24_[5C257A77].mkv
 !new/upload/[KiteSeekers-PFSubs] Shin Koihime Musou - OVA [BD 720p H264 AAC] [908E6A41].mkv
-!new/upload/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 17 [H264 1280x720] [903E459C].mkv
-!new/upload/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 18 [H264 1280x720] [E815DC71].mkv
-!new/upload/[Movie-1986] Touch - 2 Sayonara no Okurimono/Thumbs.db
-!new/upload/[Movie-1986] Touch - 2 Sayonara no Okurimono/Thumbs.db:encryptable
-!new/upload/[Movie-1986] Touch - 2 Sayonara no Okurimono/Touch_2__Sayonara_no_Okurimono_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][C6396C54].avi
-!new/upload/[Movie-1986] Touch Sebangou no Nai Ace/Touch__Sebangou_no_Nai_Ace_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][83A7DB30].avi
-!new/upload/[Movie-1988] Kimagure Orange Road - I Want to Return to That Day/Kimagure_Orange_Road_-_I_Want_to_Return_to_That_Day_-_1[1]_-_Complete_Movie_[640x400][DVD][bishi][5D5C8BB2].avi
-!new/upload/[Movie-1988] Kimagure Orange Road - I Want to Return to That Day/[Movie-1987]_Touch_3__Kimi_ga_Toorisugita_Ato_ni_-_Don_t_Pass_Me_By/Touch_3__Kimi_ga_Toorisugita_Ato_ni_-_Don_t_Pass_Me_By_-_1[1]_-_Complete_Movie_[352x220][VHS][Nexus][FBFB9072].avi
-!new/upload/[Movie-1989] Kimagure Orange Road Hurricane! Henshin Shoujo Akane/Kimagure_Orange_Road__Hurricane!_Henshin_Shoujo_Akane_-_1[1]_-_Complete_Movie_[640x480][DVD][bishi][0E10A7E6].avi
-!new/upload/[Movie-1989] Kimagure Orange Road Koi no Stage = Heart on Fire! Haru wa Idol!/Kimagure_Orange_Road__Koi_no_Stage_=_Heart_on_Fire!_Haru_wa_Idol!_-_1[1]_-_Complete_Movie_[640x480][DVD][bishi][8C69265D].avi
-!new/upload/[Movie-1989] Kimagure Orange Road Koi no Stage = Heart on Fire! Star Tanjou!/Kimagure_Orange_Road__Koi_no_Stage_=_Heart_on_Fire!_Star_Tanjou!_-_1[1]_-_Complete_Movie_[640x480][DVD][bishi][932DDCF1].avi
-!new/upload/[Movie-1989] Kimagure Orange Road Wagahai wa Neko de Attari Osakana de Attari/Kimagure_Orange_Road__Wagahai_wa_Neko_de_Attari_Osakana_de_Attari_-_1[1]_-_Complete_Movie_[640x480][DVD][bishi][64C860F3].avi
-!new/upload/[Movie-1994] Slam Dunk (1994)/jh.mkv
-!new/upload/[Movie-1994] Slam Dunk Zenkoku Seiha da! Sakuragi Hanamichi/Slam_Dunk__Zenkoku_Seiha_da!_Sakuragi_Hanamichi_-_1[1]_-_Complete_Movie_[848x480][DVD][txxz][7F5D63D3].mkv
-!new/upload/[Movie-1995] Macross - 7 Ginga ga Ore o Yonde Iru/Macross_7__Ginga_ga_Ore_o_Yonde_Iru_-_1[1]_-_Complete_Movie_[640x480][DVD][CA][108E6838].mkv
-!new/upload/[Movie-1995] Slam Dunk Hoero Basketman Tamashii!! Hanamichi to Nagarekawa no Nekki Natsu/Slam_Dunk__Hoero_Basketman_Tamashii!!_Hanamichi_to_Nagarekawa_no_Nekki_Natsu_-_1[1]_-_Complete_Movie_[848x480][DVD][-ANF-][DC7200A7].mkv
-!new/upload/[Movie-1995] Slam Dunk Shouhoku Saidai no Kiki! Moero Sakuragi Hanamichi/Slam_Dunk__Shouhoku_Saidai_no_Kiki!_Moero_Sakuragi_Hanamichi_-_1[1]_-_Complete_Movie_[848x480][DVD][-ANF-][D20B56CA].mkv
-!new/upload/[Movie-1997] Mononoke Hime/Mononoke_Hime_-_1[1]_-_Complete_Movie_[688x432][DVD][niizk][C677AF24].mkv
-!new/upload/[Movie-2001] Inuyasha - Toki o Koeru Omoi/Inuyasha_-_Toki_o_Koeru_Omoi_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][56EF2069].mkv
-!new/upload/[Movie-2002] Inuyasha Kagami no Naka no Mugenjou/Inuyasha__Kagami_no_Naka_no_Mugenjou_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][5BE86486].mkv
-!new/upload/[Movie-2003] Inuyasha - Tenka Hadou no Ken/Inuyasha_-_Tenka_Hadou_no_Ken_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][729CFBDD].mkv
-!new/upload/[Movie-2004] Inuyasha Guren no Houraijima/Inuyasha__Guren_no_Houraijima_-_1[1]_-_Complete_Movie_[720x400][DVD][BluDragon][ED7FAAFB].mkv
-!new/upload/[NipponSex]_(24.09.2010)_I've_GIRL'S_COMPILATION_7_-_EXTRACT_[Various]_(320k).rar
-!new/upload/[Nipponsei] Highschool of the Dead ED Album - H.O.T.D. [Kurosaki Maon].zip
-!new/upload/[Nipponsei] Kaichou wa Maid-sama! Virtual Live Album.zip
-!new/upload/[OD-WPP]_Digimon_Xros_Wars_-_10-11_[720p]_[257409F7].mkv
 !new/upload/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/upload/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/upload/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -820,52 +583,6 @@
 !new/upload/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/upload/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/upload/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
-!new/upload/[ReDone] To Heart ~Remember my Memories~ 02 (DVD) [18FA126A].mkv
-!new/upload/[ReDone] To Heart ~Remember my Memories~ 03 (DVD) [16AE26CE].mkv
-!new/upload/[ReDone] Touka Gettan - 10 (DVD) [AF690004].mkv
-!new/upload/[RyRo]_Inazuma_Eleven_-_101_(1280x720_x264_AAC)_[0061D558].mkv
-!new/upload/[Ryuumaru] MM! - 01 [95EC299B].mkv
-!new/upload/[Ryuumaru] Seitokai Yakuindomo - 13 (Final) [1024x576][7B4E64BA].mkv
-!new/upload/[Ryuumaru] Sekirei ~Pure Engagement~ - 13 [720p][35C35B50].mkv
-!new/upload/[S.F.S.]_Sugar_Sugar_Rune_-_30_ [FF068188].mp4
-!new/upload/[S.F.S.]_Sugar_Sugar_Rune_-_31_[A4549FC3].mp4
-!new/upload/[S.F.S.]_Sugar_Sugar_Rune_-_32_ [FA1062FC].mp4
-!new/upload/[SGKK-Doki] Senkou no Night Raid - 00 (1280x720 h264 BD FLAC) [2F39EDAB].mkv
-!new/upload/[SMC] Sailor Moon Stars 167v2 R2 DVD(H264.AC3)[2F033D3C].mkv
-!new/upload/[SMC] Sailor Moon Stars 168v2 R2 DVD(H264.AC3)[5EA2CE48].mkv
-!new/upload/[SMC] Sailor Moon Stars 169v2 R2 DVD(H264.AC3)[64695E63].mkv
-!new/upload/[SMC] Sailor Moon Stars 170v2 R2 DVD(H264.AC3)[98E512E4].mkv
-!new/upload/[SMC] Sailor Moon Stars 171v2 R2 DVD(H264.AC3)[B1535DE7].mkv
-!new/upload/[SMC] Sailor Moon Stars 172v2 R2 DVD(H264.AC3)[15C23E8B].mkv
-!new/upload/[SMC] Sailor Moon Stars 173v2 R2 DVD(H264.AC3)[442CE78A].mkv
-!new/upload/[SMC] Sailor Moon Stars 174v2 R2 DVD(H264.AC3)[9E8DED06].mkv
-!new/upload/[SMC] Sailor Moon Stars 175v2 R2 DVD(H264.AC3)[FFC78660].mkv
-!new/upload/[SMC] Sailor Moon Stars 176v2 R2 DVD(H264.AC3)[77AD17E5].mkv
-!new/upload/[SMC] Sailor Moon Stars 177v2 R2 DVD(H264.AC3)[35D3C03C].mkv
-!new/upload/[SMC] Sailor Moon Stars 178v2 R2 DVD(H264.AC3)[BC2A4DD6].mkv
-!new/upload/[SMC] Sailor Moon Stars 179v2 R2 DVD(H264.AC3)[9719B41B].mkv
-!new/upload/[SMC] Sailor Moon Stars 180v2 R2 DVD(H264.AC3)[FC01063D].mkv
-!new/upload/[SMC] Sailor Moon Stars 181v2 R2 DVD(H264.AC3)[F2549632].mkv
-!new/upload/[SMC] Sailor Moon Stars 182v2 R2 DVD(H264.AC3)[76DEEF91].mkv
-!new/upload/[SMC] Sailor Moon Stars 183v2 R2 DVD(H264.AC3)[9213D7DC].mkv
-!new/upload/[SMC] Sailor Moon Stars 184v2 R2 DVD(H264.AC3)[55935B33].mkv
-!new/upload/[SMC] Sailor Moon Stars 185 R2 DVD(H264.AC3)[31113B39].mkv
-!new/upload/[SMC] Sailor Moon Stars 186 R2 DVD(H264.AC3)[C9D22348].mkv
-!new/upload/[SMC] Sailor Moon Stars 187 R2 DVD(H264.AC3)[B0C31B14].mkv
-!new/upload/[SMC] Sailor Moon Stars 188 R2 DVD(H264.AC3)[2820B90A].mkv
-!new/upload/[SMC] Sailor Moon Stars 189 R2 DVD(H264.AC3)[A74B3BCB].mkv
-!new/upload/[SMC] Sailor Moon Stars 190 R2 DVD(H264.AC3)[274FB89F].mkv
-!new/upload/[SMC] Sailor Moon Stars 191 R2 DVD(H264.AC3)[20606EA7].mkv
-!new/upload/[SMC] Sailor Moon Stars 192 R2 DVD(H264.AC3)[2FD42B0E].mkv
-!new/upload/[SMC] Sailor Moon Stars 193 R2 DVD(H264.AC3)[6C51D60A].mkv
-!new/upload/[SMC] Sailor Moon Stars 194 R2 DVD(H264.AC3)[8BA7BA65].mkv
-!new/upload/[SMC] Sailor Moon Stars 195 R2 DVD(H264.AC3)[ECFE903B].mkv
-!new/upload/[SMC] Sailor Moon Stars 196 R2 DVD(H264.AC3)[ECFB750D].mkv
-!new/upload/[SMC] Sailor Moon Stars 197 R2 DVD(H264.AC3)[7D5990D1].mkv
-!new/upload/[SMC] Sailor Moon Stars 198 R2 DVD(H264.AC3)[D531DFD8].mkv
-!new/upload/[SMC] Sailor Moon Stars 199 R2 DVD(H264.AC3)[8A01664D].mkv
-!new/upload/[SMC] Sailor Moon Stars 200 R2 DVD(H264.AC3)[E595A0A9].mkv
-!new/upload/[SubSmith] ToHeart2 adnext OVA 01 - First Name [DVD][4CA53FF4].mkv
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -1105,44 +822,6 @@
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/upload/[UTW]_Amagami_SS_-_13_[h264-720p][F2431D22].mkv
-!new/upload/[UTW]_B_Gata_H_Kei_-_03_[BD][h264-1080p_AC3][53D87BAA].mkv
-!new/upload/[UTW]_B_Gata_H_Kei_-_04_[BD][h264-1080p_AC3][033D0AFF].mkv
-!new/upload/[UTW]_Fate_Stay_Night_-_Unlimited_Blade_Works_[BD][h264-720p_AC3][70764BA9].mkv
-!new/upload/[Wasurenai] Marie & Gali - 17 [H264 1280x720] [31A3E85C].mkv
-!new/upload/[Wasurenai] Marie & Gali - 18 [H264 1280x720] [CBC071FB].mkv
-!new/upload/[aarinfantasy]_Gokujyo_no_Koibito_1_[9F092A1D].avi
-!new/upload/[amusic] Ceui - The Legend of the Legendary Heroes ED Single - Truth of My Destiny [w scans] (FLAC).zip
-!new/upload/[amusic] CooRie - Literature Girl Memoire OP Single - Musou Garden (FLAC).zip
-!new/upload/[amusic] Faylan - CANAAN Promo Single - AROUSING SOUL [w scans] (FLAC).zip
-!new/upload/[amusic] Fortune Arterial Image Theme Maxi Single - It's my precious time! [w scans] (FLAC).zip
-!new/upload/[amusic] Girls Dead Monster - Angel Beats! Girls Dead Monster OFFICIAL BAND SCORE - Keep The Beats [w scans] (FLAC).zip
-!new/upload/[amusic] Kylee - Heroman OP2 Single - missing (FLAC).zip
-!new/upload/[amusic] Nakagawa Shouko - Occult Academy OP Single - Flying Humanoid [w scans] (FLAC).zip
-!new/upload/[amusic] TRIPLE BOOKING - Seitokai Yakuindomo OP Single - Yamato Nadeshiko Education [w scans] (FLAC).zip
-!new/upload/[amusic] Takagaki Ayahi - Occult Academy ED Single - Kimi ga Iru Basho [w scans] (FLAC).zip
-!new/upload/[amusic] Various Artists - Angel Beats! ORIGINAL SOUNDTRACK [w scans] (FLAC).zip
-!new/upload/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
-!new/upload/[amusic] Various Artists - Mashiro-iro Symphony OP Single - Symphonic Love (FLAC).zip
-!new/upload/[amusic] Yuuki Aira - The Legend of the Legendary Heroes OP Single - LAMENT - Yagate Yorokobi wo [w scans] (FLAC).zip
-!new/upload/[amusic] angela - Seitokai Yakuindomo ED Single - Aoi Haru [w scans] (FLAC).zip
-!new/upload/[amusic] azusa - Amagami SS OP Single - i Love [w scans] (FLAC).zip
-!new/upload/[gg]_Bakuman_-_01_[0709DA14].mkv
-!new/upload/[iSiscon]_765PRO_ALLSTARS_-_THE_IDOLM@STER_ARTIST_2_-_Prologue_[w_scans]_(FLAC).rar
-!new/upload/[iSiscon]_KISIDA_KYODAN_&_THE_AKEBOSI_ROCKETS_-_TV_Anime_HIGH_SCHOOL_OF_THE_DEAD_OP_Theme_[w_scans]_(FLAC).rar
-!new/upload/[iSiscon]_Kurosaki_Maon_-_TV_Anime_HIGH_SCHOOL_OF_THE_DEAD_ED_Theme_[w_scans]_(FLAC).rar
-!new/upload/[iSiscon]_Misato_Aki,_Endou_Masaaki_-_MUV-LUV_ALTERNATIVE_Chronicles_OP&ED_Single_[w_scans]_(FLAC).rar
-!new/upload/[iSiscon]_Miyazaki_Ui_-_PSP_L@ve_once_Image_Song_-_Sweet_Heaven_[w_scans]_(FLAC).rar
-!new/upload/[iSiscon]_Satou_Hiromi,_Sena,_touko,_Differencia_-_Tasogare_no_Shinsemia_ORIGINAL_SOUNDTRACK_[w_scans]_(FLAC).rar
-!new/upload/[iSiscon]_Various_Artists_-_I've_GIRL'S_COMPILATION_7_-_EXTRACT_[w_scans]_(FLAC).rar
-!new/upload/[iSiscon]_Yakushi_Ruri_-_colorful_plus_[w_scans]_(FLAC).rar
-!new/upload/[iSiscon]_cassis_-_ReBirthday_[w_scans]_(FLAC).rar
-!new/upload/[pwq]_Sora_no_Woto_-_10_[BD]_[57E0EDBB].mkv
-!new/upload/[pwq]_Sora_no_Woto_-_11_[BD]_[7F732268].mkv
-!new/upload/[pwq]_Sora_no_Woto_-_12_[BD]_[7FB6F3B1].mkv
-!new/upload/[ray=out]_Before_Green_Gables_-_12_[HD][AF045DAC].mkv
-!new/upload/[uguu~]_Zoku_Sayonara_Zetsubou_Sensei_01_(DVD)_[767946CB].mkv
-!new/upload/[umai]_Major_S6_-_25_[35C22900].mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -1518,4 +1197,3 @@
 !new/upload/ss/[all4seiya][galaxy][SAINT_SEIYA][TV112][DVDRIP][XVID_MP3][JP_CH].mkv
 !new/upload/ss/[all4seiya][galaxy][SAINT_SEIYA][TV113][DVDRIP][XVID_MP3][JP_CH].mkv
 !new/upload/ss/[all4seiya][galaxy][SAINT_SEIYA][TV114][DVDRIP][XVID_MP3][JP_CH].mkv
-!new/upload/utw-ubw.part2.rar
