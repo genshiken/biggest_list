@@ -551,17 +551,25 @@
 !new/upload/Shakugan no Shana S OVA Episode 4.mkv
 !new/upload/[AniYoshi]_Asu_no_Yoichi_-_08v2_[DVD][7B822468].mkv
 !new/upload/[Animanda]_You_Are_Umasou_-_01_[7B7C6FC4].mkv
+!new/upload/[Animanda]_You_Are_Umasou_-_02_[841E0CB6].mkv
+!new/upload/[Animanda]_You_Are_Umasou_-_03_[80E2BE25].mkv
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_001_To_the_Isshu_Region!_The_Shadow_of_Zekrom!![H264_720P][EEF21420].mkv
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_002_Iris_and_Kibago![H264_720P][CB118364].mkv
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_003_Mijumaru!_Meguroco!_Close_Call!![H264_720P][896A6149].mkv
+!new/upload/[Coalgirls]_Cardcaptor_Sakura_28_(960x720_Blu-Ray_FLAC)_[7864D5C6].mkv
+!new/upload/[Coalgirls]_Cardcaptor_Sakura_29_(960x720_Blu-Ray_FLAC)_[B4E0E64E].mkv
+!new/upload/[Coalgirls]_Cardcaptor_Sakura_30_(960x720_Blu-Ray_FLAC)_[EF144922].mkv
+!new/upload/[Coalgirls]_Cardcaptor_Sakura_31_(960x720_Blu-Ray_FLAC)_[9EE89525].mkv
 !new/upload/[Coalgirls]_Occult_Academy_01_(1920x1080_Blu-ray_FLAC)_[23F6D2DB].mkv
 !new/upload/[Coalgirls]_Occult_Academy_02_(1920x1080_Blu-ray_FLAC)_[7CC4D473].mkv
 !new/upload/[Coalgirls]_Occult_Academy_NCED_(1920x1080_Blu-ray_FLAC)_[34F6B2B0].mkv
 !new/upload/[Coalgirls]_Occult_Academy_NCOP_(1920x1080_Blu-ray_FLAC)_[7B63A3C4].mkv
 !new/upload/[Coalgirls]_Occult_Academy_SP01_(1920x1080_Blu-ray_FLAC)_[B7C02673].mkv
 !new/upload/[Coalgirls]_Occult_Academy_SP01_3D_(1920x1080_Blu-ray_FLAC)_[8C3D9182].mkv
+!new/upload/[Commie] Fate ⁄ stay night - Unlimited Blade Works [BD 1080p FLAC] [CC258DD6].mkv
 !new/upload/[Doremi].HeartCatch.PreCure!.34.[1280x720].[ACE9C01B].mkv
 !new/upload/[Doremi].Motto.Ojamajo.Doremi.32.[B05F3784].avi
+!new/upload/[Doutei]Golgo 13 - 47[DVD][C4291094].mkv
 !new/upload/[Force-Works] Iron Man - 01 [A66813DB].mkv
 !new/upload/[Formula]_Tales_of_Symphonia_OVA_-_Tethe'alla_Bonus_1_[CA7D8F4F].mkv
 !new/upload/[Frostii]_K-On!!_-_25_[17F6A2CA].mkv
@@ -570,8 +578,10 @@
 !new/upload/[HorribleSubs] Naruto Shippuuden - 178 [720p].mkv
 !new/upload/[HorribleSubs] Otome Yokai Zakuro - 01 [720p].mkv
 !new/upload/[HorribleSubs] Sora no woto - The Horizon of Dreams [480p].mkv
+!new/upload/[HorribleSubs] The World God Only Knows - 01 [720p].mkv
 !new/upload/[KiteSeekers-PFSubs] Shin Koihime Musou - OVA [BD 720p H264 AAC] [908E6A41].mkv
 !new/upload/[Mamiko]_Tamayura_OVA_02_TV_Broadcast_[720p]_[1E129A47].mkv
+!new/upload/[Nipponsei] K-ON!! Original Soundtrack Vol.2.zip
 !new/upload/[Nutbladder]_Arakawa_Under_the_Bridge_×2_-_01_[5ef65288].mkv
 !new/upload/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/upload/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
@@ -597,6 +607,7 @@
 !new/upload/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/upload/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
 !new/upload/[Ryuumaru] Hyakka Ryouran Samurai Girls - 01v2 [720p][03751680].mkv
+!new/upload/[Ryuumaru] MM! - 01v2 [7FEBDF8F].mkv
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -836,6 +847,8 @@
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/upload/[UTW]_Angel_Beats!_-_07_[BD][h264-1080p_FLAC][7BE0246A].mkv
+!new/upload/[UTW]_Angel_Beats!_-_08_[BD][h264-1080p_FLAC][A4F693C1].mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
