@@ -284,16 +284,15 @@
 !new/upload/-ian87-/sabtu/ã‚²ã‚²ã‚²ã®å¥³æˆ¿149.avi
 !new/upload/-ian87-/sabtu/ã‚²ã‚²ã‚²ã®å¥³æˆ¿150.avi
 !new/upload/-ian87-/tetsuya bass book.7z
-!new/upload/-ian87-/the GazettE - Red (10.09.22).avix
 !new/upload/-ian87-/the GazettE - [PV] Red.avix
 !new/upload/-ian87-/v(NEU) - [PV] LIMIT.mpq
-!new/upload/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
-!new/upload/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/upload/Carol/[raw] Carol OVA.ass
 !new/upload/Carol/[raw] Carol OVA.avi
 !new/upload/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/upload/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/upload/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
+!new/upload/Ranma (Complete)/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
+!new/upload/Ranma (Complete)/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/upload/Ranma (Complete)/Ranma Movies and OVAs/Thumbs.db
 !new/upload/Ranma (Complete)/Ranma Movies and OVAs/[anime_fin]_Ranma_Movie_1_DVDRiP_dualaudio.ogm
 !new/upload/Ranma (Complete)/Ranma Movies and OVAs/[anime_fin]_Ranma_Movie_2_DVDRiP_dualaudio.ogm
@@ -556,10 +555,6 @@
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_001_To_the_Isshu_Region!_The_Shadow_of_Zekrom!![H264_720P][EEF21420].mkv
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_002_Iris_and_Kibago![H264_720P][CB118364].mkv
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_003_Mijumaru!_Meguroco!_Close_Call!![H264_720P][896A6149].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_28_(960x720_Blu-Ray_FLAC)_[7864D5C6].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_29_(960x720_Blu-Ray_FLAC)_[B4E0E64E].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_30_(960x720_Blu-Ray_FLAC)_[EF144922].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_31_(960x720_Blu-Ray_FLAC)_[9EE89525].mkv
 !new/upload/[Coalgirls]_Occult_Academy_01_(1920x1080_Blu-ray_FLAC)_[23F6D2DB].mkv
 !new/upload/[Coalgirls]_Occult_Academy_02_(1920x1080_Blu-ray_FLAC)_[7CC4D473].mkv
 !new/upload/[Coalgirls]_Occult_Academy_NCED_(1920x1080_Blu-ray_FLAC)_[34F6B2B0].mkv
@@ -572,15 +567,12 @@
 !new/upload/[Doutei]Golgo 13 - 47[DVD][C4291094].mkv
 !new/upload/[Force-Works] Iron Man - 01 [A66813DB].mkv
 !new/upload/[Formula]_Tales_of_Symphonia_OVA_-_Tethe'alla_Bonus_1_[CA7D8F4F].mkv
-!new/upload/[Frostii]_K-On!!_-_25_[17F6A2CA].mkv
-!new/upload/[Frostii]_K-On!!_-_26_[4358A451].mkv
 !new/upload/[HorribleSubs] Bleach - 291 [720p].mkv
 !new/upload/[HorribleSubs] Naruto Shippuuden - 178 [720p].mkv
 !new/upload/[HorribleSubs] Otome Yokai Zakuro - 01 [720p].mkv
 !new/upload/[HorribleSubs] Sora no woto - The Horizon of Dreams [480p].mkv
 !new/upload/[HorribleSubs] The World God Only Knows - 01 [720p].mkv
 !new/upload/[KiteSeekers-PFSubs] Shin Koihime Musou - OVA [BD 720p H264 AAC] [908E6A41].mkv
-!new/upload/[Mamiko]_Tamayura_OVA_02_TV_Broadcast_[720p]_[1E129A47].mkv
 !new/upload/[Nipponsei] K-ON!! Original Soundtrack Vol.2.zip
 !new/upload/[Nutbladder]_Arakawa_Under_the_Bridge_×2_-_01_[5ef65288].mkv
 !new/upload/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
@@ -606,8 +598,6 @@
 !new/upload/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/upload/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/upload/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
-!new/upload/[Ryuumaru] Hyakka Ryouran Samurai Girls - 01v2 [720p][03751680].mkv
-!new/upload/[Ryuumaru] MM! - 01v2 [7FEBDF8F].mkv
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -847,8 +837,6 @@
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/upload/[UTW]_Angel_Beats!_-_07_[BD][h264-1080p_FLAC][7BE0246A].mkv
-!new/upload/[UTW]_Angel_Beats!_-_08_[BD][h264-1080p_FLAC][A4F693C1].mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -1224,3 +1212,4 @@
 !new/upload/ss/[all4seiya][galaxy][SAINT_SEIYA][TV112][DVDRIP][XVID_MP3][JP_CH].mkv
 !new/upload/ss/[all4seiya][galaxy][SAINT_SEIYA][TV113][DVDRIP][XVID_MP3][JP_CH].mkv
 !new/upload/ss/[all4seiya][galaxy][SAINT_SEIYA][TV114][DVDRIP][XVID_MP3][JP_CH].mkv
+!new/upload/the GazettE - Red (10.09.22).avix

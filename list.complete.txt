@@ -391,19 +391,19 @@ complete/a/Amatsuki/[Ureshii] Amatsuki - 11 [B0E19FB4].mkv
 complete/a/Amatsuki/[Ureshii] Amatsuki - 12 [C941FD0A].mkv
 complete/a/Amatsuki/[Ureshii] Amatsuki - 13 [End][33949FB4].mkv
 complete/a/Angel Beats! - Special/[Tortoise-Commie] Angel Beats! - Special [A423213C].mkv
-complete/a/Angel Beats!/[SS] Angel Beats! - 07 (1280x720) [AF6C20D3].mkv
-complete/a/Angel Beats!/[SS] Angel Beats! - 08 (1280x720) [57D2BEA8].mkv
-complete/a/Angel Beats!/[SS] Angel Beats! - 09 (1280x720) [882C4613].mkv
-complete/a/Angel Beats!/[SS] Angel Beats! - 10 (1280x720) [D62F78A6].mkv
-complete/a/Angel Beats!/[SS] Angel Beats! - 11 (1280x720) [638A01A9].mkv
-complete/a/Angel Beats!/[SS] Angel Beats! - 12 (1280x720) [71C8E87A].mkv
-complete/a/Angel Beats!/[SS] Angel Beats! - 13 (1280x720) [End][D8840574].mkv
-complete/a/Angel Beats!/[UTW] Angel Beats! - 01 (1920x1080) [BD][6B6D6A0A].mkv
-complete/a/Angel Beats!/[UTW] Angel Beats! - 02 (1920x1080) [BD][581C8EA8].mkv
-complete/a/Angel Beats!/[UTW] Angel Beats! - 03 (1920x1080) [BD][97725AE3].mkv
-complete/a/Angel Beats!/[UTW] Angel Beats! - 04 (1920x1080) [BD][B6F8DE24].mkv
-complete/a/Angel Beats!/[UTW] Angel Beats! - 05 (1920x1080) [BD][4EDEFA11].mkv
-complete/a/Angel Beats!/[UTW] Angel Beats! - 06 (1920x1080) [BD][2A719EA1].mkv
+complete/a/Angel Beats!/[SS] Angel Beats! - 09 [720p][882C4613].mkv
+complete/a/Angel Beats!/[SS] Angel Beats! - 10 [720p][D62F78A6].mkv
+complete/a/Angel Beats!/[SS] Angel Beats! - 11 [720p][638A01A9].mkv
+complete/a/Angel Beats!/[SS] Angel Beats! - 12 [720p][71C8E87A].mkv
+complete/a/Angel Beats!/[SS] Angel Beats! - 13 [End 720p][D8840574].mkv
+complete/a/Angel Beats!/[UTW] Angel Beats! - 01 [1080p BD][6B6D6A0A].mkv
+complete/a/Angel Beats!/[UTW] Angel Beats! - 02 [1080p BD][581C8EA8].mkv
+complete/a/Angel Beats!/[UTW] Angel Beats! - 03 [1080p BD][97725AE3].mkv
+complete/a/Angel Beats!/[UTW] Angel Beats! - 04 [1080p BD][B6F8DE24].mkv
+complete/a/Angel Beats!/[UTW] Angel Beats! - 05 [1080p BD][4EDEFA11].mkv
+complete/a/Angel Beats!/[UTW] Angel Beats! - 06 [1080p BD][2A719EA1].mkv
+complete/a/Angel Beats!/[UTW] Angel Beats! - 07 [1080p BD][7BE0246A].mkv
+complete/a/Angel Beats!/[UTW] Angel Beats! - 08 [1080p BD][A4F693C1].mkv
 complete/a/Angelique - Kagayaki no Ashita OVA/[SMS] Angelique - Kagayaki no Ashita - OVA [761AC663].mkv
 complete/a/Ani-Kuri 15/[Doremi] Ani-Kuri 15 (1920x1080) [1D80604C].mkv
 complete/a/Antique Bakery/[gg] Antique Bakery - 01 [7533E2C5].mkv
@@ -5776,6 +5776,32 @@ complete/j/Juusoukikou Dancouga Nova/[Shinsen-Subs] Juusoukikou Dancouga Nova - 
 complete/k/K-ON! OVA/[CoalGuys] K-ON! - 14 OVA [72A0FDDB].mkv
 complete/k/K-ON! OVA/[Frostii] K-ON! - 14 OVA [BD][1A8A95B5].mkv
 complete/k/K-ON! OVA/[Frostii] K-ON! - 14 OVA [v2][BD][5D2BFA03].mkv
+complete/k/K-ON!!/[Frostii] K-ON!! - 01 [A4D58BA0].mkv
+complete/k/K-ON!!/[Frostii] K-ON!! - 02 [CBE8AFDC].mkv
+complete/k/K-ON!!/[Frostii] K-ON!! - 03 [6585A6D6].mkv
+complete/k/K-ON!!/[Frostii] K-ON!! - 04 [E9C82B61].mkv
+complete/k/K-ON!!/[Frostii] K-ON!! - 05 [4B111488].mkv
+complete/k/K-ON!!/[Frostii] K-ON!! - 06 [EF7D2B0B].mkv
+complete/k/K-ON!!/[Frostii] K-ON!! - 07 [0A46427D].mkv
+complete/k/K-ON!!/[Frostii] K-ON!! - 08 [083ACA1B].mkv
+complete/k/K-ON!!/[Frostii] K-ON!! - 09 [4F665181].mkv
+complete/k/K-ON!!/[Frostii] K-ON!! - 10 [4D6B8DE5].mkv
+complete/k/K-ON!!/[Frostii] K-ON!! - 11 [87E3D5F7].mkv
+complete/k/K-ON!!/[Frostii] K-ON!! - 12 [7A721A7F].mkv
+complete/k/K-ON!!/[Frostii] K-ON!! - 13 [85A60751].mkv
+complete/k/K-ON!!/[Frostii] K-ON!! - 14 [D61C99B4].mkv
+complete/k/K-ON!!/[Frostii] K-ON!! - 15 [C53BE153].mkv
+complete/k/K-ON!!/[Frostii] K-ON!! - 16 [CA2F1A00].mkv
+complete/k/K-ON!!/[Frostii] K-ON!! - 17 [3C080C6D].mkv
+complete/k/K-ON!!/[Frostii] K-ON!! - 18 [CF48B7A4].mkv
+complete/k/K-ON!!/[Frostii] K-ON!! - 19 [v2][65BFD1AD].mkv
+complete/k/K-ON!!/[Frostii] K-ON!! - 20 [943D733C].mkv
+complete/k/K-ON!!/[Frostii] K-ON!! - 21 [6175D262].mkv
+complete/k/K-ON!!/[Frostii] K-ON!! - 22 [4F1A5C83].mkv
+complete/k/K-ON!!/[Frostii] K-ON!! - 23 [BF3282DA].mkv
+complete/k/K-ON!!/[Frostii] K-ON!! - 24 [0108B334].mkv
+complete/k/K-ON!!/[Frostii] K-ON!! - 25 [17F6A2CA].mkv
+complete/k/K-ON!!/[Frostii] K-ON!! - 26 [End][4358A451].mkv
 complete/k/K-ON!/[CoalGuys] K-ON! - 13 [End][EEAB90C2].mkv
 complete/k/K-ON!/[Frostii] K-ON! - 01 [BD][B4E180E8].mkv
 complete/k/K-ON!/[Frostii] K-ON! - 02 [BD][B05DE25E].mkv
