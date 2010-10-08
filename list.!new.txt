@@ -288,6 +288,10 @@
 !new/upload/-ian87-/v(NEU) - [PV] LIMIT.mpq
 !new/upload/Carol/[raw] Carol OVA.ass
 !new/upload/Carol/[raw] Carol OVA.avi
+!new/upload/Highschool_of_the_Dead_Ep01_Spring_of_the_Dead_[1080p,BluRay,x264]_-_gg-THORA.mkv
+!new/upload/Highschool_of_the_Dead_Ep02_Escape_from_the_Dead_[1080p,BluRay,x264]_-_gg-THORA.mkv
+!new/upload/Highschool_of_the_Dead_Ep1-2_[1080p,BluRay,x264]_-_gg-THORA.md5
+!new/upload/Highschool_of_the_Dead_OP_[1080p,BluRay,x264]_-_gg-THORA.mkv
 !new/upload/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/upload/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/upload/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
@@ -562,6 +566,9 @@
 !new/upload/[Coalgirls]_Occult_Academy_SP01_(1920x1080_Blu-ray_FLAC)_[B7C02673].mkv
 !new/upload/[Coalgirls]_Occult_Academy_SP01_3D_(1920x1080_Blu-ray_FLAC)_[8C3D9182].mkv
 !new/upload/[Commie] Fate ⁄ stay night - Unlimited Blade Works [BD 1080p FLAC] [CC258DD6].mkv
+!new/upload/[Commie] Motto To Love-ru - 01 [45E557E9].mkv
+!new/upload/[Commie] Nurarihyon no Mago - 09 [BC92CC8F].mkv
+!new/upload/[Commie] Nurarihyon no Mago - 10 [88F7658F].mkv
 !new/upload/[Doremi].HeartCatch.PreCure!.34.[1280x720].[ACE9C01B].mkv
 !new/upload/[Doremi].Motto.Ojamajo.Doremi.32.[B05F3784].avi
 !new/upload/[Doutei]Golgo 13 - 47[DVD][C4291094].mkv
@@ -569,6 +576,7 @@
 !new/upload/[Formula]_Tales_of_Symphonia_OVA_-_Tethe'alla_Bonus_1_[CA7D8F4F].mkv
 !new/upload/[HorribleSubs] Bleach - 291 [720p].mkv
 !new/upload/[HorribleSubs] Naruto Shippuuden - 178 [720p].mkv
+!new/upload/[HorribleSubs] Naruto Shippuuden - 180 [720p].mkv
 !new/upload/[HorribleSubs] Otome Yokai Zakuro - 01 [720p].mkv
 !new/upload/[HorribleSubs] Sora no woto - The Horizon of Dreams [480p].mkv
 !new/upload/[HorribleSubs] The World God Only Knows - 01 [720p].mkv
