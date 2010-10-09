@@ -41,29 +41,30 @@ incomplete/Akahori Gedou Hour Rabuge/[Himitsu] Akahori Gedou Hour Rabuge - 08 [C
 incomplete/Akahori Gedou Hour Rabuge/[Himitsu] Akahori Gedou Hour Rabuge - 09 [389E243F].avi
 incomplete/Akahori Gedou Hour Rabuge/[Himitsu] Akahori Gedou Hour Rabuge - 10 [F8B514FB].avi
 incomplete/Akahori Gedou Hour Rabuge/[Himitsu] Akahori Gedou Hour Rabuge - 11 [6B2E5D80].avi
-incomplete/Amagami SS/[Eclipse] Amagami SS - 01 (1280x720) [4876C56A].mkv
-incomplete/Amagami SS/[Eclipse] Amagami SS - 02 (1280x720) [409F0F7F].mkv
-incomplete/Amagami SS/[Eclipse] Amagami SS - 03 (1280x720) [283C6AF2].mkv
-incomplete/Amagami SS/[Eclipse] Amagami SS - 04 (1280x720) [9439459B].mkv
-incomplete/Amagami SS/[Eclipse] Amagami SS - 05 (1280x720) [5E9FAB73].mkv
-incomplete/Amagami SS/[Eclipse] Amagami SS - 06 (1280x720) [3ECC82BB].mkv
-incomplete/Amagami SS/[Eclipse] Amagami SS - 07 (1280x720) [54F7A2E0].mkv
-incomplete/Amagami SS/[Eclipse] Amagami SS - 08 (1280x720) [9C9DE014].mkv
-incomplete/Amagami SS/[Eclipse] Amagami SS - 09 (1280x720) [5803A0F7].mkv
-incomplete/Amagami SS/[Eclipse] Amagami SS - 11 (1280x720) [CA900E4D].mkv
-incomplete/Amagami SS/[Eclipse] Amagami SS - 12 (1280x720) [C4FBCE84].mkv
-incomplete/Amagami SS/[UTW] Amagami SS - 01 (1280x720) [v2][B561EBCC].mkv
-incomplete/Amagami SS/[UTW] Amagami SS - 02 (1280x720) [619D9FDF].mkv
-incomplete/Amagami SS/[UTW] Amagami SS - 03 (1280x720) [FF97E96A].mkv
-incomplete/Amagami SS/[UTW] Amagami SS - 04 (1280x720) [AD539A08].mkv
-incomplete/Amagami SS/[UTW] Amagami SS - 05 (1280x720) [6164F8BF].mkv
-incomplete/Amagami SS/[UTW] Amagami SS - 06 (1280x720) [D8AA05E3].mkv
-incomplete/Amagami SS/[UTW] Amagami SS - 07 (1280x720) [83B8F09D].mkv
-incomplete/Amagami SS/[UTW] Amagami SS - 08 (1280x720) [2A252B27].mkv
-incomplete/Amagami SS/[UTW] Amagami SS - 09 (1280x720) [744BDCCB].mkv
-incomplete/Amagami SS/[UTW] Amagami SS - 10 (1280x720) [4692753B].mkv
-incomplete/Amagami SS/[UTW] Amagami SS - 11 (1280x720) [08500434].mkv
-incomplete/Amagami SS/[UTW] Amagami SS - 13 (1280x720) [F2431D22].mkv
+incomplete/Amagami SS/[Eclipse] Amagami SS - 01 [720p][4876C56A].mkv
+incomplete/Amagami SS/[Eclipse] Amagami SS - 02 [720p][409F0F7F].mkv
+incomplete/Amagami SS/[Eclipse] Amagami SS - 03 [720p][283C6AF2].mkv
+incomplete/Amagami SS/[Eclipse] Amagami SS - 04 [720p][9439459B].mkv
+incomplete/Amagami SS/[Eclipse] Amagami SS - 05 [720p][5E9FAB73].mkv
+incomplete/Amagami SS/[Eclipse] Amagami SS - 06 [720p][3ECC82BB].mkv
+incomplete/Amagami SS/[Eclipse] Amagami SS - 07 [720p][54F7A2E0].mkv
+incomplete/Amagami SS/[Eclipse] Amagami SS - 08 [720p][9C9DE014].mkv
+incomplete/Amagami SS/[Eclipse] Amagami SS - 09 [720p][5803A0F7].mkv
+incomplete/Amagami SS/[Eclipse] Amagami SS - 11 [720p][CA900E4D].mkv
+incomplete/Amagami SS/[Eclipse] Amagami SS - 12 [720p][C4FBCE84].mkv
+incomplete/Amagami SS/[UTW] Amagami SS - 01 [v2 720p][B561EBCC].mkv
+incomplete/Amagami SS/[UTW] Amagami SS - 02 [720p][619D9FDF].mkv
+incomplete/Amagami SS/[UTW] Amagami SS - 03 [720p][FF97E96A].mkv
+incomplete/Amagami SS/[UTW] Amagami SS - 04 [720p][AD539A08].mkv
+incomplete/Amagami SS/[UTW] Amagami SS - 05 [720p][6164F8BF].mkv
+incomplete/Amagami SS/[UTW] Amagami SS - 06 [720p][D8AA05E3].mkv
+incomplete/Amagami SS/[UTW] Amagami SS - 07 [720p][83B8F09D].mkv
+incomplete/Amagami SS/[UTW] Amagami SS - 08 [720p][2A252B27].mkv
+incomplete/Amagami SS/[UTW] Amagami SS - 09 [720p][744BDCCB].mkv
+incomplete/Amagami SS/[UTW] Amagami SS - 10 [720p][4692753B].mkv
+incomplete/Amagami SS/[UTW] Amagami SS - 11 [720p][08500434].mkv
+incomplete/Amagami SS/[UTW] Amagami SS - 13 [720p][F2431D22].mkv
+incomplete/Amagami SS/[UTW] Amagami SS - 14 [720p][900255E1].mkv
 incomplete/Angel Heart/[Ani-Kraze] Angel Heart - 02 [A954E411].avi
 incomplete/Angel Heart/[Ani-Kraze] Angel Heart - 03 [CD2D52CA].avi
 incomplete/Angel Heart/[Ani-Kraze] Angel Heart - 04 [32C0C7F0].avi
@@ -2630,6 +2631,7 @@ incomplete/One Piece/[yibis] One Piece - 465 (1280x720) [D08BB26C].mkv
 incomplete/One Piece/[yibis] One Piece - 466 (1280x720) [1099B034].mkv
 incomplete/One Piece/[yibis] One Piece - 467 (1280x720) [v2][3521D721].mkv
 incomplete/One Piece/[yibis] One Piece - 468 (1280x720) [7D59F861].mkv
+incomplete/One Piece/[yibis] One Piece - 469 [720p][F9145D5D].mkv
 incomplete/Ontama!/[DATS] Ontama! - 01 [2F0C7231].mkv
 incomplete/Ontama!/[DATS] Ontama! - 02 [2FBB11E1].mkv
 incomplete/Ontama!/[DATS] Ontama! - 03 [00BDF47B].mkv

@@ -286,6 +286,7 @@
 !new/upload/-ian87-/tetsuya bass book.7z
 !new/upload/-ian87-/the GazettE - [PV] Red.avix
 !new/upload/-ian87-/v(NEU) - [PV] LIMIT.mpq
+!new/upload/Beyond_the_clouds_the_promised_place_(2004)_[1080p,BluRay,x264]_-_THORA.mkv
 !new/upload/Carol/[raw] Carol OVA.ass
 !new/upload/Carol/[raw] Carol OVA.avi
 !new/upload/Highschool_of_the_Dead_Ep01_Spring_of_the_Dead_[1080p,BluRay,x264]_-_gg-THORA.mkv
@@ -556,6 +557,7 @@
 !new/upload/[Animanda]_You_Are_Umasou_-_01_[7B7C6FC4].mkv
 !new/upload/[Animanda]_You_Are_Umasou_-_02_[841E0CB6].mkv
 !new/upload/[Animanda]_You_Are_Umasou_-_03_[80E2BE25].mkv
+!new/upload/[Animanda]_You_Are_Umasou_-_04_[FC6C814C].mkv
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_001_To_the_Isshu_Region!_The_Shadow_of_Zekrom!![H264_720P][EEF21420].mkv
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_002_Iris_and_Kibago![H264_720P][CB118364].mkv
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_003_Mijumaru!_Meguroco!_Close_Call!![H264_720P][896A6149].mkv
@@ -569,16 +571,19 @@
 !new/upload/[Commie] Motto To Love-ru - 01 [45E557E9].mkv
 !new/upload/[Commie] Nurarihyon no Mago - 09 [BC92CC8F].mkv
 !new/upload/[Commie] Nurarihyon no Mago - 10 [88F7658F].mkv
+!new/upload/[Commie] Nurarihyon no Mago - 11 [B16608AE].mkv
 !new/upload/[Commie] The World God Only Knows - 01 [476E9732].mkv
 !new/upload/[Doremi].HeartCatch.PreCure!.34.[1280x720].[ACE9C01B].mkv
 !new/upload/[Doremi].Motto.Ojamajo.Doremi.32.[B05F3784].avi
 !new/upload/[Doutei]Golgo 13 - 47[DVD][C4291094].mkv
 !new/upload/[Force-Works] Iron Man - 01 [A66813DB].mkv
 !new/upload/[Formula]_Tales_of_Symphonia_OVA_-_Tethe'alla_Bonus_1_[CA7D8F4F].mkv
+!new/upload/[Frostii_Live-eviL]_Winter_Sonata_-_25_[92FA14FC].mkv
 !new/upload/[HorribleSubs] Bleach - 291 [720p].mkv
 !new/upload/[HorribleSubs] Naruto Shippuuden - 178 [720p].mkv
 !new/upload/[HorribleSubs] Naruto Shippuuden - 180 [720p].mkv
 !new/upload/[HorribleSubs] Otome Yokai Zakuro - 01 [720p].mkv
+!new/upload/[HorribleSubs] Panty and Stocking with Garterbelt - 02 [720p].mkv
 !new/upload/[HorribleSubs] Sora no woto - The Horizon of Dreams [480p].mkv
 !new/upload/[HorribleSubs] The World God Only Knows - 01 [720p].mkv
 !new/upload/[KiteSeekers-PFSubs] Shin Koihime Musou - OVA [BD 720p H264 AAC] [908E6A41].mkv
@@ -846,8 +851,6 @@
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/upload/[UTW]_Amagami_SS_-_14_[h264-720p][900255E1].mkv
-!new/upload/[yibis]_One_Piece_469_[720p][F9145D5D].mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
