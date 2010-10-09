@@ -44,6 +44,7 @@ movie/Evangelion - Death (True)^2/[zx] Evangelion - Death (True)^2 [58BC4921].mk
 movie/Evangelion - End of Evangelion/[zx] Evangelion - End of Evangelion [v3][19DB2A42].mkv
 movie/Evangelion 1.11/[THORA] Evangelion 1.11 (1920x1080) [BD][77790EE2].mkv
 movie/Evangelion 2.22/[UTW-THORA] Evangelion 2.22 (1920x1080) [v2][BD][13434436].mkv
+movie/Fate-stay night - Unlimited Blade Works/[Commie] Fate-stay night - Unlimited Blade Works [1080p BD][CC258DD6].mkv
 movie/Fate-stay night - Unlimited Blade Works/[UTW] Fate-stay night - Unlimited Blade Works (1280x720) [BD][70764BA9].mkv
 movie/Final Fintasy Advent Children Complete (2009)/[THORA] Final Fintasy Advent Children Complete (2009) (1280x720) [BD][B724543F].mkv
 movie/Franz Kafka's ~A Country Doctor~/[AnimeClipse-Ureshii] Franz Kafka's ~A Country Doctor~ [1F056511].mkv
