@@ -239,6 +239,7 @@ incomplete/Aura Battler Dunbine - The Tale of Neo Byston Well/[Shin-Getter] Aura
 incomplete/Ayakashi Ayashi Inferno/[Shinsen-Subs] Ayakashi Ayashi Inferno - 01 [93211E22].avi
 incomplete/Ayatsuri Sakon/[ASP] Ayatsuri Sakon - 22 [DVD][9817F861].mp4
 incomplete/Bakuman/[gg] Bakuman - 01 [v2][937D6A1E].mkv
+incomplete/Bakuman/[gg] Bakuman - 02 [A591C0E9].mkv
 incomplete/Bakumatsu Kikansetsu Irohanihoheto/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 01 [DVD][DAC042E0].mkv
 incomplete/Bakumatsu Kikansetsu Irohanihoheto/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 02 [DVD][19B75C94].mkv
 incomplete/Bakumatsu Kikansetsu Irohanihoheto/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 03 [DVD][DEBB5FEF].mkv
@@ -730,6 +731,7 @@ incomplete/Dragon Ball Z/[DBNL] Dragon Ball Z - 062 [1F5420FD].mkv
 incomplete/Dragon Ball Z/[DBNL] Dragon Ball Z - 063 [5B3ED713].mkv
 incomplete/Dragon Ball Z/[DBNL] Dragon Ball Z - 064 [3647A6D4].mkv
 incomplete/Dragon Quest/[ANBU] Dragon Quest - 01 [941B9B6A].mkv
+incomplete/Dragon Quest/[ANBU] Dragon Quest - 02 [0DDAC429].mkv
 incomplete/Eyeshield 21/[Saizen] Eyeshield 21 - 62 [DVD][CC7E76C1].mp4
 incomplete/Eyeshield 21/[Saizen] Eyeshield 21 - 66 [DVD][3DF0C028].mp4
 incomplete/Eyeshield 21/[Saizen] Eyeshield 21 - 67 [DVD][905CC0DA].mp4
@@ -1869,6 +1871,7 @@ incomplete/Love GetChu/[C1] Love GetChu - 11 [63A0B9CB].mp4
 incomplete/Love GetChu/[C1] Love GetChu - 12 [E5B66B29].mp4
 incomplete/Love GetChu/[C1] Love GetChu - 13 [ED9A47E0].mp4
 incomplete/MM!/[Ryuumaru] MM! - 01 [v2][7FEBDF8F].mkv
+incomplete/MM!/[Ryuumaru] MM! - 02 [v2][E903DACD].mkv
 incomplete/Maburaho/[Anime-Keep] Maburaho - 01 [F5BA0680].avi
 incomplete/Maburaho/[Anime-Keep] Maburaho - 02 [BFE818CB].avi
 incomplete/Maburaho/[Anime-Keep] Maburaho - 03 [BD152155].avi
@@ -2111,6 +2114,7 @@ incomplete/Ninku/[DB] Ninku - 07 [154B2691].avi
 incomplete/Ninku/[DB] Ninku - 08 [6E73625D].avi
 incomplete/Ninku/[DB] Ninku - 09 [B9E35DCE].avi
 incomplete/Ninku/[DB] Ninku - 10 [8F371D97].avi
+incomplete/Ninku/[DB] Ninku - 11 [9AB0E8AD].avi
 incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 01 [v2][E46F2A29].mkv
 incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 02 [754FE16D].mkv
 incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 03 [78D2C5C7].mkv
@@ -2647,9 +2651,11 @@ incomplete/Ontama!/[DATS] Ontama! - 03 [00BDF47B].mkv
 incomplete/Ontama!/[DATS] Ontama! - 04 [053BAEFC].mkv
 incomplete/Ontama!/[DATS] Ontama! - 05 [70E8AC84].mkv
 incomplete/Ore no Imouto/[Mazui] Ore no Imouto - 01 [9C50F426].mkv
+incomplete/Ore no Imouto/[Mazui] Ore no Imouto - 02 [0330E299].mkv
 incomplete/Otome Youkai Zakuro/[HorribleSubs] Otome Yokai Zakuro - 01 [720p][4B3907CD].mkv
 incomplete/Panty & Stocking with Garterbelt/[HorribleSubs] Panty & Stocking with Garterbelt - 02 [720p][3DAE13E0].mkv
 incomplete/Panty & Stocking with Garterbelt/[Underwater] Panty & Stocking with Garterbelt - 01 [B0D1F9CF].mkv
+incomplete/Panty & Stocking with Garterbelt/[Underwater] Panty & Stocking with Garterbelt - 02 [5083A74A].mkv
 incomplete/Patalliro/[aarinfantasy] Patalliro - 14 [B04ACEDC].avi
 incomplete/Perrine/[C1] Perrine - 01 [DD61EE37].avi
 incomplete/Perrine/[C1] Perrine - 02 [7D8E124B].avi
@@ -3046,6 +3052,7 @@ incomplete/Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries/[SHiN-gx] Sono Hana
 incomplete/Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 03 [Webrip][F61427E4].mkv
 incomplete/Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 04 [Webrip][4EC96427].mkv
 incomplete/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 01 (1280x720) [0ADD4784].mkv
+incomplete/Soredemo Machi wa Mawatteiru/[gg] Soredemo Machi wa Mawatteiru - 01 [94046EBB].mkv
 incomplete/Souten Kouro/[Lunar] Souten Kouro - 01 (1280x720) [B78A2C08].mkv
 incomplete/Souten Kouro/[Lunar] Souten Kouro - 02 (1280x720) [C21CD208].mkv
 incomplete/Souten Kouro/[Lunar] Souten Kouro - 03 (1280x720) [AF5759E1].mkv
@@ -3056,6 +3063,7 @@ incomplete/Souten Kouro/[Lunar] Souten Kouro - 07 (1280x720) [12112170].mkv
 incomplete/Souten Kouro/[Lunar] Souten Kouro - 08 (1280x720) [5342C117].mkv
 incomplete/Souten Kouro/[Lunar] Souten Kouro - 09 (1280x720) [8ACE6834].mkv
 incomplete/Souten no Ken/[Sentosha] Souten no Ken - 01 [DVD][7CBE4115].avi
+incomplete/Squid Girl/[Underwater] Squid Girl - 01 [720p][9D71332E].mkv
 incomplete/Star Driver/[gg] Star Driver - 01 [AFEC5CCC].mkv
 incomplete/Strong World/[yibis] Strong World - 0 [DVD][49C1A026].mkv
 incomplete/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 01 (1280x720) [3E29FBE4].mkv
@@ -3169,6 +3177,7 @@ incomplete/To Heart - Remember my Memories/[ReDone] To Heart - Remember my Memor
 incomplete/To Heart - Remember my Memories/[ReDone] To Heart - Remember my Memories - 02 [DVD][18FA126A].mkv
 incomplete/To Heart - Remember my Memories/[ReDone] To Heart - Remember my Memories - 03 [DVD][16AE26CE].mkv
 incomplete/To Heart 2 adnext/[SubSmith] To Heart 2 adnext - 1 [DVD][4CA53FF4].mkv
+incomplete/Toaru Majutsu no Index II/[gg-UTW] Toaru Majutsu no Index II - 01 [A09185DD].mkv
 incomplete/Tono to Issho/[CrunchySubs] Tono to Issho - 01 [720p][09F78AD2].mkv
 incomplete/Tono to Issho/[CrunchySubs] Tono to Issho - 02 [720p][E7ECE8B8].mkv
 incomplete/Tono to Issho/[CrunchySubs] Tono to Issho - 03 [720p][7766D71A].mkv
@@ -3358,6 +3367,7 @@ incomplete/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 21 [48177B56].mkv
 incomplete/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 22 [F1EE58DC].mkv
 incomplete/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 23 [D0A404C3].mkv
 incomplete/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 24 [960F073B].mkv
+incomplete/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 25 [92FA14FC].mkv
 incomplete/Yadamon/[Live-eviL] Yadamon - 01 [572DC67A].mkv
 incomplete/Yaiba/[ASource] Yaiba - 23 [DVD][00084662].avi
 incomplete/Yawara/[F-B L-E] Yawara - 42 [599A6D25].avi
