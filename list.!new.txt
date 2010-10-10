@@ -553,25 +553,36 @@
 !new/upload/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 166. Dreams Forever! Light Throughout the Sky (v2) [A17C8F85].ogm
 !new/upload/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] Sailor Moon SuperS Plus Ami-chan no Hatsukoi R2 DVD(H264.AC3).mkv
 !new/upload/Shakugan no Shana S OVA Episode 4.mkv
+!new/upload/[ANBU]_Dragon_Quest_-_02_[0DDAC429].mkv
 !new/upload/[AniYoshi]_Asu_no_Yoichi_-_08v2_[DVD][7B822468].mkv
 !new/upload/[Ayako]_To_Aru_Majutsu_no_Index_II_-_01_[H264_1280x720][0B30EF8D].mkv
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_001_To_the_Isshu_Region!_The_Shadow_of_Zekrom!![H264_720P][EEF21420].mkv
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_002_Iris_and_Kibago![H264_720P][CB118364].mkv
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_003_Mijumaru!_Meguroco!_Close_Call!![H264_720P][896A6149].mkv
+!new/upload/[BWS]Pocket_Monsters_Best_Wishes_004_Battle_Club!_A_Mysterious_Pokemon_Appears!![H264_720P][8E715980].mkv
 !new/upload/[Coalgirls]_Occult_Academy_01_(1920x1080_Blu-ray_FLAC)_[23F6D2DB].mkv
 !new/upload/[Coalgirls]_Occult_Academy_02_(1920x1080_Blu-ray_FLAC)_[7CC4D473].mkv
 !new/upload/[Coalgirls]_Occult_Academy_NCED_(1920x1080_Blu-ray_FLAC)_[34F6B2B0].mkv
 !new/upload/[Coalgirls]_Occult_Academy_NCOP_(1920x1080_Blu-ray_FLAC)_[7B63A3C4].mkv
 !new/upload/[Coalgirls]_Occult_Academy_SP01_(1920x1080_Blu-ray_FLAC)_[B7C02673].mkv
 !new/upload/[Coalgirls]_Occult_Academy_SP01_3D_(1920x1080_Blu-ray_FLAC)_[8C3D9182].mkv
+!new/upload/[Commie] Asobi ni Ikuyo! - 09 [38F1EDDF].mkv
 !new/upload/[Commie] Shinryaku! Ika Musume - 01 [E991F163].mkv
+!new/upload/[DB]_Ninku_11_[9AB0E8AD].avi
+!new/upload/[Derp]_Legend_of_the_Legendary_Heroes_-_15_(1280x720_x264_AAC).mkv
 !new/upload/[Doremi].HeartCatch.PreCure!.34.[1280x720].[ACE9C01B].mkv
 !new/upload/[Doremi].Motto.Ojamajo.Doremi.32.[B05F3784].avi
+!new/upload/[Doutei]Golgo 13 - 48[DVD][256EE48].mkv
 !new/upload/[Force-Works] Iron Man - 01 [A66813DB].mkv
+!new/upload/[Force-Works] Iron Man - 02 [2D05AB2F].mkv
 !new/upload/[Formula]_Tales_of_Symphonia_OVA_-_Tethe'alla_Bonus_1_[CA7D8F4F].mkv
 !new/upload/[Frostii_Live-eviL]_Winter_Sonata_-_25_[92FA14FC].mkv
+!new/upload/[HorribleSubs] Lilpri - 28 [720p].mkv
 !new/upload/[HorribleSubs] Sora No Otoshimono Forte - 02 [720p].mkv
+!new/upload/[HorribleSubs] Tegami Bachi REVERSE - 27 [720p].mkv
+!new/upload/[HorribleSubs] Yumeiro Patissiere Professional - 02 [720p].mkv
 !new/upload/[KiteSeekers-PFSubs] Shin Koihime Musou - OVA [BD 720p H264 AAC] [908E6A41].mkv
+!new/upload/[Mazui]_Ore_No_Imouto_-_02_[0330E299].mkv
 !new/upload/[Nipponsei] K-ON!! Original Soundtrack Vol.2.zip
 !new/upload/[Nordkohl] Psychic Detective Yakumo - 01 [571A96B5].mkv
 !new/upload/[Nutbladder]_Arakawa_Under_the_Bridge_×2_-_01_[5ef65288].mkv
@@ -598,6 +609,7 @@
 !new/upload/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/upload/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/upload/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
+!new/upload/[PFSub]_Kiddy_Grade_Director's_Cut_Movie_2_-_MAELSTROM_[DVD_H264_AAC][97EC0256].mkv
 !new/upload/[Ryuumaru] MM! - 02 [1D61570B].mkv
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
@@ -838,6 +850,8 @@
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/upload/[Underwater] Panty & Stocking with Garterbelt - 02 [5083A74A].mkv
+!new/upload/[Underwater] Squid Girl - 01 [720p][9D71332E].mkv
 !new/upload/[gg-UTW]_A_Certain_Magical_Index_II_-_01_[A09185DD].mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
