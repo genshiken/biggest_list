@@ -552,6 +552,11 @@
 !new/upload/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 165. Time for the Crystal to Shine! Beautiful Power of Dreams (v2) [243AEA50].ogm
 !new/upload/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 166. Dreams Forever! Light Throughout the Sky (v2) [A17C8F85].ogm
 !new/upload/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] Sailor Moon SuperS Plus Ami-chan no Hatsukoi R2 DVD(H264.AC3).mkv
+!new/upload/Saiunkoku Monogatari 1st Season [completed]/[Exiled-Destiny]_The_Story_Of_Saiunkoku_Ep01v2_(2FC540DF).mkv
+!new/upload/Saiunkoku Monogatari 1st Season [completed]/[Exiled-Destiny]_The_Story_Of_Saiunkoku_Ep02v2_(4E168041).mkv
+!new/upload/Saiunkoku Monogatari 1st Season [completed]/[Exiled-Destiny]_The_Story_Of_Saiunkoku_Ep03v2_(266F361A).mkv
+!new/upload/Saiunkoku Monogatari 1st Season [completed]/[Exiled-Destiny]_The_Story_Of_Saiunkoku_Ep04v2_(79F9B767).mkv
+!new/upload/Saiunkoku Monogatari 1st Season [completed]/[Exiled-Destiny]_The_Story_Of_Saiunkoku_Ep05v2_(1E0477EB).mkv
 !new/upload/Shakugan no Shana S OVA Episode 4.mkv
 !new/upload/[AniYoshi]_Asu_no_Yoichi_-_08v2_[DVD][7B822468].mkv
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_001_To_the_Isshu_Region!_The_Shadow_of_Zekrom!![H264_720P][EEF21420].mkv
@@ -573,12 +578,15 @@
 !new/upload/[Force-Works] Iron Man - 01 [A66813DB].mkv
 !new/upload/[Force-Works] Iron Man - 02 [2D05AB2F].mkv
 !new/upload/[Formula]_Tales_of_Symphonia_OVA_-_Tethe'alla_Bonus_1_[CA7D8F4F].mkv
+!new/upload/[HorribleSubs] Hyakka Ryouran Samurai Girls - 02 [720p].mkv
 !new/upload/[HorribleSubs] Lilpri - 28 [720p].mkv
 !new/upload/[HorribleSubs] Sora No Otoshimono Forte - 02 [720p].mkv
+!new/upload/[HorribleSubs] Super Robot Taisen OG - The Inspector - 02 [720p].mkv
 !new/upload/[HorribleSubs] Tantei Opera Milky Holmes - 01 [480p].mkv
 !new/upload/[HorribleSubs] Tegami Bachi REVERSE - 27 [720p].mkv
 !new/upload/[HorribleSubs] Yumeiro Patissiere Professional - 02 [720p].mkv
 !new/upload/[KiteSeekers-PFSubs] Shin Koihime Musou - OVA [BD 720p H264 AAC] [908E6A41].mkv
+!new/upload/[Mazui]_Ore_No_Imouto_-_02v2_[8530F9DB].mkv
 !new/upload/[Nipponsei] K-ON!! Original Soundtrack Vol.2.zip
 !new/upload/[Nordkohl] Psychic Detective Yakumo - 01 [571A96B5].mkv
 !new/upload/[Nutbladder]_Arakawa_Under_the_Bridge_×2_-_01_[5ef65288].mkv
@@ -606,6 +614,7 @@
 !new/upload/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/upload/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
 !new/upload/[PFSub]_Kiddy_Grade_Director's_Cut_Movie_2_-_MAELSTROM_[DVD_H264_AAC][97EC0256].mkv
+!new/upload/[RyRo]_Inazuma_Eleven_-_102_(1280x720_x264_AAC)_[093A8E7C].mkv
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -845,6 +854,7 @@
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/upload/[gg]_Star_Driver_-_02_[5F1397A4].mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
