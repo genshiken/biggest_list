@@ -720,6 +720,7 @@
 !new/upload/[HorribleSubs] Super Robot Taisen OG - The Inspector - 02 [720p].mkv
 !new/upload/[HorribleSubs] Tantei Opera Milky Holmes - 01 [480p].mkv
 !new/upload/[HorribleSubs] Tegami Bachi REVERSE - 27 [720p].mkv
+!new/upload/[HorribleSubs] The World God Only Knows - 02 [720p].mkv
 !new/upload/[HorribleSubs] Yumeiro Patissiere Professional - 02 [720p].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_25_[BFE74BEB].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_26_[FC36855A].mkv
@@ -728,10 +729,12 @@
 !new/upload/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 19 [H264 1280x720] [D168FF73].mkv
 !new/upload/[Mango]_-_Otome_Youkai_Zakuro_-_01[AF40FCDD].mkv
 !new/upload/[Mazui]_Ore_No_Imouto_-_02v2_[8530F9DB].mkv
+!new/upload/[Nekomimi] Sora no Otoshimono - Forte - 02 [FAED2A09].mkv
 !new/upload/[Nipponsei] K-ON!! Original Soundtrack Vol.2.zip
 !new/upload/[Nordkohl] Psychic Detective Yakumo - 01 [571A96B5].mkv
 !new/upload/[Nordkohl] Psychic Detective Yakumo - 02 [4B646823].mkv
 !new/upload/[Nutbladder]_Arakawa_Under_the_Bridge_×2_-_01_[5ef65288].mkv
+!new/upload/[Nutbladder]_Arakawa_Under_the_Bridge_×2_-_02_[bd47f565].mkv
 !new/upload/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/upload/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/upload/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -757,7 +760,11 @@
 !new/upload/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
 !new/upload/[Over-Time]_Kamen_Rider_OOO_-_06_[80779814].mkv
 !new/upload/[PFSub]_Kiddy_Grade_Director's_Cut_Movie_2_-_MAELSTROM_[DVD_H264_AAC][97EC0256].mkv
+!new/upload/[ReDone] To Heart ~Remember my Memories~ 04 (DVD) [4CE0A41E].mkv
+!new/upload/[ReDone] Touka Gettan - 11 (DVD) [FCA94090].mkv
+!new/upload/[RyRo]_Digimon_Xros_Wars_-_12_(1280x720_x264_AAC)_[E9EA9CD6].mkv
 !new/upload/[RyRo]_Inazuma_Eleven_-_102_(1280x720_x264_AAC)_[093A8E7C].mkv
+!new/upload/[Ryuumaru] Hyakka Ryouran Samurai Girls - 02 [720p][956B2D3F].mkv
 !new/upload/[SS]_Fortune_Arterial_-_01_[B9350090].mkv
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
