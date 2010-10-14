@@ -685,6 +685,7 @@
 !new/upload/[Coalgirls]_Occult_Academy_SP01_3D_(1920x1080_Blu-ray_FLAC)_[8C3D9182].mkv
 !new/upload/[Commie] Asobi ni Ikuyo! - 09 [38F1EDDF].mkv
 !new/upload/[Commie] Asobi ni Ikuyo! - 10 [E1E730FD].mkv
+!new/upload/[Commie] Motto To Love-ru - 02 [048D3DB5].mkv
 !new/upload/[Commie] Seikimatsu Occult Gakuin - 12 [25CCFCB5].mkv
 !new/upload/[Commie] Seikimatsu Occult Gakuin - 13 [5C60CB6B].mkv
 !new/upload/[Commie] Shinryaku! Ika Musume - 01 [E991F163].mkv
@@ -711,6 +712,7 @@
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_26_[FC36855A].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_27_[A0C19E47].mkv
 !new/upload/[KiteSeekers-PFSubs] Shin Koihime Musou - OVA [BD 720p H264 AAC] [908E6A41].mkv
+!new/upload/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 19 [H264 1280x720] [D168FF73].mkv
 !new/upload/[Mango]_-_Otome_Youkai_Zakuro_-_01[AF40FCDD].mkv
 !new/upload/[Mazui]_Ore_No_Imouto_-_02v2_[8530F9DB].mkv
 !new/upload/[Nipponsei] K-ON!! Original Soundtrack Vol.2.zip
@@ -740,6 +742,7 @@
 !new/upload/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/upload/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/upload/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
+!new/upload/[Over-Time]_Kamen_Rider_OOO_-_06_[80779814].mkv
 !new/upload/[PFSub]_Kiddy_Grade_Director's_Cut_Movie_2_-_MAELSTROM_[DVD_H264_AAC][97EC0256].mkv
 !new/upload/[RyRo]_Inazuma_Eleven_-_102_(1280x720_x264_AAC)_[093A8E7C].mkv
 !new/upload/[SS]_Fortune_Arterial_-_01_[B9350090].mkv
@@ -1149,6 +1152,7 @@
 !new/upload/raw/natsunoarashi/[SomeBody-Raws][DVD]_Natsu_No_Arashi_-_13_RAW_(704x480_x264_Vorbis).mkv
 !new/upload/raw/natsunoarashi/[SomeBody-Raws][DVD]_Natsu_No_Arashi_-_Clear_ED_(704x480_x264_Vorbis).mkv
 !new/upload/raw/natsunoarashi/[SomeBody-Raws][DVD]_Natsu_No_Arashi_-_Clear_OP_(704x480_x264_Vorbis).mkv
+!new/upload/sd0102v2patches.7z
 !new/upload/ss/Saint Seiya TV 086.srt
 !new/upload/ss/Saint Seiya TV 087.srt
 !new/upload/ss/Saint Seiya TV 088.srt
