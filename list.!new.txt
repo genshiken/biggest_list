@@ -702,6 +702,7 @@
 !new/upload/[Commie] Seikimatsu Occult Gakuin - 12 [25CCFCB5].mkv
 !new/upload/[Commie] Seikimatsu Occult Gakuin - 13 [5C60CB6B].mkv
 !new/upload/[Commie] Shinryaku! Ika Musume - 01 [E991F163].mkv
+!new/upload/[Commie] The World God Only Knows - 02 [06923124].mkv
 !new/upload/[Derp]_Legend_of_the_Legendary_Heroes_-_15_(1280x720_x264_AAC).mkv
 !new/upload/[Doremi].HeartCatch.PreCure!.34.[1280x720].[ACE9C01B].mkv
 !new/upload/[Doremi].HeartCatch.PreCure!.35.[1280x720].[673CC862].mkv
@@ -715,6 +716,7 @@
 !new/upload/[HorribleSubs] Bleach - 292 [720p].mkv
 !new/upload/[HorribleSubs] Hyakka Ryouran Samurai Girls - 02 [720p].mkv
 !new/upload/[HorribleSubs] Lilpri - 28 [720p].mkv
+!new/upload/[HorribleSubs] Naruto Shippuuden - 181 [720p].mkv
 !new/upload/[HorribleSubs] Otome Yokai Zakuro - 02 [720p].mkv
 !new/upload/[HorribleSubs] Sora No Otoshimono Forte - 02 [720p].mkv
 !new/upload/[HorribleSubs] Super Robot Taisen OG - The Inspector - 02 [720p].mkv
@@ -727,7 +729,9 @@
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_27_[A0C19E47].mkv
 !new/upload/[KiteSeekers-PFSubs] Shin Koihime Musou - OVA [BD 720p H264 AAC] [908E6A41].mkv
 !new/upload/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 19 [H264 1280x720] [D168FF73].mkv
+!new/upload/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 20 [H264 1280x720] [F858F96E].mkv
 !new/upload/[Mango]_-_Otome_Youkai_Zakuro_-_01[AF40FCDD].mkv
+!new/upload/[Mango]_-_Otome_Youkai_Zakuro_-_02[DD1D3F7B].mkv
 !new/upload/[Mazui]_Ore_No_Imouto_-_02v2_[8530F9DB].mkv
 !new/upload/[Nekomimi] Sora no Otoshimono - Forte - 02 [FAED2A09].mkv
 !new/upload/[Nipponsei] K-ON!! Original Soundtrack Vol.2.zip
@@ -1005,8 +1009,10 @@
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/upload/[UTW]_Amagami_SS_-_15_[h264-720p][25CA12DA].mkv
 !new/upload/[uguu~]_Zoku_Sayonara_Zetsubou_Sensei_02_(DVD)_[0992BEBB].mkv
 !new/upload/[애갤러스][101013] OVA To aru Kagaku no Railgun OP Single - future gazer [fripSide] (FLAC).rar
+!new/upload/_gg__Togainu_no_Chi_-_01__DAE73FDF_.mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
