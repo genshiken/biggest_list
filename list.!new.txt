@@ -644,6 +644,9 @@
 !new/upload/Seikai no Senki I (completed)/Banner_of_the_Stars_-_12_[A-Et]_(3D4374AF).mkv
 !new/upload/Seikai no Senki I (completed)/Banner_of_the_Stars_-_13_(End)_[A-Et]_(EC754BE2).mkv
 !new/upload/Shakugan no Shana S OVA Episode 4.mkv
+!new/upload/Time_of_Eve_(2010)_[1080p,BluRay,x264]_-_THORA.md5
+!new/upload/Time_of_Eve_(2010)_[1080p,BluRay,x264]_-_THORA.mkv
+!new/upload/Time_of_Eve_(2010)_[1080p,BluRay,x264]_-_THORA.nfo
 !new/upload/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 01(x264)(8E01DFB1).mkv
 !new/upload/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 02(x264)(CFB2BE0C).mkv
 !new/upload/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 03(x264)(D4242AC3).mkv
@@ -673,6 +676,7 @@
 !new/upload/Vision of Escaflowne [completed]/(G_P) Escaflowne - Deleted Scenes (Remastered)(x264)(785154B3).mkv
 !new/upload/[AniYoshi]_Asu_no_Yoichi_-_08v2_[DVD][7B822468].mkv
 !new/upload/[AonE]_Shinrei_Tantei_Yakumo_01_[22EEDA90].mkv
+!new/upload/[Ayako]_To_Aru_Majutsu_no_Index_II_-_02_[H264_1280x720][7091546F].mkv
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_001_To_the_Isshu_Region!_The_Shadow_of_Zekrom!![H264_720P][EEF21420].mkv
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_002_Iris_and_Kibago![H264_720P][CB118364].mkv
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_003_Mijumaru!_Meguroco!_Close_Call!![H264_720P][896A6149].mkv
@@ -703,22 +707,30 @@
 !new/upload/[Commie] Seikimatsu Occult Gakuin - 13 [5C60CB6B].mkv
 !new/upload/[Commie] Shinryaku! Ika Musume - 01 [E991F163].mkv
 !new/upload/[Commie] The World God Only Knows - 02 [06923124].mkv
+!new/upload/[Derp]_Legend_of_the_Legendary_Heroes_-_15.5_(1280x720_x264_AAC).mkv
 !new/upload/[Derp]_Legend_of_the_Legendary_Heroes_-_15_(1280x720_x264_AAC).mkv
 !new/upload/[Doremi].HeartCatch.PreCure!.34.[1280x720].[ACE9C01B].mkv
 !new/upload/[Doremi].HeartCatch.PreCure!.35.[1280x720].[673CC862].mkv
 !new/upload/[Doremi].Motto.Ojamajo.Doremi.32.[B05F3784].avi
 !new/upload/[Doutei]Golgo 13 - 48[DVD][256EE48].mkv
+!new/upload/[Doutei]Needless Special 01[6CE0070F].mkv
+!new/upload/[Doutei]Needless Special 02[F31311A8].mkv
+!new/upload/[Doutei]Needless Special 03[00B4FDEA].mkv
+!new/upload/[Doutei]Needless Special 04[E0C55D32].mkv
 !new/upload/[FFFpeeps] Shinryaku! Ika Musume 02 [720p][089FC700].mkv
 !new/upload/[Force-Works] Iron Man - 01 [A66813DB].mkv
 !new/upload/[Force-Works] Iron Man - 02 [2D05AB2F].mkv
 !new/upload/[Formula]_Tales_of_Symphonia_OVA_-_Tethe'alla_Bonus_1_[CA7D8F4F].mkv
 !new/upload/[Formula]_Tales_of_Symphonia_OVA_-_Tethe'alla_Episode_3_[3B1A7724].mkv
 !new/upload/[HorribleSubs] Bleach - 292 [720p].mkv
+!new/upload/[HorribleSubs] Fortune Arterial - 02 [720p].mkv
 !new/upload/[HorribleSubs] Hyakka Ryouran Samurai Girls - 02 [720p].mkv
 !new/upload/[HorribleSubs] Lilpri - 28 [720p].mkv
 !new/upload/[HorribleSubs] Naruto Shippuuden - 181 [720p].mkv
 !new/upload/[HorribleSubs] Otome Yokai Zakuro - 02 [720p].mkv
+!new/upload/[HorribleSubs] Panty and Stocking with Garterbelt - 03 [720p].mkv
 !new/upload/[HorribleSubs] Sora No Otoshimono Forte - 02 [720p].mkv
+!new/upload/[HorribleSubs] Sora No Otoshimono Forte - 03 [720p].mkv
 !new/upload/[HorribleSubs] Super Robot Taisen OG - The Inspector - 02 [720p].mkv
 !new/upload/[HorribleSubs] Tantei Opera Milky Holmes - 01 [480p].mkv
 !new/upload/[HorribleSubs] Tegami Bachi REVERSE - 27 [720p].mkv
@@ -1010,6 +1022,7 @@
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/upload/[UTW]_Amagami_SS_-_15_[h264-720p][25CA12DA].mkv
+!new/upload/[gg]_Kuragehime_-_01_[2217A346].mkv
 !new/upload/[uguu~]_Zoku_Sayonara_Zetsubou_Sensei_02_(DVD)_[0992BEBB].mkv
 !new/upload/[애갤러스][101013] OVA To aru Kagaku no Railgun OP Single - future gazer [fripSide] (FLAC).rar
 !new/upload/_gg__Togainu_no_Chi_-_01__DAE73FDF_.mkv
