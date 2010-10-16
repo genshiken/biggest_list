@@ -12592,7 +12592,7 @@ complete/t/Touka Gettan/[ReDone] Touka Gettan - 07 [DVD][DAF31EF9].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 08 [DVD][4D75EA1A].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 09 [DVD][3B3C5637].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 10 [DVD][AF690004].mkv
-complete/t/Touka Gettan/[SRN] Touka Gettan - 11 [A6185D91].avi
+complete/t/Touka Gettan/[ReDone] Touka Gettan - 11 [DVD][FCA94090].mkv
 complete/t/Touka Gettan/[SRN] Touka Gettan - 12 [CC487E8F].avi
 complete/t/Touka Gettan/[SRN] Touka Gettan - 13 [85AA1C61].avi
 complete/t/Touka Gettan/[SRN] Touka Gettan - 14 [D798DEFF].avi
@@ -13948,8 +13948,6 @@ complete/z/Zoku Natsume Yuujinchou/[BSS] Zoku Natsume Yuujinchou - 11 [163D4F43]
 complete/z/Zoku Natsume Yuujinchou/[BSS] Zoku Natsume Yuujinchou - 12 [25F2904B].mkv
 complete/z/Zoku Natsume Yuujinchou/[BSS] Zoku Natsume Yuujinchou - 13 [End][332C7C52].mkv
 complete/z/Zoku Sayonara Zetsubou Sensei/[...] Zoku Sayonara Zetsubou Sensei - 05 (1280x720) [503D0631].mkv
-complete/z/Zoku Sayonara Zetsubou Sensei/[a.f.k.] Zoku Sayonara Zetsubou Sensei - 01 [4FB6A283].avi
-complete/z/Zoku Sayonara Zetsubou Sensei/[a.f.k.] Zoku Sayonara Zetsubou Sensei - 02 [3C3313F5].avi
 complete/z/Zoku Sayonara Zetsubou Sensei/[a.f.k.] Zoku Sayonara Zetsubou Sensei - 03 [C462A473].avi
 complete/z/Zoku Sayonara Zetsubou Sensei/[a.f.k.] Zoku Sayonara Zetsubou Sensei - 04 [F55CDB15].avi
 complete/z/Zoku Sayonara Zetsubou Sensei/[anon] Zoku Sayonara Zetsubou Sensei - 06 [EF044889].mkv
@@ -13957,6 +13955,7 @@ complete/z/Zoku Sayonara Zetsubou Sensei/[anon] Zoku Sayonara Zetsubou Sensei - 
 complete/z/Zoku Sayonara Zetsubou Sensei/[anon] Zoku Sayonara Zetsubou Sensei - 08 [D1CD64FB].avi
 complete/z/Zoku Sayonara Zetsubou Sensei/[anon] Zoku Sayonara Zetsubou Sensei - 09 [29313464].avi
 complete/z/Zoku Sayonara Zetsubou Sensei/[uguu~] Zoku Sayonara Zetsubou Sensei - 01 [DVD][767946CB].mkv
+complete/z/Zoku Sayonara Zetsubou Sensei/[uguu~] Zoku Sayonara Zetsubou Sensei - 02 [DVD][0992BEBB].mkv
 complete/z/Zoku Sayonara Zetsubou Sensei/[volans] Zoku Sayonara Zetsubou Sensei - 10 [C516C96D].mkv
 complete/z/Zoku Sayonara Zetsubou Sensei/[volans] Zoku Sayonara Zetsubou Sensei - 11 [65382D64].mkv
 complete/z/Zoku Sayonara Zetsubou Sensei/[volans] Zoku Sayonara Zetsubou Sensei - 12 [257F369B].mkv
