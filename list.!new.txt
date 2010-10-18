@@ -297,6 +297,11 @@
 !new/upload/Nyan Koi!/[Coalgirls] Nyan Koi! - 01 [1080p BD][79B75C17].mkv
 !new/upload/Nyan Koi!/[Coalgirls] Nyan Koi! - 02 [1080p BD][E1A2F838].mkv
 !new/upload/Nyan Koi!/[Coalgirls] Nyan Koi! - 03 [1080p BD][7ED33AE9].mkv
+!new/upload/Nyan Koi!/[Coalgirls] Nyan Koi! - 04 [1080p BD][3CE42105].mkv
+!new/upload/Nyan Koi!/[Coalgirls] Nyan Koi! - 05 [1080p BD][7AFFCC3A].mkv
+!new/upload/Nyan Koi!/[Coalgirls] Nyan Koi! - 06 [1080p BD][AD30EDD4].mkv
+!new/upload/Nyan Koi!/[Coalgirls] Nyan Koi! - 07 [1080p BD][1C9068A2].mkv
+!new/upload/Nyan Koi!/[Coalgirls] Nyan Koi! - 08 [1080p BD][0C8140DD].mkv
 !new/upload/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E01 'Outlaw World' [v2].mkv
 !new/upload/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E02 'World of Desires'.mkv
 !new/upload/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E03 'Into Burning Space'.mkv
@@ -706,26 +711,16 @@
 !new/upload/[Coalgirls]_Occult_Academy_SP01_3D_(1920x1080_Blu-ray_FLAC)_[8C3D9182].mkv
 !new/upload/[Commie] Asobi ni Ikuyo! - 09 [38F1EDDF].mkv
 !new/upload/[Commie] Asobi ni Ikuyo! - 10 [E1E730FD].mkv
+!new/upload/[Commie] Asobi ni Ikuyo! - 11 [83357EE4].mkv
 !new/upload/[Commie] Motto To Love-ru - 02 [048D3DB5].mkv
 !new/upload/[Commie] Seikimatsu Occult Gakuin - 12 [25CCFCB5].mkv
 !new/upload/[Commie] Seikimatsu Occult Gakuin - 13 [5C60CB6B].mkv
 !new/upload/[Commie] Shinryaku! Ika Musume - 01 [E991F163].mkv
 !new/upload/[Commie] The World God Only Knows - 02 [06923124].mkv
-!new/upload/[Derp]_Legend_of_the_Legendary_Heroes_-_15.5_(1280x720_x264_AAC).mkv
-!new/upload/[Derp]_Legend_of_the_Legendary_Heroes_-_15_(1280x720_x264_AAC).mkv
-!new/upload/[Doremi].HeartCatch.PreCure!.34.[1280x720].[ACE9C01B].mkv
-!new/upload/[Doremi].HeartCatch.PreCure!.35.[1280x720].[673CC862].mkv
-!new/upload/[Doremi].Motto.Ojamajo.Doremi.32.[B05F3784].avi
-!new/upload/[Doutei]Golgo 13 - 48[DVD][256EE48].mkv
-!new/upload/[Doutei]Needless Special 01[6CE0070F].mkv
-!new/upload/[Doutei]Needless Special 02[F31311A8].mkv
-!new/upload/[Doutei]Needless Special 03[00B4FDEA].mkv
-!new/upload/[Doutei]Needless Special 04[E0C55D32].mkv
 !new/upload/[FFFpeeps] Shinryaku! Ika Musume 02 [720p][089FC700].mkv
-!new/upload/[Force-Works] Iron Man - 01 [A66813DB].mkv
-!new/upload/[Force-Works] Iron Man - 02 [2D05AB2F].mkv
 !new/upload/[Formula]_Tales_of_Symphonia_OVA_-_Tethe'alla_Bonus_1_[CA7D8F4F].mkv
 !new/upload/[Formula]_Tales_of_Symphonia_OVA_-_Tethe'alla_Episode_3_[3B1A7724].mkv
+!new/upload/[Frostii_Live-eviL]_Winter_Sonata_-_26_[A465A438].mkv
 !new/upload/[HorribleSubs] Bleach - 292 [720p].mkv
 !new/upload/[HorribleSubs] Fortune Arterial - 02 [720p].mkv
 !new/upload/[HorribleSubs] Hyakka Ryouran Samurai Girls - 02 [720p].mkv
@@ -736,21 +731,33 @@
 !new/upload/[HorribleSubs] Sora No Otoshimono Forte - 02 [720p].mkv
 !new/upload/[HorribleSubs] Sora No Otoshimono Forte - 03 [720p].mkv
 !new/upload/[HorribleSubs] Super Robot Taisen OG - The Inspector - 02 [720p].mkv
+!new/upload/[HorribleSubs] Super Robot Taisen OG - The Inspector - 03 [720p].mkv
 !new/upload/[HorribleSubs] Tantei Opera Milky Holmes - 01 [480p].mkv
+!new/upload/[HorribleSubs] Tantei Opera Milky Holmes - 02 [480p].mkv
 !new/upload/[HorribleSubs] Tegami Bachi REVERSE - 27 [720p].mkv
+!new/upload/[HorribleSubs] Tegami Bachi REVERSE - 28 [720p].mkv
 !new/upload/[HorribleSubs] The World God Only Knows - 02 [720p].mkv
 !new/upload/[HorribleSubs] Yumeiro Patissiere Professional - 02 [720p].mkv
+!new/upload/[HorribleSubs] Yumeiro Patissiere Professional - 03 [720p].mkv
+!new/upload/[HorribleSubs] Yumeiro Patissiere Professional - 03v2 [720p].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_25_[BFE74BEB].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_26_[FC36855A].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_27_[A0C19E47].mkv
+!new/upload/[Keroro].130.[Xvid.mp3].[861143F9].avi
 !new/upload/[KiteSeekers-PFSubs] Shin Koihime Musou - OVA [BD 720p H264 AAC] [908E6A41].mkv
 !new/upload/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 19 [H264 1280x720] [D168FF73].mkv
 !new/upload/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 20 [H264 1280x720] [F858F96E].mkv
+!new/upload/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 21 [H264 1280x720] [48F2B836].mkv
 !new/upload/[Mango]_-_Otome_Youkai_Zakuro_-_01[AF40FCDD].mkv
 !new/upload/[Mango]_-_Otome_Youkai_Zakuro_-_02[DD1D3F7B].mkv
-!new/upload/[Mazui]_Ore_No_Imouto_-_02v2_[8530F9DB].mkv
 !new/upload/[Nekomimi] Sora no Otoshimono - Forte - 02 [FAED2A09].mkv
+!new/upload/[Nipponsei] Gundam 00 A wakening of the Trailblazer Insert Song Single - Mou Nani mo Kowaku nai, Kowaku wa nai [Ishikawa Chiaki].zip
+!new/upload/[Nipponsei] Highschool of the Dead Original Soundtrack.zip
 !new/upload/[Nipponsei] K-ON!! Original Soundtrack Vol.2.zip
+!new/upload/[Nipponsei] Shukufuku no Campanella Original Soundtrack.zip
+!new/upload/[Nipponsei] Star Driver OP Single - GRAVITY 0 [Aqua Timez].zip
+!new/upload/[Nipponsei] To Aru Kagaku no Railgun OVA OP Single - future gazer [fripSide].zip
+!new/upload/[Nuke]_Tamayura_-_01_[BDD25C72].mkv
 !new/upload/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/upload/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/upload/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -775,6 +782,7 @@
 !new/upload/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/upload/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
 !new/upload/[PFSub]_Kiddy_Grade_Director's_Cut_Movie_2_-_MAELSTROM_[DVD_H264_AAC][97EC0256].mkv
+!new/upload/[Saizen_&_SD]_Captain_Tsubasa_Road_to_2002_-_18_[DVD][3C54A41C].mkv
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -1014,7 +1022,8 @@
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/upload/[애갤러스][101013] OVA To aru Kagaku no Railgun OP Single - future gazer [fripSide] (FLAC).rar
+!new/upload/[TastyMelon] Black Lagoon OVA - Roberta's Blood Trail - 02 [BD][720p][CA3E3178].mkv
+!new/upload/[iSiscon]_fripSide_-_OVA_Toaru_Kagaku_no_Railgun_OP_Theme_-_future_gazer_[w_scans]_(FLAC).rar
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
