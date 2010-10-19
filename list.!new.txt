@@ -723,6 +723,7 @@
 !new/upload/[Commie] Seikimatsu Occult Gakuin - 13 [5C60CB6B].mkv
 !new/upload/[Commie] Shinryaku! Ika Musume - 01 [E991F163].mkv
 !new/upload/[Commie] The Legend of the Legendary Heroes - 13 [9036D5AA].mkv
+!new/upload/[Commie] The Legend of the Legendary Heroes - 14 [FF437897].mkv
 !new/upload/[Commie] The World God Only Knows - 02 [06923124].mkv
 !new/upload/[Doremi].Motto.Ojamajo.Doremi.33.[FE97CC37].avi
 !new/upload/[FFFpeeps] Shinryaku! Ika Musume 02 [720p][089FC700].mkv
@@ -734,9 +735,11 @@
 !new/upload/[HorribleSubs] Fairy Tail - 50 [720p].mkv
 !new/upload/[HorribleSubs] Fortune Arterial - 02 [720p].mkv
 !new/upload/[HorribleSubs] Hyakka Ryouran Samurai Girls - 02 [720p].mkv
+!new/upload/[HorribleSubs] Hyakka Ryouran Samurai Girls - 03 [720p].mkv
 !new/upload/[HorribleSubs] Lilpri - 28 [720p].mkv
 !new/upload/[HorribleSubs] Naruto Shippuuden - 181 [720p].mkv
 !new/upload/[HorribleSubs] Otome Yokai Zakuro - 02 [720p].mkv
+!new/upload/[HorribleSubs] Otome Yokai Zakuro - 03 [720p].mkv
 !new/upload/[HorribleSubs] Panty and Stocking with Garterbelt - 03 [720p].mkv
 !new/upload/[HorribleSubs] Sora No Otoshimono Forte - 02 [720p].mkv
 !new/upload/[HorribleSubs] Sora No Otoshimono Forte - 03 [720p].mkv
@@ -767,6 +770,7 @@
 !new/upload/[Nipponsei] Shukufuku no Campanella Original Soundtrack.zip
 !new/upload/[Nipponsei] Star Driver OP Single - GRAVITY 0 [Aqua Timez].zip
 !new/upload/[Nipponsei] To Aru Kagaku no Railgun OVA OP Single - future gazer [fripSide].zip
+!new/upload/[Nordkohl] Psychic Detective Yakumo - 03 [4F3D41C6].mkv
 !new/upload/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/upload/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/upload/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
