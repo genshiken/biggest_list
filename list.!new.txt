@@ -1,5 +1,6 @@
 !new/.broken/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.mkv
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
+!new/[UTW-Ryuumaru] Yosuga no Sora - 03 [720p][B4C560A7].mkv
 !new/upload/-baru87-/Himitsu.E01.720p.HDTV.x264.AAC-CHDTV.mkv000
 !new/upload/-baru87-/Himitsu.E01.720p.HDTV.x264.AAC-CHDTV.mkv001
 !new/upload/-baru87-/Iryu.S03E01.720p.HDTV.x264.AAC-CHDTV.mkv000
@@ -718,6 +719,7 @@
 !new/upload/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
 !new/upload/[AniYoshi]_Asu_no_Yoichi_-_08v2_[DVD][7B822468].mkv
 !new/upload/[AonE]_Shinrei_Tantei_Yakumo_01_[22EEDA90].mkv
+!new/upload/[AonE]_Shinrei_Tantei_Yakumo_02_[DF9F6B16].mkv
 !new/upload/[Ayako]_To_Aru_Majutsu_no_Index_II_-_02_[H264_1280x720][7091546F].mkv
 !new/upload/[BATMAN] Otome Youkai Zakuro - 01 [720p][68F5482C].mkv
 !new/upload/[BATMAN] Otome Youkai Zakuro - 02 [720p][A1DD012C].mkv
@@ -805,6 +807,7 @@
 !new/upload/[Nipponsei] Gundam 00 A wakening of the Trailblazer Insert Song Single - Mou Nani mo Kowaku nai, Kowaku wa nai [Ishikawa Chiaki].zip
 !new/upload/[Nipponsei] Highschool of the Dead Original Soundtrack.zip
 !new/upload/[Nipponsei] K-ON!! Original Soundtrack Vol.2.zip
+!new/upload/[Nipponsei] Ore no Imouto ga Konna ni Kawaii Wake ga nai OP Single - irony [ClariS].zip
 !new/upload/[Nipponsei] Shukufuku no Campanella Original Soundtrack.zip
 !new/upload/[Nipponsei] Star Driver OP Single - GRAVITY 0 [Aqua Timez].zip
 !new/upload/[Nipponsei] To Aru Kagaku no Railgun OVA OP Single - future gazer [fripSide].zip
@@ -835,6 +838,7 @@
 !new/upload/[Over-Time]_Kamen_Rider_OOO_-_07_[B53995EB].mkv
 !new/upload/[PFSub]_Kiddy_Grade_Director's_Cut_Movie_2_-_MAELSTROM_[DVD_H264_AAC][97EC0256].mkv
 !new/upload/[RyRo]_Inazuma_Eleven_-_103_(1280x720_x264_AAC)_[48D97287].mkv
+!new/upload/[SS-Eclipse] Shakugan no Shanatan Frontier (1280x720 h264) [EBAB2391].mkv
 !new/upload/[SS]_Fortune_Arterial_-_02_[855C3F17].mkv
 !new/upload/[SS]_Ore_No_Imouto_-_02_[3A56DDAC].mkv
 !new/upload/[Saizen]_Ookiku_Furikabutte_-_The_Summer_Tournament_Chapter_-_10_[8996FAB3].mkv
@@ -1078,12 +1082,12 @@
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/upload/[TastyMelon] Black Lagoon OVA - Roberta's Blood Trail - 02 [BD][720p][CA3E3178].mkv
+!new/upload/[Wasurenai] Marie & Gali - 20 [H264 1280x720] [A1931B79].mkv
 !new/upload/[Zero-Raws] Tantei Opera Milky Holmes - 02 (MX 1280x720 x264 AAC).mkv
 !new/upload/[Zero-Raws]_Tantei_Opera_Milky_Holmes_-_01_(MX_1280x720_x264_AAC).mkv
 !new/upload/[iSiscon]_ClariS_-_TV_Anime_Ore_no_Imouto_ga_Konna_ni_Kawaii_wake_ga_nai_OP_Single_-_irony_[w_scans]_(FLAC).rar
 !new/upload/[iSiscon]_fripSide_-_OVA_Toaru_Kagaku_no_Railgun_OP_Theme_-_future_gazer_[w_scans]_(FLAC).rar
 !new/upload/[pwq]_Yosuga_no_Sora_-_03_[HD]_[4E23E989].mkv
-!new/upload/[yibis]_One_Piece_Movie_10_[720p][C927DDF1].mkv
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
