@@ -349,6 +349,29 @@
 !new/upload/Highschool_of_the_Dead_Ep02_Escape_from_the_Dead_[1080p,BluRay,x264]_-_gg-THORA.mkv
 !new/upload/Highschool_of_the_Dead_Ep1-2_[1080p,BluRay,x264]_-_gg-THORA.md5
 !new/upload/Highschool_of_the_Dead_OP_[1080p,BluRay,x264]_-_gg-THORA.mkv
+!new/upload/NANA/[IY-F&Oki] NANA - 21.5 [E0EBFBDD].mkv
+!new/upload/NANA/[IY-F&Oki] NANA - 22 [B29D6430].mkv
+!new/upload/NANA/[IY-F&Oki] NANA - 23 [9BB2F6A9].mkv
+!new/upload/NANA/[IY-F&Oki] NANA - 24 [8E231949].mkv
+!new/upload/NANA/[IY-F&Oki] NANA - 25 [E4094FEC].mkv
+!new/upload/NANA/[IY-F&Oki] NANA - 27 [D645D49F].mkv
+!new/upload/NANA/[IY-F&Oki] NANA - 28 [8412331D].mkv
+!new/upload/NANA/[IY-F&Oki] NANA - 29 [8DD021C8].mkv
+!new/upload/NANA/[IY-F&Oki] NANA - 30 [CFFA8369].mkv
+!new/upload/NANA/[IY-F&Oki] NANA - 31 [0C65EC0F].mkv
+!new/upload/NANA/[IY-F&Oki] NANA - 32 [C12A1753].mkv
+!new/upload/NANA/[IY-F&Oki] NANA - 33 [D1A77D05].mkv
+!new/upload/NANA/[ureshii] NANA - 04 [656CFA6A].mkv
+!new/upload/NANA/[ureshii] NANA - 05 [v2][19CF581C].mkv
+!new/upload/NANA/[ureshii] NANA - 06 [2B9BF899].mkv
+!new/upload/NANA/[ureshii] NANA - 07 [0B6C1097].mkv
+!new/upload/NANA/[ureshii] NANA - 08 [61BFDEDA].mkv
+!new/upload/NANA/[ureshii] NANA - 09 [CF999E1F].mkv
+!new/upload/NANA/[ureshii] NANA - 10 [AF687B1C].mkv
+!new/upload/NANA/[ureshii] NANA - 11 [4E212703].mkv
+!new/upload/NANA/[ureshii] NANA - 11.5 [D444367A].mkv
+!new/upload/NANA/[ureshii] NANA - 12 [9165198B].mkv
+!new/upload/NANA/[ureshii] NANA - 13 [705A87DA].mkv
 !new/upload/Nyan Koi!/[Coalgirls] Nyan Koi! - 01 [1080p BD][79B75C17].mkv
 !new/upload/Nyan Koi!/[Coalgirls] Nyan Koi! - 02 [1080p BD][E1A2F838].mkv
 !new/upload/Nyan Koi!/[Coalgirls] Nyan Koi! - 03 [1080p BD][7ED33AE9].mkv
@@ -812,9 +835,12 @@
 !new/upload/[Commie] The World God Only Knows - 02 [06923124].mkv
 !new/upload/[Doremi].Motto.Ojamajo.Doremi.33.[FE97CC37].avi
 !new/upload/[Doremi].Strange.Dawn.01.[9027D679].mkv
+!new/upload/[Doremi].Strange.Dawn.02.[D25D7A15].mkv
 !new/upload/[Doremi].Strange.Dawn.Opening.[E1876C45].mkv
 !new/upload/[Doutei]Golgo 13 - 49[DVD][DE1A12B6].mkv
+!new/upload/[EAC] [101020] TVアニメ ストライクウィッチーズ2 エンディング・テーマ・コレクション「Over Sky」(ape+cue).rar
 !new/upload/[FFFpeeps] Shinryaku! Ika Musume 02 [720p][089FC700].mkv
+!new/upload/[FFFpeeps] Shinryaku! Ika Musume 03 [720p][6E3A0F11].mkv
 !new/upload/[Force-Works] Iron Man - 03 [9515B619].mkv
 !new/upload/[Formula]_Tales_of_Symphonia_OVA_-_Tethe'alla_Bonus_1_[CA7D8F4F].mkv
 !new/upload/[Formula]_Tales_of_Symphonia_OVA_-_Tethe'alla_Episode_3_[3B1A7724].mkv
@@ -839,6 +865,7 @@
 !new/upload/[HorribleSubs] Tegami Bachi REVERSE - 27 [720p].mkv
 !new/upload/[HorribleSubs] Tegami Bachi REVERSE - 28 [720p].mkv
 !new/upload/[HorribleSubs] The World God Only Knows - 02 [720p].mkv
+!new/upload/[HorribleSubs] The World God Only Knows - 03 [720p].mkv
 !new/upload/[HorribleSubs] Yumeiro Patissiere Professional - 02 [720p].mkv
 !new/upload/[HorribleSubs] Yumeiro Patissiere Professional - 03 [720p].mkv
 !new/upload/[HorribleSubs] Yumeiro Patissiere Professional - 03v2 [720p].mkv
@@ -859,12 +886,14 @@
 !new/upload/[Mango]_-_Otome_Youkai_Zakuro_-_02[DD1D3F7B].mkv
 !new/upload/[Mochi]_Letter_Bee_REVERSE_-_01_[720p][h264][427A29A0].mkv
 !new/upload/[Nekomimi] Sora no Otoshimono - Forte - 02 [FAED2A09].mkv
+!new/upload/[Nipponsei] Amagami SS ED4 Single - Koi wa Mizuiro [Yukana].zip
 !new/upload/[Nipponsei] Gundam 00 A wakening of the Trailblazer Insert Song Single - Mou Nani mo Kowaku nai, Kowaku wa nai [Ishikawa Chiaki].zip
 !new/upload/[Nipponsei] Highschool of the Dead Original Soundtrack.zip
 !new/upload/[Nipponsei] K-ON!! Original Soundtrack Vol.2.zip
 !new/upload/[Nipponsei] Ore no Imouto ga Konna ni Kawaii Wake ga nai OP Single - irony [ClariS].zip
 !new/upload/[Nipponsei] Shukufuku no Campanella Original Soundtrack.zip
 !new/upload/[Nipponsei] Star Driver OP Single - GRAVITY 0 [Aqua Timez].zip
+!new/upload/[Nipponsei] Strike Witches 2 ED Theme Collection - Over Sky.zip
 !new/upload/[Nipponsei] To Aru Kagaku no Railgun OVA OP Single - future gazer [fripSide].zip
 !new/upload/[Nordkohl] Psychic Detective Yakumo - 03 [4F3D41C6].mkv
 !new/upload/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
@@ -1143,6 +1172,8 @@
 !new/upload/[Zero-Raws] Tantei Opera Milky Holmes - 02 (MX 1280x720 x264 AAC).mkv
 !new/upload/[Zero-Raws]_Tantei_Opera_Milky_Holmes_-_01_(MX_1280x720_x264_AAC).mkv
 !new/upload/[iSiscon]_ClariS_-_TV_Anime_Ore_no_Imouto_ga_Konna_ni_Kawaii_wake_ga_nai_OP_Single_-_irony_[w_scans]_(FLAC).rar
+!new/upload/[iSiscon]_Nanasaki_Ai_(CV._Yukana)_-_Amagami_SS_ED_Theme_4_Nanasaki_Ai_-_Koi_ha_Mizuiro_[w_scans]_(FLAC).rar
+!new/upload/[iSiscon]_azusa_-_Amagami_SS_OP2_Single_-_Kimi_no_Mama_de_[w_scans]_(FLAC).rar
 !new/upload/[iSiscon]_fripSide_-_OVA_Toaru_Kagaku_no_Railgun_OP_Theme_-_future_gazer_[w_scans]_(FLAC).rar
 !new/upload/[pwq]_Yosuga_no_Sora_-_03_[HD]_[4E23E989].mkv
 !new/upload/[애갤러스][101020] AmagamiSS ED4 Single - Koi wa Mizuiro [Nanasaki Ai (CV.Yukana)] (FLAC).rar
