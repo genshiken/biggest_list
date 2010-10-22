@@ -807,6 +807,7 @@ incomplete/Fireball/[DATS] Fireball - 11 [DVD][74DDD03E].mkv
 incomplete/Fireball/[DATS] Fireball - 12 [DVD][7B4F27B4].mkv
 incomplete/Fireball/[DATS] Fireball - 13 [DVD][44ECEABB].mkv
 incomplete/Fortune Arterial/[SS] Fortune Arterial - 01 [B9350090].mkv
+incomplete/Fortune Arterial/[SS] Fortune Arterial - 02 [855C3F17].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 01 [DVD][B9677652].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 07 [07F8EB78].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 08 [HD][F893BFB8].mkv
@@ -1975,16 +1976,17 @@ incomplete/Mahoujin Guruguru/[A-Keep] Mahoujin Guruguru - 29 [F3515BBF].avi
 incomplete/Mahoujin Guruguru/[A-Keep] Mahoujin Guruguru - 30 [CCF9E58E].avi
 incomplete/Maiden Rose OVA/[aarinfantasy] Maiden Rose OVA - 1 [CF2A8F80].avi
 incomplete/Maple Story/[Ashes-WIW] Maple Story - 01 [5B1872E3].mkv
-incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 09.5 (1280x720) [14DEFFF1].mkv
-incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 10 (1280x720) [v2][4A1D1C25].mkv
-incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 11 (1280x720) [15B4E490].mkv
-incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 12 (1280x720) [22D5E320].mkv
-incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 13 (1280x720) [F04F4BB4].mkv
-incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 14 (1280x720) [v2][994BB917].mkv
-incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 15 (1280x720) [9BD56384].mkv
+incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 09.5 [720p][14DEFFF1].mkv
+incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 10 [720p][v2][4A1D1C25].mkv
+incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 11 [720p][15B4E490].mkv
+incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 12 [720p][22D5E320].mkv
+incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 13 [720p][F04F4BB4].mkv
+incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 14 [720p][v2][994BB917].mkv
+incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 15 [720p][9BD56384].mkv
 incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 16 [720p][771A1B03].mkv
-incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 17 (1280x720) [31A3E85C].mkv
-incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 18 (1280x720) [CBC071FB].mkv
+incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 17 [720p][31A3E85C].mkv
+incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 18 [720p][CBC071FB].mkv
+incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 20 [720p][A1931B79].mkv
 incomplete/Mermaid Melody Pichi Pichi Pitch/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 47 [DVD][74E5AD02].avi
 incomplete/Mermaid Melody Pichi Pichi Pitch/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 48 [DVD][FD3E3AAA].avi
 incomplete/Might Gaine/[Nyoro~n Subs] Might Gaine - 01 [E4BED354].mkv
@@ -2700,6 +2702,7 @@ incomplete/Ontama!/[DATS] Ontama! - 05 [70E8AC84].mkv
 incomplete/Ore no Imouto/[Mazui] Ore no Imouto - 01 [9C50F426].mkv
 incomplete/Ore no Imouto/[Mazui] Ore no Imouto - 02 [v2][8530F9DB].mkv
 incomplete/Ore no Imouto/[Mazui] Ore no Imouto - 03 [DF6F1D89].mkv
+incomplete/Ore no Imouto/[SS] Ore no Imouto - 02 [3A56DDAC].mkv
 incomplete/Otome Youkai Zakuro/[Ryuumaru] Otome Youkai Zakuro - 01 [720p][68F5482C].mkv
 incomplete/Otome Youkai Zakuro/[Ryuumaru] Otome Youkai Zakuro - 02 [720p][A1DD012C].mkv
 incomplete/Otome Youkai Zakuro/[Ryuumaru] Otome Youkai Zakuro - 03 [720p][7AB62137].mkv

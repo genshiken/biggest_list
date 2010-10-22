@@ -51,6 +51,7 @@
 !new/Soul Eater/[Arigatou] Soul Eater - 49 [B3F1D35E].mkv
 !new/Soul Eater/[Arigatou] Soul Eater - 50 [369D8541].mkv
 !new/Soul Eater/[Arigatou] Soul Eater - 51 [End][217D4C63].mkv
+!new/[UTW]_Amagami_SS_-_16_[h264-720p][47DE7355].mkv
 !new/upload/-baru87-/Himitsu.E01.720p.HDTV.x264.AAC-CHDTV.mkv000
 !new/upload/-baru87-/Himitsu.E01.720p.HDTV.x264.AAC-CHDTV.mkv001
 !new/upload/-baru87-/Iryu.S03E01.720p.HDTV.x264.AAC-CHDTV.mkv000
@@ -926,9 +927,6 @@
 !new/upload/[RyRo]_Inazuma_Eleven_-_103_(1280x720_x264_AAC)_[48D97287].mkv
 !new/upload/[SS-Eclipse] Shakugan no Shana S - 04 (1280x720 h264) [C47036F2].mkv
 !new/upload/[SS-Eclipse] Shakugan no Shanatan Frontier (1280x720 h264) [EBAB2391].mkv
-!new/upload/[SS]_Fortune_Arterial_-_02_[855C3F17].mkv
-!new/upload/[SS]_Ore_No_Imouto_-_02_[3A56DDAC].mkv
-!new/upload/[Saizen]_Ookiku_Furikabutte_-_The_Summer_Tournament_Chapter_-_10_[8996FAB3].mkv
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/upload/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -1169,7 +1167,6 @@
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/upload/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/upload/[TastyMelon] Black Lagoon OVA - Roberta's Blood Trail - 02 [BD][720p][CA3E3178].mkv
-!new/upload/[Wasurenai] Marie & Gali - 20 [H264 1280x720] [A1931B79].mkv
 !new/upload/[Zero-Raws] Tantei Opera Milky Holmes - 02 (MX 1280x720 x264 AAC).mkv
 !new/upload/[Zero-Raws]_Tantei_Opera_Milky_Holmes_-_01_(MX_1280x720_x264_AAC).mkv
 !new/upload/[iSiscon]_ClariS_-_TV_Anime_Ore_no_Imouto_ga_Konna_ni_Kawaii_wake_ga_nai_OP_Single_-_irony_[w_scans]_(FLAC).rar
