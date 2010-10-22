@@ -813,37 +813,11 @@
 !new/upload/[AonE]_Shinrei_Tantei_Yakumo_01_[22EEDA90].mkv
 !new/upload/[AonE]_Shinrei_Tantei_Yakumo_02_[DF9F6B16].mkv
 !new/upload/[Ayako]_To_Aru_Majutsu_no_Index_II_-_02_[H264_1280x720][7091546F].mkv
-!new/upload/[BATMAN] Otome Youkai Zakuro - 01 [720p][68F5482C].mkv
-!new/upload/[BATMAN] Otome Youkai Zakuro - 02 [720p][A1DD012C].mkv
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_001_To_the_Isshu_Region!_The_Shadow_of_Zekrom!![H264_720P][EEF21420].mkv
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_002_Iris_and_Kibago![H264_720P][CB118364].mkv
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_003_Mijumaru!_Meguroco!_Close_Call!![H264_720P][896A6149].mkv
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_004_Battle_Club!_A_Mysterious_Pokemon_Appears!![H264_720P][8E715980].mkv
 !new/upload/[BWS]Pocket_Monsters_Best_Wishes_005_Sanyo_Gym!_VS_Baoppu_Hiyappu_and_Yanappu!![H264_720P][6BEDA516].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_15_(960x720_Blu-Ray_FLAC)_[42B4E987].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_16_(960x720_Blu-Ray_FLAC)_[1CC4BC2F].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_17_(960x720_Blu-Ray_FLAC)_[A83948D2].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_18_(960x720_Blu-Ray_FLAC)_[5751F4FA].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_19_(960x720_Blu-Ray_FLAC)_[028E08CA].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_20_(960x720_Blu-Ray_FLAC)_[E93CA39E].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_21_(960x720_Blu-Ray_FLAC)_[CC0D52D9].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_22_(960x720_Blu-Ray_FLAC)_[ABC0CE3F].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_23_(960x720_Blu-Ray_FLAC)_[D24BC4FD].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_32_(960x720_Blu-Ray_FLAC)_[A2D5470A].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_33_(960x720_Blu-Ray_FLAC)_[7BC856CB].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_34_(960x720_Blu-Ray_FLAC)_[EDF7ECDD].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_35_(960x720_Blu-Ray_FLAC)_[944A472C].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_36_(960x720_Blu-Ray_FLAC)_[8055B25A].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_37_(960x720_Blu-Ray_FLAC)_[BE9B0F90].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_38_(960x720_Blu-Ray_FLAC)_[9E71E8C2].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_39_(960x720_Blu-Ray_FLAC)_[A63BAAFD].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_40_(960x720_Blu-Ray_FLAC)_[5C060CF6].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_41_(960x720_Blu-Ray_FLAC)_[8BAB4667].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_42_(960x720_Blu-Ray_FLAC)_[91F984AC].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_43_(960x720_Blu-Ray_FLAC)_[9F213AA7].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_44_(960x720_Blu-Ray_FLAC)_[70C51F28].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_45_(960x720_Blu-Ray_FLAC)_[B8B9AD4D].mkv
-!new/upload/[Coalgirls]_Cardcaptor_Sakura_46_(960x720_Blu-Ray_FLAC)_[1D28A9B5].mkv
 !new/upload/[Coalgirls]_Occult_Academy_01_(1920x1080_Blu-ray_FLAC)_[23F6D2DB].mkv
 !new/upload/[Coalgirls]_Occult_Academy_02_(1920x1080_Blu-ray_FLAC)_[7CC4D473].mkv
 !new/upload/[Coalgirls]_Occult_Academy_NCED_(1920x1080_Blu-ray_FLAC)_[34F6B2B0].mkv
@@ -876,31 +850,25 @@
 !new/upload/[Formula]_Tales_of_Symphonia_OVA_-_Tethe'alla_Bonus_1_[CA7D8F4F].mkv
 !new/upload/[Formula]_Tales_of_Symphonia_OVA_-_Tethe'alla_Episode_3_[3B1A7724].mkv
 !new/upload/[Frostii_Live-eviL]_Winter_Sonata_-_26_[A465A438].mkv
-!new/upload/[HorribleSubs] Bleach - 292 [720p].mkv
-!new/upload/[HorribleSubs] Bleach - 293 [720p].mkv
-!new/upload/[HorribleSubs] Fairy Tail - 50 [720p].mkv
-!new/upload/[HorribleSubs] Fortune Arterial - 02 [720p].mkv
-!new/upload/[HorribleSubs] Hyakka Ryouran Samurai Girls - 02 [720p].mkv
-!new/upload/[HorribleSubs] Hyakka Ryouran Samurai Girls - 03 [720p].mkv
-!new/upload/[HorribleSubs] Lilpri - 28 [720p].mkv
-!new/upload/[HorribleSubs] Naruto Shippuuden - 181 [720p].mkv
-!new/upload/[HorribleSubs] Naruto Shippuuden - 182 [720p].mkv
-!new/upload/[HorribleSubs] Otome Yokai Zakuro - 02 [720p].mkv
-!new/upload/[HorribleSubs] Otome Yokai Zakuro - 03 [720p].mkv
-!new/upload/[HorribleSubs] Panty and Stocking with Garterbelt - 03 [720p].mkv
-!new/upload/[HorribleSubs] Sora No Otoshimono Forte - 02 [720p].mkv
-!new/upload/[HorribleSubs] Sora No Otoshimono Forte - 03 [720p].mkv
-!new/upload/[HorribleSubs] Super Robot Taisen OG - The Inspector - 02 [720p].mkv
-!new/upload/[HorribleSubs] Super Robot Taisen OG - The Inspector - 03 [720p].mkv
-!new/upload/[HorribleSubs] Tantei Opera Milky Holmes - 01 [480p].mkv
-!new/upload/[HorribleSubs] Tantei Opera Milky Holmes - 02 [480p].mkv
-!new/upload/[HorribleSubs] Tegami Bachi REVERSE - 27 [720p].mkv
-!new/upload/[HorribleSubs] Tegami Bachi REVERSE - 28 [720p].mkv
-!new/upload/[HorribleSubs] The World God Only Knows - 02 [720p].mkv
-!new/upload/[HorribleSubs] The World God Only Knows - 03 [720p].mkv
-!new/upload/[HorribleSubs] Yumeiro Patissiere Professional - 02 [720p].mkv
-!new/upload/[HorribleSubs] Yumeiro Patissiere Professional - 03 [720p].mkv
-!new/upload/[HorribleSubs] Yumeiro Patissiere Professional - 03v2 [720p].mkv
+!new/upload/[HorribleSubs] Fairy Tail - 50 [720p][A2E7A2BA].mkv
+!new/upload/[HorribleSubs] Fortune Arterial - 02 [720p][E591615F].mkv
+!new/upload/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 28 [720p][7A65AEC4].mkv
+!new/upload/[HorribleSubs] Hyakka Ryouran Samurai Girls - 02 [720p][39E7305B].mkv
+!new/upload/[HorribleSubs] Hyakka Ryouran Samurai Girls - 03 [720p][4B77AD21].mkv
+!new/upload/[HorribleSubs] Panty and Stocking with Garterbelt - 03 [720p][68950EEF].mkv
+!new/upload/[HorribleSubs] Sora No Otoshimono Forte - 02 [720p][296FF30E].mkv
+!new/upload/[HorribleSubs] Sora No Otoshimono Forte - 03 [720p][9B754405].mkv
+!new/upload/[HorribleSubs] Super Robot Taisen OG - The Inspector - 02 [720p][2BB50ED0].mkv
+!new/upload/[HorribleSubs] Super Robot Taisen OG - The Inspector - 03 [720p][92DFA225].mkv
+!new/upload/[HorribleSubs] Tantei Opera Milky Holmes - 01 [480p][4E61A419].mkv
+!new/upload/[HorribleSubs] Tantei Opera Milky Holmes - 02 [480p][C9B0C2A6].mkv
+!new/upload/[HorribleSubs] Tegami Bachi Reverse - 27 [720p][CE321DC2].mkv
+!new/upload/[HorribleSubs] Tegami Bachi Reverse - 28 [720p][4BBB549D].mkv
+!new/upload/[HorribleSubs] The World God Only Knows - 02 [720p][421152EB].mkv
+!new/upload/[HorribleSubs] The World God Only Knows - 03 [720p][2503F305].mkv
+!new/upload/[HorribleSubs] Yumeiro Patissiere Professional - 02 [720p][347CB064].mkv
+!new/upload/[HorribleSubs] Yumeiro Patissiere Professional - 03 [720p][294E5390].mkv
+!new/upload/[HorribleSubs] Yumeiro Patissiere Professional - 03 [v2 720p][19D0A2D0].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_25_[BFE74BEB].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_26_[FC36855A].mkv
 !new/upload/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_27_[A0C19E47].mkv
@@ -956,7 +924,6 @@
 !new/upload/[PFSub]_Kiddy_Grade_Director's_Cut_Movie_2_-_MAELSTROM_[DVD_H264_AAC][97EC0256].mkv
 !new/upload/[RyRo]_Digimon_Xros_Wars_-_13_(1280x720_x264_AAC)_[4C6C9059].mkv
 !new/upload/[RyRo]_Inazuma_Eleven_-_103_(1280x720_x264_AAC)_[48D97287].mkv
-!new/upload/[Ryuumaru] Otome Youkai Zakuro - 03 [720p][7AB62137].mkv
 !new/upload/[SS-Eclipse] Shakugan no Shana S - 04 (1280x720 h264) [C47036F2].mkv
 !new/upload/[SS-Eclipse] Shakugan no Shanatan Frontier (1280x720 h264) [EBAB2391].mkv
 !new/upload/[SS]_Fortune_Arterial_-_02_[855C3F17].mkv
@@ -1209,7 +1176,6 @@
 !new/upload/[iSiscon]_Nanasaki_Ai_(CV._Yukana)_-_Amagami_SS_ED_Theme_4_Nanasaki_Ai_-_Koi_ha_Mizuiro_[w_scans]_(FLAC).rar
 !new/upload/[iSiscon]_azusa_-_Amagami_SS_OP2_Single_-_Kimi_no_Mama_de_[w_scans]_(FLAC).rar
 !new/upload/[iSiscon]_fripSide_-_OVA_Toaru_Kagaku_no_Railgun_OP_Theme_-_future_gazer_[w_scans]_(FLAC).rar
-!new/upload/[pwq]_Yosuga_no_Sora_-_03_[HD]_[4E23E989].mkv
 !new/upload/[애갤러스][101020] AmagamiSS ED4 Single - Koi wa Mizuiro [Nanasaki Ai (CV.Yukana)] (FLAC).rar
 !new/upload/[애갤러스][101020] AmagamiSS OP2 Single - Kimi no Mama de [azusa] (FLAC).rar
 !new/upload/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3

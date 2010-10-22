@@ -319,6 +319,8 @@ incomplete/Bleach/[HorribleSubs] Bleach - 288 [720p][F31FB131].mkv
 incomplete/Bleach/[HorribleSubs] Bleach - 289 [720p][435792F6].mkv
 incomplete/Bleach/[HorribleSubs] Bleach - 290 [720p][FE4DC749].mkv
 incomplete/Bleach/[HorribleSubs] Bleach - 291 [720p][04F93D99].mkv
+incomplete/Bleach/[HorribleSubs] Bleach - 292 [720p][F90DE51F].mkv
+incomplete/Bleach/[HorribleSubs] Bleach - 293 [720p][61314418].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 01 [AFCE3665].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 02 [A90F670C].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 03 [A47F2053].mkv
@@ -394,6 +396,15 @@ incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 11 [720p BD][F82FA6
 incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 12 [720p BD][14599409].mkv
 incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 13 [720p BD][C89575F7].mkv
 incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 14 [720p BD][A410F212].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 15 [720p BD][42B4E987].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 16 [720p BD][1CC4BC2F].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 17 [720p BD][A83948D2].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 18 [720p BD][5751F4FA].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 19 [720p BD][028E08CA].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 20 [720p BD][E93CA39E].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 21 [720p BD][CC0D52D9].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 22 [720p BD][ABC0CE3F].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 23 [720p BD][D24BC4FD].mkv
 incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 24 [720p BD][3296F035].mkv
 incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 25 [720p BD][6D99B97C].mkv
 incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 26 [720p BD][EFE19AF6].mkv
@@ -402,6 +413,21 @@ incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 28 [720p BD][7864D5
 incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 29 [720p BD][B4E0E64E].mkv
 incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 30 [720p BD][EF144922].mkv
 incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 31 [720p BD][9EE89525].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 32 [720p BD][A2D5470A].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 33 [720p BD][7BC856CB].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 34 [720p BD][EDF7ECDD].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 35 [720p BD][944A472C].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 36 [720p BD][8055B25A].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 37 [720p BD][BE9B0F90].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 38 [720p BD][9E71E8C2].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 39 [720p BD][A63BAAFD].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 40 [720p BD][5C060CF6].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 41 [720p BD][8BAB4667].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 42 [720p BD][91F984AC].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 43 [720p BD][9F213AA7].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 44 [720p BD][70C51F28].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 45 [720p BD][B8B9AD4D].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 46 [720p BD][1D28A9B5].mkv
 incomplete/Charady's Daily Joke/[Frostii] Charady's Daily Joke - 001 [9A01F816].mkv
 incomplete/Charady's Daily Joke/[Frostii] Charady's Daily Joke - 002 [C4BE955C].mkv
 incomplete/Charady's Daily Joke/[Frostii] Charady's Daily Joke - 003 [2CC4B9A5].mkv
@@ -2090,6 +2116,8 @@ incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 177 [v2 720p][48
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 178 [720p][34A2825D].mkv
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 179 [720p][D0DE2186].mkv
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 180 [720p][BE8DEB19].mkv
+incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 181 [720p][538DB756].mkv
+incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 182 [720p][66BD15F8].mkv
 incomplete/Naruto/[AonE] Naruto - 158 [336D6158].avi
 incomplete/Naruto/[DB] Naruto - 135 [72843002].avi
 incomplete/Naruto/[DB] Naruto - 136 [EE9A3057].avi
@@ -2672,7 +2700,9 @@ incomplete/Ontama!/[DATS] Ontama! - 05 [70E8AC84].mkv
 incomplete/Ore no Imouto/[Mazui] Ore no Imouto - 01 [9C50F426].mkv
 incomplete/Ore no Imouto/[Mazui] Ore no Imouto - 02 [v2][8530F9DB].mkv
 incomplete/Ore no Imouto/[Mazui] Ore no Imouto - 03 [DF6F1D89].mkv
-incomplete/Otome Youkai Zakuro/[HorribleSubs] Otome Yokai Zakuro - 01 [720p][4B3907CD].mkv
+incomplete/Otome Youkai Zakuro/[Ryuumaru] Otome Youkai Zakuro - 01 [720p][68F5482C].mkv
+incomplete/Otome Youkai Zakuro/[Ryuumaru] Otome Youkai Zakuro - 02 [720p][A1DD012C].mkv
+incomplete/Otome Youkai Zakuro/[Ryuumaru] Otome Youkai Zakuro - 03 [720p][7AB62137].mkv
 incomplete/Panty & Stocking with Garterbelt/[Underwater] Panty & Stocking with Garterbelt - 01 [B0D1F9CF].mkv
 incomplete/Panty & Stocking with Garterbelt/[Underwater] Panty & Stocking with Garterbelt - 02 [5083A74A].mkv
 incomplete/Panty & Stocking with Garterbelt/[Underwater] Panty & Stocking with Garterbelt - 03 [5D37F9BB].mkv
