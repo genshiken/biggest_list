@@ -804,16 +804,24 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Omake OVA [nnl].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (arranged) [nnl+b-f].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
+!new/[Commie] Asobi ni Ikuyo! - 12 [0233AB35].mkv
+!new/[DB]_Hakuouki_00_Season_1_Review_[3F5A04B4].avi
 !new/[DB]_Hakuouki_00_Season_1_Review_[9A9F28F9].avi
 !new/[DB]_Hakuouki_13_[53DBE970].avi
+!new/[DB]_Ninku_13_[B2EC0849].avi
 !new/[Doremi].Motto.Ojamajo.Doremi.33.[FE97CC37].avi
 !new/[EAC] [101020] TVアニメ ストライクウィッチーズ2 エンディング・テーマ・コレクション「Over Sky」(ape+cue).rar
+!new/[HorribleSubs] Fairy Tail - 49 [720p].mkv
+!new/[HorribleSubs] Lilpri - 30 [720p].mkv
+!new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 04 [720p].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_01v2.DVD(H264_AAC)[KAA-Mokkori][632E59F2].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_02.DVD(H264_AAC)[KAA-Mokkori][4230EED1].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_03.DVD(H264_AAC)[KAA-Mokkori][58536D54].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_04v2.DVD(H264_AAC)[KAA-Mokkori)[179C6CDA].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_05v3.DVD(H264_AAC)[KAA-Mokkori][F061776F].mkv
 !new/[Keroro].130.[Xvid.mp3].[861143F9].avi
+!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 01 [1280x720 H264 OGG] [A78849F8].mkv
+!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 02 [1280x720 H264 OGG] [4F879F91].mkv
 !new/[Nipponsei] Amagami SS ED4 Single - Koi wa Mizuiro [Yukana].zip
 !new/[Nipponsei] Gundam 00 A wakening of the Trailblazer Insert Song Single - Mou Nani mo Kowaku nai, Kowaku wa nai [Ishikawa Chiaki].zip
 !new/[Nipponsei] Highschool of the Dead Original Soundtrack.zip
@@ -848,6 +856,7 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
+!new/[RyRo]_Inazuma_Eleven_-_104_(1280x720_x264_AAC)_[35D85CAE].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -1087,6 +1096,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[Underwater] Shinryaku! Ika Musume - 03 [720p][ED68F495].mkv
 !new/[Zero-Raws] Tantei Opera Milky Holmes - 02 (MX 1280x720 x264 AAC).mkv
 !new/[Zero-Raws]_Tantei_Opera_Milky_Holmes_-_01_(MX_1280x720_x264_AAC).mkv
 !new/[iSiscon]_ClariS_-_TV_Anime_Ore_no_Imouto_ga_Konna_ni_Kawaii_wake_ga_nai_OP_Single_-_irony_[w_scans]_(FLAC).rar
@@ -1099,6 +1109,8 @@
 !new/[iSiscon]_sphere_-_Otome_Youkai_Zakuro_OP_Single_-_MOON_SIGNAL_[w_scans]_(FLAC).rar
 !new/[애갤러스][101020] AmagamiSS ED4 Single - Koi wa Mizuiro [Nanasaki Ai (CV.Yukana)] (FLAC).rar
 !new/[애갤러스][101020] AmagamiSS OP2 Single - Kimi no Mama de [azusa] (FLAC).rar
+!new/[애갤러스][101027] Fortune Arterial OP Single - -kizunairo- [Lia] (320k).rar
+!new/[애갤러스][101027] Yosuga no Sora OP Single - Hiyoku no Hane [eufonius] (320k).rar
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -1579,3 +1591,4 @@
 !new/ss/[all4seiya][galaxy][SAINT_SEIYA][TV112][DVDRIP][XVID_MP3][JP_CH].mkv
 !new/ss/[all4seiya][galaxy][SAINT_SEIYA][TV113][DVDRIP][XVID_MP3][JP_CH].mkv
 !new/ss/[all4seiya][galaxy][SAINT_SEIYA][TV114][DVDRIP][XVID_MP3][JP_CH].mkv
+!new/the_place_promised_in_our_early_days[1904x1072.h264.flac][niizk].mkv
