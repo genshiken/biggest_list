@@ -804,12 +804,16 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Omake OVA [nnl].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (arranged) [nnl+b-f].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
+!new/[Anonymous]Hidamari Sketch Hoshimittsu Specials [1 of 2](BS-TBS x264 AAC 1280x720).mkv
 !new/[Commie] Asobi ni Ikuyo! - 12 [0233AB35].mkv
+!new/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_08_[ac807f22].avi
 !new/[DB]_Hakuouki_00_Season_1_Review_[3F5A04B4].avi
 !new/[DB]_Hakuouki_00_Season_1_Review_[9A9F28F9].avi
 !new/[DB]_Hakuouki_13_[53DBE970].avi
 !new/[DB]_Ninku_13_[B2EC0849].avi
+!new/[Doremi].HeartCatch.PreCure!.37.[1280x720].[78B49B10].mkv
 !new/[Doremi].Motto.Ojamajo.Doremi.33.[FE97CC37].avi
+!new/[Doremi].Strange.Dawn.07.[3000016E].mkv
 !new/[EAC] [101020] TVアニメ ストライクウィッチーズ2 エンディング・テーマ・コレクション「Over Sky」(ape+cue).rar
 !new/[HorribleSubs] Fairy Tail - 49 [720p].mkv
 !new/[HorribleSubs] Lilpri - 30 [720p].mkv
@@ -822,6 +826,8 @@
 !new/[Keroro].130.[Xvid.mp3].[861143F9].avi
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 01 [1280x720 H264 OGG] [A78849F8].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 02 [1280x720 H264 OGG] [4F879F91].mkv
+!new/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 22 [H264 1280x720] [7716DF35].mkv
+!new/[Mazui]_Ore_No_Imouto_-_04_[73464065].mkv
 !new/[Nipponsei] Amagami SS ED4 Single - Koi wa Mizuiro [Yukana].zip
 !new/[Nipponsei] Gundam 00 A wakening of the Trailblazer Insert Song Single - Mou Nani mo Kowaku nai, Kowaku wa nai [Ishikawa Chiaki].zip
 !new/[Nipponsei] Highschool of the Dead Original Soundtrack.zip
@@ -859,6 +865,8 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
 !new/[RyRo]_Inazuma_Eleven_-_104_(1280x720_x264_AAC)_[35D85CAE].mkv
+!new/[SubDesu] Seikon no Qwaser 10.5(OVA)- Portrait of the Empress[480p][ECA19143].mkv
+!new/[SubSmith] ToHeart2 adnext OVA 01 - First Name [BD 720p][99CB3EDD].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -1101,7 +1109,10 @@
 !new/[Underwater] Shinryaku! Ika Musume - 03 [720p][ED68F495].mkv
 !new/[Zero-Raws] Tantei Opera Milky Holmes - 02 (MX 1280x720 x264 AAC).mkv
 !new/[Zero-Raws]_Tantei_Opera_Milky_Holmes_-_01_(MX_1280x720_x264_AAC).mkv
+!new/[gg]_Bakuman_-_03_[69202E08].mkv
+!new/[gg]_Bakuman_-_04_[1E33937E].mkv
 !new/[gg]_Star_Driver_-_04_[891F361E].mkv
+!new/[gg]_Togainu_no_Chi_-_03_[4C9CDA20].mkv
 !new/[iSiscon]_ClariS_-_TV_Anime_Ore_no_Imouto_ga_Konna_ni_Kawaii_wake_ga_nai_OP_Single_-_irony_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Faylan_-_Polaris_[w_scans]_(FLAC).rar
 !new/[iSiscon]_HO-KAGO_TEA_TIME_-_K-ON!!_HO-KAGO_TEA_TIME_Second_[w_scans]_(MP3).rar
