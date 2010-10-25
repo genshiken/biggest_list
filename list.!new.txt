@@ -810,6 +810,7 @@
 !new/[DB]_Hakuouki_00_Season_1_Review_[3F5A04B4].avi
 !new/[DB]_Hakuouki_00_Season_1_Review_[9A9F28F9].avi
 !new/[DB]_Hakuouki_13_[53DBE970].avi
+!new/[DB]_Hakuouki_14_[382B9335].avi
 !new/[DB]_Ninku_13_[B2EC0849].avi
 !new/[Doremi].HeartCatch.PreCure!.37.[1280x720].[78B49B10].mkv
 !new/[Doremi].Motto.Ojamajo.Doremi.33.[FE97CC37].avi
@@ -841,6 +842,7 @@
 !new/[Nipponsei] Star Driver OP Single - GRAVITY 0 [Aqua Timez].zip
 !new/[Nipponsei] Strike Witches 2 ED Theme Collection - Over Sky.zip
 !new/[Nipponsei] To Aru Kagaku no Railgun OVA OP Single - future gazer [fripSide].zip
+!new/[Nordkohl] Psychic Detective Yakumo - 04 [535211AF].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -864,6 +866,7 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
+!new/[Over-Time]_Kamen_Rider_OOO_-_08_[2727A014].mkv
 !new/[RyRo]_Inazuma_Eleven_-_104_(1280x720_x264_AAC)_[35D85CAE].mkv
 !new/[SubDesu] Seikon no Qwaser 10.5(OVA)- Portrait of the Empress[480p][ECA19143].mkv
 !new/[SubSmith] ToHeart2 adnext OVA 01 - First Name [BD 720p][99CB3EDD].mkv
@@ -1322,9 +1325,9 @@
 !new/cek/hs/[HorribleSubs] Panty and Stocking with Garterbelt - 04 [720p].mkv
 !new/cek/hs/[HorribleSubs] Tantei Opera Milky Holmes - 01 [480p][4E61A419].mkv
 !new/cek/hs/[HorribleSubs] Tantei Opera Milky Holmes - 02 [480p][C9B0C2A6].mkv
-!new/cek/hs/[HorribleSubs] Tegami Bachi REVERSE - 29 [720p].mkv
 !new/cek/hs/[HorribleSubs] Tegami Bachi Reverse - 27 [720p][CE321DC2].mkv
 !new/cek/hs/[HorribleSubs] Tegami Bachi Reverse - 28 [720p][4BBB549D].mkv
+!new/cek/hs/[HorribleSubs] Tegami Bachi Reverse - 29 [720p].mkv
 !new/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/lama/[Ayako] Weiﬂ Survive R - 01 - H264 - E975A989.mkv
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
