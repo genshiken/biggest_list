@@ -293,6 +293,7 @@
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - 591 [DCTP][720p][18332712].mp4
 !new/Highschool_of_the_Dead_Ep1-2_[1080p,BluRay,x264]_-_gg-THORA.md5
 !new/NANA/[IY-F&Oki] NANA - 21.5 [E0EBFBDD].mkv
 !new/NANA/[IY-F&Oki] NANA - 22 [B29D6430].mkv
@@ -813,6 +814,7 @@
 !new/[DB]_Hakuouki_13_[53DBE970].avi
 !new/[DB]_Hakuouki_14_[382B9335].avi
 !new/[DB]_Ninku_13_[B2EC0849].avi
+!new/[Derp]_Legend_of_the_Legendary_Heroes_-_16_(1280x720_x264_AAC).mkv
 !new/[Doremi].HeartCatch.PreCure!.37.[1280x720].[78B49B10].mkv
 !new/[Doremi].Motto.Ojamajo.Doremi.33.[FE97CC37].avi
 !new/[Doremi].Strange.Dawn.07.[3000016E].mkv
@@ -820,6 +822,7 @@
 !new/[HorribleSubs] Fairy Tail - 49 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 51 [720p].mkv
 !new/[HorribleSubs] Lilpri - 30 [720p].mkv
+!new/[HorribleSubs] Otome Yokai Zakuro - 04 [720p].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 04 [720p].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_01v2.DVD(H264_AAC)[KAA-Mokkori][632E59F2].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_02.DVD(H264_AAC)[KAA-Mokkori][4230EED1].mkv
@@ -1111,6 +1114,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[UTW-Ryuumaru] Yosuga no Sora - 04 [720p][1C9B8E9E].mkv
 !new/[Underwater] Shinryaku! Ika Musume - 03 [720p][ED68F495].mkv
 !new/[Zero-Raws] Tantei Opera Milky Holmes - 02 (MX 1280x720 x264 AAC).mkv
 !new/[Zero-Raws]_Tantei_Opera_Milky_Holmes_-_01_(MX_1280x720_x264_AAC).mkv
@@ -1128,6 +1132,7 @@
 !new/[iSiscon]_azusa_-_Amagami_SS_OP2_Single_-_Kimi_no_Mama_de_[w_scans]_(FLAC).rar
 !new/[iSiscon]_fripSide_-_OVA_Toaru_Kagaku_no_Railgun_OP_Theme_-_future_gazer_[w_scans]_(FLAC).rar
 !new/[iSiscon]_sphere_-_Otome_Youkai_Zakuro_OP_Single_-_MOON_SIGNAL_[w_scans]_(FLAC).rar
+!new/[mSubs]_Jewel_Pet_-_01_(720p)(AA1D364B).mkv
 !new/[애갤러스][101020] AmagamiSS ED4 Single - Koi wa Mizuiro [Nanasaki Ai (CV.Yukana)] (FLAC).rar
 !new/[애갤러스][101020] AmagamiSS OP2 Single - Kimi no Mama de [azusa] (FLAC).rar
 !new/[애갤러스][101027] Fortune Arterial OP Single - -kizunairo- [Lia] (320k).rar
@@ -1233,104 +1238,19 @@
 !new/bla/zx.black.heaven.12.sub.rar
 !new/bla/zx.black.heaven.13.dub.avi
 !new/bla/zx.black.heaven.13.sub.rar
-!new/cek/Beyond_the_clouds_the_promised_place_(2004)_[1080p,BluRay,x264]_-_THORA.mkv
-!new/cek/Highschool_of_the_Dead_Ep01_Spring_of_the_Dead_[1080p,BluRay,x264]_-_gg-THORA.mkv
-!new/cek/Highschool_of_the_Dead_Ep02_Escape_from_the_Dead_[1080p,BluRay,x264]_-_gg-THORA.mkv
-!new/cek/Highschool_of_the_Dead_OP_[1080p,BluRay,x264]_-_gg-THORA.mkv
-!new/cek/[AniYoshi]_Asu_no_Yoichi_-_08v2_[DVD][7B822468].mkv
-!new/cek/[AonE]_Shinrei_Tantei_Yakumo_01_[22EEDA90].mkv
-!new/cek/[AonE]_Shinrei_Tantei_Yakumo_02_[DF9F6B16].mkv
-!new/cek/[Ayako]_To_Aru_Majutsu_no_Index_II_-_02_[H264_1280x720][7091546F].mkv
-!new/cek/[BWS]Pocket_Monsters_Best_Wishes_001_To_the_Isshu_Region!_The_Shadow_of_Zekrom!![H264_720P][EEF21420].mkv
-!new/cek/[BWS]Pocket_Monsters_Best_Wishes_002_Iris_and_Kibago![H264_720P][CB118364].mkv
-!new/cek/[BWS]Pocket_Monsters_Best_Wishes_003_Mijumaru!_Meguroco!_Close_Call!![H264_720P][896A6149].mkv
-!new/cek/[BWS]Pocket_Monsters_Best_Wishes_004_Battle_Club!_A_Mysterious_Pokemon_Appears!![H264_720P][8E715980].mkv
-!new/cek/[BWS]Pocket_Monsters_Best_Wishes_005_Sanyo_Gym!_VS_Baoppu_Hiyappu_and_Yanappu!![H264_720P][6BEDA516].mkv
-!new/cek/[Coalgirls]_Cardcaptor_Sakura_Movie_(656x464_DVD_AC3)_[53FD907C].mkv
-!new/cek/[Coalgirls]_Occult_Academy_01_(1920x1080_Blu-ray_FLAC)_[23F6D2DB].mkv
-!new/cek/[Coalgirls]_Occult_Academy_02_(1920x1080_Blu-ray_FLAC)_[7CC4D473].mkv
-!new/cek/[Coalgirls]_Occult_Academy_NCED_(1920x1080_Blu-ray_FLAC)_[34F6B2B0].mkv
-!new/cek/[Coalgirls]_Occult_Academy_NCOP_(1920x1080_Blu-ray_FLAC)_[7B63A3C4].mkv
-!new/cek/[Coalgirls]_Occult_Academy_SP01_(1920x1080_Blu-ray_FLAC)_[B7C02673].mkv
-!new/cek/[Coalgirls]_Occult_Academy_SP01_3D_(1920x1080_Blu-ray_FLAC)_[8C3D9182].mkv
-!new/cek/[Commie] Asobi ni Ikuyo! - 09 [38F1EDDF].mkv
-!new/cek/[Commie] Asobi ni Ikuyo! - 10 [E1E730FD].mkv
-!new/cek/[Commie] Asobi ni Ikuyo! - 11 [83357EE4].mkv
-!new/cek/[Commie] Motto To Love-ru - 02 [048D3DB5].mkv
-!new/cek/[Commie] Motto To Love-ru - 03 [A2720A26].mkv
-!new/cek/[Commie] Nurarihyon no Mago - 09v2 [3E7043B5].mkv
-!new/cek/[Commie] Seikimatsu Occult Gakuin - 12 [25CCFCB5].mkv
-!new/cek/[Commie] Seikimatsu Occult Gakuin - 13 [5C60CB6B].mkv
-!new/cek/[Commie] Shinryaku! Ika Musume - 01 [E991F163].mkv
-!new/cek/[Commie] The Legend of the Legendary Heroes - 13 [9036D5AA].mkv
-!new/cek/[Commie] The Legend of the Legendary Heroes - 14 [FF437897].mkv
-!new/cek/[Commie] The World God Only Knows - 02 [06923124].mkv
-!new/cek/[Commie] The World God Only Knows - 03 [C68B0DFE].mkv
-!new/cek/[Doremi].Strange.Dawn.01.[9027D679].mkv
-!new/cek/[Doremi].Strange.Dawn.02.[D25D7A15].mkv
-!new/cek/[Doremi].Strange.Dawn.03.[32D79062].mkv
-!new/cek/[Doremi].Strange.Dawn.04.[EB82DDF4].mkv
-!new/cek/[Doremi].Strange.Dawn.05.[A6FDD109].mkv
-!new/cek/[Doremi].Strange.Dawn.06.[1B2D983D].mkv
-!new/cek/[Doremi].Strange.Dawn.Opening.[E1876C45].mkv
-!new/cek/[Doutei]Golgo 13 - 49[DVD][DE1A12B6].mkv
-!new/cek/[FFFpeeps] Shinryaku! Ika Musume 02 [720p][089FC700].mkv
-!new/cek/[FFFpeeps] Shinryaku! Ika Musume 03 [720p][6E3A0F11].mkv
-!new/cek/[Force-Works] Iron Man - 03 [9515B619].mkv
-!new/cek/[Formula]_Tales_of_Symphonia_OVA_-_Tethe'alla_Bonus_1_[CA7D8F4F].mkv
-!new/cek/[Formula]_Tales_of_Symphonia_OVA_-_Tethe'alla_Episode_3_[3B1A7724].mkv
-!new/cek/[FroZen]_RAINBOW_20_[DB09D76F].mkv
-!new/cek/[Frostii_Live-eviL]_Winter_Sonata_-_26_[A465A438].mkv
-!new/cek/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_25_[BFE74BEB].mkv
-!new/cek/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_26_[FC36855A].mkv
-!new/cek/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_27_[A0C19E47].mkv
-!new/cek/[KiteSeekers-PFSubs] Shin Koihime Musou - OVA [BD 720p H264 AAC] [908E6A41].mkv
-!new/cek/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 19 [H264 1280x720] [D168FF73].mkv
-!new/cek/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 20 [H264 1280x720] [F858F96E].mkv
-!new/cek/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 21 [H264 1280x720] [48F2B836].mkv
-!new/cek/[Mango]_-_Otome_Youkai_Zakuro_-_01[AF40FCDD].mkv
-!new/cek/[Mango]_-_Otome_Youkai_Zakuro_-_02[DD1D3F7B].mkv
-!new/cek/[Mochi]_Letter_Bee_REVERSE_-_01_[720p][h264][427A29A0].mkv
-!new/cek/[Nekomimi] Sora no Otoshimono - Forte - 02 [FAED2A09].mkv
-!new/cek/[Nordkohl] Psychic Detective Yakumo - 03 [4F3D41C6].mkv
-!new/cek/[Nutbladder]_Arakawa_Under_the_Bridge_×2_-_03_[8A9EC396].mkv
-!new/cek/[Outsider]_Dance_in_the_Vampire_Bund_-_01_[720p_BD_FLAC]_[83ADA2FF].mkv
-!new/cek/[Outsider]_Dance_in_the_Vampire_Bund_-_02_[720p_BD_FLAC]_[6DCF2AE6].mkv
-!new/cek/[Outsider]_Dance_in_the_Vampire_Bund_-_03_[720p_BD_FLAC]_[EF00676A].mkv
-!new/cek/[Outsider]_Dance_in_the_Vampire_Bund_-_04_[720p_BD_FLAC]_[F09A3C23].mkv
-!new/cek/[Outsider]_Dance_in_the_Vampire_Bund_-_05_[720p_BD_FLAC]_[974BF20C].mkv
-!new/cek/[Outsider]_Dance_in_the_Vampire_Bund_-_06_[720p_BD_FLAC]_[3199AEFF].mkv
-!new/cek/[Outsider]_Dance_in_the_Vampire_Bund_-_07_[720p_BD_FLAC]_[C784C795].mkv
-!new/cek/[Outsider]_Dance_in_the_Vampire_Bund_-_08_[720p_BD_FLAC]_[62A3A2AF].mkv
-!new/cek/[Outsider]_Dance_in_the_Vampire_Bund_-_09_[720p_BD_FLAC]_[B5E5F1C1].mkv
-!new/cek/[Outsider]_Dance_in_the_Vampire_Bund_-_10_[720p_BD_FLAC]_[A6D71A1B].mkv
-!new/cek/[Outsider]_Dance_in_the_Vampire_Bund_-_11_[720p_BD_FLAC]_[80FD3AC0].mkv
-!new/cek/[Outsider]_Dance_in_the_Vampire_Bund_-_12_[720p_BD_FLAC]_[3Ef7BB4A].mkv
-!new/cek/[Outsider]_Dance_in_the_Vampire_Bund_-_ED_1.1_[720p_BD_FLAC]_[DE6EBA60].mkv
-!new/cek/[Outsider]_Dance_in_the_Vampire_Bund_-_ED_[720p_BD_FLAC]_[BB821212].mkv
-!new/cek/[Outsider]_Dance_in_the_Vampire_Bund_-_OP_[720p_BD_FLAC]_[9FCE38F6].mkv
-!new/cek/[Over-Time]_Kamen_Rider_OOO_-_07_[B53995EB].mkv
-!new/cek/[PFSub]_Kiddy_Grade_Director's_Cut_Movie_2_-_MAELSTROM_[DVD_H264_AAC][97EC0256].mkv
-!new/cek/[RyRo]_Digimon_Xros_Wars_-_10-11_(1280x720_x264_AAC)_[6D9A7BB1].mkv
-!new/cek/[RyRo]_Digimon_Xros_Wars_-_13_(1280x720_x264_AAC)_[4C6C9059].mkv
-!new/cek/[RyRo]_Inazuma_Eleven_-_103_(1280x720_x264_AAC)_[48D97287].mkv
-!new/cek/[Ryuumaru] Hyakka Ryouran Samurai Girls - 03 [720p][86EB6876].mkv
-!new/cek/[Ryuumaru] MM! - 04 [EC69764A].mkv
-!new/cek/[SS-Eclipse] Shakugan no Shana S - 04 (1280x720 h264) [C47036F2].mkv
-!new/cek/[SS-Eclipse] Shakugan no Shanatan Frontier (1280x720 h264) [EBAB2391].mkv
-!new/cek/[TastyMelon] Black Lagoon OVA - Roberta's Blood Trail - 02 [BD][720p][CA3E3178].mkv
-!new/cek/[UTW]_Amagami_SS_-_16_[h264-720p][47DE7355].mkv
-!new/cek/[UTW]_Toaru_Majutsu_no_Index_II_-_03_[h264-720p][2C55B11E].mkv
-!new/cek/[Underwater] Panty & Stocking with Garterbelt - 04 [5233D2F9].mkv
-!new/cek/[Wasurenai] Marie & Gali - 19 [H264 1280x720] [29E8C36B].mkv
-!new/cek/[gg]_Soredemo_Machi_wa_Mawatteiru_-_03_[90E5C811].mkv
-!new/cek/[yibis]_One_Piece_471_[720p][9E2D3B13].mkv
-!new/cek/hs/[HorribleSubs] Panty and Stocking with Garterbelt - 04 [720p].mkv
-!new/cek/hs/[HorribleSubs] Tantei Opera Milky Holmes - 01 [480p][4E61A419].mkv
-!new/cek/hs/[HorribleSubs] Tantei Opera Milky Holmes - 02 [480p][C9B0C2A6].mkv
-!new/cek/hs/[HorribleSubs] Tegami Bachi Reverse - 27 [720p][CE321DC2].mkv
-!new/cek/hs/[HorribleSubs] Tegami Bachi Reverse - 28 [720p][4BBB549D].mkv
-!new/cek/hs/[HorribleSubs] Tegami Bachi Reverse - 29 [720p].mkv
+!new/cek/Beyond the clouds the promised place (2004) [1080p,BluRay,x264] - THORA.mkv
+!new/cek/Highschool of the Dead Ep01 Spring of the Dead [1080p,BluRay,x264] - gg-THORA.mkv
+!new/cek/Highschool of the Dead Ep02 Escape from the Dead [1080p,BluRay,x264] - gg-THORA.mkv
+!new/cek/Highschool of the Dead OP [1080p,BluRay,x264] - gg-THORA.mkv
+!new/cek/Occult Academy/[Coalgirls] Occult Academy - Special 1 (3D) [1080p BD][8C3D9182].mkv
+!new/cek/Occult Academy/[Coalgirls] Occult Academy - Special 1 [1080p BD][B7C02673].mkv
+!new/cek/[AniYoshi] Asu no Yoichi - 08 [v2 DVD][7B822468].mkv
+!new/cek/[Ayako] To Aru Majutsu no Index II - 02 [720p][7091546F].mkv
+!new/cek/[BWS] Pokemon Best Wishes - 001 [720P][EEF21420].mkv
+!new/cek/[BWS] Pokemon Best Wishes - 002 [720P][CB118364].mkv
+!new/cek/[BWS] Pokemon Best Wishes - 003 [720P][896A6149].mkv
+!new/cek/[BWS] Pokemon Best Wishes - 004 [720P][8E715980].mkv
+!new/cek/[BWS] Pokemon Best Wishes - 005 [720P][6BEDA516].mkv
 !new/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/lama/[Ayako] Wei� Survive R - 01 - H264 - E975A989.mkv
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi

@@ -556,10 +556,6 @@ complete/a/Asatte no Houkou/[Ureshii] Asatte no Houkou - 09 [DVD][C429C64D].mkv
 complete/a/Asatte no Houkou/[Ureshii] Asatte no Houkou - 10 [DVD][CE24CAAA].mkv
 complete/a/Asatte no Houkou/[Ureshii] Asatte no Houkou - 11 [DVD][3D5C6058].mkv
 complete/a/Asatte no Houkou/[Ureshii] Asatte no Houkou - 12 [End][DVD][CC409D83].mkv
-complete/a/Asobi ni Iku Yo!/[Ayako-SubDESU] Asobi ni Iku Yo! - 09 [720p][261F0BB9].mkv
-complete/a/Asobi ni Iku Yo!/[Ayako-SubDESU] Asobi ni Iku Yo! - 10 [720p][29961D3E].mkv
-complete/a/Asobi ni Iku Yo!/[Ayako-SubDESU] Asobi ni Iku Yo! - 11 [720p][D9F70C1C].mkv
-complete/a/Asobi ni Iku Yo!/[Ayako-SubDESU] Asobi ni Iku Yo! - 12 [End 720p][6BDA7299].mkv
 complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 01 [v3][079EFF6D].mkv
 complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 02 [4796E9B8].mkv
 complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 03 [44E72E12].mkv
@@ -568,6 +564,9 @@ complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 05 [FF85704E].mkv
 complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 06 [10762643].mkv
 complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 07 [DFDC796A].mkv
 complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 08 [07C4F947].mkv
+complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 09 [38F1EDDF].mkv
+complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 10 [E1E730FD].mkv
+complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 11 [83357EE4].mkv
 complete/a/Asu no Yoichi/[AniYoshi] Asu no Yoichi - 01 [WS][C512E27E].mkv
 complete/a/Asu no Yoichi/[AniYoshi] Asu no Yoichi - 02 [WS][A4A57006].mkv
 complete/a/Asu no Yoichi/[AniYoshi] Asu no Yoichi - 03 [WS][7165138C].mkv
@@ -2241,6 +2240,21 @@ complete/d/Dance in the Vampire Bund/[Koharubi] Dance in the Vampire Bund - 09 [
 complete/d/Dance in the Vampire Bund/[Koharubi] Dance in the Vampire Bund - 10 [2B693C48].mkv
 complete/d/Dance in the Vampire Bund/[Koharubi] Dance in the Vampire Bund - 11 [867BAD27].mkv
 complete/d/Dance in the Vampire Bund/[Koharubi] Dance in the Vampire Bund - 12 [End][04C4188D].mkv
+complete/d/Dance in the Vampire Bund/[Outsider] Dance in the Vampire Bund - 01 [720p BD][83ADA2FF].mkv
+complete/d/Dance in the Vampire Bund/[Outsider] Dance in the Vampire Bund - 02 [720p BD][6DCF2AE6].mkv
+complete/d/Dance in the Vampire Bund/[Outsider] Dance in the Vampire Bund - 03 [720p BD][EF00676A].mkv
+complete/d/Dance in the Vampire Bund/[Outsider] Dance in the Vampire Bund - 04 [720p BD][F09A3C23].mkv
+complete/d/Dance in the Vampire Bund/[Outsider] Dance in the Vampire Bund - 05 [720p BD][974BF20C].mkv
+complete/d/Dance in the Vampire Bund/[Outsider] Dance in the Vampire Bund - 06 [720p BD][3199AEFF].mkv
+complete/d/Dance in the Vampire Bund/[Outsider] Dance in the Vampire Bund - 07 [720p BD][C784C795].mkv
+complete/d/Dance in the Vampire Bund/[Outsider] Dance in the Vampire Bund - 08 [720p BD][62A3A2AF].mkv
+complete/d/Dance in the Vampire Bund/[Outsider] Dance in the Vampire Bund - 09 [720p BD][B5E5F1C1].mkv
+complete/d/Dance in the Vampire Bund/[Outsider] Dance in the Vampire Bund - 10 [720p BD][A6D71A1B].mkv
+complete/d/Dance in the Vampire Bund/[Outsider] Dance in the Vampire Bund - 11 [720p BD][80FD3AC0].mkv
+complete/d/Dance in the Vampire Bund/[Outsider] Dance in the Vampire Bund - 12 [End][720p BD][3EF7BB4A].mkv
+complete/d/Dance in the Vampire Bund/[Outsider] Dance in the Vampire Bund - Ending 1.1 [720p BD][DE6EBA60].mkv
+complete/d/Dance in the Vampire Bund/[Outsider] Dance in the Vampire Bund - Ending [720p BD][BB821212].mkv
+complete/d/Dance in the Vampire Bund/[Outsider] Dance in the Vampire Bund - Opening [720p BD][9FCE38F6].mkv
 complete/d/Darker than Black - Gemini of the Meteor/[BSS] Darker than Black - Gemini of the Meteor - 01 (1280x720) [BD][C0C26340].mkv
 complete/d/Darker than Black - Gemini of the Meteor/[BSS] Darker than Black - Gemini of the Meteor - 02 (1280x720) [BD][27265A14].mkv
 complete/d/Darker than Black - Gemini of the Meteor/[BSS] Darker than Black - Gemini of the Meteor - 03 (1280x720) [BD][C400B5D5].mkv
@@ -8779,6 +8793,10 @@ complete/n/Nyan Koi/[gg] Nyan Koi - 09 [37FAC9C0].mkv
 complete/n/Nyan Koi/[gg] Nyan Koi - 10 [484A7BD0].mkv
 complete/n/Nyan Koi/[gg] Nyan Koi - 11 [v2][7ECC487F].mkv
 complete/n/Nyan Koi/[gg] Nyan Koi - 12 [End][B2D47F45].mkv
+complete/o/Occult Academy/[Coalgirls] Occult Academy - 01 [1080p BD][23F6D2DB].mkv
+complete/o/Occult Academy/[Coalgirls] Occult Academy - 02 [1080p BD][7CC4D473].mkv
+complete/o/Occult Academy/[Coalgirls] Occult Academy - Ending (Clean) [1080p BD][34F6B2B0].mkv
+complete/o/Occult Academy/[Coalgirls] Occult Academy - Opening (Clean) [1080p BD][7B63A3C4].mkv
 complete/o/Occult Academy/[Commie] Occult Academy - 01 [v2][3BD9BD2D].mkv
 complete/o/Occult Academy/[Commie] Occult Academy - 02 [FCF0006A].mkv
 complete/o/Occult Academy/[Commie] Occult Academy - 03 [E736AFE0].mkv
@@ -8790,8 +8808,8 @@ complete/o/Occult Academy/[Commie] Occult Academy - 08 [F4F4CF88].mkv
 complete/o/Occult Academy/[Commie] Occult Academy - 09 [AFD94CBF].mkv
 complete/o/Occult Academy/[Commie] Occult Academy - 10 [DB613EC1].mkv
 complete/o/Occult Academy/[Commie] Occult Academy - 11 [97441B18].mkv
-complete/o/Occult Academy/[HorribleSubs] Occult Academy - 12 (1280x720) [07AD91DD].mkv
-complete/o/Occult Academy/[HorribleSubs] Occult Academy - 13 (1280x720) [End][E7253DD0].mkv
+complete/o/Occult Academy/[Commie] Occult Academy - 12 [25CCFCB5].mkv
+complete/o/Occult Academy/[Commie] Occult Academy - 13 [End][5C60CB6B].mkv
 complete/o/Oh! Edo Rocket/[Shinsen-Subs] Oh! Edo Rocket - 01 [80A393F6].mkv
 complete/o/Oh! Edo Rocket/[Shinsen-Subs] Oh! Edo Rocket - 02 [031DC023].mkv
 complete/o/Oh! Edo Rocket/[Shinsen-Subs] Oh! Edo Rocket - 03 [E5A7C0B3].mkv
@@ -10677,6 +10695,10 @@ complete/s/Seto no Hanayome/[m.3.3.w-BakaWolf] Seto no Hanayome - 18 (1280x720) 
 complete/s/Seto no Hanayome/[m.3.3.w] Seto no Hanayome - 19 [0914875A].mkv
 complete/s/Seto no Hanayome/[m.3.3.w] Seto no Hanayome - 20 [DVD][205C7935].mkv
 complete/s/Seto no Hanayome/[m.3.3.w] Seto no Hanayome - 21 [DVD][C3CF0E30].mkv
+complete/s/Shakugan no Shana S OVA/[SS-Eclipse] Shakugan no Shana S OVA - 1 [720p][DABC2A44].mkv
+complete/s/Shakugan no Shana S OVA/[SS-Eclipse] Shakugan no Shana S OVA - 2 [720p][29745873].mkv
+complete/s/Shakugan no Shana S OVA/[SS-Eclipse] Shakugan no Shana S OVA - 3 [720p][DA0E37C2].mkv
+complete/s/Shakugan no Shana S OVA/[SS-Eclipse] Shakugan no Shana S OVA - 4 [End][720p][C47036F2].mkv
 complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 01 (1280x720) [BC008F80].mkv
 complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 02 (1280x720) [B248BDF5].mkv
 complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 03 (1280x720) [0F03B68A].mkv
@@ -10813,6 +10835,7 @@ complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Oto
 complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 09 (1280x720) [C4DD2517].mkv
 complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 11 (1280x720) [D1DFF020].mkv
 complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 12 (1280x720) [End][BA4C40A7].mkv
+complete/s/Shin Koihime Musou OVA/[KiteSeekers-PFSubs] Shin Koihime Musou OVA [720p BD][908E6A41].mkv
 complete/s/Shin Koihime Musou/[Commie] Shin Koihime Musou - 01 [E0C4854C].mkv
 complete/s/Shin Koihime Musou/[Commie] Shin Koihime Musou - 02 [9E7194B2].mkv
 complete/s/Shin Koihime Musou/[Commie] Shin Koihime Musou - 03 [9AE197E5].mkv
@@ -13145,6 +13168,33 @@ complete/w/Winter Cicada/[KissSub] Winter Cicada - OVA 2 [B3E15C8E].avi
 complete/w/Winter Cicada/[aarinfantasy] Winter Cicada - OVA 3 [End][BC658397].avi
 complete/w/Winter Garden/[Doremi-Spork] Di Gi Charat - Winter Garden - 1 [WS][BDEA7223].avi
 complete/w/Winter Garden/[Doremi-Spork] Di Gi Charat - Winter Garden - 2 [End][WS][C984BB03].avi
+complete/w/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 00 [8BD20EA4].mkv
+complete/w/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 01 [29A27D61].mkv
+complete/w/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 02 [EB990E15].mkv
+complete/w/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 03 [A5CAD6FC].mkv
+complete/w/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 04 [2FC5D84B].mkv
+complete/w/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 05 [49F51C37].mkv
+complete/w/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 06 [F45782D0].mkv
+complete/w/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 07 [FBC35292].mkv
+complete/w/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 08 [A5EFBF71].mkv
+complete/w/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 09 [C9290B2F].mkv
+complete/w/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 10 [5B64A180].mkv
+complete/w/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 11 [4B2AC1BF].mkv
+complete/w/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 12 [289ABCF9].mkv
+complete/w/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 13 [5F43A5CA].mkv
+complete/w/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 14 [82CB0213].mkv
+complete/w/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 15 [F13416BE].mkv
+complete/w/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 16 [C284EE16].mkv
+complete/w/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 17 [71E1DAAF].mkv
+complete/w/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 18 [4682FDD4].mkv
+complete/w/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 19 [713EA1F4].mkv
+complete/w/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 20 [CAE8017C].mkv
+complete/w/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 21 [48177B56].mkv
+complete/w/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 22 [F1EE58DC].mkv
+complete/w/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 23 [D0A404C3].mkv
+complete/w/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 24 [960F073B].mkv
+complete/w/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 25 [92FA14FC].mkv
+complete/w/Winter Sonata/[Frostii Live-eviL] Winter Sonata - 26 [End][A465A438].mkv
 complete/w/Witch Hunter Robin/[KAA] Witch Hunter Robin - 01 [DVD][F6F36AB9].avi
 complete/w/Witch Hunter Robin/[KAA] Witch Hunter Robin - 02 [DVD][E283719E].avi
 complete/w/Witch Hunter Robin/[KAA] Witch Hunter Robin - 03 [DVD][A8E38EE8].avi

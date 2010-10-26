@@ -322,6 +322,7 @@ extras/Sailor Moon R/[SMC] Sailor Moon R - Trailers 35-39 [C348BB19].mkv
 extras/Sailor Moon R/[SMC] Sailor Moon R - Trailers 40-43 [E9773B72].mkv
 extras/School Rumble/[WF] School Rumble - 27 [83EC0104].avi
 extras/Shakugan no Shana S OVA/[SS-Eclipse] Shakugan no Shanatan Dos (1280x720) [CECF1CA0].mkv
+extras/Shakugan no Shana S OVA/[SS-Eclipse] Shakugan no Shanatan Frontier [720p][EBAB2391].mkv
 extras/Shakugan no Shana S OVA/[SS-Eclipse] Shakugan no Shanatan G (1280x720) [EDAE9FB4].mkv
 extras/Shakugan no Shana S OVA/[SS-Eclipse] Shakugan no Shanatan Tri (1280x720) [350B1808].mkv
 extras/Shakugan no Shana Second/[SS-Eclipse] Fumina Konoe Strikes Back [5FC648DC].mkv
@@ -365,6 +366,7 @@ extras/Taishou Yakyuu Musume/[Saizen] Taishou Yakyuu Musume - 01 Notes [AF3DBA47
 extras/Taishou Yakyuu Musume/[Saizen] Taishou Yakyuu Musume - 02 Notes [FB70922A].pdf
 extras/Taishou Yakyuu Musume/[Saizen] Taishou Yakyuu Musume - 03 Notes [CD969338].pdf
 extras/Taishou Yakyuu Musume/[Saizen] Taishou Yakyuu Musume - 04 Notes [709C1844].pdf
+extras/Tales of Symphonia OVA - Tethe'alla/[Formula] Tales of Symphonia OVA - Tethe'alla - Bonus 1 [CA7D8F4F].mkv
 extras/Tales of Symphonia OVA/[Formula] Tales of Symphonia OVA - Special 1 [297B0243].mkv
 extras/Tayutama/[Coalgirls] Tayutama - Special 1 (1280x720) [BD][783D568E].mkv
 extras/Tayutama/[Coalgirls] Tayutama - Special 2 (1280x720) [BD][6461C9AE].mkv
