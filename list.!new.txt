@@ -806,8 +806,11 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (arranged) [nnl+b-f].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
 !new/[Anonymous]Hidamari Sketch Hoshimittsu Specials [1 of 2](BS-TBS x264 AAC 1280x720).mkv
+!new/[AonE]_Shinrei_Tantei_Yakumo_03_[80290879].mkv
+!new/[BWS]Pocket_Monsters_Best_Wishes_006_The_Dream_Site!_Munna_and_Musharna!![H264_720P][35BE38C1].mkv
 !new/[Baaka] Tantei Opera Milky Holmes - 03 [1280x720][C2575C11].mkv
 !new/[Commie] Asobi ni Ikuyo! - 12 [0233AB35].mkv
+!new/[Commie] Nurarihyon no Mago - 10v2 [CC86036E].mkv
 !new/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_08_[ac807f22].avi
 !new/[DB]_Hakuouki_00_Season_1_Review_[3F5A04B4].avi
 !new/[DB]_Hakuouki_00_Season_1_Review_[9A9F28F9].avi
@@ -872,6 +875,7 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
 !new/[Over-Time]_Kamen_Rider_OOO_-_08_[2727A014].mkv
+!new/[ReDone] Touka Gettan - 12 (DVD) [81E31BB3].mkv
 !new/[RyRo]_Inazuma_Eleven_-_104_(1280x720_x264_AAC)_[35D85CAE].mkv
 !new/[SubDesu] Seikon no Qwaser 10.5(OVA)- Portrait of the Empress[480p][ECA19143].mkv
 !new/[SubSmith] ToHeart2 adnext OVA 01 - First Name [BD 720p][99CB3EDD].mkv
