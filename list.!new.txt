@@ -1126,16 +1126,6 @@
 !new/[gg]_Bakuman_-_04_[1E33937E].mkv
 !new/[gg]_Star_Driver_-_04_[891F361E].mkv
 !new/[gg]_Togainu_no_Chi_-_03_[4C9CDA20].mkv
-!new/[iSiscon]_ClariS_-_TV_Anime_Ore_no_Imouto_ga_Konna_ni_Kawaii_wake_ga_nai_OP_Single_-_irony_[w_scans]_(FLAC).rar
-!new/[iSiscon]_Faylan_-_Polaris_[w_scans]_(FLAC).rar
-!new/[iSiscon]_HO-KAGO_TEA_TIME_-_K-ON!!_HO-KAGO_TEA_TIME_Second_[w_scans]_(MP3).rar
-!new/[iSiscon]_Nanasaki_Ai_(CV._Yukana)_-_Amagami_SS_ED_Theme_4_Nanasaki_Ai_-_Koi_ha_Mizuiro_[w_scans]_(FLAC).rar
-!new/[iSiscon]_Sakamoto_Maaya_-_Soredemo_Machi_ha_Mawatteiru_OP_Theme_&_OVA_Tamayura_OP_Theme_-_DOWN_TOWN_&_Yasashisa_ni_Tsutsumareta_nara_[w_scans]_(FLAC).rar
-!new/[iSiscon]_Tanaka_Rie_-_KOKORO_[w_scans]_(FLAC).rar
-!new/[iSiscon]_Various_Artists_-_Strike_Witches_2_Ending_Theme_Collection_-_Over_Sky_[w_scans]_(FLAC).rar
-!new/[iSiscon]_azusa_-_Amagami_SS_OP2_Single_-_Kimi_no_Mama_de_[w_scans]_(FLAC).rar
-!new/[iSiscon]_fripSide_-_OVA_Toaru_Kagaku_no_Railgun_OP_Theme_-_future_gazer_[w_scans]_(FLAC).rar
-!new/[iSiscon]_sphere_-_Otome_Youkai_Zakuro_OP_Single_-_MOON_SIGNAL_[w_scans]_(FLAC).rar
 !new/[mSubs]_Jewel_Pet_-_01_(720p)(AA1D364B).mkv
 !new/[애갤러스][101020] AmagamiSS ED4 Single - Koi wa Mizuiro [Nanasaki Ai (CV.Yukana)] (FLAC).rar
 !new/[애갤러스][101020] AmagamiSS OP2 Single - Kimi no Mama de [azusa] (FLAC).rar
@@ -1242,10 +1232,6 @@
 !new/bla/zx.black.heaven.12.sub.rar
 !new/bla/zx.black.heaven.13.dub.avi
 !new/bla/zx.black.heaven.13.sub.rar
-!new/cek/Beyond the clouds the promised place (2004) [1080p,BluRay,x264] - THORA.mkv
-!new/cek/Highschool of the Dead Ep01 Spring of the Dead [1080p,BluRay,x264] - gg-THORA.mkv
-!new/cek/Highschool of the Dead Ep02 Escape from the Dead [1080p,BluRay,x264] - gg-THORA.mkv
-!new/cek/Highschool of the Dead OP [1080p,BluRay,x264] - gg-THORA.mkv
 !new/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/lama/[Ayako] Wei� Survive R - 01 - H264 - E975A989.mkv
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
@@ -1528,4 +1514,3 @@
 !new/ss/[all4seiya][galaxy][SAINT_SEIYA][TV112][DVDRIP][XVID_MP3][JP_CH].mkv
 !new/ss/[all4seiya][galaxy][SAINT_SEIYA][TV113][DVDRIP][XVID_MP3][JP_CH].mkv
 !new/ss/[all4seiya][galaxy][SAINT_SEIYA][TV114][DVDRIP][XVID_MP3][JP_CH].mkv
-!new/the_place_promised_in_our_early_days[1904x1072.h264.flac][niizk].mkv
