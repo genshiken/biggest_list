@@ -805,6 +805,7 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (arranged) [nnl+b-f].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
 !new/[Anonymous]Hidamari Sketch Hoshimittsu Specials [1 of 2](BS-TBS x264 AAC 1280x720).mkv
+!new/[Baaka] Tantei Opera Milky Holmes - 03 [1280x720][C2575C11].mkv
 !new/[Commie] Asobi ni Ikuyo! - 12 [0233AB35].mkv
 !new/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_08_[ac807f22].avi
 !new/[DB]_Hakuouki_00_Season_1_Review_[3F5A04B4].avi
@@ -817,6 +818,7 @@
 !new/[Doremi].Strange.Dawn.07.[3000016E].mkv
 !new/[EAC] [101020] TVアニメ ストライクウィッチーズ2 エンディング・テーマ・コレクション「Over Sky」(ape+cue).rar
 !new/[HorribleSubs] Fairy Tail - 49 [720p].mkv
+!new/[HorribleSubs] Fairy Tail - 51 [720p].mkv
 !new/[HorribleSubs] Lilpri - 30 [720p].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 04 [720p].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_01v2.DVD(H264_AAC)[KAA-Mokkori][632E59F2].mkv
@@ -1129,6 +1131,7 @@
 !new/[애갤러스][101020] AmagamiSS ED4 Single - Koi wa Mizuiro [Nanasaki Ai (CV.Yukana)] (FLAC).rar
 !new/[애갤러스][101020] AmagamiSS OP2 Single - Kimi no Mama de [azusa] (FLAC).rar
 !new/[애갤러스][101027] Fortune Arterial OP Single - -kizunairo- [Lia] (320k).rar
+!new/[애갤러스][101027] OVA To Aru Kagaku no Railgun ED Single - Special -ONE- [ELISA] (FLAC).rar
 !new/[애갤러스][101027] Yosuga no Sora OP Single - Hiyoku no Hane [eufonius] (320k).rar
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
