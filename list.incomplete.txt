@@ -248,6 +248,8 @@ incomplete/Ayakashi Ayashi Inferno/[Shinsen-Subs] Ayakashi Ayashi Inferno - 01 [
 incomplete/Ayatsuri Sakon/[ASP] Ayatsuri Sakon - 22 [DVD][9817F861].mp4
 incomplete/Bakuman/[gg] Bakuman - 01 [v2][937D6A1E].mkv
 incomplete/Bakuman/[gg] Bakuman - 02 [A591C0E9].mkv
+incomplete/Bakuman/[gg] Bakuman - 03 [69202E08].mkv
+incomplete/Bakuman/[gg] Bakuman - 04 [1E33937E].mkv
 incomplete/Bakumatsu Kikansetsu Irohanihoheto/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 01 [DVD][DAC042E0].mkv
 incomplete/Bakumatsu Kikansetsu Irohanihoheto/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 02 [DVD][19B75C94].mkv
 incomplete/Bakumatsu Kikansetsu Irohanihoheto/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 03 [DVD][DEBB5FEF].mkv
@@ -636,6 +638,7 @@ incomplete/Detective Conan/[DCTP] Detective Conan - 587 (1280x720) [35049B33].mp
 incomplete/Detective Conan/[DCTP] Detective Conan - 588 (1280x720) [D505AE2D].mp4
 incomplete/Detective Conan/[DCTP] Detective Conan - 589 (1280x720) [11BAF210].mp4
 incomplete/Detective Conan/[DCTP] Detective Conan - 590 (1280x720) [DEDC48BA].mp4
+incomplete/Detective Conan/[DCTP] Detective Conan - 591 [720p][18332712].mp4
 incomplete/Detective Conan/[FBI] Detective Conan - 001 [Remastered][8548B1E5].mkv
 incomplete/Detective Conan/[GS] Detective Conan - 453 (1280x720) [v2][77E1DA00].mkv
 incomplete/Detective Conan/[Kienai-AZFS] Detective Conan - 261 [ED11012B].mp4
@@ -1425,6 +1428,7 @@ incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 100 (1280x720) [D754C2BD].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 101 (1280x720) [0061D558].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 102 [720p][093A8E7C].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 103 [720p][48D97287].mkv
+incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 104 [720p][35D85CAE].mkv
 incomplete/Initial D Battle Stage/[Shinsen-Subs] Initial D Battle Stage - 2 [End][B54855AA].mkv
 incomplete/Inuyasha Kanketsu-hen/[O-L] Inuyasha Kanketsu-hen - 01 (1280x720) [686D7CCE].mkv
 incomplete/Inuyasha Kanketsu-hen/[O-L] Inuyasha Kanketsu-hen - 02 (1280x720) [A0F39387].mkv
@@ -2196,7 +2200,7 @@ incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 06 [B4D9B2E3].mkv
 incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 07 [DA39D4E3].mkv
 incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 08 [A2992893].mkv
 incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 09 [v2][3E7043B5].mkv
-incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 10 [88F7658F].mkv
+incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 10 [v2][CC86036E].mkv
 incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 11 [B16608AE].mkv
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 01 [3A853D01].avi
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 02 [08A1F4E5].avi
@@ -2727,6 +2731,7 @@ incomplete/Ontama!/[DATS] Ontama! - 05 [70E8AC84].mkv
 incomplete/Ore no Imouto/[Mazui] Ore no Imouto - 01 [9C50F426].mkv
 incomplete/Ore no Imouto/[Mazui] Ore no Imouto - 02 [v2][8530F9DB].mkv
 incomplete/Ore no Imouto/[Mazui] Ore no Imouto - 03 [DF6F1D89].mkv
+incomplete/Ore no Imouto/[Mazui] Ore no Imouto - 04 [73464065].mkv
 incomplete/Ore no Imouto/[SS] Ore no Imouto - 02 [3A56DDAC].mkv
 incomplete/Otome Youkai Zakuro/[Ryuumaru] Otome Youkai Zakuro - 01 [720p][68F5482C].mkv
 incomplete/Otome Youkai Zakuro/[Ryuumaru] Otome Youkai Zakuro - 02 [720p][A1DD012C].mkv
@@ -3159,12 +3164,13 @@ incomplete/Souten Kouro/[Lunar] Souten Kouro - 07 (1280x720) [12112170].mkv
 incomplete/Souten Kouro/[Lunar] Souten Kouro - 08 (1280x720) [5342C117].mkv
 incomplete/Souten Kouro/[Lunar] Souten Kouro - 09 (1280x720) [8ACE6834].mkv
 incomplete/Souten no Ken/[Sentosha] Souten no Ken - 01 [DVD][7CBE4115].avi
-incomplete/Squid Girl/[FFFpeeps] Squid Girl - 03 [720p][6E3A0F11].mkv
 incomplete/Squid Girl/[Underwater] Squid Girl - 01 [720p][D99B479D].mkv
 incomplete/Squid Girl/[Underwater] Squid Girl - 02 [720p][C57E09B7].mkv
+incomplete/Squid Girl/[Underwater] Squid Girl - 03 [720p][ED68F495].mkv
 incomplete/Star Driver/[gg] Star Driver - 01 [AFEC5CCC].mkv
 incomplete/Star Driver/[gg] Star Driver - 02 [5F1397A4].mkv
 incomplete/Star Driver/[gg] Star Driver - 03 [8A012BA4].mkv
+incomplete/Star Driver/[gg] Star Driver - 04 [891F361E].mkv
 incomplete/Strange Dawn/[Doremi] Strange Dawn - 01 [9027D679].mkv
 incomplete/Strange Dawn/[Doremi] Strange Dawn - 02 [D25D7A15].mkv
 incomplete/Strange Dawn/[Doremi] Strange Dawn - 03 [32D79062].mkv
@@ -3297,6 +3303,7 @@ incomplete/Toaru Majutsu no Index II/[UTW] Toaru Majutsu no Index II - 02 [720p]
 incomplete/Toaru Majutsu no Index II/[UTW] Toaru Majutsu no Index II - 03 [720p][2C55B11E].mkv
 incomplete/Togainu no Chi/[gg] Togainu no Chi - 01 [DAE73FDF].mkv
 incomplete/Togainu no Chi/[gg] Togainu no Chi - 02 [13697BB6].mkv
+incomplete/Togainu no Chi/[gg] Togainu no Chi - 03 [4C9CDA20].mkv
 incomplete/Tono to Issho/[CrunchySubs] Tono to Issho - 01 [720p][09F78AD2].mkv
 incomplete/Tono to Issho/[CrunchySubs] Tono to Issho - 02 [720p][E7ECE8B8].mkv
 incomplete/Tono to Issho/[CrunchySubs] Tono to Issho - 03 [720p][7766D71A].mkv
@@ -3502,6 +3509,7 @@ incomplete/Yoshimune/[F-B & Scramble!] Yoshimune - 09 [6B497E66].mp4
 incomplete/Yosuga no Sora/[UTW-Ryuumaru] Yosuga no Sora - 01 [720p][E60353CB].mkv
 incomplete/Yosuga no Sora/[UTW-Ryuumaru] Yosuga no Sora - 02 [720p][8849FD46].mkv
 incomplete/Yosuga no Sora/[UTW-Ryuumaru] Yosuga no Sora - 03 [720p][B4C560A7].mkv
+incomplete/Yosuga no Sora/[UTW-Ryuumaru] Yosuga no Sora - 04 [720p][1C9B8E9E].mkv
 incomplete/You Are Umasou/[Animanda] You Are Umasou - 01 [7B7C6FC4].mkv
 incomplete/You Are Umasou/[Animanda] You Are Umasou - 02 [841E0CB6].mkv
 incomplete/You Are Umasou/[Animanda] You Are Umasou - 03 [80E2BE25].mkv

@@ -567,6 +567,7 @@ complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 08 [07C4F947].mkv
 complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 09 [38F1EDDF].mkv
 complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 10 [E1E730FD].mkv
 complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 11 [83357EE4].mkv
+complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 12 [End][0233AB35].mkv
 complete/a/Asu no Yoichi/[AniYoshi] Asu no Yoichi - 01 [WS][C512E27E].mkv
 complete/a/Asu no Yoichi/[AniYoshi] Asu no Yoichi - 02 [WS][A4A57006].mkv
 complete/a/Asu no Yoichi/[AniYoshi] Asu no Yoichi - 03 [WS][7165138C].mkv
@@ -12620,6 +12621,7 @@ complete/t/Touka Gettan/[ReDone] Touka Gettan - 08 [DVD][4D75EA1A].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 09 [DVD][3B3C5637].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 10 [DVD][AF690004].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 11 [DVD][FCA94090].mkv
+complete/t/Touka Gettan/[ReDone] Touka Gettan - 12 [DVD][81E31BB3].mkv
 complete/t/Touka Gettan/[SRN] Touka Gettan - 12 [CC487E8F].avi
 complete/t/Touka Gettan/[SRN] Touka Gettan - 13 [85AA1C61].avi
 complete/t/Touka Gettan/[SRN] Touka Gettan - 14 [D798DEFF].avi
