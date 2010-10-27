@@ -293,7 +293,6 @@
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
-!new/Highschool_of_the_Dead_Ep1-2_[1080p,BluRay,x264]_-_gg-THORA.md5
 !new/NANA/[IY-F&Oki] NANA - 21.5 [E0EBFBDD].mkv
 !new/NANA/[IY-F&Oki] NANA - 22 [B29D6430].mkv
 !new/NANA/[IY-F&Oki] NANA - 23 [9BB2F6A9].mkv
@@ -325,20 +324,6 @@
 !new/NANA/[ureshii] NANA - 39 [2168C75E].mkv
 !new/NANA/[ureshii] NANA - 40 [F4BBAB58].mkv
 !new/NANA/[ureshii] NANA - 41 [16BF0550].mkv
-!new/Nyan Koi!/[Coalgirls] Nyan Koi! - 01 [1080p BD][79B75C17].mkv
-!new/Nyan Koi!/[Coalgirls] Nyan Koi! - 02 [1080p BD][E1A2F838].mkv
-!new/Nyan Koi!/[Coalgirls] Nyan Koi! - 03 [1080p BD][7ED33AE9].mkv
-!new/Nyan Koi!/[Coalgirls] Nyan Koi! - 04 [1080p BD][3CE42105].mkv
-!new/Nyan Koi!/[Coalgirls] Nyan Koi! - 05 [1080p BD][7AFFCC3A].mkv
-!new/Nyan Koi!/[Coalgirls] Nyan Koi! - 06 [1080p BD][AD30EDD4].mkv
-!new/Nyan Koi!/[Coalgirls] Nyan Koi! - 07 [1080p BD][1C9068A2].mkv
-!new/Nyan Koi!/[Coalgirls] Nyan Koi! - 08 [1080p BD][0C8140DD].mkv
-!new/Nyan Koi!/[Coalgirls] Nyan Koi! - 09 [1080p BD][4157D462].mkv
-!new/Nyan Koi!/[Coalgirls] Nyan Koi! - 10 [1080p BD][08CAA1DE].mkv
-!new/Nyan Koi!/[Coalgirls] Nyan Koi! - 11 [1080p BD][AF0F14FA].mkv
-!new/Nyan Koi!/[Coalgirls] Nyan Koi! - 12 [End][1080p BD][EC95146F].mkv
-!new/Nyan Koi!/[Coalgirls] Nyan Koi! - Ending [1080p BD][2643BCC2].mkv
-!new/Nyan Koi!/[Coalgirls] Nyan Koi! - Opening [1080p BD][2E9BBFF2].mkv
 !new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E01 'Outlaw World' [v2].mkv
 !new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E02 'World of Desires'.mkv
 !new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E03 'Into Burning Space'.mkv
@@ -720,7 +705,6 @@
 !new/Seikai no Senki II/[A-Et] Seikai no Senki II - 08 (5236EDA2).mkv
 !new/Seikai no Senki II/[A-Et] Seikai no Senki II - 09 (820385B4).mkv
 !new/Seikai no Senki II/[A-Et] Seikai no Senki II - 10 (End) (2F51269B).mkv
-!new/Soredemo Machi wa Mawatteiru OP01 Single - DOWN TOWN.zip
 !new/Soul Eater/[Arigatou] Soul Eater - 01 [64480E45].mkv
 !new/Soul Eater/[Arigatou] Soul Eater - 02 [27887F6A].mkv
 !new/Soul Eater/[Arigatou] Soul Eater - 03 [6DA31886].mkv
@@ -772,8 +756,6 @@
 !new/Soul Eater/[Arigatou] Soul Eater - 49 [B3F1D35E].mkv
 !new/Soul Eater/[Arigatou] Soul Eater - 50 [369D8541].mkv
 !new/Soul Eater/[Arigatou] Soul Eater - 51 [End][217D4C63].mkv
-!new/Time_of_Eve_(2010)_[1080p,BluRay,x264]_-_THORA.md5
-!new/Time_of_Eve_(2010)_[1080p,BluRay,x264]_-_THORA.nfo
 !new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 01(x264)(8E01DFB1).mkv
 !new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 02(x264)(CFB2BE0C).mkv
 !new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 03(x264)(D4242AC3).mkv
@@ -805,48 +787,12 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (arranged) [nnl+b-f].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
 !new/[Anonymous]Hidamari Sketch Hoshimittsu Specials [1 of 2](BS-TBS x264 AAC 1280x720).mkv
-!new/[AonE]_Shinrei_Tantei_Yakumo_03_[80290879].mkv
-!new/[BWS]Pocket_Monsters_Best_Wishes_006_The_Dream_Site!_Munna_and_Musharna!![H264_720P][35BE38C1].mkv
-!new/[Baaka] Tantei Opera Milky Holmes - 03 [1280x720][C2575C11].mkv
-!new/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_08_[ac807f22].avi
-!new/[DB]_Hakuouki_00_Season_1_Review_[3F5A04B4].avi
-!new/[DB]_Hakuouki_00_Season_1_Review_[9A9F28F9].avi
-!new/[DB]_Hakuouki_13_[53DBE970].avi
-!new/[DB]_Hakuouki_14_[382B9335].avi
-!new/[DB]_Ninku_13_[B2EC0849].avi
-!new/[Derp]_Legend_of_the_Legendary_Heroes_-_16_(1280x720_x264_AAC).mkv
-!new/[Doremi].HeartCatch.PreCure!.37.[1280x720].[78B49B10].mkv
-!new/[Doremi].Motto.Ojamajo.Doremi.33.[FE97CC37].avi
-!new/[Doremi].Strange.Dawn.07.[3000016E].mkv
 !new/[EAC] [101020] TVアニメ ストライクウィッチーズ2 エンディング・テーマ・コレクション「Over Sky」(ape+cue).rar
-!new/[HorribleSubs] Fairy Tail - 49 [720p].mkv
-!new/[HorribleSubs] Fairy Tail - 51 [720p].mkv
-!new/[HorribleSubs] Lilpri - 30 [720p].mkv
-!new/[HorribleSubs] Otome Yokai Zakuro - 04 [720p].mkv
-!new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 04 [720p].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_01v2.DVD(H264_AAC)[KAA-Mokkori][632E59F2].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_02.DVD(H264_AAC)[KAA-Mokkori][4230EED1].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_03.DVD(H264_AAC)[KAA-Mokkori][58536D54].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_04v2.DVD(H264_AAC)[KAA-Mokkori)[179C6CDA].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_05v3.DVD(H264_AAC)[KAA-Mokkori][F061776F].mkv
-!new/[Keroro].130.[Xvid.mp3].[861143F9].avi
-!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 01 [1280x720 H264 OGG] [A78849F8].mkv
-!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 02 [1280x720 H264 OGG] [4F879F91].mkv
-!new/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 22 [H264 1280x720] [7716DF35].mkv
-!new/[Nipponsei] Amagami SS ED4 Single - Koi wa Mizuiro [Yukana].zip
-!new/[Nipponsei] Gundam 00 A wakening of the Trailblazer Insert Song Single - Mou Nani mo Kowaku nai, Kowaku wa nai [Ishikawa Chiaki].zip
-!new/[Nipponsei] Highschool of the Dead Original Soundtrack.zip
-!new/[Nipponsei] K-ON!! Houkago Tea Time II.zip
-!new/[Nipponsei] K-ON!! Original Soundtrack Vol.2.zip
-!new/[Nipponsei] Motto ToLoveRu OP Single - Loop-the-Loop [KOTOKO].zip
-!new/[Nipponsei] Ore no Imouto ga Konna ni Kawaii Wake ga nai OP Single - irony [ClariS].zip
-!new/[Nipponsei] Otome Youkai Zakuro OP Single - MOON SIGNAL [Sphere].zip
-!new/[Nipponsei] Shukufuku no Campanella Original Soundtrack.zip
-!new/[Nipponsei] Soredemo Machi wa Mawatte iru OP Single - DOWN TOWN [Sakamoto Maaya].zip
-!new/[Nipponsei] Star Driver OP Single - GRAVITY 0 [Aqua Timez].zip
-!new/[Nipponsei] Strike Witches 2 ED Theme Collection - Over Sky.zip
-!new/[Nipponsei] To Aru Kagaku no Railgun OVA OP Single - future gazer [fripSide].zip
-!new/[Nordkohl] Psychic Detective Yakumo - 04 [535211AF].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -870,7 +816,6 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
-!new/[Over-Time]_Kamen_Rider_OOO_-_08_[2727A014].mkv
 !new/[SubDesu] Seikon no Qwaser 10.5(OVA)- Portrait of the Empress[480p][ECA19143].mkv
 !new/[SubSmith] ToHeart2 adnext OVA 01 - First Name [BD 720p][99CB3EDD].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
@@ -1119,6 +1064,7 @@
 !new/[애갤러스][101020] AmagamiSS OP2 Single - Kimi no Mama de [azusa] (FLAC).rar
 !new/[애갤러스][101027] Fortune Arterial OP Single - -kizunairo- [Lia] (320k).rar
 !new/[애갤러스][101027] OVA To Aru Kagaku no Railgun ED Single - Special -ONE- [ELISA] (FLAC).rar
+!new/[애갤러스][101027] Togainu no Chi OP Single - ROSE HIP-BULLET [GRANRODEO] (FLAC).rar
 !new/[애갤러스][101027] Yosuga no Sora OP Single - Hiyoku no Hane [eufonius] (320k).rar
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
@@ -1285,13 +1231,6 @@
 !new/raw/natsunoarashi/[SomeBody-Raws][DVD]_Natsu_No_Arashi_-_13_RAW_(704x480_x264_Vorbis).mkv
 !new/raw/natsunoarashi/[SomeBody-Raws][DVD]_Natsu_No_Arashi_-_Clear_ED_(704x480_x264_Vorbis).mkv
 !new/raw/natsunoarashi/[SomeBody-Raws][DVD]_Natsu_No_Arashi_-_Clear_OP_(704x480_x264_Vorbis).mkv
-!new/sd/Put files in same folder as v1 and run me.bat
-!new/sd/[gg]_Star_Driver_-_01v2_[898EDA8C].mkv
-!new/sd/sd0102v2patches.7z
-!new/sd/sd01v2patch.xdelta
-!new/sd/sd02v2patch.xdelta
-!new/sd/xdelta3.exe
-!new/soredemo1v4.7z
 !new/ss/Saint Seiya TV 086.srt
 !new/ss/Saint Seiya TV 087.srt
 !new/ss/Saint Seiya TV 088.srt
