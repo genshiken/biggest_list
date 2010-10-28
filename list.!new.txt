@@ -750,6 +750,7 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
 !new/[101027] TVアニメ「えむえむっ！」OP主題歌「Help！」／石動美緒（CV：竹達彩奈）.zip
 !new/[EAC] [101020] TVアニメ ストライクウィッチーズ2 エンディング・テーマ・コレクション「Over Sky」(ape+cue).rar
+!new/[EAC] [101027] FORTUNE ARTERIAL ～赤い約束～_絆-kizunairo-色／Lia (tak+iso).rar
 !new/[EAC] [101027] TVアニメ『ヨスガノソラ』オープニング主題歌 比翼の羽根 (tta+cue rr5).rar
 !new/[FFFpeeps] Shinryaku! Ika Musume 04 [720p][FA19B964].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_01v2.DVD(H264_AAC)[KAA-Mokkori][632E59F2].mkv
@@ -788,6 +789,7 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
+!new/[ReDone] To Heart ~Remember my Memories~ 05 (DVD) [CC12B666].mkv
 !new/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 05 [Webrip][640x480 h.264 AAC][603F06A1].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
