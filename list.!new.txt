@@ -293,6 +293,7 @@
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - Movie 14 - The Lost Ship in the Sky [DCTP][H264][DA6EB844].mkv
 !new/NANA/[IY-F&Oki] NANA - 21.5 [E0EBFBDD].mkv
 !new/NANA/[IY-F&Oki] NANA - 22 [B29D6430].mkv
 !new/NANA/[IY-F&Oki] NANA - 23 [9BB2F6A9].mkv
@@ -748,17 +749,14 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (arranged) [nnl+b-f].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
 !new/[101027] TVアニメ「えむえむっ！」OP主題歌「Help！」／石動美緒（CV：竹達彩奈）.zip
-!new/[Anonymous]Hidamari Sketch Hoshimittsu Specials [1 of 2](BS-TBS x264 AAC 1280x720).mkv
-!new/[Doremi].HeartCatch.PreCure!.36.[1280x720].[AC3F188C].mkv
 !new/[EAC] [101020] TVアニメ ストライクウィッチーズ2 エンディング・テーマ・コレクション「Over Sky」(ape+cue).rar
-!new/[HorribleSubs] Lilpri - 29 [720p].mkv
-!new/[HorribleSubs] The World God Only Knows - 04 [720p].mkv
+!new/[EAC] [101027] TVアニメ『ヨスガノソラ』オープニング主題歌 比翼の羽根 (tta+cue rr5).rar
+!new/[FFFpeeps] Shinryaku! Ika Musume 04 [720p][FA19B964].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_01v2.DVD(H264_AAC)[KAA-Mokkori][632E59F2].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_02.DVD(H264_AAC)[KAA-Mokkori][4230EED1].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_03.DVD(H264_AAC)[KAA-Mokkori][58536D54].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_04v2.DVD(H264_AAC)[KAA-Mokkori)[179C6CDA].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_05v3.DVD(H264_AAC)[KAA-Mokkori][F061776F].mkv
-!new/[Nekomimi] Sora no Otoshimono - Forte - 01 [9E3895B3].mkv
 !new/[Nipponsei] FORTUNE ARTERIAL ~Akae Yakusou~ OP Single - kizunairo [Lia].zip
 !new/[Nipponsei] MM! OP Single - Help!! [Taketatsu Ayana & Hayami Saori].zip
 !new/[Nipponsei] Mitsudomoe Character Song 4 - Sugisaki [Saitou Chiwa].zip
@@ -766,6 +764,7 @@
 !new/[Nipponsei] Shinryaku! Ika Musume OP Single - Shinryaku no Susume [ULTRA-PRISM].zip
 !new/[Nipponsei] To Aru Kagaku no Railgun OVA ED Single - Special 'ONE' [ELISA].zip
 !new/[Nipponsei] Yosuga no Sora OP Single - Hiyoku no Hane [eufonius].zip
+!new/[Nutbladder]_Hidamari_Sketch_×☆☆☆_-_SP1_[2E43FFC2].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -789,7 +788,7 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
-!new/[SS]_Ore_No_Imouto_-_01_[03E7A607].mkv
+!new/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 05 [Webrip][640x480 h.264 AAC][603F06A1].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm

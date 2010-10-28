@@ -825,6 +825,7 @@ incomplete/Fireball/[DATS] Fireball - 13 [DVD][44ECEABB].mkv
 incomplete/Fortune Arterial/[HorribleSubs] Fortune Arterial - 03 [720p][B2334626].mkv
 incomplete/Fortune Arterial/[SS] Fortune Arterial - 01 [B9350090].mkv
 incomplete/Fortune Arterial/[SS] Fortune Arterial - 02 [855C3F17].mkv
+incomplete/Fortune Arterial/[SS] Fortune Arterial - 03 [68310B3B].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 01 [DVD][B9677652].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 07 [07F8EB78].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 08 [HD][F893BFB8].mkv
@@ -1177,6 +1178,7 @@ incomplete/HeartCatch PreCure!/[Doremi] HeartCatch PreCure! - 32 [720p][4202ABB2
 incomplete/HeartCatch PreCure!/[Doremi] HeartCatch PreCure! - 33 [720p][396E3530].mkv
 incomplete/HeartCatch PreCure!/[Doremi] HeartCatch PreCure! - 34 [720p][ACE9C01B].mkv
 incomplete/HeartCatch PreCure!/[Doremi] HeartCatch PreCure! - 35 [720p][673CC862].mkv
+incomplete/HeartCatch PreCure!/[Doremi] HeartCatch PreCure! - 36 [720p][AC3F188C].mkv
 incomplete/HeartCatch PreCure!/[Doremi] HeartCatch PreCure! - 37 [720p][78B49B10].mkv
 incomplete/Hell Teacher Nube/[ANFS] Hell Teacher Nube - 09 [01E61B16].avi
 incomplete/Hell Teacher Nube/[Flomp] Hell Teacher Nube - 10 [4F190991].mkv
@@ -1294,6 +1296,7 @@ incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi C
 incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 26 [720p][9438E6B1].mkv
 incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 27 [720p][77FF41FE].mkv
 incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 28 [720p][7A65AEC4].mkv
+incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 29 [720p][A60DE56C].mkv
 incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 30 [720p][DD818C78].mkv
 incomplete/Hime-chan's Ribbon/[h-b] Hime-chan's Ribbon - 01 [E3FEC3B1].avi
 incomplete/Hime-chan's Ribbon/[h-b] Hime-chan's Ribbon - 02 [014FF00B].avi
@@ -2215,7 +2218,8 @@ incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 07 [DA39D4E3].mkv
 incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 08 [A2992893].mkv
 incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 09 [v2][3E7043B5].mkv
 incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 10 [v2][CC86036E].mkv
-incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 11 [B16608AE].mkv
+incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 11 [v2][2638E4AA].mkv
+incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 12 [AA1E76C4].mkv
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 01 [3A853D01].avi
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 02 [08A1F4E5].avi
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 03 [A66358B8].avi
@@ -2746,6 +2750,7 @@ incomplete/Ore no Imouto/[Mazui] Ore no Imouto - 01 [9C50F426].mkv
 incomplete/Ore no Imouto/[Mazui] Ore no Imouto - 02 [v2][8530F9DB].mkv
 incomplete/Ore no Imouto/[Mazui] Ore no Imouto - 03 [DF6F1D89].mkv
 incomplete/Ore no Imouto/[Mazui] Ore no Imouto - 04 [73464065].mkv
+incomplete/Ore no Imouto/[SS] Ore no Imouto - 01 [03E7A607].mkv
 incomplete/Ore no Imouto/[SS] Ore no Imouto - 02 [3A56DDAC].mkv
 incomplete/Ore no Imouto/[SS] Ore no Imouto - 03 [F0922429].mkv
 incomplete/Otome Youkai Zakuro/[HorribleSubs] Otome Yokai Zakuro - 04 [720p][F08D78A8].mkv
@@ -3169,6 +3174,7 @@ incomplete/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 01
 incomplete/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 02 [720p][296FF30E].mkv
 incomplete/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 03 [720p][9B754405].mkv
 incomplete/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 04 [v2 720p][63D68C31].mkv
+incomplete/Sora no Otoshimono Forte/[Nekomimi] Sora no Otoshimono Forte - 01 [9E3895B3].mkv
 incomplete/Sora no Otoshimono Forte/[Nekomimi] Sora no Otoshimono Forte - 02 [FAED2A09].mkv
 incomplete/Sora no Otoshimono Forte/[Nekomimi] Sora no Otoshimono Forte - 03 [6F1588AC].mkv
 incomplete/Soredemo Machi wa Mawatteiru/[gg] Soredemo Machi wa Mawatteiru - 01 [v4][EF7E39C6].mkv
@@ -3320,6 +3326,7 @@ incomplete/The Trapp Family Story/[Live-eviL] The Trapp Family Story - 24 [C471A
 incomplete/The World God Only Knows/[Commie] The World God Only Knows - 01 [476E9732].mkv
 incomplete/The World God Only Knows/[Commie] The World God Only Knows - 02 [06923124].mkv
 incomplete/The World God Only Knows/[Commie] The World God Only Knows - 03 [C68B0DFE].mkv
+incomplete/The World God Only Knows/[HorribleSubs] The World God Only Knows - 04 [720p][4D5D4BDF].mkv
 incomplete/To Heart - Remember my Memories/[ReDone] To Heart - Remember my Memories - 01 [DVD][04641A84].mkv
 incomplete/To Heart - Remember my Memories/[ReDone] To Heart - Remember my Memories - 02 [DVD][18FA126A].mkv
 incomplete/To Heart - Remember my Memories/[ReDone] To Heart - Remember my Memories - 03 [DVD][16AE26CE].mkv
