@@ -747,15 +747,25 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Omake OVA [nnl].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (arranged) [nnl+b-f].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
+!new/[101027] TVアニメ「えむえむっ！」OP主題歌「Help！」／石動美緒（CV：竹達彩奈）.zip
 !new/[Anonymous]Hidamari Sketch Hoshimittsu Specials [1 of 2](BS-TBS x264 AAC 1280x720).mkv
 !new/[Doremi].HeartCatch.PreCure!.36.[1280x720].[AC3F188C].mkv
 !new/[EAC] [101020] TVアニメ ストライクウィッチーズ2 エンディング・テーマ・コレクション「Over Sky」(ape+cue).rar
+!new/[HorribleSubs] Lilpri - 29 [720p].mkv
+!new/[HorribleSubs] The World God Only Knows - 04 [720p].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_01v2.DVD(H264_AAC)[KAA-Mokkori][632E59F2].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_02.DVD(H264_AAC)[KAA-Mokkori][4230EED1].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_03.DVD(H264_AAC)[KAA-Mokkori][58536D54].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_04v2.DVD(H264_AAC)[KAA-Mokkori)[179C6CDA].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_05v3.DVD(H264_AAC)[KAA-Mokkori][F061776F].mkv
 !new/[Nekomimi] Sora no Otoshimono - Forte - 01 [9E3895B3].mkv
+!new/[Nipponsei] FORTUNE ARTERIAL ~Akae Yakusou~ OP Single - kizunairo [Lia].zip
+!new/[Nipponsei] MM! OP Single - Help!! [Taketatsu Ayana & Hayami Saori].zip
+!new/[Nipponsei] Mitsudomoe Character Song 4 - Sugisaki [Saitou Chiwa].zip
+!new/[Nipponsei] Mitsudomoe Character Song 5 - Matsuoka [Hayama Ikumi].zip
+!new/[Nipponsei] Shinryaku! Ika Musume OP Single - Shinryaku no Susume [ULTRA-PRISM].zip
+!new/[Nipponsei] To Aru Kagaku no Railgun OVA ED Single - Special 'ONE' [ELISA].zip
+!new/[Nipponsei] Yosuga no Sora OP Single - Hiyoku no Hane [eufonius].zip
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -1019,6 +1029,10 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[iSiscon]_KOTOKO_-_TV_Anime_Motto_To_Love_Ru_OP_Single_-_Loop-the-Loop_[w_scans]_(FLAC).rar
+!new/[iSiscon]_Katou_Emiri_-_Jump!_[w_scans]_(FLAC).rar
+!new/[iSiscon]_Kikuya_Tomoki,_Chihara_Minori_-_Asobi_ni_Iku_yo!_Original_Soundtrack_[w_scans]_(FLAC).rar
+!new/[iSiscon]_Nakahara_Mai_-_Suisei_Script_[w_scans]_(FLAC).rar
 !new/[mSubs]_Jewel_Pet_-_01_(720p)(AA1D364B).mkv
 !new/[애갤러스][101020] AmagamiSS ED4 Single - Koi wa Mizuiro [Nanasaki Ai (CV.Yukana)] (FLAC).rar
 !new/[애갤러스][101020] AmagamiSS OP2 Single - Kimi no Mama de [azusa] (FLAC).rar
