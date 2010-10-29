@@ -761,11 +761,13 @@
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_04v2.DVD(H264_AAC)[KAA-Mokkori)[179C6CDA].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_05v3.DVD(H264_AAC)[KAA-Mokkori][F061776F].mkv
 !new/[Nipponsei] FORTUNE ARTERIAL ~Akae Yakusou~ OP Single - kizunairo [Lia].zip
+!new/[Nipponsei] FORTUNE ARTERIAL ~Akai Yakusoku~ ED Single - I miss you [Veil].zip
 !new/[Nipponsei] MM! OP Single - Help!! [Taketatsu Ayana & Hayami Saori].zip
 !new/[Nipponsei] Mitsudomoe Character Song 4 - Sugisaki [Saitou Chiwa].zip
 !new/[Nipponsei] Mitsudomoe Character Song 5 - Matsuoka [Hayama Ikumi].zip
 !new/[Nipponsei] Shinryaku! Ika Musume OP Single - Shinryaku no Susume [ULTRA-PRISM].zip
 !new/[Nipponsei] To Aru Kagaku no Railgun OVA ED Single - Special 'ONE' [ELISA].zip
+!new/[Nipponsei] Yosuga no Sora Insert Song Single - Tsunagu Kizuna [Team. Nekocan feat. Amaoto Junca].zip
 !new/[Nipponsei] Yosuga no Sora OP Single - Hiyoku no Hane [eufonius].zip
 !new/[Nutbladder]_Hidamari_Sketch_×☆☆☆_-_SP1_[2E43FFC2].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
@@ -1033,7 +1035,9 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[UTW]_Amagami_SS_-_01_[BD][h264-1080p_FLAC][511BFEEE].mkv
 !new/[UTW]_Amagami_SS_-_02v2_[BD][h264-1080p_FLAC][8CB124A7].mkv
+!new/[Wasurenai] Marie & Gali - 21 [H264 1280x720] [C48CEAA7].mkv
 !new/[iSiscon]_ELISA_-_OVA_Toaru_Kagaku_no_Railgun_ED_Theme_-_Special_ONE_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Isurugi_Mio_(CV._Taketatsu_Ayana)_&_Yuuno_Arashiko_(CV._Hayami_Saori)_-_TV_Anime_MM!_OP_Single_-_HELP!!_[w_scans]_(FLAC).rar
 !new/[iSiscon]_KOTOKO_-_TV_Anime_Motto_To_Love_Ru_OP_Single_-_Loop-the-Loop_[w_scans]_(FLAC).rar
