@@ -749,23 +749,44 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (arranged) [nnl+b-f].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
 !new/[101027] TVアニメ「えむえむっ！」OP主題歌「Help！」／石動美緒（CV：竹達彩奈）.zip
+!new/[ANBU]_Cross_Game_-_46_[C4A33BD4].mkv
+!new/[ANBU]_Cross_Game_-_47_[E766364F].mkv
+!new/[ANBU]_Cross_Game_-_48_[8F5B6AB8].mkv
+!new/[ANBU]_Cross_Game_-_49_[34854233].mkv
+!new/[ANBU]_Cross_Game_-_50_[FA60120F].mkv
+!new/[AQS-Anime]_Negima_Mou_Hitotsu_no_Sekai_OAD_04_[H264-AAC][842FC24F].mkv
+!new/[Commie] The Legend of the Legendary Heroes - 15 [CABC0643].mkv
+!new/[Commie] The World God Only Knows - 04 [AC4FC098].mkv
+!new/[DB]_Hakuouki_15_[769016FA].avi
+!new/[Derp]_Legend_of_the_Legendary_Heroes_-_17_(1280x720_x264_AAC).mkv
 !new/[EAC] [101020] TVアニメ ストライクウィッチーズ2 エンディング・テーマ・コレクション「Over Sky」(ape+cue).rar
 !new/[EAC] [101027] FORTUNE ARTERIAL ～赤い約束～_I miss you／Veil (tak+iso).rar
 !new/[EAC] [101027] FORTUNE ARTERIAL ～赤い約束～_絆-kizunairo-色／Lia (tak+iso).rar
 !new/[EAC] [101027] TVアニメ『ヨスガノソラ』オープニング主題歌 比翼の羽根 (tta+cue rr5).rar
 !new/[FFFpeeps] Shinryaku! Ika Musume 04 [720p][FA19B964].mkv
+!new/[Hatsuyuki]_07-Ghost_-_21_[1280x720][584F3ABE].mkv
+!new/[Hatsuyuki]_07-Ghost_-_22_[1280x720][56EFC25E].mkv
+!new/[Hatsuyuki]_07-Ghost_-_23_[1280x720][D194FABF].mkv
+!new/[Hatsuyuki]_07-Ghost_-_24_[1280x720][ACF2F8F2].mkv
+!new/[Hatsuyuki]_07-Ghost_-_25_END_[1280x720][59D3B357].mkv
+!new/[HorribleSubs] Fortune Arterial - 04 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 183v2 [720p].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_01v2.DVD(H264_AAC)[KAA-Mokkori][632E59F2].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_02.DVD(H264_AAC)[KAA-Mokkori][4230EED1].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_03.DVD(H264_AAC)[KAA-Mokkori][58536D54].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_04v2.DVD(H264_AAC)[KAA-Mokkori)[179C6CDA].mkv
 !new/[KAA-Mokkori]_School_Rumble_1-5.DVD/School_Rumble_05v3.DVD(H264_AAC)[KAA-Mokkori][F061776F].mkv
+!new/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 23 [H264 1280x720] [D3407121].mkv
+!new/[Mazui-UTW]_To_Aru_Kagaku_no_Railgun_-_EX_OVA_[179BCCC6].mkv
+!new/[Nipponsei] Densetsu no Yuusha no Densetsu OP2 Single - Last Inferno [Ceui].zip
 !new/[Nipponsei] FORTUNE ARTERIAL ~Akae Yakusou~ OP Single - kizunairo [Lia].zip
 !new/[Nipponsei] FORTUNE ARTERIAL ~Akai Yakusoku~ ED Single - I miss you [Veil].zip
+!new/[Nipponsei] Hyakka Ryouran Samurai Girls OP Single - Last vision for last [Faylan].zip
 !new/[Nipponsei] MM! OP Single - Help!! [Taketatsu Ayana & Hayami Saori].zip
 !new/[Nipponsei] Mitsudomoe Character Song 4 - Sugisaki [Saitou Chiwa].zip
 !new/[Nipponsei] Mitsudomoe Character Song 5 - Matsuoka [Hayama Ikumi].zip
 !new/[Nipponsei] Shinryaku! Ika Musume OP Single - Shinryaku no Susume [ULTRA-PRISM].zip
+!new/[Nipponsei] Super Robot Taisen OG The Inspector OP Single - MAXON [JAM Project].zip
 !new/[Nipponsei] To Aru Kagaku no Railgun OVA ED Single - Special 'ONE' [ELISA].zip
 !new/[Nipponsei] Yosuga no Sora Insert Song Single - Tsunagu Kizuna [Team. Nekocan feat. Amaoto Junca].zip
 !new/[Nipponsei] Yosuga no Sora OP Single - Hiyoku no Hane [eufonius].zip
@@ -794,6 +815,8 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
 !new/[ReDone] To Heart ~Remember my Memories~ 05 (DVD) [CC12B666].mkv
+!new/[ReDone] Touka Gettan - 13 (DVD) [47D58A42].mkv
+!new/[Ryuumaru] MM! - 05 [D8CD4B38].mkv
 !new/[Ryuumaru] Otome Youkai Zakuro - 04 [720p][71B23190].mkv
 !new/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 05 [Webrip][640x480 h.264 AAC][603F06A1].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
@@ -1038,7 +1061,11 @@
 !new/[UTW]_Amagami_SS_-_01_[BD][h264-1080p_FLAC][511BFEEE].mkv
 !new/[UTW]_Amagami_SS_-_02v2_[BD][h264-1080p_FLAC][8CB124A7].mkv
 !new/[UTW]_Amagami_SS_-_17_[h264-720p][775D35B1].mkv
+!new/[Underwater] Panty & Stocking with Garterbelt - 05 [CB280A79].mkv
 !new/[Wasurenai] Marie & Gali - 21 [H264 1280x720] [C48CEAA7].mkv
+!new/[Wasurenai] Marie & Gali - 22 [H264 1280x720] [0171B182].mkv
+!new/[chibi-Doki] Seikon no Qwaser - 09 (1280x720 h264 BD FLAC) [AC1C6FCD].mkv
+!new/[gg]_Togainu_no_Chi_-_04_[75CCD3BF].mkv
 !new/[iSiscon]_ELISA_-_OVA_Toaru_Kagaku_no_Railgun_ED_Theme_-_Special_ONE_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Isurugi_Mio_(CV._Taketatsu_Ayana)_&_Yuuno_Arashiko_(CV._Hayami_Saori)_-_TV_Anime_MM!_OP_Single_-_HELP!!_[w_scans]_(FLAC).rar
 !new/[iSiscon]_KOTOKO_-_TV_Anime_Motto_To_Love_Ru_OP_Single_-_Loop-the-Loop_[w_scans]_(FLAC).rar
@@ -1046,7 +1073,9 @@
 !new/[iSiscon]_Kikuya_Tomoki,_Chihara_Minori_-_Asobi_ni_Iku_yo!_Original_Soundtrack_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Nakahara_Mai_-_Suisei_Script_[w_scans]_(FLAC).rar
 !new/[iSiscon]_eufonius_-_TV_Anime_Yosuga_no_Sora_OP_Single_-_Hiyoku_no_Hane_[w_scans]_(FLAC).rar
+!new/[iSiscon]_faylan_-_Hyakka_Ryouran_Samurai_Girls_OP_Single_-_Last_vision_for_last_[w_scans]_(FLAC).rar
 !new/[mSubs]_Jewel_Pet_-_01_(720p)(AA1D364B).mkv
+!new/[yibis]_One_Piece_472_[720p][8E357023].mkv
 !new/[애갤러스][101020] AmagamiSS ED4 Single - Koi wa Mizuiro [Nanasaki Ai (CV.Yukana)] (FLAC).rar
 !new/[애갤러스][101020] AmagamiSS OP2 Single - Kimi no Mama de [azusa] (FLAC).rar
 !new/[애갤러스][101027] Fortune Arterial OP Single - -kizunairo- [Lia] (320k).rar
@@ -1153,6 +1182,7 @@
 !new/bla/zx.black.heaven.12.sub.rar
 !new/bla/zx.black.heaven.13.dub.avi
 !new/bla/zx.black.heaven.13.sub.rar
+!new/ghost_in_the_shell_2_-_innocence[1920x1040.h264.flac][niizk].mkv
 !new/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/lama/[Ayako] Wei� Survive R - 01 - H264 - E975A989.mkv
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
