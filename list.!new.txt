@@ -764,6 +764,7 @@
 !new/[EAC] [101027] FORTUNE ARTERIAL ～赤い約束～_絆-kizunairo-色／Lia (tak+iso).rar
 !new/[EAC] [101027] TVアニメ『ヨスガノソラ』オープニング主題歌 比翼の羽根 (tta+cue rr5).rar
 !new/[FFFpeeps] Shinryaku! Ika Musume 04 [720p][FA19B964].mkv
+!new/[Force-Works] Iron Man - 05 [29711CD6].mkv
 !new/[Hatsuyuki]_07-Ghost_-_21_[1280x720][584F3ABE].mkv
 !new/[Hatsuyuki]_07-Ghost_-_22_[1280x720][56EFC25E].mkv
 !new/[Hatsuyuki]_07-Ghost_-_23_[1280x720][D194FABF].mkv
@@ -781,6 +782,7 @@
 !new/[Nipponsei] Densetsu no Yuusha no Densetsu OP2 Single - Last Inferno [Ceui].zip
 !new/[Nipponsei] FORTUNE ARTERIAL ~Akae Yakusou~ OP Single - kizunairo [Lia].zip
 !new/[Nipponsei] FORTUNE ARTERIAL ~Akai Yakusoku~ ED Single - I miss you [Veil].zip
+!new/[Nipponsei] Heartcatch Precure! Insert Song Single - Power of Shine [Kuwashima Houko & Hisakawa Aya].zip
 !new/[Nipponsei] Hyakka Ryouran Samurai Girls OP Single - Last vision for last [Faylan].zip
 !new/[Nipponsei] MM! OP Single - Help!! [Taketatsu Ayana & Hayami Saori].zip
 !new/[Nipponsei] Mitsudomoe Character Song 4 - Sugisaki [Saitou Chiwa].zip
@@ -790,6 +792,7 @@
 !new/[Nipponsei] To Aru Kagaku no Railgun OVA ED Single - Special 'ONE' [ELISA].zip
 !new/[Nipponsei] Yosuga no Sora Insert Song Single - Tsunagu Kizuna [Team. Nekocan feat. Amaoto Junca].zip
 !new/[Nipponsei] Yosuga no Sora OP Single - Hiyoku no Hane [eufonius].zip
+!new/[Nipponsei] Yumeiro Patissiere SP Professional OP ED Single - Sweet Romance [Gojou Mayumi & Primavera].zip
 !new/[Nutbladder]_Hidamari_Sketch_×☆☆☆_-_SP1_[2E43FFC2].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
@@ -1061,10 +1064,12 @@
 !new/[UTW]_Amagami_SS_-_01_[BD][h264-1080p_FLAC][511BFEEE].mkv
 !new/[UTW]_Amagami_SS_-_02v2_[BD][h264-1080p_FLAC][8CB124A7].mkv
 !new/[UTW]_Amagami_SS_-_17_[h264-720p][775D35B1].mkv
+!new/[UTW]_Toaru_Majutsu_no_Index_II_-_04_[h264-720p][6858FA64].mkv
 !new/[Underwater] Panty & Stocking with Garterbelt - 05 [CB280A79].mkv
 !new/[Wasurenai] Marie & Gali - 21 [H264 1280x720] [C48CEAA7].mkv
 !new/[Wasurenai] Marie & Gali - 22 [H264 1280x720] [0171B182].mkv
 !new/[chibi-Doki] Seikon no Qwaser - 09 (1280x720 h264 BD FLAC) [AC1C6FCD].mkv
+!new/[gg]_Soredemo_Machi_wa_Mawatteiru_-_04_[5E34D898].mkv
 !new/[gg]_Togainu_no_Chi_-_04_[75CCD3BF].mkv
 !new/[iSiscon]_ELISA_-_OVA_Toaru_Kagaku_no_Railgun_ED_Theme_-_Special_ONE_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Isurugi_Mio_(CV._Taketatsu_Ayana)_&_Yuuno_Arashiko_(CV._Hayami_Saori)_-_TV_Anime_MM!_OP_Single_-_HELP!!_[w_scans]_(FLAC).rar
