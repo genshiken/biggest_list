@@ -293,6 +293,7 @@
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - 592 [DCTP][720p][1B3A3FF3].mp4
 !new/Detective Conan - Movie 14 - The Lost Ship in the Sky [DCTP][H264][DA6EB844].mkv
 !new/NANA/[IY-F&Oki] NANA - 21.5 [E0EBFBDD].mkv
 !new/NANA/[IY-F&Oki] NANA - 22 [B29D6430].mkv
@@ -819,6 +820,7 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
 !new/[ReDone] To Heart ~Remember my Memories~ 05 (DVD) [CC12B666].mkv
 !new/[ReDone] Touka Gettan - 13 (DVD) [47D58A42].mkv
+!new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 04 [720p][8E042F4F].mkv
 !new/[Ryuumaru] MM! - 05 [D8CD4B38].mkv
 !new/[Ryuumaru] Otome Youkai Zakuro - 04 [720p][71B23190].mkv
 !new/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 05 [Webrip][640x480 h.264 AAC][603F06A1].mkv
@@ -1080,6 +1082,7 @@
 !new/[iSiscon]_eufonius_-_TV_Anime_Yosuga_no_Sora_OP_Single_-_Hiyoku_no_Hane_[w_scans]_(FLAC).rar
 !new/[iSiscon]_faylan_-_Hyakka_Ryouran_Samurai_Girls_OP_Single_-_Last_vision_for_last_[w_scans]_(FLAC).rar
 !new/[mSubs]_Jewel_Pet_-_01_(720p)(AA1D364B).mkv
+!new/[tv-j] kidou senshi gundam uc unicorn - episode.02 [bd 1920x1080 h264+aac(5.1ch jp+en) +sub(jp-en-sp-fr-ch) chap].mp4
 !new/[yibis]_One_Piece_472_[720p][8E357023].mkv
 !new/[애갤러스][101020] AmagamiSS ED4 Single - Koi wa Mizuiro [Nanasaki Ai (CV.Yukana)] (FLAC).rar
 !new/[애갤러스][101020] AmagamiSS OP2 Single - Kimi no Mama de [azusa] (FLAC).rar
