@@ -756,9 +756,11 @@
 !new/[ANBU]_Cross_Game_-_49_[34854233].mkv
 !new/[ANBU]_Cross_Game_-_50_[FA60120F].mkv
 !new/[AQS-Anime]_Negima_Mou_Hitotsu_no_Sekai_OAD_04_[H264-AAC][842FC24F].mkv
+!new/[Commie] Shiki - 09 [BF086813].mkv
 !new/[Commie] The Legend of the Legendary Heroes - 15 [CABC0643].mkv
 !new/[Commie] The World God Only Knows - 04 [AC4FC098].mkv
 !new/[DB]_Hakuouki_15_[769016FA].avi
+!new/[DB]_Ninku_14_[10EEC769].avi
 !new/[Derp]_Legend_of_the_Legendary_Heroes_-_17_(1280x720_x264_AAC).mkv
 !new/[EAC] [101020] TVアニメ ストライクウィッチーズ2 エンディング・テーマ・コレクション「Over Sky」(ape+cue).rar
 !new/[EAC] [101027] FORTUNE ARTERIAL ～赤い約束～_I miss you／Veil (tak+iso).rar
@@ -784,12 +786,14 @@
 !new/[Nipponsei] FORTUNE ARTERIAL ~Akae Yakusou~ OP Single - kizunairo [Lia].zip
 !new/[Nipponsei] FORTUNE ARTERIAL ~Akai Yakusoku~ ED Single - I miss you [Veil].zip
 !new/[Nipponsei] Heartcatch Precure! Insert Song Single - Power of Shine [Kuwashima Houko & Hisakawa Aya].zip
+!new/[Nipponsei] Heartcatch Precure! Movie OP ED Single - Alright! Heartcatch Precure! for the Movie [Ikeda Aya & Kudou Mayu].zip
 !new/[Nipponsei] Hyakka Ryouran Samurai Girls OP Single - Last vision for last [Faylan].zip
 !new/[Nipponsei] MM! OP Single - Help!! [Taketatsu Ayana & Hayami Saori].zip
 !new/[Nipponsei] Mitsudomoe Character Song 4 - Sugisaki [Saitou Chiwa].zip
 !new/[Nipponsei] Mitsudomoe Character Song 5 - Matsuoka [Hayama Ikumi].zip
 !new/[Nipponsei] Shinryaku! Ika Musume OP Single - Shinryaku no Susume [ULTRA-PRISM].zip
 !new/[Nipponsei] Super Robot Taisen OG The Inspector OP Single - MAXON [JAM Project].zip
+!new/[Nipponsei] Tantei Opera Milky Holmes OP Single - Seikai wa Hitotsu! Ja nai!! [Various].zip
 !new/[Nipponsei] To Aru Kagaku no Railgun OVA ED Single - Special 'ONE' [ELISA].zip
 !new/[Nipponsei] Yosuga no Sora Insert Song Single - Tsunagu Kizuna [Team. Nekocan feat. Amaoto Junca].zip
 !new/[Nipponsei] Yosuga no Sora OP Single - Hiyoku no Hane [eufonius].zip
@@ -1072,6 +1076,7 @@
 !new/[Wasurenai] Marie & Gali - 22 [H264 1280x720] [0171B182].mkv
 !new/[chibi-Doki] Seikon no Qwaser - 09 (1280x720 h264 BD FLAC) [AC1C6FCD].mkv
 !new/[gg]_Soredemo_Machi_wa_Mawatteiru_-_04_[5E34D898].mkv
+!new/[gg]_Star_Driver_-_05_[7C8FBC51].mkv
 !new/[gg]_Togainu_no_Chi_-_04_[75CCD3BF].mkv
 !new/[iSiscon]_ELISA_-_OVA_Toaru_Kagaku_no_Railgun_ED_Theme_-_Special_ONE_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Isurugi_Mio_(CV._Taketatsu_Ayana)_&_Yuuno_Arashiko_(CV._Hayami_Saori)_-_TV_Anime_MM!_OP_Single_-_HELP!!_[w_scans]_(FLAC).rar
@@ -1083,6 +1088,7 @@
 !new/[iSiscon]_faylan_-_Hyakka_Ryouran_Samurai_Girls_OP_Single_-_Last_vision_for_last_[w_scans]_(FLAC).rar
 !new/[mSubs]_Jewel_Pet_-_01_(720p)(AA1D364B).mkv
 !new/[tv-j] kidou senshi gundam uc unicorn - episode.02 [bd 1920x1080 h264+aac(5.1ch jp+en) +sub(jp-en-sp-fr-ch) chap].mp4
+!new/[uguu~]_Zoku_Sayonara_Zetsubou_Sensei_03_(DVD)_[F3B12BC7].mkv
 !new/[yibis]_One_Piece_472_[720p][8E357023].mkv
 !new/[애갤러스][101020] AmagamiSS ED4 Single - Koi wa Mizuiro [Nanasaki Ai (CV.Yukana)] (FLAC).rar
 !new/[애갤러스][101020] AmagamiSS OP2 Single - Kimi no Mama de [azusa] (FLAC).rar
