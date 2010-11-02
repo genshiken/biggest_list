@@ -765,6 +765,7 @@
 !new/[DB]_Hakuouki_15_[769016FA].avi
 !new/[DB]_Ninku_14_[10EEC769].avi
 !new/[Derp]_Legend_of_the_Legendary_Heroes_-_17_(1280x720_x264_AAC).mkv
+!new/[Doremi].HeartCatch.PreCure!.38.[1280x720].[7EBDB8A0].mkv
 !new/[Doremi].Strange.Dawn.09.[BC2C0997].mkv
 !new/[EAC] [101020] TVアニメ ストライクウィッチーズ2 エンディング・テーマ・コレクション「Over Sky」(ape+cue).rar
 !new/[EAC] [101027] FORTUNE ARTERIAL ～赤い約束～_I miss you／Veil (tak+iso).rar
@@ -777,6 +778,7 @@
 !new/[Hatsuyuki]_07-Ghost_-_24_[1280x720][ACF2F8F2].mkv
 !new/[Hatsuyuki]_07-Ghost_-_25_END_[1280x720][59D3B357].mkv
 !new/[Himatsubushi]_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_-_05_ [5C5F77AC].mkv
+!new/[HorribleSubs] Bleach - 295 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 52 [720p].mkv
 !new/[HorribleSubs] Fortune Arterial - 04 [720p].mkv
 !new/[HorribleSubs] Lilpri - 31 [720p].mkv
@@ -835,7 +837,10 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
 !new/[ReDone] To Heart ~Remember my Memories~ 05 (DVD) [CC12B666].mkv
 !new/[ReDone] Touka Gettan - 13 (DVD) [47D58A42].mkv
+!new/[Ritsuka][101103] Kami Nomi Zo Shiru Sekai OP Single - God Only Knows [Oratorio The World God Only Knows] (FLAC).rar
+!new/[Ritsuka][101103] To Aru Majutsu no Index II OP Single - No buts! [Kawada Mami] (FLAC).rar
 !new/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 05 [Webrip][640x480 h.264 AAC][603F06A1].mkv
+!new/[SS]_Fortune_Arterial_-_04_[9BFBE36D].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -1075,6 +1080,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[UTW-Ryuumaru] Yosuga no Sora - 05 [720p][AA106D11].mkv
 !new/[Underwater] Shinryaku! Ika Musume - 04 [720p][0E95F810].mkv
 !new/[Wasurenai] Marie & Gali - 21 [H264 1280x720] [C48CEAA7].mkv
 !new/[Wasurenai] Marie & Gali - 22 [H264 1280x720] [0171B182].mkv
@@ -1091,6 +1097,7 @@
 !new/[mSubs]_Jewel_Pet_-_01_(720p)(AA1D364B).mkv
 !new/[tv-j] kidou senshi gundam uc unicorn - episode.02 [bd 1920x1080 h264+aac(5.1ch jp+en) +sub(jp-en-sp-fr-ch) chap].mp4
 !new/[uguu~]_Zoku_Sayonara_Zetsubou_Sensei_03_(DVD)_[F3B12BC7].mkv
+!new/[yibis]_One_Piece_473_[720p][65D67830].mkv
 !new/[애갤러스][101020] AmagamiSS ED4 Single - Koi wa Mizuiro [Nanasaki Ai (CV.Yukana)] (FLAC).rar
 !new/[애갤러스][101020] AmagamiSS OP2 Single - Kimi no Mama de [azusa] (FLAC).rar
 !new/[애갤러스][101027] Fortune Arterial OP Single - -kizunairo- [Lia] (320k).rar
