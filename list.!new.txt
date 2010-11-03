@@ -839,12 +839,16 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
+!new/[Over-Time]_Kamen_Rider_OOO_-_09_[0D91EA7A].mkv
 !new/[ReDone] To Heart ~Remember my Memories~ 05 (DVD) [CC12B666].mkv
 !new/[ReDone] Touka Gettan - 13 (DVD) [47D58A42].mkv
 !new/[Ritsuka][101103] Kami Nomi Zo Shiru Sekai OP Single - God Only Knows [Oratorio The World God Only Knows] (FLAC).rar
 !new/[Ritsuka][101103] To Aru Majutsu no Index II OP Single - No buts! [Kawada Mami] (FLAC).rar
+!new/[RyRo]_Inazuma_Eleven_-_105_(1280x720_x264_AAC)_[2D7F0D31].mkv
 !new/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 05 [Webrip][640x480 h.264 AAC][603F06A1].mkv
 !new/[SS]_Fortune_Arterial_-_04_[9BFBE36D].mkv
+!new/[Saizen]_Ookiku_Furikabutte_-_The_Summer_Tournament_Chapter_-_11_[01B704F0].mkv
+!new/[Saizen]_Ookiku_Furikabutte_-_The_Summer_Tournament_Chapter_-_12_[59FB40D9].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -1109,6 +1113,14 @@
 !new/[애갤러스][101027] OVA To Aru Kagaku no Railgun ED Single - Special -ONE- [ELISA] (FLAC).rar
 !new/[애갤러스][101027] Togainu no Chi OP Single - ROSE HIP-BULLET [GRANRODEO] (FLAC).rar
 !new/[애갤러스][101027] Yosuga no Sora OP Single - Hiyoku no Hane [eufonius] (320k).rar
+!new/aika_01[h264.vorbis][niizk].mkv
+!new/aika_02[h264.vorbis][niizk].mkv
+!new/aika_03[h264.vorbis][niizk].mkv
+!new/aika_04.5[h264.vorbis][niizk].mkv
+!new/aika_04[h264.vorbis][niizk].mkv
+!new/aika_05[h264.vorbis][niizk].mkv
+!new/aika_06[h264.vorbis][niizk].mkv
+!new/aika_07[h264.vorbis][niizk].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
