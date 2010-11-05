@@ -812,11 +812,6 @@
 !new/[GotWoot]_House_of_Five_Leaves_10_[720p_H264][6E077104].mkv
 !new/[GotWoot]_House_of_Five_Leaves_11_[720p_H264][E2D23C3D].mkv
 !new/[GotWoot]_House_of_Five_Leaves_12_[FINAL][720p_H264][F838101E].mkv
-!new/[Hatsuyuki]_07-Ghost_-_21_[1280x720][584F3ABE].mkv
-!new/[Hatsuyuki]_07-Ghost_-_22_[1280x720][56EFC25E].mkv
-!new/[Hatsuyuki]_07-Ghost_-_23_[1280x720][D194FABF].mkv
-!new/[Hatsuyuki]_07-Ghost_-_24_[1280x720][ACF2F8F2].mkv
-!new/[Hatsuyuki]_07-Ghost_-_25_END_[1280x720][59D3B357].mkv
 !new/[Himatsubushi]_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_-_05_ [5C5F77AC].mkv
 !new/[HorribleSubs] Bleach - 295 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 52 [720p].mkv
@@ -881,7 +876,6 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
-!new/[Over-Time]_Kamen_Rider_OOO_-_09_[0D91EA7A].mkv
 !new/[ReDone] To Heart ~Remember my Memories~ 05 (DVD) [CC12B666].mkv
 !new/[ReDone] Touka Gettan - 13 (DVD) [47D58A42].mkv
 !new/[Ritsuka][101103] Kami Nomi Zo Shiru Sekai OP Single - God Only Knows [Oratorio The World God Only Knows] (FLAC).rar

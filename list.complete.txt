@@ -11,6 +11,31 @@ complete/0/009-1/[cLT] 009-1 - 09.5 [DVD][8BC2EF47].mkv
 complete/0/009-1/[cLT] 009-1 - 10 [DVD][92D90756].mkv
 complete/0/009-1/[cLT] 009-1 - 11 [DVD][BA1B8E61].mkv
 complete/0/009-1/[cLT] 009-1 - 12 [End][DVD][430C3C54].mkv
+complete/0/07-Ghost/[Hatsuyuki] 07-Ghost - 21 [720p][584F3ABE].mkv
+complete/0/07-Ghost/[Hatsuyuki] 07-Ghost - 22 [720p][56EFC25E].mkv
+complete/0/07-Ghost/[Hatsuyuki] 07-Ghost - 23 [720p][D194FABF].mkv
+complete/0/07-Ghost/[Hatsuyuki] 07-Ghost - 24 [720p][ACF2F8F2].mkv
+complete/0/07-Ghost/[Hatsuyuki] 07-Ghost - 25 [End][720p][59D3B357].mkv
+complete/0/07-Ghost/[YuS-SHS] 07-Ghost - 01 [576p][A0788A9D].mkv
+complete/0/07-Ghost/[YuS-SHS] 07-Ghost - 02 [576p][A33BA40F].mkv
+complete/0/07-Ghost/[YuS-SHS] 07-Ghost - 03 [576p][735FEB74].mkv
+complete/0/07-Ghost/[YuS-SHS] 07-Ghost - 04 [576p][C33B7114].mkv
+complete/0/07-Ghost/[YuS-SHS] 07-Ghost - 05 [v2 576p][D09CDE41].mkv
+complete/0/07-Ghost/[YuS-SHS] 07-Ghost - 06 [576p][26493148].mkv
+complete/0/07-Ghost/[YuS-SHS] 07-Ghost - 07 [576p][151ED48B].mkv
+complete/0/07-Ghost/[YuS-SHS] 07-Ghost - 08 [576p][45580FC2].mkv
+complete/0/07-Ghost/[YuS-SHS] 07-Ghost - 09 [576p][93AFC271].mkv
+complete/0/07-Ghost/[YuS-SHS] 07-Ghost - 10 [576p][2C14F276].mkv
+complete/0/07-Ghost/[YuS-SHS] 07-Ghost - 11 [576p][0FF8331B].mkv
+complete/0/07-Ghost/[YuS-SHS] 07-Ghost - 12 [576p][7D67C46F].mkv
+complete/0/07-Ghost/[YuS-SHS] 07-Ghost - 13 [576p][86C2D53D].mkv
+complete/0/07-Ghost/[YuS-SHS] 07-Ghost - 14 [576p][20BD36A8].mkv
+complete/0/07-Ghost/[YuS-SHS] 07-Ghost - 15 [576p][576EFA33].mkv
+complete/0/07-Ghost/[YuS-SHS] 07-Ghost - 16 [576p][9448CD17].mkv
+complete/0/07-Ghost/[YuS-SHS] 07-Ghost - 17 [576p][D2EF1507].mkv
+complete/0/07-Ghost/[YuS-SHS] 07-Ghost - 18 [576p][333D0823].mkv
+complete/0/07-Ghost/[YuS-SHS] 07-Ghost - 19 [576p][34E6E669].mkv
+complete/0/07-Ghost/[YuS-SHS] 07-Ghost - 20 [576p][CF1920D0].mkv
 complete/1/11eyes OVA/[Seiippai] 11eyes OVA (1920x1080) [BD][EFEA9AC6].mkv
 complete/1/11eyes/[Commie] 11eyes - Ending (1920x1080) [BD][FAF2457B].mkv
 complete/1/11eyes/[FTV-Wasurenai] 11eyes - 01 (1280x720) [BD][07238189].mkv
