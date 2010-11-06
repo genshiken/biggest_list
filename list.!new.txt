@@ -791,6 +791,7 @@
 !new/[DATS] Bakegyamon - 01 [B4442803].mkv
 !new/[DB]_Hakuouki_15_[769016FA].avi
 !new/[DB]_Hakuouki_16_[C469A0A1].avi
+!new/[DB]_Hakuouki_16_v2_[63B45684].avi
 !new/[DB]_Ninku_14_[10EEC769].avi
 !new/[Derp]_Legend_of_the_Legendary_Heroes_-_17_(1280x720_x264_AAC).mkv
 !new/[Doremi].HeartCatch.PreCure!.38.[1280x720].[7EBDB8A0].mkv
@@ -817,10 +818,13 @@
 !new/[HorribleSubs] Bleach - 295 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 52 [720p].mkv
 !new/[HorribleSubs] Fortune Arterial - 04 [720p].mkv
+!new/[HorribleSubs] Fortune Arterial - 05 [720p].mkv
 !new/[HorribleSubs] Lilpri - 31 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 183v2 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 184 [720p].mkv
 !new/[HorribleSubs] Otome Yokai Zakuro - 05 [720p].mkv
+!new/[HorribleSubs] Panty and Stocking with Garterbelt - 06 [720p].mkv
+!new/[HorribleSubs] Sora No Otoshimono Forte - 06 [720p].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 05 [720p].mkv
 !new/[HorribleSubs] Tegami Bachi REVERSE - 30 [720p].mkv
 !new/[HorribleSubs] Yumeiro Patissiere Professional - 55 [720p].mkv
@@ -1145,9 +1149,16 @@
 !new/[UTW]_Amagami_SS_-_18_[h264-720p][69E83186].mkv
 !new/[UTW]_B_Gata_H_Kei_-_05_[BD][h264-1080p_AC3][FEBD12DD].mkv
 !new/[UTW]_B_Gata_H_Kei_-_06_[BD][h264-1080p_AC3][8C9CD992].mkv
+!new/[UTW]_Toaru_Majutsu_no_Index_II_-_05v2_[h264-720p][8AAA6E54].mkv
 !new/[Underwater] Shinryaku! Ika Musume - 04 [720p][0E95F810].mkv
 !new/[Wasurenai] Marie & Gali - 21 [H264 1280x720] [C48CEAA7].mkv
 !new/[Wasurenai] Marie & Gali - 22 [H264 1280x720] [0171B182].mkv
+!new/[WhyNot] Nurarihyon no Mago - 13 [B5AA42DD].mkv
+!new/[WhyNot] Nurarihyon no Mago - 14v3 [9B58BA1B].mkv
+!new/[WhyNot] Nurarihyon no Mago - 15v2 [ECF7C779].mkv
+!new/[WhyNot] Nurarihyon no Mago - 16 [A2147D95].mkv
+!new/[WhyNot] Nurarihyon no Mago - 17 [1BB2E180].mkv
+!new/[WhyNot] Nurarihyon no Mago - 18 [FCAFF71B].mkv
 !new/[Yabai]_To_LOVE-Ru_-_13_[DVD][F3471759].mkv
 !new/[Yoroshiku]_Agriculture_Girls!_[E538B9BB].mkv
 !new/[chibi-Doki] Seikon no Qwaser - 09 (1280x720 h264 BD FLAC) [AC1C6FCD].mkv
@@ -1171,6 +1182,10 @@
 !new/[mSubs]_Jewel_Pet_-_01_(720p)(AA1D364B).mkv
 !new/[tv-j] kidou senshi gundam uc unicorn - episode.02 [bd 1920x1080 h264+aac(5.1ch jp+en) +sub(jp-en-sp-fr-ch) chap].mp4
 !new/[uguu~]_Zoku_Sayonara_Zetsubou_Sensei_03_(DVD)_[F3B12BC7].mkv
+!new/[umee]_Shiki_-_11_[C6C5BC4D].mkv
+!new/[umee]_Shiki_-_12_[40408709].mkv
+!new/[umee]_Shiki_-_13_[F3D9DA23].mkv
+!new/[umee]_Shiki_-_14_[37B5FB4C].mkv
 !new/[yibis]_One_Piece_473_[720p][65D67830].mkv
 !new/[애갤러스][101020] AmagamiSS ED4 Single - Koi wa Mizuiro [Nanasaki Ai (CV.Yukana)] (FLAC).rar
 !new/[애갤러스][101020] AmagamiSS OP2 Single - Kimi no Mama de [azusa] (FLAC).rar
