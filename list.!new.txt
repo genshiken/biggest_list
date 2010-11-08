@@ -302,6 +302,7 @@
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
 !new/Detective Conan - 592 [DCTP][720p][1B3A3FF3].mp4
+!new/Detective Conan - 593 [DCTP][720p][37480AB1].mp4
 !new/Detective Conan - Movie 14 - The Lost Ship in the Sky [DCTP][H264][DA6EB844].mkv
 !new/NANA/[IY-F&Oki] NANA - 21.5 [E0EBFBDD].mkv
 !new/NANA/[IY-F&Oki] NANA - 22 [B29D6430].mkv
@@ -803,6 +804,7 @@
 !new/[DB]_Hakuouki_16_[C469A0A1].avi
 !new/[DB]_Hakuouki_16_v2_[63B45684].avi
 !new/[DB]_Ninku_14_[10EEC769].avi
+!new/[DB]_Ninku_15_[83DC5555].avi
 !new/[Derp]_Legend_of_the_Legendary_Heroes_-_17_(1280x720_x264_AAC).mkv
 !new/[Derp]_Legend_of_the_Legendary_Heroes_-_18_(1280x720_x264_AAC).mkv
 !new/[Doremi].HeartCatch.PreCure!.38.[1280x720].[7EBDB8A0].mkv
@@ -836,8 +838,10 @@
 !new/[HorribleSubs] Otome Yokai Zakuro - 05 [720p].mkv
 !new/[HorribleSubs] Panty and Stocking with Garterbelt - 06 [720p].mkv
 !new/[HorribleSubs] Shinryaku! Ika Musume - 05 [720p].mkv
+!new/[HorribleSubs] Sora No Otoshimono Forte - 05 [720p].mkv
 !new/[HorribleSubs] Sora No Otoshimono Forte - 06 [720p].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 05 [720p].mkv
+!new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 06 [720p].mkv
 !new/[HorribleSubs] Tegami Bachi REVERSE - 30 [720p].mkv
 !new/[HorribleSubs] Tegami Bachi REVERSE - 31 [720p].mkv
 !new/[HorribleSubs] Yumeiro Patissiere Professional - 55 [720p].mkv
@@ -1169,6 +1173,7 @@
 !new/[UTW]_Toaru_Majutsu_no_Index_II_-_05v2_[h264-720p][8AAA6E54].mkv
 !new/[Underwater] Panty & Stocking with Garterbelt - 06 [4D59E947].mkv
 !new/[Underwater] Shinryaku! Ika Musume - 04 [720p][0E95F810].mkv
+!new/[Underwater] Shinryaku! Ika Musume - 05 [720p][47BD4A20].mkv
 !new/[Wasurenai] Marie & Gali - 21 [H264 1280x720] [C48CEAA7].mkv
 !new/[Wasurenai] Marie & Gali - 22 [H264 1280x720] [0171B182].mkv
 !new/[WhyNot] Nurarihyon no Mago - 13 [B5AA42DD].mkv
@@ -1181,6 +1186,7 @@
 !new/[Yoroshiku]_Agriculture_Girls!_[E538B9BB].mkv
 !new/[chibi-Doki] Seikon no Qwaser - 09 (1280x720 h264 BD FLAC) [AC1C6FCD].mkv
 !new/[gg]_Soredemo_Machi_wa_Mawatteiru_-_05_[AC65A9F7].mkv
+!new/[gg]_Star_Driver_-_06_[D05189FA].mkv
 !new/[iSiscon]_ELISA_-_Kami_no_Mizo_Shiru_Sekai_OP_Single_Oratorio_The_World_God_Only_Knows_-_God_only_knows_[w_scans]_(FLAC).rar
 !new/[iSiscon]_ELISA_-_OVA_Toaru_Kagaku_no_Railgun_ED_Theme_-_Special_ONE_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Isurugi_Mio_(CV._Taketatsu_Ayana)_&_Yuuno_Arashiko_(CV._Hayami_Saori)_-_TV_Anime_MM!_OP_Single_-_HELP!!_[w_scans]_(FLAC).rar
