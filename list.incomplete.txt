@@ -50,6 +50,7 @@ incomplete/Amagami SS/[UTW] Amagami SS - 14 [720p][900255E1].mkv
 incomplete/Amagami SS/[UTW] Amagami SS - 15 [720p][25CA12DA].mkv
 incomplete/Amagami SS/[UTW] Amagami SS - 16 [720p][47DE7355].mkv
 incomplete/Amagami SS/[UTW] Amagami SS - 17 [720p][775D35B1].mkv
+incomplete/Amagami SS/[UTW] Amagami SS - 18 [720p][69E83186].mkv
 incomplete/Angel Heart/[Ani-Kraze] Angel Heart - 02 [A954E411].avi
 incomplete/Angel Heart/[Ani-Kraze] Angel Heart - 03 [CD2D52CA].avi
 incomplete/Angel Heart/[Ani-Kraze] Angel Heart - 04 [32C0C7F0].avi
@@ -235,6 +236,7 @@ incomplete/Bakuman/[gg] Bakuman - 02 [A591C0E9].mkv
 incomplete/Bakuman/[gg] Bakuman - 03 [69202E08].mkv
 incomplete/Bakuman/[gg] Bakuman - 04 [1E33937E].mkv
 incomplete/Bakuman/[gg] Bakuman - 05 [D45A201B].mkv
+incomplete/Bakuman/[gg] Bakuman - 06 [0F2465F0].mkv
 incomplete/Bakumatsu Kikansetsu Irohanihoheto/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 01 [DVD][DAC042E0].mkv
 incomplete/Bakumatsu Kikansetsu Irohanihoheto/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 02 [DVD][19B75C94].mkv
 incomplete/Bakumatsu Kikansetsu Irohanihoheto/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 03 [DVD][DEBB5FEF].mkv
@@ -315,6 +317,7 @@ incomplete/Bleach/[HorribleSubs] Bleach - 291 [720p][04F93D99].mkv
 incomplete/Bleach/[HorribleSubs] Bleach - 292 [720p][F90DE51F].mkv
 incomplete/Bleach/[HorribleSubs] Bleach - 293 [720p][61314418].mkv
 incomplete/Bleach/[HorribleSubs] Bleach - 294 [720p][AF58F733].mkv
+incomplete/Bleach/[HorribleSubs] Bleach - 295 [720p][16E3E0F2].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 01 [AFCE3665].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 02 [A90F670C].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 03 [A47F2053].mkv
@@ -783,6 +786,7 @@ incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 48 [720p][6FCF3AB1].mkv
 incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 49 [720p][D05CD157].mkv
 incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 50 [720p][A2E7A2BA].mkv
 incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 51 [720p][5A8C4EAF].mkv
+incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 52 [720p][F2941FA4].mkv
 incomplete/Fairy Tail/[Mamiko] Fairy Tail - 01 [0307DF54].mkv
 incomplete/Fairy Tail/[Mamiko] Fairy Tail - 02 [531F9793].mkv
 incomplete/Fairy Tail/[Mamiko] Fairy Tail - 03 [C7677EC8].mkv
@@ -806,7 +810,6 @@ incomplete/Fireball/[DATS] Fireball - 10 [DVD][035912E4].mkv
 incomplete/Fireball/[DATS] Fireball - 11 [DVD][74DDD03E].mkv
 incomplete/Fireball/[DATS] Fireball - 12 [DVD][7B4F27B4].mkv
 incomplete/Fireball/[DATS] Fireball - 13 [DVD][44ECEABB].mkv
-incomplete/Fortune Arterial/[HorribleSubs] Fortune Arterial - 03 [720p][B2334626].mkv
 incomplete/Fortune Arterial/[SS] Fortune Arterial - 01 [B9350090].mkv
 incomplete/Fortune Arterial/[SS] Fortune Arterial - 02 [855C3F17].mkv
 incomplete/Fortune Arterial/[SS] Fortune Arterial - 03 [68310B3B].mkv
@@ -2012,6 +2015,8 @@ incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 17 [720p][31A3E85C].mkv
 incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 18 [720p][CBC071FB].mkv
 incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 19 [720p][29E8C36B].mkv
 incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 20 [720p][A1931B79].mkv
+incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 21 [720p][C48CEAA7].mkv
+incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 22 [720p][0171B182].mkv
 incomplete/Mermaid Melody Pichi Pichi Pitch/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 47 [DVD][74E5AD02].avi
 incomplete/Mermaid Melody Pichi Pichi Pitch/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 48 [DVD][FD3E3AAA].avi
 incomplete/Might Gaine/[Nyoro~n Subs] Might Gaine - 01 [E4BED354].mkv
@@ -2206,6 +2211,12 @@ incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 09 [v2][3E7043B5].mk
 incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 10 [v2][CC86036E].mkv
 incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 11 [v2][2638E4AA].mkv
 incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 12 [AA1E76C4].mkv
+incomplete/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 13 [B5AA42DD].mkv
+incomplete/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 14 [v3][9B58BA1B].mkv
+incomplete/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 15 [v2][ECF7C779].mkv
+incomplete/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 16 [A2147D95].mkv
+incomplete/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 17 [1BB2E180].mkv
+incomplete/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 18 [FCAFF71B].mkv
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 01 [3A853D01].avi
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 02 [08A1F4E5].avi
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 03 [A66358B8].avi
@@ -2750,6 +2761,7 @@ incomplete/Panty & Stocking with Garterbelt/[Underwater] Panty & Stocking with G
 incomplete/Panty & Stocking with Garterbelt/[Underwater] Panty & Stocking with Garterbelt - 03 [5D37F9BB].mkv
 incomplete/Panty & Stocking with Garterbelt/[Underwater] Panty & Stocking with Garterbelt - 04 [5233D2F9].mkv
 incomplete/Panty & Stocking with Garterbelt/[Underwater] Panty & Stocking with Garterbelt - 05 [CB280A79].mkv
+incomplete/Panty & Stocking with Garterbelt/[Underwater] Panty & Stocking with Garterbelt - 06 [4D59E947].mkv
 incomplete/Patalliro/[aarinfantasy] Patalliro - 14 [B04ACEDC].avi
 incomplete/Perrine/[C1] Perrine - 01 [DD61EE37].avi
 incomplete/Perrine/[C1] Perrine - 02 [7D8E124B].avi
@@ -3176,7 +3188,7 @@ incomplete/Soredemo Machi wa Mawatteiru/[gg] Soredemo Machi wa Mawatteiru - 01 [
 incomplete/Soredemo Machi wa Mawatteiru/[gg] Soredemo Machi wa Mawatteiru - 02 [DA82D63C].mkv
 incomplete/Soredemo Machi wa Mawatteiru/[gg] Soredemo Machi wa Mawatteiru - 03 [90E5C811].mkv
 incomplete/Soredemo Machi wa Mawatteiru/[gg] Soredemo Machi wa Mawatteiru - 04 [5E34D898].mkv
-incomplete/Soredemo Machi wa Mawatteiru/[gg] Star Driver - 05 [7C8FBC51].mkv
+incomplete/Soredemo Machi wa Mawatteiru/[gg] Soredemo Machi wa Mawatteiru - 05 [AC65A9F7].mkv
 incomplete/Souten Kouro/[Lunar] Souten Kouro - 01 (1280x720) [B78A2C08].mkv
 incomplete/Souten Kouro/[Lunar] Souten Kouro - 02 (1280x720) [C21CD208].mkv
 incomplete/Souten Kouro/[Lunar] Souten Kouro - 03 (1280x720) [AF5759E1].mkv
@@ -3190,10 +3202,14 @@ incomplete/Souten no Ken/[Sentosha] Souten no Ken - 01 [DVD][7CBE4115].avi
 incomplete/Squid Girl/[Underwater] Squid Girl - 01 [720p][D99B479D].mkv
 incomplete/Squid Girl/[Underwater] Squid Girl - 02 [720p][C57E09B7].mkv
 incomplete/Squid Girl/[Underwater] Squid Girl - 03 [720p][ED68F495].mkv
+incomplete/Squid Girl/[Underwater] Squid Girl - 04 [720p][0E95F810].mkv
+incomplete/Squid Girl/[Underwater] Squid Girl - 05 [720p][47BD4A20].mkv
 incomplete/Star Driver/[gg] Star Driver - 01 [v2][898EDA8C].mkv
 incomplete/Star Driver/[gg] Star Driver - 02 [v2][8EFDABA9].mkv
 incomplete/Star Driver/[gg] Star Driver - 03 [8A012BA4].mkv
 incomplete/Star Driver/[gg] Star Driver - 04 [891F361E].mkv
+incomplete/Star Driver/[gg] Star Driver - 05 [7C8FBC51].mkv
+incomplete/Star Driver/[gg] Star Driver - 06 [D05189FA].mkv
 incomplete/Strange Dawn/[Doremi] Strange Dawn - 01 [9027D679].mkv
 incomplete/Strange Dawn/[Doremi] Strange Dawn - 02 [D25D7A15].mkv
 incomplete/Strange Dawn/[Doremi] Strange Dawn - 03 [32D79062].mkv
@@ -3335,6 +3351,7 @@ incomplete/Toaru Majutsu no Index II/[UTW] Toaru Majutsu no Index II - 01 [720p]
 incomplete/Toaru Majutsu no Index II/[UTW] Toaru Majutsu no Index II - 02 [720p][50A585BB].mkv
 incomplete/Toaru Majutsu no Index II/[UTW] Toaru Majutsu no Index II - 03 [720p][2C55B11E].mkv
 incomplete/Toaru Majutsu no Index II/[UTW] Toaru Majutsu no Index II - 04 [720p][6858FA64].mkv
+incomplete/Toaru Majutsu no Index II/[UTW] Toaru Majutsu no Index II - 05 [v2 720p][8AAA6E54].mkv
 incomplete/Togainu no Chi/[gg] Togainu no Chi - 01 [DAE73FDF].mkv
 incomplete/Togainu no Chi/[gg] Togainu no Chi - 02 [13697BB6].mkv
 incomplete/Togainu no Chi/[gg] Togainu no Chi - 03 [4C9CDA20].mkv
@@ -3546,6 +3563,7 @@ incomplete/Yosuga no Sora/[UTW-Ryuumaru] Yosuga no Sora - 01 [720p][E60353CB].mk
 incomplete/Yosuga no Sora/[UTW-Ryuumaru] Yosuga no Sora - 02 [720p][8849FD46].mkv
 incomplete/Yosuga no Sora/[UTW-Ryuumaru] Yosuga no Sora - 03 [720p][B4C560A7].mkv
 incomplete/Yosuga no Sora/[UTW-Ryuumaru] Yosuga no Sora - 04 [720p][1C9B8E9E].mkv
+incomplete/Yosuga no Sora/[UTW-Ryuumaru] Yosuga no Sora - 05 [720p][AA106D11].mkv
 incomplete/You Are Umasou/[Animanda] You Are Umasou - 01 [7B7C6FC4].mkv
 incomplete/You Are Umasou/[Animanda] You Are Umasou - 02 [841E0CB6].mkv
 incomplete/You Are Umasou/[Animanda] You Are Umasou - 03 [80E2BE25].mkv

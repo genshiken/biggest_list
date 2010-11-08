@@ -706,10 +706,12 @@ complete/b/B Gata H Kei/[CoalGuys] B Gata H Kei - 09 [090D767B].mkv
 complete/b/B Gata H Kei/[CoalGuys] B Gata H Kei - 10 [A3ACCDA3].mkv
 complete/b/B Gata H Kei/[CoalGuys] B Gata H Kei - 11 [0D11BE42].mkv
 complete/b/B Gata H Kei/[CoalGuys] B Gata H Kei - 12 [End][0017B6C5].mkv
-complete/b/B Gata H Kei/[UTW] B Gata H Kei - 01 (1920x1080) [BD][F0517388].mkv
-complete/b/B Gata H Kei/[UTW] B Gata H Kei - 02 (1920x1080) [BD][4E9DD8D4].mkv
-complete/b/B Gata H Kei/[UTW] B Gata H Kei - 03 (1920x1080) [BD][53D87BAA].mkv
-complete/b/B Gata H Kei/[UTW] B Gata H Kei - 04 (1920x1080) [BD][033D0AFF].mkv
+complete/b/B Gata H Kei/[UTW] B Gata H Kei - 01 [1080p BD][F0517388].mkv
+complete/b/B Gata H Kei/[UTW] B Gata H Kei - 02 [1080p BD][4E9DD8D4].mkv
+complete/b/B Gata H Kei/[UTW] B Gata H Kei - 03 [1080p BD][53D87BAA].mkv
+complete/b/B Gata H Kei/[UTW] B Gata H Kei - 04 [1080p BD][033D0AFF].mkv
+complete/b/B Gata H Kei/[UTW] B Gata H Kei - 05 [1080p BD][FEBD12DD].mkv
+complete/b/B Gata H Kei/[UTW] B Gata H Kei - 06 [1080p BD][8C9CD992].mkv
 complete/b/BALDR FORCE EXE Resolution/[Megami] BALDR FORCE EXE Resolution - 1 [08D4A401].mkv
 complete/b/BALDR FORCE EXE Resolution/[Megami] BALDR FORCE EXE Resolution - 2 [BE5489D0].mkv
 complete/b/BALDR FORCE EXE Resolution/[Megami] BALDR FORCE EXE Resolution - 3 [6E07E289].mkv
@@ -2030,11 +2032,11 @@ complete/c/Cross Game/[ANBU] Cross Game - 42 [5941F75D].mkv
 complete/c/Cross Game/[ANBU] Cross Game - 43 [AC45A1E5].mkv
 complete/c/Cross Game/[ANBU] Cross Game - 44 [9E13FD72].mkv
 complete/c/Cross Game/[ANBU] Cross Game - 45 [2912C4A0].mkv
-complete/c/Cross Game/[SubSmith] Cross Game - 46 (1280x720) [87F6A7C7].mkv
-complete/c/Cross Game/[SubSmith] Cross Game - 47 (1280x720) [8786D937].mkv
-complete/c/Cross Game/[SubSmith] Cross Game - 48 (1280x720) [E3CDA6AD].mkv
-complete/c/Cross Game/[SubSmith] Cross Game - 49 (1280x720) [A73C9D59].mkv
-complete/c/Cross Game/[SubSmith] Cross Game - 50 (1280x720) [End][97D58906].mkv
+complete/c/Cross Game/[ANBU] Cross Game - 46 [C4A33BD4].mkv
+complete/c/Cross Game/[ANBU] Cross Game - 47 [E766364F].mkv
+complete/c/Cross Game/[ANBU] Cross Game - 48 [8F5B6AB8].mkv
+complete/c/Cross Game/[ANBU] Cross Game - 49 [34854233].mkv
+complete/c/Cross Game/[ANBU] Cross Game - 50 [End][FA60120F].mkv
 complete/d/D.Gray-man/[Order] D.Gray-man - 001 [v2][716A4A5D].mp4
 complete/d/D.Gray-man/[Order] D.Gray-man - 002 [v2][A23CAD6F].mp4
 complete/d/D.Gray-man/[Order] D.Gray-man - 003 [EB53FCBB].mp4
@@ -10619,14 +10621,15 @@ complete/s/Seikon no Qwaser/[SubDesu] Seikon no Qwaser - 21 [B9C49DB8].mkv
 complete/s/Seikon no Qwaser/[SubDesu] Seikon no Qwaser - 22 [07E7ACC4].mkv
 complete/s/Seikon no Qwaser/[SubDesu] Seikon no Qwaser - 23 [8FF0D8B7].mkv
 complete/s/Seikon no Qwaser/[SubDesu] Seikon no Qwaser - 24 [End][746ED6FF].mkv
-complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 01 (1280x720) [BD][02B62155].mkv
-complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 02 (1280x720) [BD][3808D311].mkv
-complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 03 (1280x720) [BD][919F7357].mkv
-complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 04 (1280x720) [BD][A3435B02].mkv
-complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 05 (1280x720) [BD][BCFD6E31].mkv
-complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 06 (1280x720) [BD][F4C21345].mkv
-complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 07 (1280x720) [BD][DD6F1390].mkv
-complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 08 (1280x720) [BD][D7696719].mkv
+complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 01 [720p BD][02B62155].mkv
+complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 02 [720p BD][3808D311].mkv
+complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 03 [720p BD][919F7357].mkv
+complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 04 [720p BD][A3435B02].mkv
+complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 05 [720p BD][BCFD6E31].mkv
+complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 06 [720p BD][F4C21345].mkv
+complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 07 [720p BD][DD6F1390].mkv
+complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 08 [720p BD][D7696719].mkv
+complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 09 [720p BD][AC1C6FCD].mkv
 complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 09 [F4E516FB].mkv
 complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 10 [B9A1A2F7].mkv
 complete/s/Seikon no Qwaser/[chibi-Doki] Seikon no Qwaser - 11 [2F268636].mkv
@@ -12356,6 +12359,7 @@ complete/t/To Love-Ru/[Yabai] To Love-Ru - 09 [DVD][CE91E587].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - 10 [DVD][54ECA974].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - 11 [DVD][FC9153E0].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - 12 [DVD][E88EDCB3].mkv
+complete/t/To Love-Ru/[Yabai] To Love-Ru - 13 [DVD][F3471759].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - Ending (clean) [DVD][ED4D6663].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - Ending [v2][DVD][8629235A].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - Opening (clean) [DVD][876BE74A].mkv
@@ -14071,6 +14075,7 @@ complete/z/Zoku Sayonara Zetsubou Sensei/[anon] Zoku Sayonara Zetsubou Sensei - 
 complete/z/Zoku Sayonara Zetsubou Sensei/[anon] Zoku Sayonara Zetsubou Sensei - 09 [29313464].avi
 complete/z/Zoku Sayonara Zetsubou Sensei/[uguu~] Zoku Sayonara Zetsubou Sensei - 01 [DVD][767946CB].mkv
 complete/z/Zoku Sayonara Zetsubou Sensei/[uguu~] Zoku Sayonara Zetsubou Sensei - 02 [DVD][0992BEBB].mkv
+complete/z/Zoku Sayonara Zetsubou Sensei/[uguu~] Zoku Sayonara Zetsubou Sensei - 03 [DVD][F3B12BC7].mkv
 complete/z/Zoku Sayonara Zetsubou Sensei/[volans] Zoku Sayonara Zetsubou Sensei - 10 [C516C96D].mkv
 complete/z/Zoku Sayonara Zetsubou Sensei/[volans] Zoku Sayonara Zetsubou Sensei - 11 [65382D64].mkv
 complete/z/Zoku Sayonara Zetsubou Sensei/[volans] Zoku Sayonara Zetsubou Sensei - 12 [257F369B].mkv
