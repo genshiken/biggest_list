@@ -759,6 +759,7 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (arranged) [nnl+b-f].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
 !new/[101027] TVアニメ「えむえむっ！」OP主題歌「Help！」／石動美緒（CV：竹達彩奈）.zip
+!new/[ANBU]_Space_Battleship_Yamato_Revival_[1080p_H.264_DTS][EFAFC227].mkv
 !new/[AQS-Anime]_Negima_Mou_Hitotsu_no_Sekai_OAD_04_[H264-AAC][842FC24F].mkv
 !new/[ARR] Goldfish Warning! (1992) [AVC][F3D00AD2].mkv
 !new/[Animanda]_You_Are_Umasou_-_17_[03005B79].mkv
@@ -767,6 +768,7 @@
 !new/[Animanda]_You_Are_Umasou_-_20_[80866387].mkv
 !new/[AonE]_Shinrei_Tantei_Yakumo_04_[F6D5ED5C].mkv
 !new/[BWS]Pocket_Monsters_Best_Wishes_007_Tsutarja_Attraction_via_Getting[H264_720P][CD59DDD4].mkv
+!new/[BWS]Pocket_Monsters_Best_Wishes_008_Darumakka_and_Hihidaruma!_The_Secret_of_the_Clock_Tower!![H264_720P][F82770A5].mkv
 !new/[Baaka] Tantei Opera Milky Holmes - 04 [1280x720][69D2BAC9].mkv
 !new/[Coalgirls]_Kiddy_Grade_Movie_I_-_Ignition_(960x720_Blu-Ray_FLAC)_[40B97392].mkv
 !new/[Coalgirls]_Ladies_Versus_Butlers!_01_(1920x1080_Blu-ray_FLAC)_[f3e558d4].mkv
@@ -795,6 +797,7 @@
 !new/[Coalgirls]_Occult_Academy_SP02_(1920x1080_Blu-ray_FLAC)_[4655F130].mkv
 !new/[Commie] Motto To Love-ru - 05 [F18925D9].mkv
 !new/[Commie] The Legend of the Legendary Heroes - 16 [682B2FB3].mkv
+!new/[Corona]_Heroman_-_EX-1_(H264_1280x720)[62943C35].mkv
 !new/[DATS] Bakegyamon - 01 [B4442803].mkv
 !new/[DB]_Hakuouki_15_[769016FA].avi
 !new/[DB]_Hakuouki_16_[C469A0A1].avi
@@ -804,6 +807,7 @@
 !new/[Derp]_Legend_of_the_Legendary_Heroes_-_17_(1280x720_x264_AAC).mkv
 !new/[Derp]_Legend_of_the_Legendary_Heroes_-_18_(1280x720_x264_AAC).mkv
 !new/[Doremi].HeartCatch.PreCure!.38.[1280x720].[7EBDB8A0].mkv
+!new/[Doremi].Motto.Ojamajo.Doremi.35.[721C2687].avi
 !new/[Doremi].Strange.Dawn.09.[BC2C0997].mkv
 !new/[Doremi].Strange.Dawn.10.[7C3949C4].mkv
 !new/[EAC] [101020] TVアニメ ストライクウィッチーズ2 エンディング・テーマ・コレクション「Over Sky」(ape+cue).rar
@@ -824,12 +828,14 @@
 !new/[GotWoot]_House_of_Five_Leaves_11_[720p_H264][E2D23C3D].mkv
 !new/[GotWoot]_House_of_Five_Leaves_12_[FINAL][720p_H264][F838101E].mkv
 !new/[Himatsubushi]_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_-_05_ [5C5F77AC].mkv
+!new/[HorribleSubs] Fairy Tail - 53 [720p].mkv
 !new/[HorribleSubs] Fortune Arterial - 05 [720p][4BCE65C9].mkv
 !new/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 31 [720p][1483FC40].mkv
 !new/[HorribleSubs] Letter Bee Reverse - 30 [720p][4BD4342B].mkv
 !new/[HorribleSubs] Letter Bee Reverse - 31 [720p][50D1B550].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 183 [v2 720p][2DEE2CF8].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 184 [720p][3E32D754].mkv
+!new/[HorribleSubs] Otome Yokai Zakuro - 06 [720p].mkv
 !new/[HorribleSubs] Sora no Otoshimono Forte - 05 [720p][C0253B81].mkv
 !new/[HorribleSubs] Sora no Otoshimono Forte - 06 [720p][A3AA4829].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 05 [720p][C3E6204D].mkv
@@ -853,6 +859,7 @@
 !new/[KAA]_Najica_Blitz_Tactics_10.DVD[0C9036D9].avi
 !new/[KAA]_Najica_Blitz_Tactics_11.DVD[8DE76392].avi
 !new/[KAA]_Najica_Blitz_Tactics_12.DVD[52A763E3].avi
+!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 05 [1280x720 H264 OGG] [BCBF40FF].mkv
 !new/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 23 [H264 1280x720] [D3407121].mkv
 !new/[Mazui-UTW]_To_Aru_Kagaku_no_Railgun_-_EX_OVA_[179BCCC6].mkv
 !new/[Mazui]_Ore_No_Imouto_-_05v2_[6D25FA8E].mkv
@@ -878,6 +885,7 @@
 !new/[Nipponsei] Yosuga no Sora OP Single - Hiyoku no Hane [eufonius].zip
 !new/[Nipponsei] Yumeiro Patissiere SP Professional OP ED Single - Sweet Romance [Gojou Mayumi & Primavera].zip
 !new/[Nordkohl] Psychic Detective Yakumo - 05 [390122B7]​.mkv
+!new/[Nordkohl] Psychic Detective Yakumo - 06 [BC3FA572].mkv
 !new/[Nutbladder]_Arakawa_Under_the_Bridge_×2_-_05_[33F31DEC].mkv
 !new/[Nutbladder]_Hidamari_Sketch_×☆☆☆_-_SP1_[2E43FFC2].mkv
 !new/[Nutbladder]_Hidamari_Sketch_×☆☆☆_-_SP2_[E3D40077].mkv
@@ -916,6 +924,7 @@
 !new/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 05 [Webrip][640x480 h.264 AAC][603F06A1].mkv
 !new/[SHiN-gx] Working!! - 08 [DVD][720x480 AR h.264 AAC][61990CB0].mkv
 !new/[SS]_Fortune_Arterial_-_04_[9BFBE36D].mkv
+!new/[SS]_Fortune_Arterial_-_05_[6DE1473D].mkv
 !new/[Saizen]_Ookiku_Furikabutte_-_The_Summer_Tournament_Chapter_-_11_[01B704F0].mkv
 !new/[Saizen]_Ookiku_Furikabutte_-_The_Summer_Tournament_Chapter_-_12_[59FB40D9].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
