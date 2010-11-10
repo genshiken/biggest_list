@@ -728,6 +728,7 @@
 !new/Soul Eater/[Arigatou] Soul Eater - 49 [B3F1D35E].mkv
 !new/Soul Eater/[Arigatou] Soul Eater - 50 [369D8541].mkv
 !new/Soul Eater/[Arigatou] Soul Eater - 51 [End][217D4C63].mkv
+!new/TranslationNotes.txt
 !new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 01(x264)(8E01DFB1).mkv
 !new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 02(x264)(CFB2BE0C).mkv
 !new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 03(x264)(D4242AC3).mkv
@@ -792,6 +793,19 @@
 !new/[Coalgirls]_Occult_Academy_03_(1920x1080_Blu-ray_FLAC)_[3D047296].mkv
 !new/[Coalgirls]_Occult_Academy_04_(1920x1080_Blu-ray_FLAC)_[79E56646].mkv
 !new/[Coalgirls]_Occult_Academy_SP02_(1920x1080_Blu-ray_FLAC)_[4655F130].mkv
+!new/[Coalgirls]_Seitokai_Yakuindomo_01_(1280x720_Blu-Ray_FLAC)_[F94958E7].mkv
+!new/[Coalgirls]_Seitokai_Yakuindomo_02_(1280x720_Blu-Ray_FLAC)_[15887148].mkv
+!new/[Coalgirls]_Seitokai_Yakuindomo_03_(1280x720_Blu-Ray_FLAC)_[D6A2592A].mkv
+!new/[Coalgirls]_Seitokai_Yakuindomo_04_(1280x720_Blu-Ray_FLAC)_[7D3055BB].mkv
+!new/[Coalgirls]_Seitokai_Yakuindomo_05_(1280x720_Blu-Ray_FLAC)_[D1FED614].mkv
+!new/[Coalgirls]_Seitokai_Yakuindomo_06_(1280x720_Blu-Ray_FLAC)_[E87606FF].mkv
+!new/[Coalgirls]_Seitokai_Yakuindomo_07_(1280x720_Blu-Ray_FLAC)_[E2252B45].mkv
+!new/[Coalgirls]_Seitokai_Yakuindomo_08_(1280x720_Blu-Ray_FLAC)_[16DA3766].mkv
+!new/[Coalgirls]_Seitokai_Yakuindomo_09_(1280x720_Blu-Ray_FLAC)_[2EBD0337].mkv
+!new/[Coalgirls]_Seitokai_Yakuindomo_10_(1280x720_Blu-Ray_FLAC)_[7CC8432D].mkv
+!new/[Coalgirls]_Seitokai_Yakuindomo_11_(1280x720_Blu-Ray_FLAC)_[26D4E64F].mkv
+!new/[Coalgirls]_Seitokai_Yakuindomo_12_(1280x720_Blu-Ray_FLAC)_[7D4E5D1E].mkv
+!new/[Coalgirls]_Seitokai_Yakuindomo_13_(1280x720_Blu-Ray_FLAC)_[CAE3F84B].mkv
 !new/[Corona]_Heroman_-_EX-1_(H264_1280x720)[62943C35].mkv
 !new/[DATS] Bakegyamon - 01 [B4442803].mkv
 !new/[Doremi].HeartCatch.PreCure!.38.[1280x720].[7EBDB8A0].mkv
