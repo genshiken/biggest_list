@@ -852,19 +852,24 @@
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 05 [1280x720 H264 OGG] [BCBF40FF].mkv
 !new/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 23 [H264 1280x720] [D3407121].mkv
 !new/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 24 [H264 1280x720] [80953B63].mkv
+!new/[Mamiko]_Tamayura_OVA_03_TV_Broadcast_[720p]_[494BC601].mkv
 !new/[Nipponsei] Densetsu no Yuusha no Densetsu OP2 Single - Last Inferno [Ceui].zip
 !new/[Nipponsei] FORTUNE ARTERIAL ~Akae Yakusou~ OP Single - kizunairo [Lia].zip
 !new/[Nipponsei] FORTUNE ARTERIAL ~Akai Yakusoku~ ED Single - I miss you [Veil].zip
 !new/[Nipponsei] Heartcatch Precure! Insert Song Single - Power of Shine [Kuwashima Houko & Hisakawa Aya].zip
 !new/[Nipponsei] Heartcatch Precure! Movie OP ED Single - Alright! Heartcatch Precure! for the Movie [Ikeda Aya & Kudou Mayu].zip
+!new/[Nipponsei] Hyakka Ryouran Samurai Girls ED Single - Koi ni Sesse Tooryanse [Various].zip
 !new/[Nipponsei] Hyakka Ryouran Samurai Girls OP Single - Last vision for last [Faylan].zip
+!new/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.0 - Elsie [Itou Kanae].zip
 !new/[Nipponsei] Kami Nomi zo Shiru Sekai OP Single - God only knows ~ Shuuseki Kairo no Yume Tabibito [ELISA].zip
+!new/[Nipponsei] MM! ED Single - More-more LOVERS!! [Asou Natsuko].zip
 !new/[Nipponsei] MM! OP Single - Help!! [Taketatsu Ayana & Hayami Saori].zip
 !new/[Nipponsei] Mitsudomoe Character Song 4 - Sugisaki [Saitou Chiwa].zip
 !new/[Nipponsei] Mitsudomoe Character Song 5 - Matsuoka [Hayama Ikumi].zip
 !new/[Nipponsei] Motto ToLoveRu ED Single - Baby Baby Love [Tomatsu Haruka].zip
 !new/[Nipponsei] Seitokai Yakuindomo Original Soundtrack - Aria Ban.zip
 !new/[Nipponsei] Shinryaku! Ika Musume OP Single - Shinryaku no Susume [ULTRA-PRISM].zip
+!new/[Nipponsei] Sora no Otoshimono Forte OP Single - Heart no Kakuritsu [Yoshida Hitomi & Hayami Saori].zip
 !new/[Nipponsei] Super Robot Taisen OG The Inspector OP Single - MAXON [JAM Project].zip
 !new/[Nipponsei] Tantei Opera Milky Holmes OP Single - Seikai wa Hitotsu! Ja nai!! [Various].zip
 !new/[Nipponsei] To Aru Kagaku no Railgun OVA ED Single - Special 'ONE' [ELISA].zip
@@ -874,8 +879,6 @@
 !new/[Nipponsei] Yumeiro Patissiere SP Professional OP ED Single - Sweet Romance [Gojou Mayumi & Primavera].zip
 !new/[Nordkohl] Psychic Detective Yakumo - 05 [390122B7]​.mkv
 !new/[Nordkohl] Psychic Detective Yakumo - 06 [BC3FA572].mkv
-!new/[Nutbladder] Hidamari Sketch ×☆☆☆ - SP1 [2E43FFC2].mkv
-!new/[Nutbladder] Hidamari Sketch ×☆☆☆ - SP2 [E3D40077].mkv
 !new/[Nutbladder]_Arakawa_Under_the_Bridge_×2_-_04_[197B7655].mkv
 !new/[Nutbladder]_Arakawa_Under_the_Bridge_×2_-_06_[3AFF3253].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
@@ -1151,7 +1154,9 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[WhyNot] Nurarihyon no Mago - 19 [30009E58].mkv
 !new/[Yoroshiku]_Agriculture_Girls!_[E538B9BB].mkv
+!new/[aarinfantasy]_Marginal_Prince_-_01_[73C8AA2E].avi
 !new/[iSiscon]_Tomatsu_Haruka_-_TV_Anime_Motto_To_Love_Ru_ED_Single_-_Baby_Baby_Love_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Various_Artists_-_UNiSONSHIFT_Accent._Chu_x_Chu_idol_2_SOUND_TRACKS_[w_scans]_(FLAC).rar
 !new/[m.3.3.w]_Super_Mario_Anime_Pack_[4FA346BC].mkv
