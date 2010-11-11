@@ -1172,6 +1172,7 @@ incomplete/HeartCatch PreCure!/[Doremi] HeartCatch PreCure! - 34 [720p][ACE9C01B
 incomplete/HeartCatch PreCure!/[Doremi] HeartCatch PreCure! - 35 [720p][673CC862].mkv
 incomplete/HeartCatch PreCure!/[Doremi] HeartCatch PreCure! - 36 [720p][AC3F188C].mkv
 incomplete/HeartCatch PreCure!/[Doremi] HeartCatch PreCure! - 37 [720p][78B49B10].mkv
+incomplete/HeartCatch PreCure!/[Doremi] HeartCatch PreCure! - 38 [720p][7EBDB8A0].mkv
 incomplete/Hell Teacher Nube/[ANFS] Hell Teacher Nube - 09 [01E61B16].avi
 incomplete/Hell Teacher Nube/[Flomp] Hell Teacher Nube - 10 [4F190991].mkv
 incomplete/Hell Teacher Nube/[Yami] Hell Teacher Nube - 11 [061B3E8E].avi
@@ -2096,6 +2097,7 @@ incomplete/Motto Ojamajo Doremi/[Doremi] Motto Ojamajo Doremi - 31 [BE814FD9].av
 incomplete/Motto Ojamajo Doremi/[Doremi] Motto Ojamajo Doremi - 32 [B05F3784].avi
 incomplete/Motto Ojamajo Doremi/[Doremi] Motto Ojamajo Doremi - 33 [FE97CC37].avi
 incomplete/Motto Ojamajo Doremi/[Doremi] Motto Ojamajo Doremi - 34 [343BFA47].avi
+incomplete/Motto Ojamajo Doremi/[Doremi] Motto Ojamajo Doremi - 35 [721C2687].avi
 incomplete/Motto To Love-Ru/[Commie] Motto To Love-Ru - 01 [45E557E9].mkv
 incomplete/Motto To Love-Ru/[Commie] Motto To Love-Ru - 02 [048D3DB5].mkv
 incomplete/Motto To Love-Ru/[Commie] Motto To Love-Ru - 03 [A2720A26].mkv
@@ -2749,6 +2751,7 @@ incomplete/One Piece/[yibis] One Piece - 469 [720p][F9145D5D].mkv
 incomplete/One Piece/[yibis] One Piece - 470 [720p][1C6E731B].mkv
 incomplete/One Piece/[yibis] One Piece - 471 [720p][9E2D3B13].mkv
 incomplete/One Piece/[yibis] One Piece - 472 [720p][8E357023].mkv
+incomplete/One Piece/[yibis] One Piece - 473 [720p][65D67830].mkv
 incomplete/Ontama!/[DATS] Ontama! - 01 [2F0C7231].mkv
 incomplete/Ontama!/[DATS] Ontama! - 02 [2FBB11E1].mkv
 incomplete/Ontama!/[DATS] Ontama! - 03 [00BDF47B].mkv
@@ -3231,6 +3234,9 @@ incomplete/Strange Dawn/[Doremi] Strange Dawn - 05 [A6FDD109].mkv
 incomplete/Strange Dawn/[Doremi] Strange Dawn - 06 [1B2D983D].mkv
 incomplete/Strange Dawn/[Doremi] Strange Dawn - 07 [3000016E].mkv
 incomplete/Strange Dawn/[Doremi] Strange Dawn - 08 [965BDF4D].mkv
+incomplete/Strange Dawn/[Doremi] Strange Dawn - 09 [BC2C0997].mkv
+incomplete/Strange Dawn/[Doremi] Strange Dawn - 10 [7C3949C4].mkv
+incomplete/Strange Dawn/[Doremi] Strange Dawn - 11 [C8119145].mkv
 incomplete/Strange Dawn/[Doremi] Strange Dawn - Opening [E1876C45].mkv
 incomplete/Strong World/[yibis] Strong World - 0 [DVD][49C1A026].mkv
 incomplete/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 01 [720p][3E29FBE4].mkv
