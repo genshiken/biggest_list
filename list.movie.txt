@@ -1,4 +1,5 @@
 movie/5 Centimeters per Second/[THORA] 5 Centimeters per Second (1920x1080) [BD][772ED3C7].mkv
+movie/Agriculture Girls!/[Yoroshiku] Agriculture Girls! [E538B9BB].mkv
 movie/Air - The Movie/[Koi] Air - The Movie [C26433E0].avi
 movie/Appleseed (2004)/[THORA] Appleseed (2004) (1280x720) [EE242662].mkv
 movie/Armored Trooper Votoms - Pailsen Files Movie/[Shinsen-Subs] Armored Trooper Votoms - Pailsen Files Movie [5.1][940DC029].dts
@@ -21,6 +22,7 @@ movie/Detective Conan Movie/[B-Org] Detective Conan - Movie 11 (Part 1) [6CF1697
 movie/Detective Conan Movie/[B-Org] Detective Conan - Movie 11 (Part 2) [B8C270F7].mkv
 movie/Detective Conan Movie/[DCTP] Detective Conan - Movie 12 [BA79F197].mkv
 movie/Detective Conan Movie/[DCTP] Detective Conan - Movie 13 [EFC07D98].mkv
+movie/Detective Conan Movie/[DCTP] Detective Conan - Movie 14 [DA6EB844].mkv
 movie/Detective Conan Movie/[KnKF] Detective Conan - Movie 10 (Part 1) [AD7851FC].avi
 movie/Detective Conan Movie/[KnKF] Detective Conan - Movie 10 (Part 2) [7AA97A53].avi
 movie/Diebuster Movie (2006)/[THORA] Diebuster Movie (2006) [720p,BD][B82B5C95].mkv
@@ -52,11 +54,10 @@ movie/Franz Kafka's ~A Country Doctor~/[AnimeClipse-Ureshii] Franz Kafka's ~A Co
 movie/Fresh Pretty Cure!/[CureCom-Doremi] Fresh Pretty Cure! - Movie [DVD][AC03D6C0].mkv
 movie/Fullmetal Alchemist - The Conqueror of Shamballa/[KAA] Fullmetal Alchemist - The Conqueror of Shamballa [EA07D24E].mkv
 movie/Ged Senki - Tales from Earthsea/[niizk] Ged Senki - Tales from Earthsea [v2][39703EB2].mkv
-movie/Ghost in the Shell/[3xR] Ghost in the Shell - Innocence (1920x1080) 7C2C6303].mkv
-movie/Ghost in the Shell/[KAA] Ghost in the Shell - Innocence [DVD][00C92C0A].mkv
 movie/Ghost in the Shell/[OZC] Ghost in the Shell Stand Alone Complex - Solid State Society [9E41633F].mkv
 movie/Ghost in the Shell/[OZC] Ghost in the Shell Stand Alone Complex - The Laughing Man [C8051FC7].mkv
 movie/Ghost in the Shell/[OZC] Ghost in the Shell Stand Alone Complex 2nd GIG - Individual Eleven [5708864C].mkv
+movie/Ghost in the Shell/[niizk] Ghost in the Shell - Innocence [1080p][50D3E7B9].mkv
 movie/Ghost in the Shell/[niizk] Ghost in the Shell [BD][5A1FF951].mkv
 movie/Gokinjo Monogatari Movie/[Yuurisan-Subs] Gokinjo Monogatari - Movie [81F06CCC].mkv
 movie/Gunbuster Movie/[THORA] Gunbuster Movie (1988) - Part 1 [720p,BD][ED918128].mkv
@@ -84,6 +85,7 @@ movie/Kara no Kyoukai/[gg-TakaJun] Kara no Kyoukai - Chapter 4 - Void Shrine [B2
 movie/Kara no Kyoukai/[gg-TakaJun] Kara no Kyoukai - Chapter 5 - Paradox Spiral [999900E4].mkv
 movie/Kara no Kyoukai/[gg-TakaJun] Kara no Kyoukai - Chapter 6 - Oblivion Recorder [238F9CE7].mkv
 movie/Kara no Kyoukai/[gg-TakaJun] Kara no Kyoukai - Chapter 7 - Murder Study (Part 2) [9789CE05].mkv
+movie/Kiddy Grade/[Coalgirls] Kiddy Grade - Movie 1 [720p BD][40B97392].mkv
 movie/Kiddy Grade/[PFSub] Kiddy Grade - Movie 2 (Director's Cut) [DVD][97EC0256].mkv
 movie/Kimagure Orange Road/[bishi] Kimagure Orange Road - Hurricane! Henshin Shoujo Akane [DVD][0E10A7E6].avi
 movie/Kimagure Orange Road/[bishi] Kimagure Orange Road - I Want to Return to That Day [DVD][5D5C8BB2].avi
@@ -128,6 +130,7 @@ movie/Porco Rosso/[niizk] Porco Rosso [24FEEEAA].mkv
 movie/Pretty Cure All-Stars DX2 Movie/[Curecom-Doremi] Pretty Cure All-Stars DX2 Movie [DVD][1BDB9DC5].mkv
 movie/Pretty Cure Splash Star Movie/[PCSS] Pretty Cure Splash Star Movie [D086C8DB].mkv
 movie/Prince of Tennis/[Anime7] Prince of Tennis - Futari no Samurai [3762DB87].avi
+movie/Princess Arete/[niizk] Princess Arete [BA1BEA1C].mkv
 movie/Professor Layton and the Eternal Diva/[ANBU] Professor Layton and the Eternal Diva [9212887D].mkv
 movie/Rockman.EXE Movie - Hikari to Yami no PROGRAM/[WPP] Rockman.EXE Movie - Hikari to Yami no PROGRAM [0D3AC681].avi
 movie/Sailor Moon R The Movie/[SMC] Sailor Moon R - The Movie [DVD][68A6CC04].mkv
@@ -139,6 +142,7 @@ movie/Slam Dunk/[txxz] Slam Dunk - Movie 1 [DVD][1627A9FD].mkv
 movie/Slam Dunk/[txxz] Slam Dunk - Movie 2 [DVD][7F5D63D3].mkv
 movie/Spirited Away/[niizk] Spirited Away [0827A6C3].mkv
 movie/Summer Wars/[Frostii] Summer Wars (1280x720) [BD][9B12BBFA].mkv
+movie/Super Mario Anime Pack/[m.3.3.w] Super Mario Anime Pack [4FA346BC].mkv
 movie/Suzumiya Haruhi no Shoushitsu/[Mazui] Suzumiya Haruhi no Shoushitsu [Camrip][Super-LQ][Eyecancer][443A6A97].mkv
 movie/Sword of the Stranger/[Yoroshiku-THORA] Sword of the Stranger (1920x1080) [BD][5EAEEB95].mkv
 movie/Tales of Vesperia - The First Strike/[YAE-AbyssalChronicles] Tales of Vesperia - The First Strike (1920x1080) [BD][CE4CE46B].mkv

@@ -416,8 +416,6 @@ complete/a/Amatsuki/[Ureshii] Amatsuki - 11 [B0E19FB4].mkv
 complete/a/Amatsuki/[Ureshii] Amatsuki - 12 [C941FD0A].mkv
 complete/a/Amatsuki/[Ureshii] Amatsuki - 13 [End][33949FB4].mkv
 complete/a/Angel Beats! - Special/[Tortoise-Commie] Angel Beats! - Special [A423213C].mkv
-complete/a/Angel Beats!/[SS] Angel Beats! - 09 [720p][882C4613].mkv
-complete/a/Angel Beats!/[SS] Angel Beats! - 10 [720p][D62F78A6].mkv
 complete/a/Angel Beats!/[SS] Angel Beats! - 11 [720p][638A01A9].mkv
 complete/a/Angel Beats!/[SS] Angel Beats! - 12 [720p][71C8E87A].mkv
 complete/a/Angel Beats!/[SS] Angel Beats! - 13 [End][720p][D8840574].mkv
@@ -429,6 +427,8 @@ complete/a/Angel Beats!/[UTW] Angel Beats! - 05 [1080p BD][4EDEFA11].mkv
 complete/a/Angel Beats!/[UTW] Angel Beats! - 06 [1080p BD][2A719EA1].mkv
 complete/a/Angel Beats!/[UTW] Angel Beats! - 07 [1080p BD][7BE0246A].mkv
 complete/a/Angel Beats!/[UTW] Angel Beats! - 08 [1080p BD][A4F693C1].mkv
+complete/a/Angel Beats!/[UTW] Angel Beats! - 09 [1080p BD][976B0C7F].mkv
+complete/a/Angel Beats!/[UTW] Angel Beats! - 10 [1080p BD][57602DEE].mkv
 complete/a/Angelique - Kagayaki no Ashita OVA/[SMS] Angelique - Kagayaki no Ashita - OVA [761AC663].mkv
 complete/a/Ani-Kuri 15/[Doremi] Ani-Kuri 15 (1920x1080) [1D80604C].mkv
 complete/a/Antique Bakery/[gg] Antique Bakery - 01 [7533E2C5].mkv
@@ -5219,6 +5219,18 @@ complete/h/Hoshi no Umi no Amuri/[OFP] Hoshi no Umi no Amuri - 3 [End][C67FD87C]
 complete/h/Hoshi no Umi no Amuri/[ujisub] Hoshi no Umi no Amuri - 2 [DVD][6BE6A279].mkv
 complete/h/Hoshizora Kiseki OVA/[A-Kraze] Hoshizora Kiseki OVA [DVD][F64F469A].mp4
 complete/h/Hoshizora Kiseki OVA/[MSF] Hoshizora Kiseki OVA [A3851242].mkv
+complete/h/House of Five Leaves/[GotWoot] House of Five Leaves - 01 [720p][1C8A5541].mkv
+complete/h/House of Five Leaves/[GotWoot] House of Five Leaves - 02 [720p][DE06722E].mkv
+complete/h/House of Five Leaves/[GotWoot] House of Five Leaves - 03 [720p][425FE774].mkv
+complete/h/House of Five Leaves/[GotWoot] House of Five Leaves - 04 [v2 720p][ABB74AAC].mkv
+complete/h/House of Five Leaves/[GotWoot] House of Five Leaves - 05 [720p][AFEE21B2].mkv
+complete/h/House of Five Leaves/[GotWoot] House of Five Leaves - 06 [720p][FCC2FB9E].mkv
+complete/h/House of Five Leaves/[GotWoot] House of Five Leaves - 07 [v2 720p][6F00B651].mkv
+complete/h/House of Five Leaves/[GotWoot] House of Five Leaves - 08 [720p][4C6C6ECD].mkv
+complete/h/House of Five Leaves/[GotWoot] House of Five Leaves - 09 [720p][E0CE7762].mkv
+complete/h/House of Five Leaves/[GotWoot] House of Five Leaves - 10 [720p][6E077104].mkv
+complete/h/House of Five Leaves/[GotWoot] House of Five Leaves - 11 [720p][E2D23C3D].mkv
+complete/h/House of Five Leaves/[GotWoot] House of Five Leaves - 12 [End][720p][F838101E].mkv
 complete/h/Hunter X Hunter GI Final/[AonE-N!] Hunter X Hunter GI Final - 01 [8070008E].avi
 complete/h/Hunter X Hunter GI Final/[AonE-N!] Hunter X Hunter GI Final - 02 [112097E5].avi
 complete/h/Hunter X Hunter GI Final/[AonE-N!] Hunter X Hunter GI Final - 03 [DE25492F].avi
@@ -6971,24 +6983,20 @@ complete/l/La Corda d'Oro - Primo Passo/[SMS] La Corda d'Oro - Primo Passo - 23 
 complete/l/La Corda d'Oro - Primo Passo/[SMS] La Corda d'Oro - Primo Passo - 24 [47889C28].avi
 complete/l/La Corda d'Oro - Primo Passo/[SMS] La Corda d'Oro - Primo Passo - 25 [End][929E8A2D].avi
 complete/l/La Corda d'Oro - Secondo Passo/[SMS] La Corda D'Oro - Secondo Passo [DVD][935EFD53].mkv
-complete/l/Ladies versus Butlers!/[Coalgirls] Ladies versus Butlers! - 01 (1280x720) [BD][C0124690].mkv
-complete/l/Ladies versus Butlers!/[Coalgirls] Ladies versus Butlers! - 02 (1280x720) [BD][734FAAB4].mkv
-complete/l/Ladies versus Butlers!/[Coalgirls] Ladies versus Butlers! - 03 (1280x720) [BD][4BA3E4BA].mkv
-complete/l/Ladies versus Butlers!/[Coalgirls] Ladies versus Butlers! - 04 (1280x720) [BD][15234602].mkv
-complete/l/Ladies versus Butlers!/[Coalgirls] Ladies versus Butlers! - Ending (1280x720) [BD][AC09B372].mkv
-complete/l/Ladies versus Butlers!/[Coalgirls] Ladies versus Butlers! - Opening (1280x720) [BD][D982A6B6].mkv
-complete/l/Ladies versus Butlers!/[Ryuumaru] Ladies versus Butlers! - 01 (1024x576) [820B5AC8].mkv
-complete/l/Ladies versus Butlers!/[Ryuumaru] Ladies versus Butlers! - 02 (1280x720) [v2][711FB169].mkv
-complete/l/Ladies versus Butlers!/[Ryuumaru] Ladies versus Butlers! - 03 (1280x720) [39F22217].mkv
-complete/l/Ladies versus Butlers!/[Ryuumaru] Ladies versus Butlers! - 04 (1280x720) [4E28CE6F].mkv
-complete/l/Ladies versus Butlers!/[Ryuumaru] Ladies versus Butlers! - 05 (1280x720) [v2][276078B0].mkv
-complete/l/Ladies versus Butlers!/[Ryuumaru] Ladies versus Butlers! - 06 (1280x720) [5AC43FAD].mkv
-complete/l/Ladies versus Butlers!/[Ryuumaru] Ladies versus Butlers! - 07 (1280x720) [D78F9D5A].mkv
-complete/l/Ladies versus Butlers!/[Ryuumaru] Ladies versus Butlers! - 08 (1280x720) [4F5BADC3].mkv
-complete/l/Ladies versus Butlers!/[Ryuumaru] Ladies versus Butlers! - 09 (1280x720) [v2][C6460FBB].mkv
-complete/l/Ladies versus Butlers!/[Ryuumaru] Ladies versus Butlers! - 10 (1280x720) [C375DC1D].mkv
-complete/l/Ladies versus Butlers!/[Ryuumaru] Ladies versus Butlers! - 11 (1280x720) [6AB0DD70].mkv
-complete/l/Ladies versus Butlers!/[Ryuumaru] Ladies versus Butlers! - 12 (1280x720) [End][253D01AB].mkv
+complete/l/Ladies Versus Butlers!/[Coalgirls] Ladies Versus Butlers! - 01 [1080p BD][F3E558D4].mkv
+complete/l/Ladies Versus Butlers!/[Coalgirls] Ladies Versus Butlers! - 02 [1080p BD][2C1C2530].mkv
+complete/l/Ladies Versus Butlers!/[Coalgirls] Ladies Versus Butlers! - 03 [1080p BD][A79886E9].mkv
+complete/l/Ladies Versus Butlers!/[Coalgirls] Ladies Versus Butlers! - 04 [1080p BD][D067206E].mkv
+complete/l/Ladies Versus Butlers!/[Coalgirls] Ladies Versus Butlers! - 05 [1080p BD][C8BBA694].mkv
+complete/l/Ladies Versus Butlers!/[Coalgirls] Ladies Versus Butlers! - 06 [1080p BD][B4C080E1].mkv
+complete/l/Ladies Versus Butlers!/[Coalgirls] Ladies Versus Butlers! - 07 [1080p BD][8A3C5880].mkv
+complete/l/Ladies Versus Butlers!/[Coalgirls] Ladies Versus Butlers! - 08 [1080p BD][482130E9].mkv
+complete/l/Ladies Versus Butlers!/[Coalgirls] Ladies Versus Butlers! - 09 [1080p BD][62DD4314].mkv
+complete/l/Ladies Versus Butlers!/[Coalgirls] Ladies Versus Butlers! - 10 [1080p BD][783AC271].mkv
+complete/l/Ladies Versus Butlers!/[Coalgirls] Ladies Versus Butlers! - 11 [1080p BD][EB2C48F1].mkv
+complete/l/Ladies Versus Butlers!/[Coalgirls] Ladies Versus Butlers! - 12 [End][1080p BD][391B0B43].mkv
+complete/l/Ladies Versus Butlers!/[Coalgirls] Ladies Versus Butlers! - Ending [1080p BD][DE9BD653].mkv
+complete/l/Ladies Versus Butlers!/[Coalgirls] Ladies Versus Butlers! - Opening [1080p BD][FCEE4CEE].mkv
 complete/l/Lamune/[MDC] Lamune - 01 [DVD][E5A06E7E].mkv
 complete/l/Lamune/[MDC] Lamune - 02 [DVD][764CDAE0].mkv
 complete/l/Lamune/[MDC] Lamune - 03 [DVD][83A5CD20].mkv
@@ -8462,6 +8470,18 @@ complete/n/Nagasarete Airantou/[Ayako] Nagasarete Airantou - 26 (1024x576) [End]
 complete/n/Naisho no Tsubomi/[Ureshii & F-B] Naisho no Tsubomi - 1 [A3945C0A].mkv
 complete/n/Naisho no Tsubomi/[Ureshii & F-B] Naisho no Tsubomi - 2 [2D93A571].mkv
 complete/n/Naisho no Tsubomi/[Ureshii & F-B] Naisho no Tsubomi - 3 [End][7DBAF0A7].mkv
+complete/n/Najica Blitz Tactics/[KAA] Najica Blitz Tactics - 01 [DVD][E785CEBD].avi
+complete/n/Najica Blitz Tactics/[KAA] Najica Blitz Tactics - 02 [DVD][6D714092].avi
+complete/n/Najica Blitz Tactics/[KAA] Najica Blitz Tactics - 03 [DVD][99596E0F].avi
+complete/n/Najica Blitz Tactics/[KAA] Najica Blitz Tactics - 04 [DVD][FB3C3EA5].avi
+complete/n/Najica Blitz Tactics/[KAA] Najica Blitz Tactics - 05 [DVD][F2A0CE9E].avi
+complete/n/Najica Blitz Tactics/[KAA] Najica Blitz Tactics - 06 [DVD][9C0C7277].avi
+complete/n/Najica Blitz Tactics/[KAA] Najica Blitz Tactics - 07 [DVD][F909208E].avi
+complete/n/Najica Blitz Tactics/[KAA] Najica Blitz Tactics - 08 [DVD][C9B09195].avi
+complete/n/Najica Blitz Tactics/[KAA] Najica Blitz Tactics - 09 [DVD][49C127B8].avi
+complete/n/Najica Blitz Tactics/[KAA] Najica Blitz Tactics - 10 [DVD][0C9036D9].avi
+complete/n/Najica Blitz Tactics/[KAA] Najica Blitz Tactics - 11 [DVD][8DE76392].avi
+complete/n/Najica Blitz Tactics/[KAA] Najica Blitz Tactics - 12 [End][DVD][52A763E3].avi
 complete/n/Nanatsuiro Drops/[polished] Nanatsuiro Drops - 01 [DVD][1095C195].mkv
 complete/n/Nanatsuiro Drops/[polished] Nanatsuiro Drops - 02 [DVD][7C05FCD3].mkv
 complete/n/Nanatsuiro Drops/[polished] Nanatsuiro Drops - 03 [DVD][EDA4D599].mkv
@@ -8822,12 +8842,10 @@ complete/n/Nyan Koi!/[Coalgirls] Nyan Koi! - Ending [1080p BD][2643BCC2].mkv
 complete/n/Nyan Koi!/[Coalgirls] Nyan Koi! - Opening [1080p BD][2E9BBFF2].mkv
 complete/o/Occult Academy/[Coalgirls] Occult Academy - 01 [1080p BD][23F6D2DB].mkv
 complete/o/Occult Academy/[Coalgirls] Occult Academy - 02 [1080p BD][7CC4D473].mkv
+complete/o/Occult Academy/[Coalgirls] Occult Academy - 03 [1080p BD][3D047296].mkv
+complete/o/Occult Academy/[Coalgirls] Occult Academy - 04 [1080p BD][79E56646].mkv
 complete/o/Occult Academy/[Coalgirls] Occult Academy - Ending (Clean) [1080p BD][34F6B2B0].mkv
 complete/o/Occult Academy/[Coalgirls] Occult Academy - Opening (Clean) [1080p BD][7B63A3C4].mkv
-complete/o/Occult Academy/[Commie] Occult Academy - 01 [v2][3BD9BD2D].mkv
-complete/o/Occult Academy/[Commie] Occult Academy - 02 [FCF0006A].mkv
-complete/o/Occult Academy/[Commie] Occult Academy - 03 [E736AFE0].mkv
-complete/o/Occult Academy/[Commie] Occult Academy - 04 [97D716CF].mkv
 complete/o/Occult Academy/[Commie] Occult Academy - 05 [FB3D283E].mkv
 complete/o/Occult Academy/[Commie] Occult Academy - 06 [11CA49C2].mkv
 complete/o/Occult Academy/[Commie] Occult Academy - 07 [5A2CAF44].mkv
@@ -9000,9 +9018,6 @@ complete/o/Ookamikakushi/[gg] Ookamikakushi - 08 [42451F99].mkv
 complete/o/Ookamikakushi/[gg] Ookamikakushi - 09 [64FD4DEA].mkv
 complete/o/Ookamikakushi/[gg] Ookamikakushi - 10 [A6526019].mkv
 complete/o/Ookamikakushi/[gg] Ookamikakushi - 11 [CC4DD2EE].mkv
-complete/o/Ookiku Furikabutte S2/[Central Anime] Ookiku Furikabutte S2 - 10 [C719ABE3].mkv
-complete/o/Ookiku Furikabutte S2/[Central Anime] Ookiku Furikabutte S2 - 11 [E66959C9].mkv
-complete/o/Ookiku Furikabutte S2/[Central Anime] Ookiku Furikabutte S2 - 12 [CA7830F4].mkv
 complete/o/Ookiku Furikabutte S2/[Central Anime] Ookiku Furikabutte S2 - 13 [End][F5602344].mkv
 complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 01 [24B59471].mkv
 complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 02 [009A306C].mkv
@@ -9014,6 +9029,8 @@ complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 07 [71AD185B].
 complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 08 [0BAB8DAC].mkv
 complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 09 [8E86ED07].mkv
 complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 10 [8996FAB3].mkv
+complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 11 [01B704F0].mkv
+complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 12 [59FB40D9].mkv
 complete/o/Ookiku Furikabutte/[Central Anime] Ookiku Furikabutte - 14 [WS][69EFBA74].avi
 complete/o/Ookiku Furikabutte/[Central Anime] Ookiku Furikabutte - 15 [WS][29EA70CE].avi
 complete/o/Ookiku Furikabutte/[Central Anime] Ookiku Furikabutte - 16 [WS][F009F5C1].avi
@@ -10562,11 +10579,11 @@ complete/s/School Rumble 2nd Term/[WF] School Rumble 2nd Term - 11 [001BD3DB].mp
 complete/s/School Rumble 2nd Term/[WF] School Rumble 2nd Term - 12 [EB5D3BC2].mp4
 complete/s/School Rumble 3rd Term/[ACG] School Rumble 3rd Term - 26 [End][D8578DF0].avi
 complete/s/School Rumble 3rd Term/[WF] School Rumble 3rd Term - 25 [3720F296].mp4
-complete/s/School Rumble/[WF-KAA] School Rumble - 01 [DVD][2465C4A1].mkv
-complete/s/School Rumble/[WF-KAA] School Rumble - 02 [DVD][55F08DB6].mkv
-complete/s/School Rumble/[WF] School Rumble - 03 [0C9A290E].avi
-complete/s/School Rumble/[WF] School Rumble - 04 [02D25233].avi
-complete/s/School Rumble/[WF] School Rumble - 05 [9B6176D5].avi
+complete/s/School Rumble/[KAA-Mokkori] School Rumble - 01 [v2 DVD][632E59F2].mkv
+complete/s/School Rumble/[KAA-Mokkori] School Rumble - 02 [DVD][4230EED1].mkv
+complete/s/School Rumble/[KAA-Mokkori] School Rumble - 03 [DVD][58536D54].mkv
+complete/s/School Rumble/[KAA-Mokkori] School Rumble - 04 [v2 DVD][179C6CDA].mkv
+complete/s/School Rumble/[KAA-Mokkori] School Rumble - 05 [v3 DVD][F061776F].mkv
 complete/s/School Rumble/[WF] School Rumble - 06 [495C6F46].avi
 complete/s/School Rumble/[WF] School Rumble - 07 [C3DCAEFD].avi
 complete/s/School Rumble/[WF] School Rumble - 08 [D19C182E].avi
@@ -10667,21 +10684,19 @@ complete/s/Seirei no Moribito/[A-Kraze] Seirei no Moribito - 23 [DVD][839054E5].
 complete/s/Seirei no Moribito/[A-Kraze] Seirei no Moribito - 24 [DVD][A01ED0FA].mkv
 complete/s/Seirei no Moribito/[A-Kraze] Seirei no Moribito - 25 [DVD][6293E29F].mkv
 complete/s/Seirei no Moribito/[A-Kraze] Seirei no Moribito - 26 [End][DVD][420AD858].mkv
-complete/s/Seitokai Yakuindomo/[Coalgirls] Seitokai Yakuindomo - 01 (1920x1080) [BD][912D6FAB].mkv
-complete/s/Seitokai Yakuindomo/[Coalgirls] Seitokai Yakuindomo - 02 (1920x1080) [BD][EBB16865].mkv
-complete/s/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 01 (1280x720) [BD][E4FAEC11].mkv
-complete/s/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 02 (1280x720) [BD][3DB1FD1F].mkv
-complete/s/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 03 (1024x576) [8AA52B46].mkv
-complete/s/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 04 (1024x576) [072611CE].mkv
-complete/s/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 05 (1024x576) [F53C4CA4].mkv
-complete/s/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 06 (1024x576) [DDBF8557].mkv
-complete/s/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 07 (1024x576) [10C61256].mkv
-complete/s/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 08 (1024x576) [4598E4A9].mkv
-complete/s/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 09 (1024x576) [7EA88A1B].mkv
-complete/s/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 10 (1024x576) [5CBF6EAE].mkv
-complete/s/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 11 (1024x576) [45F65C35].mkv
-complete/s/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 12 (1024x576) [C7E36FAB].mkv
-complete/s/Seitokai Yakuindomo/[Ryuumaru] Seitokai Yakuindomo - 13 (1024x576) [End][7B4E64BA].mkv
+complete/s/Seitokai Yakuindomo/[Coalgirls] Seitokai Yakuindomo - 01 [720p BD][F94958E7].mkv
+complete/s/Seitokai Yakuindomo/[Coalgirls] Seitokai Yakuindomo - 02 [720p BD][15887148].mkv
+complete/s/Seitokai Yakuindomo/[Coalgirls] Seitokai Yakuindomo - 03 [720p BD][D6A2592A].mkv
+complete/s/Seitokai Yakuindomo/[Coalgirls] Seitokai Yakuindomo - 04 [720p BD][7D3055BB].mkv
+complete/s/Seitokai Yakuindomo/[Coalgirls] Seitokai Yakuindomo - 05 [720p BD][D1FED614].mkv
+complete/s/Seitokai Yakuindomo/[Coalgirls] Seitokai Yakuindomo - 06 [720p BD][E87606FF].mkv
+complete/s/Seitokai Yakuindomo/[Coalgirls] Seitokai Yakuindomo - 07 [720p BD][E2252B45].mkv
+complete/s/Seitokai Yakuindomo/[Coalgirls] Seitokai Yakuindomo - 08 [720p BD][16DA3766].mkv
+complete/s/Seitokai Yakuindomo/[Coalgirls] Seitokai Yakuindomo - 09 [720p BD][2EBD0337].mkv
+complete/s/Seitokai Yakuindomo/[Coalgirls] Seitokai Yakuindomo - 10 [720p BD][7CC8432D].mkv
+complete/s/Seitokai Yakuindomo/[Coalgirls] Seitokai Yakuindomo - 11 [720p BD][26D4E64F].mkv
+complete/s/Seitokai Yakuindomo/[Coalgirls] Seitokai Yakuindomo - 12 [720p BD][7D4E5D1E].mkv
+complete/s/Seitokai Yakuindomo/[Coalgirls] Seitokai Yakuindomo - 13 [End][720p BD][CAE3F84B].mkv
 complete/s/Seitokai no Ichizon/[SS-Eclipse] Seitokai no Ichizon - 01 (1024x576) [0F1C5BCB].mkv
 complete/s/Seitokai no Ichizon/[SS-Eclipse] Seitokai no Ichizon - 02 (1024x576) [DB13AB32].mkv
 complete/s/Seitokai no Ichizon/[SS-Eclipse] Seitokai no Ichizon - 03 (1024x576) [A4BD21F8].mkv
@@ -10735,15 +10750,15 @@ complete/s/Seto no Hanayome OVA/[Seto Otaku] Seto no Hanayome OVA - 1 [v2][DVD][
 complete/s/Seto no Hanayome OVA/[Seto Otaku] Seto no Hanayome OVA - 2 [End][DVD][38603DCD].mkv
 complete/s/Seto no Hanayome OVA/[Seto Otaku] Seto no Hanayome OVA - Ending (Clean) [DVD][A85BA652].mp4
 complete/s/Seto no Hanayome OVA/[Seto Otaku] Seto no Hanayome OVA - Ending 2 (Clean) [DVD][F12D298A].mp4
-complete/s/Seto no Hanayome/[Seto Otaku] Seto no Hanayome - 04 (1280x720) [BD][662EEE8C].mkv
-complete/s/Seto no Hanayome/[Yabai] Seto no Hanayome - 01 [v2][DVD][E3DA8881].mkv
+complete/s/Seto no Hanayome/[Seto Otaku] Seto no Hanayome - 04 [720p][BD][662EEE8C].mkv
+complete/s/Seto no Hanayome/[Yabai] Seto no Hanayome - 01 [v2 DVD][E3DA8881].mkv
 complete/s/Seto no Hanayome/[Yabai] Seto no Hanayome - 02 [DVD][0C95E439].mkv
 complete/s/Seto no Hanayome/[Yabai] Seto no Hanayome - 03 [DVD][026137C6].mkv
+complete/s/Seto no Hanayome/[Yabai] Seto no Hanayome - 04 [DVD][CCDCF053].mkv
+complete/s/Seto no Hanayome/[Yabai] Seto no Hanayome - 05 [DVD][FD42B877].mkv
 complete/s/Seto no Hanayome/[Your-Mom] Seto no Hanayome - 24 [03FD485E].mkv
 complete/s/Seto no Hanayome/[Your-Mom] Seto no Hanayome - 25 [1D4489AD].mkv
 complete/s/Seto no Hanayome/[Your-Mom] Seto no Hanayome - 26 [End][27F263DE].mkv
-complete/s/Seto no Hanayome/[gg] Seto no Hanayome - 04 [F83496B5].mkv
-complete/s/Seto no Hanayome/[gg] Seto no Hanayome - 05 [BC0DBF26].mkv
 complete/s/Seto no Hanayome/[gg] Seto no Hanayome - 06 [88462B63].mkv
 complete/s/Seto no Hanayome/[gg] Seto no Hanayome - 07 [D34C3454].mkv
 complete/s/Seto no Hanayome/[gg] Seto no Hanayome - 08 [00E81FB1].mkv
@@ -10758,8 +10773,8 @@ complete/s/Seto no Hanayome/[gg] Seto no Hanayome - 16 [2419D1E0].mkv
 complete/s/Seto no Hanayome/[gg] Seto no Hanayome - 22 [DVD][7E3C74C0].mkv
 complete/s/Seto no Hanayome/[gg] Seto no Hanayome - 23 [DVD][DCA8FDA7].mkv
 complete/s/Seto no Hanayome/[gg] Seto no Hanayome - 24 [DVD][5EA3D9DB].mkv
-complete/s/Seto no Hanayome/[m.3.3.w-BakaWolf] Seto no Hanayome - 17 (1280x720) [E5CD88CE].mkv
-complete/s/Seto no Hanayome/[m.3.3.w-BakaWolf] Seto no Hanayome - 18 (1280x720) [4C4A6915].mkv
+complete/s/Seto no Hanayome/[m.3.3.w-BakaWolf] Seto no Hanayome - 17 [720p][E5CD88CE].mkv
+complete/s/Seto no Hanayome/[m.3.3.w-BakaWolf] Seto no Hanayome - 18 [720p][4C4A6915].mkv
 complete/s/Seto no Hanayome/[m.3.3.w] Seto no Hanayome - 19 [0914875A].mkv
 complete/s/Seto no Hanayome/[m.3.3.w] Seto no Hanayome - 20 [DVD][205C7935].mkv
 complete/s/Seto no Hanayome/[m.3.3.w] Seto no Hanayome - 21 [DVD][C3CF0E30].mkv
@@ -11657,6 +11672,20 @@ complete/s/Star Ocean EX/[AHQ] Star Ocean EX - 26 [End][6C30E8B9].mkv
 complete/s/Strait Jacket/[Ureshii] Strait Jacket - 1 [DVD][2BCA92CD].mkv
 complete/s/Strait Jacket/[Ureshii] Strait Jacket - 2 [DVD][AF16266D].mkv
 complete/s/Strait Jacket/[Ureshii] Strait Jacket - 3 [End][DVD][EC7B7F95].mkv
+complete/s/Strange Dawn/[Doremi] Strange Dawn - 01 [9027D679].mkv
+complete/s/Strange Dawn/[Doremi] Strange Dawn - 02 [D25D7A15].mkv
+complete/s/Strange Dawn/[Doremi] Strange Dawn - 03 [32D79062].mkv
+complete/s/Strange Dawn/[Doremi] Strange Dawn - 04 [EB82DDF4].mkv
+complete/s/Strange Dawn/[Doremi] Strange Dawn - 05 [A6FDD109].mkv
+complete/s/Strange Dawn/[Doremi] Strange Dawn - 06 [1B2D983D].mkv
+complete/s/Strange Dawn/[Doremi] Strange Dawn - 07 [3000016E].mkv
+complete/s/Strange Dawn/[Doremi] Strange Dawn - 08 [965BDF4D].mkv
+complete/s/Strange Dawn/[Doremi] Strange Dawn - 09 [BC2C0997].mkv
+complete/s/Strange Dawn/[Doremi] Strange Dawn - 10 [7C3949C4].mkv
+complete/s/Strange Dawn/[Doremi] Strange Dawn - 11 [C8119145].mkv
+complete/s/Strange Dawn/[Doremi] Strange Dawn - 12 [44235901].mkv
+complete/s/Strange Dawn/[Doremi] Strange Dawn - 13 [End][74980B34].mkv
+complete/s/Strange Dawn/[Doremi] Strange Dawn - Opening [E1876C45].mkv
 complete/s/Stratos 4 Advance/[SS-Eclipse] Stratos 4 Advance - 1 [DA92BE16].mkv
 complete/s/Stratos 4 Advance/[SS-Eclipse] Stratos 4 Advance - 2 [F089CA6C].mkv
 complete/s/Stratos 4 Advance/[SS-Eclipse] Stratos 4 Advance - 3 [CD3E2D38].mkv
@@ -12361,7 +12390,7 @@ complete/t/To Love-Ru/[Yabai] To Love-Ru - 09 [DVD][CE91E587].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - 10 [DVD][54ECA974].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - 11 [DVD][FC9153E0].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - 12 [DVD][E88EDCB3].mkv
-complete/t/To Love-Ru/[Yabai] To Love-Ru - 13 [DVD][F3471759].mkv
+complete/t/To Love-Ru/[Yabai] To Love-Ru - 13 [v2 DVD][E62F7442].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - Ending (clean) [DVD][ED4D6663].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - Ending [v2][DVD][8629235A].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - Opening (clean) [DVD][876BE74A].mkv
@@ -12688,8 +12717,7 @@ complete/t/Touka Gettan/[ReDone] Touka Gettan - 09 [DVD][3B3C5637].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 10 [DVD][AF690004].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 11 [DVD][FCA94090].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 12 [DVD][81E31BB3].mkv
-complete/t/Touka Gettan/[SRN] Touka Gettan - 12 [CC487E8F].avi
-complete/t/Touka Gettan/[SRN] Touka Gettan - 13 [85AA1C61].avi
+complete/t/Touka Gettan/[ReDone] Touka Gettan - 13 [DVD][47D58A42].mkv
 complete/t/Touka Gettan/[SRN] Touka Gettan - 14 [D798DEFF].avi
 complete/t/Touka Gettan/[SRN] Touka Gettan - 15 [B5AF0941].avi
 complete/t/Touka Gettan/[SRN] Touka Gettan - 16 [A80F0325].avi

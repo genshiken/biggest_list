@@ -1381,6 +1381,7 @@ music/iSiscon/[iSiscon]_ASa_Project_-_Atchi_Muite_Koi_Full_Soundtrack_[w_scans]_
 music/iSiscon/[iSiscon]_Acid_Black_Cherry_-_Another_Century's_Episode_R_Image_Song_-_Re-birth_[wo_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Ar_tonelico_3_Sekai_Shuen_no_Hikigane_wa_Shojo_no_Uta_ga_Hiku_-_Original_Soundtrack_(FLAC).rar
 music/iSiscon/[iSiscon]_Aso_Natsuko_-_Movement_of_magic_[w_scans]_(FLAC).rar
+music/iSiscon/[iSiscon]_Aso_Natsuko_-_TV_Anime_MM!_ED_Single_-_More-more_LOVERS!!_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Asriel_-_11eyes_-Resona_Forma-_ED_Theme_-_INNOCENT_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Ayane_-_11eyes_-Resona_Forma-_OP_Theme_-_Juujika_ni_Sasagu_Nanae_Ensou_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_ClariS_-_TV_Anime_Ore_no_Imouto_ga_Konna_ni_Kawaii_wake_ga_nai_OP_Single_-_irony_[w_scans]_(FLAC).rar
@@ -1394,6 +1395,7 @@ music/iSiscon/[iSiscon]_Drama_CD_-_Prunus_Girl_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Drama_CD_-_Tsukiyo_no_Fromage_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_ELISA_-_Kami_no_Mizo_Shiru_Sekai_OP_Single_Oratorio_The_World_God_Only_Knows_-_God_only_knows_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_ELISA_-_OVA_Toaru_Kagaku_no_Railgun_ED_Theme_-_Special_ONE_[w_scans]_(FLAC).rar
+music/iSiscon/[iSiscon]_Elsie_(CV._Itou_Kanae)_-_The_World_God_Only_Knows_Kaminomi_Character_CD_0_-_Elsie_starring_Itou_Kanae_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_EriYuka_-_Happy_Place_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Faylan_-_Polaris_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Fukuyama_Yoshiki_-_Okiba_ga_nai!_OP_Theme_-_Kemono_ni_Nare!_[w_scans]_(FLAC).rar
@@ -1465,6 +1467,7 @@ music/iSiscon/[iSiscon]_Tenshinranman_Charactor_Song_Vol_4_Yamabugi_Aoi_-_motto_
 music/iSiscon/[iSiscon]_Tenshinranman_Original_Soundtrack_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Tokimeki_Memorial_4_Image_song_-_Tenohira_no_Yuuki_(FLAC).rar
 music/iSiscon/[iSiscon]_Tomatsu_Haruka_-_Asobi_ni_Iku_yo!_ED_Single_Kinjou_Manami_-_Omoide_ga_Jama_wo_Suru_(FLAC).rar
+music/iSiscon/[iSiscon]_Tomatsu_Haruka_-_TV_Anime_Motto_To_Love_Ru_ED_Single_-_Baby_Baby_Love_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Toyosaki_Aki,_Hikasa_Youko,_Satou_Satomi,_Kotobuki_Minako,_Taketatsu_Ayana_-_K-ON!!_ED2_Single_-_NO,Thank_You!_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Toyosaki_Aki,_Hikasa_Youko,_Satou_Satomi,_Kotobuki_Minako,_Taketatsu_Ayana_-_K-ON!!_OP2_Single_-_Utauyo!!_MIRACLE_(FLAC).rar
 music/iSiscon/[iSiscon]_Tropical_Kiss_OP_ED_Single_[w_scans]_(FLAC).rar
@@ -1486,14 +1489,17 @@ music/iSiscon/[iSiscon]_Various_Artists_-_Shukufuku_no_Campanella_Character_Song
 music/iSiscon/[iSiscon]_Various_Artists_-_Sphere_Harukana_Sora_Character_Song_CD_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Various_Artists_-_Strike_Witches_2_Ending_Theme_Collection_-_Over_Sky_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Various_Artists_-_THE_IDOLM@STER_Break!_Vol.3_[w_scans]_(FLAC).rar
+music/iSiscon/[iSiscon]_Various_Artists_-_UNiSONSHIFT_Accent._Chu_x_Chu_idol_2_SOUND_TRACKS_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Veil_-_TV_Anime_Fortune_Arterial_-Akai_Yakusoku-_ED_Single_-_I_miss_you_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Vocaloid_-_VocaL@ntis_~Hatsune_Miku_ga_Lantis_no_Kami_Kyoku_wo_Utattemita~_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_WONDER_STRAWBERRY☆F_-_Zettai☆Daisuki_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Windows_7_Madobe_Nanami_-_Nanairo_Generator_[w_scans]_(FLAC).rar
+music/iSiscon/[iSiscon]_Yagyuu_Juubee_(CV._Yuuki_Aoi)_&_Sanada_Yukimura_(CV._Kugimiya_Rie)_&_Tokugawa_Sen_(CV._Kotobuki_Minako)_-_Hyakka_Ryouran_Samurai_Girls_ED_Single_-_Koi_ni_Sesse_Tooryanse_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Yakushi_Ruri_-_colorful_plus_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Yashima_Yadtsuki_(CV._Aoba_Ringo)_-_Ama_Ane_OP_Single_-_Anata_dake_no_ANSWER_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_asuza_-_Amagami_SS_OP_Theme_-_i_Love_(FLAC).rar
 music/iSiscon/[iSiscon]_azusa_-_Amagami_SS_OP2_Single_-_Kimi_no_Mama_de_[w_scans]_(FLAC).rar
+music/iSiscon/[iSiscon]_blue_drops_[Yoshida_Hitomi_&_Ikaros_(CV._Hayami_Saori)]_-_Sora_no_Otoshimono_Forte_OP_ED1_Single_-_Heart_no_Kakuritsu_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_cassis_-_ReBirthday_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_eufonius_-_TV_Anime_Yosuga_no_Sora_OP_Single_-_Hiyoku_no_Hane_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_faylan_-_Hyakka_Ryouran_Samurai_Girls_OP_Single_-_Last_vision_for_last_[w_scans]_(FLAC).rar
