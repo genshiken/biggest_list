@@ -764,6 +764,11 @@
 !new/[CureCom] Fresh Pretty Cure! - 14 [HD][5F97D833].mkv
 !new/[DATS] Bakegyamon - 01 [B4442803].mkv
 !new/[Doki] Seikon no Qwaser - Jotei no Shouzou (720x480 h264 DVD AC3) [7459F43F].mkv
+!new/[Doutei]Golgo 13 - 27[A86006BA].mkv
+!new/[Doutei]Golgo 13 - 28[22203EF7].mkv
+!new/[Doutei]Golgo 13 - 29[BF4C182C].mkv
+!new/[Doutei]Golgo 13 - 30[A9979B5F].mkv
+!new/[Doutei]Golgo 13 - 43[DVD][C25C1A63].mkv
 !new/[Doutei]Golgo 13 - 50[DVD][8D31B323].mkv
 !new/[Doutei]Golgo_Megapatch.zip
 !new/[EAC] [101020] TVアニメ ストライクウィッチーズ2 エンディング・テーマ・コレクション「Over Sky」(ape+cue).rar
@@ -1072,6 +1077,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_06_[720p][35CDD311].mkv
+!new/[Underwater] Panty & Stocking with Garterbelt - 07 [392BF3EA].mkv
 !new/[gg]_Soredemo_Machi_wa_Mawatteiru_-_06v2_[2F48D135].mkv
 !new/[tv-j] kidou senshi gundam uc unicorn - episode.02 [bd 1920x1080 h264+aac(5.1ch jp+en) +sub(jp-en-sp-fr-ch) chap].mp4
 !new/[umee]_Shiki_-_15_[2543F6A0].mkv
