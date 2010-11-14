@@ -293,6 +293,7 @@
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Kamen_Rider_X_Kamen_Rider_-_W_&_Decade_-_Movie_Taisen_2010_Director's_Cut_[W-Time][DD583D13].mkv
 !new/NANA/[IY-F&Oki] NANA - 21.5 [E0EBFBDD].mkv
 !new/NANA/[IY-F&Oki] NANA - 22 [B29D6430].mkv
 !new/NANA/[IY-F&Oki] NANA - 23 [9BB2F6A9].mkv
@@ -762,7 +763,9 @@
 !new/[Commie] Asobi ni Ikuyo! - 02 (BD 720p) [563AC4B1].mkv
 !new/[Corona]_Heroman_-_EX-1_(H264_1280x720)[62943C35].mkv
 !new/[CureCom] Fresh Pretty Cure! - 14 [HD][5F97D833].mkv
+!new/[CureCom] Fresh Pretty Cure! - 15 [HD][F242AD43].mkv
 !new/[DATS] Bakegyamon - 01 [B4442803].mkv
+!new/[DB]_Ninku_16_[F7C47A76].avi
 !new/[Doki] Seikon no Qwaser - Jotei no Shouzou (720x480 h264 DVD AC3) [7459F43F].mkv
 !new/[Doutei]Golgo 13 - 27[A86006BA].mkv
 !new/[Doutei]Golgo 13 - 28[22203EF7].mkv
@@ -780,10 +783,15 @@
 !new/[Frostii]_K-On!!_B-Side_Theater_-_Uraon!!_-_3_[CDCDAC72].mkv
 !new/[Frostii]_K-On!!_B-Side_Theater_-_Uraon!!_-_4_[15A31A50].mkv
 !new/[HorribleSubs] Fortune Arterial - 06 [720p].mkv
+!new/[HorribleSubs] Lilpri - 33 [720p].mkv
+!new/[HorribleSubs] Shinryaku! Ika Musume - 06 [720p].mkv
 !new/[HorribleSubs] Sora No Otoshimono Forte - 07 [720p].mkv
 !new/[HorribleSubs] Tegami Bachi REVERSE - 32 [720p].mkv
+!new/[HorribleSubs] Yumeiro Patissiere Professional - 07 [720p].mkv
 !new/[Kira-Fansub] Seikon no Qwaser Episode  10.5 (OVA) (DVD 1280x720 x264 AAC) [AB20655F].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 05 [1280x720 H264 OGG] [BCBF40FF].mkv
+!new/[KiteSeekers-imuR88] Quiz Magic Academy OVA 2 [DVD H264 720x480] [7879F1EC].mkv
+!new/[Mazui]_Katanagatari_-_11_[3EBE5850].mkv
 !new/[Nipponsei] Gokujou!! Mecha Mote Iinchou Second Collection OP ED Single - Oshare My Dream [Various].zip
 !new/[Nipponsei] Ookami-san to Shichinin no Nakama-tachi Original Soundtrack.zip
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
