@@ -781,8 +781,11 @@
 !new/[Frostii]_K-On!!_B-Side_Theater_-_Uraon!!_-_4_[15A31A50].mkv
 !new/[HorribleSubs] Fortune Arterial - 06 [720p].mkv
 !new/[HorribleSubs] Sora No Otoshimono Forte - 07 [720p].mkv
+!new/[HorribleSubs] Tegami Bachi REVERSE - 32 [720p].mkv
 !new/[Kira-Fansub] Seikon no Qwaser Episode  10.5 (OVA) (DVD 1280x720 x264 AAC) [AB20655F].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 05 [1280x720 H264 OGG] [BCBF40FF].mkv
+!new/[Nipponsei] Gokujou!! Mecha Mote Iinchou Second Collection OP ED Single - Oshare My Dream [Various].zip
+!new/[Nipponsei] Ookami-san to Shichinin no Nakama-tachi Original Soundtrack.zip
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -1078,6 +1081,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_06_[720p][35CDD311].mkv
 !new/[Underwater] Panty & Stocking with Garterbelt - 07 [392BF3EA].mkv
+!new/[gg]_Bakuman_-_07_[6930B02E].mkv
 !new/[gg]_Soredemo_Machi_wa_Mawatteiru_-_06v2_[2F48D135].mkv
 !new/[tv-j] kidou senshi gundam uc unicorn - episode.02 [bd 1920x1080 h264+aac(5.1ch jp+en) +sub(jp-en-sp-fr-ch) chap].mp4
 !new/[umee]_Shiki_-_15_[2543F6A0].mkv
