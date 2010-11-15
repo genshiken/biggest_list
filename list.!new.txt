@@ -766,6 +766,7 @@
 !new/[Corona]_Heroman_-_EX-1_(H264_1280x720)[62943C35].mkv
 !new/[CureCom] Fresh Pretty Cure! - 14 [HD][5F97D833].mkv
 !new/[CureCom] Fresh Pretty Cure! - 15 [HD][F242AD43].mkv
+!new/[CureCom] Yes! Pretty Cure 5 Go Go! - 04 [DVD][B5868EF6].mkv
 !new/[DATS] Bakegyamon - 01 [B4442803].mkv
 !new/[DB]_Ninku_16_[F7C47A76].avi
 !new/[Derp]_Legend_of_the_Legendary_Heroes_-_19_(1280x720_x264_AAC).mkv
@@ -789,6 +790,7 @@
 !new/[HorribleSubs] Lilpri - 33 [720p].mkv
 !new/[HorribleSubs] Shinryaku! Ika Musume - 06 [720p].mkv
 !new/[HorribleSubs] Sora No Otoshimono Forte - 07 [720p].mkv
+!new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 07 [720p].mkv
 !new/[HorribleSubs] Tegami Bachi REVERSE - 32 [720p].mkv
 !new/[HorribleSubs] Yumeiro Patissiere Professional - 07 [720p].mkv
 !new/[Kira-Fansub] Seikon no Qwaser Episode  10.5 (OVA) (DVD 1280x720 x264 AAC) [AB20655F].mkv
@@ -797,6 +799,7 @@
 !new/[Mazui]_Katanagatari_-_11_[3EBE5850].mkv
 !new/[Nipponsei] Gokujou!! Mecha Mote Iinchou Second Collection OP ED Single - Oshare My Dream [Various].zip
 !new/[Nipponsei] Ookami-san to Shichinin no Nakama-tachi Original Soundtrack.zip
+!new/[Nordkohl] Psychic Detective Yakumo - 07 [11915E1E].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -845,11 +848,15 @@
 !new/[OZC]Code Geass Lelouch of the Rebellion Episode 23 'At Least With Sorrow' [FINAL].mkv
 !new/[OZC]Code Geass Lelouch of the Rebellion Episode 24 'The Collapsing Stage' [FINAL].mkv
 !new/[OZC]Code Geass Lelouch of the Rebellion Episode 25 'Zero' [FINAL].mkv
+!new/[ReDone] To Heart ~Remember my Memories~ 06 (DVD) [4EFD7BC8].mkv
 !new/[Ritsuka][101103] Kami Nomi Zo Shiru Sekai OP Single - God Only Knows [Oratorio The World God Only Knows] (FLAC).rar
 !new/[Ritsuka][101103] To Aru Majutsu no Index II OP Single - No buts! [Kawada Mami] (FLAC).rar
+!new/[RyRo]_Inazuma_Eleven_-_106_(1280x720_x264_AAC)_[7DF7752B].mkv
 !new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 06 [720p][E44B6EEA].mkv
 !new/[Ryuumaru] MM! - 07 [812B8FA8].mkv
 !new/[SDX-RSS]_Golgo_13_-_16_[h264][891728EF].mkv
+!new/[SS]_Ore_No_Imouto_-_04_[E2F9146A].mkv
+!new/[SS]_Ore_No_Imouto_-_05_[646BD2BF].mkv
 !new/[Seto_Otaku]_Valkyria_Chronicles_OVA_-_01_[DVD][720x480_H264-Vorbis][63E10756].mkv
 !new/[Seto_Otaku]_Valkyria_Chronicles_OVA_-_02_[DVD][720x480_H264-Vorbis][E3B29624].mkv
 !new/[Seto_Otaku]_Valkyria_Chronicles_OVA_-_04_[DVD][720x480_H264-Vorbis][DF39F7F2].mkv
@@ -1094,8 +1101,12 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_06_[720p][35CDD311].mkv
 !new/[Underwater] Panty & Stocking with Garterbelt - 07 [392BF3EA].mkv
+!new/[Underwater] Shinryaku! Ika Musume - 06 [720p][C14E33F2].mkv
+!new/[Wasurenai] Marie & Gali - 23 [H264 1280x720] [6F878B22].mkv
 !new/[gg]_Bakuman_-_07_[6930B02E].mkv
 !new/[gg]_Soredemo_Machi_wa_Mawatteiru_-_06v2_[2F48D135].mkv
+!new/[gg]_Star_Driver_-_07_[B1198FC6].mkv
+!new/[gg]_Togainu_no_Chi_-_06_[0DFED97A].mkv
 !new/[tv-j] kidou senshi gundam uc unicorn - episode.02 [bd 1920x1080 h264+aac(5.1ch jp+en) +sub(jp-en-sp-fr-ch) chap].mp4
 !new/[uguu~]_Zoku_Sayonara_Zetsubou_Sensei_04_(DVD)_[806161D7].mkv
 !new/[umee]_Shiki_-_15_[2543F6A0].mkv
