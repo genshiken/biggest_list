@@ -751,6 +751,7 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
 !new/[101027] TVアニメ「えむえむっ！」OP主題歌「Help！」／石動美緒（CV：竹達彩奈）.zip
 !new/[101027] Togainu no Chi OP Single - ROSE HIP-BULLET [GRANRODEO] (FLAC).rar
+!new/[ANBU]_Dragon_Quest_-_03_[57F0112E].mkv
 !new/[ANBU]_Space_Battleship_Yamato_Revival_[1080p_H.264_DTS][EFAFC227].mkv
 !new/[AQS-Anime]_Negima_Mou_Hitotsu_no_Sekai_OAD_04_[H264-AAC][842FC24F].mkv
 !new/[ARR] Floral Magician Mary Bell - The Phoenix Key [AVC][9024DA00].mkv
@@ -758,7 +759,9 @@
 !new/[BBS]_Golgo_13_-_17_[h264][E7FF2556].mkv
 !new/[BWS]Pocket_Monsters_Best_Wishes_007_Tsutarja_Attraction_via_Getting[H264_720P][CD59DDD4].mkv
 !new/[BWS]Pocket_Monsters_Best_Wishes_008_Darumakka_and_Hihidaruma!_The_Secret_of_the_Clock_Tower!![H264_720P][F82770A5].mkv
+!new/[BWS]Pocket_Monsters_Best_Wishes_009_Pendras_Rampage!_Rescue_Kibago!![H264_720P][33714729].mkv
 !new/[Baaka] Tantei Opera Milky Holmes - 04 [1280x720][69D2BAC9].mkv
+!new/[Baaka] Tantei Opera Milky Holmes - 06 [1280x720][8BFBE70C].mkv
 !new/[Coalgirls]_Macross_Frontier_-_The_False_Diva_(1920x1080_Blu-ray_FLAC)_[80384B74]_Remux.mkv
 !new/[Commie] Asobi ni Ikuyo! - 01 (BD 720p) [53FB63EE].mkv
 !new/[Commie] Asobi ni Ikuyo! - 02 (BD 720p) [563AC4B1].mkv
@@ -787,6 +790,7 @@
 !new/[Frostii]_K-On!!_B-Side_Theater_-_Uraon!!_-_3_[CDCDAC72].mkv
 !new/[Frostii]_K-On!!_B-Side_Theater_-_Uraon!!_-_4_[15A31A50].mkv
 !new/[HorribleSubs] Fortune Arterial - 06 [720p].mkv
+!new/[HorribleSubs] Hyakka Ryouran Samurai Girls - 07 [720p].mkv
 !new/[HorribleSubs] Lilpri - 33 [720p].mkv
 !new/[HorribleSubs] Shinryaku! Ika Musume - 06 [720p].mkv
 !new/[HorribleSubs] Sora No Otoshimono Forte - 07 [720p].mkv
@@ -797,6 +801,7 @@
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 05 [1280x720 H264 OGG] [BCBF40FF].mkv
 !new/[KiteSeekers-imuR88] Quiz Magic Academy OVA 2 [DVD H264 720x480] [7879F1EC].mkv
 !new/[Mazui]_Katanagatari_-_11_[3EBE5850].mkv
+!new/[Mazui]_Ore_No_Imouto_-_07_[978E8FE7].mkv
 !new/[Nipponsei] Gokujou!! Mecha Mote Iinchou Second Collection OP ED Single - Oshare My Dream [Various].zip
 !new/[Nipponsei] Ookami-san to Shichinin no Nakama-tachi Original Soundtrack.zip
 !new/[Nordkohl] Psychic Detective Yakumo - 07 [11915E1E].mkv
