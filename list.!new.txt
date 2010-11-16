@@ -772,12 +772,14 @@
 !new/[Corona]_Heroman_-_EX-1_(H264_1280x720)[62943C35].mkv
 !new/[CureCom] Fresh Pretty Cure! - 14 [HD][5F97D833].mkv
 !new/[CureCom] Fresh Pretty Cure! - 15 [HD][F242AD43].mkv
+!new/[CureCom] Fresh Pretty Cure! - 16 [HD][3CF6A0FA].mkv
 !new/[CureCom] Yes! Pretty Cure 5 Go Go! - 04 [DVD][B5868EF6].mkv
 !new/[CureCom] Yes! Pretty Cure 5 Go Go! - 05 [DVD][FD687CB7].mkv
 !new/[DATS] Bakegyamon - 01 [B4442803].mkv
 !new/[DB]_Ninku_16_[F7C47A76].avi
 !new/[Derp]_Legend_of_the_Legendary_Heroes_-_19_(1280x720_x264_AAC).mkv
 !new/[Doki] Seikon no Qwaser - Jotei no Shouzou (720x480 h264 DVD AC3) [7459F43F].mkv
+!new/[Doremi].HeartCatch.PreCure!.39.[1280x720].[D96010C7].mkv
 !new/[Doutei]Golgo 13 - 27[A86006BA].mkv
 !new/[Doutei]Golgo 13 - 28[22203EF7].mkv
 !new/[Doutei]Golgo 13 - 29[BF4C182C].mkv
@@ -793,6 +795,7 @@
 !new/[Force-Works] Iron Man - 04 [F19E9890].mkv
 !new/[Frostii]_K-On!!_B-Side_Theater_-_Uraon!!_-_3_[CDCDAC72].mkv
 !new/[Frostii]_K-On!!_B-Side_Theater_-_Uraon!!_-_4_[15A31A50].mkv
+!new/[HorribleSubs] Bleach - 297 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 54 [720p].mkv
 !new/[HorribleSubs] Fortune Arterial - 06 [720p].mkv
 !new/[HorribleSubs] Hyakka Ryouran Samurai Girls - 07 [720p].mkv
@@ -863,6 +866,7 @@
 !new/[OZC]Code Geass Lelouch of the Rebellion Episode 25 'Zero' [FINAL].mkv
 !new/[Over-Time]_Kamen_Rider_OOO_-_10_[1D693EF4].mkv
 !new/[ReDone] To Heart ~Remember my Memories~ 06 (DVD) [4EFD7BC8].mkv
+!new/[ReDone] Touka Gettan - 14 (DVD) [8DEBE55B].mkv
 !new/[Ritsuka][101103] Kami Nomi Zo Shiru Sekai OP Single - God Only Knows [Oratorio The World God Only Knows] (FLAC).rar
 !new/[Ritsuka][101103] To Aru Majutsu no Index II OP Single - No buts! [Kawada Mami] (FLAC).rar
 !new/[RyRo]_Inazuma_Eleven_-_106_(1280x720_x264_AAC)_[7DF7752B].mkv
@@ -1126,6 +1130,13 @@
 !new/[gg]_Star_Driver_-_07_[B1198FC6].mkv
 !new/[gg]_Togainu_no_Chi_-_06_[0DFED97A].mkv
 !new/[tv-j] kidou senshi gundam uc unicorn - episode.02 [bd 1920x1080 h264+aac(5.1ch jp+en) +sub(jp-en-sp-fr-ch) chap].mp4
+!new/[uguu~]_AIR_01v3_(BD-1080p)_[976D39A4].mkv
+!new/[uguu~]_AIR_02v2_(BD-1080p)_[14B551C8].mkv
+!new/[uguu~]_AIR_03v3_(BD-1080p)_[00AA8330].mkv
+!new/[uguu~]_AIR_04v3_(BD-1080p)_[24FCF31D].mkv
+!new/[uguu~]_AIR_05_(BD-1080p)_[27E1E99B].mkv
+!new/[uguu~]_AIR_06_(BD-1080p)_[5A013698].mkv
+!new/[uguu~]_AIR_07_(BD-1080p)_[B59294B0].mkv
 !new/[uguu~]_Zoku_Sayonara_Zetsubou_Sensei_04_(DVD)_[806161D7].mkv
 !new/[umee]_Shiki_-_15_[2543F6A0].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
