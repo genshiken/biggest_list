@@ -751,6 +751,7 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
 !new/[101027] TVアニメ「えむえむっ！」OP主題歌「Help！」／石動美緒（CV：竹達彩奈）.zip
 !new/[101027] Togainu no Chi OP Single - ROSE HIP-BULLET [GRANRODEO] (FLAC).rar
+!new/[A-Kraze_Diffusion]_Vampire_Knight_Guilty_-_11_[H264_1280x720_AAC][34C16E1B].mkv
 !new/[ANBU]_Dragon_Quest_-_03_[57F0112E].mkv
 !new/[ANBU]_Space_Battleship_Yamato_Revival_[1080p_H.264_DTS][EFAFC227].mkv
 !new/[AQS-Anime]_Negima_Mou_Hitotsu_no_Sekai_OAD_04_[H264-AAC][842FC24F].mkv
@@ -770,6 +771,7 @@
 !new/[CureCom] Fresh Pretty Cure! - 14 [HD][5F97D833].mkv
 !new/[CureCom] Fresh Pretty Cure! - 15 [HD][F242AD43].mkv
 !new/[CureCom] Yes! Pretty Cure 5 Go Go! - 04 [DVD][B5868EF6].mkv
+!new/[CureCom] Yes! Pretty Cure 5 Go Go! - 05 [DVD][FD687CB7].mkv
 !new/[DATS] Bakegyamon - 01 [B4442803].mkv
 !new/[DB]_Ninku_16_[F7C47A76].avi
 !new/[Derp]_Legend_of_the_Legendary_Heroes_-_19_(1280x720_x264_AAC).mkv
@@ -789,6 +791,7 @@
 !new/[Force-Works] Iron Man - 04 [F19E9890].mkv
 !new/[Frostii]_K-On!!_B-Side_Theater_-_Uraon!!_-_3_[CDCDAC72].mkv
 !new/[Frostii]_K-On!!_B-Side_Theater_-_Uraon!!_-_4_[15A31A50].mkv
+!new/[HorribleSubs] Fairy Tail - 54 [720p].mkv
 !new/[HorribleSubs] Fortune Arterial - 06 [720p].mkv
 !new/[HorribleSubs] Hyakka Ryouran Samurai Girls - 07 [720p].mkv
 !new/[HorribleSubs] Lilpri - 33 [720p].mkv
@@ -805,6 +808,7 @@
 !new/[Nipponsei] Gokujou!! Mecha Mote Iinchou Second Collection OP ED Single - Oshare My Dream [Various].zip
 !new/[Nipponsei] Ookami-san to Shichinin no Nakama-tachi Original Soundtrack.zip
 !new/[Nordkohl] Psychic Detective Yakumo - 07 [11915E1E].mkv
+!new/[Nutbladder]_Arakawa_Under_the_Bridge_×2_-_07_[FAC05AC4].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -853,6 +857,7 @@
 !new/[OZC]Code Geass Lelouch of the Rebellion Episode 23 'At Least With Sorrow' [FINAL].mkv
 !new/[OZC]Code Geass Lelouch of the Rebellion Episode 24 'The Collapsing Stage' [FINAL].mkv
 !new/[OZC]Code Geass Lelouch of the Rebellion Episode 25 'Zero' [FINAL].mkv
+!new/[Over-Time]_Kamen_Rider_OOO_-_10_[1D693EF4].mkv
 !new/[ReDone] To Heart ~Remember my Memories~ 06 (DVD) [4EFD7BC8].mkv
 !new/[Ritsuka][101103] Kami Nomi Zo Shiru Sekai OP Single - God Only Knows [Oratorio The World God Only Knows] (FLAC).rar
 !new/[Ritsuka][101103] To Aru Majutsu no Index II OP Single - No buts! [Kawada Mami] (FLAC).rar
@@ -862,9 +867,12 @@
 !new/[SDX-RSS]_Golgo_13_-_16_[h264][891728EF].mkv
 !new/[SS]_Ore_No_Imouto_-_04_[E2F9146A].mkv
 !new/[SS]_Ore_No_Imouto_-_05_[646BD2BF].mkv
+!new/[Saizen]_Ookiku_Furikabutte_-_The_Summer_Tournament_Chapter_-_05v3_[C78187D2].mkv
+!new/[Saizen]_Ookiku_Furikabutte_-_The_Summer_Tournament_Chapter_-_13_[31E4095F].mkv
 !new/[Seto_Otaku]_Valkyria_Chronicles_OVA_-_01_[DVD][720x480_H264-Vorbis][63E10756].mkv
 !new/[Seto_Otaku]_Valkyria_Chronicles_OVA_-_02_[DVD][720x480_H264-Vorbis][E3B29624].mkv
 !new/[Seto_Otaku]_Valkyria_Chronicles_OVA_-_04_[DVD][720x480_H264-Vorbis][DF39F7F2].mkv
+!new/[Seto_Otaku]_Valkyria_Chronicles_OVA_-_05_[DVD][720x480_H264-Vorbis][18380078].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
