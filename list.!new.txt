@@ -757,6 +757,7 @@
 !new/[AQS-Anime]_Negima_Mou_Hitotsu_no_Sekai_OAD_04_[H264-AAC][842FC24F].mkv
 !new/[ARR] Floral Magician Mary Bell - The Phoenix Key [AVC][9024DA00].mkv
 !new/[ARR] Goldfish Warning! (1992) [AVC][F3D00AD2].mkv
+!new/[AonE]_Shinrei_Tantei_Yakumo_06_[D1502F1A].mkv
 !new/[BBS]_Golgo_13_-_17_[h264][E7FF2556].mkv
 !new/[BWS]Pocket_Monsters_Best_Wishes_007_Tsutarja_Attraction_via_Getting[H264_720P][CD59DDD4].mkv
 !new/[BWS]Pocket_Monsters_Best_Wishes_008_Darumakka_and_Hihidaruma!_The_Secret_of_the_Clock_Tower!![H264_720P][F82770A5].mkv
@@ -766,6 +767,7 @@
 !new/[Coalgirls]_Macross_Frontier_-_The_False_Diva_(1920x1080_Blu-ray_FLAC)_[80384B74]_Remux.mkv
 !new/[Commie] Asobi ni Ikuyo! - 01 (BD 720p) [53FB63EE].mkv
 !new/[Commie] Asobi ni Ikuyo! - 02 (BD 720p) [563AC4B1].mkv
+!new/[Commie] The Legend of the Legendary Heroes - 17 [43C47126].mkv
 !new/[Commie] The World God Only Knows - 06 [EA1EF1AA].mkv
 !new/[Corona]_Heroman_-_EX-1_(H264_1280x720)[62943C35].mkv
 !new/[CureCom] Fresh Pretty Cure! - 14 [HD][5F97D833].mkv
@@ -795,6 +797,7 @@
 !new/[HorribleSubs] Fortune Arterial - 06 [720p].mkv
 !new/[HorribleSubs] Hyakka Ryouran Samurai Girls - 07 [720p].mkv
 !new/[HorribleSubs] Lilpri - 33 [720p].mkv
+!new/[HorribleSubs] Otome Yokai Zakuro - 07 [720p].mkv
 !new/[HorribleSubs] Shinryaku! Ika Musume - 06 [720p].mkv
 !new/[HorribleSubs] Sora No Otoshimono Forte - 07 [720p].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 07 [720p].mkv
@@ -809,6 +812,7 @@
 !new/[Nipponsei] Ookami-san to Shichinin no Nakama-tachi Original Soundtrack.zip
 !new/[Nordkohl] Psychic Detective Yakumo - 07 [11915E1E].mkv
 !new/[Nutbladder]_Arakawa_Under_the_Bridge_×2_-_07_[FAC05AC4].mkv
+!new/[Nutbladder]_Arakawa_Under_the_Bridge_×2_-_07v2_[F9A888DB].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -1116,6 +1120,7 @@
 !new/[Underwater] Panty & Stocking with Garterbelt - 07 [392BF3EA].mkv
 !new/[Underwater] Shinryaku! Ika Musume - 06 [720p][C14E33F2].mkv
 !new/[Wasurenai] Marie & Gali - 23 [H264 1280x720] [6F878B22].mkv
+!new/[aarinfantasy]_Marginal_Prince_-_02_[F6EF2301].avi
 !new/[gg]_Bakuman_-_07_[6930B02E].mkv
 !new/[gg]_Soredemo_Machi_wa_Mawatteiru_-_06v2_[2F48D135].mkv
 !new/[gg]_Star_Driver_-_07_[B1198FC6].mkv
