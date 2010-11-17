@@ -189,18 +189,18 @@ complete/a/Air Gear/[Kyuu] Air Gear - 25 [End][B8590D16].avi
 complete/a/Air in Summer/[uguu~] Air in Summer - 1 (1920x1080) [BD][8F1C0998].mkv
 complete/a/Air in Summer/[uguu~] Air in Summer - 2 (1920x1080) [End][BD][5D750C98].mkv
 complete/a/Air/[Koi] Air - 13 [Recap][346ACEAB].avi
-complete/a/Air/[uguu~] Air - 01 (1280x720) [v3][BD][9BC179D6].mkv
-complete/a/Air/[uguu~] Air - 02 (1280x720) [v2][BD][BBD55736].mkv
-complete/a/Air/[uguu~] Air - 03 (1280x720) [v3][BD][0BF71849].mkv
-complete/a/Air/[uguu~] Air - 04 (1280x720) [v3][BD][237080D3].mkv
-complete/a/Air/[uguu~] Air - 05 (1280x720) [BD][3C9DB668].mkv
-complete/a/Air/[uguu~] Air - 06 (1280x720) [BD][4FD4DC01].mkv
-complete/a/Air/[uguu~] Air - 07 (1280x720) [BD][1EF8E42D].mkv
-complete/a/Air/[uguu~] Air - 08 (1280x720) [BD][7D963DA4].mkv
-complete/a/Air/[uguu~] Air - 09 (1280x720) [BD][0F5B29B2].mkv
-complete/a/Air/[uguu~] Air - 10 (1280x720) [BD][09BF7610].mkv
-complete/a/Air/[uguu~] Air - 11 (1280x720) [BD][2C7BDEFC].mkv
-complete/a/Air/[uguu~] Air - 12 (1280x720) [End][BD][49EBAF34].mkv
+complete/a/Air/[uguu~] Air - 01 [v3 1080p BD][976D39A4].mkv
+complete/a/Air/[uguu~] Air - 02 [v2 1080p BD][14B551C8].mkv
+complete/a/Air/[uguu~] Air - 03 [v3 1080p BD][00AA8330].mkv
+complete/a/Air/[uguu~] Air - 04 [v3 1080p BD][24FCF31D].mkv
+complete/a/Air/[uguu~] Air - 05 [1080p BD][27E1E99B].mkv
+complete/a/Air/[uguu~] Air - 06 [1080p BD][5A013698].mkv
+complete/a/Air/[uguu~] Air - 07 [1080p BD][B59294B0].mkv
+complete/a/Air/[uguu~] Air - 08 [1080p BD][94458B7C].mkv
+complete/a/Air/[uguu~] Air - 09 [1080p BD][82FB10CD].mkv
+complete/a/Air/[uguu~] Air - 10 [1080p BD][8ED16F73].mkv
+complete/a/Air/[uguu~] Air - 11 [1080p BD][C0500F9C].mkv
+complete/a/Air/[uguu~] Air - 12 [End][1080p BD][BDE2360C].mkv
 complete/a/Akagi/[Triad] Akagi - 01 [C416CB1F].avi
 complete/a/Akagi/[Triad] Akagi - 02 [CFCDC545].avi
 complete/a/Akagi/[Triad] Akagi - 03 [35B0007C].avi
@@ -3923,6 +3923,56 @@ complete/g/Gokinjo Monogatari/[Yuurisan-Subs] Gokinjo Monogatari - 50 [End][C6CC
 complete/g/Goku Sayonara Zetsubou Sensei/[gg] Goku Sayonara Zetsubou Sensei - 1 [5651802B].mkv
 complete/g/Goku Sayonara Zetsubou Sensei/[gg] Goku Sayonara Zetsubou Sensei - 2 [D284BF24].mkv
 complete/g/Goku Sayonara Zetsubou Sensei/[gg] Goku Sayonara Zetsubou Sensei - 3 [End][B74046F8].mkv
+complete/g/Golgo 13/[BBS] Golgo 13 - 17 [E7FF2556].mkv
+complete/g/Golgo 13/[BSS] Golgo 13 - 01 [26F11098].mkv
+complete/g/Golgo 13/[BSS] Golgo 13 - 02 [E94DDFA4].mkv
+complete/g/Golgo 13/[BSS] Golgo 13 - 03 [39BFB6E2].mkv
+complete/g/Golgo 13/[BSS] Golgo 13 - 04 [CDCB8591].mkv
+complete/g/Golgo 13/[BSS] Golgo 13 - 05 [9C4F4E23].mkv
+complete/g/Golgo 13/[BSS] Golgo 13 - 06 [D2691FB9].mkv
+complete/g/Golgo 13/[BSS] Golgo 13 - 07 [CE8C86DC].mkv
+complete/g/Golgo 13/[BSS] Golgo 13 - 08 [93374F09].mkv
+complete/g/Golgo 13/[BSS] Golgo 13 - 09 [1E90D057].mkv
+complete/g/Golgo 13/[BSS] Golgo 13 - 10 [6E55441C].mkv
+complete/g/Golgo 13/[BSS] Golgo 13 - 11 [23232BBA].mkv
+complete/g/Golgo 13/[BSS] Golgo 13 - 12 [22A80CCC].mkv
+complete/g/Golgo 13/[BSS] Golgo 13 - 13 [D9CC32E1].mkv
+complete/g/Golgo 13/[BSS] Golgo 13 - 14 [C6F7C2DC].mkv
+complete/g/Golgo 13/[BSS] Golgo 13 - 15 [CF0D6C2C].mkv
+complete/g/Golgo 13/[Doutei] Golgo 13 - 27 [A86006BA].mkv
+complete/g/Golgo 13/[Doutei] Golgo 13 - 28 [22203EF7].mkv
+complete/g/Golgo 13/[Doutei] Golgo 13 - 29 [BF4C182C].mkv
+complete/g/Golgo 13/[Doutei] Golgo 13 - 30 [A9979B5F].mkv
+complete/g/Golgo 13/[Doutei] Golgo 13 - 31 [A4FDC8E5].mkv
+complete/g/Golgo 13/[Doutei] Golgo 13 - 32 [0F929818].mkv
+complete/g/Golgo 13/[Doutei] Golgo 13 - 33 [8C38E490].mkv
+complete/g/Golgo 13/[Doutei] Golgo 13 - 34 [66E3D132].mkv
+complete/g/Golgo 13/[Doutei] Golgo 13 - 35 [DVD][61B4A0BA].mkv
+complete/g/Golgo 13/[Doutei] Golgo 13 - 36 [DVD][0E97C73D].mkv
+complete/g/Golgo 13/[Doutei] Golgo 13 - 37 [DVD][0B38C3DE].mkv
+complete/g/Golgo 13/[Doutei] Golgo 13 - 38 [DVD][F065C5E7].mkv
+complete/g/Golgo 13/[Doutei] Golgo 13 - 39 [DVD][21341D0F].mkv
+complete/g/Golgo 13/[Doutei] Golgo 13 - 40 [DVD][726850F2].mkv
+complete/g/Golgo 13/[Doutei] Golgo 13 - 41 [DVD][42A0FCDE].mkv
+complete/g/Golgo 13/[Doutei] Golgo 13 - 42 [DVD][9844EF0B].mkv
+complete/g/Golgo 13/[Doutei] Golgo 13 - 43 [DVD][C25C1A63].mkv
+complete/g/Golgo 13/[Doutei] Golgo 13 - 44 [DVD][9F1636E3].mkv
+complete/g/Golgo 13/[Doutei] Golgo 13 - 45 [DVD][845A42ED].mkv
+complete/g/Golgo 13/[Doutei] Golgo 13 - 46 [DVD][92EC4DF1].mkv
+complete/g/Golgo 13/[Doutei] Golgo 13 - 47 [DVD][C4291094].mkv
+complete/g/Golgo 13/[Doutei] Golgo 13 - 48 [DVD][2565EE48].mkv
+complete/g/Golgo 13/[Doutei] Golgo 13 - 49 [DVD][DE1A12B6].mkv
+complete/g/Golgo 13/[Doutei] Golgo 13 - 50 [End][DVD][8D31B323].mkv
+complete/g/Golgo 13/[SDX-RSS] Golgo 13 - 16 [891728EF].mkv
+complete/g/Golgo 13/[fucmnack] Golgo 13 - 18 [720p][9613CDC3].mkv
+complete/g/Golgo 13/[fucmnack] Golgo 13 - 19 [720p][0B9C4756].mkv
+complete/g/Golgo 13/[fucmnack] Golgo 13 - 20 [720p][3B9F601A].mkv
+complete/g/Golgo 13/[fucmnack] Golgo 13 - 21 [720p][6E870738].mkv
+complete/g/Golgo 13/[fucmnack] Golgo 13 - 22 [720p][DEB690C4].mkv
+complete/g/Golgo 13/[fucmnack] Golgo 13 - 23 [720p][5F830B42].mkv
+complete/g/Golgo 13/[fucmnack] Golgo 13 - 24 [720p][9F7697A3].mkv
+complete/g/Golgo 13/[fucmnack] Golgo 13 - 25 [720p][E0BDCB0B].mkv
+complete/g/Golgo 13/[fucmnack] Golgo 13 - 26 [720p][7F324306].mkv
 complete/g/Gosenzosama/[Frostii] Gosenzosama - 5 [81A30284].avi
 complete/g/Gosenzosama/[Frostii] Gosenzosama - 6 [End][17D5AD2C].avi
 complete/g/Gosenzosama/[Ureshii] Gosenzosama - 1 [A0AC2044].avi
@@ -9026,12 +9076,11 @@ complete/o/Ookamikakushi/[gg] Ookamikakushi - 08 [42451F99].mkv
 complete/o/Ookamikakushi/[gg] Ookamikakushi - 09 [64FD4DEA].mkv
 complete/o/Ookamikakushi/[gg] Ookamikakushi - 10 [A6526019].mkv
 complete/o/Ookamikakushi/[gg] Ookamikakushi - 11 [CC4DD2EE].mkv
-complete/o/Ookiku Furikabutte S2/[Central Anime] Ookiku Furikabutte S2 - 13 [End][F5602344].mkv
 complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 01 [24B59471].mkv
 complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 02 [009A306C].mkv
 complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 03 [87FBB42F].mkv
 complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 04 [42E8C90E].mkv
-complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 05 [v2][15ADE465].mkv
+complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 05 [v3][C78187D2].mkv
 complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 06 [A328BECE].mkv
 complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 07 [71AD185B].mkv
 complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 08 [0BAB8DAC].mkv
@@ -9039,6 +9088,7 @@ complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 09 [8E86ED07].
 complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 10 [8996FAB3].mkv
 complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 11 [01B704F0].mkv
 complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 12 [59FB40D9].mkv
+complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 13 [End][31E4095F].mkv
 complete/o/Ookiku Furikabutte/[Central Anime] Ookiku Furikabutte - 14 [WS][69EFBA74].avi
 complete/o/Ookiku Furikabutte/[Central Anime] Ookiku Furikabutte - 15 [WS][29EA70CE].avi
 complete/o/Ookiku Furikabutte/[Central Anime] Ookiku Furikabutte - 16 [WS][F009F5C1].avi
@@ -12726,7 +12776,7 @@ complete/t/Touka Gettan/[ReDone] Touka Gettan - 10 [DVD][AF690004].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 11 [DVD][FCA94090].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 12 [DVD][81E31BB3].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 13 [DVD][47D58A42].mkv
-complete/t/Touka Gettan/[SRN] Touka Gettan - 14 [D798DEFF].avi
+complete/t/Touka Gettan/[ReDone] Touka Gettan - 14 [DVD][8DEBE55B].mkv
 complete/t/Touka Gettan/[SRN] Touka Gettan - 15 [B5AF0941].avi
 complete/t/Touka Gettan/[SRN] Touka Gettan - 16 [A80F0325].avi
 complete/t/Touka Gettan/[SRN] Touka Gettan - 17 [8136B483].avi
@@ -13056,16 +13106,17 @@ complete/v/Valkyria Chronicles/[twrev-Doremi] Valkyria Chronicles - 23 [F952646D
 complete/v/Valkyria Chronicles/[twrev-Doremi] Valkyria Chronicles - 24 [3E1916DD].mkv
 complete/v/Valkyria Chronicles/[twrev-Doremi] Valkyria Chronicles - 25 [47243DE2].mkv
 complete/v/Valkyria Chronicles/[twrev-Doremi] Valkyria Chronicles - 26 [End][E95DB5DB].mkv
-complete/v/Vampire Knight Guilty/[A-Kraze & Diffusion] Vampire Knight Guilty - 01 (1280x720) [35A9D51D].mkv
-complete/v/Vampire Knight Guilty/[A-Kraze & Diffusion] Vampire Knight Guilty - 02 (1280x720) [2B161723].mkv
-complete/v/Vampire Knight Guilty/[A-Kraze & Diffusion] Vampire Knight Guilty - 03 (1280x720) [0B8C23F5].mkv
-complete/v/Vampire Knight Guilty/[A-Kraze & Diffusion] Vampire Knight Guilty - 04 (1280x720) [8C6BED57].mkv
-complete/v/Vampire Knight Guilty/[A-Kraze & Diffusion] Vampire Knight Guilty - 05 (1280x720) [CA3D0752].mkv
-complete/v/Vampire Knight Guilty/[A-Kraze & Diffusion] Vampire Knight Guilty - 06 (1280x720) [6D0C1D8B].mkv
-complete/v/Vampire Knight Guilty/[A-Kraze & Diffusion] Vampire Knight Guilty - 07 (1280x720) [9DB4859C].mkv
-complete/v/Vampire Knight Guilty/[A-Kraze & Diffusion] Vampire Knight Guilty - 08 (1280x720) [DB26D9B4].mkv
-complete/v/Vampire Knight Guilty/[A-Kraze & Diffusion] Vampire Knight Guilty - 09 (1280x720) [B2C71776].mkv
-complete/v/Vampire Knight Guilty/[A-Kraze & Diffusion] Vampire Knight Guilty - 10 (1280x720) [47133015].mkv
+complete/v/Vampire Knight Guilty/[A-Kraze Diffusion] Vampire Knight Guilty - 01 [720p][35A9D51D].mkv
+complete/v/Vampire Knight Guilty/[A-Kraze Diffusion] Vampire Knight Guilty - 02 [720p][2B161723].mkv
+complete/v/Vampire Knight Guilty/[A-Kraze Diffusion] Vampire Knight Guilty - 03 [720p][0B8C23F5].mkv
+complete/v/Vampire Knight Guilty/[A-Kraze Diffusion] Vampire Knight Guilty - 04 [720p][8C6BED57].mkv
+complete/v/Vampire Knight Guilty/[A-Kraze Diffusion] Vampire Knight Guilty - 05 [720p][CA3D0752].mkv
+complete/v/Vampire Knight Guilty/[A-Kraze Diffusion] Vampire Knight Guilty - 06 [720p][6D0C1D8B].mkv
+complete/v/Vampire Knight Guilty/[A-Kraze Diffusion] Vampire Knight Guilty - 07 [720p][9DB4859C].mkv
+complete/v/Vampire Knight Guilty/[A-Kraze Diffusion] Vampire Knight Guilty - 08 [720p][DB26D9B4].mkv
+complete/v/Vampire Knight Guilty/[A-Kraze Diffusion] Vampire Knight Guilty - 09 [720p][B2C71776].mkv
+complete/v/Vampire Knight Guilty/[A-Kraze Diffusion] Vampire Knight Guilty - 10 [720p][47133015].mkv
+complete/v/Vampire Knight Guilty/[A-Kraze Diffusion] Vampire Knight Guilty - 11 [720p][34C16E1B].mkv
 complete/v/Vampire Knight Guilty/[Yuurisan-Subs] Vampire Knight Guilty - 11 [6619BE2D].mp4
 complete/v/Vampire Knight Guilty/[Yuurisan-Subs] Vampire Knight Guilty - 12 [3FFF6D60].mp4
 complete/v/Vampire Knight Guilty/[Yuurisan-Subs] Vampire Knight Guilty - 13 [End][E79AAC5C].mp4
@@ -14115,6 +14166,7 @@ complete/z/Zoku Sayonara Zetsubou Sensei/[anon] Zoku Sayonara Zetsubou Sensei - 
 complete/z/Zoku Sayonara Zetsubou Sensei/[uguu~] Zoku Sayonara Zetsubou Sensei - 01 [DVD][767946CB].mkv
 complete/z/Zoku Sayonara Zetsubou Sensei/[uguu~] Zoku Sayonara Zetsubou Sensei - 02 [DVD][0992BEBB].mkv
 complete/z/Zoku Sayonara Zetsubou Sensei/[uguu~] Zoku Sayonara Zetsubou Sensei - 03 [DVD][F3B12BC7].mkv
+complete/z/Zoku Sayonara Zetsubou Sensei/[uguu~] Zoku Sayonara Zetsubou Sensei - 04 [DVD][806161D7].mkv
 complete/z/Zoku Sayonara Zetsubou Sensei/[volans] Zoku Sayonara Zetsubou Sensei - 10 [C516C96D].mkv
 complete/z/Zoku Sayonara Zetsubou Sensei/[volans] Zoku Sayonara Zetsubou Sensei - 11 [65382D64].mkv
 complete/z/Zoku Sayonara Zetsubou Sensei/[volans] Zoku Sayonara Zetsubou Sensei - 12 [257F369B].mkv

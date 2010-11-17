@@ -751,14 +751,13 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
 !new/[101027] TVアニメ「えむえむっ！」OP主題歌「Help！」／石動美緒（CV：竹達彩奈）.zip
 !new/[101027] Togainu no Chi OP Single - ROSE HIP-BULLET [GRANRODEO] (FLAC).rar
-!new/[A-Kraze_Diffusion]_Vampire_Knight_Guilty_-_11_[H264_1280x720_AAC][34C16E1B].mkv
 !new/[ANBU]_Dragon_Quest_-_03_[57F0112E].mkv
 !new/[ANBU]_Space_Battleship_Yamato_Revival_[1080p_H.264_DTS][EFAFC227].mkv
 !new/[AQS-Anime]_Negima_Mou_Hitotsu_no_Sekai_OAD_04_[H264-AAC][842FC24F].mkv
 !new/[ARR] Floral Magician Mary Bell - The Phoenix Key [AVC][9024DA00].mkv
 !new/[ARR] Goldfish Warning! (1992) [AVC][F3D00AD2].mkv
 !new/[AonE]_Shinrei_Tantei_Yakumo_06_[D1502F1A].mkv
-!new/[BBS]_Golgo_13_-_17_[h264][E7FF2556].mkv
+!new/[BSS]_Mobile_Suit_Gundam_Unicorn_-_02_[1080p][1A74EC60].mkv
 !new/[BWS]Pocket_Monsters_Best_Wishes_007_Tsutarja_Attraction_via_Getting[H264_720P][CD59DDD4].mkv
 !new/[BWS]Pocket_Monsters_Best_Wishes_008_Darumakka_and_Hihidaruma!_The_Secret_of_the_Clock_Tower!![H264_720P][F82770A5].mkv
 !new/[BWS]Pocket_Monsters_Best_Wishes_009_Pendras_Rampage!_Rescue_Kibago!![H264_720P][33714729].mkv
@@ -771,29 +770,14 @@
 !new/[Commie] The Legend of the Legendary Heroes - 17 [43C47126].mkv
 !new/[Commie] The World God Only Knows - 06 [EA1EF1AA].mkv
 !new/[Corona]_Heroman_-_EX-1_(H264_1280x720)[62943C35].mkv
-!new/[CureCom] Fresh Pretty Cure! - 14 [HD][5F97D833].mkv
-!new/[CureCom] Fresh Pretty Cure! - 15 [HD][F242AD43].mkv
-!new/[CureCom] Fresh Pretty Cure! - 16 [HD][3CF6A0FA].mkv
-!new/[CureCom] Yes! Pretty Cure 5 Go Go! - 04 [DVD][B5868EF6].mkv
-!new/[CureCom] Yes! Pretty Cure 5 Go Go! - 05 [DVD][FD687CB7].mkv
 !new/[DATS] Bakegyamon - 01 [B4442803].mkv
-!new/[DB]_Ninku_16_[F7C47A76].avi
 !new/[Derp]_Legend_of_the_Legendary_Heroes_-_19_(1280x720_x264_AAC).mkv
 !new/[Doki] Seikon no Qwaser - Jotei no Shouzou (720x480 h264 DVD AC3) [7459F43F].mkv
-!new/[Doremi].HeartCatch.PreCure!.39.[1280x720].[D96010C7].mkv
-!new/[Doutei]Golgo 13 - 27[A86006BA].mkv
-!new/[Doutei]Golgo 13 - 28[22203EF7].mkv
-!new/[Doutei]Golgo 13 - 29[BF4C182C].mkv
-!new/[Doutei]Golgo 13 - 30[A9979B5F].mkv
-!new/[Doutei]Golgo 13 - 43[DVD][C25C1A63].mkv
-!new/[Doutei]Golgo 13 - 50[DVD][8D31B323].mkv
-!new/[Doutei]Golgo_Megapatch.zip
 !new/[EAC] [101020] TVアニメ ストライクウィッチーズ2 エンディング・テーマ・コレクション「Over Sky」(ape+cue).rar
 !new/[EAC] [101027] FORTUNE ARTERIAL ～赤い約束～_I miss you／Veil (tak+iso).rar
 !new/[EAC] [101027] FORTUNE ARTERIAL ～赤い約束～_絆-kizunairo-色／Lia (tak+iso).rar
 !new/[EAC] [101027] TVアニメ『ヨスガノソラ』オープニング主題歌 比翼の羽根 (tta+cue rr5).rar
 !new/[EAC] [101110]TVアニメ えむえむっ！ ED主題歌「More-more LOVERS!!」／麻生夏子  (tak+bmp+rr3).rar
-!new/[Force-Works] Iron Man - 04 [F19E9890].mkv
 !new/[Frostii]_K-On!!_B-Side_Theater_-_Uraon!!_-_3_[CDCDAC72].mkv
 !new/[Frostii]_K-On!!_B-Side_Theater_-_Uraon!!_-_4_[15A31A50].mkv
 !new/[HorribleSubs] Bleach - 297 [720p].mkv
@@ -810,7 +794,6 @@
 !new/[Kira-Fansub] Seikon no Qwaser Episode  10.5 (OVA) (DVD 1280x720 x264 AAC) [AB20655F].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 05 [1280x720 H264 OGG] [BCBF40FF].mkv
 !new/[KiteSeekers-imuR88] Quiz Magic Academy OVA 2 [DVD H264 720x480] [7879F1EC].mkv
-!new/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 25 [H264 1280x720] [96F3D7B7].mkv
 !new/[Mazui]_Katanagatari_-_11_[3EBE5850].mkv
 !new/[Mazui]_Ore_No_Imouto_-_07_[978E8FE7].mkv
 !new/[Nipponsei] Amagami SS ED5 Single - Koi wa Aserazu [Shintani Ryouko].zip
@@ -871,23 +854,8 @@
 !new/[OZC]Code Geass Lelouch of the Rebellion Episode 23 'At Least With Sorrow' [FINAL].mkv
 !new/[OZC]Code Geass Lelouch of the Rebellion Episode 24 'The Collapsing Stage' [FINAL].mkv
 !new/[OZC]Code Geass Lelouch of the Rebellion Episode 25 'Zero' [FINAL].mkv
-!new/[Over-Time]_Kamen_Rider_OOO_-_10_[1D693EF4].mkv
-!new/[ReDone] To Heart ~Remember my Memories~ 06 (DVD) [4EFD7BC8].mkv
-!new/[ReDone] Touka Gettan - 14 (DVD) [8DEBE55B].mkv
 !new/[Ritsuka][101103] Kami Nomi Zo Shiru Sekai OP Single - God Only Knows [Oratorio The World God Only Knows] (FLAC).rar
 !new/[Ritsuka][101103] To Aru Majutsu no Index II OP Single - No buts! [Kawada Mami] (FLAC).rar
-!new/[RyRo]_Inazuma_Eleven_-_106_(1280x720_x264_AAC)_[7DF7752B].mkv
-!new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 06 [720p][E44B6EEA].mkv
-!new/[Ryuumaru] MM! - 07 [812B8FA8].mkv
-!new/[SDX-RSS]_Golgo_13_-_16_[h264][891728EF].mkv
-!new/[SS]_Ore_No_Imouto_-_04_[E2F9146A].mkv
-!new/[SS]_Ore_No_Imouto_-_05_[646BD2BF].mkv
-!new/[Saizen]_Ookiku_Furikabutte_-_The_Summer_Tournament_Chapter_-_05v3_[C78187D2].mkv
-!new/[Saizen]_Ookiku_Furikabutte_-_The_Summer_Tournament_Chapter_-_13_[31E4095F].mkv
-!new/[Seto_Otaku]_Valkyria_Chronicles_OVA_-_01_[DVD][720x480_H264-Vorbis][63E10756].mkv
-!new/[Seto_Otaku]_Valkyria_Chronicles_OVA_-_02_[DVD][720x480_H264-Vorbis][E3B29624].mkv
-!new/[Seto_Otaku]_Valkyria_Chronicles_OVA_-_04_[DVD][720x480_H264-Vorbis][DF39F7F2].mkv
-!new/[Seto_Otaku]_Valkyria_Chronicles_OVA_-_05_[DVD][720x480_H264-Vorbis][18380078].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -1127,32 +1095,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_06_[720p][35CDD311].mkv
-!new/[UTW-Ryuumaru] Yosuga no Sora - 07 [720p][BFA67D3F].mkv
-!new/[Underwater] Panty & Stocking with Garterbelt - 07 [392BF3EA].mkv
-!new/[Underwater] Shinryaku! Ika Musume - 06 [720p][C14E33F2].mkv
-!new/[Wasurenai] Marie & Gali - 23 [H264 1280x720] [6F878B22].mkv
-!new/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 49 [DVD H264 640x476] [42D8AD45].mkv
-!new/[aarinfantasy]_Marginal_Prince_-_02_[F6EF2301].avi
-!new/[gg]_Bakuman_-_07_[6930B02E].mkv
-!new/[gg]_Soredemo_Machi_wa_Mawatteiru_-_06v2_[2F48D135].mkv
-!new/[gg]_Star_Driver_-_07_[B1198FC6].mkv
-!new/[gg]_Togainu_no_Chi_-_06_[0DFED97A].mkv
-!new/[tv-j] kidou senshi gundam uc unicorn - episode.02 [bd 1920x1080 h264+aac(5.1ch jp+en) +sub(jp-en-sp-fr-ch) chap].mp4
-!new/[uguu~]_AIR_01v3_(BD-1080p)_[976D39A4].mkv
-!new/[uguu~]_AIR_02v2_(BD-1080p)_[14B551C8].mkv
-!new/[uguu~]_AIR_03v3_(BD-1080p)_[00AA8330].mkv
-!new/[uguu~]_AIR_04v3_(BD-1080p)_[24FCF31D].mkv
-!new/[uguu~]_AIR_05_(BD-1080p)_[27E1E99B].mkv
-!new/[uguu~]_AIR_06_(BD-1080p)_[5A013698].mkv
-!new/[uguu~]_AIR_07_(BD-1080p)_[B59294B0].mkv
-!new/[uguu~]_AIR_08_(BD-1080p)_[94458B7C].mkv
-!new/[uguu~]_AIR_09_(BD-1080p)_[82FB10CD].mkv
-!new/[uguu~]_AIR_10_(BD-1080p)_[8ED16F73].mkv
-!new/[uguu~]_AIR_11_(BD-1080p)_[C0500F9C].mkv
-!new/[uguu~]_AIR_12_(BD-1080p)_[BDE2360C].mkv
-!new/[uguu~]_Zoku_Sayonara_Zetsubou_Sensei_04_(DVD)_[806161D7].mkv
-!new/[umee]_Shiki_-_15_[2543F6A0].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
