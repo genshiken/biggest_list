@@ -765,6 +765,7 @@
 !new/[Baaka] Tantei Opera Milky Holmes - 04 [1280x720][69D2BAC9].mkv
 !new/[Baaka] Tantei Opera Milky Holmes - 06 [1280x720][8BFBE70C].mkv
 !new/[Coalgirls]_Macross_Frontier_-_The_False_Diva_(1920x1080_Blu-ray_FLAC)_[80384B74]_Remux.mkv
+!new/[Commie-Yanks] Natsu no Arashi! ~Akinaichuu~ (Summer Storm! ~Open for Business~) - 12 [DVD 480p AC3] [363FD780].mkv
 !new/[Commie] Asobi ni Ikuyo! - 01 (BD 720p) [53FB63EE].mkv
 !new/[Commie] Asobi ni Ikuyo! - 02 (BD 720p) [563AC4B1].mkv
 !new/[Commie] The Legend of the Legendary Heroes - 17 [43C47126].mkv
@@ -809,9 +810,15 @@
 !new/[Kira-Fansub] Seikon no Qwaser Episode  10.5 (OVA) (DVD 1280x720 x264 AAC) [AB20655F].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 05 [1280x720 H264 OGG] [BCBF40FF].mkv
 !new/[KiteSeekers-imuR88] Quiz Magic Academy OVA 2 [DVD H264 720x480] [7879F1EC].mkv
+!new/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 25 [H264 1280x720] [96F3D7B7].mkv
 !new/[Mazui]_Katanagatari_-_11_[3EBE5850].mkv
 !new/[Mazui]_Ore_No_Imouto_-_07_[978E8FE7].mkv
+!new/[Nipponsei] Amagami SS ED5 Single - Koi wa Aserazu [Shintani Ryouko].zip
 !new/[Nipponsei] Gokujou!! Mecha Mote Iinchou Second Collection OP ED Single - Oshare My Dream [Various].zip
+!new/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.1 - Takahara Ayumi [Taketatsu Ayana].zip
+!new/[Nipponsei] Koe de Oshigoto! ED Single - Kuchihiru Chuck [Various].zip
+!new/[Nipponsei] Koe de Oshigoto! OP Single - Koi no Mahou [Various].zip
+!new/[Nipponsei] Mahou Sensei Negima! Mou Hitotsu no Sekai - Theme Song Collection.zip
 !new/[Nipponsei] Ookami-san to Shichinin no Nakama-tachi Original Soundtrack.zip
 !new/[Nordkohl] Psychic Detective Yakumo - 07 [11915E1E].mkv
 !new/[Nutbladder]_Arakawa_Under_the_Bridge_×2_-_07_[FAC05AC4].mkv
@@ -1121,6 +1128,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_06_[720p][35CDD311].mkv
+!new/[UTW-Ryuumaru] Yosuga no Sora - 07 [720p][BFA67D3F].mkv
 !new/[Underwater] Panty & Stocking with Garterbelt - 07 [392BF3EA].mkv
 !new/[Underwater] Shinryaku! Ika Musume - 06 [720p][C14E33F2].mkv
 !new/[Wasurenai] Marie & Gali - 23 [H264 1280x720] [6F878B22].mkv
