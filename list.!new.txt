@@ -497,6 +497,7 @@
 !new/[EAC] [101027] FORTUNE ARTERIAL ～赤い約束～_絆-kizunairo-色／Lia (tak+iso).rar
 !new/[EAC] [101027] TVアニメ『ヨスガノソラ』オープニング主題歌 比翼の羽根 (tta+cue rr5).rar
 !new/[EAC] [101110]TVアニメ えむえむっ！ ED主題歌「More-more LOVERS!!」／麻生夏子  (tak+bmp+rr3).rar
+!new/[Eclipse] Toaru Majutsu no Index-tan - 01 (h264) [DEA5FE85].mkv
 !new/[FFFpeeps] Shinryaku! Ika Musume 07 [720p][630201F3].mkv
 !new/[Formula]_Armored_Trooper_Votoms_-_Phantom_Arc_-_04_[720p_H.264_AAC][CB04BA57].mkv
 !new/[Frostii]_K-On!!_B-Side_Theater_-_Uraon!!_-_3_[CDCDAC72].mkv
@@ -844,7 +845,58 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[Taka]_Inuyasha_Kanketsuhen_01_[720p][21856FE2].mp4
+!new/[Taka]_Inuyasha_Kanketsuhen_02_[720p][BE28F936].mp4
+!new/[Taka]_Inuyasha_Kanketsuhen_03_[720p][4701C36C].mp4
+!new/[Taka]_Inuyasha_Kanketsuhen_04_[720p][0C509BFF].mp4
+!new/[Taka]_Inuyasha_Kanketsuhen_05_[720p][7C13F188].mp4
+!new/[Taka]_Inuyasha_Kanketsuhen_06_[720p][EB6BDC08].mp4
+!new/[Taka]_Inuyasha_Kanketsuhen_07_[720p][D8C86991].mp4
+!new/[Taka]_Inuyasha_Kanketsuhen_08_[720p][2DD87B5F].mp4
+!new/[Taka]_Inuyasha_Kanketsuhen_09_[720p][216936BE].mp4
+!new/[Taka]_Inuyasha_Kanketsuhen_10_[720p][1A755DCC].mp4
+!new/[Taka]_Inuyasha_Kanketsuhen_11_[720p][5458E6A8].mp4
+!new/[Taka]_Inuyasha_Kanketsuhen_12_[720p][A3616F3B].mp4
+!new/[Taka]_Inuyasha_Kanketsuhen_13_[720p][6DE2A7D1].mp4
+!new/[Taka]_Inuyasha_Kanketsuhen_14_[720p][605B1DF7].mp4
+!new/[Taka]_Inuyasha_Kanketsuhen_15_[720p][FD8EB291].mp4
+!new/[Taka]_Inuyasha_Kanketsuhen_16_[720p][E2DC24C7].mp4
+!new/[Taka]_Inuyasha_Kanketsuhen_17_[720p][E448032E].mp4
+!new/[Taka]_Inuyasha_Kanketsuhen_18_[720p][2E49372B].mp4
+!new/[Taka]_Inuyasha_Kanketsuhen_19_[720p][031EB31D].mp4
+!new/[Taka]_Inuyasha_Kanketsuhen_20_[720p][155E5048].mp4
+!new/[Taka]_Inuyasha_Kanketsuhen_21_[720p][70044181].mp4
+!new/[Taka]_Inuyasha_Kanketsuhen_22_[720p][9F399832].mp4
+!new/[Taka]_Inuyasha_Kanketsuhen_23_[720p][3C2AF83A].mp4
+!new/[Taka]_Inuyasha_Kanketsuhen_24_[720p][8C809011].mp4
+!new/[Taka]_Inuyasha_Kanketsuhen_25_[720p][2E0B1F96].mp4
+!new/[Taka]_Inuyasha_Kanketsuhen_26_[720p][3CD39826].mp4
 !new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_07_[720p][5AE671CB].mkv
+!new/[Underwater] Panty & Stocking with Garterbelt - 08 [8B2BB073].mkv
+!new/[Yabai]_Spice_and_Wolf_II_-_00_[BD][F046ADDF].mkv
+!new/[Yabai]_Spice_and_Wolf_II_-_01_[BD][6A489D81].mkv
+!new/[Yabai]_Spice_and_Wolf_II_-_02_[BD][99D8F67F].mkv
+!new/[Yabai]_Spice_and_Wolf_II_-_03_[BD][4DFBE04A].mkv
+!new/[Yabai]_Spice_and_Wolf_II_-_04_[BD][2B37A730].mkv
+!new/[Yabai]_Spice_and_Wolf_II_-_05_[BD][E84477A3].mkv
+!new/[Yabai]_Spice_and_Wolf_II_-_06_[BD][61DFAA3D].mkv
+!new/[Yabai]_Spice_and_Wolf_II_-_07_[BD][5F534C9F].mkv
+!new/[Yabai]_Spice_and_Wolf_II_-_08_[BD][D3154520].mkv
+!new/[Yabai]_Spice_and_Wolf_II_-_09_[BD][053ED96B].mkv
+!new/[Yabai]_Spice_and_Wolf_II_-_10_[BD][A79CF6D2].mkv
+!new/[Yabai]_Spice_and_Wolf_II_-_11_[BD][418A0D43].mkv
+!new/[Yabai]_Spice_and_Wolf_II_-_12_[BD][2096DC81].mkv
+!new/[Yabai]_Spice_and_Wolf_II_-_BD_Menu_01_[2228B162].mkv
+!new/[Yabai]_Spice_and_Wolf_II_-_BD_Menu_02_[6724DB0B].mkv
+!new/[Yabai]_Spice_and_Wolf_II_-_BD_Menu_03_[55DA8C58].mkv
+!new/[Yabai]_Spice_and_Wolf_II_-_BD_Menu_04_[C3B360F7].mkv
+!new/[Yabai]_Spice_and_Wolf_II_-_Creditless_ED_[BD][35023CEE].mkv
+!new/[Yabai]_Spice_and_Wolf_II_-_Creditless_OP_[BD][D6890B3E].mkv
+!new/[Yabai]_Spice_and_Wolf_II_-_ED_[BD][8A7FFA92].mkv
+!new/[Yabai]_Spice_and_Wolf_II_-_OP_[BD][9FC86030].mkv
+!new/[Yabai]_Spice_and_Wolf_II_-_Special_1_[BD][FFD4BF5A].mkv
+!new/[Yabai]_Spice_and_Wolf_II_-_Special_2_[BD][77259C9F].mkv
+!new/[Yabai]_Spice_and_Wolf_II_Set_Credits_OP-ED_as_Default.rar
 !new/[gg]_Soredemo_Machi_wa_Mawatteiru_-_07_[D93381E9].mkv
 !new/[gg]_Togainu_no_Chi_-_07_[5E5F6B3F].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
