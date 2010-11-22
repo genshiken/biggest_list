@@ -12,6 +12,9 @@
 !new/Detective Conan - 409 [Kienai][C04F0F911].mp4
 !new/Detective Conan - 595 [DCTP][720p][68E4988D].mp4
 !new/Kamen_Rider_X_Kamen_Rider_-_W_&_Decade_-_Movie_Taisen_2010_Director's_Cut_[W-Time][DD583D13].mkv
+!new/Macross_Frontier_The_False_Songstress_[1080p,BluRay,x264]_-_THORA.md5
+!new/Macross_Frontier_The_False_Songstress_[1080p,BluRay,x264]_-_THORA.mkv
+!new/Macross_Frontier_The_False_Songstress_[1080p,BluRay,x264]_-_THORA.nfo
 !new/NANA/[IY-F&Oki] NANA - 21.5 [E0EBFBDD].mkv
 !new/NANA/[IY-F&Oki] NANA - 22 [B29D6430].mkv
 !new/NANA/[IY-F&Oki] NANA - 23 [9BB2F6A9].mkv
@@ -538,6 +541,7 @@
 !new/[KiteSeekers-imuR88] Quiz Magic Academy OVA 2 [DVD H264 720x480] [7879F1EC].mkv
 !new/[Kokuhaku] Tsukiyo no Fromage ch08 v1.1.rar
 !new/[Kokuhaku] Tsukiyo no Fromage ch09.rar
+!new/[Konno Azure] Koe de Oshigoto! CH27 [Tonigobe].rar
 !new/[L-E&AonE]_Galaxy_Railways_Ep_01_[08BCFC07].avi
 !new/[L-E&AonE]_Galaxy_Railways_Ep_02_[24E90335].avi
 !new/[L-E&AonE]_Galaxy_Railways_Ep_03_[279C3D24].avi
@@ -634,6 +638,7 @@
 !new/[Saizen]_Buzzer_Beater_-_12_[07C83FBF].avi
 !new/[Saizen]_Buzzer_Beater_-_13_[Final]_[DE3BA727].avi
 !new/[Saizen]_Slam_Dunk_-_022_[DVD][3472731B].mkv
+!new/[Shin-S] To Aru Majutsu no Index II ED Single - Magic world [Kurosaki Maon].zip
 !new/[Shin-S] Yosuga no Sora ED Single - Pinky Jones [Momoiro Clover].zip
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
@@ -902,8 +907,10 @@
 !new/[Taka]_Inuyasha_Kanketsuhen_26_[720p][3CD39826].mp4
 !new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_07_[720p][5AE671CB].mkv
 !new/[UTW-Ryuumaru] Yosuga no Sora - 07v2 [720p][10C1F212].mkv
+!new/[UTW]_Amagami_SS_-_20_[h264-720p][24AE20A7].mkv
 !new/[Underwater] Panty & Stocking with Garterbelt - 08 [8B2BB073].mkv
 !new/[Underwater] Shinryaku! Ika Musume - 07 [720p][1BF4558E].mkv
+!new/[Wasurenai] Marie & Gali - 24 [H264 1280x720] [053E4803].mkv
 !new/[Yabai]_Spice_and_Wolf_II_-_00_[BD][F046ADDF].mkv
 !new/[Yabai]_Spice_and_Wolf_II_-_01_[BD][6A489D81].mkv
 !new/[Yabai]_Spice_and_Wolf_II_-_02_[BD][99D8F67F].mkv
