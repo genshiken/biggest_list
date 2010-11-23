@@ -9,6 +9,7 @@
 !new/Detective Conan - 248 [AZFS][526F3797].avi
 !new/Detective Conan - 255 [AZFS][3A542034].avi
 !new/Detective Conan - 296 [AZFS][FE4DB0C2].avi
+!new/Detective Conan - 297-298v2 [DCTP][AFEE2572].avi
 !new/Detective Conan - 321 [Kienai][5F8FBC7D].mp4
 !new/Detective Conan - 409 [Kienai][C04F0F911].mp4
 !new/Detective Conan - 595 [DCTP][720p][68E4988D].mp4
@@ -476,6 +477,7 @@
 !new/[ANBU]_Astro_Fighter_Sunred_48_[21412767].mkv
 !new/[ANBU]_Dragon_Quest_-_04_[ED0B902C].mkv
 !new/[ANBU]_Space_Battleship_Yamato_Revival_[1080p_H.264_DTS][EFAFC227].mkv
+!new/[AQS-Anime]_To_Heart_2_adnext_1_[1080p][H264-AAC][79068F4D].mkv
 !new/[ARR] Floral Magician Mary Bell - The Phoenix Key [AVC][9024DA00].mkv
 !new/[ARR] Goldfish Warning! (1992) [AVC][F3D00AD2].mkv
 !new/[Animanda]_Senkou_no_Night_Raid_-_12_[3005828B].mkv
@@ -518,10 +520,12 @@
 !new/[Frostii]_K-On!!_B-Side_Theater_-_Uraon!!_-_3_[CDCDAC72].mkv
 !new/[Frostii]_K-On!!_B-Side_Theater_-_Uraon!!_-_4_[15A31A50].mkv
 !new/[HorribleSubs] Bleach - 297 [720p].mkv
+!new/[HorribleSubs] Bleach - 298 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 54 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 55 [720p].mkv
 !new/[HorribleSubs] Fortune Arterial - 07 [720p].mkv
 !new/[HorribleSubs] Hyakka Ryouran Samurai Girls - 07 [720p].mkv
+!new/[HorribleSubs] Hyakka Ryouran Samurai Girls - 08 [720p].mkv
 !new/[HorribleSubs] Lilpri - 33 [720p].mkv
 !new/[HorribleSubs] Lilpri - 34 [720p].mkv
 !new/[HorribleSubs] Panty and Stocking with Garterbelt - 08 [720p].mkv
