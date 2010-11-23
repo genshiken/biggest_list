@@ -6,6 +6,7 @@
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - 248 [AZFS][526F3797].avi
 !new/Detective Conan - 255 [AZFS][3A542034].avi
 !new/Detective Conan - 296 [AZFS][FE4DB0C2].avi
 !new/Detective Conan - 321 [Kienai][5F8FBC7D].mp4
@@ -565,6 +566,7 @@
 !new/[L-E&AonE]_Galaxy_Railways_Ep_19_[CED4460A].avi
 !new/[L-E&AonE]_Galaxy_Railways_Ep_20_[3A791B7B].avi
 !new/[L-E_AonE]_Galaxy_Railways_01-26.sfv
+!new/[Live-eviL]_Future_Boy_Conan_Ep_20_[h264&MP3]_[164b5730].mp4
 !new/[Mazui]_Ore_No_Imouto_-_08_[9C2AB414].mkv
 !new/[NipponSex]_(11.11.2010)_CIRCUS_10th_Collect_Disc01_[Various]_(320k).rar
 !new/[NipponSex]_(11.11.2010)_CIRCUS_10th_Collect_Disc02_[Various]_(320k).rar
@@ -590,11 +592,14 @@
 !new/[Nipponsei] K-ON!! Character Image Songs - Nakano Azusa [Taketatsu Ayana].zip
 !new/[Nipponsei] K-ON!! Character Image Songs - Tainaka Ritsu [Satou Satomi].zip
 !new/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.1 - Takahara Ayumi [Taketatsu Ayana].zip
+!new/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.2 - Aoyama Mio [Yuuki Aoi].zip
 !new/[Nipponsei] Koe de Oshigoto! ED Single - Kuchihiru Chuck [Various].zip
 !new/[Nipponsei] Koe de Oshigoto! OP Single - Koi no Mahou [Various].zip
 !new/[Nipponsei] Mahou Sensei Negima! Mou Hitotsu no Sekai - Theme Song Collection.zip
 !new/[Nipponsei] Ookami-san to Shichinin no Nakama-tachi Original Soundtrack.zip
 !new/[Nipponsei] Shinrei Tantei Yakumo OP ED Single - Key [Ono Daisuke & Komine Lisa].zip
+!new/[Nipponsei] Super Robot Taisen OG The Inspector ED Single - Bokura no Jiyuu [Misato Aki].zip
+!new/[Nipponsei] To Aru Majutsu no Index II ED Single - Magic world [Kurosaki Maon].zip
 !new/[Nipponsei] Yosuga no Sora ED Single - Pinky Jones [Momoiro Clover].zip
 !new/[Nordkohl] Psychic Detective Yakumo - 08 [1D7AB514].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
@@ -626,6 +631,7 @@
 !new/[RyRo]_Inazuma_Eleven_-_107_(1280x720_x264_AAC)_[1DCF497A].mkv
 !new/[Ryuumaru] Koe de Oshigoto! - 01 [720p Blu-ray AAC][D9C3FA2B].mkv
 !new/[Ryuumaru] MM! - 08v0 [6BD6D172].mkv
+!new/[SHiN-gx] Working!! - 09 [DVD][720x480 AR h.264 AAC][603890D0].mkv
 !new/[Saizen]_Buzzer_Beater_-_01_[D1A651C5].avi
 !new/[Saizen]_Buzzer_Beater_-_02_[6A03AB0A].avi
 !new/[Saizen]_Buzzer_Beater_-_03_[41812FDE].avi
@@ -640,6 +646,7 @@
 !new/[Saizen]_Buzzer_Beater_-_12_[07C83FBF].avi
 !new/[Saizen]_Buzzer_Beater_-_13_[Final]_[DE3BA727].avi
 !new/[Saizen]_Slam_Dunk_-_022_[DVD][3472731B].mkv
+!new/[Seto_Otaku]_Valkyria_Chronicles_OVA_-_06_[DVD][720x480_H264-Vorbis][AF16DAE9].mkv
 !new/[Shin-S] To Aru Majutsu no Index II ED Single - Magic world [Kurosaki Maon].zip
 !new/[Shin-S] Yosuga no Sora ED Single - Pinky Jones [Momoiro Clover].zip
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
@@ -910,6 +917,7 @@
 !new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_07_[720p][5AE671CB].mkv
 !new/[UTW-Ryuumaru] Yosuga no Sora - 07v2 [720p][10C1F212].mkv
 !new/[UTW]_Amagami_SS_-_20_[h264-720p][24AE20A7].mkv
+!new/[Underwater-Ryuumaru] Otome Youkai Zakuro - 08 [720p][CFDF56D3].mkv
 !new/[Underwater] Panty & Stocking with Garterbelt - 08 [8B2BB073].mkv
 !new/[Underwater] Shinryaku! Ika Musume - 07 [720p][1BF4558E].mkv
 !new/[Wasurenai] Marie & Gali - 24 [H264 1280x720] [053E4803].mkv
