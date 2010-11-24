@@ -475,6 +475,43 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
 !new/[101027] TVアニメ「えむえむっ！」OP主題歌「Help！」／石動美緒（CV：竹達彩奈）.zip
 !new/[101027] Togainu no Chi OP Single - ROSE HIP-BULLET [GRANRODEO] (FLAC).rar
+!new/[A-E]_Capeta_01_[7AFBCA50].avi
+!new/[A-E]_Capeta_02_[C36CF1FA].avi
+!new/[A-E]_Capeta_03_[BF4A2892].avi
+!new/[A-E]_Capeta_04_[CDD538AD].avi
+!new/[A-E]_Capeta_05_[5B815129].avi
+!new/[A-E]_Capeta_06_[8D6775F3].avi
+!new/[A-E]_Capeta_07_[FE2847E0].avi
+!new/[A-E]_Capeta_08_[70C3FB8F].avi
+!new/[A-E]_Capeta_09_[E60F7DCD].avi
+!new/[A-E]_Capeta_10_[97B151B3].avi
+!new/[A-E]_Capeta_21_[63CD7333].avi
+!new/[A-E]_Capeta_22_[7792D524].avi
+!new/[A-E]_Capeta_23_[F9DAB481].avi
+!new/[A-E]_Capeta_24_[9AC933E2].avi
+!new/[A-E]_Capeta_25_[A0EA9895].avi
+!new/[A-E]_Capeta_26_[EBB25072].avi
+!new/[A-E]_Capeta_27_[B35F0027].avi
+!new/[A-E]_Capeta_28_[B6E2F85D].avi
+!new/[A-E]_Capeta_29_[DEDE6CF9].avi
+!new/[A-E]_Capeta_30_[13380E3C].avi
+!new/[A-E]_Capeta_31_[8EB01CCB].avi
+!new/[A-E]_Capeta_32_[31B5A780].avi
+!new/[A-E]_Capeta_33_[5A2C8356].avi
+!new/[A-E]_Capeta_34_[92CCA111].avi
+!new/[A-E]_Capeta_35_[CA76F28C].avi
+!new/[A-E]_Capeta_36_[D10413AB].avi
+!new/[A-E_&_Saizen]_Capeta_37_[DVD][29363F3C].mkv
+!new/[A-E_&_Saizen]_Capeta_38_[DVD][27F1446E].mkv
+!new/[A-E_&_Saizen]_Capeta_39_[DVD][C1FDB3CB].mkv
+!new/[A-E_&_Saizen]_Capeta_40_[DVD][7B52427B].mkv
+!new/[A-E_&_Saizen]_Capeta_44_[DVD][66E29E4D].mkv
+!new/[A-E_&_Saizen]_Capeta_45_[DVD][5415864D].mkv
+!new/[A-E_&_Saizen]_Capeta_47_[DVD][AE7071B1].mkv
+!new/[A-E_&_Saizen]_Capeta_48_[DVD][7E821678].mkv
+!new/[A-E_&_Saizen]_Capeta_49_[DVD][26AD242C].mkv
+!new/[A-E_&_Saizen]_Capeta_50_[DVD][C419C09A].mkv
+!new/[A-E_&_Saizen]_Capeta_51_[DVD][3801057D].mkv
 !new/[ANBU]_Astro_Fighter_Sunred_48_[21412767].mkv
 !new/[ANBU]_Dragon_Quest_-_04_[ED0B902C].mkv
 !new/[ANBU]_Space_Battleship_Yamato_Revival_[1080p_H.264_DTS][EFAFC227].mkv
@@ -489,6 +526,7 @@
 !new/[AonE]_Galaxy_Railways_-_25_[10B125FF].avi
 !new/[AonE]_Galaxy_Railways_-_26_[168A3841].avi
 !new/[BSS]_Mobile_Suit_Gundam_Unicorn_-_02_[1080p][1A74EC60].mkv
+!new/[BWS]Pocket_Monsters_Best_Wishes_010_Rival_Battle!_The_Formidable_Pururill!![H264_720P][23D94D9A].mkv
 !new/[Baaka] Tantei Opera Milky Holmes - 04 [1280x720][69D2BAC9].mkv
 !new/[Baaka] Tantei Opera Milky Holmes - 06 [1280x720][8BFBE70C].mkv
 !new/[Coalgirls]_Macross_Frontier_-_The_False_Diva_(1920x1080_Blu-ray_FLAC)_[80384B74]_Remux.mkv
@@ -646,6 +684,12 @@
 !new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 07v2 [720p][805B467C].mkv
 !new/[Ryuumaru] Koe de Oshigoto! - 01 [720p Blu-ray AAC][D9C3FA2B].mkv
 !new/[Ryuumaru] MM! - 08v0 [6BD6D172].mkv
+!new/[Ryuumaru] Omamori Himari - 09 [DVD][90344903].mkv
+!new/[Ryuumaru] Omamori Himari - 10 [DVD][DA266EDC].mkv
+!new/[Ryuumaru] Omamori Himari - ED (Clean) - 04 [DVD][AECE95FE].mkv
+!new/[Ryuumaru] Omamori Himari - ED (Clean) - 05 [DVD][4364AA15].mkv
+!new/[Ryuumaru] Omamori Himari - OP (Clean) - 09 [DVD][D73B5E36].mkv
+!new/[Ryuumaru] Omamori Himari - OP (Clean) - 10 [DVD][8A417D2F].mkv
 !new/[SHiN-gx] Working!! - 09 [DVD][720x480 AR h.264 AAC][603890D0].mkv
 !new/[SS]_Fortune_Arterial_-_07_[543A6A31].mkv
 !new/[Saizen]_Buzzer_Beater_-_01_[D1A651C5].avi
