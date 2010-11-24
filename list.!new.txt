@@ -8,6 +8,7 @@
 !new/Carol/[raw] Carol OVA.avi
 !new/Detective Conan - 248 [AZFS][526F3797].avi
 !new/Detective Conan - 255 [AZFS][3A542034].avi
+!new/Detective Conan - 256 [AZFS][5221C707].avi
 !new/Detective Conan - 296 [AZFS][FE4DB0C2].avi
 !new/Detective Conan - 297-298v2 [DCTP][AFEE2572].avi
 !new/Detective Conan - 321 [Kienai][5F8FBC7D].mp4
@@ -494,6 +495,7 @@
 !new/[Commie-Yanks] Natsu no Arashi! ~Akinaichuu~ (Summer Storm! ~Open for Business~) - 12 [DVD 480p AC3] [363FD780].mkv
 !new/[Commie] Air Gear・ Black Wings and Sleeping Forest -Break on the Sky- [DVD 480p AAC] [EE062B76].mkv
 !new/[Commie] The World God Only Knows - 05 [4F1CEB11].mkv
+!new/[Commie] The World God Only Knows - 07 [F9380E08].mkv
 !new/[Corona]_Heroman_-_EX-1_(H264_1280x720)[62943C35].mkv
 !new/[CrunchySubs] Naruto Shippuuden - 186 [720p].mkv
 !new/[CureCom] Fresh Pretty Cure! - 04 [DVD][4D454754].mkv
@@ -638,6 +640,7 @@
 !new/[ReDone] To Heart ~Remember my Memories~ 07 (DVD) [EC306FA2].mkv
 !new/[Ritsuka][101103] To Aru Majutsu no Index II OP Single - No buts! [Kawada Mami] (FLAC).rar
 !new/[RyRo]_Inazuma_Eleven_-_107_(1280x720_x264_AAC)_[1DCF497A].mkv
+!new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 07v2 [720p][805B467C].mkv
 !new/[Ryuumaru] Koe de Oshigoto! - 01 [720p Blu-ray AAC][D9C3FA2B].mkv
 !new/[Ryuumaru] MM! - 08v0 [6BD6D172].mkv
 !new/[SHiN-gx] Working!! - 09 [DVD][720x480 AR h.264 AAC][603890D0].mkv
@@ -926,11 +929,13 @@
 !new/[Taka]_Inuyasha_Kanketsuhen_26_[720p][3CD39826].mp4
 !new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_07_[720p][5AE671CB].mkv
 !new/[UTW-Ryuumaru] Yosuga no Sora - 07v2 [720p][10C1F212].mkv
+!new/[UTW-Ryuumaru] Yosuga no Sora - 08 [720p][55513820].mkv
 !new/[UTW]_Amagami_SS_-_20_[h264-720p][24AE20A7].mkv
 !new/[Underwater-Ryuumaru] Otome Youkai Zakuro - 08 [720p][CFDF56D3].mkv
 !new/[Underwater] Panty & Stocking with Garterbelt - 08 [8B2BB073].mkv
 !new/[Underwater] Shinryaku! Ika Musume - 07 [720p][1BF4558E].mkv
 !new/[Wasurenai] Marie & Gali - 24 [H264 1280x720] [053E4803].mkv
+!new/[WhyNot] Nurarihyon no Mago - 21 [20B4F82C].mkv
 !new/[Yabai]_Spice_and_Wolf_II_-_00_[BD][F046ADDF].mkv
 !new/[Yabai]_Spice_and_Wolf_II_-_01_[BD][6A489D81].mkv
 !new/[Yabai]_Spice_and_Wolf_II_-_02_[BD][99D8F67F].mkv
