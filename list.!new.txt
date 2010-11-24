@@ -496,6 +496,9 @@
 !new/[Commie] The World God Only Knows - 05 [4F1CEB11].mkv
 !new/[Corona]_Heroman_-_EX-1_(H264_1280x720)[62943C35].mkv
 !new/[CrunchySubs] Naruto Shippuuden - 186 [720p].mkv
+!new/[CureCom] Fresh Pretty Cure! - 04 [DVD][4D454754].mkv
+!new/[CureCom] Fresh Pretty Cure! - 05 [DVD][5710610B].mkv
+!new/[CureCom] Fresh Pretty Cure! - 06 [DVD][3719AAB6].mkv
 !new/[CureCom] Yes! Pretty Cure 5 Go Go! - 06 [DVD][DC2C8AF8].mkv
 !new/[CureCom] Yes! Pretty Cure 5 Go Go! - 07 [DVD][8CEA54AE].mkv
 !new/[DATS] Bakegyamon - 01 [B4442803].mkv
@@ -546,6 +549,7 @@
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 05 [1280x720 H264 OGG] [BCBF40FF].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 07 [1280x720 H264 OGG] [22346596].mkv
 !new/[KiteSeekers-imuR88] Quiz Magic Academy OVA 2 [DVD H264 720x480] [7879F1EC].mkv
+!new/[KiteSeekers] Prism Magical - PRISM Generations! OVA [DVD H264 720x480] [FB62E47B].mkv
 !new/[Kokuhaku] Tsukiyo no Fromage ch08 v1.1.rar
 !new/[Kokuhaku] Tsukiyo no Fromage ch09.rar
 !new/[Konno Azure] Koe de Oshigoto! CH27 [Tonigobe].rar
@@ -652,6 +656,7 @@
 !new/[Saizen]_Buzzer_Beater_-_13_[Final]_[DE3BA727].avi
 !new/[Saizen]_Slam_Dunk_-_022_[DVD][3472731B].mkv
 !new/[Seto_Otaku]_Valkyria_Chronicles_OVA_-_06_[DVD][720x480_H264-Vorbis][AF16DAE9].mkv
+!new/[Shin-S] Soredemo Machi wa Mawatteiru ED Single - Maids Sanjou! [Maids] v2.zip
 !new/[Shin-S] To Aru Majutsu no Index II ED Single - Magic world [Kurosaki Maon].zip
 !new/[Shin-S] Yosuga no Sora ED Single - Pinky Jones [Momoiro Clover].zip
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
