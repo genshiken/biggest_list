@@ -35,6 +35,7 @@
 !new/-baru87-/RAMA LOM NGOPY JGN DIHAPUS/[Hyakupa] C-ute - Something Like the Story of the Tortoise and the Hare (C-ute DVD Magazine Vol.18).mp4
 !new/.broken/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.mkv
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
+!new/Anything Goes.7z
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
 !new/Detective Conan - 248 [AZFS][526F3797].avi
@@ -586,6 +587,7 @@
 !new/[CureCom] Yes! Pretty Cure 5 Go Go! - 07 [DVD][8CEA54AE].mkv
 !new/[DATS] Bakegyamon - 01 [B4442803].mkv
 !new/[DB]_Hakuouki_18_[FD011E19].avi
+!new/[DB]_Hakuouki_19_[333BFEA8].avi
 !new/[DB]_Ninku_17_[8074B74B].avi
 !new/[Derp]_Legend_of_the_Legendary_Heroes_-_20_(1280x720_x264_AAC).mkv
 !new/[DmonHiro]Ookami-san To Shichinin No Nakama-tachi 01 (720p, BD) [BF90AD68].mkv
@@ -595,6 +597,7 @@
 !new/[Doki] Da Capo - D.C. I & II P.S.P. OVA (1280x720 h264 BD AAC) [AF7C3381].mkv
 !new/[Doki] Seikon no Qwaser - Jotei no Shouzou (720x480 h264 DVD AC3) [7459F43F].mkv
 !new/[Doremi].HeartCatch.PreCure!.40.[1280x720].[E6F5E637].mkv
+!new/[Doremi].Motto.Ojamajo.Doremi.36.[68676536].avi
 !new/[EAC] [101020] TVアニメ ストライクウィッチーズ2 エンディング・テーマ・コレクション「Over Sky」(ape+cue).rar
 !new/[EAC] [101027] FORTUNE ARTERIAL ～赤い約束～_I miss you／Veil (tak+iso).rar
 !new/[EAC] [101027] FORTUNE ARTERIAL ～赤い約束～_絆-kizunairo-色／Lia (tak+iso).rar
@@ -727,6 +730,7 @@
 !new/[Ritsuka][101103] To Aru Majutsu no Index II OP Single - No buts! [Kawada Mami] (FLAC).rar
 !new/[RyRo]_Inazuma_Eleven_-_107_(1280x720_x264_AAC)_[1DCF497A].mkv
 !new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 07v2 [720p][805B467C].mkv
+!new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 08 [720p][6D8A2036].mkv
 !new/[Ryuumaru] Koe de Oshigoto! - 01 [720p Blu-ray AAC][D9C3FA2B].mkv
 !new/[Ryuumaru] MM! - 08v0 [6BD6D172].mkv
 !new/[Ryuumaru] Omamori Himari - 09 [DVD][90344903].mkv
@@ -1053,6 +1057,7 @@
 !new/[Yabai]_Spice_and_Wolf_II_-_Special_1_[BD][FFD4BF5A].mkv
 !new/[Yabai]_Spice_and_Wolf_II_-_Special_2_[BD][77259C9F].mkv
 !new/[Yabai]_Spice_and_Wolf_II_Set_Credits_OP-ED_as_Default.rar
+!new/[Yoroshiku]_Happy_Happy_Clover_-_01_[E96A9A3F].mkv
 !new/[aarinfantasy]_Marginal_Prince_-_03_[1F439FDA].avi
 !new/[gg]_Bakuman_-_08_[A7DE7894].mkv
 !new/[gg]_Soredemo_Machi_wa_Mawatteiru_-_07_[D93381E9].mkv
