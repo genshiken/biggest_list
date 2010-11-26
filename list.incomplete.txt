@@ -21,17 +21,6 @@ incomplete/Akahori Gedou Hour Rabuge/[Himitsu] Akahori Gedou Hour Rabuge - 08 [C
 incomplete/Akahori Gedou Hour Rabuge/[Himitsu] Akahori Gedou Hour Rabuge - 09 [389E243F].avi
 incomplete/Akahori Gedou Hour Rabuge/[Himitsu] Akahori Gedou Hour Rabuge - 10 [F8B514FB].avi
 incomplete/Akahori Gedou Hour Rabuge/[Himitsu] Akahori Gedou Hour Rabuge - 11 [6B2E5D80].avi
-incomplete/Amagami SS/[Eclipse] Amagami SS - 01 [720p][4876C56A].mkv
-incomplete/Amagami SS/[Eclipse] Amagami SS - 02 [720p][409F0F7F].mkv
-incomplete/Amagami SS/[Eclipse] Amagami SS - 03 [720p][283C6AF2].mkv
-incomplete/Amagami SS/[Eclipse] Amagami SS - 04 [720p][9439459B].mkv
-incomplete/Amagami SS/[Eclipse] Amagami SS - 05 [720p][5E9FAB73].mkv
-incomplete/Amagami SS/[Eclipse] Amagami SS - 06 [720p][3ECC82BB].mkv
-incomplete/Amagami SS/[Eclipse] Amagami SS - 07 [720p][54F7A2E0].mkv
-incomplete/Amagami SS/[Eclipse] Amagami SS - 08 [720p][9C9DE014].mkv
-incomplete/Amagami SS/[Eclipse] Amagami SS - 09 [720p][5803A0F7].mkv
-incomplete/Amagami SS/[Eclipse] Amagami SS - 11 [720p][CA900E4D].mkv
-incomplete/Amagami SS/[Eclipse] Amagami SS - 12 [720p][C4FBCE84].mkv
 incomplete/Amagami SS/[UTW] Amagami SS - 01 [1080p BD][511BFEEE].mkv
 incomplete/Amagami SS/[UTW] Amagami SS - 01 [v2 720p][B561EBCC].mkv
 incomplete/Amagami SS/[UTW] Amagami SS - 02 [720p][619D9FDF].mkv
@@ -52,6 +41,8 @@ incomplete/Amagami SS/[UTW] Amagami SS - 16 [720p][47DE7355].mkv
 incomplete/Amagami SS/[UTW] Amagami SS - 17 [720p][775D35B1].mkv
 incomplete/Amagami SS/[UTW] Amagami SS - 18 [720p][69E83186].mkv
 incomplete/Amagami SS/[UTW] Amagami SS - 19 [720p][C9D7E192].mkv
+incomplete/Amagami SS/[UTW] Amagami SS - 20 [720p][24AE20A7].mkv
+incomplete/Amagami SS/[UTW] Amagami SS - 21 [720p][7954AB09].mkv
 incomplete/Angel Heart/[Ani-Kraze] Angel Heart - 02 [A954E411].avi
 incomplete/Angel Heart/[Ani-Kraze] Angel Heart - 03 [CD2D52CA].avi
 incomplete/Angel Heart/[Ani-Kraze] Angel Heart - 04 [32C0C7F0].avi
@@ -138,6 +129,7 @@ incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 23 [
 incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 24 [720p][80953B63].mkv
 incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 25 [720p][96F3D7B7].mkv
 incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 26 [720p][A43E5129].mkv
+incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 27 [720p][3DFB4BA7].mkv
 incomplete/Aoki Densetsu Shoot!/[Saizen] Aoki Densetsu Shoot! - 34 [DVD][5DE072D3].mkv
 incomplete/Aoki Densetsu Shoot!/[Saizen] Aoki Densetsu Shoot! - 35 [DVD][55E30867].mkv
 incomplete/Aoki Densetsu Shoot!/[Saizen] Aoki Densetsu Shoot! - 37 [DVD][E3BB6000].mkv
@@ -158,6 +150,7 @@ incomplete/Arakawa Under the Bridge x2/[Nutbladder] Arakawa Under the Bridge x2 
 incomplete/Arakawa Under the Bridge x2/[Nutbladder] Arakawa Under the Bridge x2 - 05 [33F31DEC].mkv
 incomplete/Arakawa Under the Bridge x2/[Nutbladder] Arakawa Under the Bridge x2 - 06 [3AFF3253].mkv
 incomplete/Arakawa Under the Bridge x2/[Nutbladder] Arakawa Under the Bridge x2 - 07 [v2][F9A888DB].mkv
+incomplete/Arakawa Under the Bridge x2/[Nutbladder] Arakawa Under the Bridge x2 - 08 [318112EB].mkv
 incomplete/Armored Trooper Votoms - Phantom Arc/[SHS-FoSu] Armored Trooper Votoms - Phantom Arc - 01 (1280x720) [0C9F405D].mkv
 incomplete/Armored Trooper Votoms - Phantom Arc/[SHS-FoSu] Armored Trooper Votoms - Phantom Arc - 02 (1280x720) [62FF6947].mkv
 incomplete/Armored Trooper Votoms - Phantom Arc/[SHS-FoSu] Armored Trooper Votoms - Phantom Arc - 03 (1280x720) [6BD53E7C].mkv
@@ -247,6 +240,7 @@ incomplete/Bakuman/[gg] Bakuman - 04 [1E33937E].mkv
 incomplete/Bakuman/[gg] Bakuman - 05 [D45A201B].mkv
 incomplete/Bakuman/[gg] Bakuman - 06 [0F2465F0].mkv
 incomplete/Bakuman/[gg] Bakuman - 07 [6930B02E].mkv
+incomplete/Bakuman/[gg] Bakuman - 08 [A7DE7894].mkv
 incomplete/Bakumatsu Kikansetsu Irohanihoheto/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 01 [DVD][DAC042E0].mkv
 incomplete/Bakumatsu Kikansetsu Irohanihoheto/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 02 [DVD][19B75C94].mkv
 incomplete/Bakumatsu Kikansetsu Irohanihoheto/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 03 [DVD][DEBB5FEF].mkv
@@ -329,6 +323,8 @@ incomplete/Bleach/[HorribleSubs] Bleach - 293 [720p][61314418].mkv
 incomplete/Bleach/[HorribleSubs] Bleach - 294 [720p][AF58F733].mkv
 incomplete/Bleach/[HorribleSubs] Bleach - 295 [720p][16E3E0F2].mkv
 incomplete/Bleach/[HorribleSubs] Bleach - 296 [720p][06E7AA01].mkv
+incomplete/Bleach/[HorribleSubs] Bleach - 297 [720p][66364D30].mkv
+incomplete/Bleach/[HorribleSubs] Bleach - 298 [720p][2C584B37].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 01 [AFCE3665].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 02 [A90F670C].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 03 [A47F2053].mkv
@@ -364,21 +360,6 @@ incomplete/Bobobo-Bo Bo-Bobo/[HnG-Hajike] Bobobo-Bo Bo-Bobo - 03 [DVD][36A022AF]
 incomplete/Break Blade/[gg] Break Blade - 1 (1280x720) [A9337483].mkv
 incomplete/Break Blade/[gg] Break Blade - 1 (1920x1080) [A406CFAD].mkv
 incomplete/Break Blade/[gg] Break Blade - 2 (1920x1080) [39A31FD8].mkv
-incomplete/Capeta/[A-E & Saizen] Capeta - 41 [DVD][2C0C0D94].mkv
-incomplete/Capeta/[A-E & Saizen] Capeta - 42 [DVD][178CFD76].mkv
-incomplete/Capeta/[A-E & Saizen] Capeta - 43 [DVD][CE393DB9].mkv
-incomplete/Capeta/[A-E & Saizen] Capeta - 46 [DVD][D44448F2].mkv
-incomplete/Capeta/[A-E & Saizen] Capeta - 52 [DVD][EC0AD320].mkv
-incomplete/Capeta/[A-E] Capeta - 11 [01DEC8C5].avi
-incomplete/Capeta/[A-E] Capeta - 12 [C9741921].avi
-incomplete/Capeta/[A-E] Capeta - 13 [DA27575A].avi
-incomplete/Capeta/[A-E] Capeta - 14 [17910FE4].avi
-incomplete/Capeta/[A-E] Capeta - 15 [726D9E75].avi
-incomplete/Capeta/[A-E] Capeta - 16 [10759029].avi
-incomplete/Capeta/[A-E] Capeta - 17 [697ED8A0].avi
-incomplete/Capeta/[A-E] Capeta - 18 [541CDA71].avi
-incomplete/Capeta/[A-E] Capeta - 19 [2D18346F].avi
-incomplete/Capeta/[A-E] Capeta - 20 [72EC175E].avi
 incomplete/Captain Harlock/[Live-eviL] Captain Harlock - 24 [0C66A50A].mkv
 incomplete/Captain Harlock/[Live-eviL] Captain Harlock - 25 [8CD9A7C0].mkv
 incomplete/Captain Harlock/[Live-eviL] Captain Harlock - 26 [30A9FC82].mkv
@@ -425,17 +406,17 @@ incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 32 [720p BD][A2D547
 incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 33 [720p BD][7BC856CB].mkv
 incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 34 [720p BD][EDF7ECDD].mkv
 incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 35 [720p BD][944A472C].mkv
-incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 36 [720p BD][8055B25A].mkv
-incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 37 [720p BD][BE9B0F90].mkv
-incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 38 [720p BD][9E71E8C2].mkv
-incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 39 [720p BD][A63BAAFD].mkv
-incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 40 [720p BD][5C060CF6].mkv
-incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 41 [720p BD][8BAB4667].mkv
-incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 42 [720p BD][91F984AC].mkv
-incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 43 [720p BD][9F213AA7].mkv
-incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 44 [720p BD][70C51F28].mkv
-incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 45 [720p BD][B8B9AD4D].mkv
-incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 46 [720p BD][1D28A9B5].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 36 [720p BD][3CE6B809].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 37 [720p BD][4790F2C8].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 38 [720p BD][6D145B28].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 39 [720p BD][40220E1D].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 40 [720p BD][B490AA0E].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 41 [720p BD][AAF3EFFD].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 42 [720p BD][FB8AEC44].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 43 [720p BD][F331C40E].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 44 [720p BD][89749844].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 45 [720p BD][1FB8E887].mkv
+incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 46 [720p BD][5847F0B1].mkv
 incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 47 [720p BD][9098D80D].mkv
 incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 48 [720p BD][8555B006].mkv
 incomplete/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - 49 [720p BD][FF38562B].mkv
@@ -807,6 +788,8 @@ incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 50 [720p][A2E7A2BA].mkv
 incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 51 [720p][5A8C4EAF].mkv
 incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 52 [720p][F2941FA4].mkv
 incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 53 [720p][82EB62A8].mkv
+incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 54 [720p][B923CDE5].mkv
+incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 55 [720p][66EC3075].mkv
 incomplete/Fairy Tail/[Mamiko] Fairy Tail - 01 [0307DF54].mkv
 incomplete/Fairy Tail/[Mamiko] Fairy Tail - 02 [531F9793].mkv
 incomplete/Fairy Tail/[Mamiko] Fairy Tail - 03 [C7677EC8].mkv
@@ -836,6 +819,7 @@ incomplete/Fortune Arterial/[SS] Fortune Arterial - 03 [68310B3B].mkv
 incomplete/Fortune Arterial/[SS] Fortune Arterial - 04 [9BFBE36D].mkv
 incomplete/Fortune Arterial/[SS] Fortune Arterial - 05 [6DE1473D].mkv
 incomplete/Fortune Arterial/[SS] Fortune Arterial - 06 [B477B038].mkv
+incomplete/Fortune Arterial/[SS] Fortune Arterial - 07 [543A6A31].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 01 [DVD][B9677652].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 07 [07F8EB78].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 08 [HD][F893BFB8].mkv
@@ -1099,6 +1083,8 @@ incomplete/Hakuouki - Shinsengumi Kitan/[DB] Hakuouki - 14 [382B9335].avi
 incomplete/Hakuouki - Shinsengumi Kitan/[DB] Hakuouki - 15 [769016FA].avi
 incomplete/Hakuouki - Shinsengumi Kitan/[DB] Hakuouki - 16 [v2][63B45684].avi
 incomplete/Hakuouki - Shinsengumi Kitan/[DB] Hakuouki - 17 [0DC5C749].avi
+incomplete/Hakuouki - Shinsengumi Kitan/[DB] Hakuouki - 18 [FD011E19].avi
+incomplete/Hakuouki - Shinsengumi Kitan/[DB] Hakuouki - 19 [333BFEA8].avi
 incomplete/Hakuouki - Shinsengumi Kitan/[KSN] Hakuouki - Shinsengumi Kitan - 01 (1280x720) [F165E790].mkv
 incomplete/Hanada Shounen Shi/[A-E] Hanada Shounen Shi - 20 [84D3D160].mkv
 incomplete/Hanada Shounen Shi/[A-E] Hanada Shounen Shi - 21 [557F28C6].mkv
@@ -1276,6 +1262,8 @@ incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi C
 incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 29 [720p][A60DE56C].mkv
 incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 30 [720p][DD818C78].mkv
 incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 31 [720p][1483FC40].mkv
+incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 33 [720p][5C1417F0].mkv
+incomplete/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 34 [720p][2E859C52].mkv
 incomplete/Hime-chan's Ribbon/[h-b] Hime-chan's Ribbon - 01 [E3FEC3B1].avi
 incomplete/Hime-chan's Ribbon/[h-b] Hime-chan's Ribbon - 02 [014FF00B].avi
 incomplete/Hime-chan's Ribbon/[h-b] Hime-chan's Ribbon - 03 [3AE2FFE4].avi
@@ -1306,6 +1294,8 @@ incomplete/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls 
 incomplete/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls - 04 [720p][8E042F4F].mkv
 incomplete/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls - 05 [720p][F71F879D].mkv
 incomplete/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls - 06 [720p][E44B6EEA].mkv
+incomplete/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls - 07 [v2 720p][805B467C].mkv
+incomplete/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls - 08 [720p][6D8A2036].mkv
 incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 01 [5F1FCE3C].mkv
 incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 02 [CD5565DA].mkv
 incomplete/Inazuma Eleven/[Okashii-RyRo] Inazuma Eleven - 001 (1280x720) [9B3DD0D4].mkv
@@ -1412,14 +1402,8 @@ incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 103 [720p][48D97287].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 104 [720p][35D85CAE].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 105 [720p][2D7F0D31].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 106 [720p][7DF7752B].mkv
+incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 107 [720p][1DCF497A].mkv
 incomplete/Initial D Battle Stage/[Shinsen-Subs] Initial D Battle Stage - 2 [End][B54855AA].mkv
-incomplete/Inuyasha Kanketsu-hen/[O-L] Inuyasha Kanketsu-hen - 01 (1280x720) [686D7CCE].mkv
-incomplete/Inuyasha Kanketsu-hen/[O-L] Inuyasha Kanketsu-hen - 02 (1280x720) [A0F39387].mkv
-incomplete/Inuyasha Kanketsu-hen/[O-L] Inuyasha Kanketsu-hen - 03 (1280x720) [6FB718DC].mkv
-incomplete/Inuyasha Kanketsu-hen/[O-L] Inuyasha Kanketsu-hen - 04 (1280x720) [408F0727].mkv
-incomplete/Inuyasha Kanketsu-hen/[O-L] Inuyasha Kanketsu-hen - 05 (1280x720) [D886E787].mkv
-incomplete/Inuyasha Kanketsu-hen/[O-L] Inuyasha Kanketsu-hen - 06 (1280x720) [5F9573FF].mkv
-incomplete/Inuyasha Kanketsu-hen/[O-L] Inuyasha Kanketsu-hen - 07 (1280x720) [140FDCE1].mkv
 incomplete/Iron Man/[Force-Works] Iron Man - 01 [A66813DB].mkv
 incomplete/Iron Man/[Force-Works] Iron Man - 02 [2D05AB2F].mkv
 incomplete/Iron Man/[Force-Works] Iron Man - 03 [9515B619].mkv
@@ -1882,6 +1866,8 @@ incomplete/Letter Bee Reverse/[HorribleSubs] Letter Bee Reverse - 03 [720p][4BBB
 incomplete/Letter Bee Reverse/[HorribleSubs] Letter Bee Reverse - 04 [720p][22112CE9].mkv
 incomplete/Letter Bee Reverse/[HorribleSubs] Letter Bee Reverse - 05 [720p][4BD4342B].mkv
 incomplete/Letter Bee Reverse/[HorribleSubs] Letter Bee Reverse - 06 [v2 720p][50D1B550].mkv
+incomplete/Letter Bee Reverse/[HorribleSubs] Letter Bee Reverse - 07 [720p][E781C0A5].mkv
+incomplete/Letter Bee Reverse/[HorribleSubs] Letter Bee Reverse - 08 [720p][7F626A77].mkv
 incomplete/Letter Bee Reverse/[Mochi] Letter Bee Reverse - 01 [720p][427A29A0].mkv
 incomplete/Literature Girl/[Monokage] Bungaku Shoujo Memoir - 01 [0B3A1FCC].mkv
 incomplete/Literature Girl/[Taco] Literature Girl OVA - 01 [2276F216].mkv
@@ -1936,6 +1922,7 @@ incomplete/MM!/[Ryuumaru] MM! - 04 [EC69764A].mkv
 incomplete/MM!/[Ryuumaru] MM! - 05 [D8CD4B38].mkv
 incomplete/MM!/[Ryuumaru] MM! - 06 [3EF5B2FD].mkv
 incomplete/MM!/[Ryuumaru] MM! - 07 [812B8FA8].mkv
+incomplete/MM!/[Ryuumaru] MM! - 08 [5B0F82EF].mkv
 incomplete/Maburaho/[Anime-Keep] Maburaho - 01 [F5BA0680].avi
 incomplete/Maburaho/[Anime-Keep] Maburaho - 02 [BFE818CB].avi
 incomplete/Maburaho/[Anime-Keep] Maburaho - 03 [BD152155].avi
@@ -2000,6 +1987,7 @@ incomplete/Maiden Rose OVA/[aarinfantasy] Maiden Rose OVA - 1 [CF2A8F80].avi
 incomplete/Maple Story/[Ashes-WIW] Maple Story - 01 [5B1872E3].mkv
 incomplete/Marginal Prince/[aarinfantasy] Marginal Prince - 01 [73C8AA2E].avi
 incomplete/Marginal Prince/[aarinfantasy] Marginal Prince - 02 [F6EF2301].avi
+incomplete/Marginal Prince/[aarinfantasy] Marginal Prince - 03 [1F439FDA].avi
 incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 09.5 [720p][14DEFFF1].mkv
 incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 10 [720p][v2][4A1D1C25].mkv
 incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 11 [720p][15B4E490].mkv
@@ -2015,6 +2003,7 @@ incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 20 [720p][A1931B79].mkv
 incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 21 [720p][C48CEAA7].mkv
 incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 22 [720p][0171B182].mkv
 incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 23 [720p][6F878B22].mkv
+incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 24 [720p][053E4803].mkv
 incomplete/Mermaid Melody Pichi Pichi Pitch/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 47 [DVD][74E5AD02].avi
 incomplete/Mermaid Melody Pichi Pichi Pitch/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 48 [DVD][FD3E3AAA].avi
 incomplete/Mermaid Melody Pichi Pichi Pitch/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 49 [DVD][42D8AD45].mkv
@@ -2162,6 +2151,8 @@ incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 182 [720p][66BD1
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 183 [v2 720p][2DEE2CF8].mkv
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 184 [720p][3E32D754].mkv
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 185 [720p][790F1070].mkv
+incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 187 [720p][A53A48B2].mkv
+incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 188 [720p][32D45AB5].mkv
 incomplete/Naruto/[AonE] Naruto - 158 [336D6158].avi
 incomplete/Naruto/[DB] Naruto - 135 [72843002].avi
 incomplete/Naruto/[DB] Naruto - 136 [EE9A3057].avi
@@ -2209,6 +2200,7 @@ incomplete/Ninku/[DB] Ninku - 13 [B2EC0849].avi
 incomplete/Ninku/[DB] Ninku - 14 [10EEC769].avi
 incomplete/Ninku/[DB] Ninku - 15 [83DC5555].avi
 incomplete/Ninku/[DB] Ninku - 16 [F7C47A76].avi
+incomplete/Ninku/[DB] Ninku - 17 [8074B74B].avi
 incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 01 [v2][E46F2A29].mkv
 incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 02 [754FE16D].mkv
 incomplete/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 03 [78D2C5C7].mkv
@@ -2229,6 +2221,7 @@ incomplete/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 17 [1BB2E180].mkv
 incomplete/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 18 [FCAFF71B].mkv
 incomplete/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 19 [30009E58].mkv
 incomplete/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 20 [1B413C7D].mkv
+incomplete/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 21 [20B4F82C].mkv
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 01 [3A853D01].avi
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 02 [08A1F4E5].avi
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 03 [A66358B8].avi
@@ -2754,6 +2747,7 @@ incomplete/One Piece/[yibis] One Piece - 472 [720p][8E357023].mkv
 incomplete/One Piece/[yibis] One Piece - 473 [720p][65D67830].mkv
 incomplete/One Piece/[yibis] One Piece - 474 [720p][A8634AF9].mkv
 incomplete/One Piece/[yibis] One Piece - 475 [720p][DA70B31F].mkv
+incomplete/One Piece/[yibis] One Piece - 476 [720p][B7BFA115].mkv
 incomplete/Ontama!/[DATS] Ontama! - 01 [2F0C7231].mkv
 incomplete/Ontama!/[DATS] Ontama! - 02 [2FBB11E1].mkv
 incomplete/Ontama!/[DATS] Ontama! - 03 [00BDF47B].mkv
@@ -2778,6 +2772,7 @@ incomplete/Otome Youkai Zakuro/[Underwater-Ryuumaru] Otome Youkai Zakuro - 04 [7
 incomplete/Otome Youkai Zakuro/[Underwater-Ryuumaru] Otome Youkai Zakuro - 05 [720p][4081A28F].mkv
 incomplete/Otome Youkai Zakuro/[Underwater-Ryuumaru] Otome Youkai Zakuro - 06 [720p][94E8E539].mkv
 incomplete/Otome Youkai Zakuro/[Underwater-Ryuumaru] Otome Youkai Zakuro - 07 [720p][C2913585].mkv
+incomplete/Otome Youkai Zakuro/[Underwater-Ryuumaru] Otome Youkai Zakuro - 08 [720p][CFDF56D3].mkv
 incomplete/Panty & Stocking with Garterbelt/[Underwater] Panty & Stocking with Garterbelt - 01 [B0D1F9CF].mkv
 incomplete/Panty & Stocking with Garterbelt/[Underwater] Panty & Stocking with Garterbelt - 02 [5083A74A].mkv
 incomplete/Panty & Stocking with Garterbelt/[Underwater] Panty & Stocking with Garterbelt - 03 [5D37F9BB].mkv
@@ -2785,6 +2780,7 @@ incomplete/Panty & Stocking with Garterbelt/[Underwater] Panty & Stocking with G
 incomplete/Panty & Stocking with Garterbelt/[Underwater] Panty & Stocking with Garterbelt - 05 [CB280A79].mkv
 incomplete/Panty & Stocking with Garterbelt/[Underwater] Panty & Stocking with Garterbelt - 06 [4D59E947].mkv
 incomplete/Panty & Stocking with Garterbelt/[Underwater] Panty & Stocking with Garterbelt - 07 [392BF3EA].mkv
+incomplete/Panty & Stocking with Garterbelt/[Underwater] Panty & Stocking with Garterbelt - 08 [8B2BB073].mkv
 incomplete/Patalliro/[aarinfantasy] Patalliro - 14 [B04ACEDC].avi
 incomplete/Perrine/[C1] Perrine - 01 [DD61EE37].avi
 incomplete/Perrine/[C1] Perrine - 02 [7D8E124B].avi
@@ -2848,6 +2844,7 @@ incomplete/Psychic Detective Yakumo/[Nordkohl] Psychic Detective Yakumo - 04 [53
 incomplete/Psychic Detective Yakumo/[Nordkohl] Psychic Detective Yakumo - 05 [390122B7]​.mkv
 incomplete/Psychic Detective Yakumo/[Nordkohl] Psychic Detective Yakumo - 06 [BC3FA572].mkv
 incomplete/Psychic Detective Yakumo/[Nordkohl] Psychic Detective Yakumo - 07 [11915E1E].mkv
+incomplete/Psychic Detective Yakumo/[Nordkohl] Psychic Detective Yakumo - 08 [1D7AB514].mkv
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 05 [1B8BEC0C].mkv
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 08 [69EF2B35].mkv
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 09 [C37FE63E].mkv
@@ -3139,6 +3136,7 @@ incomplete/Slam Dunk/[Saizen] Slam Dunk - 018 [DVD][BC8504DE].mkv
 incomplete/Slam Dunk/[Saizen] Slam Dunk - 019 [DVD][16D42691].mkv
 incomplete/Slam Dunk/[Saizen] Slam Dunk - 020 [DVD][75B43742].mkv
 incomplete/Slam Dunk/[Saizen] Slam Dunk - 021 [DVD][BAC1FC3B].mkv
+incomplete/Slam Dunk/[Saizen] Slam Dunk - 022 [DVD][3472731B].mkv
 incomplete/Slap-Up Party - Arad Senki/[Ronery] Slap-Up Party - Arad Senki - 01 (1280x720) [751898CF].mkv
 incomplete/Slap-Up Party - Arad Senki/[Ronery] Slap-Up Party - Arad Senki - 02 (1024x576) [B0E357BE].mkv
 incomplete/Slap-Up Party - Arad Senki/[Ronery] Slap-Up Party - Arad Senki - 03 (1024x576) [974ACECA].mkv
@@ -3221,6 +3219,8 @@ incomplete/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 03
 incomplete/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 04 [v2 720p][63D68C31].mkv
 incomplete/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 05 [720p][C0253B81].mkv
 incomplete/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 06 [720p][A3AA4829].mkv
+incomplete/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 07 [720p][C1AAB757].mkv
+incomplete/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 08 [720p][37FBA45C].mkv
 incomplete/Sora no Otoshimono Forte/[Nekomimi] Sora no Otoshimono Forte - 01 [9E3895B3].mkv
 incomplete/Sora no Otoshimono Forte/[Nekomimi] Sora no Otoshimono Forte - 02 [FAED2A09].mkv
 incomplete/Sora no Otoshimono Forte/[Nekomimi] Sora no Otoshimono Forte - 03 [6F1588AC].mkv
@@ -3230,6 +3230,7 @@ incomplete/Soredemo Machi wa Mawatteiru/[gg] Soredemo Machi wa Mawatteiru - 03 [
 incomplete/Soredemo Machi wa Mawatteiru/[gg] Soredemo Machi wa Mawatteiru - 04 [5E34D898].mkv
 incomplete/Soredemo Machi wa Mawatteiru/[gg] Soredemo Machi wa Mawatteiru - 05 [AC65A9F7].mkv
 incomplete/Soredemo Machi wa Mawatteiru/[gg] Soredemo Machi wa Mawatteiru - 06 [v2][2F48D135].mkv
+incomplete/Soredemo Machi wa Mawatteiru/[gg] Soredemo Machi wa Mawatteiru - 07 [D93381E9].mkv
 incomplete/Souten Kouro/[Lunar] Souten Kouro - 01 (1280x720) [B78A2C08].mkv
 incomplete/Souten Kouro/[Lunar] Souten Kouro - 02 (1280x720) [C21CD208].mkv
 incomplete/Souten Kouro/[Lunar] Souten Kouro - 03 (1280x720) [AF5759E1].mkv
@@ -3246,6 +3247,7 @@ incomplete/Squid Girl/[Underwater] Squid Girl - 03 [720p][ED68F495].mkv
 incomplete/Squid Girl/[Underwater] Squid Girl - 04 [720p][0E95F810].mkv
 incomplete/Squid Girl/[Underwater] Squid Girl - 05 [720p][47BD4A20].mkv
 incomplete/Squid Girl/[Underwater] Squid Girl - 06 [720p][C14E33F2].mkv
+incomplete/Squid Girl/[Underwater] Squid Girl - 07 [720p][1BF4558E].mkv
 incomplete/Star Driver/[gg] Star Driver - 01 [v2][898EDA8C].mkv
 incomplete/Star Driver/[gg] Star Driver - 02 [v2][8EFDABA9].mkv
 incomplete/Star Driver/[gg] Star Driver - 03 [8A012BA4].mkv
@@ -3253,6 +3255,7 @@ incomplete/Star Driver/[gg] Star Driver - 04 [891F361E].mkv
 incomplete/Star Driver/[gg] Star Driver - 05 [7C8FBC51].mkv
 incomplete/Star Driver/[gg] Star Driver - 06 [D05189FA].mkv
 incomplete/Star Driver/[gg] Star Driver - 07 [B1198FC6].mkv
+incomplete/Star Driver/[gg] Star Driver - 08 [8F6947C7].mkv
 incomplete/Strong World/[yibis] Strong World - 0 [DVD][49C1A026].mkv
 incomplete/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 01 [720p][3E29FBE4].mkv
 incomplete/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 02 [720p][2BB50ED0].mkv
@@ -3260,6 +3263,8 @@ incomplete/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Tais
 incomplete/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 04 [720p][D484058F].mkv
 incomplete/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 05 [720p][C3E6204D].mkv
 incomplete/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 06 [720p][FA196E0C].mkv
+incomplete/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 07 [720p][CD493B5D].mkv
+incomplete/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 08 [720p][605557FA].mkv
 incomplete/Taiko Drum Master/[Triad] Taiko Drum Master - 14 [DVD][658D86C5].mkv
 incomplete/Tales of Symphonia - OVA - Tethe'alla/[Formula] Tales of Symphonia - OVA - Tethe'alla - 1 [89135783].mkv
 incomplete/Tales of Symphonia - OVA - Tethe'alla/[Formula] Tales of Symphonia - OVA - Tethe'alla - 2 [037B522F].mkv
@@ -3271,6 +3276,8 @@ incomplete/Tamayura OVA/[Nuke] Tamayura - 01 [BDD25C72].mkv
 incomplete/Tantei Opera Milky Holmes/[Baaka] Tantei Opera Milky Holmes - 03 [720p][C2575C11].mkv
 incomplete/Tantei Opera Milky Holmes/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 01 [720p][A78849F8].mkv
 incomplete/Tantei Opera Milky Holmes/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 02 [720p][4F879F91].mkv
+incomplete/Tantei Opera Milky Holmes/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 05 [720p][BCBF40FF].mkv
+incomplete/Tantei Opera Milky Holmes/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 07 [720p][22346596].mkv
 incomplete/The Legend of Koizumi/[Monokage] The Legend of Koizumi - 01 [CAE5A5FE].mkv
 incomplete/The Legend of Koizumi/[Triad] The Legend of Koizumi - 01 [18EE398A].mkv
 incomplete/The Legend of the Legendary Heroes/[Commie] The Legend of the Legendary Heroes - 01 [v2][2972390D].mkv
@@ -3380,15 +3387,20 @@ incomplete/The World God Only Knows/[Commie] The World God Only Knows - 01 [476E
 incomplete/The World God Only Knows/[Commie] The World God Only Knows - 02 [06923124].mkv
 incomplete/The World God Only Knows/[Commie] The World God Only Knows - 03 [C68B0DFE].mkv
 incomplete/The World God Only Knows/[Commie] The World God Only Knows - 04 [AC4FC098].mkv
+incomplete/The World God Only Knows/[Commie] The World God Only Knows - 05 [4F1CEB11].mkv
 incomplete/The World God Only Knows/[Commie] The World God Only Knows - 06 [EA1EF1AA].mkv
+incomplete/The World God Only Knows/[Commie] The World God Only Knows - 07 [F9380E08].mkv
+incomplete/The World God Only Knows/[HorribleSubs] The World God Only Knows - 08 [720p][FE9BC041].mkv
 incomplete/To Heart - Remember my Memories/[ReDone] To Heart - Remember my Memories - 01 [DVD][04641A84].mkv
 incomplete/To Heart - Remember my Memories/[ReDone] To Heart - Remember my Memories - 02 [DVD][18FA126A].mkv
 incomplete/To Heart - Remember my Memories/[ReDone] To Heart - Remember my Memories - 03 [DVD][16AE26CE].mkv
 incomplete/To Heart - Remember my Memories/[ReDone] To Heart - Remember my Memories - 04 [DVD][4CE0A41E].mkv
 incomplete/To Heart - Remember my Memories/[ReDone] To Heart - Remember my Memories - 05 [DVD][CC12B666].mkv
 incomplete/To Heart - Remember my Memories/[ReDone] To Heart - Remember my Memories - 06 [DVD][4EFD7BC8].mkv
+incomplete/To Heart - Remember my Memories/[ReDone] To Heart - Remember my Memories - 07 [DVD][EC306FA2].mkv
 incomplete/To Heart 2 adnext/[SubSmith] To Heart 2 adnext - 1 [720p BD][99CB3EDD].mkv
 incomplete/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 06 [720p][35CDD311].mkv
+incomplete/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 07 [720p][5AE671CB].mkv
 incomplete/Toaru Majutsu no Index II/[UTW] Toaru Majutsu no Index II - 01 [720p][15CC5AE2].mkv
 incomplete/Toaru Majutsu no Index II/[UTW] Toaru Majutsu no Index II - 02 [720p][50A585BB].mkv
 incomplete/Toaru Majutsu no Index II/[UTW] Toaru Majutsu no Index II - 03 [720p][2C55B11E].mkv
@@ -3400,6 +3412,8 @@ incomplete/Togainu no Chi/[gg] Togainu no Chi - 03 [4C9CDA20].mkv
 incomplete/Togainu no Chi/[gg] Togainu no Chi - 04 [75CCD3BF].mkv
 incomplete/Togainu no Chi/[gg] Togainu no Chi - 05 [27295EFC].mkv
 incomplete/Togainu no Chi/[gg] Togainu no Chi - 06 [0DFED97A].mkv
+incomplete/Togainu no Chi/[gg] Togainu no Chi - 07 [5E5F6B3F].mkv
+incomplete/Togainu no Chi/[gg] Togainu no Chi - 08 [6FC4DC8A].mkv
 incomplete/Tono to Issho/[CrunchySubs] Tono to Issho - 01 [720p][09F78AD2].mkv
 incomplete/Tono to Issho/[CrunchySubs] Tono to Issho - 02 [720p][E7ECE8B8].mkv
 incomplete/Tono to Issho/[CrunchySubs] Tono to Issho - 03 [720p][7766D71A].mkv
@@ -3519,6 +3533,7 @@ incomplete/Valkyria Chronicles OVA/[Seto Otaku] Valkyria Chronicles OVA - 02 [DV
 incomplete/Valkyria Chronicles OVA/[Seto Otaku] Valkyria Chronicles OVA - 03 [DVD][F4006E7A].mkv
 incomplete/Valkyria Chronicles OVA/[Seto Otaku] Valkyria Chronicles OVA - 04 [DVD][DF39F7F2].mkv
 incomplete/Valkyria Chronicles OVA/[Seto Otaku] Valkyria Chronicles OVA - 05 [DVD][18380078].mkv
+incomplete/Valkyria Chronicles OVA/[Seto Otaku] Valkyria Chronicles OVA - 06 [DVD][AF16DAE9].mkv
 incomplete/Wangan Midnight/[Shinsen-Subs] Wangan Midnight - 01 [DVD][222DCD0C].mkv
 incomplete/Wangan Midnight/[Shinsen-Subs] Wangan Midnight - 02 [DVD][FE60242B].mkv
 incomplete/Weiss Survive R/[Ayako] Weiss Survive R - 01 [E975A989].mkv
@@ -3617,6 +3632,8 @@ incomplete/Yosuga no Sora/[UTW-Ryuumaru] Yosuga no Sora - 04 [720p][1C9B8E9E].mk
 incomplete/Yosuga no Sora/[UTW-Ryuumaru] Yosuga no Sora - 05 [720p][AA106D11].mkv
 incomplete/Yosuga no Sora/[UTW-Ryuumaru] Yosuga no Sora - 06 [720p][47D2E4AB].mkv
 incomplete/Yosuga no Sora/[UTW-Ryuumaru] Yosuga no Sora - 07 [720p][BFA67D3F].mkv
+incomplete/Yosuga no Sora/[UTW-Ryuumaru] Yosuga no Sora - 07 [v2 720p][10C1F212].mkv
+incomplete/Yosuga no Sora/[UTW-Ryuumaru] Yosuga no Sora - 08 [720p][55513820].mkv
 incomplete/You Are Umasou/[Animanda] You Are Umasou - 01 [7B7C6FC4].mkv
 incomplete/You Are Umasou/[Animanda] You Are Umasou - 02 [841E0CB6].mkv
 incomplete/You Are Umasou/[Animanda] You Are Umasou - 03 [80E2BE25].mkv
@@ -3654,6 +3671,10 @@ incomplete/Yumeiro Patissiere/[HorribleSubs] Yumeiro Patissiere - 47 (1280x720) 
 incomplete/Yumeiro Patissiere/[HorribleSubs] Yumeiro Patissiere - 48 (1280x720) [96C9DB6D].mkv
 incomplete/Yumeiro Patissiere/[HorribleSubs] Yumeiro Patissiere - 49 (1280x720) [73990339].mkv
 incomplete/Yumeiro Patissiere/[HorribleSubs] Yumeiro Patissiere - 50 (1280x720) [End][142521CB].mkv
+incomplete/Yumeiro Patissiere/[HorribleSubs] Yumeiro Patissiere Professional - 04 [720p][51E5773C].mkv
+incomplete/Yumeiro Patissiere/[HorribleSubs] Yumeiro Patissiere Professional - 06 [720p][1753378B].mkv
+incomplete/Yumeiro Patissiere/[HorribleSubs] Yumeiro Patissiere Professional - 07 [720p][CCE112DA].mkv
+incomplete/Yumeiro Patissiere/[HorribleSubs] Yumeiro Patissiere Professional - 08 [720p][8471C61F].mkv
 incomplete/Yumeiro Patissiere/[SMS] Yumeiro Patissiere - 01 [8EA96FA1].mkv
 incomplete/Yumeiro Patissiere/[SMS] Yumeiro Patissiere - 02 [CB2036F8].mkv
 incomplete/Yumeiro Patissiere/[SMS] Yumeiro Patissiere - 03 [D4883B20].mkv

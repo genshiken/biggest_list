@@ -1412,6 +1412,19 @@ complete/b/Buzzer Beater (2007)/[Saizen] Buzzer Beater (2007) - 10 [F932EC67].mk
 complete/b/Buzzer Beater (2007)/[Saizen] Buzzer Beater (2007) - 11 [CFFB3293].mkv
 complete/b/Buzzer Beater (2007)/[Saizen] Buzzer Beater (2007) - 12 [21ED4659].mkv
 complete/b/Buzzer Beater (2007)/[Saizen] Buzzer Beater (2007) - 13 [End][4371EC78].mkv
+complete/b/Buzzer Beater/[Saizen] Buzzer Beater - 01 [D1A651C5].avi
+complete/b/Buzzer Beater/[Saizen] Buzzer Beater - 02 [6A03AB0A].avi
+complete/b/Buzzer Beater/[Saizen] Buzzer Beater - 03 [41812FDE].avi
+complete/b/Buzzer Beater/[Saizen] Buzzer Beater - 04 [B85AAD4A].avi
+complete/b/Buzzer Beater/[Saizen] Buzzer Beater - 05 [DB6025F1].avi
+complete/b/Buzzer Beater/[Saizen] Buzzer Beater - 06 [9AB418FA].avi
+complete/b/Buzzer Beater/[Saizen] Buzzer Beater - 07 [85FAE28B].avi
+complete/b/Buzzer Beater/[Saizen] Buzzer Beater - 08 [125529AC].avi
+complete/b/Buzzer Beater/[Saizen] Buzzer Beater - 09 [B1C77647].avi
+complete/b/Buzzer Beater/[Saizen] Buzzer Beater - 10 [2ED924C3].avi
+complete/b/Buzzer Beater/[Saizen] Buzzer Beater - 11 [4035B20A].avi
+complete/b/Buzzer Beater/[Saizen] Buzzer Beater - 12 [07C83FBF].avi
+complete/b/Buzzer Beater/[Saizen] Buzzer Beater - 13 [End][DE3BA727].avi
 complete/c/Canaan/[Coalgirls] Canaan - 01 (1280x720) [BD][82F5E274].mkv
 complete/c/Canaan/[Coalgirls] Canaan - 02 (1280x720) [BD][9B1C8487].mkv
 complete/c/Canaan/[Coalgirls] Canaan - 03 (1280x720) [BD][075050D8].mkv
@@ -1459,6 +1472,58 @@ complete/c/Canvas 2/[Lunar] Canvas 2 - 21 [368CFBD9].avi
 complete/c/Canvas 2/[Lunar] Canvas 2 - 22 [60090973].avi
 complete/c/Canvas 2/[Lunar] Canvas 2 - 23 [6AB4A47B].avi
 complete/c/Canvas 2/[Lunar] Canvas 2 - 24 [End][AAE1F75C].avi
+complete/c/Capeta/[A-E Saizen] Capeta - 37 [DVD][29363F3C].mkv
+complete/c/Capeta/[A-E Saizen] Capeta - 38 [DVD][27F1446E].mkv
+complete/c/Capeta/[A-E Saizen] Capeta - 39 [DVD][C1FDB3CB].mkv
+complete/c/Capeta/[A-E Saizen] Capeta - 40 [DVD][7B52427B].mkv
+complete/c/Capeta/[A-E Saizen] Capeta - 41 [DVD][2C0C0D94].mkv
+complete/c/Capeta/[A-E Saizen] Capeta - 42 [DVD][178CFD76].mkv
+complete/c/Capeta/[A-E Saizen] Capeta - 43 [DVD][CE393DB9].mkv
+complete/c/Capeta/[A-E Saizen] Capeta - 44 [DVD][66E29E4D].mkv
+complete/c/Capeta/[A-E Saizen] Capeta - 45 [DVD][5415864D].mkv
+complete/c/Capeta/[A-E Saizen] Capeta - 46 [DVD][D44448F2].mkv
+complete/c/Capeta/[A-E Saizen] Capeta - 47 [DVD][AE7071B1].mkv
+complete/c/Capeta/[A-E Saizen] Capeta - 48 [DVD][7E821678].mkv
+complete/c/Capeta/[A-E Saizen] Capeta - 49 [DVD][26AD242C].mkv
+complete/c/Capeta/[A-E Saizen] Capeta - 50 [DVD][C419C09A].mkv
+complete/c/Capeta/[A-E Saizen] Capeta - 51 [DVD][3801057D].mkv
+complete/c/Capeta/[A-E Saizen] Capeta - 52 [End][DVD][EC0AD320].mkv
+complete/c/Capeta/[A-E] Capeta - 01 [7AFBCA50].avi
+complete/c/Capeta/[A-E] Capeta - 02 [C36CF1FA].avi
+complete/c/Capeta/[A-E] Capeta - 03 [BF4A2892].avi
+complete/c/Capeta/[A-E] Capeta - 04 [CDD538AD].avi
+complete/c/Capeta/[A-E] Capeta - 05 [5B815129].avi
+complete/c/Capeta/[A-E] Capeta - 06 [8D6775F3].avi
+complete/c/Capeta/[A-E] Capeta - 07 [FE2847E0].avi
+complete/c/Capeta/[A-E] Capeta - 08 [70C3FB8F].avi
+complete/c/Capeta/[A-E] Capeta - 09 [E60F7DCD].avi
+complete/c/Capeta/[A-E] Capeta - 10 [97B151B3].avi
+complete/c/Capeta/[A-E] Capeta - 11 [01DEC8C5].avi
+complete/c/Capeta/[A-E] Capeta - 12 [C9741921].avi
+complete/c/Capeta/[A-E] Capeta - 13 [DA27575A].avi
+complete/c/Capeta/[A-E] Capeta - 14 [17910FE4].avi
+complete/c/Capeta/[A-E] Capeta - 15 [726D9E75].avi
+complete/c/Capeta/[A-E] Capeta - 16 [10759029].avi
+complete/c/Capeta/[A-E] Capeta - 17 [697ED8A0].avi
+complete/c/Capeta/[A-E] Capeta - 18 [541CDA71].avi
+complete/c/Capeta/[A-E] Capeta - 19 [2D18346F].avi
+complete/c/Capeta/[A-E] Capeta - 20 [72EC175E].avi
+complete/c/Capeta/[A-E] Capeta - 21 [63CD7333].avi
+complete/c/Capeta/[A-E] Capeta - 22 [7792D524].avi
+complete/c/Capeta/[A-E] Capeta - 23 [F9DAB481].avi
+complete/c/Capeta/[A-E] Capeta - 24 [9AC933E2].avi
+complete/c/Capeta/[A-E] Capeta - 25 [A0EA9895].avi
+complete/c/Capeta/[A-E] Capeta - 26 [EBB25072].avi
+complete/c/Capeta/[A-E] Capeta - 27 [B35F0027].avi
+complete/c/Capeta/[A-E] Capeta - 28 [B6E2F85D].avi
+complete/c/Capeta/[A-E] Capeta - 29 [DEDE6CF9].avi
+complete/c/Capeta/[A-E] Capeta - 30 [13380E3C].avi
+complete/c/Capeta/[A-E] Capeta - 31 [8EB01CCB].avi
+complete/c/Capeta/[A-E] Capeta - 32 [31B5A780].avi
+complete/c/Capeta/[A-E] Capeta - 33 [5A2C8356].avi
+complete/c/Capeta/[A-E] Capeta - 34 [92CCA111].avi
+complete/c/Capeta/[A-E] Capeta - 35 [CA76F28C].avi
+complete/c/Capeta/[A-E] Capeta - 36 [D10413AB].avi
 complete/c/Casshern SINS/[Shinsen-Subs] Casshern SINS - 01 (1280x720) [E0504FDE].mkv
 complete/c/Casshern SINS/[Shinsen-Subs] Casshern SINS - 02 (1280x720) [CA3AC570].mkv
 complete/c/Casshern SINS/[Shinsen-Subs] Casshern SINS - 03 (1280x720) [2D1652EC].mkv
@@ -5659,6 +5724,32 @@ complete/i/Inukami/[Mendoi] Inukami - 10 [89B7ED24].avi
 complete/i/Inukami/[Mendoi] Inukami - 11 [83964F1B].avi
 complete/i/Inukami/[Mendoi] Inukami - 12 [D281FE8C].avi
 complete/i/Inukami/[Mendoi] Inukami - 13 [E35C90D9].avi
+complete/i/Inuyasha Kanketsu-hen/[Taka] Inuyasha Kanketsu-hen - 01 [720p][21856FE2].mp4
+complete/i/Inuyasha Kanketsu-hen/[Taka] Inuyasha Kanketsu-hen - 02 [720p][BE28F936].mp4
+complete/i/Inuyasha Kanketsu-hen/[Taka] Inuyasha Kanketsu-hen - 03 [720p][4701C36C].mp4
+complete/i/Inuyasha Kanketsu-hen/[Taka] Inuyasha Kanketsu-hen - 04 [720p][0C509BFF].mp4
+complete/i/Inuyasha Kanketsu-hen/[Taka] Inuyasha Kanketsu-hen - 05 [720p][7C13F188].mp4
+complete/i/Inuyasha Kanketsu-hen/[Taka] Inuyasha Kanketsu-hen - 06 [720p][EB6BDC08].mp4
+complete/i/Inuyasha Kanketsu-hen/[Taka] Inuyasha Kanketsu-hen - 07 [720p][D8C86991].mp4
+complete/i/Inuyasha Kanketsu-hen/[Taka] Inuyasha Kanketsu-hen - 08 [720p][2DD87B5F].mp4
+complete/i/Inuyasha Kanketsu-hen/[Taka] Inuyasha Kanketsu-hen - 09 [720p][216936BE].mp4
+complete/i/Inuyasha Kanketsu-hen/[Taka] Inuyasha Kanketsu-hen - 10 [720p][1A755DCC].mp4
+complete/i/Inuyasha Kanketsu-hen/[Taka] Inuyasha Kanketsu-hen - 11 [720p][5458E6A8].mp4
+complete/i/Inuyasha Kanketsu-hen/[Taka] Inuyasha Kanketsu-hen - 12 [720p][A3616F3B].mp4
+complete/i/Inuyasha Kanketsu-hen/[Taka] Inuyasha Kanketsu-hen - 13 [720p][6DE2A7D1].mp4
+complete/i/Inuyasha Kanketsu-hen/[Taka] Inuyasha Kanketsu-hen - 14 [720p][605B1DF7].mp4
+complete/i/Inuyasha Kanketsu-hen/[Taka] Inuyasha Kanketsu-hen - 15 [720p][FD8EB291].mp4
+complete/i/Inuyasha Kanketsu-hen/[Taka] Inuyasha Kanketsu-hen - 16 [720p][E2DC24C7].mp4
+complete/i/Inuyasha Kanketsu-hen/[Taka] Inuyasha Kanketsu-hen - 17 [720p][E448032E].mp4
+complete/i/Inuyasha Kanketsu-hen/[Taka] Inuyasha Kanketsu-hen - 18 [720p][2E49372B].mp4
+complete/i/Inuyasha Kanketsu-hen/[Taka] Inuyasha Kanketsu-hen - 19 [720p][031EB31D].mp4
+complete/i/Inuyasha Kanketsu-hen/[Taka] Inuyasha Kanketsu-hen - 20 [720p][155E5048].mp4
+complete/i/Inuyasha Kanketsu-hen/[Taka] Inuyasha Kanketsu-hen - 21 [720p][70044181].mp4
+complete/i/Inuyasha Kanketsu-hen/[Taka] Inuyasha Kanketsu-hen - 22 [720p][9F399832].mp4
+complete/i/Inuyasha Kanketsu-hen/[Taka] Inuyasha Kanketsu-hen - 23 [720p][3C2AF83A].mp4
+complete/i/Inuyasha Kanketsu-hen/[Taka] Inuyasha Kanketsu-hen - 24 [720p][8C809011].mp4
+complete/i/Inuyasha Kanketsu-hen/[Taka] Inuyasha Kanketsu-hen - 25 [720p][2E0B1F96].mp4
+complete/i/Inuyasha Kanketsu-hen/[Taka] Inuyasha Kanketsu-hen - 26 [End][720p][3CD39826].mp4
 complete/i/Iriya no Sora UFO no Natsu/[Ayu] Iriya no Sora UFO no Natsu - 1 [00CD82D6].avi
 complete/i/Iriya no Sora UFO no Natsu/[Ayu] Iriya no Sora UFO no Natsu - 2 [319A3440].avi
 complete/i/Iriya no Sora UFO no Natsu/[Ayu] Iriya no Sora UFO no Natsu - 3 [79086585].avi
@@ -9030,8 +9121,6 @@ complete/o/Ojamajo Doremi/[NDK] Ojamajo Doremi - 48 [4964A841].avi
 complete/o/Ojamajo Doremi/[NDK] Ojamajo Doremi - 49 [4A130825].avi
 complete/o/Ojamajo Doremi/[NDK] Ojamajo Doremi - 50 [BB5C77D4].avi
 complete/o/Ojamajo Doremi/[NDK] Ojamajo Doremi - 51 [End][D90BD3E2].avi
-complete/o/Omamori Himari/[Commie] Omamori Himari - 09 [ACB7745D].mkv
-complete/o/Omamori Himari/[Commie] Omamori Himari - 10 [FA5503C7].mkv
 complete/o/Omamori Himari/[Commie] Omamori Himari - 11 [252B214C].mkv
 complete/o/Omamori Himari/[Commie] Omamori Himari - 12 [End][C8206EDA].mkv
 complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - 01 [DVD][5A47B581].mkv
@@ -9042,17 +9131,23 @@ complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - 05 [DVD][D0ED8432].mkv
 complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - 06 [DVD][9DD5D13F].mkv
 complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - 07 [DVD][F1E446E2].mkv
 complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - 08 [DVD][F13338AA].mkv
+complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - 09 [DVD][90344903].mkv
+complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - 10 [DVD][DA266EDC].mkv
+complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - Ending 1 [DVD][8BEB387D].mkv
 complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - Ending 2 (Clean) [DVD][14C25036].mkv
 complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - Ending 3 (Clean) [DVD][597D8CE5].mkv
-complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - Ending [DVD][8BEB387D].mkv
-complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - Opening (Clean) [DVD][0DDF0583].mkv
-complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - Opening 2 (Clean) [DVD][07D12A9F].mkv
-complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - Opening 3 (Clean) [DVD][389E00CC].mkv
-complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - Opening 4 (Clean) [DVD][273A9F01].mkv
-complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - Opening 5 (Clean) [DVD][F282AF14].mkv
-complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - Opening 6 (Clean) [DVD][EB3B181A].mkv
-complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - Opening 7 (Clean) [DVD][16F39D0D].mkv
-complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - Opening 8 (Clean) [DVD][EA044CB6].mkv
+complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - Ending 4 (Clean) [DVD][AECE95FE].mkv
+complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - Ending 5 (Clean) [DVD][4364AA15].mkv
+complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - Opening 01 (Clean) [DVD][0DDF0583].mkv
+complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - Opening 02 (Clean) [DVD][07D12A9F].mkv
+complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - Opening 03 (Clean) [DVD][389E00CC].mkv
+complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - Opening 04 (Clean) [DVD][273A9F01].mkv
+complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - Opening 05 (Clean) [DVD][F282AF14].mkv
+complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - Opening 06 (Clean) [DVD][EB3B181A].mkv
+complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - Opening 07 (Clean) [DVD][16F39D0D].mkv
+complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - Opening 08 (Clean) [DVD][EA044CB6].mkv
+complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - Opening 09 (Clean) [DVD][D73B5E36].mkv
+complete/o/Omamori Himari/[Ryuumaru] Omamori Himari - Opening 10 (Clean) [DVD][8A417D2F].mkv
 complete/o/Onegai Teacher OVA/[niizk] Onegai Teacher OVA [9CCA1888].mkv
 complete/o/Onegai Teacher/[niizk] Onegai Teacher - 01 [16A2AD4B].mkv
 complete/o/Onegai Teacher/[niizk] Onegai Teacher - 02 [269E6384].mkv
@@ -11110,8 +11205,8 @@ complete/s/Shounen Onmyouji/[Yoroshiku] Shounen Onmyouji - 24 [DE2F13B3].mp4
 complete/s/Shounen Onmyouji/[Yoroshiku] Shounen Onmyouji - 25 [DVD][9AE4A0AD].mp4
 complete/s/Shounen Onmyouji/[Yoroshiku] Shounen Onmyouji - 26 [End][DVD][16556B76].mp4
 complete/s/Shuffle! Memories OVA/[SHiN-gx] Shuffle! Memories OVA [DVD][64DC5CDB].mkv
-complete/s/Shuffle! Memories/[Ayako] Shuffle! Memories - 01 (1280x720) [DVD][0F036849].mkv
-complete/s/Shuffle! Memories/[Ayako] Shuffle! Memories - 02 (1280x720) [DVD][ABD08C95].mkv
+complete/s/Shuffle! Memories/[Ayako] Shuffle! Memories - 01 [720p DVD][0F036849].mkv
+complete/s/Shuffle! Memories/[Ayako] Shuffle! Memories - 02 [720p DVD][ABD08C95].mkv
 complete/s/Shuffle! Memories/[Ayako] Shuffle! Memories - 03 [318F452E].mp4
 complete/s/Shuffle! Memories/[Ayako] Shuffle! Memories - 04 [29CCC851].mkv
 complete/s/Shuffle! Memories/[Ayako] Shuffle! Memories - 05 [0F766D2E].mkv
@@ -13443,6 +13538,7 @@ complete/w/Working!!/[SHiN-gx] Working!! - 05 [DVD][A7E8970F].mkv
 complete/w/Working!!/[SHiN-gx] Working!! - 06 [DVD][58897591].mkv
 complete/w/Working!!/[SHiN-gx] Working!! - 07 [DVD][8F951620].mkv
 complete/w/Working!!/[SHiN-gx] Working!! - 08 [DVD][61990CB0].mkv
+complete/w/Working!!/[SHiN-gx] Working!! - 09 [DVD][603890D0].mkv
 complete/w/World Destruction/[Osu!] World Destruction - 01 (1280x720) [84AF69E2].mkv
 complete/w/World Destruction/[Osu!] World Destruction - 02 (1280x720) [BFFE1AF9].mkv
 complete/w/World Destruction/[Osu!] World Destruction - 03 [EEEB75A8].mkv
