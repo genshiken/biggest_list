@@ -77,6 +77,7 @@
 !new/Detective Conan - 297-298v2 [DCTP][AFEE2572].avi
 !new/Detective Conan - 321 [Kienai][5F8FBC7D].mp4
 !new/Detective Conan - 409 [Kienai][C04F0F911].mp4
+!new/Detective Conan - 434 [DCTP][307F88CC].avi
 !new/Detective Conan - 595 [DCTP][720p][68E4988D].mp4
 !new/FF Unlimited/FFU01.avi
 !new/FF Unlimited/FFU02.avi
@@ -591,34 +592,11 @@
 !new/[AonE]_Galaxy_Railways_-_24_[3568E87D].avi
 !new/[AonE]_Galaxy_Railways_-_25_[10B125FF].avi
 !new/[AonE]_Galaxy_Railways_-_26_[168A3841].avi
+!new/[AonE]_Shinrei_Tantei_Yakumo_07_[B3D3F028].mkv
 !new/[BSS]_Mobile_Suit_Gundam_Unicorn_-_02_[1080p][1A74EC60].mkv
 !new/[BWS]Pocket_Monsters_Best_Wishes_010_Rival_Battle!_The_Formidable_Pururill!![H264_720P][23D94D9A].mkv
 !new/[Baaka] Tantei Opera Milky Holmes - 04 [1280x720][69D2BAC9].mkv
 !new/[Baaka] Tantei Opera Milky Holmes - 06 [1280x720][8BFBE70C].mkv
-!new/[Coalgirls]_Cardcaptor_Sakura_47_(960x720_Blu-Ray_FLAC)_[9098D80D].mkv
-!new/[Coalgirls]_Cardcaptor_Sakura_48_(960x720_Blu-Ray_FLAC)_[8555B006].mkv
-!new/[Coalgirls]_Cardcaptor_Sakura_49_(960x720_Blu-Ray_FLAC)_[FF38562B].mkv
-!new/[Coalgirls]_Cardcaptor_Sakura_50_(960x720_Blu-Ray_FLAC)_[F5A4A7DF].mkv
-!new/[Coalgirls]_Cardcaptor_Sakura_51_(960x720_Blu-Ray_FLAC)_[F1F950F9].mkv
-!new/[Coalgirls]_Cardcaptor_Sakura_52_(960x720_Blu-Ray_FLAC)_[760791AE].mkv
-!new/[Coalgirls]_Cardcaptor_Sakura_53_(960x720_Blu-Ray_FLAC)_[54405F23].mkv
-!new/[Coalgirls]_Cardcaptor_Sakura_54_(960x720_Blu-Ray_FLAC)_[86991C65].mkv
-!new/[Coalgirls]_Cardcaptor_Sakura_55_(960x720_Blu-Ray_FLAC)_[D7EB1C9B].mkv
-!new/[Coalgirls]_Cardcaptor_Sakura_56_(960x720_Blu-Ray_FLAC)_[4CD33293].mkv
-!new/[Coalgirls]_Cardcaptor_Sakura_57_(960x720_Blu-Ray_FLAC)_[4046053D].mkv
-!new/[Coalgirls]_Cardcaptor_Sakura_58_(960x720_Blu-Ray_FLAC)_[9BDFB6EA].mkv
-!new/[Coalgirls]_Cardcaptor_Sakura_59_(960x720_Blu-Ray_FLAC)_[CC67EECC].mkv
-!new/[Coalgirls]_Cardcaptor_Sakura_60_(960x720_Blu-Ray_FLAC)_[B7847DE8].mkv
-!new/[Coalgirls]_Cardcaptor_Sakura_61_(960x720_Blu-Ray_FLAC)_[8AB7C078].mkv
-!new/[Coalgirls]_Cardcaptor_Sakura_62_(960x720_Blu-Ray_FLAC)_[A8BC7EE0].mkv
-!new/[Coalgirls]_Cardcaptor_Sakura_63_(960x720_Blu-Ray_FLAC)_[8E280D26].mkv
-!new/[Coalgirls]_Cardcaptor_Sakura_64_(960x720_Blu-Ray_FLAC)_[C94AD300].mkv
-!new/[Coalgirls]_Cardcaptor_Sakura_65_(960x720_Blu-Ray_FLAC)_[A53D1916].mkv
-!new/[Coalgirls]_Cardcaptor_Sakura_66_(960x720_Blu-Ray_FLAC)_[5F23EE87].mkv
-!new/[Coalgirls]_Cardcaptor_Sakura_67_(960x720_Blu-Ray_FLAC)_[58620343].mkv
-!new/[Coalgirls]_Cardcaptor_Sakura_68_(960x720_Blu-Ray_FLAC)_[5F5B21F1].mkv
-!new/[Coalgirls]_Cardcaptor_Sakura_69_(960x720_Blu-Ray_FLAC)_[9DC4A4FC].mkv
-!new/[Coalgirls]_Cardcaptor_Sakura_70_(960x720_Blu-Ray_FLAC)_[7DAD7227].mkv
 !new/[Coalgirls]_Macross_Frontier_-_The_False_Diva_(1920x1080_Blu-ray_FLAC)_[80384B74]_Remux.mkv
 !new/[Commie-Yanks] Natsu no Arashi! ~Akinaichuu~ (Summer Storm! ~Open for Business~) - 12 [DVD 480p AC3] [363FD780].mkv
 !new/[Commie] Air Gear・ Black Wings and Sleeping Forest -Break on the Sky- [DVD 480p AAC] [EE062B76].mkv
@@ -626,6 +604,7 @@
 !new/[Commie] Asobi ni Ikuyo! - 02 [BD 1080p AAC] [BA99E984].mkv
 !new/[Commie] Motto To Love-ru - 08 [15AE99BF].mkv
 !new/[Commie] Sengoku BASARA Two - 08 [743B3191].mkv
+!new/[Commie] The Legend of the Legendary Heroes - 21 [319AAB14].mkv
 !new/[Corona]_Heroman_-_EX-1_(H264_1280x720)[62943C35].mkv
 !new/[CrunchySubs] Naruto Shippuuden - 186 [720p].mkv
 !new/[CureCom] Fresh Pretty Cure! - 04 [DVD][4D454754].mkv
