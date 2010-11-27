@@ -22,8 +22,6 @@ incomplete/Akahori Gedou Hour Rabuge/[Himitsu] Akahori Gedou Hour Rabuge - 09 [3
 incomplete/Akahori Gedou Hour Rabuge/[Himitsu] Akahori Gedou Hour Rabuge - 10 [F8B514FB].avi
 incomplete/Akahori Gedou Hour Rabuge/[Himitsu] Akahori Gedou Hour Rabuge - 11 [6B2E5D80].avi
 incomplete/Amagami SS/[UTW] Amagami SS - 01 [1080p BD][511BFEEE].mkv
-incomplete/Amagami SS/[UTW] Amagami SS - 01 [v2 720p][B561EBCC].mkv
-incomplete/Amagami SS/[UTW] Amagami SS - 02 [720p][619D9FDF].mkv
 incomplete/Amagami SS/[UTW] Amagami SS - 02 [v2 1080p BD][8CB124A7].mkv
 incomplete/Amagami SS/[UTW] Amagami SS - 03 [720p][FF97E96A].mkv
 incomplete/Amagami SS/[UTW] Amagami SS - 04 [720p][AD539A08].mkv
@@ -34,6 +32,7 @@ incomplete/Amagami SS/[UTW] Amagami SS - 08 [720p][2A252B27].mkv
 incomplete/Amagami SS/[UTW] Amagami SS - 09 [720p][744BDCCB].mkv
 incomplete/Amagami SS/[UTW] Amagami SS - 10 [720p][4692753B].mkv
 incomplete/Amagami SS/[UTW] Amagami SS - 11 [720p][08500434].mkv
+incomplete/Amagami SS/[UTW] Amagami SS - 12 [720p][6ED7962D].mkv
 incomplete/Amagami SS/[UTW] Amagami SS - 13 [720p][F2431D22].mkv
 incomplete/Amagami SS/[UTW] Amagami SS - 14 [720p][900255E1].mkv
 incomplete/Amagami SS/[UTW] Amagami SS - 15 [720p][25CA12DA].mkv
@@ -813,6 +812,7 @@ incomplete/Fireball/[DATS] Fireball - 10 [DVD][035912E4].mkv
 incomplete/Fireball/[DATS] Fireball - 11 [DVD][74DDD03E].mkv
 incomplete/Fireball/[DATS] Fireball - 12 [DVD][7B4F27B4].mkv
 incomplete/Fireball/[DATS] Fireball - 13 [DVD][44ECEABB].mkv
+incomplete/Fortune Arterial/[HorribleSubs] Fortune Arterial - 08 [720p][799E57DE].mkv
 incomplete/Fortune Arterial/[SS] Fortune Arterial - 01 [B9350090].mkv
 incomplete/Fortune Arterial/[SS] Fortune Arterial - 02 [855C3F17].mkv
 incomplete/Fortune Arterial/[SS] Fortune Arterial - 03 [68310B3B].mkv
@@ -2151,6 +2151,7 @@ incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 182 [720p][66BD1
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 183 [v2 720p][2DEE2CF8].mkv
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 184 [720p][3E32D754].mkv
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 185 [720p][790F1070].mkv
+incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 186 [720p][4EA493EC].mkv
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 187 [720p][A53A48B2].mkv
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 188 [720p][32D45AB5].mkv
 incomplete/Naruto/[AonE] Naruto - 158 [336D6158].avi
@@ -2760,6 +2761,7 @@ incomplete/Ore no Imouto/[Mazui] Ore no Imouto - 04 [73464065].mkv
 incomplete/Ore no Imouto/[Mazui] Ore no Imouto - 05 [v2][6D25FA8E].mkv
 incomplete/Ore no Imouto/[Mazui] Ore no Imouto - 06 [C72BA58E].mkv
 incomplete/Ore no Imouto/[Mazui] Ore no Imouto - 07 [v2][EC352B41].mkv
+incomplete/Ore no Imouto/[Mazui] Ore no Imouto - 08 [9C2AB414].mkv
 incomplete/Ore no Imouto/[SS] Ore no Imouto - 01 [03E7A607].mkv
 incomplete/Ore no Imouto/[SS] Ore no Imouto - 02 [3A56DDAC].mkv
 incomplete/Ore no Imouto/[SS] Ore no Imouto - 03 [F0922429].mkv
@@ -2773,6 +2775,7 @@ incomplete/Otome Youkai Zakuro/[Underwater-Ryuumaru] Otome Youkai Zakuro - 05 [7
 incomplete/Otome Youkai Zakuro/[Underwater-Ryuumaru] Otome Youkai Zakuro - 06 [720p][94E8E539].mkv
 incomplete/Otome Youkai Zakuro/[Underwater-Ryuumaru] Otome Youkai Zakuro - 07 [720p][C2913585].mkv
 incomplete/Otome Youkai Zakuro/[Underwater-Ryuumaru] Otome Youkai Zakuro - 08 [720p][CFDF56D3].mkv
+incomplete/Panty & Stocking with Garterbelt/[HorribleSubs] Panty & Stocking with Garterbelt - 09 [720p][3E877200].mkv
 incomplete/Panty & Stocking with Garterbelt/[Underwater] Panty & Stocking with Garterbelt - 01 [B0D1F9CF].mkv
 incomplete/Panty & Stocking with Garterbelt/[Underwater] Panty & Stocking with Garterbelt - 02 [5083A74A].mkv
 incomplete/Panty & Stocking with Garterbelt/[Underwater] Panty & Stocking with Garterbelt - 03 [5D37F9BB].mkv
@@ -3221,6 +3224,7 @@ incomplete/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 05
 incomplete/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 06 [720p][A3AA4829].mkv
 incomplete/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 07 [720p][C1AAB757].mkv
 incomplete/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 08 [720p][37FBA45C].mkv
+incomplete/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 09 [720p][7F3CF8CD].mkv
 incomplete/Sora no Otoshimono Forte/[Nekomimi] Sora no Otoshimono Forte - 01 [9E3895B3].mkv
 incomplete/Sora no Otoshimono Forte/[Nekomimi] Sora no Otoshimono Forte - 02 [FAED2A09].mkv
 incomplete/Sora no Otoshimono Forte/[Nekomimi] Sora no Otoshimono Forte - 03 [6F1588AC].mkv

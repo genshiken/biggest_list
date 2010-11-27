@@ -78,10 +78,50 @@
 !new/Detective Conan - 321 [Kienai][5F8FBC7D].mp4
 !new/Detective Conan - 409 [Kienai][C04F0F911].mp4
 !new/Detective Conan - 595 [DCTP][720p][68E4988D].mp4
+!new/FF Unlimited/FFU01.avi
+!new/FF Unlimited/FFU02.avi
+!new/FF Unlimited/FFU03.avi
+!new/FF Unlimited/FFU04.avi
+!new/FF Unlimited/FFU05.avi
+!new/FF Unlimited/FFU06.avi
+!new/FF Unlimited/FFU07.avi
+!new/FF Unlimited/FFU08.avi
+!new/FF Unlimited/FFU09.avi
+!new/FF Unlimited/FFU10.avi
+!new/FF Unlimited/FFU11.avi
+!new/FF Unlimited/FFU12.avi
+!new/FF Unlimited/FFU13.avi
+!new/FF Unlimited/FFU14.avi
+!new/FF Unlimited/FFU15.avi
+!new/FF Unlimited/FFU16.avi
+!new/FF Unlimited/FFU17.avi
+!new/FF Unlimited/FFU18.avi
+!new/FF Unlimited/FFU19.avi
+!new/FF Unlimited/FFU20.avi
+!new/FF Unlimited/FFU21.avi
+!new/FF Unlimited/FFU22.avi
+!new/FF Unlimited/FFU23.avi
+!new/FF Unlimited/FFU24.avi
+!new/FF Unlimited/FFU25.avi
 !new/Kamen_Rider_X_Kamen_Rider_-_W_&_Decade_-_Movie_Taisen_2010_Director's_Cut_[W-Time][DD583D13].mkv
 !new/Macross_Frontier_The_False_Songstress_[1080p,BluRay,x264]_-_THORA.md5
 !new/Macross_Frontier_The_False_Songstress_[1080p,BluRay,x264]_-_THORA.mkv
 !new/Macross_Frontier_The_False_Songstress_[1080p,BluRay,x264]_-_THORA.nfo
+!new/Moetan/Thumbs.db
+!new/Moetan/[Lolidan]_Moetan_-_01_[E8076279].mkv
+!new/Moetan/[Lolidan]_Moetan_-_02_[69BA11C4].mkv
+!new/Moetan/[Lolidan]_Moetan_-_03_[049EF58C].mkv
+!new/Moetan/[Lolidan]_Moetan_-_04_[33593215].mkv
+!new/Moetan/[Lolidan]_Moetan_-_05_[A8187149].mkv
+!new/Moetan/[Lolidan]_Moetan_-_07_[5BA99C25].mkv
+!new/Moetan/[mbt]_Moetan_-_06_[DVD_h264_AAC][8CBCF190].mkv
+!new/Moetan/[mbt]_Moetan_-_08_[DVD_h264_AAC][9665C7BA].mkv
+!new/Moetan/[mbt]_Moetan_-_09_[DVD_h264_AAC][1A054E7A].mkv
+!new/Moetan/[mbt]_Moetan_-_10_[DVD_h264_AAC][2B170DDB].mkv
+!new/Moetan/[mbt]_Moetan_-_11_[DVD_h264_AAC][EC460F16].mkv
+!new/Moetan/[mbt]_Moetan_-_12_[DVD_h264_AAC][6CB8D4B2].mkv
+!new/Moetan/[mbt]_Moetan_-_13_[DVD_h264_AAC][88616209].mkv
+!new/Moetan/[mbt]_Moetan_-_5.5_[DVD_h264_AAC][7F48513A].mkv
 !new/NANA/[IY-F&Oki] NANA - 21.5 [E0EBFBDD].mkv
 !new/NANA/[IY-F&Oki] NANA - 22 [B29D6430].mkv
 !new/NANA/[IY-F&Oki] NANA - 23 [9BB2F6A9].mkv
@@ -579,11 +619,13 @@
 !new/[Doremi].HeartCatch.PreCure!.40.[1280x720].[E6F5E637].mkv
 !new/[Doremi].Motto.Ojamajo.Doremi.36.[68676536].avi
 !new/[Eclipse] Toaru Majutsu no Index-tan - 01 (h264) [DEA5FE85].mkv
-!new/[FFFpeeps] Shinryaku! Ika Musume 07 [720p][630201F3].mkv
 !new/[Force-Works] Iron Man - 08 [D9F96EDE].mkv
 !new/[Formula]_Armored_Trooper_Votoms_-_Phantom_Arc_-_04_[720p_H.264_AAC][CB04BA57].mkv
 !new/[KAA]_Love_Hina_Spring_Movie.DVD[866F2857].avi
 !new/[Kira-Fansub] Seikon no Qwaser Episode  10.5 (OVA) (DVD 1280x720 x264 AAC) [AB20655F].mkv
+!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 03 [1280x720 H264 OGG] [ECFF389B].mkv
+!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 04 [1280x720 H264 OGG] [F8B22D8A].mkv
+!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 06 [1280x720 H264 OGG] [C152426A].mkv
 !new/[KiteSeekers-imuR88] Quiz Magic Academy OVA 2 [DVD H264 720x480] [7879F1EC].mkv
 !new/[KiteSeekers] Prism Magical - PRISM Generations! OVA [DVD H264 720x480] [FB62E47B].mkv
 !new/[Kokuhaku] Tsukiyo no Fromage ch08 v1.1.rar
@@ -611,7 +653,6 @@
 !new/[L-E&AonE]_Galaxy_Railways_Ep_20_[3A791B7B].avi
 !new/[L-E_AonE]_Galaxy_Railways_01-26.sfv
 !new/[Live-eviL]_Future_Boy_Conan_Ep_20_[h264&MP3]_[164b5730].mp4
-!new/[Mazui]_Ore_No_Imouto_-_08_[9C2AB414].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -635,9 +676,7 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
-!new/[Over-Time]_Kamen_Rider_OOO_-_11_[50473C4C].mkv
 !new/[PHT]_Yozakura_Quartet_OAD_1_[h264][FF06D8EF].mkv
-!new/[Ritsuka][101103] To Aru Majutsu no Index II OP Single - No buts! [Kawada Mami] (FLAC).rar
 !new/[Shin-S] Soredemo Machi wa Mawatteiru ED Single - Maids Sanjou! [Maids] v2.zip
 !new/[Shin-S] To Aru Majutsu no Index II ED Single - Magic world [Kurosaki Maon].zip
 !new/[Shin-S] Yosuga no Sora ED Single - Pinky Jones [Momoiro Clover].zip
@@ -984,12 +1023,15 @@
 !new/bla/zx.black.heaven.13.sub.rar
 !new/bow/[101027] TVアニメ「えむえむっ！」OP主題歌「Help！」／石動美緒（CV：竹達彩奈）.zip
 !new/bow/[101027] Togainu no Chi OP Single - ROSE HIP-BULLET [GRANRODEO] (FLAC).rar
+!new/bow/[101117] Koe de Oshigoto! ED Single - Kuchibiru Chuck [MAKO, Nagatsuma Jyuri, Shimagata Maina] (FLAC).rar
 !new/bow/[Doki] Seikon no Qwaser - Jotei no Shouzou (720x480 h264 DVD AC3) [7459F43F].mkv
 !new/bow/[EAC] [101020] TVアニメ ストライクウィッチーズ2 エンディング・テーマ・コレクション「Over Sky」(ape+cue).rar
 !new/bow/[EAC] [101027] FORTUNE ARTERIAL ～赤い約束～_I miss you／Veil (tak+iso).rar
 !new/bow/[EAC] [101027] FORTUNE ARTERIAL ～赤い約束～_絆-kizunairo-色／Lia (tak+iso).rar
 !new/bow/[EAC] [101027] TVアニメ『ヨスガノソラ』オープニング主題歌 比翼の羽根 (tta+cue rr5).rar
 !new/bow/[EAC] [101110]TVアニメ えむえむっ！ ED主題歌「More-more LOVERS!!」／麻生夏子  (tak+bmp+rr3).rar
+!new/bow/[Ritsuka][101103] To Aru Majutsu no Index II OP Single - No buts! [Kawada Mami] (FLAC).rar
+!new/bow/[Ritsuka][101117] OVA Koe de Oshigoto! OP Single - Koi no Mahou [Orange blossom] (FLAC).rar
 !new/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/lama/[Ayako] Wei� Survive R - 01 - H264 - E975A989.mkv
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
