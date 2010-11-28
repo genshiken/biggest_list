@@ -57,7 +57,11 @@
 !new/-baru87-/akb/jgn dhps/Oshima Yuko[22][AKB48] 20101110 - Kimiwa_Bokunomono.iso003
 !new/-baru87-/akb/jgn dhps/Oshima Yuko[22][AKB48] 20101110 - Kimiwa_Bokunomono.iso004
 !new/-baru87-/akb/jgn dhps/SDN48 - GAGAGA (101121 MUSIC JAPAN).mpg
+!new/-baru87-/xxq/All My Love E01 720p HDTV x264-RAiNBOW.mkv
+!new/-baru87-/xxq/All My Love E02 720p HDTV x264-RAiNBOW.mkv
+!new/-baru87-/xxq/All My Love E03 720p HDTV x264-RAiNBOW.mkv
 !new/-baru87-/xxq/All My Love E04 720p HDTV x264-RAiNBOW.mkv
+!new/-baru87-/xxq/All My Love E05 720p HDTV x264-RAiNBOW.mkv
 !new/-baru87-/xxq/Chocolate.E122.101121.720p.HDTV.x264-Ack.mkv000
 !new/-baru87-/xxq/Chocolate.E122.101121.720p.HDTV.x264-Ack.mkv001
 !new/-baru87-/xxq/DragonTV.Xia.Qiu.Zhuan.Ep01-02.720p.HDTV.x264-CHDTV.nfo
@@ -69,6 +73,12 @@
 !new/-baru87-/xxq/DragonTV.Xia.Qiu.Zhuan.Ep04.720p.HDTV.x264-CHDTV.mkv001
 !new/-baru87-/xxq/DragonTV.Xia.Qiu.Zhuan.Ep05.720p.HDTV.x264-CHDTV.mkv000
 !new/-baru87-/xxq/DragonTV.Xia.Qiu.Zhuan.Ep05.720p.HDTV.x264-CHDTV.mkv001
+!new/-baru87-/xxq/Flames.of.Desire.E09.720p.HDTV.x264-LoI.mkv000
+!new/-baru87-/xxq/Flames.of.Desire.E09.720p.HDTV.x264-LoI.mkv001
+!new/-baru87-/xxq/Flames.of.Desire.E10.720p.HDTV.x264-LoI.mkv000
+!new/-baru87-/xxq/Flames.of.Desire.E10.720p.HDTV.x264-LoI.mkv001
+!new/-baru87-/xxq/Flames.of.Desire.E11.720p.HDTV.x264-LoI.mkv000
+!new/-baru87-/xxq/Flames.of.Desire.E11.720p.HDTV.x264-LoI.mkv001
 !new/-baru87-/xxq/Gun.Metal.Grey.Ep15.720p.HDTV.x264-CHDTV.chs.srt
 !new/-baru87-/xxq/Gun.Metal.Grey.Ep15.720p.HDTV.x264-CHDTV.mkv000
 !new/-baru87-/xxq/Gun.Metal.Grey.Ep15.720p.HDTV.x264-CHDTV.mkv001
@@ -99,6 +109,12 @@
 !new/-baru87-/xxq/My.Happy.Home.E03.720p.HDTV.x264-TRiNiTY.mkv001
 !new/-baru87-/xxq/My.Happy.Home.E04.720p.HDTV.x264-TRiNiTY.mkv000
 !new/-baru87-/xxq/My.Happy.Home.E04.720p.HDTV.x264-TRiNiTY.mkv001
+!new/-baru87-/xxq/My.Happy.Home.E05.720p.HDTV.x264-TRiNiTY.mkv000
+!new/-baru87-/xxq/My.Happy.Home.E05.720p.HDTV.x264-TRiNiTY.mkv001
+!new/-baru87-/xxq/My.Happy.Home.E06.720p.HDTV.x264-TRiNiTY.mkv000
+!new/-baru87-/xxq/My.Happy.Home.E06.720p.HDTV.x264-TRiNiTY.mkv001
+!new/-baru87-/xxq/My.Happy.Home.E07.720p.HDTV.x264-TRiNiTY.mkv000
+!new/-baru87-/xxq/My.Happy.Home.E07.720p.HDTV.x264-TRiNiTY.mkv001
 !new/-baru87-/xxq/My.Happy.Home.E08.720p.HDTV.x264-TRiNiTY.mkv000
 !new/-baru87-/xxq/My.Happy.Home.E08.720p.HDTV.x264-TRiNiTY.mkv001
 !new/-baru87-/xxq/My.Happy.Home.E08.720p.HDTV.x264-TRiNiTY.mkv002
@@ -724,6 +740,7 @@
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 03 [1280x720 H264 OGG] [ECFF389B].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 04 [1280x720 H264 OGG] [F8B22D8A].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 06 [1280x720 H264 OGG] [C152426A].mkv
+!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 08 [1280x720 H264 OGG] [F71243BB].mkv
 !new/[KiteSeekers-imuR88] Quiz Magic Academy OVA 2 [DVD H264 720x480] [7879F1EC].mkv
 !new/[KiteSeekers] Prism Magical - PRISM Generations! OVA [DVD H264 720x480] [FB62E47B].mkv
 !new/[Kokuhaku] Tsukiyo no Fromage ch08 v1.1.rar
@@ -775,6 +792,7 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
 !new/[PHT]_Yozakura_Quartet_OAD_1_[h264][FF06D8EF].mkv
+!new/[RyRo]_Inazuma_Eleven_-_108_(1280x720_x264_AAC)_[36B098A4].mkv
 !new/[SNS]Battle.Programmer.Shirase.01[A0AD52E7].mkv
 !new/[SNS]Battle.Programmer.Shirase.02[3398C544].mkv
 !new/[SNS]Battle.Programmer.Shirase.03[816015B6].mkv
