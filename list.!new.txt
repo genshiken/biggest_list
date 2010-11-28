@@ -158,6 +158,7 @@
 !new/Detective Conan - 297-298v2 [DCTP][AFEE2572].avi
 !new/Detective Conan - 321 [Kienai][5F8FBC7D].mp4
 !new/Detective Conan - 409 [Kienai][C04F0F911].mp4
+!new/Detective Conan - 410 [Kienai][67F54DB3].mp4
 !new/Detective Conan - 434 [DCTP][307F88CC].avi
 !new/Detective Conan - 595 [DCTP][720p][68E4988D].mp4
 !new/FF Unlimited/FFU01.avi
@@ -696,6 +697,8 @@
 !new/[CureCom] Yes! Pretty Cure 5 Go Go! - 07 [DVD][8CEA54AE].mkv
 !new/[DATS] Bakegyamon - 01 [B4442803].mkv
 !new/[Derp]_Legend_of_the_Legendary_Heroes_-_20_(1280x720_x264_AAC).mkv
+!new/[DmonHiro] Shin Koihime Musou - Otome Tairan 07 (Bluray, 720p, AAC) [080424D6].mkv
+!new/[DmonHiro] Shin Koihime Musou - Otome Tairan 08 (Bluray, 720p, AAC) [0E23AA38].mkv
 !new/[DmonHiro]Ookami-san To Shichinin No Nakama-tachi 01 (720p, BD) [BF90AD68].mkv
 !new/[DmonHiro]Ookami-san To Shichinin No Nakama-tachi 02 (720p, BD) [18648544].mkv
 !new/[DmonHiro]Ookami-san To Shichinin No Nakama-tachi 03 (720p, BD) [901A7595].mkv
@@ -704,16 +707,20 @@
 !new/[Doki] Mahou Shoujo Lyrical Nanoha The Movie 1st (LQ 1280x720 h264 BD AAC) [0717A3EB].mkv
 !new/[Doremi].HeartCatch.PreCure!.40.[1280x720].[E6F5E637].mkv
 !new/[Doremi].Motto.Ojamajo.Doremi.36.[68676536].avi
+!new/[EAC] [101124] TVアニメ とある魔術の禁書目録（インデックス）II ED 「Magic∞world」[DVD付初回限定盤]／黒崎真音 (ape+cue+ISO　PD輸入).7z
 !new/[Eclipse] Toaru Majutsu no Index-tan - 01 (h264) [DEA5FE85].mkv
 !new/[Force-Works] Iron Man - 08 [D9F96EDE].mkv
 !new/[Formula]_Armored_Trooper_Votoms_-_Phantom_Arc_-_04_[720p_H.264_AAC][CB04BA57].mkv
 !new/[HorribleSubs] Lilpri - 32 [720p].mkv
+!new/[HorribleSubs] Lilpri - 35 [720p].mkv
 !new/[HorribleSubs] Shinryaku! Ika Musume - 08 [720p].mkv
 !new/[HorribleSubs] Tegami Bachi REVERSE - 34 [720p].mkv
 !new/[HorribleSubs] Yumeiro Patissiere Professional - 09 [720p].mkv
 !new/[KAA]_Love_Hina_Spring_Movie.DVD[866F2857].avi
 !new/[Kira-Fansub] Hyakka Ryouran Samurai Girls The Picture Scroll Edition 01v0 (BD 1920x1080 h264 AAC)  [62DC513E].mkv
 !new/[Kira-Fansub] Seikon no Qwaser Episode  10.5 (OVA) (DVD 1280x720 x264 AAC) [AB20655F].mkv
+!new/[Kira-Fansub] Shukufuku no Campanella (Issho ni Bath Time - Chelsea  version - 2D ver) (BD 1920x1080 h264 AAC) [FF5BFE01].mkv
+!new/[Kira-Fansub] Shukufuku no Campanella (Issho ni Bath Time - Chelsea  version - 3D ver) (BD 1920x1080 h264 AAC) [5B162F33].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 03 [1280x720 H264 OGG] [ECFF389B].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 04 [1280x720 H264 OGG] [F8B22D8A].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 06 [1280x720 H264 OGG] [C152426A].mkv
@@ -768,6 +775,15 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
 !new/[PHT]_Yozakura_Quartet_OAD_1_[h264][FF06D8EF].mkv
+!new/[SNS]Battle.Programmer.Shirase.01[A0AD52E7].mkv
+!new/[SNS]Battle.Programmer.Shirase.02[3398C544].mkv
+!new/[SNS]Battle.Programmer.Shirase.03[816015B6].mkv
+!new/[SNS]Battle.Programmer.Shirase.04[4A824A5B].mkv
+!new/[SNS]Battle.Programmer.Shirase.05[4E9E9F36].mkv
+!new/[SNS]Battle.Programmer.Shirase.Ending[759E712A].mkv
+!new/[SNS]Battle.Programmer.Shirase.Opening[8CE99234].mkv
+!new/[SNS]Battle.Programmer.Shirase.TV.Previews[CB07267D].mkv
+!new/[SNS]Battle.Programmer.Shirase.TV.Promo[5D53C0AC].mkv
 !new/[Shin-S] Soredemo Machi wa Mawatteiru ED Single - Maids Sanjou! [Maids] v2.zip
 !new/[Shin-S] To Aru Majutsu no Index II ED Single - Magic world [Kurosaki Maon].zip
 !new/[Shin-S] Yosuga no Sora ED Single - Pinky Jones [Momoiro Clover].zip
@@ -1011,6 +1027,8 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_08_[720p][7D946CA2].mkv
+!new/[UTW]_B_Gata_H_Kei_-_07_[BD][h264-1080p_AC3][86D47F4A].mkv
+!new/[UTW]_B_Gata_H_Kei_-_08_[BD][h264-1080p_AC3][CDE1E34F].mkv
 !new/[Underwater] Panty & Stocking with Garterbelt - 09 [658DE295].mkv
 !new/[Yoroshiku]_Happy_Happy_Clover_-_01_[E96A9A3F].mkv
 !new/[umee]_Princess_Jellyfish_-_06_[D724282C].mkv
