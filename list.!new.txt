@@ -199,6 +199,7 @@
 !new/Detective Conan - 410 [Kienai][67F54DB3].mp4
 !new/Detective Conan - 434 [DCTP][307F88CC].avi
 !new/Detective Conan - 595 [DCTP][720p][68E4988D].mp4
+!new/Detective Conan - 596 [DCTP][720p][6EA6D9A5].mp4
 !new/FF Unlimited/FFU01.avi
 !new/FF Unlimited/FFU02.avi
 !new/FF Unlimited/FFU03.avi
@@ -727,7 +728,6 @@
 !new/[Commie] The Legend of the Legendary Heroes - 20 [6C11C962].mkv
 !new/[Commie] The Legend of the Legendary Heroes - 21 [319AAB14].mkv
 !new/[Corona]_Heroman_-_EX-1_(H264_1280x720)[62943C35].mkv
-!new/[Crescent]_Nusunde_Lilith_Drama_CD_(MP3).rar.part
 !new/[CrunchySubs] Naruto Shippuuden - 186 [720p].mkv
 !new/[CureCom] Fresh Pretty Cure! - 04 [DVD][4D454754].mkv
 !new/[CureCom] Fresh Pretty Cure! - 05 [DVD][5710610B].mkv
@@ -735,6 +735,7 @@
 !new/[CureCom] Yes! Pretty Cure 5 Go Go! - 06 [DVD][DC2C8AF8].mkv
 !new/[CureCom] Yes! Pretty Cure 5 Go Go! - 07 [DVD][8CEA54AE].mkv
 !new/[DATS] Bakegyamon - 01 [B4442803].mkv
+!new/[DB]_Ninku_18_[036511D3].avi
 !new/[Derp]_Legend_of_the_Legendary_Heroes_-_20_(1280x720_x264_AAC).mkv
 !new/[DmonHiro] Shin Koihime Musou - Otome Tairan 07 (Bluray, 720p, AAC) [080424D6].mkv
 !new/[DmonHiro] Shin Koihime Musou - Otome Tairan 08 (Bluray, 720p, AAC) [0E23AA38].mkv
@@ -745,16 +746,18 @@
 !new/[Doki] Da Capo - D.C. I & II P.S.P. OVA (1280x720 h264 BD AAC) [AF7C3381].mkv
 !new/[Doki] Mahou Shoujo Lyrical Nanoha The Movie 1st (LQ 1280x720 h264 BD AAC) [0717A3EB].mkv
 !new/[Doremi].HeartCatch.PreCure!.40.[1280x720].[E6F5E637].mkv
-!new/[Doremi].HeartCatch.PreCure!.41.[1280x720].[49640806].mkv.part
+!new/[Doremi].HeartCatch.PreCure!.41.[1280x720].[49640806].mkv
 !new/[Doremi].Motto.Ojamajo.Doremi.36.[68676536].avi
+!new/[EAC] [101110] TVアニメ そらのおとしものf（フォルテ） OP 「ハートの確率」[DVD付初回限定盤]／blue drops (ape+cue+ISO PD輸入).7z
 !new/[EAC] [101124] TVアニメ とある魔術の禁書目録（インデックス）II ED 「Magic∞world」[DVD付初回限定盤]／黒崎真音 (ape+cue+ISO　PD輸入).7z
 !new/[Eclipse] Toaru Majutsu no Index-tan - 01 (h264) [DEA5FE85].mkv
 !new/[Force-Works] Iron Man - 08 [D9F96EDE].mkv
 !new/[Formula]_Armored_Trooper_Votoms_-_Phantom_Arc_-_04_[720p_H.264_AAC][CB04BA57].mkv
-!new/[GotWoot]_Moonlight_Mile_S2_-_01_[720p_H264][9D1F7A69].mkv.part
+!new/[GotWoot]_Moonlight_Mile_S2_-_01_[720p_H264][9D1F7A69].mkv
 !new/[HorribleSubs] Lilpri - 32 [720p].mkv
 !new/[HorribleSubs] Lilpri - 35 [720p].mkv
 !new/[HorribleSubs] Shinryaku! Ika Musume - 08 [720p].mkv
+!new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 09 [720p].mkv
 !new/[HorribleSubs] Tegami Bachi REVERSE - 34 [720p].mkv
 !new/[HorribleSubs] Yumeiro Patissiere Professional - 09 [720p].mkv
 !new/[KAA]_Love_Hina_Spring_Movie.DVD[866F2857].avi
@@ -793,7 +796,15 @@
 !new/[L-E&AonE]_Galaxy_Railways_Ep_20_[3A791B7B].avi
 !new/[L-E_AonE]_Galaxy_Railways_01-26.sfv
 !new/[Live-eviL]_Future_Boy_Conan_Ep_20_[h264&MP3]_[164b5730].mp4
-!new/[Mazui]_Ore_No_Imouto_-_09_[A38AFFE2].mkv.part
+!new/[Mazui]_Ore_No_Imouto_-_09_[A38AFFE2].mkv
+!new/[Nipponsei] Mitsudomoe Character Song 6 [Various].zip
+!new/[Nipponsei] Mitsudomoe Character Song 7 - Chikubi [Saitou Momoko].zip
+!new/[Nipponsei] Motto ToLOVEru Character CD1 - Lala & Haruna [Tomatsu Haruka & Yahagi Sayuri].zip
+!new/[Nipponsei] Motto ToLOVEru Character CD2 - Mikan & Yami [Hanazawa Kana & Fukuen Misato].zip
+!new/[Nipponsei] Nurarihyon no Mago OP1 OP2 Single - Sunshine [MONKEY MAJIK].zip
+!new/[Nipponsei] Shinryaku! Ika Musume ED Single - Metamarism [Itou Kanae].zip
+!new/[Nipponsei] Soredemo Machi wa Mawatte iru! ED Single - Maids Sanjou [Maids].zip
+!new/[Nipponsei] Tantei Opera Milky Holmes ED Single - Honnou no DOUBT [Faylan].zip
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -817,7 +828,11 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
+!new/[Over-Time]_Kamen_Rider_OOO_-_12_[A24372D7].mkv
+!new/[Over-Time]_Maki_Ohguro_-_Anything_Goes!_PV_[A3D0297F].mkv
 !new/[PHT]_Yozakura_Quartet_OAD_1_[h264][FF06D8EF].mkv
+!new/[RyRo]_Digimon_Xros_Wars_-_16_(1280x720_x264_AAC)_[7AE7BA3B].mkv
+!new/[RyRo]_Digimon_Xros_Wars_-_17_(1280x720_x264_AAC)_[67B3834D].mkv
 !new/[RyRo]_Inazuma_Eleven_-_108_(1280x720_x264_AAC)_[36B098A4].mkv
 !new/[SNS]Battle.Programmer.Shirase.01[A0AD52E7].mkv
 !new/[SNS]Battle.Programmer.Shirase.02[3398C544].mkv
@@ -829,6 +844,7 @@
 !new/[SNS]Battle.Programmer.Shirase.TV.Previews[CB07267D].mkv
 !new/[SNS]Battle.Programmer.Shirase.TV.Promo[5D53C0AC].mkv
 !new/[SS]_Ore_No_Imouto_-_07_[D4121004].mkv
+!new/[Seto_Otaku]_Valkyria_Chronicles_OVA_-_07_(Buuhi)_[DVD][720x480_H264-Vorbis][7F9C7AC2].mkv
 !new/[Shin-S] Soredemo Machi wa Mawatteiru ED Single - Maids Sanjou! [Maids] v2.zip
 !new/[Shin-S] To Aru Majutsu no Index II ED Single - Magic world [Kurosaki Maon].zip
 !new/[Shin-S] Yosuga no Sora ED Single - Pinky Jones [Momoiro Clover].zip
@@ -1077,8 +1093,8 @@
 !new/[Underwater] Panty & Stocking with Garterbelt - 09 [658DE295].mkv
 !new/[Underwater] Shinryaku! Ika Musume - 08 [720p][D44B1312].mkv
 !new/[Yoroshiku]_Happy_Happy_Clover_-_01_[E96A9A3F].mkv
-!new/[umee]_Princess_Jellyfish_-_06_[D724282C].mkv
-!new/[umee]_Shiki_-_17_[7812D356].mkv
+!new/[gg]_Bakuman_-_09_[CF0612CD].mkv
+!new/[gg]_Shinrei_Tantei_Yakumo_-_09_[0AE424FD].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
