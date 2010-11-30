@@ -745,6 +745,10 @@
 !new/[DmonHiro] Koihime Musou 04 (Bluray, 720p, AAC) [E9D30100].mkv
 !new/[DmonHiro] Koihime Musou 05 (Bluray, 720p, AAC) [BC791BE0].mkv
 !new/[DmonHiro] Koihime Musou 06 (Bluray, 720p, AAC) [31A46BB4].mkv
+!new/[DmonHiro] Needless 01v2 (BD, 720p, FLAC) [B07B5492].mkv
+!new/[DmonHiro] Needless 02v2 (BD, 720p, FLAC) [8FEE677F].mkv
+!new/[DmonHiro] Needless 03v2 (BD, 720p, FLAC) [D089B5E3].mkv
+!new/[DmonHiro] Needless 04 (BD, 720p, FLAC) [1ACAFD54].mkv
 !new/[DmonHiro] Shin Koihime Musou - Otome Tairan 07 (Bluray, 720p, AAC) [080424D6].mkv
 !new/[DmonHiro] Shin Koihime Musou - Otome Tairan 08 (Bluray, 720p, AAC) [0E23AA38].mkv
 !new/[DmonHiro]Ookami-san To Shichinin No Nakama-tachi 01 (720p, BD) [BF90AD68].mkv
@@ -1106,6 +1110,8 @@
 !new/[gg]_Bakuman_-_09_[CF0612CD].mkv
 !new/[gg]_Shinrei_Tantei_Yakumo_-_09_[0AE424FD].mkv
 !new/[gg]_Soredemo_Machi_wa_Mawatteiru_-_08v2_[EB17EAD2].mkv
+!new/[mudabone] Hidamari Sketch Hoshimittsu SP1 v2 [BD 720p H264-AAC] [DF81A579].mkv
+!new/[mudabone] Hidamari Sketch Hoshimittsu SP2 v2 [BD 720p H264-AAC] [2F01EC30].mkv
 !new/[umee]_Princess_Jellyfish_-_01v2_[66DD16B1].mkv
 !new/[umee]_Princess_Jellyfish_-_02_[D96153E6].mkv
 !new/[umee]_Princess_Jellyfish_-_04_[815B11AF].mkv
@@ -1222,6 +1228,28 @@
 !new/bow/[EAC] [101110]TVアニメ えむえむっ！ ED主題歌「More-more LOVERS!!」／麻生夏子  (tak+bmp+rr3).rar
 !new/bow/[Ritsuka][101103] To Aru Majutsu no Index II OP Single - No buts! [Kawada Mami] (FLAC).rar
 !new/bow/[Ritsuka][101117] OVA Koe de Oshigoto! OP Single - Koi no Mahou [Orange blossom] (FLAC).rar
+!new/ef_a_tale_of_memories_(2007)_[1080p,BluRay,x264]_-_THORA.md5
+!new/ef_a_tale_of_memories_(2007)_[1080p,BluRay,x264]_-_THORA.nfo
+!new/ef_a_tale_of_memories_ED1_[1080p,BluRay,x264]_-_THORA.mkv
+!new/ef_a_tale_of_memories_ED2_[1080p,BluRay,x264]_-_THORA.mkv
+!new/ef_a_tale_of_memories_ED3_[1080p,BluRay,x264]_-_THORA.mkv
+!new/ef_a_tale_of_memories_ED4_[1080p,BluRay,x264]_-_THORA.mkv
+!new/ef_a_tale_of_memories_ED5_[1080p,BluRay,x264]_-_THORA.mkv
+!new/ef_a_tale_of_memories_Ep01_eve_[1080p,BluRay,x264]_-_THORA.mkv
+!new/ef_a_tale_of_memories_Ep02_upon_a_time_[1080p,BluRay,x264]_-_THORA.mkv
+!new/ef_a_tale_of_memories_Ep03_paradox_[1080p,BluRay,x264]_-_THORA.mkv
+!new/ef_a_tale_of_memories_Ep04_honesty_[1080p,BluRay,x264]_-_THORA.mkv
+!new/ef_a_tale_of_memories_Ep05_outline_[1080p,BluRay,x264]_-_THORA.mkv
+!new/ef_a_tale_of_memories_Ep06_rain_[1080p,BluRay,x264]_-_THORA.mkv
+!new/ef_a_tale_of_memories_Ep07_I..._[1080p,BluRay,x264]_-_THORA.mkv
+!new/ef_a_tale_of_memories_Ep08_clear_colour_[1080p,BluRay,x264]_-_THORA.mkv
+!new/ef_a_tale_of_memories_Ep09_forget_me_not_[1080p,BluRay,x264]_-_THORA.mkv
+!new/ef_a_tale_of_memories_Ep10_I'm_here_[1080p,BluRay,x264]_-_THORA.mkv
+!new/ef_a_tale_of_memories_Ep11_ever_forever_[1080p,BluRay,x264]_-_THORA.mkv
+!new/ef_a_tale_of_memories_Ep12_love_[1080p,BluRay,x264]_-_THORA.mkv
+!new/ef_a_tale_of_memories_OP1_[1080p,BluRay,x264]_-_THORA.mkv
+!new/ef_a_tale_of_memories_OP2_[1080p,BluRay,x264]_-_THORA.mkv
+!new/ef_a_tale_of_memories_prologue_[1080p,BluRay,x264]_-_THORA.mkv
 !new/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/lama/[Ayako] Wei� Survive R - 01 - H264 - E975A989.mkv
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
