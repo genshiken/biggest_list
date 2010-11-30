@@ -190,6 +190,7 @@
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
 !new/Detective Conan - 248 [AZFS][526F3797].avi
+!new/Detective Conan - 252 [AZFS][67D69097].avi
 !new/Detective Conan - 255 [AZFS][3A542034].avi
 !new/Detective Conan - 256 [AZFS][5221C707].avi
 !new/Detective Conan - 296 [AZFS][FE4DB0C2].avi
@@ -718,6 +719,7 @@
 !new/[BWS]Pocket_Monsters_Best_Wishes_010_Rival_Battle!_The_Formidable_Pururill!![H264_720P][23D94D9A].mkv
 !new/[Baaka] Tantei Opera Milky Holmes - 04 [1280x720][69D2BAC9].mkv
 !new/[Baaka] Tantei Opera Milky Holmes - 06 [1280x720][8BFBE70C].mkv
+!new/[Coalgirls]_Cardcaptor_Sakura_Movie_II_(688x448_DVD_AC3)_[A3ECBD6C].mkv
 !new/[Coalgirls]_Macross_Frontier_-_The_False_Diva_(1920x1080_Blu-ray_FLAC)_[80384B74]_Remux.mkv
 !new/[Commie-Yanks] Natsu no Arashi! ~Akinaichuu~ (Summer Storm! ~Open for Business~) - 12 [DVD 480p AC3] [363FD780].mkv
 !new/[Commie] Air Gear・ Black Wings and Sleeping Forest -Break on the Sky- [DVD 480p AAC] [EE062B76].mkv
@@ -763,6 +765,7 @@
 !new/[HorribleSubs] Fairy Tail - 56 [720p].mkv
 !new/[HorribleSubs] Lilpri - 32 [720p].mkv
 !new/[HorribleSubs] Lilpri - 35 [720p].mkv
+!new/[HorribleSubs] Otome Yokai Zakuro - 09 [720p].mkv
 !new/[HorribleSubs] Shinryaku! Ika Musume - 08 [720p].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 09 [720p].mkv
 !new/[HorribleSubs] Tegami Bachi REVERSE - 34 [720p].mkv
@@ -1102,6 +1105,7 @@
 !new/[Yoroshiku]_Happy_Happy_Clover_-_01_[E96A9A3F].mkv
 !new/[gg]_Bakuman_-_09_[CF0612CD].mkv
 !new/[gg]_Shinrei_Tantei_Yakumo_-_09_[0AE424FD].mkv
+!new/[gg]_Soredemo_Machi_wa_Mawatteiru_-_08v2_[EB17EAD2].mkv
 !new/[umee]_Princess_Jellyfish_-_01v2_[66DD16B1].mkv
 !new/[umee]_Princess_Jellyfish_-_02_[D96153E6].mkv
 !new/[umee]_Princess_Jellyfish_-_04_[815B11AF].mkv
