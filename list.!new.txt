@@ -771,6 +771,7 @@
 !new/[EAC] [101124] TVアニメ とある魔術の禁書目録（インデックス）II ED 「Magic∞world」[DVD付初回限定盤]／黒崎真音 (ape+cue+ISO　PD輸入).7z
 !new/[Eclipse] Toaru Majutsu no Index-tan - 01 (h264) [DEA5FE85].mkv
 !new/[Force-Works] Iron Man - 08 [D9F96EDE].mkv
+!new/[Force-Works] Iron Man - 09 [F222DA32].mkv
 !new/[Formula]_Armored_Trooper_Votoms_-_Phantom_Arc_-_04_[720p_H.264_AAC][CB04BA57].mkv
 !new/[GotWoot]_Moonlight_Mile_S2_-_01_[720p_H264][9D1F7A69].mkv
 !new/[HorribleSubs] Bleach - 299 [720p].mkv
@@ -819,6 +820,7 @@
 !new/[L-E_AonE]_Galaxy_Railways_01-26.sfv
 !new/[Live-eviL]_Future_Boy_Conan_Ep_20_[h264&MP3]_[164b5730].mp4
 !new/[Mazui]_Ore_No_Imouto_-_09_[A38AFFE2].mkv
+!new/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD. - Asuka Sora [Sakurai Tomo].zip
 !new/[Nipponsei] Mitsudomoe Character Song 6 [Various].zip
 !new/[Nipponsei] Mitsudomoe Character Song 7 - Chikubi [Saitou Momoko].zip
 !new/[Nipponsei] Motto ToLOVEru Character CD1 - Lala & Haruna [Tomatsu Haruka & Yahagi Sayuri].zip
@@ -851,8 +853,10 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
 !new/[Over-Time]_Kamen_Rider_OOO_-_12_[A24372D7].mkv
+!new/[Over-Time]_Kamen_Rider_OOO_-_12v2_[4A43BFE3].mkv
 !new/[Over-Time]_Maki_Ohguro_-_Anything_Goes!_PV_[A3D0297F].mkv
 !new/[PHT]_Yozakura_Quartet_OAD_1_[h264][FF06D8EF].mkv
+!new/[ReDone] Touka Gettan - 15 (DVD) [5E21F78F].mkv
 !new/[RyRo]_Digimon_Xros_Wars_-_16_(1280x720_x264_AAC)_[7AE7BA3B].mkv
 !new/[RyRo]_Digimon_Xros_Wars_-_17_(1280x720_x264_AAC)_[67B3834D].mkv
 !new/[RyRo]_Inazuma_Eleven_-_108_(1280x720_x264_AAC)_[36B098A4].mkv
@@ -1110,6 +1114,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_08_[720p][7D946CA2].mkv
+!new/[UTW-Ryuumaru] Yosuga no Sora - 09v0 [720p][BA9A2AA3].mkv
 !new/[UTW]_B_Gata_H_Kei_-_07_[BD][h264-1080p_AC3][86D47F4A].mkv
 !new/[UTW]_B_Gata_H_Kei_-_08_[BD][h264-1080p_AC3][CDE1E34F].mkv
 !new/[Underwater-Ryuumaru] Otome Youkai Zakuro - 09 [720p][DFE54928].mkv
