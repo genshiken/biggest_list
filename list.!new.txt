@@ -504,6 +504,7 @@
 !new/Rasmus_Faber_Presents-Platina_Jazz_Anime_Standards_Vol.1-2009-COCMP3/16-rasmus_faber_presents-doll-cocmp3.mp3
 !new/Rasmus_Faber_Presents-Platina_Jazz_Anime_Standards_Vol.1-2009-COCMP3/17-rasmus_faber_presents-sorae___-cocmp3.mp3
 !new/Rasmus_Faber_Presents-Platina_Jazz_Anime_Standards_Vol.1-2009-COCMP3/18-rasmus_faber_presents-voices-cocmp3.mp3
+!new/Readme.txt
 !new/Sailor Moon/SailorMoon S (Season 3)/[SMC]_Sailor_Moon_S_090_v2_[01EB12DC].ogm
 !new/Sailor Moon/SailorMoon S (Season 3)/[smc] 091. The Rod of Love is Born Usagi s New Transformation.ogm
 !new/Sailor Moon/SailorMoon S (Season 3)/[smc] 092. A Wonderful Beautiful Boy The Secret of Haruka Tenoh.ogm
@@ -719,7 +720,13 @@
 !new/[BWS]Pocket_Monsters_Best_Wishes_010_Rival_Battle!_The_Formidable_Pururill!![H264_720P][23D94D9A].mkv
 !new/[Baaka] Tantei Opera Milky Holmes - 04 [1280x720][69D2BAC9].mkv
 !new/[Baaka] Tantei Opera Milky Holmes - 06 [1280x720][8BFBE70C].mkv
+!new/[Coalgirls]_Cardcaptor_Sakura_ED1_(960x720_Blu-Ray_FLAC)_[B4852771].mkv
+!new/[Coalgirls]_Cardcaptor_Sakura_ED2_(960x720_Blu-Ray_FLAC)_[46606857].mkv
+!new/[Coalgirls]_Cardcaptor_Sakura_ED3_(960x720_Blu-Ray_FLAC)_[59E94902].mkv
 !new/[Coalgirls]_Cardcaptor_Sakura_Movie_II_(688x448_DVD_AC3)_[A3ECBD6C].mkv
+!new/[Coalgirls]_Cardcaptor_Sakura_OP1_(960x720_Blu-Ray_FLAC)_[3448FA5B].mkv
+!new/[Coalgirls]_Cardcaptor_Sakura_OP2_(960x720_Blu-Ray_FLAC)_[E26EDA3E].mkv
+!new/[Coalgirls]_Cardcaptor_Sakura_OP3_(960x720_Blu-Ray_FLAC)_[36B81C2E].mkv
 !new/[Coalgirls]_Macross_Frontier_-_The_False_Diva_(1920x1080_Blu-ray_FLAC)_[80384B74]_Remux.mkv
 !new/[Commie-Yanks] Natsu no Arashi! ~Akinaichuu~ (Summer Storm! ~Open for Business~) - 12 [DVD 480p AC3] [363FD780].mkv
 !new/[Commie] Air Gear・ Black Wings and Sleeping Forest -Break on the Sky- [DVD 480p AAC] [EE062B76].mkv
@@ -766,6 +773,7 @@
 !new/[Force-Works] Iron Man - 08 [D9F96EDE].mkv
 !new/[Formula]_Armored_Trooper_Votoms_-_Phantom_Arc_-_04_[720p_H.264_AAC][CB04BA57].mkv
 !new/[GotWoot]_Moonlight_Mile_S2_-_01_[720p_H264][9D1F7A69].mkv
+!new/[HorribleSubs] Bleach - 299 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 56 [720p].mkv
 !new/[HorribleSubs] Lilpri - 32 [720p].mkv
 !new/[HorribleSubs] Lilpri - 35 [720p].mkv
@@ -1104,6 +1112,7 @@
 !new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_08_[720p][7D946CA2].mkv
 !new/[UTW]_B_Gata_H_Kei_-_07_[BD][h264-1080p_AC3][86D47F4A].mkv
 !new/[UTW]_B_Gata_H_Kei_-_08_[BD][h264-1080p_AC3][CDE1E34F].mkv
+!new/[Underwater-Ryuumaru] Otome Youkai Zakuro - 09 [720p][DFE54928].mkv
 !new/[Underwater] Panty & Stocking with Garterbelt - 09 [658DE295].mkv
 !new/[Underwater] Shinryaku! Ika Musume - 08 [720p][D44B1312].mkv
 !new/[Yoroshiku]_Happy_Happy_Clover_-_01_[E96A9A3F].mkv
