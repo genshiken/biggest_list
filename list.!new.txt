@@ -701,16 +701,21 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
 !new/[CrunchySubs] Naruto Shippuuden - 186 [720p].mkv
 !new/[Derp]_Legend_of_the_Legendary_Heroes_-_20_(1280x720_x264_AAC).mkv
+!new/[Derp]_Legend_of_the_Legendary_Heroes_-_22_(1280x720_x264_AAC).mkv
 !new/[DmonHiro] Needless 05 (BD, 720p, FLAC) [A16630B2].mkv
 !new/[DmonHiro] Needless 06 (BD, 720p, FLAC) [112A6FF8].mkv
 !new/[EAC] [101110] TVアニメ そらのおとしものf（フォルテ） OP 「ハートの確率」[DVD付初回限定盤]／blue drops (ape+cue+ISO PD輸入).7z
 !new/[EAC] [101124] TVアニメ とある魔術の禁書目録（インデックス）II ED 「Magic∞world」[DVD付初回限定盤]／黒崎真音 (ape+cue+ISO　PD輸入).7z
+!new/[GotWoot]_Moonlight_Mile_S2_-_02_[720p_H264][F9BF8EF4].mkv
 !new/[HorribleSubs] Bleach - 299 [720p][B328AC60].mkv
 !new/[HorribleSubs] Fairy Tail - 56 [720p][89E8C7E5].mkv
+!new/[HorribleSubs] Fortune Arterial - 09 [720p].mkv
 !new/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 32 [720p][3447082A].mkv
 !new/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 35 [720p][940C70F4].mkv
 !new/[HorribleSubs] Letter Bee Reverse - 34 [720p][56D6AD3F].mkv
 !new/[HorribleSubs] Otome Yokai Zakuro - 09 [720p][E3F2C79D].mkv
+!new/[HorribleSubs] Panty and Stocking with Garterbelt - 10 [720p].mkv
+!new/[HorribleSubs] Sora No Otoshimono Forte - 10 [720p].mkv
 !new/[HorribleSubs] Squid Girl - 08 [720p][94E199BD].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 09 [720p][BE3FDF4C].mkv
 !new/[HorribleSubs] The World God Only Knows - 09 [720p][357A6C55].mkv
@@ -719,6 +724,8 @@
 !new/[Kokuhaku] Tsukiyo no Fromage ch09.rar
 !new/[Konno Azure] Koe de Oshigoto! CH27 [Tonigobe].rar
 !new/[L-E_AonE]_Galaxy_Railways_01-26.sfv
+!new/[Mamiko]_Tamayura_OVA_BD_01_[720p][E6E211CB].mkv
+!new/[Monokage]_Bungaku_Shoujo_Memoir_-_02_[143BCFD8].mkv
 !new/[Nipponsei] BLEACH ED24 Single - echoes [universe].zip
 !new/[Nipponsei] BLEACH Movie 4 Main Theme Single - Save The One, Save The All [T.M. Revolution].zip
 !new/[Nipponsei] BLEACH OP12 Single - chAngE [miwa].zip
@@ -1026,14 +1033,17 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_09_[720p][06FFA622].mkv
 !new/[UTW]_Amagami_SS_-_22_[h264-720p][8EC2A85E].mkv
 !new/[Yoroshiku]_Happy_Happy_Clover_-_02_[0D3C76FC].mkv
+!new/[gg]_Togainu_no_Chi_-_09_[01D10922].mkv
 !new/[iSiscon]_Aoyama_Mio_(CV._Yuuki_Aoi)_-_The_World_God_Only_Knows_Kaminomi_Character_CD_2_-_Aoyama_Mio_starring_Yuuki_Aoi_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Orange_blossom_[Aoyagi_Kanna_(CV._MAKO)_&_Warasono_Fumika_(CV._Ishikawa_Ayano)]_-_OVA_Koe_de_Oshigoto!_OP_Single_-_Koi_no_Mahou_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Sakurai_Rihoko_(CV._Shintani_Ryoko)_-_Amagami_SS_ED_Theme_5_Sakurai_Rihoko_-_Koi_ha_Aserazu_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Takahara_Ayumi_(CV._Taketatsu_Ayana)_-_The_World_God_Only_Knows_Kaminomi_Character_CD_1_-_Takahara_Ayumi_starring_Taketatsu_Ayana_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Takashima_Minamitaka_KoeGoto_Girls_-_OVA_Koe_de_Oshigoto!_ED_Single_-_Kuchibiru_Chuck_[w_scans]_(FLAC).rar
 !new/[umee]_Princess_Jellyfish_-_03_[DEEFC6D0].mkv
+!new/[umee]_Princess_Jellyfish_-_07_[5ACCD672].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
