@@ -199,6 +199,8 @@
 !new/Anything Goes.7z
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - 273 [AZFS][DD2E01DF].avi
+!new/Detective Conan - 597 [DCTP][720p][14502DDA].mp4
 !new/FF Unlimited/FFU01.avi
 !new/FF Unlimited/FFU02.avi
 !new/FF Unlimited/FFU03.avi
@@ -700,6 +702,7 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (arranged) [nnl+b-f].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
 !new/[BSS]_Mahou_Shoujo_Lyrical_Nanoha_The_Movie_1st_[1080p][5B2483DA].mkv
+!new/[Commie] Kuroshitsuji II OVA - Ciel in Wonderland (Part 1) [DVD 400p AAC] [8D6E7304].mkv
 !new/[CrunchySubs] Naruto Shippuuden - 186 [720p].mkv
 !new/[Derp]_Legend_of_the_Legendary_Heroes_-_20_(1280x720_x264_AAC).mkv
 !new/[Derp]_Legend_of_the_Legendary_Heroes_-_22_(1280x720_x264_AAC).mkv
@@ -723,6 +726,16 @@
 !new/[HorribleSubs] Yumeiro Patissiere Professional - 09 [720p][C97C2EFC].mkv
 !new/[J-pwq]_The_Tatami_Galaxy_-_Special_01_[A9686A58].mkv
 !new/[J-pwq]_The_Tatami_Galaxy_-_Special_02_[F93C4D35].mkv
+!new/[Kira-Fansub] Kidou Tenshi Angelic Layer  10th Anniversary Song - Be My Angel ~memorial wing~ PV (BD H264 1280x960 24fps AAC) [9A4D33B1].mkv
+!new/[Kira-Fansub] Kidou Tenshi Angelic Layer  NCED1 (BD H264 1280x960  24fps AAC) [4D24FEB1].mkv
+!new/[Kira-Fansub] Kidou Tenshi Angelic Layer  NCED2 (BD H264 1280x960 24fps AAC) [61F8A9DA].mkv
+!new/[Kira-Fansub] Kidou Tenshi Angelic Layer NCOP (BD H264 1280x960 24fps AAC) [B0EA1429].mkv
+!new/[Kira-Fansub] Kidou Tenshi Angelic Layer ep 01v2 (BD H264 1280x960 24fps AAC) [C7E321E0].mkv
+!new/[Kira-Fansub] Kidou Tenshi Angelic Layer ep 02v2 (BD H264 1280x960 24fps AAC) [FD97DBF5].mkv
+!new/[Kira-Fansub] Kidou Tenshi Angelic Layer ep 03v2 (BD H264 1280x960 24fps AAC) [C1CD30B4].mkv
+!new/[Kira-Fansub] Kidou Tenshi Angelic Layer ep 04 (BD H264 1280x960 24fps AAC) [E5E89F90].mkv
+!new/[Kira-Fansub] Kidou Tenshi Angelic Layer ep 05 (BD H264 1280x960 24fps AAC) [8EECAD0D].mkv
+!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 09 [1280x720 H264 OGG] [F5DAF089].mkv
 !new/[Kokuhaku] Tsukiyo no Fromage ch08 v1.1.rar
 !new/[Kokuhaku] Tsukiyo no Fromage ch09.rar
 !new/[Konno Azure] Koe de Oshigoto! CH27 [Tonigobe].rar
@@ -745,6 +758,7 @@
 !new/[Nipponsei] Soredemo Machi wa Mawatte iru! ED Single - Maids Sanjou [Maids].zip
 !new/[Nipponsei] Tamayura ED Single - Melody [Nakajima Megumi].zip
 !new/[Nipponsei] Tantei Opera Milky Holmes ED Single - Honnou no DOUBT [Faylan].zip
+!new/[Nutbladder]_Arakawa_Under_the_Bridge_×2_-_09_[3EE6787D].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -795,6 +809,7 @@
 !new/[OZC]Code Geass Lelouch of the Rebellion R2 E25 'Re;' [v2].mkv
 !new/[ReDone] To Heart ~Remember my Memories~ 08 (DVD) [AD09B429].mkv
 !new/[Ryuumaru] MM! - 09 [4C9DF5B6].mkv
+!new/[SS]_Fortune_Arterial_-_08_[E5CA34D6].mkv
 !new/[Shin-S] Soredemo Machi wa Mawatteiru ED Single - Maids Sanjou! [Maids] v2.zip
 !new/[Shin-S] To Aru Majutsu no Index II ED Single - Magic world [Kurosaki Maon].zip
 !new/[Shin-S] Yosuga no Sora ED Single - Pinky Jones [Momoiro Clover].zip
@@ -1039,8 +1054,13 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_09_[720p][06FFA622].mkv
 !new/[UTW]_Amagami_SS_-_22_[h264-720p][8EC2A85E].mkv
+!new/[UTW]_Megane_na_Kanojo_OVA_-_02_[DVD][h264-480p_AAC][D0998172].mkv
 !new/[Underwater] Panty & Stocking with Garterbelt - 10 [66F6D9A9].mkv
+!new/[Underwater] Shinryaku! Ika Musume - 09 [720p][5B440B6C].mkv
+!new/[WhyNot] Nurarihyon no Mago - 22 [A74E8E55].mkv
 !new/[Yoroshiku]_Happy_Happy_Clover_-_02_[0D3C76FC].mkv
+!new/[gg]_Soredemo_Machi_wa_Mawatteiru_-_09_[F88023AD].mkv
+!new/[gg]_Star_Driver_-_10_[FBE11D62].mkv
 !new/[gg]_Togainu_no_Chi_-_09_[01D10922].mkv
 !new/[iSiscon]_Aoyama_Mio_(CV._Yuuki_Aoi)_-_The_World_God_Only_Knows_Kaminomi_Character_CD_2_-_Aoyama_Mio_starring_Yuuki_Aoi_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Orange_blossom_[Aoyagi_Kanna_(CV._MAKO)_&_Warasono_Fumika_(CV._Ishikawa_Ayano)]_-_OVA_Koe_de_Oshigoto!_OP_Single_-_Koi_no_Mahou_[w_scans]_(FLAC).rar
