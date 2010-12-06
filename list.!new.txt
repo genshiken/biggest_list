@@ -702,12 +702,16 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (arranged) [nnl+b-f].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
 !new/[BSS]_Mahou_Shoujo_Lyrical_Nanoha_The_Movie_1st_[1080p][5B2483DA].mkv
+!new/[Coalgirls]_Occult_Academy_05_(1920x1080_Blu-ray_FLAC)_[67C3380B].mkv
+!new/[Coalgirls]_Occult_Academy_06_(1920x1080_Blu-ray_FLAC)_[BEB25D96].mkv
+!new/[Coalgirls]_Occult_Academy_SP03_(1920x1080_Blu-ray_FLAC)_[7C1D7592].mkv
 !new/[Commie] Kuroshitsuji II OVA - Ciel in Wonderland (Part 1) [DVD 400p AAC] [8D6E7304].mkv
 !new/[CrunchySubs] Naruto Shippuuden - 186 [720p].mkv
 !new/[Derp]_Legend_of_the_Legendary_Heroes_-_20_(1280x720_x264_AAC).mkv
 !new/[Derp]_Legend_of_the_Legendary_Heroes_-_22_(1280x720_x264_AAC).mkv
 !new/[DmonHiro] Needless 05 (BD, 720p, FLAC) [A16630B2].mkv
 !new/[DmonHiro] Needless 06 (BD, 720p, FLAC) [112A6FF8].mkv
+!new/[Doremi].HeartCatch.PreCure!.42.[1280x720].[3EAB6479].mkv
 !new/[EAC] [101110] TVアニメ そらのおとしものf（フォルテ） OP 「ハートの確率」[DVD付初回限定盤]／blue drops (ape+cue+ISO PD輸入).7z
 !new/[EAC] [101124] TVアニメ とある魔術の禁書目録（インデックス）II ED 「Magic∞world」[DVD付初回限定盤]／黒崎真音 (ape+cue+ISO　PD輸入).7z
 !new/[GotWoot]_Moonlight_Mile_S2_-_02_[720p_H264][F9BF8EF4].mkv
@@ -763,6 +767,7 @@
 !new/[L-E_AonE]_Galaxy_Railways_01-26.sfv
 !new/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 28 [H264 1280x720] [0DE20996].mkv
 !new/[Mamiko]_Tamayura_OVA_BD_01_[720p][E6E211CB].mkv
+!new/[Mazui]_Ore_No_Imouto_-_10_[F226AD4E].mkv
 !new/[Monokage]_Bungaku_Shoujo_Memoir_-_02_[143BCFD8].mkv
 !new/[Nipponsei] BLEACH ED24 Single - echoes [universe].zip
 !new/[Nipponsei] BLEACH Movie 4 Main Theme Single - Save The One, Save The All [T.M. Revolution].zip
@@ -830,6 +835,7 @@
 !new/[OZC]Code Geass Lelouch of the Rebellion R2 E25 'Re;' [v2].mkv
 !new/[Over-Time]_Kamen_Rider_OOO_-_13_[C9FE1975].mkv
 !new/[ReDone] To Heart ~Remember my Memories~ 08 (DVD) [AD09B429].mkv
+!new/[RyRo]_Inazuma_Eleven_-_109_(1280x720_x264_AAC)_[9DFBA207].mkv
 !new/[Ryuumaru] MM! - 09 [4C9DF5B6].mkv
 !new/[SS]_Fortune_Arterial_-_08_[E5CA34D6].mkv
 !new/[Shin-S] Soredemo Machi wa Mawatteiru ED Single - Maids Sanjou! [Maids] v2.zip
@@ -1075,7 +1081,13 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_09_[720p][06FFA622].mkv
+!new/[UTW]_Amagami_SS_-_03_[BD][h264-1080p_FLAC][48D93869].mkv
+!new/[UTW]_Amagami_SS_-_04_[BD][h264-1080p_FLAC][78E7B2A0].mkv
+!new/[UTW]_Amagami_SS_-_05_[BD][h264-1080p_FLAC][4CFE8216].mkv
+!new/[UTW]_Amagami_SS_-_06_[BD][h264-1080p_FLAC][8FF42378].mkv
 !new/[UTW]_Amagami_SS_-_22_[h264-720p][8EC2A85E].mkv
+!new/[UTW]_Amagami_SS_-_ED1_[BD][h264-1080p_FLAC][10BC699E].mkv
+!new/[UTW]_Amagami_SS_-_OP1a_[BD][h264-1080p_FLAC][661C4727].mkv
 !new/[UTW]_Megane_na_Kanojo_OVA_-_02_[DVD][h264-480p_AAC][D0998172].mkv
 !new/[Underwater] Panty & Stocking with Garterbelt - 10 [66F6D9A9].mkv
 !new/[Underwater] Shinryaku! Ika Musume - 09 [720p][5B440B6C].mkv
