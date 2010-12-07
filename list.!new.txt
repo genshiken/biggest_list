@@ -711,12 +711,15 @@
 !new/[Derp]_Legend_of_the_Legendary_Heroes_-_22_(1280x720_x264_AAC).mkv
 !new/[DmonHiro] Needless 05 (BD, 720p, FLAC) [A16630B2].mkv
 !new/[DmonHiro] Needless 06 (BD, 720p, FLAC) [112A6FF8].mkv
+!new/[DmonHiro] Needless 07 (BD, 720p, FLAC) [FBFAB22D].mkv
+!new/[DmonHiro] Needless 08 (BD, 720p, FLAC) [7AD5D8AF].mkv
 !new/[Doremi].HeartCatch.PreCure!.42.[1280x720].[3EAB6479].mkv
 !new/[EAC] [101110] TVアニメ そらのおとしものf（フォルテ） OP 「ハートの確率」[DVD付初回限定盤]／blue drops (ape+cue+ISO PD輸入).7z
 !new/[EAC] [101124] TVアニメ とある魔術の禁書目録（インデックス）II ED 「Magic∞world」[DVD付初回限定盤]／黒崎真音 (ape+cue+ISO　PD輸入).7z
 !new/[GotWoot]_Moonlight_Mile_S2_-_02_[720p_H264][F9BF8EF4].mkv
 !new/[HorribleSubs] Bleach - 299 [720p][B328AC60].mkv
 !new/[HorribleSubs] Fairy Tail - 56 [720p][89E8C7E5].mkv
+!new/[HorribleSubs] Fairy Tail - 57 [720p].mkv
 !new/[HorribleSubs] Fortune Arterial - 09 [720p].mkv
 !new/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 32 [720p][3447082A].mkv
 !new/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 35 [720p][940C70F4].mkv
@@ -836,6 +839,10 @@
 !new/[Over-Time]_Kamen_Rider_OOO_-_13_[C9FE1975].mkv
 !new/[ReDone] To Heart ~Remember my Memories~ 08 (DVD) [AD09B429].mkv
 !new/[RyRo]_Inazuma_Eleven_-_109_(1280x720_x264_AAC)_[9DFBA207].mkv
+!new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 01 [1080p - Bluray][F1943524].mkv
+!new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 02 [1080p - Bluray][25901518].mkv
+!new/[Ryuumaru] Hyakka Ryouran Samurai Girls - ED (Clean) [1080p - Bluray][DB8185D1].mkv
+!new/[Ryuumaru] Hyakka Ryouran Samurai Girls - OP (Clean) [1080p - Bluray][97065F36].mkv
 !new/[Ryuumaru] MM! - 09 [4C9DF5B6].mkv
 !new/[SS]_Fortune_Arterial_-_08_[E5CA34D6].mkv
 !new/[Shin-S] Soredemo Machi wa Mawatteiru ED Single - Maids Sanjou! [Maids] v2.zip
@@ -1097,10 +1104,14 @@
 !new/[gg]_Star_Driver_-_10_[FBE11D62].mkv
 !new/[gg]_Togainu_no_Chi_-_09_[01D10922].mkv
 !new/[iSiscon]_Aoyama_Mio_(CV._Yuuki_Aoi)_-_The_World_God_Only_Knows_Kaminomi_Character_CD_2_-_Aoyama_Mio_starring_Yuuki_Aoi_[w_scans]_(FLAC).rar
+!new/[iSiscon]_Asuka_Sora_(CV._Sakurai_Tomo)_-_The_World_God_Only_Knows_Kaminomi_Character_CD_Crayon_-_Asuka_Sora_starring_Sakurai_Tomo_[w_scans]_(FLAC).rar
+!new/[iSiscon]_Momoiro_Clover_-_TV_Anime_Yosuga_no_Sora_ED_Single_-_PINKY_JONES_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Orange_blossom_[Aoyagi_Kanna_(CV._MAKO)_&_Warasono_Fumika_(CV._Ishikawa_Ayano)]_-_OVA_Koe_de_Oshigoto!_OP_Single_-_Koi_no_Mahou_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Sakurai_Rihoko_(CV._Shintani_Ryoko)_-_Amagami_SS_ED_Theme_5_Sakurai_Rihoko_-_Koi_ha_Aserazu_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Takahara_Ayumi_(CV._Taketatsu_Ayana)_-_The_World_God_Only_Knows_Kaminomi_Character_CD_1_-_Takahara_Ayumi_starring_Taketatsu_Ayana_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Takashima_Minamitaka_KoeGoto_Girls_-_OVA_Koe_de_Oshigoto!_ED_Single_-_Kuchibiru_Chuck_[w_scans]_(FLAC).rar
+!new/[iSiscon]_Various_Artists_-_ALICESOFT_ALICE_VOCAL_COLLECTION_CD_[w_scans]_(FLAC).rar
+!new/[iSiscon]_Various_Artists_-_Ookami-san_to_Shichinin_no_Nakama-Tachi_Character_Song_Album_-_Otogin_Songs_Best_10_[w_scans]_(FLAC).rar
 !new/[umee]_Princess_Jellyfish_-_03_[DEEFC6D0].mkv
 !new/[umee]_Princess_Jellyfish_-_07_[5ACCD672].mkv
 !new/[yibis]_One_Piece_477_[720p][EAF11619].mkv
