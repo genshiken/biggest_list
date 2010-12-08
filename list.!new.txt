@@ -643,6 +643,7 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Omake OVA [nnl].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (arranged) [nnl+b-f].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
+!new/[ANBU]_Dragon_Quest_-_05_[E96E6779].mkv
 !new/[BSS]_Mahou_Shoujo_Lyrical_Nanoha_The_Movie_1st_[1080p][5B2483DA].mkv
 !new/[Coalgirls]_Occult_Academy_05_(1920x1080_Blu-ray_FLAC)_[67C3380B].mkv
 !new/[Coalgirls]_Occult_Academy_06_(1920x1080_Blu-ray_FLAC)_[BEB25D96].mkv
@@ -723,6 +724,7 @@
 !new/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 28 [H264 1280x720] [0DE20996].mkv
 !new/[Mamiko]_Tamayura_OVA_BD_01_[720p][E6E211CB].mkv
 !new/[Mazui]_Ore_No_Imouto_-_10_[F226AD4E].mkv
+!new/[Mazui]_Ore_No_Imouto_-_10v2_[9D348AB9].mkv
 !new/[Monokage]_Bungaku_Shoujo_Memoir_-_02_[143BCFD8].mkv
 !new/[Nipponsei] BLEACH ED24 Single - echoes [universe].zip
 !new/[Nipponsei] BLEACH Movie 4 Main Theme Single - Save The One, Save The All [T.M. Revolution].zip
@@ -740,6 +742,7 @@
 !new/[Nipponsei] Tamayura ED Single - Melody [Nakajima Megumi].zip
 !new/[Nipponsei] Tantei Opera Milky Holmes ED Single - Honnou no DOUBT [Faylan].zip
 !new/[Nutbladder]_Arakawa_Under_the_Bridge_×2_-_09_[3EE6787D].mkv
+!new/[Nutbladder]_Arakawa_Under_the_Bridge_×2_-_10_[CDF7E566].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
