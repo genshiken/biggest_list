@@ -651,6 +651,7 @@
 !new/[Commie] Asobi ni Ikuyo! - 03 [BD 720p AAC] [BEACEC96].mkv
 !new/[Commie] Asobi ni Ikuyo! - 04 [BD 720p AAC] [ADD86BE5].mkv
 !new/[Commie] Kuroshitsuji II OVA - Ciel in Wonderland (Part 1) [DVD 400p AAC] [8D6E7304].mkv
+!new/[Commie] Motto To Love-ru - 10 [998C6CA6].mkv
 !new/[Commie] Sengoku BASARA Two - 09 [F0D142A8].mkv
 !new/[Commie] The Legend of the Legendary Heroes - 22 [FF9A003D].mkv
 !new/[Commie] The World God Only Knows - 08 [4A4A0B2F].mkv
@@ -666,6 +667,7 @@
 !new/[Doremi].HeartCatch.PreCure!.42.[1280x720].[3EAB6479].mkv
 !new/[EAC] [101110] TVアニメ そらのおとしものf（フォルテ） OP 「ハートの確率」[DVD付初回限定盤]／blue drops (ape+cue+ISO PD輸入).7z
 !new/[EAC] [101124] TVアニメ とある魔術の禁書目録（インデックス）II ED 「Magic∞world」[DVD付初回限定盤]／黒崎真音 (ape+cue+ISO　PD輸入).7z
+!new/[Force-Works] Iron Man - 10 [5B1A228E].mkv
 !new/[GotWoot]_Moonlight_Mile_S2_-_02_[720p_H264][F9BF8EF4].mkv
 !new/[HorribleSubs] Bleach - 299 [720p][B328AC60].mkv
 !new/[HorribleSubs] Bleach - 300 [720p].mkv
@@ -683,9 +685,11 @@
 !new/[HorribleSubs] Squid Girl - 08 [720p][94E199BD].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 09 [720p][BE3FDF4C].mkv
 !new/[HorribleSubs] The World God Only Knows - 09 [720p][357A6C55].mkv
+!new/[HorribleSubs] The World God Only Knows - 10 [720p].mkv
 !new/[HorribleSubs] Yumeiro Patissiere Professional - 09 [720p][C97C2EFC].mkv
 !new/[J-pwq]_The_Tatami_Galaxy_-_Special_01_[A9686A58].mkv
 !new/[J-pwq]_The_Tatami_Galaxy_-_Special_02_[F93C4D35].mkv
+!new/[J-pwq]_The_Tatami_Galaxy_-_Special_03_[9FDEADB7].mkv
 !new/[Kira-Fansub] Kidou Tenshi Angelic Layer  10th Anniversary Song - Be My Angel ~memorial wing~ PV (BD H264 1280x960 24fps AAC) [9A4D33B1].mkv
 !new/[Kira-Fansub] Kidou Tenshi Angelic Layer  NCED1 (BD H264 1280x960  24fps AAC) [4D24FEB1].mkv
 !new/[Kira-Fansub] Kidou Tenshi Angelic Layer  NCED2 (BD H264 1280x960 24fps AAC) [61F8A9DA].mkv
@@ -1077,6 +1081,7 @@
 !new/[UTW]_Amagami_SS_-_OP1a_[BD][h264-1080p_FLAC][661C4727].mkv
 !new/[UTW]_Megane_na_Kanojo_OVA_-_02_[DVD][h264-480p_AAC][D0998172].mkv
 !new/[UTW]_Megane_na_Kanojo_OVA_-_03_[DVD][h264-480p_AAC][ACAC6CD1].mkv
+!new/[UTW]_Megane_na_Kanojo_OVA_-_04_[DVD][h264-480p_AAC][A90502F8].mkv
 !new/[Underwater-Ryuumaru] Otome Youkai Zakuro - 10 [720p][9475CDA6].mkv
 !new/[Underwater] Panty & Stocking with Garterbelt - 10 [66F6D9A9].mkv
 !new/[Underwater] Shinryaku! Ika Musume - 09 [720p][5B440B6C].mkv
@@ -1097,6 +1102,7 @@
 !new/[umee]_Princess_Jellyfish_-_03_[DEEFC6D0].mkv
 !new/[umee]_Princess_Jellyfish_-_07_[5ACCD672].mkv
 !new/[yibis]_One_Piece_477_[720p][EAF11619].mkv
+!new/[yibis]_One_Piece_478_[720p][2997CFCB].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
