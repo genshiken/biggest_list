@@ -133,6 +133,7 @@
 !new/Carol/[raw] Carol OVA.avi
 !new/Detective Conan - 273 [AZFS][DD2E01DF].avi
 !new/Detective Conan - 597 [DCTP][720p][14502DDA].mp4
+!new/Detective Conan - 598 [DCTP][720p][BB0BEFBE].mp4
 !new/FF Unlimited/FFU01.avi
 !new/FF Unlimited/FFU02.avi
 !new/FF Unlimited/FFU03.avi
@@ -1072,6 +1073,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_09_[720p][06FFA622].mkv
+!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_10v0_[720p][DF5EC704].mkv
 !new/[UTW-Ryuumaru] Yosuga no Sora - 10 [720p][75FA510A].mkv
 !new/[UTW]_Amagami_SS_-_03_[BD][h264-1080p_FLAC][48D93869].mkv
 !new/[UTW]_Amagami_SS_-_04_[BD][h264-1080p_FLAC][78E7B2A0].mkv
@@ -1086,6 +1088,7 @@
 !new/[UTW]_Megane_na_Kanojo_OVA_-_02_[DVD][h264-480p_AAC][D0998172].mkv
 !new/[UTW]_Megane_na_Kanojo_OVA_-_03_[DVD][h264-480p_AAC][ACAC6CD1].mkv
 !new/[UTW]_Megane_na_Kanojo_OVA_-_04_[DVD][h264-480p_AAC][A90502F8].mkv
+!new/[Underwater-Commie] Haiyoru! Nyaruani - 01 [720p][D2F5B3EC].mkv
 !new/[Underwater-Ryuumaru] Otome Youkai Zakuro - 10 [720p][9475CDA6].mkv
 !new/[Underwater] Panty & Stocking with Garterbelt - 10 [66F6D9A9].mkv
 !new/[Underwater] Shinryaku! Ika Musume - 09 [720p][5B440B6C].mkv
@@ -1107,13 +1110,11 @@
 !new/[iSiscon]_Various_Artists_-_ALICESOFT_ALICE_VOCAL_COLLECTION_CD_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Various_Artists_-_Ookami-san_to_Shichinin_no_Nakama-Tachi_Character_Song_Album_-_Otogin_Songs_Best_10_[w_scans]_(FLAC).rar
 !new/[oom] Mission-E - 12 [EF270568].avi
-!new/[umee]_Black_Lagoon_Roberta's_Blood_Trail_-_02_[BABD99E0].mkv
-!new/[umee]_Princess_Jellyfish_-_03_[DEEFC6D0].mkv
-!new/[umee]_Princess_Jellyfish_-_07_[5ACCD672].mkv
-!new/[umee]_Princess_Jellyfish_-_08_[82892730].mkv
-!new/[umee]_Shiki_-_19_[CBF773E3].mkv
-!new/[yibis]_One_Piece_477_[720p][EAF11619].mkv
-!new/[yibis]_One_Piece_478_[720p][2997CFCB].mkv
+!new/[umee] Black Lagoon Roberta's Blood Trail - 02 [BABD99E0].mkv
+!new/[umee] Kuragehime - 03 [DEEFC6D0].mkv
+!new/[umee] Kuragehime - 07 [5ACCD672].mkv
+!new/[umee] Kuragehime - 08 [82892730].mkv
+!new/[umee] Shiki - 19 [CBF773E3].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
