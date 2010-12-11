@@ -664,6 +664,8 @@
 !new/[FroZen]_RAINBOW_21_[5334CDB7].mkv
 !new/[FroZen]_RAINBOW_22_[DB096A25].mkv
 !new/[GotWoot]_Moonlight_Mile_S2_-_02_[720p_H264][F9BF8EF4].mkv
+!new/[Hiryuu] Hyakka Ryouran Samurai Girls 09 [1280x720 H264 AAC] [B97ACCDF].mkv
+!new/[Hiryuu] Hyakka Ryouran Samurai Girls 10 [1280x720 H264 AAC] [F95B3C21].mkv
 !new/[HorribleSubs] Bleach - 299 [720p][B328AC60].mkv
 !new/[HorribleSubs] Bleach - 300 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 56 [720p][89E8C7E5].mkv
@@ -684,6 +686,7 @@
 !new/[HorribleSubs] Sora No Otoshimono Forte - 11 [720p].mkv
 !new/[HorribleSubs] Squid Girl - 08 [720p][94E199BD].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 09 [720p][BE3FDF4C].mkv
+!new/[HorribleSubs] Tegami Bachi REVERSE - 36 [720p].mkv
 !new/[HorribleSubs] The World God Only Knows - 09 [720p][357A6C55].mkv
 !new/[HorribleSubs] The World God Only Knows - 10 [720p].mkv
 !new/[HorribleSubs] Yumeiro Patissiere Professional - 09 [720p][C97C2EFC].mkv
@@ -731,17 +734,22 @@
 !new/[Mazui]_Ore_No_Imouto_-_10_[F226AD4E].mkv
 !new/[Mazui]_Ore_No_Imouto_-_10v2_[9D348AB9].mkv
 !new/[Monokage]_Bungaku_Shoujo_Memoir_-_02_[143BCFD8].mkv
+!new/[Nipponsei] .hack Quantum Main Theme Single - Shizuku [Nanri Yuuka].zip
+!new/[Nipponsei] Angel Beats - Last Song [Girls Dead Monster].zip
 !new/[Nipponsei] BLEACH ED24 Single - echoes [universe].zip
 !new/[Nipponsei] BLEACH Movie 4 Main Theme Single - Save The One, Save The All [T.M. Revolution].zip
 !new/[Nipponsei] BLEACH OP12 Single - chAngE [miwa].zip
 !new/[Nipponsei] BLEACH OP13 Single - Ranbu no Melody [Sid].zip
+!new/[Nipponsei] Battle Spirits Brave OP Single - free [Karasu].zip
 !new/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD. - Asuka Sora [Sakurai Tomo].zip
+!new/[Nipponsei] Kami Nomi zo Shiru Sekai ED Single - Koi no Shirushi [Various].zip
 !new/[Nipponsei] Mitsudomoe Character Song 6 [Various].zip
 !new/[Nipponsei] Mitsudomoe Character Song 7 - Chikubi [Saitou Momoko].zip
 !new/[Nipponsei] Motto ToLOVEru Character CD1 - Lala & Haruna [Tomatsu Haruka & Yahagi Sayuri].zip
 !new/[Nipponsei] Motto ToLOVEru Character CD2 - Mikan & Yami [Hanazawa Kana & Fukuen Misato].zip
 !new/[Nipponsei] Nurarihyon no Mago ED2 Single - Symphonic Dream [Various].zip
 !new/[Nipponsei] Nurarihyon no Mago OP1 OP2 Single - Sunshine [MONKEY MAJIK].zip
+!new/[Nipponsei] Otome Youkai Zakuro ED Single - Hatsukoi wa Zakuro iro [Various].zip
 !new/[Nipponsei] Shinryaku! Ika Musume ED Single - Metamarism [Itou Kanae].zip
 !new/[Nipponsei] Soredemo Machi wa Mawatte iru! ED Single - Maids Sanjou [Maids].zip
 !new/[Nipponsei] Tamayura ED Single - Melody [Nakajima Megumi].zip
@@ -807,7 +815,10 @@
 !new/[Ryuumaru] Hyakka Ryouran Samurai Girls - OP (Clean) [1080p - Bluray][97065F36].mkv
 !new/[Ryuumaru] Hyakka Ryouran Samurai Girls – Special 01 [720p][713D8E13].mkv
 !new/[Ryuumaru] MM! - 09 [4C9DF5B6].mkv
+!new/[Ryuumaru] MM! - 10 [2ADF5758].mkv
 !new/[SS]_Fortune_Arterial_-_08_[E5CA34D6].mkv
+!new/[SS]_Fortune_Arterial_-_09_[9E1E6E63].mkv
+!new/[SS]_Ore_No_Imouto_-_08_[54BE83FC].mkv
 !new/[Seto_Otaku-Shimeji]_Ikkitousen_Xtreme_Xecutor_-_01_[BD][1280x720_H264-Flac][0CBA40E3].mkv
 !new/[Seto_Otaku-Shimeji]_Ikkitousen_Xtreme_Xecutor_-_02_[BD][1280x720_H264-Flac][C99325A8].mkv
 !new/[Seto_Otaku-Shimeji]_Ikkitousen_Xtreme_Xecutor_-_03_[BD][1280x720_H264-Flac][B66A3B3D].mkv
@@ -1091,6 +1102,7 @@
 !new/[Underwater-Commie] Haiyoru! Nyaruani - 01 [720p][D2F5B3EC].mkv
 !new/[Underwater-Ryuumaru] Otome Youkai Zakuro - 10 [720p][9475CDA6].mkv
 !new/[Underwater] Panty & Stocking with Garterbelt - 10 [66F6D9A9].mkv
+!new/[Underwater] Panty & Stocking with Garterbelt - 11 [920FDF8C].mkv
 !new/[Underwater] Shinryaku! Ika Musume - 09 [720p][5B440B6C].mkv
 !new/[WhyNot] Nurarihyon no Mago - 22 [A74E8E55].mkv
 !new/[Yoroshiku]_Happy_Happy_Clover_-_02_[0D3C76FC].mkv
@@ -1102,6 +1114,7 @@
 !new/[gg]_Togainu_no_Chi_-_10_[0033EA8F].mkv
 !new/[iSiscon]_Aoyama_Mio_(CV._Yuuki_Aoi)_-_The_World_God_Only_Knows_Kaminomi_Character_CD_2_-_Aoyama_Mio_starring_Yuuki_Aoi_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Asuka_Sora_(CV._Sakurai_Tomo)_-_The_World_God_Only_Knows_Kaminomi_Character_CD_Crayon_-_Asuka_Sora_starring_Sakurai_Tomo_[w_scans]_(FLAC).rar
+!new/[iSiscon]_Girl_Dead_Monsters_STARRING_LiSA_-_Ichiban_no_Takaramono_~Yui_final_ver.~_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Momoiro_Clover_-_TV_Anime_Yosuga_no_Sora_ED_Single_-_PINKY_JONES_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Orange_blossom_[Aoyagi_Kanna_(CV._MAKO)_&_Warasono_Fumika_(CV._Ishikawa_Ayano)]_-_OVA_Koe_de_Oshigoto!_OP_Single_-_Koi_no_Mahou_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Sakurai_Rihoko_(CV._Shintani_Ryoko)_-_Amagami_SS_ED_Theme_5_Sakurai_Rihoko_-_Koi_ha_Aserazu_[w_scans]_(FLAC).rar
@@ -1115,6 +1128,8 @@
 !new/[umee] Kuragehime - 07 [5ACCD672].mkv
 !new/[umee] Kuragehime - 08 [82892730].mkv
 !new/[umee] Shiki - 19 [CBF773E3].mkv
+!new/[umee]_Black_Lagoon_Roberta's_Blood_Trail_-_01_[465A4050].mkv
+!new/[umee]_Princess_Jellyfish_-_07_[5ACCD672].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
