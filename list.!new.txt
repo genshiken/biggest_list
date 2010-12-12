@@ -647,6 +647,7 @@
 !new/[Commie] Motto To Love-ru - 10 [998C6CA6].mkv
 !new/[Commie] Sengoku BASARA Two - 09 [F0D142A8].mkv
 !new/[Commie] The Legend of the Legendary Heroes - 22 [FF9A003D].mkv
+!new/[Commie] The Legend of the Legendary Heroes - 23 [E23CE2EE].mkv
 !new/[Commie] The World God Only Knows - 08 [4A4A0B2F].mkv
 !new/[CrunchySubs] Naruto Shippuuden - 186 [720p].mkv
 !new/[DB]_Hakuouki_20_[EE5B2ECE].avi
@@ -682,6 +683,7 @@
 !new/[HorribleSubs] Otome Yokai Zakuro - 10 [720p].mkv
 !new/[HorribleSubs] Panty and Stocking with Garterbelt - 10 [720p].mkv
 !new/[HorribleSubs] Panty and Stocking with Garterbelt - 11 [720p].mkv
+!new/[HorribleSubs] Shinryaku! Ika Musume - 10 [720p].mkv
 !new/[HorribleSubs] Sora No Otoshimono Forte - 10 [720p].mkv
 !new/[HorribleSubs] Sora No Otoshimono Forte - 11 [720p].mkv
 !new/[HorribleSubs] Squid Girl - 08 [720p][94E199BD].mkv
@@ -730,6 +732,7 @@
 !new/[L-E_AonE]_Galaxy_Railways_01-26.sfv
 !new/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 28 [H264 1280x720] [0DE20996].mkv
 !new/[Mamiko]_Tamayura_OVA_BD_01_[720p][E6E211CB].mkv
+!new/[Mazui]_Katanagatari_-_12_[32DE9A50].mkv
 !new/[Mazui]_Mirai_Nikki_OVA_[LQ][76A04333].mkv
 !new/[Mazui]_Ore_No_Imouto_-_10_[F226AD4E].mkv
 !new/[Mazui]_Ore_No_Imouto_-_10v2_[9D348AB9].mkv
@@ -816,6 +819,7 @@
 !new/[Ryuumaru] Hyakka Ryouran Samurai Girls – Special 01 [720p][713D8E13].mkv
 !new/[Ryuumaru] MM! - 09 [4C9DF5B6].mkv
 !new/[Ryuumaru] MM! - 10 [2ADF5758].mkv
+!new/[Ryuumaru] MM! - 11v0 [3EE795D8].mkv
 !new/[SS]_Fortune_Arterial_-_08_[E5CA34D6].mkv
 !new/[SS]_Fortune_Arterial_-_09_[9E1E6E63].mkv
 !new/[SS]_Ore_No_Imouto_-_08_[54BE83FC].mkv
@@ -1115,6 +1119,8 @@
 !new/[iSiscon]_Aoyama_Mio_(CV._Yuuki_Aoi)_-_The_World_God_Only_Knows_Kaminomi_Character_CD_2_-_Aoyama_Mio_starring_Yuuki_Aoi_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Asuka_Sora_(CV._Sakurai_Tomo)_-_The_World_God_Only_Knows_Kaminomi_Character_CD_Crayon_-_Asuka_Sora_starring_Sakurai_Tomo_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Girl_Dead_Monsters_STARRING_LiSA_-_Ichiban_no_Takaramono_~Yui_final_ver.~_[w_scans]_(FLAC).rar
+!new/[iSiscon]_Girl_Dead_Monsters_STARRING_marina_-_Last_Song_[w_scans]_(FLAC).rar
+!new/[iSiscon]_Kami_no_Mizo_Shiri_Tai_-_The_World_God_Only_Knows_Ending_Theme_-_Koi_no_Shirushi_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Momoiro_Clover_-_TV_Anime_Yosuga_no_Sora_ED_Single_-_PINKY_JONES_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Orange_blossom_[Aoyagi_Kanna_(CV._MAKO)_&_Warasono_Fumika_(CV._Ishikawa_Ayano)]_-_OVA_Koe_de_Oshigoto!_OP_Single_-_Koi_no_Mahou_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Sakurai_Rihoko_(CV._Shintani_Ryoko)_-_Amagami_SS_ED_Theme_5_Sakurai_Rihoko_-_Koi_ha_Aserazu_[w_scans]_(FLAC).rar
