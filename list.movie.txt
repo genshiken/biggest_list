@@ -9,9 +9,8 @@ movie/Blood - The Last Vampire (2000)/[THORA] Blood - The Last Vampire (2000) (1
 movie/Bokusatsu Tenshi Dokuro-chan 2/[Philanthropy] Bokusatsu Tenshi Dokuro-chan 2 - 01-02 [DVD][FF5EBA21].mkv
 movie/Brave Story/[THORA] Brave Story (2006) [BD][932BDA94].mkv
 movie/Candy Candy - Movie/[Live-eviL] Candy Candy - Movie [A9408AC4].avi
+movie/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - Movie 2 [DVD][A3ECBD6C].mkv
 movie/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - Movie [DVD][53FD907C].mkv
-movie/Cardcaptor Sakura/[O-A] Cardcaptor Sakura - Movie 1 [06A396C3].ogm
-movie/Cardcaptor Sakura/[O-A] Cardcaptor Sakura - Movie 2 [B22A8CB4].ogm
 movie/Cencoroll/[Formula] Cencoroll [BFDBFD3D].mkv
 movie/Cencoroll/[Koharubi] Cencoroll [HQ][EEE806D5].mkv
 movie/Clannad - The Motion Picture/[SS-Eclipse] Clannad - The Motion Picture [DVD][FDB42A85].mkv
@@ -50,6 +49,7 @@ movie/Evangelion 2.22/[UTW-THORA] Evangelion 2.22 (1920x1080) [v2][BD][13434436]
 movie/Fate-stay night - Unlimited Blade Works/[Commie] Fate-stay night - Unlimited Blade Works [1080p BD][CC258DD6].mkv
 movie/Fate-stay night - Unlimited Blade Works/[UTW] Fate-stay night - Unlimited Blade Works (1280x720) [BD][70764BA9].mkv
 movie/Final Fintasy Advent Children Complete (2009)/[THORA] Final Fintasy Advent Children Complete (2009) (1280x720) [BD][B724543F].mkv
+movie/Floral Magician Mary Bell - The Phoenix Key/[ARR] Floral Magician Mary Bell - The Phoenix Key [AVC][9024DA00].mkv
 movie/Franz Kafka's ~A Country Doctor~/[AnimeClipse-Ureshii] Franz Kafka's ~A Country Doctor~ [1F056511].mkv
 movie/Fresh Pretty Cure!/[CureCom-Doremi] Fresh Pretty Cure! - Movie [DVD][AC03D6C0].mkv
 movie/Fullmetal Alchemist - The Conqueror of Shamballa/[KAA] Fullmetal Alchemist - The Conqueror of Shamballa [EA07D24E].mkv
@@ -60,6 +60,7 @@ movie/Ghost in the Shell/[OZC] Ghost in the Shell Stand Alone Complex 2nd GIG - 
 movie/Ghost in the Shell/[niizk] Ghost in the Shell - Innocence [1080p][50D3E7B9].mkv
 movie/Ghost in the Shell/[niizk] Ghost in the Shell [BD][5A1FF951].mkv
 movie/Gokinjo Monogatari Movie/[Yuurisan-Subs] Gokinjo Monogatari - Movie [81F06CCC].mkv
+movie/Goldfish Warning! (1992)/[ARR] Goldfish Warning! (1992) [AVC][F3D00AD2].mkv
 movie/Gunbuster Movie/[THORA] Gunbuster Movie (1988) - Part 1 [720p,BD][ED918128].mkv
 movie/Gunbuster Movie/[THORA] Gunbuster Movie (1988) - Part 2 [720p,BD][EE2264D2].mkv
 movie/Gundam - Char's Counterattack/[OZC] Gundam - Char's Counterattack (1280x720) [7DF4FA68].mkv
@@ -96,6 +97,7 @@ movie/Kino no Tabi/[niizk] Kino no Tabi - Movie 1 - Life Goes On [66C0CDD2].mkv
 movie/Kino no Tabi/[niizk] Kino no Tabi - Movie 2 - The Country of Illness - For You [66B947E6].mkv
 movie/Literature Girl/[Doki] Literature Girl (1920x1080) [BD][AA6A7997].mkv
 movie/Love Hina Spring Movie/[KAA] Love Hina Spring Movie [DVD][866F2857].avi
+movie/Love Hina/[KAA] Love Hina - Spring Movie [DVD][866F2857].avi
 movie/Lupin III - The Last Job/[Frostii] Lupin III - The Last Job [9F1B054B].mkv
 movie/Lupin III/[F-B & Ureshii] Lupin III - Angel Tactics [0A2AD5F6].mkv
 movie/Lupin III/[F-B & Ureshii] Lupin III - Green vs Red [15911C89].mkv
@@ -140,6 +142,7 @@ movie/Slam Dunk/[-ANF-] Slam Dunk - Movie 3 [DVD][D20B56CA].mkv
 movie/Slam Dunk/[-ANF-] Slam Dunk - Movie 4 [DVD][DC7200A7].mkv
 movie/Slam Dunk/[txxz] Slam Dunk - Movie 1 [DVD][1627A9FD].mkv
 movie/Slam Dunk/[txxz] Slam Dunk - Movie 2 [DVD][7F5D63D3].mkv
+movie/Space Battleship Yamato Revival/[ANBU] Space Battleship Yamato Revival [1080p][EFAFC227].mkv
 movie/Spirited Away/[niizk] Spirited Away [0827A6C3].mkv
 movie/Summer Wars/[Frostii] Summer Wars (1280x720) [BD][9B12BBFA].mkv
 movie/Super Mario Anime Pack/[m.3.3.w] Super Mario Anime Pack [4FA346BC].mkv
