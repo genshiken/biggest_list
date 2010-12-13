@@ -131,9 +131,6 @@
 !new/Anything Goes.7z
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
-!new/Detective Conan - 273 [AZFS][DD2E01DF].avi
-!new/Detective Conan - 597 [DCTP][720p][14502DDA].mp4
-!new/Detective Conan - 598 [DCTP][720p][BB0BEFBE].mp4
 !new/FF Unlimited/FFU01.avi
 !new/FF Unlimited/FFU02.avi
 !new/FF Unlimited/FFU03.avi
@@ -603,7 +600,6 @@
 !new/Soul Eater/[Arigatou] Soul Eater - 49 [B3F1D35E].mkv
 !new/Soul Eater/[Arigatou] Soul Eater - 50 [369D8541].mkv
 !new/Soul Eater/[Arigatou] Soul Eater - 51 [End][217D4C63].mkv
-!new/TranslationNotes.txt
 !new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 01(x264)(8E01DFB1).mkv
 !new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 02(x264)(CFB2BE0C).mkv
 !new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 03(x264)(D4242AC3).mkv
@@ -634,21 +630,9 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Omake OVA [nnl].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (arranged) [nnl+b-f].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
-!new/[ANBU]_Dragon_Quest_-_05_[E96E6779].mkv
-!new/[AonE]_Shinrei_Tantei_Yakumo_08_[8AA00B82].mkv
-!new/[Ayako]_Kaibutsu_Oujo_-_Princess_Resurrection_-_OAV_-_01_[DVD][H264][58E20764].mkv
-!new/[BSS]_Mahou_Shoujo_Lyrical_Nanoha_The_Movie_1st_[1080p][5B2483DA].mkv
-!new/[BWS]Pocket_Monsters_Best_Wishes_011_Ishizumai!_Take_Back_Your_Home!![H264_720P][6969CE72].mkv
 !new/[Coalgirls]_Occult_Academy_05_(1920x1080_Blu-ray_FLAC)_[67C3380B].mkv
 !new/[Coalgirls]_Occult_Academy_06_(1920x1080_Blu-ray_FLAC)_[BEB25D96].mkv
 !new/[Coalgirls]_Occult_Academy_SP03_(1920x1080_Blu-ray_FLAC)_[7C1D7592].mkv
-!new/[CrunchySubs] Naruto Shippuuden - 186 [720p].mkv
-!new/[DB]_Hakuouki_20_[EE5B2ECE].avi
-!new/[DB]_Ninku_19_[B2826BA2].avi
-!new/[DB]_Ninku_20_[A0E0D5EA].avi
-!new/[Derp]_Legend_of_the_Legendary_Heroes_-_20_(1280x720_x264_AAC).mkv
-!new/[Derp]_Legend_of_the_Legendary_Heroes_-_22_(1280x720_x264_AAC).mkv
-!new/[Doremi].HeartCatch.PreCure!.42.[1280x720].[3EAB6479].mkv
 !new/[EAC] [101110] TVアニメ そらのおとしものf（フォルテ） OP 「ハートの確率」[DVD付初回限定盤]／blue drops (ape+cue+ISO PD輸入).7z
 !new/[EAC] [101124] TVアニメ とある魔術の禁書目録（インデックス）II ED 「Magic∞world」[DVD付初回限定盤]／黒崎真音 (ape+cue+ISO　PD輸入).7z
 !new/[Force-Works] Iron Man - 10 [5B1A228E].mkv
