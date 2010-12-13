@@ -131,6 +131,32 @@
 !new/Anything Goes.7z
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Digimon tamers/Digimon Tamers Episode 10 (Subbed By PositronCannon).avi
+!new/Digimon tamers/Digimon Tamers Episode 11 (Subbed By PositronCannon).avi
+!new/Digimon tamers/Digimon Tamers Episode 12 (Subbed By PositronCannon).avi
+!new/Digimon tamers/Digimon Tamers Episode 13 (Subbed By PositronCannon).avi
+!new/Digimon tamers/Digimon Tamers Episode 14 (Subbed By PositronCannon).avi
+!new/Digimon tamers/Digimon Tamers Episode 15 (Subbed By PositronCannon).avi
+!new/Digimon tamers/Digimon Tamers Episode 16 (Subbed By PositronCannon).avi
+!new/Digimon tamers/Digimon Tamers Episode 17 (Subbed By PositronCannon).avi
+!new/Digimon tamers/Digimon Tamers Episode 18 (Subbed By PositronCannon).avi
+!new/Digimon tamers/Digimon Tamers Episode 19 (Subbed By PositronCannon).avi
+!new/Digimon tamers/Digimon Tamers Episode 20 (Subbed By PositronCannon).avi
+!new/Digimon tamers/[DATS] Digimon Tamers - 04 [XviD][D5F7643B].avi
+!new/Digimon tamers/[DATS] Digimon Tamers - 05 [XviD][D5F7643B].avi
+!new/Digimon tamers/[DATS] Digimon Tamers - 06 [XviD][D5F7643B].avi
+!new/Digimon tamers/[DATS] Digimon Tamers - 08 [XviD][FAC61AD4].avi
+!new/Digimon tamers/[Positron-card] Digimon Tamers 42 (Xvid-mp3).avi
+!new/Digimon tamers/[Positron-card] Digimon Tamers 43 (Xvid-mp3).avi
+!new/Digimon tamers/[Positron-card] Digimon Tamers 44 (Xvid-mp3).avi
+!new/Digimon tamers/[Positron-card] Digimon Tamers 45 (Xvid-mp3).avi
+!new/Digimon tamers/[Positron-card] Digimon Tamers 46 (Xvid-mp3).avi
+!new/Digimon tamers/[Positron-card] Digimon Tamers 47 (Xvid-mp3).avi
+!new/Digimon tamers/[Positron-card] Digimon Tamers 48 (Xvid-mp3).avi
+!new/Digimon tamers/[Positron-card] Digimon Tamers 49 (Xvid-mp3).avi
+!new/Digimon tamers/[Positron-card] Digimon Tamers 50 (Xvid-mp3).avi
+!new/Digimon tamers/[Positron-card] Digimon Tamers 51 [FINAL] (Xvid-mp3).avi
+!new/Digimon tamers/[wpp]Digimon_Tamers_-_07_[E496C6AE].mkv
 !new/FF Unlimited/FFU01.avi
 !new/FF Unlimited/FFU02.avi
 !new/FF Unlimited/FFU03.avi
@@ -635,6 +661,8 @@
 !new/[Coalgirls]_Occult_Academy_SP03_(1920x1080_Blu-ray_FLAC)_[7C1D7592].mkv
 !new/[Commie] Asobi ni Ikuyo! - 03 [BD 1080p AAC] [974C00F9].mkv
 !new/[Commie] Asobi ni Ikuyo! - 04 [BD 1080p AAC] [839ECE8C].mkv
+!new/[Commie] Asobi ni Ikuyo! - 05 [BD 1080p AAC] [C308B5D2].mkv
+!new/[Commie] Asobi ni Ikuyo! - 06 [BD 1080p AAC] [07A29A8C].mkv
 !new/[EAC] [101110] TVアニメ そらのおとしものf（フォルテ） OP 「ハートの確率」[DVD付初回限定盤]／blue drops (ape+cue+ISO PD輸入).7z
 !new/[EAC] [101124] TVアニメ とある魔術の禁書目録（インデックス）II ED 「Magic∞world」[DVD付初回限定盤]／黒崎真音 (ape+cue+ISO　PD輸入).7z
 !new/[Force-Works] Iron Man - 10 [5B1A228E].mkv
@@ -670,6 +698,7 @@
 !new/[HorribleSubs] The World God Only Knows - 10 [720p].mkv
 !new/[HorribleSubs] Yumeiro Patissiere Professional - 09 [720p][C97C2EFC].mkv
 !new/[HorribleSubs] Yumeiro Patissiere Professional - 11 [720p].mkv
+!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 10 [1280x720 H264 OGG] [DD8192C3].mkv
 !new/[Mamiko]_Tamayura_OVA_04_TV_Broadcast_[720p]_[D9F48EEE].mkv
 !new/[Nipponsei] BLEACH ED25 Single - Last Moment [SPYAIR].zip
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
@@ -935,6 +964,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[gg]_Bakuman_-_11_[3BB4853E].mkv
 !new/[gg]_Soredemo_Machi_wa_Mawatteiru_-_10_[858BB188].mkv
 !new/[gg]_Star_Driver_-_09_[F96CF841].mkv
 !new/[gg]_Star_Driver_-_11_[4882B073].mkv
