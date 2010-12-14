@@ -685,6 +685,8 @@
 !new/[Commie] Asobi ni Ikuyo! - 04 [BD 1080p AAC] [839ECE8C].mkv
 !new/[Commie] Asobi ni Ikuyo! - 05 [BD 1080p AAC] [C308B5D2].mkv
 !new/[Commie] Asobi ni Ikuyo! - 06 [BD 1080p AAC] [07A29A8C].mkv
+!new/[DmonHiro] Shin Koihime Musou - Otome Tairan 05 (Bluray, 720p, AAC) [138625A5].mkv
+!new/[DmonHiro] Shin Koihime Musou - Otome Tairan 06 (Bluray, 720p, AAC) [89AA93EA].mkv
 !new/[EAC] [101110] TVアニメ そらのおとしものf（フォルテ） OP 「ハートの確率」[DVD付初回限定盤]／blue drops (ape+cue+ISO PD輸入).7z
 !new/[EAC] [101124] TVアニメ とある魔術の禁書目録（インデックス）II ED 「Magic∞world」[DVD付初回限定盤]／黒崎真音 (ape+cue+ISO　PD輸入).7z
 !new/[Force-Works] Iron Man - 10 [5B1A228E].mkv
@@ -696,6 +698,7 @@
 !new/[HorribleSubs] Bleach - 300 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 56 [720p][89E8C7E5].mkv
 !new/[HorribleSubs] Fairy Tail - 57 [720p].mkv
+!new/[HorribleSubs] Fairy Tail - 58 [720p].mkv
 !new/[HorribleSubs] Fortune Arterial - 09 [720p].mkv
 !new/[HorribleSubs] Fortune Arterial - 10 [720p].mkv
 !new/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 32 [720p][3447082A].mkv
@@ -708,6 +711,7 @@
 !new/[HorribleSubs] Naruto Shippuuden - 190 [720p].mkv
 !new/[HorribleSubs] Otome Yokai Zakuro - 09 [720p][E3F2C79D].mkv
 !new/[HorribleSubs] Otome Yokai Zakuro - 10 [720p].mkv
+!new/[HorribleSubs] Otome Yokai Zakuro - 11 [720p].mkv
 !new/[HorribleSubs] Panty and Stocking with Garterbelt - 10 [720p].mkv
 !new/[HorribleSubs] Panty and Stocking with Garterbelt - 11 [720p].mkv
 !new/[HorribleSubs] Shinryaku! Ika Musume - 10 [720p].mkv
@@ -748,6 +752,7 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
+!new/[Over-Time]_Kamen_Rider_OOO_-_14_[4569DA42].mkv
 !new/[RyRo]_Inazuma_Eleven_-_110_(1280x720_x264_AAC)_[56E81070].mkv
 !new/[Ryuumaru] MM! - 11 [71662CE1].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
@@ -993,6 +998,8 @@
 !new/[gg]_Soredemo_Machi_wa_Mawatteiru_-_10_[858BB188].mkv
 !new/[gg]_Star_Driver_-_09_[F96CF841].mkv
 !new/[gg]_Star_Driver_-_11_[4882B073].mkv
+!new/[mudabone] Hidamari Sketch Hoshimittsu SP2 v2 [BD 720p H264-AAC] [2F01EC30].mkv
+!new/[yibis]_One_Piece_479_[720p][64B26DAB].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
