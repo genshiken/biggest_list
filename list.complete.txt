@@ -5181,6 +5181,7 @@ complete/h/Heroman/[HorribleSubs] Heroman - 26 (1280x720) [End][6ABEBD8D].mkv
 complete/h/Hidamari Sketch Hoshi Mittsu Special/[Nutbladder] Hidamari Sketch Hoshi Mittsu Special - 1 [2E43FFC2].mkv
 complete/h/Hidamari Sketch Hoshi Mittsu Special/[Nutbladder] Hidamari Sketch Hoshi Mittsu Special - 2 [End][E3D40077].mkv
 complete/h/Hidamari Sketch Hoshi Mittsu Special/[mudabone] Hidamari Sketch Hoshimittsu Special - 1 [v2 720p BD][DF81A579].mkv
+complete/h/Hidamari Sketch Hoshi Mittsu Special/[mudabone] Hidamari Sketch Hoshimittsu Special - 2 [End][v2 720p BD][2F01EC30].mkv
 complete/h/Hidamari Sketch Hoshi Mittsu/[Nutbladder] Hidamari Sketch Hoshi Mittsu - 01 [27DCE80A].mkv
 complete/h/Hidamari Sketch Hoshi Mittsu/[Nutbladder] Hidamari Sketch Hoshi Mittsu - 02 [v2][FFFFFFFF].mkv
 complete/h/Hidamari Sketch Hoshi Mittsu/[Nutbladder] Hidamari Sketch Hoshi Mittsu - 03 [5004D38D].mkv
@@ -14433,9 +14434,6 @@ complete/z/Zoku Natsume Yuujinchou/[BSS] Zoku Natsume Yuujinchou - 10 [8C0A5F96]
 complete/z/Zoku Natsume Yuujinchou/[BSS] Zoku Natsume Yuujinchou - 11 [163D4F43].mkv
 complete/z/Zoku Natsume Yuujinchou/[BSS] Zoku Natsume Yuujinchou - 12 [25F2904B].mkv
 complete/z/Zoku Natsume Yuujinchou/[BSS] Zoku Natsume Yuujinchou - 13 [End][332C7C52].mkv
-complete/z/Zoku Sayonara Zetsubou Sensei/[...] Zoku Sayonara Zetsubou Sensei - 05 (1280x720) [503D0631].mkv
-complete/z/Zoku Sayonara Zetsubou Sensei/[a.f.k.] Zoku Sayonara Zetsubou Sensei - 03 [C462A473].avi
-complete/z/Zoku Sayonara Zetsubou Sensei/[a.f.k.] Zoku Sayonara Zetsubou Sensei - 04 [F55CDB15].avi
 complete/z/Zoku Sayonara Zetsubou Sensei/[anon] Zoku Sayonara Zetsubou Sensei - 06 [EF044889].mkv
 complete/z/Zoku Sayonara Zetsubou Sensei/[anon] Zoku Sayonara Zetsubou Sensei - 07 [D913521A].mkv
 complete/z/Zoku Sayonara Zetsubou Sensei/[anon] Zoku Sayonara Zetsubou Sensei - 08 [D1CD64FB].avi
@@ -14444,6 +14442,7 @@ complete/z/Zoku Sayonara Zetsubou Sensei/[uguu~] Zoku Sayonara Zetsubou Sensei -
 complete/z/Zoku Sayonara Zetsubou Sensei/[uguu~] Zoku Sayonara Zetsubou Sensei - 02 [DVD][0992BEBB].mkv
 complete/z/Zoku Sayonara Zetsubou Sensei/[uguu~] Zoku Sayonara Zetsubou Sensei - 03 [DVD][F3B12BC7].mkv
 complete/z/Zoku Sayonara Zetsubou Sensei/[uguu~] Zoku Sayonara Zetsubou Sensei - 04 [DVD][806161D7].mkv
+complete/z/Zoku Sayonara Zetsubou Sensei/[uguu~] Zoku Sayonara Zetsubou Sensei - 05 [DVD][4F8B02B2].mkv
 complete/z/Zoku Sayonara Zetsubou Sensei/[volans] Zoku Sayonara Zetsubou Sensei - 10 [C516C96D].mkv
 complete/z/Zoku Sayonara Zetsubou Sensei/[volans] Zoku Sayonara Zetsubou Sensei - 11 [65382D64].mkv
 complete/z/Zoku Sayonara Zetsubou Sensei/[volans] Zoku Sayonara Zetsubou Sensei - 12 [257F369B].mkv

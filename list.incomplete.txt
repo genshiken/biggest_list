@@ -252,6 +252,8 @@ incomplete/Bakuman/[gg] Bakuman - 06 [0F2465F0].mkv
 incomplete/Bakuman/[gg] Bakuman - 07 [6930B02E].mkv
 incomplete/Bakuman/[gg] Bakuman - 08 [A7DE7894].mkv
 incomplete/Bakuman/[gg] Bakuman - 09 [CF0612CD].mkv
+incomplete/Bakuman/[gg] Bakuman - 10 [F8D3E973].mkv
+incomplete/Bakuman/[gg] Bakuman - 11 [3BB4853E].mkv
 incomplete/Bakumatsu Kikansetsu Irohanihoheto/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 01 [DVD][DAC042E0].mkv
 incomplete/Bakumatsu Kikansetsu Irohanihoheto/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 02 [DVD][19B75C94].mkv
 incomplete/Bakumatsu Kikansetsu Irohanihoheto/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 03 [DVD][DEBB5FEF].mkv
@@ -1922,7 +1924,7 @@ incomplete/MM!/[Ryuumaru] MM! - 07 [812B8FA8].mkv
 incomplete/MM!/[Ryuumaru] MM! - 08 [5B0F82EF].mkv
 incomplete/MM!/[Ryuumaru] MM! - 09 [4C9DF5B6].mkv
 incomplete/MM!/[Ryuumaru] MM! - 10 [2ADF5758].mkv
-incomplete/MM!/[Ryuumaru] MM! - 11 [v0][3EE795D8].mkv
+incomplete/MM!/[Ryuumaru] MM! - 11 [71662CE1].mkv
 incomplete/Maburaho/[Anime-Keep] Maburaho - 01 [F5BA0680].avi
 incomplete/Maburaho/[Anime-Keep] Maburaho - 02 [BFE818CB].avi
 incomplete/Maburaho/[Anime-Keep] Maburaho - 03 [BD152155].avi
@@ -2764,6 +2766,7 @@ incomplete/One Piece/[yibis] One Piece - 475 [720p][DA70B31F].mkv
 incomplete/One Piece/[yibis] One Piece - 476 [720p][B7BFA115].mkv
 incomplete/One Piece/[yibis] One Piece - 477 [720p][EAF11619].mkv
 incomplete/One Piece/[yibis] One Piece - 478 [720p][2997CFCB].mkv
+incomplete/One Piece/[yibis] One Piece - 479 [720p][64B26DAB].mkv
 incomplete/Ontama!/[DATS] Ontama! - 01 [2F0C7231].mkv
 incomplete/Ontama!/[DATS] Ontama! - 02 [2FBB11E1].mkv
 incomplete/Ontama!/[DATS] Ontama! - 03 [00BDF47B].mkv
@@ -3261,6 +3264,7 @@ incomplete/Soredemo Machi wa Mawatteiru/[gg] Soredemo Machi wa Mawatteiru - 06 [
 incomplete/Soredemo Machi wa Mawatteiru/[gg] Soredemo Machi wa Mawatteiru - 07 [D93381E9].mkv
 incomplete/Soredemo Machi wa Mawatteiru/[gg] Soredemo Machi wa Mawatteiru - 08 [v2][EB17EAD2].mkv
 incomplete/Soredemo Machi wa Mawatteiru/[gg] Soredemo Machi wa Mawatteiru - 09 [F88023AD].mkv
+incomplete/Soredemo Machi wa Mawatteiru/[gg] Soredemo Machi wa Mawatteiru - 10 [858BB188].mkv
 incomplete/Souten Kouro/[Lunar] Souten Kouro - 01 (1280x720) [B78A2C08].mkv
 incomplete/Souten Kouro/[Lunar] Souten Kouro - 02 (1280x720) [C21CD208].mkv
 incomplete/Souten Kouro/[Lunar] Souten Kouro - 03 (1280x720) [AF5759E1].mkv
@@ -3288,7 +3292,9 @@ incomplete/Star Driver/[gg] Star Driver - 05 [7C8FBC51].mkv
 incomplete/Star Driver/[gg] Star Driver - 06 [D05189FA].mkv
 incomplete/Star Driver/[gg] Star Driver - 07 [B1198FC6].mkv
 incomplete/Star Driver/[gg] Star Driver - 08 [8F6947C7].mkv
+incomplete/Star Driver/[gg] Star Driver - 09 [F96CF841].mkv
 incomplete/Star Driver/[gg] Star Driver - 10 [FBE11D62].mkv
+incomplete/Star Driver/[gg] Star Driver - 11 [4882B073].mkv
 incomplete/Strong World/[yibis] Strong World - 0 [DVD][49C1A026].mkv
 incomplete/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 01 [720p][3E29FBE4].mkv
 incomplete/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 02 [720p][2BB50ED0].mkv

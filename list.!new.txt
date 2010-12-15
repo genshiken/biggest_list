@@ -788,6 +788,7 @@
 !new/[DB]_Hakuouki_21_[F6D88BB8].avi
 !new/[DmonHiro] Shin Koihime Musou - Otome Tairan 05 (Bluray, 720p, AAC) [138625A5].mkv
 !new/[DmonHiro] Shin Koihime Musou - Otome Tairan 06 (Bluray, 720p, AAC) [89AA93EA].mkv
+!new/[Doremi].HeartCatch.PreCure!.43.[1280x720].[D192ECF6].mkv
 !new/[EAC] [101110] TVアニメ そらのおとしものf（フォルテ） OP 「ハートの確率」[DVD付初回限定盤]／blue drops (ape+cue+ISO PD輸入).7z
 !new/[EAC] [101124] TVアニメ とある魔術の禁書目録（インデックス）II ED 「Magic∞world」[DVD付初回限定盤]／黒崎真音 (ape+cue+ISO　PD輸入).7z
 !new/[Force-Works] Iron Man - 10 [5B1A228E].mkv
@@ -859,7 +860,6 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
 !new/[Over-Time]_Kamen_Rider_OOO_-_14_[4569DA42].mkv
 !new/[RyRo]_Inazuma_Eleven_-_110_(1280x720_x264_AAC)_[56E81070].mkv
-!new/[Ryuumaru] MM! - 11 [71662CE1].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -1099,14 +1099,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[UTW-Ryuumaru] Yosuga no Sora - 09 [720p][7E484C09].mkv
-!new/[gg]_Bakuman_-_11_[3BB4853E].mkv
-!new/[gg]_Soredemo_Machi_wa_Mawatteiru_-_10_[858BB188].mkv
-!new/[gg]_Star_Driver_-_09_[F96CF841].mkv
-!new/[gg]_Star_Driver_-_11_[4882B073].mkv
-!new/[mudabone] Hidamari Sketch Hoshimittsu SP2 v2 [BD 720p H264-AAC] [2F01EC30].mkv
-!new/[uguu~]_Zoku_Sayonara_Zetsubou_Sensei_05_(DVD)_[4F8B02B2].mkv
-!new/[yibis]_One_Piece_479_[720p][64B26DAB].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
