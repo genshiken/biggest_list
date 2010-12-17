@@ -794,6 +794,7 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Omake OVA [nnl].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (arranged) [nnl+b-f].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
+!new/[AonE]_Shinrei_Tantei_Yakumo_09_[72BF24FF].mkv
 !new/[BWS]Pocket_Monsters_Best_Wishes_012_The_Yabukuron_Squadron_and_the_Secret_Base![H264_720P][1FE331D9].mkv
 !new/[Coalgirls]_Occult_Academy_05_(1920x1080_Blu-ray_FLAC)_[67C3380B].mkv
 !new/[Coalgirls]_Occult_Academy_06_(1920x1080_Blu-ray_FLAC)_[BEB25D96].mkv
@@ -802,6 +803,7 @@
 !new/[Commie] Asobi ni Ikuyo! - 04 [BD 1080p AAC] [839ECE8C].mkv
 !new/[Commie] Asobi ni Ikuyo! - 05 [BD 1080p AAC] [C308B5D2].mkv
 !new/[Commie] Asobi ni Ikuyo! - 06 [BD 1080p AAC] [07A29A8C].mkv
+!new/[Commie] Motto To Love-ru - 11 [BE784D9F].mkv
 !new/[CureCom] Fresh Pretty Cure! - 17 [HD][1A86C2B7].mkv
 !new/[DB]_Hakuouki_21_[F6D88BB8].avi
 !new/[DmonHiro] Shin Koihime Musou - Otome Tairan 05 (Bluray, 720p, AAC) [138625A5].mkv
@@ -815,6 +817,7 @@
 !new/[GotWoot]_Moonlight_Mile_S2_-_03_[720p_H264][356E025C].mkv
 !new/[Hiryuu] Hyakka Ryouran Samurai Girls 09 [1280x720 H264 AAC] [B97ACCDF].mkv
 !new/[Hiryuu] Hyakka Ryouran Samurai Girls 10 [1280x720 H264 AAC] [F95B3C21].mkv
+!new/[Hiryuu] Hyakka Ryouran Samurai Girls 11 [1280x720 H264 AAC] [B86A67B9].mkv
 !new/[HorribleSubs] Bleach - 299 [720p][B328AC60].mkv
 !new/[HorribleSubs] Bleach - 300 [720p].mkv
 !new/[HorribleSubs] Bleach - 301 [720p].mkv
@@ -856,6 +859,7 @@
 !new/[Nipponsei] BLEACH ED25 Single - Last Moment [SPYAIR].zip
 !new/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.3 - Nakagawa Kanon [Touyama Nao].zip
 !new/[Nipponsei] Shinryaku! Ika Musume - Kore ga Umi he no Ai ja nai ka! [Kanemoto Hisako].zip
+!new/[Nutbladder]_Arakawa_Under_the_Bridge_×2_-_11_[0B107E9D].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -881,6 +885,7 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
 !new/[Over-Time]_Kamen_Rider_OOO_-_14_[4569DA42].mkv
 !new/[ReDone] To Heart ~Remember my Memories~ 09 (DVD) [5FA250D2].mkv
+!new/[RyRo]_Digimon_Xros_Wars_-_20_(1280x720_x264_AAC)_[D88C17D1].mkv
 !new/[RyRo]_Inazuma_Eleven_-_110_(1280x720_x264_AAC)_[56E81070].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
@@ -1122,6 +1127,8 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[WhyNot] Nurarihyon no Mago - 24 [625509F3].mkv
+!new/[gg]_Togainu_no_Chi_-_11_[B3BC3D06].mkv
+!new/[umee]_Shiki_-_20_[7836A4EC].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
