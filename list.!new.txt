@@ -697,6 +697,22 @@
 !new/Seikai no Senki II/[A-Et] Seikai no Senki II - 08 (5236EDA2).mkv
 !new/Seikai no Senki II/[A-Et] Seikai no Senki II - 09 (820385B4).mkv
 !new/Seikai no Senki II/[A-Et] Seikai no Senki II - 10 (End) (2F51269B).mkv
+!new/Sora_no_Woto_-_01_[BD_1080p][AtsA][01E5F199].mkv
+!new/Sora_no_Woto_-_02_[BD_1080p][AtsA][9231AD81].mkv
+!new/Sora_no_Woto_-_03_[BD_1080p][AtsA][F488182F].mkv
+!new/Sora_no_Woto_-_04_[BD_1080p][AtsA][6928D160].mkv
+!new/Sora_no_Woto_-_05_[BD_1080p][AtsA][A6A2B994].mkv
+!new/Sora_no_Woto_-_06_[BD_1080p][AtsA][ACD1D907].mkv
+!new/Sora_no_Woto_-_07.5_[BD_1080p][AtsA][2E8FA79C].mkv
+!new/Sora_no_Woto_-_07_[BD_1080p][AtsA][9A30FC39].mkv
+!new/Sora_no_Woto_-_08_[BD_1080p][AtsA][5BC3ED69].mkv
+!new/Sora_no_Woto_-_09_[BD_1080p][AtsA][45E1FCB4].mkv
+!new/Sora_no_Woto_-_10_[BD_1080p][AtsA][EAC53535].mkv
+!new/Sora_no_Woto_-_11_[BD_1080p][AtsA][85C1F1DD].mkv
+!new/Sora_no_Woto_-_12_[BD_1080p][AtsA][62991071].mkv
+!new/Sora_no_Woto_-_13_[BD_1080p][AtsA][61ADC923].mkv
+!new/Sora_no_Woto_-_ED_[BD_1080p][AtsA][26EE1D43].mkv
+!new/Sora_no_Woto_-_OP_[BD_1080p][AtsA][5C8D97A8].mkv
 !new/Soul Eater/[Arigatou] Soul Eater - 01 [64480E45].mkv
 !new/Soul Eater/[Arigatou] Soul Eater - 02 [27887F6A].mkv
 !new/Soul Eater/[Arigatou] Soul Eater - 03 [6DA31886].mkv
@@ -815,6 +831,7 @@
 !new/[HorribleSubs] Lilpri - 37 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 190 [480p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 190 [720p].mkv
+!new/[HorribleSubs] Naruto Shippuuden - 191 [720p].mkv
 !new/[HorribleSubs] Otome Yokai Zakuro - 09 [720p][E3F2C79D].mkv
 !new/[HorribleSubs] Otome Yokai Zakuro - 10 [720p].mkv
 !new/[HorribleSubs] Otome Yokai Zakuro - 11 [720p].mkv
@@ -863,6 +880,7 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
 !new/[Over-Time]_Kamen_Rider_OOO_-_14_[4569DA42].mkv
+!new/[ReDone] To Heart ~Remember my Memories~ 09 (DVD) [5FA250D2].mkv
 !new/[RyRo]_Inazuma_Eleven_-_110_(1280x720_x264_AAC)_[56E81070].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
