@@ -83,21 +83,23 @@
 !new/-baru87-/akb/jgn dhps/[PV] (Q10 Theme Song) Takahashi Yu - Honto no Kimochi.avi
 !new/-baru87-/akb/jgn dhps/akb-news-batch-101026-1104.tar
 !new/-baru87-/akb/jgn dhps/index.html
-!new/-baru87-/xxq/DragonTV.Xia.Qiu.Zhuan.Ep01-02.720p.HDTV.x264-CHDTV.nfo
-!new/-baru87-/xxq/DragonTV.Xia.Qiu.Zhuan.Ep01.720p.HDTV.x264-CHDTV.mkv000
-!new/-baru87-/xxq/DragonTV.Xia.Qiu.Zhuan.Ep01.720p.HDTV.x264-CHDTV.mkv001
-!new/-baru87-/xxq/DragonTV.Xia.Qiu.Zhuan.Ep02.720p.HDTV.x264-CHDTV.mkv000
-!new/-baru87-/xxq/DragonTV.Xia.Qiu.Zhuan.Ep02.720p.HDTV.x264-CHDTV.mkv001
-!new/-baru87-/xxq/DragonTV.Xia.Qiu.Zhuan.Ep04.720p.HDTV.x264-CHDTV.mkv000
-!new/-baru87-/xxq/DragonTV.Xia.Qiu.Zhuan.Ep04.720p.HDTV.x264-CHDTV.mkv001
-!new/-baru87-/xxq/DragonTV.Xia.Qiu.Zhuan.Ep05.720p.HDTV.x264-CHDTV.mkv000
-!new/-baru87-/xxq/DragonTV.Xia.Qiu.Zhuan.Ep05.720p.HDTV.x264-CHDTV.mkv001
 !new/-baru87-/xxq/Gun.Metal.Grey.Ep15.720p.HDTV.x264-CHDTV.chs.srt
 !new/-baru87-/xxq/Gun.Metal.Grey.Ep15.720p.HDTV.x264-CHDTV.mkv000
 !new/-baru87-/xxq/Gun.Metal.Grey.Ep15.720p.HDTV.x264-CHDTV.mkv001
 !new/-baru87-/xxq/Gun.Metal.Grey.Ep16.720p.HDTV.x264-CHDTV.mkv000
 !new/-baru87-/xxq/Gun.Metal.Grey.Ep16.720p.HDTV.x264-CHDTV.mkv001
 !new/-baru87-/xxq/Gun.Metal.Grey.Ep16.720p.HDTV.x264-CHDTV.srt
+!new/-baru87-/xxq/My.Happy.Home.E13.720p.HDTV.x264-TRiNiTY.mkv000
+!new/-baru87-/xxq/My.Happy.Home.E13.720p.HDTV.x264-TRiNiTY.mkv001
+!new/-baru87-/xxq/My.Happy.Home.E13.720p.HDTV.x264-TRiNiTY.mkv002
+!new/-baru87-/xxq/My.Happy.Home.E14.720p.HDTV.x264-TRiNiTY.mkv000
+!new/-baru87-/xxq/My.Happy.Home.E14.720p.HDTV.x264-TRiNiTY.mkv001
+!new/-baru87-/xxq/My.Happy.Home.E14.720p.HDTV.x264-TRiNiTY.mkv002
+!new/-baru87-/xxq/President E01 810p HDTV x264-DaNsiM.mkv000
+!new/-baru87-/xxq/President E01 810p HDTV x264-DaNsiM.mkv001
+!new/-baru87-/xxq/President E01 810p HDTV x264-DaNsiM.mkv002
+!new/-baru87-/xxq/President E02 720p HDTV x264-DaNsiM.mkv000
+!new/-baru87-/xxq/President E02 720p HDTV x264-DaNsiM.mkv001
 !new/-baru87-/xxq/SZTV.Yu.Le.Mei.You.Quan.CAST.720p.HDTV.x264-CHDTV.mkv
 !new/-baru87-/xxq/SZTV.Yu.Le.Mei.You.Quan.Ep01.720p.HDTV.x264-CHDTV.mkv000
 !new/-baru87-/xxq/SZTV.Yu.Le.Mei.You.Quan.Ep01.720p.HDTV.x264-CHDTV.mkv001
@@ -117,6 +119,8 @@
 !new/-baru87-/xxq/TVB.No.Regrets.E10.720p.HDTV.x264-CHDTV.chs.srt
 !new/-baru87-/xxq/TVB.No.Regrets.E10.720p.HDTV.x264-CHDTV.mkv000
 !new/-baru87-/xxq/TVB.No.Regrets.E10.720p.HDTV.x264-CHDTV.mkv001
+!new/-baru87-/xxq/Yaksha.E01.720p.HDTV.x264-LoI.mkv000
+!new/-baru87-/xxq/Yaksha.E01.720p.HDTV.x264-LoI.mkv001
 !new/-baru87-/xxq/[8CYBER]Some Day_EP101_101105.mp4
 !new/-baru87-/xxq/[8CYBER]Some Day_EP102_101108.mp4
 !new/-baru87-/xxq/[8CYBER]Some Day_EP103_101109.mp4
@@ -826,6 +830,7 @@
 !new/[HorribleSubs] Fairy Tail - 58 [720p].mkv
 !new/[HorribleSubs] Fortune Arterial - 09 [720p].mkv
 !new/[HorribleSubs] Fortune Arterial - 10 [720p].mkv
+!new/[HorribleSubs] Fortune Arterial - 11 [720p].mkv
 !new/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 32 [720p][3447082A].mkv
 !new/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 35 [720p][940C70F4].mkv
 !new/[HorribleSubs] Hyakka Ryouran Samurai Girls - 10 [720p].mkv
@@ -843,6 +848,7 @@
 !new/[HorribleSubs] Shinryaku! Ika Musume - 10 [720p].mkv
 !new/[HorribleSubs] Sora No Otoshimono Forte - 10 [720p].mkv
 !new/[HorribleSubs] Sora No Otoshimono Forte - 11 [720p].mkv
+!new/[HorribleSubs] Sora No Otoshimono Forte - 12 [720p].mkv
 !new/[HorribleSubs] Squid Girl - 08 [720p][94E199BD].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 09 [720p][BE3FDF4C].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 11 [720p].mkv
