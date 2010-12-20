@@ -298,6 +298,7 @@
 !new/Anything Goes.7z
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - 599 [DCTP][720p][2C2E878A].mp4
 !new/Digimon tamers/Digimon Tamers Episode 10 (Subbed By PositronCannon).avi
 !new/Digimon tamers/Digimon Tamers Episode 11 (Subbed By PositronCannon).avi
 !new/Digimon tamers/Digimon Tamers Episode 12 (Subbed By PositronCannon).avi
@@ -971,6 +972,7 @@
 !new/[Commie] Asobi ni Ikuyo! - 05 [BD 1080p AAC] [C308B5D2].mkv
 !new/[Commie] Asobi ni Ikuyo! - 06 [BD 1080p AAC] [07A29A8C].mkv
 !new/[Commie] Motto To Love-ru - 11 [BE784D9F].mkv
+!new/[Commie] The Legend of the Legendary Heroes - 24 [280F2272].mkv
 !new/[CureCom] Fresh Pretty Cure! - 17 [HD][1A86C2B7].mkv
 !new/[DB]_Hakuouki_21_[F6D88BB8].avi
 !new/[DmonHiro] Shin Koihime Musou - Otome Tairan 05 (Bluray, 720p, AAC) [138625A5].mkv
@@ -1000,6 +1002,7 @@
 !new/[HorribleSubs] Hyakka Ryouran Samurai Girls - 11 [720p].mkv
 !new/[HorribleSubs] Letter Bee Reverse - 34 [720p][56D6AD3F].mkv
 !new/[HorribleSubs] Lilpri - 37 [720p].mkv
+!new/[HorribleSubs] Lilpri - 38 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 190 [480p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 190 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 191 [720p].mkv
@@ -1016,15 +1019,19 @@
 !new/[HorribleSubs] Squid Girl - 08 [720p][94E199BD].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 09 [720p][BE3FDF4C].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 11 [720p].mkv
+!new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 12 [720p].mkv
 !new/[HorribleSubs] Tegami Bachi REVERSE - 36 [720p].mkv
+!new/[HorribleSubs] Tegami Bachi REVERSE - 37 [720p].mkv
 !new/[HorribleSubs] The World God Only Knows - 09 [720p][357A6C55].mkv
 !new/[HorribleSubs] The World God Only Knows - 10 [720p].mkv
 !new/[HorribleSubs] The World God Only Knows - 11 [720p].mkv
 !new/[HorribleSubs] Yumeiro Patissiere Professional - 09 [720p][C97C2EFC].mkv
 !new/[HorribleSubs] Yumeiro Patissiere Professional - 11 [720p].mkv
+!new/[HorribleSubs] Yumeiro Patissiere Professional - 12 [720p].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 10 [1280x720 H264 OGG] [DD8192C3].mkv
 !new/[Mamiko]_Tamayura_OVA_04_TV_Broadcast_[720p]_[D9F48EEE].mkv
 !new/[Mazui]_Ore_No_Imouto_-_11_[8C8D660E].mkv
+!new/[Mazui]_Ore_No_Imouto_-_12_[37BF0908].mkv
 !new/[Nipponsei] Amagami SS ED6 Single - Nageki no Tenshi [Nazuka Kaori].zip
 !new/[Nipponsei] BLEACH ED25 Single - Last Moment [SPYAIR].zip
 !new/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.3 - Nakagawa Kanon [Touyama Nao].zip
@@ -1306,6 +1313,7 @@
 !new/[Underwater] Shinryaku! Ika Musume - 10 [720p][84F3A016].mkv
 !new/[WhyNot] Nurarihyon no Mago - 24 [625509F3].mkv
 !new/[gg]_Soredemo_Machi_wa_Mawatteiru_-_11_[D6E9EA50].mkv
+!new/[gg]_Star_Driver_-_12_[46CCA21F].mkv
 !new/[gg]_Togainu_no_Chi_-_11_[B3BC3D06].mkv
 !new/[umee]_Princess_Jellyfish_-_09_[83623022].mkv
 !new/[umee]_Shiki_-_20_[7836A4EC].mkv
