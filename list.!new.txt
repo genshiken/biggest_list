@@ -962,6 +962,8 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Omake OVA [nnl].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (arranged) [nnl+b-f].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
+!new/[AonE]_Haiyoru!_Nyaruani_TV_01_[774ABC46].mkv
+!new/[AonE]_Haiyoru!_Nyaruani_TV_02_[B014A8CE].mkv
 !new/[AonE]_Shinrei_Tantei_Yakumo_09_[72BF24FF].mkv
 !new/[BWS]Pocket_Monsters_Best_Wishes_012_The_Yabukuron_Squadron_and_the_Secret_Base![H264_720P][1FE331D9].mkv
 !new/[Baaka] Tantei Opera Milky Holmes - 11 [1280x720][3A77AB9E].mkv
@@ -1036,6 +1038,7 @@
 !new/[Mamiko]_Tamayura_OVA_04_TV_Broadcast_[720p]_[D9F48EEE].mkv
 !new/[Mazui]_Ore_No_Imouto_-_11_[8C8D660E].mkv
 !new/[Mazui]_Ore_No_Imouto_-_12_[37BF0908].mkv
+!new/[Monokage]_Bungaku_Shoujo_The_Movie_[1080p-FLAC][5A0B3B7B].mkv
 !new/[Nipponsei] Amagami SS ED6 Single - Nageki no Tenshi [Nazuka Kaori].zip
 !new/[Nipponsei] BLEACH ED25 Single - Last Moment [SPYAIR].zip
 !new/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.3 - Nakagawa Kanon [Touyama Nao].zip
@@ -1070,6 +1073,7 @@
 !new/[RyRo]_Digimon_Xros_Wars_-_20_(1280x720_x264_AAC)_[D88C17D1].mkv
 !new/[RyRo]_Inazuma_Eleven_-_110_(1280x720_x264_AAC)_[56E81070].mkv
 !new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 09 [720p][780DDF54].mkv
+!new/[Ryuumaru] MM! - 12 [603F489D].mkv
 !new/[SS]_Fortune_Arterial_-_10_[B123468F].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
@@ -1313,10 +1317,12 @@
 !new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_11_[720p][FB30D0DD].mkv
 !new/[UTW]_Amagami_SS_-_24_[h264-720p][5231B111].mkv
 !new/[Underwater-Ryuumaru] Otome Youkai Zakuro - 11 [720p][5CE47E7D].mkv
+!new/[Underwater-Ryuumaru] Otome Youkai Zakuro - 12 [720p][214CE7C4].mkv
 !new/[Underwater] Panty & Stocking with Garterbelt - 12 [A548D681].mkv
 !new/[Underwater] Shinryaku! Ika Musume - 10 [720p][84F3A016].mkv
 !new/[Underwater] Shinryaku! Ika Musume - 11 [720p][876B7C27].mkv
 !new/[WhyNot] Nurarihyon no Mago - 24 [625509F3].mkv
+!new/[Yoroshiku]_Happy_Happy_Clover_-_04_[E6767716].mkv
 !new/[gg]_Bakuman_-_12_[7FA6FE91].mkv
 !new/[gg]_Soredemo_Machi_wa_Mawatteiru_-_11_[D6E9EA50].mkv
 !new/[gg]_Star_Driver_-_12_[46CCA21F].mkv
