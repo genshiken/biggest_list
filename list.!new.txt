@@ -967,6 +967,7 @@
 !new/[AonE]_Shinrei_Tantei_Yakumo_09_[72BF24FF].mkv
 !new/[BWS]Pocket_Monsters_Best_Wishes_012_The_Yabukuron_Squadron_and_the_Secret_Base![H264_720P][1FE331D9].mkv
 !new/[Baaka] Tantei Opera Milky Holmes - 11 [1280x720][3A77AB9E].mkv
+!new/[Coalgirls]_Black_Rock_Shooter_(1920x1080_Blu-Ray_FLAC)_[73BF3D55].mkv
 !new/[Coalgirls]_Occult_Academy_05_(1920x1080_Blu-ray_FLAC)_[67C3380B].mkv
 !new/[Coalgirls]_Occult_Academy_06_(1920x1080_Blu-ray_FLAC)_[BEB25D96].mkv
 !new/[Coalgirls]_Occult_Academy_SP03_(1920x1080_Blu-ray_FLAC)_[7C1D7592].mkv
@@ -993,6 +994,7 @@
 !new/[HorribleSubs] Bleach - 299 [720p][B328AC60].mkv
 !new/[HorribleSubs] Bleach - 300 [720p].mkv
 !new/[HorribleSubs] Bleach - 301 [720p].mkv
+!new/[HorribleSubs] Bleach - 302 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 56 [720p][89E8C7E5].mkv
 !new/[HorribleSubs] Fairy Tail - 57 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 58 [720p].mkv
@@ -1072,6 +1074,7 @@
 !new/[ReDone] Touka Gettan - 17 (DVD) [CB905D74].mkv
 !new/[RyRo]_Digimon_Xros_Wars_-_20_(1280x720_x264_AAC)_[D88C17D1].mkv
 !new/[RyRo]_Inazuma_Eleven_-_110_(1280x720_x264_AAC)_[56E81070].mkv
+!new/[RyRo]_Inazuma_Eleven_-_111_(1280x720_x264_AAC)_[B0AB2412].mkv
 !new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 09 [720p][780DDF54].mkv
 !new/[Ryuumaru] MM! - 12 [603F489D].mkv
 !new/[SS]_Fortune_Arterial_-_10_[B123468F].mkv
@@ -1315,6 +1318,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_11_[720p][FB30D0DD].mkv
+!new/[UTW-Ryuumaru] Yosuga no Sora - 12 [720p][9C862D55].mkv
 !new/[UTW]_Amagami_SS_-_24_[h264-720p][5231B111].mkv
 !new/[Underwater-Ryuumaru] Otome Youkai Zakuro - 11 [720p][5CE47E7D].mkv
 !new/[Underwater-Ryuumaru] Otome Youkai Zakuro - 12 [720p][214CE7C4].mkv
