@@ -964,6 +964,7 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
 !new/[AonE]_Shinrei_Tantei_Yakumo_09_[72BF24FF].mkv
 !new/[BWS]Pocket_Monsters_Best_Wishes_012_The_Yabukuron_Squadron_and_the_Secret_Base![H264_720P][1FE331D9].mkv
+!new/[Baaka] Tantei Opera Milky Holmes - 11 [1280x720][3A77AB9E].mkv
 !new/[Coalgirls]_Occult_Academy_05_(1920x1080_Blu-ray_FLAC)_[67C3380B].mkv
 !new/[Coalgirls]_Occult_Academy_06_(1920x1080_Blu-ray_FLAC)_[BEB25D96].mkv
 !new/[Coalgirls]_Occult_Academy_SP03_(1920x1080_Blu-ray_FLAC)_[7C1D7592].mkv
@@ -993,6 +994,7 @@
 !new/[HorribleSubs] Fairy Tail - 56 [720p][89E8C7E5].mkv
 !new/[HorribleSubs] Fairy Tail - 57 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 58 [720p].mkv
+!new/[HorribleSubs] Fairy Tail - 59 [720p].mkv
 !new/[HorribleSubs] Fortune Arterial - 09 [720p].mkv
 !new/[HorribleSubs] Fortune Arterial - 10 [720p].mkv
 !new/[HorribleSubs] Fortune Arterial - 11 [720p].mkv
@@ -1009,6 +1011,7 @@
 !new/[HorribleSubs] Otome Yokai Zakuro - 09 [720p][E3F2C79D].mkv
 !new/[HorribleSubs] Otome Yokai Zakuro - 10 [720p].mkv
 !new/[HorribleSubs] Otome Yokai Zakuro - 11 [720p].mkv
+!new/[HorribleSubs] Otome Yokai Zakuro - 12 [720p].mkv
 !new/[HorribleSubs] Panty and Stocking with Garterbelt - 10 [720p].mkv
 !new/[HorribleSubs] Panty and Stocking with Garterbelt - 11 [720p].mkv
 !new/[HorribleSubs] Panty and Stocking with Garterbelt - 12 [720p].mkv
@@ -1029,6 +1032,7 @@
 !new/[HorribleSubs] Yumeiro Patissiere Professional - 11 [720p].mkv
 !new/[HorribleSubs] Yumeiro Patissiere Professional - 12 [720p].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 10 [1280x720 H264 OGG] [DD8192C3].mkv
+!new/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 30 [H264 1280x720] [E4B59487].mkv
 !new/[Mamiko]_Tamayura_OVA_04_TV_Broadcast_[720p]_[D9F48EEE].mkv
 !new/[Mazui]_Ore_No_Imouto_-_11_[8C8D660E].mkv
 !new/[Mazui]_Ore_No_Imouto_-_12_[37BF0908].mkv
@@ -1311,7 +1315,9 @@
 !new/[Underwater-Ryuumaru] Otome Youkai Zakuro - 11 [720p][5CE47E7D].mkv
 !new/[Underwater] Panty & Stocking with Garterbelt - 12 [A548D681].mkv
 !new/[Underwater] Shinryaku! Ika Musume - 10 [720p][84F3A016].mkv
+!new/[Underwater] Shinryaku! Ika Musume - 11 [720p][876B7C27].mkv
 !new/[WhyNot] Nurarihyon no Mago - 24 [625509F3].mkv
+!new/[gg]_Bakuman_-_12_[7FA6FE91].mkv
 !new/[gg]_Soredemo_Machi_wa_Mawatteiru_-_11_[D6E9EA50].mkv
 !new/[gg]_Star_Driver_-_12_[46CCA21F].mkv
 !new/[gg]_Togainu_no_Chi_-_11_[B3BC3D06].mkv
