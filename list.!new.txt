@@ -965,6 +965,8 @@
 !new/[AonE]_Haiyoru!_Nyaruani_TV_01_[774ABC46].mkv
 !new/[AonE]_Haiyoru!_Nyaruani_TV_02_[B014A8CE].mkv
 !new/[AonE]_Shinrei_Tantei_Yakumo_09_[72BF24FF].mkv
+!new/[AonE]_Shinrei_Tantei_Yakumo_10_[8740B372].mkv
+!new/[AonE]_Shinrei_Tantei_Yakumo_11_[EEA06D21].mkv
 !new/[BWS]Pocket_Monsters_Best_Wishes_012_The_Yabukuron_Squadron_and_the_Secret_Base![H264_720P][1FE331D9].mkv
 !new/[Baaka] Tantei Opera Milky Holmes - 11 [1280x720][3A77AB9E].mkv
 !new/[Coalgirls]_Black_Rock_Shooter_(1920x1080_Blu-Ray_FLAC)_[73BF3D55].mkv
@@ -1331,12 +1333,15 @@
 !new/[Underwater] Shinryaku! Ika Musume - 11 [720p][876B7C27].mkv
 !new/[WhyNot] Nurarihyon no Mago - 24 [625509F3].mkv
 !new/[Yoroshiku]_Happy_Happy_Clover_-_04_[E6767716].mkv
+!new/[Yoroshiku]_Happy_Happy_Clover_-_05_[20F325F8].mkv
 !new/[gg]_Bakuman_-_12_[7FA6FE91].mkv
 !new/[gg]_Soredemo_Machi_wa_Mawatteiru_-_11_[D6E9EA50].mkv
 !new/[gg]_Star_Driver_-_12_[46CCA21F].mkv
 !new/[gg]_Togainu_no_Chi_-_11_[B3BC3D06].mkv
+!new/[gleam] Kurenai OVA - 02 [OAD][c385e167].mkv
 !new/[umee]_Princess_Jellyfish_-_09_[83623022].mkv
 !new/[umee]_Shiki_-_20_[7836A4EC].mkv
+!new/[yibis]_One_Piece_480_[720p][AFE9F598].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
