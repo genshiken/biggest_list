@@ -7627,6 +7627,18 @@ complete/m/MAR/[SS-AnY] MAR - 099 [3B4F0C8D].avi
 complete/m/MAR/[SS-AnY] MAR - 100 [1DBB5DA7].avi
 complete/m/MAR/[SS-AnY] MAR - 101 [BC3677F7].avi
 complete/m/MAR/[SS-AnY] MAR - 102 [End][A050C0AE].avi
+complete/m/MM!/[Ryuumaru] MM! - 01 [v2][7FEBDF8F].mkv
+complete/m/MM!/[Ryuumaru] MM! - 02 [v2][E903DACD].mkv
+complete/m/MM!/[Ryuumaru] MM! - 03 [A93914E9].mkv
+complete/m/MM!/[Ryuumaru] MM! - 04 [EC69764A].mkv
+complete/m/MM!/[Ryuumaru] MM! - 05 [D8CD4B38].mkv
+complete/m/MM!/[Ryuumaru] MM! - 06 [3EF5B2FD].mkv
+complete/m/MM!/[Ryuumaru] MM! - 07 [812B8FA8].mkv
+complete/m/MM!/[Ryuumaru] MM! - 08 [5B0F82EF].mkv
+complete/m/MM!/[Ryuumaru] MM! - 09 [4C9DF5B6].mkv
+complete/m/MM!/[Ryuumaru] MM! - 10 [2ADF5758].mkv
+complete/m/MM!/[Ryuumaru] MM! - 11 [71662CE1].mkv
+complete/m/MM!/[Ryuumaru] MM! - 12 [End][603F489D].mkv
 complete/m/MS IGLOO - Apocalypse 0079/[gg] MS IGLOO - Apocalypse 0079 - 1 [A263BF13].mkv
 complete/m/MS IGLOO - Apocalypse 0079/[gg] MS IGLOO - Apocalypse 0079 - 2 [B01A1A77].mkv
 complete/m/MS IGLOO - Apocalypse 0079/[gg] MS IGLOO - Apocalypse 0079 - 3 [End][CAC42A5D].mkv
@@ -13056,7 +13068,7 @@ complete/t/Touka Gettan/[ReDone] Touka Gettan - 13 [DVD][47D58A42].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 14 [DVD][8DEBE55B].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 15 [DVD][5E21F78F].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 16 [DVD][3FF9F5AA].mkv
-complete/t/Touka Gettan/[SRN] Touka Gettan - 17 [8136B483].avi
+complete/t/Touka Gettan/[ReDone] Touka Gettan - 17 [DVD][CB905D74].mkv
 complete/t/Touka Gettan/[SRN] Touka Gettan - 18 [A28957F6].avi
 complete/t/Touka Gettan/[SRN] Touka Gettan - 19 [775EDD23].avi
 complete/t/Touka Gettan/[SRN] Touka Gettan - 20 [B83A2D44].avi
