@@ -216,6 +216,7 @@
 !new/Anything Goes.7z
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - 245 [AZFS][FF4EEEEF].avi
 !new/Detective Conan - 599 [DCTP][720p][2C2E878A].mp4
 !new/Digimon tamers/Digimon Tamers Episode 10 (Subbed By PositronCannon).avi
 !new/Digimon tamers/Digimon Tamers Episode 11 (Subbed By PositronCannon).avi
@@ -885,6 +886,7 @@
 !new/[AonE]_Shinrei_Tantei_Yakumo_09_[72BF24FF].mkv
 !new/[AonE]_Shinrei_Tantei_Yakumo_10_[8740B372].mkv
 !new/[AonE]_Shinrei_Tantei_Yakumo_11_[EEA06D21].mkv
+!new/[AonE]_Shinrei_Tantei_Yakumo_12_[2A05FDDB].mkv
 !new/[BWS]Pocket_Monsters_Best_Wishes_012_The_Yabukuron_Squadron_and_the_Secret_Base![H264_720P][1FE331D9].mkv
 !new/[Baaka] Tantei Opera Milky Holmes - 11 [1280x720][3A77AB9E].mkv
 !new/[Coalgirls]_Black_Rock_Shooter_(1920x1080_Blu-Ray_FLAC)_[73BF3D55].mkv
@@ -915,6 +917,7 @@
 !new/[Hiryuu] Hyakka Ryouran Samurai Girls 09 [1280x720 H264 AAC] [B97ACCDF].mkv
 !new/[Hiryuu] Hyakka Ryouran Samurai Girls 10 [1280x720 H264 AAC] [F95B3C21].mkv
 !new/[Hiryuu] Hyakka Ryouran Samurai Girls 11 [1280x720 H264 AAC] [B86A67B9].mkv
+!new/[Hiryuu] Hyakka Ryouran Samurai Girls 12 [1280x720 H264 AAC] [2F80542E].mkv
 !new/[HorribleSubs] Bleach - 299 [720p][B328AC60].mkv
 !new/[HorribleSubs] Bleach - 300 [720p].mkv
 !new/[HorribleSubs] Bleach - 301 [720p].mkv
@@ -936,6 +939,7 @@
 !new/[HorribleSubs] Naruto Shippuuden - 190 [480p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 190 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 191 [720p].mkv
+!new/[HorribleSubs] Naruto Shippuuden - 192 [720p].mkv
 !new/[HorribleSubs] Otome Yokai Zakuro - 09 [720p][E3F2C79D].mkv
 !new/[HorribleSubs] Otome Yokai Zakuro - 10 [720p].mkv
 !new/[HorribleSubs] Otome Yokai Zakuro - 11 [720p].mkv
@@ -956,12 +960,16 @@
 !new/[HorribleSubs] The World God Only Knows - 09 [720p][357A6C55].mkv
 !new/[HorribleSubs] The World God Only Knows - 10 [720p].mkv
 !new/[HorribleSubs] The World God Only Knows - 11 [720p].mkv
+!new/[HorribleSubs] The World God Only Knows - 12 [720p].mkv
 !new/[HorribleSubs] Yumeiro Patissiere Professional - 09 [720p][C97C2EFC].mkv
 !new/[HorribleSubs] Yumeiro Patissiere Professional - 11 [720p].mkv
 !new/[HorribleSubs] Yumeiro Patissiere Professional - 12 [720p].mkv
+!new/[K-F]_One_Piece_284_[C36358C6].mp4
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 10 [1280x720 H264 OGG] [DD8192C3].mkv
 !new/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 30 [H264 1280x720] [E4B59487].mkv
+!new/[Live-eviL] Kimagure Orange Road - Ep 14 [Abcb0014].mkv
 !new/[Mamiko]_Tamayura_OVA_04_TV_Broadcast_[720p]_[D9F48EEE].mkv
+!new/[Mazui]_Suzumiya_Haruhi_no_Shoushitsu_[1080p][3E0D82AE].mkv
 !new/[Monokage]_Bungaku_Shoujo_The_Movie_[1080p-FLAC][5A0B3B7B].mkv
 !new/[Nipponsei] Amagami SS ED6 Single - Nageki no Tenshi [Nazuka Kaori].zip
 !new/[Nipponsei] BLEACH ED25 Single - Last Moment [SPYAIR].zip
@@ -991,6 +999,7 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
+!new/[Over-Time]_Kamen_Rider_OOO_-_15_[B50A452A].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -1230,6 +1239,13 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[UTW]_Amagami_SS_-_07_[BD][h264-1080p_FLAC][CEF3A272].mkv
+!new/[UTW]_Amagami_SS_-_08_[BD][h264-1080p_FLAC][AA6FE8D0].mkv
+!new/[UTW]_Amagami_SS_-_09_[BD][h264-1080p_FLAC][9842E0AF].mkv
+!new/[UTW]_Amagami_SS_-_10_[BD][h264-1080p_FLAC][D27DE26B].mkv
+!new/[UTW]_Amagami_SS_-_25_[END][h264-720p][D8540E4E].mkv
+!new/[UTW]_Amagami_SS_-_ED2_[BD][h264-1080p_FLAC][2A1E16A0].mkv
+!new/[WhyNot] Nurarihyon no Mago - 25 [D0098060].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
