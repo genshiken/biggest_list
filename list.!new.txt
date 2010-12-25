@@ -929,6 +929,7 @@
 !new/[HorribleSubs] Fortune Arterial - 09 [720p].mkv
 !new/[HorribleSubs] Fortune Arterial - 10 [720p].mkv
 !new/[HorribleSubs] Fortune Arterial - 11 [720p].mkv
+!new/[HorribleSubs] Fortune Arterial - 12 [720p].mkv
 !new/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 32 [720p][3447082A].mkv
 !new/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 35 [720p][940C70F4].mkv
 !new/[HorribleSubs] Hyakka Ryouran Samurai Girls - 10 [720p].mkv
@@ -947,6 +948,7 @@
 !new/[HorribleSubs] Panty and Stocking with Garterbelt - 10 [720p].mkv
 !new/[HorribleSubs] Panty and Stocking with Garterbelt - 11 [720p].mkv
 !new/[HorribleSubs] Panty and Stocking with Garterbelt - 12 [720p].mkv
+!new/[HorribleSubs] Panty and Stocking with Garterbelt - 13 [720p].mkv
 !new/[HorribleSubs] Shinryaku! Ika Musume - 10 [720p].mkv
 !new/[HorribleSubs] Sora No Otoshimono Forte - 10 [720p].mkv
 !new/[HorribleSubs] Sora No Otoshimono Forte - 11 [720p].mkv
@@ -1018,6 +1020,8 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
 !new/[Over-Time]_Kamen_Rider_OOO_-_15_[B50A452A].mkv
+!new/[SMS] Starry Sky - 01 [2F8DD50A].mkv
+!new/[Seto_Otaku]_Valkyria_Chronicles_OVA_-_09_[Final][DVD][720x480_H264-Vorbis][1782C508].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -1264,6 +1268,19 @@
 !new/[UTW]_Amagami_SS_-_25_[END][h264-720p][D8540E4E].mkv
 !new/[UTW]_Amagami_SS_-_ED2_[BD][h264-1080p_FLAC][2A1E16A0].mkv
 !new/[WhyNot] Nurarihyon no Mago - 25 [D0098060].mkv
+!new/[gg]_Soredemo_Machi_wa_Mawatteiru_-_12_[43A22DE5].mkv
+!new/[gg]_Togainu_no_Chi_-_01v2.6667_[5A587F17].mkv
+!new/[gg]_Togainu_no_Chi_-_02v2_[094DCC9F].mkv
+!new/[gg]_Togainu_no_Chi_-_03v2_[6712E1A9].mkv
+!new/[gg]_Togainu_no_Chi_-_04v2.6667_[A3CAAFE6].mkv
+!new/[gg]_Togainu_no_Chi_-_05v2_[A6775E15].mkv
+!new/[gg]_Togainu_no_Chi_-_06v2_[4F34EB99].mkv
+!new/[gg]_Togainu_no_Chi_-_07v2_[700E5412].mkv
+!new/[gg]_Togainu_no_Chi_-_08v2_[0E05E09C].mkv
+!new/[gg]_Togainu_no_Chi_-_09v2_[1CD7424A].mkv
+!new/[gg]_Togainu_no_Chi_-_10v2_[B06E4689].mkv
+!new/[gg]_Togainu_no_Chi_-_11v2_[D0526980].mkv
+!new/[gg]_Togainu_no_Chi_-_12_[562E7B9C].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
