@@ -1261,6 +1261,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[Triad]_Taiko_Drum_Master_DVD_-_04.mkv
 !new/[UTW]_Amagami_SS_-_07_[BD][h264-1080p_FLAC][CEF3A272].mkv
 !new/[UTW]_Amagami_SS_-_08_[BD][h264-1080p_FLAC][AA6FE8D0].mkv
 !new/[UTW]_Amagami_SS_-_09_[BD][h264-1080p_FLAC][9842E0AF].mkv
@@ -1281,6 +1282,27 @@
 !new/[gg]_Togainu_no_Chi_-_10v2_[B06E4689].mkv
 !new/[gg]_Togainu_no_Chi_-_11v2_[D0526980].mkv
 !new/[gg]_Togainu_no_Chi_-_12_[562E7B9C].mkv
+!new/[m.3.3.w]_Getsumen_01.0_[DVD][H.264-480p][AF54E0DE].mkv
+!new/[m.3.3.w]_Getsumen_02.0_[DVD][H.264-480p][B37D5410].mkv
+!new/[m.3.3.w]_Getsumen_03.0_[DVD][H.264-480p][1CD73EFF].mkv
+!new/[m.3.3.w]_Getsumen_04.0_(NoKaraoke)_[DVD][H.264-480p][50D3F42F].mkv
+!new/[m.3.3.w]_Getsumen_04.0_[DVD][H.264-480p][2D3105C6].mkv
+!new/[m.3.3.w]_Getsumen_05.0_[DVD][H.264-480p][32838E78].mkv
+!new/[m.3.3.w]_Getsumen_06.0_[DVD][H.264-480p][F762EA2A].mkv
+!new/[m.3.3.w]_Getsumen_06.5-EX1_[DVD][H.264-480p][8DBDBDBC].mkv
+!new/[m.3.3.w]_Getsumen_07.0_[DVD][H.264-480p][79A62A49].mkv
+!new/[m.3.3.w]_Getsumen_08.0_[DVD][H.264-480p][354E0E3D].mkv
+!new/[m.3.3.w]_Getsumen_09.0_[DVD][H.264-480p][FDC8B86F].mkv
+!new/[m.3.3.w]_Getsumen_10.0_(NoKaraoke)_[DVD][H.264-480p][E8C977C6].mkv
+!new/[m.3.3.w]_Getsumen_10.0_[DVD][H.264-480p][B15E6B36].mkv
+!new/[m.3.3.w]_Getsumen_11.0_(NoKaraoke)_[DVD][H.264-480p][C0282D0D].mkv
+!new/[m.3.3.w]_Getsumen_11.0_[DVD][H.264-480p][9D81A33B].mkv
+!new/[m.3.3.w]_Getsumen_11.5-EX2_[DVD][H.264-480p][AE840920].mkv
+!new/[m.3.3.w]_Getsumen_Ending_(Karaoke)_[DVD][H.264-480p][1CDB83E5].mkv
+!new/[m.3.3.w]_Getsumen_Ending_(NoKaraoke)_[DVD][H.264-480p][9E4D3849].mkv
+!new/[m.3.3.w]_Getsumen_Opening_(Karaoke)_[DVD][H.264-480p][D5D21307].mkv
+!new/[m.3.3.w]_Getsumen_Opening_(NoKaraoke)_[DVD][H.264-480p][7EDA68C0].mkv
+!new/[umee]_Shiki_-_21_[AFB1E479].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
