@@ -887,6 +887,7 @@
 !new/[AonE]_Shinrei_Tantei_Yakumo_10_[8740B372].mkv
 !new/[AonE]_Shinrei_Tantei_Yakumo_11_[EEA06D21].mkv
 !new/[AonE]_Shinrei_Tantei_Yakumo_12_[2A05FDDB].mkv
+!new/[AonE_Frostii]_Daa!_Daa!_Daa!_-_65_[DVD][F7861FFB].mkv
 !new/[BWS]Pocket_Monsters_Best_Wishes_012_The_Yabukuron_Squadron_and_the_Secret_Base![H264_720P][1FE331D9].mkv
 !new/[Baaka] Tantei Opera Milky Holmes - 11 [1280x720][3A77AB9E].mkv
 !new/[Coalgirls]_Black_Rock_Shooter_(1920x1080_Blu-Ray_FLAC)_[73BF3D55].mkv
@@ -898,6 +899,11 @@
 !new/[Commie] Asobi ni Ikuyo! - 05 [BD 1080p AAC] [C308B5D2].mkv
 !new/[Commie] Asobi ni Ikuyo! - 06 [BD 1080p AAC] [07A29A8C].mkv
 !new/[Commie] Motto To Love-ru - 11 [BE784D9F].mkv
+!new/[Commie] Nurarihyon no Mago - 12.5 [2268B4D5].mkv
+!new/[Commie] Nurarihyon no Mago - 13 [7F853B3A].mkv
+!new/[Commie] Nurarihyon no Mago - 14 [71499CAB].mkv
+!new/[Commie] Nurarihyon no Mago - 16 [CA7CDC76].mkv
+!new/[Commie] Nurarihyon no Mago - 17 [A29EF086].mkv
 !new/[Commie] The Legend of the Legendary Heroes - 24 [280F2272].mkv
 !new/[CureCom] Fresh Pretty Cure! - 17 [HD][1A86C2B7].mkv
 !new/[DB]_Hakuouki_21_[F6D88BB8].avi
@@ -1302,6 +1308,7 @@
 !new/[m.3.3.w]_Getsumen_Ending_(NoKaraoke)_[DVD][H.264-480p][9E4D3849].mkv
 !new/[m.3.3.w]_Getsumen_Opening_(Karaoke)_[DVD][H.264-480p][D5D21307].mkv
 !new/[m.3.3.w]_Getsumen_Opening_(NoKaraoke)_[DVD][H.264-480p][7EDA68C0].mkv
+!new/[umee]_Princess_Jellyfish_-_10v2_[593555C6].mkv
 !new/[umee]_Shiki_-_21_[AFB1E479].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
