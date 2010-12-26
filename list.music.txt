@@ -249,6 +249,7 @@ music/Nipponsei/[Nipponsei] Amagami SS ED2 Single - Kitto Ashita wa... [Satou Ri
 music/Nipponsei/[Nipponsei] Amagami SS ED3 Single - Anata Shika Mie nai [Konno Hiromi].zip
 music/Nipponsei/[Nipponsei] Amagami SS ED4 Single - Koi wa Mizuiro [Yukana].zip
 music/Nipponsei/[Nipponsei] Amagami SS ED5 Single - Koi wa Aserazu [Shintani Ryouko].zip
+music/Nipponsei/[Nipponsei] Amagami SS ED6 Single - Nageki no Tenshi [Nazuka Kaori].zip
 music/Nipponsei/[Nipponsei] Angel Beats - Last Song [Girls Dead Monster].zip
 music/Nipponsei/[Nipponsei] Angel Heart ED1 Single - Dare ka ga Kimi wo Omotteru [Skoop on Somebody].zip
 music/Nipponsei/[Nipponsei] Angel Heart ED2 Single - Daydream Tripper [U WAVE].zip
@@ -301,6 +302,7 @@ music/Nipponsei/[Nipponsei] BLEACH ED10 Single - Sakura Biyori [Hoshimura Mai].z
 music/Nipponsei/[Nipponsei] BLEACH ED11 Single - Tsumasaki [Ore Ska Band].zip
 music/Nipponsei/[Nipponsei] BLEACH ED13 Single - Tane wo Maku Hibi [Atari Kousuke].zip
 music/Nipponsei/[Nipponsei] BLEACH ED24 Single - echoes [universe].zip
+music/Nipponsei/[Nipponsei] BLEACH ED25 Single - Last Moment [SPYAIR].zip
 music/Nipponsei/[Nipponsei] BLEACH Movie - MEMORIES OF NOBODY Main Theme Single - Sen no Yoru wo Koete [Aqua Timez].zip
 music/Nipponsei/[Nipponsei] BLEACH Movie - MEMORIES OF NOBODY Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] BLEACH Movie 4 Main Theme Single - Save The One, Save The All [T.M. Revolution].zip
@@ -617,6 +619,7 @@ music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD. - Asuka Sora 
 music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.0 - Elsie [Itou Kanae].zip
 music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.1 - Takahara Ayumi [Taketatsu Ayana].zip
 music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.2 - Aoyama Mio [Yuuki Aoi].zip
+music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.3 - Nakagawa Kanon [Touyama Nao].zip
 music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai ED Single - Koi no Shirushi [Various].zip
 music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai OP Single - God only knows ~ Shuuseki Kairo no Yume Tabibito [ELISA].zip
 music/Nipponsei/[Nipponsei] Kami-chama Karin ED Single - Anemone [Nakahara Mai].zip
@@ -985,6 +988,7 @@ music/Nipponsei/[Nipponsei] Shinkyoku Soukai Polyphonica ED Single - Concordia [
 music/Nipponsei/[Nipponsei] Shinkyoku Soukai Polyphonica OP Single - Apocrypha [eufonius].zip
 music/Nipponsei/[Nipponsei] Shinkyoku Soukai Polyphonica Original Soundtrack - Atmosphere.zip
 music/Nipponsei/[Nipponsei] Shinrei Tantei Yakumo OP ED Single - Key [Ono Daisuke & Komine Lisa].zip
+music/Nipponsei/[Nipponsei] Shinryaku! Ika Musume - Kore ga Umi he no Ai ja nai ka! [Kanemoto Hisako].zip
 music/Nipponsei/[Nipponsei] Shinryaku! Ika Musume ED Single - Metamarism [Itou Kanae].zip
 music/Nipponsei/[Nipponsei] Shinryaku! Ika Musume OP Single - Shinryaku no Susume [ULTRA-PRISM].zip
 music/Nipponsei/[Nipponsei] Shion no Ou OP Single - LADY LOVE [RIZE].zip
