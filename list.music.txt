@@ -72,6 +72,7 @@ music/Aznmp3/[#aznmp3] Nami Tamaki - Result [224kbps.2006.05.03].zip
 music/Aznmp3/[#aznmp3] UVERworld - Timeless [320kbps][Ripped by RionZ].zip
 music/CRYSTAL KAY - Konna ni Chikaku de[320.kbps.2007.02.28].rar
 music/Clannad1.rar
+music/EAC/Anything Goes.7z
 music/EAC/[EAC] Byousoku 5 Centimeter Special Edition - One more time, One more chance／Yamazaki Masayoshi (ape+cue).rar
 music/EAC/[EAC] Sphere - Asobi ni Iku Yo! OP Single - Bonus DVD.rar
 music/EAC/[EAC] [100630] TVアニメ Angel Beats！「Keep The Beats!」／Girls Dead Monster [wav+cue+bk].zip
@@ -1365,6 +1366,7 @@ music/PV/Utada Hikaru - Kiss & Cry.avi
 music/PV/Yui Horie - Koisuru Tenkizu.avi
 music/PV/Yui Horie - YAHHO!!.DVD.x264-UAC.mkv
 music/PV/[Over-Time] Maki Ohguro - Anything Goes! PV [A3D0297F].mkv
+music/PV/[ray=out] Ayumi Hamasaki - Connected [97A44930].mkv
 music/PV/chatmonchy - Sekai ga Owaru Yoru ni.avi
 music/PV/fripSide - LEVEL5 - Judgelight [UAC][DVD][11FBD2F3].mkv
 music/PV/stereopony - Namida no Mukou.DVD.x264-UAC.mkv

@@ -453,6 +453,7 @@ complete/a/Amatsuki/[Ureshii] Amatsuki - 11 [B0E19FB4].mkv
 complete/a/Amatsuki/[Ureshii] Amatsuki - 12 [C941FD0A].mkv
 complete/a/Amatsuki/[Ureshii] Amatsuki - 13 [End][33949FB4].mkv
 complete/a/Angel Beats! - Special/[Mazui] Angel Beats - Another Epilogue [C230789A].mkv
+complete/a/Angel Beats! - Special/[SS] Angel Beats! - 13.5 [720p][9C7422DD].mkv
 complete/a/Angel Beats! - Special/[Tortoise-Commie] Angel Beats! - Special [A423213C].mkv
 complete/a/Angel Beats!/[SS] Angel Beats! - 13 [End][720p][D8840574].mkv
 complete/a/Angel Beats!/[UTW] Angel Beats! - 01 [1080p BD][6B6D6A0A].mkv
@@ -8592,6 +8593,20 @@ complete/m/Mnemosyne/[A-E & Ureshii] Mnemosyne - 4 [DVD][1B7AAB48].mkv
 complete/m/Mnemosyne/[A-E & Ureshii] Mnemosyne - 5 [DVD][2F3911E5].mkv
 complete/m/Mnemosyne/[A-E & Ureshii] Mnemosyne - 6 [End][DVD][71AD6F40].mkv
 complete/m/Mnemosyne/[Ureshii] Mnemosyne - 1 [DVD][8F67BD2B].mkv
+complete/m/Moetan/[Lolidan] Moetan - 01 [E8076279].mkv
+complete/m/Moetan/[Lolidan] Moetan - 02 [69BA11C4].mkv
+complete/m/Moetan/[Lolidan] Moetan - 03 [049EF58C].mkv
+complete/m/Moetan/[Lolidan] Moetan - 04 [33593215].mkv
+complete/m/Moetan/[Lolidan] Moetan - 05 [A8187149].mkv
+complete/m/Moetan/[Lolidan] Moetan - 07 [5BA99C25].mkv
+complete/m/Moetan/[mbt] Moetan - 05.5 [DVD][7F48513A].mkv
+complete/m/Moetan/[mbt] Moetan - 06 [DVD][8CBCF190].mkv
+complete/m/Moetan/[mbt] Moetan - 08 [DVD][9665C7BA].mkv
+complete/m/Moetan/[mbt] Moetan - 09 [DVD][1A054E7A].mkv
+complete/m/Moetan/[mbt] Moetan - 10 [DVD][2B170DDB].mkv
+complete/m/Moetan/[mbt] Moetan - 11 [DVD][EC460F16].mkv
+complete/m/Moetan/[mbt] Moetan - 12 [DVD][6CB8D4B2].mkv
+complete/m/Moetan/[mbt] Moetan - 13 [End][DVD][88616209].mkv
 complete/m/Mokke/[SubsAnon] Mokke - 01 [6F61AC6B].avi
 complete/m/Mokke/[SubsAnon] Mokke - 02 [B76F355D].avi
 complete/m/Mokke/[SubsAnon] Mokke - 03 [4FB73B3D].avi
@@ -11846,6 +11861,22 @@ complete/s/Sora no Otoshimono/[Shinji-Nekomimi] Sora no Otoshimono - 10 [5BD2F62
 complete/s/Sora no Otoshimono/[Shinji-Nekomimi] Sora no Otoshimono - 11 [B6AEC23C].mkv
 complete/s/Sora no Otoshimono/[Shinji-Nekomimi] Sora no Otoshimono - 12 [47007DFC].mkv
 complete/s/Sora no Otoshimono/[Shinji-Nekomimi] Sora no Otoshimono - 13 [End][v2][666DD738].mkv
+complete/s/Sora no Woto/[AtsA] Sora no Woto - 01 [1080p BD][01E5F199].mkv
+complete/s/Sora no Woto/[AtsA] Sora no Woto - 02 [1080p BD][9231AD81].mkv
+complete/s/Sora no Woto/[AtsA] Sora no Woto - 03 [1080p BD][F488182F].mkv
+complete/s/Sora no Woto/[AtsA] Sora no Woto - 04 [1080p BD][6928D160].mkv
+complete/s/Sora no Woto/[AtsA] Sora no Woto - 05 [1080p BD][A6A2B994].mkv
+complete/s/Sora no Woto/[AtsA] Sora no Woto - 06 [1080p BD][ACD1D907].mkv
+complete/s/Sora no Woto/[AtsA] Sora no Woto - 07 [1080p BD][9A30FC39].mkv
+complete/s/Sora no Woto/[AtsA] Sora no Woto - 07.5 [1080p BD][2E8FA79C].mkv
+complete/s/Sora no Woto/[AtsA] Sora no Woto - 08 [1080p BD][5BC3ED69].mkv
+complete/s/Sora no Woto/[AtsA] Sora no Woto - 09 [1080p BD][45E1FCB4].mkv
+complete/s/Sora no Woto/[AtsA] Sora no Woto - 10 [1080p BD][EAC53535].mkv
+complete/s/Sora no Woto/[AtsA] Sora no Woto - 11 [1080p BD][85C1F1DD].mkv
+complete/s/Sora no Woto/[AtsA] Sora no Woto - 12 [End][1080p BD][62991071].mkv
+complete/s/Sora no Woto/[AtsA] Sora no Woto - 13 Extra [1080p BD][61ADC923].mkv
+complete/s/Sora no Woto/[AtsA] Sora no Woto - Ending [1080p BD][26EE1D43].mkv
+complete/s/Sora no Woto/[AtsA] Sora no Woto - Opening [1080p BD][5C8D97A8].mkv
 complete/s/Sora no Woto/[pwq] Sora no Woto - 01 [BD][C3CEDA78].mkv
 complete/s/Sora no Woto/[pwq] Sora no Woto - 02 [BD][3EF30DC0].mkv
 complete/s/Sora no Woto/[pwq] Sora no Woto - 03 [BD][F5B7E0CE].mkv
@@ -12003,18 +12034,23 @@ complete/s/Special A/[m.3.3.w] Special A - 22 [330594C1].mkv
 complete/s/Special A/[m.3.3.w] Special A - 23 [EB3F3F0C].mkv
 complete/s/Special A/[m.3.3.w] Special A - 24 [End][0283E2D7].mkv
 complete/s/Spice and Wolf S2 OVA/[Frostii] Spice and Wolf S2 - 00 OVA (1280x720) [6FE4D9D3].mkv
-complete/s/Spice and Wolf S2/[Frostii] Spice and Wolf S2 - 01 (1280x720) [v2][332179C8].mkv
-complete/s/Spice and Wolf S2/[Frostii] Spice and Wolf S2 - 02 (1280x720) [3C57F6E9].mkv
-complete/s/Spice and Wolf S2/[Frostii] Spice and Wolf S2 - 03 (1280x720) [76642331].mkv
-complete/s/Spice and Wolf S2/[Frostii] Spice and Wolf S2 - 04 (1280x720) [25D828F7].mkv
-complete/s/Spice and Wolf S2/[Frostii] Spice and Wolf S2 - 05 (1280x720) [3D760771].mkv
-complete/s/Spice and Wolf S2/[Frostii] Spice and Wolf S2 - 06 (1280x720) [459D8118].mkv
-complete/s/Spice and Wolf S2/[Frostii] Spice and Wolf S2 - 07 (1280x720) [B3FCAB3B].mkv
-complete/s/Spice and Wolf S2/[Frostii] Spice and Wolf S2 - 08 (1280x720) [DC51CB56].mkv
-complete/s/Spice and Wolf S2/[Frostii] Spice and Wolf S2 - 09 (1280x720) [70B7CE25].mkv
-complete/s/Spice and Wolf S2/[Frostii] Spice and Wolf S2 - 10 (1280x720) [CAE364B9].mkv
-complete/s/Spice and Wolf S2/[Frostii] Spice and Wolf S2 - 11 (1280x720) [0E26CEAA].mkv
-complete/s/Spice and Wolf S2/[Frostii] Spice and Wolf S2 - 12 (1280x720) [End][23707315].mkv
+complete/s/Spice and Wolf S2 OVA/[Yabai] Spice and Wolf S2 - 00 [BD][F046ADDF].mkv
+complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - 01 [BD][6A489D81].mkv
+complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - 02 [BD][99D8F67F].mkv
+complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - 03 [BD][4DFBE04A].mkv
+complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - 04 [BD][2B37A730].mkv
+complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - 05 [BD][E84477A3].mkv
+complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - 06 [BD][61DFAA3D].mkv
+complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - 07 [BD][5F534C9F].mkv
+complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - 08 [BD][D3154520].mkv
+complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - 09 [BD][053ED96B].mkv
+complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - 10 [BD][A79CF6D2].mkv
+complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - 11 [BD][418A0D43].mkv
+complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - 12 [End][BD][2096DC81].mkv
+complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - Ending (Clean) [BD][35023CEE].mkv
+complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - Ending [BD][8A7FFA92].mkv
+complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - Opening (Clean) [BD][D6890B3E].mkv
+complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - Opening [BD][9FC86030].mkv
 complete/s/Spice and Wolf/[BSS] Spice and Wolf - 01 [5778B7EF].mkv
 complete/s/Spice and Wolf/[BSS] Spice and Wolf - 02 [5F31E978].mkv
 complete/s/Spice and Wolf/[BSS] Spice and Wolf - 03 [4734DF04].mkv
@@ -13486,6 +13522,15 @@ complete/u/Utawarerumono/[yesy] Utawarerumono - 23 [32AE4812].avi
 complete/u/Utawarerumono/[yesy] Utawarerumono - 24 [2353D3B1].avi
 complete/u/Utawarerumono/[yesy] Utawarerumono - 25 [C2F19D8D].avi
 complete/u/Utawarerumono/[yesy] Utawarerumono - 26 [End][9106E1DB].avi
+complete/v/Valkyria Chronicles OVA/[Seto Otaku] Valkyria Chronicles OVA - 1 [DVD][63E10756].mkv
+complete/v/Valkyria Chronicles OVA/[Seto Otaku] Valkyria Chronicles OVA - 2 [DVD][E3B29624].mkv
+complete/v/Valkyria Chronicles OVA/[Seto Otaku] Valkyria Chronicles OVA - 3 [DVD][F4006E7A].mkv
+complete/v/Valkyria Chronicles OVA/[Seto Otaku] Valkyria Chronicles OVA - 4 [DVD][DF39F7F2].mkv
+complete/v/Valkyria Chronicles OVA/[Seto Otaku] Valkyria Chronicles OVA - 5 [DVD][18380078].mkv
+complete/v/Valkyria Chronicles OVA/[Seto Otaku] Valkyria Chronicles OVA - 6 [DVD][AF16DAE9].mkv
+complete/v/Valkyria Chronicles OVA/[Seto Otaku] Valkyria Chronicles OVA - 7 [DVD][7F9C7AC2].mkv
+complete/v/Valkyria Chronicles OVA/[Seto Otaku] Valkyria Chronicles OVA - 8 [DVD][7F9C7AC2].mkv
+complete/v/Valkyria Chronicles OVA/[Seto Otaku] Valkyria Chronicles OVA - 9 [End][DVD][BD56DD92].mkv
 complete/v/Valkyria Chronicles/[AnY-Conclave] Valkyria Chronicles - 01 (1280x720) [7A3324D6].mkv
 complete/v/Valkyria Chronicles/[AnY-Conclave] Valkyria Chronicles - 02 (1280x720) [821A7AF0].mkv
 complete/v/Valkyria Chronicles/[AnY-Conclave] Valkyria Chronicles - 03 (1280x720) [E532B0EF].mkv
