@@ -1252,8 +1252,8 @@ complete/b/Black Lagoon/[Shinsen-Subs] Black Lagoon - 21 [70FB57B3].avi
 complete/b/Black Lagoon/[Shinsen-Subs] Black Lagoon - 22 [D6AD560D].avi
 complete/b/Black Lagoon/[Shinsen-Subs] Black Lagoon - 23 [81A371C0].avi
 complete/b/Black Lagoon/[Shinsen-Subs] Black Lagoon - 24 [End][CC4D0823].avi
+complete/b/Black Rock Shooter OVA/[Coalgirls] Black Rock Shooter [1080p BD][73BF3D55].mkv
 complete/b/Black Rock Shooter OVA/[Mazui] Black Rock Shooter OVA [2022D8AE].mkv
-complete/b/Black Rock Shooter OVA/[gg] Black Rock Shooter OVA Abridged [8849D2A8].mkv
 complete/b/Blade of the Immortal/[Arigatou] Blade of the Immortal - 01 [078A24B1].mkv
 complete/b/Blade of the Immortal/[Arigatou] Blade of the Immortal - 02 [B6C36316].mkv
 complete/b/Blade of the Immortal/[Arigatou] Blade of the Immortal - 03 [8333A174].mkv
@@ -7014,14 +7014,6 @@ complete/k/Kobato/[gg] Kobato - 23 [7D10F68E].mkv
 complete/k/Kobato/[gg] Kobato - 24 [End][E02A6926].mkv
 complete/k/Koihime Musou OVA/[ReDone] Koihime Musou OVA [DVD][FB61BD44].mkv
 complete/k/Koihime Musou OVA/[eXalpha-Anime & Monti] Koihime Musou OVA [DVD][8362FF07].mkv
-complete/k/Koihime Musou/[AonE-Menclave] Koihime Musou - 01 [714C7C25].mkv
-complete/k/Koihime Musou/[AonE-Menclave] Koihime Musou - 02 [2D9054A4].mkv
-complete/k/Koihime Musou/[AonE-Menclave] Koihime Musou - 03 [91310FDD].mkv
-complete/k/Koihime Musou/[AonE-Menclave] Koihime Musou - 04 [2D77CB75].mkv
-complete/k/Koihime Musou/[AonE-Menclave] Koihime Musou - 05 [B1561FEA].mkv
-complete/k/Koihime Musou/[AonE-Menclave] Koihime Musou - 06 [BB7DF845].mkv
-complete/k/Koihime Musou/[AonE-Menclave] Koihime Musou - 07 [111BBE94].mkv
-complete/k/Koihime Musou/[AonE-Menclave] Koihime Musou - 08 [D74D023B].mkv
 complete/k/Koihime Musou/[AonE-Menclave] Koihime Musou - 09 [F1B5BED7].mkv
 complete/k/Koihime Musou/[AonE-Menclave] Koihime Musou - 10 [783EB764].mkv
 complete/k/Koihime Musou/[AonE-Menclave] Koihime Musou - 11 [AFAEC3D7].mkv
@@ -7032,6 +7024,8 @@ complete/k/Koihime Musou/[DmonHiro] Koihime Musou - 03 [720p BD][16D3E77E].mkv
 complete/k/Koihime Musou/[DmonHiro] Koihime Musou - 04 [720p BD][E9D30100].mkv
 complete/k/Koihime Musou/[DmonHiro] Koihime Musou - 05 [720p BD][BC791BE0].mkv
 complete/k/Koihime Musou/[DmonHiro] Koihime Musou - 06 [720p BD][31A46BB4].mkv
+complete/k/Koihime Musou/[DmonHiro] Koihime Musou - 07 [720p BD][F4254783].mkv
+complete/k/Koihime Musou/[DmonHiro] Koihime Musou - 08 [720p BD][4D15937E].mkv
 complete/k/Kokoro Library/[polished] Kokoro Library - 01 [DVD][C52F9DEF].mkv
 complete/k/Kokoro Library/[polished] Kokoro Library - 02 [DVD][C5E64F76].mkv
 complete/k/Kokoro Library/[polished] Kokoro Library - 03 [DVD][C3395BE0].mkv
@@ -9233,6 +9227,8 @@ complete/o/Occult Academy/[Coalgirls] Occult Academy - 01 [1080p BD][23F6D2DB].m
 complete/o/Occult Academy/[Coalgirls] Occult Academy - 02 [1080p BD][7CC4D473].mkv
 complete/o/Occult Academy/[Coalgirls] Occult Academy - 03 [1080p BD][3D047296].mkv
 complete/o/Occult Academy/[Coalgirls] Occult Academy - 04 [1080p BD][79E56646].mkv
+complete/o/Occult Academy/[Coalgirls] Occult Academy - 05 [1080p BD][67C3380B].mkv
+complete/o/Occult Academy/[Coalgirls] Occult Academy - 06 [1080p BD][BEB25D96].mkv
 complete/o/Occult Academy/[Coalgirls] Occult Academy - Ending (Clean) [1080p BD][34F6B2B0].mkv
 complete/o/Occult Academy/[Coalgirls] Occult Academy - Opening (Clean) [1080p BD][7B63A3C4].mkv
 complete/o/Occult Academy/[Commie] Occult Academy - 05 [FB3D283E].mkv
@@ -11291,18 +11287,18 @@ complete/s/Shikabane Hime Kuro/[TMD] Shikabane Hime Kuro - 10 (1280x720) [5E378D
 complete/s/Shikabane Hime Kuro/[TMD] Shikabane Hime Kuro - 11 (1280x720) [7504DB16].mkv
 complete/s/Shikabane Hime Kuro/[TMD] Shikabane Hime Kuro - 12 (1280x720) [End][48EFFC55].mkv
 complete/s/Shin Koihime Musou - Live Revolution/[KiteSeekers-PFSubs] Shin Koihime Musou - Live Revolution (1920x1080) [A457A2C6].mkv
-complete/s/Shin Koihime Musou - Otome Tairan/[Commie] Shin Koihime Musou - Otome Tairan - 05 [9D088CF9].mkv
-complete/s/Shin Koihime Musou - Otome Tairan/[Commie] Shin Koihime Musou - Otome Tairan - 06 [4961D845].mkv
-complete/s/Shin Koihime Musou - Otome Tairan/[Commie] Shin Koihime Musou - Otome Tairan - 10 [F0DF90B8].mkv
-complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 01 (1280x720) [BD][8550BE8F].mkv
-complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 02 (1280x720) [BD][21B706AB].mkv
-complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 03 (1280x720) [BD][CFAC2F68].mkv
-complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 04 (1280x720) [BD][CC03352A].mkv
+complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 01 [720p][BD][8550BE8F].mkv
+complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 02 [720p][BD][21B706AB].mkv
+complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 03 [720p][BD][CFAC2F68].mkv
+complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 04 [720p][BD][CC03352A].mkv
+complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 05 [720p BD][138625A5].mkv
+complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 06 [720p BD][89AA93EA].mkv
 complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 07 [720p BD][080424D6].mkv
 complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 08 [720p BD][0E23AA38].mkv
-complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 09 (1280x720) [C4DD2517].mkv
-complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 11 (1280x720) [D1DFF020].mkv
-complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 12 (1280x720) [End][BA4C40A7].mkv
+complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 09 [720p BD][7AC46940].mkv
+complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 10 [720p BD][38B4A881].mkv
+complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 11 [720p][D1DFF020].mkv
+complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 12 [End][720p][BA4C40A7].mkv
 complete/s/Shin Koihime Musou OVA/[KiteSeekers-PFSubs] Shin Koihime Musou OVA [720p BD][908E6A41].mkv
 complete/s/Shin Koihime Musou/[Commie] Shin Koihime Musou - 01 [E0C4854C].mkv
 complete/s/Shin Koihime Musou/[Commie] Shin Koihime Musou - 02 [9E7194B2].mkv
@@ -11821,6 +11817,21 @@ complete/s/Sora no Manimani/[AonE] Sora no Manimani - 09 [6A54BC1A].mkv
 complete/s/Sora no Manimani/[AonE] Sora no Manimani - 10 [5670A9C1].mkv
 complete/s/Sora no Manimani/[AonE] Sora no Manimani - 11 [EBF825C8].mkv
 complete/s/Sora no Manimani/[Koharubi] Sora no Manimani - 12 [End][B891F10D].mkv
+complete/s/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 01 [720p][0ADD4784].mkv
+complete/s/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 02 [720p][296FF30E].mkv
+complete/s/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 03 [720p][9B754405].mkv
+complete/s/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 04 [v2 720p][63D68C31].mkv
+complete/s/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 05 [720p][C0253B81].mkv
+complete/s/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 06 [720p][A3AA4829].mkv
+complete/s/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 07 [720p][C1AAB757].mkv
+complete/s/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 08 [720p][37FBA45C].mkv
+complete/s/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 09 [720p][7F3CF8CD].mkv
+complete/s/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 10 [720p][977AF064].mkv
+complete/s/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 11 [720p][B6E5AEC3].mkv
+complete/s/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 12 [End][720p][2865E9E4].mkv
+complete/s/Sora no Otoshimono Forte/[Nekomimi] Sora no Otoshimono Forte - 01 [9E3895B3].mkv
+complete/s/Sora no Otoshimono Forte/[Nekomimi] Sora no Otoshimono Forte - 02 [FAED2A09].mkv
+complete/s/Sora no Otoshimono Forte/[Nekomimi] Sora no Otoshimono Forte - 03 [6F1588AC].mkv
 complete/s/Sora no Otoshimono/[Nekomimi] Sora no Otoshimono - 14 OAD [CF9904D1].mkv
 complete/s/Sora no Otoshimono/[Shinji-Nekomimi] Sora no Otoshimono - 01 [v2][07E9F087].mkv
 complete/s/Sora no Otoshimono/[Shinji-Nekomimi] Sora no Otoshimono - 02 [v3][75373555].mkv
@@ -12719,6 +12730,18 @@ complete/t/The Tower of Druaga - Sword of Uruk/[O-L] The Tower of Druaga - Sword
 complete/t/The Tower of Druaga - Sword of Uruk/[O-L] The Tower of Druaga - Sword of Uruk - 10 (1280x720) [272C8527].mkv
 complete/t/The Tower of Druaga - Sword of Uruk/[O-L] The Tower of Druaga - Sword of Uruk - 11 (1280x720) [5EB495A3].mkv
 complete/t/The Tower of Druaga - Sword of Uruk/[O-L] The Tower of Druaga - Sword of Uruk - 12 (1280x720) [End][E0CBD1FA].mkv
+complete/t/The World God Only Knows/[Commie] The World God Only Knows - 01 [476E9732].mkv
+complete/t/The World God Only Knows/[Commie] The World God Only Knows - 02 [06923124].mkv
+complete/t/The World God Only Knows/[Commie] The World God Only Knows - 03 [C68B0DFE].mkv
+complete/t/The World God Only Knows/[Commie] The World God Only Knows - 04 [AC4FC098].mkv
+complete/t/The World God Only Knows/[Commie] The World God Only Knows - 05 [4F1CEB11].mkv
+complete/t/The World God Only Knows/[Commie] The World God Only Knows - 06 [EA1EF1AA].mkv
+complete/t/The World God Only Knows/[Commie] The World God Only Knows - 07 [F9380E08].mkv
+complete/t/The World God Only Knows/[Commie] The World God Only Knows - 08 [4A4A0B2F].mkv
+complete/t/The World God Only Knows/[HorribleSubs] The World God Only Knows - 09 [720p][357A6C55].mkv
+complete/t/The World God Only Knows/[HorribleSubs] The World God Only Knows - 10 [720p][0A3D2F6D].mkv
+complete/t/The World God Only Knows/[HorribleSubs] The World God Only Knows - 11 [720p][814EFDB0].mkv
+complete/t/The World God Only Knows/[HorribleSubs] The World God Only Knows - 12 [End][720p][AB2EE98C].mkv
 complete/t/They Are My Noble Masters/[AniYoshi] They Are My Noble Masters - 01 [859986ED].mkv
 complete/t/They Are My Noble Masters/[AniYoshi] They Are My Noble Masters - 02 [B9CA208D].mkv
 complete/t/They Are My Noble Masters/[AniYoshi] They Are My Noble Masters - 03 [v2][C5AFEA99].mkv
