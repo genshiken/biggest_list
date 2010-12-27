@@ -811,6 +811,17 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Omake OVA [nnl].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (arranged) [nnl+b-f].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
+!new/[DB]_Hakuouki_22_[B328AF88].avi
+!new/[Force-Works] Iron Man - 12 [9B1A4339].mkv
+!new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 10 [720p].mkv
+!new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 13 [720p].mkv
+!new/[HorribleSubs] Yumeiro Patissiere Professional - 04 [720p].mkv
+!new/[HorribleSubs] Yumeiro Patissiere Professional - 06 [720p].mkv
+!new/[HorribleSubs] Yumeiro Patissiere Professional - 07 [720p].mkv
+!new/[HorribleSubs] Yumeiro Patissiere Professional - 08 [720p].mkv
+!new/[HorribleSubs] Yumeiro Patissiere Professional - 10 [720p].mkv
+!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 12 [1280x720 H264 OGG] [B78041B1].mkv
+!new/[Mamiko]_Tamayura_OVA_BD_02_[1080p][C3C5C0CC].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -834,6 +845,8 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
+!new/[SS]_Angel_Beats!_-_14_(1280x720_H.264)_[4DD10A1A].mkv
+!new/[SS]_Ore_No_Imouto_-_09_[491F902F].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
