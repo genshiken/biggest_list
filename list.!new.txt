@@ -811,52 +811,6 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Omake OVA [nnl].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (arranged) [nnl+b-f].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
-!new/[AonE]_Haiyoru!_Nyaruani_TV_03_[0332BC81].mkv
-!new/[DB]_Hakuouki_22_[B328AF88].avi
-!new/[Doremi].HeartCatch.PreCure!.44.[1280x720].[35A19B80].mkv
-!new/[Doremi].Motto.Ojamajo.Doremi.37.[B887A2CA].avi
-!new/[Force-Works] Iron Man - 12 [9B1A4339].mkv
-!new/[HorribleSubs] Fairy Tail - 60 [720p].mkv
-!new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 10 [720p].mkv
-!new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 13 [720p].mkv
-!new/[HorribleSubs] Yumeiro Patissiere Professional - 04 [720p].mkv
-!new/[HorribleSubs] Yumeiro Patissiere Professional - 06 [720p].mkv
-!new/[HorribleSubs] Yumeiro Patissiere Professional - 07 [720p].mkv
-!new/[HorribleSubs] Yumeiro Patissiere Professional - 08 [720p].mkv
-!new/[HorribleSubs] Yumeiro Patissiere Professional - 10 [720p].mkv
-!new/[Jumonji-Giri]_[Lunar]_Canvas_2_Ep01_(c963a437).mkv
-!new/[Jumonji-Giri]_[Lunar]_Canvas_2_Ep02_(f3da9f1b).mkv
-!new/[Jumonji-Giri]_[Lunar]_Canvas_2_Ep03_(055909e2).mkv
-!new/[Jumonji-Giri]_[Lunar]_Canvas_2_Ep04_(c6482941).mkv
-!new/[Jumonji-Giri]_[Lunar]_Canvas_2_Ep05_(b8a447ad).mkv
-!new/[Jumonji-Giri]_[Lunar]_Canvas_2_Ep06_(208e53ad).mkv
-!new/[Jumonji-Giri]_[Lunar]_Canvas_2_Ep07_(beb77ae9).mkv
-!new/[Jumonji-Giri]_[Lunar]_Canvas_2_Ep08_(f5a1175e).mkv
-!new/[Jumonji-Giri]_[Lunar]_Canvas_2_Ep09_(9d5e7dde).mkv
-!new/[Jumonji-Giri]_[Lunar]_Canvas_2_Ep10_(29e074c7).mkv
-!new/[Jumonji-Giri]_[Lunar]_Canvas_2_Ep11_(8d2a4b43).mkv
-!new/[Jumonji-Giri]_[Lunar]_Canvas_2_Ep12_(94f35499).mkv
-!new/[Jumonji-Giri]_[Lunar]_Canvas_2_Ep13_(0a6dfa0a).mkv
-!new/[Jumonji-Giri]_[Lunar]_Canvas_2_Ep14_(d173a28f).mkv
-!new/[Jumonji-Giri]_[Lunar]_Canvas_2_Ep15_(cd5b365e).mkv
-!new/[Jumonji-Giri]_[Lunar]_Canvas_2_Ep16_(f874ce57).mkv
-!new/[Jumonji-Giri]_[Lunar]_Canvas_2_Ep17_(8d54ac88).mkv
-!new/[Jumonji-Giri]_[Lunar]_Canvas_2_Ep18_(1eddbcdb).mkv
-!new/[Jumonji-Giri]_[Lunar]_Canvas_2_Ep19_(24422dde).mkv
-!new/[Jumonji-Giri]_[Lunar]_Canvas_2_Ep20_(1422d0f3).mkv
-!new/[Jumonji-Giri]_[Lunar]_Canvas_2_Ep21_(19861113).mkv
-!new/[Jumonji-Giri]_[Lunar]_Canvas_2_Ep22_(40cd9fff).mkv
-!new/[Jumonji-Giri]_[Lunar]_Canvas_2_Ep23_(c6e1c1c8).mkv
-!new/[Jumonji-Giri]_[Lunar]_Canvas_2_Ep24_(1b752245).mkv
-!new/[Jumonji-Giri]_[Lunar]_Canvas_2_NCED_(c5cc3a25).mkv
-!new/[Jumonji-Giri]_[Lunar]_Canvas_2_NCOP_(2217ada9).mkv
-!new/[Kira-Fansub] MM! Vol.01 - Hidden Cam (1920x1080 x264 AAC).mkv
-!new/[Kira-Fansub] MM! Vol.01 - NCED (BD 1920x1080 x264 AAC) [AC8F1855].mkv
-!new/[Kira-Fansub] MM! Vol.01 - NCOP (BD 1920x1080 x264 AAC) [86786FAD].mkv
-!new/[Kira-Fansub] MM! Vol.01 -SS! 01v0 (1920x1080 x264 AAC).mkv
-!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 12 [1280x720 H264 OGG] [B78041B1].mkv
-!new/[Mamiko]_Tamayura_OVA_BD_02_[1080p][C3C5C0CC].mkv
-!new/[Nutbladder]_Arakawa_Under_the_Bridge_×2_-_12_[1080p]_[24562C24].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -880,10 +834,6 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
-!new/[ReDone] Touka Gettan - 18 (DVD) [0EEAC8BF].mkv
-!new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 10 [720p][E3C16858].mkv
-!new/[SS]_Angel_Beats!_-_14_(1280x720_H.264)_[4DD10A1A].mkv
-!new/[SS]_Ore_No_Imouto_-_09_[491F902F].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -1123,16 +1073,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[Underwater-Ryuumaru] Otome Youkai Zakuro - 13 (END) [720p][354EF974].mkv
-!new/[Underwater] Panty & Stocking with Garterbelt - 13 (END) [B9414978].mkv
-!new/[Underwater] Shinryaku! Ika Musume - 12 (END) [720p][BA922AAE].mkv
-!new/[gg]_Star_Driver_-_13_[91A7A4CC].mkv
-!new/[m.3.3.w] Mitsudomoe Picture Drama - 01 [FINAL][5AA1CBEE].mkv
-!new/[m.3.3.w] Mitsudomoe Picture Drama - 02 [FINAL][EE82E6F4].mkv
-!new/[m.3.3.w] Mitsudomoe Picture Drama - 03 [FINAL][754559D1].mkv
-!new/[m.3.3.w] Mitsudomoe Picture Drama - 04 [FINAL][8F4EC242].mkv
-!new/[m.3.3.w] Mitsudomoe Picture Drama - 05 [FINAL][0A8EEB54].mkv
-!new/[m.3.3.w] Mitsudomoe Picture Drama - 06 [FINAL][9675C519].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
