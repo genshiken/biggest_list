@@ -9948,6 +9948,18 @@ complete/p/Prince of Tennis - National Tournament Semifinals/[Saizen] Prince of 
 complete/p/Prince of Tennis - National Tournament Semifinals/[Saizen] Prince of Tennis - National Championship Chapter Semifinals - 5 [DVD][A04599B9].mp4
 complete/p/Prince of Tennis - National Tournament Semifinals/[Saizen] Prince of Tennis - National Championship Chapter Semifinals - 6 [End][DVD][4931085E].mp4
 complete/p/Prince of Tennis - Special - The Truth Behind the Genius/[Shinsen-Subs] Prince of Tennis - Special - The Truth Behind the Genius [490EDE87].avi
+complete/p/Princess Jellyfish/[gg] Princess Jellyfish - 01 [2217A346].mkv
+complete/p/Princess Jellyfish/[umee] Princess Jellyfish - 01 [v2][66DD16B1].mkv
+complete/p/Princess Jellyfish/[umee] Princess Jellyfish - 02 [D96153E6].mkv
+complete/p/Princess Jellyfish/[umee] Princess Jellyfish - 03 [DEEFC6D0].mkv
+complete/p/Princess Jellyfish/[umee] Princess Jellyfish - 04 [815B11AF].mkv
+complete/p/Princess Jellyfish/[umee] Princess Jellyfish - 05 [F3C4F1F5].mkv
+complete/p/Princess Jellyfish/[umee] Princess Jellyfish - 06 [D724282C].mkv
+complete/p/Princess Jellyfish/[umee] Princess Jellyfish - 07 [5ACCD672].mkv
+complete/p/Princess Jellyfish/[umee] Princess Jellyfish - 08 [82892730].mkv
+complete/p/Princess Jellyfish/[umee] Princess Jellyfish - 09 [83623022].mkv
+complete/p/Princess Jellyfish/[umee] Princess Jellyfish - 10 [v2][593555C6].mkv
+complete/p/Princess Jellyfish/[umee] Princess Jellyfish - 11 [End][C8F4873A].mkv
 complete/p/Princess Lover!/[ANBU] Princess Lover! - 01 [2048A39A].mkv
 complete/p/Princess Lover!/[ANBU] Princess Lover! - 02 [0E1DC833].mkv
 complete/p/Princess Lover!/[ANBU] Princess Lover! - 03 [266ED424].mkv
@@ -12072,24 +12084,24 @@ complete/s/Special A/[m.3.3.w] Special A - 21 [4082CC7E].mkv
 complete/s/Special A/[m.3.3.w] Special A - 22 [330594C1].mkv
 complete/s/Special A/[m.3.3.w] Special A - 23 [EB3F3F0C].mkv
 complete/s/Special A/[m.3.3.w] Special A - 24 [End][0283E2D7].mkv
-complete/s/Spice and Wolf S2 OVA/[Frostii] Spice and Wolf S2 - 00 OVA (1280x720) [6FE4D9D3].mkv
-complete/s/Spice and Wolf S2 OVA/[Yabai] Spice and Wolf S2 - 00 [BD][F046ADDF].mkv
-complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - 01 [BD][6A489D81].mkv
-complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - 02 [BD][99D8F67F].mkv
-complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - 03 [BD][4DFBE04A].mkv
-complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - 04 [BD][2B37A730].mkv
-complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - 05 [BD][E84477A3].mkv
-complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - 06 [BD][61DFAA3D].mkv
-complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - 07 [BD][5F534C9F].mkv
-complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - 08 [BD][D3154520].mkv
-complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - 09 [BD][053ED96B].mkv
-complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - 10 [BD][A79CF6D2].mkv
-complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - 11 [BD][418A0D43].mkv
-complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - 12 [End][BD][2096DC81].mkv
-complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - Ending (Clean) [BD][35023CEE].mkv
-complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - Ending [BD][8A7FFA92].mkv
-complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - Opening (Clean) [BD][D6890B3E].mkv
-complete/s/Spice and Wolf S2/[Yabai] Spice and Wolf S2 - Opening [BD][9FC86030].mkv
+complete/s/Spice and Wolf II OVA/[Frostii] Spice and Wolf II - 00 OVA [720p][6FE4D9D3].mkv
+complete/s/Spice and Wolf II OVA/[Yabai] Spice and Wolf II - 00 [BD][F046ADDF].mkv
+complete/s/Spice and Wolf II/[Yabai] Spice and Wolf II - 01 [BD][6A489D81].mkv
+complete/s/Spice and Wolf II/[Yabai] Spice and Wolf II - 02 [BD][99D8F67F].mkv
+complete/s/Spice and Wolf II/[Yabai] Spice and Wolf II - 03 [BD][4DFBE04A].mkv
+complete/s/Spice and Wolf II/[Yabai] Spice and Wolf II - 04 [BD][2B37A730].mkv
+complete/s/Spice and Wolf II/[Yabai] Spice and Wolf II - 05 [BD][E84477A3].mkv
+complete/s/Spice and Wolf II/[Yabai] Spice and Wolf II - 06 [BD][61DFAA3D].mkv
+complete/s/Spice and Wolf II/[Yabai] Spice and Wolf II - 07 [BD][5F534C9F].mkv
+complete/s/Spice and Wolf II/[Yabai] Spice and Wolf II - 08 [BD][D3154520].mkv
+complete/s/Spice and Wolf II/[Yabai] Spice and Wolf II - 09 [BD][053ED96B].mkv
+complete/s/Spice and Wolf II/[Yabai] Spice and Wolf II - 10 [BD][A79CF6D2].mkv
+complete/s/Spice and Wolf II/[Yabai] Spice and Wolf II - 11 [BD][418A0D43].mkv
+complete/s/Spice and Wolf II/[Yabai] Spice and Wolf II - 12 [End][BD][2096DC81].mkv
+complete/s/Spice and Wolf II/[Yabai] Spice and Wolf II - Ending (Clean) [BD][35023CEE].mkv
+complete/s/Spice and Wolf II/[Yabai] Spice and Wolf II - Ending [BD][8A7FFA92].mkv
+complete/s/Spice and Wolf II/[Yabai] Spice and Wolf II - Opening (Clean) [BD][D6890B3E].mkv
+complete/s/Spice and Wolf II/[Yabai] Spice and Wolf II - Opening [BD][9FC86030].mkv
 complete/s/Spice and Wolf/[BSS] Spice and Wolf - 01 [5778B7EF].mkv
 complete/s/Spice and Wolf/[BSS] Spice and Wolf - 02 [5F31E978].mkv
 complete/s/Spice and Wolf/[BSS] Spice and Wolf - 03 [4734DF04].mkv
