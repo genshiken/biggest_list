@@ -758,6 +758,23 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Omake OVA [nnl].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (arranged) [nnl+b-f].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
+!new/[BWS]Pocket_Monsters_Best_Wishes_013_Chillarmy_is_Tidy[H264_720P][00340A7F].mkv
+!new/[BWS]Pocket_Monsters_Best_Wishes_014_Shippo_City!_The_Great_Museum_Adventure!![H264_720P][F064825F].mkv
+!new/[Commie] Heroman - 13 [30745C11].mkv
+!new/[Commie] Heroman - 14 [C44D0349].mkv
+!new/[Commie] Heroman - 15 [5749F650].mkv
+!new/[Commie] Heroman - 16 [AFF83A5B].mkv
+!new/[Commie] Heroman - 17 [FC055399].mkv
+!new/[Commie] Heroman - 18 [D60C1940].mkv
+!new/[Commie] Heroman - 19 [279C6B7A].mkv
+!new/[Commie] Heroman - 20 [DDD141DD].mkv
+!new/[Commie] Heroman - 21 [A59ADDE6].mkv
+!new/[Commie] Heroman - 22 [3DF77485].mkv
+!new/[Commie] Heroman - 23 [A6587E1A].mkv
+!new/[Commie] Heroman - 24 [CB7500F7].mkv
+!new/[Commie] Heroman - 25 [5979B9CA].mkv
+!new/[Commie] Heroman - 26 [7D402CE8].mkv
+!new/[Commie] Nurarihyon no Mago - 15 [B3CB522F].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -781,6 +798,8 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
+!new/[SS]_Fortune_Arterial_-_12_[68BCE900].mkv
+!new/[TMD_A-Destiny]_Bakuman_13_[720p][DD87C902].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -1020,6 +1039,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 51 [DVD H264 640x476] [631C02B1].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
