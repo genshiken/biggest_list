@@ -162,7 +162,6 @@
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
-!new/Detective Conan - 600 [DCTP][720p][46A0C679].mp4
 !new/Digimon tamers/Digimon Tamers Episode 10 (Subbed By PositronCannon).avi
 !new/Digimon tamers/Digimon Tamers Episode 11 (Subbed By PositronCannon).avi
 !new/Digimon tamers/Digimon Tamers Episode 12 (Subbed By PositronCannon).avi
@@ -759,31 +758,6 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Omake OVA [nnl].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (arranged) [nnl+b-f].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
-!new/[AonE]_Shinrei_Tantei_Yakumo_13_[6889C32D].mkv
-!new/[AonE]_Sora_no_Manimani_12_[01C0170E].mkv
-!new/[AonE_Frostii]_Daa!_Daa!_Daa!_-_66_[DVD][F1DFBA97].mkv
-!new/[BWS]Pocket_Monsters_Best_Wishes_014_Shippo_City!_The_Great_Museum_Adventure!![H264_SD][82B92504].mkv
-!new/[Coalgirls]_Occult_Academy_07_(1920x1080_Blu-ray_FLAC)_[EB683DE2].mkv
-!new/[Coalgirls]_Occult_Academy_08_(1920x1080_Blu-ray_FLAC)_[964571F5].mkv
-!new/[Coalgirls]_Occult_Academy_SP04_(1920x1080_Blu-ray_FLAC)_[06EB4730].mkv
-!new/[Commie-Yanks] Natsu no Arashi! ~Akinaichuu~ (Summer Storm! ~Open for Business~) - 13 [DVD 480p AC3] [C613EAB5].mkv
-!new/[Commie] Shiki - 11 [A4AC03BC].mkv
-!new/[Commie] Shiki - 12 [783016EC].mkv
-!new/[Commie] Shiki - 13 [9AB2213B].mkv
-!new/[Commie] Shiki - 14 [15857549].mkv
-!new/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_09_[21ad5267].avi
-!new/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_10_[334383d3].avi
-!new/[Doremi].HeartCatch.PreCure!.45.[1280x720].[2C2276DE].mkv
-!new/[Frostii]_K-On!!_B-Side_Theater_-_Uraon!!_-_6_[6F903710].mkv
-!new/[Harth]_Loups=Garous_Picture_Drama_[BD_1280x720_FLAC][1125FE85].mkv
-!new/[Lambda-Delta]_Loups=Garous_[720p][H264_AAC][DB081F1C].mkv
-!new/[Live-eviL]_Captain_Harlock_SSX_(TV)_-_08_[439F92F8].avi
-!new/[Live-eviL]_Captain_Harlock_SSX_(TV)_-_09_[D9EF560D].avi
-!new/[Live-eviL]_Future_Boy_Conan_Ep_21_[h264&MP3]_[0c293ba3].mp4
-!new/[Live-eviL]_Future_Boy_Conan_Ep_22_[h264&MP3]_[95a51cdb].mp4
-!new/[Mamiko]_Tamayura_OVA_BD_01v2_[1080p][49F42A52].mkv
-!new/[Mamiko]_Tamayura_OVA_BD_02v2_[1080p][88BC0721].mkv
-!new/[Nutbladder]_Arakawa_Under_the_Bridge_×2_-_13_[CC8B9D62].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -807,10 +781,6 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
-!new/[RyRo]_Inazuma_Eleven_-_112_(704x396_x264_AAC)_[F16ED2AA].mkv
-!new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 11 [720p][AAECD442].mkv
-!new/[SHiN-gx] Kuttsukiboshi - 01 [DVD][720x480 AR h.264 AC3][v2][9DB79BA4].mkv
-!new/[SMS] Starry Sky - 02 [E7B9CC30].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -1050,16 +1020,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_29v2_[FE261E67][HD].mp4
-!new/[WhyNot] Kowarekake no Orgel - Sidestory [BD 1080p FLAC][D5E24B33].mkv
-!new/[WhyNot] Kowarekake no Orgel - Sidestory [BD 720p AAC][A0368597].mkv
-!new/[WhyNot] Kowarekake no Orgel [BD 1080p FLAC][F46ED00B].mkv
-!new/[WhyNot] Nurarihyon no Mago - 26 [C0E0C3BB].mkv
-!new/[Yoroshiku]_Happy_Happy_Clover_-_06_[5190A5DC].mkv
-!new/[chibi-Doki] Seikon no Qwaser - 10 (1280x720 h264 BD FLAC) [A0A091F0].mkv
-!new/[m.3.3.w-Doki]_Hen_Zemi_-_OAD_01_[0F4F17EF].mkv
-!new/[umee]_Princess_Jellyfish_-_11_[C8F4873A].mkv
-!new/[umee]_Shiki_-_22_[5C0D8249].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -1160,17 +1120,6 @@
 !new/bla/zx.black.heaven.12.sub.rar
 !new/bla/zx.black.heaven.13.dub.avi
 !new/bla/zx.black.heaven.13.sub.rar
-!new/bow/[101027] TVアニメ「えむえむっ！」OP主題歌「Help！」／石動美緒（CV：竹達彩奈）.zip
-!new/bow/[101027] Togainu no Chi OP Single - ROSE HIP-BULLET [GRANRODEO] (FLAC).rar
-!new/bow/[101117] Koe de Oshigoto! ED Single - Kuchibiru Chuck [MAKO, Nagatsuma Jyuri, Shimagata Maina] (FLAC).rar
-!new/bow/[Doki] Seikon no Qwaser - Jotei no Shouzou (720x480 h264 DVD AC3) [7459F43F].mkv
-!new/bow/[EAC] [101020] TVアニメ ストライクウィッチーズ2 エンディング・テーマ・コレクション「Over Sky」(ape+cue).rar
-!new/bow/[EAC] [101027] FORTUNE ARTERIAL ～赤い約束～_I miss you／Veil (tak+iso).rar
-!new/bow/[EAC] [101027] FORTUNE ARTERIAL ～赤い約束～_絆-kizunairo-色／Lia (tak+iso).rar
-!new/bow/[EAC] [101027] TVアニメ『ヨスガノソラ』オープニング主題歌 比翼の羽根 (tta+cue rr5).rar
-!new/bow/[EAC] [101110]TVアニメ えむえむっ！ ED主題歌「More-more LOVERS!!」／麻生夏子  (tak+bmp+rr3).rar
-!new/bow/[Ritsuka][101103] To Aru Majutsu no Index II OP Single - No buts! [Kawada Mami] (FLAC).rar
-!new/bow/[Ritsuka][101117] OVA Koe de Oshigoto! OP Single - Koi no Mahou [Orange blossom] (FLAC).rar
 !new/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/lama/[Ayako] Wei� Survive R - 01 - H264 - E975A989.mkv
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
