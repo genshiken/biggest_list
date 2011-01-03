@@ -3347,6 +3347,18 @@ complete/f/Flame of Recca/[SSP-Corp] Flame of Recca - 39 [v2][98B2CDAE].mkv
 complete/f/Flame of Recca/[SSP-Corp] Flame of Recca - 40 [v2][ABCF57C3].mkv
 complete/f/Flame of Recca/[SSP-Corp] Flame of Recca - 41 [v2][3F28CFB5].mkv
 complete/f/Flame of Recca/[SSP-Corp] Flame of Recca - 42 [End][v2][AC9B497D].mkv
+complete/f/Fortune Arterial/[SS] Fortune Arterial - 01 [B9350090].mkv
+complete/f/Fortune Arterial/[SS] Fortune Arterial - 02 [855C3F17].mkv
+complete/f/Fortune Arterial/[SS] Fortune Arterial - 03 [68310B3B].mkv
+complete/f/Fortune Arterial/[SS] Fortune Arterial - 04 [9BFBE36D].mkv
+complete/f/Fortune Arterial/[SS] Fortune Arterial - 05 [6DE1473D].mkv
+complete/f/Fortune Arterial/[SS] Fortune Arterial - 06 [B477B038].mkv
+complete/f/Fortune Arterial/[SS] Fortune Arterial - 07 [543A6A31].mkv
+complete/f/Fortune Arterial/[SS] Fortune Arterial - 08 [E5CA34D6].mkv
+complete/f/Fortune Arterial/[SS] Fortune Arterial - 09 [9E1E6E63].mkv
+complete/f/Fortune Arterial/[SS] Fortune Arterial - 10 [B123468F].mkv
+complete/f/Fortune Arterial/[SS] Fortune Arterial - 11 [E64C5006].mkv
+complete/f/Fortune Arterial/[SS] Fortune Arterial - 12 [End][68BCE900].mkv
 complete/f/Freedom/[AF-F & Y-F] Freedom - 1 [3482D356].mkv
 complete/f/Freedom/[AF-F & Y-F] Freedom - 2 [36891A23].mkv
 complete/f/Freedom/[AF-F & Y-F] Freedom - 3 [0F88472F].mkv
@@ -5208,20 +5220,20 @@ complete/h/Heroman/[Commie] Heroman - 09 [E9A1665D].mkv
 complete/h/Heroman/[Commie] Heroman - 10 [F4594EF2].mkv
 complete/h/Heroman/[Commie] Heroman - 11 [7C7529C4].mkv
 complete/h/Heroman/[Commie] Heroman - 12 [CA2E2FF8].mkv
-complete/h/Heroman/[HorribleSubs] Heroman - 13 (1280x720) [CF801D83].mkv
-complete/h/Heroman/[HorribleSubs] Heroman - 14 (1280x720) [A708186D].mkv
-complete/h/Heroman/[HorribleSubs] Heroman - 15 (1280x720) [9E24B23C].mkv
-complete/h/Heroman/[HorribleSubs] Heroman - 16 (1280x720) [0775443D].mkv
-complete/h/Heroman/[HorribleSubs] Heroman - 17 (1280x720) [0A32033D].mkv
-complete/h/Heroman/[HorribleSubs] Heroman - 18 (1280x720) [146E6680].mkv
-complete/h/Heroman/[HorribleSubs] Heroman - 19 (1280x720) [8EC7F8BB].mkv
-complete/h/Heroman/[HorribleSubs] Heroman - 20 (1280x720) [CE5DD5FC].mkv
-complete/h/Heroman/[HorribleSubs] Heroman - 21 (1280x720) [CCAD67BD].mkv
-complete/h/Heroman/[HorribleSubs] Heroman - 22 (1280x720) [F003741F].mkv
-complete/h/Heroman/[HorribleSubs] Heroman - 23 (1280x720) [E4FEC383].mkv
-complete/h/Heroman/[HorribleSubs] Heroman - 24 (1280x720) [156BD896].mkv
-complete/h/Heroman/[HorribleSubs] Heroman - 25 (1280x720) [441AE647].mkv
-complete/h/Heroman/[HorribleSubs] Heroman - 26 (1280x720) [End][6ABEBD8D].mkv
+complete/h/Heroman/[Commie] Heroman - 13 [30745C11].mkv
+complete/h/Heroman/[Commie] Heroman - 14 [C44D0349].mkv
+complete/h/Heroman/[Commie] Heroman - 15 [5749F650].mkv
+complete/h/Heroman/[Commie] Heroman - 16 [AFF83A5B].mkv
+complete/h/Heroman/[Commie] Heroman - 17 [FC055399].mkv
+complete/h/Heroman/[Commie] Heroman - 18 [D60C1940].mkv
+complete/h/Heroman/[Commie] Heroman - 19 [279C6B7A].mkv
+complete/h/Heroman/[Commie] Heroman - 20 [DDD141DD].mkv
+complete/h/Heroman/[Commie] Heroman - 21 [A59ADDE6].mkv
+complete/h/Heroman/[Commie] Heroman - 22 [3DF77485].mkv
+complete/h/Heroman/[Commie] Heroman - 23 [A6587E1A].mkv
+complete/h/Heroman/[Commie] Heroman - 24 [CB7500F7].mkv
+complete/h/Heroman/[Commie] Heroman - 25 [5979B9CA].mkv
+complete/h/Heroman/[Commie] Heroman - 26 [End][7D402CE8].mkv
 complete/h/Hidamari Sketch Hoshi Mittsu Special/[Nutbladder] Hidamari Sketch Hoshi Mittsu Special - 1 [2E43FFC2].mkv
 complete/h/Hidamari Sketch Hoshi Mittsu Special/[Nutbladder] Hidamari Sketch Hoshi Mittsu Special - 2 [End][E3D40077].mkv
 complete/h/Hidamari Sketch Hoshi Mittsu Special/[mudabone] Hidamari Sketch Hoshimittsu Special - 1 [v2 720p BD][DF81A579].mkv
@@ -9229,6 +9241,33 @@ complete/n/Noir/[zx] Noir - 23 [0FF00957].ogm
 complete/n/Noir/[zx] Noir - 24 [7837A3FD].ogm
 complete/n/Noir/[zx] Noir - 25 [F50C358B].ogm
 complete/n/Noir/[zx] Noir - 26 [End][FDA8E521].ogm
+complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 01 [v2][E46F2A29].mkv
+complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 02 [754FE16D].mkv
+complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 03 [78D2C5C7].mkv
+complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 04 [54254C18].mkv
+complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 05 [A78726D7].mkv
+complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 06 [B4D9B2E3].mkv
+complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 07 [DA39D4E3].mkv
+complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 08 [A2992893].mkv
+complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 09 [v2][3E7043B5].mkv
+complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 10 [v2][CC86036E].mkv
+complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 11 [v2][2638E4AA].mkv
+complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 12 [AA1E76C4].mkv
+complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 12.5 [2268B4D5].mkv
+complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 13 [7F853B3A].mkv
+complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 14 [71499CAB].mkv
+complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 15 [B3CB522F].mkv
+complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 16 [CA7CDC76].mkv
+complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 17 [A29EF086].mkv
+complete/n/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 18 [FCAFF71B].mkv
+complete/n/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 19 [30009E58].mkv
+complete/n/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 20 [1B413C7D].mkv
+complete/n/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 21 [20B4F82C].mkv
+complete/n/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 22 [A74E8E55].mkv
+complete/n/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 23 [BC9241C7].mkv
+complete/n/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 24 [625509F3].mkv
+complete/n/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 25 [D0098060].mkv
+complete/n/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 26 [End][C0E0C3BB].mkv
 complete/n/Nurse Witch Komugi-chan Magikarte Z/[No-Subs] Nurse Witch Komugi-chan Magikarte Z - 1 [v2][296056ED].mkv
 complete/n/Nurse Witch Komugi-chan Magikarte Z/[No-Subs] Nurse Witch Komugi-chan Magikarte Z - 2 [End][v2][328D869A].mkv
 complete/n/Nurse Witch Komugi-chan Magikarte Z/[No-Subs] Nurse Witch Komugi-chan Magikarte Z - Ending [AF91456D].mkv
