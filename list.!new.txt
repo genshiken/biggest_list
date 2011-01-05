@@ -720,6 +720,7 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
 !new/[Ayu]_Higurashi_no_Naku_Koro_ni_Kai_14_DVD_[DE5F32D1].mkv
 !new/[DGz]_MM!_-_01_[720p][h264_AAC][66C81721].mkv
+!new/[DGz]_MM!_-_02_[720p][h264_AAC][0659B0E8].mkv
 !new/[Doremi].Nobita.and.the.Legend.Of.the.Green.Giant.Doraemon.Movie.2008.[F988BE25].mkv
 !new/[HorribleSubs] Bleach - 303 [720p].mkv
 !new/[HorribleSubs] Rio Rainbow Gate - 01v2 [720p].mkv
@@ -746,6 +747,21 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
+!new/[Seto_Otaku]_Valkyria_Chronicles_-_Non-Credit_ED1_[DVD][720x480_H264-Vorbis][FC2313F1].mkv
+!new/[Seto_Otaku]_Valkyria_Chronicles_-_Non-Credit_ED2_[DVD][720x480_H264-Vorbis][FB57915C].mkv
+!new/[Seto_Otaku]_Valkyria_Chronicles_-_Non-Credit_OP1-Ver.A_[DVD][720x480_H264-Vorbis][845436AF].mkv
+!new/[Seto_Otaku]_Valkyria_Chronicles_-_Non-Credit_OP1-Ver.B_[DVD][720x480_H264-Vorbis][5B481761].mkv
+!new/[Seto_Otaku]_Valkyria_Chronicles_-_Non-Credit_OP2_[DVD][720x480_H264-Vorbis][112F043C].mkv
+!new/[Seto_Otaku]_Valkyria_Chronicles_-_SP_[DVD][720x480_H264-Vorbis][C3149F70].mkv
+!new/[Seto_Otaku]_Valkyria_Chronicles_OVA_-_01_[DVD][720x480_H264-Vorbis][63E10756].mkv
+!new/[Seto_Otaku]_Valkyria_Chronicles_OVA_-_02_[DVD][720x480_H264-Vorbis][E3B29624].mkv
+!new/[Seto_Otaku]_Valkyria_Chronicles_OVA_-_03_[DVD][720x480_H264-Vorbis][F4006E7A].mkv
+!new/[Seto_Otaku]_Valkyria_Chronicles_OVA_-_04v2_[DVD][720x480_H264-Vorbis][A899CA6A].mkv
+!new/[Seto_Otaku]_Valkyria_Chronicles_OVA_-_05v2_[DVD][720x480_H264-Vorbis][EF97D4B1].mkv
+!new/[Seto_Otaku]_Valkyria_Chronicles_OVA_-_06_[DVD][720x480_H264-Vorbis][AF16DAE9].mkv
+!new/[Seto_Otaku]_Valkyria_Chronicles_OVA_-_07_(Buuhi)_[DVD][720x480_H264-Vorbis][7F9C7AC2].mkv
+!new/[Seto_Otaku]_Valkyria_Chronicles_OVA_-_08_[DVD][720x480_H264-Vorbis][3F31C70C].mkv
+!new/[Seto_Otaku]_Valkyria_Chronicles_OVA_-_09v2_(Epilogue)_[DVD][720x480_H264-Vorbis][BD56DD92].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
