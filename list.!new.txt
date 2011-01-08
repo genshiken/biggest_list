@@ -666,6 +666,7 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Omake OVA [nnl].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (arranged) [nnl+b-f].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
+!new/[Commie] The V2s God Only Knows - 01-12 [22AD97F7].zip
 !new/[DGz]_MM!_-_01_[720p][h264_AAC][66C81721].mkv
 !new/[DGz]_MM!_-_02_[720p][h264_AAC][0659B0E8].mkv
 !new/[Doremi].Nobita.and.the.Legend.Of.the.Green.Giant.Doraemon.Movie.2008.[F988BE25].mkv
@@ -673,6 +674,7 @@
 !new/[EAC] [101111] [CIRCUS／Lantis] CIRCUS 10th Collect Disc05～08 (4ape+cue+bmp rr5).rar
 !new/[EAC] [101111] [CIRCUS／Lantis] CIRCUS 10th Collect Disc09～12 (4ape+cue+bmp rr5).rar
 !new/[EAC] [101111] [CIRCUS／Lantis] CIRCUS 10th Collect Disc13～14 (ape+cue+bmp rr5).rar
+!new/[HorribleSubs] Cardfight!! Vanguard - 01 [720p].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -696,7 +698,10 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
+!new/[RyRo]_Digimon_Xros_Wars_-_21_(1280x720_x264_AAC)_[A4D3DC80].mkv
+!new/[RyRo]_Inazuma_Eleven_-_112_(1280x720_x264_AAC)_[3727AFC7].mkv
 !new/[Ryuumaru] Hyakka Ryouran Samurai Girls – Special 02 [720p][CA2375BD].mkv
+!new/[SMS] Starry Sky - 03 [7086BDE7].mkv
 !new/[Seto_Otaku]_Valkyria_Chronicles_-_Non-Credit_ED1_[DVD][720x480_H264-Vorbis][FC2313F1].mkv
 !new/[Seto_Otaku]_Valkyria_Chronicles_-_Non-Credit_ED2_[DVD][720x480_H264-Vorbis][FB57915C].mkv
 !new/[Seto_Otaku]_Valkyria_Chronicles_-_Non-Credit_OP1-Ver.A_[DVD][720x480_H264-Vorbis][845436AF].mkv
@@ -951,6 +956,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[yibis]_One_Piece_481_[720p][BAB5421B].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -1326,3 +1332,4 @@
 !new/ss/[all4seiya][galaxy][SAINT_SEIYA][TV112][DVDRIP][XVID_MP3][JP_CH].mkv
 !new/ss/[all4seiya][galaxy][SAINT_SEIYA][TV113][DVDRIP][XVID_MP3][JP_CH].mkv
 !new/ss/[all4seiya][galaxy][SAINT_SEIYA][TV114][DVDRIP][XVID_MP3][JP_CH].mkv
+!new/stardriver1-13_updated.7z
