@@ -666,6 +666,9 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Omake OVA [nnl].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (arranged) [nnl+b-f].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
+!new/[Coalgirls]_Utawarerumono_OVA_01_(1280x720_Blu-Ray_FLAC)_[38206BEF].mkv
+!new/[Coalgirls]_Utawarerumono_OVA_02_(1280x720_Blu-Ray_FLAC)_[9CB07E3A].mkv
+!new/[Coalgirls]_Utawarerumono_OVA_03_(1280x720_Blu-Ray_FLAC)_[25B6A6BA].mkv
 !new/[Commie] The V2s God Only Knows - 01-12 [22AD97F7].zip
 !new/[DGz]_MM!_-_01_[720p][h264_AAC][66C81721].mkv
 !new/[DGz]_MM!_-_02_[720p][h264_AAC][0659B0E8].mkv
@@ -675,6 +678,7 @@
 !new/[EAC] [101111] [CIRCUS／Lantis] CIRCUS 10th Collect Disc09～12 (4ape+cue+bmp rr5).rar
 !new/[EAC] [101111] [CIRCUS／Lantis] CIRCUS 10th Collect Disc13～14 (ape+cue+bmp rr5).rar
 !new/[HorribleSubs] Cardfight!! Vanguard - 01 [720p].mkv
+!new/[HorribleSubs] Tegami Bachi REVERSE - 39 [720p].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -959,6 +963,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_13_[720p][181AEEEE].mkv
+!new/[Whine-Subs]_Freezing_-_01_[960x720_x264_AAC][C23D808A].mkv
 !new/[gSS] Gundam 00 Movie 1080pv2 patch.zip
 !new/[yibis]_One_Piece_481_[720p][BAB5421B].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
