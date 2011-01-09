@@ -966,12 +966,9 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_13_[720p][181AEEEE].mkv
 !new/[Whine-Subs]_Freezing_-_01_[960x720_x264_AAC][C23D808A].mkv
 !new/[WhyNot] Freezing - 01 [1E14B456].mkv
-!new/[Yoroshiku]_Happy_Happy_Clover_-_07_[F4055FEC].mkv
 !new/[gSS] Gundam 00 Movie 1080pv2 patch.zip
-!new/[yibis]_One_Piece_481_[720p][BAB5421B].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -1077,6 +1074,21 @@
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
 !new/lama/[Kuroneko] Fullmetal Alchemist - Chibi Party OAV [DB1546EB].avi
 !new/lama/[TAC Studios] Hunter X Hunter - Requiem.avi
+!new/p/1.xdelta
+!new/p/10.xdelta
+!new/p/11.xdelta
+!new/p/12.xdelta
+!new/p/2.xdelta
+!new/p/3.xdelta
+!new/p/4.xdelta
+!new/p/5.xdelta
+!new/p/6.xdelta
+!new/p/7.xdelta
+!new/p/8.xdelta
+!new/p/9.xdelta
+!new/p/README_FIRST.txt
+!new/p/RUN_ME.bat
+!new/p/[Commie] The World God Only Knows - 01v2 [74C90DC8].mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス OVA 「青空が描きたい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 映像特典 「The たんかい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 第01話 「えがいてあそぼ」.mkv

@@ -1064,6 +1064,7 @@ incomplete/Happy Happy Clover/[Yoroshiku] Happy Happy Clover - 03 [95A5E181].mkv
 incomplete/Happy Happy Clover/[Yoroshiku] Happy Happy Clover - 04 [E6767716].mkv
 incomplete/Happy Happy Clover/[Yoroshiku] Happy Happy Clover - 05 [20F325F8].mkv
 incomplete/Happy Happy Clover/[Yoroshiku] Happy Happy Clover - 06 [5190A5DC].mkv
+incomplete/Happy Happy Clover/[Yoroshiku] Happy Happy Clover - 07 [F4055FEC].mkv
 incomplete/HeartCatch PreCure!/[Doremi] HeartCatch PreCure! - 01 [720p][D5C82B8C].mkv
 incomplete/HeartCatch PreCure!/[Doremi] HeartCatch PreCure! - 02 [720p][1D1767F3].mkv
 incomplete/HeartCatch PreCure!/[Doremi] HeartCatch PreCure! - 03 [720p][CF8D0F94].mkv
@@ -2686,6 +2687,7 @@ incomplete/One Piece/[yibis] One Piece - 477 [720p][EAF11619].mkv
 incomplete/One Piece/[yibis] One Piece - 478 [720p][2997CFCB].mkv
 incomplete/One Piece/[yibis] One Piece - 479 [720p][64B26DAB].mkv
 incomplete/One Piece/[yibis] One Piece - 480 [720p][AFE9F598].mkv
+incomplete/One Piece/[yibis] One Piece - 481 [720p][BAB5421B].mkv
 incomplete/Ontama!/[DATS] Ontama! - 01 [2F0C7231].mkv
 incomplete/Ontama!/[DATS] Ontama! - 02 [2FBB11E1].mkv
 incomplete/Ontama!/[DATS] Ontama! - 03 [00BDF47B].mkv
@@ -3262,6 +3264,7 @@ incomplete/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 09 
 incomplete/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 10 [v0 720p][DF5EC704].mkv
 incomplete/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 11 [720p][FB30D0DD].mkv
 incomplete/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 12 [720p][34DC6CD9].mkv
+incomplete/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 13 [720p][181AEEEE].mkv
 incomplete/Toaru Majutsu no Index II/[UTW] Toaru Majutsu no Index II - 01 [720p][15CC5AE2].mkv
 incomplete/Toaru Majutsu no Index II/[UTW] Toaru Majutsu no Index II - 02 [720p][50A585BB].mkv
 incomplete/Toaru Majutsu no Index II/[UTW] Toaru Majutsu no Index II - 03 [720p][2C55B11E].mkv
