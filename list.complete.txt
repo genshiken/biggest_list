@@ -12991,18 +12991,18 @@ complete/t/The Tower of Druaga - Sword of Uruk/[O-L] The Tower of Druaga - Sword
 complete/t/The Tower of Druaga - Sword of Uruk/[O-L] The Tower of Druaga - Sword of Uruk - 10 (1280x720) [272C8527].mkv
 complete/t/The Tower of Druaga - Sword of Uruk/[O-L] The Tower of Druaga - Sword of Uruk - 11 (1280x720) [5EB495A3].mkv
 complete/t/The Tower of Druaga - Sword of Uruk/[O-L] The Tower of Druaga - Sword of Uruk - 12 (1280x720) [End][E0CBD1FA].mkv
-complete/t/The World God Only Knows/[Commie] The World God Only Knows - 01 [476E9732].mkv
-complete/t/The World God Only Knows/[Commie] The World God Only Knows - 02 [06923124].mkv
-complete/t/The World God Only Knows/[Commie] The World God Only Knows - 03 [C68B0DFE].mkv
-complete/t/The World God Only Knows/[Commie] The World God Only Knows - 04 [AC4FC098].mkv
-complete/t/The World God Only Knows/[Commie] The World God Only Knows - 05 [4F1CEB11].mkv
-complete/t/The World God Only Knows/[Commie] The World God Only Knows - 06 [EA1EF1AA].mkv
-complete/t/The World God Only Knows/[Commie] The World God Only Knows - 07 [F9380E08].mkv
-complete/t/The World God Only Knows/[Commie] The World God Only Knows - 08 [4A4A0B2F].mkv
-complete/t/The World God Only Knows/[Commie] The World God Only Knows - 09 [7EFC8239].mkv
-complete/t/The World God Only Knows/[Commie] The World God Only Knows - 10 [89BE5FCD].mkv
-complete/t/The World God Only Knows/[Commie] The World God Only Knows - 11 [DACA6907].mkv
-complete/t/The World God Only Knows/[Commie] The World God Only Knows - 12 [End][C2C4049E].mkv
+complete/t/The World God Only Knows/[Commie] The World God Only Knows - 01 [v2][74C90DC8].mkv
+complete/t/The World God Only Knows/[Commie] The World God Only Knows - 02 [v2][3C63EB4E].mkv
+complete/t/The World God Only Knows/[Commie] The World God Only Knows - 03 [v2][5ADD78A2].mkv
+complete/t/The World God Only Knows/[Commie] The World God Only Knows - 04 [v2][E7A7035E].mkv
+complete/t/The World God Only Knows/[Commie] The World God Only Knows - 05 [v2][B650ABA8].mkv
+complete/t/The World God Only Knows/[Commie] The World God Only Knows - 06 [v2][D9D08809].mkv
+complete/t/The World God Only Knows/[Commie] The World God Only Knows - 07 [v2][4EAE834D].mkv
+complete/t/The World God Only Knows/[Commie] The World God Only Knows - 08 [v2][26D62410].mkv
+complete/t/The World God Only Knows/[Commie] The World God Only Knows - 09 [v2][579B9B17].mkv
+complete/t/The World God Only Knows/[Commie] The World God Only Knows - 10 [v2][6A5EE772].mkv
+complete/t/The World God Only Knows/[Commie] The World God Only Knows - 11 [v2][9874C283].mkv
+complete/t/The World God Only Knows/[Commie] The World God Only Knows - 12 [End][v2][AEA0437C].mkv
 complete/t/They Are My Noble Masters/[AniYoshi] They Are My Noble Masters - 01 [859986ED].mkv
 complete/t/They Are My Noble Masters/[AniYoshi] They Are My Noble Masters - 02 [B9CA208D].mkv
 complete/t/They Are My Noble Masters/[AniYoshi] They Are My Noble Masters - 03 [v2][C5AFEA99].mkv

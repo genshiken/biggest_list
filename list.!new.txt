@@ -43,7 +43,6 @@
 !new/Amazing Nurse Nanaco/AVSEQ03.DAT
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
-!new/Detective Conan - 601 [DCTP][720p][9F375B3F].mp4
 !new/Digimon tamers/Digimon Tamers Episode 10 (Subbed By PositronCannon).avi
 !new/Digimon tamers/Digimon Tamers Episode 11 (Subbed By PositronCannon).avi
 !new/Digimon tamers/Digimon Tamers Episode 12 (Subbed By PositronCannon).avi
@@ -144,6 +143,7 @@
 !new/Heroic Age/[Coalgirls] Heroic Age - 24 [720p BD][C72F268C].mkv
 !new/Heroic Age/[Coalgirls] Heroic Age - 25 [720p BD][5ADDC342].mkv
 !new/Heroic Age/[Coalgirls] Heroic Age - 26 [End][720p BD][7407AF69].mkv
+!new/Info.txt
 !new/Lupin III - First Contact/Lupin III - First Contact [3DA567E4].mkv
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].ENG.srt
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].avi
@@ -714,9 +714,28 @@
 !new/[EAC] [101111] [CIRCUS／Lantis] CIRCUS 10th Collect Disc05～08 (4ape+cue+bmp rr5).rar
 !new/[EAC] [101111] [CIRCUS／Lantis] CIRCUS 10th Collect Disc09～12 (4ape+cue+bmp rr5).rar
 !new/[EAC] [101111] [CIRCUS／Lantis] CIRCUS 10th Collect Disc13～14 (ape+cue+bmp rr5).rar
+!new/[Elysium]Baka.to.Test.to.Shoukanjuu.ED1(BD.1080p.FLAC)[131F9FB3].mkv
+!new/[Elysium]Baka.to.Test.to.Shoukanjuu.ED2(BD.1080p.FLAC)[43CE0EB9].mkv
+!new/[Elysium]Baka.to.Test.to.Shoukanjuu.ED3(BD.1080p.FLAC)[3BF14CED].mkv
+!new/[Elysium]Baka.to.Test.to.Shoukanjuu.EP01(BD.1080p.FLAC)[F512D5EC].mkv
+!new/[Elysium]Baka.to.Test.to.Shoukanjuu.EP02(BD.1080p.FLAC)[A1A7FEB2].mkv
+!new/[Elysium]Baka.to.Test.to.Shoukanjuu.EP03(BD.1080p.FLAC)[7C678B4F].mkv
+!new/[Elysium]Baka.to.Test.to.Shoukanjuu.EP04(BD.1080p.FLAC)[4DFFEE11].mkv
+!new/[Elysium]Baka.to.Test.to.Shoukanjuu.EP05(BD.1080p.FLAC)[F433E32E].mkv
+!new/[Elysium]Baka.to.Test.to.Shoukanjuu.EP06(BD.1080p.FLAC)[85AB14DB].mkv
+!new/[Elysium]Baka.to.Test.to.Shoukanjuu.EP07(BD.1080p.FLAC)[2C74C382].mkv
+!new/[Elysium]Baka.to.Test.to.Shoukanjuu.EP08(BD.1080p.FLAC)[893BDB75].mkv
+!new/[Elysium]Baka.to.Test.to.Shoukanjuu.EP09(BD.1080p.FLAC)[00036B04].mkv
+!new/[Elysium]Baka.to.Test.to.Shoukanjuu.EP10(BD.1080p.FLAC)[AD05270D].mkv
+!new/[Elysium]Baka.to.Test.to.Shoukanjuu.EP11(BD.1080p.FLAC)[07FA9483].mkv
+!new/[Elysium]Baka.to.Test.to.Shoukanjuu.EP12(BD.1080p.FLAC)[ED3C7237].mkv
+!new/[Elysium]Baka.to.Test.to.Shoukanjuu.EP13(BD.1080p.FLAC)[185106EE].mkv
+!new/[Elysium]Baka.to.Test.to.Shoukanjuu.OP(BD.1080p.FLAC)[334FF497].mkv
+!new/[Formula]​_Armored​_Trooper​_Votoms​_-​_Phantom​_Arc​_-​_05​_[720p​_H.​264​_AAC][18938916].mkv
 !new/[HorribleSubs] Beelzebub - 01 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 01 [720p].mkv
 !new/[HorribleSubs] Mitsudomoe 2 - 01 [720p].mkv
+!new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 14 [720p].mkv
 !new/[HorribleSubs] Tegami Bachi REVERSE - 39 [720p].mkv
 !new/[Kokuhaku]_Tsukiyo_no_Fromage_ch10.rar
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
@@ -748,6 +767,7 @@
 !new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 04 [1080p - Bluray][A538CBF3].mkv
 !new/[Ryuumaru] Hyakka Ryouran Samurai Girls – Special 02 [720p][CA2375BD].mkv
 !new/[SMS] Starry Sky - 03 [7086BDE7].mkv
+!new/[Saizen_&_SD]_Captain_Tsubasa_Road_to_2002_-_19_[DVD][81A0BB99].mkv
 !new/[Seto_Otaku]_Valkyria_Chronicles_-_Non-Credit_ED1_[DVD][720x480_H264-Vorbis][FC2313F1].mkv
 !new/[Seto_Otaku]_Valkyria_Chronicles_-_Non-Credit_ED2_[DVD][720x480_H264-Vorbis][FB57915C].mkv
 !new/[Seto_Otaku]_Valkyria_Chronicles_-_Non-Credit_OP1-Ver.A_[DVD][720x480_H264-Vorbis][845436AF].mkv
@@ -1110,21 +1130,6 @@
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
 !new/lama/[Kuroneko] Fullmetal Alchemist - Chibi Party OAV [DB1546EB].avi
 !new/lama/[TAC Studios] Hunter X Hunter - Requiem.avi
-!new/p/1.xdelta
-!new/p/10.xdelta
-!new/p/11.xdelta
-!new/p/12.xdelta
-!new/p/2.xdelta
-!new/p/3.xdelta
-!new/p/4.xdelta
-!new/p/5.xdelta
-!new/p/6.xdelta
-!new/p/7.xdelta
-!new/p/8.xdelta
-!new/p/9.xdelta
-!new/p/README_FIRST.txt
-!new/p/RUN_ME.bat
-!new/p/[Commie] The World God Only Knows - 01v2 [74C90DC8].mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス OVA 「青空が描きたい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 映像特典 「The たんかい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 第01話 「えがいてあそぼ」.mkv
