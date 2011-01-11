@@ -640,6 +640,7 @@
 !new/Soul Eater/[Arigatou] Soul Eater - 49 [B3F1D35E].mkv
 !new/Soul Eater/[Arigatou] Soul Eater - 50 [369D8541].mkv
 !new/Soul Eater/[Arigatou] Soul Eater - 51 [End][217D4C63].mkv
+!new/Star+Driver.rar
 !new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 01(x264)(8E01DFB1).mkv
 !new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 02(x264)(CFB2BE0C).mkv
 !new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 03(x264)(D4242AC3).mkv
@@ -1130,6 +1131,10 @@
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
 !new/lama/[Kuroneko] Fullmetal Alchemist - Chibi Party OAV [DB1546EB].avi
 !new/lama/[TAC Studios] Hunter X Hunter - Requiem.avi
+!new/p/[gg]_Yumekui_Merry_-_01v2_[74AA3CCA].mkv
+!new/p/xdelta3.exe
+!new/p/yumekuimerry01v2 - extract to the same folder as v1 and run.bat
+!new/p/yumekuimerry01v2.vcdiff
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス OVA 「青空が描きたい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 映像特典 「The たんかい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 第01話 「えがいてあそぼ」.mkv
@@ -1400,4 +1405,4 @@
 !new/ss/[all4seiya][galaxy][SAINT_SEIYA][TV112][DVDRIP][XVID_MP3][JP_CH].mkv
 !new/ss/[all4seiya][galaxy][SAINT_SEIYA][TV113][DVDRIP][XVID_MP3][JP_CH].mkv
 !new/ss/[all4seiya][galaxy][SAINT_SEIYA][TV114][DVDRIP][XVID_MP3][JP_CH].mkv
-!new/stardriver1-13_updated.7z
+!new/yumekuimerry01v2.7z
