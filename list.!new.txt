@@ -246,6 +246,11 @@
 !new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 95.mkv
 !new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 96.mkv
 !new/Maison Ikkoku/[#maison-serv] Maison Ikkoku - The Final Movie [Baf].avi/[#maison-serv] Maison Ikkoku - The Final Movie [Baf].avi
+!new/Onmyou_Taisenki_-_TV_Intro_1_(XviD)_[A8850C2B].avi
+!new/Onmyou_Taisenki_-_TV_Intro_2_(XviD)_[2928ACFB].avi
+!new/Onmyou_Taisenki_-_TV_Intro_3_(XviD)_[56CD3BD0].avi
+!new/Onmyou_Taisenki_-_TV_Intro_4_(XviD)_[62CBEC79].avi
+!new/Onmyou_Taisenki_-_TV_Promo_500k_[89F9F502].wmv
 !new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E01 'Outlaw World' [v2].mkv
 !new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E02 'World of Desires'.mkv
 !new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E03 'Into Burning Space'.mkv
@@ -707,6 +712,7 @@
 !new/[Coalgirls]_Utawarerumono_OVA_01_(1280x720_Blu-Ray_FLAC)_[38206BEF].mkv
 !new/[Coalgirls]_Utawarerumono_OVA_02_(1280x720_Blu-Ray_FLAC)_[9CB07E3A].mkv
 !new/[Coalgirls]_Utawarerumono_OVA_03_(1280x720_Blu-Ray_FLAC)_[25B6A6BA].mkv
+!new/[Commie] Kore wa Zombie Desu ka？ - 01 [EFEF6063].mkv
 !new/[Commie] The V2s God Only Knows - 01-12 [22AD97F7].zip
 !new/[DGz]_MM!_-_01_[720p][h264_AAC][66C81721].mkv
 !new/[DGz]_MM!_-_02_[720p][h264_AAC][0659B0E8].mkv
@@ -736,6 +742,7 @@
 !new/[Formula]​_Armored​_Trooper​_Votoms​_-​_Phantom​_Arc​_-​_05​_[720p​_H.​264​_AAC][18938916].mkv
 !new/[GotWoot]_Moonlight_Mile_S2_-_05_[720p_H264_AAC5.1][E9DA33FA].mkv
 !new/[HorribleSubs] Beelzebub - 01 [720p].mkv
+!new/[HorribleSubs] Bleach - 304 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 01 [720p].mkv
 !new/[HorribleSubs] Dragon Crisis! - 01 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 61 [720p].mkv
@@ -835,11 +842,32 @@
 !new/[RyRo]_Onmyou_Taisenki_-_50_(DVD_h264_AC3)_[BE452BEC].mkv
 !new/[RyRo]_Onmyou_Taisenki_-_51_(DVD_h264_AC3)_[87767F0B].mkv
 !new/[RyRo]_Onmyou_Taisenki_-_52_FINAL_(DVD_h264_AC3)_[25F81EFE].mkv
+!new/[RyRo]_Onmyou_Taisenki_-_52_FINAL_Creditless_End_(DVD_h264_AC3)_[F28B9AB1].mkv
+!new/[RyRo]_Onmyou_Taisenki_-_Creditless_Ed1_RAW_(DVD_h264_AC3)_[65840EAC].mkv
+!new/[RyRo]_Onmyou_Taisenki_-_Creditless_Ed2_RAW_(DVD_h264_AC3)_[DCB49021].mkv
+!new/[RyRo]_Onmyou_Taisenki_-_Creditless_Ed3_v1_RAW_(DVD_h264_AC3)_[F79A50F3].mkv
+!new/[RyRo]_Onmyou_Taisenki_-_Creditless_Ed3_v2_RAW_(DVD_h264_AC3)_[C321B52E].mkv
+!new/[RyRo]_Onmyou_Taisenki_-_Creditless_Op1_v1_RAW_(DVD_h264_AC3)_[0DBD26A7].mkv
+!new/[RyRo]_Onmyou_Taisenki_-_Creditless_Op1_v2_RAW_(DVD_h264_AC3)_[8F074216].mkv
+!new/[RyRo]_Onmyou_Taisenki_-_Creditless_Op2_v1_RAW_(DVD_h264_AC3)_[8BF7D0EE].mkv
+!new/[RyRo]_Onmyou_Taisenki_-_Creditless_Op2_v2_RAW_(DVD_h264_AC3)_[683B32E6].mkv
+!new/[RyRo]_Onmyou_Taisenki_-_Creditless_Op2_v3_RAW_(DVD_h264_AC3)_[50125A9C].mkv
 !new/[RyRo]_Onmyou_Taisenki_-_Opening1_v1_(DVD_h264_AC3)_[B60F2A01].mkv
 !new/[RyRo]_Onmyou_Taisenki_-_Opening1_v2_(DVD_h264_AC3)_[FF9B73EE].mkv
 !new/[RyRo]_Onmyou_Taisenki_-_Opening2_v1_(DVD_h264_AC3)_[CBFC93B2].mkv
 !new/[RyRo]_Onmyou_Taisenki_-_Opening2_v2_(DVD_h264_AC3)_[49B96068].mkv
 !new/[RyRo]_Onmyou_Taisenki_-_Opening2_v3_(DVD_h264_AC3)_[099AB5C5].mkv
+!new/[RyRo]_Onmyou_Taisenki_-_Pilot_Promo_RAW_(DVD_h264_AC3)_[270622A7].mkv
+!new/[RyRo]_Onmyou_Taisenki_-_Short_Drama_01_(XviD)_[8E0CA756].avi
+!new/[RyRo]_Onmyou_Taisenki_-_Short_Drama_02_(XviD)_[19A45CA2].avi
+!new/[RyRo]_Onmyou_Taisenki_-_Short_Drama_03_(XviD)_[EED64938].avi
+!new/[RyRo]_Onmyou_Taisenki_-_Short_Drama_04_(XviD)_[BB29D47F].avi
+!new/[RyRo]_Onmyou_Taisenki_-_Short_Drama_05_(XviD)_[EB86753B].avi
+!new/[RyRo]_Onmyou_Taisenki_-_Short_Drama_06_(XviD)_[4C81B246].avi
+!new/[RyRo]_Onmyou_Taisenki_-_Short_Drama_07_(XviD)_[205E775F].avi
+!new/[RyRo]_Onmyou_Taisenki_-_Short_Drama_08_(XviD)_[051A78A7].avi
+!new/[RyRo]_Onmyou_Taisenki_-_Short_Drama_09_(XviD)_[1202194E].avi
+!new/[RyRo]_Onmyou_Taisenki_-_Short_Drama_10_(XviD)_[7DCB4547].avi
 !new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 03 [1080p - Bluray][54ACEF0D].mkv
 !new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 04 [1080p - Bluray][A538CBF3].mkv
 !new/[Ryuumaru] Hyakka Ryouran Samurai Girls – Special 02 [720p][CA2375BD].mkv
