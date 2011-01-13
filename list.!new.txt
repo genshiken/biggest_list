@@ -677,6 +677,7 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (arranged) [nnl+b-f].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
 !new/[Ayako-Shikkaku]_Oniichan_no_Koto_Nanka_Zenzen_Suki_Janain_Dakara_ne_-_01_[H264][720p][67A60A24].mkv
+!new/[BWS]Pocket_Monsters_Best_Wishes_015_Shippo_Gym_Match!_VS_Gym_Leader_Aloe!![H264_720P][EF8F1C01].mkv
 !new/[Coalgirls]_The_Melancholy_of_Haruhi_Suzumiya_-_Bamboo_Leaf_Rhapsody_(1280x720_Blu-Ray_FLAC)_[D68BA4BC].mkv
 !new/[Coalgirls]_The_Melancholy_of_Haruhi_Suzumiya_-_ED1_(1280x720_Blu-Ray_FLAC)_[A511BE90].mkv
 !new/[Coalgirls]_The_Melancholy_of_Haruhi_Suzumiya_-_Endless_Eight_(1)_(1280x720_Blu-Ray_FLAC)_[B6970F3C].mkv
@@ -743,6 +744,7 @@
 !new/[GotWoot]_Moonlight_Mile_S2_-_05_[720p_H264_AAC5.1][E9DA33FA].mkv
 !new/[HorribleSubs] Beelzebub - 01 [720p].mkv
 !new/[HorribleSubs] Bleach - 304 [720p].mkv
+!new/[HorribleSubs] Bleach - 304v2 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 01 [720p].mkv
 !new/[HorribleSubs] Dragon Crisis! - 01 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 61 [720p].mkv
@@ -750,6 +752,7 @@
 !new/[HorribleSubs] Level E - 01 [720p].mkv
 !new/[HorribleSubs] Lilpri - 40 [720p].mkv
 !new/[HorribleSubs] Mitsudomoe 2 - 01 [720p].mkv
+!new/[HorribleSubs] Rio - Rainbow Gate - 02 [720p].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 14 [720p].mkv
 !new/[HorribleSubs] Tegami Bachi REVERSE - 39 [720p].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 01 [1280x720 H264 OGG] [F3043661].mkv
@@ -765,6 +768,7 @@
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 11 [1280x720 H264 OGG] [DC9E867B].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 12 [1280x720 H264 OGG] [58B99B8F].mkv
 !new/[Kokuhaku]_Tsukiyo_no_Fromage_ch10.rar
+!new/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 31 [H264 1280x720] [FA49B020].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -788,6 +792,7 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
+!new/[ReDone] To Heart ~Remember my Memories~ 11 (DVD) [278D8676].mkv
 !new/[RyRo]_Digimon_Xros_Wars_-_21_(1280x720_x264_AAC)_[A4D3DC80].mkv
 !new/[RyRo]_Inazuma_Eleven_-_112_(1280x720_x264_AAC)_[3727AFC7].mkv
 !new/[RyRo]_Onmyou_Taisenki_-_01_(DVD_h264_AC3)_[E1586241].mkv
@@ -1127,10 +1132,14 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[Victorique] Gosick - 01 [720p][6358D1F5].mkv
 !new/[Weapon+] Wolverine - 01 [1F66298C].mkv
 !new/[Whine-Subs]_Freezing_-_01_[960x720_x264_AAC][C23D808A].mkv
 !new/[WhyNot] Freezing - 01 [1E14B456].mkv
+!new/[WhyNot] Freezing - 01 [Censored][44538095].mkv
 !new/[gSS] Gundam 00 Movie 1080pv2 patch.zip
+!new/[gSS]_Mobile_Suit_Gundam_00_-_A_wakening_of_the_Trailblazer_(1080p)_[2B252856].mkv
+!new/[gg]_Kimi_ni_Todoke_2nd_Season_-_01_[D0452779].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
