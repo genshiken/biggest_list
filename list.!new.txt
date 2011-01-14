@@ -752,9 +752,11 @@
 !new/[HorribleSubs] Level E - 01 [720p].mkv
 !new/[HorribleSubs] Lilpri - 40 [720p].mkv
 !new/[HorribleSubs] Mitsudomoe 2 - 01 [720p].mkv
+!new/[HorribleSubs] Naruto Shippuuden - 194 [720p].mkv
 !new/[HorribleSubs] Rio - Rainbow Gate - 02 [720p].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 14 [720p].mkv
 !new/[HorribleSubs] Tegami Bachi REVERSE - 39 [720p].mkv
+!new/[HorribleSubs] Wandering Son - 01 [720p].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 01 [1280x720 H264 OGG] [F3043661].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 02 [1280x720 H264 OGG] [3E31B760].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 03 [1280x720 H264 OGG] [BE6CE832].mkv
@@ -1141,7 +1143,6 @@
 !new/[WhyNot] Freezing - 01 [Censored][44538095].mkv
 !new/[gSS] Gundam 00 Movie 1080pv2 patch.zip
 !new/[gSS]_Mobile_Suit_Gundam_00_-_A_wakening_of_the_Trailblazer_(1080p)_[2B252856].mkv
-!new/[gg]_Kimi_ni_Todoke_2nd_Season_-_01_[D0452779].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -1247,6 +1248,11 @@
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
 !new/lama/[Kuroneko] Fullmetal Alchemist - Chibi Party OAV [DB1546EB].avi
 !new/lama/[TAC Studios] Hunter X Hunter - Requiem.avi
+!new/p/1080pv2 patch/1080pv2patch.bat
+!new/p/1080pv2 patch/1080pv2patch.xdelta
+!new/p/1080pv2 patch/[gSS]_Mobile_Suit_Gundam_00_-_A_wakening_of_the_Trailblazer_(1080p_v2)_[1B0B2AF3].mkv
+!new/p/1080pv2 patch/readme.txt
+!new/p/1080pv2 patch/xdelta3.exe
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス OVA 「青空が描きたい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 映像特典 「The たんかい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 第01話 「えがいてあそぼ」.mkv
