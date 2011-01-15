@@ -5663,8 +5663,8 @@ complete/h/Hunter X Hunter/[Z-Z] Hunter X Hunter - 61 [DVD][11353164].mkv
 complete/h/Hunter X Hunter/[Z-Z] Hunter X Hunter - 62 [End][DVD][0A17FDAA].mkv
 complete/h/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls - 01 [1080p BD][F1943524].mkv
 complete/h/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls - 02 [1080p BD][25901518].mkv
-complete/h/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls - 03 [720p][86EB6876].mkv
-complete/h/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls - 04 [720p][8E042F4F].mkv
+complete/h/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls - 03 [1080p BD][54ACEF0D].mkv
+complete/h/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls - 04 [1080p BD][A538CBF3].mkv
 complete/h/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls - 05 [720p][F71F879D].mkv
 complete/h/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls - 06 [720p][E44B6EEA].mkv
 complete/h/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls - 07 [v2 720p][805B467C].mkv
@@ -9501,6 +9501,59 @@ complete/o/Onegai Twins/[A-E & A-Keep] Onegai Twins - 09 [887FEFCB].avi
 complete/o/Onegai Twins/[A-E & A-Keep] Onegai Twins - 10 [F4611333].avi
 complete/o/Onegai Twins/[A-E & A-Keep] Onegai Twins - 11 [13C1A1F7].avi
 complete/o/Onegai Twins/[A-E & A-Keep] Onegai Twins - 12 [End][CCBC6BF2].avi
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 01 [DVD][E1586241].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 02 [DVD][39B6BC8C].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 03 [DVD][EBC0FE4B].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 04 [DVD][6F4A2CE7].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 05 [DVD][1D2A22EA].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 06 [DVD][AFE54DC2].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 07 [DVD][7C08EE29].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 08 [DVD][B17FF41A].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 09 [DVD][F89DA485].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 10 [DVD][DB8216AE].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 11 [DVD][635D2301].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 12 [DVD][51F11676].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 13 [DVD][18B6BD57].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 14 [DVD][9EE28AAF].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 15 [DVD][6E3495EF].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 16 [DVD][ADBE9C0D].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 17 [DVD][C1F33F6A].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 18 [DVD][2EB4BEEF].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 19 [DVD][84F9C466].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 20 [DVD][53DB052B].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 21 [DVD][8168B2C7].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 22 [DVD][2CA2065A].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 23 [DVD][5571B2B1].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 24 [DVD][B793911F].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 25 [DVD][0BBF2D99].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 26 [DVD][C38DA339].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 27 [DVD][3A7ECB46].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 28 [DVD][4BE407FB].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 29 [DVD][FBCC4FBD].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 30 [DVD][3FA9625B].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 31 [DVD][20CA254E].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 32 [DVD][56CC18BD].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 33 [DVD][C2005C3B].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 34 [DVD][F1D5779E].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 35 [DVD][90ABCF9F].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 36 [DVD][AC56F493].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 37 [DVD][B4EEB1E0].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 38 [DVD][9531F158].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 39 [DVD][778FFE22].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 40 [DVD][201C6B75].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 41 [DVD][96753A37].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 42 [DVD][B5189D0E].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 43 [DVD][48A46030].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 44 [DVD][CD4F8EA8].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 45 [DVD][A5E61C68].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 46 [DVD][EAC713C0].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 47 [DVD][618A093F].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 48 [DVD][9E31FA0E].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 49 [DVD][C09B2048].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 50 [DVD][BE452BEC].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 51 [DVD][87767F0B].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 52 (Clean) [End][DVD][F28B9AB1].mkv
+complete/o/Onmyou Taisenki/[RyRo] Onmyou Taisenki - 52 [End][DVD][25F81EFE].mkv
 complete/o/Ookami-san/[DmonHiro] Ookami-san - 01 [720p BD][BF90AD68].mkv
 complete/o/Ookami-san/[DmonHiro] Ookami-san - 02 [720p BD][18648544].mkv
 complete/o/Ookami-san/[DmonHiro] Ookami-san - 03 [720p BD][901A7595].mkv
@@ -13751,12 +13804,12 @@ complete/u/Utawarerumono/[yesy] Utawarerumono - 26 [End][9106E1DB].avi
 complete/v/Valkyria Chronicles OVA/[Seto Otaku] Valkyria Chronicles OVA - 1 [DVD][63E10756].mkv
 complete/v/Valkyria Chronicles OVA/[Seto Otaku] Valkyria Chronicles OVA - 2 [DVD][E3B29624].mkv
 complete/v/Valkyria Chronicles OVA/[Seto Otaku] Valkyria Chronicles OVA - 3 [DVD][F4006E7A].mkv
-complete/v/Valkyria Chronicles OVA/[Seto Otaku] Valkyria Chronicles OVA - 4 [DVD][DF39F7F2].mkv
-complete/v/Valkyria Chronicles OVA/[Seto Otaku] Valkyria Chronicles OVA - 5 [DVD][18380078].mkv
+complete/v/Valkyria Chronicles OVA/[Seto Otaku] Valkyria Chronicles OVA - 4 [v2 DVD][A899CA6A].mkv
+complete/v/Valkyria Chronicles OVA/[Seto Otaku] Valkyria Chronicles OVA - 5 [v2 DVD][EF97D4B1].mkv
 complete/v/Valkyria Chronicles OVA/[Seto Otaku] Valkyria Chronicles OVA - 6 [DVD][AF16DAE9].mkv
 complete/v/Valkyria Chronicles OVA/[Seto Otaku] Valkyria Chronicles OVA - 7 [DVD][7F9C7AC2].mkv
-complete/v/Valkyria Chronicles OVA/[Seto Otaku] Valkyria Chronicles OVA - 8 [DVD][7F9C7AC2].mkv
-complete/v/Valkyria Chronicles OVA/[Seto Otaku] Valkyria Chronicles OVA - 9 [End][DVD][BD56DD92].mkv
+complete/v/Valkyria Chronicles OVA/[Seto Otaku] Valkyria Chronicles OVA - 8 [DVD][3F31C70C].mkv
+complete/v/Valkyria Chronicles OVA/[Seto Otaku] Valkyria Chronicles OVA - 9 [End][v2 DVD][BD56DD92].mkv
 complete/v/Valkyria Chronicles/[AnY-Conclave] Valkyria Chronicles - 01 (1280x720) [7A3324D6].mkv
 complete/v/Valkyria Chronicles/[AnY-Conclave] Valkyria Chronicles - 02 (1280x720) [821A7AF0].mkv
 complete/v/Valkyria Chronicles/[AnY-Conclave] Valkyria Chronicles - 03 (1280x720) [E532B0EF].mkv
@@ -13767,6 +13820,12 @@ complete/v/Valkyria Chronicles/[AnY-Conclave] Valkyria Chronicles - 07 (1280x720
 complete/v/Valkyria Chronicles/[AnY-Conclave] Valkyria Chronicles - 08 (1280x720) [DA12BB1B].mkv
 complete/v/Valkyria Chronicles/[AnY-Conclave] Valkyria Chronicles - 09 (1280x720) [3FADB9D5].mkv
 complete/v/Valkyria Chronicles/[AnY-Conclave] Valkyria Chronicles - 10 (1280x720) [548908DD].mkv
+complete/v/Valkyria Chronicles/[Seto Otaku] Valkyria Chronicles - Ending (Clean) [DVD][FC2313F1].mkv
+complete/v/Valkyria Chronicles/[Seto Otaku] Valkyria Chronicles - Ending 2 (Clean) [DVD][FB57915C].mkv
+complete/v/Valkyria Chronicles/[Seto Otaku] Valkyria Chronicles - Opening 1a (Clean) [DVD][845436AF].mkv
+complete/v/Valkyria Chronicles/[Seto Otaku] Valkyria Chronicles - Opening 1b (Clean) [DVD][5B481761].mkv
+complete/v/Valkyria Chronicles/[Seto Otaku] Valkyria Chronicles - Opening 2 (Clean) [DVD][112F043C].mkv
+complete/v/Valkyria Chronicles/[Seto Otaku] Valkyria Chronicles - SP [DVD][C3149F70].mkv
 complete/v/Valkyria Chronicles/[twrev-Doremi] Valkyria Chronicles - 11 [E6CF7FA4].mkv
 complete/v/Valkyria Chronicles/[twrev-Doremi] Valkyria Chronicles - 12 [A55FF5A2].mkv
 complete/v/Valkyria Chronicles/[twrev-Doremi] Valkyria Chronicles - 13 [FBB4F1CC].mkv

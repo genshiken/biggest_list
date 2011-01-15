@@ -65,6 +65,7 @@ movie/Goldfish Warning! (1992)/[ARR] Goldfish Warning! (1992) [AVC][F3D00AD2].mk
 movie/Gunbuster Movie/[THORA] Gunbuster Movie (1988) - Part 1 [720p,BD][ED918128].mkv
 movie/Gunbuster Movie/[THORA] Gunbuster Movie (1988) - Part 2 [720p,BD][EE2264D2].mkv
 movie/Gundam - Char's Counterattack/[OZC] Gundam - Char's Counterattack (1280x720) [7DF4FA68].mkv
+movie/Gundam 00 - A wakening of the Trailblazer/[gSS] Gundam 00 - A wakening of the Trailblazer [v2 1080p BD][1B0B2AF3].mkv
 movie/Gundam SEED CE73 Stargazer/[Mendoi] Gundam SEED CE73 Stargazer [DVD][DE19D759].mp4
 movie/Gundam Wing Endless Waltz/[EG] Gundam Wing Endless Waltz Remastered [v2][49A7A358].mkv
 movie/Haruka Naru Toki no Naka de - Maihitoyo/[C1] Haruka Naru Toki no Naka de - Maihitoyo [97889F2C].mkv
@@ -163,6 +164,7 @@ movie/Time of Eve/[THORA] Time of Eve (2010) [1080p BD][3FB68654].mkv
 movie/Toki wo Kakeru Shoujo/[CrystalNova-KAA] Toki wo Kakeru Shoujo [DVD][9F6FF2F3].mkv
 movie/Toki wo Kakeru Shoujo/[niizk] Toki wo Kakeru Shoujo (1904x1072) [95E82425].mkv
 movie/Tokyo Godfathers/[niizk] Tokyo Godfathers [v2][B0C13487].mkv
+movie/Top wo Nerae! 2/[THORA] Top wo Nerae! 2 - Movie [B82B5C95].mkv
 movie/Touch/[Nexus] Touch 2 [C6396C54].avi
 movie/Touch/[Nexus] Touch 3 [FBFB9072].avi
 movie/Touch/[Nexus] Touch [83A7DB30].avi
