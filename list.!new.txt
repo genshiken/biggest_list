@@ -143,7 +143,6 @@
 !new/Heroic Age/[Coalgirls] Heroic Age - 24 [720p BD][C72F268C].mkv
 !new/Heroic Age/[Coalgirls] Heroic Age - 25 [720p BD][5ADDC342].mkv
 !new/Heroic Age/[Coalgirls] Heroic Age - 26 [End][720p BD][7407AF69].mkv
-!new/Info.txt
 !new/Lupin III - First Contact/Lupin III - First Contact [3DA567E4].mkv
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].ENG.srt
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].avi
@@ -277,7 +276,6 @@
 !new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E24 'Cutting the Galactic Leyline'.mkv
 !new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E25 'Maze of Despair'.mkv
 !new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E26 'Return to Space'.mkv
-!new/PSG.batch.patch.zip
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
@@ -480,7 +478,6 @@
 !new/Rasmus_Faber_Presents-Platina_Jazz_Anime_Standards_Vol.1-2009-COCMP3/16-rasmus_faber_presents-doll-cocmp3.mp3
 !new/Rasmus_Faber_Presents-Platina_Jazz_Anime_Standards_Vol.1-2009-COCMP3/17-rasmus_faber_presents-sorae___-cocmp3.mp3
 !new/Rasmus_Faber_Presents-Platina_Jazz_Anime_Standards_Vol.1-2009-COCMP3/18-rasmus_faber_presents-voices-cocmp3.mp3
-!new/Readme.txt
 !new/Sailor Moon/SailorMoon S (Season 3)/[SMC]_Sailor_Moon_S_090_v2_[01EB12DC].ogm
 !new/Sailor Moon/SailorMoon S (Season 3)/[smc] 091. The Rod of Love is Born Usagi s New Transformation.ogm
 !new/Sailor Moon/SailorMoon S (Season 3)/[smc] 092. A Wonderful Beautiful Boy The Secret of Haruka Tenoh.ogm
@@ -646,8 +643,6 @@
 !new/Soul Eater/[Arigatou] Soul Eater - 49 [B3F1D35E].mkv
 !new/Soul Eater/[Arigatou] Soul Eater - 50 [369D8541].mkv
 !new/Soul Eater/[Arigatou] Soul Eater - 51 [End][217D4C63].mkv
-!new/Squid.Girl.batch.patch.zip
-!new/Star+Driver.rar
 !new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 01(x264)(8E01DFB1).mkv
 !new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 02(x264)(CFB2BE0C).mkv
 !new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 03(x264)(D4242AC3).mkv
@@ -678,10 +673,6 @@
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Omake OVA [nnl].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (arranged) [nnl+b-f].avi
 !new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
-!new/[AonE]_Haiyoru!_Nyaruani_TV_04_[5917D0FC].mkv
-!new/[Ayako-Shikkaku]_Oniichan_no_Koto_Nanka_Zenzen_Suki_Janain_Dakara_ne_-_01_[H264][720p][67A60A24].mkv
-!new/[Ayako]_Infinite_Stratos_-_IS_-_02_[H264][720p][05C376A9].mkv
-!new/[BWS]Pocket_Monsters_Best_Wishes_015_Shippo_Gym_Match!_VS_Gym_Leader_Aloe!![H264_720P][EF8F1C01].mkv
 !new/[Coalgirls]_The_Melancholy_of_Haruhi_Suzumiya_-_Bamboo_Leaf_Rhapsody_(1280x720_Blu-Ray_FLAC)_[D68BA4BC].mkv
 !new/[Coalgirls]_The_Melancholy_of_Haruhi_Suzumiya_-_ED1_(1280x720_Blu-Ray_FLAC)_[A511BE90].mkv
 !new/[Coalgirls]_The_Melancholy_of_Haruhi_Suzumiya_-_Endless_Eight_(1)_(1280x720_Blu-Ray_FLAC)_[B6970F3C].mkv
@@ -714,76 +705,6 @@
 !new/[Coalgirls]_The_Melancholy_of_Haruhi_Suzumiya_-_The_Sigh_of_Haruhi_Suzumiya_IV_(1280x720_Blu-Ray_FLAC)_[BAEE14DB].mkv
 !new/[Coalgirls]_The_Melancholy_of_Haruhi_Suzumiya_-_The_Sigh_of_Haruhi_Suzumiya_I_(1280x720_Blu-Ray_FLAC)_[B78840BC].mkv
 !new/[Coalgirls]_The_Melancholy_of_Haruhi_Suzumiya_-_The_Sigh_of_Haruhi_Suzumiya_V_(1280x720_Blu-Ray_FLAC)_[45E7B036].mkv
-!new/[Coalgirls]_Utawarerumono_OVA_01_(1280x720_Blu-Ray_FLAC)_[38206BEF].mkv
-!new/[Coalgirls]_Utawarerumono_OVA_02_(1280x720_Blu-Ray_FLAC)_[9CB07E3A].mkv
-!new/[Coalgirls]_Utawarerumono_OVA_03_(1280x720_Blu-Ray_FLAC)_[25B6A6BA].mkv
-!new/[Commie] Kore wa Zombie Desu ka？ - 01 [EFEF6063].mkv
-!new/[Commie] The V2s God Only Knows - 01-12 [22AD97F7].zip
-!new/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_11_[34543bea].avi
-!new/[DGz]_MM!_-_01_[720p][h264_AAC][66C81721].mkv
-!new/[DGz]_MM!_-_02_[720p][h264_AAC][0659B0E8].mkv
-!new/[Doremi].HeartCatch.PreCure!.46.[1280x720].[682EFFEC].mkv
-!new/[Doremi].Motto.Ojamajo.Doremi.38.[9A783074].avi
-!new/[Doremi].Nobita.and.the.Legend.Of.the.Green.Giant.Doraemon.Movie.2008.[F988BE25].mkv
-!new/[EAC] [101111] [CIRCUS／Lantis] CIRCUS 10th Collect Disc01～04 (4ape+cue+bmp rr5).rar
-!new/[EAC] [101111] [CIRCUS／Lantis] CIRCUS 10th Collect Disc05～08 (4ape+cue+bmp rr5).rar
-!new/[EAC] [101111] [CIRCUS／Lantis] CIRCUS 10th Collect Disc09～12 (4ape+cue+bmp rr5).rar
-!new/[EAC] [101111] [CIRCUS／Lantis] CIRCUS 10th Collect Disc13～14 (ape+cue+bmp rr5).rar
-!new/[Elysium]Baka.to.Test.to.Shoukanjuu.ED1(BD.1080p.FLAC)[131F9FB3].mkv
-!new/[Elysium]Baka.to.Test.to.Shoukanjuu.ED2(BD.1080p.FLAC)[43CE0EB9].mkv
-!new/[Elysium]Baka.to.Test.to.Shoukanjuu.ED3(BD.1080p.FLAC)[3BF14CED].mkv
-!new/[Elysium]Baka.to.Test.to.Shoukanjuu.EP01(BD.1080p.FLAC)[F512D5EC].mkv
-!new/[Elysium]Baka.to.Test.to.Shoukanjuu.EP02(BD.1080p.FLAC)[A1A7FEB2].mkv
-!new/[Elysium]Baka.to.Test.to.Shoukanjuu.EP03(BD.1080p.FLAC)[7C678B4F].mkv
-!new/[Elysium]Baka.to.Test.to.Shoukanjuu.EP04(BD.1080p.FLAC)[4DFFEE11].mkv
-!new/[Elysium]Baka.to.Test.to.Shoukanjuu.EP05(BD.1080p.FLAC)[F433E32E].mkv
-!new/[Elysium]Baka.to.Test.to.Shoukanjuu.EP06(BD.1080p.FLAC)[85AB14DB].mkv
-!new/[Elysium]Baka.to.Test.to.Shoukanjuu.EP07(BD.1080p.FLAC)[2C74C382].mkv
-!new/[Elysium]Baka.to.Test.to.Shoukanjuu.EP08(BD.1080p.FLAC)[893BDB75].mkv
-!new/[Elysium]Baka.to.Test.to.Shoukanjuu.EP09(BD.1080p.FLAC)[00036B04].mkv
-!new/[Elysium]Baka.to.Test.to.Shoukanjuu.EP10(BD.1080p.FLAC)[AD05270D].mkv
-!new/[Elysium]Baka.to.Test.to.Shoukanjuu.EP11(BD.1080p.FLAC)[07FA9483].mkv
-!new/[Elysium]Baka.to.Test.to.Shoukanjuu.EP12(BD.1080p.FLAC)[ED3C7237].mkv
-!new/[Elysium]Baka.to.Test.to.Shoukanjuu.EP13(BD.1080p.FLAC)[185106EE].mkv
-!new/[Elysium]Baka.to.Test.to.Shoukanjuu.OP(BD.1080p.FLAC)[334FF497].mkv
-!new/[Formula]​_Armored​_Trooper​_Votoms​_-​_Phantom​_Arc​_-​_05​_[720p​_H.​264​_AAC][18938916].mkv
-!new/[GotWoot]_Moonlight_Mile_S2_-_05_[720p_H264_AAC5.1][E9DA33FA].mkv
-!new/[GotWoot]_Moonlight_Mile_S2_-_06_[720p_H264_AAC5.1][BB84AB95].mkv
-!new/[HorribleSubs] Beelzebub - 01 [720p].mkv
-!new/[HorribleSubs] Bleach - 304 [720p].mkv
-!new/[HorribleSubs] Bleach - 304v2 [720p].mkv
-!new/[HorribleSubs] Cardfight!! Vanguard - 01 [720p].mkv
-!new/[HorribleSubs] Cardfight!! Vanguard - 02 [720p].mkv
-!new/[HorribleSubs] Dragon Crisis! - 01 [720p].mkv
-!new/[HorribleSubs] Fairy Tail - 61 [720p].mkv
-!new/[HorribleSubs] Kore wa Zombie desu ka - 01 [720p].mkv
-!new/[HorribleSubs] Level E - 01 [720p].mkv
-!new/[HorribleSubs] Lilpri - 40 [720p].mkv
-!new/[HorribleSubs] Mitsudomoe 2 - 01 [720p].mkv
-!new/[HorribleSubs] Naruto Shippuuden - 194 [720p].mkv
-!new/[HorribleSubs] Rio - Rainbow Gate - 02 [720p].mkv
-!new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 14 [720p].mkv
-!new/[HorribleSubs] Tegami Bachi REVERSE - 39 [720p].mkv
-!new/[HorribleSubs] Tegami Bachi REVERSE - 40 [720p].mkv
-!new/[HorribleSubs] Wandering Son - 01 [480p].mkv
-!new/[HorribleSubs] Wandering Son - 01 [720p].mkv
-!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 01 [1280x720 H264 OGG] [F3043661].mkv
-!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 02 [1280x720 H264 OGG] [3E31B760].mkv
-!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 03 [1280x720 H264 OGG] [BE6CE832].mkv
-!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 04 [1280x720 H264 OGG] [0F98B5B4].mkv
-!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 05 [1280x720 H264 OGG] [456E0242].mkv
-!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 06 [1280x720 H264 OGG] [636E2859].mkv
-!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 07 [1280x720 H264 OGG] [FA86422A].mkv
-!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 08 [1280x720 H264 OGG] [022F0960].mkv
-!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 09 [1280x720 H264 OGG] [88B72B12].mkv
-!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 10 [1280x720 H264 OGG] [DDB03694].mkv
-!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 11 [1280x720 H264 OGG] [DC9E867B].mkv
-!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 12 [1280x720 H264 OGG] [58B99B8F].mkv
-!new/[Kokuhaku]_Tsukiyo_no_Fromage_ch10.rar
-!new/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 31 [H264 1280x720] [FA49B020].mkv
-!new/[Nutbladder]_Arakawa_Under_the_Bridge_×2_-_12_[6FE8D4BB].mkv
-!new/[Nutbladder]_Arakawa_Under_the_Bridge_×2_-_13v2_[C5A884A9].mkv
-!new/[Nutbladder]_Puella_Magi_Madoka_Magica_-_02_[28B73DD4].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -807,9 +728,6 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
-!new/[ReDone] To Heart ~Remember my Memories~ 10 (DVD) [601E5C73].mkv
-!new/[ReDone] Touka Gettan - 19 (DVD) [5F544EC7].mkv
-!new/[SubSmith] ToHeart2 adnext OVA 02 - Trash Basket Memory [BD 720p][0C0ED7FD].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -1049,9 +967,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[UTW]_Fractale_-_01_[h264-720p][96D3F1BF].mkv
-!new/[Weapon+] Wolverine - 02 [35AEDF24].mkv
-!new/[WhyNot] Freezing - 02 [Uncensored][BC705CBC].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -1157,13 +1072,6 @@
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
 !new/lama/[Kuroneko] Fullmetal Alchemist - Chibi Party OAV [DB1546EB].avi
 !new/lama/[TAC Studios] Hunter X Hunter - Requiem.avi
-!new/p/PSG.01.batch.xdelta
-!new/p/PSG.06.batch.xdelta
-!new/p/PSG.08.batch.xdelta
-!new/p/PSG.10.batch.xdelta
-!new/p/instructions.txt
-!new/p/patch.bat
-!new/p/xdelta.exe
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス OVA 「青空が描きたい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 映像特典 「The たんかい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 第01話 「えがいてあそぼ」.mkv
