@@ -277,6 +277,7 @@
 !new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E24 'Cutting the Galactic Leyline'.mkv
 !new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E25 'Maze of Despair'.mkv
 !new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E26 'Return to Space'.mkv
+!new/PSG.batch.patch.zip
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
@@ -645,6 +646,7 @@
 !new/Soul Eater/[Arigatou] Soul Eater - 49 [B3F1D35E].mkv
 !new/Soul Eater/[Arigatou] Soul Eater - 50 [369D8541].mkv
 !new/Soul Eater/[Arigatou] Soul Eater - 51 [End][217D4C63].mkv
+!new/Squid.Girl.batch.patch.zip
 !new/Star+Driver.rar
 !new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 01(x264)(8E01DFB1).mkv
 !new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 02(x264)(CFB2BE0C).mkv
@@ -717,6 +719,7 @@
 !new/[Coalgirls]_Utawarerumono_OVA_03_(1280x720_Blu-Ray_FLAC)_[25B6A6BA].mkv
 !new/[Commie] Kore wa Zombie Desu ka？ - 01 [EFEF6063].mkv
 !new/[Commie] The V2s God Only Knows - 01-12 [22AD97F7].zip
+!new/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_11_[34543bea].avi
 !new/[DGz]_MM!_-_01_[720p][h264_AAC][66C81721].mkv
 !new/[DGz]_MM!_-_02_[720p][h264_AAC][0659B0E8].mkv
 !new/[Doremi].HeartCatch.PreCure!.46.[1280x720].[682EFFEC].mkv
@@ -761,6 +764,7 @@
 !new/[HorribleSubs] Rio - Rainbow Gate - 02 [720p].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 14 [720p].mkv
 !new/[HorribleSubs] Tegami Bachi REVERSE - 39 [720p].mkv
+!new/[HorribleSubs] Tegami Bachi REVERSE - 40 [720p].mkv
 !new/[HorribleSubs] Wandering Son - 01 [480p].mkv
 !new/[HorribleSubs] Wandering Son - 01 [720p].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 01 [1280x720 H264 OGG] [F3043661].mkv
@@ -803,7 +807,9 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
+!new/[ReDone] To Heart ~Remember my Memories~ 10 (DVD) [601E5C73].mkv
 !new/[ReDone] Touka Gettan - 19 (DVD) [5F544EC7].mkv
+!new/[SubSmith] ToHeart2 adnext OVA 02 - Trash Basket Memory [BD 720p][0C0ED7FD].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -1151,6 +1157,13 @@
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
 !new/lama/[Kuroneko] Fullmetal Alchemist - Chibi Party OAV [DB1546EB].avi
 !new/lama/[TAC Studios] Hunter X Hunter - Requiem.avi
+!new/p/PSG.01.batch.xdelta
+!new/p/PSG.06.batch.xdelta
+!new/p/PSG.08.batch.xdelta
+!new/p/PSG.10.batch.xdelta
+!new/p/instructions.txt
+!new/p/patch.bat
+!new/p/xdelta.exe
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス OVA 「青空が描きたい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 映像特典 「The たんかい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 第01話 「えがいてあそぼ」.mkv
