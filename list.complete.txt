@@ -1004,6 +1004,7 @@ complete/b/Beck/[AniSubs] Beck - 07 [DVD][F9DF3506].mkv
 complete/b/Beck/[AniSubs] Beck - 08 [DVD][8F82EFC5].mkv
 complete/b/Beck/[AniSubs] Beck - Ending [DVD][A2CB5054].mkv
 complete/b/Beck/[AniSubs] Beck - Opening [DVD][9E6033D5].mkv
+complete/b/Beelzebub OVA/[SubDESU] Beelzebub OVA [2D92AF2D].mkv
 complete/b/Beet Excellion/[A-Keep AH] Beet Excellion - 01 [13C130AD].mkv
 complete/b/Beet Excellion/[A-Keep AH] Beet Excellion - 02 [316FC1D7].avi
 complete/b/Beet Excellion/[A-Keep AH] Beet Excellion - 03 [929BF038].avi
@@ -5197,6 +5198,32 @@ complete/h/Here is Greenwood/[HD] Here is Greenwood - 3 [ED5B0ABC].mkv
 complete/h/Here is Greenwood/[HD] Here is Greenwood - 4 [9E4F8C80].mkv
 complete/h/Here is Greenwood/[HD] Here is Greenwood - 5 [584E35BA].mkv
 complete/h/Here is Greenwood/[HD] Here is Greenwood - 6 [End][9AAAA290].mkv
+complete/h/Heroic Age/[Coalgirls] Heroic Age - 01 [720p BD][E4499EC4].mkv
+complete/h/Heroic Age/[Coalgirls] Heroic Age - 02 [720p BD][BC3DEF53].mkv
+complete/h/Heroic Age/[Coalgirls] Heroic Age - 03 [720p BD][5C988689].mkv
+complete/h/Heroic Age/[Coalgirls] Heroic Age - 04 [720p BD][C6A16AD5].mkv
+complete/h/Heroic Age/[Coalgirls] Heroic Age - 05 [720p BD][20F6A675].mkv
+complete/h/Heroic Age/[Coalgirls] Heroic Age - 06 [720p BD][305CAE65].mkv
+complete/h/Heroic Age/[Coalgirls] Heroic Age - 07 [720p BD][7FBBA8E6].mkv
+complete/h/Heroic Age/[Coalgirls] Heroic Age - 08 [720p BD][7FAB18D3].mkv
+complete/h/Heroic Age/[Coalgirls] Heroic Age - 09 [720p BD][BDFB59AA].mkv
+complete/h/Heroic Age/[Coalgirls] Heroic Age - 10 [720p BD][3252921D].mkv
+complete/h/Heroic Age/[Coalgirls] Heroic Age - 11 [720p BD][9BD71FB8].mkv
+complete/h/Heroic Age/[Coalgirls] Heroic Age - 12 [720p BD][7C4DBA43].mkv
+complete/h/Heroic Age/[Coalgirls] Heroic Age - 13 [720p BD][0018DE8F].mkv
+complete/h/Heroic Age/[Coalgirls] Heroic Age - 14 [720p BD][5B3C72A4].mkv
+complete/h/Heroic Age/[Coalgirls] Heroic Age - 15 [720p BD][3B17A4F0].mkv
+complete/h/Heroic Age/[Coalgirls] Heroic Age - 16 [720p BD][ACD2A7EE].mkv
+complete/h/Heroic Age/[Coalgirls] Heroic Age - 17 [720p BD][6556AC42].mkv
+complete/h/Heroic Age/[Coalgirls] Heroic Age - 18 [720p BD][07E5A8F6].mkv
+complete/h/Heroic Age/[Coalgirls] Heroic Age - 19 [720p BD][28283661].mkv
+complete/h/Heroic Age/[Coalgirls] Heroic Age - 20 [720p BD][89B5929C].mkv
+complete/h/Heroic Age/[Coalgirls] Heroic Age - 21 [720p BD][E422B79D].mkv
+complete/h/Heroic Age/[Coalgirls] Heroic Age - 22 [720p BD][5AA7D013].mkv
+complete/h/Heroic Age/[Coalgirls] Heroic Age - 23 [720p BD][8FAD9904].mkv
+complete/h/Heroic Age/[Coalgirls] Heroic Age - 24 [720p BD][C72F268C].mkv
+complete/h/Heroic Age/[Coalgirls] Heroic Age - 25 [720p BD][5ADDC342].mkv
+complete/h/Heroic Age/[Coalgirls] Heroic Age - 26 [End][720p BD][7407AF69].mkv
 complete/h/Heroic Age/[lightningblade] Heroic Age - 01 [720p BD][98901780].mkv
 complete/h/Heroic Age/[lightningblade] Heroic Age - 02 [720p BD][C3DF6C1B].mkv
 complete/h/Heroic Age/[lightningblade] Heroic Age - 03 [720p BD][DE0E46E5].mkv
@@ -12203,6 +12230,57 @@ complete/s/Soul Eater/[AllHailExcalibur] Soul Eater - 32 [Uncut][CD3E800A].mkv
 complete/s/Soul Eater/[AllHailExcalibur] Soul Eater - 33 [Uncut][A8031CA3].mkv
 complete/s/Soul Eater/[AllHailExcalibur] Soul Eater - 34 [Uncut][3DD5A7FD].mkv
 complete/s/Soul Eater/[AllHailExcalibur] Soul Eater - 35 [Uncut][3B1B83C1].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 01 [64480E45].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 02 [27887F6A].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 03 [6DA31886].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 04 [41C7378A].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 05 [64E1B3A9].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 06 [9890DDB0].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 07 [C9AFD4C1].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 08 [07CF52A7].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 09 [C8CF0C67].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 10 [24FB76DF].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 11 [CCBC5FF5].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 12 [AD4BD1AB].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 13 [54D3FCFE].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 14 [1F4118B5].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 15 [5E850610].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 16 [32355C92].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 17 [5AEACDDE].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 18 [3040B582].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 19 [C7FB82C0].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 20 [6C825160].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 21 [F471709C].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 22 [E5E1AC62].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 23 [F9A2A88F].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 24 [910E915D].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 25 [3028D210].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 26 [284DAC30].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 27 [C18F98D7].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 28 [5E678663].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 29 [8D6AD415].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 30 [1F00E7A6].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 31 [F1160439].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 32 [0370C657].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 33 [8E47E36A].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 34 [F082CCCF].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 35 [30130715].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 36 [94B84F57].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 37 [37A251C1].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 38 [0C42AB9F].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 39 [86F8FF28].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 40 [230D01B7].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 41 [7CC21493].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 42 [98896E05].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 43 [ED5E8777].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 44 [E2F5DC02].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 45 [622E0702].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 46 [77146FA0].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 47 [1F99D9E0].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 48 [7B2E34D0].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 49 [B3F1D35E].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 50 [369D8541].mkv
+complete/s/Soul Eater/[Arigatou] Soul Eater - 51 [End][217D4C63].mkv
 complete/s/Soul Eater/[Hatsuyuki] Soul Eater - 36 (1280x720) [21896323].mkv
 complete/s/Soul Eater/[Hatsuyuki] Soul Eater - 37 (1280x720) [6D95BB87].mkv
 complete/s/Soul Eater/[Hatsuyuki] Soul Eater - 38 (1280x720) [6B40E23F].mkv
@@ -12958,6 +13036,36 @@ complete/t/The Legend of the Legendary Heroes/[Commie] The Legend of the Legenda
 complete/t/The Legend of the Legendary Heroes/[Commie] The Legend of the Legendary Heroes - 23 [E23CE2EE].mkv
 complete/t/The Legend of the Legendary Heroes/[Commie] The Legend of the Legendary Heroes - 24 [End][280F2272].mkv
 complete/t/The Legend of the Legendary Heroes/[Derp] The Legend of the Legendary Heroes - 15.5 [720p][C565CA55].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - 01 [720p BD][4474F128].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - 02 [720p BD][50B8989F].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - 03 [720p BD][21785B6A].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - 04 [720p BD][29F3EBB3].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - 05 [720p BD][2D22981A].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - 06 [720p BD][DFE968A5].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - 07 [720p BD][29D249BE].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - 08 [720p BD][D68BA4BC].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - 09 [720p BD][2C7F1D90].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - 10 [720p BD][10DBFB45].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - 11 [720p BD][A7E7D7A2].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - 12 [720p BD][B6970F3C].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - 13 [720p BD][EFA1B4D9].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - 14 [720p BD][2DF7DE9B].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - 15 [720p BD][D5759416].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - 16 [720p BD][AF529C57].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - 17 [720p BD][4A42D152].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - 18 [720p BD][52C46C20].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - 19 [720p BD][17A282D3].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - 20 [720p BD][B78840BC].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - 21 [720p BD][8ECCC1DA].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - 22 [720p BD][59B543CD].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - 23 [720p BD][BAEE14DB].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - 24 [720p BD][45E7B036].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - 25 [720p BD][CFFC0E39].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - 26 [720p BD][29844FD6].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - 27 [720p BD][8C4D57A0].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - 28 [End][720p BD][F74DA5E1].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - Ending [720p BD][A511BE90].mkv
+complete/t/The Melancholy of Haruhi Suzumiya/[Coalgirls] The Melancholy of Haruhi Suzumiya - Opening [720p BD][A7B88D55].mkv
 complete/t/The Melancholy of Haruhi Suzumiya/[Hitsuji] The Melancholy of Haruhi Suzumiya - 00 [DVD][916D0B31].mkv
 complete/t/The Melancholy of Haruhi Suzumiya/[Hitsuji] The Melancholy of Haruhi Suzumiya - 01 [DVD][9BBD1C4E].mkv
 complete/t/The Melancholy of Haruhi Suzumiya/[Hitsuji] The Melancholy of Haruhi Suzumiya - 02 [DVD][1FD22499].mkv
