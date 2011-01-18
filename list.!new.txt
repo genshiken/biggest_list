@@ -41,9 +41,10 @@
 !new/Amazing Nurse Nanaco/AVSEQ00.DAT
 !new/Amazing Nurse Nanaco/AVSEQ01.DAT
 !new/Amazing Nurse Nanaco/AVSEQ03.DAT
+!new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
+!new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
-!new/Detective Conan - 602 [DCTP][720p][22EBB3BB].mp4
 !new/Digimon tamers/Digimon Tamers Episode 10 (Subbed By PositronCannon).avi
 !new/Digimon tamers/Digimon Tamers Episode 11 (Subbed By PositronCannon).avi
 !new/Digimon tamers/Digimon Tamers Episode 12 (Subbed By PositronCannon).avi
@@ -118,108 +119,8 @@
 !new/FF Unlimited/FFU23.avi
 !new/FF Unlimited/FFU24.avi
 !new/FF Unlimited/FFU25.avi
-!new/Lupin III - First Contact/Lupin III - First Contact [3DA567E4].mkv
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].ENG.srt
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].avi
-!new/Maison Ikkoku/Maison Ikkoku - OVA 01.avi/Maison Ikkoku - OVA 01.avi
-!new/Maison Ikkoku/Maison Ikkoku - OVA 02.avi/Maison Ikkoku - OVA 02.avi
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 01.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 02.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 03v2_[36E1AEA3].mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 04v2_[6670A850].mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 05_[5057E2BB].mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 06_[31D48024].mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 07.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 08.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 09.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 10.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 11.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 12.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 13.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 14.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 15.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 16.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 17.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 18.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 19.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 20.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 21.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 22.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 23.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 24.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 25.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 26.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 27.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 28.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 29.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 30.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 31.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 32.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 33.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 34.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 35.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 36.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 37.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 38.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 39.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 40.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 41.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 42.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 43.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 44.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 45.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 46.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 47.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 48.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 49.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 50.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 51.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 52.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 53.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 54.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 55.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 56.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 57.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 58.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 59.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 60.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 61.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 62.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 63.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 64.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 65.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 66.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 67.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 68.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 69.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 70.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 71.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 72.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 73.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 74.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 75.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 76.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 77.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 78.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 79.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 80.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 81.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 82.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 83.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 84.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 85.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 86.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 87.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 88.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 89.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 90.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 91.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 92.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 93.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 94.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 95.mkv
-!new/Maison Ikkoku/Maison Ikkoku/[avatar] Maison Ikkoku 96.mkv
-!new/Maison Ikkoku/[#maison-serv] Maison Ikkoku - The Final Movie [Baf].avi/[#maison-serv] Maison Ikkoku - The Final Movie [Baf].avi
 !new/Onmyou_Taisenki_-_TV_Intro_1_(XviD)_[A8850C2B].avi
 !new/Onmyou_Taisenki_-_TV_Intro_2_(XviD)_[2928ACFB].avi
 !new/Onmyou_Taisenki_-_TV_Intro_3_(XviD)_[56CD3BD0].avi
@@ -254,8 +155,6 @@
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
-!new/Ranma (Complete)/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
-!new/Ranma (Complete)/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Ranma (Complete)/Ranma Movies and OVAs/Thumbs.db
 !new/Ranma (Complete)/Ranma Movies and OVAs/[anime_fin]_Ranma_Movie_1_DVDRiP_dualaudio.ogm
 !new/Ranma (Complete)/Ranma Movies and OVAs/[anime_fin]_Ranma_Movie_2_DVDRiP_dualaudio.ogm
@@ -567,41 +466,7 @@
 !new/Seikai no Senki II/[A-Et] Seikai no Senki II - 08 (5236EDA2).mkv
 !new/Seikai no Senki II/[A-Et] Seikai no Senki II - 09 (820385B4).mkv
 !new/Seikai no Senki II/[A-Et] Seikai no Senki II - 10 (End) (2F51269B).mkv
-!new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 01(x264)(8E01DFB1).mkv
-!new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 02(x264)(CFB2BE0C).mkv
-!new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 03(x264)(D4242AC3).mkv
-!new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 04(x264)(17130D51).mkv
-!new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 05(x264)(86D04C97).mkv
-!new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 06(x264)(BCB4883E).mkv
-!new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 07(x264)(716EE60B).mkv
-!new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 08(x264)(0E6060E8).mkv
-!new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 09(x264)(9340756F).mkv
-!new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 10(x264)(F9287D64).mkv
-!new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 11(x264)(8019D2E8).mkv
-!new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 12(x264)(2A9E7284).mkv
-!new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 13(x264)(CF712C50).mkv
-!new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 14(x264)(08A520BF).mkv
-!new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 15(x264)(D1CF758E).mkv
-!new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 16(x264)(41535FB9).mkv
-!new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 17(x264)(C27341CE).mkv
-!new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 18(x264)(53C934BD).mkv
-!new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 19(x264)(22CA6817).mkv
-!new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 20(x264)(DDAC24C5).mkv
-!new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 21(x264)(C22413FF).mkv
-!new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 22(x264)(874965ED).mkv
-!new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 23(x264)(0D657C21).mkv
-!new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 24(x264)(3161BBF9).mkv
-!new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 25(x264)(F0FD038F).mkv
-!new/Vision of Escaflowne [completed]/(G_P) Escaflowne (Remastered) 26(x264)(3194ED06).mkv
-!new/Vision of Escaflowne [completed]/(G_P) Escaflowne - Deleted Scenes (Remastered)(x264)(785154B3).mkv
-!new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Omake OVA [nnl].avi
-!new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (arranged) [nnl+b-f].avi
-!new/Wind -A Breath of Heart- OVA + Omake/Wind -a breath of heart- Op2 (original) [nnl+b-f].avi
-!new/[Commie] Asobi ni Ikuyo! - 07 [BD 1080p AAC] [2F09635D].mkv
-!new/[Commie] Asobi ni Ikuyo! - 08 [BD 1080p AAC] [4FA963D0].mkv
-!new/[HorribleSubs] Fairy Tail - 62 [720p].mkv
-!new/[HorribleSubs] Level E - 02 [720p].mkv
-!new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 15 [720p].mkv
+!new/[CrunchySubs] Kore wa Zombie desu ka - 02 [720p].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -625,10 +490,6 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
-!new/[Over-Time]_Kamen_Rider_OOO_-_18_[4708A20B].mkv
-!new/[RyRo]_Digimon_Xros_Wars_-_22_(1280x720_x264_AAC)_[57CBE198].mkv
-!new/[SubDESU] Beelzebub OVA [HQ][3D4452B0].mkv
-!new/[TMD_A-Destiny]_Bakuman_14_[720p][C021C6A5].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -868,9 +729,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[Victorique]_Gosick_-_02_[h264-720p][DFE95680].mkv
-!new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_32_[235271DF][HD].mp4
-!new/[aarinfantasy]_Marginal_Prince_-_05_[FB6D7799].avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx

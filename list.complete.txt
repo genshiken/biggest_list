@@ -674,8 +674,8 @@ complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 03 [1080p BD][974C00F9].
 complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 04 [1080p BD][839ECE8C].mkv
 complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 05 [1080p BD][C308B5D2].mkv
 complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 06 [1080p BD][07A29A8C].mkv
-complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 07 [DFDC796A].mkv
-complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 08 [07C4F947].mkv
+complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 07 [1080p BD][2F09635D].mkv
+complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 08 [1080p BD][4FA963D0].mkv
 complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 09 [38F1EDDF].mkv
 complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 10 [E1E730FD].mkv
 complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 11 [83357EE4].mkv
@@ -1004,7 +1004,7 @@ complete/b/Beck/[AniSubs] Beck - 07 [DVD][F9DF3506].mkv
 complete/b/Beck/[AniSubs] Beck - 08 [DVD][8F82EFC5].mkv
 complete/b/Beck/[AniSubs] Beck - Ending [DVD][A2CB5054].mkv
 complete/b/Beck/[AniSubs] Beck - Opening [DVD][9E6033D5].mkv
-complete/b/Beelzebub OVA/[SubDESU] Beelzebub OVA [2D92AF2D].mkv
+complete/b/Beelzebub OVA/[SubDESU] Beelzebub OVA [3D4452B0].mkv
 complete/b/Beet Excellion/[A-Keep AH] Beet Excellion - 01 [13C130AD].mkv
 complete/b/Beet Excellion/[A-Keep AH] Beet Excellion - 02 [316FC1D7].avi
 complete/b/Beet Excellion/[A-Keep AH] Beet Excellion - 03 [929BF038].avi
@@ -3123,6 +3123,33 @@ complete/e/Emily of New Moon/[dp] Emily of New Moon - 23 [53117A45].mkv
 complete/e/Emily of New Moon/[dp] Emily of New Moon - 24 [769D4452].mkv
 complete/e/Emily of New Moon/[dp] Emily of New Moon - 25 [73398B6A].mkv
 complete/e/Emily of New Moon/[dp] Emily of New Moon - 26 [End][A515BF8A].mkv
+complete/e/Escaflowne/[G_P] Escaflowne - 01 [8E01DFB1].mkv
+complete/e/Escaflowne/[G_P] Escaflowne - 02 [CFB2BE0C].mkv
+complete/e/Escaflowne/[G_P] Escaflowne - 03 [D4242AC3].mkv
+complete/e/Escaflowne/[G_P] Escaflowne - 04 [17130D51].mkv
+complete/e/Escaflowne/[G_P] Escaflowne - 05 [86D04C97].mkv
+complete/e/Escaflowne/[G_P] Escaflowne - 06 [BCB4883E].mkv
+complete/e/Escaflowne/[G_P] Escaflowne - 07 [716EE60B].mkv
+complete/e/Escaflowne/[G_P] Escaflowne - 08 [0E6060E8].mkv
+complete/e/Escaflowne/[G_P] Escaflowne - 09 [9340756F].mkv
+complete/e/Escaflowne/[G_P] Escaflowne - 10 [F9287D64].mkv
+complete/e/Escaflowne/[G_P] Escaflowne - 11 [8019D2E8].mkv
+complete/e/Escaflowne/[G_P] Escaflowne - 12 [2A9E7284].mkv
+complete/e/Escaflowne/[G_P] Escaflowne - 13 [CF712C50].mkv
+complete/e/Escaflowne/[G_P] Escaflowne - 14 [08A520BF].mkv
+complete/e/Escaflowne/[G_P] Escaflowne - 15 [D1CF758E].mkv
+complete/e/Escaflowne/[G_P] Escaflowne - 16 [41535FB9].mkv
+complete/e/Escaflowne/[G_P] Escaflowne - 17 [C27341CE].mkv
+complete/e/Escaflowne/[G_P] Escaflowne - 18 [53C934BD].mkv
+complete/e/Escaflowne/[G_P] Escaflowne - 19 [22CA6817].mkv
+complete/e/Escaflowne/[G_P] Escaflowne - 20 [DDAC24C5].mkv
+complete/e/Escaflowne/[G_P] Escaflowne - 21 [C22413FF].mkv
+complete/e/Escaflowne/[G_P] Escaflowne - 22 [874965ED].mkv
+complete/e/Escaflowne/[G_P] Escaflowne - 23 [0D657C21].mkv
+complete/e/Escaflowne/[G_P] Escaflowne - 24 [3161BBF9].mkv
+complete/e/Escaflowne/[G_P] Escaflowne - 25 [F0FD038F].mkv
+complete/e/Escaflowne/[G_P] Escaflowne - 26 [End][3194ED06].mkv
+complete/e/Escaflowne/[G_P] Escaflowne - Deleted Scenes [785154B3].mkv
 complete/e/Eureka Seven/[moo-shi] Eureka Seven - 01 [DVD][84EEC134].mkv
 complete/e/Eureka Seven/[moo-shi] Eureka Seven - 02 [DVD][873EBB2F].mkv
 complete/e/Eureka Seven/[moo-shi] Eureka Seven - 03 [DVD][DA55A762].mkv
@@ -8166,6 +8193,104 @@ complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 23 (960x720) [BD][8114ACA4].mkv
 complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 24 (960x720) [BD][7BE294A5].mkv
 complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 25 (960x720) [BD][E9C4E79C].mkv
 complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 26 (960x720) [End][BD][33EB575C].mkv
+complete/m/Maison Ikkoku OVA/Maison Ikkoku OVA - 1 [578AED68].avi
+complete/m/Maison Ikkoku OVA/Maison Ikkoku OVA - 2 [End][0A0AB738].avi
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 01 [A1A7ACCF].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 02 [6FE87958].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 03 [v2][36E1AEA3].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 04 [v2][6670A850].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 05 [5057E2BB].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 06 [31D48024].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 07 [C0136531].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 08 [9A814E5D].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 09 [87F944FC].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 10 [EA91FAF0].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 11 [D0ABD25D].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 12 [787BB130].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 13 [346E8555].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 14 [BA7566BC].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 15 [4DAFEF1B].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 16 [8054B939].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 17 [0DB5E760].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 18 [247B6425].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 19 [132C3722].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 20 [32FCE152].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 21 [C9610FCA].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 22 [7C2DF07E].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 23 [6BF001A9].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 24 [DB335CE5].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 25 [46793F03].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 26 [5ED9EF28].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 27 [EE824EF6].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 28 [2BC70158].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 29 [9EB21F8A].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 30 [1E7702AC].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 31 [3EBB1C2F].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 32 [28AC5768].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 33 [7A08B70E].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 34 [93A13C16].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 35 [9D1BBD02].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 36 [1D8C92CC].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 37 [7A3EE22F].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 38 [36F991C6].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 39 [44084A34].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 40 [DB3476D5].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 41 [57DBF3AD].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 42 [92816C04].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 43 [A3ECCC52].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 44 [B098BCB2].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 45 [3883AD76].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 46 [83E93E5A].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 47 [14C3E197].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 48 [94D28452].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 49 [D2738786].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 50 [52E051BC].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 51 [A27E9641].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 52 [7B24E78C].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 53 [CBA14A59].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 54 [A3518840].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 55 [AB2FAB0A].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 56 [AB5F2248].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 57 [00BDA2A7].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 58 [F37B4956].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 59 [C2D808ED].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 60 [35DF6360].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 61 [B040C7E9].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 62 [6BBA2ADC].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 63 [A7E94345].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 64 [A980E017].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 65 [80C5EA71].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 66 [6728622B].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 67 [0E39A9C7].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 68 [ACA9DA71].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 69 [0EFA4D83].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 70 [F23E3B98].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 71 [46896696].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 72 [1F9A8C89].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 73 [FA89E401].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 74 [96709F5D].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 75 [8A37C889].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 76 [64F3F532].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 77 [5C41C675].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 78 [EDAE2E73].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 79 [77AD70A3].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 80 [37C11ED4].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 81 [09BAAA07].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 82 [00785F7B].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 83 [267B86EF].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 84 [21676B7A].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 85 [F9CB79E4].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 86 [2CED3AE8].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 87 [A5E92549].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 88 [3E3503C5].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 89 [CC4ACBB9].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 90 [453D59B9].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 91 [A9EC0BEB].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 92 [CA69C70C].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 93 [7DF0B3E8].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 94 [F2761629].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 95 [03F8410C].mkv
+complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 96 [End][BCB63725].mkv
 complete/m/Majin Tantei Nougami Neuro/[ainex] Majin Tantei Nougami Neuro - 08 (1280x720) [3A12C880].mkv
 complete/m/Majin Tantei Nougami Neuro/[ainex] Majin Tantei Nougami Neuro - 09 (1280x720) [D0A8C25C].mkv
 complete/m/Majin Tantei Nougami Neuro/[ainex] Majin Tantei Nougami Neuro - 10 (1280x720) [v2][2009F120].mkv
@@ -14187,6 +14312,9 @@ complete/w/Wind - a breath of heart - Extras/[Shinsen-Subs] Wind - a breath of h
 complete/w/Wind - a breath of heart - OAV/[SS] Wind - a breath of heart - OAV 1 [EEA3D954].avi
 complete/w/Wind - a breath of heart - OAV/[SS] Wind - a breath of heart - OAV 2 [C6E2A198].avi
 complete/w/Wind - a breath of heart - OAV/[SS] Wind - a breath of heart - OAV 3 [End][E28EF6ED].avi
+complete/w/Wind - a breath of heart - Omake OVA/[nnl b-f] Wind - a breath of heart - Opening 2 (Arranged) [A3D2D534].avi
+complete/w/Wind - a breath of heart - Omake OVA/[nnl b-f] Wind - a breath of heart - Opening 2 (Original) [BBD8AB39].avi
+complete/w/Wind - a breath of heart - Omake OVA/[nnl] Wind - a breath of heart - Omake OVA [60A395A4].avi
 complete/w/Wind - a breath of heart/[SS] Wind - a breath of heart - 01 [v2][D5BF22F9].avi
 complete/w/Wind - a breath of heart/[SS] Wind - a breath of heart - 02 [v2][A31ABC50].avi
 complete/w/Wind - a breath of heart/[SS] Wind - a breath of heart - 03 [v2][BC74BCBE].avi

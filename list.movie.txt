@@ -104,6 +104,7 @@ movie/Loups=Garous/[Harth] Loups=Garous - Picture Drama [720p BD][1125FE85].mkv
 movie/Loups=Garous/[Lambda-Delta] Loups=Garous [720p][DB081F1C].mkv
 movie/Love Hina Spring Movie/[KAA] Love Hina Spring Movie [DVD][866F2857].avi
 movie/Love Hina/[KAA] Love Hina - Spring Movie [DVD][866F2857].avi
+movie/Lupin III - First Contact/[COR] Lupin III - First Contact [3DA567E4].mkv
 movie/Lupin III - The Last Job/[Frostii] Lupin III - The Last Job [9F1B054B].mkv
 movie/Lupin III/[F-B & Ureshii] Lupin III - Angel Tactics [0A2AD5F6].mkv
 movie/Lupin III/[F-B & Ureshii] Lupin III - Green vs Red [15911C89].mkv
@@ -114,6 +115,7 @@ movie/Macross 7/[Central-Anime] Macross 7 Movie [DVD][108E6838].mkv
 movie/Macross Frontier/[THORA] Macross Frontier - Movie 1 [1080p BD][8925AEFC].mkv
 movie/Magical Girl Lyrical Nanoha/[BSS] Magical Girl Lyrical Nanoha - The Movie 1st [1080p][5B2483DA].mkv
 movie/Mahou Shoujo Lyrical Nanoha - The Movie 1st/[BSS] Mahou Shoujo Lyrical Nanoha - The Movie 1st [LQ][B3B89A9D].mkv
+movie/Maison Ikkoku - The Final Movie/[Baf] Maison Ikkoku - The Final Movie [4615E849].avi
 movie/Major - The Ball of Friendship/[Frostii] Major - The Ball of Friendship [4F59FE07].mkv
 movie/Meguriau Sekai/[ANBU] Meguriau Sekai [AF23178A].mkv
 movie/Metropolis/[THORA] Metropolis [BD][323F7DC7].mkv
