@@ -38,9 +38,6 @@
 !new/-baru87-/akb/jgn dhps/101017 AKB48 Team kenkyuusei Hiru Kouen (1920x1080p H264).mp4007
 !new/.broken/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.mkv
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
-!new/Amazing Nurse Nanaco/AVSEQ00.DAT
-!new/Amazing Nurse Nanaco/AVSEQ01.DAT
-!new/Amazing Nurse Nanaco/AVSEQ03.DAT
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
@@ -126,32 +123,6 @@
 !new/Onmyou_Taisenki_-_TV_Intro_3_(XviD)_[56CD3BD0].avi
 !new/Onmyou_Taisenki_-_TV_Intro_4_(XviD)_[62CBEC79].avi
 !new/Onmyou_Taisenki_-_TV_Promo_500k_[89F9F502].wmv
-!new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E01 'Outlaw World' [v2].mkv
-!new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E02 'World of Desires'.mkv
-!new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E03 'Into Burning Space'.mkv
-!new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E04 'When The Hot Ice Melts'.mkv
-!new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E05 'The Beast Girl, Ready To Pounce'.mkv
-!new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E06 'The Beautiful Assassin'.mkv
-!new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E07 'Creeping Evil'.mkv
-!new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E08 'Forced Departure'.mkv
-!new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E09 'A Journey of Adventure! Huh'.mkv
-!new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E10 'Gathering for the Space Race'.mkv
-!new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E11 'Adrift in Subspace'.mkv
-!new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E12 'Mortal Combat with the El Dorado'.mkv
-!new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E13 'Advance Guard from Another World'.mkv
-!new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E14 'The Final Countdown' [v2].mkv
-!new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E15 'The Seven Emerge'.mkv
-!new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E16 'Demon of the Water Planet'.mkv
-!new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E17 'Between Life and Machine'.mkv
-!new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E18 'The Strongest Woman in the Universe'.mkv
-!new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E19 'Law and Lawlessness'.mkv
-!new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E20 'Cats and Girls and Spaceships'.mkv
-!new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E21 'The Grave of the Dragon'.mkv
-!new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E22 'Gravity Jailbreak'.mkv
-!new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E23 'Tenrei, the Hot Spring Planet'.mkv
-!new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E24 'Cutting the Galactic Leyline'.mkv
-!new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E25 'Maze of Despair'.mkv
-!new/Outlaw Star [completed]/[OZC]Outlaw Star Remastered E26 'Return to Space'.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
@@ -430,43 +401,6 @@
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 165. Time for the Crystal to Shine! Beautiful Power of Dreams (v2) [243AEA50].ogm
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 166. Dreams Forever! Light Throughout the Sky (v2) [A17C8F85].ogm
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] Sailor Moon SuperS Plus Ami-chan no Hatsukoi R2 DVD(H264.AC3).mkv
-!new/Seikai no Monshou [completed]/Crest_of_the_Stars_01.DVD(H264.AAC)[KAA][B704B621].mkv
-!new/Seikai no Monshou [completed]/Crest_of_the_Stars_02.DVD(H264.AAC)[KAA][9EA44498].mkv
-!new/Seikai no Monshou [completed]/Crest_of_the_Stars_03[v2].DVD(H264.AAC)[KAA][8AE4D263].mkv
-!new/Seikai no Monshou [completed]/Crest_of_the_Stars_04.DVD(H264.AAC)[KAA][93053F33].mkv
-!new/Seikai no Monshou [completed]/Crest_of_the_Stars_05.DVD(H264.AAC)[KAA][F588467D].mkv
-!new/Seikai no Monshou [completed]/Crest_of_the_Stars_06.DVD(H264.AAC)[KAA][344640B5].mkv
-!new/Seikai no Monshou [completed]/Crest_of_the_Stars_07.DVD(H264.AAC)[KAA][36BDAE08].mkv
-!new/Seikai no Monshou [completed]/Crest_of_the_Stars_08.DVD(H264.AAC)[KAA][DDF98EFE].mkv
-!new/Seikai no Monshou [completed]/Crest_of_the_Stars_09.DVD(H264.AAC)[KAA][B7290A26].mkv
-!new/Seikai no Monshou [completed]/Crest_of_the_Stars_10.DVD(H264.AAC)[KAA][BE9B485F].mkv
-!new/Seikai no Monshou [completed]/Crest_of_the_Stars_11.DVD(H264.AAC)[KAA][9F0F8C66].mkv
-!new/Seikai no Monshou [completed]/Crest_of_the_Stars_12.DVD(H264.AAC)[KAA][D6879E71].mkv
-!new/Seikai no Monshou [completed]/Crest_of_the_Stars_13.DVD(H264.AAC)[KAA][CB226B2C].mkv
-!new/Seikai no Senki I (completed)/Banner_of_the_Stars_-_01_[A-Et]_(52FACA85).mkv
-!new/Seikai no Senki I (completed)/Banner_of_the_Stars_-_02_[A-Et]_(A1D656A6).mkv
-!new/Seikai no Senki I (completed)/Banner_of_the_Stars_-_03_[A-Et]_(95DCBAF4).mkv
-!new/Seikai no Senki I (completed)/Banner_of_the_Stars_-_04_[A-Et]_(EA5C06AE).mkv
-!new/Seikai no Senki I (completed)/Banner_of_the_Stars_-_05_[A-Et]_(59E8485E).mkv
-!new/Seikai no Senki I (completed)/Banner_of_the_Stars_-_06_[A-Et]_(A87B7B32).mkv
-!new/Seikai no Senki I (completed)/Banner_of_the_Stars_-_07_[A-Et]_(0238DD53).mkv
-!new/Seikai no Senki I (completed)/Banner_of_the_Stars_-_08_[A-Et]_(8C3C05DD).mkv
-!new/Seikai no Senki I (completed)/Banner_of_the_Stars_-_09_[A-Et]_(3191B5B7).mkv
-!new/Seikai no Senki I (completed)/Banner_of_the_Stars_-_10_[A-Et]_(F5557959).mkv
-!new/Seikai no Senki I (completed)/Banner_of_the_Stars_-_11_[A-Et]_(C0E5DDE6).mkv
-!new/Seikai no Senki I (completed)/Banner_of_the_Stars_-_12_[A-Et]_(3D4374AF).mkv
-!new/Seikai no Senki I (completed)/Banner_of_the_Stars_-_13_(End)_[A-Et]_(EC754BE2).mkv
-!new/Seikai no Senki II/[A-Et] Seikai no Senki II - 01 (8A5BC559).mkv
-!new/Seikai no Senki II/[A-Et] Seikai no Senki II - 02 (CC3458E6).mkv
-!new/Seikai no Senki II/[A-Et] Seikai no Senki II - 03 (F6112266).mkv
-!new/Seikai no Senki II/[A-Et] Seikai no Senki II - 04 (C1A85B03).mkv
-!new/Seikai no Senki II/[A-Et] Seikai no Senki II - 05 (401B5649).mkv
-!new/Seikai no Senki II/[A-Et] Seikai no Senki II - 06 (1A9CFCC7).mkv
-!new/Seikai no Senki II/[A-Et] Seikai no Senki II - 07 (18D6A875).mkv
-!new/Seikai no Senki II/[A-Et] Seikai no Senki II - 08 (5236EDA2).mkv
-!new/Seikai no Senki II/[A-Et] Seikai no Senki II - 09 (820385B4).mkv
-!new/Seikai no Senki II/[A-Et] Seikai no Senki II - 10 (End) (2F51269B).mkv
-!new/[CrunchySubs] Kore wa Zombie desu ka - 02 [720p].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
