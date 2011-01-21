@@ -42,7 +42,6 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
-!new/Crest_of_the_Stars_-_Birth_[A-Et]_(0C8EC0F9).mkv
 !new/Digimon tamers/Digimon Tamers Episode 10 (Subbed By PositronCannon).avi
 !new/Digimon tamers/Digimon Tamers Episode 11 (Subbed By PositronCannon).avi
 !new/Digimon tamers/Digimon Tamers Episode 12 (Subbed By PositronCannon).avi
@@ -402,24 +401,6 @@
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 165. Time for the Crystal to Shine! Beautiful Power of Dreams (v2) [243AEA50].ogm
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 166. Dreams Forever! Light Throughout the Sky (v2) [A17C8F85].ogm
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] Sailor Moon SuperS Plus Ami-chan no Hatsukoi R2 DVD(H264.AC3).mkv
-!new/Seikai no Monshou (Crest of the Stars) - Movie.avi
-!new/[GotWoot]_Onii-chan_no_Koto_..._02_[720p][625E1C05].mkv
-!new/[HorribleSubs] Naruto Shippuuden - 195 [720p].mkv
-!new/[HorribleSubs] Wandering Son - 02 [720p].mkv
-!new/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 32 [H264 1280x720] [06D12E05].mkv
-!new/[Nipponsei] Amagami SS Original Soundtrack.zip
-!new/[Nipponsei] Arakawa Under The Bridge Original Soundtrack.zip
-!new/[Nipponsei] Arakawa Under The Bridge x Bridge ED Single - Akai Coat [Suneohair].zip
-!new/[Nipponsei] K-ON!! Official Band Yarouyo!! ~Let's MUSIC!! 3~.zip
-!new/[Nipponsei] MM! Mio-sama CD.zip
-!new/[Nipponsei] NARUTO Shippuuden ED15 Single - U can do it! [DOMINO].zip
-!new/[Nipponsei] NARUTO Shippuuden OP08 Single - Diver [NICO Touches the Walls].zip
-!new/[Nipponsei] Ore no Imouto ga Konna ni Kawaii Wake ga nai Original Soundtrack.zip
-!new/[Nipponsei] Otome Youkai Zakuro Original Soundtrack.zip
-!new/[Nipponsei] Panty & Stocking With Garterbelt Original Soundtrack.zip
-!new/[Nipponsei] Shinryaku! Ika Musume Original Soundtrack.zip
-!new/[Nipponsei] Sora no Otoshimono Forte Heart Original Soundtrack.zip
-!new/[Nipponsei] Tamayura Original Soundtrack.zip
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -443,7 +424,6 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
-!new/[TMD_A-Destiny]_Bakuman_15_[720p][906CFF37].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -683,10 +663,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_14v2_[720p][5FEB162A].mkv
-!new/[WhyNot] Freezing - 02 [Censored][8F4E06A6].mkv
-!new/[WhyNot] Level E - 01 [BD4DFF0E].mkv
-!new/[gg]_Kimi_ni_Todoke_2nd_Season_-_02_[5D0399FB].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -792,7 +768,6 @@
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
 !new/lama/[Kuroneko] Fullmetal Alchemist - Chibi Party OAV [DB1546EB].avi
 !new/lama/[TAC Studios] Hunter X Hunter - Requiem.avi
-!new/level+e+ep1v2+patch.zip
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス OVA 「青空が描きたい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 映像特典 「The たんかい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 第01話 「えがいてあそぼ」.mkv

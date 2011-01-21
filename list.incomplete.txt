@@ -113,6 +113,7 @@ incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 28 [
 incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 29 [720p][6CCD963F].mkv
 incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 30 [720p][E4B59487].mkv
 incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 31 [720p][FA49B020].mkv
+incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 32 [720p][06D12E05].mkv
 incomplete/Aoki Densetsu Shoot!/[Saizen] Aoki Densetsu Shoot! - 34 [DVD][5DE072D3].mkv
 incomplete/Aoki Densetsu Shoot!/[Saizen] Aoki Densetsu Shoot! - 35 [DVD][55E30867].mkv
 incomplete/Aoki Densetsu Shoot!/[Saizen] Aoki Densetsu Shoot! - 37 [DVD][E3BB6000].mkv
@@ -214,6 +215,7 @@ incomplete/Ayatsuri Sakon/[ASP] Ayatsuri Sakon - 22 [DVD][9817F861].mp4
 incomplete/Bakegyamon/[DATS] Bakegyamon - 01 [B4442803].mkv
 incomplete/Bakuman/[TMD A-Destiny] Bakuman - 13 [720p][DD87C902].mkv
 incomplete/Bakuman/[TMD A-Destiny] Bakuman - 14 [720p][C021C6A5].mkv
+incomplete/Bakuman/[TMD A-Destiny] Bakuman - 15 [720p][906CFF37].mkv
 incomplete/Bakuman/[gg] Bakuman - 01 [v2][937D6A1E].mkv
 incomplete/Bakuman/[gg] Bakuman - 02 [A591C0E9].mkv
 incomplete/Bakuman/[gg] Bakuman - 03 [69202E08].mkv
@@ -802,11 +804,13 @@ incomplete/Fireball/[DATS] Fireball - 11 [DVD][74DDD03E].mkv
 incomplete/Fireball/[DATS] Fireball - 12 [DVD][7B4F27B4].mkv
 incomplete/Fireball/[DATS] Fireball - 13 [DVD][44ECEABB].mkv
 incomplete/Fractale/[UTW] Fractale - 01 [720p][96D3F1BF].mkv
+incomplete/Fractale/[UTW] Fractale - 02 [720p][D7961156].mkv
 incomplete/Fractale/[umee] Fractale - 01 [EAD961D4].mkv
 incomplete/Freezing/[Whine-Subs] Freezing - 01 [720p][C23D808A].mkv
 incomplete/Freezing/[WhyNot] Freezing - 01 [1E14B456].mkv
 incomplete/Freezing/[WhyNot] Freezing - 01 [Censored][44538095].mkv
 incomplete/Freezing/[WhyNot] Freezing - 02 [BC705CBC].mkv
+incomplete/Freezing/[WhyNot] Freezing - 02 [Censored][8F4E06A6].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 01 [DVD][B9677652].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 04 [DVD][4D454754].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 05 [DVD][5710610B].mkv
@@ -1780,6 +1784,7 @@ incomplete/Kimagure Orange Road/[Live-eviL] Kimagure Orange Road - 13 [ABCB0013]
 incomplete/Kimagure Orange Road/[Live-eviL] Kimagure Orange Road - 14 [ABCB0014].mkv
 incomplete/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 00 [BF735BC4].mkv
 incomplete/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 01 [v2][09214BB8].mkv
+incomplete/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 02 [5D0399FB].mkv
 incomplete/Kindaichi Shounen no Jikenbo/[KAW] Kindaichi Shounen no Jikenbo - 014 [v2][11549416].avi
 incomplete/Kindaichi Shounen no Jikenbo/[KAW] Kindaichi Shounen no Jikenbo - 015 [E50A69A9].avi
 incomplete/Kindaichi Shounen no Jikenbo/[KnKF] Kindaichi Shounen no Jikenbo - 001 [F4CA2C89].avi
@@ -1882,6 +1887,7 @@ incomplete/Letter Bee Reverse/[HorribleSubs] Letter Bee Reverse - 15 [720p][539C
 incomplete/Letter Bee Reverse/[Mochi] Letter Bee Reverse - 01 [720p][427A29A0].mkv
 incomplete/Level E/[HorribleSubs] Level E - 01 [720p][0389C449].mkv
 incomplete/Level E/[HorribleSubs] Level E - 02 [720p][8C4A5EC5].mkv
+incomplete/Level E/[WhyNot] Level E - 01 [v2][C8407B53].mkv
 incomplete/Literature Girl/[Monokage] Bungaku Shoujo Memoir - 01 [0B3A1FCC].mkv
 incomplete/Literature Girl/[Monokage] Bungaku Shoujo Memoir - 02 [143BCFD8].mkv
 incomplete/Literature Girl/[Taco] Literature Girl OVA - 01 [2276F216].mkv
@@ -2167,6 +2173,7 @@ incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 191 [720p][93C57
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 192 [720p][0EAA63B3].mkv
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 193 [720p][4323AD2B].mkv
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 194 [720p][819BCC26].mkv
+incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 195 [720p][2EE8F245].mkv
 incomplete/Naruto/[AonE] Naruto - 158 [336D6158].avi
 incomplete/Naruto/[DB] Naruto - 135 [72843002].avi
 incomplete/Naruto/[DB] Naruto - 136 [EE9A3057].avi
@@ -2745,6 +2752,7 @@ incomplete/One Piece/[yibis] One Piece - 483 [720p][1C9FF125].mkv
 incomplete/Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne/[Ayako-Shikkaku] Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne - 01 [720p][67A60A24].mkv
 incomplete/Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne/[Ayako-Shikkaku] Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne - 02 [720p][3E78C126].mkv
 incomplete/Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne/[GotWoot] Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne - 01 [720p][132F8DBE].mkv
+incomplete/Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne/[GotWoot] Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne - 02 [720p][625E1C05].mkv
 incomplete/Ontama!/[DATS] Ontama! - 01 [2F0C7231].mkv
 incomplete/Ontama!/[DATS] Ontama! - 02 [2FBB11E1].mkv
 incomplete/Ontama!/[DATS] Ontama! - 03 [00BDF47B].mkv
@@ -2829,6 +2837,7 @@ incomplete/Popolocrois Story/[A-BT-Pakapuka] PopoloCrois Story - 24 [260E91CA].a
 incomplete/Prince of Tennis - Another Story OVA/[IP] Prince of Tennis - Another Story OVA - 1 [E77F84B8].avi
 incomplete/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 01 [0557C1C6].mkv
 incomplete/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 02 [98A990D8].mkv
+incomplete/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 03 [8442AF1D].mkv
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 05 [1B8BEC0C].mkv
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 08 [69EF2B35].mkv
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 09 [C37FE63E].mkv
@@ -3324,7 +3333,7 @@ incomplete/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 10 
 incomplete/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 11 [720p][FB30D0DD].mkv
 incomplete/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 12 [720p][34DC6CD9].mkv
 incomplete/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 13 [720p][181AEEEE].mkv
-incomplete/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 14 [720p][D73FF534].mkv
+incomplete/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 14 [v2 720p][5FEB162A].mkv
 incomplete/Toaru Majutsu no Index II/[UTW] Toaru Majutsu no Index II - 01 [720p][15CC5AE2].mkv
 incomplete/Toaru Majutsu no Index II/[UTW] Toaru Majutsu no Index II - 02 [720p][50A585BB].mkv
 incomplete/Toaru Majutsu no Index II/[UTW] Toaru Majutsu no Index II - 03 [720p][2C55B11E].mkv
@@ -3443,6 +3452,7 @@ incomplete/VS Knight Lamune & 40 fire/[Live-eviL] VS Knight Lamune & 40 fire - 0
 incomplete/VS Knight Lamune & 40 fire/[Live-eviL] VS Knight Lamune & 40 fire - 02 [4317FA9E].avi
 incomplete/VS Knight Lamune & 40 fire/[Live-eviL] VS Knight Lamune & 40 fire - 03 [4C67226D].avi
 incomplete/VS Knight Lamune & 40 fire/[Live-eviL] VS Knight Lamune & 40 fire - 04 [AD713400].avi
+incomplete/Wandering Son/[HorribleSubs] Wandering Son - 02 [720p][CD5689B3].mkv
 incomplete/Wandering Son/[umee] Wandering Son - 01 [4CE1588E].mkv
 incomplete/Wangan Midnight/[Shinsen-Subs] Wangan Midnight - 01 [DVD][222DCD0C].mkv
 incomplete/Wangan Midnight/[Shinsen-Subs] Wangan Midnight - 02 [DVD][FE60242B].mkv
@@ -3614,6 +3624,7 @@ incomplete/Yumeiro Patissiere/[Wasurenai] Yumeiro Patissiere - 29 [91098385].mkv
 incomplete/Yumeiro Patissiere/[Wasurenai] Yumeiro Patissiere - 30 [BD6BCC45].mkv
 incomplete/Yumekui Merry/[gg] Yumekui Merry - 01 [v2][74AA3CCA].mkv
 incomplete/Yumekui Merry/[gg] Yumekui Merry - 02 [3DA5CBEF].mkv
+incomplete/Yumekui Merry/[gg] Yumekui Merry - 03 [D1746EB4].mkv
 incomplete/Yutori-chan/[Yuurisan-Subs] Yutori-chan - 01 [Webrip][C9838BD2].mkv
 incomplete/Yutori-chan/[Yuurisan-Subs] Yutori-chan - 02 [Webrip][BFE01B68].mkv
 incomplete/Yutori-chan/[Yuurisan-Subs] Yutori-chan - 03 [Webrip][A15F24CC].mkv
