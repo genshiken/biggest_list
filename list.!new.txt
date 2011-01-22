@@ -457,6 +457,7 @@
 !new/[ACG-ray=out]_DELTORA_QUEST_-_22_[HD][6C5BCD56].mkv
 !new/[CrunchySubs] Cardfight!! Vanguard - 03 [720p].mkv
 !new/[Doutei] Kodomo no Jikan OAD - A Child's Summer Time [472a54b9].mkv
+!new/[HorribleSubs] Tegami Bachi REVERSE - 41 [720p].mkv
 !new/[Licca] A Little Princess Sara Episode 29 (h.264) [2C1BE242].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
@@ -726,6 +727,10 @@
 !new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_15_[720p][063FF416].mkv
 !new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_34_[164A15A5][HD].mp4
 !new/[Whine-Subs]_Freezing_-_03_[960x720_x264_AAC][6638EF2E].mkv
+!new/[WhyNot] Freezing - 03 [Uncensored][6EA349AC].mkv
+!new/[iSiscon]_Gentsuki,_Swinging_Popsicle_-_Nitroplus_Axanael_OP_ED_Single_Katsuobushi_e.p._[w_scans]_(FLAC).rar
+!new/[iSiscon]_Kamizaki_Risa_(CV._Kadowaki_Mai)_-_Amagami_SS_ED_Theme_7_Kamizaki_Risa_-_Koi_no_Yukue_[w_scans]_(FLAC).rar
+!new/[iSiscon]_Miruku_-_MOONSTONE_Cherry_Imouto_Paradise!_OP_Single_-_Imouto_Paradise!_[w_scans]_(FLAC).rar
 !new/[m.3.3.w]_Fighting_Beauty_Wulong_-_01_(H.264)_[FA3136AE].mkv
 !new/[m.3.3.w]_Fighting_Beauty_Wulong_-_02_(H.264)_[9858C230].mkv
 !new/[m.3.3.w]_Fighting_Beauty_Wulong_-_03_(H.264)_[93404BF1].mkv
