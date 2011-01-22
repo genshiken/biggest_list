@@ -398,6 +398,7 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
 !new/[PCSS] Pretty Cure Splash Star Movie [HDTV 1280x720] [FA74F9D9].mkv
+!new/[RyRo]_Inazuma_Eleven_-_114_(1280x720_x264_AAC)_[AE32440D].mkv
 !new/[SMS] Starry Sky - 05 [85040F7E].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
@@ -638,6 +639,12 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_15_[720p][063FF416].mkv
+!new/[m.3.3.w]_Fighting_Beauty_Wulong_-_01_(H.264)_[FA3136AE].mkv
+!new/[m.3.3.w]_Fighting_Beauty_Wulong_-_02_(H.264)_[9858C230].mkv
+!new/[m.3.3.w]_Fighting_Beauty_Wulong_-_03_(H.264)_[93404BF1].mkv
+!new/[m.3.3.w]_Fighting_Beauty_Wulong_-_04_(H.264)_[B23CB9C6].mkv
+!new/[m.3.3.w]_Fighting_Beauty_Wulong_-_05_(H.264)_[28CE4722].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
