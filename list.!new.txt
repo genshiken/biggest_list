@@ -724,6 +724,20 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_01_[720p][C49950C0].mkv
+!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_02_[720p][9A647140].mkv
+!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_03_[720p][6E401002].mkv
+!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_04_[720p][C00B6237].mkv
+!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_05_[720p][2A4B6293].mkv
+!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_06_[720p][35CDD311].mkv
+!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_07_[720p][5AE671CB].mkv
+!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_08_[720p][7D946CA2].mkv
+!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_09_[720p][06FFA622].mkv
+!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_10_[720p][CB0443DA].mkv
+!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_11_[720p][FB30D0DD].mkv
+!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_12v2_[720p][4C38B114].mkv
+!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_13_[720p][181AEEEE].mkv
+!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_14v2_[720p][5FEB162A].mkv
 !new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_15_[720p][063FF416].mkv
 !new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_34_[164A15A5][HD].mp4
 !new/[Whine-Subs]_Freezing_-_03_[960x720_x264_AAC][6638EF2E].mkv
@@ -731,6 +745,11 @@
 !new/[iSiscon]_Gentsuki,_Swinging_Popsicle_-_Nitroplus_Axanael_OP_ED_Single_Katsuobushi_e.p._[w_scans]_(FLAC).rar
 !new/[iSiscon]_Kamizaki_Risa_(CV._Kadowaki_Mai)_-_Amagami_SS_ED_Theme_7_Kamizaki_Risa_-_Koi_no_Yukue_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Miruku_-_MOONSTONE_Cherry_Imouto_Paradise!_OP_Single_-_Imouto_Paradise!_[w_scans]_(FLAC).rar
+!new/[iSiscon]_Nomico,_Aoba_Ringo_-_Hoshizora_he_Kakaru_Hashi_OP_ED_Single_-_Hoshizora_he_Kakaru_Hashi_[w_scans]_(FLAC).rar
+!new/[iSiscon]_Tachibana_Miya_(CV._Asumi_Kana)_-_Amagami_SS_ED_Theme_8_Tachibana_Miya_-_Suteki_na_Aru_Hi_[w_scans]_(FLAC).rar
+!new/[iSiscon]_Various_Artists_-_GWAVE_2010_1st_Grace_[w_scans]_(FLAC).rar
+!new/[iSiscon]_Various_Artists_-_Mashiro-iro_Symphony_Original_Drama_Series_Sound_Portrait_Album_[w_scans]_(FLAC).rar
+!new/[iSiscon]_Various_Artists_-_fortissimo_Vocal_Mini_Album_-_fortissimo_songs_[w_scans]_(FLAC).rar
 !new/[m.3.3.w]_Fighting_Beauty_Wulong_-_01_(H.264)_[FA3136AE].mkv
 !new/[m.3.3.w]_Fighting_Beauty_Wulong_-_02_(H.264)_[9858C230].mkv
 !new/[m.3.3.w]_Fighting_Beauty_Wulong_-_03_(H.264)_[93404BF1].mkv
