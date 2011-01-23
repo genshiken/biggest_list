@@ -61,6 +61,7 @@
 !new/Digimon tamers/[Positron-card] Digimon Tamers 50 (Xvid-mp3).avi
 !new/Digimon tamers/[Positron-card] Digimon Tamers 51 [FINAL] (Xvid-mp3).avi
 !new/Digimon tamers/[wpp]Digimon_Tamers_-_07_[E496C6AE].mkv
+!new/FBW 01 Patch.rar
 !new/FF Unlimited/FFU01.avi
 !new/FF Unlimited/FFU02.avi
 !new/FF Unlimited/FFU03.avi
@@ -456,15 +457,7 @@
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] Sailor Moon SuperS Plus Ami-chan no Hatsukoi R2 DVD(H264.AC3).mkv
 !new/[ACG-ray=out]_DELTORA_QUEST_-_22_[HD][6C5BCD56].mkv
 !new/[CrunchySubs] Cardfight!! Vanguard - 03 [720p].mkv
-!new/[DB]_Ninku_21_[26F63F20].avi
-!new/[DB]_Ninku_22_[3E44A7B0].avi
 !new/[Doutei] Kodomo no Jikan OAD - A Child's Summer Time [472a54b9].mkv
-!new/[GotWoot]_Moonlight_Mile_S2_-_07_[720p_H264_AAC5.1][5998F344].mkv
-!new/[HorribleSubs] Beelzebub - 03 [720p].mkv
-!new/[HorribleSubs] Lilpri - 42 [720p].mkv
-!new/[HorribleSubs] Mitsudomoe 2 - 03 [720p].mkv
-!new/[HorribleSubs] Tegami Bachi REVERSE - 41 [720p].mkv
-!new/[Licca] A Little Princess Sara Episode 29 (h.264) [2C1BE242].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -489,8 +482,6 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
 !new/[PCSS] Pretty Cure Splash Star Movie [HDTV 1280x720] [FA74F9D9].mkv
-!new/[RyRo]_Inazuma_Eleven_-_114_(1280x720_x264_AAC)_[AE32440D].mkv
-!new/[SMS] Starry Sky - 05 [85040F7E].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -730,34 +721,13 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_01_[720p][C49950C0].mkv
-!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_02_[720p][9A647140].mkv
-!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_03_[720p][6E401002].mkv
-!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_04_[720p][C00B6237].mkv
-!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_05_[720p][2A4B6293].mkv
-!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_06_[720p][35CDD311].mkv
-!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_07_[720p][5AE671CB].mkv
-!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_08_[720p][7D946CA2].mkv
-!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_09_[720p][06FFA622].mkv
-!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_10_[720p][CB0443DA].mkv
-!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_11_[720p][FB30D0DD].mkv
-!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_12v2_[720p][4C38B114].mkv
-!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_13_[720p][181AEEEE].mkv
-!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_14v2_[720p][5FEB162A].mkv
-!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_15_[720p][063FF416].mkv
-!new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_34_[164A15A5][HD].mp4
+!new/[UTW] Amagami - Character Monologue 01 - Morishima Haruka [h264-720p][BD6AE585].mkv
+!new/[UTW] Amagami - Character Monologue 02 - Tanamachi Kaoru [h264-720p][8C1432A5].mkv
+!new/[UTW] Amagami - Character Monologue 03 - Nakata Sae [h264-720p][A8940E7A].mkv
+!new/[UTW] Amagami - Character Monologue 04 - Nanasaki Ai [h264-720p][58256214].mkv
+!new/[UTW] Amagami - Character Monologue 05 - Sakurai Rihoko [h264-720p][27ECE0CB].mkv
+!new/[UTW] Amagami - Character Monologue 06 - Ayatsuji Tsukasa [h264-720p][33C0E77B].mkv
 !new/[Whine-Subs]_Freezing_-_03_[960x720_x264_AAC][6638EF2E].mkv
-!new/[WhyNot-Kira] Yuri Seijin Naoko-san OVA [DVD][1F340702].mkv
-!new/[WhyNot] Freezing - 03 [Uncensored][6EA349AC].mkv
-!new/[iSiscon]_Gentsuki,_Swinging_Popsicle_-_Nitroplus_Axanael_OP_ED_Single_Katsuobushi_e.p._[w_scans]_(FLAC).rar
-!new/[iSiscon]_Kamizaki_Risa_(CV._Kadowaki_Mai)_-_Amagami_SS_ED_Theme_7_Kamizaki_Risa_-_Koi_no_Yukue_[w_scans]_(FLAC).rar
-!new/[iSiscon]_Miruku_-_MOONSTONE_Cherry_Imouto_Paradise!_OP_Single_-_Imouto_Paradise!_[w_scans]_(FLAC).rar
-!new/[iSiscon]_Nomico,_Aoba_Ringo_-_Hoshizora_he_Kakaru_Hashi_OP_ED_Single_-_Hoshizora_he_Kakaru_Hashi_[w_scans]_(FLAC).rar
-!new/[iSiscon]_Tachibana_Miya_(CV._Asumi_Kana)_-_Amagami_SS_ED_Theme_8_Tachibana_Miya_-_Suteki_na_Aru_Hi_[w_scans]_(FLAC).rar
-!new/[iSiscon]_Various_Artists_-_GWAVE_2010_1st_Grace_[w_scans]_(FLAC).rar
-!new/[iSiscon]_Various_Artists_-_Mashiro-iro_Symphony_Original_Drama_Series_Sound_Portrait_Album_[w_scans]_(FLAC).rar
-!new/[iSiscon]_Various_Artists_-_Sora_no_Otoshimono_Forte_Ending_Theme_Collection_-_Kotoshi_mo_[w_scans]_(FLAC).rar
-!new/[iSiscon]_Various_Artists_-_fortissimo_Vocal_Mini_Album_-_fortissimo_songs_[w_scans]_(FLAC).rar
 !new/[m.3.3.w]_Fighting_Beauty_Wulong_-_01_(H.264)_[FA3136AE].mkv
 !new/[m.3.3.w]_Fighting_Beauty_Wulong_-_02_(H.264)_[9858C230].mkv
 !new/[m.3.3.w]_Fighting_Beauty_Wulong_-_03_(H.264)_[93404BF1].mkv
