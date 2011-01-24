@@ -61,7 +61,6 @@
 !new/Digimon tamers/[Positron-card] Digimon Tamers 50 (Xvid-mp3).avi
 !new/Digimon tamers/[Positron-card] Digimon Tamers 51 [FINAL] (Xvid-mp3).avi
 !new/Digimon tamers/[wpp]Digimon_Tamers_-_07_[E496C6AE].mkv
-!new/FBW 01 Patch.rar
 !new/FF Unlimited/FFU01.avi
 !new/FF Unlimited/FFU02.avi
 !new/FF Unlimited/FFU03.avi
@@ -460,6 +459,11 @@
 !new/[Doutei] Kodomo no Jikan OAD - A Child's Summer Time [472a54b9].mkv
 !new/[Frostii]_Yuri_Seijin_Naoko-san_[E3C31099].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 16 [720p].mkv
+!new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_32_[80A8E3E2].mkv
+!new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_33_[EADA4709].mkv
+!new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_34_[3A34A633].mkv
+!new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_35_[DAB4F6FF].mkv
+!new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_36_[F02CBCE6].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -730,7 +734,6 @@
 !new/[UTW] Amagami - Character Monologue 05 - Sakurai Rihoko [h264-720p][27ECE0CB].mkv
 !new/[UTW] Amagami - Character Monologue 06 - Ayatsuji Tsukasa [h264-720p][33C0E77B].mkv
 !new/[Whine-Subs]_Freezing_-_03_[960x720_x264_AAC][6638EF2E].mkv
-!new/[gg]_Star_Driver_-_16_[7D6C309A].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -836,14 +839,6 @@
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
 !new/lama/[Kuroneko] Fullmetal Alchemist - Chibi Party OAV [DB1546EB].avi
 !new/lama/[TAC Studios] Hunter X Hunter - Requiem.avi
-!new/p/FBW 01v2 FixPatch (CLICK ME!).bat
-!new/p/[m.3.3.w]_Fighting_Beauty_Wulong_-_01_(H.264)_[F2CA20BA].mkv
-!new/p/[m.3.3.w]_Fighting_Beauty_Wulong_-_02_(H.264)_[9858C230].mkv
-!new/p/[m.3.3.w]_Fighting_Beauty_Wulong_-_03_(H.264)_[93404BF1].mkv
-!new/p/[m.3.3.w]_Fighting_Beauty_Wulong_-_04_(H.264)_[B23CB9C6].mkv
-!new/p/[m.3.3.w]_Fighting_Beauty_Wulong_-_05_(H.264)_[28CE4722].mkv
-!new/p/v2_data.xdelta
-!new/p/xdelta3.exe
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス OVA 「青空が描きたい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 映像特典 「The たんかい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 第01話 「えがいてあそぼ」.mkv
