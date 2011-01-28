@@ -12,6 +12,10 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - 217-218 [DCTP][720p][Remastered][8129FC9D].mp4
+!new/Detective Conan - 243-244 [DCTP][EAA4972B].avi
+!new/Detective Conan - 282-283 [DCTP-AZFS][9BED9C34].avi
+!new/Detective Conan - 350-351 [DCTP][DA59B622].avi
 !new/Digimon tamers/Digimon Tamers Episode 10 (Subbed By PositronCannon).avi
 !new/Digimon tamers/Digimon Tamers Episode 11 (Subbed By PositronCannon).avi
 !new/Digimon tamers/Digimon Tamers Episode 12 (Subbed By PositronCannon).avi
@@ -455,6 +459,8 @@
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 166. Dreams Forever! Light Throughout the Sky (v2) [A17C8F85].ogm
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] Sailor Moon SuperS Plus Ami-chan no Hatsukoi R2 DVD(H264.AC3).mkv
 !new/[ACG-ray=out]_DELTORA_QUEST_-_22_[HD][6C5BCD56].mkv
+!new/[Ayako] Infinite Stratos - IS - 04 [H264][720p][192428AB].mkv
+!new/[Ayako]_Infinite_Stratos_-_IS_-_04_[H264][720p][192428AB].mkv
 !new/[BWS]Pocket_Monsters_Best_Wishes_017_The_Roughneck_Who_Came_From_An_Egg![H264_720P][3D4147ED].mkv
 !new/[Commie] Durarara!! - 15 (v2) [40A0EDA5].mkv
 !new/[Commie] Durarara!! - 22 [70CA867C].mkv
@@ -464,6 +470,11 @@
 !new/[CrunchySubs] Cardfight!! Vanguard - 03 [720p].mkv
 !new/[Doremi].HeartCatch.PreCure!.48.[1280x720].[B416C3C9].mkv
 !new/[Doutei] Kodomo no Jikan OAD - A Child's Summer Time [472a54b9].mkv
+!new/[Eclipse] Kimi ni Todoke 2nd Season - 00 (1280x720 h264) [9AD4B336].mkv
+!new/[Eclipse] Kimi ni Todoke 2nd Season - 01 (1280x720 h264) [B4A59F91].mkv
+!new/[Eclipse] Kimi ni Todoke 2nd Season - 02 (1280x720 h264) [F7C578D4].mkv
+!new/[Eclipse] Kimi ni Todoke 2nd Season - 03 (1280x720 h264) [E3E204AD].mkv
+!new/[FroZen]_RAINBOW_23_[F2B3C34A].mkv
 !new/[Frostii]_Yuri_Seijin_Naoko-san_[E3C31099].mkv
 !new/[GotWoot]_Onii-chan_no_Koto_..._03_[720p][819CDDE3].mkv
 !new/[Harth-Seto]_Break_Blade_Picture_Drama_2_[BD_1920x1080_x264_FLAC][A43C7EBC].mkv
@@ -475,6 +486,8 @@
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 16 [720p].mkv
 !new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_37_[F934B6A1].mkv
 !new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_38_[EC104AD4].mkv
+!new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_39_[3F7EEDE0].mkv
+!new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_40_[EBD89054].mkv
 !new/[Licca] A Little Princess Sara Episode 30 (h.264) [26D39A6D].mkv
 !new/[Licca] A Little Princess Sara Episode 31 (h.264) [03A17B59].mkv
 !new/[Nipponsei] Infinite Stratos OP Single - STRAIGHT JET [Kuribayashi Minami].zip
@@ -511,6 +524,7 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
 !new/[Over-Time]_Kamen_Rider_OOO_-_19v2_[5F864FEA].mkv
 !new/[PCSS] Pretty Cure Splash Star Movie [HDTV 1280x720] [FA74F9D9].mkv
+!new/[ReDone] Touka Gettan - 20 (DVD) [0C9E0B81].mkv
 !new/[TMD_A-Destiny]_Bakuman_16_[720p][932DA756].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
@@ -762,6 +776,7 @@
 !new/[Victorique]_Gosick_-_03_[h264-720p][6B8BECCB].mkv
 !new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_35_[F8AE886E][HD].mp4
 !new/[Whine-Subs]_Freezing_-_03_[960x720_x264_AAC][6638EF2E].mkv
+!new/[WhyNot] Level E - 03 [3CBBF558].mkv
 !new/[a.f.k.]_Full_Moon_wo_Sagashite_-_01.avi
 !new/[a.f.k.]_Full_Moon_wo_Sagashite_-_02.avi
 !new/[a.f.k.]_Full_Moon_wo_Sagashite_-_03.avi
@@ -817,6 +832,7 @@
 !new/[a.f.k.]_Full_Moon_wo_Sagashite_-_Special.avi
 !new/[anime-rg_-_ray=out]_Yoiko_-_11_[5235DBE9].mkv
 !new/[anime-rg_-_ray=out]_Yoiko_-_12_[6903A862].mkv
+!new/[gg] Puella Magi Madoka Magica - 04 [C2AEF6CA].mkv
 !new/[gg]_Kimi_ni_Todoke_2nd_Season_-_03_[0E1E1259].mkv
 !new/[iSiscon]_Faylan_-_FrontWing_LE_FRUIT_DE_LA_GRISAIA_OP_Single_-_Shuumatsu_no_Fractal_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Fujiwara_Marina_-_Yumekui_Merry_OP_Single_-_Daydream_Syndrome_[w_scans]_(FLAC).rar
