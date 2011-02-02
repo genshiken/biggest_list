@@ -1734,7 +1734,6 @@ incomplete/Keroro Gunsou/[Soldats-UA] Keroro Gunsou - 004 [2DB1563D].avi
 incomplete/Keroro Gunsou/[Soldats-UA] Keroro Gunsou - 005 [077503E2].avi
 incomplete/Keroro Gunsou/[Soldats-UA] Keroro Gunsou - 006 [9F19FB48].avi
 incomplete/Keroro Gunsou/[Soldats] Keroro Gunsou - 007 [1391C272].avi
-incomplete/Kiba/.DS_Store
 incomplete/Kiba/[Kyuu] Kiba - 01 [5CCBBB75].avi
 incomplete/Kiba/[Kyuu] Kiba - 02 [D2FBF2CE].avi
 incomplete/Kiba/[Kyuu] Kiba - 03 [2C17E18D].avi
@@ -1883,7 +1882,7 @@ incomplete/Les Miserables/[ureshii-Yoroshiku] Les Miserables - 01 [720p][0632839
 incomplete/Les Miserables/[ureshii-Yoroshiku] Les Miserables - 02 [720p][831B1591].mkv
 incomplete/Les Miserables/[ureshii-Yoroshiku] Les Miserables - 03 [720p][B88097B1].mkv
 incomplete/Letter Bee Reverse/[HorribleSubs] Letter Bee Reverse - 01 [720p][82137F6A].mkv
-incomplete/Letter Bee Reverse/[HorribleSubs] Letter Bee Reverse - 02 [720p][82137F6A].mkv
+incomplete/Letter Bee Reverse/[HorribleSubs] Letter Bee Reverse - 02 [720p][CE321DC2].mkv
 incomplete/Letter Bee Reverse/[HorribleSubs] Letter Bee Reverse - 03 [720p][4BBB549D].mkv
 incomplete/Letter Bee Reverse/[HorribleSubs] Letter Bee Reverse - 04 [720p][22112CE9].mkv
 incomplete/Letter Bee Reverse/[HorribleSubs] Letter Bee Reverse - 05 [720p][4BD4342B].mkv
