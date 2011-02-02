@@ -13497,17 +13497,17 @@ complete/t/To Love-Ru/[Yabai] To Love-Ru - 14 [DVD][3EA0298A].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - 15 [DVD][811C1CF2].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - 16 [DVD][C0791B4E].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - 17 [DVD][B0151114].mkv
+complete/t/To Love-Ru/[Yabai] To Love-Ru - 18 [DVD][9D3C7497].mkv
+complete/t/To Love-Ru/[Yabai] To Love-Ru - 19 [DVD][253548D1].mkv
+complete/t/To Love-Ru/[Yabai] To Love-Ru - 20 [DVD][FCA61CD4].mkv
+complete/t/To Love-Ru/[Yabai] To Love-Ru - 21 [DVD][AFD0B13E].mkv
+complete/t/To Love-Ru/[Yabai] To Love-Ru - 22 [DVD][E5BD0070].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - Ending (Clean) [DVD][ED4D6663].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - Ending 2 (Clean) [DVD][2C2DDEC5].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - Ending 2 [DVD][6798B5F0].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - Ending [v2][DVD][8629235A].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - Opening (Clean) [DVD][876BE74A].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - Opening [v2][DVD][A9ADB3C1].mkv
-complete/t/To Love-Ru/[polished] To Love-Ru - 18 [DVD][C4997BE1].mkv
-complete/t/To Love-Ru/[polished] To Love-Ru - 19 [DVD][FCDD6F6B].mkv
-complete/t/To Love-Ru/[polished] To Love-Ru - 20 [DVD][E0CB55EF].mkv
-complete/t/To Love-Ru/[polished] To Love-Ru - 21 [DVD][FC7B7732].mkv
-complete/t/To Love-Ru/[polished] To Love-Ru - 22 [DVD][156CAEDA].mkv
 complete/t/To Love-Ru/[polished] To Love-Ru - 23 [DVD][2A3BBEAA].mkv
 complete/t/To Love-Ru/[polished] To Love-Ru - 24 [DVD][D7B870FE].mkv
 complete/t/To Love-Ru/[polished] To Love-Ru - 25 [DVD][34D58436].mkv
@@ -13676,33 +13676,35 @@ complete/t/Tonagura!/[Ryo] Tonagura! - 11 [5022AD26].mp4
 complete/t/Tonagura!/[Ryo] Tonagura! - 12 [6DB74113].mp4
 complete/t/Tonagura!/[Ryo] Tonagura! - 13 [End][19B977F6].mp4
 complete/t/Tono to Issho OAV/[Huzzah-Pretentious] Tono to Issho OAV [9151FA51].mkv
-complete/t/Toradora!/[CoalGuys] Toradora! - 12 [CF499F8B].mkv
-complete/t/Toradora!/[CoalGuys] Toradora! - 13 [B818F3A4].mkv
-complete/t/Toradora!/[CoalGuys] Toradora! - 14 [270788D1].mkv
-complete/t/Toradora!/[CoalGuys] Toradora! - 15 [3389C161].mkv
-complete/t/Toradora!/[CoalGuys] Toradora! - 16 [5191B41B].mkv
-complete/t/Toradora!/[CoalGuys] Toradora! - 17 [728461D3].mkv
-complete/t/Toradora!/[CoalGuys] Toradora! - 18 [83D26DC8].mkv
-complete/t/Toradora!/[CoalGuys] Toradora! - 19 [B8C08748].mkv
-complete/t/Toradora!/[CoalGuys] Toradora! - 20 [9B0B71FB].mkv
-complete/t/Toradora!/[CoalGuys] Toradora! - 21 [738C2A5F].mkv
-complete/t/Toradora!/[CoalGuys] Toradora! - 22 [B8A101E7].mkv
-complete/t/Toradora!/[CoalGuys] Toradora! - 23 [36550224].mkv
-complete/t/Toradora!/[CoalGuys] Toradora! - 24 [1C3E2CBB].mkv
-complete/t/Toradora!/[CoalGuys] Toradora! - 25 [End][022C55E3].mkv
-complete/t/Toradora!/[gg] Toradora! - 04 [v2][7024D024].mkv
-complete/t/Toradora!/[qq-AKFDP] Toradora! - 01 [DVD][F792BD35].mkv
-complete/t/Toradora!/[qq-AKFDP] Toradora! - 02 [DVD][1DF786EF].mkv
-complete/t/Toradora!/[qq-AKFDP] Toradora! - 03 [DVD][C205C71F].mkv
-complete/t/Toradora!/[qq-AKFDP] Toradora! - Ending [DVD][88560327].mkv
-complete/t/Toradora!/[qq-AKFDP] Toradora! - Opening [DVD][0E85F2F3].mkv
-complete/t/Toradora!/[qq] Toradora! - 05 [v2][18920326].mkv
-complete/t/Toradora!/[qq] Toradora! - 06 [21208F27].mkv
-complete/t/Toradora!/[qq] Toradora! - 07 [B109939A].mkv
-complete/t/Toradora!/[qq] Toradora! - 08 [DDE41726].mkv
-complete/t/Toradora!/[qq] Toradora! - 09 [A79963C3].mkv
-complete/t/Toradora!/[qq] Toradora! - 10 [C995C771].mkv
-complete/t/Toradora!/[qq] Toradora! - 11 [4E9D5DF7].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - 01 [DVD][36993AC6].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - 02 [DVD][3FF2C9A7].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - 03 [DVD][9EC38000].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - 04 [DVD][9AEE94AC].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - 05 [DVD][BDA84FCC].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - 06 [DVD][89C63E83].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - 07 [DVD][6468D3E1].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - 08 [DVD][2FA9D681].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - 09 [DVD][1FF98F15].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - 10 [DVD][7FC1FC93].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - 11 [DVD][D1BAE9D7].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - 12 [DVD][BFE85AE9].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - 13 [DVD][24B82F83].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - 14 [DVD][83563051].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - 15 [DVD][402F7707].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - 16 [DVD][6EC98FAF].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - 17 [DVD][12476E77].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - 18 [DVD][C1E4D009].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - 19 [DVD][D2CF3FE4].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - 20 [DVD][9D49CCD2].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - 21 [DVD][D2D97DDF].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - 22 [DVD][896973A9].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - 23 [DVD][DABC38A5].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - 24 [DVD][C6371884].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - 25 [End][DVD][D0B55D2C].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - Ending 2 [DVD][3B65D1E6].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - Ending [DVD][5F5BF1C3].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - Opening 2 [DVD][6B9FC6DF].mkv
+complete/t/Toradora!/[Coalgirls] Toradora! - Opening [DVD][CA478170].mkv
 complete/t/Tori no Uta OVA/[SD] Tori no Uta OVA [E3C02CC9].mkv
 complete/t/Toshokan Sensou/[Froth-Bite & Menclave] Toshokan Sensou - 01 (1280x720) [9352C863].mkv
 complete/t/Toshokan Sensou/[Froth-Bite & Menclave] Toshokan Sensou - 02 (1280x720) [FEC2101B].mkv
@@ -14500,9 +14502,7 @@ complete/w/Witchblade/[Makoto] Witchblade - 21 [DVD][E2FE4D81].mkv
 complete/w/Witchblade/[Makoto] Witchblade - 22 [DVD][6354DB77].mkv
 complete/w/Witchblade/[Makoto] Witchblade - 23 [DVD][1D4E6CED].mkv
 complete/w/Witchblade/[Makoto] Witchblade - 24 [End][DVD][FAEB8F27].mkv
-complete/w/Working!!/[FFFpeeps] Working!! - 10 [274121A7].mkv
 complete/w/Working!!/[FFFpeeps] Working!! - 12 [8F468685].mkv
-complete/w/Working!!/[Himatsubushi] Working!! - 09 [40B10963].mkv
 complete/w/Working!!/[Himatsubushi] Working!! - 11 [5D164F08].mkv
 complete/w/Working!!/[Himatsubushi] Working!! - 13 [End][5AE519C5].mkv
 complete/w/Working!!/[SHiN-gx] Working!! - 01 [DVD][B4E8CBC0].mkv
@@ -14514,6 +14514,7 @@ complete/w/Working!!/[SHiN-gx] Working!! - 06 [DVD][58897591].mkv
 complete/w/Working!!/[SHiN-gx] Working!! - 07 [DVD][8F951620].mkv
 complete/w/Working!!/[SHiN-gx] Working!! - 08 [DVD][61990CB0].mkv
 complete/w/Working!!/[SHiN-gx] Working!! - 09 [DVD][603890D0].mkv
+complete/w/Working!!/[SHiN-gx] Working!! - 10 [DVD][F1F96D88].mkv
 complete/w/World Destruction/[Osu!] World Destruction - 01 (1280x720) [84AF69E2].mkv
 complete/w/World Destruction/[Osu!] World Destruction - 02 (1280x720) [BFFE1AF9].mkv
 complete/w/World Destruction/[Osu!] World Destruction - 03 [EEEB75A8].mkv

@@ -357,9 +357,11 @@ incomplete/Blue Dragon/[ILA] Blue Dragon - 28 [CA885794].mkv
 incomplete/Bobobo-Bo Bo-Bobo/[HnG-Hajike] Bobobo-Bo Bo-Bobo - 01 [DVD][38478E65].mkv
 incomplete/Bobobo-Bo Bo-Bobo/[HnG-Hajike] Bobobo-Bo Bo-Bobo - 02 [DVD][F2AAE1D5].mkv
 incomplete/Bobobo-Bo Bo-Bobo/[HnG-Hajike] Bobobo-Bo Bo-Bobo - 03 [DVD][36A022AF].mkv
-incomplete/Break Blade/[gg] Break Blade - 1 (1280x720) [A9337483].mkv
 incomplete/Break Blade/[gg] Break Blade - 1 (1920x1080) [A406CFAD].mkv
+incomplete/Break Blade/[gg] Break Blade - 1 [720p][A9337483].mkv
 incomplete/Break Blade/[gg] Break Blade - 2 (1920x1080) [39A31FD8].mkv
+incomplete/Break Blade/[gg] Break Blade - 3 [1080p][9FB589D4].mkv
+incomplete/Break Blade/[gg] Break Blade - 3 [720p][DCC762DA].mkv
 incomplete/Captain Harlock SSX (TV)/[Live-eviL] Captain Harlock SSX (TV) - 08 [439F92F8].avi
 incomplete/Captain Harlock SSX (TV)/[Live-eviL] Captain Harlock SSX (TV) - 09 [D9EF560D].avi
 incomplete/Captain Harlock/[Live-eviL] Captain Harlock - 24 [0C66A50A].mkv
@@ -643,6 +645,8 @@ incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 19 [720p][BE05C909].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 20 [720p][D88C17D1].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 21 [720p][A4D3DC80].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 22 [720p][57CBE198].mkv
+incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 23 [720p][AA653510].mkv
+incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 24 [720p][01C1C4B9].mkv
 incomplete/Dirty Pair TV/[FLF & L-E] Dirty Pair TV - 01 [9689517F].mkv
 incomplete/Dirty Pair TV/[FLF & L-E] Dirty Pair TV - 02 [793D547A].mkv
 incomplete/Dirty Pair TV/[FLF & L-E] Dirty Pair TV - 03 [AEF9424F].mkv
@@ -743,6 +747,8 @@ incomplete/Dragon Ball Z/[DBNL] Dragon Ball Z - 063 [5B3ED713].mkv
 incomplete/Dragon Ball Z/[DBNL] Dragon Ball Z - 064 [3647A6D4].mkv
 incomplete/Dragon Crisis!/[Underwater-Commie] Dragon Crisis! - 01 [v2 720p][8830ADCF].mkv
 incomplete/Dragon Crisis!/[Underwater-Commie] Dragon Crisis! - 02 [720p][DB72B087].mkv
+incomplete/Dragon Crisis!/[Underwater-Commie] Dragon Crisis! - 03 [720p][758F6FCB].mkv
+incomplete/Dragon Crisis!/[Underwater-Commie] Dragon Crisis! - 04 [720p][76C0E849].mkv
 incomplete/Dragon Quest/[ANBU] Dragon Quest - 01 [941B9B6A].mkv
 incomplete/Dragon Quest/[ANBU] Dragon Quest - 02 [0DDAC429].mkv
 incomplete/Dragon Quest/[ANBU] Dragon Quest - 03 [57F0112E].mkv
@@ -812,12 +818,14 @@ incomplete/Fireball/[DATS] Fireball - 12 [DVD][7B4F27B4].mkv
 incomplete/Fireball/[DATS] Fireball - 13 [DVD][44ECEABB].mkv
 incomplete/Fractale/[UTW] Fractale - 01 [720p][96D3F1BF].mkv
 incomplete/Fractale/[UTW] Fractale - 02 [720p][D7961156].mkv
+incomplete/Fractale/[UTW] Fractale - 03 [720p][FAE7890A].mkv
 incomplete/Fractale/[umee] Fractale - 01 [EAD961D4].mkv
 incomplete/Freezing/[Whine-Subs] Freezing - 01 [720p][C23D808A].mkv
 incomplete/Freezing/[WhyNot] Freezing - 01 [1E14B456].mkv
 incomplete/Freezing/[WhyNot] Freezing - 01 [Censored][44538095].mkv
 incomplete/Freezing/[WhyNot] Freezing - 02 [BC705CBC].mkv
 incomplete/Freezing/[WhyNot] Freezing - 02 [Censored][8F4E06A6].mkv
+incomplete/Freezing/[WhyNot] Freezing - 03 [Censored][9D64799F].mkv
 incomplete/Freezing/[WhyNot] Freezing - 03 [Uncensored][6EA349AC].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 01 [DVD][B9677652].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 04 [DVD][4D454754].mkv
@@ -1044,6 +1052,8 @@ incomplete/Goldfish Warning!/[h-b] Goldfish Warning! - 22 [DVD][071015C6].avi
 incomplete/Good Witch of the West/[Anime-Keep] Good Witch of the West - 04 [A957BB5C].avi
 incomplete/Gosick/[Victorique] Gosick - 01 [v2 720p][800E4683].mkv
 incomplete/Gosick/[Victorique] Gosick - 02 [720p][DFE95680].mkv
+incomplete/Gosick/[Victorique] Gosick - 03 [720p][6B8BECCB].mkv
+incomplete/Gosick/[Victorique] Gosick - 04 [720p][A50D6DFB].mkv
 incomplete/Gun X Sword/[Shinsen-Subs] Gun X Sword - 10 [DE58BF1B].avi
 incomplete/Gun X Sword/[Shinsen-Subs] Gun X Sword - 11 [94BA7245].avi
 incomplete/Gun X Sword/[Shinsen-Subs] Gun X Sword - 12 [8C1B0A0B].avi
@@ -1105,6 +1115,7 @@ incomplete/Happy Happy Clover/[Yoroshiku] Happy Happy Clover - 04 [E6767716].mkv
 incomplete/Happy Happy Clover/[Yoroshiku] Happy Happy Clover - 05 [20F325F8].mkv
 incomplete/Happy Happy Clover/[Yoroshiku] Happy Happy Clover - 06 [5190A5DC].mkv
 incomplete/Happy Happy Clover/[Yoroshiku] Happy Happy Clover - 07 [F4055FEC].mkv
+incomplete/Happy Happy Clover/[Yoroshiku] Happy Happy Clover - 08 [CA211B6E].mkv
 incomplete/HeartCatch PreCure!/[Doremi] HeartCatch PreCure! - 01 [720p][D5C82B8C].mkv
 incomplete/HeartCatch PreCure!/[Doremi] HeartCatch PreCure! - 02 [720p][1D1767F3].mkv
 incomplete/HeartCatch PreCure!/[Doremi] HeartCatch PreCure! - 03 [720p][CF8D0F94].mkv
@@ -1419,6 +1430,7 @@ incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 111 [720p][B0AB2412].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 112 [720p][3727AFC7].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 113 [720p][66DA7D42].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 114 [720p][AE32440D].mkv
+incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 115 [720p][1EDA5335].mkv
 incomplete/Infinite Stratos - IS/[Ayako] Infinite Stratos - IS - 01 [v2 720p][4B45EF48].mkv
 incomplete/Infinite Stratos - IS/[Ayako] Infinite Stratos - IS - 02 [720p][05C376A9].mkv
 incomplete/Infinite Stratos - IS/[Ayako] Infinite Stratos - IS - 03 [720p][87E1FABE].mkv
@@ -1792,9 +1804,14 @@ incomplete/Kimagure Orange Road/[Live-eviL] Kimagure Orange Road - 11 [ABCB0011]
 incomplete/Kimagure Orange Road/[Live-eviL] Kimagure Orange Road - 12 [ABCB0012].mkv
 incomplete/Kimagure Orange Road/[Live-eviL] Kimagure Orange Road - 13 [ABCB0013].mkv
 incomplete/Kimagure Orange Road/[Live-eviL] Kimagure Orange Road - 14 [ABCB0014].mkv
+incomplete/Kimi ni Todoke 2nd Season/[Eclipse] Kimi ni Todoke 2nd Season - 00 [720p][9AD4B336].mkv
+incomplete/Kimi ni Todoke 2nd Season/[Eclipse] Kimi ni Todoke 2nd Season - 01 [720p][B4A59F91].mkv
+incomplete/Kimi ni Todoke 2nd Season/[Eclipse] Kimi ni Todoke 2nd Season - 02 [720p][F7C578D4].mkv
+incomplete/Kimi ni Todoke 2nd Season/[Eclipse] Kimi ni Todoke 2nd Season - 03 [720p][E3E204AD].mkv
 incomplete/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 00 [BF735BC4].mkv
 incomplete/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 01 [v2][09214BB8].mkv
 incomplete/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 02 [5D0399FB].mkv
+incomplete/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 03 [0E1E1259].mkv
 incomplete/Kindaichi Shounen no Jikenbo/[KAW] Kindaichi Shounen no Jikenbo - 014 [v2][11549416].avi
 incomplete/Kindaichi Shounen no Jikenbo/[KAW] Kindaichi Shounen no Jikenbo - 015 [E50A69A9].avi
 incomplete/Kindaichi Shounen no Jikenbo/[KnKF] Kindaichi Shounen no Jikenbo - 001 [F4CA2C89].avi
@@ -1835,6 +1852,8 @@ incomplete/Konjiki no Gash Bell (1-107,110+)/[A-Destiny] Konjiki no Gash Bell - 
 incomplete/Konjiki no Gash Bell - OVA/[A-Destiny] Konjiki no Gash Bell - OVA 1 [C681146F].mp4
 incomplete/Kore wa Zombie Desu ka/[Underwater-Commie] Kore wa Zombie Desu ka - 01 [720p][6F738DAB].mkv
 incomplete/Kore wa Zombie Desu ka/[Underwater-Commie] Kore wa Zombie Desu ka - 02 [720p][9843D9CB].mkv
+incomplete/Kore wa Zombie Desu ka/[Underwater-Commie] Kore wa Zombie Desu ka - 03 [720p][645A4DB6].mkv
+incomplete/Kore wa Zombie Desu ka/[Underwater-Commie] Kore wa Zombie Desu ka - 04 [720p][C91FD59D].mkv
 incomplete/Kurenai OVA/[Commie] Kurenai OVA - 01 [F08AFC06].mkv
 incomplete/Kurenai OVA/[gleam] Kurenai OVA - 01 [0E73F000].mkv
 incomplete/Kurenai OVA/[gleam] Kurenai OVA - 02 [C385E167].mkv
@@ -1878,6 +1897,7 @@ incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 31 [6D6C6568].mp4
 incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 32 [235271DF].mp4
 incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 33 [EEA6BF6F].mp4
 incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 34 [164A15A5].mp4
+incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 35 [F8AE886E].mp4
 incomplete/Les Miserables/[ureshii-Yoroshiku] Les Miserables - 01 [720p][06328391].mkv
 incomplete/Les Miserables/[ureshii-Yoroshiku] Les Miserables - 02 [720p][831B1591].mkv
 incomplete/Les Miserables/[ureshii-Yoroshiku] Les Miserables - 03 [720p][B88097B1].mkv
@@ -1902,6 +1922,7 @@ incomplete/Level E/[HorribleSubs] Level E - 01 [720p][0389C449].mkv
 incomplete/Level E/[HorribleSubs] Level E - 02 [720p][8C4A5EC5].mkv
 incomplete/Level E/[WhyNot] Level E - 01 [v2][C8407B53].mkv
 incomplete/Level E/[WhyNot] Level E - 02 [9E059D0A].mkv
+incomplete/Level E/[WhyNot] Level E - 03 [3CBBF558].mkv
 incomplete/Literature Girl/[Monokage] Bungaku Shoujo Memoir - 01 [0B3A1FCC].mkv
 incomplete/Literature Girl/[Monokage] Bungaku Shoujo Memoir - 02 [143BCFD8].mkv
 incomplete/Literature Girl/[Taco] Literature Girl OVA - 01 [2276F216].mkv
@@ -2767,6 +2788,7 @@ incomplete/One Piece/[yibis] One Piece - 480 [720p][AFE9F598].mkv
 incomplete/One Piece/[yibis] One Piece - 481 [720p][BAB5421B].mkv
 incomplete/One Piece/[yibis] One Piece - 482 [720p][B0A51A89].mkv
 incomplete/One Piece/[yibis] One Piece - 483 [720p][1C9FF125].mkv
+incomplete/One Piece/[yibis] One Piece - 484 [720p][142296D2].mkv
 incomplete/Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne/[Ayako-Shikkaku] Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne - 01 [720p][67A60A24].mkv
 incomplete/Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne/[Ayako-Shikkaku] Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne - 02 [720p][3E78C126].mkv
 incomplete/Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne/[GotWoot] Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne - 01 [720p][132F8DBE].mkv
@@ -2856,6 +2878,7 @@ incomplete/Prince of Tennis - Another Story OVA/[IP] Prince of Tennis - Another 
 incomplete/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 01 [0557C1C6].mkv
 incomplete/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 02 [98A990D8].mkv
 incomplete/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 03 [8442AF1D].mkv
+incomplete/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 04 [C2AEF6CA].mkv
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 05 [1B8BEC0C].mkv
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 08 [69EF2B35].mkv
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 09 [C37FE63E].mkv
@@ -2959,6 +2982,14 @@ incomplete/SD Gundam Legend of the Three Kingdoms Brave Battle Warriors/[Huzzah]
 incomplete/SD Gundam Legend of the Three Kingdoms Brave Battle Warriors/[Huzzah] SD Gundam Legend of the Three Kingdoms Brave Battle Warriors - 34 [3A34A633].mkv
 incomplete/SD Gundam Legend of the Three Kingdoms Brave Battle Warriors/[Huzzah] SD Gundam Legend of the Three Kingdoms Brave Battle Warriors - 35 [DAB4F6FF].mkv
 incomplete/SD Gundam Legend of the Three Kingdoms Brave Battle Warriors/[Huzzah] SD Gundam Legend of the Three Kingdoms Brave Battle Warriors - 36 [F02CBCE6].mkv
+incomplete/SD Gundam Legend of the Three Kingdoms Brave Battle Warriors/[Huzzah] SD Gundam Legend of the Three Kingdoms Brave Battle Warriors - 37 [F934B6A1].mkv
+incomplete/SD Gundam Legend of the Three Kingdoms Brave Battle Warriors/[Huzzah] SD Gundam Legend of the Three Kingdoms Brave Battle Warriors - 38 [EC104AD4].mkv
+incomplete/SD Gundam Legend of the Three Kingdoms Brave Battle Warriors/[Huzzah] SD Gundam Legend of the Three Kingdoms Brave Battle Warriors - 39 [3F7EEDE0].mkv
+incomplete/SD Gundam Legend of the Three Kingdoms Brave Battle Warriors/[Huzzah] SD Gundam Legend of the Three Kingdoms Brave Battle Warriors - 40 [EBD89054].mkv
+incomplete/SD Gundam Legend of the Three Kingdoms Brave Battle Warriors/[Huzzah] SD Gundam Legend of the Three Kingdoms Brave Battle Warriors - 41 [30C55DCB].mkv
+incomplete/SD Gundam Legend of the Three Kingdoms Brave Battle Warriors/[Huzzah] SD Gundam Legend of the Three Kingdoms Brave Battle Warriors - 42 [2E7DE904].mkv
+incomplete/SD Gundam Legend of the Three Kingdoms Brave Battle Warriors/[Huzzah] SD Gundam Legend of the Three Kingdoms Brave Battle Warriors - 43 [33952D9B].mkv
+incomplete/SD Gundam Legend of the Three Kingdoms Brave Battle Warriors/[Huzzah] SD Gundam Legend of the Three Kingdoms Brave Battle Warriors - 44 [A2683087].mkv
 incomplete/SF Saiyuuki Starzinger/[ILA] SF Saiyuuki Starzinger - 06 [65FAA7B3].mkv
 incomplete/SF Saiyuuki Starzinger/[ILA] SF Saiyuuki Starzinger - 07 [6EACF02F].mkv
 incomplete/Saint October/[AoG] Saint October - 14 [8A7C9F10].mkv
@@ -3235,6 +3266,7 @@ incomplete/Star Driver/[gg] Star Driver - 13 [v2][F2BB8E48].mkv
 incomplete/Star Driver/[gg] Star Driver - 14 [v2][B67EEEA4].mkv
 incomplete/Star Driver/[gg] Star Driver - 15 [7A870FC6].mkv
 incomplete/Star Driver/[gg] Star Driver - 16 [7D6C309A].mkv
+incomplete/Star Driver/[gg] Star Driver - 17 [60B0CD8B].mkv
 incomplete/Starry Sky/[SMS] Starry Sky - 01 [2F8DD50A].mkv
 incomplete/Starry Sky/[SMS] Starry Sky - 02 [E7B9CC30].mkv
 incomplete/Starry Sky/[SMS] Starry Sky - 03 [7086BDE7].mkv
@@ -3366,6 +3398,7 @@ incomplete/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 12 
 incomplete/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 13 [720p][181AEEEE].mkv
 incomplete/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 14 [v2 720p][5FEB162A].mkv
 incomplete/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 15 [720p][063FF416].mkv
+incomplete/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 16 [720p][2DB9BB64].mkv
 incomplete/Tono to Issho/[CrunchySubs] Tono to Issho - 01 [720p][09F78AD2].mkv
 incomplete/Tono to Issho/[CrunchySubs] Tono to Issho - 02 [720p][E7ECE8B8].mkv
 incomplete/Tono to Issho/[CrunchySubs] Tono to Issho - 03 [720p][7766D71A].mkv
@@ -3563,12 +3596,14 @@ incomplete/Yes! Pretty Cure 5 Go Go!/[CureCom] Yes! Pretty Cure 5 Go Go! - 04 [D
 incomplete/Yes! Pretty Cure 5 Go Go!/[CureCom] Yes! Pretty Cure 5 Go Go! - 05 [DVD][FD687CB7].mkv
 incomplete/Yes! Pretty Cure 5 Go Go!/[CureCom] Yes! Pretty Cure 5 Go Go! - 06 [DVD][DC2C8AF8].mkv
 incomplete/Yes! Pretty Cure 5 Go Go!/[CureCom] Yes! Pretty Cure 5 Go Go! - 07 [DVD][8CEA54AE].mkv
-incomplete/Yoiko/[anime-rg & ray=out] Yoiko - 01 [BB2B9435].mkv
-incomplete/Yoiko/[anime-rg & ray=out] Yoiko - 02 [F71D9C5E].mkv
-incomplete/Yoiko/[anime-rg & ray=out] Yoiko - 03 [9CE1FC0C].mkv
-incomplete/Yoiko/[anime-rg & ray=out] Yoiko - 04 [CAFF3B9F].mkv
-incomplete/Yoiko/[anime-rg & ray=out] Yoiko - 05 [46822E59].mkv
-incomplete/Yoiko/[anime-rg & ray=out] Yoiko - 06 [293225D7].mkv
+incomplete/Yoiko/[anime-rg ray=out] Yoiko - 01 [BB2B9435].mkv
+incomplete/Yoiko/[anime-rg ray=out] Yoiko - 02 [F71D9C5E].mkv
+incomplete/Yoiko/[anime-rg ray=out] Yoiko - 03 [9CE1FC0C].mkv
+incomplete/Yoiko/[anime-rg ray=out] Yoiko - 04 [CAFF3B9F].mkv
+incomplete/Yoiko/[anime-rg ray=out] Yoiko - 05 [46822E59].mkv
+incomplete/Yoiko/[anime-rg ray=out] Yoiko - 06 [293225D7].mkv
+incomplete/Yoiko/[anime-rg ray=out] Yoiko - 11 [5235DBE9].mkv
+incomplete/Yoiko/[anime-rg ray=out] Yoiko - 12 [6903A862].mkv
 incomplete/Yoshimune/[F-B & Scramble!] Yoshimune - 01 [D6661800].mp4
 incomplete/Yoshimune/[F-B & Scramble!] Yoshimune - 02 [B6EA56DA].mp4
 incomplete/Yoshimune/[F-B & Scramble!] Yoshimune - 03 [244BD028].mp4
@@ -3654,6 +3689,7 @@ incomplete/Yumeiro Patissiere/[Wasurenai] Yumeiro Patissiere - 30 [BD6BCC45].mkv
 incomplete/Yumekui Merry/[gg] Yumekui Merry - 01 [v2][74AA3CCA].mkv
 incomplete/Yumekui Merry/[gg] Yumekui Merry - 02 [3DA5CBEF].mkv
 incomplete/Yumekui Merry/[gg] Yumekui Merry - 03 [D1746EB4].mkv
+incomplete/Yumekui Merry/[gg] Yumekui Merry - 04 [F2574AC7].mkv
 incomplete/Yutori-chan/[Yuurisan-Subs] Yutori-chan - 01 [Webrip][C9838BD2].mkv
 incomplete/Yutori-chan/[Yuurisan-Subs] Yutori-chan - 02 [Webrip][BFE01B68].mkv
 incomplete/Yutori-chan/[Yuurisan-Subs] Yutori-chan - 03 [Webrip][A15F24CC].mkv

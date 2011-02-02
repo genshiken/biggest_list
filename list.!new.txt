@@ -334,7 +334,6 @@
 !new/Ranma (Complete)/Ranma Season 02/[anime_fin]_Ranma_2x20_DVDRiP.avi
 !new/Ranma (Complete)/Ranma Season 02/[anime_fin]_Ranma_2x21_DVDRiP.avi
 !new/Ranma (Complete)/Ranma Season 02/[anime_fin]_Ranma_2x22_DVDRiP.avi
-!new/Ranma (Complete)/Ranma Season 03/[anime_fin]_Ranma_3x01_DVDRiP.avi
 !new/Ranma (Complete)/Ranma Season 03/[anime_fin]_Ranma_3x02_DVDRiP.avi
 !new/Ranma (Complete)/Ranma Season 03/[anime_fin]_Ranma_3x03_DVDRiP.avi
 !new/Ranma (Complete)/Ranma Season 03/[anime_fin]_Ranma_3x04_DVDRiP.avi
@@ -584,46 +583,18 @@
 !new/Tsukuyomi Moon Phase/[mahou] Tsukuyomi Moon Phase - 25 [58F56F03].avi
 !new/Tsukuyomi Moon Phase/[mahou] Tsukuyomi Moon Phase - 26 [End][DVD][8F749B20].avi
 !new/[ACG-ray=out]_DELTORA_QUEST_-_22_[HD][6C5BCD56].mkv
+!new/[AonE]_Haiyoru!_Nyaruani_TV_07_[3AC41A33].mkv
 !new/[Ayako-Shikkaku]_Oniichan_no_Koto_Nanka_Zenzen_Suki_Janain_Dakara_ne_-_04_[H264][720p][70CCA335].mkv
 !new/[Ayako-m.3.3.w]_Mitsudomoe_Zenryouchuu_-_01_[720p][E450D124].mkv
 !new/[Ayako] Infinite Stratos - IS - 04 [H264][720p][192428AB].mkv
 !new/[Ayako]_Infinite_Stratos_-_IS_-_04_[H264][720p][192428AB].mkv
 !new/[BWS]Pocket_Monsters_Best_Wishes_016_Rematch_at_Shippo_Gym!_New_Move_Explosion!![H264_720P][F455F670].mkv
 !new/[BWS]Pocket_Monsters_Best_Wishes_017_The_Roughneck_Who_Came_From_An_Egg![H264_720P][3D4147ED].mkv
-!new/[Coalgirls]_Toradora_01_(704x480_DVD_AAC)_[36993AC6].mkv
-!new/[Coalgirls]_Toradora_02_(704x480_DVD_AAC)_[3FF2C9A7].mkv
-!new/[Coalgirls]_Toradora_03_(704x480_DVD_AAC)_[9EC38000].mkv
-!new/[Coalgirls]_Toradora_04_(704x480_DVD_AAC)_[9AEE94AC].mkv
-!new/[Coalgirls]_Toradora_05_(704x480_DVD_AAC)_[BDA84FCC].mkv
-!new/[Coalgirls]_Toradora_06_(704x480_DVD_AAC)_[89C63E83].mkv
-!new/[Coalgirls]_Toradora_07_(704x480_DVD_AAC)_[6468D3E1].mkv
-!new/[Coalgirls]_Toradora_08_(704x480_DVD_AAC)_[2FA9D681].mkv
-!new/[Coalgirls]_Toradora_09_(704x480_DVD_AAC)_[1FF98F15].mkv
-!new/[Coalgirls]_Toradora_10_(704x480_DVD_AAC)_[7FC1FC93].mkv
-!new/[Coalgirls]_Toradora_11_(704x480_DVD_AAC)_[D1BAE9D7].mkv
-!new/[Coalgirls]_Toradora_12_(704x480_DVD_AAC)_[BFE85AE9].mkv
-!new/[Coalgirls]_Toradora_13_(704x480_DVD_AAC)_[24B82F83].mkv
-!new/[Coalgirls]_Toradora_14_(704x480_DVD_AAC)_[83563051].mkv
-!new/[Coalgirls]_Toradora_15_(704x480_DVD_AAC)_[402F7707].mkv
-!new/[Coalgirls]_Toradora_16_(704x480_DVD_AAC)_[6EC98FAF].mkv
-!new/[Coalgirls]_Toradora_17_(704x480_DVD_AAC)_[12476E77].mkv
-!new/[Coalgirls]_Toradora_18_(704x480_DVD_AAC)_[C1E4D009].mkv
-!new/[Coalgirls]_Toradora_19_(704x480_DVD_AAC)_[D2CF3FE4].mkv
-!new/[Coalgirls]_Toradora_20_(704x480_DVD_AAC)_[9D49CCD2].mkv
-!new/[Coalgirls]_Toradora_21_(704x480_DVD_AAC)_[D2D97DDF].mkv
-!new/[Coalgirls]_Toradora_22_(704x480_DVD_AAC)_[896973A9].mkv
-!new/[Coalgirls]_Toradora_23_(704x480_DVD_AAC)_[DABC38A5].mkv
-!new/[Coalgirls]_Toradora_24_(704x480_DVD_AAC)_[C6371884].mkv
-!new/[Coalgirls]_Toradora_25_(704x480_DVD_AAC)_[D0B55D2C].mkv
-!new/[Coalgirls]_Toradora_ED2_(704x480_DVD_AAC)_[3B65D1E6].mkv
-!new/[Coalgirls]_Toradora_ED_(704x480_DVD_AAC)_[5F5BF1C3].mkv
-!new/[Coalgirls]_Toradora_OP2_(704x480_DVD_AAC)_[6B9FC6DF].mkv
-!new/[Coalgirls]_Toradora_OP_(704x480_DVD_AAC)_[CA478170].mkv
-!new/[Coalgirls]_Toradora_Play_All_(704x480_DVD_AAC)_[3E961777].mkv
 !new/[Commie] Durarara!! - 15 (v2) [40A0EDA5].mkv
 !new/[Commie] Durarara!! - 22 [70CA867C].mkv
 !new/[Commie] Durarara!! - 23 [305AD4D3].mkv
 !new/[Commie] Durarara!! - 24 [2C9996CA].mkv
+!new/[Commie] Houkago no Pleiades [E3E44340].mkv
 !new/[Commie] Motto To Love-ru - 12 [CF50096B].mkv
 !new/[CrunchySubs] Cardfight!! Vanguard - 03 [720p].mkv
 !new/[DGz]_MM!_-_03_[720p][h264_AAC][1E082F98].mkv
@@ -631,10 +602,6 @@
 !new/[Doremi].HeartCatch.PreCure!.48.[1280x720].[B416C3C9].mkv
 !new/[Doremi].HeartCatch.PreCure!.49.[1280x720].[65389408].FINAL.mkv
 !new/[Doutei] Kodomo no Jikan OAD - A Child's Summer Time [472a54b9].mkv
-!new/[Eclipse] Kimi ni Todoke 2nd Season - 00 (1280x720 h264) [9AD4B336].mkv
-!new/[Eclipse] Kimi ni Todoke 2nd Season - 01 (1280x720 h264) [B4A59F91].mkv
-!new/[Eclipse] Kimi ni Todoke 2nd Season - 02 (1280x720 h264) [F7C578D4].mkv
-!new/[Eclipse] Kimi ni Todoke 2nd Season - 03 (1280x720 h264) [E3E204AD].mkv
 !new/[FFFpeeps] Kaichou wa Maid-sama LaLa Special [DVD][480p-AAC][667F3C60].mkv
 !new/[FroZen]_RAINBOW_23_[F2B3C34A].mkv
 !new/[Frostii]_Yuri_Seijin_Naoko-san_[E3C31099].mkv
@@ -657,21 +624,13 @@
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 16 [720p].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 17 [720p].mkv
 !new/[HorribleSubs] Tegami Bachi REVERSE - 42 [720p].mkv
-!new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_37_[F934B6A1].mkv
-!new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_38_[EC104AD4].mkv
-!new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_39_[3F7EEDE0].mkv
-!new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_40_[EBD89054].mkv
-!new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_41_[30C55DCB].mkv
-!new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_42_[2E7DE904].mkv
-!new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_43_[33952D9B].mkv
-!new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_44_[A2683087].mkv
+!new/[Kira-Fansub]_MM!_Episode SS! 02_(BD 1920x1080 h264 AAC) [B5758B19].mkv
+!new/[Kira-Fansub]_MM!_Video Recording_Yuuno Arashiko_(BD 1920x1080 h264 AAC) [946BE977].mkv
 !new/[Kokuhaku]_Tsukiyo_no_Fromage_ch11.rar
 !new/[Licca] A Little Princess Sara Episode 28v2 (h.264) [F6C16C52].mkv
 !new/[Licca] A Little Princess Sara Episode 30 (h.264) [26D39A6D].mkv
 !new/[Licca] A Little Princess Sara Episode 31 (h.264) [03A17B59].mkv
 !new/[Licca] A Little Princess Sara Episode 32 (h.264) [842350F6].mkv
-!new/[LonE]_ClariS_-_Puella_Magi_Madoka_Magica_OP_Single_-_Connect_[w_scans]_(FLAC).rar
-!new/[LonE]_Mizutani_Runa_(NanosizeMir)_-_Rewrite_OP_ED_Single_-_Philosophyz_[w_scans]_(FLAC).rar
 !new/[Nipponsei] Infinite Stratos OP Single - STRAIGHT JET [Kuribayashi Minami].zip
 !new/[Nipponsei] K-ON!! Character Image Songs - Hirasawa Ui [Yonezawa Madoka].zip
 !new/[Nipponsei] K-ON!! Character Image Songs - Manabe Nodoka [Fujitou Chika].zip
@@ -686,6 +645,7 @@
 !new/[Nipponsei] Motto ToLOVEru Character CD4 - Yui & Oshizu [Nazuka Kaori & Noto Mamiko].zip
 !new/[Nipponsei] Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne ED Single - Ari Ari Mirai [Various].zip
 !new/[Nipponsei] Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne OP Single - Taste of Paradise [Kitamura Eri].zip
+!new/[Nipponsei] Ore no Imouto ga Konna ni Kawaii Wake ga nai ED3 ED4 Single - Horaism [Various].zip
 !new/[Nipponsei] Puella Magi Madoka Magica OP Single - Connect [ClariS].zip
 !new/[Nipponsei] Rio -Rainbow Gate!- ED Single - Miracle Chance [ULTRA-PRISM].zip
 !new/[Nipponsei] Rio -Rainbow Gate!- OP Single - Sekai to Issho ni Mawarou yo! [Various].zip
@@ -719,17 +679,10 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
-!new/[Over-Time]_Kamen_Rider_OOO_-_19v2_[5F864FEA].mkv
-!new/[Over-Time]_Kamen_Rider_OOO_-_20_[ED4A7DE4].mkv
-!new/[Over-Time]_Kamen_Rider_OOO_-_20v2_[2BC89318].mkv
 !new/[PCSS] Pretty Cure Splash Star Movie [HDTV 1280x720] [FA74F9D9].mkv
 !new/[ReDone] To Heart ~Remember my Memories~ 13 (DVD) [END] [ADDCB206].mkv
 !new/[ReDone] Touka Gettan - 20 (DVD) [0C9E0B81].mkv
-!new/[RyRo]_Digimon_Xros_Wars_-_23_(1280x720_x264_AAC)_[AA653510].mkv
-!new/[RyRo]_Digimon_Xros_Wars_-_24_(1280x720_x264_AAC)_[01C1C4B9].mkv
-!new/[RyRo]_Inazuma_Eleven_-_115_(1280x720_x264_AAC)_[1EDA5335].mkv
 !new/[Ryuumaru] Hyakka Ryouran Samurai Girls – Special 03 [720p][5E732B07].mkv
-!new/[SHiN-gx] Working!! - 10 [DVD][720x480 AR h.264 AAC][F1F96D88].mkv
 !new/[SMS] Starry Sky - 06 [236958B8].mkv
 !new/[Shamisen] Toradora SOS (h264 848x480 6EDC330B).mkv
 !new/[TMD_A-Destiny]_Bakuman_16_[720p][932DA756].mkv
@@ -973,50 +926,13 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_16_[720p][2DB9BB64].mkv
 !new/[UTW] Amagami - Character Monologue 01 - Morishima Haruka [h264-720p][BD6AE585].mkv
 !new/[UTW] Amagami - Character Monologue 02 - Tanamachi Kaoru [h264-720p][8C1432A5].mkv
 !new/[UTW] Amagami - Character Monologue 03 - Nakata Sae [h264-720p][A8940E7A].mkv
 !new/[UTW] Amagami - Character Monologue 04 - Nanasaki Ai [h264-720p][58256214].mkv
 !new/[UTW] Amagami - Character Monologue 05 - Sakurai Rihoko [h264-720p][27ECE0CB].mkv
 !new/[UTW] Amagami - Character Monologue 06 - Ayatsuji Tsukasa [h264-720p][33C0E77B].mkv
-!new/[UTW]_Fractale_-_03_[h264-720p][FAE7890A].mkv
-!new/[Underwater-Commie] Dragon Crisis! - 03 (720p) [758F6FCB].mkv
-!new/[Underwater-Commie] Dragon Crisis! - 04 (720p) [76C0E849].mkv
-!new/[Underwater-Commie] Kore wa Zombie Desu ka - 04 (720p) [C91FD59D].mkv
-!new/[Underwater-Commie] Kore wa Zombie Desu ka - 03 (720p) [645A4DB6].mkv
-!new/[Victorique]_Gosick_-_03_[h264-720p][6B8BECCB].mkv
-!new/[Victorique]_Gosick_-_04_[h264-720p][A50D6DFB].mkv
-!new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_35_[F8AE886E][HD].mp4
 !new/[Weapon+] Wolverine - 04 [7780F00A].mkv
-!new/[Whine-Subs]_Freezing_-_03_[960x720_x264_AAC][6638EF2E].mkv
-!new/[WhyNot] Freezing - 03 [Censored][9D64799F].mkv
-!new/[WhyNot] Level E - 03 [3CBBF558].mkv
-!new/[Yabai]_To_LOVE-Ru_-_18_[DVD][9D3C7497].mkv
-!new/[Yabai]_To_LOVE-Ru_-_19_[DVD][253548D1].mkv
-!new/[Yabai]_To_LOVE-Ru_-_20_[DVD][FCA61CD4].mkv
-!new/[Yabai]_To_LOVE-Ru_-_21_[DVD][AFD0B13E].mkv
-!new/[Yabai]_To_LOVE-Ru_-_22_[DVD][E5BD0070].mkv
-!new/[Yoroshiku]_Happy_Happy_Clover_-_08_[CA211B6E].mkv
-!new/[anime-rg_-_ray=out]_Yoiko_-_11_[5235DBE9].mkv
-!new/[anime-rg_-_ray=out]_Yoiko_-_12_[6903A862].mkv
-!new/[gg] Puella Magi Madoka Magica - 04 [C2AEF6CA].mkv
-!new/[gg]_Break_Blade_-_3_(1080p)_[9FB589D4].mkv
-!new/[gg]_Break_Blade_-_3_(720p)_[DCC762DA].mkv
-!new/[gg]_Kimi_ni_Todoke_2nd_Season_-_03_[0E1E1259].mkv
-!new/[gg]_Star_Driver_-_17_[60B0CD8B].mkv
-!new/[gg]_Yumekui_Merry_-_04_[F2574AC7].mkv
-!new/[iSiscon]_Faylan_-_FrontWing_LE_FRUIT_DE_LA_GRISAIA_OP_Single_-_Shuumatsu_no_Fractal_[w_scans]_(FLAC).rar
-!new/[iSiscon]_Fujiwara_Marina_-_Yumekui_Merry_OP_Single_-_Daydream_Syndrome_[w_scans]_(FLAC).rar
-!new/[iSiscon]_Hashimoto_Miyuki_-_Hashimoto_Miyuki_5th_Album_Espressivo_[w_scans]_(FLAC).rar
-!new/[iSiscon]_Kuribayashi_Minami_-_Infinite_Stratos_OP_Single_-_STRAIGHT_JET_[w_scans]_(FLAC).rar
-!new/[iSiscon]_Merry_Nightmare_(CV._Sakura_Ayane)_-_Yumekui_Merry_ED_Single_-_Yume_to_Kibou_to_Ashita_no_Atashi_[w_scans]_(FLAC).rar
-!new/[iSiscon]_Nao_-_PSP_Pastel_Chime_Continue_OP_Single_-_Pastel_Chime_[w_scans]_(FLAC).rar
-!new/[iSiscon]_Sakamoto_Maaya_-_Sakamoto_Maaya_7th_Album_You_can't_catch_me_[w_scans]_(FLAC).rar
-!new/[iSiscon]_Takanashi_Nao_(CV._Kitamura_Eri)_-_Oniichan_no_Koto_Nanka_Zenzen_Suki_Janain_Dakara_ne!!_OP_Single_-_Taste_of_Paradise_[w_scans]_(FLAC).rar
-!new/[iSiscon]_Various_Artists_-_GIGA_Baldr_Sky_Vocal_Collection_[w_scans]_(FLAC).rar
-!new/[iSiscon]_Yuujo,_miru_-_Secret_Game_Porable_OP_Single_[w_scans]_(FLAC).rar
-!new/[yibis]_One_Piece_484_[720p][142296D2].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
