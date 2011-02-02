@@ -584,18 +584,20 @@
 !new/Tsukuyomi Moon Phase/[mahou] Tsukuyomi Moon Phase - 26 [End][DVD][8F749B20].avi
 !new/[ACG-ray=out]_DELTORA_QUEST_-_22_[HD][6C5BCD56].mkv
 !new/[AonE]_Haiyoru!_Nyaruani_TV_07_[3AC41A33].mkv
+!new/[AonE_Frostii]_Daa!_Daa!_Daa!_-_67_[DVD][B643E446].mkv
 !new/[Ayako-Shikkaku]_Oniichan_no_Koto_Nanka_Zenzen_Suki_Janain_Dakara_ne_-_04_[H264][720p][70CCA335].mkv
 !new/[Ayako-m.3.3.w]_Mitsudomoe_Zenryouchuu_-_01_[720p][E450D124].mkv
 !new/[Ayako] Infinite Stratos - IS - 04 [H264][720p][192428AB].mkv
 !new/[Ayako]_Infinite_Stratos_-_IS_-_04_[H264][720p][192428AB].mkv
 !new/[BWS]Pocket_Monsters_Best_Wishes_016_Rematch_at_Shippo_Gym!_New_Move_Explosion!![H264_720P][F455F670].mkv
 !new/[BWS]Pocket_Monsters_Best_Wishes_017_The_Roughneck_Who_Came_From_An_Egg![H264_720P][3D4147ED].mkv
+!new/[Coalgirls]_Kiddy_Grade_Movie_II_-_Maelstrom_(960x720_Blu-Ray_FLAC)_[17391355].mkv
 !new/[Commie] Durarara!! - 15 (v2) [40A0EDA5].mkv
 !new/[Commie] Durarara!! - 22 [70CA867C].mkv
 !new/[Commie] Durarara!! - 23 [305AD4D3].mkv
 !new/[Commie] Durarara!! - 24 [2C9996CA].mkv
 !new/[Commie] Houkago no Pleiades [E3E44340].mkv
-!new/[Commie] Motto To Love-ru - 12 [CF50096B].mkv
+!new/[Commie] Motto To Love-Ru - 12 [CF50096B].mkv
 !new/[CrunchySubs] Cardfight!! Vanguard - 03 [720p].mkv
 !new/[DGz]_MM!_-_03_[720p][h264_AAC][1E082F98].mkv
 !new/[DGz]_MM!_-_04_[720p][h264_AAC][65F0D780].mkv
@@ -683,10 +685,21 @@
 !new/[ReDone] To Heart ~Remember my Memories~ 13 (DVD) [END] [ADDCB206].mkv
 !new/[ReDone] Touka Gettan - 20 (DVD) [0C9E0B81].mkv
 !new/[Ryuumaru] Hyakka Ryouran Samurai Girls – Special 03 [720p][5E732B07].mkv
+!new/[SHiN-gx] Candy Boy - EX 01 [DVD][720x480 AR h.264 FLAC][A0F235E7].mkv
+!new/[SHiN-gx] Candy Boy - EX 02 [DVD][720x480 AR h.264 FLAC][78959805].mkv
+!new/[SHiN-gx] Candy Boy - Episode 00 [ONA][DVD][720x480 AR h.264 FLAC][1094F81D].mkv
+!new/[SHiN-gx] Candy Boy - Episode 01 [DVD][720x480 AR h.264 FLAC][94C42547].mkv
+!new/[SHiN-gx] Candy Boy - Episode 02 [DVD][720x480 AR h.264 FLAC][0D5B72CE].mkv
+!new/[SHiN-gx] Candy Boy - Episode 03 [DVD][720x480 AR h.264 FLAC][E050DAF4].mkv
+!new/[SHiN-gx] Candy Boy - Episode 04 [DVD][720x480 AR h.264 FLAC][4B39AACE].mkv
+!new/[SHiN-gx] Candy Boy - Episode 05 [DVD][720x480 AR h.264 FLAC][C22A8CB7].mkv
+!new/[SHiN-gx] Candy Boy - Episode 06 [DVD][720x480 AR h.264 FLAC][A97FC9A8].mkv
+!new/[SHiN-gx] Candy Boy - Episode 07 [FINAL][DVD][720x480 AR h.264 FLAC][D29FCCCB].mkv
+!new/[SHiN-gx] Candy Boy - Music Video 01 - Candy Boy [DVD][720x480 AR h.264 FLAC][11FA338F].mkv
+!new/[SHiN-gx] Candy Boy - Music Video 02 - Koi no Katachi [DVD][720x480 AR h.264 FLAC][682EDA0E].mkv
+!new/[SHiN-gx] Candy Boy - Music Video 03 - Bring up... LOVE [DVD][720x480 AR h.264 FLAC][07F40BCC].mkv
 !new/[SMS] Starry Sky - 06 [236958B8].mkv
 !new/[Shamisen] Toradora SOS (h264 848x480 6EDC330B).mkv
-!new/[TMD_A-Destiny]_Bakuman_16_[720p][932DA756].mkv
-!new/[TMD_A-Destiny]_Bakuman_17_[720p][5BD5B2D7].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -932,7 +945,16 @@
 !new/[UTW] Amagami - Character Monologue 04 - Nanasaki Ai [h264-720p][58256214].mkv
 !new/[UTW] Amagami - Character Monologue 05 - Sakurai Rihoko [h264-720p][27ECE0CB].mkv
 !new/[UTW] Amagami - Character Monologue 06 - Ayatsuji Tsukasa [h264-720p][33C0E77B].mkv
-!new/[Weapon+] Wolverine - 04 [7780F00A].mkv
+!new/[UTW]_Amagami_SS_-_11_[BD][h264-1080p_FLAC][0854A347].mkv
+!new/[UTW]_Amagami_SS_-_12_[BD][h264-1080p_FLAC][8AA1801A].mkv
+!new/[UTW]_Amagami_SS_-_13_[BD][h264-1080p_FLAC][6FEBA9DA].mkv
+!new/[UTW]_Amagami_SS_-_14_[BD][h264-1080p_FLAC][1C8A6FD0].mkv
+!new/[UTW]_Amagami_SS_-_ED3_[BD][h264-1080p_FLAC][9E1B19EA].mkv
+!new/[UTW]_Amagami_SS_-_OP1b_[BD][h264-1080p_FLAC][CA5936B0].mkv
+!new/[UTW]_Amagami_SS_-_OP1c_[BD][h264-1080p_FLAC][9D7A299A].mkv
+!new/[gg]_Kimi_ni_Todoke_2nd_Season_-_04_[3A391A12].mkv
+!new/[iSiscon]_Chata_-_Chata_Works_Best_II_[w_scans]_(FLAC).rar
+!new/[iSiscon]_Various_Artists_-_light_Vocal_Collection_IV_[w_scans]_(FLAC).rar
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
