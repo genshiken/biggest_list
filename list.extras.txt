@@ -57,10 +57,9 @@ extras/Black Rock Shooter/[TMD] Black Rock Shooter - Pilot Edition DVD - 01 (ori
 extras/Black Rock Shooter/[TMD] Black Rock Shooter - Pilot Edition DVD - 02 (2M MIX Miku Hatsune voice Beta) [13F08C35].mkv
 extras/Black Rock Shooter/[TMD] Black Rock Shooter - Pilot Edition DVD - 03 (2M MIX Instrumental) [3AB7A8E0].mkv
 extras/Break Blade 1/[Commie] Break Blade 1 - Trailer [9BCF9FCD].mkv
-extras/Candy Boy/[Frostii] Candy Boy - EX1 [223013AD].mkv
-extras/Candy Boy/[Frostii] Candy Boy - EX2 [67124265].mkv
-extras/Candy Boy/[SHiN-gx] Candy Boy - Bring up LOVE [DVD][62B9CD80].mkv
-extras/Candy Boy/[SHiN-gx] Candy Boy - Koi no KATACHI [DVD][00400C22].mkv
+extras/Candy Boy/[SHiN-gx] Candy Boy - Music Video 1 - Candy Boy [DVD][11FA338F].mkv
+extras/Candy Boy/[SHiN-gx] Candy Boy - Music Video 2 - Koi no Katachi [DVD][682EDA0E].mkv
+extras/Candy Boy/[SHiN-gx] Candy Boy - Music Video 3 - Bring up... LOVE [DVD][07F40BCC].mkv
 extras/Cardcaptor Sakura/[O-A] Cardcaptor Sakura - Leave It to Kero! [5DC9DB9C].ogm
 extras/Code Geass R2/[gg] Code Geass R2 - 09-10 Preview [6880E461].mkv
 extras/Code Geass R2/[schneizelXkannonOTP] Code Geass R2 - Picture Drama 0.923 (1920x1080) [2E02E0E1].mkv
@@ -190,6 +189,7 @@ extras/K-ON!/[Frostii] K-ON! - B-Side Theater - Uaron 4 [BD][ADD4C207].mkv
 extras/K-ON!/[Frostii] K-ON! - B-Side Theater - Uaron 5 [BD][00EEDA20].mkv
 extras/K-ON!/[Frostii] K-ON! - B-Side Theater - Uaron 6 [BD][3BA770E1].mkv
 extras/K-ON!/[Frostii] K-ON! - B-Side Theater - Uaron 7 [BD][9F89E659].mkv
+extras/Kaichou wa Maid-sama/[FFFpeeps] Kaichou wa Maid-sama - LaLa Special [DVD][667F3C60].mkv
 extras/Kampfer/[Commie] Kampfer - Akane Transformation Seq. [1080p BD][53F36CEE].mkv
 extras/Kampfer/[Commie] Kampfer - Entrail Animals Feature (1920x1080) [BD][60B43E9E].mkv
 extras/Kampfer/[Commie] Kampfer - Groping Shizuku Omake [1080p BD][61DC1FD4].mkv
@@ -234,6 +234,8 @@ extras/MM!/[Kira-Fansub] MM! - Ending (Clean) [1080p BD][AC8F1855].mkv
 extras/MM!/[Kira-Fansub] MM! - Hidden Cam [1080p BD][B54A34D7].mkv
 extras/MM!/[Kira-Fansub] MM! - Opening (Clean) [1080p BD][86786FAD].mkv
 extras/MM!/[Kira-Fansub] MM! - SS! 1 [v0 1080p BD][43709DBB].mkv
+extras/MM!/[Kira-Fansub] MM! - SS! 2 [1080p BD][B5758B19].mkv
+extras/MM!/[Kira-Fansub] MM! - Video Recording Yuuno Arashiko [1080p BD][946BE977].mkv
 extras/Macross Frontier/[Trailer] Macross Frontier - The False Songstress (Movie 1) [9FDA8005].mp4
 extras/Magical Pokan/[Froth-Bite] Magical Pokan - Special 1 [C463668F].mp4
 extras/Magical Pokan/[Froth-Bite] Magical Pokan - Special 2 [ECD15E4E].mp4
@@ -337,6 +339,11 @@ extras/Onmyou Taisenki/[RyRo] Onmyou Taisenki - Short Drama - 07 [205E775F].avi
 extras/Onmyou Taisenki/[RyRo] Onmyou Taisenki - Short Drama - 08 [051A78A7].avi
 extras/Onmyou Taisenki/[RyRo] Onmyou Taisenki - Short Drama - 09 [1202194E].avi
 extras/Onmyou Taisenki/[RyRo] Onmyou Taisenki - Short Drama - 10 [7DCB4547].avi
+extras/Onmyou Taisenki/[unknown] Onmyou Taisenki - TV Intro 1 [A8850C2B].avi
+extras/Onmyou Taisenki/[unknown] Onmyou Taisenki - TV Intro 2 [2928ACFB].avi
+extras/Onmyou Taisenki/[unknown] Onmyou Taisenki - TV Intro 3 [56CD3BD0].avi
+extras/Onmyou Taisenki/[unknown] Onmyou Taisenki - TV Intro 4 [62CBEC79].avi
+extras/Onmyou Taisenki/[unknown] Onmyou Taisenki - TV Promo [89F9F502].wmv
 extras/Pandora Hearts/[Hatsuyuki] Pandora Hearts - DVD Special 1 [181EAE27].mp4
 extras/Pandora Hearts/[Hatsuyuki] Pandora Hearts - DVD Special 2 [4B07C642].mp4
 extras/Pandora Hearts/[Hatsuyuki] Pandora Hearts - DVD Special 3 [D7666076].mp4
@@ -439,7 +446,7 @@ extras/Toaru Kagaku no Railgun/[toayuku] Toaru Kagaku no Railgun - Special [215D
 extras/Toaru Majutsu no Index/[Eclipse] Toaru Majutsu no Index-tan - 01 [DEA5FE85].mkv
 extras/Toaru Majutsu no Index/[Eclipse] Toaru Majutsu no Index-tan - 02 [793E4A1F].mkv
 extras/Today in Class 5-2/[SHiN-gx] Today in Class 5-2 - Special - Extra-curricular Class - Turn on the water [DVD][E2212087].mkv
-extras/Toradora!/[Shamisen] Toradora SOS (848x480) [6EDC330B].mkv
+extras/Toradora!/[Shamisen] Toradora SOS [6EDC330B].mkv
 extras/Umi Monogatari/[Hitsuyou] Umi Monogatari - Marin no Kore Naani - 01 [E82004A0].mkv
 extras/Uta Kata/[Spork] Uta Kata - Character Design Gallery + Staff Credits [E873E48F].avi
 extras/Valkyria Chronicles/[gleam] Valkyria Chronicles - Theater 1 - A Day at the Beach [DVD][2CD8A8F0].mkv
