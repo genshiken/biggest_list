@@ -1565,6 +1565,8 @@ complete/c/Candy Boy/[Frostii] Candy Boy - 4 [DVD][1B97EC3E].mkv
 complete/c/Candy Boy/[Frostii] Candy Boy - 5 [DVD][2C488EE8].mkv
 complete/c/Candy Boy/[Frostii] Candy Boy - 6 [DVD][22B8106B].mkv
 complete/c/Candy Boy/[Frostii] Candy Boy - 7 [End][DVD][B54EE181].mkv
+complete/c/Candy Boy/[Frostii] Candy Boy - EX1 [223013AD].mkv
+complete/c/Candy Boy/[Frostii] Candy Boy - EX2 [67124265].mkv
 complete/c/Canvas 2/[Jumonji-Giri] Canvas 2 - 01 [C963A437].mkv
 complete/c/Canvas 2/[Jumonji-Giri] Canvas 2 - 02 [F3DA9F1B].mkv
 complete/c/Canvas 2/[Jumonji-Giri] Canvas 2 - 03 [055909E2].mkv
@@ -9694,10 +9696,10 @@ complete/o/Occult Academy/[Coalgirls] Occult Academy - 05 [1080p BD][67C3380B].m
 complete/o/Occult Academy/[Coalgirls] Occult Academy - 06 [1080p BD][BEB25D96].mkv
 complete/o/Occult Academy/[Coalgirls] Occult Academy - 07 [1080p BD][EB683DE2].mkv
 complete/o/Occult Academy/[Coalgirls] Occult Academy - 08 [1080p BD][964571F5].mkv
+complete/o/Occult Academy/[Coalgirls] Occult Academy - 09 [1080p BD][E0061DBD].mkv
+complete/o/Occult Academy/[Coalgirls] Occult Academy - 10 [1080p BD][3F324F6A].mkv
 complete/o/Occult Academy/[Coalgirls] Occult Academy - Ending (Clean) [1080p BD][34F6B2B0].mkv
 complete/o/Occult Academy/[Coalgirls] Occult Academy - Opening (Clean) [1080p BD][7B63A3C4].mkv
-complete/o/Occult Academy/[Commie] Occult Academy - 09 [AFD94CBF].mkv
-complete/o/Occult Academy/[Commie] Occult Academy - 10 [DB613EC1].mkv
 complete/o/Occult Academy/[Commie] Occult Academy - 11 [97441B18].mkv
 complete/o/Occult Academy/[Commie] Occult Academy - 12 [25CCFCB5].mkv
 complete/o/Occult Academy/[Commie] Occult Academy - 13 [End][5C60CB6B].mkv
@@ -9913,18 +9915,18 @@ complete/o/Ookami-san/[Mazui] Ookami-san - 09 [v2][D4F05F8E].mkv
 complete/o/Ookami-san/[Mazui] Ookami-san - 10 [v2][9D6F6817].mkv
 complete/o/Ookami-san/[Mazui] Ookami-san - 11 [A26657BB].mkv
 complete/o/Ookami-san/[Mazui] Ookami-san - 12 [End][F8E1E04A].mkv
-complete/o/Ookamikakushi/[Formula] Ookamikakushi - 12 [End][9B0A8E11].mkv
-complete/o/Ookamikakushi/[gg] Ookamikakushi - 01 [v2][457E42DF].mkv
-complete/o/Ookamikakushi/[gg] Ookamikakushi - 02 [4A199ADB].mkv
-complete/o/Ookamikakushi/[gg] Ookamikakushi - 03 [621072BE].mkv
-complete/o/Ookamikakushi/[gg] Ookamikakushi - 04 [C067629A].mkv
-complete/o/Ookamikakushi/[gg] Ookamikakushi - 05 [4B8E947A].mkv
-complete/o/Ookamikakushi/[gg] Ookamikakushi - 06 [07DBF83C].mkv
-complete/o/Ookamikakushi/[gg] Ookamikakushi - 07 [A8F7B7E7].mkv
-complete/o/Ookamikakushi/[gg] Ookamikakushi - 08 [42451F99].mkv
-complete/o/Ookamikakushi/[gg] Ookamikakushi - 09 [64FD4DEA].mkv
-complete/o/Ookamikakushi/[gg] Ookamikakushi - 10 [A6526019].mkv
-complete/o/Ookamikakushi/[gg] Ookamikakushi - 11 [CC4DD2EE].mkv
+complete/o/Ookamikakushi/[Formula] Ookamikakushi - 01 [v2 720p][B1CA96A9].mkv
+complete/o/Ookamikakushi/[Formula] Ookamikakushi - 02 [720p][629B5AD6].mkv
+complete/o/Ookamikakushi/[Formula] Ookamikakushi - 03 [720p][B01EAA3F].mkv
+complete/o/Ookamikakushi/[Formula] Ookamikakushi - 04 [720p][B7B2DA71].mkv
+complete/o/Ookamikakushi/[Formula] Ookamikakushi - 05 [720p][4DE4DB9F].mkv
+complete/o/Ookamikakushi/[Formula] Ookamikakushi - 06 [720p][CBD20E81].mkv
+complete/o/Ookamikakushi/[Formula] Ookamikakushi - 07 [v2 720p][36893A0A].mkv
+complete/o/Ookamikakushi/[Formula] Ookamikakushi - 08 [720p][DDB4C4C7].mkv
+complete/o/Ookamikakushi/[Formula] Ookamikakushi - 09 [720p][5990BF1F].mkv
+complete/o/Ookamikakushi/[Formula] Ookamikakushi - 10 [720p][6FD98C5D].mkv
+complete/o/Ookamikakushi/[Formula] Ookamikakushi - 11 [720p][43EBF8D1].mkv
+complete/o/Ookamikakushi/[Formula] Ookamikakushi - 12 [End][720p][9B0A8E11].mkv
 complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 01 [24B59471].mkv
 complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 02 [009A306C].mkv
 complete/o/Ookiku Furikabutte S2/[Saizen] Ookiku Furikabutte S2 - 03 [87FBB42F].mkv
@@ -12842,6 +12844,27 @@ complete/s/Strawberry Panic/[Doremi] Strawberry Panic - 23 [7C12CBDC].mkv
 complete/s/Strawberry Panic/[Doremi] Strawberry Panic - 24 [48F042E4].mkv
 complete/s/Strawberry Panic/[Doremi] Strawberry Panic - 25 [2DA75C05].mkv
 complete/s/Strawberry Panic/[Doremi] Strawberry Panic - 26 [End][C4D63ACF].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - 01 [720p BD][EA8528A1].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - 02 [720p BD][89B70762].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - 03 [720p BD][07598ED3].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - 04 [720p BD][D5D6C724].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - 05 [720p BD][478D2C73].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - 06 [720p BD][D7103648].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - 07 [720p BD][D6E14336].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - 08 [720p BD][248A9D19].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - 09 [720p BD][FAD4CFA7].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - 10 [720p BD][5F59774A].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 10 [720p BD][50431345].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 2 [720p BD][67D2D5ED].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 3 [720p BD][5B518EDB].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 4 [720p BD][4A2CA9A5].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 5 [720p BD][3C32A754].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 6 [720p BD][1113109C].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 7 [720p BD][2C3CE6F4].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 8 [720p BD][6CC695B5].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 9 [720p BD][B30D58D6].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending [720p BD][1C8FB6AF].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Opening [720p BD][A3C3B723].mkv
 complete/s/Strike Witches 2/[Underwater] Strike Witches 2 - 01 (1280x720) [v2][D901D7EE].mkv
 complete/s/Strike Witches 2/[Underwater] Strike Witches 2 - 02 (1280x720) [59BC29E8].mkv
 complete/s/Strike Witches 2/[Underwater] Strike Witches 2 - 03 (1280x720) [7E6B9956].mkv

@@ -57,6 +57,8 @@ extras/Black Rock Shooter/[TMD] Black Rock Shooter - Pilot Edition DVD - 01 (ori
 extras/Black Rock Shooter/[TMD] Black Rock Shooter - Pilot Edition DVD - 02 (2M MIX Miku Hatsune voice Beta) [13F08C35].mkv
 extras/Black Rock Shooter/[TMD] Black Rock Shooter - Pilot Edition DVD - 03 (2M MIX Instrumental) [3AB7A8E0].mkv
 extras/Break Blade 1/[Commie] Break Blade 1 - Trailer [9BCF9FCD].mkv
+extras/Break Blade/[Harth-Shimeji] Break Blade - Picture Drama 1 [v2 720p BD][3C119630].mkv
+extras/Break Blade/[Harth-Shimeji] Break Blade - Picture Drama 2 [720p BD][23D2F823].mkv
 extras/Candy Boy/[SHiN-gx] Candy Boy - Music Video 1 - Candy Boy [DVD][11FA338F].mkv
 extras/Candy Boy/[SHiN-gx] Candy Boy - Music Video 2 - Koi no Katachi [DVD][682EDA0E].mkv
 extras/Candy Boy/[SHiN-gx] Candy Boy - Music Video 3 - Bring up... LOVE [DVD][07F40BCC].mkv
@@ -307,10 +309,19 @@ extras/Neo Angelique - Abyss/[SMS] Neo Angelique - Abyss - Chibi 01 [DVD][F4B3D8
 extras/Neo Angelique - Abyss/[SMS] Neo Angelique - Abyss Chibi - 02 [DVD][C07EA0B7].mkv
 extras/Nurse Witch Komugi-chan Magikarte Z/[No-Subs] Nurse Witch Komugi-chan Magikarte Z - Special 1 [B4854DE3].mkv
 extras/Occult Academy/[Coalgirls] Occult Academy - Special 1 (3D) [1080p BD][8C3D9182].mkv
+extras/Occult Academy/[Coalgirls] Occult Academy - Special 1 [1080p BD][041E7EA1].mkv
 extras/Occult Academy/[Coalgirls] Occult Academy - Special 1 [1080p BD][B7C02673].mkv
 extras/Occult Academy/[Coalgirls] Occult Academy - Special 2 [1080p BD][4655F130].mkv
+extras/Occult Academy/[Coalgirls] Occult Academy - Special 2 [1080p BD][5366FD43].mkv
 extras/Occult Academy/[Coalgirls] Occult Academy - Special 3 [1080p BD][7C1D7592].mkv
+extras/Occult Academy/[Coalgirls] Occult Academy - Special 3 [1080p BD][D1B8E8F6].mkv
 extras/Occult Academy/[Coalgirls] Occult Academy - Special 4 [1080p BD][06EB4730].mkv
+extras/Occult Academy/[Coalgirls] Occult Academy - Special 4 [1080p BD][D56EFF46].mkv
+extras/Occult Academy/[Coalgirls] Occult Academy - Special 5 [1080p BD][BB7E112F].mkv
+extras/Occult Academy/[Harth] Occult Academy - Tsucchi Spin-off - 01 [v2 720p BD][84CB6CE6].mkv
+extras/Occult Academy/[Harth] Occult Academy - Tsucchi Spin-off - 02 [v2 720p BD][1F3D7978].mkv
+extras/Occult Academy/[Harth] Occult Academy - Tsucchi Spin-off - 03 [720p BD][92378EE4].mkv
+extras/Occult Academy/[Harth] Occult Academy - Tsucchi Spin-off - 04 [720p BD][6567151E].mkv
 extras/Onegai Teacher/[niizk] Onegai Teacher - A Prelude [E9E3B0BD].mkv
 extras/Onegai Teacher/[niizk] Onegai Teacher - Marie Love Theater [7C989EB1].mkv
 extras/Onegai Teacher/[niizk] Onegai Teacher - Snow Angel [2643F4B3].mkv
@@ -454,6 +465,7 @@ extras/Yoku Wakaru Gendai Mahou/[CommieSubs] Yoku Wakaru Gendai Mahou - Ending [
 extras/Yoku Wakaru Gendai Mahou/[CommieSubs] Yoku Wakaru Gendai Mahou - Opening [A8E6DD3E].mkv
 extras/Yoku Wakaru Gendai Mahou/[DmonHiro] Yoku Wakaru Gendai Mahou - 00 [736ACFB8].mkv
 extras/Yu Yu Hakusho/[Mamiko] Yu Yu Hakusho - Picture Drama (1280x720) [C752F659].mkv
+extras/Zero no Tsukaima/[Harth] Zero no Tsukaima Character CD1 - Louise and Saito Mini-Drama - The Magical Collar [C01455D0].mkv
 extras/ef - a tale of melodies/[AQS-Anime] ef - a tale of melodies - Prologue [8B8B0D39].mkv
 extras/ef - a tale of melodies/[Seto Otaku] ef - a tale of melodies - Blu-Ray Box Scan Disc - 01 [9690B558].zip
 extras/ef - a tale of memories/[niizk] ef - a tale of memories - Prologue [DVD][4C3CE81F].mkv
