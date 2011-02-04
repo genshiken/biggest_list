@@ -669,16 +669,32 @@
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 166. Dreams Forever! Light Throughout the Sky (v2) [A17C8F85].ogm
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] Sailor Moon SuperS Plus Ami-chan no Hatsukoi R2 DVD(H264.AC3).mkv
 !new/[BWS]Pocket_Monsters_Best_Wishes_018_Yaguruma_Forest!_Kurumiru_and_Arti!![H264_720P][1BCFAE90].mkv
+!new/[Coalgirls]_Occult_Academy_09_(1920x1080_Blu-ray_FLAC)_[E0061DBD].mkv
+!new/[Coalgirls]_Occult_Academy_10_(1920x1080_Blu-ray_FLAC)_[3F324F6A].mkv
+!new/[Coalgirls]_Occult_Academy_SP01_(1920x1080_Blu-ray_FLAC)_[041E7EA1].mkv
+!new/[Coalgirls]_Occult_Academy_SP02_(1920x1080_Blu-ray_FLAC)_[5366FD43].mkv
+!new/[Coalgirls]_Occult_Academy_SP03_(1920x1080_Blu-ray_FLAC)_[D1B8E8F6].mkv
+!new/[Coalgirls]_Occult_Academy_SP04_(1920x1080_Blu-ray_FLAC)_[D56EFF46].mkv
+!new/[Coalgirls]_Occult_Academy_SP05_(1920x1080_Blu-ray_FLAC)_[BB7E112F].mkv
 !new/[Coalgirls]_Strike_Witches_2_01_(1280x720_Blu-Ray_FLAC)_[EA8528A1].mkv
 !new/[Coalgirls]_Strike_Witches_2_02_(1280x720_Blu-Ray_FLAC)_[89B70762].mkv
 !new/[Coalgirls]_Strike_Witches_2_03_(1280x720_Blu-Ray_FLAC)_[07598ED3].mkv
 !new/[Coalgirls]_Strike_Witches_2_04_(1280x720_Blu-Ray_FLAC)_[D5D6C724].mkv
+!new/[Coalgirls]_Strike_Witches_2_05_(1280x720_Blu-Ray_FLAC)_[478D2C73].mkv
+!new/[Coalgirls]_Strike_Witches_2_06_(1280x720_Blu-Ray_FLAC)_[D7103648].mkv
+!new/[Coalgirls]_Strike_Witches_2_09_(1280x720_Blu-Ray_FLAC)_[FAD4CFA7].mkv
+!new/[Coalgirls]_Strike_Witches_2_10_(1280x720_Blu-Ray_FLAC)_[5F59774A].mkv
+!new/[Coalgirls]_Strike_Witches_2_ED10_(1280x720_Blu-Ray_FLAC)_[50431345].mkv
 !new/[Coalgirls]_Strike_Witches_2_ED2_(1280x720_Blu-Ray_FLAC)_[67D2D5ED].mkv
 !new/[Coalgirls]_Strike_Witches_2_ED3_(1280x720_Blu-Ray_FLAC)_[5B518EDB].mkv
 !new/[Coalgirls]_Strike_Witches_2_ED4_(1280x720_Blu-Ray_FLAC)_[4A2CA9A5].mkv
+!new/[Coalgirls]_Strike_Witches_2_ED5_(1280x720_Blu-Ray_FLAC)_[3C32A754].mkv
+!new/[Coalgirls]_Strike_Witches_2_ED6_(1280x720_Blu-Ray_FLAC)_[1113109C].mkv
+!new/[Coalgirls]_Strike_Witches_2_ED9_(1280x720_Blu-Ray_FLAC)_[B30D58D6].mkv
 !new/[Coalgirls]_Strike_Witches_2_ED_(1280x720_Blu-Ray_FLAC)_[1C8FB6AF].mkv
 !new/[Coalgirls]_Strike_Witches_2_OP_(1280x720_Blu-Ray_FLAC)_[A3C3B723].mkv
 !new/[Doremi].HeartCatch.PreCure!.47.[1280x720].[C0424E65].mkv
+!new/[FroZen]_RAINBOW_24_[033A96E1].mkv
 !new/[Frostii]_Candy_Boy_-_EX1_[223013AD].mkv
 !new/[Frostii]_Candy_Boy_-_EX2_[67124265].mkv
 !new/[Harth-Seto]_Break_Blade_Picture_Drama_2_[BD_1920x1080_x264_FLAC][A43C7EBC].mkv
@@ -713,6 +729,7 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
+!new/[SHiN-gx] Working!! - 11 [DVD][720x480 AR h.264 AAC][C14367B1].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
