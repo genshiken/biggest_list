@@ -198,6 +198,8 @@
 !new/.broken/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.mkv
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
 !new/.now
+!new/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.mkv
+!new/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.srt
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
@@ -668,6 +670,7 @@
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 165. Time for the Crystal to Shine! Beautiful Power of Dreams (v2) [243AEA50].ogm
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 166. Dreams Forever! Light Throughout the Sky (v2) [A17C8F85].ogm
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] Sailor Moon SuperS Plus Ami-chan no Hatsukoi R2 DVD(H264.AC3).mkv
+!new/[Ayako]_Infinite_Stratos_-_IS_-_05_[H264][720p][1FA14D41].mkv
 !new/[BWS]Pocket_Monsters_Best_Wishes_018_Yaguruma_Forest!_Kurumiru_and_Arti!![H264_720P][1BCFAE90].mkv
 !new/[Coalgirls]_Occult_Academy_09_(1920x1080_Blu-ray_FLAC)_[E0061DBD].mkv
 !new/[Coalgirls]_Occult_Academy_10_(1920x1080_Blu-ray_FLAC)_[3F324F6A].mkv
@@ -728,6 +731,10 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
+!new/[RyRo]_Digimon_Xros_Wars_-_25_(1280x720_x264_AAC)_[D690868A].mkv
+!new/[SD]_Igano_Kabamaru_-_01_[DEADBEEF].mkv
+!new/[SD]_Igano_Kabamaru_-_03_[DEADBEEF].mkv
+!new/[SMS] Starry Sky - 07 [6F1EFE8C].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -967,7 +974,11 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[UTW]_Fractale_-_04_[h264-720p][BE4B9022].mkv
 !new/[gg]_Puella_Magi_Madoka_Magica_-_05_[241844ED].mkv
+!new/[gg]_Yumekui_Merry_-_05_[FC96B5E4].mkv
+!new/[umee]_Wandering_Son_-_04_[F3DED1CD].mkv
+!new/[yibis]_One_Piece_485_[720p][9AF58A2F].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
