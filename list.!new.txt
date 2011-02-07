@@ -741,28 +741,28 @@
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 165. Time for the Crystal to Shine! Beautiful Power of Dreams (v2) [243AEA50].ogm
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 166. Dreams Forever! Light Throughout the Sky (v2) [A17C8F85].ogm
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] Sailor Moon SuperS Plus Ami-chan no Hatsukoi R2 DVD(H264.AC3).mkv
-!new/Strawberry 100% - 01 [ReDone-MDC][DVD][H264 FLAC][C04CEFE8].mkv
-!new/Strawberry 100% - 02 [ReDone-MDC][DVD][H264 FLAC][A4CFE6C5].mkv
-!new/Strawberry 100% - 03 [ReDone-MDC][DVD][H264 FLAC][048D0A7A].mkv
-!new/Strawberry 100% - 04 [ReDone-MDC][DVD][H264 FLAC][428A9274].mkv
-!new/Strawberry 100% - 05 [ReDone-MDC][DVD][H264 FLAC][A873798D].mkv
-!new/Strawberry 100% - 06 [ReDone-MDC][DVD][H264 FLAC][843DE112].mkv
-!new/Strawberry 100% - 07 [ReDone-MDC][DVD][H264 FLAC][819A1B02].mkv
-!new/Strawberry 100% - 08 [ReDone-MDC][DVD][H264 FLAC][45890B39].mkv
-!new/Strawberry 100% - 09 [ReDone-MDC][DVD][H264 FLAC][5185906A].mkv
-!new/Strawberry 100% - 10 [ReDone-MDC][DVD][H264 FLAC][826A55D0].mkv
-!new/Strawberry 100% - 10.5 [ReDone-MDC][DVD][H264 FLAC][DF1CA268].mkv
-!new/Strawberry 100% - 11 [ReDone-MDC][DVD][H264 FLAC][62E4CB7E].mkv
-!new/Strawberry 100% - 12 [ReDone-MDC][DVD][H264 FLAC][1BEE4197].mkv
-!new/Strawberry 100% - NCED [ReDone-MDC][DVD][H264 FLAC][96B79D02].mkv
-!new/Strawberry 100% - NCED-ALT [ReDone-MDC][DVD][H264 FLAC][A3C7007E].mkv
-!new/Strawberry 100% - NCOP [ReDone-MDC][DVD][H264 FLAC][4BCDD63A].mkv
 !new/Strawberry 100% - OVA 00 Jump Festival 2004 [ReDone-MDC][DVD][H264 FLAC][0A381327].mkv
 !new/Strawberry 100% - OVA 01 [ReDone-MDC][DVD][H264 AC3][6013AE83].mkv
 !new/Strawberry 100% - OVA 02 [ReDone-MDC][DVD][H264 AC3][2FDF3F02].mkv
 !new/Strawberry 100% - OVA 03 [ReDone-MDC][DVD][H264 AC3][D0B6E19E].mkv
 !new/Strawberry 100% - OVA 04 [ReDone-MDC][DVD][H264 AC3][E7F2A7D4].mkv
 !new/Strawberry 100% - OVA NCOP [ReDone-MDC][DVD][H264 FLAC][9F6D23F2].mkv
+!new/Strawberry 100%/Strawberry 100% - 01 [ReDone-MDC][DVD][H264 FLAC][C04CEFE8].mkv
+!new/Strawberry 100%/Strawberry 100% - 02 [ReDone-MDC][DVD][H264 FLAC][A4CFE6C5].mkv
+!new/Strawberry 100%/Strawberry 100% - 03 [ReDone-MDC][DVD][H264 FLAC][048D0A7A].mkv
+!new/Strawberry 100%/Strawberry 100% - 04 [ReDone-MDC][DVD][H264 FLAC][428A9274].mkv
+!new/Strawberry 100%/Strawberry 100% - 05 [ReDone-MDC][DVD][H264 FLAC][A873798D].mkv
+!new/Strawberry 100%/Strawberry 100% - 06 [ReDone-MDC][DVD][H264 FLAC][843DE112].mkv
+!new/Strawberry 100%/Strawberry 100% - 07 [ReDone-MDC][DVD][H264 FLAC][819A1B02].mkv
+!new/Strawberry 100%/Strawberry 100% - 08 [ReDone-MDC][DVD][H264 FLAC][45890B39].mkv
+!new/Strawberry 100%/Strawberry 100% - 09 [ReDone-MDC][DVD][H264 FLAC][5185906A].mkv
+!new/Strawberry 100%/Strawberry 100% - 10 [ReDone-MDC][DVD][H264 FLAC][826A55D0].mkv
+!new/Strawberry 100%/Strawberry 100% - 10.5 [ReDone-MDC][DVD][H264 FLAC][DF1CA268].mkv
+!new/Strawberry 100%/Strawberry 100% - 11 [ReDone-MDC][DVD][H264 FLAC][62E4CB7E].mkv
+!new/Strawberry 100%/Strawberry 100% - 12 [ReDone-MDC][DVD][H264 FLAC][1BEE4197].mkv
+!new/Strawberry 100%/Strawberry 100% - NCED [ReDone-MDC][DVD][H264 FLAC][96B79D02].mkv
+!new/Strawberry 100%/Strawberry 100% - NCED-ALT [ReDone-MDC][DVD][H264 FLAC][A3C7007E].mkv
+!new/Strawberry 100%/Strawberry 100% - NCOP [ReDone-MDC][DVD][H264 FLAC][4BCDD63A].mkv
 !new/[ANBU]_Astro_Fighter_Sunred_49_[64FE6B48].mkv
 !new/[ANBU]_Dragon_Quest_-_06_[2E1F0C2F].mkv
 !new/[Coalgirls]_Kiddy_Grade_Movie_III_-_Truth_Dawn_(960x720_Blu-Ray_FLAC)_[90D00827].mkv
@@ -797,6 +797,8 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
+!new/[RandomRemux] Gosick - 05 [1280x720][F9228DD2].mkv
+!new/[RyRo]_Inazuma_Eleven_-_116_(1280x720_x264_AAC)_[334C33F7].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -1037,6 +1039,9 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[UTW-Mazui] Toaru Majutsu no Index II - 01-03 BD Font Patch.zip
+!new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_39_[071AC798][HD].mp4
+!new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_40_[E2DB17D5][HD].mp4
+!new/[WhyNot] Freezing - 05 [Uncensored][B6473199].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
