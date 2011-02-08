@@ -316,7 +316,6 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
-!new/Detective Conan - 603 [DCTP][720p][281B97D6].mp4
 !new/Digimon tamers/Digimon Tamers Episode 10 (Subbed By PositronCannon).avi
 !new/Digimon tamers/Digimon Tamers Episode 11 (Subbed By PositronCannon).avi
 !new/Digimon tamers/Digimon Tamers Episode 12 (Subbed By PositronCannon).avi
@@ -463,29 +462,6 @@
 !new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_114_[0AECA4CF].mp4
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].ENG.srt
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].avi
-!new/Lupin III Series 1 - 01 - Lupin is Burning [neo1024][31DB9FD8].mkv
-!new/Lupin III Series 1 - 02 - The Man They Call a Magician [neo1024][E3E5178E].mkv
-!new/Lupin III Series 1 - 03 - Farewell My Beloved Witch [neo1024][47EB56AF].mkv
-!new/Lupin III Series 1 - 04 - One Chance for a Prison Break [neo1024][CFED019D].mkv
-!new/Lupin III Series 1 - 05 - Introducing Goemon the 13th [neo1024][9D500BAC].mkv
-!new/Lupin III Series 1 - 06 - Danger of a Rainy Afternoon [neo1024][B0FBECCA].mkv
-!new/Lupin III Series 1 - 07 - A Wolf is a Wolf [neo1024][7A4EC76A].mkv
-!new/Lupin III Series 1 - 08 - Everyone Meets Again, the Trump Plan [neo1024][E6ED83FB].mkv
-!new/Lupin III Series 1 - 09 - An Assassin Sings the Blues [neo1024][D6E03FB7].mkv
-!new/Lupin III Series 1 - 10 - Target the Counterfeit Money Maker [neo1024][04175B09].mkv
-!new/Lupin III Series 1 - 11 - When the Seventh Bridge Falls [neo1024][650CD724].mkv
-!new/Lupin III Series 1 - 12 - Who's the Last one to Laugh [neo1024][0164DCA6].mkv
-!new/Lupin III Series 1 - 13 - Beware the Time Machine! [neo1024][F7EF78B6].mkv
-!new/Lupin III Series 1 - 14 - The Emerald's Secret [neo1024][58541DF6].mkv
-!new/Lupin III Series 1 - 15 - Let's Catch Lupin and Go to Europe [neo1024][7FDB03E7].mkv
-!new/Lupin III Series 1 - 16 - Operation Jewel Snatch [neo1024][B9D80F17].mkv
-!new/Lupin III Series 1 - 17 - Lupin Caught in a Trap [neo1024][67EA236F].mkv
-!new/Lupin III Series 1 - 18 - Keep an Eye on the Beauty Contest [neo1024][8ACEF218].mkv
-!new/Lupin III Series 1 - 19 - Which of the Third Generation Will Win [neo1024][F64B15EB].mkv
-!new/Lupin III Series 1 - 20 - Catch the Phony Lupin! [neo1024][577717F2].mkv
-!new/Lupin III Series 1 - 21 - Rescue the Tomboy! [neo1024][FC1DDBC7].mkv
-!new/Lupin III Series 1 - 22 - The First Move Wins Computer Operation! [neo1024][999020B7].mkv
-!new/Lupin III Series 1 - 23 - The Great Gold Showdown! [neo1024][C0F0A849].mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
@@ -764,33 +740,10 @@
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 165. Time for the Crystal to Shine! Beautiful Power of Dreams (v2) [243AEA50].ogm
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 166. Dreams Forever! Light Throughout the Sky (v2) [A17C8F85].ogm
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] Sailor Moon SuperS Plus Ami-chan no Hatsukoi R2 DVD(H264.AC3).mkv
-!new/Strawberry 100% OVA/Strawberry 100% - OVA 00 Jump Festival 2004 [ReDone-MDC][DVD][H264 FLAC][0A381327].mkv
-!new/Strawberry 100% OVA/Strawberry 100% - OVA 01 [ReDone-MDC][DVD][H264 AC3][6013AE83].mkv
-!new/Strawberry 100% OVA/Strawberry 100% - OVA 02 [ReDone-MDC][DVD][H264 AC3][2FDF3F02].mkv
-!new/Strawberry 100% OVA/Strawberry 100% - OVA 03 [ReDone-MDC][DVD][H264 AC3][D0B6E19E].mkv
-!new/Strawberry 100% OVA/Strawberry 100% - OVA 04 [ReDone-MDC][DVD][H264 AC3][E7F2A7D4].mkv
-!new/Strawberry 100% OVA/Strawberry 100% - OVA NCOP [ReDone-MDC][DVD][H264 FLAC][9F6D23F2].mkv
-!new/[66]_Kara_no_Kyoukai_-_4_(720p,BluRay)_[8A24AC6C].mkv
-!new/[ANBU]_Astro_Fighter_Sunred_49_[64FE6B48].mkv
-!new/[ANBU]_Dragon_Quest_-_06_[2E1F0C2F].mkv
 !new/[Coalgirls]_Kiddy_Grade_Movie_III_-_Truth_Dawn_(960x720_Blu-Ray_FLAC)_[90D00827].mkv
 !new/[Coalgirls]_Kiddy_Grade_Movie_II_-_Maelstrom_(960x720_Blu-Ray_FLAC)_[05DC1194].mkv
-!new/[Coalgirls]_Kiddy_Grade_Movie_I_-_Ignition_(960x720_Blu-Ray_FLAC)_[40B97392].mkv.part
-!new/[Doremi-CureCom].Suite.PreCure!.01.[1280x720].[979152CB].mkv
-!new/[Doremi].Motto.Ojamajo.Doremi.39.[3F8F7EE6].avi
 !new/[Fnolli] .​hack⁄⁄Quantum - 01 [29937DBF].mkv
-!new/[FroZen]_RAINBOW_25_[AEE2B7E8].mkv
-!new/[GotWoot]_Moonlight_Mile_S2_-_08_[720p_H264_AAC5.1][3867EE72].mkv
-!new/[GotWoot]_Onii-chan_no_Koto_..._05_[720p][99714E55].mkv
-!new/[HorribleSubs] Fairy Tail - 65 [720p].mkv
-!new/[HorribleSubs] Level E - 05 [720p].mkv
-!new/[HorribleSubs] Lilpri - 44 [720p].mkv
-!new/[HorribleSubs] Mitsudomoe 2 - 05 [720p].mkv
-!new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 18 [720p].mkv
-!new/[HorribleSubs] Tegami Bachi REVERSE - 43 [720p].mkv
-!new/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 33 [H264 1280x720] [7D89A74D].mkv
-!new/[Lambda-Delta]_Loups=Garous_v2_[1080p][H264_FLAC][6999F9D5].mkv
-!new/[Licca] A Little Princess Sara Episode 35 (h.264) [3AC5FE74].mkv
+!new/[Licca] A Little Princess Sara Episode 34 (h.264) [65DBA6EA].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -814,9 +767,6 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
-!new/[RandomRemux] Gosick - 05 [1280x720][F9228DD2].mkv
-!new/[RyRo]_Inazuma_Eleven_-_116_(1280x720_x264_AAC)_[334C33F7].mkv
-!new/[SS] Infinite Stratos - 04 (1280x720 h264) [97A3833A].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -1056,13 +1006,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[UTW-Mazui] Toaru Majutsu no Index II - 01-03 BD Font Patch.zip
-!new/[Victorique]_Gosick_-_05_[h264-720p][48A2CC96].mkv
-!new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_39_[071AC798][HD].mp4
-!new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_40_[E2DB17D5][HD].mp4
-!new/[WhyNot] Freezing - 05 [Uncensored][B6473199].mkv
-!new/[WhyNot] Freezing - 05v2 [Uncensored][4A3AB306].mkv
-!new/[gg]_Star_Driver_-_18_[C0AA03F9].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx

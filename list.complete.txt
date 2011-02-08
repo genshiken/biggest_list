@@ -7055,6 +7055,7 @@ complete/k/Kemono no Souja Erin/[SS] Kemono no Souja Erin - 47 (1280x720) [FA656
 complete/k/Kemono no Souja Erin/[SS] Kemono no Souja Erin - 48 (1280x720) [A998b576].mkv
 complete/k/Kemono no Souja Erin/[SS] Kemono no Souja Erin - 49 (1280x720) [1893A177].mkv
 complete/k/Kemono no Souja Erin/[SS] Kemono no Souja Erin - 50 (1280x720) [End][6B48D462].mkv
+complete/k/Kemono to Chat/[uguu~] Kemono to Chat [8494B871].mkv
 complete/k/Kenichi/[umai-Doremi] Kenichi - 01 [82CCD415].avi
 complete/k/Kenichi/[umai-Doremi] Kenichi - 02 [895767EB].avi
 complete/k/Kenichi/[umai-Doremi] Kenichi - 03 [6C0F67AB].avi
@@ -7867,6 +7868,29 @@ complete/l/Lucky Star/[Exiled-Destiny] Lucky Star - 22 [832A607E].mkv
 complete/l/Lucky Star/[Exiled-Destiny] Lucky Star - 23 [AE06ABFB].mkv
 complete/l/Lucky Star/[Exiled-Destiny] Lucky Star - 24 [End][2A8D2922].mkv
 complete/l/Lupin III vs Detective Conan/[Frostii-DCTP] Lupin III vs Detective Conan (1280x720) [BD][07CEE0B0].mkv
+complete/l/Lupin III/[neo1024] Lupin III - 01 [31DB9FD8].mkv
+complete/l/Lupin III/[neo1024] Lupin III - 02 [E3E5178E].mkv
+complete/l/Lupin III/[neo1024] Lupin III - 03 [47EB56AF].mkv
+complete/l/Lupin III/[neo1024] Lupin III - 04 [CFED019D].mkv
+complete/l/Lupin III/[neo1024] Lupin III - 05 [9D500BAC].mkv
+complete/l/Lupin III/[neo1024] Lupin III - 06 [B0FBECCA].mkv
+complete/l/Lupin III/[neo1024] Lupin III - 07 [7A4EC76A].mkv
+complete/l/Lupin III/[neo1024] Lupin III - 08 [E6ED83FB].mkv
+complete/l/Lupin III/[neo1024] Lupin III - 09 [D6E03FB7].mkv
+complete/l/Lupin III/[neo1024] Lupin III - 10 [04175B09].mkv
+complete/l/Lupin III/[neo1024] Lupin III - 11 [650CD724].mkv
+complete/l/Lupin III/[neo1024] Lupin III - 12 [0164DCA6].mkv
+complete/l/Lupin III/[neo1024] Lupin III - 13 [F7EF78B6].mkv
+complete/l/Lupin III/[neo1024] Lupin III - 14 [58541DF6].mkv
+complete/l/Lupin III/[neo1024] Lupin III - 15 [7FDB03E7].mkv
+complete/l/Lupin III/[neo1024] Lupin III - 16 [B9D80F17].mkv
+complete/l/Lupin III/[neo1024] Lupin III - 17 [67EA236F].mkv
+complete/l/Lupin III/[neo1024] Lupin III - 18 [8ACEF218].mkv
+complete/l/Lupin III/[neo1024] Lupin III - 19 [F64B15EB].mkv
+complete/l/Lupin III/[neo1024] Lupin III - 20 [577717F2].mkv
+complete/l/Lupin III/[neo1024] Lupin III - 21 [FC1DDBC7].mkv
+complete/l/Lupin III/[neo1024] Lupin III - 22 [999020B7].mkv
+complete/l/Lupin III/[neo1024] Lupin III - 23 [End][C0F0A849].mkv
 complete/m/MAR/[SS-AnY] MAR - 001 [CF574390].avi
 complete/m/MAR/[SS-AnY] MAR - 002 [CD32DFF0].avi
 complete/m/MAR/[SS-AnY] MAR - 003 [756DDA2E].avi
@@ -12861,6 +12885,12 @@ complete/s/Stratos 4/[HQA & R-B] Stratos 4 - 10 [D4074979].avi
 complete/s/Stratos 4/[HQA & R-B] Stratos 4 - 11 [25BCF833].avi
 complete/s/Stratos 4/[HQA & R-B] Stratos 4 - 12 [D3701373].avi
 complete/s/Stratos 4/[HQA & R-B] Stratos 4 - 13 [End][4CF39BE6].avi
+complete/s/Strawberry 100% OVA/[ReDone-MDC] Strawberry 100% OVA - 0 [DVD][0A381327].mkv
+complete/s/Strawberry 100% OVA/[ReDone-MDC] Strawberry 100% OVA - 1 [DVD][6013AE83].mkv
+complete/s/Strawberry 100% OVA/[ReDone-MDC] Strawberry 100% OVA - 2 [DVD][2FDF3F02].mkv
+complete/s/Strawberry 100% OVA/[ReDone-MDC] Strawberry 100% OVA - 3 [DVD][D0B6E19E].mkv
+complete/s/Strawberry 100% OVA/[ReDone-MDC] Strawberry 100% OVA - 4 [DVD][E7F2A7D4].mkv
+complete/s/Strawberry 100% OVA/[ReDone-MDC] Strawberry 100% OVA - Opening (Clean) [DVD][9F6D23F2].mkv
 complete/s/Strawberry 100%/[ReDone-MDC] Strawberry 100% - 01 [DVD][C04CEFE8].mkv
 complete/s/Strawberry 100%/[ReDone-MDC] Strawberry 100% - 02 [DVD][A4CFE6C5].mkv
 complete/s/Strawberry 100%/[ReDone-MDC] Strawberry 100% - 03 [DVD][048D0A7A].mkv

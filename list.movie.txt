@@ -83,6 +83,7 @@ movie/Inuyasha/[BluDragon] Inuyasha - Movie 3 [DVD][729CFBDD].mkv
 movie/Inuyasha/[BluDragon] Inuyasha - Movie 4 [DVD][ED7FAAFB].mkv
 movie/Junkers Come Here/[niizk] Junkers Come Here [DBAC403C].mkv
 movie/Kaiketsu Zorori/[Alopex] Kaiketsu Zorori [6C93DF0F].mkv
+movie/Kara no Kyoukai/[66] Kara no Kyoukai - Chapter 4 - Void Shrine [720p BD][8A24AC6C].mkv
 movie/Kara no Kyoukai/[66] Kara no Kyoukai - Epilogue [4B3A8EDF].mkv
 movie/Kara no Kyoukai/[gg-TakaJun] Kara no Kyoukai - Chapter 1 - Overlooking View [v2][3F2E8FEA].mkv
 movie/Kara no Kyoukai/[gg-TakaJun] Kara no Kyoukai - Chapter 2 - Murder Study (Part 1) [v2][665EB12C].mkv
@@ -102,8 +103,8 @@ movie/King of Thorn/[AtsA] King of Thorn [1080p BD][E24433DB].mkv
 movie/Kino no Tabi/[niizk] Kino no Tabi - Movie 1 - Life Goes On [66C0CDD2].mkv
 movie/Kino no Tabi/[niizk] Kino no Tabi - Movie 2 - The Country of Illness - For You [66B947E6].mkv
 movie/Literature Girl/[Monokage] Literature Girl [1080p BD][5A0B3B7B].mkv
-movie/Loups=Garous/[Harth] Loups=Garous - Picture Drama [720p BD][1125FE85].mkv
 movie/Loups=Garous/[Lambda-Delta] Loups=Garous [720p][DB081F1C].mkv
+movie/Loups=Garous/[Lambda-Delta] Loups=Garous [v2 1080p][6999F9D5].mkv
 movie/Love Hina Spring Movie/[KAA] Love Hina Spring Movie [DVD][866F2857].avi
 movie/Love Hina/[KAA] Love Hina - Spring Movie [DVD][866F2857].avi
 movie/Lupin III - First Contact/[COR] Lupin III - First Contact [3DA567E4].mkv
