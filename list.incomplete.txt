@@ -17,7 +17,9 @@ incomplete/A Little Princess Sara/[Licca] A Little Princess Sara - 30 [26D39A6D]
 incomplete/A Little Princess Sara/[Licca] A Little Princess Sara - 31 [03A17B59].mkv
 incomplete/A Little Princess Sara/[Licca] A Little Princess Sara - 32 [842350F6].mkv
 incomplete/A Little Princess Sara/[Licca] A Little Princess Sara - 33 [F05192E3].mkv
+incomplete/A Little Princess Sara/[Licca] A Little Princess Sara - 34 [65DBA6EA].mkv
 incomplete/A Little Princess Sara/[Licca] A Little Princess Sara - 35 [3AC5FE74].mkv
+incomplete/A Little Princess Sara/[Licca] A Little Princess Sara - 37 [B2E00885].mkv
 incomplete/Akahori Gedou Hour Rabuge/[Himitsu] Akahori Gedou Hour Rabuge - 01 [D44052C2].avi
 incomplete/Akahori Gedou Hour Rabuge/[Himitsu] Akahori Gedou Hour Rabuge - 02 [46D00799].avi
 incomplete/Akahori Gedou Hour Rabuge/[Himitsu] Akahori Gedou Hour Rabuge - 03 [4B415EBF].avi
@@ -1434,6 +1436,7 @@ incomplete/Infinite Stratos - IS/[SS] Infinite Stratos - 01 [720p][CFA91117].mkv
 incomplete/Infinite Stratos - IS/[SS] Infinite Stratos - 02 [720p][90008EDD].mkv
 incomplete/Infinite Stratos - IS/[SS] Infinite Stratos - 03 [720p][5B66CCE8].mkv
 incomplete/Infinite Stratos - IS/[SS] Infinite Stratos - 04 [720p][97A3833A].mkv
+incomplete/Infinite Stratos - IS/[SS] Infinite Stratos - 05 [720p][AEFCD7C5].mkv
 incomplete/Initial D Battle Stage/[Shinsen-Subs] Initial D Battle Stage - 2 [End][B54855AA].mkv
 incomplete/Iron Man/[Force-Works] Iron Man - 01 [A66813DB].mkv
 incomplete/Iron Man/[Force-Works] Iron Man - 02 [2D05AB2F].mkv
@@ -1813,6 +1816,7 @@ incomplete/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 01 [v2][09
 incomplete/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 02 [5D0399FB].mkv
 incomplete/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 03 [0E1E1259].mkv
 incomplete/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 04 [3A391A12].mkv
+incomplete/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 05 [82E898A1].mkv
 incomplete/Kindaichi Shounen no Jikenbo/[KAW] Kindaichi Shounen no Jikenbo - 014 [v2][11549416].avi
 incomplete/Kindaichi Shounen no Jikenbo/[KAW] Kindaichi Shounen no Jikenbo - 015 [E50A69A9].avi
 incomplete/Kindaichi Shounen no Jikenbo/[KnKF] Kindaichi Shounen no Jikenbo - 001 [F4CA2C89].avi
@@ -1903,8 +1907,10 @@ incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 34 [164A15A5].mp4
 incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 35 [F8AE886E].mp4
 incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 36 [1E647797].mp4
 incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 37 [19B4E3CD].mp4
+incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 38 [F155DDA9].mp4
 incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 39 [071AC798].mp4
 incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 40 [E2DB17D5].mp4
+incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 41 [0BF1B76E].mp4
 incomplete/Les Miserables/[ureshii-Yoroshiku] Les Miserables - 01 [720p][06328391].mkv
 incomplete/Les Miserables/[ureshii-Yoroshiku] Les Miserables - 02 [720p][831B1591].mkv
 incomplete/Les Miserables/[ureshii-Yoroshiku] Les Miserables - 03 [720p][B88097B1].mkv
@@ -1927,6 +1933,11 @@ incomplete/Letter Bee Reverse/[HorribleSubs] Letter Bee Reverse - 16 [720p][C5AD
 incomplete/Letter Bee Reverse/[HorribleSubs] Letter Bee Reverse - 17 [720p][D62381D2].mkv
 incomplete/Letter Bee Reverse/[HorribleSubs] Letter Bee Reverse - 18 [720p][0339AF27].mkv
 incomplete/Letter Bee Reverse/[Mochi] Letter Bee Reverse - 01 [720p][427A29A0].mkv
+incomplete/Level E/[Commie] Level E - 01 [D82DB09D].mkv
+incomplete/Level E/[Commie] Level E - 02 [7C6BFFDE].mkv
+incomplete/Level E/[Commie] Level E - 03 [4C8BB730].mkv
+incomplete/Level E/[Commie] Level E - 04 [34CDC87A].mkv
+incomplete/Level E/[Commie] Level E - 05 [F18D788C].mkv
 incomplete/Level E/[HorribleSubs] Level E - 01 [720p][0389C449].mkv
 incomplete/Level E/[HorribleSubs] Level E - 02 [720p][8C4A5EC5].mkv
 incomplete/Level E/[HorribleSubs] Level E - 03 [720p][26596640].mkv
