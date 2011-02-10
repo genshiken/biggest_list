@@ -139,6 +139,8 @@
 !new/.now
 !new/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.mkv
 !new/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.srt
+!new/Appleseed_Ex_Machina_(2007)_[1080p,BluRay,x264]_-_THORA.mkv
+!new/Appleseed_Ex_Machina_(2007)_[1080p,BluRay,x264]_Sample_-_THORA.mkv
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
@@ -567,10 +569,12 @@
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 165. Time for the Crystal to Shine! Beautiful Power of Dreams (v2) [243AEA50].ogm
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 166. Dreams Forever! Light Throughout the Sky (v2) [A17C8F85].ogm
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] Sailor Moon SuperS Plus Ami-chan no Hatsukoi R2 DVD(H264.AC3).mkv
+!new/Yui Horie - Immoralist.DVD-Bakazooka.mkv
 !new/[Coalgirls]_Kiddy_Grade_Movie_III_-_Truth_Dawn_(960x720_Blu-Ray_FLAC)_[90D00827].mkv
 !new/[Coalgirls]_Kiddy_Grade_Movie_II_-_Maelstrom_(960x720_Blu-Ray_FLAC)_[05DC1194].mkv
 !new/[Fnolli] .​hack⁄⁄Quantum - 01 [29937DBF].mkv
 !new/[HorribleSubs] Bleach - 308 [720p].mkv
+!new/[HorribleSubs] Naruto Shippuuden - 197 [720p].mkv
 !new/[HorribleSubs] Rio - Rainbow Gate - 06 [720p].mkv
 !new/[Nipponsei] Beelzebub OP Single - Dadada [Group Tamashii].zip
 !new/[Nipponsei] Dragon Crisis! OP Single - Immoralist [Horie Yui].zip
@@ -872,6 +876,8 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[iSiscon]_ClariS_-_Mahou_Shoujo_Madoka_Magica_OP_Single_-_Connect_[w_scans]_(FLAC).rar
+!new/[iSiscon]_Kousaka_Kirino_(CV._Taketatsu_Ayana),_Aragaki_Ayase_(CV._Hayami_Saori)_-_TV_Anime_Ore_no_Imouto_ga_Konna_ni_Kawaii_wake_ga_nai_ED3_ED4_Single_-_Horaism,_Shiroi_Kokoro_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Nomizu_Iori_-_TV_Anime_Kore_ha_Zombie_Desu_ka_OP_Single_-_Ma・Ka・Se・Te_Tonight_[w_scans]_(FLAC).rar
 !new/[ray=out]_Before_Green_Gables_-_13_[720p][83AD109F].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
