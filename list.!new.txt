@@ -570,9 +570,11 @@
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 166. Dreams Forever! Light Throughout the Sky (v2) [A17C8F85].ogm
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] Sailor Moon SuperS Plus Ami-chan no Hatsukoi R2 DVD(H264.AC3).mkv
 !new/Yui Horie - Immoralist.DVD-Bakazooka.mkv
+!new/[AonE]_Haiyoru!_Nyaruani_TV_08_[C12223E1].mkv
 !new/[Ayako]_Infinite_Stratos_-_IS_-_06_[H264][720p][99299389].mkv
 !new/[Coalgirls]_Kiddy_Grade_Movie_III_-_Truth_Dawn_(960x720_Blu-Ray_FLAC)_[90D00827].mkv
 !new/[Coalgirls]_Kiddy_Grade_Movie_II_-_Maelstrom_(960x720_Blu-Ray_FLAC)_[05DC1194].mkv
+!new/[Doremi].Doraemon.The.New.Record.of.Nobita.Spaceblazer.Movie.2009.[CD39C3F4].mkv
 !new/[Fnolli] .​hack⁄⁄Quantum - 01 [29937DBF].mkv
 !new/[HorribleSubs] Bleach - 308 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 197 [720p].mkv
@@ -624,6 +626,8 @@
 !new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E13 'A Storm Raging Through'.mkv
 !new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered Special 'The Mayfly of Space'.mkv
 !new/[ReDone] Touka Gettan - 21 (DVD) [9D67521E].mkv
+!new/[ReDone] Touka Gettan - 22 (DVD) [8514A719].mkv
+!new/[ReDone] Touka Gettan - 23 (DVD) [DF4C84BF].mkv
 !new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 05 [1080p - Bluray][9AAF9159].mkv
 !new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 06 [1080p - Bluray][79DED96B].mkv
 !new/[Ryuumaru] Omamori Himari - 01 [DVD][5A47B581].mkv
@@ -656,7 +660,9 @@
 !new/[Ryuumaru] Omamori Himari - OP (Clean) - 09 [DVD][D73B5E36].mkv
 !new/[Ryuumaru] Omamori Himari - OP (Clean) - 10 [DVD][8A417D2F].mkv
 !new/[Ryuumaru] Omamori Himari - OP (Clean) - 11 [DVD][24B547D8].mkv
+!new/[SMS] Starry Sky - 08 [B96F1C29].mkv
 !new/[Saizen]_Captain_Tsubasa_Road_to_2002_-_21_[DVD][7071AD3C].mkv
+!new/[TMD_A-Destiny]_Bakuman_18_[720p][0F3E233E].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -896,6 +902,13 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[WhyNot] Freezing - 04 [Censored][0FC41870].mkv
+!new/[Zero-Raws] Shuffle! - 01 (BD 1280x720 x264 FLAC) subbed[2143C867]-TSuNDeRe.mkv
+!new/[Zero-Raws] Shuffle! - 02 (BD 1280x720 x264 FLAC) subbed[96B195B8]-TSuNDeRe.mkv
+!new/[Zero-Raws] Shuffle! - 03 (BD 1280x720 x264 FLAC) subbed[87FB2DD9]-TSuNDeRe.mkv
+!new/[Zero-Raws] Shuffle! - 04 (BD 1280x720 x264 FLAC) subbed[8C611AE2]-TSuNDeRe.mkv
+!new/[Zero-Raws] Shuffle! - 05 (BD 1280x720 x264 FLAC) subbed[05C90195]-TSuNDeRe.mkv
+!new/[Zero-Raws] Shuffle! - 06 (BD 1280x720 x264 FLAC) subbed[F489E7D0]-TSuNDeRe.mkv
 !new/[gg]_Puella_Magi_Madoka_Magica_-_06_[584027C6].mkv
 !new/[gg]_Yumekui_Merry_-_06_[FD1776E7].mkv
 !new/[iSiscon]_ClariS_-_Mahou_Shoujo_Madoka_Magica_OP_Single_-_Connect_[w_scans]_(FLAC).rar
@@ -905,6 +918,7 @@
 !new/[iSiscon]_Nomizu_Iori_-_TV_Anime_Kore_ha_Zombie_Desu_ka_OP_Single_-_Ma・Ka・Se・Te_Tonight_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Yamaguchi_Rie_with_manzo_-_TV_Anime_Kore_ha_Zombie_Desu_ka_ED_Single_-_Kizuite_Zombie-sama,_Watashi_ha_Classmate_desu_[w_scans]_(FLAC).rar
 !new/[ray=out]_Before_Green_Gables_-_13_[720p][83AD109F].mkv
+!new/[yibis]_One_Piece_486_[720p][004C24C0].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -1005,6 +1019,7 @@
 !new/bla/zx.black.heaven.12.sub.rar
 !new/bla/zx.black.heaven.13.dub.avi
 !new/bla/zx.black.heaven.13.sub.rar
+!new/gundam.zip
 !new/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/lama/[Ayako] Wei� Survive R - 01 - H264 - E975A989.mkv
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
