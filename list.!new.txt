@@ -570,16 +570,22 @@
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 166. Dreams Forever! Light Throughout the Sky (v2) [A17C8F85].ogm
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] Sailor Moon SuperS Plus Ami-chan no Hatsukoi R2 DVD(H264.AC3).mkv
 !new/Yui Horie - Immoralist.DVD-Bakazooka.mkv
+!new/[Ayako]_Infinite_Stratos_-_IS_-_06_[H264][720p][99299389].mkv
 !new/[Coalgirls]_Kiddy_Grade_Movie_III_-_Truth_Dawn_(960x720_Blu-Ray_FLAC)_[90D00827].mkv
 !new/[Coalgirls]_Kiddy_Grade_Movie_II_-_Maelstrom_(960x720_Blu-Ray_FLAC)_[05DC1194].mkv
 !new/[Fnolli] .​hack⁄⁄Quantum - 01 [29937DBF].mkv
 !new/[HorribleSubs] Bleach - 308 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 197 [720p].mkv
 !new/[HorribleSubs] Rio - Rainbow Gate - 06 [720p].mkv
+!new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_45_[39398BA9].mkv
 !new/[Nipponsei] Beelzebub OP Single - Dadada [Group Tamashii].zip
+!new/[Nipponsei] Cardfight!! Vanguard ED Single - Diamond Star [Asou Natsuko].zip
 !new/[Nipponsei] Dragon Crisis! OP Single - Immoralist [Horie Yui].zip
+!new/[Nipponsei] Kore wa Zombie desu ka ED Single - Kizuite Zombie-sama, Watashi wa Classmate desu [Yamaguchi Rie with manzo].zip
 !new/[Nipponsei] Kore wa Zombie desu ka OP Single - Makasete Tonight [Nomizu Iori].zip
 !new/[Nipponsei] NARUTO Shippuuden ED16 Single - Mayonaka no Orchestra [Aqua Timez].zip
+!new/[Nipponsei] Star Driver ED1 Single - Cross Over [9nine].zip
+!new/[Nipponsei] Star Driver ED2 Single - Pride [SCANDAL].zip
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -603,6 +609,20 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
+!new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E01 'Gundamjack' [v2].mkv
+!new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E02 'Endless Pursuit'.mkv
+!new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E03 'Into Battle, Albion'.mkv
+!new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E04 'Attack and Retreat on the Burning Sand'.mkv
+!new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E05 'Gundam, To the Sea of Stars'.mkv
+!new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E06 'The Warrior of Von Braun'.mkv
+!new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E07 'With Shining Blue Fire'.mkv
+!new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E08 'Conspiracy Sector'.mkv
+!new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E09 'The Nightmare of Solomon'.mkv
+!new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E10 'Colliding Warzones'.mkv
+!new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E11 'La Vie En Rose'.mkv
+!new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E12 'Assault on the Point of No Return'.mkv
+!new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E13 'A Storm Raging Through'.mkv
+!new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered Special 'The Mayfly of Space'.mkv
 !new/[ReDone] Touka Gettan - 21 (DVD) [9D67521E].mkv
 !new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 05 [1080p - Bluray][9AAF9159].mkv
 !new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 06 [1080p - Bluray][79DED96B].mkv
@@ -876,9 +896,14 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[gg]_Puella_Magi_Madoka_Magica_-_06_[584027C6].mkv
+!new/[gg]_Yumekui_Merry_-_06_[FD1776E7].mkv
 !new/[iSiscon]_ClariS_-_Mahou_Shoujo_Madoka_Magica_OP_Single_-_Connect_[w_scans]_(FLAC).rar
+!new/[iSiscon]_Horie_Yui_-_TV_Anime_Dragon_Crisis!_OP_Single_-_Immoralist_[w_scans]_(FLAC).rar
+!new/[iSiscon]_KOKOMI_-_PS3_Umineko_no_Naku_Koro_ni_~Majou_to_Suiri_no_Rinbukyoku~_OP_Single_-_Chikai_Hibiki_no_Igureja_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Kousaka_Kirino_(CV._Taketatsu_Ayana),_Aragaki_Ayase_(CV._Hayami_Saori)_-_TV_Anime_Ore_no_Imouto_ga_Konna_ni_Kawaii_wake_ga_nai_ED3_ED4_Single_-_Horaism,_Shiroi_Kokoro_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Nomizu_Iori_-_TV_Anime_Kore_ha_Zombie_Desu_ka_OP_Single_-_Ma・Ka・Se・Te_Tonight_[w_scans]_(FLAC).rar
+!new/[iSiscon]_Yamaguchi_Rie_with_manzo_-_TV_Anime_Kore_ha_Zombie_Desu_ka_ED_Single_-_Kizuite_Zombie-sama,_Watashi_ha_Classmate_desu_[w_scans]_(FLAC).rar
 !new/[ray=out]_Before_Green_Gables_-_13_[720p][83AD109F].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
