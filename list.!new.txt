@@ -219,6 +219,8 @@
 !new/FF Unlimited/FFU23.avi
 !new/FF Unlimited/FFU24.avi
 !new/FF Unlimited/FFU25.avi
+!new/Fate_Stay_Night_-_TV_Reproduction_II_[3xR-FLsnow][Blu-ray.1080p.H264.FLAC][63B375B6].mkv
+!new/Fate_Stay_Night_-_TV_Reproduction_I_[3xR-FLsnow][Blu-ray.1080p.H264.FLAC][96AF6C65].mkv
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_01_[Anime-Empire_&_Aoshi].avi
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_02_[Anime-Empire_&_Aoshi].avi
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_03_[Anime-Empire_&_Aoshi].avi
@@ -634,6 +636,7 @@
 !new/[HorribleSubs] Cardfight!! Vanguard - 06 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 197 [720p].mkv
 !new/[HorribleSubs] Rio - Rainbow Gate - 06 [720p].mkv
+!new/[HorribleSubs] Tegami Bachi REVERSE - 44 [720p].mkv
 !new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_45_[39398BA9].mkv
 !new/[Licca] A Little Princess Sara Episode 38 (h.264) [205E0F19].mkv
 !new/[Nipponsei] Beelzebub OP Single - Dadada [Group Tamashii].zip
@@ -681,6 +684,57 @@
 !new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E12 'Assault on the Point of No Return'.mkv
 !new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E13 'A Storm Raging Through'.mkv
 !new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered Special 'The Mayfly of Space'.mkv
+!new/[Positron-card] Digimon Tamers 41 (XviD-MP3).avi
+!new/[Positron-card] Digimon Tamers 42 (XviD-MP3).avi
+!new/[Positron-card] Digimon Tamers 43 (XviD-MP3).avi
+!new/[Positron-card] Digimon Tamers 44 (Xvid-mp3).avi
+!new/[Positron-card] Digimon Tamers 45 (Xvid-mp3).avi
+!new/[Positron-card] Digimon Tamers 46 (Xvid-mp3).avi
+!new/[Positron-card] Digimon Tamers 47 (Xvid-mp3).avi
+!new/[Positron-card] Digimon Tamers 48 (Xvid-mp3).avi
+!new/[Positron-card] Digimon Tamers 49 (Xvid-mp3).avi
+!new/[Positron-card] Digimon Tamers 50 (Xvid-mp3).avi
+!new/[Positron-card] Digimon Tamers 51 [FINAL] (Xvid-mp3).avi
+!new/[Positron] Digimon Tamers 1 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 10 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 11 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 12 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 13 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 14 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 15 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 16 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 17 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 18 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 19 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 2  (Xvid-mp3).avi
+!new/[Positron] Digimon Tamers 20 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 21 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 22 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 23 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 24 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 25 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 26 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 27 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 28 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 29 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 3  (Xvid-mp3).avi
+!new/[Positron] Digimon Tamers 30 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 31 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 32 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 33 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 34 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 35 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 36 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 37 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 38 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 39 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 4 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 40 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 5 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 6 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 7 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 8 (XviD-MP3).avi
+!new/[Positron] Digimon Tamers 9 (XviD-MP3).avi
 !new/[ReDone] Touka Gettan - 21 (DVD) [9D67521E].mkv
 !new/[ReDone] Touka Gettan - 22 (DVD) [8514A719].mkv
 !new/[ReDone] Touka Gettan - 23 (DVD) [DF4C84BF].mkv
@@ -718,6 +772,11 @@
 !new/[Ryuumaru] Omamori Himari - OP (Clean) - 10 [DVD][8A417D2F].mkv
 !new/[Ryuumaru] Omamori Himari - OP (Clean) - 11 [DVD][24B547D8].mkv
 !new/[SMS] Starry Sky - 08 [B96F1C29].mkv
+!new/[SS] Gosick - 01 (1280x720 h264) [7A023ADE].mkv
+!new/[SS] Gosick - 02 (1280x720 h264) [7EF71AA1].mkv
+!new/[SS] Gosick - 03 (1280x720 h264) [826F4E71].mkv
+!new/[SS] Gosick - 04 (1280x720 h264) [352D329C].mkv
+!new/[SS] Gosick - 05 (1280x720 h264) [82F5D93F].mkv
 !new/[Saizen]_Captain_Tsubasa_Road_to_2002_-_21_[DVD][7071AD3C].mkv
 !new/[TMD_A-Destiny]_Bakuman_18_[720p][0F3E233E].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
@@ -959,6 +1018,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[Tortoise] Hidamari Sketch Hoshimittsu - 05[Bluray - 1080p][FD03C4F7].mkv
 !new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_18_[720p][451D7C3B].mkv
 !new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_42_[3E5FAFD0][HD].mp4
 !new/[WhyNot] Freezing - 04 [Censored][0FC41870].mkv
