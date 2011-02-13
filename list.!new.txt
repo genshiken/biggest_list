@@ -145,6 +145,57 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Digimon Tamers/[Positron-card] Digimon Tamers - 41 [0AD8D873].avi
+!new/Digimon Tamers/[Positron-card] Digimon Tamers - 42 [29BC42AC].avi
+!new/Digimon Tamers/[Positron-card] Digimon Tamers - 43 [59310215].avi
+!new/Digimon Tamers/[Positron-card] Digimon Tamers - 44 [4779CA39].avi
+!new/Digimon Tamers/[Positron-card] Digimon Tamers - 45 [9846B76B].avi
+!new/Digimon Tamers/[Positron-card] Digimon Tamers - 46 [A4113A61].avi
+!new/Digimon Tamers/[Positron-card] Digimon Tamers - 47 [754A5976].avi
+!new/Digimon Tamers/[Positron-card] Digimon Tamers - 48 [AFA20582].avi
+!new/Digimon Tamers/[Positron-card] Digimon Tamers - 49 [6591C01E].avi
+!new/Digimon Tamers/[Positron-card] Digimon Tamers - 50 [4851C156].avi
+!new/Digimon Tamers/[Positron-card] Digimon Tamers - 51 [End][490E25CE].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 01 [F7620413].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 02 [6543652C].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 03 [4CE469C9].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 04 [CD21D637].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 05 [FF262E95].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 06 [BB1E83F8].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 07 [7CFEFC68].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 08 [8406212A].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 09 [161D56E2].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 10 [636C3351].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 11 [2BA3239E].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 12 [F238EB16].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 13 [76455B0E].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 14 [5792C227].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 15 [BE06A141].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 16 [2DCE1574].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 17 [2029132B].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 18 [860F0DB8].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 19 [3FE54F3D].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 20 [62FA4A6A].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 21 [E6456CCD].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 22 [311D998E].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 23 [58AB5136].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 24 [3F83046A].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 25 [CCAE9782].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 26 [FB6AE6E9].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 27 [616F900D].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 28 [CCB3D0A9].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 29 [F3D66A9C].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 30 [715E5B83].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 31 [AB1F3AAE].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 32 [441F3265].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 33 [17DEAF48].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 34 [257F84C8].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 35 [1F907A1D].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 36 [016BE053].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 37 [F75B8320].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 38 [A6BA1BA7].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 39 [1F978134].avi
+!new/Digimon Tamers/[Positron] Digimon Tamers - 40 [04FD2DF1].avi
 !new/Digimon tamers/Digimon Tamers Episode 10 (Subbed By PositronCannon).avi
 !new/Digimon tamers/Digimon Tamers Episode 11 (Subbed By PositronCannon).avi
 !new/Digimon tamers/Digimon Tamers Episode 12 (Subbed By PositronCannon).avi
@@ -634,10 +685,34 @@
 !new/[Fnolli] .​hack⁄⁄Quantum - 01 [29937DBF].mkv
 !new/[HorribleSubs] Bleach - 308 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 06 [720p].mkv
+!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 165 [480p].mkv
+!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 171 [480p].mkv
+!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 172 [480p].mkv
+!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 173 [480p].mkv
+!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 174 [480p].mkv
+!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 175 [480p].mkv
+!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 176 [480p].mkv
+!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 177 [480p].mkv
+!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 178 [480p].mkv
+!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 179 [480p].mkv
+!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 180 [480p].mkv
+!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 181 [480p].mkv
+!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 182 [480p].mkv
+!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 183 [480p].mkv
+!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 184 [480p].mkv
+!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 185 [480p].mkv
+!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 186 [480p].mkv
+!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 187 [480p].mkv
+!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 188 [480p].mkv
+!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 190 [480p].mkv
+!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 191 [480p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 197 [720p].mkv
 !new/[HorribleSubs] Rio - Rainbow Gate - 06 [720p].mkv
 !new/[HorribleSubs] Tegami Bachi REVERSE - 44 [720p].mkv
 !new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_45_[39398BA9].mkv
+!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP1 [BD 1280x720 H264 OGG] [BD01F6E4].mkv
+!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP2 [BD 848x480 H264 OGG] [E26716A2].mkv
+!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP3 [BD 848x480 H264 OGG] [D7CC1197].mkv
 !new/[Licca] A Little Princess Sara Episode 38 (h.264) [205E0F19].mkv
 !new/[Nipponsei] Beelzebub OP Single - Dadada [Group Tamashii].zip
 !new/[Nipponsei] Cardfight!! Vanguard ED Single - Diamond Star [Asou Natsuko].zip
@@ -684,57 +759,6 @@
 !new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E12 'Assault on the Point of No Return'.mkv
 !new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E13 'A Storm Raging Through'.mkv
 !new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered Special 'The Mayfly of Space'.mkv
-!new/[Positron-card] Digimon Tamers 41 (XviD-MP3).avi
-!new/[Positron-card] Digimon Tamers 42 (XviD-MP3).avi
-!new/[Positron-card] Digimon Tamers 43 (XviD-MP3).avi
-!new/[Positron-card] Digimon Tamers 44 (Xvid-mp3).avi
-!new/[Positron-card] Digimon Tamers 45 (Xvid-mp3).avi
-!new/[Positron-card] Digimon Tamers 46 (Xvid-mp3).avi
-!new/[Positron-card] Digimon Tamers 47 (Xvid-mp3).avi
-!new/[Positron-card] Digimon Tamers 48 (Xvid-mp3).avi
-!new/[Positron-card] Digimon Tamers 49 (Xvid-mp3).avi
-!new/[Positron-card] Digimon Tamers 50 (Xvid-mp3).avi
-!new/[Positron-card] Digimon Tamers 51 [FINAL] (Xvid-mp3).avi
-!new/[Positron] Digimon Tamers 1 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 10 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 11 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 12 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 13 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 14 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 15 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 16 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 17 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 18 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 19 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 2  (Xvid-mp3).avi
-!new/[Positron] Digimon Tamers 20 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 21 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 22 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 23 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 24 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 25 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 26 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 27 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 28 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 29 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 3  (Xvid-mp3).avi
-!new/[Positron] Digimon Tamers 30 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 31 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 32 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 33 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 34 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 35 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 36 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 37 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 38 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 39 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 4 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 40 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 5 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 6 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 7 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 8 (XviD-MP3).avi
-!new/[Positron] Digimon Tamers 9 (XviD-MP3).avi
 !new/[ReDone] Touka Gettan - 21 (DVD) [9D67521E].mkv
 !new/[ReDone] Touka Gettan - 22 (DVD) [8514A719].mkv
 !new/[ReDone] Touka Gettan - 23 (DVD) [DF4C84BF].mkv
@@ -1021,6 +1045,7 @@
 !new/[Tortoise] Hidamari Sketch Hoshimittsu - 05[Bluray - 1080p][FD03C4F7].mkv
 !new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_18_[720p][451D7C3B].mkv
 !new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_42_[3E5FAFD0][HD].mp4
+!new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_43_[D4F5D2F6][HD].mp4
 !new/[WhyNot] Freezing - 04 [Censored][0FC41870].mkv
 !new/[WhyNot] Freezing - 06 [Uncensored][A949AB9F].mkv
 !new/[Zero-Raws] Shuffle! - 01 (BD 1280x720 x264 FLAC) subbed[2143C867]-TSuNDeRe.mkv
