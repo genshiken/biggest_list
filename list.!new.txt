@@ -145,57 +145,6 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
-!new/Digimon Tamers/[Positron-card] Digimon Tamers - 41 [0AD8D873].avi
-!new/Digimon Tamers/[Positron-card] Digimon Tamers - 42 [29BC42AC].avi
-!new/Digimon Tamers/[Positron-card] Digimon Tamers - 43 [59310215].avi
-!new/Digimon Tamers/[Positron-card] Digimon Tamers - 44 [4779CA39].avi
-!new/Digimon Tamers/[Positron-card] Digimon Tamers - 45 [9846B76B].avi
-!new/Digimon Tamers/[Positron-card] Digimon Tamers - 46 [A4113A61].avi
-!new/Digimon Tamers/[Positron-card] Digimon Tamers - 47 [754A5976].avi
-!new/Digimon Tamers/[Positron-card] Digimon Tamers - 48 [AFA20582].avi
-!new/Digimon Tamers/[Positron-card] Digimon Tamers - 49 [6591C01E].avi
-!new/Digimon Tamers/[Positron-card] Digimon Tamers - 50 [4851C156].avi
-!new/Digimon Tamers/[Positron-card] Digimon Tamers - 51 [End][490E25CE].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 01 [F7620413].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 02 [6543652C].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 03 [4CE469C9].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 04 [CD21D637].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 05 [FF262E95].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 06 [BB1E83F8].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 07 [7CFEFC68].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 08 [8406212A].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 09 [161D56E2].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 10 [636C3351].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 11 [2BA3239E].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 12 [F238EB16].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 13 [76455B0E].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 14 [5792C227].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 15 [BE06A141].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 16 [2DCE1574].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 17 [2029132B].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 18 [860F0DB8].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 19 [3FE54F3D].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 20 [62FA4A6A].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 21 [E6456CCD].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 22 [311D998E].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 23 [58AB5136].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 24 [3F83046A].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 25 [CCAE9782].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 26 [FB6AE6E9].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 27 [616F900D].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 28 [CCB3D0A9].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 29 [F3D66A9C].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 30 [715E5B83].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 31 [AB1F3AAE].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 32 [441F3265].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 33 [17DEAF48].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 34 [257F84C8].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 35 [1F907A1D].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 36 [016BE053].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 37 [F75B8320].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 38 [A6BA1BA7].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 39 [1F978134].avi
-!new/Digimon Tamers/[Positron] Digimon Tamers - 40 [04FD2DF1].avi
 !new/Digimon tamers/Digimon Tamers Episode 10 (Subbed By PositronCannon).avi
 !new/Digimon tamers/Digimon Tamers Episode 11 (Subbed By PositronCannon).avi
 !new/Digimon tamers/Digimon Tamers Episode 12 (Subbed By PositronCannon).avi
@@ -1054,8 +1003,6 @@
 !new/[Zero-Raws] Shuffle! - 04 (BD 1280x720 x264 FLAC) subbed[8C611AE2]-TSuNDeRe.mkv
 !new/[Zero-Raws] Shuffle! - 05 (BD 1280x720 x264 FLAC) subbed[05C90195]-TSuNDeRe.mkv
 !new/[Zero-Raws] Shuffle! - 06 (BD 1280x720 x264 FLAC) subbed[F489E7D0]-TSuNDeRe.mkv
-!new/[gg]_Puella_Magi_Madoka_Magica_-_06_[584027C6].mkv
-!new/[gg]_Yumekui_Merry_-_06_[FD1776E7].mkv
 !new/[iSiscon]_ClariS_-_Mahou_Shoujo_Madoka_Magica_OP_Single_-_Connect_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Horie_Yui_-_TV_Anime_Dragon_Crisis!_OP_Single_-_Immoralist_[w_scans]_(FLAC).rar
 !new/[iSiscon]_KOKOMI_-_PS3_Umineko_no_Naku_Koro_ni_~Majou_to_Suiri_no_Rinbukyoku~_OP_Single_-_Chikai_Hibiki_no_Igureja_[w_scans]_(FLAC).rar
