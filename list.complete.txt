@@ -887,6 +887,10 @@ complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - Opening 3 (1920x1080) [BD
 complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - Opening 4a (1920x1080) [BD][F4B6CA3A].mkv
 complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - Opening 4b (1920x1080) [BD][D36ED5B9].mkv
 complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - Opening 5b (1920x1080) [BD][C23AA6BB].mkv
+complete/b/Bakumatsu Kikansetsu Irohanihoheto/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 01 [DVD][DAC042E0].mkv
+complete/b/Bakumatsu Kikansetsu Irohanihoheto/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 02 [DVD][19B75C94].mkv
+complete/b/Bakumatsu Kikansetsu Irohanihoheto/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 03 [DVD][DEBB5FEF].mkv
+complete/b/Bakumatsu Kikansetsu Irohanihoheto/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 04 [DVD][83592925].mkv
 complete/b/Bakumatsu Kikansetsu Irohanihoheto/[PNU-SHS] Bakumatsu Kikansetsu Irohanihoheto - 01 [5BFD17E0].avi
 complete/b/Bakumatsu Kikansetsu Irohanihoheto/[Shinsen-Subs] Bakumatsu Kikansetsu Irohanihoheto - 02 [40EDF3A7].avi
 complete/b/Bakumatsu Kikansetsu Irohanihoheto/[Shinsen-Subs] Bakumatsu Kikansetsu Irohanihoheto - 03 [8CE82E67].avi
@@ -12011,13 +12015,13 @@ complete/s/Shiki/[Commie] Shiki - 12 [783016EC].mkv
 complete/s/Shiki/[Commie] Shiki - 13 [9AB2213B].mkv
 complete/s/Shiki/[Commie] Shiki - 14 [15857549].mkv
 complete/s/Shiki/[Commie] Shiki - 15 [0E4A14BB].mkv
-complete/s/Shiki/[umee] Shiki - 16 [24AEDFEE].mkv
-complete/s/Shiki/[umee] Shiki - 17 [7812D356].mkv
-complete/s/Shiki/[umee] Shiki - 18 [6BBD2D5C].mkv
-complete/s/Shiki/[umee] Shiki - 19 [CBF773E3].mkv
-complete/s/Shiki/[umee] Shiki - 20 [7836A4EC].mkv
-complete/s/Shiki/[umee] Shiki - 21 [AFB1E479].mkv
-complete/s/Shiki/[umee] Shiki - 22 [End][5C0D8249].mkv
+complete/s/Shiki/[Commie] Shiki - 16 [1156928D].mkv
+complete/s/Shiki/[Commie] Shiki - 17 [AC33C1DA].mkv
+complete/s/Shiki/[Commie] Shiki - 18 [32F17107].mkv
+complete/s/Shiki/[Commie] Shiki - 19 [DF78A9CB].mkv
+complete/s/Shiki/[Commie] Shiki - 20 [145692DB].mkv
+complete/s/Shiki/[Commie] Shiki - 21 [AB3CC13F].mkv
+complete/s/Shiki/[Commie] Shiki - 22 [End][85521484].mkv
 complete/s/Shin Koihime Musou - Live Revolution/[KiteSeekers-PFSubs] Shin Koihime Musou - Live Revolution (1920x1080) [A457A2C6].mkv
 complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 01 [720p BD][8550BE8F].mkv
 complete/s/Shin Koihime Musou - Otome Tairan/[DmonHiro] Shin Koihime Musou - Otome Tairan - 02 [720p BD][21B706AB].mkv
@@ -14131,9 +14135,9 @@ complete/t/Touka Gettan/[ReDone] Touka Gettan - 17 [DVD][CB905D74].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 18 [DVD][0EEAC8BF].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 19 [DVD][5F544EC7].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 20 [DVD][0C9E0B81].mkv
-complete/t/Touka Gettan/[SRN] Touka Gettan - 21 [C8AA08D8].avi
-complete/t/Touka Gettan/[SRN] Touka Gettan - 22 [56094BF1].avi
-complete/t/Touka Gettan/[SRN] Touka Gettan - 23 [5430FB16].avi
+complete/t/Touka Gettan/[ReDone] Touka Gettan - 21 [DVD][9D67521E].mkv
+complete/t/Touka Gettan/[ReDone] Touka Gettan - 22 [DVD][8514A719].mkv
+complete/t/Touka Gettan/[ReDone] Touka Gettan - 23 [DVD][DF4C84BF].mkv
 complete/t/Touka Gettan/[SRN] Touka Gettan - 24 [71F63436].avi
 complete/t/Touka Gettan/[SRN] Touka Gettan - 25 [A4F72881].avi
 complete/t/Touka Gettan/[SRN] Touka Gettan - 26 [End][A7FA5B91].avi

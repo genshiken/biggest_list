@@ -20,6 +20,8 @@ incomplete/A Little Princess Sara/[Licca] A Little Princess Sara - 33 [F05192E3]
 incomplete/A Little Princess Sara/[Licca] A Little Princess Sara - 34 [65DBA6EA].mkv
 incomplete/A Little Princess Sara/[Licca] A Little Princess Sara - 35 [3AC5FE74].mkv
 incomplete/A Little Princess Sara/[Licca] A Little Princess Sara - 37 [B2E00885].mkv
+incomplete/A Little Princess Sara/[Licca] A Little Princess Sara - 38 [205E0F19].mkv
+incomplete/A Little Princess Sara/[Licca] A Little Princess Sara - 39 [D0D58980].mkv
 incomplete/Akahori Gedou Hour Rabuge/[Himitsu] Akahori Gedou Hour Rabuge - 01 [D44052C2].avi
 incomplete/Akahori Gedou Hour Rabuge/[Himitsu] Akahori Gedou Hour Rabuge - 02 [46D00799].avi
 incomplete/Akahori Gedou Hour Rabuge/[Himitsu] Akahori Gedou Hour Rabuge - 03 [4B415EBF].avi
@@ -228,6 +230,7 @@ incomplete/Bakuman/[TMD A-Destiny] Bakuman - 13 [720p][DD87C902].mkv
 incomplete/Bakuman/[TMD A-Destiny] Bakuman - 14 [720p][C021C6A5].mkv
 incomplete/Bakuman/[TMD A-Destiny] Bakuman - 15 [720p][906CFF37].mkv
 incomplete/Bakuman/[TMD A-Destiny] Bakuman - 16 [720p][932DA756].mkv
+incomplete/Bakuman/[TMD A-Destiny] Bakuman - 18 [720p][0F3E233E].mkv
 incomplete/Bakuman/[TMD A-Destiny] Bakuman 17 [v2 720p][9A029E09].mkv
 incomplete/Bakuman/[gg] Bakuman - 01 [v2][937D6A1E].mkv
 incomplete/Bakuman/[gg] Bakuman - 02 [A591C0E9].mkv
@@ -241,10 +244,6 @@ incomplete/Bakuman/[gg] Bakuman - 09 [CF0612CD].mkv
 incomplete/Bakuman/[gg] Bakuman - 10 [F8D3E973].mkv
 incomplete/Bakuman/[gg] Bakuman - 11 [3BB4853E].mkv
 incomplete/Bakuman/[gg] Bakuman - 12 [7FA6FE91].mkv
-incomplete/Bakumatsu Kikansetsu Irohanihoheto/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 01 [DVD][DAC042E0].mkv
-incomplete/Bakumatsu Kikansetsu Irohanihoheto/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 02 [DVD][19B75C94].mkv
-incomplete/Bakumatsu Kikansetsu Irohanihoheto/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 03 [DVD][DEBB5FEF].mkv
-incomplete/Bakumatsu Kikansetsu Irohanihoheto/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 04 [DVD][83592925].mkv
 incomplete/Beelzebub/[HorribleSubs] Beelzebub - 01 [720p][BF7ADF22].mkv
 incomplete/Beelzebub/[HorribleSubs] Beelzebub - 02 [720p][99C115A1].mkv
 incomplete/Beelzebub/[HorribleSubs] Beelzebub - 03 [720p][B7BB039D].mkv
@@ -861,7 +860,10 @@ incomplete/Freezing/[WhyNot] Freezing - 02 [BC705CBC].mkv
 incomplete/Freezing/[WhyNot] Freezing - 02 [Censored][8F4E06A6].mkv
 incomplete/Freezing/[WhyNot] Freezing - 03 [Censored][9D64799F].mkv
 incomplete/Freezing/[WhyNot] Freezing - 03 [Uncensored][6EA349AC].mkv
+incomplete/Freezing/[WhyNot] Freezing - 04 [Censored][0FC41870].mkv
+incomplete/Freezing/[WhyNot] Freezing - 05 [Censored][674BF331].mkv
 incomplete/Freezing/[WhyNot] Freezing - 05 [v2 Uncensored][4A3AB306].mkv
+incomplete/Freezing/[WhyNot] Freezing - 06 [Uncensored][A949AB9F].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 01 [DVD][B9677652].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 04 [DVD][4D454754].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 05 [DVD][5710610B].mkv
@@ -1084,11 +1086,17 @@ incomplete/Gokujou!! Mecha Mote Iinchou/[yu] Gokujou!! Mecha Mote Iinchou - 01 [
 incomplete/Gokujou!! Mecha Mote Iinchou/[yu] Gokujou!! Mecha Mote Iinchou - 02 [312D64B1].mkv
 incomplete/Goldfish Warning!/[h-b] Goldfish Warning! - 22 [DVD][071015C6].avi
 incomplete/Good Witch of the West/[Anime-Keep] Good Witch of the West - 04 [A957BB5C].avi
+incomplete/Gosick/[SS] Gosick - 01 [720p][7A023ADE].mkv
+incomplete/Gosick/[SS] Gosick - 02 [720p][7EF71AA1].mkv
+incomplete/Gosick/[SS] Gosick - 03 [720p][826F4E71].mkv
+incomplete/Gosick/[SS] Gosick - 04 [720p][352D329C].mkv
+incomplete/Gosick/[SS] Gosick - 05 [720p][82F5D93F].mkv
 incomplete/Gosick/[Victorique] Gosick - 01 [v2 720p][800E4683].mkv
 incomplete/Gosick/[Victorique] Gosick - 02 [720p][DFE95680].mkv
 incomplete/Gosick/[Victorique] Gosick - 03 [720p][6B8BECCB].mkv
 incomplete/Gosick/[Victorique] Gosick - 04 [720p][A50D6DFB].mkv
 incomplete/Gosick/[Victorique] Gosick - 05 [720p][48A2CC96].mkv
+incomplete/Gosick/[Victorique] Gosick - 06 [720p][62161A73].mkv
 incomplete/Gun X Sword/[Shinsen-Subs] Gun X Sword - 10 [DE58BF1B].avi
 incomplete/Gun X Sword/[Shinsen-Subs] Gun X Sword - 11 [94BA7245].avi
 incomplete/Gun X Sword/[Shinsen-Subs] Gun X Sword - 12 [8C1B0A0B].avi
@@ -1427,16 +1435,17 @@ incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 113 [720p][66DA7D42].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 114 [720p][AE32440D].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 115 [720p][1EDA5335].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 116 [720p][334C33F7].mkv
-incomplete/Infinite Stratos - IS/[Ayako] Infinite Stratos - IS - 01 [v2 720p][4B45EF48].mkv
-incomplete/Infinite Stratos - IS/[Ayako] Infinite Stratos - IS - 02 [720p][05C376A9].mkv
-incomplete/Infinite Stratos - IS/[Ayako] Infinite Stratos - IS - 03 [720p][87E1FABE].mkv
-incomplete/Infinite Stratos - IS/[Ayako] Infinite Stratos - IS - 04 [720p][192428AB].mkv
-incomplete/Infinite Stratos - IS/[Ayako] Infinite Stratos - IS - 05 [720p][1FA14D41].mkv
-incomplete/Infinite Stratos - IS/[SS] Infinite Stratos - 01 [720p][CFA91117].mkv
-incomplete/Infinite Stratos - IS/[SS] Infinite Stratos - 02 [720p][90008EDD].mkv
-incomplete/Infinite Stratos - IS/[SS] Infinite Stratos - 03 [720p][5B66CCE8].mkv
-incomplete/Infinite Stratos - IS/[SS] Infinite Stratos - 04 [720p][97A3833A].mkv
-incomplete/Infinite Stratos - IS/[SS] Infinite Stratos - 05 [720p][AEFCD7C5].mkv
+incomplete/Infinite Stratos/[Ayako] Infinite Stratos - 01 [v2 720p][4B45EF48].mkv
+incomplete/Infinite Stratos/[Ayako] Infinite Stratos - 02 [720p][05C376A9].mkv
+incomplete/Infinite Stratos/[Ayako] Infinite Stratos - 03 [720p][87E1FABE].mkv
+incomplete/Infinite Stratos/[Ayako] Infinite Stratos - 04 [720p][192428AB].mkv
+incomplete/Infinite Stratos/[Ayako] Infinite Stratos - 05 [720p][1FA14D41].mkv
+incomplete/Infinite Stratos/[Ayako] Infinite Stratos - 06 [720p][99299389].mkv
+incomplete/Infinite Stratos/[SS] Infinite Stratos - 01 [720p][CFA91117].mkv
+incomplete/Infinite Stratos/[SS] Infinite Stratos - 02 [720p][90008EDD].mkv
+incomplete/Infinite Stratos/[SS] Infinite Stratos - 03 [720p][5B66CCE8].mkv
+incomplete/Infinite Stratos/[SS] Infinite Stratos - 04 [720p][97A3833A].mkv
+incomplete/Infinite Stratos/[SS] Infinite Stratos - 05 [720p][AEFCD7C5].mkv
 incomplete/Initial D Battle Stage/[Shinsen-Subs] Initial D Battle Stage - 2 [End][B54855AA].mkv
 incomplete/Iron Man/[Force-Works] Iron Man - 01 [A66813DB].mkv
 incomplete/Iron Man/[Force-Works] Iron Man - 02 [2D05AB2F].mkv
@@ -1911,6 +1920,10 @@ incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 38 [F155DDA9].mp4
 incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 39 [071AC798].mp4
 incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 40 [E2DB17D5].mp4
 incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 41 [0BF1B76E].mp4
+incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 42 [3E5FAFD0].mp4
+incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 43 [D4F5D2F6].mp4
+incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 44 [41C1261D].mp4
+incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 45 [B5CDC396].mp4
 incomplete/Les Miserables/[ureshii-Yoroshiku] Les Miserables - 01 [720p][06328391].mkv
 incomplete/Les Miserables/[ureshii-Yoroshiku] Les Miserables - 02 [720p][831B1591].mkv
 incomplete/Les Miserables/[ureshii-Yoroshiku] Les Miserables - 03 [720p][B88097B1].mkv
@@ -2809,11 +2822,13 @@ incomplete/One Piece/[yibis] One Piece - 482 [720p][B0A51A89].mkv
 incomplete/One Piece/[yibis] One Piece - 483 [720p][1C9FF125].mkv
 incomplete/One Piece/[yibis] One Piece - 484 [720p][142296D2].mkv
 incomplete/One Piece/[yibis] One Piece - 485 [720p][9AF58A2F].mkv
+incomplete/One Piece/[yibis] One Piece - 486 [720p][004C24C0].mkv
 incomplete/Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne!!/[GotWoot] Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne!! - 01 [720p][132F8DBE].mkv
 incomplete/Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne!!/[GotWoot] Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne!! - 02 [720p][625E1C05].mkv
 incomplete/Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne!!/[GotWoot] Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne!! - 03 [720p][819CDDE3].mkv
 incomplete/Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne!!/[GotWoot] Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne!! - 04 [720p][12A4BE81].mkv
 incomplete/Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne!!/[GotWoot] Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne!! - 05 [720p][99714E55].mkv
+incomplete/Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne!!/[GotWoot] Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne!! - 06 [720p][BC56503E].mkv
 incomplete/Ontama!/[DATS] Ontama! - 01 [2F0C7231].mkv
 incomplete/Ontama!/[DATS] Ontama! - 02 [2FBB11E1].mkv
 incomplete/Ontama!/[DATS] Ontama! - 03 [00BDF47B].mkv
@@ -3299,6 +3314,7 @@ incomplete/Star Driver/[gg] Star Driver - 15 [7A870FC6].mkv
 incomplete/Star Driver/[gg] Star Driver - 16 [7D6C309A].mkv
 incomplete/Star Driver/[gg] Star Driver - 17 [60B0CD8B].mkv
 incomplete/Star Driver/[gg] Star Driver - 18 [C0AA03F9].mkv
+incomplete/Star Driver/[gg] Star Driver - 19 [BBD77D4D].mkv
 incomplete/Starry Sky/[SMS] Starry Sky - 01 [2F8DD50A].mkv
 incomplete/Starry Sky/[SMS] Starry Sky - 02 [E7B9CC30].mkv
 incomplete/Starry Sky/[SMS] Starry Sky - 03 [7086BDE7].mkv
@@ -3426,6 +3442,7 @@ incomplete/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 14 
 incomplete/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 15 [720p][063FF416].mkv
 incomplete/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 16 [720p][2DB9BB64].mkv
 incomplete/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 17 [720p][C2818FBC].mkv
+incomplete/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 18 [720p][451D7C3B].mkv
 incomplete/Tono to Issho/[CrunchySubs] Tono to Issho - 01 [720p][09F78AD2].mkv
 incomplete/Tono to Issho/[CrunchySubs] Tono to Issho - 02 [720p][E7ECE8B8].mkv
 incomplete/Tono to Issho/[CrunchySubs] Tono to Issho - 03 [720p][7766D71A].mkv
@@ -3599,6 +3616,7 @@ incomplete/Wolverine/[Weapon+] Wolverine - 02 [35AEDF24].mkv
 incomplete/Wolverine/[Weapon+] Wolverine - 03 [484C394E].mkv
 incomplete/Wolverine/[Weapon+] Wolverine - 04 [7780F00A].mkv
 incomplete/Wolverine/[Weapon+] Wolverine - 05 [D44ACFD9].mkv
+incomplete/Wolverine/[Weapon+] Wolverine - 06 [B0758476].mkv
 incomplete/Yadamon/[Live-eviL] Yadamon - 01 [572DC67A].mkv
 incomplete/Yaiba/[ASource] Yaiba - 23 [DVD][00084662].avi
 incomplete/Yawara/[F-B L-E] Yawara - 42 [599A6D25].avi

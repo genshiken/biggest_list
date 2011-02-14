@@ -627,17 +627,8 @@
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] Sailor Moon SuperS Plus Ami-chan no Hatsukoi R2 DVD(H264.AC3).mkv
 !new/Yui Horie - Immoralist.DVD-Bakazooka.mkv
 !new/[AonE]_Haiyoru!_Nyaruani_TV_08_[C12223E1].mkv
-!new/[Ayako-Shikkaku]_Oniichan_no_Koto_Nanka_Zenzen_Suki_Janain_Dakara_ne_-_06_[H264][720p][CD3CC4A9].mkv
-!new/[Ayako]_Infinite_Stratos_-_IS_-_06_[H264][720p][99299389].mkv
 !new/[Coalgirls]_Kiddy_Grade_Movie_III_-_Truth_Dawn_(960x720_Blu-Ray_FLAC)_[90D00827].mkv
 !new/[Coalgirls]_Kiddy_Grade_Movie_II_-_Maelstrom_(960x720_Blu-Ray_FLAC)_[05DC1194].mkv
-!new/[Commie] Shiki - 16 [1156928D].mkv
-!new/[Commie] Shiki - 17 [AC33C1DA].mkv
-!new/[Commie] Shiki - 18 [32F17107].mkv
-!new/[Commie] Shiki - 19 [DF78A9CB].mkv
-!new/[Commie] Shiki - 20 [145692DB].mkv
-!new/[Commie] Shiki - 21 [AB3CC13F].mkv
-!new/[Commie] Shiki - 22 [85521484].mkv
 !new/[DigitalSubs] Eyeshield 21 - 100 [480p] [DA4499BE].mkv
 !new/[DigitalSubs] Eyeshield 21 - 101 [480p] [CD5DABEF].mkv
 !new/[DigitalSubs] Eyeshield 21 - 102 [480p] [0D9B2CC1].mkv
@@ -726,7 +717,6 @@
 !new/[Funnuraba]Eyeshield_21_-_81v2[DVD][3B06C500].mkv
 !new/[Funnuraba]Eyeshield_21_-_82[DVD][9AA8B751].mkv
 !new/[Funnuraba]Eyeshield_21_-_83[DVD][2F6CF074].mkv
-!new/[GotWoot]_Onii-chan_no_Koto_..._06_[720p][BC56503E].mkv
 !new/[HorribleSubs] Beelzebub - 06 [720p].mkv
 !new/[HorribleSubs] Bleach - 308 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 06 [720p].mkv
@@ -763,8 +753,6 @@
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP1 [BD 1280x720 H264 OGG] [BD01F6E4].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP2 [BD 848x480 H264 OGG] [E26716A2].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP3 [BD 848x480 H264 OGG] [D7CC1197].mkv
-!new/[Licca] A Little Princess Sara Episode 38 (h.264) [205E0F19].mkv
-!new/[Licca] A Little Princess Sara Episode 39 (h.264) [D0D58980].mkv
 !new/[Nipponsei] Beelzebub OP Single - Dadada [Group Tamashii].zip
 !new/[Nipponsei] Cardfight!! Vanguard ED Single - Diamond Star [Asou Natsuko].zip
 !new/[Nipponsei] Dragon Crisis! OP Single - Immoralist [Horie Yui].zip
@@ -812,9 +800,6 @@
 !new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E12 'Assault on the Point of No Return'.mkv
 !new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E13 'A Storm Raging Through'.mkv
 !new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered Special 'The Mayfly of Space'.mkv
-!new/[ReDone] Touka Gettan - 21 (DVD) [9D67521E].mkv
-!new/[ReDone] Touka Gettan - 22 (DVD) [8514A719].mkv
-!new/[ReDone] Touka Gettan - 23 (DVD) [DF4C84BF].mkv
 !new/[RyRo]_Inazuma_Eleven_-_117_(1280x720_x264_AAC)_[56FBD2FA].mkv
 !new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 05 [1080p - Bluray][9AAF9159].mkv
 !new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 06 [1080p - Bluray][79DED96B].mkv
@@ -849,11 +834,6 @@
 !new/[Ryuumaru] Omamori Himari - OP (Clean) - 10 [DVD][8A417D2F].mkv
 !new/[Ryuumaru] Omamori Himari - OP (Clean) - 11 [DVD][24B547D8].mkv
 !new/[SMS] Starry Sky - 08 [B96F1C29].mkv
-!new/[SS] Gosick - 01 (1280x720 h264) [7A023ADE].mkv
-!new/[SS] Gosick - 02 (1280x720 h264) [7EF71AA1].mkv
-!new/[SS] Gosick - 03 (1280x720 h264) [826F4E71].mkv
-!new/[SS] Gosick - 04 (1280x720 h264) [352D329C].mkv
-!new/[SS] Gosick - 05 (1280x720 h264) [82F5D93F].mkv
 !new/[Saizen]_Captain_Tsubasa_Road_to_2002_-_21_[DVD][7071AD3C].mkv
 !new/[Saizen]_Eyeshield_21_-_01(4715C26D).avi
 !new/[Saizen]_Eyeshield_21_-_02(48F28973).avi
@@ -921,7 +901,6 @@
 !new/[Saizen]_Eyeshield_21_-_66_[DVD][3DF0C028].mp4
 !new/[Saizen]_Eyeshield_21_-_67_[DVD][905CC0DA].mp4
 !new/[Saizen]_Eyeshield_21_-_68_[DVD][5A74C232].mp4
-!new/[TMD_A-Destiny]_Bakuman_18_[720p][0F3E233E].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -1162,16 +1141,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[Tortoise] Hidamari Sketch Hoshimittsu - 05[Bluray - 1080p][FD03C4F7].mkv
-!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_18_[720p][451D7C3B].mkv
-!new/[Victorique]_Gosick_-_06_[h264-720p][62161A73].mkv
-!new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_42_[3E5FAFD0][HD].mp4
-!new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_43_[D4F5D2F6][HD].mp4
-!new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_44_[41C1261D][HD].mp4
-!new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_45_[B5CDC396][HD].mp4
-!new/[Weapon+] Wolverine - 06 [B0758476].mkv
-!new/[WhyNot] Freezing - 04 [Censored][0FC41870].mkv
-!new/[WhyNot] Freezing - 05 [Censored][674BF331].mkv
-!new/[WhyNot] Freezing - 06 [Uncensored][A949AB9F].mkv
 !new/[WinD]_Higurashi_no_Naku_Koro_ni_Kai_13_[DVD][1C8F2A03].mkv
 !new/[Zero-Raws] Shuffle! - 01 (BD 1280x720 x264 FLAC) subbed[2143C867]-TSuNDeRe.mkv
 !new/[Zero-Raws] Shuffle! - 02 (BD 1280x720 x264 FLAC) subbed[96B195B8]-TSuNDeRe.mkv
@@ -1179,7 +1148,6 @@
 !new/[Zero-Raws] Shuffle! - 04 (BD 1280x720 x264 FLAC) subbed[8C611AE2]-TSuNDeRe.mkv
 !new/[Zero-Raws] Shuffle! - 05 (BD 1280x720 x264 FLAC) subbed[05C90195]-TSuNDeRe.mkv
 !new/[Zero-Raws] Shuffle! - 06 (BD 1280x720 x264 FLAC) subbed[F489E7D0]-TSuNDeRe.mkv
-!new/[gg]_Star_Driver_-_19_[BBD77D4D].mkv
 !new/[iSiscon]_ClariS_-_Mahou_Shoujo_Madoka_Magica_OP_Single_-_Connect_[w_scans]_(FLAC).rar
 !new/[iSiscon]_Horie_Yui_-_TV_Anime_Dragon_Crisis!_OP_Single_-_Immoralist_[w_scans]_(FLAC).rar
 !new/[iSiscon]_KOKOMI_-_PS3_Umineko_no_Naku_Koro_ni_~Majou_to_Suiri_no_Rinbukyoku~_OP_Single_-_Chikai_Hibiki_no_Igureja_[w_scans]_(FLAC).rar
@@ -1188,7 +1156,6 @@
 !new/[iSiscon]_Yamaguchi_Rie_with_manzo_-_TV_Anime_Kore_ha_Zombie_Desu_ka_ED_Single_-_Kizuite_Zombie-sama,_Watashi_ha_Classmate_desu_[w_scans]_(FLAC).rar
 !new/[ray=out]_Before_Green_Gables_-_13_[720p][83AD109F].mkv
 !new/[ray=out]_Before_Green_Gables_-_14_[HD][0D630912].mkv
-!new/[yibis]_One_Piece_486_[720p][004C24C0].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
