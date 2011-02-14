@@ -700,6 +700,13 @@
 !new/[DigitalSubs] Eyeshield 21 - 97 [480p] [23A77AED].mkv
 !new/[DigitalSubs] Eyeshield 21 - 98 [480p] [24BDAEEA].mkv
 !new/[DigitalSubs] Eyeshield 21 - 99 [480p] [6C39667A].mkv
+!new/[DmonHiro] Koihime Musou 09 (Bluray, 720p, AAC) [360FFBC1].mkv
+!new/[DmonHiro] Koihime Musou 10 (Bluray, 720p, AAC) [810D6ED4].mkv
+!new/[DmonHiro] Koihime Musou 11 (Bluray, 720p, AAC) [87FB9049].mkv
+!new/[DmonHiro] Koihime Musou 12 (Bluray, 720p, AAC) [215292F3].mkv
+!new/[DmonHiro] Koihime Musou NCED (Bluray, 720p, AAC) [F7818ABD].mkv
+!new/[DmonHiro] Koihime Musou NCOP (Bluray, 720p, AAC) [65B16F54].mkv
+!new/[DmonHiro] Koihime Musou OVA (Bluray, 720p, AAC) [7E63696F].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.02.[1280x720].[B92C5AD5].mkv
 !new/[Doremi].Doraemon.The.New.Record.of.Nobita.Spaceblazer.Movie.2009.[CD39C3F4].mkv
 !new/[Fnolli] .​hack⁄⁄Quantum - 01 [29937DBF].mkv
@@ -766,6 +773,7 @@
 !new/[Nipponsei] Star Driver ED1 Single - Cross Over [9nine].zip
 !new/[Nipponsei] Star Driver ED2 Single - Pride [SCANDAL].zip
 !new/[Nutbladder]_Suite_Precure_-_01_[3DA27245].mkv
+!new/[Nutbladder]_Suite_Precure_-_02_[819AAD27].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -1154,6 +1162,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[Tortoise] Hidamari Sketch Hoshimittsu - 05[Bluray - 1080p][FD03C4F7].mkv
 !new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_18_[720p][451D7C3B].mkv
+!new/[Victorique]_Gosick_-_06_[h264-720p][62161A73].mkv
 !new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_42_[3E5FAFD0][HD].mp4
 !new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_43_[D4F5D2F6][HD].mp4
 !new/[Weapon+] Wolverine - 06 [B0758476].mkv
