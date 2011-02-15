@@ -629,6 +629,7 @@
 !new/[AonE]_Haiyoru!_Nyaruani_TV_08_[C12223E1].mkv
 !new/[Coalgirls]_Kiddy_Grade_Movie_III_-_Truth_Dawn_(960x720_Blu-Ray_FLAC)_[90D00827].mkv
 !new/[Coalgirls]_Kiddy_Grade_Movie_II_-_Maelstrom_(960x720_Blu-Ray_FLAC)_[05DC1194].mkv
+!new/[CureCom] Fresh Pretty Cure! - 18 [HD][8C9DD408].mkv
 !new/[DigitalSubs] Eyeshield 21 - 100 [480p] [DA4499BE].mkv
 !new/[DigitalSubs] Eyeshield 21 - 101 [480p] [CD5DABEF].mkv
 !new/[DigitalSubs] Eyeshield 21 - 102 [480p] [0D9B2CC1].mkv
@@ -717,9 +718,11 @@
 !new/[Funnuraba]Eyeshield_21_-_81v2[DVD][3B06C500].mkv
 !new/[Funnuraba]Eyeshield_21_-_82[DVD][9AA8B751].mkv
 !new/[Funnuraba]Eyeshield_21_-_83[DVD][2F6CF074].mkv
+!new/[GotWoot]_Moonlight_Mile_S2_-_09_[720p_H264_AAC5.1][41213304].mkv
 !new/[HorribleSubs] Beelzebub - 06 [720p].mkv
 !new/[HorribleSubs] Bleach - 308 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 06 [720p].mkv
+!new/[HorribleSubs] Fairy Tail - 66 [720p].mkv
 !new/[HorribleSubs] Kateikyoushi Hitman Reborn - 165 [480p].mkv
 !new/[HorribleSubs] Kateikyoushi Hitman Reborn - 171 [480p].mkv
 !new/[HorribleSubs] Kateikyoushi Hitman Reborn - 172 [480p].mkv
@@ -741,6 +744,7 @@
 !new/[HorribleSubs] Kateikyoushi Hitman Reborn - 188 [480p].mkv
 !new/[HorribleSubs] Kateikyoushi Hitman Reborn - 190 [480p].mkv
 !new/[HorribleSubs] Kateikyoushi Hitman Reborn - 191 [480p].mkv
+!new/[HorribleSubs] Level E - 06 [720p].mkv
 !new/[HorribleSubs] Lilpri - 45 [720p].mkv
 !new/[HorribleSubs] Lilpri - 45v2 [720p].mkv
 !new/[HorribleSubs] Mitsudomoe 2 - 06 [720p].mkv
@@ -753,12 +757,17 @@
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP1 [BD 1280x720 H264 OGG] [BD01F6E4].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP2 [BD 848x480 H264 OGG] [E26716A2].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP3 [BD 848x480 H264 OGG] [D7CC1197].mkv
+!new/[Live-eviL]_Future_Boy_Conan_Ep_23_[h264&MP3]_[b1c7762f].mp4
 !new/[Nipponsei] Beelzebub OP Single - Dadada [Group Tamashii].zip
 !new/[Nipponsei] Cardfight!! Vanguard ED Single - Diamond Star [Asou Natsuko].zip
 !new/[Nipponsei] Dragon Crisis! OP Single - Immoralist [Horie Yui].zip
+!new/[Nipponsei] Hyakka Ryouran Samurai Girls Original Soundtrack.zip
 !new/[Nipponsei] Kore wa Zombie desu ka ED Single - Kizuite Zombie-sama, Watashi wa Classmate desu [Yamaguchi Rie with manzo].zip
 !new/[Nipponsei] Kore wa Zombie desu ka OP Single - Makasete Tonight [Nomizu Iori].zip
+!new/[Nipponsei] Kuroshitsuji II Original Soundtrack.zip
 !new/[Nipponsei] NARUTO Shippuuden ED16 Single - Mayonaka no Orchestra [Aqua Timez].zip
+!new/[Nipponsei] Otome Youkai Zakuro Variety CD - Kayou Kobanashi Shuu.zip
+!new/[Nipponsei] Shinrei Tantei Yakumo Original Soundtrack.zip
 !new/[Nipponsei] Star Driver ED1 Single - Cross Over [9nine].zip
 !new/[Nipponsei] Star Driver ED2 Single - Pride [SCANDAL].zip
 !new/[Nutbladder]_Suite_Precure_-_01_[3DA27245].mkv
@@ -800,6 +809,7 @@
 !new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E12 'Assault on the Point of No Return'.mkv
 !new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E13 'A Storm Raging Through'.mkv
 !new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered Special 'The Mayfly of Space'.mkv
+!new/[Over-Time]_Kamen_Rider_OOO_-_22_[EBC9E398].mkv
 !new/[RyRo]_Inazuma_Eleven_-_117_(1280x720_x264_AAC)_[56FBD2FA].mkv
 !new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 05 [1080p - Bluray][9AAF9159].mkv
 !new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 06 [1080p - Bluray][79DED96B].mkv
@@ -833,6 +843,7 @@
 !new/[Ryuumaru] Omamori Himari - OP (Clean) - 09 [DVD][D73B5E36].mkv
 !new/[Ryuumaru] Omamori Himari - OP (Clean) - 10 [DVD][8A417D2F].mkv
 !new/[Ryuumaru] Omamori Himari - OP (Clean) - 11 [DVD][24B547D8].mkv
+!new/[SD&Taka]_Dragonball_Kai_-_063_[720p][648E0FCB].mkv
 !new/[SMS] Starry Sky - 08 [B96F1C29].mkv
 !new/[Saizen]_Captain_Tsubasa_Road_to_2002_-_21_[DVD][7071AD3C].mkv
 !new/[Saizen]_Eyeshield_21_-_01(4715C26D).avi
@@ -901,6 +912,7 @@
 !new/[Saizen]_Eyeshield_21_-_66_[DVD][3DF0C028].mp4
 !new/[Saizen]_Eyeshield_21_-_67_[DVD][905CC0DA].mp4
 !new/[Saizen]_Eyeshield_21_-_68_[DVD][5A74C232].mp4
+!new/[TMD_A-Destiny]_Bakuman_19_[720p][2A556D8D].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -1141,7 +1153,10 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[Tortoise] Hidamari Sketch Hoshimittsu - 05[Bluray - 1080p][FD03C4F7].mkv
+!new/[Underwater-Commie] Dragon Crisis! - 06 (720p) [5DF36DEE].mkv
+!new/[Underwater-Commie] Kore wa Zombie Desu ka - 06 (720p) [904E4D84].mkv
 !new/[WinD]_Higurashi_no_Naku_Koro_ni_Kai_13_[DVD][1C8F2A03].mkv
+!new/[WinD]_Higurashi_no_Naku_Koro_ni_Kai_14_[DVD][F1DF00D6].mkv
 !new/[Zero-Raws] Shuffle! - 01 (BD 1280x720 x264 FLAC) subbed[2143C867]-TSuNDeRe.mkv
 !new/[Zero-Raws] Shuffle! - 02 (BD 1280x720 x264 FLAC) subbed[96B195B8]-TSuNDeRe.mkv
 !new/[Zero-Raws] Shuffle! - 03 (BD 1280x720 x264 FLAC) subbed[87FB2DD9]-TSuNDeRe.mkv
