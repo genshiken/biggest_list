@@ -38,6 +38,7 @@ movie/Doraemon/[Doremi-Doraemon] Nobita's Dinosaur Movie 2006 [94FCCFBE].avi
 movie/Doraemon/[Doremi-Doraemon] Nobita's New Adventure Into The Magic Planet Movie 2007 [C34F26C7].mkv
 movie/Doraemon/[Doremi-Hatsuyuki] Doraemon (2010) - Nobita and the Great Mermaid Battle [BA365505].mkv
 movie/Doraemon/[Doremi] Doraemon (2008) - Nobita and the Legend of the Green Giant [F988BE25].mkv
+movie/Doraemon/[Doremi] Doraemon (2009) - The New Record of Nobita Spaceblazer [CD39C3F4].mkv
 movie/Doraemon/[Nobita] Nobita no Kekkon Zenya [FC36662B].mkv
 movie/Eden of the East/[Coalgirls] Eden of the East - Movie 1 (1920x1080) [BD][268965BF].mkv
 movie/Eden of the East/[Commie] Eden of the East - Movie II - Opening (1920x1080) [BD][E76EF0FF].mkv
@@ -93,7 +94,8 @@ movie/Kara no Kyoukai/[gg-TakaJun] Kara no Kyoukai - Chapter 5 - Paradox Spiral 
 movie/Kara no Kyoukai/[gg-TakaJun] Kara no Kyoukai - Chapter 6 - Oblivion Recorder [238F9CE7].mkv
 movie/Kara no Kyoukai/[gg-TakaJun] Kara no Kyoukai - Chapter 7 - Murder Study (Part 2) [9789CE05].mkv
 movie/Kiddy Grade/[Coalgirls] Kiddy Grade - Movie 1 [720p BD][40B97392].mkv
-movie/Kiddy Grade/[Coalgirls] Kiddy Grade - Movie 2 [720p BD][17391355].mkv
+movie/Kiddy Grade/[Coalgirls] Kiddy Grade - Movie 2 [720p BD][05DC1194].mkv
+movie/Kiddy Grade/[Coalgirls] Kiddy Grade - Movie 3 [720p BD][90D00827].mkv
 movie/Kimagure Orange Road/[bishi] Kimagure Orange Road - Hurricane! Henshin Shoujo Akane [DVD][0E10A7E6].avi
 movie/Kimagure Orange Road/[bishi] Kimagure Orange Road - I Want to Return to That Day [DVD][5D5C8BB2].avi
 movie/Kimagure Orange Road/[bishi] Kimagure Orange Road - Koi no Stage = Heart on Fire! Haru wa Idol! [DVD][8C69265D].avi

@@ -350,7 +350,6 @@
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
-!new/README FIRST!.txt
 !new/Ranma (Complete)/Ranma Movies and OVAs/Thumbs.db
 !new/Ranma (Complete)/Ranma Movies and OVAs/[anime_fin]_Ranma_Movie_1_DVDRiP_dualaudio.ogm
 !new/Ranma (Complete)/Ranma Movies and OVAs/[anime_fin]_Ranma_Movie_2_DVDRiP_dualaudio.ogm
@@ -625,153 +624,9 @@
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 165. Time for the Crystal to Shine! Beautiful Power of Dreams (v2) [243AEA50].ogm
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 166. Dreams Forever! Light Throughout the Sky (v2) [A17C8F85].ogm
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] Sailor Moon SuperS Plus Ami-chan no Hatsukoi R2 DVD(H264.AC3).mkv
-!new/Yui Horie - Immoralist.DVD-Bakazooka.mkv
-!new/[AonE]_Haiyoru!_Nyaruani_TV_08_[C12223E1].mkv
-!new/[Coalgirls]_Kiddy_Grade_Movie_III_-_Truth_Dawn_(960x720_Blu-Ray_FLAC)_[90D00827].mkv
-!new/[Coalgirls]_Kiddy_Grade_Movie_II_-_Maelstrom_(960x720_Blu-Ray_FLAC)_[05DC1194].mkv
-!new/[CureCom] Fresh Pretty Cure! - 18 [HD][8C9DD408].mkv
-!new/[DigitalSubs] Eyeshield 21 - 100 [480p] [DA4499BE].mkv
-!new/[DigitalSubs] Eyeshield 21 - 101 [480p] [CD5DABEF].mkv
-!new/[DigitalSubs] Eyeshield 21 - 102 [480p] [0D9B2CC1].mkv
-!new/[DigitalSubs] Eyeshield 21 - 103 [480p] [C608FCCA].mkv
-!new/[DigitalSubs] Eyeshield 21 - 104 [480p] [3B65EC62].mkv
-!new/[DigitalSubs] Eyeshield 21 - 105 [480p] [9FE7DC6B].mkv
-!new/[DigitalSubs] Eyeshield 21 - 106 [480p] [DBB3FC2F].mkv
-!new/[DigitalSubs] Eyeshield 21 - 107 [480p] [65F21B72].mkv
-!new/[DigitalSubs] Eyeshield 21 - 108 [480p] [B0DFF005].mkv
-!new/[DigitalSubs] Eyeshield 21 - 109 [480p] [25ED6D55].mkv
-!new/[DigitalSubs] Eyeshield 21 - 110 [480p] [8B546E19].mkv
-!new/[DigitalSubs] Eyeshield 21 - 111 [480p] [470ACBFE].mkv
-!new/[DigitalSubs] Eyeshield 21 - 112 [480p] [309A0F44].mkv
-!new/[DigitalSubs] Eyeshield 21 - 113 [480p] [879B0649].mkv
-!new/[DigitalSubs] Eyeshield 21 - 114 [480p] [4C19D774].mkv
-!new/[DigitalSubs] Eyeshield 21 - 115 [480p] [1A7DBF27].mkv
-!new/[DigitalSubs] Eyeshield 21 - 116 [480p] [5AE1161B].mkv
-!new/[DigitalSubs] Eyeshield 21 - 117 [480p] [18C509CD].mkv
-!new/[DigitalSubs] Eyeshield 21 - 118 [480p] [17EC5E9D].mkv
-!new/[DigitalSubs] Eyeshield 21 - 119 [480p] [EFE6ED86].mkv
-!new/[DigitalSubs] Eyeshield 21 - 120 [480p] [F8E88021].mkv
-!new/[DigitalSubs] Eyeshield 21 - 121 [480p] [D5F1E4FC].mkv
-!new/[DigitalSubs] Eyeshield 21 - 122 [480p] [FC49A612].mkv
-!new/[DigitalSubs] Eyeshield 21 - 123 [480p] [FAF70BDA].mkv
-!new/[DigitalSubs] Eyeshield 21 - 124 [480p] [3252875D].mkv
-!new/[DigitalSubs] Eyeshield 21 - 125 [480p] [59C763B8].mkv
-!new/[DigitalSubs] Eyeshield 21 - 126 [480p] [CA92CBBC].mkv
-!new/[DigitalSubs] Eyeshield 21 - 127 [480p] [433BD455].mkv
-!new/[DigitalSubs] Eyeshield 21 - 128 [480p] [42EC8C55].mkv
-!new/[DigitalSubs] Eyeshield 21 - 129 [480p] [A3E2D2FC].mkv
-!new/[DigitalSubs] Eyeshield 21 - 130 [480p] [8651A470].mkv
-!new/[DigitalSubs] Eyeshield 21 - 131 [480p] [4BFAEF22].mkv
-!new/[DigitalSubs] Eyeshield 21 - 132 [480p] [F1CF1398].mkv
-!new/[DigitalSubs] Eyeshield 21 - 133 [480p] [B967E856].mkv
-!new/[DigitalSubs] Eyeshield 21 - 134 [480p] [3AE1CDD8].mkv
-!new/[DigitalSubs] Eyeshield 21 - 135 [480p] [94536BDF].mkv
-!new/[DigitalSubs] Eyeshield 21 - 136 [480p] [0A2F4B33].mkv
-!new/[DigitalSubs] Eyeshield 21 - 137 [480p] [A3D42ADB].mkv
-!new/[DigitalSubs] Eyeshield 21 - 138 [480p] [D7A54582].mkv
-!new/[DigitalSubs] Eyeshield 21 - 139 [480p] [B47548B0].mkv
-!new/[DigitalSubs] Eyeshield 21 - 140 [480p] [EE6F5C19].mkv
-!new/[DigitalSubs] Eyeshield 21 - 141 [480p] [456986A0].mkv
-!new/[DigitalSubs] Eyeshield 21 - 142 [480p] [23E8B84F].mkv
-!new/[DigitalSubs] Eyeshield 21 - 143 [480p] [0D7308CD].mkv
-!new/[DigitalSubs] Eyeshield 21 - 144 [480p] [A0396409].mkv
-!new/[DigitalSubs] Eyeshield 21 - 145 [480p] [4CEC6371].mkv
-!new/[DigitalSubs] Eyeshield 21 - 84 [480p] [A0C793AD].mkv
-!new/[DigitalSubs] Eyeshield 21 - 85 [480p] [0A84B6F0].mkv
-!new/[DigitalSubs] Eyeshield 21 - 86 [480p] [A3FCDD16].mkv
-!new/[DigitalSubs] Eyeshield 21 - 87 [480p] [8E8816E4].mkv
-!new/[DigitalSubs] Eyeshield 21 - 88 [480p] [4BF4E2F4].mkv
-!new/[DigitalSubs] Eyeshield 21 - 89 [480p] [7FE46CC8].mkv
-!new/[DigitalSubs] Eyeshield 21 - 90 [480p] [7095F8C8].mkv
-!new/[DigitalSubs] Eyeshield 21 - 91 [480p] [F3EC688F].mkv
-!new/[DigitalSubs] Eyeshield 21 - 92 [480p] [D90F80D1].mkv
-!new/[DigitalSubs] Eyeshield 21 - 93 [480p] [804FCDA8].mkv
-!new/[DigitalSubs] Eyeshield 21 - 94 [480p] [42F67C8C].mkv
-!new/[DigitalSubs] Eyeshield 21 - 95 [480p] [BDD8C5E8].mkv
-!new/[DigitalSubs] Eyeshield 21 - 96 [480p] [51B21FC6].mkv
-!new/[DigitalSubs] Eyeshield 21 - 97 [480p] [23A77AED].mkv
-!new/[DigitalSubs] Eyeshield 21 - 98 [480p] [24BDAEEA].mkv
-!new/[DigitalSubs] Eyeshield 21 - 99 [480p] [6C39667A].mkv
-!new/[DmonHiro] Koihime Musou 09 (Bluray, 720p, AAC) [360FFBC1].mkv
-!new/[DmonHiro] Koihime Musou 10 (Bluray, 720p, AAC) [810D6ED4].mkv
-!new/[DmonHiro] Koihime Musou 11 (Bluray, 720p, AAC) [87FB9049].mkv
-!new/[DmonHiro] Koihime Musou 12 (Bluray, 720p, AAC) [215292F3].mkv
-!new/[DmonHiro] Koihime Musou NCED (Bluray, 720p, AAC) [F7818ABD].mkv
-!new/[DmonHiro] Koihime Musou NCOP (Bluray, 720p, AAC) [65B16F54].mkv
-!new/[DmonHiro] Koihime Musou OVA (Bluray, 720p, AAC) [7E63696F].mkv
-!new/[Doremi-CureCom].Suite.PreCure!.02.[1280x720].[B92C5AD5].mkv
-!new/[Doremi].Doraemon.The.New.Record.of.Nobita.Spaceblazer.Movie.2009.[CD39C3F4].mkv
-!new/[Fnolli] .​hack⁄⁄Quantum - 01 [29937DBF].mkv
-!new/[Funnuraba]Eyeshield_21_-_69[DVD][DA9DBEB9].mkv
-!new/[Funnuraba]Eyeshield_21_-_70[DVD][12693683].mkv
-!new/[Funnuraba]Eyeshield_21_-_71[DVD][0DD54731].mkv
-!new/[Funnuraba]Eyeshield_21_-_72[DVD][6BE5ABB0].mkv
-!new/[Funnuraba]Eyeshield_21_-_73-74_Special_[B8A81275].avi
-!new/[Funnuraba]Eyeshield_21_-_73[DVD][0FC6E30E].mkv
-!new/[Funnuraba]Eyeshield_21_-_74[DVD][075D1264].mkv
-!new/[Funnuraba]Eyeshield_21_-_75[DVD][EC73B385].mkv
-!new/[Funnuraba]Eyeshield_21_-_76[DVD][D7333C7A].mkv
-!new/[Funnuraba]Eyeshield_21_-_77[DVD][F01FA29D].mkv
-!new/[Funnuraba]Eyeshield_21_-_78[DVD][18351E43].mkv
-!new/[Funnuraba]Eyeshield_21_-_79v2[DVD][A6AAB794].mkv
-!new/[Funnuraba]Eyeshield_21_-_80[DVD][8DB04E81].mkv
-!new/[Funnuraba]Eyeshield_21_-_81v2[DVD][3B06C500].mkv
-!new/[Funnuraba]Eyeshield_21_-_82[DVD][9AA8B751].mkv
-!new/[Funnuraba]Eyeshield_21_-_83[DVD][2F6CF074].mkv
-!new/[GotWoot]_Moonlight_Mile_S2_-_09_[720p_H264_AAC5.1][41213304].mkv
-!new/[HorribleSubs] Beelzebub - 06 [720p].mkv
-!new/[HorribleSubs] Bleach - 308 [720p].mkv
-!new/[HorribleSubs] Cardfight!! Vanguard - 06 [720p].mkv
-!new/[HorribleSubs] Fairy Tail - 66 [720p].mkv
-!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 165 [480p].mkv
-!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 171 [480p].mkv
-!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 172 [480p].mkv
-!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 173 [480p].mkv
-!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 174 [480p].mkv
-!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 175 [480p].mkv
-!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 176 [480p].mkv
-!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 177 [480p].mkv
-!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 178 [480p].mkv
-!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 179 [480p].mkv
-!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 180 [480p].mkv
-!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 181 [480p].mkv
-!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 182 [480p].mkv
-!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 183 [480p].mkv
-!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 184 [480p].mkv
-!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 185 [480p].mkv
-!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 186 [480p].mkv
-!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 187 [480p].mkv
-!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 188 [480p].mkv
-!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 190 [480p].mkv
-!new/[HorribleSubs] Kateikyoushi Hitman Reborn - 191 [480p].mkv
-!new/[HorribleSubs] Level E - 06 [720p].mkv
-!new/[HorribleSubs] Lilpri - 45 [720p].mkv
-!new/[HorribleSubs] Lilpri - 45v2 [720p].mkv
-!new/[HorribleSubs] Mitsudomoe 2 - 06 [720p].mkv
-!new/[HorribleSubs] Naruto Shippuuden - 197 [720p].mkv
-!new/[HorribleSubs] Rio - Rainbow Gate - 06 [720p].mkv
-!new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 19 [720p].mkv
-!new/[HorribleSubs] Tegami Bachi REVERSE - 44 [720p].mkv
-!new/[HorribleSubs] Tegami Bachi REVERSE - 44v2 [720p].mkv
-!new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_45_[39398BA9].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP1 [BD 1280x720 H264 OGG] [BD01F6E4].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP2 [BD 848x480 H264 OGG] [E26716A2].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP3 [BD 848x480 H264 OGG] [D7CC1197].mkv
-!new/[Live-eviL]_Future_Boy_Conan_Ep_23_[h264&MP3]_[b1c7762f].mp4
-!new/[Nipponsei] Beelzebub OP Single - Dadada [Group Tamashii].zip
-!new/[Nipponsei] Cardfight!! Vanguard ED Single - Diamond Star [Asou Natsuko].zip
-!new/[Nipponsei] Dragon Crisis! OP Single - Immoralist [Horie Yui].zip
-!new/[Nipponsei] Hyakka Ryouran Samurai Girls Original Soundtrack.zip
-!new/[Nipponsei] Kore wa Zombie desu ka ED Single - Kizuite Zombie-sama, Watashi wa Classmate desu [Yamaguchi Rie with manzo].zip
-!new/[Nipponsei] Kore wa Zombie desu ka OP Single - Makasete Tonight [Nomizu Iori].zip
-!new/[Nipponsei] Kuroshitsuji II Original Soundtrack.zip
-!new/[Nipponsei] NARUTO Shippuuden ED16 Single - Mayonaka no Orchestra [Aqua Timez].zip
-!new/[Nipponsei] Otome Youkai Zakuro Variety CD - Kayou Kobanashi Shuu.zip
-!new/[Nipponsei] Shinrei Tantei Yakumo Original Soundtrack.zip
-!new/[Nipponsei] Star Driver ED1 Single - Cross Over [9nine].zip
-!new/[Nipponsei] Star Driver ED2 Single - Pride [SCANDAL].zip
-!new/[Nutbladder]_Suite_Precure_-_01_[3DA27245].mkv
-!new/[Nutbladder]_Suite_Precure_-_02_[819AAD27].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -795,125 +650,6 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
-!new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E01 'Gundamjack' [v2].mkv
-!new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E02 'Endless Pursuit'.mkv
-!new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E03 'Into Battle, Albion'.mkv
-!new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E04 'Attack and Retreat on the Burning Sand'.mkv
-!new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E05 'Gundam, To the Sea of Stars'.mkv
-!new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E06 'The Warrior of Von Braun'.mkv
-!new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E07 'With Shining Blue Fire'.mkv
-!new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E08 'Conspiracy Sector'.mkv
-!new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E09 'The Nightmare of Solomon'.mkv
-!new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E10 'Colliding Warzones'.mkv
-!new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E11 'La Vie En Rose'.mkv
-!new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E12 'Assault on the Point of No Return'.mkv
-!new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E13 'A Storm Raging Through'.mkv
-!new/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered Special 'The Mayfly of Space'.mkv
-!new/[Over-Time]_Kamen_Rider_OOO_-_22_[EBC9E398].mkv
-!new/[Over-Time]_Pirate_Sentai_Gokaiger_-_01_[C1C5183E].mkv
-!new/[RyRo]_Inazuma_Eleven_-_117_(1280x720_x264_AAC)_[56FBD2FA].mkv
-!new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 05 [1080p - Bluray][9AAF9159].mkv
-!new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 06 [1080p - Bluray][79DED96B].mkv
-!new/[Ryuumaru] Omamori Himari - 01 [DVD][5A47B581].mkv
-!new/[Ryuumaru] Omamori Himari - 02 [DVD][8A641A72].mkv
-!new/[Ryuumaru] Omamori Himari - 03 [DVD][67F0B93E].mkv
-!new/[Ryuumaru] Omamori Himari - 04 [DVD][0C34CB5D].mkv
-!new/[Ryuumaru] Omamori Himari - 05 [DVD][D0ED8432].mkv
-!new/[Ryuumaru] Omamori Himari - 06 [DVD][9DD5D13F].mkv
-!new/[Ryuumaru] Omamori Himari - 07 [DVD][F1E446E2].mkv
-!new/[Ryuumaru] Omamori Himari - 08 [DVD][F13338AA].mkv
-!new/[Ryuumaru] Omamori Himari - 09 [DVD][90344903].mkv
-!new/[Ryuumaru] Omamori Himari - 10 [DVD][DA266EDC].mkv
-!new/[Ryuumaru] Omamori Himari - 11 [DVD][523BF982].mkv
-!new/[Ryuumaru] Omamori Himari - 12 [DVD][5543CED3].mkv
-!new/[Ryuumaru] Omamori Himari - ED (Clean) - 01 [DVD][8BEB387D].mkv
-!new/[Ryuumaru] Omamori Himari - ED (Clean) - 02 [DVD][14C25036].mkv
-!new/[Ryuumaru] Omamori Himari - ED (Clean) - 03 [DVD][597D8CE5].mkv
-!new/[Ryuumaru] Omamori Himari - ED (Clean) - 04 [DVD][AECE95FE].mkv
-!new/[Ryuumaru] Omamori Himari - ED (Clean) - 05 [DVD][4364AA15].mkv
-!new/[Ryuumaru] Omamori Himari - ED (Clean) - 06 [DVD][8C27442D].mkv
-!new/[Ryuumaru] Omamori Himari - ED (Clean) - 07 [DVD][4F444C8A].mkv
-!new/[Ryuumaru] Omamori Himari - OP (Clean) - 01 [DVD][0DDF0583].mkv
-!new/[Ryuumaru] Omamori Himari - OP (Clean) - 02 [DVD][07D12A9F].mkv
-!new/[Ryuumaru] Omamori Himari - OP (Clean) - 03 [DVD][389E00CC].mkv
-!new/[Ryuumaru] Omamori Himari - OP (Clean) - 04 [DVD][273A9F01].mkv
-!new/[Ryuumaru] Omamori Himari - OP (Clean) - 05 [DVD][F282AF14].mkv
-!new/[Ryuumaru] Omamori Himari - OP (Clean) - 06 [DVD][EB3B181A].mkv
-!new/[Ryuumaru] Omamori Himari - OP (Clean) - 07 [DVD][16F39D0D].mkv
-!new/[Ryuumaru] Omamori Himari - OP (Clean) - 08 [DVD][EA044CB6].mkv
-!new/[Ryuumaru] Omamori Himari - OP (Clean) - 09 [DVD][D73B5E36].mkv
-!new/[Ryuumaru] Omamori Himari - OP (Clean) - 10 [DVD][8A417D2F].mkv
-!new/[Ryuumaru] Omamori Himari - OP (Clean) - 11 [DVD][24B547D8].mkv
-!new/[SD&Taka]_Dragonball_Kai_-_063_[720p][648E0FCB].mkv
-!new/[SMS] Starry Sky - 08 [B96F1C29].mkv
-!new/[Saizen]_Captain_Tsubasa_Road_to_2002_-_21_[DVD][7071AD3C].mkv
-!new/[Saizen]_Eyeshield_21_-_01(4715C26D).avi
-!new/[Saizen]_Eyeshield_21_-_02(48F28973).avi
-!new/[Saizen]_Eyeshield_21_-_03(21C4A6D0).avi
-!new/[Saizen]_Eyeshield_21_-_04(A80547BA).avi
-!new/[Saizen]_Eyeshield_21_-_05(06C25AC2).avi
-!new/[Saizen]_Eyeshield_21_-_06(9B264D83).avi
-!new/[Saizen]_Eyeshield_21_-_07(309C68C7).avi
-!new/[Saizen]_Eyeshield_21_-_08(D6F136BD).avi
-!new/[Saizen]_Eyeshield_21_-_09(E56F8B8A).avi
-!new/[Saizen]_Eyeshield_21_-_10(9A85B3EB).avi
-!new/[Saizen]_Eyeshield_21_-_11[545E0AE9].avi
-!new/[Saizen]_Eyeshield_21_-_12[7B9050B1].avi
-!new/[Saizen]_Eyeshield_21_-_13[45D55132].avi
-!new/[Saizen]_Eyeshield_21_-_14[15D1C823].avi
-!new/[Saizen]_Eyeshield_21_-_15[3CA1B3DC].avi
-!new/[Saizen]_Eyeshield_21_-_16[DD645B09].avi
-!new/[Saizen]_Eyeshield_21_-_17[7F49C9FF].avi
-!new/[Saizen]_Eyeshield_21_-_18[41C0EC93].avi
-!new/[Saizen]_Eyeshield_21_-_19[3AAEC72F].avi
-!new/[Saizen]_Eyeshield_21_-_20[01FD3EC7].avi
-!new/[Saizen]_Eyeshield_21_-_21[C577006E].avi
-!new/[Saizen]_Eyeshield_21_-_22-23[0EBDE0D4].avi
-!new/[Saizen]_Eyeshield_21_-_24[EFBB74DE].avi
-!new/[Saizen]_Eyeshield_21_-_25[34ED99F3].avi
-!new/[Saizen]_Eyeshield_21_-_26[02BA53BA].avi
-!new/[Saizen]_Eyeshield_21_-_27[7958AF9F].avi
-!new/[Saizen]_Eyeshield_21_-_28[457C0665].avi
-!new/[Saizen]_Eyeshield_21_-_29[E7B94180].avi
-!new/[Saizen]_Eyeshield_21_-_30[179601A8].avi
-!new/[Saizen]_Eyeshield_21_-_31[8C4D6390].avi
-!new/[Saizen]_Eyeshield_21_-_32[455E561A].avi
-!new/[Saizen]_Eyeshield_21_-_33[B01F1C62].avi
-!new/[Saizen]_Eyeshield_21_-_34[E579B57C].avi
-!new/[Saizen]_Eyeshield_21_-_35[B8764A90].avi
-!new/[Saizen]_Eyeshield_21_-_36_[H264+AAC]_[C9A70EB4].mp4
-!new/[Saizen]_Eyeshield_21_-_37_[H264+AAC]_[92F96D30].mp4
-!new/[Saizen]_Eyeshield_21_-_38_[H264+AAC]_[BF4DD14C].mp4
-!new/[Saizen]_Eyeshield_21_-_39-40_[H264+AAC]_[319E4D7C].mp4
-!new/[Saizen]_Eyeshield_21_-_41_[DVD][B1FCB119].mp4
-!new/[Saizen]_Eyeshield_21_-_42_[DVD][18E4B32B].mp4
-!new/[Saizen]_Eyeshield_21_-_43_[DVD][8A330747].mp4
-!new/[Saizen]_Eyeshield_21_-_44_[DVD][FD325641].mp4
-!new/[Saizen]_Eyeshield_21_-_45_[DVD][AE6796D2].mp4
-!new/[Saizen]_Eyeshield_21_-_46_[DVD][DE1B6BEF].mp4
-!new/[Saizen]_Eyeshield_21_-_47_[DVD][62304EDF].mp4
-!new/[Saizen]_Eyeshield_21_-_48_[DVD][2903DCB8].mp4
-!new/[Saizen]_Eyeshield_21_-_49_[DVD][F515288B].mp4
-!new/[Saizen]_Eyeshield_21_-_50_[DVD][AAEFDB25].mp4
-!new/[Saizen]_Eyeshield_21_-_51_[DVD][48F48504].mp4
-!new/[Saizen]_Eyeshield_21_-_52_[DVD][081787FC].mp4
-!new/[Saizen]_Eyeshield_21_-_53_[DVD][E354F3D1].mp4
-!new/[Saizen]_Eyeshield_21_-_54_[DVD][FD881893].mp4
-!new/[Saizen]_Eyeshield_21_-_55_[DVD][5F86405D].mp4
-!new/[Saizen]_Eyeshield_21_-_56_[DVD][188B30BF].mp4
-!new/[Saizen]_Eyeshield_21_-_57_[DVD][42C6975C].mp4
-!new/[Saizen]_Eyeshield_21_-_58_[DVD][084C26AD].mp4
-!new/[Saizen]_Eyeshield_21_-_59_[DVD][DF4BAB7F].mp4
-!new/[Saizen]_Eyeshield_21_-_60_[DVD][827B85E0].mp4
-!new/[Saizen]_Eyeshield_21_-_61_[DVD][D9512A2D].mp4
-!new/[Saizen]_Eyeshield_21_-_62_[DVD][CC7E76C1].mp4
-!new/[Saizen]_Eyeshield_21_-_63_[DVD][A42643AA].mp4
-!new/[Saizen]_Eyeshield_21_-_64_[DVD][69385C9B].mp4
-!new/[Saizen]_Eyeshield_21_-_65_[DVD][5DAFE4AB].mp4
-!new/[Saizen]_Eyeshield_21_-_66_[DVD][3DF0C028].mp4
-!new/[Saizen]_Eyeshield_21_-_67_[DVD][905CC0DA].mp4
-!new/[Saizen]_Eyeshield_21_-_68_[DVD][5A74C232].mp4
-!new/[TMD_A-Destiny]_Bakuman_19_[720p][2A556D8D].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -1153,23 +889,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[Tortoise] Hidamari Sketch Hoshimittsu - 05[Bluray - 1080p][FD03C4F7].mkv
-!new/[Underwater-Commie] Dragon Crisis! - 06 (720p) [5DF36DEE].mkv
-!new/[Underwater-Commie] Kore wa Zombie Desu ka - 06 (720p) [904E4D84].mkv
-!new/[WinD]_Higurashi_no_Naku_Koro_ni_Kai_13_[DVD][1C8F2A03].mkv
-!new/[WinD]_Higurashi_no_Naku_Koro_ni_Kai_14_[DVD][F1DF00D6].mkv
-!new/[Zero-Raws] Shuffle! - 01 (BD 1280x720 x264 FLAC) subbed[2143C867]-TSuNDeRe.mkv
-!new/[Zero-Raws] Shuffle! - 02 (BD 1280x720 x264 FLAC) subbed[96B195B8]-TSuNDeRe.mkv
-!new/[Zero-Raws] Shuffle! - 03 (BD 1280x720 x264 FLAC) subbed[87FB2DD9]-TSuNDeRe.mkv
-!new/[Zero-Raws] Shuffle! - 04 (BD 1280x720 x264 FLAC) subbed[8C611AE2]-TSuNDeRe.mkv
-!new/[Zero-Raws] Shuffle! - 05 (BD 1280x720 x264 FLAC) subbed[05C90195]-TSuNDeRe.mkv
-!new/[Zero-Raws] Shuffle! - 06 (BD 1280x720 x264 FLAC) subbed[F489E7D0]-TSuNDeRe.mkv
-!new/[iSiscon]_ClariS_-_Mahou_Shoujo_Madoka_Magica_OP_Single_-_Connect_[w_scans]_(FLAC).rar
-!new/[iSiscon]_Horie_Yui_-_TV_Anime_Dragon_Crisis!_OP_Single_-_Immoralist_[w_scans]_(FLAC).rar
-!new/[iSiscon]_KOKOMI_-_PS3_Umineko_no_Naku_Koro_ni_~Majou_to_Suiri_no_Rinbukyoku~_OP_Single_-_Chikai_Hibiki_no_Igureja_[w_scans]_(FLAC).rar
-!new/[iSiscon]_Kousaka_Kirino_(CV._Taketatsu_Ayana),_Aragaki_Ayase_(CV._Hayami_Saori)_-_TV_Anime_Ore_no_Imouto_ga_Konna_ni_Kawaii_wake_ga_nai_ED3_ED4_Single_-_Horaism,_Shiroi_Kokoro_[w_scans]_(FLAC).rar
-!new/[iSiscon]_Nomizu_Iori_-_TV_Anime_Kore_ha_Zombie_Desu_ka_OP_Single_-_Ma・Ka・Se・Te_Tonight_[w_scans]_(FLAC).rar
-!new/[iSiscon]_Yamaguchi_Rie_with_manzo_-_TV_Anime_Kore_ha_Zombie_Desu_ka_ED_Single_-_Kizuite_Zombie-sama,_Watashi_ha_Classmate_desu_[w_scans]_(FLAC).rar
 !new/[ray=out]_Before_Green_Gables_-_13_[720p][83AD109F].mkv
 !new/[ray=out]_Before_Green_Gables_-_14_[HD][0D630912].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
@@ -1272,12 +991,96 @@
 !new/bla/zx.black.heaven.12.sub.rar
 !new/bla/zx.black.heaven.13.dub.avi
 !new/bla/zx.black.heaven.13.sub.rar
-!new/gundam.zip
 !new/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/lama/[Ayako] Wei� Survive R - 01 - H264 - E975A989.mkv
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
 !new/lama/[Kuroneko] Fullmetal Alchemist - Chibi Party OAV [DB1546EB].avi
 !new/lama/[TAC Studios] Hunter X Hunter - Requiem.avi
+!new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E01 'Gundamjack' [v2].mkv
+!new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E02 'Endless Pursuit'.mkv
+!new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E03 'Into Battle, Albion'.mkv
+!new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E04 'Attack and Retreat on the Burning Sand'.mkv
+!new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E05 'Gundam, To the Sea of Stars'.mkv
+!new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E06 'The Warrior of Von Braun'.mkv
+!new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E07 'With Shining Blue Fire'.mkv
+!new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E08 'Conspiracy Sector'.mkv
+!new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E09 'The Nightmare of Solomon'.mkv
+!new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E10 'Colliding Warzones'.mkv
+!new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E11 'La Vie En Rose'.mkv
+!new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E12 'Assault on the Point of No Return'.mkv
+!new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E13 'A Storm Raging Through'.mkv
+!new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered Special 'The Mayfly of Space'.mkv
+!new/narutoship/Naruto Shippuden 001-002.avi
+!new/narutoship/Naruto Shippuden 003.avi
+!new/narutoship/Naruto Shippuden 004.avi
+!new/narutoship/Naruto Shippuden 005.avi
+!new/narutoship/Naruto Shippuden 006-007.avi
+!new/narutoship/Naruto Shippuden 008-009.avi
+!new/narutoship/Naruto Shippuden 010.avi
+!new/narutoship/Naruto Shippuden 011.avi
+!new/narutoship/Naruto Shippuden 012.avi
+!new/narutoship/Naruto Shippuden 013.avi
+!new/narutoship/Naruto Shippuden 014.avi
+!new/narutoship/Naruto Shippuden 015.avi
+!new/narutoship/Naruto Shippuden 016.avi
+!new/narutoship/Naruto Shippuden 017.avi
+!new/narutoship/Naruto Shippuden 018.avi
+!new/narutoship/Naruto Shippuden 019.avi
+!new/narutoship/Naruto Shippuden 020.avi
+!new/narutoship/Naruto Shippuden 021.avi
+!new/narutoship/Naruto Shippuden 022-023.avi
+!new/narutoship/Naruto Shippuden 024.avi
+!new/narutoship/Naruto Shippuden 025.avi
+!new/narutoship/Naruto Shippuden 026.avi
+!new/narutoship/Naruto Shippuden 027.avi
+!new/narutoship/Naruto Shippuden 028.avi
+!new/narutoship/Naruto Shippuden 029-030.avi
+!new/narutoship/Naruto Shippuden 031.avi
+!new/narutoship/Naruto Shippuden 032.avi
+!new/narutoship/Naruto Shippuden 033.avi
+!new/narutoship/Naruto Shippuden 034.avi
+!new/narutoship/Naruto Shippuden 035.avi
+!new/narutoship/Naruto Shippuden 036-037.avi
+!new/narutoship/Naruto Shippuden 038.avi
+!new/narutoship/Naruto Shippuden 039.avi
+!new/narutoship/Naruto Shippuden 040-041.avi
+!new/narutoship/Naruto Shippuden 042.avi
+!new/narutoship/Naruto Shippuden 043.avi
+!new/narutoship/Naruto Shippuden 044.avi
+!new/narutoship/Naruto Shippuden 045.avi
+!new/narutoship/Naruto Shippuden 046.avi
+!new/narutoship/Naruto Shippuden 047.avi
+!new/narutoship/Naruto Shippuden 048.avi
+!new/narutoship/Naruto Shippuden 049.avi
+!new/narutoship/Naruto Shippuden 050.avi
+!new/narutoship/Naruto Shippuden 051-052.avi
+!new/narutoship/Naruto Shippuden 053.avi
+!new/narutoship/Naruto Shippuden 054.avi
+!new/narutoship/Naruto Shippuden 055.avi
+!new/narutoship/Naruto Shippuden 056.avi
+!new/narutoship/Naruto Shippuden 057-058.avi
+!new/narutoship/Naruto Shippuden 059.avi
+!new/narutoship/Naruto Shippuden 060.avi
+!new/narutoship/Naruto Shippuden 061.avi
+!new/narutoship/Naruto Shippuden 062.avi
+!new/narutoship/Naruto Shippuden 063.avi
+!new/narutoship/Naruto Shippuden 064-065.avi
+!new/narutoship/Naruto Shippuden 066.avi
+!new/narutoship/Naruto Shippuden 067.avi
+!new/narutoship/Naruto Shippuden 068-069.avi
+!new/narutoship/Naruto Shippuden 070.avi
+!new/narutoship/Naruto Shippuden 071.avi
+!new/narutoship/Naruto Shippuden 072.avi
+!new/narutoship/Naruto Shippuden 073.avi
+!new/narutoship/Naruto Shippuden 074.avi
+!new/narutoship/Naruto Shippuden 075.avi
+!new/narutoship/Naruto Shippuden 076-077.avi
+!new/narutoship/Naruto Shippuden 078-079.avi
+!new/narutoship/Naruto Shippuden 080.avi
+!new/narutoship/Naruto Shippuden 081.avi
+!new/narutoship/Naruto Shippuden 082.avi
+!new/narutoship/Naruto Shippuden 083.avi
+!new/narutoship/Naruto Shippuden 084.avi
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス OVA 「青空が描きたい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 映像特典 「The たんかい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 第01話 「えがいてあそぼ」.mkv
@@ -1338,6 +1141,12 @@
 !new/raw/natsunoarashi/[SomeBody-Raws][DVD]_Natsu_No_Arashi_-_13_RAW_(704x480_x264_Vorbis).mkv
 !new/raw/natsunoarashi/[SomeBody-Raws][DVD]_Natsu_No_Arashi_-_Clear_ED_(704x480_x264_Vorbis).mkv
 !new/raw/natsunoarashi/[SomeBody-Raws][DVD]_Natsu_No_Arashi_-_Clear_OP_(704x480_x264_Vorbis).mkv
+!new/sf/[Zero-Raws] Shuffle! - 01 (BD 1280x720 x264 FLAC) subbed[2143C867]-TSuNDeRe.mkv
+!new/sf/[Zero-Raws] Shuffle! - 02 (BD 1280x720 x264 FLAC) subbed[96B195B8]-TSuNDeRe.mkv
+!new/sf/[Zero-Raws] Shuffle! - 03 (BD 1280x720 x264 FLAC) subbed[87FB2DD9]-TSuNDeRe.mkv
+!new/sf/[Zero-Raws] Shuffle! - 04 (BD 1280x720 x264 FLAC) subbed[8C611AE2]-TSuNDeRe.mkv
+!new/sf/[Zero-Raws] Shuffle! - 05 (BD 1280x720 x264 FLAC) subbed[05C90195]-TSuNDeRe.mkv
+!new/sf/[Zero-Raws] Shuffle! - 06 (BD 1280x720 x264 FLAC) subbed[F489E7D0]-TSuNDeRe.mkv
 !new/ss/Saint Seiya TV 086.srt
 !new/ss/Saint Seiya TV 087.srt
 !new/ss/Saint Seiya TV 088.srt
