@@ -194,6 +194,14 @@
 !new/Digimon tamers/[Positron-card] Digimon Tamers 50 (Xvid-mp3).avi
 !new/Digimon tamers/[Positron-card] Digimon Tamers 51 [FINAL] (Xvid-mp3).avi
 !new/Digimon tamers/[wpp]Digimon_Tamers_-_07_[E496C6AE].mkv
+!new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
+!new/Dragon Ball/Movie - 010 - Broly Second Coming.rmvb
+!new/Dragon Ball/Movie - 011 - Bio Broly.rmvb
+!new/Dragon Ball/Movie - 012 - Fusion Reborn.rmvb
+!new/Dragon Ball/Movie - 05 - Cooler's Revenge.rmvb
+!new/Dragon Ball/Movie - 06 - Return Of Cooler.rmvb
+!new/Dragon Ball/Movie - 08 - Broly The Legendary Super Saiyan.rmvb
+!new/Dragon Ball/Movie - 09 - Bojack Unbound.rmvb
 !new/FF Unlimited/FFU01.avi
 !new/FF Unlimited/FFU02.avi
 !new/FF Unlimited/FFU03.avi
@@ -624,6 +632,38 @@
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 165. Time for the Crystal to Shine! Beautiful Power of Dreams (v2) [243AEA50].ogm
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 166. Dreams Forever! Light Throughout the Sky (v2) [A17C8F85].ogm
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] Sailor Moon SuperS Plus Ami-chan no Hatsukoi R2 DVD(H264.AC3).mkv
+!new/[Doremi].Love.Live!.Bokura.no.LIVE.Kimi.to.no.LIFE.[DC2A205D].mkv
+!new/[Doremi].Love.Live!.Snow.Halation.[6C4D55B5].mkv
+!new/[HorribleSubs] Beelzebub - 05 [720p].mkv
+!new/[HorribleSubs] Rio - Rainbow Gate - 07 [720p].mkv
+!new/[KAA]_Ground_Defense_Force!_Mao-Chan_1-26.DVD(complete).sfv
+!new/[KAA]_Mao_Chan_01.DVD[ED62409F].avi
+!new/[KAA]_Mao_Chan_02.DVD[C7640010].avi
+!new/[KAA]_Mao_Chan_03.DVD[A207104A].avi
+!new/[KAA]_Mao_Chan_04.DVD[4D07845C].avi
+!new/[KAA]_Mao_Chan_05.DVD[68FF1C01].avi
+!new/[KAA]_Mao_Chan_06.DVD[D52AC728].avi
+!new/[KAA]_Mao_Chan_07.DVD[9BE1F124].avi
+!new/[KAA]_Mao_Chan_08.DVD[64EE9FDE].avi
+!new/[KAA]_Mao_Chan_09.DVD[52BB17D1].avi
+!new/[KAA]_Mao_Chan_10.DVD[DF875CB8].avi
+!new/[KAA]_Mao_Chan_11.DVD[04171BEB].avi
+!new/[KAA]_Mao_Chan_12.DVD[DE35B8F4](300th_release).avi
+!new/[KAA]_Mao_Chan_13.DVD[FF9BA2A0].avi
+!new/[KAA]_Mao_Chan_14.DVD[0DF4D3E6].avi
+!new/[KAA]_Mao_Chan_15.DVD[B4FA4843].avi
+!new/[KAA]_Mao_Chan_16.DVD[A87F9A4F].avi
+!new/[KAA]_Mao_Chan_17.DVD[7A349296].avi
+!new/[KAA]_Mao_Chan_18.DVD[CC0844D7].avi
+!new/[KAA]_Mao_Chan_19.DVD[6E61B6BD].avi
+!new/[KAA]_Mao_Chan_20.DVD[D2967395].avi
+!new/[KAA]_Mao_Chan_21.DVD[BFF689EE].avi
+!new/[KAA]_Mao_Chan_22.DVD[42F1B795].avi
+!new/[KAA]_Mao_Chan_23.DVD[51DE37F8].avi
+!new/[KAA]_Mao_Chan_24.DVD[2EB2EB8C].avi
+!new/[KAA]_Mao_Chan_25.DVD[080B65CB].avi
+!new/[KAA]_Mao_Chan_26.DVD[BB9217CA].avi
+!new/[Keroro].131.[Xvid.mp3].[7F185B00].avi
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP1 [BD 1280x720 H264 OGG] [BD01F6E4].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP2 [BD 848x480 H264 OGG] [E26716A2].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP3 [BD 848x480 H264 OGG] [D7CC1197].mkv
@@ -650,6 +690,7 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
+!new/[SS] Infinite Stratos - 06 (1280x720 h264) [860C6F2D].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
