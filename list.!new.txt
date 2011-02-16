@@ -229,6 +229,32 @@
 !new/FF Unlimited/FFU25.avi
 !new/Fate_Stay_Night_-_TV_Reproduction_II_[3xR-FLsnow][Blu-ray.1080p.H264.FLAC][63B375B6].mkv
 !new/Fate_Stay_Night_-_TV_Reproduction_I_[3xR-FLsnow][Blu-ray.1080p.H264.FLAC][96AF6C65].mkv
+!new/Ground_Defense_Force_Mao-chan_01[h.264-AAC][SSP-Corp][F0A85F82].mkv
+!new/Ground_Defense_Force_Mao-chan_02[h.264-AAC][SSP-Corp][C157A541].mkv
+!new/Ground_Defense_Force_Mao-chan_03[h.264-AAC][SSP-Corp][C6F25853].mkv
+!new/Ground_Defense_Force_Mao-chan_04[h.264-AAC][SSP-Corp][4C066725].mkv
+!new/Ground_Defense_Force_Mao-chan_05[h.264-AAC][SSP-Corp][A84B427C].mkv
+!new/Ground_Defense_Force_Mao-chan_06[h.264-AAC][SSP-Corp][1138BFA5].mkv
+!new/Ground_Defense_Force_Mao-chan_07[h.264-AAC][SSP-Corp][135589A6].mkv
+!new/Ground_Defense_Force_Mao-chan_08[h.264-AAC][SSP-Corp][82C8848D].mkv
+!new/Ground_Defense_Force_Mao-chan_09[h.264-AAC][SSP-Corp][51EAA126].mkv
+!new/Ground_Defense_Force_Mao-chan_10[h.264-AAC][SSP-Corp][AB9A0B31].mkv
+!new/Ground_Defense_Force_Mao-chan_11[h.264-AAC][SSP-Corp][759C629C].mkv
+!new/Ground_Defense_Force_Mao-chan_12[h.264-AAC][SSP-Corp][33788542].mkv
+!new/Ground_Defense_Force_Mao-chan_13[h.264-AAC][SSP-Corp][3FF3DDAA].mkv
+!new/Ground_Defense_Force_Mao-chan_14[h.264-AAC][SSP-Corp][8A8AED43].mkv
+!new/Ground_Defense_Force_Mao-chan_15[h.264-AAC][SSP-Corp][33E86F3E].mkv
+!new/Ground_Defense_Force_Mao-chan_16[h.264-AAC][SSP-Corp][BF6663E2].mkv
+!new/Ground_Defense_Force_Mao-chan_17[h.264-AAC][SSP-Corp][5C38BF9A].mkv
+!new/Ground_Defense_Force_Mao-chan_18[h.264-AAC][SSP-Corp][2FC205E9].mkv
+!new/Ground_Defense_Force_Mao-chan_19[h.264-AAC][SSP-Corp][290436B1].mkv
+!new/Ground_Defense_Force_Mao-chan_20[h.264-AAC][SSP-Corp][DE50D1EB].mkv
+!new/Ground_Defense_Force_Mao-chan_21[h.264-AAC][SSP-Corp][17742BAB].mkv
+!new/Ground_Defense_Force_Mao-chan_22[h.264-AAC][SSP-Corp][5F0E5FCE].mkv
+!new/Ground_Defense_Force_Mao-chan_23[h.264-AAC][SSP-Corp][0A589873].mkv
+!new/Ground_Defense_Force_Mao-chan_24[h.264-AAC][SSP-Corp][12C89992].mkv
+!new/Ground_Defense_Force_Mao-chan_25[h.264-AAC][SSP-Corp][3292946F].mkv
+!new/Ground_Defense_Force_Mao-chan_26[h.264-AAC][SSP-Corp][7B7A9704].mkv
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_01_[Anime-Empire_&_Aoshi].avi
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_02_[Anime-Empire_&_Aoshi].avi
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_03_[Anime-Empire_&_Aoshi].avi
@@ -642,6 +668,9 @@
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP1 [BD 1280x720 H264 OGG] [BD01F6E4].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP2 [BD 848x480 H264 OGG] [E26716A2].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP3 [BD 848x480 H264 OGG] [D7CC1197].mkv
+!new/[Koharubi]_Bakemonogatari_-_01_[BD][1080p][54941B4A].mkv
+!new/[Koharubi]_Bakemonogatari_-_02_[BD][1080p][012B4B3C].mkv
+!new/[Koharubi]_Bakemonogatari_-_Hitagi_Crab_Notes_[D6C5C5D0].pdf
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -1007,6 +1036,7 @@
 !new/bla/zx.black.heaven.12.sub.rar
 !new/bla/zx.black.heaven.13.dub.avi
 !new/bla/zx.black.heaven.13.sub.rar
+!new/checksums.sfv
 !new/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/lama/[Ayako] Weiﬂ Survive R - 01 - H264 - E975A989.mkv
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
