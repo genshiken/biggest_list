@@ -141,6 +141,7 @@
 !new/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.srt
 !new/Appleseed_Ex_Machina_(2007)_[1080p,BluRay,x264]_-_THORA.mkv
 !new/Appleseed_Ex_Machina_(2007)_[1080p,BluRay,x264]_Sample_-_THORA.mkv
+!new/BGG_13_Patch.zip
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
