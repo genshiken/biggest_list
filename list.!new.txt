@@ -145,55 +145,7 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
-!new/Digimon tamers/Digimon Tamers Episode 10 (Subbed By PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 11 (Subbed By PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 12 (Subbed By PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 13 (Subbed By PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 14 (Subbed By PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 15 (Subbed By PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 16 (Subbed By PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 17 (Subbed By PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 18 (Subbed By PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 19 (Subbed By PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 20 (Subbed By PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 21 (Subbed By PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 22 (Subbed By PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 23 (Subbed By PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 24 (Subbed By PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 25 (Subbed By PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 26 (Subbed By PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 27 (Subbed By PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 28 (Subbed By PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 29 (Subbed By PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 30 (Subbed By PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 31 (Subbed By PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 32 (Subbed By PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 33 (Subbed By PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 34 (Subbed by PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 35 (Subbed by PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 36 (Subbed by PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 37 (Subbed By PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 38 (Subbed By PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 39 (Subbed by PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 40 (Subbed By PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 41 (Subbed By PositronCannon).avi
-!new/Digimon tamers/Digimon Tamers Episode 9 (Subbed By PositronCannon).avi
-!new/Digimon tamers/[DATS] Digimon Tamers - 03 [XviD][FAC61AD4].avi
-!new/Digimon tamers/[DATS] Digimon Tamers - 04 [XviD][D5F7643B].avi
-!new/Digimon tamers/[DATS] Digimon Tamers - 05 [XviD][D5F7643B].avi
-!new/Digimon tamers/[DATS] Digimon Tamers - 06 [XviD][D5F7643B].avi
-!new/Digimon tamers/[DATS] Digimon Tamers - 08 [XviD][FAC61AD4].avi
-!new/Digimon tamers/[Positron-card] Digimon Tamers 42 (Xvid-mp3).avi
-!new/Digimon tamers/[Positron-card] Digimon Tamers 43 (Xvid-mp3).avi
-!new/Digimon tamers/[Positron-card] Digimon Tamers 44 (Xvid-mp3).avi
-!new/Digimon tamers/[Positron-card] Digimon Tamers 45 (Xvid-mp3).avi
-!new/Digimon tamers/[Positron-card] Digimon Tamers 46 (Xvid-mp3).avi
-!new/Digimon tamers/[Positron-card] Digimon Tamers 47 (Xvid-mp3).avi
-!new/Digimon tamers/[Positron-card] Digimon Tamers 48 (Xvid-mp3).avi
-!new/Digimon tamers/[Positron-card] Digimon Tamers 49 (Xvid-mp3).avi
-!new/Digimon tamers/[Positron-card] Digimon Tamers 50 (Xvid-mp3).avi
-!new/Digimon tamers/[Positron-card] Digimon Tamers 51 [FINAL] (Xvid-mp3).avi
-!new/Digimon tamers/[wpp]Digimon_Tamers_-_07_[E496C6AE].mkv
+!new/Detective Conan - 604 [DCTP][720p][5B8E0EC0].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/Movie - 010 - Broly Second Coming.rmvb
 !new/Dragon Ball/Movie - 011 - Bio Broly.rmvb
@@ -229,32 +181,6 @@
 !new/FF Unlimited/FFU25.avi
 !new/Fate_Stay_Night_-_TV_Reproduction_II_[3xR-FLsnow][Blu-ray.1080p.H264.FLAC][63B375B6].mkv
 !new/Fate_Stay_Night_-_TV_Reproduction_I_[3xR-FLsnow][Blu-ray.1080p.H264.FLAC][96AF6C65].mkv
-!new/Ground_Defense_Force_Mao-chan_01[h.264-AAC][SSP-Corp][F0A85F82].mkv
-!new/Ground_Defense_Force_Mao-chan_02[h.264-AAC][SSP-Corp][C157A541].mkv
-!new/Ground_Defense_Force_Mao-chan_03[h.264-AAC][SSP-Corp][C6F25853].mkv
-!new/Ground_Defense_Force_Mao-chan_04[h.264-AAC][SSP-Corp][4C066725].mkv
-!new/Ground_Defense_Force_Mao-chan_05[h.264-AAC][SSP-Corp][A84B427C].mkv
-!new/Ground_Defense_Force_Mao-chan_06[h.264-AAC][SSP-Corp][1138BFA5].mkv
-!new/Ground_Defense_Force_Mao-chan_07[h.264-AAC][SSP-Corp][135589A6].mkv
-!new/Ground_Defense_Force_Mao-chan_08[h.264-AAC][SSP-Corp][82C8848D].mkv
-!new/Ground_Defense_Force_Mao-chan_09[h.264-AAC][SSP-Corp][51EAA126].mkv
-!new/Ground_Defense_Force_Mao-chan_10[h.264-AAC][SSP-Corp][AB9A0B31].mkv
-!new/Ground_Defense_Force_Mao-chan_11[h.264-AAC][SSP-Corp][759C629C].mkv
-!new/Ground_Defense_Force_Mao-chan_12[h.264-AAC][SSP-Corp][33788542].mkv
-!new/Ground_Defense_Force_Mao-chan_13[h.264-AAC][SSP-Corp][3FF3DDAA].mkv
-!new/Ground_Defense_Force_Mao-chan_14[h.264-AAC][SSP-Corp][8A8AED43].mkv
-!new/Ground_Defense_Force_Mao-chan_15[h.264-AAC][SSP-Corp][33E86F3E].mkv
-!new/Ground_Defense_Force_Mao-chan_16[h.264-AAC][SSP-Corp][BF6663E2].mkv
-!new/Ground_Defense_Force_Mao-chan_17[h.264-AAC][SSP-Corp][5C38BF9A].mkv
-!new/Ground_Defense_Force_Mao-chan_18[h.264-AAC][SSP-Corp][2FC205E9].mkv
-!new/Ground_Defense_Force_Mao-chan_19[h.264-AAC][SSP-Corp][290436B1].mkv
-!new/Ground_Defense_Force_Mao-chan_20[h.264-AAC][SSP-Corp][DE50D1EB].mkv
-!new/Ground_Defense_Force_Mao-chan_21[h.264-AAC][SSP-Corp][17742BAB].mkv
-!new/Ground_Defense_Force_Mao-chan_22[h.264-AAC][SSP-Corp][5F0E5FCE].mkv
-!new/Ground_Defense_Force_Mao-chan_23[h.264-AAC][SSP-Corp][0A589873].mkv
-!new/Ground_Defense_Force_Mao-chan_24[h.264-AAC][SSP-Corp][12C89992].mkv
-!new/Ground_Defense_Force_Mao-chan_25[h.264-AAC][SSP-Corp][3292946F].mkv
-!new/Ground_Defense_Force_Mao-chan_26[h.264-AAC][SSP-Corp][7B7A9704].mkv
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_01_[Anime-Empire_&_Aoshi].avi
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_02_[Anime-Empire_&_Aoshi].avi
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_03_[Anime-Empire_&_Aoshi].avi
@@ -660,17 +586,13 @@
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] Sailor Moon SuperS Plus Ami-chan no Hatsukoi R2 DVD(H264.AC3).mkv
 !new/[Doremi].Love.Live!.Bokura.no.LIVE.Kimi.to.no.LIFE.[DC2A205D].mkv
 !new/[Doremi].Love.Live!.Snow.Halation.[6C4D55B5].mkv
-!new/[Keroro].131.[Xvid.mp3].[7F185B00].avi
-!new/[Keroro].132.[Xvid.mp3].[59239FD7].avi
-!new/[Keroro].133.[Xvid.mp3].[FF31697C].avi
-!new/[Keroro].134.[Xvid.mp3].[037A7A8C].avi
-!new/[Keroro].135.[Xvid.mp3].[7E29C80A].avi
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP1 [BD 1280x720 H264 OGG] [BD01F6E4].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP2 [BD 848x480 H264 OGG] [E26716A2].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP3 [BD 848x480 H264 OGG] [D7CC1197].mkv
 !new/[Koharubi]_Bakemonogatari_-_01_[BD][1080p][54941B4A].mkv
 !new/[Koharubi]_Bakemonogatari_-_02_[BD][1080p][012B4B3C].mkv
 !new/[Koharubi]_Bakemonogatari_-_Hitagi_Crab_Notes_[D6C5C5D0].pdf
+!new/[Nipponsei] To Aru Majutsu no Index II OP2 Single - See visionS [Kawada Mami].zip
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -695,6 +617,7 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
 !new/[Shin - S] Mahou Shoujo Madoka Magica ED Single - Magia.rar
+!new/[T-N]Precure_All_Stars_DX2[8B37B1EE]Blu.mp4
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -934,7 +857,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[gg]_Kimi_ni_Todoke_2nd_Season_-_06_[B1DBC1EF].mkv
 !new/[ray=out]_Before_Green_Gables_-_13_[720p][83AD109F].mkv
 !new/[ray=out]_Before_Green_Gables_-_14_[HD][0D630912].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3

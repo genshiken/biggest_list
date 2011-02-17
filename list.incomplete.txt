@@ -1581,6 +1581,11 @@ incomplete/Keroro Gunsou/[Keroro] Keroro Gunsou - 127 [94923A21].avi
 incomplete/Keroro Gunsou/[Keroro] Keroro Gunsou - 128 [53921C4E].avi
 incomplete/Keroro Gunsou/[Keroro] Keroro Gunsou - 129 [EC2FF911].avi
 incomplete/Keroro Gunsou/[Keroro] Keroro Gunsou - 130 [861143F9].avi
+incomplete/Keroro Gunsou/[Keroro] Keroro Gunsou - 131 [7F185B00].avi
+incomplete/Keroro Gunsou/[Keroro] Keroro Gunsou - 132 [59239FD7].avi
+incomplete/Keroro Gunsou/[Keroro] Keroro Gunsou - 133 [FF31697C].avi
+incomplete/Keroro Gunsou/[Keroro] Keroro Gunsou - 134 [037A7A8C].avi
+incomplete/Keroro Gunsou/[Keroro] Keroro Gunsou - 135 [7E29C80A].avi
 incomplete/Keroro Gunsou/[Soldats-UA] Keroro Gunsou - 001 [F0259E04].avi
 incomplete/Keroro Gunsou/[Soldats-UA] Keroro Gunsou - 002 [286F48DF].avi
 incomplete/Keroro Gunsou/[Soldats-UA] Keroro Gunsou - 003 [955A0A59].avi
@@ -1656,6 +1661,7 @@ incomplete/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 02 [5D0399
 incomplete/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 03 [0E1E1259].mkv
 incomplete/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 04 [3A391A12].mkv
 incomplete/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 05 [82E898A1].mkv
+incomplete/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 06 [B1DBC1EF].mkv
 incomplete/Kindaichi Shounen no Jikenbo/[KAW] Kindaichi Shounen no Jikenbo - 014 [v2][11549416].avi
 incomplete/Kindaichi Shounen no Jikenbo/[KAW] Kindaichi Shounen no Jikenbo - 015 [E50A69A9].avi
 incomplete/Kindaichi Shounen no Jikenbo/[KnKF] Kindaichi Shounen no Jikenbo - 001 [F4CA2C89].avi
@@ -2750,31 +2756,6 @@ incomplete/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 06 [584027
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 05 [1B8BEC0C].mkv
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 08 [69EF2B35].mkv
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 09 [C37FE63E].mkv
-incomplete/Rainbow/[FroZen] Rainbow - 01 [F3438D64].mkv
-incomplete/Rainbow/[FroZen] Rainbow - 02 [05BCCF1D].mkv
-incomplete/Rainbow/[FroZen] Rainbow - 03 [B6534CFE].mkv
-incomplete/Rainbow/[FroZen] Rainbow - 04 [AF5AF829].mkv
-incomplete/Rainbow/[FroZen] Rainbow - 05 [CA0D1165].mkv
-incomplete/Rainbow/[FroZen] Rainbow - 06 [5A1F09CF].mkv
-incomplete/Rainbow/[FroZen] Rainbow - 07 [7CF9A805].mkv
-incomplete/Rainbow/[FroZen] Rainbow - 08 [13F3C9BD].mkv
-incomplete/Rainbow/[FroZen] Rainbow - 09 [50E35889].mkv
-incomplete/Rainbow/[FroZen] Rainbow - 10 [43C5958F].mkv
-incomplete/Rainbow/[FroZen] Rainbow - 11 [A588487A].mkv
-incomplete/Rainbow/[FroZen] Rainbow - 12 [A8BD2409].mkv
-incomplete/Rainbow/[FroZen] Rainbow - 13 [13C20018].mkv
-incomplete/Rainbow/[FroZen] Rainbow - 14 [8EC8784F].mkv
-incomplete/Rainbow/[FroZen] Rainbow - 15 [503DA9C7].mkv
-incomplete/Rainbow/[FroZen] Rainbow - 16 [2D36E456].mkv
-incomplete/Rainbow/[FroZen] Rainbow - 17 [D0E10238].mkv
-incomplete/Rainbow/[FroZen] Rainbow - 18 [286DDC1C].mkv
-incomplete/Rainbow/[FroZen] Rainbow - 19 [7BF47896].mkv
-incomplete/Rainbow/[FroZen] Rainbow - 20 [DB09D76F].mkv
-incomplete/Rainbow/[FroZen] Rainbow - 21 [5334CDB7].mkv
-incomplete/Rainbow/[FroZen] Rainbow - 22 [DB096A25].mkv
-incomplete/Rainbow/[FroZen] Rainbow - 23 [F2B3C34A].mkv
-incomplete/Rainbow/[FroZen] Rainbow - 24 [033A96E1].mkv
-incomplete/Rainbow/[FroZen] Rainbow - 25 [AEE2B7E8].mkv
 incomplete/Reform Without Wasted Draws - The Legend of Koizumi/[gg] Reform Without Wasted Draws - The Legend of Koizumi - 01 [Webcast][61B04813].mkv
 incomplete/Rio - Rainbow Gate/[HorribleSubs] Rio - Rainbow Gate - 01 [v2][720p][BBF561F8].mkv
 incomplete/Rio - Rainbow Gate/[HorribleSubs] Rio - Rainbow Gate - 02 [720p][1FEED5BF].mkv
