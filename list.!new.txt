@@ -146,6 +146,7 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - 322 [Kienai][327361F5].mp4
 !new/Detective Conan - 604 [DCTP][720p][5B8E0EC0].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/Movie - 010 - Broly Second Coming.rmvb
@@ -611,11 +612,20 @@
 !new/Shadow.Star.Narutaru.11.(Dual.Audio).XVID.[AM].mkv
 !new/Shadow.Star.Narutaru.12.(Dual.Audio).XVID.[AM].mkv
 !new/Shadow.Star.Narutaru.13.(Dual.Audio).XVID.[AM].mkv
+!new/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_12_[94e33cbf].avi
 !new/[Doremi].Love.Live!.Bokura.no.LIVE.Kimi.to.no.LIFE.[DC2A205D].mkv
 !new/[Doremi].Love.Live!.Snow.Halation.[6C4D55B5].mkv
+!new/[Eclipse] Kimi ni Todoke 2nd Season - 06 (1280x720 h264) [B1B3B96F].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 199 [720p].mkv
 !new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_46_[258F0CED].mkv
 !new/[Keroro].136.[Xvid.mp3].[CE71B493].avi
+!new/[Keroro].137.[Xvid.mp3].[33CC7135].avi
+!new/[Keroro].138.[Xvid.mp3].[0DA4AFBD].avi
+!new/[Keroro].139.[Xvid.mp3].[DA1BFC3E].avi
+!new/[Keroro].140.[Xvid.mp3].[947C9847].avi
+!new/[Keroro].141.[Xvid.mp3].[96327A84].avi
+!new/[Keroro].142.[Xvid.mp3].[501EAFED].avi
+!new/[Keroro].143.[Xvid.mp3].[DC034D9F].avi
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP1 [BD 1280x720 H264 OGG] [BD01F6E4].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP2 [BD 848x480 H264 OGG] [E26716A2].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP3 [BD 848x480 H264 OGG] [D7CC1197].mkv
@@ -648,6 +658,7 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
 !new/[ReDone] Touka Gettan - 24 (DVD) [D0DBF978].mkv
+!new/[SMS] Starry Sky - 09 [C41C1A62].mkv
 !new/[Shin - S] Mahou Shoujo Madoka Magica ED Single - Magia.rar
 !new/[SpA-AznA]Saint Seiya Hades - Special [D7BFAED9] [XviD].avi
 !new/[T-N]Precure_All_Stars_DX2[8B37B1EE]Blu.mp4
@@ -890,6 +901,11 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[UTW]_Fractale_-_05_[h264-720p][64FD8A59].mkv
+!new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_02_[55D87037][HD].mp4
+!new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_46_[7B662281][HD].mp4
+!new/[gg]_Puella_Magi_Madoka_Magica_-_07_[35ED5B25].mkv
+!new/[gg]_Yumekui_Merry_-_07_[35F7AA0F].mkv
 !new/[ray=out]_Before_Green_Gables_-_13_[720p][83AD109F].mkv
 !new/[ray=out]_Before_Green_Gables_-_14_[HD][0D630912].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
