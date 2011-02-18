@@ -1746,6 +1746,7 @@ incomplete/Les Miserables/[Formula] Les Miserables - 03 [720p][2AF5BB3F].mkv
 incomplete/Les Miserables/[Formula] Les Miserables - 05 [720p][54EB9C17].mkv
 incomplete/Les Miserables/[Formula] Les Miserables - 06 [720p][F9D1B05F].mkv
 incomplete/Les Miserables/[Formula] Les Miserables - 07 [720p][9502DB7B].mkv
+incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 02 [55D87037].mp4
 incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 29 [v2][FE261E67].mp4
 incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 31 [6D6C6568].mp4
 incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 32 [235271DF].mp4
@@ -1762,6 +1763,7 @@ incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 42 [3E5FAFD0].mp4
 incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 43 [D4F5D2F6].mp4
 incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 44 [41C1261D].mp4
 incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 45 [B5CDC396].mp4
+incomplete/Les Miserables/[WSRN-Licca] Les Miserables - 46 [7B662281].mp4
 incomplete/Les Miserables/[ureshii-Yoroshiku] Les Miserables - 01 [720p][06328391].mkv
 incomplete/Les Miserables/[ureshii-Yoroshiku] Les Miserables - 02 [720p][831B1591].mkv
 incomplete/Les Miserables/[ureshii-Yoroshiku] Les Miserables - 03 [720p][B88097B1].mkv
@@ -2754,6 +2756,7 @@ incomplete/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 03 [8442AF
 incomplete/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 04 [C2AEF6CA].mkv
 incomplete/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 05 [241844ED].mkv
 incomplete/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 06 [584027C6].mkv
+incomplete/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 07 [35ED5B25].mkv
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 05 [1B8BEC0C].mkv
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 08 [69EF2B35].mkv
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 09 [C37FE63E].mkv
@@ -3135,6 +3138,7 @@ incomplete/Starry Sky/[SMS] Starry Sky - 05 [85040F7E].mkv
 incomplete/Starry Sky/[SMS] Starry Sky - 06 [236958B8].mkv
 incomplete/Starry Sky/[SMS] Starry Sky - 07 [6F1EFE8C].mkv
 incomplete/Starry Sky/[SMS] Starry Sky - 08 [B96F1C29].mkv
+incomplete/Starry Sky/[SMS] Starry Sky - 09 [C41C1A62].mkv
 incomplete/Strong World/[yibis] Strong World - 0 [DVD][49C1A026].mkv
 incomplete/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 01 [720p][979152CB].mkv
 incomplete/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 02 [720p][B92C5AD5].mkv
@@ -3557,6 +3561,7 @@ incomplete/Yumekui Merry/[gg] Yumekui Merry - 03 [D1746EB4].mkv
 incomplete/Yumekui Merry/[gg] Yumekui Merry - 04 [F2574AC7].mkv
 incomplete/Yumekui Merry/[gg] Yumekui Merry - 05 [FC96B5E4].mkv
 incomplete/Yumekui Merry/[gg] Yumekui Merry - 06 [FD1776E7].mkv
+incomplete/Yumekui Merry/[gg] Yumekui Merry - 07 [35F7AA0F].mkv
 incomplete/Yutori-chan/[Yuurisan-Subs] Yutori-chan - 01 [Webrip][C9838BD2].mkv
 incomplete/Yutori-chan/[Yuurisan-Subs] Yutori-chan - 02 [Webrip][BFE01B68].mkv
 incomplete/Yutori-chan/[Yuurisan-Subs] Yutori-chan - 03 [Webrip][A15F24CC].mkv

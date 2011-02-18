@@ -141,7 +141,6 @@
 !new/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.srt
 !new/Appleseed_Ex_Machina_(2007)_[1080p,BluRay,x264]_-_THORA.mkv
 !new/Appleseed_Ex_Machina_(2007)_[1080p,BluRay,x264]_Sample_-_THORA.mkv
-!new/BGG_13_Patch.zip
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
@@ -309,6 +308,61 @@
 !new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_62_[3269E048].mp4
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].ENG.srt
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].avi
+!new/Naruto/Naruto 001.avi
+!new/Naruto/Naruto 0010.avi
+!new/Naruto/Naruto 002.avi
+!new/Naruto/Naruto 003.avi
+!new/Naruto/Naruto 004.avi
+!new/Naruto/Naruto 005.avi
+!new/Naruto/Naruto 006.avi
+!new/Naruto/Naruto 007.avi
+!new/Naruto/Naruto 008.avi
+!new/Naruto/Naruto 009.avi
+!new/Naruto/Naruto 011.avi
+!new/Naruto/Naruto 012.avi
+!new/Naruto/Naruto 013.avi
+!new/Naruto/Naruto 014.avi
+!new/Naruto/Naruto 015.avi
+!new/Naruto/Naruto 016.avi
+!new/Naruto/Naruto 017.avi
+!new/Naruto/Naruto 018.avi
+!new/Naruto/Naruto 019.avi
+!new/Naruto/Naruto 020.avi
+!new/Naruto/Naruto 021.avi
+!new/Naruto/Naruto 022.avi
+!new/Naruto/Naruto 023.avi
+!new/Naruto/Naruto 024.avi
+!new/Naruto/Naruto 025.avi
+!new/Naruto/Naruto 026-27.avi
+!new/Naruto/Naruto 026.avi
+!new/Naruto/Naruto 027.avi
+!new/Naruto/Naruto 028.avi
+!new/Naruto/Naruto 029.avi
+!new/Naruto/Naruto 030.avi
+!new/Naruto/Naruto 031.avi
+!new/Naruto/Naruto 032.avi
+!new/Naruto/Naruto 033.avi
+!new/Naruto/Naruto 034.avi
+!new/Naruto/Naruto 035.avi
+!new/Naruto/Naruto 036.avi
+!new/Naruto/Naruto 037.avi
+!new/Naruto/Naruto 038.avi
+!new/Naruto/Naruto 039.avi
+!new/Naruto/Naruto 040.avi
+!new/Naruto/Naruto 041.avi
+!new/Naruto/Naruto 042.avi
+!new/Naruto/Naruto 043.avi
+!new/Naruto/Naruto 044.avi
+!new/Naruto/Naruto 045.avi
+!new/Naruto/Naruto 046.avi
+!new/Naruto/Naruto 047.avi
+!new/Naruto/Naruto 048.avi
+!new/Naruto/Naruto 049.avi
+!new/Naruto/Naruto 050.avi
+!new/Naruto/Naruto 051.avi
+!new/Naruto/Naruto 052.avi
+!new/Naruto/Naruto 053.avi
+!new/Naruto/Naruto 054.avi
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
@@ -619,7 +673,6 @@
 !new/[Koharubi]_Bakemonogatari_-_01_[BD][1080p][54941B4A].mkv
 !new/[Koharubi]_Bakemonogatari_-_02_[BD][1080p][012B4B3C].mkv
 !new/[Koharubi]_Bakemonogatari_-_Hitagi_Crab_Notes_[D6C5C5D0].pdf
-!new/[Nipponsei] To Aru Majutsu no Index II OP2 Single - See visionS [Kawada Mami].zip
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -643,7 +696,6 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
-!new/[SMS] Starry Sky - 09 [C41C1A62].mkv
 !new/[Shin - S] Mahou Shoujo Madoka Magica ED Single - Magia.rar
 !new/[SpA-AznA]Saint Seiya Hades - Special [D7BFAED9] [XviD].avi
 !new/[T-N]Precure_All_Stars_DX2[8B37B1EE]Blu.mp4
@@ -887,10 +939,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[UTW]_Fractale_-_05_[h264-720p][64FD8A59].mkv
-!new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_02_[55D87037][HD].mp4
-!new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_46_[7B662281][HD].mp4
-!new/[gg]_Puella_Magi_Madoka_Magica_-_07_[35ED5B25].mkv
-!new/[gg]_Yumekui_Merry_-_07_[35F7AA0F].mkv
 !new/[ray=out]_Before_Green_Gables_-_13_[720p][83AD109F].mkv
 !new/[ray=out]_Before_Green_Gables_-_14_[HD][0D630912].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
