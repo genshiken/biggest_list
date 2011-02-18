@@ -599,19 +599,6 @@
 !new/Saint Seiya Hades OVA 11 [SpA].avi
 !new/Saint Seiya Hades OVA 12 [SpA].avi
 !new/Saint Seiya Hades OVA 13 [SpA].avi
-!new/Shadow.Star.Narutaru.01.(Dual.Audio).XVID.[AM].mkv
-!new/Shadow.Star.Narutaru.02.(Dual.Audio).XVID.[AM].mkv
-!new/Shadow.Star.Narutaru.03.(Dual.Audio).XVID.[AM].mkv
-!new/Shadow.Star.Narutaru.04.(Dual.Audio).XVID.[AM].mkv
-!new/Shadow.Star.Narutaru.05.(Dual.Audio).XVID.[AM].mkv
-!new/Shadow.Star.Narutaru.06.(Dual.Audio).XVID.[AM].mkv
-!new/Shadow.Star.Narutaru.07.(Dual.Audio).XVID.[AM].mkv
-!new/Shadow.Star.Narutaru.08.(Dual.Audio).XVID.[AM].mkv
-!new/Shadow.Star.Narutaru.09.(Dual.Audio).XVID.[AM].mkv
-!new/Shadow.Star.Narutaru.10.(Dual.Audio).XVID.[AM].mkv
-!new/Shadow.Star.Narutaru.11.(Dual.Audio).XVID.[AM].mkv
-!new/Shadow.Star.Narutaru.12.(Dual.Audio).XVID.[AM].mkv
-!new/Shadow.Star.Narutaru.13.(Dual.Audio).XVID.[AM].mkv
 !new/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_12_[94e33cbf].avi
 !new/[Doremi].Love.Live!.Bokura.no.LIVE.Kimi.to.no.LIFE.[DC2A205D].mkv
 !new/[Doremi].Love.Live!.Snow.Halation.[6C4D55B5].mkv
@@ -632,7 +619,6 @@
 !new/[Koharubi]_Bakemonogatari_-_01_[BD][1080p][54941B4A].mkv
 !new/[Koharubi]_Bakemonogatari_-_02_[BD][1080p][012B4B3C].mkv
 !new/[Koharubi]_Bakemonogatari_-_Hitagi_Crab_Notes_[D6C5C5D0].pdf
-!new/[Licca] A Little Princess Sara Episode 40 (h.264) [972F0BB7].mkv
 !new/[Nipponsei] To Aru Majutsu no Index II OP2 Single - See visionS [Kawada Mami].zip
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
@@ -657,7 +643,6 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
-!new/[ReDone] Touka Gettan - 24 (DVD) [D0DBF978].mkv
 !new/[SMS] Starry Sky - 09 [C41C1A62].mkv
 !new/[Shin - S] Mahou Shoujo Madoka Magica ED Single - Magia.rar
 !new/[SpA-AznA]Saint Seiya Hades - Special [D7BFAED9] [XviD].avi

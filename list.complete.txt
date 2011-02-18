@@ -9829,6 +9829,19 @@ complete/n/Nanatsuiro Drops/[polished] Nanatsuiro Drops - 09 [DVD][FCEE9AD6].mkv
 complete/n/Nanatsuiro Drops/[polished] Nanatsuiro Drops - 10 [DVD][AFA272F6].mkv
 complete/n/Nanatsuiro Drops/[polished] Nanatsuiro Drops - 11 [DVD][BA83D927].mkv
 complete/n/Nanatsuiro Drops/[polished] Nanatsuiro Drops - 12 [End][DVD][389C340F].mkv
+complete/n/Narutaru/[AM] Narutaru - 01 [DEEC8546].mkv
+complete/n/Narutaru/[AM] Narutaru - 02 [90FDC7E7].mkv
+complete/n/Narutaru/[AM] Narutaru - 03 [ED315D90].mkv
+complete/n/Narutaru/[AM] Narutaru - 04 [081C24BB].mkv
+complete/n/Narutaru/[AM] Narutaru - 05 [5DD010EE].mkv
+complete/n/Narutaru/[AM] Narutaru - 06 [DF679890].mkv
+complete/n/Narutaru/[AM] Narutaru - 07 [96D9F0F3].mkv
+complete/n/Narutaru/[AM] Narutaru - 08 [CEE3512E].mkv
+complete/n/Narutaru/[AM] Narutaru - 09 [FB36EA3F].mkv
+complete/n/Narutaru/[AM] Narutaru - 10 [498D3D3A].mkv
+complete/n/Narutaru/[AM] Narutaru - 11 [2E86B16B].mkv
+complete/n/Narutaru/[AM] Narutaru - 12 [BE44E466].mkv
+complete/n/Narutaru/[AM] Narutaru - 13 [End][0591289C].mkv
 complete/n/Natsuiro no Sunadokei/[SS] Natsuiro no Sunadokei - 1 [630A528E].avi
 complete/n/Natsuiro no Sunadokei/[SS] Natsuiro no Sunadokei - 2 [End][D078279F].avi
 complete/n/Natsume Yuujinchou/[BSS] Natsume Yuujinchou - 01 [9398884E].mkv
@@ -14546,6 +14559,7 @@ complete/t/Touka Gettan/[ReDone] Touka Gettan - 20 [DVD][0C9E0B81].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 21 [DVD][9D67521E].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 22 [DVD][8514A719].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 23 [DVD][DF4C84BF].mkv
+complete/t/Touka Gettan/[ReDone] Touka Gettan - 24 [DVD][D0DBF978].mkv
 complete/t/Touka Gettan/[SRN] Touka Gettan - 24 [71F63436].avi
 complete/t/Touka Gettan/[SRN] Touka Gettan - 25 [A4F72881].avi
 complete/t/Touka Gettan/[SRN] Touka Gettan - 26 [End][A7FA5B91].avi
