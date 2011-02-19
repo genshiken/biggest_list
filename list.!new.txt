@@ -812,10 +812,14 @@
 !new/Saint Seiya Hades OVA 11 [SpA].avi
 !new/Saint Seiya Hades OVA 12 [SpA].avi
 !new/Saint Seiya Hades OVA 13 [SpA].avi
+!new/Soul Link Extras [ReDone].sfv
+!new/[Ayako]_Infinite_Stratos_-_IS_-_07_[H264][720p][EB7838FC].mkv
 !new/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_12_[94e33cbf].avi
 !new/[Doremi].Love.Live!.Bokura.no.LIVE.Kimi.to.no.LIFE.[DC2A205D].mkv
 !new/[Doremi].Love.Live!.Snow.Halation.[6C4D55B5].mkv
+!new/[Doremi].Motto.Ojamajo.Doremi.40.[798F7D1E].avi
 !new/[Eclipse] Kimi ni Todoke 2nd Season - 06 (1280x720 h264) [B1B3B96F].mkv
+!new/[HorribleSubs] Cardfight!! Vanguard - 07 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 199 [720p].mkv
 !new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_46_[258F0CED].mkv
 !new/[Keroro].136.[Xvid.mp3].[CE71B493].avi
@@ -832,6 +836,8 @@
 !new/[Koharubi]_Bakemonogatari_-_01_[BD][1080p][54941B4A].mkv
 !new/[Koharubi]_Bakemonogatari_-_02_[BD][1080p][012B4B3C].mkv
 !new/[Koharubi]_Bakemonogatari_-_Hitagi_Crab_Notes_[D6C5C5D0].pdf
+!new/[Lambda-Delta]_Welcome_to_the_Space_Show_[720p][H264_AAC][D040A850].mkv
+!new/[Licca] A Little Princess Sara Episode 41 (h.264) [C323E566].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -855,6 +861,12 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
+!new/[ReDone] Soul Link Creditless ED (DVD) [D09B160F].mkv
+!new/[ReDone] Soul Link Creditless OP (DVD) [2AEB066B].mkv
+!new/[ReDone] Soul Link Special - 01 (DVD) [D726B96F].mkv
+!new/[ReDone] Soul Link Special - 02 (DVD) [133E64A5].mkv
+!new/[ReDone] Soul Link Special - 03 (DVD) [594E786C].mkv
+!new/[SECL-942] Mahou Shoujo Madoka Magika ED Single - Kalafina - Magia [flac+scans+cue+log].rar
 !new/[Shin - S] Mahou Shoujo Madoka Magica ED Single - Magia.rar
 !new/[SpA-AznA]Saint Seiya Hades - Special [D7BFAED9] [XviD].avi
 !new/[T-N]Precure_All_Stars_DX2[8B37B1EE]Blu.mp4
@@ -1097,9 +1109,11 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_19_[720p][044FAA53].mkv
 !new/[UTW]_Fractale_-_05_[h264-720p][64FD8A59].mkv
 !new/[ray=out]_Before_Green_Gables_-_13_[720p][83AD109F].mkv
 !new/[ray=out]_Before_Green_Gables_-_14_[HD][0D630912].mkv
+!new/[umee]_Wandering_Son_-_05_[2C246363].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
