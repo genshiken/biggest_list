@@ -867,6 +867,7 @@
 !new/[ReDone] Soul Link Special - 02 (DVD) [133E64A5].mkv
 !new/[ReDone] Soul Link Special - 03 (DVD) [594E786C].mkv
 !new/[SECL-942] Mahou Shoujo Madoka Magika ED Single - Kalafina - Magia [flac+scans+cue+log].rar
+!new/[SS] Gosick - 06 (1280x720 h264) [F62961C9].mkv
 !new/[Shin - S] Mahou Shoujo Madoka Magica ED Single - Magia.rar
 !new/[SpA-AznA]Saint Seiya Hades - Special [D7BFAED9] [XviD].avi
 !new/[T-N]Precure_All_Stars_DX2[8B37B1EE]Blu.mp4
@@ -1111,6 +1112,8 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_19_[720p][044FAA53].mkv
 !new/[UTW]_Fractale_-_05_[h264-720p][64FD8A59].mkv
+!new/[Victorique]_Gosick_-_07_[h264-720p][6B9E844E].mkv
+!new/[WhyNot] Freezing - 07 [Uncensored][A6C2A3E6].mkv
 !new/[ray=out]_Before_Green_Gables_-_13_[720p][83AD109F].mkv
 !new/[ray=out]_Before_Green_Gables_-_14_[HD][0D630912].mkv
 !new/[umee]_Wandering_Son_-_05_[2C246363].mkv
