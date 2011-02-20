@@ -308,54 +308,6 @@
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].ENG.srt
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].avi
 !new/Naruto.txt
-!new/Naruto/51-100/1st/[ANBU-AonE]_Naruto_51_[7FE2D769].avi
-!new/Naruto/51-100/1st/[ANBU-AonE]_Naruto_52_[B010F419].avi
-!new/Naruto/51-100/1st/[ANBU-AonE]_Naruto_53_[91E90297].avi
-!new/Naruto/51-100/1st/[ANBU-AonE]_Naruto_54_[384427DC].avi
-!new/Naruto/51-100/1st/[ANBU-AonE]_Naruto_55_[2A677C0A].avi
-!new/Naruto/51-100/1st/[ANBU-AonE]_Naruto_56_[63B22B09].avi
-!new/Naruto/51-100/1st/[ANBU-AonE]_Naruto_57_[0A0F0BDE].avi
-!new/Naruto/51-100/1st/[ANBU-AonE]_Naruto_58_[EBCEBAD8].avi
-!new/Naruto/51-100/1st/[ANBU-AonE]_Naruto_59_[4AB5BEA6].avi
-!new/Naruto/51-100/1st/[ANBU-AonE]_Naruto_60_[39CFCFC4].avi
-!new/Naruto/51-100/1st/[ANBU-AonE]_Naruto_61_[9DD77E4E].avi
-!new/Naruto/51-100/1st/[ANBU-AonE]_Naruto_62_[EF31C3CC].avi
-!new/Naruto/51-100/1st/[ANBU-AonE]_Naruto_63_[ECE2E811].avi
-!new/Naruto/51-100/1st/[ANBU-AonE]_Naruto_64_[DD010B7B].avi
-!new/Naruto/51-100/1st/[ANBU-AonE]_Naruto_65_[0F68C0BE].avi
-!new/Naruto/51-100/1st/[ANBU-AonE]_Naruto_66-67_[E3F26EAC].avi
-!new/Naruto/51-100/1st/[ANBU-AonE]_Naruto_68_[F2DC488E].avi
-!new/Naruto/51-100/1st/[ANBU-AonE]_Naruto_69_[750F42E7].avi
-!new/Naruto/51-100/1st/[ANBU-AonE]_Naruto_70_[B38D600F].avi
-!new/Naruto/51-100/1st/[ANBU-AonE]_Naruto_71_[CEE3A56E].avi
-!new/Naruto/51-100/1st/[ANBU-AonE]_Naruto_72_[9B1D62BB].avi
-!new/Naruto/51-100/1st/[ANBU-AonE]_Naruto_73_[7E803A6D].avi
-!new/Naruto/51-100/1st/[ANBU-AonE]_Naruto_74_[490285DD].avi
-!new/Naruto/51-100/1st/[ANBU-AonE]_Naruto_75_[C3A96FBC].avi
-!new/Naruto/51-100/2nd/Naruto 076.avi
-!new/Naruto/51-100/2nd/Naruto 077.avi
-!new/Naruto/51-100/2nd/Naruto 078.avi
-!new/Naruto/51-100/2nd/Naruto 079.avi
-!new/Naruto/51-100/2nd/Naruto 080.avi
-!new/Naruto/51-100/2nd/Naruto 081.avi
-!new/Naruto/51-100/2nd/Naruto 082.avi
-!new/Naruto/51-100/2nd/Naruto 083.avi
-!new/Naruto/51-100/2nd/Naruto 084.avi
-!new/Naruto/51-100/2nd/Naruto 085.avi
-!new/Naruto/51-100/2nd/Naruto 086.avi
-!new/Naruto/51-100/2nd/Naruto 087.avi
-!new/Naruto/51-100/2nd/Naruto 088.avi
-!new/Naruto/51-100/2nd/Naruto 089.avi
-!new/Naruto/51-100/2nd/Naruto 090.avi
-!new/Naruto/51-100/2nd/Naruto 091.avi
-!new/Naruto/51-100/2nd/Naruto 092.avi
-!new/Naruto/51-100/2nd/Naruto 093.avi
-!new/Naruto/51-100/2nd/Naruto 094.avi
-!new/Naruto/51-100/2nd/Naruto 095-96.avi
-!new/Naruto/51-100/2nd/Naruto 097.avi
-!new/Naruto/51-100/2nd/Naruto 098.avi
-!new/Naruto/51-100/2nd/Naruto 099.avi
-!new/Naruto/51-100/2nd/Naruto 100.avi
 !new/Naruto/Naruto 101.avi
 !new/Naruto/Naruto 102.avi
 !new/Naruto/Naruto 103.avi
@@ -462,7 +414,6 @@
 !new/Naruto/Naruto 211.avi
 !new/Naruto/Naruto 212.avi
 !new/Naruto/Naruto 213.avi
-!new/Naruto/Naruto 214-215.avi
 !new/Naruto/Naruto 216.avi
 !new/Naruto/Naruto 217.avi
 !new/Naruto/Naruto 218.avi
@@ -897,6 +848,31 @@
 !new/[ANBU-AonE]_Naruto_48_[0AD76631].avi
 !new/[ANBU-AonE]_Naruto_49_[8D17ED9F].avi
 !new/[ANBU-AonE]_Naruto_50_[782127BE].avi
+!new/[ANBU-AonE]_Naruto_51_75.sfv
+!new/[ANBU-AonE]_Naruto_51_[7FE2D769].avi
+!new/[ANBU-AonE]_Naruto_52_[B010F419].avi
+!new/[ANBU-AonE]_Naruto_53_[91E90297].avi
+!new/[ANBU-AonE]_Naruto_54_[384427DC].avi
+!new/[ANBU-AonE]_Naruto_55_[2A677C0A].avi
+!new/[ANBU-AonE]_Naruto_56_[63B22B09].avi
+!new/[ANBU-AonE]_Naruto_57_[0A0F0BDE].avi
+!new/[ANBU-AonE]_Naruto_58_[EBCEBAD8].avi
+!new/[ANBU-AonE]_Naruto_59_[4AB5BEA6].avi
+!new/[ANBU-AonE]_Naruto_60_[39CFCFC4].avi
+!new/[ANBU-AonE]_Naruto_61_[9DD77E4E].avi
+!new/[ANBU-AonE]_Naruto_62_[EF31C3CC].avi
+!new/[ANBU-AonE]_Naruto_63_[ECE2E811].avi
+!new/[ANBU-AonE]_Naruto_64_[DD010B7B].avi
+!new/[ANBU-AonE]_Naruto_65_[0F68C0BE].avi
+!new/[ANBU-AonE]_Naruto_66-67_[E3F26EAC].avi
+!new/[ANBU-AonE]_Naruto_68_[F2DC488E].avi
+!new/[ANBU-AonE]_Naruto_69_[750F42E7].avi
+!new/[ANBU-AonE]_Naruto_70_[B38D600F].avi
+!new/[ANBU-AonE]_Naruto_71_[CEE3A56E].avi
+!new/[ANBU-AonE]_Naruto_72_[9B1D62BB].avi
+!new/[ANBU-AonE]_Naruto_73_[7E803A6D].avi
+!new/[ANBU-AonE]_Naruto_74_[490285DD].avi
+!new/[ANBU-AonE]_Naruto_75_[C3A96FBC].avi
 !new/[Doremi].Love.Live!.Bokura.no.LIVE.Kimi.to.no.LIFE.[DC2A205D].mkv
 !new/[Doremi].Love.Live!.Snow.Halation.[6C4D55B5].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP1 [BD 1280x720 H264 OGG] [BD01F6E4].mkv
