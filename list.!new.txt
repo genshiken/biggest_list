@@ -145,8 +145,6 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
-!new/Detective Conan - 322 [Kienai][327361F5].mp4
-!new/Detective Conan - 604 [DCTP][720p][5B8E0EC0].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/Movie - 010 - Broly Second Coming.rmvb
 !new/Dragon Ball/Movie - 011 - Bio Broly.rmvb
@@ -308,105 +306,54 @@
 !new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_62_[3269E048].mp4
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].ENG.srt
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].avi
-!new/Naruto/Naruto 001.avi
-!new/Naruto/Naruto 0010.avi
-!new/Naruto/Naruto 002.avi
-!new/Naruto/Naruto 003.avi
-!new/Naruto/Naruto 004.avi
-!new/Naruto/Naruto 005.avi
-!new/Naruto/Naruto 006.avi
-!new/Naruto/Naruto 007.avi
-!new/Naruto/Naruto 008.avi
-!new/Naruto/Naruto 009.avi
-!new/Naruto/Naruto 011.avi
-!new/Naruto/Naruto 012.avi
-!new/Naruto/Naruto 013.avi
-!new/Naruto/Naruto 014.avi
-!new/Naruto/Naruto 015.avi
-!new/Naruto/Naruto 016.avi
-!new/Naruto/Naruto 017.avi
-!new/Naruto/Naruto 018.avi
-!new/Naruto/Naruto 019.avi
-!new/Naruto/Naruto 020.avi
-!new/Naruto/Naruto 021.avi
-!new/Naruto/Naruto 022.avi
-!new/Naruto/Naruto 023.avi
-!new/Naruto/Naruto 024.avi
-!new/Naruto/Naruto 025.avi
-!new/Naruto/Naruto 026-27.avi
-!new/Naruto/Naruto 026.avi
-!new/Naruto/Naruto 027.avi
-!new/Naruto/Naruto 028.avi
-!new/Naruto/Naruto 029.avi
-!new/Naruto/Naruto 030.avi
-!new/Naruto/Naruto 031.avi
-!new/Naruto/Naruto 032.avi
-!new/Naruto/Naruto 033.avi
-!new/Naruto/Naruto 034.avi
-!new/Naruto/Naruto 035.avi
-!new/Naruto/Naruto 036.avi
-!new/Naruto/Naruto 037.avi
-!new/Naruto/Naruto 038.avi
-!new/Naruto/Naruto 039.avi
-!new/Naruto/Naruto 040.avi
-!new/Naruto/Naruto 041.avi
-!new/Naruto/Naruto 042.avi
-!new/Naruto/Naruto 043.avi
-!new/Naruto/Naruto 044.avi
-!new/Naruto/Naruto 045.avi
-!new/Naruto/Naruto 046.avi
-!new/Naruto/Naruto 047.avi
-!new/Naruto/Naruto 048.avi
-!new/Naruto/Naruto 049.avi
-!new/Naruto/Naruto 050.avi
-!new/Naruto/Naruto 051.avi
-!new/Naruto/Naruto 052.avi
-!new/Naruto/Naruto 053.avi
-!new/Naruto/Naruto 054.avi
-!new/Naruto/Naruto 055.avi
-!new/Naruto/Naruto 056.avi
-!new/Naruto/Naruto 057.avi
-!new/Naruto/Naruto 058.avi
-!new/Naruto/Naruto 059.avi
-!new/Naruto/Naruto 060.avi
-!new/Naruto/Naruto 061.avi
-!new/Naruto/Naruto 062.avi
-!new/Naruto/Naruto 063.avi
-!new/Naruto/Naruto 064.avi
-!new/Naruto/Naruto 065.avi
-!new/Naruto/Naruto 066-67.avi
-!new/Naruto/Naruto 068.avi
-!new/Naruto/Naruto 069.avi
-!new/Naruto/Naruto 070.avi
-!new/Naruto/Naruto 071.avi
-!new/Naruto/Naruto 072.avi
-!new/Naruto/Naruto 073.avi
-!new/Naruto/Naruto 074.avi
-!new/Naruto/Naruto 075.avi
-!new/Naruto/Naruto 076.avi
-!new/Naruto/Naruto 077.avi
-!new/Naruto/Naruto 078.avi
-!new/Naruto/Naruto 079.avi
-!new/Naruto/Naruto 080.avi
-!new/Naruto/Naruto 081.avi
-!new/Naruto/Naruto 082.avi
-!new/Naruto/Naruto 083.avi
-!new/Naruto/Naruto 084.avi
-!new/Naruto/Naruto 085.avi
-!new/Naruto/Naruto 086.avi
-!new/Naruto/Naruto 087.avi
-!new/Naruto/Naruto 088.avi
-!new/Naruto/Naruto 089.avi
-!new/Naruto/Naruto 090.avi
-!new/Naruto/Naruto 091.avi
-!new/Naruto/Naruto 092.avi
-!new/Naruto/Naruto 093.avi
-!new/Naruto/Naruto 094.avi
-!new/Naruto/Naruto 095-96.avi
-!new/Naruto/Naruto 097.avi
-!new/Naruto/Naruto 098.avi
-!new/Naruto/Naruto 099.avi
-!new/Naruto/Naruto 100.avi
+!new/Naruto/51-100/1st/Naruto 051.avi
+!new/Naruto/51-100/1st/Naruto 052.avi
+!new/Naruto/51-100/1st/Naruto 053.avi
+!new/Naruto/51-100/1st/Naruto 054.avi
+!new/Naruto/51-100/1st/Naruto 055.avi
+!new/Naruto/51-100/1st/Naruto 056.avi
+!new/Naruto/51-100/1st/Naruto 057.avi
+!new/Naruto/51-100/1st/Naruto 058.avi
+!new/Naruto/51-100/1st/Naruto 059.avi
+!new/Naruto/51-100/1st/Naruto 060.avi
+!new/Naruto/51-100/1st/Naruto 061.avi
+!new/Naruto/51-100/1st/Naruto 062.avi
+!new/Naruto/51-100/1st/Naruto 063.avi
+!new/Naruto/51-100/1st/Naruto 064.avi
+!new/Naruto/51-100/1st/Naruto 065.avi
+!new/Naruto/51-100/1st/Naruto 066-67.avi
+!new/Naruto/51-100/1st/Naruto 068.avi
+!new/Naruto/51-100/1st/Naruto 069.avi
+!new/Naruto/51-100/1st/Naruto 070.avi
+!new/Naruto/51-100/1st/Naruto 071.avi
+!new/Naruto/51-100/1st/Naruto 072.avi
+!new/Naruto/51-100/1st/Naruto 073.avi
+!new/Naruto/51-100/1st/Naruto 074.avi
+!new/Naruto/51-100/1st/Naruto 075.avi
+!new/Naruto/51-100/2nd/Naruto 076.avi
+!new/Naruto/51-100/2nd/Naruto 077.avi
+!new/Naruto/51-100/2nd/Naruto 078.avi
+!new/Naruto/51-100/2nd/Naruto 079.avi
+!new/Naruto/51-100/2nd/Naruto 080.avi
+!new/Naruto/51-100/2nd/Naruto 081.avi
+!new/Naruto/51-100/2nd/Naruto 082.avi
+!new/Naruto/51-100/2nd/Naruto 083.avi
+!new/Naruto/51-100/2nd/Naruto 084.avi
+!new/Naruto/51-100/2nd/Naruto 085.avi
+!new/Naruto/51-100/2nd/Naruto 086.avi
+!new/Naruto/51-100/2nd/Naruto 087.avi
+!new/Naruto/51-100/2nd/Naruto 088.avi
+!new/Naruto/51-100/2nd/Naruto 089.avi
+!new/Naruto/51-100/2nd/Naruto 090.avi
+!new/Naruto/51-100/2nd/Naruto 091.avi
+!new/Naruto/51-100/2nd/Naruto 092.avi
+!new/Naruto/51-100/2nd/Naruto 093.avi
+!new/Naruto/51-100/2nd/Naruto 094.avi
+!new/Naruto/51-100/2nd/Naruto 095-96.avi
+!new/Naruto/51-100/2nd/Naruto 097.avi
+!new/Naruto/51-100/2nd/Naruto 098.avi
+!new/Naruto/51-100/2nd/Naruto 099.avi
+!new/Naruto/51-100/2nd/Naruto 100.avi
 !new/Naruto/Naruto 101.avi
 !new/Naruto/Naruto 102.avi
 !new/Naruto/Naruto 103.avi
@@ -522,6 +469,7 @@
 !new/Naruto/Naruto 70 .avi
 !new/Naruto/Naruto Special - Find the Crimson Four-leaf Clover!.avi
 !new/Naruto/Naruto Special Edition 2004 (Fiesta).avi
+!new/Naruto/[AonE] Naruto - 158 [336D6158].avi
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
@@ -813,31 +761,86 @@
 !new/Saint Seiya Hades OVA 12 [SpA].avi
 !new/Saint Seiya Hades OVA 13 [SpA].avi
 !new/Soul Link Extras [ReDone].sfv
-!new/[Ayako]_Infinite_Stratos_-_IS_-_07_[H264][720p][EB7838FC].mkv
-!new/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_12_[94e33cbf].avi
+!new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_01v2[divx5.1.1].mkv
+!new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_02v2[divx5.1.1].mkv
+!new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_03v2[divx5.1.1].mkv
+!new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_04v2[divx5.1.1].mkv
+!new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_05v2[divx5.1.1].mkv
+!new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_06[divx5.1.1].mkv
+!new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_07[divx5.1.1].mkv
+!new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_08[divx5.1.1].mkv
+!new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_09[divx5.1.1].mkv
+!new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_10[divx5.1.1].mkv
+!new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_11[divx5.1.1].mkv
+!new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_12[divx5.2].mkv
+!new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_13[divx5.2].mkv
+!new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_14[divx5.2].mkv
+!new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_15[divx5.2].mkv
+!new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_16[divx5.2].mkv
+!new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_17[divx5.2].mkv
+!new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_18[divx5.2.1].mkv
+!new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_19[divx5.2.1].mkv
+!new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_20[divx5.2.1].mkv
+!new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_21[divx5.2.1].mkv
+!new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_22[divx5.2.1].mkv
+!new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_23[divx5.2.1].mkv
+!new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_24[divx5.2.1].mkv
+!new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_25[divx5.2.1].mkv
+!new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_26[divx5.2.1].mkv
+!new/Tenchi Muyo/Tenchi - Mihoshi special OVA.ogm
+!new/Tenchi Muyo/Tenchi In Tokyo/Tenchi In Tokyo - 01 - Separation Anxiety.ogm
+!new/Tenchi Muyo/Tenchi In Tokyo/Tenchi In Tokyo - 02 - Four`s A Crowd.ogm
+!new/Tenchi Muyo/Tenchi In Tokyo/Tenchi In Tokyo - 03 - Long Distance Lunacy.ogm
+!new/Tenchi Muyo/Tenchi In Tokyo/Tenchi In Tokyo - 04 - The Eternal Pledge.ogm
+!new/Tenchi Muyo/Tenchi In Tokyo/Tenchi In Tokyo - 05 - Money! Money! Money!.ogm
+!new/Tenchi Muyo/Tenchi In Tokyo/Tenchi In Tokyo - 06 - Play Date.ogm
+!new/Tenchi Muyo/Tenchi In Tokyo/Tenchi In Tokyo - 07 - The Day We Met.ogm
+!new/Tenchi Muyo/Tenchi In Tokyo/Tenchi In Tokyo - 08 - Tenchi Anniversary.ogm
+!new/Tenchi Muyo/Tenchi In Tokyo/Tenchi In Tokyo - 09 - The Guardians Of Old.ogm
+!new/Tenchi Muyo/Tenchi In Tokyo/Tenchi In Tokyo - 10 - Ryoko`s Big Date.ogm
+!new/Tenchi Muyo/Tenchi In Tokyo/Tenchi In Tokyo - 11 - Moon Mission.ogm
+!new/Tenchi Muyo/Tenchi In Tokyo/Tenchi In Tokyo - 12 - Stupid Cupid.ogm
+!new/Tenchi Muyo/Tenchi In Tokyo/Tenchi In Tokyo - 13 - Eye Of The Destroyer.ogm
+!new/Tenchi Muyo/Tenchi In Tokyo/Tenchi In Tokyo - 14 - Tokyo Or Bust!.ogm
+!new/Tenchi Muyo/Tenchi In Tokyo/Tenchi In Tokyo - 15 - Love Match.ogm
+!new/Tenchi Muyo/Tenchi In Tokyo/Tenchi In Tokyo - 16 - Carnival.ogm
+!new/Tenchi Muyo/Tenchi In Tokyo/Tenchi In Tokyo - 17 - Drifitng Away.ogm
+!new/Tenchi Muyo/Tenchi In Tokyo/Tenchi In Tokyo - 18 - Game Over.ogm
+!new/Tenchi Muyo/Tenchi In Tokyo/Tenchi In Tokyo - 19 - The Lonely Princess.ogm
+!new/Tenchi Muyo/Tenchi In Tokyo/Tenchi In Tokyo - 20 - Old Friends.ogm
+!new/Tenchi Muyo/Tenchi In Tokyo/Tenchi In Tokyo - 21 - Real Friends.ogm
+!new/Tenchi Muyo/Tenchi In Tokyo/Tenchi In Tokyo - 22 - Sakuya's Secret.ogm
+!new/Tenchi Muyo/Tenchi In Tokyo/Tenchi In Tokyo - 23 - Here, There, And Everywhere.ogm
+!new/Tenchi Muyo/Tenchi In Tokyo/Tenchi In Tokyo - 24 - Yugis Shadow.ogm
+!new/Tenchi Muyo/Tenchi In Tokyo/Tenchi In Tokyo - 25 - The End Of Time.ogm
+!new/Tenchi Muyo/Tenchi In Tokyo/Tenchi In Tokyo - 26 - Payback.ogm
+!new/Tenchi Muyo/Tenchi Movies/zx.daughter-of-darkness.divx5.ogm
+!new/Tenchi Muyo/Tenchi Movies/zx.tenchi-forever.divx5.ogm
+!new/Tenchi Muyo/Tenchi Movies/zx.tenchi-muyo-in-love.divx5.ogm
+!new/Tenchi Muyo/Tenchi Muyo - Pretty Sammy/zx.tenchi.pretty-sammy.ova.01.divx51.v2.ogm
+!new/Tenchi Muyo/Tenchi Muyo - Pretty Sammy/zx.tenchi.pretty-sammy.ova.02.divx51.ogm
+!new/Tenchi Muyo/Tenchi Muyo - Pretty Sammy/zx.tenchi.pretty-sammy.ova.03.divx51.ogm
+!new/Tenchi Muyo/Tenchi Muyo Ova/tenchi_muyo_-_ova_-_01_-_ryoko_resurrected_[a-a].ogm
+!new/Tenchi Muyo/Tenchi Muyo Ova/tenchi_muyo_-_ova_-_02_-_here_comes_ayeka_[a-a].ogm
+!new/Tenchi Muyo/Tenchi Muyo Ova/tenchi_muyo_-_ova_-_03_-_hello_ryo-ohki_[a-a].ogm
+!new/Tenchi Muyo/Tenchi Muyo Ova/tenchi_muyo_-_ova_-_04_-_mihoshi_falls_to_the_land_of_stars_[a-a].ogm
+!new/Tenchi Muyo/Tenchi Muyo Ova/tenchi_muyo_-_ova_-_05_-_kagato_attacks_[a-a].ogm
+!new/Tenchi Muyo/Tenchi Muyo Ova/tenchi_muyo_-_ova_-_06_-_we_need_tenchi_[a-a].ogm
+!new/Tenchi Muyo/Tenchi Muyo Ova/tenchi_muyo_-_ova_-_07_-_the_night_before_the_carnival_[a-a].ogm
+!new/Tenchi Muyo/Tenchi Muyo Ova/tenchi_muyo_-_ova_-_08_-_hello_baby_[a-a].ogm
+!new/Tenchi Muyo/Tenchi Muyo Ova/tenchi_muyo_-_ova_-_09_-_sasami_&_tsunami_[a-a].ogm
+!new/Tenchi Muyo/Tenchi Muyo Ova/tenchi_muyo_-_ova_-_10_-_i_love_tenchi_[a-a].ogm
+!new/Tenchi Muyo/Tenchi Muyo Ova/tenchi_muyo_-_ova_-_11_-_the_advent_of_the_goddess_[a-a].ogm
+!new/Tenchi Muyo/Tenchi Muyo Ova/tenchi_muyo_-_ova_-_12_-_zero_ryoko_[a-a].ogm
+!new/Tenchi Universe/zx.tenchi-universe.01.divx5.ogm
 !new/[Doremi].Love.Live!.Bokura.no.LIVE.Kimi.to.no.LIFE.[DC2A205D].mkv
 !new/[Doremi].Love.Live!.Snow.Halation.[6C4D55B5].mkv
-!new/[Doremi].Motto.Ojamajo.Doremi.40.[798F7D1E].avi
-!new/[Eclipse] Kimi ni Todoke 2nd Season - 06 (1280x720 h264) [B1B3B96F].mkv
-!new/[HorribleSubs] Cardfight!! Vanguard - 07 [720p].mkv
-!new/[HorribleSubs] Naruto Shippuuden - 199 [720p].mkv
-!new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_46_[258F0CED].mkv
-!new/[Keroro].136.[Xvid.mp3].[CE71B493].avi
-!new/[Keroro].137.[Xvid.mp3].[33CC7135].avi
-!new/[Keroro].138.[Xvid.mp3].[0DA4AFBD].avi
-!new/[Keroro].139.[Xvid.mp3].[DA1BFC3E].avi
-!new/[Keroro].140.[Xvid.mp3].[947C9847].avi
-!new/[Keroro].141.[Xvid.mp3].[96327A84].avi
-!new/[Keroro].142.[Xvid.mp3].[501EAFED].avi
-!new/[Keroro].143.[Xvid.mp3].[DC034D9F].avi
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP1 [BD 1280x720 H264 OGG] [BD01F6E4].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP2 [BD 848x480 H264 OGG] [E26716A2].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP3 [BD 848x480 H264 OGG] [D7CC1197].mkv
 !new/[Koharubi]_Bakemonogatari_-_01_[BD][1080p][54941B4A].mkv
 !new/[Koharubi]_Bakemonogatari_-_02_[BD][1080p][012B4B3C].mkv
 !new/[Koharubi]_Bakemonogatari_-_Hitagi_Crab_Notes_[D6C5C5D0].pdf
-!new/[Lambda-Delta]_Welcome_to_the_Space_Show_[720p][H264_AAC][D040A850].mkv
-!new/[Licca] A Little Princess Sara Episode 41 (h.264) [C323E566].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -866,9 +869,6 @@
 !new/[ReDone] Soul Link Special - 01 (DVD) [D726B96F].mkv
 !new/[ReDone] Soul Link Special - 02 (DVD) [133E64A5].mkv
 !new/[ReDone] Soul Link Special - 03 (DVD) [594E786C].mkv
-!new/[SECL-942] Mahou Shoujo Madoka Magika ED Single - Kalafina - Magia [flac+scans+cue+log].rar
-!new/[SS] Gosick - 06 (1280x720 h264) [F62961C9].mkv
-!new/[Shin - S] Mahou Shoujo Madoka Magica ED Single - Magia.rar
 !new/[SpA-AznA]Saint Seiya Hades - Special [D7BFAED9] [XviD].avi
 !new/[T-N]Precure_All_Stars_DX2[8B37B1EE]Blu.mp4
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
@@ -1110,13 +1110,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_19_[720p][044FAA53].mkv
-!new/[UTW]_Fractale_-_05_[h264-720p][64FD8A59].mkv
-!new/[Victorique]_Gosick_-_07_[h264-720p][6B9E844E].mkv
-!new/[WhyNot] Freezing - 07 [Uncensored][A6C2A3E6].mkv
-!new/[ray=out]_Before_Green_Gables_-_13_[720p][83AD109F].mkv
-!new/[ray=out]_Before_Green_Gables_-_14_[HD][0D630912].mkv
-!new/[umee]_Wandering_Son_-_05_[2C246363].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
