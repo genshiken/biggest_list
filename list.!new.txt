@@ -785,6 +785,40 @@
 !new/[ANBU-AonE]_Naruto_51_75.sfv
 !new/[ANBU-AonE]_Naruto_76_100.sfv
 !new/[AonE]_Naruto_100_[3B624050].avi
+!new/[AonE]_Naruto_176_200.sfv
+!new/[AonE]_Naruto_176_[C0D6FE28].avi
+!new/[AonE]_Naruto_177_[3D97655D].avi
+!new/[AonE]_Naruto_178_[27EB752C].avi
+!new/[AonE]_Naruto_179_[66EE3808].avi
+!new/[AonE]_Naruto_180_[9B6C170D].avi
+!new/[AonE]_Naruto_181_[D3A4FAE5].avi
+!new/[AonE]_Naruto_182_[B702E175].avi
+!new/[AonE]_Naruto_183_[3B713471].avi
+!new/[AonE]_Naruto_184_[65693A9F].avi
+!new/[AonE]_Naruto_185_[42766B3F].avi
+!new/[AonE]_Naruto_186_[69E09897].avi
+!new/[AonE]_Naruto_187_[E3305040].avi
+!new/[AonE]_Naruto_188_[50DDB84B].avi
+!new/[AonE]_Naruto_189_[D0D727C4].avi
+!new/[AonE]_Naruto_190_[1724B583].avi
+!new/[AonE]_Naruto_191_[19288E05].avi
+!new/[AonE]_Naruto_192_[37B5F13E].avi
+!new/[AonE]_Naruto_193_[7EADE1BF].avi
+!new/[AonE]_Naruto_194_[C6E152CE].avi
+!new/[AonE]_Naruto_195_[983ED4C0].avi
+!new/[AonE]_Naruto_196_[F3374B16].avi
+!new/[AonE]_Naruto_197_[8B367B88].avi
+!new/[AonE]_Naruto_198_[ACBAAC0B].avi
+!new/[AonE]_Naruto_199_[BAD25042].avi
+!new/[AonE]_Naruto_200_[E1AF2E01].avi
+!new/[AonE]_Naruto_201_209.sfv
+!new/[AonE]_Naruto_201_[82646DCB].avi
+!new/[AonE]_Naruto_202_[6C64289C].avi
+!new/[AonE]_Naruto_203-205_[1173E492].avi
+!new/[AonE]_Naruto_206_[9CEFA0F9].avi
+!new/[AonE]_Naruto_207_[7B8F9CF4].avi
+!new/[AonE]_Naruto_208_[9AB6DC4C].avi
+!new/[AonE]_Naruto_209_[E21F622C].avi
 !new/[AonE]_Naruto_210_213.sfv
 !new/[AonE]_Naruto_210_[785FB1D5].avi
 !new/[AonE]_Naruto_211_[B861E1EB].avi
@@ -801,6 +835,8 @@
 !new/[AonE]_Naruto_97_[7586BE00].avi
 !new/[AonE]_Naruto_98_[6915F004].avi
 !new/[AonE]_Naruto_99_[21AD704C].avi
+!new/[AonE]_Naruto_OVA3_[DVD][20C47334].avi
+!new/[Commie] Level E - 07 [5A093547].mkv
 !new/[DmonHiro] Chrono Crusade - Extra Goodies Pack.zip
 !new/[Doremi-CureCom].Suite.PreCure!.03.[1280x720].[E4CF482F].mkv
 !new/[Doremi].Love.Live!.Bokura.no.LIVE.Kimi.to.no.LIFE.[DC2A205D].mkv
@@ -816,6 +852,7 @@
 !new/[Keroro].144.[Xvid.mp3].[AC20F00A].avi
 !new/[Keroro].145.[Xvid.mp3].[F6AADB52].avi
 !new/[Keroro].146.[Xvid.mp3].[C649E094].avi
+!new/[Keroro].147.[Xvid.mp3].[B183E0A5].avi
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP1 [BD 1280x720 H264 OGG] [BD01F6E4].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP2 [BD 848x480 H264 OGG] [E26716A2].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP3 [BD 848x480 H264 OGG] [D7CC1197].mkv
@@ -823,6 +860,7 @@
 !new/[Koharubi]_Bakemonogatari_-_02_[BD][1080p][012B4B3C].mkv
 !new/[Koharubi]_Bakemonogatari_-_Hitagi_Crab_Notes_[D6C5C5D0].pdf
 !new/[Licca] A Little Princess Sara Episode 42 (h.264) [81995999].mkv
+!new/[Mazui]_Ore_No_Imouto_-_12_True_Route_[LQ][55F8F699].mkv
 !new/[Nipponsei] Bakuman OP Single - Blue Bird [Kobukuro].zip
 !new/[Nipponsei] Hourou Musuko ED Single - For You [Rie fu].zip
 !new/[Nipponsei] Infinite Stratos ED Single - SUPER STREAM [Various].zip
@@ -859,8 +897,10 @@
 !new/[ReDone] Soul Link Special - 01 (DVD) [D726B96F].mkv
 !new/[ReDone] Soul Link Special - 02 (DVD) [133E64A5].mkv
 !new/[ReDone] Soul Link Special - 03 (DVD) [594E786C].mkv
+!new/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 06 [Webrip][640x480 h.264 AAC][CA7F0D6F].mkv
 !new/[SpA-AznA]Saint Seiya Hades - Special [D7BFAED9] [XviD].avi
 !new/[T-N]Precure_All_Stars_DX2[8B37B1EE]Blu.mp4
+!new/[TMD_A-Destiny]_Bakuman_20_[720p][37DB464A].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
