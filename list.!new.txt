@@ -308,30 +308,8 @@
 !new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_62_[3269E048].mp4
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].ENG.srt
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].avi
+!new/Naruto Movie 1 Covers.rar
 !new/Naruto.txt
-!new/Naruto/101-125/[ANBU_AonE]_Naruto_108_[95AEED31].avi
-!new/Naruto/101-125/[ANBU_AonE]_Naruto_109_[29D22A52].avi
-!new/Naruto/101-125/[ANBU_AonE]_Naruto_110-111_[97E01BD2].avi
-!new/Naruto/101-125/[ANBU_AonE]_Naruto_112_[68E27594].avi
-!new/Naruto/101-125/[ANBU_AonE]_Naruto_113_[419DA428].avi
-!new/Naruto/101-125/[ANBU_AonE]_Naruto_114_[8C70357D].avi
-!new/Naruto/101-125/[ANBU_AonE]_Naruto_115_[BD365879].avi
-!new/Naruto/101-125/[ANBU_AonE]_Naruto_116-117_[DBB98DB3].avi
-!new/Naruto/101-125/[ANBU_AonE]_Naruto_118_[4C6D3E23].avi
-!new/Naruto/101-125/[ANBU_AonE]_Naruto_119_[E421346A].avi
-!new/Naruto/101-125/[ANBU_AonE]_Naruto_120_[3F7E67EB].avi
-!new/Naruto/101-125/[ANBU_AonE]_Naruto_121_[D5B4FED0].avi
-!new/Naruto/101-125/[AonE]_Naruto_101_[15C5E60E].avi
-!new/Naruto/101-125/[AonE]_Naruto_102_[140F6474].avi
-!new/Naruto/101-125/[AonE]_Naruto_103_[A1DF6F1A].avi
-!new/Naruto/101-125/[AonE]_Naruto_104_[7A50F662].avi
-!new/Naruto/101-125/[AonE]_Naruto_105_[39DB07AE].avi
-!new/Naruto/101-125/[AonE]_Naruto_106_[F5DC6BA4].avi
-!new/Naruto/101-125/[AonE]_Naruto_107_[70BBD3C7].avi
-!new/Naruto/101-125/[AonE]_Naruto_122_[53271409].avi
-!new/Naruto/101-125/[AonE]_Naruto_123_[C25A14E5].avi
-!new/Naruto/101-125/[AonE]_Naruto_124_[F63DC534].avi
-!new/Naruto/101-125/[AonE]_Naruto_125_[94D80EB2].avi
 !new/Naruto/Naruto Special - Find the Crimson Four-leaf Clover!.avi
 !new/Naruto/Naruto Special Edition 2004 (Fiesta).avi
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
@@ -734,7 +712,33 @@
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.nfo
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.sfv
 !new/Tenchi Universe/zx.tenchi-universe.01.divx5.ogm
-!new/[AonE]_Naruto_Sports_Festival_[624686B4].avi
+!new/[ANBU-AonE]_Naruto_Special_-_Find_The_Crimson_Four-Leaf_Clover!_[335F8EC6].avi
+!new/[AonE]_Naruto_126_150.sfv
+!new/[AonE]_Naruto_151_175.sfv
+!new/[AonE]_Naruto_151_[E57B748F].avi
+!new/[AonE]_Naruto_152_[4212317B].avi
+!new/[AonE]_Naruto_153_[2654CD2C].avi
+!new/[AonE]_Naruto_154_[77E2694E].avi
+!new/[AonE]_Naruto_155v2_[7FB8DB05].avi
+!new/[AonE]_Naruto_156_[336BF1DB].avi
+!new/[AonE]_Naruto_157_[009E2D8E].avi
+!new/[AonE]_Naruto_158_[336D6158].avi
+!new/[AonE]_Naruto_159_[BA4A752D].avi
+!new/[AonE]_Naruto_160_[73FD26F1].avi
+!new/[AonE]_Naruto_161_[E1FC8F68].avi
+!new/[AonE]_Naruto_162_[FF8D7C66].avi
+!new/[AonE]_Naruto_163_[84C36338].avi
+!new/[AonE]_Naruto_164_[1364E94D].avi
+!new/[AonE]_Naruto_165_[C1A1AB1D].avi
+!new/[AonE]_Naruto_166-167_[42298165].avi
+!new/[AonE]_Naruto_168_[E5AB3896].avi
+!new/[AonE]_Naruto_169_[A8C9D7AF].avi
+!new/[AonE]_Naruto_170_[1F287A9F].avi
+!new/[AonE]_Naruto_171_[A354C486].avi
+!new/[AonE]_Naruto_172_[52765F1C].avi
+!new/[AonE]_Naruto_173_[CF29706C].avi
+!new/[AonE]_Naruto_174_[B3E862FA].avi
+!new/[AonE]_Naruto_175_[5C3FFE84].avi
 !new/[DmonHiro] Chrono Crusade - Extra Goodies Pack.zip
 !new/[Doremi].Love.Live!.Bokura.no.LIVE.Kimi.to.no.LIFE.[DC2A205D].mkv
 !new/[Doremi].Love.Live!.Snow.Halation.[6C4D55B5].mkv
@@ -747,6 +751,7 @@
 !new/[HorribleSubs] Rio - Rainbow Gate - 08 [720p].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 20 [720p].mkv
 !new/[K-F]_One_Piece_294_[12C2FE14].mp4
+!new/[K-F]_One_Piece_295_[CD0F57C1].mp4
 !new/[Keroro].144.[Xvid.mp3].[AC20F00A].avi
 !new/[Keroro].145.[Xvid.mp3].[F6AADB52].avi
 !new/[Keroro].146.[Xvid.mp3].[C649E094].avi
@@ -1163,6 +1168,9 @@
 !new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E12 'Assault on the Point of No Return'.mkv
 !new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E13 'A Storm Raging Through'.mkv
 !new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered Special 'The Mayfly of Space'.mkv
+!new/nar/[AonE] Naruto Movie - 1 [DVD][3B9021D1].avi
+!new/nar/[AonE] Naruto OVA2 - [DVD][9CEDCD4F].avi
+!new/nar/[AonE] Naruto Sports Festival [624686B4].avi
 !new/narutoship/Naruto Shippuden 001-002.avi
 !new/narutoship/Naruto Shippuden 003.avi
 !new/narutoship/Naruto Shippuden 004.avi
