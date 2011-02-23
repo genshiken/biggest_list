@@ -146,6 +146,7 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - 605 [DCTP][720p][8B13241E].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/Movie - 010 - Broly Second Coming.rmvb
 !new/Dragon Ball/Movie - 011 - Bio Broly.rmvb
@@ -331,29 +332,6 @@
 !new/Naruto/101-125/[AonE]_Naruto_123_[C25A14E5].avi
 !new/Naruto/101-125/[AonE]_Naruto_124_[F63DC534].avi
 !new/Naruto/101-125/[AonE]_Naruto_125_[94D80EB2].avi
-!new/Naruto/126-150/[AonE]_Naruto_126_[BBEA5BAD].avi
-!new/Naruto/126-150/[AonE]_Naruto_127-128_[14A7D845].avi
-!new/Naruto/126-150/[AonE]_Naruto_129_[26B2C49C].avi
-!new/Naruto/126-150/[AonE]_Naruto_130_[3F610641].avi
-!new/Naruto/126-150/[AonE]_Naruto_131_[4C0C7063].avi
-!new/Naruto/126-150/[AonE]_Naruto_132_[BC3F2003].avi
-!new/Naruto/126-150/[AonE]_Naruto_133_[85AF2D64].avi
-!new/Naruto/126-150/[AonE]_Naruto_134_[FFCD8EEC].avi
-!new/Naruto/126-150/[AonE]_Naruto_135_[DCBE3E26].avi
-!new/Naruto/126-150/[AonE]_Naruto_136_[D61A7003].avi
-!new/Naruto/126-150/[AonE]_Naruto_137_[EB0C46A7].avi
-!new/Naruto/126-150/[AonE]_Naruto_138_[4B475086].avi
-!new/Naruto/126-150/[AonE]_Naruto_139_[52AA1D75].avi
-!new/Naruto/126-150/[AonE]_Naruto_140_[F3564A60][1100th Release].avi
-!new/Naruto/126-150/[AonE]_Naruto_141_[E856897C].avi
-!new/Naruto/126-150/[AonE]_Naruto_142_[A96A4B42].avi
-!new/Naruto/126-150/[AonE]_Naruto_143_[0D301E38].avi
-!new/Naruto/126-150/[AonE]_Naruto_144_[79CFDAC0].avi
-!new/Naruto/126-150/[AonE]_Naruto_145_[CDDD7A02].avi
-!new/Naruto/126-150/[AonE]_Naruto_146_[A1B0687F].avi
-!new/Naruto/126-150/[AonE]_Naruto_147-148_[0F9E4EE3].avi
-!new/Naruto/126-150/[AonE]_Naruto_149_[EE056497].avi
-!new/Naruto/126-150/[AonE]_Naruto_150_[617DE4DA].avi
 !new/Naruto/Naruto Special - Find the Crimson Four-leaf Clover!.avi
 !new/Naruto/Naruto Special Edition 2004 (Fiesta).avi
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
@@ -756,6 +734,7 @@
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.nfo
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.sfv
 !new/Tenchi Universe/zx.tenchi-universe.01.divx5.ogm
+!new/[AonE]_Naruto_Sports_Festival_[624686B4].avi
 !new/[DmonHiro] Chrono Crusade - Extra Goodies Pack.zip
 !new/[Doremi].Love.Live!.Bokura.no.LIVE.Kimi.to.no.LIFE.[DC2A205D].mkv
 !new/[Doremi].Love.Live!.Snow.Halation.[6C4D55B5].mkv
@@ -764,7 +743,9 @@
 !new/[FTV-Wasurenai] 11eyes - 07 [1280x720 BD H264] [666A7AEF].mkv
 !new/[Frostii]_Yurumates_[126049B3].mkv
 !new/[GotWoot]_Onii-chan_no_Koto_..._07_[720p][5091A13D].mkv
+!new/[HorribleSubs] Bleach - 310 [720p].mkv
 !new/[HorribleSubs] Level E - 07 [720p].mkv
+!new/[HorribleSubs] Rio - Rainbow Gate - 08 [720p].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 20 [720p].mkv
 !new/[K-F]_One_Piece_294_[12C2FE14].mp4
 !new/[Keroro].144.[Xvid.mp3].[AC20F00A].avi
