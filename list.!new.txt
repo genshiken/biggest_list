@@ -724,16 +724,6 @@
 !new/[Doremi].Love.Live!.Bokura.no.LIVE.Kimi.to.no.LIFE.[DC2A205D].mkv
 !new/[Doremi].Love.Live!.Snow.Halation.[6C4D55B5].mkv
 !new/[EAC] To Aru Majutsu no Index II OP2 Single - See visionS (ape+cue+jpg).zip
-!new/[EG]Turn-A_Gundam_41_[2937979E].mkv
-!new/[EG]Turn-A_Gundam_42_[EB833825].mkv
-!new/[EG]Turn-A_Gundam_43_[17E43B70].mkv
-!new/[EG]Turn-A_Gundam_44_[70CD94AC].mkv
-!new/[EG]Turn-A_Gundam_45_[957BA47B].mkv
-!new/[EG]Turn-A_Gundam_46_[561E068C].mkv
-!new/[EG]Turn-A_Gundam_47_[841A928B].mkv
-!new/[EG]Turn-A_Gundam_48_[4F1AD8C1].mkv
-!new/[EG]Turn-A_Gundam_49_[10BFDE73].mkv
-!new/[EG]Turn-A_Gundam_50_[43024EC5].mkv
 !new/[FTV-Wasurenai] 11eyes - 06 [1280x720 BD H264] [5D347EFF].mkv
 !new/[FTV-Wasurenai] 11eyes - 07 [1280x720 BD H264] [666A7AEF].mkv
 !new/[Frostii]_Yurumates_[126049B3].mkv
@@ -745,25 +735,13 @@
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 20 [720p].mkv
 !new/[K-F]_One_Piece_294_[12C2FE14].mp4
 !new/[K-F]_One_Piece_295_[CD0F57C1].mp4
-!new/[Keroro].144.[Xvid.mp3].[AC20F00A].avi
-!new/[Keroro].145.[Xvid.mp3].[F6AADB52].avi
-!new/[Keroro].146.[Xvid.mp3].[C649E094].avi
-!new/[Keroro].147.[Xvid.mp3].[B183E0A5].avi
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP1 [BD 1280x720 H264 OGG] [BD01F6E4].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP2 [BD 848x480 H264 OGG] [E26716A2].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP3 [BD 848x480 H264 OGG] [D7CC1197].mkv
 !new/[Koharubi]_Bakemonogatari_-_01_[BD][1080p][54941B4A].mkv
 !new/[Koharubi]_Bakemonogatari_-_02_[BD][1080p][012B4B3C].mkv
 !new/[Koharubi]_Bakemonogatari_-_Hitagi_Crab_Notes_[D6C5C5D0].pdf
-!new/[Licca] A Little Princess Sara Episode 42 (h.264) [81995999].mkv
-!new/[Licca] A Little Princess Sara Episode 43 (h.264) [A94E0D00].mkv
 !new/[Mazui]_Ore_No_Imouto_-_12_True_Route_[LQ][55F8F699].mkv
-!new/[Nipponsei] Bakuman OP Single - Blue Bird [Kobukuro].zip
-!new/[Nipponsei] Freezing OP ED Single - COLOR [MARiA & Kobayashi Aika].zip
-!new/[Nipponsei] Hourou Musuko ED Single - For You [Rie fu].zip
-!new/[Nipponsei] Infinite Stratos ED Single - SUPER STREAM [Various].zip
-!new/[Nipponsei] Puella Magi Madoka Magica ED Single - Magia [Kalafina].zip
-!new/[Nipponsei] Sora no Otoshimono Forte Character & Drama Album.zip
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -1036,9 +1014,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[gg]_Kimi_ni_Todoke_2nd_Season_-_07_[929047E4].mkv
-!new/[iSiscon]_Hikasa_Youko,_Yukana,_Shimoda_Asami,_Hanazawa_Kana,_Inoue_Marina_-_Infinite_Stratos_ED_Single_-_SUPER∞STREAM_[w_scans]_(FLAC).rar
-!new/[iSiscon]_Kalafina_-_Mahou_Shoujo_Madoka_Magica_ED_Single_-_Magia_[w_scans]_(FLAC).rar
 !new/_bowz/01 - Blue Bird.mp3
 !new/_bowz/01 Ari Ari Mirai.flac
 !new/_bowz/01 SUPER∞STREAM.flac
@@ -1164,7 +1139,6 @@
 !new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E13 'A Storm Raging Through'.mkv
 !new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered Special 'The Mayfly of Space'.mkv
 !new/nar/[ANBU-AonE] Naruto - Special Find The Crimson Four-Leaf Clover! [335F8EC6].avi
-!new/nar/[AonE] Naruto 155 [v2][7FB8DB05].avi
 !new/nar/[AonE] Naruto Movie - 1 [DVD][3B9021D1].avi
 !new/nar/[AonE] Naruto OVA2 - [DVD][9CEDCD4F].avi
 !new/nar/[AonE] Naruto Sports Festival [624686B4].avi
