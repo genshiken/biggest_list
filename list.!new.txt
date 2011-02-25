@@ -727,6 +727,18 @@
 !new/[Doremi].Love.Live!.Bokura.no.LIVE.Kimi.to.no.LIFE.[DC2A205D].mkv
 !new/[Doremi].Love.Live!.Snow.Halation.[6C4D55B5].mkv
 !new/[EAC] To Aru Majutsu no Index II OP2 Single - See visionS (ape+cue+jpg).zip
+!new/[Exiled-Destiny]_Brighter_Than_The_Dawning_Blue_-_Crescent_Love_Ep01_Subbed_(F836A341).mkv
+!new/[Exiled-Destiny]_Brighter_Than_The_Dawning_Blue_-_Crescent_Love_Ep02_Subbed_(104F3121).mkv
+!new/[Exiled-Destiny]_Brighter_Than_The_Dawning_Blue_-_Crescent_Love_Ep03_Subbed_(F4EFF2BE).mkv
+!new/[Exiled-Destiny]_Brighter_Than_The_Dawning_Blue_-_Crescent_Love_Ep04_Subbed_(232E3865).mkv
+!new/[Exiled-Destiny]_Brighter_Than_The_Dawning_Blue_-_Crescent_Love_Ep05_Subbed_(FEA678C1).mkv
+!new/[Exiled-Destiny]_Brighter_Than_The_Dawning_Blue_-_Crescent_Love_Ep06_Subbed_(414B4445).mkv
+!new/[Exiled-Destiny]_Brighter_Than_The_Dawning_Blue_-_Crescent_Love_Ep07_Subbed_(15CB5228).mkv
+!new/[Exiled-Destiny]_Brighter_Than_The_Dawning_Blue_-_Crescent_Love_Ep08_Subbed_(48071AC3).mkv
+!new/[Exiled-Destiny]_Brighter_Than_The_Dawning_Blue_-_Crescent_Love_Ep09_Subbed_(EA279D85).mkv
+!new/[Exiled-Destiny]_Brighter_Than_The_Dawning_Blue_-_Crescent_Love_Ep10_Subbed_(6D68CF58).mkv
+!new/[Exiled-Destiny]_Brighter_Than_The_Dawning_Blue_-_Crescent_Love_Ep11_Subbed_(0B7B9780).mkv
+!new/[Exiled-Destiny]_Brighter_Than_The_Dawning_Blue_-_Crescent_Love_Ep12_Subbed_(E39C192E).mkv
 !new/[FTV-Wasurenai] 11eyes - 06 [1280x720 BD H264] [5D347EFF].mkv
 !new/[FTV-Wasurenai] 11eyes - 07 [1280x720 BD H264] [666A7AEF].mkv
 !new/[Frostii]_Yurumates_[126049B3].mkv
@@ -744,6 +756,7 @@
 !new/[Koharubi]_Bakemonogatari_-_01_[BD][1080p][54941B4A].mkv
 !new/[Koharubi]_Bakemonogatari_-_02_[BD][1080p][012B4B3C].mkv
 !new/[Koharubi]_Bakemonogatari_-_Hitagi_Crab_Notes_[D6C5C5D0].pdf
+!new/[Licca] A Little Princess Sara Episode 44 (h.264) [3985CD39].mkv
 !new/[Mazui]_Ore_No_Imouto_-_12_True_Route_[LQ][55F8F699].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
@@ -774,6 +787,7 @@
 !new/[ReDone] Soul Link Special - 02 (DVD) [133E64A5].mkv
 !new/[ReDone] Soul Link Special - 03 (DVD) [594E786C].mkv
 !new/[ReDone] Touka Gettan - 25 (DVD) [FC7797AA].mkv
+!new/[ReDone] Touka Gettan - 26 (DVD) [END] [53B00A67].mkv
 !new/[ReDone]_Touka_Gettan_Music_Clip_-_For_My_Last_Love_(Saori_Hayami)_[6EC520CF].mkv
 !new/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 06 [Webrip][640x480 h.264 AAC][CA7F0D6F].mkv
 !new/[SpA-AznA]Saint Seiya Hades - Special [D7BFAED9] [XviD].avi
@@ -1018,7 +1032,12 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[Triad]_Taiko_Drum_Master_DVD_-_01.avi
+!new/[Triad]_Taiko_Drum_Master_DVD_-_02.mkv
+!new/[Triad]_Taiko_Drum_Master_DVD_-_03.mkv
+!new/[Triad]_Taiko_Drum_Master_DVD_-_04.mkv
 !new/[UTW]_Fractale_-_06_[h264-720p][F8DA9F24].mkv
+!new/[gg]_Puella_Magi_Madoka_Magica_-_08_[C862183C].mkv
 !new/[gg]_Yumekui_Merry_-_08_[221F02A5].mkv
 !new/[yibis]_One_Piece_488_[720p][6FD8334B].mkv
 !new/_bowz/01 - Blue Bird.mp3
