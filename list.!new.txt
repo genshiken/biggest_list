@@ -157,6 +157,16 @@
 !new/Dragon Ball/DBZ.Movie.06.The.Return.of.Cooler.mkv
 !new/Dragon Ball/DBZ.Movie.07.Super.Android.mkv
 !new/Dragon Ball/DBZ.Movie.08.Broly.The.Legendary.Super.Saiyan.mkv
+!new/Dragon Ball/DBZ.Movie.09.Bojack.Unbound.mkv
+!new/Dragon Ball/DBZ.Movie.10.Broly.Second.Coming.mkv
+!new/Dragon Ball/DBZ.Movie.11.Bio.Broly.mkv
+!new/Dragon Ball/DBZ.Movie.12.Fusion.Reborn.mkv
+!new/Dragon Ball/DBZ.Movie.13.Wrath.of.the.Dragon.mkv
+!new/Dragon Ball/DBZ.Special.1.The.History.of.Trunks.mkv
+!new/Dragon Ball/DBZ.Special.2.Father.of.Goku.mkv
+!new/Dragon Ball/DBZ.Special.3.Yo!Son.Goku.and.His.Friends.Return!!.mkv
+!new/Dragon Ball/DBZ_Special_-_Plan_To_Destroy_The_Saiya-Jins_Part_1.rmvb
+!new/Dragon Ball/DBZ_Special_-_Plan_To_Destroy_The_Saiya-Jins_Part_2.rmvb
 !new/Dragon Ball/Dragon.Ball.GT.A.Heros.Legacy.The.Movie.REMASTERED.DVDRip.XviD-aAF/aaf-dbgttmahl.avi
 !new/Dragon Ball/Movie - 010 - Broly Second Coming.rmvb
 !new/Dragon Ball/Movie - 011 - Bio Broly.rmvb
@@ -1080,10 +1090,14 @@
 !new/[jackoneill]_Blue_Drop_Creditless_ED_[DVD]_[547DA46A].mkv
 !new/[jackoneill]_Blue_Drop_Creditless_OP_[DVD]_[F3DE11AC].mkv
 !new/[yibis]_One_Piece_488_[720p][6FD8334B].mkv
+!new/_Kira-Fansub_Ore no Imouto_Animated Commentary_03_BD_1080p_DL.mkv
+!new/_Kira-Fansub_Ore no Imouto_Animated Commentary_04_BD_1080p_DL.mkv
 !new/_bowz/01 - Blue Bird.mp3
 !new/_bowz/01 Ari Ari Mirai.flac
 !new/_bowz/01 SUPER∞STREAM.flac
 !new/_bowz/01 Taste of Paradise.flac
+!new/_kira_fansub_ore_no_imouto_extra_animated_commentary_01_bd_1080p_dl.mkv
+!new/_kira_fansub_ore_no_imouto_extra_animated_commentary_02_bd_1080p_dl.mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
