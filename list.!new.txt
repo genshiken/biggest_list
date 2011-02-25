@@ -146,6 +146,7 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - 119 [Conan-A][82B6F710].mp4
 !new/Detective Conan - 124-125 [DCTP][B6DE84CB].avi
 !new/Detective Conan - 281 [DCTP-AZFS][CA869D55].avi
 !new/Detective Conan - 394 [Kienai][C0256C47].mp4
@@ -774,6 +775,7 @@
 !new/[ReDone]_Touka_Gettan_Music_Clip_-_For_My_Last_Love_(Saori_Hayami)_[6EC520CF].mkv
 !new/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 06 [Webrip][640x480 h.264 AAC][CA7F0D6F].mkv
 !new/[SpA-AznA]Saint Seiya Hades - Special [D7BFAED9] [XviD].avi
+!new/[Stratos-Subs] Infinite Stratos - 08 (1280x720 H.264 AAC) [40C80B31].mkv
 !new/[T-N]Precure_All_Stars_DX2[8B37B1EE]Blu.mp4
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
@@ -1014,6 +1016,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[yibis]_One_Piece_488_[720p][6FD8334B].mkv
 !new/_bowz/01 - Blue Bird.mp3
 !new/_bowz/01 Ari Ari Mirai.flac
 !new/_bowz/01 SUPER∞STREAM.flac
