@@ -38,11 +38,13 @@ complete/0/07-Ghost/[YuS-SHS] 07-Ghost - 19 [576p][34E6E669].mkv
 complete/0/07-Ghost/[YuS-SHS] 07-Ghost - 20 [576p][CF1920D0].mkv
 complete/1/11eyes OVA/[Seiippai] 11eyes OVA (1920x1080) [BD][EFEA9AC6].mkv
 complete/1/11eyes/[Commie] 11eyes - Ending (1920x1080) [BD][FAF2457B].mkv
-complete/1/11eyes/[FTV-Wasurenai] 11eyes - 01 (1280x720) [BD][07238189].mkv
-complete/1/11eyes/[FTV-Wasurenai] 11eyes - 02 (1280x720) [BD][85D7593D].mkv
-complete/1/11eyes/[FTV-Wasurenai] 11eyes - 03 (1280x720) [BD][143C5A8B].mkv
-complete/1/11eyes/[FTV-Wasurenai] 11eyes - 04 (1280x720) [BD][A8BDECCF].mkv
-complete/1/11eyes/[FTV-Wasurenai] 11eyes - 05 (1280x720) [BD][C956932B].mkv
+complete/1/11eyes/[FTV-Wasurenai] 11eyes - 01 [720p BD][07238189].mkv
+complete/1/11eyes/[FTV-Wasurenai] 11eyes - 02 [720p BD][85D7593D].mkv
+complete/1/11eyes/[FTV-Wasurenai] 11eyes - 03 [720p BD][143C5A8B].mkv
+complete/1/11eyes/[FTV-Wasurenai] 11eyes - 04 [720p BD][A8BDECCF].mkv
+complete/1/11eyes/[FTV-Wasurenai] 11eyes - 05 [720p BD][C956932B].mkv
+complete/1/11eyes/[FTV-Wasurenai] 11eyes - 06 [720p BD][5D347EFF].mkv
+complete/1/11eyes/[FTV-Wasurenai] 11eyes - 07 [720p BD][666A7AEF].mkv
 complete/1/11eyes/[Shinji-Nekomimi] 11eyes - 06 [7E3C30D8].mkv
 complete/1/11eyes/[Shinji-Nekomimi] 11eyes - 07 [87CB7CF5].mkv
 complete/1/11eyes/[Shinji-Nekomimi] 11eyes - 08 [6CFDB933].mkv
@@ -1423,19 +1425,21 @@ complete/b/Blood+/[Shinsen-Subs] Blood+ - 47 [43A70960].avi
 complete/b/Blood+/[Shinsen-Subs] Blood+ - 48 [0F450D9F].avi
 complete/b/Blood+/[Shinsen-Subs] Blood+ - 49 [EB639F57].avi
 complete/b/Blood+/[Shinsen-Subs] Blood+ - 50 [End][6B9892C8].avi
-complete/b/Blue Drop/[Floser] Blue Drop - 09 [318E02BA].mp4
-complete/b/Blue Drop/[Floser] Blue Drop - 10 [7A0069C6].mp4
-complete/b/Blue Drop/[Floser] Blue Drop - 11 [9D7F49DA].mp4
-complete/b/Blue Drop/[Floser] Blue Drop - 12 [94A7FBDE].mp4
-complete/b/Blue Drop/[Floser] Blue Drop - 13 [End][94A04917].mp4
-complete/b/Blue Drop/[Genjo] Blue Drop - 01 [v2][D456B5F1].mkv
-complete/b/Blue Drop/[Genjo] Blue Drop - 02 [D7641092].mkv
-complete/b/Blue Drop/[Genjo] Blue Drop - 03 [743CCA80].mkv
-complete/b/Blue Drop/[Genjo] Blue Drop - 04 [FCB46B60].mkv
-complete/b/Blue Drop/[Genjo] Blue Drop - 05 [A945FBA8].mkv
-complete/b/Blue Drop/[Genjo] Blue Drop - 06 [257A8AC3].mkv
-complete/b/Blue Drop/[Genjo] Blue Drop - 07 [D8D63B26].mkv
-complete/b/Blue Drop/[Genjo] Blue Drop - 08 [F1A8827B].mkv
+complete/b/Blue Drop/[jackoneill] Blue Drop - 01 [DVD][0FA6BFF2].mkv
+complete/b/Blue Drop/[jackoneill] Blue Drop - 02 [DVD][16C35FA6].mkv
+complete/b/Blue Drop/[jackoneill] Blue Drop - 03 [DVD][CF9AACA0].mkv
+complete/b/Blue Drop/[jackoneill] Blue Drop - 04 [DVD][46EF1538].mkv
+complete/b/Blue Drop/[jackoneill] Blue Drop - 05 [DVD][11D01E36].mkv
+complete/b/Blue Drop/[jackoneill] Blue Drop - 06 [DVD][8FF7ED0C].mkv
+complete/b/Blue Drop/[jackoneill] Blue Drop - 07 [DVD][3B9D94B5].mkv
+complete/b/Blue Drop/[jackoneill] Blue Drop - 08 [DVD][EE0338E0].mkv
+complete/b/Blue Drop/[jackoneill] Blue Drop - 09 [DVD][4C6C4F03].mkv
+complete/b/Blue Drop/[jackoneill] Blue Drop - 10 [DVD][0AEAD107].mkv
+complete/b/Blue Drop/[jackoneill] Blue Drop - 11 [DVD][391D4E76].mkv
+complete/b/Blue Drop/[jackoneill] Blue Drop - 12 [DVD][21DF44C7].mkv
+complete/b/Blue Drop/[jackoneill] Blue Drop - 13 [End][DVD][EE2F789A].mkv
+complete/b/Blue Drop/[jackoneill] Blue Drop - Ending (Clean) [DVD][547DA46A].mkv
+complete/b/Blue Drop/[jackoneill] Blue Drop - Opening (Clean) [DVD][F3DE11AC].mkv
 complete/b/Blue Submarine/[zx] Blue Submarine - 1 [43E77169].mkv
 complete/b/Blue Submarine/[zx] Blue Submarine - 2 [BCFAE4DC].mkv
 complete/b/Blue Submarine/[zx] Blue Submarine - 3 [9BCC6C28].mkv
@@ -3889,19 +3893,23 @@ complete/f/Fushigi Yuugi/[HL] Fushigi Yuugi - 49 [7A636521].ogm
 complete/f/Fushigi Yuugi/[HL] Fushigi Yuugi - 50 [F40DB222].ogm
 complete/f/Fushigi Yuugi/[HL] Fushigi Yuugi - 51 [B43915CF].ogm
 complete/f/Fushigi Yuugi/[HL] Fushigi Yuugi - 52 [End][E2F726E1].ogm
-complete/f/Futakoi Alternative/[AnY] Futakoi Alternative - 01 [A4665A94].avi
-complete/f/Futakoi Alternative/[AnY] Futakoi Alternative - 02 [0987E897].avi
-complete/f/Futakoi Alternative/[AnY] Futakoi Alternative - 03 [F4AA7AEE].avi
-complete/f/Futakoi Alternative/[AnY] Futakoi Alternative - 04 [3F58CC77].avi
-complete/f/Futakoi Alternative/[AnY] Futakoi Alternative - 05 [51842B9A].avi
-complete/f/Futakoi Alternative/[AnY] Futakoi Alternative - 06 [D4270821].avi
-complete/f/Futakoi Alternative/[AnY] Futakoi Alternative - 07 [72B4FF2D].avi
-complete/f/Futakoi Alternative/[AnY] Futakoi Alternative - 08 [CA455B5F].avi
-complete/f/Futakoi Alternative/[AnY] Futakoi Alternative - 09 [C14A6DE6].avi
-complete/f/Futakoi Alternative/[AnY] Futakoi Alternative - 10 [B83294C3].avi
-complete/f/Futakoi Alternative/[AnY] Futakoi Alternative - 11 [87CEB48E].avi
-complete/f/Futakoi Alternative/[AnY] Futakoi Alternative - 12 [C9DC5653].avi
-complete/f/Futakoi Alternative/[AnY] Futakoi Alternative - 13 [End][9C28FC0D].avi
+complete/f/Futakoi Alternative/[Jumonji-Giri] Futakoi Alternative - 01 [v2][E3B53003].mkv
+complete/f/Futakoi Alternative/[Jumonji-Giri] Futakoi Alternative - 02 [v2][5110CC5B].mkv
+complete/f/Futakoi Alternative/[Jumonji-Giri] Futakoi Alternative - 03 [v2][47F3240A].mkv
+complete/f/Futakoi Alternative/[Jumonji-Giri] Futakoi Alternative - 04 [v2][8AAB9E12].mkv
+complete/f/Futakoi Alternative/[Jumonji-Giri] Futakoi Alternative - 05 [v2][4F9AECEA].mkv
+complete/f/Futakoi Alternative/[Jumonji-Giri] Futakoi Alternative - 06 [3E6356BD].mkv
+complete/f/Futakoi Alternative/[Jumonji-Giri] Futakoi Alternative - 07 [9046570A].mkv
+complete/f/Futakoi Alternative/[Jumonji-Giri] Futakoi Alternative - 08 [DDBFE5A5].mkv
+complete/f/Futakoi Alternative/[Jumonji-Giri] Futakoi Alternative - 09 [F04A6053].mkv
+complete/f/Futakoi Alternative/[Jumonji-Giri] Futakoi Alternative - 10 [EE11B917].mkv
+complete/f/Futakoi Alternative/[Jumonji-Giri] Futakoi Alternative - 11 [3371AEF5].mkv
+complete/f/Futakoi Alternative/[Jumonji-Giri] Futakoi Alternative - 12 [6854EDC6].mkv
+complete/f/Futakoi Alternative/[Jumonji-Giri] Futakoi Alternative - 13 [End][9036CEAA].mkv
+complete/f/Futakoi Alternative/[Jumonji-Giri] Futakoi Alternative - Ending (Clean) [DA75AC53].mkv
+complete/f/Futakoi Alternative/[Jumonji-Giri] Futakoi Alternative - Ending 2 (Clean) [1F1CFE8C].mkv
+complete/f/Futakoi Alternative/[Jumonji-Giri] Futakoi Alternative - Ending 3 (Clean) [8C6DD8E1].mkv
+complete/f/Futakoi Alternative/[Jumonji-Giri] Futakoi Alternative - Opening (Clean) [6184ED31].mkv
 complete/f/Futakoi/[AnY] Futakoi - 01 [v2][194E7AC1].avi
 complete/f/Futakoi/[AnY] Futakoi - 02 [8BA6CB54].avi
 complete/f/Futakoi/[AnY] Futakoi - 03 [9DB4FF32].avi
@@ -13845,6 +13853,10 @@ complete/t/Tactics/[Spoon-SHS] Tactics - 22 [6B3B7E04].avi
 complete/t/Tactics/[Spoon-SHS] Tactics - 23 [5678C849].avi
 complete/t/Tactics/[Spoon-SHS] Tactics - 24 [7A53C99B].avi
 complete/t/Tactics/[Spoon-SHS] Tactics - 25 [End][E02C0E7A].avi
+complete/t/Taiko Drum Master/[Triad] Taiko Drum Master - 1 [DVD][22EE011A].avi
+complete/t/Taiko Drum Master/[Triad] Taiko Drum Master - 2 [DVD][48268306].mkv
+complete/t/Taiko Drum Master/[Triad] Taiko Drum Master - 3 [DVD][658D86C5].mkv
+complete/t/Taiko Drum Master/[Triad] Taiko Drum Master - 4 [End][DVD][24FE0A70].mkv
 complete/t/Taishou Yakyuu Musume/[Saizen] Taishou Yakyuu Musume - 01 (1280x720) [BD][18B5D876].mkv
 complete/t/Taishou Yakyuu Musume/[Saizen] Taishou Yakyuu Musume - 02 (1280x720) [BD][D908F467].mkv
 complete/t/Taishou Yakyuu Musume/[Saizen] Taishou Yakyuu Musume - 03 (1280x720) [BD][BCC97335].mkv
@@ -14769,9 +14781,8 @@ complete/t/Touka Gettan/[ReDone] Touka Gettan - 21 [DVD][9D67521E].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 22 [DVD][8514A719].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 23 [DVD][DF4C84BF].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 24 [DVD][D0DBF978].mkv
-complete/t/Touka Gettan/[SRN] Touka Gettan - 24 [71F63436].avi
-complete/t/Touka Gettan/[SRN] Touka Gettan - 25 [A4F72881].avi
-complete/t/Touka Gettan/[SRN] Touka Gettan - 26 [End][A7FA5B91].avi
+complete/t/Touka Gettan/[ReDone] Touka Gettan - 25 [DVD][FC7797AA].mkv
+complete/t/Touka Gettan/[ReDone] Touka Gettan - 26 [End][DVD][53B00A67].mkv
 complete/t/Toward the Terra/[A-E & Saizen] Toward the Terra - 01 [6E69C80D].mkv
 complete/t/Toward the Terra/[A-E & Saizen] Toward the Terra - 02 [0B45A9A0].mkv
 complete/t/Toward the Terra/[A-E & Saizen] Toward the Terra - 03 [4F15D73D].mkv

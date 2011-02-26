@@ -141,16 +141,10 @@
 !new/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.srt
 !new/Appleseed_Ex_Machina_(2007)_[1080p,BluRay,x264]_-_THORA.mkv
 !new/Appleseed_Ex_Machina_(2007)_[1080p,BluRay,x264]_Sample_-_THORA.mkv
-!new/CRC GOOD.txt
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
-!new/Detective Conan - 119 [Conan-A][82B6F710].mp4
-!new/Detective Conan - 124-125 [DCTP][B6DE84CB].avi
-!new/Detective Conan - 281 [DCTP-AZFS][CA869D55].avi
-!new/Detective Conan - 394 [Kienai][C0256C47].mp4
-!new/Detective Conan - 605 [DCTP][720p][8B13241E].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -733,7 +727,6 @@
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.sfv
 !new/Tenchi Universe/zx.tenchi-universe.01.divx5.ogm
 !new/[Animanda]_King_of_Thorn_[DEF6ECFD].mkv
-!new/[AonE]_Haiyoru!_Nyaruani_TV_10_[88434ECB].mkv
 !new/[AonE]_Naruto_101_125.sfv
 !new/[AonE]_Naruto_126_150.sfv
 !new/[AonE]_Naruto_151_175.sfv
@@ -755,42 +748,13 @@
 !new/[Exiled-Destiny]_Brighter_Than_The_Dawning_Blue_-_Crescent_Love_Ep10_Subbed_(6D68CF58).mkv
 !new/[Exiled-Destiny]_Brighter_Than_The_Dawning_Blue_-_Crescent_Love_Ep11_Subbed_(0B7B9780).mkv
 !new/[Exiled-Destiny]_Brighter_Than_The_Dawning_Blue_-_Crescent_Love_Ep12_Subbed_(E39C192E).mkv
-!new/[FTV-Wasurenai] 11eyes - 06 [1280x720 BD H264] [5D347EFF].mkv
-!new/[FTV-Wasurenai] 11eyes - 07 [1280x720 BD H264] [666A7AEF].mkv
-!new/[Frostii]_Yurumates_[126049B3].mkv
 !new/[HACK-JOB]_Kara_no_Kyoukai_-_The_Garden_of_Sinners_-_Remix_-Gate_of_Seventh_Heaven-_[1080p][x264_5.1_FLAC][EADB7656].mkv
-!new/[HorribleSubs] Bleach - 310 [720p].mkv
-!new/[HorribleSubs] Level E - 07 [720p].mkv
-!new/[HorribleSubs] Naruto Shippuuden - 200 [720p].mkv
-!new/[HorribleSubs] Rio - Rainbow Gate - 08 [720p].mkv
-!new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 20 [720p].mkv
-!new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_47_[87D28F7B].mkv
-!new/[Jumonji-Giri]_[AnY]_Futakoi_Alternative_Ep01v2_(e3b53003).mkv
-!new/[Jumonji-Giri]_[AnY]_Futakoi_Alternative_Ep02v2_(5110cc5b).mkv
-!new/[Jumonji-Giri]_[AnY]_Futakoi_Alternative_Ep03v2_(47f3240a).mkv
-!new/[Jumonji-Giri]_[AnY]_Futakoi_Alternative_Ep04v2_(8aab9e12).mkv
-!new/[Jumonji-Giri]_[AnY]_Futakoi_Alternative_Ep05v2_(4f9aecea).mkv
-!new/[Jumonji-Giri]_[AnY]_Futakoi_Alternative_Ep06_(3e6356bd).mkv
-!new/[Jumonji-Giri]_[AnY]_Futakoi_Alternative_Ep07_(9046570a).mkv
-!new/[Jumonji-Giri]_[AnY]_Futakoi_Alternative_Ep08_(ddbfe5a5).mkv
-!new/[Jumonji-Giri]_[AnY]_Futakoi_Alternative_Ep09_(f04a6053).mkv
-!new/[Jumonji-Giri]_[AnY]_Futakoi_Alternative_Ep10_(ee11b917).mkv
-!new/[Jumonji-Giri]_[AnY]_Futakoi_Alternative_Ep11_(3371aef5).mkv
-!new/[Jumonji-Giri]_[AnY]_Futakoi_Alternative_Ep12_(6854edc6).mkv
-!new/[Jumonji-Giri]_[AnY]_Futakoi_Alternative_Ep13_(9036ceaa).mkv
-!new/[Jumonji-Giri]_[AnY]_Futakoi_Alternative_NCED1_(da75ac53).mkv
-!new/[Jumonji-Giri]_[AnY]_Futakoi_Alternative_NCED2_(1f1cfe8c).mkv
-!new/[Jumonji-Giri]_[AnY]_Futakoi_Alternative_NCED3_(8c6dd8e1).mkv
-!new/[Jumonji-Giri]_[AnY]_Futakoi_Alternative_NCOP_(6184ed31).mkv
-!new/[K-F]_One_Piece_294_[12C2FE14].mp4
-!new/[K-F]_One_Piece_295_[CD0F57C1].mp4
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP1 [BD 1280x720 H264 OGG] [BD01F6E4].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP2 [BD 848x480 H264 OGG] [E26716A2].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP3 [BD 848x480 H264 OGG] [D7CC1197].mkv
 !new/[Koharubi]_Bakemonogatari_-_01_[BD][1080p][54941B4A].mkv
 !new/[Koharubi]_Bakemonogatari_-_02_[BD][1080p][012B4B3C].mkv
 !new/[Koharubi]_Bakemonogatari_-_Hitagi_Crab_Notes_[D6C5C5D0].pdf
-!new/[Licca] A Little Princess Sara Episode 44 (h.264) [3985CD39].mkv
 !new/[Mazui]_Ore_No_Imouto_-_12_True_Route_[LQ][55F8F699].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
@@ -815,14 +779,12 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
-!new/[ReDone] Soul Link Creditless ED (DVD) [D09B160F].mkv
-!new/[ReDone] Soul Link Creditless OP (DVD) [2AEB066B].mkv
-!new/[ReDone] Soul Link Special - 01 (DVD) [D726B96F].mkv
-!new/[ReDone] Soul Link Special - 02 (DVD) [133E64A5].mkv
-!new/[ReDone] Soul Link Special - 03 (DVD) [594E786C].mkv
-!new/[ReDone] Touka Gettan - 25 (DVD) [FC7797AA].mkv
-!new/[ReDone] Touka Gettan - 26 (DVD) [END] [53B00A67].mkv
-!new/[ReDone]_Touka_Gettan_Music_Clip_-_For_My_Last_Love_(Saori_Hayami)_[6EC520CF].mkv
+!new/[ReDone] Soul Link - Special 01 [DVD][D726B96F].mkv
+!new/[ReDone] Soul Link - Special 02 [DVD][133E64A5].mkv
+!new/[ReDone] Soul Link - Special 03 [DVD][594E786C].mkv
+!new/[ReDone] Soul Link Creditless - Ending [DVD][D09B160F].mkv
+!new/[ReDone] Soul Link Creditless - Opening [DVD][2AEB066B].mkv
+!new/[ReDone] Touka Gettan Music Clip - For My Last Love (Saori Hayami) [6EC520CF].mkv
 !new/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 06 [Webrip][640x480 h.264 AAC][CA7F0D6F].mkv
 !new/[SpA-AznA]Saint Seiya Hades - Special [D7BFAED9] [XviD].avi
 !new/[Stratos-Subs] Infinite Stratos - 08 (1280x720 H.264 AAC) [40C80B31].mkv
@@ -1066,30 +1028,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[Triad]_Taiko_Drum_Master_DVD_-_01.avi
-!new/[Triad]_Taiko_Drum_Master_DVD_-_02.mkv
-!new/[Triad]_Taiko_Drum_Master_DVD_-_03.mkv
-!new/[Triad]_Taiko_Drum_Master_DVD_-_04.mkv
-!new/[UTW]_Fractale_-_06_[h264-720p][F8DA9F24].mkv
-!new/[gg]_Ah!_My_Goddess_-_Itsumo_Futari_de_-_1_[9B884DFC].mkv
-!new/[gg]_Puella_Magi_Madoka_Magica_-_08_[C862183C].mkv
-!new/[gg]_Yumekui_Merry_-_08_[221F02A5].mkv
-!new/[jackoneill]_Blue_Drop_01_DVD_[0FA6BFF2].mkv
-!new/[jackoneill]_Blue_Drop_02_DVD_[16C35FA6].mkv
-!new/[jackoneill]_Blue_Drop_03_DVD_[CF9AACA0].mkv
-!new/[jackoneill]_Blue_Drop_04_DVD_[46EF1538].mkv
-!new/[jackoneill]_Blue_Drop_05_DVD_[11D01E36].mkv
-!new/[jackoneill]_Blue_Drop_06_DVD_[8FF7ED0C].mkv
-!new/[jackoneill]_Blue_Drop_07_DVD_[3B9D94B5].mkv
-!new/[jackoneill]_Blue_Drop_08_DVD_[EE0338E0].mkv
-!new/[jackoneill]_Blue_Drop_09_DVD_[4C6C4F03].mkv
-!new/[jackoneill]_Blue_Drop_10_DVD_[0AEAD107].mkv
-!new/[jackoneill]_Blue_Drop_11_DVD_[391D4E76].mkv
-!new/[jackoneill]_Blue_Drop_12_DVD_[21DF44C7].mkv
-!new/[jackoneill]_Blue_Drop_13_DVD_[EE2F789A].mkv
-!new/[jackoneill]_Blue_Drop_Creditless_ED_[DVD]_[547DA46A].mkv
-!new/[jackoneill]_Blue_Drop_Creditless_OP_[DVD]_[F3DE11AC].mkv
-!new/[yibis]_One_Piece_488_[720p][6FD8334B].mkv
 !new/_Kira-Fansub_Ore no Imouto_Animated Commentary_03_BD_1080p_DL.mkv
 !new/_Kira-Fansub_Ore no Imouto_Animated Commentary_04_BD_1080p_DL.mkv
 !new/_bowz/01 - Blue Bird.mp3
@@ -1198,7 +1136,6 @@
 !new/bla/zx.black.heaven.12.sub.rar
 !new/bla/zx.black.heaven.13.dub.avi
 !new/bla/zx.black.heaven.13.sub.rar
-!new/checksums.sfv
 !new/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/lama/[Ayako] Wei� Survive R - 01 - H264 - E975A989.mkv
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi

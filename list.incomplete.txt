@@ -26,6 +26,8 @@ incomplete/A Little Princess Sara/[Licca] A Little Princess Sara - 40 [972F0BB7]
 incomplete/A Little Princess Sara/[Licca] A Little Princess Sara - 41 [C323E566].mkv
 incomplete/A Little Princess Sara/[Licca] A Little Princess Sara - 42 [81995999].mkv
 incomplete/A Little Princess Sara/[Licca] A Little Princess Sara - 43 [A94E0D00].mkv
+incomplete/A Little Princess Sara/[Licca] A Little Princess Sara - 44 [3985CD39].mkv
+incomplete/Ah! My Goddess - Itsumo Futari de/[gg] Ah! My Goddess - Itsumo Futari de - 1 [9B884DFC].mkv
 incomplete/Akahori Gedou Hour Rabuge/[Himitsu] Akahori Gedou Hour Rabuge - 01 [D44052C2].avi
 incomplete/Akahori Gedou Hour Rabuge/[Himitsu] Akahori Gedou Hour Rabuge - 02 [46D00799].avi
 incomplete/Akahori Gedou Hour Rabuge/[Himitsu] Akahori Gedou Hour Rabuge - 03 [4B415EBF].avi
@@ -353,6 +355,7 @@ incomplete/Bleach/[HorribleSubs] Bleach - 306 [720p][8A9745AD].mkv
 incomplete/Bleach/[HorribleSubs] Bleach - 307 [720p][4E7E200C].mkv
 incomplete/Bleach/[HorribleSubs] Bleach - 308 [720p][ADFCBE14].mkv
 incomplete/Bleach/[HorribleSubs] Bleach - 309 [720p][07B95701].mkv
+incomplete/Bleach/[HorribleSubs] Bleach - 310 [720p][C3AE7E93].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 01 [AFCE3665].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 02 [A90F670C].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 03 [A47F2053].mkv
@@ -535,6 +538,8 @@ incomplete/Detective Conan/Detective Conan - 112 [Atavus][B237EAD7].avi
 incomplete/Detective Conan/Detective Conan - 113 [Atavus][83E384F7].avi
 incomplete/Detective Conan/Detective Conan - 114 [Atavus-MCT][55C159DC].avi
 incomplete/Detective Conan/Detective Conan - 115 [Atavus-MCT][18F93A3E].avi
+incomplete/Detective Conan/Detective Conan - 119 [Conan-A][82B6F710].mp4
+incomplete/Detective Conan/Detective Conan - 124-125 [DCTP][B6DE84CB].avi
 incomplete/Detective Conan/Detective Conan - 217 [DCTP][51872EDC].avi
 incomplete/Detective Conan/Detective Conan - 217-218 [DCTP][720p][8129FC9D].mp4
 incomplete/Detective Conan/Detective Conan - 218 [DCTP][5A6B4196].avi
@@ -556,6 +561,7 @@ incomplete/Detective Conan/Detective Conan - 261 [Kienai-AZFS][ED11012B].mp4
 incomplete/Detective Conan/Detective Conan - 262 [Kienai-AZFS][47F6A339].mp4
 incomplete/Detective Conan/Detective Conan - 273 [AZFS][DD2E01DF].avi
 incomplete/Detective Conan/Detective Conan - 274-275 [DCTP-AZFS][2E75803F].avi
+incomplete/Detective Conan/Detective Conan - 281 [DCTP-AZFS][CA869D55].avi
 incomplete/Detective Conan/Detective Conan - 282-283 [DCTP-AZFS][9BED9C34].avi
 incomplete/Detective Conan/Detective Conan - 294 [Kienai][B6666771].mp4
 incomplete/Detective Conan/Detective Conan - 295 [Kienai][647A5C64].mp4
@@ -577,6 +583,7 @@ incomplete/Detective Conan/Detective Conan - 357 [DCTP][BBCA9E2E].avi
 incomplete/Detective Conan/Detective Conan - 360 [DCTP][5039E9FC].avi
 incomplete/Detective Conan/Detective Conan - 388 [Kienai][2C7D528C].mp4
 incomplete/Detective Conan/Detective Conan - 389 [Kienai][86CE4F04].mp4
+incomplete/Detective Conan/Detective Conan - 394 [Kienai][C0256C47].mp4
 incomplete/Detective Conan/Detective Conan - 397 [Kienai][459CFEF5].mp4
 incomplete/Detective Conan/Detective Conan - 409 [Kienai][04F0F911].mp4
 incomplete/Detective Conan/Detective Conan - 410 [Kienai][67F54DB3].mp4
@@ -666,6 +673,7 @@ incomplete/Detective Conan/Detective Conan - 601 [DCTP][720p][9F375B3F].mp4
 incomplete/Detective Conan/Detective Conan - 602 [DCTP][720p][22EBB3BB].mp4
 incomplete/Detective Conan/Detective Conan - 603 [DCTP][720p][281B97D6].mp4
 incomplete/Detective Conan/Detective Conan - 604 [DCTP][720p][5B8E0EC0].mp4
+incomplete/Detective Conan/Detective Conan - 605 [DCTP][720p][8B13241E].mp4
 incomplete/Detective Holmes/[FBI] Detective Holmes - 01 [E0975B64].mkv
 incomplete/Digimon Adventure/[wpp] Digimon Adventure - 18 [B492D87D].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 01 [720p][EF50D001].mkv
@@ -871,6 +879,7 @@ incomplete/Fractale/[UTW] Fractale - 02 [720p][D7961156].mkv
 incomplete/Fractale/[UTW] Fractale - 03 [720p][FAE7890A].mkv
 incomplete/Fractale/[UTW] Fractale - 04 [720p][BE4B9022].mkv
 incomplete/Fractale/[UTW] Fractale - 05 [720p][64FD8A59].mkv
+incomplete/Fractale/[UTW] Fractale - 06 [720p][F8DA9F24].mkv
 incomplete/Fractale/[umee] Fractale - 01 [EAD961D4].mkv
 incomplete/Freezing/[Whine-Subs] Freezing - 01 [720p][C23D808A].mkv
 incomplete/Freezing/[WhyNot] Freezing - 01 [1E14B456].mkv
@@ -1150,6 +1159,7 @@ incomplete/Haiyoru! Nyaruani/[AonE] Haiyoru! Nyaruani TV - 06 [5A3163D7].mkv
 incomplete/Haiyoru! Nyaruani/[AonE] Haiyoru! Nyaruani TV - 07 [3AC41A33].mkv
 incomplete/Haiyoru! Nyaruani/[AonE] Haiyoru! Nyaruani TV - 08 [C12223E1].mkv
 incomplete/Haiyoru! Nyaruani/[AonE] Haiyoru! Nyaruani TV - 09 [6A857CAD].mkv
+incomplete/Haiyoru! Nyaruani/[AonE] Haiyoru! Nyaruani TV - 10 [88434ECB].mkv
 incomplete/Haiyoru! Nyaruani/[Underwater-Commie] Haiyoru! Nyaruani - 01 [720p][D2F5B3EC].mkv
 incomplete/Hakaba Kitarou/[umai-dp] Hakaba Kitarou - 07 [EE23EB3F].mkv
 incomplete/Hakaba Kitarou/[umai-dp] Hakaba Kitarou - 08 [C990A36B].mkv
@@ -2123,6 +2133,7 @@ incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 194 [720p][819BC
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 195 [720p][2EE8F245].mkv
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 197 [720p][B5654DEA].mkv
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 199 [720p][FD5EF2ED].mkv
+incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 200 [720p][0BE8941F].mkv
 incomplete/Ninku/[DB] Ninku - 01 [E889F9AB].avi
 incomplete/Ninku/[DB] Ninku - 02 [26ECC762].avi
 incomplete/Ninku/[DB] Ninku - 03 [F2D26E83].avi
@@ -2508,7 +2519,9 @@ incomplete/One Piece/One Piece - 291 [ADC-Elites][8B891D98].avi
 incomplete/One Piece/One Piece - 292 [ADC-Elites][A7C18986].avi
 incomplete/One Piece/One Piece - 293 [ADC-Elites][1CB1364D].avi
 incomplete/One Piece/One Piece - 293 [K-F][C0E155AB].mp4
+incomplete/One Piece/One Piece - 294 [K-F][12C2FE14].mp4
 incomplete/One Piece/One Piece - 294 [Vegapunk][720p][v2][34646F90].avi
+incomplete/One Piece/One Piece - 295 [K-F][CD0F57C1].mp4
 incomplete/One Piece/One Piece - 295 [Vegapunk][720p][v3][C89632C3].avi
 incomplete/One Piece/One Piece - 296 [Vegapunk][720p][5DE86559].avi
 incomplete/One Piece/One Piece - 297 [Vegapunk][720p][B7A61C55].avi
@@ -2679,6 +2692,7 @@ incomplete/One Piece/One Piece - 484 [yibis][720p][142296D2].mkv
 incomplete/One Piece/One Piece - 485 [yibis][720p][9AF58A2F].mkv
 incomplete/One Piece/One Piece - 486 [yibis][720p][004C24C0].mkv
 incomplete/One Piece/One Piece - 487 [yibis][720p][2785504B].mkv
+incomplete/One Piece/One Piece - 488 [yibis][720p][6FD8334B].mkv
 incomplete/One Piece/One Piece - Opening 7 [Vegapunk][720p][6B7F029D].mp4
 incomplete/One Piece/One Piece - Opening 8 [Vegapunk][720p][D45E5410].mp4
 incomplete/One Piece/One Piece - Special 1 [K-F][DVD][DF62ACA0].avi
@@ -2784,6 +2798,7 @@ incomplete/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 04 [C2AEF6
 incomplete/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 05 [241844ED].mkv
 incomplete/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 06 [584027C6].mkv
 incomplete/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 07 [35ED5B25].mkv
+incomplete/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 08 [C862183C].mkv
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 05 [1B8BEC0C].mkv
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 08 [69EF2B35].mkv
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 09 [C37FE63E].mkv
@@ -2795,6 +2810,7 @@ incomplete/Rio - Rainbow Gate/[HorribleSubs] Rio - Rainbow Gate - 04 [720p][B71B
 incomplete/Rio - Rainbow Gate/[HorribleSubs] Rio - Rainbow Gate - 05 [720p][1D2B76FA].mkv
 incomplete/Rio - Rainbow Gate/[HorribleSubs] Rio - Rainbow Gate - 06 [720p][E54373FC].mkv
 incomplete/Rio - Rainbow Gate/[HorribleSubs] Rio - Rainbow Gate - 07 [720p][BEE13001].mkv
+incomplete/Rio - Rainbow Gate/[HorribleSubs] Rio - Rainbow Gate - 08 [720p][9ACD6CF9].mkv
 incomplete/Rockman EXE Beast/[WPP de Puku] Rockman EXE Beast - 17 [D12F8EC3].avi
 incomplete/Rockman.EXE Axess/[wpp] Rockman.EXE Axess - 01 [4BF2D92B].avi
 incomplete/Rockman.EXE Axess/[wpp] Rockman.EXE Axess - 02 [41B25E09].avi
@@ -2879,6 +2895,7 @@ incomplete/SD Gundam Legend of the Three Kingdoms Brave Battle Warriors/[Huzzah]
 incomplete/SD Gundam Legend of the Three Kingdoms Brave Battle Warriors/[Huzzah] SD Gundam Legend of the Three Kingdoms Brave Battle Warriors - 44 [A2683087].mkv
 incomplete/SD Gundam Legend of the Three Kingdoms Brave Battle Warriors/[Huzzah] SD Gundam Legend of the Three Kingdoms Brave Battle Warriors - 45 [39398BA9].mkv
 incomplete/SD Gundam Legend of the Three Kingdoms Brave Battle Warriors/[Huzzah] SD Gundam Legend of the Three Kingdoms Brave Battle Warriors - 46 [258F0CED].mkv
+incomplete/SD Gundam Legend of the Three Kingdoms Brave Battle Warriors/[Huzzah] SD Gundam Legend of the Three Kingdoms Brave Battle Warriors - 47 [87D28F7B].mkv
 incomplete/SF Saiyuuki Starzinger/[ILA] SF Saiyuuki Starzinger - 06 [65FAA7B3].mkv
 incomplete/SF Saiyuuki Starzinger/[ILA] SF Saiyuuki Starzinger - 07 [6EACF02F].mkv
 incomplete/Saint October/[AoG] Saint October - 14 [8A7C9F10].mkv
@@ -3194,8 +3211,7 @@ incomplete/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Tais
 incomplete/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 17 [720p][24ABA9BD].mkv
 incomplete/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 18 [720p][28B81E09].mkv
 incomplete/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 19 [720p][54E2CAFE].mkv
-incomplete/Taiko Drum Master/[Triad] Taiko Drum Master - 04 [DVD][24FE0A70].mkv
-incomplete/Taiko Drum Master/[Triad] Taiko Drum Master - 14 [DVD][658D86C5].mkv
+incomplete/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 20 [720p][6EF3A6F7].mkv
 incomplete/Tales of Symphonia - OVA - Tethe'alla/[Formula] Tales of Symphonia - OVA - Tethe'alla - 1 [89135783].mkv
 incomplete/Tales of Symphonia - OVA - Tethe'alla/[Formula] Tales of Symphonia - OVA - Tethe'alla - 2 [037B522F].mkv
 incomplete/Tales of Symphonia - OVA - Tethe'alla/[Formula] Tales of Symphonia - OVA - Tethe'alla - 3 [3B1A7724].mkv
@@ -3296,6 +3312,7 @@ incomplete/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 16 
 incomplete/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 17 [720p][C2818FBC].mkv
 incomplete/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 18 [720p][451D7C3B].mkv
 incomplete/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 19 [720p][044FAA53].mkv
+incomplete/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 20 [720p][94047416].mkv
 incomplete/Tono to Issho/[CrunchySubs] Tono to Issho - 01 [720p][09F78AD2].mkv
 incomplete/Tono to Issho/[CrunchySubs] Tono to Issho - 02 [720p][E7ECE8B8].mkv
 incomplete/Tono to Issho/[CrunchySubs] Tono to Issho - 03 [720p][7766D71A].mkv
@@ -3606,6 +3623,7 @@ incomplete/Yumekui Merry/[gg] Yumekui Merry - 04 [F2574AC7].mkv
 incomplete/Yumekui Merry/[gg] Yumekui Merry - 05 [FC96B5E4].mkv
 incomplete/Yumekui Merry/[gg] Yumekui Merry - 06 [FD1776E7].mkv
 incomplete/Yumekui Merry/[gg] Yumekui Merry - 07 [35F7AA0F].mkv
+incomplete/Yumekui Merry/[gg] Yumekui Merry - 08 [221F02A5].mkv
 incomplete/Yutori-chan/[Yuurisan-Subs] Yutori-chan - 01 [Webrip][C9838BD2].mkv
 incomplete/Yutori-chan/[Yuurisan-Subs] Yutori-chan - 02 [Webrip][BFE01B68].mkv
 incomplete/Yutori-chan/[Yuurisan-Subs] Yutori-chan - 03 [Webrip][A15F24CC].mkv
