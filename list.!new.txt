@@ -671,6 +671,7 @@
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 21 [720p].mkv
 !new/[HorribleSubs] Tegami Bachi REVERSE - 46 [720p].mkv
 !new/[Keroro].148.[Xvid.mp3].[FE68D5F1].avi
+!new/[Keroro].149.[Xvid.mp3].[021184F2].avi
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP1 [BD 1280x720 H264 OGG] [BD01F6E4].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP2 [BD 848x480 H264 OGG] [E26716A2].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP3 [BD 848x480 H264 OGG] [D7CC1197].mkv
@@ -967,6 +968,7 @@
 !new/[Yabai]_To_LOVE-Ru_-_24_[DVD][AD85BFFE].mkv
 !new/[Yabai]_To_LOVE-Ru_-_25_[DVD][E4E9C49E].mkv
 !new/[Yabai]_To_LOVE-Ru_-_26_[DVD][E50E5778].mkv
+!new/[gg]_Break_Blade_-_4_(1080p)_[E3665DC5].mkv
 !new/[gg]_Star_Driver_-_21_[B884CE76].mkv
 !new/[m.3.3.w]_Mitsudomoe_BD_-_14_[1080p_-_No_Frills_Release][553778B1].mkv
 !new/[yibis]_One_Piece_487_v3_[720p][9BA6A3B8].mkv
