@@ -631,10 +631,18 @@
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.nfo
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.sfv
 !new/Tenchi Universe/zx.tenchi-universe.01.divx5.ogm
+!new/Top o Nerae! 2 1 [D41848B6].mkv
+!new/Top o Nerae! 2 2 [EA8B6076].mkv
+!new/Top o Nerae! 2 3 [EC90C9E7].mkv
+!new/Top o Nerae! 2 4 [8C664113].mkv
+!new/Top o Nerae! 2 5 [FE5F8D21].mkv
+!new/Top o Nerae! 2 6 [32DE14DD].mkv
 !new/[Animanda]_King_of_Thorn_[DEF6ECFD].mkv
+!new/[AonE]_Haiyoru!_Nyaruani_TV_11_[09440DCF].mkv
 !new/[AonE]_Naruto_101_125.sfv
 !new/[AonE]_Naruto_126_150.sfv
 !new/[AonE]_Naruto_151_175.sfv
+!new/[AonE_Frostii]_Daa!_Daa!_Daa!_-_68_[DVD][30B31599].mkv
 !new/[Ayako]_Infinite_Stratos_-_IS_-_08_[H264][720p][C48BE631].mkv
 !new/[Commie] Ah! My Goddess - Together, Forever - 01 [DVD 480p AAC] [F864774A].mkv
 !new/[DmonHiro] Chrono Crusade - Extra Goodies Pack.zip
@@ -654,33 +662,14 @@
 !new/[Exiled-Destiny]_Brighter_Than_The_Dawning_Blue_-_Crescent_Love_Ep10_Subbed_(6D68CF58).mkv
 !new/[Exiled-Destiny]_Brighter_Than_The_Dawning_Blue_-_Crescent_Love_Ep11_Subbed_(0B7B9780).mkv
 !new/[Exiled-Destiny]_Brighter_Than_The_Dawning_Blue_-_Crescent_Love_Ep12_Subbed_(E39C192E).mkv
-!new/[Exiled-Destiny]_Girls_Bravo_Ep01v3_[R2_Video]_(94D81F22).mkv
-!new/[Exiled-Destiny]_Girls_Bravo_Ep02v3_[R2_Video]_(1E153458).mkv
-!new/[Exiled-Destiny]_Girls_Bravo_Ep03v3_[R2_Video]_(F1910906).mkv
-!new/[Exiled-Destiny]_Girls_Bravo_Ep04v3_[R2_Video]_(B1CB6FB8).mkv
-!new/[Exiled-Destiny]_Girls_Bravo_Ep05v3_[R2_Video]_(FF01C154).mkv
-!new/[Exiled-Destiny]_Girls_Bravo_Ep06v3_[R2_Video]_(E167A8F3).mkv
-!new/[Exiled-Destiny]_Girls_Bravo_Ep07v3_[R2_Video]_(991F3785).mkv
-!new/[Exiled-Destiny]_Girls_Bravo_Ep08v3_[R2_Video]_(30109295).mkv
-!new/[Exiled-Destiny]_Girls_Bravo_Ep09v3_[R2_Video]_(6440045A).mkv
-!new/[Exiled-Destiny]_Girls_Bravo_Ep10v3_[R2_Video]_(B88C6415).mkv
-!new/[Exiled-Destiny]_Girls_Bravo_Ep11v3_[R2_Video]_(2CE4B6A9).mkv
-!new/[Exiled-Destiny]_Girls_Bravo_Ep12v2_(6F25CE7D).mkv
-!new/[Exiled-Destiny]_Girls_Bravo_Ep13_(2F87D513).mkv
-!new/[Exiled-Destiny]_Girls_Bravo_Ep14_(e7c6d4a2).mkv
-!new/[Exiled-Destiny]_Girls_Bravo_Ep15_(1d9dd2fd).mkv
-!new/[Exiled-Destiny]_Girls_Bravo_Ep16_(761cca19).mkv
-!new/[Exiled-Destiny]_Girls_Bravo_Ep17_(caa77701).mkv
-!new/[Exiled-Destiny]_Girls_Bravo_Ep18_(1c381dc0).mkv
-!new/[Exiled-Destiny]_Girls_Bravo_Ep19_(3505368b).mkv
-!new/[Exiled-Destiny]_Girls_Bravo_Ep20_(522D4DF9).mkv
-!new/[Exiled-Destiny]_Girls_Bravo_Ep21_(D13C50A9).mkv
-!new/[Exiled-Destiny]_Girls_Bravo_Ep22_(EB9FB7CA).mkv
-!new/[Exiled-Destiny]_Girls_Bravo_Ep23_(71791D86).mkv
-!new/[Exiled-Destiny]_Girls_Bravo_Ep24_(34AD3D38).mkv
 !new/[Formula]_Tales_of_Symphonia_OVA_-_2_Special_[h264][0079785D].mkv
 !new/[HACK-JOB]_Kara_no_Kyoukai_-_The_Garden_of_Sinners_-_Remix_-Gate_of_Seventh_Heaven-_[1080p][x264_5.1_FLAC][EADB7656].mkv
+!new/[HorribleSubs] Beelzebub - 08 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 08 [720p].mkv
+!new/[HorribleSubs] Lilpri - 47 [720p].mkv
+!new/[HorribleSubs] Mitsudomoe 2 - 08 [720p].mkv
+!new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 21 [720p].mkv
+!new/[HorribleSubs] Tegami Bachi REVERSE - 46 [720p].mkv
 !new/[Keroro].148.[Xvid.mp3].[FE68D5F1].avi
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP1 [BD 1280x720 H264 OGG] [BD01F6E4].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP2 [BD 848x480 H264 OGG] [E26716A2].mkv
@@ -688,7 +677,13 @@
 !new/[Koharubi]_Bakemonogatari_-_01_[BD][1080p][54941B4A].mkv
 !new/[Koharubi]_Bakemonogatari_-_02_[BD][1080p][012B4B3C].mkv
 !new/[Koharubi]_Bakemonogatari_-_Hitagi_Crab_Notes_[D6C5C5D0].pdf
+!new/[Licca] A Little Princess Sara Episode 45 (h.264) [7B94E464].mkv
+!new/[Licca] A Little Princess Sara Episode 46 (h.264) [30B1E84B].mkv
 !new/[Mazui]_Ore_No_Imouto_-_12_True_Route_[LQ][55F8F699].mkv
+!new/[Nipponsei] Black Rock Shooter Original Soundtrack & Remixes.zip
+!new/[Nipponsei] Ore no Imouto ga Konna ni Kawaii Wake ga nai ED5 ED6 Single - Orange [Various].zip
+!new/[Nipponsei] Super Robot Taisen OG The Inspector ED2 Single - Saigo no Tabi [Misato Aki].zip
+!new/[Nutbladder]_Suite_Precure_-_04_[17C143C9].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
@@ -712,17 +707,15 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
+!new/[Over-Time]_Kamen_Rider_OOO_-_24_[D6103B07].mkv
+!new/[Over-Time]_Pirate_Sentai_Gokaiger_-_03_[78C45389].mkv
 !new/[ReDone] Soul Link - Special 01 [DVD][D726B96F].mkv
 !new/[ReDone] Soul Link - Special 02 [DVD][133E64A5].mkv
 !new/[ReDone] Soul Link - Special 03 [DVD][594E786C].mkv
 !new/[ReDone] Soul Link Creditless - Ending [DVD][D09B160F].mkv
 !new/[ReDone] Soul Link Creditless - Opening [DVD][2AEB066B].mkv
 !new/[ReDone] Touka Gettan Music Clip - For My Last Love (Saori Hayami) [6EC520CF].mkv
-!new/[RyRo]_Digimon_Xros_Wars_-_26_(1280x720_x264_AAC)_[7989FD64].mkv
-!new/[RyRo]_Digimon_Xros_Wars_-_27_(1280x720_x264_AAC)_[B65E8C1C].mkv
-!new/[RyRo]_Digimon_Xros_Wars_-_28_(1280x720_x264_AAC)_[B6681865].mkv
 !new/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 06 [Webrip][640x480 h.264 AAC][CA7F0D6F].mkv
-!new/[SMS] Starry Sky - 10 [F0E9BAC1].mkv
 !new/[SpA-AznA]Saint Seiya Hades - Special [D7BFAED9] [XviD].avi
 !new/[Stratos-Subs] Infinite Stratos - 08 (1280x720 H.264 AAC) [40C80B31].mkv
 !new/[T-N]Precure_All_Stars_DX2[8B37B1EE]Blu.mp4
@@ -965,7 +958,18 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[Weapon+] Wolverine - 07 [044B0F9F].mkv
+!new/[Victorique]_Gosick_-_08_[h264-720p][7A8D6DE0].mkv
+!new/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 01 [DVD H264 640x480] [7E4475BB].mkv
+!new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_04_[9DC20561][HD].mp4
+!new/[Wasurenai] Umi Monogatari ~Anata ga Ite Kureta Koto~ 03 [DVD H264 704x400] [A991EECD].mkv
+!new/[WhyNot] Freezing - 08 [Uncensored][07B4652B].mkv
+!new/[Yabai]_To_LOVE-Ru_-_23_[DVD][E374CF08].mkv
+!new/[Yabai]_To_LOVE-Ru_-_24_[DVD][AD85BFFE].mkv
+!new/[Yabai]_To_LOVE-Ru_-_25_[DVD][E4E9C49E].mkv
+!new/[Yabai]_To_LOVE-Ru_-_26_[DVD][E50E5778].mkv
+!new/[gg]_Star_Driver_-_21_[B884CE76].mkv
+!new/[m.3.3.w]_Mitsudomoe_BD_-_14_[1080p_-_No_Frills_Release][553778B1].mkv
+!new/[yibis]_One_Piece_487_v3_[720p][9BA6A3B8].mkv
 !new/_Kira-Fansub_Ore no Imouto_Animated Commentary_03_BD_1080p_DL.mkv
 !new/_Kira-Fansub_Ore no Imouto_Animated Commentary_04_BD_1080p_DL.mkv
 !new/_bowz/01 - Blue Bird.mp3
@@ -1074,6 +1078,30 @@
 !new/bla/zx.black.heaven.12.sub.rar
 !new/bla/zx.black.heaven.13.dub.avi
 !new/bla/zx.black.heaven.13.sub.rar
+!new/gb/[Exiled-Destiny] Girls Bravo - 01 [v3][94D81F22].mkv
+!new/gb/[Exiled-Destiny] Girls Bravo - 02 [v3][1E153458].mkv
+!new/gb/[Exiled-Destiny] Girls Bravo - 03 [v3][F1910906].mkv
+!new/gb/[Exiled-Destiny] Girls Bravo - 04 [v3][B1CB6FB8].mkv
+!new/gb/[Exiled-Destiny] Girls Bravo - 05 [v3][FF01C154].mkv
+!new/gb/[Exiled-Destiny] Girls Bravo - 06 [v3][E167A8F3].mkv
+!new/gb/[Exiled-Destiny] Girls Bravo - 07 [v3][991F3785].mkv
+!new/gb/[Exiled-Destiny] Girls Bravo - 08 [v3][30109295].mkv
+!new/gb/[Exiled-Destiny] Girls Bravo - 09 [v3][6440045A].mkv
+!new/gb/[Exiled-Destiny] Girls Bravo - 10 [v3][B88C6415].mkv
+!new/gb/[Exiled-Destiny] Girls Bravo - 11 [v3][2CE4B6A9].mkv
+!new/gb/[Exiled-Destiny] Girls Bravo - 12 [v2][6F25CE7D].mkv
+!new/gb/[Exiled-Destiny] Girls Bravo - 13 [2F87D513].mkv
+!new/gb/[Exiled-Destiny] Girls Bravo - 14 [E7C6D4A2].mkv
+!new/gb/[Exiled-Destiny] Girls Bravo - 15 [1D9DD2FD].mkv
+!new/gb/[Exiled-Destiny] Girls Bravo - 16 [761CCA19].mkv
+!new/gb/[Exiled-Destiny] Girls Bravo - 17 [CAA77701].mkv
+!new/gb/[Exiled-Destiny] Girls Bravo - 18 [1C381DC0].mkv
+!new/gb/[Exiled-Destiny] Girls Bravo - 19 [3505368B].mkv
+!new/gb/[Exiled-Destiny] Girls Bravo - 20 [522D4DF9].mkv
+!new/gb/[Exiled-Destiny] Girls Bravo - 21 [D13C50A9].mkv
+!new/gb/[Exiled-Destiny] Girls Bravo - 22 [EB9FB7CA].mkv
+!new/gb/[Exiled-Destiny] Girls Bravo - 23 [71791D86].mkv
+!new/gb/[Exiled-Destiny] Girls Bravo - 24 [End][34AD3D38].mkv
 !new/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/lama/[Ayako] Weiﬂ Survive R - 01 - H264 - E975A989.mkv
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
