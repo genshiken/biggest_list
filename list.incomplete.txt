@@ -1638,6 +1638,8 @@ incomplete/Keroro Gunsou/[Keroro] Keroro Gunsou - 144 [AC20F00A].avi
 incomplete/Keroro Gunsou/[Keroro] Keroro Gunsou - 145 [F6AADB52].avi
 incomplete/Keroro Gunsou/[Keroro] Keroro Gunsou - 146 [C649E094].avi
 incomplete/Keroro Gunsou/[Keroro] Keroro Gunsou - 147 [B183E0A5].avi
+incomplete/Keroro Gunsou/[Keroro] Keroro Gunsou - 148 [FE68D5F1].avi
+incomplete/Keroro Gunsou/[Keroro] Keroro Gunsou - 149 [021184F2].avi
 incomplete/Keroro Gunsou/[Soldats-UA] Keroro Gunsou - 001 [F0259E04].avi
 incomplete/Keroro Gunsou/[Soldats-UA] Keroro Gunsou - 002 [286F48DF].avi
 incomplete/Keroro Gunsou/[Soldats-UA] Keroro Gunsou - 003 [955A0A59].avi
@@ -2703,6 +2705,7 @@ incomplete/One Piece/One Piece - 484 [yibis][720p][142296D2].mkv
 incomplete/One Piece/One Piece - 485 [yibis][720p][9AF58A2F].mkv
 incomplete/One Piece/One Piece - 486 [yibis][720p][004C24C0].mkv
 incomplete/One Piece/One Piece - 487 [yibis][720p][2785504B].mkv
+incomplete/One Piece/One Piece - 487 [yibis][v3 720p][9BA6A3B8].mkv
 incomplete/One Piece/One Piece - 488 [yibis][720p][6FD8334B].mkv
 incomplete/One Piece/One Piece - Opening 7 [Vegapunk][720p][6B7F029D].mp4
 incomplete/One Piece/One Piece - Opening 8 [Vegapunk][720p][D45E5410].mp4

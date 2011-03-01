@@ -691,8 +691,6 @@
 !new/[HorribleSubs] Mitsudomoe 2 - 08 [720p].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 21 [720p].mkv
 !new/[HorribleSubs] Tegami Bachi REVERSE - 46 [720p].mkv
-!new/[Keroro].148.[Xvid.mp3].[FE68D5F1].avi
-!new/[Keroro].149.[Xvid.mp3].[021184F2].avi
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP1 [BD 1280x720 H264 OGG] [BD01F6E4].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP2 [BD 848x480 H264 OGG] [E26716A2].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP3 [BD 848x480 H264 OGG] [D7CC1197].mkv
@@ -702,9 +700,6 @@
 !new/[Licca] A Little Princess Sara Episode 45 (h.264) [7B94E464].mkv
 !new/[Licca] A Little Princess Sara Episode 46 (h.264) [30B1E84B].mkv
 !new/[Mazui]_Ore_No_Imouto_-_12_True_Route_[LQ][55F8F699].mkv
-!new/[Nipponsei] Black Rock Shooter Original Soundtrack & Remixes.zip
-!new/[Nipponsei] Ore no Imouto ga Konna ni Kawaii Wake ga nai ED5 ED6 Single - Orange [Various].zip
-!new/[Nipponsei] Super Robot Taisen OG The Inspector ED2 Single - Saigo no Tabi [Misato Aki].zip
 !new/[Nutbladder]_Suite_Precure_-_04_[17C143C9].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
@@ -729,8 +724,6 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
-!new/[Over-Time]_Kamen_Rider_OOO_-_24_[D6103B07].mkv
-!new/[Over-Time]_Pirate_Sentai_Gokaiger_-_03_[78C45389].mkv
 !new/[ReDone] Soul Link - Special 01 [DVD][D726B96F].mkv
 !new/[ReDone] Soul Link - Special 02 [DVD][133E64A5].mkv
 !new/[ReDone] Soul Link - Special 03 [DVD][594E786C].mkv
@@ -983,7 +976,6 @@
 !new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_04_[9DC20561][HD].mp4
 !new/[Wasurenai] Umi Monogatari ~Anata ga Ite Kureta Koto~ 03 [DVD H264 704x400] [A991EECD].mkv
 !new/[m.3.3.w]_Mitsudomoe_BD_-_14_[1080p_-_No_Frills_Release][553778B1].mkv
-!new/[yibis]_One_Piece_487_v3_[720p][9BA6A3B8].mkv
 !new/_Kira-Fansub_Ore no Imouto_Animated Commentary_03_BD_1080p_DL.mkv
 !new/_Kira-Fansub_Ore no Imouto_Animated Commentary_04_BD_1080p_DL.mkv
 !new/_kira_fansub_ore_no_imouto_extra_animated_commentary_01_bd_1080p_dl.mkv
