@@ -12289,10 +12289,10 @@ complete/s/Sasameki Koto/[Formula] Sasameki Koto - 10 [3FACE263].mkv
 complete/s/Sasameki Koto/[Formula] Sasameki Koto - 11 [BABB4D04].mkv
 complete/s/Sasameki Koto/[Formula] Sasameki Koto - 12 [B66C7D50].mkv
 complete/s/Sasameki Koto/[Formula] Sasameki Koto - 13 [End][1B627311].mkv
-complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 01 [DVD][D8F5173D].mkv
-complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 02 [DVD][FBBA12A4].mkv
-complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 03 [DVD][4B0B98DC].mkv
-complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 04 [DVD][7EC16E74].mkv
+complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 01 [v2 DVD][D0DC52CD].mkv
+complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 02 [v2 DVD][84DFC61C].mkv
+complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 03 [v2 DVD][DC99430D].mkv
+complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 04 [v2 DVD][C6F82DA1].mkv
 complete/s/Sayonara Zetsubou Sensei/[a.f.k.] Sayonara Zetsubou Sensei - 01 [FE83A1BD].avi
 complete/s/Sayonara Zetsubou Sensei/[a.f.k.] Sayonara Zetsubou Sensei - 02 [70C1ED5F].avi
 complete/s/Sayonara Zetsubou Sensei/[a.f.k.] Sayonara Zetsubou Sensei - 03 [C5F5E8C5].avi
@@ -14442,7 +14442,7 @@ complete/t/To Love-Ru OVA/[Mamiko] To Love-Ru OVA - 6 [End][9C8DC010].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - 01 [DVD][ED651E3F].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - 02 [DVD][BA42F79B].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - 03 [DVD][AE9E412C].mkv
-complete/t/To Love-Ru/[Yabai] To Love-Ru - 04 [v2][DVD][D1C1C86D].mkv
+complete/t/To Love-Ru/[Yabai] To Love-Ru - 04 [v2 DVD][D1C1C86D].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - 05 [DVD][2514D47C].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - 06 [DVD][51E8042E].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - 07 [DVD][A56FE6B2].mkv
@@ -14461,16 +14461,16 @@ complete/t/To Love-Ru/[Yabai] To Love-Ru - 19 [DVD][253548D1].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - 20 [DVD][FCA61CD4].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - 21 [DVD][AFD0B13E].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - 22 [DVD][E5BD0070].mkv
+complete/t/To Love-Ru/[Yabai] To Love-Ru - 23 [DVD][E374CF08].mkv
+complete/t/To Love-Ru/[Yabai] To Love-Ru - 24 [DVD][AD85BFFE].mkv
+complete/t/To Love-Ru/[Yabai] To Love-Ru - 25 [DVD][E4E9C49E].mkv
+complete/t/To Love-Ru/[Yabai] To Love-Ru - 26 [End][DVD][E50E5778].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - Ending (Clean) [DVD][ED4D6663].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - Ending 2 (Clean) [DVD][2C2DDEC5].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - Ending 2 [DVD][6798B5F0].mkv
-complete/t/To Love-Ru/[Yabai] To Love-Ru - Ending [v2][DVD][8629235A].mkv
+complete/t/To Love-Ru/[Yabai] To Love-Ru - Ending [v2 DVD][8629235A].mkv
 complete/t/To Love-Ru/[Yabai] To Love-Ru - Opening (Clean) [DVD][876BE74A].mkv
-complete/t/To Love-Ru/[Yabai] To Love-Ru - Opening [v2][DVD][A9ADB3C1].mkv
-complete/t/To Love-Ru/[polished] To Love-Ru - 23 [DVD][2A3BBEAA].mkv
-complete/t/To Love-Ru/[polished] To Love-Ru - 24 [DVD][D7B870FE].mkv
-complete/t/To Love-Ru/[polished] To Love-Ru - 25 [DVD][34D58436].mkv
-complete/t/To Love-Ru/[polished] To Love-Ru - 26 [End][DVD][09A4E0F8].mkv
+complete/t/To Love-Ru/[Yabai] To Love-Ru - Opening [v2 DVD][A9ADB3C1].mkv
 complete/t/Toaru Kagaku no Railgun EX OVA/[Mazui-UTW] Toaru Kagaku no Railgun EX OVA [179BCCC6].mkv
 complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - 01 (1920x1080) [BD][F44D9E51].mkv
 complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - 02 (1920x1080) [BD][673B0132].mkv

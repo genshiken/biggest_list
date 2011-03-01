@@ -640,6 +640,8 @@
 !new/Top o Nerae! 2 6 [32DE14DD].mkv
 !new/[Animanda]_King_of_Thorn_[DEF6ECFD].mkv
 !new/[AonE]_Haiyoru!_Nyaruani_TV_11_[09440DCF].mkv
+!new/[AonE]_Hidamari_Sketch_x_Hoshimittsu_Tokubetsu-hen_01_[D30CA4EE].mkv
+!new/[AonE]_Hidamari_Sketch_x_Hoshimittsu_Tokubetsu-hen_02_[4C117A20].mkv
 !new/[AonE]_Naruto_101_125.sfv
 !new/[AonE]_Naruto_126_150.sfv
 !new/[AonE]_Naruto_151_175.sfv
@@ -735,8 +737,6 @@
 !new/[ReDone] Soul Link Creditless - Ending [DVD][D09B160F].mkv
 !new/[ReDone] Soul Link Creditless - Opening [DVD][2AEB066B].mkv
 !new/[ReDone] Touka Gettan Music Clip - For My Last Love (Saori Hayami) [6EC520CF].mkv
-!new/[RyRo]_Inazuma_Eleven_-_119_(1280x720_x264_AAC)_[74650B46].mkv
-!new/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 06 [Webrip][640x480 h.264 AAC][CA7F0D6F].mkv
 !new/[SpA-AznA]Saint Seiya Hades - Special [D7BFAED9] [XviD].avi
 !new/[Stratos-Subs] Infinite Stratos - 08 (1280x720 H.264 AAC) [40C80B31].mkv
 !new/[T-N]Precure_All_Stars_DX2[8B37B1EE]Blu.mp4
@@ -982,18 +982,10 @@
 !new/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 01 [DVD H264 640x480] [7E4475BB].mkv
 !new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_04_[9DC20561][HD].mp4
 !new/[Wasurenai] Umi Monogatari ~Anata ga Ite Kureta Koto~ 03 [DVD H264 704x400] [A991EECD].mkv
-!new/[Yabai]_To_LOVE-Ru_-_23_[DVD][E374CF08].mkv
-!new/[Yabai]_To_LOVE-Ru_-_24_[DVD][AD85BFFE].mkv
-!new/[Yabai]_To_LOVE-Ru_-_25_[DVD][E4E9C49E].mkv
-!new/[Yabai]_To_LOVE-Ru_-_26_[DVD][E50E5778].mkv
 !new/[m.3.3.w]_Mitsudomoe_BD_-_14_[1080p_-_No_Frills_Release][553778B1].mkv
 !new/[yibis]_One_Piece_487_v3_[720p][9BA6A3B8].mkv
 !new/_Kira-Fansub_Ore no Imouto_Animated Commentary_03_BD_1080p_DL.mkv
 !new/_Kira-Fansub_Ore no Imouto_Animated Commentary_04_BD_1080p_DL.mkv
-!new/_bowz/01 - Blue Bird.mp3
-!new/_bowz/01 Ari Ari Mirai.flac
-!new/_bowz/01 SUPER∞STREAM.flac
-!new/_bowz/01 Taste of Paradise.flac
 !new/_kira_fansub_ore_no_imouto_extra_animated_commentary_01_bd_1080p_dl.mkv
 !new/_kira_fansub_ore_no_imouto_extra_animated_commentary_02_bd_1080p_dl.mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
