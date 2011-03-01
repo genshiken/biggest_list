@@ -1567,3 +1567,6 @@
 !new/ss/[all4seiya][galaxy][SAINT_SEIYA][TV112][DVDRIP][XVID_MP3][JP_CH].mkv
 !new/ss/[all4seiya][galaxy][SAINT_SEIYA][TV113][DVDRIP][XVID_MP3][JP_CH].mkv
 !new/ss/[all4seiya][galaxy][SAINT_SEIYA][TV114][DVDRIP][XVID_MP3][JP_CH].mkv
+!new/tes/lulz.mkv
+!new/tes/test.mkv
+!new/tes/test2.mkv
