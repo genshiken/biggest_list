@@ -388,11 +388,12 @@ incomplete/Blue Dragon/[ILA] Blue Dragon - 28 [CA885794].mkv
 incomplete/Bobobo-Bo Bo-Bobo/[HnG-Hajike] Bobobo-Bo Bo-Bobo - 01 [DVD][38478E65].mkv
 incomplete/Bobobo-Bo Bo-Bobo/[HnG-Hajike] Bobobo-Bo Bo-Bobo - 02 [DVD][F2AAE1D5].mkv
 incomplete/Bobobo-Bo Bo-Bobo/[HnG-Hajike] Bobobo-Bo Bo-Bobo - 03 [DVD][36A022AF].mkv
-incomplete/Break Blade/[gg] Break Blade - 1 (1920x1080) [A406CFAD].mkv
+incomplete/Break Blade/[gg] Break Blade - 1 [1080p][A406CFAD].mkv
 incomplete/Break Blade/[gg] Break Blade - 1 [720p][A9337483].mkv
-incomplete/Break Blade/[gg] Break Blade - 2 (1920x1080) [39A31FD8].mkv
+incomplete/Break Blade/[gg] Break Blade - 2 [1080p][39A31FD8].mkv
 incomplete/Break Blade/[gg] Break Blade - 3 [1080p][9FB589D4].mkv
 incomplete/Break Blade/[gg] Break Blade - 3 [720p][DCC762DA].mkv
+incomplete/Break Blade/[gg] Break Blade - 4 [1080p][E3665DC5].mkv
 incomplete/Captain Harlock SSX (TV)/[Live-eviL] Captain Harlock SSX (TV) - 08 [439F92F8].avi
 incomplete/Captain Harlock SSX (TV)/[Live-eviL] Captain Harlock SSX (TV) - 09 [D9EF560D].avi
 incomplete/Captain Harlock/[Live-eviL] Captain Harlock - 24 [0C66A50A].mkv
@@ -896,6 +897,7 @@ incomplete/Freezing/[WhyNot] Freezing - 05 [Censored][674BF331].mkv
 incomplete/Freezing/[WhyNot] Freezing - 05 [v2 Uncensored][4A3AB306].mkv
 incomplete/Freezing/[WhyNot] Freezing - 06 [Uncensored][A949AB9F].mkv
 incomplete/Freezing/[WhyNot] Freezing - 07 [Uncensored][A6C2A3E6].mkv
+incomplete/Freezing/[WhyNot] Freezing - 08 [Uncensored][07B4652B].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 01 [DVD][B9677652].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 04 [DVD][4D454754].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 05 [DVD][5710610B].mkv
@@ -1133,6 +1135,7 @@ incomplete/Gosick/[Victorique] Gosick - 04 [720p][A50D6DFB].mkv
 incomplete/Gosick/[Victorique] Gosick - 05 [720p][48A2CC96].mkv
 incomplete/Gosick/[Victorique] Gosick - 06 [720p][62161A73].mkv
 incomplete/Gosick/[Victorique] Gosick - 07 [720p][6B9E844E].mkv
+incomplete/Gosick/[Victorique] Gosick - 08 [720p][7A8D6DE0].mkv
 incomplete/Gun X Sword/[Shinsen-Subs] Gun X Sword - 10 [DE58BF1B].avi
 incomplete/Gun X Sword/[Shinsen-Subs] Gun X Sword - 11 [94BA7245].avi
 incomplete/Gun X Sword/[Shinsen-Subs] Gun X Sword - 12 [8C1B0A0B].avi
@@ -3180,6 +3183,7 @@ incomplete/Star Driver/[gg] Star Driver - 17 [60B0CD8B].mkv
 incomplete/Star Driver/[gg] Star Driver - 18 [C0AA03F9].mkv
 incomplete/Star Driver/[gg] Star Driver - 19 [BBD77D4D].mkv
 incomplete/Star Driver/[gg] Star Driver - 20 [5A511C0A].mkv
+incomplete/Star Driver/[gg] Star Driver - 21 [B884CE76].mkv
 incomplete/Starry Sky/[SMS] Starry Sky - 01 [2F8DD50A].mkv
 incomplete/Starry Sky/[SMS] Starry Sky - 02 [E7B9CC30].mkv
 incomplete/Starry Sky/[SMS] Starry Sky - 03 [7086BDE7].mkv

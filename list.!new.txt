@@ -50,6 +50,7 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - 606 [DCTP][720p][A6188588].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -644,12 +645,28 @@
 !new/[AonE]_Naruto_151_175.sfv
 !new/[AonE_Frostii]_Daa!_Daa!_Daa!_-_68_[DVD][30B31599].mkv
 !new/[Ayako]_Infinite_Stratos_-_IS_-_08_[H264][720p][C48BE631].mkv
+!new/[BWS]Pocket_Monsters_Best_Wishes_019_Sommelier_Showdown!_Ishizumai_VS_Futachimaru!![H264_720P][4F509422].mkv
 !new/[Commie] Ah! My Goddess - Together, Forever - 01 [DVD 480p AAC] [F864774A].mkv
 !new/[DmonHiro] Chrono Crusade - Extra Goodies Pack.zip
 !new/[Doremi].Love.Live!.Bokura.no.LIVE.Kimi.to.no.LIFE.[DC2A205D].mkv
 !new/[Doremi].Love.Live!.Snow.Halation.[6C4D55B5].mkv
+!new/[Doremi].Motto.Ojamajo.Doremi.41.[FDB290A4].avi
 !new/[EAC] To Aru Majutsu no Index II OP2 Single - See visionS (ape+cue+jpg).zip
 !new/[Eclipse] Kimi ni Todoke 2nd Season - 07 (1280x720 h264) [31A4CE57].mkv
+!new/[Elysium]Ookami-san.to.Shichinin.no.Nakama-tachi.ED(BD.1080p.AAC)[3316A78D].mkv
+!new/[Elysium]Ookami-san.to.Shichinin.no.Nakama-tachi.EP01(BD.1080p.AAC)[3535ADD3].mkv
+!new/[Elysium]Ookami-san.to.Shichinin.no.Nakama-tachi.EP02(BD.1080p.AAC)[37C7FEF7].mkv
+!new/[Elysium]Ookami-san.to.Shichinin.no.Nakama-tachi.EP03(BD.1080p.AAC)[13653E89].mkv
+!new/[Elysium]Ookami-san.to.Shichinin.no.Nakama-tachi.EP04(BD.1080p.AAC)[54AF9AC8].mkv
+!new/[Elysium]Ookami-san.to.Shichinin.no.Nakama-tachi.EP05(BD.1080p.AAC)[486EA233].mkv
+!new/[Elysium]Ookami-san.to.Shichinin.no.Nakama-tachi.EP06(BD.1080p.AAC)[D30434A8].mkv
+!new/[Elysium]Ookami-san.to.Shichinin.no.Nakama-tachi.EP07(BD.1080p.AAC)[064100E8].mkv
+!new/[Elysium]Ookami-san.to.Shichinin.no.Nakama-tachi.EP08(BD.1080p.AAC)[E45EDB4B].mkv
+!new/[Elysium]Ookami-san.to.Shichinin.no.Nakama-tachi.EP09(BD.1080p.AAC)[C9D939B1].mkv
+!new/[Elysium]Ookami-san.to.Shichinin.no.Nakama-tachi.EP10(BD.1080p.AAC)[C55E85FB].mkv
+!new/[Elysium]Ookami-san.to.Shichinin.no.Nakama-tachi.EP11(BD.1080p.AAC)[EFD572EF].mkv
+!new/[Elysium]Ookami-san.to.Shichinin.no.Nakama-tachi.EP12(BD.1080p.AAC)[8E77BA85].mkv
+!new/[Elysium]Ookami-san.to.Shichinin.no.Nakama-tachi.OP(BD.1080p.AAC)[7E7AE4E1].mkv
 !new/[Exiled-Destiny]_Brighter_Than_The_Dawning_Blue_-_Crescent_Love_Ep01_Subbed_(F836A341).mkv
 !new/[Exiled-Destiny]_Brighter_Than_The_Dawning_Blue_-_Crescent_Love_Ep02_Subbed_(104F3121).mkv
 !new/[Exiled-Destiny]_Brighter_Than_The_Dawning_Blue_-_Crescent_Love_Ep03_Subbed_(F4EFF2BE).mkv
@@ -663,6 +680,7 @@
 !new/[Exiled-Destiny]_Brighter_Than_The_Dawning_Blue_-_Crescent_Love_Ep11_Subbed_(0B7B9780).mkv
 !new/[Exiled-Destiny]_Brighter_Than_The_Dawning_Blue_-_Crescent_Love_Ep12_Subbed_(E39C192E).mkv
 !new/[Formula]_Tales_of_Symphonia_OVA_-_2_Special_[h264][0079785D].mkv
+!new/[GotWoot]_Onii-chan_no_Koto_..._08_[720p][5D086D4B].mkv
 !new/[HACK-JOB]_Kara_no_Kyoukai_-_The_Garden_of_Sinners_-_Remix_-Gate_of_Seventh_Heaven-_[1080p][x264_5.1_FLAC][EADB7656].mkv
 !new/[HorribleSubs] Beelzebub - 08 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 08 [720p].mkv
@@ -961,17 +979,13 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[Victorique]_Gosick_-_08_[h264-720p][7A8D6DE0].mkv
 !new/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 01 [DVD H264 640x480] [7E4475BB].mkv
 !new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_04_[9DC20561][HD].mp4
 !new/[Wasurenai] Umi Monogatari ~Anata ga Ite Kureta Koto~ 03 [DVD H264 704x400] [A991EECD].mkv
-!new/[WhyNot] Freezing - 08 [Uncensored][07B4652B].mkv
 !new/[Yabai]_To_LOVE-Ru_-_23_[DVD][E374CF08].mkv
 !new/[Yabai]_To_LOVE-Ru_-_24_[DVD][AD85BFFE].mkv
 !new/[Yabai]_To_LOVE-Ru_-_25_[DVD][E4E9C49E].mkv
 !new/[Yabai]_To_LOVE-Ru_-_26_[DVD][E50E5778].mkv
-!new/[gg]_Break_Blade_-_4_(1080p)_[E3665DC5].mkv
-!new/[gg]_Star_Driver_-_21_[B884CE76].mkv
 !new/[m.3.3.w]_Mitsudomoe_BD_-_14_[1080p_-_No_Frills_Release][553778B1].mkv
 !new/[yibis]_One_Piece_487_v3_[720p][9BA6A3B8].mkv
 !new/_Kira-Fansub_Ore no Imouto_Animated Commentary_03_BD_1080p_DL.mkv
