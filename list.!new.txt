@@ -46,6 +46,47 @@
 !new/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.srt
 !new/Appleseed_Ex_Machina_(2007)_[1080p,BluRay,x264]_-_THORA.mkv
 !new/Appleseed_Ex_Machina_(2007)_[1080p,BluRay,x264]_Sample_-_THORA.mkv
+!new/Arigatou.Bleach.01.[h264.AAC][C8B4B3CE].mkv
+!new/Arigatou.Bleach.02.[h264.AAC][9B837618].mkv
+!new/Arigatou.Bleach.03.[h264.AAC][D7FE093C].mkv
+!new/Arigatou.Bleach.04.[h264.AAC][7E843469].mkv
+!new/Arigatou.Bleach.05.[h264.AAC][7B3A7907].mkv
+!new/Arigatou.Bleach.06v2.[x264.AAC][279AA4BE].mkv
+!new/Arigatou.Bleach.07.[h264.AAC][FBFCA5F6].mkv
+!new/Arigatou.Bleach.08.[h264.AAC][E82F3A59].mkv
+!new/Arigatou.Bleach.09.[h264.AAC][1FD57736].mkv
+!new/Arigatou.Bleach.10.[h264.AAC][338DB60F].mkv
+!new/Arigatou.Bleach.11.[h264.AAC][A36055E7].mkv
+!new/Arigatou.Bleach.12.[h264.AAC][CC0A83DD].mkv
+!new/Arigatou.Bleach.13.[h264.AAC][0FD216BF].mkv
+!new/Arigatou.Bleach.14.[h264.AAC][516F84A9].mkv
+!new/Arigatou.Bleach.15.[h264.AAC][6E1B81C7].mkv
+!new/Arigatou.Bleach.16.[h264.AAC][985BB3CB].mkv
+!new/Arigatou.Bleach.17.[h264.AAC][ACF08553].mkv
+!new/Arigatou.Bleach.18.[h264.AAC][ACAD8CF7].mkv
+!new/Arigatou.Bleach.19.[h264.AAC][B53FC46D].mkv
+!new/Arigatou.Bleach.20.[h264.AAC][82A25EB1].mkv
+!new/Arigatou.Bleach.21.[h216.AAC][A5016AF5].mkv
+!new/Arigatou.Bleach.22.[h264.AAC][1F110B3F].mkv
+!new/Arigatou.Bleach.23.[h264.AAC][3C072725].mkv
+!new/Arigatou.Bleach.24.[h264.AAC][61C286A2].mkv
+!new/Arigatou.Bleach.25.[h264.AAC][ED9E7B0A].mkv
+!new/Arigatou.Bleach.26.[h264.AAC][CF42E034].mkv
+!new/Arigatou.Bleach.27.[h264.AAC][B9632DF5].mkv
+!new/Arigatou.Bleach.28.[h264.AAC][A42C7EE3].mkv
+!new/Arigatou.Bleach.29.[h264.AAC][CE136F5E].mkv
+!new/Arigatou.Bleach.30.[h264.AAC][BBD07963].mkv
+!new/Arigatou.Bleach.31.[h264.AAC][0BB8EB3F].mkv
+!new/Arigatou.Bleach.32.[h264.AAC][811B9241].mkv
+!new/Arigatou.Bleach.33.[h264.AAC][1EC44467].mkv
+!new/Arigatou.Bleach.34.[h264.AAC][5E26A2D2].mkv
+!new/Arigatou.Bleach.35.[h264.AAC][B0103310].mkv
+!new/Arigatou.Bleach.36.[h264.AAC][659CE948].mkv
+!new/Arigatou.Bleach.37.[h264.AAC][39852DE4].mkv
+!new/Arigatou.Bleach.38.[h264.AAC][5559D1AA].mkv
+!new/Arigatou.Bleach.39.[h264.AAC][5623D1A4].mkv
+!new/Arigatou.Bleach.40.[h264.AAC][823D6B59].mkv
+!new/Arigatou.Bleach.41.[h264.AAC][FD75542E].mkv
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
@@ -762,6 +803,7 @@
 !new/[ReDone] Soul Link - Special 03 [DVD][594E786C].mkv
 !new/[ReDone] Soul Link Creditless - Ending [DVD][D09B160F].mkv
 !new/[ReDone] Soul Link Creditless - Opening [DVD][2AEB066B].mkv
+!new/[ReDone] Tonagura! - 01 (DVD) [E532475C].mkv
 !new/[ReDone] Touka Gettan Music Clip - For My Last Love (Saori Hayami) [6EC520CF].mkv
 !new/[SS]_Ore_No_Imouto_-_10_[A381585B].mkv
 !new/[Saizen]_Slam_Dunk_-_025_[DVD][878FA5DA].mkv
@@ -1017,6 +1059,7 @@
 !new/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 01 [DVD H264 640x480] [7E4475BB].mkv
 !new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_04_[9DC20561][HD].mp4
 !new/[Wasurenai] Umi Monogatari ~Anata ga Ite Kureta Koto~ 03 [DVD H264 704x400] [A991EECD].mkv
+!new/[gg]_Armored_Trooper_VOTOMS_-_Case;IRVINE_(BD,1080p)_[D8B60815].mkv
 !new/[m.3.3.w]_Mitsudomoe_BD_-_14_[1080p_-_No_Frills_Release][553778B1].mkv
 !new/_Kira-Fansub_Ore no Imouto_Animated Commentary_03_BD_1080p_DL.mkv
 !new/_Kira-Fansub_Ore no Imouto_Animated Commentary_04_BD_1080p_DL.mkv
