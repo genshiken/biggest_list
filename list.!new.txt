@@ -109,6 +109,34 @@
 !new/Arigatou.Bleach.61.[x264.AAC][0E554B27].mkv
 !new/Arigatou.Bleach.62.[x264.AAC][B852B634].mkv
 !new/Arigatou.Bleach.63.[x264.AAC][AA824DDA].mkv
+!new/Arigatou.Bleach.64.[x264.AAC][B48D8AE8].mkv
+!new/Arigatou.Bleach.65.[x264.AAC][D6992B6B].mkv
+!new/Arigatou.Bleach.66.[x264.AAC][4AA134FE].mkv
+!new/Arigatou.Bleach.67.[x264.AAC][20E52D10].mkv
+!new/Arigatou.Bleach.68.[x264.AAC][7752CD5A].mkv
+!new/Arigatou.Bleach.69.[x264.AAC][AA81B763].mkv
+!new/Arigatou.Bleach.70.[x264.AAC][725B9541].mkv
+!new/Arigatou.Bleach.71.[x264.AAC][9228F22B].mkv
+!new/Arigatou.Bleach.72.[x264.AAC][AAED1C4D].mkv
+!new/Arigatou.Bleach.73.[x264.AAC][80174754].mkv
+!new/Arigatou.Bleach.74.[x264.AAC][A6189625].mkv
+!new/Arigatou.Bleach.75.[x264.AAC][DACBEB88].mkv
+!new/Arigatou.Bleach.76v2.[x264.AAC][D82A3967].mkv
+!new/Arigatou.Bleach.77v2.[x264.AAC][8A831B35].mkv
+!new/Arigatou.Bleach.78.[x264.AAC][5F8DD110].mkv
+!new/Arigatou.Bleach.79.[x264.AAC][4A5C37B2].mkv
+!new/Arigatou.Bleach.80.[x264.AAC][EE6D7905].mkv
+!new/Arigatou.Bleach.81.[x264.AAC][6C5E52C0].mkv
+!new/Arigatou.Bleach.82.[x264.AAC][C7F0A236].mkv
+!new/Arigatou.Bleach.83.[x264.AAC][DD76C9BD].mkv
+!new/Arigatou.Bleach.84.[x264.AAC][C9A507C8].mkv
+!new/Arigatou.Bleach.85.[x264.AAC][0F780E30].mkv
+!new/Arigatou.Bleach.86.[x264.AAC][8BA94480].mkv
+!new/Arigatou.Bleach.87.[x264.AAC][CEA1DC4C].mkv
+!new/Arigatou.Bleach.88.[x264.AAC][516E11CA].mkv
+!new/Arigatou.Bleach.89.[x264.AAC][79B86BBE].mkv
+!new/Arigatou.Bleach.90.[x264.AAC][D7C9CA30].mkv
+!new/Arigatou.Bleach.91.[x264.AAC][85EE2A46].mkv
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
@@ -1083,6 +1111,7 @@
 !new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_04_[9DC20561][HD].mp4
 !new/[Wasurenai] Umi Monogatari ~Anata ga Ite Kureta Koto~ 03 [DVD H264 704x400] [A991EECD].mkv
 !new/[gg]_Armored_Trooper_VOTOMS_-_Case;IRVINE_(BD,1080p)_[D8B60815].mkv
+!new/[gg]_Kimi_ni_Todoke_2nd_Season_-_08_[61B1E116].mkv
 !new/[m.3.3.w]_Mitsudomoe_BD_-_14_[1080p_-_No_Frills_Release][553778B1].mkv
 !new/_Kira-Fansub_Ore no Imouto_Animated Commentary_03_BD_1080p_DL.mkv
 !new/_Kira-Fansub_Ore no Imouto_Animated Commentary_04_BD_1080p_DL.mkv
