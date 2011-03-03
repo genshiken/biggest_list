@@ -87,6 +87,28 @@
 !new/Arigatou.Bleach.39.[h264.AAC][5623D1A4].mkv
 !new/Arigatou.Bleach.40.[h264.AAC][823D6B59].mkv
 !new/Arigatou.Bleach.41.[h264.AAC][FD75542E].mkv
+!new/Arigatou.Bleach.42.[h264.AAC][BE57B82F].mkv
+!new/Arigatou.Bleach.43.[h264.AAC][74D9F4FD].mkv
+!new/Arigatou.Bleach.44.[h264.AAC][0BC4F408].mkv
+!new/Arigatou.Bleach.45.[h264.AAC][BBF9E585].mkv
+!new/Arigatou.Bleach.46.[h264.AAC][158D7491].mkv
+!new/Arigatou.Bleach.47.[h264.AAC][C760323F].mkv
+!new/Arigatou.Bleach.48.[h264.AAC][5D7B3692].mkv
+!new/Arigatou.Bleach.49.[h264.AAC][DA30C013].mkv
+!new/Arigatou.Bleach.50.[h264.AAC][ABDF8FDC].mkv
+!new/Arigatou.Bleach.51.[h264.AAC][0CE42B6D].mkv
+!new/Arigatou.Bleach.52.[h264.AAC][87E24515].mkv
+!new/Arigatou.Bleach.53.[h264.AAC][F19E4128].mkv
+!new/Arigatou.Bleach.54.[x264.AAC][D2F99BA7].mkv
+!new/Arigatou.Bleach.55.[x264.AAC][0873791D].mkv
+!new/Arigatou.Bleach.56.[x264.AAC][9D040A18].mkv
+!new/Arigatou.Bleach.57.[x264.AAC][B63F2B73].mkv
+!new/Arigatou.Bleach.58.[x264.AAC][22CCA208].mkv
+!new/Arigatou.Bleach.59.[x264.AAC][5B423A1D].mkv
+!new/Arigatou.Bleach.60.[x264.AAC][5EDEDC7B].mkv
+!new/Arigatou.Bleach.61.[x264.AAC][0E554B27].mkv
+!new/Arigatou.Bleach.62.[x264.AAC][B852B634].mkv
+!new/Arigatou.Bleach.63.[x264.AAC][AA824DDA].mkv
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
@@ -757,6 +779,7 @@
 !new/[HorribleSubs] Fairy Tail - 68 [720p].mkv
 !new/[HorribleSubs] Lilpri - 47 [720p].mkv
 !new/[HorribleSubs] Mitsudomoe 2 - 08 [720p].mkv
+!new/[HorribleSubs] Rio - Rainbow Gate - 09 [720p].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 21 [720p].mkv
 !new/[HorribleSubs] Tegami Bachi REVERSE - 46 [720p].mkv
 !new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_48_[1EB3C3E5].mkv
