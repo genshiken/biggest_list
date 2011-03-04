@@ -56,6 +56,16 @@
 !new/Arigatou.Bleach.08.[h264.AAC][E82F3A59].mkv
 !new/Arigatou.Bleach.09.[h264.AAC][1FD57736].mkv
 !new/Arigatou.Bleach.10.[h264.AAC][338DB60F].mkv
+!new/Arigatou.Bleach.100.[x264.AAC][A3BE77C2].mkv
+!new/Arigatou.Bleach.101.[x264.AAC][328682FE].mkv
+!new/Arigatou.Bleach.102.[x264.AAC][DDD45296].mkv
+!new/Arigatou.Bleach.103.[x264.AAC][2EB68A24].mkv
+!new/Arigatou.Bleach.104.[x264.AAC][94411C4C].mkv
+!new/Arigatou.Bleach.105.[x264.AAC][6A67F4E0].mkv
+!new/Arigatou.Bleach.106.[x264.AAC][2246D021].mkv
+!new/Arigatou.Bleach.107.[x264.AAC][37E3533C].mkv
+!new/Arigatou.Bleach.108.[x264.AAC][69309874].mkv
+!new/Arigatou.Bleach.109.[x264.AAC][82657CDA].mkv
 !new/Arigatou.Bleach.11.[h264.AAC][A36055E7].mkv
 !new/Arigatou.Bleach.12.[h264.AAC][CC0A83DD].mkv
 !new/Arigatou.Bleach.13.[h264.AAC][0FD216BF].mkv
@@ -137,6 +147,14 @@
 !new/Arigatou.Bleach.89.[x264.AAC][79B86BBE].mkv
 !new/Arigatou.Bleach.90.[x264.AAC][D7C9CA30].mkv
 !new/Arigatou.Bleach.91.[x264.AAC][85EE2A46].mkv
+!new/Arigatou.Bleach.92.[x264.AAC][D42D0A59].mkv
+!new/Arigatou.Bleach.93.[x264.AAC][A26D6628].mkv
+!new/Arigatou.Bleach.94.[x264.AAC][F7493601].mkv
+!new/Arigatou.Bleach.95.[x264.AAC][24B3CE91].mkv
+!new/Arigatou.Bleach.96.[x264.AAC][FF7CFB5F].mkv
+!new/Arigatou.Bleach.97.[x264.AAC][705BEA38].mkv
+!new/Arigatou.Bleach.98.[x264.AAC][0F80CBBF].mkv
+!new/Arigatou.Bleach.99.[x264.AAC][837B99D2].mkv
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
@@ -769,6 +787,7 @@
 !new/[Coalgirls]_Strike_Witches_2_OP2_(1280x720_Blu-Ray_FLAC)_[A6C903F2].mkv
 !new/[Coalgirls]_Strike_Witches_2_OP_(1280x720_Blu-Ray_FLAC)_[A3C3B723].mkv
 !new/[Commie] Ah! My Goddess - Together, Forever - 01 [DVD 480p AAC] [F864774A].mkv
+!new/[CureCom] Fresh Pretty Cure! - 19 [HD][57646801].mkv
 !new/[DmonHiro] Chrono Crusade - Extra Goodies Pack.zip
 !new/[Doremi].Love.Live!.Bokura.no.LIVE.Kimi.to.no.LIFE.[DC2A205D].mkv
 !new/[Doremi].Love.Live!.Snow.Halation.[6C4D55B5].mkv
@@ -811,9 +830,12 @@
 !new/[HorribleSubs] Fairy Tail - 68 [720p].mkv
 !new/[HorribleSubs] Lilpri - 47 [720p].mkv
 !new/[HorribleSubs] Mitsudomoe 2 - 08 [720p].mkv
+!new/[HorribleSubs] Naruto Shippuuden - 201 [720p].mkv
 !new/[HorribleSubs] Rio - Rainbow Gate - 09 [720p].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 21 [720p].mkv
 !new/[HorribleSubs] Tegami Bachi REVERSE - 46 [720p].mkv
+!new/[HorribleSubs] Wandering Son - 06 [720p].mkv
+!new/[HorribleSubs] Wandering Son - 07 [720p].mkv
 !new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_48_[1EB3C3E5].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP1 [BD 1280x720 H264 OGG] [BD01F6E4].mkv
 !new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - SP2 [BD 848x480 H264 OGG] [E26716A2].mkv
@@ -865,6 +887,7 @@
 !new/[Saizen]_Slam_Dunk_-_026_[DVD][8C0A77B4].mkv
 !new/[SpA-AznA]Saint Seiya Hades - Special [D7BFAED9] [XviD].avi
 !new/[Stratos-Subs] Infinite Stratos - 08 (1280x720 H.264 AAC) [40C80B31].mkv
+!new/[Stratos-Subs] Infinite Stratos - 09 (1280x720 H.264 AAC) [v2] [D57E4A54].mkv
 !new/[T-N]Precure_All_Stars_DX2[8B37B1EE]Blu.mp4
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
