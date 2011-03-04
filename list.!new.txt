@@ -881,6 +881,7 @@
 !new/[ReDone] Soul Link Creditless - Opening [DVD][2AEB066B].mkv
 !new/[ReDone] Tonagura! - 01 (DVD) [E532475C].mkv
 !new/[ReDone] Touka Gettan Music Clip - For My Last Love (Saori Hayami) [6EC520CF].mkv
+!new/[RyRo]_Digimon_Xros_Wars_-_29_(1280x720_x264_AAC)_[CBFE7079].mkv
 !new/[SS]_Ore_No_Imouto_-_10_[A381585B].mkv
 !new/[Saizen]_Slam_Dunk_-_025_[DVD][878FA5DA].mkv
 !new/[Saizen]_Slam_Dunk_-_026_[DVD][8C0A77B4].mkv
@@ -1130,7 +1131,10 @@
 !new/[UTW]_Fractale_-_07_[h264-720p][5BE422F3].mkv
 !new/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 01 [DVD H264 640x480] [7E4475BB].mkv
 !new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_04_[9DC20561][HD].mp4
+!new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_06_[465C05CD][HD].mp4
+!new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_50_[7A6A60D4][HD].mp4
 !new/[Wasurenai] Umi Monogatari ~Anata ga Ite Kureta Koto~ 03 [DVD H264 704x400] [A991EECD].mkv
+!new/[Weapon+] Wolverine - 08 [C54E7A07].mkv
 !new/[gg]_Armored_Trooper_VOTOMS_-_Case;IRVINE_(BD,1080p)_[D8B60815].mkv
 !new/[gg]_Kimi_ni_Todoke_2nd_Season_-_08_[61B1E116].mkv
 !new/[gg]_Puella_Magi_Madoka_Magica_-_09_[F012C7A7].mkv
