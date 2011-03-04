@@ -846,8 +846,6 @@
 !new/[Licca] A Little Princess Sara Episode 45 (h.264) [7B94E464].mkv
 !new/[Licca] A Little Princess Sara Episode 46 (h.264) [30B1E84B].mkv
 !new/[Live-eviL] Kimagure Orange Road - Ep 15 [Abcb0015].mkv
-!new/[Mazui]_Durarara!!_-_25_[051D58EE].mkv
-!new/[Mazui]_Ore_No_Imouto_-_12_True_Route_[LQ][55F8F699].mkv
 !new/[Nipponsei] Gosick OP Single - Destin Histoire [yoshiki lisa].zip
 !new/[Nipponsei] Kimi ni Todoke 2nd Season OP Single - Sawakaze [Tanizawa Tomofumi].zip
 !new/[Nipponsei] To Aru Majutsu no Index II ED2 Single - Last Memories [Kurosaki Maon].zip
@@ -1128,22 +1126,12 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[UTW]_Amagami_SS_-_15_[BD][h264-1080p_FLAC][3C9CA4C7].mkv
-!new/[UTW]_Amagami_SS_-_16_[BD][h264-1080p_FLAC][8101B55B].mkv
-!new/[UTW]_Amagami_SS_-_17_[BD][h264-1080p_FLAC][1399F294].mkv
-!new/[UTW]_Amagami_SS_-_18_[BD][h264-1080p_FLAC][AFEE3D09].mkv
-!new/[UTW]_Amagami_SS_-_ED4_[BD][h264-1080p_FLAC][A8A3D076].mkv
-!new/[UTW]_Amagami_SS_-_OP2a_[BD][h264-1080p_FLAC][1284B6BC].mkv
 !new/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 01 [DVD H264 640x480] [7E4475BB].mkv
 !new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_04_[9DC20561][HD].mp4
 !new/[Wasurenai] Umi Monogatari ~Anata ga Ite Kureta Koto~ 03 [DVD H264 704x400] [A991EECD].mkv
 !new/[gg]_Armored_Trooper_VOTOMS_-_Case;IRVINE_(BD,1080p)_[D8B60815].mkv
 !new/[gg]_Kimi_ni_Todoke_2nd_Season_-_08_[61B1E116].mkv
-!new/[m.3.3.w]_Mitsudomoe_BD_-_14_[1080p_-_No_Frills_Release][553778B1].mkv
-!new/_Kira-Fansub_Ore no Imouto_Animated Commentary_03_BD_1080p_DL.mkv
-!new/_Kira-Fansub_Ore no Imouto_Animated Commentary_04_BD_1080p_DL.mkv
-!new/_kira_fansub_ore_no_imouto_extra_animated_commentary_01_bd_1080p_dl.mkv
-!new/_kira_fansub_ore_no_imouto_extra_animated_commentary_02_bd_1080p_dl.mkv
+!new/[gg]_Puella_Magi_Madoka_Magica_-_09_[F012C7A7].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx

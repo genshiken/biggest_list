@@ -434,10 +434,10 @@ complete/a/Amagami SS/[UTW] Amagami SS - 11 [1080p BD][0854A347].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - 12 [1080p BD][8AA1801A].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - 13 [1080p BD][6FEBA9DA].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - 14 [1080p BD][1C8A6FD0].mkv
-complete/a/Amagami SS/[UTW] Amagami SS - 15 [720p][25CA12DA].mkv
-complete/a/Amagami SS/[UTW] Amagami SS - 16 [720p][47DE7355].mkv
-complete/a/Amagami SS/[UTW] Amagami SS - 17 [720p][775D35B1].mkv
-complete/a/Amagami SS/[UTW] Amagami SS - 18 [720p][69E83186].mkv
+complete/a/Amagami SS/[UTW] Amagami SS - 15 [1080p BD][3C9CA4C7].mkv
+complete/a/Amagami SS/[UTW] Amagami SS - 16 [1080p BD][8101B55B].mkv
+complete/a/Amagami SS/[UTW] Amagami SS - 17 [1080p BD][1399F294].mkv
+complete/a/Amagami SS/[UTW] Amagami SS - 18 [1080p BD][AFEE3D09].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - 19 [720p][C9D7E192].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - 20 [720p][24AE20A7].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - 21 [720p][7954AB09].mkv
@@ -447,10 +447,12 @@ complete/a/Amagami SS/[UTW] Amagami SS - 24 [720p][5231B111].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - 25 [End][720p][D8540E4E].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - Ending 2 [1080p BD][2A1E16A0].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - Ending 3 [1080p BD][9E1B19EA].mkv
+complete/a/Amagami SS/[UTW] Amagami SS - Ending 4 [1080p BD][A8A3D076].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - Ending [1080p BD][10BC699E].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - Opening 1a [1080p BD][661C4727].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - Opening 1b [1080p BD][CA5936B0].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - Opening 1c [1080p BD][9D7A299A].mkv
+complete/a/Amagami SS/[UTW] Amagami SS - Opening 2a [1080p BD][1284B6BC].mkv
 complete/a/Amatsuki/[Ureshii] Amatsuki - 01 [0E3AEB86].mkv
 complete/a/Amatsuki/[Ureshii] Amatsuki - 02 [0B2B0E0D].mkv
 complete/a/Amatsuki/[Ureshii] Amatsuki - 03 [8D00BD2A].mkv
@@ -3076,6 +3078,7 @@ complete/d/Durarara!!/[Ecliptic-BSS] Durarara!! - 11 [216C9DFE].mkv
 complete/d/Durarara!!/[Ecliptic-BSS] Durarara!! - 12 [191E1603].mkv
 complete/d/Durarara!!/[Ecliptic-BSS] Durarara!! - 13 [A50B20CF].mkv
 complete/d/Durarara!!/[Ecliptic-BSS] Durarara!! - 14 [2CA7A937].mkv
+complete/d/Durarara!!/[Mazui] Durarara!! - 25 [051D58EE].mkv
 complete/d/Durarara!!/[gg] Durarara!! - 01 [v2][E8866199].mkv
 complete/d/Durarara!!/[gg] Durarara!! - 02 [FB85EAC9].mkv
 complete/d/Durarara!!/[gg] Durarara!! - 03 [C9A8F70A].mkv
@@ -9472,6 +9475,7 @@ complete/m/Mission-E/[oom] Mission-E - 09 [46ECE211].avi
 complete/m/Mission-E/[oom] Mission-E - 10 [3583E4CB].avi
 complete/m/Mission-E/[oom] Mission-E - 11 [810C8C95].avi
 complete/m/Mission-E/[oom] Mission-E - 12 [End][EF270568].avi
+complete/m/Mitsudomoe OVA/[m.3.3.w] Mitsudomoe - 14 OVA [1080p BD][553778B1].mkv
 complete/m/Mitsudomoe Picture Drama/[m.3.3.w] Mitsudomoe Picture Drama - 1 [5AA1CBEE].mkv
 complete/m/Mitsudomoe Picture Drama/[m.3.3.w] Mitsudomoe Picture Drama - 2 [EE82E6F4].mkv
 complete/m/Mitsudomoe Picture Drama/[m.3.3.w] Mitsudomoe Picture Drama - 3 [754559D1].mkv
