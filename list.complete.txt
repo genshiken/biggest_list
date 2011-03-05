@@ -891,6 +891,9 @@ complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - Opening 3 (1920x1080) [BD
 complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - Opening 4a (1920x1080) [BD][F4B6CA3A].mkv
 complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - Opening 4b (1920x1080) [BD][D36ED5B9].mkv
 complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - Opening 5b (1920x1080) [BD][C23AA6BB].mkv
+complete/b/Bakemonogatari/[Koharubi] Bakemonogatari - 01 [1080p BD][54941B4A].mkv
+complete/b/Bakemonogatari/[Koharubi] Bakemonogatari - 02 [1080p BD][012B4B3C].mkv
+complete/b/Bakemonogatari/[Koharubi] Bakemonogatari - Hitagi Crab Notes [D6C5C5D0].pdf
 complete/b/Bakumatsu Kikansetsu Irohanihoheto/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 01 [DVD][DAC042E0].mkv
 complete/b/Bakumatsu Kikansetsu Irohanihoheto/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 02 [DVD][19B75C94].mkv
 complete/b/Bakumatsu Kikansetsu Irohanihoheto/[Conclave-Ayu] Bakumatsu Kikansetsu Irohanihoheto - 03 [DVD][DEBB5FEF].mkv
@@ -5750,6 +5753,7 @@ complete/h/Hidamari Sketch Hoshi Mittsu/[Tortoise] Hidamari Sketch Hoshi Mittsu 
 complete/h/Hidamari Sketch Hoshi Mittsu/[Tortoise] Hidamari Sketch Hoshi Mittsu - 03 [1080p BD][3CE57687].mkv
 complete/h/Hidamari Sketch Hoshi Mittsu/[Tortoise] Hidamari Sketch Hoshi Mittsu - 04 [1080p BD][B427EFDE].mkv
 complete/h/Hidamari Sketch Hoshi Mittsu/[Tortoise] Hidamari Sketch Hoshi Mittsu - 05 [1080p BD][FD03C4F7].mkv
+complete/h/Hidamari Sketch Hoshi Mittsu/[Tortoise] Hidamari Sketch Hoshi Mittsu - 07 [1080p BD][ADE4A133].mkv
 complete/h/Hidamari Sketch Hoshi Mittsu/[mudabone] Hidamari Sketch Hoshi Mittsu - 01 [v2 720p BD][C6E6D940].mkv
 complete/h/Hidamari Sketch Hoshi Mittsu/[mudabone] Hidamari Sketch Hoshi Mittsu - 02 [v2 720p BD][6676075A].mkv
 complete/h/Hidamari Sketch Hoshi Mittsu/[mudabone] Hidamari Sketch Hoshi Mittsu - 03 [720p BD][EC5921A3].mkv
@@ -10665,6 +10669,20 @@ complete/o/Ookami-san/[DmonHiro] Ookami-san - 01 [720p BD][BF90AD68].mkv
 complete/o/Ookami-san/[DmonHiro] Ookami-san - 02 [720p BD][18648544].mkv
 complete/o/Ookami-san/[DmonHiro] Ookami-san - 03 [720p BD][901A7595].mkv
 complete/o/Ookami-san/[DmonHiro] Ookami-san - 04 [720p BD][810EE660].mkv
+complete/o/Ookami-san/[Elysium] Ookami-san - 01 [1080p BD][3535ADD3].mkv
+complete/o/Ookami-san/[Elysium] Ookami-san - 02 [1080p BD][37C7FEF7].mkv
+complete/o/Ookami-san/[Elysium] Ookami-san - 03 [1080p BD][13653E89].mkv
+complete/o/Ookami-san/[Elysium] Ookami-san - 04 [1080p BD][54AF9AC8].mkv
+complete/o/Ookami-san/[Elysium] Ookami-san - 05 [1080p BD][486EA233].mkv
+complete/o/Ookami-san/[Elysium] Ookami-san - 06 [1080p BD][D30434A8].mkv
+complete/o/Ookami-san/[Elysium] Ookami-san - 07 [1080p BD][064100E8].mkv
+complete/o/Ookami-san/[Elysium] Ookami-san - 08 [1080p BD][E45EDB4B].mkv
+complete/o/Ookami-san/[Elysium] Ookami-san - 09 [1080p BD][C9D939B1].mkv
+complete/o/Ookami-san/[Elysium] Ookami-san - 10 [1080p BD][C55E85FB].mkv
+complete/o/Ookami-san/[Elysium] Ookami-san - 11 [1080p BD][EFD572EF].mkv
+complete/o/Ookami-san/[Elysium] Ookami-san - 12 [End][1080p BD][8E77BA85].mkv
+complete/o/Ookami-san/[Elysium] Ookami-san - Ending [1080p BD][3316A78D].mkv
+complete/o/Ookami-san/[Elysium] Ookami-san - Opening [1080p BD][7E7AE4E1].mkv
 complete/o/Ookami-san/[Mazui] Ookami-san - 01 [85C5D887].mkv
 complete/o/Ookami-san/[Mazui] Ookami-san - 02 [568FF795].mkv
 complete/o/Ookami-san/[Mazui] Ookami-san - 03 [9078B82B].mkv
@@ -12037,6 +12055,7 @@ complete/s/Saint Seiya Hades Chapter - Elysion/[NankH-TMD] Saint Seiya Hades Cha
 complete/s/Saint Seiya Hades Chapter - Elysion/[NankH] Saint Seiya Hades Chapter - Elysion - 1 [v2][DVD][B556F8B5].mkv
 complete/s/Saint Seiya Hades Chapter - Elysion/[NankH] Saint Seiya Hades Chapter - Elysion - 2 [v2][DVD][C135ACA7].mkv
 complete/s/Saint Seiya Hades Chapter - Elysion/[NankH] Saint Seiya Hades Chapter - Elysion - 3 [v2][DVD][DE5148FA].mkv
+complete/s/Saint Seiya Hades/[SpA-AznA] Saint Seiya Hades - Special [D7BFAED9].avi
 complete/s/Saishuu Shiken Kujira/[Undine & F-B] Saishuu Shiken Kujira - OVA [E48BFEB1].mp4
 complete/s/Saishuu Shiken Kujira/[Undine] Saishuu Shiken Kujira - 01 [076F358C].mp4
 complete/s/Saishuu Shiken Kujira/[Undine] Saishuu Shiken Kujira - 02 [99C50165].mp4
@@ -14625,6 +14644,7 @@ complete/t/Tokyo Majin Gakuen Kenpuchou/[Shinsen-Subs] Tokyo Majin Gakuen Kenpuc
 complete/t/Tokyo Majin Gakuen Kenpuchou/[Shinsen-Subs] Tokyo Majin Gakuen Kenpuchou - 12 [4237B5EE].avi
 complete/t/Tokyo Majin Gakuen Kenpuchou/[Shinsen-Subs] Tokyo Majin Gakuen Kenpuchou - 13 [5B62169C].avi
 complete/t/Tokyo Majin Gakuen Kenpuchou/[Shinsen-Subs] Tokyo Majin Gakuen Kenpuchou - 14 [End][087EE91C].avi
+complete/t/Tonagura!/[ReDone] Tonagura! - 01 [DVD][E532475C].mkv
 complete/t/Tonagura!/[Ryo] Tonagura! - 01 [45035330].mp4
 complete/t/Tonagura!/[Ryo] Tonagura! - 02 [9A485375].mp4
 complete/t/Tonagura!/[Ryo] Tonagura! - 03 [B7BFFD41].mp4
@@ -15008,6 +15028,7 @@ complete/t/true tears/[Coalgirls] true tears - 13 (1280x720) [End][BD][E5989655]
 complete/t/true tears/[Coalgirls] true tears - 13 Special (1280x720) [End][BD][5368C99A].mkv
 complete/t/true tears/[Coalgirls] true tears - Ending (1280x720) [BD][27BF27C8].mkv
 complete/t/true tears/[Coalgirls] true tears - Opening (1280x720) [BD][35817AD0].mkv
+complete/u/Umi Monogatari/[Wasurenai] Umi Monogatari - Anata ga Ite Kureta Koto - 03 [DVD][A991EECD].mkv
 complete/u/Umi Monogatari/[chibi-Formula] Umi Monogatari - 01 (1280x720) [F94245C7].mkv
 complete/u/Umi Monogatari/[chibi-Formula] Umi Monogatari - 02 (1280x720) [DE0D21A3].mkv
 complete/u/Umi Monogatari/[chibi-Formula] Umi Monogatari - 03 (1280x720) [73F43EF5].mkv
@@ -15677,6 +15698,18 @@ complete/y/Yami to Boushi to Hon no Tabibito/[Shinsen-Subs] Yami to Boushi to Ho
 complete/y/Yami to Boushi to Hon no Tabibito/[Shinsen-Subs] Yami to Boushi to Hon no Tabibito - 11 [DVD][76250929].avi
 complete/y/Yami to Boushi to Hon no Tabibito/[Shinsen-Subs] Yami to Boushi to Hon no Tabibito - 12 [DVD][7F2B5DCE].avi
 complete/y/Yami to Boushi to Hon no Tabibito/[Shinsen-Subs] Yami to Boushi to Hon no Tabibito - 13 [End][DVD][24120002].avi
+complete/y/Yoake mae yori ruri-iro na/[Exiled-Destiny] Brigher Than The Dawning Blue - Crescent Love - 01 [F836A341].mkv
+complete/y/Yoake mae yori ruri-iro na/[Exiled-Destiny] Brigher Than The Dawning Blue - Crescent Love - 02 [104F3121].mkv
+complete/y/Yoake mae yori ruri-iro na/[Exiled-Destiny] Brigher Than The Dawning Blue - Crescent Love - 03 [F4EFF2BE].mkv
+complete/y/Yoake mae yori ruri-iro na/[Exiled-Destiny] Brigher Than The Dawning Blue - Crescent Love - 04 [232E3865].mkv
+complete/y/Yoake mae yori ruri-iro na/[Exiled-Destiny] Brigher Than The Dawning Blue - Crescent Love - 05 [FEA678C1].mkv
+complete/y/Yoake mae yori ruri-iro na/[Exiled-Destiny] Brigher Than The Dawning Blue - Crescent Love - 06 [414B4445].mkv
+complete/y/Yoake mae yori ruri-iro na/[Exiled-Destiny] Brigher Than The Dawning Blue - Crescent Love - 07 [15CB5228].mkv
+complete/y/Yoake mae yori ruri-iro na/[Exiled-Destiny] Brigher Than The Dawning Blue - Crescent Love - 08 [48071AC3].mkv
+complete/y/Yoake mae yori ruri-iro na/[Exiled-Destiny] Brigher Than The Dawning Blue - Crescent Love - 09 [EA279D85].mkv
+complete/y/Yoake mae yori ruri-iro na/[Exiled-Destiny] Brigher Than The Dawning Blue - Crescent Love - 10 [6D68CF58].mkv
+complete/y/Yoake mae yori ruri-iro na/[Exiled-Destiny] Brigher Than The Dawning Blue - Crescent Love - 11 [0B7B9780].mkv
+complete/y/Yoake mae yori ruri-iro na/[Exiled-Destiny] Brigher Than The Dawning Blue - Crescent Love - 12 [End][E39C192E].mkv
 complete/y/Yoake mae yori ruri-iro na/[Lunar] Yoake mae yori ruri-iro na - Crescent Love - 01 [B59DB186].avi
 complete/y/Yoake mae yori ruri-iro na/[Lunar] Yoake mae yori ruri-iro na - Crescent Love - 02 [4E545424].avi
 complete/y/Yoake mae yori ruri-iro na/[Lunar] Yoake mae yori ruri-iro na - Crescent Love - 03 [C84BA04B].avi

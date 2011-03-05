@@ -370,6 +370,7 @@ music/Nipponsei/[Nipponsei] Basilisk Kouga Ninpou Chou Original Soundtrack 2.zip
 music/Nipponsei/[Nipponsei] Basilisk Kouga Ninpou Chou Original Soundtrack III.zip
 music/Nipponsei/[Nipponsei] Basilisk ~Kouga Ninpouchou~ ED1 ED2 Single - WILD EYES [Mizuki Nana] (320 kbps).zip
 music/Nipponsei/[Nipponsei] Battle Spirits Brave OP Single - free [Karasu].zip
+music/Nipponsei/[Nipponsei] Beelzebub ED Single - Answer [No Sleeves].zip
 music/Nipponsei/[Nipponsei] Beelzebub OP Single - Dadada [Group Tamashii].zip
 music/Nipponsei/[Nipponsei] Beet the Vandel Buster ED1 Single - pureness [Nana Kitade].zip
 music/Nipponsei/[Nipponsei] Beet the Vandel Buster ED2 Single - Dreaming Under the Moon [Katou Miliyah].zip
@@ -555,6 +556,7 @@ music/Nipponsei/[Nipponsei] Gintama Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Gokujou Seitokai OP Single - Koi se yo Onna no ko [Tamura Yukari] (320 kbps).zip
 music/Nipponsei/[Nipponsei] Gokujou!! Mecha Mote Iinchou Second Collection OP ED Single - Oshare My Dream [Various].zip
 music/Nipponsei/[Nipponsei] Goshuushou-sama Ninomiya-kun OP ED Single - Yubikiri [Kadowaki Mai Sawashiro Miyuki].zip
+music/Nipponsei/[Nipponsei] Gosick OP Single - Destin Histoire [yoshiki lisa].zip
 music/Nipponsei/[Nipponsei] Gundam 00 A wakening of the Trailblazer Insert Song Single - Mou Nani mo Kowaku nai, Kowaku wa nai [Ishikawa Chiaki].zip
 music/Nipponsei/[Nipponsei] Gundam 00 ED Single - Wana [THE BACK HORN].zip
 music/Nipponsei/[Nipponsei] Gundam 00 OP1 Single - DAYBREAK S BELL [L Arc en Ciel].zip
@@ -603,6 +605,7 @@ music/Nipponsei/[Nipponsei] Honey and Clover Movie Ending Single - Aozora Pedal 
 music/Nipponsei/[Nipponsei] Honey and Clover Movie Main Theme Song - Mahou no Kotoba [Spitz].zip
 music/Nipponsei/[Nipponsei] Honey and Clover Movie Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Hourou Musuko ED Single - For You [Rie fu].zip
+music/Nipponsei/[Nipponsei] Hourou Musuko OP Single - Itsudatte. [Daisuke].zip
 music/Nipponsei/[Nipponsei] Hyakka Ryouran Samurai Girls ED Single - Koi ni Sesse Tooryanse [Various].zip
 music/Nipponsei/[Nipponsei] Hyakka Ryouran Samurai Girls OP Single - Last vision for last [Faylan].zip
 music/Nipponsei/[Nipponsei] Hyakka Ryouran Samurai Girls Original Soundtrack.zip
@@ -680,6 +683,7 @@ music/Nipponsei/[Nipponsei] Kaze no Stigma OP ED Single - blast of wind [Kiuji S
 music/Nipponsei/[Nipponsei] Keroro Gunsou ED9 Single - Kurutto Mawatte Ikkaiten [Kigurumi].zip
 music/Nipponsei/[Nipponsei] Keroro Gunsou OP7 Single - Fundari Kettari [Dylan Catherine].zip
 music/Nipponsei/[Nipponsei] Kidou Senshi Gundam SEED DESTINY Special Edition III Unmei no Gouka ED - Enrai ~Tooku ni Aru Akari~ [HIGH and MIGHTY COLOR].zip
+music/Nipponsei/[Nipponsei] Kimi ni Todoke 2nd Season OP Single - Sawakaze [Tanizawa Tomofumi].zip
 music/Nipponsei/[Nipponsei] Kimi ni Todoke 2nd Seasons ED Single - Kimi ni Todoke... [MAY'S].zip
 music/Nipponsei/[Nipponsei] Kiss Dum -ENGAGE planet- ED Single - Kimi ga iru Kagiri [Stephanie].zip
 music/Nipponsei/[Nipponsei] Kodomo no Jikan TV OVA ED Single - Hana Maru Sensation [Little Non].zip
@@ -1204,6 +1208,7 @@ music/Nipponsei/[Nipponsei] To Aru Kagaku no Railgun OP2 Single - LEVEL 5 -judge
 music/Nipponsei/[Nipponsei] To Aru Kagaku no Railgun OVA ED Single - Special 'ONE' [ELISA].zip
 music/Nipponsei/[Nipponsei] To Aru Kagaku no Railgun OVA OP Single - future gazer [fripSide].zip
 music/Nipponsei/[Nipponsei] To Aru Majutsu no Index II ED Single - Magic world [Kurosaki Maon].zip
+music/Nipponsei/[Nipponsei] To Aru Majutsu no Index II ED2 Single - Last Memories [Kurosaki Maon].zip
 music/Nipponsei/[Nipponsei] To Aru Majutsu no Index II OP Single - No buts! [Kawada Mami].zip
 music/Nipponsei/[Nipponsei] To Aru Majutsu no Index II OP2 Single - See visionS [Kawada Mami].zip
 music/Nipponsei/[Nipponsei] To Aru Majutsu no Index II Original Soundtrack 1.zip
@@ -1319,6 +1324,8 @@ music/Nipponsei/[Nipponsei] Yugo Negotiator Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Yume Tsukai ED Single - Kodou [Kawasumi Ayako & Shindou Kei].zip
 music/Nipponsei/[Nipponsei] Yume Tsukai OP Single - Yume Meikyuu ~Hikari to Yami no Dance~ [YoKo].zip
 music/Nipponsei/[Nipponsei] Yumeiro Patissiere SP Professional OP ED Single - Sweet Romance [Gojou Mayumi & Primavera].zip
+music/Nipponsei/[Nipponsei] Yumekui Merry Character Song - Fujiwara Yumeji [Okamoto Nobuhiko].zip
+music/Nipponsei/[Nipponsei] Yumekui Merry Character Song - Tachibana Isana [Kayano Ai].zip
 music/Nipponsei/[Nipponsei] Yumekui Merry ED Single - Yume to Kibou to Ashita no Atashi [Sakura Ayane].zip
 music/Nipponsei/[Nipponsei] Yumekui Merry OP Single - Daydream Syndrome [Fujiwara Marina].zip
 music/Nipponsei/[Nipponsei] Yumeria Fan Fun CD Soundtrack Character 1.zip
