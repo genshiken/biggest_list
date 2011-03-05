@@ -822,11 +822,13 @@
 !new/[Exiled-Destiny]_Brighter_Than_The_Dawning_Blue_-_Crescent_Love_Ep11_Subbed_(0B7B9780).mkv
 !new/[Exiled-Destiny]_Brighter_Than_The_Dawning_Blue_-_Crescent_Love_Ep12_Subbed_(E39C192E).mkv
 !new/[Formula]_Tales_of_Symphonia_OVA_-_2_Special_[h264][0079785D].mkv
+!new/[GotWoot]_Moonlight_Mile_S2_-_10_[720p_H264_AAC5.1][1E17B061].mkv
 !new/[GotWoot]_Onii-chan_no_Koto_..._08_[720p][5D086D4B].mkv
 !new/[HACK-JOB]_Kara_no_Kyoukai_-_The_Garden_of_Sinners_-_Remix_-Gate_of_Seventh_Heaven-_[1080p][x264_5.1_FLAC][EADB7656].mkv
 !new/[HorribleSubs] Beelzebub - 08 [720p].mkv
 !new/[HorribleSubs] Bleach - 311 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 08 [720p].mkv
+!new/[HorribleSubs] Cardfight!! Vanguard - 09 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 68 [720p].mkv
 !new/[HorribleSubs] Lilpri - 47 [720p].mkv
 !new/[HorribleSubs] Mitsudomoe 2 - 08 [720p].mkv
@@ -847,9 +849,13 @@
 !new/[Licca] A Little Princess Sara Episode 45 (h.264) [7B94E464].mkv
 !new/[Licca] A Little Princess Sara Episode 46 (h.264) [30B1E84B].mkv
 !new/[Live-eviL] Kimagure Orange Road - Ep 15 [Abcb0015].mkv
+!new/[Nipponsei] Beelzebub ED Single - Answer [No Sleeves].zip
 !new/[Nipponsei] Gosick OP Single - Destin Histoire [yoshiki lisa].zip
+!new/[Nipponsei] Hourou Musuko OP Single - Itsudatte. [Daisuke].zip
 !new/[Nipponsei] Kimi ni Todoke 2nd Season OP Single - Sawakaze [Tanizawa Tomofumi].zip
 !new/[Nipponsei] To Aru Majutsu no Index II ED2 Single - Last Memories [Kurosaki Maon].zip
+!new/[Nipponsei] Yumekui Merry Character Song - Fujiwara Yumeji [Okamoto Nobuhiko].zip
+!new/[Nipponsei] Yumekui Merry Character Song - Tachibana Isana [Kayano Ai].zip
 !new/[Nutbladder]_Suite_Precure_-_04_[17C143C9].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
@@ -882,6 +888,7 @@
 !new/[ReDone] Tonagura! - 01 (DVD) [E532475C].mkv
 !new/[ReDone] Touka Gettan Music Clip - For My Last Love (Saori Hayami) [6EC520CF].mkv
 !new/[RyRo]_Digimon_Xros_Wars_-_29_(1280x720_x264_AAC)_[CBFE7079].mkv
+!new/[SMS] Starry Sky - 11 [95AA1755].mkv
 !new/[SS]_Ore_No_Imouto_-_10_[A381585B].mkv
 !new/[Saizen]_Slam_Dunk_-_025_[DVD][878FA5DA].mkv
 !new/[Saizen]_Slam_Dunk_-_026_[DVD][8C0A77B4].mkv
@@ -889,6 +896,7 @@
 !new/[Stratos-Subs] Infinite Stratos - 08 (1280x720 H.264 AAC) [40C80B31].mkv
 !new/[Stratos-Subs] Infinite Stratos - 09 (1280x720 H.264 AAC) [v2] [D57E4A54].mkv
 !new/[T-N]Precure_All_Stars_DX2[8B37B1EE]Blu.mp4
+!new/[TMD_A-Destiny]_Bakuman_21_[720p][0CDB8806].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -1128,6 +1136,8 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[Tortoise] Hidamari Sketch Hoshimittsu - 07[Bluray - 1080p][ADE4A133].mkv
+!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_21_[720p][E45944B4].mkv
 !new/[UTW]_Fractale_-_07_[h264-720p][5BE422F3].mkv
 !new/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 01 [DVD H264 640x480] [7E4475BB].mkv
 !new/[WSRN-Licca]Les_Miserables_Shoujo_Cosette_04_[9DC20561][HD].mp4
