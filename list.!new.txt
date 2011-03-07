@@ -637,6 +637,7 @@
 !new/Top o Nerae! 2 4 [8C664113].mkv
 !new/Top o Nerae! 2 5 [FE5F8D21].mkv
 !new/Top o Nerae! 2 6 [32DE14DD].mkv
+!new/[A-Kraze_Diffusion]_Vampire_Knight_Guilty_-_13_[H264_1280x720_AAC][A3599F7B].mkv
 !new/[Animanda]_King_of_Thorn_[DEF6ECFD].mkv
 !new/[AonE]_Hidamari_Sketch_x_Hoshimittsu_Tokubetsu-hen_01_[D30CA4EE].mkv
 !new/[AonE]_Hidamari_Sketch_x_Hoshimittsu_Tokubetsu-hen_02_[4C117A20].mkv
@@ -679,6 +680,7 @@
 !new/[CureCom] Fresh Pretty Cure! - 19 [HD][57646801].mkv
 !new/[CureCom] Fresh Pretty Cure! - 20 [HD][8567EACD].mkv
 !new/[DmonHiro] Chrono Crusade - Extra Goodies Pack.zip
+!new/[Doremi-CureCom].Suite.PreCure!.05.[1280x720].[49EBB6B8].mkv
 !new/[Doremi].Love.Live!.Bokura.no.LIVE.Kimi.to.no.LIFE.[DC2A205D].mkv
 !new/[Doremi].Love.Live!.Snow.Halation.[6C4D55B5].mkv
 !new/[Doremi].Motto.Ojamajo.Doremi.41.[FDB290A4].avi
@@ -691,50 +693,8 @@
 !new/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri NCOP [BD][1080p-FLAC][905974EE].mkv
 !new/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri OPv2 [BD][1080p-FLAC][E67E78A1].mkv
 !new/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri Special 01 [BD][1080p-AC3][F46C3DCF].mkv
-!new/[Flomp-Rumbel]_Bleach_-_132_[H264][19982EB4].mkv
-!new/[Flomp-Rumbel]_Bleach_-_133_[H264][EB35CCB5].mkv
-!new/[Flomp-Rumbel]_Bleach_-_134_[H264][C5541427].mkv
-!new/[Flomp-Rumbel]_Bleach_-_135_[H264][44DC7EDE].mkv
-!new/[Flomp-Rumbel]_Bleach_-_136_[H264][F10C2786].mkv
-!new/[Flomp-Rumbel]_Bleach_-_137_[H264][85FA5F24].mkv
-!new/[Flomp-Rumbel]_Bleach_-_138_[H264][DD0A40A6].mkv
-!new/[Flomp-Rumbel]_Bleach_-_139_[H264][A9BCA39F].mkv
-!new/[Flomp-Rumbel]_Bleach_-_140_[H264][8E653C87].mkv
-!new/[Flomp-Rumbel]_Bleach_-_141_[H264][A9D8A2C1].mkv
-!new/[Flomp-Rumbel]_Bleach_-_142_[H264][F571E543].mkv
-!new/[Flomp-Rumbel]_Bleach_-_143_[H264][B75DF4B1].mkv
-!new/[Flomp-Rumbel]_Bleach_-_144_[H264][F37A2212].mkv
-!new/[Flomp-Rumbel]_Bleach_-_145_[H264][FACC5CA6].mkv
-!new/[Flomp-Rumbel]_Bleach_-_146_[H264][3E40A8B9].mkv
-!new/[Flomp-Rumbel]_Bleach_-_147_[H264][F4325536].mkv
-!new/[Flomp-Rumbel]_Bleach_-_148_[H264][24DDCF7B].mkv
-!new/[Flomp-Rumbel]_Bleach_-_149_[H264][F9EB72E4].mkv
-!new/[Flomp-Rumbel]_Bleach_-_150_[H264][DA1C22CD].mkv
-!new/[Flomp-Rumbel]_Bleach_-_151_[H264][3070D5CD].mkv
-!new/[Flomp-Rumbel]_Bleach_-_152_[H264][F10A2554].mkv
-!new/[Flomp-Rumbel]_Bleach_-_153_[H264][284FCB37].mkv
-!new/[Flomp-Rumbel]_Bleach_-_154_[H264][654A4EA5].mkv
-!new/[Flomp-Rumbel]_Bleach_-_155_[H264][8DA37046].mkv
-!new/[Flomp-Rumbel]_Bleach_-_156_[H264][2BC114F0].mkv
-!new/[Flomp-Rumbel]_Bleach_-_157_[H264][B3650749].mkv
-!new/[Flomp-Rumbel]_Bleach_-_158_[H264][ADA46C6C].mkv
-!new/[Flomp-Rumbel]_Bleach_-_159_[H264][763A866C].mkv
-!new/[Flomp-Rumbel]_Bleach_-_160_[H264][04352A30].mkv
-!new/[Flomp-Rumbel]_Bleach_-_161_[H264][8847D5FE].mkv
-!new/[Flomp-Rumbel]_Bleach_-_162_[H264][B73FA2E6].mkv
-!new/[Flomp-Rumbel]_Bleach_-_163_[H264][96DB5E07].mkv
-!new/[Flomp-Rumbel]_Bleach_-_164_[H264][21AFA8BB].mkv
-!new/[Flomp-Rumbel]_Bleach_-_165_[H264][D69ABAE4].mkv
-!new/[Flomp-Rumbel]_Bleach_-_166_[H264][8E3A73C5].mkv
-!new/[Flomp-Rumbel]_Bleach_-_167_[H264][DCC93284].mkv
-!new/[Flomp]_Bleach_-_206_[H264_SD][D16EA76F].mkv
-!new/[Flomp]_Bleach_-_207_[H264_SD][D7EB7608].mkv
-!new/[Flomp]_Bleach_-_208_[H264_SD][A60CB674].mkv
-!new/[Flomp]_Bleach_-_209_[H264_SD][299F26A4].mkv
-!new/[Flomp]_Bleach_-_210_[H264_SD][63C8A9E5].mkv
-!new/[Flomp]_Bleach_-_211_[H264_SD][3B3D66A9].mkv
-!new/[Flomp]_Bleach_-_212_[H264_SD][36F7DFDB].mkv
 !new/[Formula]_Tales_of_Symphonia_OVA_-_2_Special_[h264][0079785D].mkv
+!new/[GotWoot]_Onii-chan_no_Koto_..._09_[720p][6559FC62].mkv
 !new/[HACK-JOB]_Kara_no_Kyoukai_-_The_Garden_of_Sinners_-_Remix_-Gate_of_Seventh_Heaven-_[1080p][x264_5.1_FLAC][EADB7656].mkv
 !new/[HorribleSubs] Beelzebub - 09 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 67 [720p].mkv
@@ -760,33 +720,7 @@
 !new/[Kira-Fansub]_Ore no Imouto_Vol 03_Animated Commentary_05 (BD 1920x1080 h264 AAC) [04221DDC].mkv
 !new/[Kira-Fansub]_Ore no Imouto_Vol 03_Animated Commentary_06 (BD 1920x1080 h264 AAC) [EFF09707].mkv
 !new/[Kira-Fansub]_Ore no Imouto_Vol 03_Visual BGM(BD 1920x1080 h264 AAC) [6CD301E3].mkv
-!new/[Licca] A Little Princess Sara Episode 01 (h.264) [8DD5B66B].mkv
-!new/[Licca] A Little Princess Sara Episode 02 (h.264) [17CC3CF3].mkv
-!new/[Licca] A Little Princess Sara Episode 03 (h.264) [C823732E].mkv
-!new/[Licca] A Little Princess Sara Episode 04 (h.264) [9629F0CB].mkv
-!new/[Licca] A Little Princess Sara Episode 05 (h.264) [D190AC6F].mkv
-!new/[Licca] A Little Princess Sara Episode 06 (h.264) [15149AA1].mkv
-!new/[Licca] A Little Princess Sara Episode 07 (h.264) [E27C45DD].mkv
-!new/[Licca] A Little Princess Sara Episode 08 (h.264) [E9BF8013].mkv
-!new/[Licca] A Little Princess Sara Episode 09 (h.264) [DD979099].mkv
-!new/[Licca] A Little Princess Sara Episode 10 (h.264) [F23B6083].mkv
-!new/[Licca] A Little Princess Sara Episode 11 (h.264) [CF78BEA5].mkv
-!new/[Licca] A Little Princess Sara Episode 12 (h.264) [99B8F5A7].mkv
-!new/[Licca] A Little Princess Sara Episode 13 (h.264) [023991B4].mkv
-!new/[Licca] A Little Princess Sara Episode 14 (h.264) [4165E4DD].mkv
-!new/[Licca] A Little Princess Sara Episode 15 (h.264) [09FA87AA].mkv
-!new/[Licca] A Little Princess Sara Episode 16 (h.264) [C6612267].mkv
-!new/[Licca] A Little Princess Sara Episode 17 (h.264) [47925022].mkv
-!new/[Licca] A Little Princess Sara Episode 18 (h.264) [97C47F9F].mkv
-!new/[Licca] A Little Princess Sara Episode 19 (h.264) [C199847E].mkv
-!new/[Licca] A Little Princess Sara Episode 21 (h.264) [6CC67468].mkv
-!new/[Licca] A Little Princess Sara Episode 22 (h.264) [C9BC75D2].mkv
-!new/[Licca] A Little Princess Sara Episode 23 (h.264) [D9CA75C5].mkv
-!new/[Licca] A Little Princess Sara Episode 24 (h.264) [782E301D].mkv
-!new/[Licca] A Little Princess Sara Episode 25 (h.264) [D125282C].mkv
-!new/[Licca] A Little Princess Sara Episode 26 (h.264) [6A7FB899].mkv
-!new/[Licca] A Little Princess Sara Episode 27 (h.264) [E5327C1a].mkv
-!new/[Licca] A Little Princess Sara Episode 36 (h.264) [03C8857D].mkv
+!new/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 34 [H264 1280x720] [31AC4220].mkv
 !new/[MangAnime]_Blame!_Prologue_01_[E8BEC274].mkv
 !new/[MangAnime]_Blame!_Prologue_02_[C8B68E77].mkv
 !new/[MangAnime]_Blame!_[B0694CED].mkv
@@ -815,6 +749,7 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
+!new/[Over-Time]_Kamen_Rider_OOO_-_25_[8041B91A].mkv
 !new/[Over-Time]_Pirate_Sentai_Gokaiger_-_04_[F28CD651].mkv
 !new/[ReDone] Soul Link - 01 (DVD) [D3C267CC].mkv
 !new/[RyRo]_Inazuma_Eleven_-_120_(1280x720_x264_AAC)_[C621978B].mkv
@@ -1058,11 +993,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[Victorique]_Gosick_-_09_[h264-720p][C2FCE226].mkv
-!new/[WhyNot] Freezing - 09 [Uncensored][6036557C].mkv
-!new/[arinashi]_Toaru_Kagaku_no_Railgun_ARCHIVES_-_02_[A22A6452].mkv
-!new/[chibi-Doki] Seikon no Qwaser - 11 (1280x720 h264 BD FLAC) [4EDE14F2].mkv
-!new/[gg]_Star_Driver_-_22_[38266DD9].mkv
-!new/[umee]_Wandering_Son_-_06_[949E3178].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
