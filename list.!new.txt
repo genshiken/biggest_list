@@ -50,6 +50,7 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - 607 [DCTP][720p][E25B1C83].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -643,6 +644,7 @@
 !new/[AonE]_Naruto_126_150.sfv
 !new/[AonE]_Naruto_151_175.sfv
 !new/[AonE_Frostii]_Daa!_Daa!_Daa!_-_68_[DVD][30B31599].mkv
+!new/[Ayako-Shikkaku]_Oniichan_no_Koto_Nanka_Zenzen_Suki_Janain_Dakara_ne_-_09_[H264][720p][64A5E73C].mkv
 !new/[Ayako]_Infinite_Stratos_-_IS_-_08_[H264][720p][C48BE631].mkv
 !new/[B-G]_Bleach_Movie_01_-_Memories_of_Nobody.HDTV(H.264-720p_DD2.0)_[8FFF47AB].mkv
 !new/[B-G]_Bleach_Movie_02_-_The_DiamondDust_Rebellion.HDTV(H.264-720p_DD2.0)_[19B0E1DC].mkv
@@ -788,6 +790,7 @@
 !new/[MangAnime]_Blame!_Prologue_01_[E8BEC274].mkv
 !new/[MangAnime]_Blame!_Prologue_02_[C8B68E77].mkv
 !new/[MangAnime]_Blame!_[B0694CED].mkv
+!new/[Nipponsei] Soukyuu no Fafner Heaven and Earth Original Soundtrack.zip
 !new/[Nyoro~n Subs] NG Knight Lamune & 40 -06 [682E0C0E].mkv
 !new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
 !new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
@@ -812,7 +815,9 @@
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_3[4]_-_Lonesome_[640x480][LD][CA][B4F54A50].avi
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][DVD][CA][E90E6C17].mkv
 !new/[OVA-1997] Macross Dynamite 7/Macross_Dynamite_7_-_4[4]_-_The_Planet_where_Galatic_Whales_Sing_[640x480][LD][CA][02285316].avi
+!new/[Over-Time]_Pirate_Sentai_Gokaiger_-_04_[F28CD651].mkv
 !new/[ReDone] Soul Link - 01 (DVD) [D3C267CC].mkv
+!new/[RyRo]_Inazuma_Eleven_-_120_(1280x720_x264_AAC)_[C621978B].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -1054,6 +1059,8 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[Victorique]_Gosick_-_09_[h264-720p][C2FCE226].mkv
 !new/[WhyNot] Freezing - 09 [Uncensored][6036557C].mkv
+!new/[arinashi]_Toaru_Kagaku_no_Railgun_ARCHIVES_-_02_[A22A6452].mkv
+!new/[chibi-Doki] Seikon no Qwaser - 11 (1280x720 h264 BD FLAC) [4EDE14F2].mkv
 !new/[gg]_Star_Driver_-_22_[38266DD9].mkv
 !new/[umee]_Wandering_Son_-_06_[949E3178].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
