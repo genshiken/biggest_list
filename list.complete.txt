@@ -11,6 +11,7 @@ complete/0/009-1/[cLT] 009-1 - 09.5 [DVD][8BC2EF47].mkv
 complete/0/009-1/[cLT] 009-1 - 10 [DVD][92D90756].mkv
 complete/0/009-1/[cLT] 009-1 - 11 [DVD][BA1B8E61].mkv
 complete/0/009-1/[cLT] 009-1 - 12 [End][DVD][430C3C54].mkv
+complete/0/009-1/test.mkv
 complete/0/07-Ghost/[Hatsuyuki] 07-Ghost - 21 [720p][584F3ABE].mkv
 complete/0/07-Ghost/[Hatsuyuki] 07-Ghost - 22 [720p][56EFC25E].mkv
 complete/0/07-Ghost/[Hatsuyuki] 07-Ghost - 23 [720p][D194FABF].mkv
