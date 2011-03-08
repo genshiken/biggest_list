@@ -3607,8 +3607,8 @@ complete/e/ef - a tale of memories/[THORA] ef - a tale of memories - Ending [FFF
 complete/e/ef - a tale of memories/[THORA] ef - a tale of memories - Opening 2 [5ED5F6F8].mkv
 complete/e/ef - a tale of memories/[THORA] ef - a tale of memories - Opening [088C6EDD].mkv
 complete/e/ef - a tale of memories/[THORA] ef - a tale of memories - Prologue [D75100C5].mkv
-complete/f/Fate-stay night - TV Reproduction/[FS-N] Fate-stay night - TV Reproduction - 1 [v2][3EBE6CCB].mkv
-complete/f/Fate-stay night - TV Reproduction/[FS-N] Fate-stay night - TV Reproduction - 2 [End][v2][EC68C5F8].mkv
+complete/f/Fate-stay night - TV Reproduction/[3xR-FLsnow] Fate-stay night - TV Reproduction - 1 [1080p BD][96AF6C65].mkv
+complete/f/Fate-stay night - TV Reproduction/[3xR-FLsnow] Fate-stay night - TV Reproduction - 2 [End][1080p BD][63B375B6].mkv
 complete/f/Fate-stay night/[THORA] Fate-stay night - 01 (1280x720) [v2][BD][19652C3A].mkv
 complete/f/Fate-stay night/[THORA] Fate-stay night - 02 (1280x720) [BD][F7B93DBF].mkv
 complete/f/Fate-stay night/[THORA] Fate-stay night - 03 (1280x720) [BD][4E4DB499].mkv
@@ -3694,6 +3694,7 @@ complete/f/Flame of Recca/[SSP-Corp] Flame of Recca - 39 [v2][98B2CDAE].mkv
 complete/f/Flame of Recca/[SSP-Corp] Flame of Recca - 40 [v2][ABCF57C3].mkv
 complete/f/Flame of Recca/[SSP-Corp] Flame of Recca - 41 [v2][3F28CFB5].mkv
 complete/f/Flame of Recca/[SSP-Corp] Flame of Recca - 42 [End][v2][AC9B497D].mkv
+complete/f/Fortune Arterial OAD/[CMS] Fortune Arterial OAD [DVD][1767A59B].mkv
 complete/f/Fortune Arterial/[SS] Fortune Arterial - 01 [B9350090].mkv
 complete/f/Fortune Arterial/[SS] Fortune Arterial - 02 [855C3F17].mkv
 complete/f/Fortune Arterial/[SS] Fortune Arterial - 03 [68310B3B].mkv
@@ -4912,6 +4913,20 @@ complete/g/Gundam 0079/[Zeonic-Corps] Gundam 0079 - 40 [2D9F3CB7].mkv
 complete/g/Gundam 0079/[Zeonic-Corps] Gundam 0079 - 41 [5539BE20].mkv
 complete/g/Gundam 0079/[Zeonic-Corps] Gundam 0079 - 42 [B2131AA6].mkv
 complete/g/Gundam 0079/[Zeonic-Corps] Gundam 0079 - 43 [End][3B065A89].mkv
+complete/g/Gundam 0083/[OZC] Gundam 0083 - 01 [v2][1605B647].mkv
+complete/g/Gundam 0083/[OZC] Gundam 0083 - 02 [26A8D8E6].mkv
+complete/g/Gundam 0083/[OZC] Gundam 0083 - 03 [A526921F].mkv
+complete/g/Gundam 0083/[OZC] Gundam 0083 - 04 [BDA89E39].mkv
+complete/g/Gundam 0083/[OZC] Gundam 0083 - 05 [04101E12].mkv
+complete/g/Gundam 0083/[OZC] Gundam 0083 - 06 [39D1745F].mkv
+complete/g/Gundam 0083/[OZC] Gundam 0083 - 07 [E7E24CF8].mkv
+complete/g/Gundam 0083/[OZC] Gundam 0083 - 08 [C8E62F01].mkv
+complete/g/Gundam 0083/[OZC] Gundam 0083 - 09 [9A10406A].mkv
+complete/g/Gundam 0083/[OZC] Gundam 0083 - 10 [5B3003A8].mkv
+complete/g/Gundam 0083/[OZC] Gundam 0083 - 11 [CE0E6140].mkv
+complete/g/Gundam 0083/[OZC] Gundam 0083 - 12 [FD50466D].mkv
+complete/g/Gundam 0083/[OZC] Gundam 0083 - 13 [End][18B39227].mkv
+complete/g/Gundam 0083/[OZC] Gundam 0083 - Special [B372BD49].mkv
 complete/g/Gundam 08th MS Team/[D-A] Gundam 08th MS Team - 01 [DDCE341A].avi
 complete/g/Gundam 08th MS Team/[D-A] Gundam 08th MS Team - 02 [4F39C4AA].avi
 complete/g/Gundam 08th MS Team/[D-A] Gundam 08th MS Team - 03 [2D2EAF6C].avi
@@ -5780,6 +5795,8 @@ complete/h/Heroman/[Commie] Heroman - 23 [A6587E1A].mkv
 complete/h/Heroman/[Commie] Heroman - 24 [CB7500F7].mkv
 complete/h/Heroman/[Commie] Heroman - 25 [5979B9CA].mkv
 complete/h/Heroman/[Commie] Heroman - 26 [End][7D402CE8].mkv
+complete/h/Hidamari Sketch Hoshi Mittsu Special/[AonE] Hidamari Sketch x Hoshimittsu Tokubetsu-hen - 01 [D30CA4EE].mkv
+complete/h/Hidamari Sketch Hoshi Mittsu Special/[AonE] Hidamari Sketch x Hoshimittsu Tokubetsu-hen - 02 [4C117A20].mkv
 complete/h/Hidamari Sketch Hoshi Mittsu Special/[Nutbladder] Hidamari Sketch Hoshi Mittsu Special - 1 [2E43FFC2].mkv
 complete/h/Hidamari Sketch Hoshi Mittsu Special/[Nutbladder] Hidamari Sketch Hoshi Mittsu Special - 2 [End][E3D40077].mkv
 complete/h/Hidamari Sketch Hoshi Mittsu Special/[mudabone] Hidamari Sketch Hoshimittsu Special - 1 [v2 720p BD][DF81A579].mkv
@@ -7647,6 +7664,8 @@ complete/k/Kiddy Grade/[KAA] Kiddy Grade - 22 [DVD][E64C8254].mkv
 complete/k/Kiddy Grade/[KAA] Kiddy Grade - 23 [DVD][B5311528].mkv
 complete/k/Kiddy Grade/[KAA] Kiddy Grade - 24 [End][DVD][9486A5DD].mkv
 complete/k/Kimagure Orange Road (1985)/[Live-eviL] Kimagure Orange Road (1985) [9D977BA6].mkv
+complete/k/Kimagure Orange Road OVA (1989)/[bishi] Kimagure Orange Road OVA (1989) - Hawaiian Suspense [DVD][1C09770B].avi
+complete/k/Kimagure Orange Road OVA (1989)/[bishi] Kimagure Orange Road OVA (1989) - White Lovers [DVD][EDA86652].avi
 complete/k/Kimagure Orange Road/[A-Et] Kimagure Orange Road - 01 [v2][DVD][FD463FB6].mkv
 complete/k/Kimagure Orange Road/[A-Et] Kimagure Orange Road - 02 [v2][DVD][6130DA9F].mkv
 complete/k/Kimagure Orange Road/[A-Et] Kimagure Orange Road - 03 [v2][DVD][E0444394].mkv
@@ -8301,6 +8320,8 @@ complete/l/Love Hina/[zx] Love Hina - 22 [7AF1FCDE].mkv
 complete/l/Love Hina/[zx] Love Hina - 23 [082196B9].mkv
 complete/l/Love Hina/[zx] Love Hina - 24 [16791DD5].mkv
 complete/l/Love Hina/[zx] Love Hina - 25 [End][2A1F0CF9].mkv
+complete/l/Love Live!/[Doremi] Love Live! - Bokura no LIVE Kimi to no LIFE [DC2A205D].mkv
+complete/l/Love Live!/[Doremi] Love Live! - Snow Halation [6C4D55B5].mkv
 complete/l/Lovedol - Lovely Idol/[WinD] Lovedol ~Lovely Idol~ - 01 [0A4BB14A].mkv
 complete/l/Lovedol - Lovely Idol/[WinD] Lovedol ~Lovely Idol~ - 02 [BC9AE020].mkv
 complete/l/Lovedol - Lovely Idol/[WinD] Lovedol ~Lovely Idol~ - 03 [5322498C].mkv
@@ -12131,6 +12152,19 @@ complete/s/Saint Seiya Hades Chapter - Elysion/[NankH-TMD] Saint Seiya Hades Cha
 complete/s/Saint Seiya Hades Chapter - Elysion/[NankH] Saint Seiya Hades Chapter - Elysion - 1 [v2][DVD][B556F8B5].mkv
 complete/s/Saint Seiya Hades Chapter - Elysion/[NankH] Saint Seiya Hades Chapter - Elysion - 2 [v2][DVD][C135ACA7].mkv
 complete/s/Saint Seiya Hades Chapter - Elysion/[NankH] Saint Seiya Hades Chapter - Elysion - 3 [v2][DVD][DE5148FA].mkv
+complete/s/Saint Seiya Hades OVA/[AonE-SpA] Saint Seiya Hades OVA - 01 [A99015A0].avi
+complete/s/Saint Seiya Hades OVA/[AonE-SpA] Saint Seiya Hades OVA - 02 [3EF725E2].avi
+complete/s/Saint Seiya Hades OVA/[SpA] Saint Seiya Hades OVA - 03 [DFDE3D64].avi
+complete/s/Saint Seiya Hades OVA/[SpA] Saint Seiya Hades OVA - 04 [955A125C].avi
+complete/s/Saint Seiya Hades OVA/[SpA] Saint Seiya Hades OVA - 05 [9B059ABC].avi
+complete/s/Saint Seiya Hades OVA/[SpA] Saint Seiya Hades OVA - 06 [C56FBF07].avi
+complete/s/Saint Seiya Hades OVA/[SpA] Saint Seiya Hades OVA - 07 [C576B2B0].avi
+complete/s/Saint Seiya Hades OVA/[SpA] Saint Seiya Hades OVA - 08 [67B969A8].avi
+complete/s/Saint Seiya Hades OVA/[SpA] Saint Seiya Hades OVA - 09 [B38DF67B].avi
+complete/s/Saint Seiya Hades OVA/[SpA] Saint Seiya Hades OVA - 10 [3F40A2FA].avi
+complete/s/Saint Seiya Hades OVA/[SpA] Saint Seiya Hades OVA - 11 [49470D0A].avi
+complete/s/Saint Seiya Hades OVA/[SpA] Saint Seiya Hades OVA - 12 [A459A0B2].avi
+complete/s/Saint Seiya Hades OVA/[SpA] Saint Seiya Hades OVA - 13 [End][2E1CCA7A].avi
 complete/s/Saint Seiya Hades/[SpA-AznA] Saint Seiya Hades - Special [D7BFAED9].avi
 complete/s/Saishuu Shiken Kujira/[Undine & F-B] Saishuu Shiken Kujira - OVA [E48BFEB1].mp4
 complete/s/Saishuu Shiken Kujira/[Undine] Saishuu Shiken Kujira - 01 [076F358C].mp4
@@ -13528,6 +13562,7 @@ complete/s/Soul Eater/[Tsubaki-Hatsuyuki] Soul Eater - 48 (1280x720) [711E7D77].
 complete/s/Soul Eater/[Tsubaki-Hatsuyuki] Soul Eater - 49 (1280x720) [BBBC9663].mkv
 complete/s/Soul Eater/[Tsubaki-Hatsuyuki] Soul Eater - 50 (1280x720) [268A1FF4].mkv
 complete/s/Soul Eater/[Tsubaki-Hatsuyuki] Soul Eater - 51 (1280x720) [End][E3C330EB].mkv
+complete/s/Soul Link/[ReDone] Soul Link - 01 [DVD][D3C267CC].mkv
 complete/s/Soul Link/[yesy] Soul Link - 01 [BF581AF7].avi
 complete/s/Soul Link/[yesy] Soul Link - 02 [200C2E9C].avi
 complete/s/Soul Link/[yesy] Soul Link - 03 [25FEE513].avi
@@ -13759,29 +13794,23 @@ complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - 07 [720p BD][D6E14336
 complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - 08 [720p BD][248A9D19].mkv
 complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - 09 [720p BD][FAD4CFA7].mkv
 complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - 10 [720p BD][5F59774A].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - 10 [720p BD][726221A0].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - 11 [720p BD][12A78958].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - 12 [End][720p BD][1105C811].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 01 [720p BD][1C8FB6AF].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 02 [720p BD][67D2D5ED].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 03 [720p BD][5B518EDB].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 04 [720p BD][4A2CA9A5].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 05 [720p BD][3C32A754].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 06 [720p BD][1113109C].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 07 [720p BD][2C3CE6F4].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 08 [720p BD][6CC695B5].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 09 [720p BD][B30D58D6].mkv
 complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 10 [720p BD][50431345].mkv
-complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 2 [720p BD][67D2D5ED].mkv
-complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 3 [720p BD][5B518EDB].mkv
-complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 4 [720p BD][4A2CA9A5].mkv
-complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 5 [720p BD][3C32A754].mkv
-complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 6 [720p BD][1113109C].mkv
-complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 7 [720p BD][2C3CE6F4].mkv
-complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 8 [720p BD][6CC695B5].mkv
-complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 9 [720p BD][B30D58D6].mkv
-complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending [720p BD][1C8FB6AF].mkv
-complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Opening [720p BD][A3C3B723].mkv
-complete/s/Strike Witches 2/[Underwater] Strike Witches 2 - 01 (1280x720) [v2][D901D7EE].mkv
-complete/s/Strike Witches 2/[Underwater] Strike Witches 2 - 02 (1280x720) [59BC29E8].mkv
-complete/s/Strike Witches 2/[Underwater] Strike Witches 2 - 03 (1280x720) [7E6B9956].mkv
-complete/s/Strike Witches 2/[Underwater] Strike Witches 2 - 04 (1280x720) [4F959936].mkv
-complete/s/Strike Witches 2/[Underwater] Strike Witches 2 - 05 (1280x720) [96A8902C].mkv
-complete/s/Strike Witches 2/[Underwater] Strike Witches 2 - 06 (1280x720) [D2F927BA].mkv
-complete/s/Strike Witches 2/[Underwater] Strike Witches 2 - 07 (1280x720) [ED24FEF6].mkv
-complete/s/Strike Witches 2/[Underwater] Strike Witches 2 - 08 (1280x720) [2B513ECD].mkv
-complete/s/Strike Witches 2/[Underwater] Strike Witches 2 - 09 (1280x720) [7EC58935].mkv
-complete/s/Strike Witches 2/[Underwater] Strike Witches 2 - 10 (1280x720) [1E642D28].mkv
-complete/s/Strike Witches 2/[Underwater] Strike Witches 2 - 11 (1280x720) [D3CACC4B].mkv
-complete/s/Strike Witches 2/[Underwater] Strike Witches 2 - 12 (1280x720) [End][98CEAF13].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 11 [720p BD][C3F7AB7C].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 12 [720p BD][75B678AA].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Opening 1 [720p BD][A3C3B723].mkv
+complete/s/Strike Witches 2/[Coalgirls] Strike Witches 2 - Opening 2 [720p BD][A6C903F2].mkv
 complete/s/Strike Witches OVA/[StrikeS] Strike Witches OVA [25A3DAAF].mkv
 complete/s/Strike Witches/[Coalgirls] Strike Witches - 01 (1280x720) [BD][AF4B942E].mkv
 complete/s/Strike Witches/[Coalgirls] Strike Witches - 02 (1280x720) [BD][A99DE9F7].mkv
@@ -14734,6 +14763,12 @@ complete/t/Tonagura!/[Ryo] Tonagura! - 11 [5022AD26].mp4
 complete/t/Tonagura!/[Ryo] Tonagura! - 12 [6DB74113].mp4
 complete/t/Tonagura!/[Ryo] Tonagura! - 13 [End][19B977F6].mp4
 complete/t/Tono to Issho OAV/[Huzzah-Pretentious] Tono to Issho OAV [9151FA51].mkv
+complete/t/Top wo Nerae! 2/[ETB] Top wo Nerae! 2 - 1 [D41848B6].mkv
+complete/t/Top wo Nerae! 2/[ETB] Top wo Nerae! 2 - 2 [EA8B6076].mkv
+complete/t/Top wo Nerae! 2/[ETB] Top wo Nerae! 2 - 3 [EC90C9E7].mkv
+complete/t/Top wo Nerae! 2/[ETB] Top wo Nerae! 2 - 4 [8C664113].mkv
+complete/t/Top wo Nerae! 2/[ETB] Top wo Nerae! 2 - 5 [FE5F8D21].mkv
+complete/t/Top wo Nerae! 2/[ETB] Top wo Nerae! 2 - 6 [End][32DE14DD].mkv
 complete/t/Toradora!/[Coalgirls] Toradora! - 01 [DVD][36993AC6].mkv
 complete/t/Toradora!/[Coalgirls] Toradora! - 02 [DVD][3FF2C9A7].mkv
 complete/t/Toradora!/[Coalgirls] Toradora! - 03 [DVD][9EC38000].mkv
@@ -15309,7 +15344,7 @@ complete/v/Vampire Knight Guilty/[A-Kraze Diffusion] Vampire Knight Guilty - 09 
 complete/v/Vampire Knight Guilty/[A-Kraze Diffusion] Vampire Knight Guilty - 10 [720p][47133015].mkv
 complete/v/Vampire Knight Guilty/[A-Kraze Diffusion] Vampire Knight Guilty - 11 [720p][34C16E1B].mkv
 complete/v/Vampire Knight Guilty/[A-Kraze Diffusion] Vampire Knight Guilty - 12 [720p][65ADB991].mkv
-complete/v/Vampire Knight Guilty/[Yuurisan-Subs] Vampire Knight Guilty - 13 [End][E79AAC5C].mp4
+complete/v/Vampire Knight Guilty/[A-Kraze Diffusion] Vampire Knight Guilty - 13 [720p][A3599F7B].mkv
 complete/v/Vampire Knight/[A-Kraze] Vampire Knight - 01 (1280x720) [1C5D9B3E].mkv
 complete/v/Vampire Knight/[A-Kraze] Vampire Knight - 02 (1280x720) [04F89985].mkv
 complete/v/Vampire Knight/[A-Kraze] Vampire Knight - 03 (1280x720) [45DDC407].mkv

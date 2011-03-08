@@ -42,16 +42,10 @@
 !new/.broken/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.mkv
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
 !new/.now
-!new/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.mkv
-!new/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.srt
-!new/Appleseed_Ex_Machina_(2007)_[1080p,BluRay,x264]_-_THORA.mkv
-!new/Appleseed_Ex_Machina_(2007)_[1080p,BluRay,x264]_Sample_-_THORA.mkv
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
-!new/Detective Conan - 018 Remastered [FBI][788EEAAC].mkv
-!new/Detective Conan - 607 [DCTP][720p][E25B1C83].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -101,8 +95,6 @@
 !new/FF Unlimited/FFU23.avi
 !new/FF Unlimited/FFU24.avi
 !new/FF Unlimited/FFU25.avi
-!new/Fate_Stay_Night_-_TV_Reproduction_II_[3xR-FLsnow][Blu-ray.1080p.H264.FLAC][63B375B6].mkv
-!new/Fate_Stay_Night_-_TV_Reproduction_I_[3xR-FLsnow][Blu-ray.1080p.H264.FLAC][96AF6C65].mkv
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_01_[Anime-Empire_&_Aoshi].avi
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_02_[Anime-Empire_&_Aoshi].avi
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_03_[Anime-Empire_&_Aoshi].avi
@@ -229,10 +221,6 @@
 !new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_62_[3269E048].mp4
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].ENG.srt
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].avi
-!new/Naruto Movie 1 Covers.rar
-!new/Naruto.txt
-!new/Naruto/Naruto Special - Find the Crimson Four-leaf Clover!.avi
-!new/Naruto/Naruto Special Edition 2004 (Fiesta).avi
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
@@ -411,27 +399,27 @@
 !new/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x23_DVDRiP.rmvb
 !new/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x24_DVDRiP.rmvb
 !new/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x25_DVDRiP.rmvb
-!new/Rasmus_Faber_Presents-Platina_Jazz_Anime_Standards_Vol.1-2009-COCMP3/00-rasmus_faber_presents-platina_jazz_anime_standards_vol.1-2009-cocmp3.m3u
-!new/Rasmus_Faber_Presents-Platina_Jazz_Anime_Standards_Vol.1-2009-COCMP3/00-rasmus_faber_presents-platina_jazz_anime_standards_vol.1-2009-cocmp3.nfo
-!new/Rasmus_Faber_Presents-Platina_Jazz_Anime_Standards_Vol.1-2009-COCMP3/00-rasmus_faber_presents-platina_jazz_anime_standards_vol.1-2009-cocmp3.sfv
-!new/Rasmus_Faber_Presents-Platina_Jazz_Anime_Standards_Vol.1-2009-COCMP3/01-rasmus_faber_presents-hare_hare_yukai-cocmp3.mp3
-!new/Rasmus_Faber_Presents-Platina_Jazz_Anime_Standards_Vol.1-2009-COCMP3/02-rasmus_faber_presents-happy_material-cocmp3.mp3
-!new/Rasmus_Faber_Presents-Platina_Jazz_Anime_Standards_Vol.1-2009-COCMP3/03-rasmus_faber_presents-genesis_of_aquarion-cocmp3.mp3
-!new/Rasmus_Faber_Presents-Platina_Jazz_Anime_Standards_Vol.1-2009-COCMP3/04-rasmus_faber_presents-seikan_hikou-cocmp3.mp3
-!new/Rasmus_Faber_Presents-Platina_Jazz_Anime_Standards_Vol.1-2009-COCMP3/05-rasmus_faber_presents-mizu_no_akashi-cocmp3.mp3
-!new/Rasmus_Faber_Presents-Platina_Jazz_Anime_Standards_Vol.1-2009-COCMP3/06-rasmus_faber_presents-cosmos_ni_kimito-cocmp3.mp3
-!new/Rasmus_Faber_Presents-Platina_Jazz_Anime_Standards_Vol.1-2009-COCMP3/07-rasmus_faber_presents-carrying_you-cocmp3.mp3
-!new/Rasmus_Faber_Presents-Platina_Jazz_Anime_Standards_Vol.1-2009-COCMP3/08-rasmus_faber_presents-sora_no_mukou-cocmp3.mp3
-!new/Rasmus_Faber_Presents-Platina_Jazz_Anime_Standards_Vol.1-2009-COCMP3/09-rasmus_faber_presents-toki_no_kioku-cocmp3.mp3
-!new/Rasmus_Faber_Presents-Platina_Jazz_Anime_Standards_Vol.1-2009-COCMP3/10-rasmus_faber_presents-thanatos_-if_i_can_t_be_yours--cocmp3.mp3
-!new/Rasmus_Faber_Presents-Platina_Jazz_Anime_Standards_Vol.1-2009-COCMP3/11-rasmus_faber_presents-main_them_e_-the_wings_of_honneamise-cocmp3.mp3
-!new/Rasmus_Faber_Presents-Platina_Jazz_Anime_Standards_Vol.1-2009-COCMP3/12-rasmus_faber_presents-children_of_the_light-cocmp3.mp3
-!new/Rasmus_Faber_Presents-Platina_Jazz_Anime_Standards_Vol.1-2009-COCMP3/13-rasmus_faber_presents-ringo_no_mori_no_koneko_tachi-cocmp3.mp3
-!new/Rasmus_Faber_Presents-Platina_Jazz_Anime_Standards_Vol.1-2009-COCMP3/14-rasmus_faber_presents-fire_treasure-cocmp3.mp3
-!new/Rasmus_Faber_Presents-Platina_Jazz_Anime_Standards_Vol.1-2009-COCMP3/15-rasmus_faber_presents-gaanetto-cocmp3.mp3
-!new/Rasmus_Faber_Presents-Platina_Jazz_Anime_Standards_Vol.1-2009-COCMP3/16-rasmus_faber_presents-doll-cocmp3.mp3
-!new/Rasmus_Faber_Presents-Platina_Jazz_Anime_Standards_Vol.1-2009-COCMP3/17-rasmus_faber_presents-sorae___-cocmp3.mp3
-!new/Rasmus_Faber_Presents-Platina_Jazz_Anime_Standards_Vol.1-2009-COCMP3/18-rasmus_faber_presents-voices-cocmp3.mp3
+!new/Rasmus Faber Presents-Platina Jazz Anime Standards Vol.1-2009-COCMP3/00-rasmus_faber_presents-platina_jazz_anime_standards_vol.1-2009-cocmp3.m3u
+!new/Rasmus Faber Presents-Platina Jazz Anime Standards Vol.1-2009-COCMP3/00-rasmus_faber_presents-platina_jazz_anime_standards_vol.1-2009-cocmp3.nfo
+!new/Rasmus Faber Presents-Platina Jazz Anime Standards Vol.1-2009-COCMP3/00-rasmus_faber_presents-platina_jazz_anime_standards_vol.1-2009-cocmp3.sfv
+!new/Rasmus Faber Presents-Platina Jazz Anime Standards Vol.1-2009-COCMP3/01-rasmus_faber_presents-hare_hare_yukai-cocmp3.mp3
+!new/Rasmus Faber Presents-Platina Jazz Anime Standards Vol.1-2009-COCMP3/02-rasmus_faber_presents-happy_material-cocmp3.mp3
+!new/Rasmus Faber Presents-Platina Jazz Anime Standards Vol.1-2009-COCMP3/03-rasmus_faber_presents-genesis_of_aquarion-cocmp3.mp3
+!new/Rasmus Faber Presents-Platina Jazz Anime Standards Vol.1-2009-COCMP3/04-rasmus_faber_presents-seikan_hikou-cocmp3.mp3
+!new/Rasmus Faber Presents-Platina Jazz Anime Standards Vol.1-2009-COCMP3/05-rasmus_faber_presents-mizu_no_akashi-cocmp3.mp3
+!new/Rasmus Faber Presents-Platina Jazz Anime Standards Vol.1-2009-COCMP3/06-rasmus_faber_presents-cosmos_ni_kimito-cocmp3.mp3
+!new/Rasmus Faber Presents-Platina Jazz Anime Standards Vol.1-2009-COCMP3/07-rasmus_faber_presents-carrying_you-cocmp3.mp3
+!new/Rasmus Faber Presents-Platina Jazz Anime Standards Vol.1-2009-COCMP3/08-rasmus_faber_presents-sora_no_mukou-cocmp3.mp3
+!new/Rasmus Faber Presents-Platina Jazz Anime Standards Vol.1-2009-COCMP3/09-rasmus_faber_presents-toki_no_kioku-cocmp3.mp3
+!new/Rasmus Faber Presents-Platina Jazz Anime Standards Vol.1-2009-COCMP3/10-rasmus_faber_presents-thanatos_-if_i_can_t_be_yours--cocmp3.mp3
+!new/Rasmus Faber Presents-Platina Jazz Anime Standards Vol.1-2009-COCMP3/11-rasmus_faber_presents-main_them_e_-the_wings_of_honneamise-cocmp3.mp3
+!new/Rasmus Faber Presents-Platina Jazz Anime Standards Vol.1-2009-COCMP3/12-rasmus_faber_presents-children_of_the_light-cocmp3.mp3
+!new/Rasmus Faber Presents-Platina Jazz Anime Standards Vol.1-2009-COCMP3/13-rasmus_faber_presents-ringo_no_mori_no_koneko_tachi-cocmp3.mp3
+!new/Rasmus Faber Presents-Platina Jazz Anime Standards Vol.1-2009-COCMP3/14-rasmus_faber_presents-fire_treasure-cocmp3.mp3
+!new/Rasmus Faber Presents-Platina Jazz Anime Standards Vol.1-2009-COCMP3/15-rasmus_faber_presents-gaanetto-cocmp3.mp3
+!new/Rasmus Faber Presents-Platina Jazz Anime Standards Vol.1-2009-COCMP3/16-rasmus_faber_presents-doll-cocmp3.mp3
+!new/Rasmus Faber Presents-Platina Jazz Anime Standards Vol.1-2009-COCMP3/17-rasmus_faber_presents-sorae___-cocmp3.mp3
+!new/Rasmus Faber Presents-Platina Jazz Anime Standards Vol.1-2009-COCMP3/18-rasmus_faber_presents-voices-cocmp3.mp3
 !new/Sailor Moon/SailorMoon S (Season 3)/[SMC]_Sailor_Moon_S_090_v2_[01EB12DC].ogm
 !new/Sailor Moon/SailorMoon S (Season 3)/[smc] 091. The Rod of Love is Born Usagi s New Transformation.ogm
 !new/Sailor Moon/SailorMoon S (Season 3)/[smc] 092. A Wonderful Beautiful Boy The Secret of Haruka Tenoh.ogm
@@ -510,19 +498,6 @@
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 165. Time for the Crystal to Shine! Beautiful Power of Dreams (v2) [243AEA50].ogm
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] 166. Dreams Forever! Light Throughout the Sky (v2) [A17C8F85].ogm
 !new/Sailor Moon/SailorMoon SuperS (Season 4)/[SMC] Sailor Moon SuperS Plus Ami-chan no Hatsukoi R2 DVD(H264.AC3).mkv
-!new/Saint Seiya Hades OVA 01 [AonE-SpA].avi
-!new/Saint Seiya Hades OVA 02 [AonE-SpA].avi
-!new/Saint Seiya Hades OVA 03 [SpA].avi
-!new/Saint Seiya Hades OVA 04 [SpA].avi
-!new/Saint Seiya Hades OVA 05 [SpA].avi
-!new/Saint Seiya Hades OVA 06 [SpA].avi
-!new/Saint Seiya Hades OVA 07 [SpA].avi
-!new/Saint Seiya Hades OVA 08 [SpA].avi
-!new/Saint Seiya Hades OVA 09 [SpA].avi
-!new/Saint Seiya Hades OVA 10 [SpA].avi
-!new/Saint Seiya Hades OVA 11 [SpA].avi
-!new/Saint Seiya Hades OVA 12 [SpA].avi
-!new/Saint Seiya Hades OVA 13 [SpA].avi
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_01v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_02v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_03v2[divx5.1.1].mkv
@@ -632,99 +607,6 @@
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.nfo
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.sfv
 !new/Tenchi Universe/zx.tenchi-universe.01.divx5.ogm
-!new/Top o Nerae! 2 1 [D41848B6].mkv
-!new/Top o Nerae! 2 2 [EA8B6076].mkv
-!new/Top o Nerae! 2 3 [EC90C9E7].mkv
-!new/Top o Nerae! 2 4 [8C664113].mkv
-!new/Top o Nerae! 2 5 [FE5F8D21].mkv
-!new/Top o Nerae! 2 6 [32DE14DD].mkv
-!new/[A-Kraze_Diffusion]_Vampire_Knight_Guilty_-_13_[H264_1280x720_AAC][A3599F7B].mkv
-!new/[Animanda]_King_of_Thorn_[DEF6ECFD].mkv
-!new/[AonE]_Hidamari_Sketch_x_Hoshimittsu_Tokubetsu-hen_01_[D30CA4EE].mkv
-!new/[AonE]_Hidamari_Sketch_x_Hoshimittsu_Tokubetsu-hen_02_[4C117A20].mkv
-!new/[AonE]_Naruto_101_125.sfv
-!new/[AonE]_Naruto_126_150.sfv
-!new/[AonE]_Naruto_151_175.sfv
-!new/[AonE_Frostii]_Daa!_Daa!_Daa!_-_68_[DVD][30B31599].mkv
-!new/[Ayako-Shikkaku]_Oniichan_no_Koto_Nanka_Zenzen_Suki_Janain_Dakara_ne_-_09_[H264][720p][64A5E73C].mkv
-!new/[Ayako]_Infinite_Stratos_-_IS_-_08_[H264][720p][C48BE631].mkv
-!new/[B-G]_Bleach_Movie_01_-_Memories_of_Nobody.HDTV(H.264-720p_DD2.0)_[8FFF47AB].mkv
-!new/[B-G]_Bleach_Movie_02_-_The_DiamondDust_Rebellion.HDTV(H.264-720p_DD2.0)_[19B0E1DC].mkv
-!new/[B-G]_Bleach_Movie_03_-_Fade_to_Black_[DVD][H.264-464p][DD5.1]_[ED737D49].mkv
-!new/[CMS] Fortune Arterial OAD [DVD][1767A59B].mkv
-!new/[Coalgirls]_Strike_Witches_2_01_(1280x720_Blu-Ray_FLAC)_[EA8528A1].mkv
-!new/[Coalgirls]_Strike_Witches_2_02_(1280x720_Blu-Ray_FLAC)_[89B70762].mkv
-!new/[Coalgirls]_Strike_Witches_2_03_(1280x720_Blu-Ray_FLAC)_[07598ED3].mkv
-!new/[Coalgirls]_Strike_Witches_2_04_(1280x720_Blu-Ray_FLAC)_[D5D6C724].mkv
-!new/[Coalgirls]_Strike_Witches_2_05_(1280x720_Blu-Ray_FLAC)_[478D2C73].mkv
-!new/[Coalgirls]_Strike_Witches_2_06_(1280x720_Blu-Ray_FLAC)_[D7103648].mkv
-!new/[Coalgirls]_Strike_Witches_2_07_(1280x720_Blu-Ray_FLAC)_[D6E14336].mkv
-!new/[Coalgirls]_Strike_Witches_2_08_(1280x720_Blu-Ray_FLAC)_[248A9D19].mkv
-!new/[Coalgirls]_Strike_Witches_2_09_(1280x720_Blu-Ray_FLAC)_[FAD4CFA7].mkv
-!new/[Coalgirls]_Strike_Witches_2_10_(1280x720_Blu-Ray_FLAC)_[726221A0].mkv
-!new/[Coalgirls]_Strike_Witches_2_11_(1280x720_Blu-Ray_FLAC)_[12A78958].mkv
-!new/[Coalgirls]_Strike_Witches_2_12_(1280x720_Blu-Ray_FLAC)_[1105C811].mkv
-!new/[Coalgirls]_Strike_Witches_2_ED10_(1280x720_Blu-Ray_FLAC)_[50431345].mkv
-!new/[Coalgirls]_Strike_Witches_2_ED11_(1280x720_Blu-Ray_FLAC)_[C3F7AB7C].mkv
-!new/[Coalgirls]_Strike_Witches_2_ED12_(1280x720_Blu-Ray_FLAC)_[75B678AA].mkv
-!new/[Coalgirls]_Strike_Witches_2_ED2_(1280x720_Blu-Ray_FLAC)_[67D2D5ED].mkv
-!new/[Coalgirls]_Strike_Witches_2_ED3_(1280x720_Blu-Ray_FLAC)_[5B518EDB].mkv
-!new/[Coalgirls]_Strike_Witches_2_ED4_(1280x720_Blu-Ray_FLAC)_[4A2CA9A5].mkv
-!new/[Coalgirls]_Strike_Witches_2_ED5_(1280x720_Blu-Ray_FLAC)_[3C32A754].mkv
-!new/[Coalgirls]_Strike_Witches_2_ED6_(1280x720_Blu-Ray_FLAC)_[1113109C].mkv
-!new/[Coalgirls]_Strike_Witches_2_ED7_(1280x720_Blu-Ray_FLAC)_[2C3CE6F4].mkv
-!new/[Coalgirls]_Strike_Witches_2_ED8_(1280x720_Blu-Ray_FLAC)_[6CC695B5].mkv
-!new/[Coalgirls]_Strike_Witches_2_ED9_(1280x720_Blu-Ray_FLAC)_[B30D58D6].mkv
-!new/[Coalgirls]_Strike_Witches_2_ED_(1280x720_Blu-Ray_FLAC)_[1C8FB6AF].mkv
-!new/[Coalgirls]_Strike_Witches_2_OP2_(1280x720_Blu-Ray_FLAC)_[A6C903F2].mkv
-!new/[Coalgirls]_Strike_Witches_2_OP_(1280x720_Blu-Ray_FLAC)_[A3C3B723].mkv
-!new/[Commie] Ah! My Goddess - Together, Forever - 01 [DVD 480p AAC] [F864774A].mkv
-!new/[CureCom] Fresh Pretty Cure! - 19 [HD][57646801].mkv
-!new/[CureCom] Fresh Pretty Cure! - 20 [HD][8567EACD].mkv
-!new/[DmonHiro] Chrono Crusade - Extra Goodies Pack.zip
-!new/[Doremi-CureCom].Suite.PreCure!.05.[1280x720].[49EBB6B8].mkv
-!new/[Doremi].Love.Live!.Bokura.no.LIVE.Kimi.to.no.LIFE.[DC2A205D].mkv
-!new/[Doremi].Love.Live!.Snow.Halation.[6C4D55B5].mkv
-!new/[Doremi].Motto.Ojamajo.Doremi.41.[FDB290A4].avi
-!new/[EAC] To Aru Majutsu no Index II OP2 Single - See visionS (ape+cue+jpg).zip
-!new/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri 01 Ending A [BD][1080p-FLAC][23E6F150].mkv
-!new/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri 01 Ending B [BD][1080p-FLAC][0794401D].mkv
-!new/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri 01 Ending C [BD][1080p-FLAC][7E11A2C0].mkv
-!new/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri 01 [BD][1080p-FLAC][94537AEF].mkv
-!new/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri NCOP [BD][1080p-FLAC][905974EE].mkv
-!new/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri OPv2 [BD][1080p-FLAC][E67E78A1].mkv
-!new/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri Special 01 [BD][1080p-AC3][F46C3DCF].mkv
-!new/[Formula]_Tales_of_Symphonia_OVA_-_2_Special_[h264][0079785D].mkv
-!new/[GotWoot]_Onii-chan_no_Koto_..._09_[720p][6559FC62].mkv
-!new/[HACK-JOB]_Kara_no_Kyoukai_-_The_Garden_of_Sinners_-_Remix_-Gate_of_Seventh_Heaven-_[1080p][x264_5.1_FLAC][EADB7656].mkv
-!new/[HorribleSubs] Beelzebub - 09 [720p].mkv
-!new/[HorribleSubs] Fairy Tail - 67 [720p].mkv
-!new/[HorribleSubs] Fairy Tail - 69 [720p].mkv
-!new/[HorribleSubs] Lilpri - 48 [720p].mkv
-!new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 22 [720p].mkv
-!new/[HorribleSubs] Tegami Bachi REVERSE - 47 [720p].mkv
-!new/[Kira-Fansub]_Ore no Imouto_Episode 01_NCOP_(BD 1920x1080 h264 AAC) [49064498].mkv
-!new/[Kira-Fansub]_Ore no Imouto_Episode 01_Original ED_(BD 1920x1080 h264 AAC) [3B6AEE49].mkv
-!new/[Kira-Fansub]_Ore no Imouto_Episode 02_NCOP_(BD 1920x1080 h264 AAC) [007075D0].mkv
-!new/[Kira-Fansub]_Ore no Imouto_Episode 02_Original ED_(BD 1920x1080 h264 AAC) [1F9A5208].mkv
-!new/[Kira-Fansub]_Ore no Imouto_Episode 03_NCOP_(BD 1920x1080 h264 AAC) [A5BD1931].mkv
-!new/[Kira-Fansub]_Ore no Imouto_Episode 03_Original ED_(BD 1920x1080 h264 AAC).mkv
-!new/[Kira-Fansub]_Ore no Imouto_Episode 04_NCOP_(BD 1920x1080 h264 AAC) [9F1302DE].mkv
-!new/[Kira-Fansub]_Ore no Imouto_Episode 05_NCOP_(BD 1920x1080 h264 AAC) [E78886CD].mkv
-!new/[Kira-Fansub]_Ore no Imouto_Episode 05_Original ED_(BD 1920x1080 h264 AAC) [F93F5609].mkv
-!new/[Kira-Fansub]_Ore no Imouto_Episode 06_NCOP_(BD 1920x1080 h264 AAC) [EB562E8E].mkv
-!new/[Kira-Fansub]_Ore no Imouto_Vol 01_Animated Commentary_01 (BD 1920x1080 h264 AAC) [02FE1ABA].mkv
-!new/[Kira-Fansub]_Ore no Imouto_Vol 01_Animated Commentary_02 (BD 1920x1080 h264 AAC) [617BB7B0].mkv
-!new/[Kira-Fansub]_Ore no Imouto_Vol 01_Visual BGM(BD 1920x1080 h264 AAC) [35AA547E].mkv
-!new/[Kira-Fansub]_Ore no Imouto_Vol 02_Animated Commentary_03 (BD 1920x1080 h264 AAC) [7773B4CC].mkv
-!new/[Kira-Fansub]_Ore no Imouto_Vol 02_Animated Commentary_04 (BD 1920x1080 h264 AAC) [855B4671].mkv
-!new/[Kira-Fansub]_Ore no Imouto_Vol 02_Visual BGM(BD 1920x1080 h264 AAC) [87C94D0D].mkv
-!new/[Kira-Fansub]_Ore no Imouto_Vol 03_Animated Commentary_05 (BD 1920x1080 h264 AAC) [04221DDC].mkv
-!new/[Kira-Fansub]_Ore no Imouto_Vol 03_Animated Commentary_06 (BD 1920x1080 h264 AAC) [EFF09707].mkv
-!new/[Kira-Fansub]_Ore no Imouto_Vol 03_Visual BGM(BD 1920x1080 h264 AAC) [6CD301E3].mkv
-!new/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 34 [H264 1280x720] [31AC4220].mkv
-!new/[OVA-1989] Kimagure Orange Road Hawaiian Suspense/Kimagure_Orange_Road__Hawaiian_Suspense_-_1[1]_-_OVA_[640x480][DVD][bishi][1C09770B].avi
-!new/[OVA-1989] Kimagure Orange Road Shiroi Koibito-tachi/Kimagure_Orange_Road__Shiroi_Koibito-tachi_-_1[1]_-_White_Lovers_[640x480][DVD][bishi][EDA86652].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
 !new/[OVA-1991] Kimagure Orange Road Rouge no Dengon/Kimagure_Orange_Road__Rouge_no_Dengon_-_1[1]_-_OVA_[640x480][DVD][bishi][875962B1].avi
 !new/[OVA-1992] Giant Robo/Giant_Robo_-_1[7]_-_The_Black_Attache_Case_[704x480][DVD][G_P][DD833BF2].mkv
@@ -866,110 +748,110 @@
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_059[167]_-_The_Beautiful_Sister_Apprentices_[640x480][DVD][RAW][AHQ][5492687E].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_060[167]_-_The_50_Year-Old_Curse_of_the_Dark_Priestess_[640x480][DVD][RAW][AHQ][B9950656].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_060[167]_-_The_50_Year-Old_Curse_of_the_Dark_Priestess_[640x480][DVD][RAW][AHQ][B9950656].ssa
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_061[167]_-_Kikyo_and_the_Dark_Priestess_[640x480][DVD][AHQ][F3999DB8].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_062[167]_-_Tsubaki_s_Unrelenting_Evil_Spell_[640x480][DVD][AHQ][CFA1AA5E].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_063[167]_-_The_Red_and_White_Priestesses_[640x480][DVD][AHQ][65DCA634].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_064[167]_-_Giant_Ogre_of_the_Forbidden_Tower_[640x480][DVD][AHQ][4DCC83F1].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_065[167]_-_Farewell_Days_of_My_Youth_[640x480][DVD][AHQ][992643ED].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_066[167]_-_Naraku_s_Barrier_-_Kagura_s_Decision_[640x480][DVD][AHQ][79B87B3B].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_067[167]_-_The_Howling_Wind_of_Betrayal_[640x480][DVD][AHQ][9015FB36].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_068[167]_-_Shippo_Gets_an_Angry_Challenge_[640x480][DVD][AHQ][CD3223C0].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_069[167]_-_Terror_of_the_Faceless_Man_[640x480][DVD][AHQ][67B13FF1].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_070[167]_-_Onigumo_s_Memory_Restored_[640x480][DVD][AHQ][92E3F79F].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_071[167]_-_Three-Sided_Battle_to_the_Death_[640x480][DVD][AHQ][E581D27D].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_072[167]_-_Totosai_s_Rigid_Training_[640x480][DVD][AHQ][B7BCBD30].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_073[167]_-_Shiori_s_Family_and_Inuyasha_s_Feelings_[640x480][DVD][AHQ][26E6A82A].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_074[167]_-_The_Red_Tetsusaiga_Breaks_the_Barrier!_[640x480][DVD][AHQ][C00CB893].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_075[167]_-_The_Plot_of_the_Panther_Devas_[640x480][DVD][AHQ][FF7FC6EA].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_076[167]_-_Target__Sesshomaru_and_Inuyasha_[640x480][DVD][AHQ][B50473C4].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_077[167]_-_The_Panther_Tribe_and_the_Two_Swords_of_the_Fang_[640x480][DVD][AHQ][B45D0CAD].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_078[167]_-_Only_You,_Sango_[640x480][DVD][AHQ][29C20F6B].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_079[167]_-_Jaken_s_Plan_to_Steal_Tetsusaiga_[640x480][DVD][AHQ][C9A4998B].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_080[167]_-_Sesshomaru_and_the_Abducted_Rin_[640x480][DVD][AHQ][94ACCE2B].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_081[167]_-_Vanishing_Point;_Naraku_Disappears_[640x480][DVD][AHQ][2C37E2FE].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_082[167]_-_Gap_Between_the_Ages_[640x480][DVD][AHQ][C571B8D1].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_083[167]_-_The_Female_Wolf-Demon_and_the_Lunar_Rainbow_Promise_[640x480][LD][AHQ][61C5FDFD].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_084[167]_-_Koga_s_Bride-To-Be_[640x480][DVD][AHQ][56439C18].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_085[167]_-_The_Evil_Within_Demon_s_Head_Castle_[640x480][DVD][AHQ][C1499989].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_086[167]_-_Secret_of_the_Possessed_Princess_[640x480][DVD][AHQ][D10C8F94].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_087[167]_-_Kikyo_s_Lonely_Journey_[640x480][DVD][AHQ][C17F7448].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_088[167]_-_The_Three_Sprites_of_the_Monkey_God_[640x480][DVD][AHQ][16F2E540].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_089[167]_-_Nursing_Battle_of_the_Rival_Lovers_[640x480][DVD][AHQ][08ECD31F].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_090[167]_-_Sota_s_Brave_Confession_of_Love_[640x480][DVD][AHQ][3C673B47].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_091[167]_-_The_Suspicious_Faith_Healer_and_the_Black_Kirara_[640x480][DVD][AHQ][4D2BCAAA].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_092[167]_-_Plot_of_the_Walking_Dead_[640x480][DVD][AHQ][2A1D132A].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_093[167]_-_The_Mysterious,_Lecherous_Monk_[640x480][DVD][AHQ][E7F809F7].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_094[167]_-_The_Sacred_Jewel_Maker_Part_I_[640x480][DVD][AHQ][92D095FB].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_095[167]_-_The_Sacred_Jewel_Maker_Part_II_[640x480][DVD][AHQ][17B2C066].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_096[167]_-_Jaken_Falls_Ill_[640x480][DVD][AHQ][AF49A003].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_097[167]_-_Kirara_Come_Home!_[640x480][DVD][AHQ][FED9F86A].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_098[167]_-_Kikyo_and_Kagome,_Alone_in_the_Cave_[640x480][DVD][AHQ][BE924780].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_099[167]_-_Sesshomaru_and_Koga__A_Dangerous_Encounter_[640x480][DVD][AHQ][510B436F].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_100[167]_-_The_Truth_Behind_the_Nightmare__Battle_in_the_Forest_of_Sorrow_[640x480][DVD][AHQ][7F7FA242].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_101[167]_-_The_Snow_from_Seven_Years_Past_[640x480][DVD][AHQ][7D834FD3].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_102[167]_-_Assault_on_the_Wolf-Demon_Tribe!_[640x480][DVD][AHQ][3EF7DCD0].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_103[167]_-_The_Band_of_Seven,_Resurrected!_[640x480][DVD][AHQ][2A8740C6].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_104[167]_-_The_Stealthy_Poison_Master__Mukotsu!_[640x480][DVD][AHQ][048B91F5].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_105[167]_-_The_Ghastly_Steel_Machine!_[640x480][DVD][AHQ][55AAD4E2].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_106[167]_-_Kagome,_Miroku_and_Sango__Desperate_Situation!_[640x480][DVD][AHQ][93506D15].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_107[167]_-_Inuyasha_Shows_His_Tears_For_The_First_Time_[640x480][DVD][AHQ][3301450E].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_108[167]_-_The_Secret_of_the_Pure_Light_[640x480][DVD][AHQ][1089EC30].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_109[167]_-_Hidden_In_The_Mist__Onward_To_Mt._Hakurei!_[640x480][DVD][AHQ][F8A33B37].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_110[167]_-_Enter_Bankotsu,_the_Leader_of_the_Band_of_Seven_[640x480][DVD][AHQ][9F9BE801].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_111[167]_-_The_Big_Clash__Banryu_versus_the_Wind_Scar_[640x480][DVD][AHQ][42179821].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_112[167]_-_Afloat_on_the_Lake_Surface__The_Barrier_of_Hijiri_Island_[640x480][DVD][AHQ][A716881F].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_113[167]_-_The_Sacred_Vajra_and_the_Mystery_of_the_Living_Buddha_[640x480][DVD][AHQ][98748C06].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_114[167]_-_Koga_s_Solitary_Battle_[640x480][DVD][AHQ][641631E3].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_115[167]_-_Lured_by_the_Black_Light_[640x480][DVD][AHQ][EE6A309B].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_116[167]_-_The_Exposed_Face_of_Truth_[640x480][DVD][AHQ][E31FB070].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_117[167]_-_Vanished_in_a_River_of_Flames_[640x480][DVD][AHQ][1DBE55B6].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_118[167]_-_Into_the_Depths_of_Mt._Hakurei_[640x480][DVD][AHQ][2E25ECCC].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_119[167]_-_Divine_Malice_of_the_Saint_[640x480][DVD][AHQ][B47BE560].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_120[167]_-_Fare_Thee_Well__Jakotsu_s_Requiem_[640x480][DVD][AHQ][443F1CF2].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_121[167]_-_Final_Battle__The_Last_and_Strongest_of_the_Band_of_Seven_[640x480][DVD][AHQ][0BAF3D5E].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_122[167]_-_The_Power_of_Banryu__Duel_to_the_Death_on_Mt._Hakurei_[640x480][DVD][AHQ][98ED0F03].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_123[167]_-_Beyond_the_Darkness_-_Naraku_Reborn!_[640x480][DVD][AHQ][7AD713BF].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_124[167]_-_Farewell_Kikyo,_My_Beloved_[640x480][DVD][AHQ][1664576F].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_125[167]_-_The_Darkness_in_Kagome_s_Heart_[640x480][DVD][AHQ][7BB7C7F1].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_126[167]_-_Transform_Heartache_into_Courage!_[640x480][DVD][AHQ][00D8D192].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_127[167]_-_Don_t_Boil_It!_The_Terrifying_Dried-Up_Demon_[640x480][DVD][AHQ][8B477FD7].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_128[167]_-_Battle_Against_the_Dried-Up_Demons_at_the_Cultural_Festival!_[640x480][DVD][AHQ][A8976BD8].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_129[167]_-_Chokyukai_and_the_Abducted_Bride_[640x480][DVD][AHQ][4CAF9C09].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_130[167]_-_Shippo_s_New_Technique,_The_Heart_Scar!_[640x480][DVD][AHQ][05AC4908].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_131[167]_-_Trap_of_the_Cursed_Wall_Hanging_[640x480][DVD][AHQ][92A04CAC].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_132[167]_-_Miroku_s_Most_Dangerous_Confession_[640x480][DVD][AHQ][5B0B1189].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_133-134[167]_-_The_Woman_Who_Loved_Sesshoumaru_[640x480][DVD][AHQ][FFD6BDA5].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_135[167]_-_The_Last_Banquet_of_Miroku_s_Master_[640x480][DVD][AHQ][B43A2A31].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_136[167]_-_A_Strange_Invisible_Demon_Appears!_[640x480][DVD][AHQ][F02C9DC8].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_137[167]_-_An_Ancestor_Named_Kagome_[640x480][DVD][AHQ][3F009F98].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_138[167]_-_Mountain_of_Demons_-_Survival_of_the_Duo_[640x480][DVD][AHQ][60FECC38].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_139[167]_-_The_Great_Duel_at_Shoun_Falls!_[640x480][DVD][AHQ][88702CC9].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_140[167]_-_Eternal_Love_-_The_Naginata_of_Kenkon_[640x480][DVD][AHQ][23A4146A].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_141[167]_-_Entei,_The_Demon_Horse_Unleashed_[640x480][DVD][AHQ][C6C08811].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_142[167]_-_Untamed_Entei_and_Horrible_Hakudoshi_[640x480][DVD][AHQ][57848800].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_143[167]_-_3000_Leagues_in_Search_of_Father_[640x480][DVD][AHQ][78486800].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_144[167]_-_Hosenki_and_the_Final_Shard_[640x480][DVD][AHQ][CFAF7C3C].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_145[167]_-_Bizarre_Guards_at_the_Border_of_the_Afterlife_[640x480][DVD][AHQ][4AFBA99F].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_146[167]_-_The_Fiery_Bird_Master,_Princess_Abi_[640x480][DVD][AHQ][81DF536A].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_147-148[167]_-_The_Tragic_Love_Song_of_Destiny_[640x480][DVD][AHQ][B3F8C63E].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_149[167]_-_The_Single_Arrow_of_Chaos_[640x480][DVD][AHQ][BA59B9C3].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_150[167]_-_The_Mysterious_Light_that_Guides_the_Saint_[640x480][DVD][AHQ][C5497203].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_151[167]_-_Kagome_s_Instinctive_Choice_[640x480][DVD][AHQ][00CF5168].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_152[167]_-_Protect_and_Plunder!_[640x480][DVD][AHQ][F2797FD8].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_153[167]_-_The_Cruel_Reunion_of_Fate_[640x480][DVD][AHQ][87455A45].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_154[167]_-_The_Demon_Linked_with_the_Netherworld_[640x480][DVD][AHQ][78DC466C].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_155[167]_-_The_Demon_Protector_of_the_Sacred_Jewel_Shard!_[640x480][DVD][AHQ][859A2722].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_156[167]_-_The_Final_Battle_at_the_Graveside__Sesshomaru_Versus_Inuyasha!_[640x480][DVD][AHQ][A1A075F0].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_157[167]_-_Destroy_Naraku_with_the_Adamant_Barrage!_[640x480][DVD][AHQ][C0DFDE5E].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_158[167]_-_Stampede_of_the_Countless_Demon_Rats!_[640x480][DVD][AHQ][42DD4F56].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_159[167]_-_Kohaku_s_Decision_and_Sango_s_Heart_[640x480][DVD][AHQ][1C73F2A4].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_160[167]_-_The_Lucky_but_Two-Timing_Scoundrel!_[640x480][DVD][AHQ][0942952C].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_161[167]_-_Miroku_s_Past_Mistake_[640x480][DVD][AHQ][331BA0DC].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_162[167]_-_Forever_with_Lord_Sesshomaru_[640x480][DVD][AHQ][9ADC0115].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_163[167]_-_Kohaku,_Sango_and_Kirara__The_Secret_Flower_Garden_[640x480][DVD][AHQ][6F950E29].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_164[167]_-_Possessed_by_a_Parasite__Shippo,_Our_Worst_Enemy_[640x480][DVD][AHQ][4C963E58].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_165[167]_-_The_Ultimate_Key_to_Defeating_Naraku_[640x480][DVD][AHQ][4F34C194].mkv
-!new/[TV Series-2000] Inuyasha/Inuyasha_-_166-167[167]_-_The_Bond_Between_Them,_Use_the_Sacred_Jewel_Shard!_Part_1_[640x480][DVD][AHQ][2D920FE4].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 061 [DVD][AHQ][F3999DB8].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 062 [DVD][AHQ][CFA1AA5E].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 063 [DVD][AHQ][65DCA634].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 064 [DVD][AHQ][4DCC83F1].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 065 [DVD][AHQ][992643ED].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 066 [DVD][AHQ][79B87B3B].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 067 [DVD][AHQ][9015FB36].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 068 [DVD][AHQ][CD3223C0].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 069 [DVD][AHQ][67B13FF1].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 070 [DVD][AHQ][92E3F79F].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 071 [DVD][AHQ][E581D27D].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 072 [DVD][AHQ][B7BCBD30].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 073 [DVD][AHQ][26E6A82A].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 074 [DVD][AHQ][C00CB893].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 075 [DVD][AHQ][FF7FC6EA].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 076 [DVD][AHQ][B50473C4].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 077 [DVD][AHQ][B45D0CAD].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 078 [DVD][AHQ][29C20F6B].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 079 [DVD][AHQ][C9A4998B].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 080 [DVD][AHQ][94ACCE2B].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 081 [DVD][AHQ][2C37E2FE].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 082 [DVD][AHQ][C571B8D1].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 083 [AHQ][61C5FDFD].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 084 [DVD][AHQ][56439C18].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 085 [DVD][AHQ][C1499989].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 086 [DVD][AHQ][D10C8F94].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 087 [DVD][AHQ][C17F7448].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 088 [DVD][AHQ][16F2E540].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 089 [DVD][AHQ][08ECD31F].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 090 [DVD][AHQ][3C673B47].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 091 [DVD][AHQ][4D2BCAAA].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 092 [DVD][AHQ][2A1D132A].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 093 [DVD][AHQ][E7F809F7].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 094 [DVD][AHQ][92D095FB].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 095 [DVD][AHQ][17B2C066].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 096 [DVD][AHQ][AF49A003].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 097 [DVD][AHQ][FED9F86A].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 098 [DVD][AHQ][BE924780].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 099 [DVD][AHQ][510B436F].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 100 [DVD][AHQ][7F7FA242].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 101 [DVD][AHQ][7D834FD3].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 102 [DVD][AHQ][3EF7DCD0].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 103 [DVD][AHQ][2A8740C6].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 104 [DVD][AHQ][048B91F5].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 105 [DVD][AHQ][55AAD4E2].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 106 [DVD][AHQ][93506D15].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 107 [DVD][AHQ][3301450E].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 108 [DVD][AHQ][1089EC30].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 109 [DVD][AHQ][F8A33B37].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 110 [DVD][AHQ][9F9BE801].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 111 [DVD][AHQ][42179821].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 112 [DVD][AHQ][A716881F].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 113 [DVD][AHQ][98748C06].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 114 [DVD][AHQ][641631E3].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 115 [DVD][AHQ][EE6A309B].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 116 [DVD][AHQ][E31FB070].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 117 [DVD][AHQ][1DBE55B6].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 118 [DVD][AHQ][2E25ECCC].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 119 [DVD][AHQ][B47BE560].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 120 [DVD][AHQ][443F1CF2].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 121 [DVD][AHQ][0BAF3D5E].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 122 [DVD][AHQ][98ED0F03].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 123 [DVD][AHQ][7AD713BF].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 124 [DVD][AHQ][1664576F].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 125 [DVD][AHQ][7BB7C7F1].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 126 [DVD][AHQ][00D8D192].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 127 [DVD][AHQ][8B477FD7].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 128 [DVD][AHQ][A8976BD8].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 129 [DVD][AHQ][4CAF9C09].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 130 [DVD][AHQ][05AC4908].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 131 [DVD][AHQ][92A04CAC].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 132 [DVD][AHQ][5B0B1189].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 133-134 [DVD][AHQ][FFD6BDA5].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 135 [DVD][AHQ][B43A2A31].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 136 [DVD][AHQ][F02C9DC8].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 137 [DVD][AHQ][3F009F98].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 138 [DVD][AHQ][60FECC38].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 139 [DVD][AHQ][88702CC9].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 140 [DVD][AHQ][23A4146A].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 141 [DVD][AHQ][C6C08811].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 142 [DVD][AHQ][57848800].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 143 [DVD][AHQ][78486800].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 144 [DVD][AHQ][CFAF7C3C].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 145 [DVD][AHQ][4AFBA99F].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 146 [DVD][AHQ][81DF536A].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 147-148 [DVD][AHQ][B3F8C63E].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 149 [DVD][AHQ][BA59B9C3].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 150 [DVD][AHQ][C5497203].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 151 [DVD][AHQ][00CF5168].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 152 [DVD][AHQ][F2797FD8].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 153 [DVD][AHQ][87455A45].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 154 [DVD][AHQ][78DC466C].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 155 [DVD][AHQ][859A2722].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 156 [DVD][AHQ][A1A075F0].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 157 [DVD][AHQ][C0DFDE5E].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 158 [DVD][AHQ][42DD4F56].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 159 [DVD][AHQ][1C73F2A4].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 160 [DVD][AHQ][0942952C].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 161 [DVD][AHQ][331BA0DC].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 162 [DVD][AHQ][9ADC0115].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 163 [DVD][AHQ][6F950E29].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 164 [DVD][AHQ][4C963E58].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 165 [DVD][AHQ][4F34C194].mkv
+!new/[TV Series-2000] Inuyasha/mkv/Inuyasha - 166-167 [End][DVD][AHQ][2D920FE4].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -1090,24 +972,6 @@
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
 !new/lama/[Kuroneko] Fullmetal Alchemist - Chibi Party OAV [DB1546EB].avi
 !new/lama/[TAC Studios] Hunter X Hunter - Requiem.avi
-!new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E01 'Gundamjack' [v2].mkv
-!new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E02 'Endless Pursuit'.mkv
-!new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E03 'Into Battle, Albion'.mkv
-!new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E04 'Attack and Retreat on the Burning Sand'.mkv
-!new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E05 'Gundam, To the Sea of Stars'.mkv
-!new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E06 'The Warrior of Von Braun'.mkv
-!new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E07 'With Shining Blue Fire'.mkv
-!new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E08 'Conspiracy Sector'.mkv
-!new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E09 'The Nightmare of Solomon'.mkv
-!new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E10 'Colliding Warzones'.mkv
-!new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E11 'La Vie En Rose'.mkv
-!new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E12 'Assault on the Point of No Return'.mkv
-!new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered E13 'A Storm Raging Through'.mkv
-!new/msg/[OZC]Mobile Suit Gundam 0083 - Stardust Memory Remastered Special 'The Mayfly of Space'.mkv
-!new/nar/[ANBU-AonE] Naruto - Special Find The Crimson Four-Leaf Clover! [335F8EC6].avi
-!new/nar/[AonE] Naruto Movie - 1 [DVD][3B9021D1].avi
-!new/nar/[AonE] Naruto OVA2 - [DVD][9CEDCD4F].avi
-!new/nar/[AonE] Naruto Sports Festival [624686B4].avi
 !new/narutoship/Naruto Shippuden 001-002.avi
 !new/narutoship/Naruto Shippuden 003.avi
 !new/narutoship/Naruto Shippuden 004.avi

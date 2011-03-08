@@ -2,9 +2,12 @@ movie/5 Centimeters per Second/[THORA] 5 Centimeters per Second (1920x1080) [BD]
 movie/Agriculture Girls!/[Yoroshiku] Agriculture Girls! [E538B9BB].mkv
 movie/Air - The Movie/[Koi] Air - The Movie [C26433E0].avi
 movie/Appleseed (2004)/[THORA] Appleseed (2004) (1280x720) [EE242662].mkv
+movie/Appleseed Ex Machina/[THORA] Appleseed Ex Machina [1080p][F5195BE1].mkv
 movie/Armored Trooper Votoms - Pailsen Files Movie/[Shinsen-Subs] Armored Trooper Votoms - Pailsen Files Movie [5.1][940DC029].dts
 movie/Armored Trooper Votoms - Pailsen Files Movie/[Shinsen-Subs] Armored Trooper Votoms - Pailsen Files Movie [DVD][086EE55C].mkv
-movie/Bleach/[DB] Bleach - Movie 3 [D10E3484].avi
+movie/Bleach/[B-G] Bleach - Movie 1 [720p][8FFF47AB].mkv
+movie/Bleach/[B-G] Bleach - Movie 2 [720p][19B0E1DC].mkv
+movie/Bleach/[B-G] Bleach - Movie 3 [DVD][ED737D49].mkv
 movie/Blood - The Last Vampire (2000)/[THORA] Blood - The Last Vampire (2000) (1280x720) [BD][2FD981B1].mkv
 movie/Bokusatsu Tenshi Dokuro-chan 2/[Philanthropy] Bokusatsu Tenshi Dokuro-chan 2 - 01-02 [DVD][FF5EBA21].mkv
 movie/Brave Story/[THORA] Brave Story (2006) [BD][932BDA94].mkv
@@ -86,6 +89,7 @@ movie/Junkers Come Here/[niizk] Junkers Come Here [DBAC403C].mkv
 movie/Kaiketsu Zorori/[Alopex] Kaiketsu Zorori [6C93DF0F].mkv
 movie/Kara no Kyoukai/[66] Kara no Kyoukai - Chapter 4 - Void Shrine [720p BD][8A24AC6C].mkv
 movie/Kara no Kyoukai/[66] Kara no Kyoukai - Epilogue [4B3A8EDF].mkv
+movie/Kara no Kyoukai/[HACK-JOB] Kara no Kyoukai - The Garden of Sinners - Remix - Gate of Seventh Heaven [1080p][EADB7656].mkv
 movie/Kara no Kyoukai/[gg-TakaJun] Kara no Kyoukai - Chapter 1 - Overlooking View [v2][3F2E8FEA].mkv
 movie/Kara no Kyoukai/[gg-TakaJun] Kara no Kyoukai - Chapter 2 - Murder Study (Part 1) [v2][665EB12C].mkv
 movie/Kara no Kyoukai/[gg-TakaJun] Kara no Kyoukai - Chapter 3 - Remaining Sense of Pain [8ED4206B].mkv
@@ -133,6 +137,10 @@ movie/Musashi - The Dream of the Last Samurai/[Frostii] Musashi - The Dream of t
 movie/My Neighbor Totoro/[niizk] My Neighbor Totoro [59A5021B].mkv
 movie/Naruto Shippuuden/[DB] Naruto Shippuuden - Movie 3 [BCC77C3B].avi
 movie/Naruto Shippuuden/[SD-Taka] Naruto Shippuuden - Movie 3 [FA615D4F].mp4
+movie/Naruto/[ANBU-AonE] Naruto - Special Find The Crimson Four-Leaf Clover! [335F8EC6].avi
+movie/Naruto/[AonE] Naruto - Movie 1 [DVD][3B9021D1].avi
+movie/Naruto/[AonE] Naruto - OVA2 [DVD][9CEDCD4F].avi
+movie/Naruto/[AonE] Naruto - Sports Festival [624686B4].avi
 movie/Nausicaa of the Valley of the Wind (1984)/[THORA] Nausicaa of the Valley of the Wind (1984) [BD][6D0CA03D].mkv
 movie/Ojamajo Doremi Sharp Movie/[Doremi] Ojamajo Doremi Sharp Movie [27E34A4E].avi
 movie/One Piece/[INP] One Piece - Movie 10 (1920x1080) [116926DE].mkv

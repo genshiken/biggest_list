@@ -65,6 +65,7 @@ extras/Candy Boy/[SHiN-gx] Candy Boy - Music Video 1 - Candy Boy [DVD][11FA338F]
 extras/Candy Boy/[SHiN-gx] Candy Boy - Music Video 2 - Koi no Katachi [DVD][682EDA0E].mkv
 extras/Candy Boy/[SHiN-gx] Candy Boy - Music Video 3 - Bring up... LOVE [DVD][07F40BCC].mkv
 extras/Cardcaptor Sakura/[O-A] Cardcaptor Sakura - Leave It to Kero! [5DC9DB9C].ogm
+extras/Chrno Crusade/[DmonHiro] Chrono Crusade - Extra Goodies Pack.zip
 extras/Code Geass R2/[gg] Code Geass R2 - 09-10 Preview [6880E461].mkv
 extras/Code Geass R2/[schneizelXkannonOTP] Code Geass R2 - Picture Drama 0.923 (1920x1080) [2E02E0E1].mkv
 extras/Code Geass/[Nutbladder] Code Geass Kiseki no Birthday Picture Drama (Animated seg.) (1280x720) [BD][583F73A5].mkv
@@ -303,6 +304,7 @@ extras/My-HiME/[Doremi] My-HiME - Special - Kuro no Mai Saigo no Bansan [BD][44C
 extras/Myself; Yourself/[B-G & m.3.3.w] Myself; Yourself - Bonus 1 [DVD][4DB57DA6].mkv
 extras/Myself; Yourself/[B-G & m.3.3.w] Myself; Yourself - Bonus 2 [DVD][E5D1FAF4].mkv
 extras/Myself; Yourself/[B-G & m.3.3.w] Myself; Yourself - Bonus 3 [DVD][0E8BD290].mkv
+extras/Naruto/Naruto - Movie 1 Covers.rar
 extras/Needless/[Ayako-Himatsubushi] Needless - Special 1 (1280x720) [27E1CD21].mkv
 extras/Needless/[Doutei] Needless - Special 01 [6CE0070F].mkv
 extras/Needless/[Doutei] Needless - Special 02 [F31311A8].mkv
@@ -354,6 +356,25 @@ extras/Onmyou Taisenki/[unknown] Onmyou Taisenki - TV Intro 2 [2928ACFB].avi
 extras/Onmyou Taisenki/[unknown] Onmyou Taisenki - TV Intro 3 [56CD3BD0].avi
 extras/Onmyou Taisenki/[unknown] Onmyou Taisenki - TV Intro 4 [62CBEC79].avi
 extras/Onmyou Taisenki/[unknown] Onmyou Taisenki - TV Promo [89F9F502].wmv
+extras/Ore no Imouto/[Kira-Fansub] Ore no Imouto - Animated Commentary 01 [1080p BD][02FE1ABA].mkv
+extras/Ore no Imouto/[Kira-Fansub] Ore no Imouto - Animated Commentary 02 [1080p BD][617BB7B0].mkv
+extras/Ore no Imouto/[Kira-Fansub] Ore no Imouto - Animated Commentary 03 [1080p BD][7773B4CC].mkv
+extras/Ore no Imouto/[Kira-Fansub] Ore no Imouto - Animated Commentary 04 [1080p BD][855B4671].mkv
+extras/Ore no Imouto/[Kira-Fansub] Ore no Imouto - Animated Commentary 05 [1080p BD][04221DDC].mkv
+extras/Ore no Imouto/[Kira-Fansub] Ore no Imouto - Animated Commentary 06 [1080p BD][EFF09707].mkv
+extras/Ore no Imouto/[Kira-Fansub] Ore no Imouto - Ending 1 [1080p BD][3B6AEE49].mkv
+extras/Ore no Imouto/[Kira-Fansub] Ore no Imouto - Ending 2 [1080p BD][1F9A5208].mkv
+extras/Ore no Imouto/[Kira-Fansub] Ore no Imouto - Ending 3 [1080p BD][21F953D4].mkv
+extras/Ore no Imouto/[Kira-Fansub] Ore no Imouto - Ending 5 [1080p BD][F93F5609].mkv
+extras/Ore no Imouto/[Kira-Fansub] Ore no Imouto - Opening 1 (Clean) [1080p BD][49064498].mkv
+extras/Ore no Imouto/[Kira-Fansub] Ore no Imouto - Opening 2 (Clean) [1080p BD][007075D0].mkv
+extras/Ore no Imouto/[Kira-Fansub] Ore no Imouto - Opening 3 (Clean) [1080p BD][A5BD1931].mkv
+extras/Ore no Imouto/[Kira-Fansub] Ore no Imouto - Opening 4 (Clean) [1080p BD][9F1302DE].mkv
+extras/Ore no Imouto/[Kira-Fansub] Ore no Imouto - Opening 5 (Clean) [1080p BD][E78886CD].mkv
+extras/Ore no Imouto/[Kira-Fansub] Ore no Imouto - Opening 6 (Clean) [1080p BD][EB562E8E].mkv
+extras/Ore no Imouto/[Kira-Fansub] Ore no Imouto - Visual BGM Vol. 1 [1080p BD][35AA547E].mkv
+extras/Ore no Imouto/[Kira-Fansub] Ore no Imouto - Visual BGM Vol. 2 [1080p BD][87C94D0D].mkv
+extras/Ore no Imouto/[Kira-Fansub] Ore no Imouto - Visual BGM Vol. 3 [1080p BD][6CD301E3].mkv
 extras/Pandora Hearts/[Hatsuyuki] Pandora Hearts - DVD Special 1 [181EAE27].mp4
 extras/Pandora Hearts/[Hatsuyuki] Pandora Hearts - DVD Special 2 [4B07C642].mp4
 extras/Pandora Hearts/[Hatsuyuki] Pandora Hearts - DVD Special 3 [D7666076].mp4
@@ -441,6 +462,7 @@ extras/Taishou Yakyuu Musume/[Saizen] Taishou Yakyuu Musume - 03 Notes [CD969338
 extras/Taishou Yakyuu Musume/[Saizen] Taishou Yakyuu Musume - 04 Notes [709C1844].pdf
 extras/Tales of Symphonia OVA - Tethe'alla/[Formula] Tales of Symphonia OVA - Tethe'alla - Bonus 1 [CA7D8F4F].mkv
 extras/Tales of Symphonia OVA/[Formula] Tales of Symphonia OVA - Special 1 [297B0243].mkv
+extras/Tales of Symphonia OVA/[Formula] Tales of Symphonia OVA - Special 2 [0079785D].mkv
 extras/Tantei Opera Milky Holmes/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - Special 1 [720p BD][BD01F6E4].mkv
 extras/Tantei Opera Milky Holmes/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - Special 2 [BD][E26716A2].mkv
 extras/Tantei Opera Milky Holmes/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - Special 3 [BD][D7CC1197].mkv
