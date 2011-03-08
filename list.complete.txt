@@ -1403,6 +1403,7 @@ complete/b/Blade of the Immortal/[Arigatou] Blade of the Immortal - 10 [F85AA697
 complete/b/Blade of the Immortal/[Arigatou] Blade of the Immortal - 11 [D67FDEE7].mkv
 complete/b/Blade of the Immortal/[Arigatou] Blade of the Immortal - 12 [626658F6].mkv
 complete/b/Blade of the Immortal/[Arigatou] Blade of the Immortal - 13 [End][2AA53CBC].mkv
+complete/b/Blame!/[MangAnime] Blame! [B0694CED].mkv
 complete/b/Blassreiter/[O-L] Blassreiter - 01 (1280x720) [v2][F529251D].mkv
 complete/b/Blassreiter/[O-L] Blassreiter - 02 (1280x720) [v2][F185B8C5].mkv
 complete/b/Blassreiter/[O-L] Blassreiter - 03 (1280x720) [A2BF424D].mkv
@@ -14720,8 +14721,7 @@ complete/t/Tokyo Majin Gakuen Kenpuchou/[Shinsen-Subs] Tokyo Majin Gakuen Kenpuc
 complete/t/Tokyo Majin Gakuen Kenpuchou/[Shinsen-Subs] Tokyo Majin Gakuen Kenpuchou - 13 [5B62169C].avi
 complete/t/Tokyo Majin Gakuen Kenpuchou/[Shinsen-Subs] Tokyo Majin Gakuen Kenpuchou - 14 [End][087EE91C].avi
 complete/t/Tonagura!/[ReDone] Tonagura! - 01 [DVD][E532475C].mkv
-complete/t/Tonagura!/[Ryo] Tonagura! - 01 [45035330].mp4
-complete/t/Tonagura!/[Ryo] Tonagura! - 02 [9A485375].mp4
+complete/t/Tonagura!/[ReDone] Tonagura! - 02 [DVD][DB97C3D8].mkv
 complete/t/Tonagura!/[Ryo] Tonagura! - 03 [B7BFFD41].mp4
 complete/t/Tonagura!/[Ryo] Tonagura! - 04 [69C44430].mp4
 complete/t/Tonagura!/[Ryo] Tonagura! - 05 [726E50CA].mp4
@@ -15058,6 +15058,60 @@ complete/t/Tsukuyomi Moon Phase/[mahou] Tsukuyomi Moon Phase - 23 [DDE2C60A].avi
 complete/t/Tsukuyomi Moon Phase/[mahou] Tsukuyomi Moon Phase - 24 [0E8E3AB7].avi
 complete/t/Tsukuyomi Moon Phase/[mahou] Tsukuyomi Moon Phase - 25 [58F56F03].avi
 complete/t/Tsukuyomi Moon Phase/[mahou] Tsukuyomi Moon Phase - 26 [End][DVD][8F749B20].avi
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 01 [v2][E8F575A6].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 02 [v2][EC3C89DA].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 03 [v2][37DE7104].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 04 [v2][FB751F19].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 05 [v2][33E4526C].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 06 [v2][9747B502].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 07 [v2][329D7084].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 08 [v2][556DEF23].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 09 [A80F7E3F].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 10 [A2C186E3].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 11 [B6E9FB52].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 12 [4164DB8A].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 13 [D8F14A35].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 14 [8715A809].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 15 [98210D01].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 16 [5FA4E3C0].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 17 [BA1E46AB].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 18 [A8C9F34D].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 19 [14577EC9].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 20 [509442B6].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 21 [F097A578].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 22 [FB41B5AD].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 23 [E6F352AF].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 24 [601AAC5F].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 25 [0B287E92].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 26 [8B1442E7].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 27 [A6BCB04D].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 28 [D92B1D65].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 29 [75EDA852].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 30 [3E10D024].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 31 [490E3A59].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 32 [17F963B1].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 33 [3F2C3251].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 34 [572F06D5].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 35 [1AC6F359].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 36 [7B24FEB1].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 37 [4020F73E].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 38 [1EDBE7C3].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 39 [40C96CC0].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 40 [42EF0FD3].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 41 [2937979E].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 42 [EB833825].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 43 [17E43B70].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 44 [70CD94AC].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 45 [957BA47B].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 46 [561E068C].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 47 [841A928B].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 48 [4F1AD8C1].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 49 [10BFDE73].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 50 [End][43024EC5].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - Ending 2 [67AFB4C3].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - Ending [v2][39333AE4].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - Opening 2 [9F95DB7D].mkv
+complete/t/Turn-A Gundam/[EG] Turn-A Gundam - Opening [v2][2640070C].mkv
 complete/t/Twin Angel OVA/[Ayako-m.3.3.w] Twin Angel OVA - 1 [v2][ABB526E9].mkv
 complete/t/Twin Angel OVA/[Ayako-m.3.3.w] Twin Angel OVA - 2 [End][A084F925].mkv
 complete/t/Two Walnuts/[Saizen] Two Walnuts [DVD][2A4E81B9].mkv
