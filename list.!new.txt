@@ -529,6 +529,15 @@
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.nfo
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.sfv
 !new/Tenchi Universe/zx.tenchi-universe.01.divx5.ogm
+!new/[EG]Gundam_0080_01_[0AD3998D].mkv
+!new/[EG]Gundam_0080_02_[F37333DF].mkv
+!new/[EG]Gundam_0080_03_[CDD39CBA].mkv
+!new/[EG]Gundam_0080_04_[F3B5C640].mkv
+!new/[EG]Gundam_0080_05_[3594E592].mkv
+!new/[EG]Gundam_0080_06_[BBAF3D1A].mkv
+!new/[EG]Gundam_0080_ED1_[62A47164].mkv
+!new/[EG]Gundam_0080_ED2_[525D4B29].mkv
+!new/[EG]Gundam_0080_OP_[0DB3CB1F].mkv
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
 !new/[OVA-1991] Kimagure Orange Road Rouge no Dengon/Kimagure_Orange_Road__Rouge_no_Dengon_-_1[1]_-_OVA_[640x480][DVD][bishi][875962B1].avi
 !new/[OVA-1992] Giant Robo/Giant_Robo_-_1[7]_-_The_Black_Attache_Case_[704x480][DVD][G_P][DD833BF2].mkv
@@ -542,6 +551,7 @@
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_2[3]_-_On_Stage_[640x480][DVD][CA][4172F5FF].mkv
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_3[3]_-_Which_One_Do_You_Love__[640x480][DVD][CA][D01B97BF].mkv
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_S01[3]_-_Macross_7_P-L-U-S__Mylene_[640x480][LD][CA][C1C8471F].avi
+!new/[PM]Pocket_Monsters_Best_Wishes_021_The_Skyarrow_Bridge_and_Gothiruselle![H264_720P][92707FB9].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
