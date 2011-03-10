@@ -526,7 +526,6 @@ complete/a/Angel Beats! - Special/[Tortoise-Commie] Angel Beats! - Special [A423
 complete/a/Angel Beats! - Special/[UTW] Angel Beats! - 13.5 [1080p BD][C7C2B35F].mkv
 complete/a/Angel Beats! - Special/[UTW] Angel Beats! - Special [1080p BD][F9D31219].mkv
 complete/a/Angel Beats! - Special/[UTW] Angel Beats! - The Making of Episode 2 [1080p BD][911D157C].mkv
-complete/a/Angel Beats!/[SS] Angel Beats! - 13 [End][720p][D8840574].mkv
 complete/a/Angel Beats!/[UTW] Angel Beats! - 01 [1080p BD][6B6D6A0A].mkv
 complete/a/Angel Beats!/[UTW] Angel Beats! - 02 [1080p BD][581C8EA8].mkv
 complete/a/Angel Beats!/[UTW] Angel Beats! - 03 [1080p BD][97725AE3].mkv
@@ -11214,6 +11213,32 @@ complete/p/Phantom - Requiem for the Phantom/[Inferno] Phantom - Requiem for the
 complete/p/Phantom OVA/[Exiled-Destiny] Phantom OVA - 1 [C2D54846].mkv
 complete/p/Phantom OVA/[Exiled-Destiny] Phantom OVA - 2 [5E099DBF].mkv
 complete/p/Phantom OVA/[Exiled-Destiny] Phantom OVA - 3 [End][A0CE8EFE].mkv
+complete/p/Pita Ten/[HnK] Pita Ten - 01 [160EDA9E].avi
+complete/p/Pita Ten/[HnK] Pita Ten - 02 [94F9956A].avi
+complete/p/Pita Ten/[HnK] Pita Ten - 03 [AF7FBF07].avi
+complete/p/Pita Ten/[HnK] Pita Ten - 04 [7B1018A1].avi
+complete/p/Pita Ten/[HnK] Pita Ten - 05 [A2D32FD9].avi
+complete/p/Pita Ten/[HnK] Pita Ten - 06 [03CD2E9C].avi
+complete/p/Pita Ten/[HnK] Pita Ten - 07 [3BB5DA69].avi
+complete/p/Pita Ten/[HnK] Pita Ten - 08 [43765B31].avi
+complete/p/Pita Ten/[HnK] Pita Ten - 09 [78AEF422].avi
+complete/p/Pita Ten/[HnK] Pita Ten - 10 [56C97227].avi
+complete/p/Pita Ten/[HnK] Pita Ten - 11 [DA578627].avi
+complete/p/Pita Ten/[HnK] Pita Ten - 12 [E66DC62B].avi
+complete/p/Pita Ten/[HnK] Pita Ten - 13 [034DEA1C].avi
+complete/p/Pita Ten/[HnK] Pita Ten - 14 [1EC42E71].avi
+complete/p/Pita Ten/[HnK] Pita Ten - 15 [14FE32BB].avi
+complete/p/Pita Ten/[HnK] Pita Ten - 16 [009AE7EC].avi
+complete/p/Pita Ten/[HnK] Pita Ten - 17 [CACEAC67].avi
+complete/p/Pita Ten/[HnK] Pita Ten - 18 [5587D4BC].avi
+complete/p/Pita Ten/[HnK] Pita Ten - 19 [A9C5B2E1].avi
+complete/p/Pita Ten/[HnK] Pita Ten - 20 [91CD1F39].avi
+complete/p/Pita Ten/[HnK] Pita Ten - 21 [B97052C7].avi
+complete/p/Pita Ten/[HnK] Pita Ten - 22 [4D4D6B46].avi
+complete/p/Pita Ten/[HnK] Pita Ten - 23 [3EEEB8EA].avi
+complete/p/Pita Ten/[HnK] Pita Ten - 24 [3210F0FE].avi
+complete/p/Pita Ten/[HnK] Pita Ten - 25 [019B9BAD].avi
+complete/p/Pita Ten/[HnK] Pita Ten - 26 [End][F392C16A].avi
 complete/p/Planetes/[PSNR] Planetes - 01 (1280x720) [E96B08E4].mkv
 complete/p/Planetes/[PSNR] Planetes - 02 (1280x720) [F64A5177].mkv
 complete/p/Planetes/[PSNR] Planetes - 03 (1280x720) [F3EAB24F].mkv
@@ -13645,8 +13670,7 @@ complete/s/Soul Eater/[Tsubaki-Hatsuyuki] Soul Eater - 49 (1280x720) [BBBC9663].
 complete/s/Soul Eater/[Tsubaki-Hatsuyuki] Soul Eater - 50 (1280x720) [268A1FF4].mkv
 complete/s/Soul Eater/[Tsubaki-Hatsuyuki] Soul Eater - 51 (1280x720) [End][E3C330EB].mkv
 complete/s/Soul Link/[ReDone] Soul Link - 01 [DVD][D3C267CC].mkv
-complete/s/Soul Link/[yesy] Soul Link - 01 [BF581AF7].avi
-complete/s/Soul Link/[yesy] Soul Link - 02 [200C2E9C].avi
+complete/s/Soul Link/[ReDone] Soul Link - 02 [DVD][21300891].mkv
 complete/s/Soul Link/[yesy] Soul Link - 03 [25FEE513].avi
 complete/s/Soul Link/[yesy] Soul Link - 04 [75C61444].avi
 complete/s/Soul Link/[yesy] Soul Link - 05 [9123F785].avi
