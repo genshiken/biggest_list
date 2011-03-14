@@ -210,7 +210,6 @@ music/Misc Distro/[SOS-Dan] Suzumiya Haruhi no Tsumeawase (CBR320+Scans).rar
 music/Misc Distro/[SRN]ROUND TABLE featuring Nino - Nino(Collection Album)[320kbps+Scans].zip
 music/Misc Distro/[Setsuna] KOTOKO - Re-Sublimity - Kannazuki no Miko OP&ED (FLAC).7z
 music/Misc Distro/[Setsuna] Kawada Mami & KOTOKO - Radiance & Chi ni Kaeru - On the Earth - Starship Operators - Opening & - Ending (FLAC).7z
-music/Misc Distro/[Shin - S] Mahou Shoujo Madoka Magica ED Single - Magia.rar
 music/Misc Distro/[WF] School Rumble Image Albums (Vol 1-5).zip
 music/Misc Distro/[loneSEEDER]HIMEKA_-_ Asu_e_no_Kizuna[FLAC_w_SCANS].7z
 music/Misc Distro/misc songs.zip
@@ -411,6 +410,7 @@ music/Nipponsei/[Nipponsei] CLAMP IN WONDERLAND 1 2 Collection - PRECIOUS SONGS.
 music/Nipponsei/[Nipponsei] Canvas2 ~Nijiiro no Sketch~ OP Single - Plastic Smile [Honey Bee].zip
 music/Nipponsei/[Nipponsei] Capeta ED4 Single - My Star [Kikuchi Mika].zip
 music/Nipponsei/[Nipponsei] Cardfight!! Vanguard ED Single - Diamond Star [Asou Natsuko].zip
+music/Nipponsei/[Nipponsei] Cardfight!! Vanguard OP Single - Vanguard [JAM Project].zip
 music/Nipponsei/[Nipponsei] Chevalier OP Single - BORN [Okuda Miwako].zip
 music/Nipponsei/[Nipponsei] Chevalier Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Chocotto Sister Anchoko 1 Satsume - Under Chocottosister File.ONE.zip
@@ -465,6 +465,7 @@ music/Nipponsei/[Nipponsei] Densetsu no Yuusha no Densetsu OP Single - LAMENT ~Y
 music/Nipponsei/[Nipponsei] Densetsu no Yuusha no Densetsu OP2 Single - Last Inferno [Ceui].zip
 music/Nipponsei/[Nipponsei] Doujin Work ED Single - Yumemiru Otome [Mizubashi Mai].zip
 music/Nipponsei/[Nipponsei] Doujin Work OP Single - I jan Yuujou [MAKI].zip
+music/Nipponsei/[Nipponsei] Dragon Crisis! ED Single - Mirai Bowl [Momoiro Clover].zip
 music/Nipponsei/[Nipponsei] Dragon Crisis! OP Single - Immoralist [Horie Yui].zip
 music/Nipponsei/[Nipponsei] Dragonaut -THE RESSONANCE- ED Single - Rain of Love [Fukui Yukari].zip
 music/Nipponsei/[Nipponsei] Dragonaut -THE RESSONANCE- OP Single - perfect blue [Jazzin Park].zip
@@ -498,6 +499,7 @@ music/Nipponsei/[Nipponsei] Fate-stay Night Character Image Song II - Tohsaka Ri
 music/Nipponsei/[Nipponsei] Fate-stay Night Character Image Song III - Matou Sakura [Shitaya Noriko].zip
 music/Nipponsei/[Nipponsei] Fate-stay Night Character Image Song VI - Rider [Asakawa Yuu].zip
 music/Nipponsei/[Nipponsei] Fate-stay Night Character Image Song VIII - Archer [Suwabe Junichi].zip
+music/Nipponsei/[Nipponsei] Fractale OP ED Single - Harinezumi [AZUMA HITOMI].zip
 music/Nipponsei/[Nipponsei] Freezing OP ED Single - COLOR [MARiA & Kobayashi Aika].zip
 music/Nipponsei/[Nipponsei] Full Metal Alchemist ED1 Single - Kesenai Tsumi [Nana Kitade] [CC20D211].zip
 music/Nipponsei/[Nipponsei] Full Metal Alchemist ED1.5 Single - Kenseni Tsumi (Remix) [Nana Kitade].zip
@@ -1460,6 +1462,9 @@ music/PV/fripSide - LEVEL5 - Judgelight [UAC][DVD][11FBD2F3].mkv
 music/PV/stereopony - Namida no Mukou.DVD.x264-UAC.mkv
 music/PV/supercell - Kimi no Shiranai Monogatari.mp4
 music/PV/supercell - Kimi no shiranai monogatari.DVD.x264-UAC.mkv
+music/Shin-S/[Shin - S] Mahou Shoujo Madoka Magica ED Single - Magia.rar
+music/Shin-S/[Shin-S] Dragon Crisis! ED Single - Mirai Bowl [Momoiro Clover].zip
+music/Shin-S/[Shin-S] STAR DRIVER ~Kagayaki no Takuto~ OP2 Single - SHINING STAR [9nine].zip
 music/Soul Eater.zip
 music/Stratos 4 Advance OST.zip
 music/Stratos 4 OST.zip
