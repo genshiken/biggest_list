@@ -3694,7 +3694,7 @@ complete/f/Flame of Recca/[SSP-Corp] Flame of Recca - 39 [v2][98B2CDAE].mkv
 complete/f/Flame of Recca/[SSP-Corp] Flame of Recca - 40 [v2][ABCF57C3].mkv
 complete/f/Flame of Recca/[SSP-Corp] Flame of Recca - 41 [v2][3F28CFB5].mkv
 complete/f/Flame of Recca/[SSP-Corp] Flame of Recca - 42 [End][v2][AC9B497D].mkv
-complete/f/Fortune Arterial OAD/[CMS] Fortune Arterial OAD [DVD][1767A59B].mkv
+complete/f/Fortune Arterial OVA/[SS] Fortune Arterial OVA [46498EE5].mkv
 complete/f/Fortune Arterial/[SS] Fortune Arterial - 01 [B9350090].mkv
 complete/f/Fortune Arterial/[SS] Fortune Arterial - 02 [855C3F17].mkv
 complete/f/Fortune Arterial/[SS] Fortune Arterial - 03 [68310B3B].mkv
@@ -8102,6 +8102,84 @@ complete/k/Kyou Kara Maou! R/[Shinsen-Subs] Kyou Kara Maou! R - 2 [AAA173F0].mkv
 complete/k/Kyou Kara Maou! R/[Shinsen-Subs] Kyou Kara Maou! R - 3 [F99D8745].mkv
 complete/k/Kyou Kara Maou! R/[Shinsen-Subs] Kyou Kara Maou! R - 4 [19833B02].mkv
 complete/k/Kyou Kara Maou! R/[Shinsen-Subs] Kyou Kara Maou! R - 5 [End][2FA12FB5].mkv
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 01 [AonE][C5FE065E].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 02 [AonE][F7BEEE6E].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 03 [AonE][769C14D9].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 04 [AonE][73776AED].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 05 [AonE][9DBA27D9].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 06 [AonE][E33C95B8].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 07 [AonE][9A77C7B6].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 08 [AonE][8848C595].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 09 [AonE][DE0EA691].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 10 [AonE][C2E69D08].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 11 [AonE][6FCC6984].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 12 [AonE][86644D1C].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 13 [AonE][5828B740].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 14 [AonE][6DACE766].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 15 [AonE][A0543F1B].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 16 [AonE][5E5F7B0B].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 17 [AonE][A12DC119].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 18 [AonE][AA4F51E4].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 19 [AonE][74333D51].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 20 [AonE][CD6C2C84].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 21 [AonE][06A74222].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 22 [AonE][565DD0A0].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 23 [AonE][B7838456].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 24 [AonE][6787EC08].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 25 [AonE][F0063A16].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 26 [AonE][462728A6].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 27 [AonE][2672AA95].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 28 [AonE][2EF2F2D7].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 29 [AonE][AB3AB37C].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 30 [AonE][74258F31].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 31 [AonE][EDA02391].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 32 [AonE][75163500].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 33 [AonE][v2][4809E170].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 34 [AonE][9A3804FC].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 35 [AonE][E019079C].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 36 [AonE][D78F87B7].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 37 [AonE][9398AF1D].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 38 [AonE][E6A86F4F].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 39 [AonE][BE67EC7B].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 40 [AonE Ani-Kraze][F6F0AD23].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 41 [AonE Ani-Kraze][B9AA4119].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 42 [AonE Ani-Kraze][75C4591C].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 43 [AonE Ani-Kraze][6C51EA88].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 44 [AonE Ani-Kraze][27D12CAE].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 45 [AonE Ani-Kraze][8A04A8EB].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 46 [AonE Ani-Kraze][EED4E8F0].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 47 [AonE Ani-Kraze][79B2C04D].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 48 [AonE Ani-Kraze][D72BAE91].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 49 [AonE Ani-Kraze][948CD672].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 50 [AonE Ani-Kraze][1CEC3D41].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 51 [AonE Ani-Kraze][C28ACD34].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 52 [AonE Ani-Kraze][F3C040AF].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 53 [AonE Ani-Kraze][v2][13773816].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 54 [AonE Ani-Kraze][CE38CBB8].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 55 [AonE Ani-Kraze][A82F2689].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 56 [AonE Ani-Kraze][DCCF1157].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 57 [AonE Ani-Kraze][4A0F2361].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 58 [AonE Ani-Kraze][B52DA596].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 59 [AonE Ani-Kraze][445B9F11].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 60 [AonE Ani-Kraze][9EAF076D].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 61 [AonE Ani-Kraze][021D862A].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 62 [AonE Ani-Kraze][D219A8FE].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 63 [AonE Ani-Kraze][E77E552A].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 64 [AonE Ani-Kraze][A4EA15B2].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 65 [AonE Ani-Kraze][CB09CD52].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 66 [AonE Ani-Kraze][8C0C2D3A].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 67 [AonE Ani-Kraze][B0C9DA16].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 68 [AonE Ani-Kraze][51FA31DA].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 69 [AonE Ani-Kraze][6BFF2941].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 70 [AonE Ani-Kraze][4AD2621F].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 71 [AonE Ani-Kraze][5F733E93].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 72 [AonE Ani-Kraze][779DF236].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 73 [AonE Ani-Kraze][1A547108].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 74 [AonE Ani-Kraze][C591E3B1].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 75 [AonE Ani-Kraze][347FF26B].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 76 [AonE Ani-Kraze][B5389A67].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 77 [AonE Ani-Kraze][B00B6E41].avi
+complete/k/Kyou Kara Maou/Kyou Kara Maou - 78 [AonE Ani-Kraze][End][DCD5659A].avi
 complete/k/Kyou, Koi wo Hajimemasu OAD/[GX ST] Kyou, Koi wo Hajimemasu OAD [6C5DFFB5].mkv
 complete/k/Kyouran Kazoku Nikki/[SS-Eclipse] Kyouran Kazoku Nikki - 01 (1280x720) [E1608781].mkv
 complete/k/Kyouran Kazoku Nikki/[SS-Eclipse] Kyouran Kazoku Nikki - 02 (1280x720) [45EFCF50].mkv
@@ -12653,6 +12731,8 @@ complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 01 [v2 DVD][D0DC52CD].mkv
 complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 02 [v2 DVD][84DFC61C].mkv
 complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 03 [v2 DVD][DC99430D].mkv
 complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 04 [v2 DVD][C6F82DA1].mkv
+complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 05 [DVD][70F54A4D].mkv
+complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 06 [DVD][044195C2].mkv
 complete/s/Sayonara Zetsubou Sensei/[a.f.k.] Sayonara Zetsubou Sensei - 01 [FE83A1BD].avi
 complete/s/Sayonara Zetsubou Sensei/[a.f.k.] Sayonara Zetsubou Sensei - 02 [70C1ED5F].avi
 complete/s/Sayonara Zetsubou Sensei/[a.f.k.] Sayonara Zetsubou Sensei - 03 [C5F5E8C5].avi
