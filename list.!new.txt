@@ -56,7 +56,6 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
-!new/Detective Conan - 608 [DCTP][720p][323D802D].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -106,31 +105,6 @@
 !new/FF Unlimited/FFU23.avi
 !new/FF Unlimited/FFU24.avi
 !new/FF Unlimited/FFU25.avi
-!new/Final Fantasy Unlimited/[ACX]Final_Fantasy_Unlimited_-_01_-_Wonderland_Journey_into_the_Darkness_[ALI]_[ACD44A70].mkv
-!new/Final Fantasy Unlimited/[ACX]Final_Fantasy_Unlimited_-_02_-_Magun_Man_of_the_Black_Wind_[ALI]_[9E48E9D6].mkv
-!new/Final Fantasy Unlimited/[ACX]Final_Fantasy_Unlimited_-_03_-_Fruit_The_Town_of_Sweet_Scent_[ALI]_[43261023].mkv
-!new/Final Fantasy Unlimited/[ACX]Final_Fantasy_Unlimited_-_04_-_Makenshi_The_White_Etude_[ALI]_[1F7801D7].mkv
-!new/Final Fantasy Unlimited/[ACX]Final_Fantasy_Unlimited_-_05_-_Cid_The_adventure_of_the_Underground_Waterway_[ALI]_[749275F3].mkv
-!new/Final Fantasy Unlimited/[ACX]Final_Fantasy_Unlimited_-_06_-_Kigen_Arts_The_Savior_of_Souls_[ALI]_[7B55E458].mkv
-!new/Final Fantasy Unlimited/[ACX]Final_Fantasy_Unlimited_-_07_-_Subway_Enemy_of_the_Dimensional_Tunnel_[ALI]_[8EF13956].mkv
-!new/Final Fantasy Unlimited/[ACX]Final_Fantasy_Unlimited_-_08_-_Soil_The_Heart_of_the_Magun_[ALI]_[286CF454].mkv
-!new/Final Fantasy Unlimited/[ACX]Final_Fantasy_Unlimited_-_09_-_Oscha_The_Endless_Project_[ALI]_[AFF032E6].mkv
-!new/Final Fantasy Unlimited/[ACX]Final_Fantasy_Unlimited_-_10_-_Mansion_The_Memory_of_Sagiso_[ALI]_[4B7F788D].mkv
-!new/Final Fantasy Unlimited/[ACX]Final_Fantasy_Unlimited_-_11_-_Ciel_The_Departure_of_Chocobo_[ALI]_[679BBFD6].mkv
-!new/Final Fantasy Unlimited/[ACX]Final_Fantasy_Unlimited_-_12_-_Fungus_Etenal_Life_[ALI]_[D9502240].mkv
-!new/Final Fantasy Unlimited/[ACX]Final_Fantasy_Unlimited_-_13_-_Meteor_Abominable_Memory_[ALI]_[D305B506].mkv
-!new/Final Fantasy Unlimited/[ACX]Final_Fantasy_Unlimited_-_14_-_Omega_Reunion_and_Departure_[ALI]_[97CD17E1].mkv
-!new/Final Fantasy Unlimited/[ACX]Final_Fantasy_Unlimited_-_15_-_Jane_The_Moving_Ocean_Puzzle_[ALI]_[192A2F40].mkv
-!new/Final Fantasy Unlimited/[ACX]Final_Fantasy_Unlimited_-_16_-_Kigen_Dragon_Behind_the_Smile_[ALI]_[6E7EF8AD].mkv
-!new/Final Fantasy Unlimited/[ACX]Final_Fantasy_Unlimited_-_17_-_Frog_The_Smallest_Great_Adventure_[ALI]_[954D4642].mkv
-!new/Final Fantasy Unlimited/[ACX]Final_Fantasy_Unlimited_-_18_-_Madoushi_The_Battle_of_Kiri_and_Kumo_[ALI]_[DEC76B5C].mkv
-!new/Final Fantasy Unlimited/[ACX]Final_Fantasy_Unlimited_-_19_-_Ai_Meeting_with_Clear_[ALI]_[BA3C4E3A].mkv
-!new/Final Fantasy Unlimited/[ACX]Final_Fantasy_Unlimited_-_20_-_Yu_The_Secret_of_Gaudium_[ALI]_[859D1B13].mkv
-!new/Final Fantasy Unlimited/[ACX]Final_Fantasy_Unlimited_-_21_-_Cactus_The_Wandering_Sea_[ALI]_[47845928].mkv
-!new/Final Fantasy Unlimited/[ACX]Final_Fantasy_Unlimited_-_22_-_Moogle_Long_Lost_Memories_[ALI]_[9AF0E898].mkv
-!new/Final Fantasy Unlimited/[ACX]Final_Fantasy_Unlimited_-_23_-_Terso_In_Search_of_Flying_Water_[ALI]_[2D1D9777].mkv
-!new/Final Fantasy Unlimited/[ACX]Final_Fantasy_Unlimited_-_24_-_Chaos_The_Earl_Unveiled_[ALI]_[235D5A77].mkv
-!new/Final Fantasy Unlimited/[ACX]Final_Fantasy_Unlimited_-_25_-_Kaze_The_Glory_of_Life_[ALI]_[3969A1C2].mkv
 !new/Kamen Rider W Net Movies [W-Time].mkv
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_01_[Anime-Empire_&_Aoshi].avi
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_02_[Anime-Empire_&_Aoshi].avi
@@ -310,18 +284,6 @@
 !new/LG/logh gaiden eps 04-  - Central Anime (f74c1ecc) .avi
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].ENG.srt
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].avi
-!new/Maria+Holic/[Coalgirls]_Maria_Holic_01_(1280x720_Blu-ray_FLAC)_[6E78D792].mkv
-!new/Maria+Holic/[Coalgirls]_Maria_Holic_02_(1280x720_Blu-ray_FLAC)_[3A44EE3F].mkv
-!new/Maria+Holic/[Coalgirls]_Maria_Holic_03_(1280x720_Blu-ray_FLAC)_[6A0B1F64].mkv
-!new/Maria+Holic/[Coalgirls]_Maria_Holic_04_(1280x720_Blu-ray_FLAC)_[50110E0B].mkv
-!new/Maria+Holic/[Coalgirls]_Maria_Holic_05_(1280x720_Blu-ray_FLAC)_[F2A1BE3A].mkv
-!new/Maria+Holic/[Coalgirls]_Maria_Holic_06_(1280x720_Blu-ray_FLAC)_[395570F9].mkv
-!new/Maria+Holic/[Coalgirls]_Maria_Holic_07_(1280x720_Blu-ray_FLAC)_[311E5EF7].mkv
-!new/Maria+Holic/[Coalgirls]_Maria_Holic_08_(1280x720_Blu-ray_FLAC)_[024E7E1A].mkv
-!new/Maria+Holic/[Coalgirls]_Maria_Holic_09_(1280x720_Blu-ray_FLAC)_[A769B5B5].mkv
-!new/Maria+Holic/[Coalgirls]_Maria_Holic_10_(1280x720_Blu-ray_FLAC)_[357C263E].mkv
-!new/Maria+Holic/[Coalgirls]_Maria_Holic_11_(1280x720_Blu-ray_FLAC)_[303F694F].mkv
-!new/Maria+Holic/[Coalgirls]_Maria_Holic_12_(1280x720_Blu-ray_FLAC)_[116E0F75].mkv
 !new/Monster/[soldats] Monster - 01 [DBAEDFC8].avi
 !new/Monster/[soldats] Monster - 02 [1664D8A3].avi
 !new/Monster/[soldats] Monster - 03 [40ABE174].avi
@@ -706,10 +668,6 @@
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.sfv
 !new/Tenchi Universe/zx.tenchi-universe.01.divx5.ogm
 !new/[ASL]_μ's_Snow_halation_[FLAC]_[w_Scans].rar
-!new/[Ahodomo] Nichijou OVA [396p][F177F54D].mkv
-!new/[Commie] Level E - 10 [A6985717].mkv
-!new/[Commie] Making of Kuroshitsuji II - OVA [DVD 400p AAC] [C26F2C04].mkv
-!new/[Doremi].Motto.Ojamajo.Doremi.42.[CE56C19C].avi
 !new/[HorribleSubs] Fairy Tail - 70 [720p].mkv
 !new/[HorribleSubs] Lilpri - 49 [720p].mkv
 !new/[HorribleSubs] Rio - Rainbow Gate - 11 [720p].mkv
