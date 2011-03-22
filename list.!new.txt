@@ -56,6 +56,7 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Chibits.DVD(H264.AC3)[Apa][04DB494E].mkv
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -105,6 +106,45 @@
 !new/FF Unlimited/FFU23.avi
 !new/FF Unlimited/FFU24.avi
 !new/FF Unlimited/FFU25.avi
+!new/HajimeNoIppo(FightingSpirit)-Round01-TheFirstStep(anime-mx)[4F19CE3A].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round02-FruitsOfLabor(anime-mx)[A5E12753].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round03-TearsOfJoy(anime-mx)[E0A776B6].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round04-ShadowBoxing(anime-mx)[7DAD7B76].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round05-3MonthsToCounter(anime-mx)[9CAF9E66].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round06-TheOpeningBellOfTheRematch(anime-mx)[1CB6E0A6].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round07-TheDestructiveForceOf1cm(anime-mx)[EA57A5C2].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round08-PromiseToMeetAgain(anime-mx)[D68B9E88].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round09-CClassLicense(anime-mx)[EC2DDC0B].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round10-DebutMatch!(anime-mx)[3CBAF463].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round11-ObsessionForVictory(anime-mx)[A79C3B9A].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round12-BecomingABully'sBuddy(anime-mx)[0A3F413C].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round13-TheEasternJapanRookieChampionshipTournamentBegins(anime-mx)[D1FAC993].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round14-PowerfulArms!HookVs.Uppercut(anime-mx)[8826DC85].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round15-TestOfEndurance(anime-mx)[626F26E2].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round16-AnticipatingAFierceFight(anime-mx)[836F63DB].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round17-IppoOnTheBeach(anime-mx)[9198CD05].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round18-Clinch(anime-mx)[1607584C].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round19-DreamOfAKO(anime-mx)[EDABB147].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round20-TheThreatOfAShotgun(anime-mx)[380D1969].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round21-TheWayToCaptureAProdigy(anime-mx)[7784F8AE].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round22-Forward!Forward!!(anime-mx)[D4A78763].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round23-TheOtherSemi-Final(anime-mx)[4ED70614].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round24-ToThePromisedPlace...(anime-mx)[BDC822A5].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round25-Grudges,Sorrows&Dreams(anime-mx)[80EF9B4D].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round26-TheBattleforDistance(anime-mx)[FB59B25F].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round27-DeathMatch(anime-mx)[1A3B443D].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round28-VictoryorDefeat(anime-mx)[22589A52].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round29-RockyOfNaniwa(anime-mx)[2673D0B0].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round30-ToEnemyGround(anime-mx)[5ACB0D0D].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round31-TracesOfIntenseBattles(anime-mx)[A4FD870C].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round32-ThrowYourRight!(anime-mx)[24F62457].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round33-SmashForce(anime-mx)[99756EDF].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round34-TheRookieKing(anime-mx)[4CE1ED1B].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round35-TheContinuingJourney(anime-mx)[E9AD32AF].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round36-TheChampAndI(anime-mx)[A8F80DC2].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round37-AThingtoStriveFor(anime-mx)[1DDDD496].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round38-TwoRookiesOfTheYear(anime-mx)[DAF3B5FB].mkv
+!new/HajimeNoIppo(FightingSpirit)-Round39-ChallengeInAForeignLand(anime-mx)[B79C2A3A].mkv
 !new/Kamen Rider W Net Movies [W-Time].mkv
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_01_[Anime-Empire_&_Aoshi].avi
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_02_[Anime-Empire_&_Aoshi].avi
@@ -694,14 +734,26 @@
 !new/The Mars Daybreak/mars daybreak 24.mkv
 !new/The Mars Daybreak/mars daybreak 25.mkv
 !new/The Mars Daybreak/mars daybreak 26 [END]].mkv
+!new/[ANBU]_Dragon_Quest_-_07_[B40D5451].mkv
 !new/[ASL]_μ's_Snow_halation_[FLAC]_[w_Scans].rar
+!new/[Ayako-Shikkaku]_Oniichan_no_Koto_Nanka_Zenzen_Suki_Janain_Dakara_ne_-_11_[H264][720p][563BFB3F].mkv
+!new/[Coalgirls]_Dragon_Crisis_01_(1280x720_Blu-Ray_FLAC)_[A5D5DCD1].mkv
+!new/[Coalgirls]_Dragon_Crisis_02_(1280x720_Blu-Ray_FLAC)_[5B49A4DE].mkv
+!new/[Coalgirls]_Dragon_Crisis_NCED_(1280x720_Blu-Ray_FLAC)_[8D69808A].mkv
+!new/[Coalgirls]_Dragon_Crisis_NCOP_(1280x720_Blu-Ray_FLAC)_[11DCB896].mkv
+!new/[Doremi].HeartCatch.Movie.DVD.[1FAFA9BF].mkv
 !new/[HorribleSubs] Bleach - 313 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 10 [720p].mkv
+!new/[HorribleSubs] Dragon Crisis! - 10 [720p].mkv
+!new/[HorribleSubs] Dragon Crisis! - 11 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 70 [720p].mkv
+!new/[HorribleSubs] Fairy Tail - 71 [720p].mkv
+!new/[HorribleSubs] Kore wa Zombie desu ka - 10 [720p].mkv
 !new/[HorribleSubs] Lilpri - 49 [720p].mkv
 !new/[HorribleSubs] Rio - Rainbow Gate - 11 [720p].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 23 [720p].mkv
 !new/[HorribleSubs] Tegami Bachi REVERSE - 48 [720p].mkv
+!new/[KirA] Pom Poko [DVD][H.264-AAC][DFBEA5A9].mp4
 !new/[Kira-Fansub] Uchuu no Stellvia NCOP (BD H264 1280X960 24fps AAC) [04EAD8A3].mkv
 !new/[Kira-Fansub] Uchuu no Stellvia NCOP Episode 26 Version  (BD H264 1280x960 AAC) [0CEA525E].mkv
 !new/[Kira-Fansub] Uchuu no Stellvia ep 01 (BD H264 1280x960 24fps AAC) [04DA50A4].mkv
@@ -732,6 +784,16 @@
 !new/[Kira-Fansub] Uchuu no Stellvia ep 26 Final (BD H264 1280x960 24fps AAC) [730132A8].mkv
 !new/[Kira-Fanusb] Ushuu no Stellvia Main Menu (BD H264 1280X960 AAC) [7FDF6EFE].mkv
 !new/[Licca] Pollyanna Episode 04 (h.264) [C1E468AA].mkv
+!new/[Licca] Pollyanna Episode 05 (h.264) [89488B79].mkv
+!new/[Nutbladder]_Spelunker_is_a_teacher_-_ED_[7F325282].mkv
+!new/[Nutbladder]_Spelunker_is_a_teacher_-_OP_[445C424F].mkv
+!new/[Nutbladder]_Spelunker_is_a_teacher_-_PV1_[F9CECE0B].mkv
+!new/[Nutbladder]_Spelunker_is_a_teacher_-_PV2_[2198BBA5].mkv
+!new/[Nutbladder]_Spelunker_is_a_teacher_-_PV3_[EA1EF09E].mkv
+!new/[Nutbladder]_Spelunker_is_a_teacher_-_PV4_[35316DF7].mkv
+!new/[Nutbladder]_Spelunker_is_a_teacher_-_PV5_[C432FC45].mkv
+!new/[Nyoro~n Subs] NG Knight Lamune and 40 -08 [D7A8CB00].mkv
+!new/[Nyoro~n Subs] NG Knight Lamune and 40 -09 [E7F97E4C].mkv
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
 !new/[OVA-1991] Kimagure Orange Road Rouge no Dengon/Kimagure_Orange_Road__Rouge_no_Dengon_-_1[1]_-_OVA_[640x480][DVD][bishi][875962B1].avi
 !new/[OVA-1992] Giant Robo/Giant_Robo_-_1[7]_-_The_Black_Attache_Case_[704x480][DVD][G_P][DD833BF2].mkv
@@ -745,7 +807,40 @@
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_2[3]_-_On_Stage_[640x480][DVD][CA][4172F5FF].mkv
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_3[3]_-_Which_One_Do_You_Love__[640x480][DVD][CA][D01B97BF].mkv
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_S01[3]_-_Macross_7_P-L-U-S__Mylene_[640x480][LD][CA][C1C8471F].avi
+!new/[RaX]Chobits_(x264_aac).sfv
+!new/[RaX]Chobits_-_01_-_Chi_Awakens_(x264_aac)_[D1E69FA3].mkv
+!new/[RaX]Chobits_-_02_-_Chi_Goes_Out_(x264_acc)_[F4351C3E].mkv
+!new/[RaX]Chobits_-_03_-_Chi_Learns_(x264_aac)_[832CB410].mkv
+!new/[RaX]Chobits_-_04_-_Chi_Goes_on_Errands_(x264_aac)_[1CD6F697].mkv
+!new/[RaX]Chobits_-_05_-_Chi_Finds_(x264_aac)_[67391E64].mkv
+!new/[RaX]Chobits_-_06_-_Chi_Weakens_(x264_aac)_[EC0BA99E].mkv
+!new/[RaX]Chobits_-_07_-_Chi_Works_(x264_aac)_[C89D3D8B].mkv
+!new/[RaX]Chobits_-_08_-_Chi_Bewildered_(x264_aac)_[0DF20B65].mkv
+!new/[RaX]Chobits_-_09_-_Chi_Buys_(x264_aac)_[0D192D28].mkv
+!new/[RaX]Chobits_-_09`5_-_Shinbo_and_Sumomo_Chat_(x264_aac)_[3ECBEFA7].mkv
+!new/[RaX]Chobits_-_10_-_Chi_Meets_(x264_aac)_[1384A3AE].mkv
+!new/[RaX]Chobits_-_11_-_Chi_Confirms_(x264_aac)_[150DE392].mkv
+!new/[RaX]Chobits_-_12_-_Chi_Plays_(x264_aac)_[BE451D01].mkv
+!new/[RaX]Chobits_-_13_-_Chi_Goes_to_the_Ocean_(x264_aac)_[293C79CD].mkv
+!new/[RaX]Chobits_-_14_-_Chi_Entertains_(x264_aac)_[4F468C5B].mkv
+!new/[RaX]Chobits_-_15_-_Chi_Doesn't_Do_Anything_(x264_aac)_[19CC441D].mkv
+!new/[RaX]Chobits_-_16_-_Chi_Provides_(x264_aac)_[A5B7BFDC].mkv
+!new/[RaX]Chobits_-_17_-_Chi_Helps_(x264_aac)_[38355DF8].mkv
+!new/[RaX]Chobits_-_18_-_Chi_Disappears_(x264_aac)_[A5ADDF76].mkv
+!new/[RaX]Chobits_-_18`5_-_Minoru_and_Yuzuki_Chat_(x264_aac)_[EEF6A910].mkv
+!new/[RaX]Chobits_-_19_-_Chi_Waits_(x264_aac)_[5BB282FF].mkv
+!new/[RaX]Chobits_-_20_-_Chi_Wants_(x264_aac)_[0DDEB306].mkv
+!new/[RaX]Chobits_-_21_-_Chi_Answers_(x264_aac)_[1DECD911].mkv
+!new/[RaX]Chobits_-_22_-_Chi_Wears_and_Takes_Off_(x264_aac)_[ACF15A6F].mkv
+!new/[RaX]Chobits_-_23_-_Chi_Decides_(x264_aac)_[7D813175].mkv
+!new/[RaX]Chobits_-_24_-_The_Person_Only_for_Chi_(x264_aac)_[8C32EDB3].mkv
+!new/[RaX]Chobits_-_24`5_Hibiya_and_Kotoko_Chat_(x264_aac)_[3B16FD93].mkv
+!new/[ReDone] Soul Link - 04 (DVD) [DF816970].mkv
+!new/[RyRo]_Inazuma_Eleven_-_121_(704x396)_[B4274438].mkv
+!new/[RyRo]_Inazuma_Eleven_-_122_(704x396)_[4BA75F6B].mkv
 !new/[SMS] Starry Sky - 13 [07355288].mkv
+!new/[SubDesu] Air Gear 02 - Kuro no Hane to Nemuri no Mori -Break on the sky [a1d0fe7a].mkv
+!new/[SubDesu] Bakuman - 23 (1280x720)[365d0f2c].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -987,6 +1082,8 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[UTW]_Fractale_-_09_[h264-720p][93ABAA98].mkv
 !new/[Weapon+] Wolverine - 10 [50271D2C].mkv
+!new/[Yoroshiku]_Happy_Happy_Clover_-_13_[F98CECCD].mkv
+!new/[gg]_Star_Driver_-_23_[57362382].mkv
 !new/[umee]_Wandering_Son_-_09_[8E9AE2B2].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
