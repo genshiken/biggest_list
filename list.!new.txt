@@ -794,6 +794,7 @@
 !new/[Coalgirls]_Dragon_Crisis_NCED_(1280x720_Blu-Ray_FLAC)_[8D69808A].mkv
 !new/[Coalgirls]_Dragon_Crisis_NCOP_(1280x720_Blu-Ray_FLAC)_[11DCB896].mkv
 !new/[Doremi].HeartCatch.Movie.DVD.[1FAFA9BF].mkv
+!new/[GotWoot]_Onii-chan_no_Koto_..._11_[720p][F5D95704].mkv
 !new/[HorribleSubs] Bleach - 313 [720p].mkv
 !new/[HorribleSubs] Bleach - 314 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 10 [720p].mkv
@@ -893,8 +894,13 @@
 !new/[ReDone] Soul Link - 04 (DVD) [DF816970].mkv
 !new/[RyRo]_Inazuma_Eleven_-_121_(704x396)_[B4274438].mkv
 !new/[RyRo]_Inazuma_Eleven_-_122_(704x396)_[4BA75F6B].mkv
+!new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 07 [1080p - Bluray][C7E6D01F].mkv
+!new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 08 [1080p - Bluray][BFF2FF46].mkv
+!new/[Ryuumaru] Hyakka Ryouran Samurai Girls - Special 04 [720p][DD9F8143].mkv
 !new/[SHiN-gx] Working!! - 12 [DVD][720x480 AR h.264 AAC][7D9AC9FB].mkv
 !new/[SMS] Starry Sky - 13 [07355288].mkv
+!new/[SS] Gosick - 07 (1280x720 h264) [3A317CC7].mkv
+!new/[SS] Infinite Stratos - 07 (1280x720 h264) [13C2D820].mkv
 !new/[SubDesu] Air Gear 02 - Kuro no Hane to Nemuri no Mori -Break on the sky [a1d0fe7a].mkv
 !new/[SubDesu] Bakuman - 23 (1280x720)[365d0f2c].mkv
 !new/[TMD_A-Destiny]_Bakuman_23_[720p][FC6F5775].mkv
@@ -1139,6 +1145,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[UTW]_Fractale_-_09_[h264-720p][93ABAA98].mkv
 !new/[Yoroshiku]_Happy_Happy_Clover_-_13_[F98CECCD].mkv
+!new/[gg]_Kimi_ni_Todoke_2nd_Season_-_10_-_Earthquake_Edition_[E89A57BD].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
