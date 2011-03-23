@@ -824,6 +824,7 @@
 !new/[Kira-Fanusb] Ushuu no Stellvia Main Menu (BD H264 1280X960 AAC) [7FDF6EFE].mkv
 !new/[Licca] Pollyanna Episode 04 (h.264) [C1E468AA].mkv
 !new/[Licca] Pollyanna Episode 05 (h.264) [89488B79].mkv
+!new/[Mamiko_SHiN] Kaibutsu Oujo OVA - 01 [DVD][720x480 AR h.264 AAC][EEE2827C].mkv
 !new/[Nutbladder]_Spelunker_is_a_teacher_-_ED_[7F325282].mkv
 !new/[Nutbladder]_Spelunker_is_a_teacher_-_OP_[445C424F].mkv
 !new/[Nutbladder]_Spelunker_is_a_teacher_-_PV1_[F9CECE0B].mkv
@@ -877,9 +878,11 @@
 !new/[ReDone] Soul Link - 04 (DVD) [DF816970].mkv
 !new/[RyRo]_Inazuma_Eleven_-_121_(704x396)_[B4274438].mkv
 !new/[RyRo]_Inazuma_Eleven_-_122_(704x396)_[4BA75F6B].mkv
+!new/[SHiN-gx] Working!! - 12 [DVD][720x480 AR h.264 AAC][7D9AC9FB].mkv
 !new/[SMS] Starry Sky - 13 [07355288].mkv
 !new/[SubDesu] Air Gear 02 - Kuro no Hane to Nemuri no Mori -Break on the sky [a1d0fe7a].mkv
 !new/[SubDesu] Bakuman - 23 (1280x720)[365d0f2c].mkv
+!new/[TMD_A-Destiny]_Bakuman_23_[720p][FC6F5775].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
