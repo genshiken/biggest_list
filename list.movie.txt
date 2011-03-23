@@ -101,6 +101,7 @@ movie/Keroro Gunsou/[Keroro] Keroro Gunsou - Movie 3 [CC0F1970].mkv
 movie/Kiddy Grade/[Coalgirls] Kiddy Grade - Movie 1 [720p BD][40B97392].mkv
 movie/Kiddy Grade/[Coalgirls] Kiddy Grade - Movie 2 [720p BD][05DC1194].mkv
 movie/Kiddy Grade/[Coalgirls] Kiddy Grade - Movie 3 [720p BD][90D00827].mkv
+movie/Kiki's Delivery Service/Kiki's Delivery Service [niizk][3A529797].mkv
 movie/Kimagure Orange Road/[bishi] Kimagure Orange Road - Hurricane! Henshin Shoujo Akane [DVD][0E10A7E6].avi
 movie/Kimagure Orange Road/[bishi] Kimagure Orange Road - I Want to Return to That Day [DVD][5D5C8BB2].avi
 movie/Kimagure Orange Road/[bishi] Kimagure Orange Road - Koi no Stage = Heart on Fire! Haru wa Idol! [DVD][8C69265D].avi
@@ -192,7 +193,7 @@ movie/Touch/[Nexus] Touch 2 [C6396C54].avi
 movie/Touch/[Nexus] Touch 3 [FBFB9072].avi
 movie/Touch/[Nexus] Touch [83A7DB30].avi
 movie/Welcome to the Space Show/[Lambda-Delta] Welcome to the Space Show [720p][D040A850].mkv
-movie/Whisper of the Heart/[niizk] Whisper of the Heart [v2][2D11DBE2].mkv
+movie/Whisper of the Heart/Whisper of the Heart [niizk][v2][2D11DBE2].mkv
 movie/Zeta Gundam/[T-N] Zeta Gundam - Movie 1 [8F112ECE].avi
 movie/Zeta Gundam/[T-N] Zeta Gundam - Movie 2 [906E55BD].avi
 movie/Zeta Gundam/[T-N] Zeta Gundam - Movie 3 [D906DC63].avi
