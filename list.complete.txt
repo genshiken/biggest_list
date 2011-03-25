@@ -211,7 +211,6 @@ complete/a/Aika/[niizk] Aika - 4.5 [31F5DF18].mkv
 complete/a/Aika/[niizk] Aika - 5 [A7DA378A].mkv
 complete/a/Aika/[niizk] Aika - 6 [981E68BE].mkv
 complete/a/Aika/[niizk] Aika - 7 [End][7A75FB3D].mkv
-complete/a/Air Gear OVA/[Commie] Air Gear OVA [DVD][EE062B76].mkv
 complete/a/Air Gear/[Kyuu] Air Gear - 01 [68648CD6].avi
 complete/a/Air Gear/[Kyuu] Air Gear - 02 [45CCFC74].avi
 complete/a/Air Gear/[Kyuu] Air Gear - 03 [5DFF2C80].avi
@@ -2065,6 +2064,33 @@ complete/c/Chi's Sweet Home/[Yoroshiku] Chi's Sweet Home - 96 [627F3FBB].mkv
 complete/c/Chi's Sweet Home/[Yoroshiku] Chi's Sweet Home - 97 [58A5A9F2].mkv
 complete/c/Chi's Sweet Home/[Yoroshiku] Chi's Sweet Home - 98 [D81D2A7A].mkv
 complete/c/Chi's Sweet Home/[Yoroshiku] Chi's Sweet Home - 99 [9FBA1CCE].mkv
+complete/c/Chobits/[RaX] Chobits - 01 [D1E69FA3].mkv
+complete/c/Chobits/[RaX] Chobits - 02 [F4351C3E].mkv
+complete/c/Chobits/[RaX] Chobits - 03 [832CB410].mkv
+complete/c/Chobits/[RaX] Chobits - 04 [1CD6F697].mkv
+complete/c/Chobits/[RaX] Chobits - 05 [67391E64].mkv
+complete/c/Chobits/[RaX] Chobits - 06 [EC0BA99E].mkv
+complete/c/Chobits/[RaX] Chobits - 07 [C89D3D8B].mkv
+complete/c/Chobits/[RaX] Chobits - 08 [0DF20B65].mkv
+complete/c/Chobits/[RaX] Chobits - 09 [0D192D28].mkv
+complete/c/Chobits/[RaX] Chobits - 09.5 [3ECBEFA7].mkv
+complete/c/Chobits/[RaX] Chobits - 10 [1384A3AE].mkv
+complete/c/Chobits/[RaX] Chobits - 11 [150DE392].mkv
+complete/c/Chobits/[RaX] Chobits - 12 [BE451D01].mkv
+complete/c/Chobits/[RaX] Chobits - 13 [293C79CD].mkv
+complete/c/Chobits/[RaX] Chobits - 14 [4F468C5B].mkv
+complete/c/Chobits/[RaX] Chobits - 15 [19CC441D].mkv
+complete/c/Chobits/[RaX] Chobits - 16 [A5B7BFDC].mkv
+complete/c/Chobits/[RaX] Chobits - 17 [38355DF8].mkv
+complete/c/Chobits/[RaX] Chobits - 18 [A5ADDF76].mkv
+complete/c/Chobits/[RaX] Chobits - 18.5 [EEF6A910].mkv
+complete/c/Chobits/[RaX] Chobits - 19 [5BB282FF].mkv
+complete/c/Chobits/[RaX] Chobits - 20 [0DDEB306].mkv
+complete/c/Chobits/[RaX] Chobits - 21 [1DECD911].mkv
+complete/c/Chobits/[RaX] Chobits - 22 [ACF15A6F].mkv
+complete/c/Chobits/[RaX] Chobits - 23 [7D813175].mkv
+complete/c/Chobits/[RaX] Chobits - 24 [End][8C32EDB3].mkv
+complete/c/Chobits/[RaX] Chobits - 24.5 [3B16FD93].mkv
 complete/c/Chocotto Sister/[Retrofit-Ryo] Chocotto Sister - 01 [18A3D48C].mkv
 complete/c/Chocotto Sister/[Retrofit-Ryo] Chocotto Sister - 02 [ECC69768].mkv
 complete/c/Chocotto Sister/[Retrofit-Ryo] Chocotto Sister - 03 [90D3C2CA].mkv
@@ -3255,6 +3281,20 @@ complete/e/Element Hunters/[DB] Element Hunters - 39 [End][929E4EAB].avi
 complete/e/Element Hunters/[gleam] Element Hunters - 01 (1280x720) [v2][8FB65DAA].mkv
 complete/e/Element Hunters/[gleam] Element Hunters - 02 (1280x720) [42D0606F].mkv
 complete/e/Element Hunters/[gleam] Element Hunters - 03 (1280x720) [AF7B5286].mkv
+complete/e/Elfen Lied OVA/[AnY] Elfen Lied OVA [B10E27A5].avi
+complete/e/Elfen Lied/[anime-fin] Elfen Lied - 01 [3B471CC1].avi
+complete/e/Elfen Lied/[anime-fin] Elfen Lied - 02 [3040C6A7].avi
+complete/e/Elfen Lied/[anime-fin] Elfen Lied - 03 [90A74D65].avi
+complete/e/Elfen Lied/[anime-fin] Elfen Lied - 04 [0B436C51].avi
+complete/e/Elfen Lied/[anime-fin] Elfen Lied - 05 [707BEB1F].avi
+complete/e/Elfen Lied/[anime-fin] Elfen Lied - 06 [DA3F18E8].avi
+complete/e/Elfen Lied/[anime-fin] Elfen Lied - 07 [94CDD5C9].avi
+complete/e/Elfen Lied/[anime-fin] Elfen Lied - 08 [41830F32].avi
+complete/e/Elfen Lied/[anime-fin] Elfen Lied - 09 [6E16BE10].avi
+complete/e/Elfen Lied/[anime-fin] Elfen Lied - 10 [0DFE0CC6].avi
+complete/e/Elfen Lied/[anime-fin] Elfen Lied - 11 [C46FE1CE].avi
+complete/e/Elfen Lied/[anime-fin] Elfen Lied - 12 [9D3987ED].avi
+complete/e/Elfen Lied/[anime-fin] Elfen Lied - 13 [End][CEA080DA].avi
 complete/e/Emily of New Moon/[dp] Emily of New Moon - 01 [E1574F2F].mkv
 complete/e/Emily of New Moon/[dp] Emily of New Moon - 02 [FFD49512].mkv
 complete/e/Emily of New Moon/[dp] Emily of New Moon - 03 [C3457BD7].mkv
@@ -6268,8 +6308,8 @@ complete/h/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls 
 complete/h/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls - 04 [1080p BD][A538CBF3].mkv
 complete/h/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls - 05 [1080p BD][9AAF9159].mkv
 complete/h/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls - 06 [1080p BD][79DED96B].mkv
-complete/h/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls - 07 [v2 720p][805B467C].mkv
-complete/h/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls - 08 [720p][6D8A2036].mkv
+complete/h/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls - 07 [1080p BD][C7E6D01F].mkv
+complete/h/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls - 08 [1080p BD][BFF2FF46].mkv
 complete/h/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls - 09 [720p][780DDF54].mkv
 complete/h/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls - 10 [720p][E3C16858].mkv
 complete/h/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls - 11 [720p][AAECD442].mkv
@@ -6816,6 +6856,7 @@ complete/j/Juusoukikou Dancouga Nova/[Shinsen-Subs] Juusoukikou Dancouga Nova - 
 complete/k/K-ON! OVA/[CoalGuys] K-ON! - 14 OVA [72A0FDDB].mkv
 complete/k/K-ON! OVA/[Frostii] K-ON! - 14 OVA [BD][1A8A95B5].mkv
 complete/k/K-ON! OVA/[Frostii] K-ON! - 14 OVA [v2][BD][5D2BFA03].mkv
+complete/k/K-ON!! OVA/[CoalGuys] K-ON!! - 27 OVA [D0A9F608].mkv
 complete/k/K-ON!!/[Frostii] K-ON!! - 01 [A4D58BA0].mkv
 complete/k/K-ON!!/[Frostii] K-ON!! - 02 [CBE8AFDC].mkv
 complete/k/K-ON!!/[Frostii] K-ON!! - 03 [6585A6D6].mkv
@@ -12758,6 +12799,8 @@ complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 03 [v2 DVD][DC99430D].mkv
 complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 04 [v2 DVD][C6F82DA1].mkv
 complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 05 [DVD][70F54A4D].mkv
 complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 06 [DVD][044195C2].mkv
+complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 07 [DVD][EDCB39C9].mkv
+complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 08 [DVD][CF682C45].mkv
 complete/s/Sayonara Zetsubou Sensei/[a.f.k.] Sayonara Zetsubou Sensei - 01 [FE83A1BD].avi
 complete/s/Sayonara Zetsubou Sensei/[a.f.k.] Sayonara Zetsubou Sensei - 02 [70C1ED5F].avi
 complete/s/Sayonara Zetsubou Sensei/[a.f.k.] Sayonara Zetsubou Sensei - 03 [C5F5E8C5].avi
@@ -13896,8 +13939,8 @@ complete/s/Soul Eater/[Tsubaki-Hatsuyuki] Soul Eater - 50 (1280x720) [268A1FF4].
 complete/s/Soul Eater/[Tsubaki-Hatsuyuki] Soul Eater - 51 (1280x720) [End][E3C330EB].mkv
 complete/s/Soul Link/[ReDone] Soul Link - 01 [DVD][D3C267CC].mkv
 complete/s/Soul Link/[ReDone] Soul Link - 02 [DVD][21300891].mkv
+complete/s/Soul Link/[ReDone] Soul Link - 04 [DVD][DF816970].mkv
 complete/s/Soul Link/[yesy] Soul Link - 03 [25FEE513].avi
-complete/s/Soul Link/[yesy] Soul Link - 04 [75C61444].avi
 complete/s/Soul Link/[yesy] Soul Link - 05 [9123F785].avi
 complete/s/Soul Link/[yesy] Soul Link - 06 [4435E1F4].avi
 complete/s/Soul Link/[yesy] Soul Link - 07 [9A6BBABC].avi
@@ -14027,6 +14070,35 @@ complete/s/Star Ocean EX/[AHQ] Star Ocean EX - 23 [2EB5A352].mkv
 complete/s/Star Ocean EX/[AHQ] Star Ocean EX - 24 [314C0F79].mkv
 complete/s/Star Ocean EX/[AHQ] Star Ocean EX - 25 [24C005C7].mkv
 complete/s/Star Ocean EX/[AHQ] Star Ocean EX - 26 [End][6C30E8B9].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - 01 [960p BD][04DA50A4].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - 02 [960p BD][F2142380].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - 03 [960p BD][8606C41B].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - 04 [960p BD][6E36778B].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - 05 [960p BD][045D6CDC].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - 06 [960p BD][E78C7129].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - 07 [960p BD][BE9BA4F3].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - 08 [960p BD][357B26A4].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - 09 [960p BD][A3B2ECFF].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - 10 [960p BD][2213F06C].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - 11 [960p BD][68FED81C].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - 12 [960p BD][BFCFD3A6].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - 13 [960p BD][9D15E2E1].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - 14 [960p BD][06EE7355].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - 15 [960p BD][657931D1].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - 16 [960p BD][9505C345].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - 17 [960p BD][1F4C5C39].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - 18 [960p BD][D93A52D0].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - 19 [v2 960p BD][ECB77166].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - 20 [960p BD][26D2B63A].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - 21 [960p BD][1A801BF6].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - 22 [960p BD][0FAF3F63].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - 23 [960p BD][ED20D87F].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - 24 [960p BD][C1539DDA].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - 25 [960p BD][529200AF].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - 26 [End][960p BD][730132A8].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - Main Menu [960p BD][7FDF6EFE].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - Opening 1 [960p BD][04EAD8A3].mkv
+complete/s/Stellvia/[Kira-Fansub] Stellvia - Opening 2 [960p BD][0CEA525E].mkv
 complete/s/Strait Jacket/[Ureshii] Strait Jacket - 1 [DVD][2BCA92CD].mkv
 complete/s/Strait Jacket/[Ureshii] Strait Jacket - 2 [DVD][AF16266D].mkv
 complete/s/Strait Jacket/[Ureshii] Strait Jacket - 3 [End][DVD][EC7B7F95].mkv
@@ -15980,7 +16052,6 @@ complete/w/Witchblade/[Makoto] Witchblade - 21 [DVD][E2FE4D81].mkv
 complete/w/Witchblade/[Makoto] Witchblade - 22 [DVD][6354DB77].mkv
 complete/w/Witchblade/[Makoto] Witchblade - 23 [DVD][1D4E6CED].mkv
 complete/w/Witchblade/[Makoto] Witchblade - 24 [End][DVD][FAEB8F27].mkv
-complete/w/Working!!/[FFFpeeps] Working!! - 12 [8F468685].mkv
 complete/w/Working!!/[Himatsubushi] Working!! - 13 [End][5AE519C5].mkv
 complete/w/Working!!/[SHiN-gx] Working!! - 01 [DVD][B4E8CBC0].mkv
 complete/w/Working!!/[SHiN-gx] Working!! - 02 [DVD][053BAC1C].mkv
@@ -15993,6 +16064,7 @@ complete/w/Working!!/[SHiN-gx] Working!! - 08 [DVD][61990CB0].mkv
 complete/w/Working!!/[SHiN-gx] Working!! - 09 [DVD][603890D0].mkv
 complete/w/Working!!/[SHiN-gx] Working!! - 10 [DVD][F1F96D88].mkv
 complete/w/Working!!/[SHiN-gx] Working!! - 11 [DVD][C14367B1].mkv
+complete/w/Working!!/[SHiN-gx] Working!! - 12 [DVD][7D9AC9FB].mkv
 complete/w/World Destruction/[Osu!] World Destruction - 01 (1280x720) [84AF69E2].mkv
 complete/w/World Destruction/[Osu!] World Destruction - 02 (1280x720) [BFFE1AF9].mkv
 complete/w/World Destruction/[Osu!] World Destruction - 03 [EEEB75A8].mkv

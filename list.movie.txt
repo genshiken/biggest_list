@@ -75,6 +75,7 @@ movie/Gundam 00 - A wakening of the Trailblazer/[gSS] Gundam 00 - A wakening of 
 movie/Gundam SEED CE73 Stargazer/[Mendoi] Gundam SEED CE73 Stargazer [DVD][DE19D759].mp4
 movie/Gundam Wing Endless Waltz/[EG] Gundam Wing Endless Waltz Remastered [v2][49A7A358].mkv
 movie/Haruka Naru Toki no Naka de - Maihitoyo/[C1] Haruka Naru Toki no Naka de - Maihitoyo [97889F2C].mkv
+movie/HeartCatch Movie/[Doremi] HeartCatch Movie [DVD][1FAFA9BF].mkv
 movie/Hoshi no Koe - Voices of a Distant Star/[niizk] Hoshi no Koe - Voices of a Distant Star [54929BA5].mkv
 movie/Hoshi no Koe/[KAA] Hoshi no Koe [3E86A406].mkv
 movie/Howl's Moving Castle (2004)/[THORA] Howl's Moving Castle (2004) (1280x720) [2EA73143].mkv
@@ -87,9 +88,13 @@ movie/Inuyasha/[BluDragon] Inuyasha - Movie 3 [DVD][729CFBDD].mkv
 movie/Inuyasha/[BluDragon] Inuyasha - Movie 4 [DVD][ED7FAAFB].mkv
 movie/Junkers Come Here/[niizk] Junkers Come Here [DBAC403C].mkv
 movie/Kaiketsu Zorori/[Alopex] Kaiketsu Zorori [6C93DF0F].mkv
-movie/Kara no Kyoukai/[66] Kara no Kyoukai - Chapter 4 - Void Shrine [720p BD][8A24AC6C].mkv
-movie/Kara no Kyoukai/[66] Kara no Kyoukai - Epilogue [4B3A8EDF].mkv
 movie/Kara no Kyoukai/[HACK-JOB] Kara no Kyoukai - The Garden of Sinners - Remix - Gate of Seventh Heaven [1080p][EADB7656].mkv
+movie/Kara no Kyoukai/[Pretentious] Kara no Kyoukai - 1 [720p BD][BE3C87AD].mkv
+movie/Kara no Kyoukai/[Pretentious] Kara no Kyoukai - 2 [720p BD][AD5716B9].mkv
+movie/Kara no Kyoukai/[Pretentious] Kara no Kyoukai - 3 [720p BD][F9834902].mkv
+movie/Kara no Kyoukai/[Pretentious] Kara no Kyoukai - 4 [720p BD][8A24AC6C].mkv
+movie/Kara no Kyoukai/[Pretentious] Kara no Kyoukai - 6 [720p BD][9CEB2A18].mkv
+movie/Kara no Kyoukai/[Pretentious] Kara no Kyoukai - Epilogue [4B3A8EDF].mkv
 movie/Kara no Kyoukai/[gg-TakaJun] Kara no Kyoukai - Chapter 1 - Overlooking View [v2][3F2E8FEA].mkv
 movie/Kara no Kyoukai/[gg-TakaJun] Kara no Kyoukai - Chapter 2 - Murder Study (Part 1) [v2][665EB12C].mkv
 movie/Kara no Kyoukai/[gg-TakaJun] Kara no Kyoukai - Chapter 3 - Remaining Sense of Pain [8ED4206B].mkv
@@ -157,6 +162,7 @@ movie/Patlabor WXIII/[THORA] Patlabor WXIII [BD][5B5DB50F].mkv
 movie/Piano no Mori/[Live-eviL] Piano no Mori [9932815F].mkv
 movie/Planzet/[ANBU] Planzet [12EF5EDB].mkv
 movie/Pokemon/[RG-RyRo] Pokemon - AG Movie 3 [DVD][E4AF749A].mkv
+movie/Pom Poko/[KirA] Pom Poko [DVD][DFBEA5A9].mp4
 movie/Ponyo on the Cliff by the Sea/[niizk] Ponyo on the Cliff by the Sea (1920x1040) [0DF075A4].mkv
 movie/Porco Rosso/[niizk] Porco Rosso [24FEEEAA].mkv
 movie/Precure All Stars DX2/[T-N] Precure All Stars DX2 [8B37B1EE].mp4
@@ -180,6 +186,7 @@ movie/Summer Wars/[Frostii] Summer Wars (1280x720) [BD][9B12BBFA].mkv
 movie/Super Mario Anime Pack/[m.3.3.w] Super Mario Anime Pack [4FA346BC].mkv
 movie/Suzumiya Haruhi no Shoushitsu/[Mazui] Suzumiya Haruhi no Shoushitsu [1080p][3E0D82AE].mkv
 movie/Sword of the Stranger/[Yoroshiku-THORA] Sword of the Stranger (1920x1080) [BD][5EAEEB95].mkv
+movie/Tailenders/[Frostii] Tailenders [v2][B1AC5127].mkv
 movie/Tales of Vesperia - The First Strike/[YAE-AbyssalChronicles] Tales of Vesperia - The First Strike (1920x1080) [BD][CE4CE46B].mkv
 movie/Tengen Toppa Gurren Lagann The Movie/[BSS] Tengen Toppa Gurren Lagann The Movie - Gurren-hen [74C3E9D3].mkv
 movie/Tengen Toppa Gurren Lagann The Movie/[BSS] Tengen Toppa Gurren Lagann The Movie - Lagann-hen [8A75A457].mkv
