@@ -80,6 +80,7 @@
 !new/Dragon Ball/Movie - 06 - Return Of Cooler.rmvb
 !new/Dragon Ball/Movie - 08 - Broly The Legendary Super Saiyan.rmvb
 !new/Dragon Ball/Movie - 09 - Bojack Unbound.rmvb
+!new/Elfen Lied - 10.5 - RainShower (anime-mx) [9E462154].mkv
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_01_[Anime-Empire_&_Aoshi].avi
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_02_[Anime-Empire_&_Aoshi].avi
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_03_[Anime-Empire_&_Aoshi].avi
@@ -755,6 +756,22 @@
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.nfo
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.sfv
 !new/Tenchi Universe/zx.tenchi-universe.01.divx5.ogm
+!new/[AKH-Anisubs] Elfen Lied 01 [H.264.AC3][5B625F28].mkv
+!new/[AKH-Anisubs] Elfen Lied 02 [H.264.AC3][38B58188].mkv
+!new/[AKH-Anisubs] Elfen Lied 03 [H.264.AC3][EE17D4FD].mkv
+!new/[AKH-Anisubs] Elfen Lied 04 [H.264.AC3][72E9C889].mkv
+!new/[AKH-Anisubs] Elfen Lied 05 [H.264.AC3][A588131A].mkv
+!new/[AKH-Anisubs] Elfen Lied 06 [H.264.AC3][DF87E476].mkv
+!new/[AKH-Anisubs] Elfen Lied 07 [H.264.AC3][6DA9133A].mkv
+!new/[AKH-Anisubs] Elfen Lied 08 [H.264.AC3][D6F47238].mkv
+!new/[AKH-Anisubs] Elfen Lied 09 [H.264.AC3][10578682].mkv
+!new/[AKH-Anisubs] Elfen Lied 10 [H.264.AC3][8F78A817].mkv
+!new/[AKH-Anisubs] Elfen Lied 11 [H.264.AC3][A32036FE].mkv
+!new/[AKH-Anisubs] Elfen Lied 12 [H.264.AC3][4D70C934].mkv
+!new/[AKH-Anisubs] Elfen Lied 13 [H.264.AC3][26DA2FF4].mkv
+!new/[AKH-Anisubs] Elfen Lied ED [H.264.AC3][9B95FA72].mkv
+!new/[AKH-Anisubs] Elfen Lied OP [H.264.AC3][804D7097].mkv
+!new/[Coalgirls]_Professor_Layton_and_the_Eternal_Diva_(1920x1080_Blu-ray_FLAC)_[9EC049E2].mkv
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
 !new/[OVA-1991] Kimagure Orange Road Rouge no Dengon/Kimagure_Orange_Road__Rouge_no_Dengon_-_1[1]_-_OVA_[640x480][DVD][bishi][875962B1].avi
 !new/[OVA-1992] Giant Robo/Giant_Robo_-_1[7]_-_The_Black_Attache_Case_[704x480][DVD][G_P][DD833BF2].mkv
