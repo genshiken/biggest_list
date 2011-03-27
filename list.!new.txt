@@ -56,8 +56,6 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
-!new/Create.bat
-!new/Detective Conan 396 [Kienai][89E40A09].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -260,81 +258,6 @@
 !new/LG/logh gaiden eps 04-  - Central Anime (f74c1ecc) .avi
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].ENG.srt
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].avi
-!new/Monster/[soldats] Monster - 01 [DBAEDFC8].avi
-!new/Monster/[soldats] Monster - 02 [1664D8A3].avi
-!new/Monster/[soldats] Monster - 03 [40ABE174].avi
-!new/Monster/[soldats] Monster - 04 [5EF5488A].avi
-!new/Monster/[soldats] Monster - 05 [109F968D].avi
-!new/Monster/[soldats] Monster - 06 [BC2993F6].avi
-!new/Monster/[soldats] Monster - 07 [9684C206].avi
-!new/Monster/[soldats] Monster - 08 [3C12BAD6].avi
-!new/Monster/[soldats] Monster - 09 [409CC701].avi
-!new/Monster/[soldats] Monster - 10 [9D99C523].avi
-!new/Monster/[soldats] Monster - 11 [ECD7D3A2].avi
-!new/Monster/[soldats] Monster - 12 [87E74C76].avi
-!new/Monster/[soldats] Monster - 13 [37801305].avi
-!new/Monster/[soldats] Monster - 14 [FACAE55E].avi
-!new/Monster/[soldats] Monster - 15 [7434F34C].avi
-!new/Monster/[soldats] Monster - 16 [46B1F37E].avi
-!new/Monster/[soldats] Monster - 17 [14F86176].avi
-!new/Monster/[soldats] Monster - 18 [76542669].avi
-!new/Monster/[soldats] Monster - 19 [3FC5F6A2].avi
-!new/Monster/[soldats] Monster - 20 [B405B027].avi
-!new/Monster/[soldats] Monster - 21 [98684CB8].avi
-!new/Monster/[soldats] Monster - 22 [07C1BA44].avi
-!new/Monster/[soldats] Monster - 23 [55A8D3E0].avi
-!new/Monster/[soldats] Monster - 24 [4925745A].avi
-!new/Monster/[soldats] Monster - 25 [3B1B9C83].avi
-!new/Monster/[soldats] Monster - 26 [BB4E21F6].avi
-!new/Monster/[soldats] Monster - 27 [FC1776D7].avi
-!new/Monster/[soldats] Monster - 28 [F42BE11D].avi
-!new/Monster/[soldats] Monster - 29 [58932C90].avi
-!new/Monster/[soldats] Monster - 30 [B6D2EFF1].avi
-!new/Monster/[soldats] Monster - 31 [D9BDB062].avi
-!new/Monster/[soldats] Monster - 32 [706DF755].avi
-!new/Monster/[soldats] Monster - 33 [A599B254].avi
-!new/Monster/[soldats] Monster - 34 [3D5AF8F7].avi
-!new/Monster/[soldats] Monster - 35 [93760E83].avi
-!new/Monster/[soldats] Monster - 36 [4F183C30].avi
-!new/Monster/[soldats] Monster - 37 [D40091A2].avi
-!new/Monster/[soldats] Monster - 38 [B85DDB3B].avi
-!new/Monster/[soldats] Monster - 39 [9967745E].avi
-!new/Monster/[soldats] Monster - 40 [0D192F73].avi
-!new/Monster/[soldats] Monster - 41 [05A02BFD].avi
-!new/Monster/[soldats] Monster - 42 [82B3A721].avi
-!new/Monster/[soldats] Monster - 43 [716131DE].avi
-!new/Monster/[soldats] Monster - 44 [D3853176].avi
-!new/Monster/[soldats] Monster - 45 [A5C5EDEE].avi
-!new/Monster/[soldats] Monster - 46 [9DE949A9].avi
-!new/Monster/[soldats] Monster - 47 [8E45AEDD].avi
-!new/Monster/[soldats] Monster - 48 [A80DB173].avi
-!new/Monster/[soldats] Monster - 49 [8AE4394E].avi
-!new/Monster/[soldats] Monster - 50 [2DEA469F].avi
-!new/Monster/[soldats] Monster - 51 [9DC3B741].avi
-!new/Monster/[soldats] Monster - 52 [A4A11EE9].avi
-!new/Monster/[soldats] Monster - 53 [A1D0515A].avi
-!new/Monster/[soldats] Monster - 54 [A2A233C7].avi
-!new/Monster/[soldats] Monster - 55 [B6FA6FE1].avi
-!new/Monster/[soldats] Monster - 56 [29FCF89C].avi
-!new/Monster/[soldats] Monster - 57 [DBBB6568].avi
-!new/Monster/[soldats] Monster - 58 [2D112361].avi
-!new/Monster/[soldats] Monster - 59 [A4F63788].avi
-!new/Monster/[soldats] Monster - 60 [623DDD9A].avi
-!new/Monster/[soldats] Monster - 61 [313FDDB8].avi
-!new/Monster/[soldats] Monster - 62 [93ACD8A0].avi
-!new/Monster/[soldats] Monster - 63 [F58B4B52].avi
-!new/Monster/[soldats] Monster - 64 [78F2EB62].avi
-!new/Monster/[soldats] Monster - 65 [9F25806F].avi
-!new/Monster/[soldats] Monster - 66 [67BCC137].avi
-!new/Monster/[soldats] Monster - 67 [CDC95DEB].avi
-!new/Monster/[soldats] Monster - 68 [ED586C8A].avi
-!new/Monster/[soldats] Monster - 69 [D1A2E0FE].avi
-!new/Monster/[soldats] Monster - 70 [7411784E].avi
-!new/Monster/[soldats] Monster - 71 [A6B7C601].avi
-!new/Monster/[soldats] Monster - 72 [E3711B4C].avi
-!new/Monster/[soldats] Monster - 73 [93346930].avi
-!new/Monster/[soldats] Monster - 74 [End][63A26436].avi
-!new/Monster/[soldats] Monster - Extra 1 [80917E8A].avi
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
@@ -534,7 +457,6 @@
 !new/Rasmus Faber Presents-Platina Jazz Anime Standards Vol.1-2009-COCMP3/16-rasmus_faber_presents-doll-cocmp3.mp3
 !new/Rasmus Faber Presents-Platina Jazz Anime Standards Vol.1-2009-COCMP3/17-rasmus_faber_presents-sorae___-cocmp3.mp3
 !new/Rasmus Faber Presents-Platina Jazz Anime Standards Vol.1-2009-COCMP3/18-rasmus_faber_presents-voices-cocmp3.mp3
-!new/Sekirei ~Pure Engagement~ 05v3 (BD 720p).bat
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_01v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_02v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_03v2[divx5.1.1].mkv
@@ -644,7 +566,7 @@
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.nfo
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.sfv
 !new/Tenchi Universe/zx.tenchi-universe.01.divx5.ogm
-!new/[HorribleSubs] Beelzebub - 10 [720p].mkv
+!new/[HorribleSubs] Tegami Bachi REVERSE - 49 [720p].mkv
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
 !new/[OVA-1991] Kimagure Orange Road Rouge no Dengon/Kimagure_Orange_Road__Rouge_no_Dengon_-_1[1]_-_OVA_[640x480][DVD][bishi][875962B1].avi
 !new/[OVA-1992] Giant Robo/Giant_Robo_-_1[7]_-_The_Black_Attache_Case_[704x480][DVD][G_P][DD833BF2].mkv
@@ -658,7 +580,6 @@
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_2[3]_-_On_Stage_[640x480][DVD][CA][4172F5FF].mkv
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_3[3]_-_Which_One_Do_You_Love__[640x480][DVD][CA][D01B97BF].mkv
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_S01[3]_-_Macross_7_P-L-U-S__Mylene_[640x480][LD][CA][C1C8471F].avi
-!new/[SubDesu] Hen Zemi OVA - 02 (853x480 x264 AAC) [B9E74923].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -898,7 +819,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[UTW]_Fractale_-_10_[h264-720p][0581A036].mkv
+!new/[UTW]_Fractale_-_08_[h264-720p][E70FEA3E].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -1312,37 +1233,23 @@
 !new/raw/natsunoarashi/[SomeBody-Raws][DVD]_Natsu_No_Arashi_-_Clear_OP_(704x480_x264_Vorbis).mkv
 !new/sek/[polished] Sekirei ~Pure Engagement~ (BD 720p) Patches.rar
 !new/sek/[polished] Sekirei ~Pure Engagement~ 00v2 to v4.xdelta
-!new/sek/[polished] Sekirei ~Pure Engagement~ 00v4 [BD 720p][36CE0006].mkv
 !new/sek/[polished] Sekirei ~Pure Engagement~ 00v4.bat
-!new/sek/[polished] Sekirei ~Pure Engagement~ 01v3 [BD 720p][043D6BD9].mkv
 !new/sek/[polished] Sekirei ~Pure Engagement~ 01v3.bat
 !new/sek/[polished] Sekirei ~Pure Engagement~ 01v3.xdelta
-!new/sek/[polished] Sekirei ~Pure Engagement~ 02v4 [BD 720p][89BCB8D1].mkv
 !new/sek/[polished] Sekirei ~Pure Engagement~ 02v4.bat
 !new/sek/[polished] Sekirei ~Pure Engagement~ 02v4.xdelta
-!new/sek/[polished] Sekirei ~Pure Engagement~ 03v4 [BD 720p][034A01D1].mkv
 !new/sek/[polished] Sekirei ~Pure Engagement~ 03v4.bat
 !new/sek/[polished] Sekirei ~Pure Engagement~ 03v4.xdelta
-!new/sek/[polished] Sekirei ~Pure Engagement~ 04v3 [BD 720p][3C30DA25].mkv
 !new/sek/[polished] Sekirei ~Pure Engagement~ 04v3.bat
 !new/sek/[polished] Sekirei ~Pure Engagement~ 04v3.xdelta
-!new/sek/[polished] Sekirei ~Pure Engagement~ 05v3 [BD 720p][D34F97DF].mkv
 !new/sek/[polished] Sekirei ~Pure Engagement~ 05v3.bat
 !new/sek/[polished] Sekirei ~Pure Engagement~ 05v3.xdelta
-!new/sek/[polished] Sekirei ~Pure Engagement~ 06v2 [BD 720p][FCA40EEA].mkv
 !new/sek/[polished] Sekirei ~Pure Engagement~ 06v2.bat
 !new/sek/[polished] Sekirei ~Pure Engagement~ 06v2.xdelta
-!new/sek/[polished] Sekirei ~Pure Engagement~ 07 [BD 720p][CF44A54E].mkv
-!new/sek/[polished] Sekirei ~Pure Engagement~ 08 [BD 720p][5961BEE3].mkv
-!new/sek/[polished] Sekirei ~Pure Engagement~ 09 [BD 720p][D869F591].mkv
 !new/sek/[polished] Sekirei ~Pure Engagement~ 09v2.bat
 !new/sek/[polished] Sekirei ~Pure Engagement~ 09v2.xdelta
-!new/sek/[polished] Sekirei ~Pure Engagement~ 10v2 [BD 720p][5B56A170].mkv
 !new/sek/[polished] Sekirei ~Pure Engagement~ 10v2.bat
 !new/sek/[polished] Sekirei ~Pure Engagement~ 10v2.xdelta
-!new/sek/[polished] Sekirei ~Pure Engagement~ 11 [BD 720p][3C0A98EE].mkv
-!new/sek/[polished] Sekirei ~Pure Engagement~ 12 [BD 720p][3C8F76D7].mkv
-!new/sek/[polished] Sekirei ~Pure Engagement~ 13 [BD 720p][23696199].mkv
 !new/sek/xdelta3.exe
 !new/sf/[Zero-Raws] Shuffle! - 01 (BD 1280x720 x264 FLAC) subbed[2143C867]-TSuNDeRe.mkv
 !new/sf/[Zero-Raws] Shuffle! - 02 (BD 1280x720 x264 FLAC) subbed[96B195B8]-TSuNDeRe.mkv
