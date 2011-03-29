@@ -566,6 +566,11 @@
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.nfo
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.sfv
 !new/Tenchi Universe/zx.tenchi-universe.01.divx5.ogm
+!new/[Ayako-Shikkaku]_Oniichan_no_Koto_Nanka_Zenzen_Suki_Janain_Dakara_ne_-_12_[H264][720p][62DA6781].mkv
+!new/[Doremi-CureCom].Suite.PreCure!.07.[1280x720].[5ECB025D].mkv
+!new/[GotWoot]_Moonlight_Mile_S2_-_11_[720p_H264_AAC5.1][E1435452].mkv
+!new/[Licca] Pollyanna Episode 07 (h.264) [B13C6614].mkv
+!new/[Nutbladder]_Suite_Precure_06_[E391D5CD].mkv
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
 !new/[OVA-1991] Kimagure Orange Road Rouge no Dengon/Kimagure_Orange_Road__Rouge_no_Dengon_-_1[1]_-_OVA_[640x480][DVD][bishi][875962B1].avi
 !new/[OVA-1992] Giant Robo/Giant_Robo_-_1[7]_-_The_Black_Attache_Case_[704x480][DVD][G_P][DD833BF2].mkv
@@ -579,6 +584,62 @@
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_2[3]_-_On_Stage_[640x480][DVD][CA][4172F5FF].mkv
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_3[3]_-_Which_One_Do_You_Love__[640x480][DVD][CA][D01B97BF].mkv
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_S01[3]_-_Macross_7_P-L-U-S__Mylene_[640x480][LD][CA][C1C8471F].avi
+!new/[Over-Time]_Kamen_Rider_OOO_-_27_[94FF62F5].mkv
+!new/[ReDone] Tonagura! - 05 (DVD) [D28EECB3].mkv
+!new/[RyRo]_Digimon_Adventure_01_(h264)_[B065F2BF].mkv
+!new/[RyRo]_Digimon_Adventure_02_(h264)_[D965B347].mkv
+!new/[RyRo]_Digimon_Adventure_03_(h264)_[AB0AA6F9].mkv
+!new/[RyRo]_Digimon_Adventure_04_(h264)_[F8C655B2].mkv
+!new/[RyRo]_Digimon_Adventure_05_(h264)_[3B911987].mkv
+!new/[RyRo]_Digimon_Adventure_06_(h264)_[6F553232].mkv
+!new/[RyRo]_Digimon_Adventure_07_(h264)_[B3DFFF9F].mkv
+!new/[RyRo]_Digimon_Adventure_08_(h264)_[554F4545].mkv
+!new/[RyRo]_Digimon_Adventure_09_(h264)_[1C56927F].mkv
+!new/[RyRo]_Digimon_Adventure_10_(h264)_[D99655F7].mkv
+!new/[RyRo]_Digimon_Adventure_11_(h264)_[072101CD].mkv
+!new/[RyRo]_Digimon_Adventure_12_(h264)_[79270338].mkv
+!new/[RyRo]_Digimon_Adventure_13_(h264)_[6527A38B].mkv
+!new/[RyRo]_Digimon_Adventure_14_(h264)_[1E716410].mkv
+!new/[RyRo]_Digimon_Adventure_15_(h264)_[8FBCA82D].mkv
+!new/[RyRo]_Digimon_Adventure_16_(h264)_[3DA4053B].mkv
+!new/[RyRo]_Digimon_Adventure_17_(h264)_[55947252].mkv
+!new/[RyRo]_Digimon_Adventure_18_(h264)_[0D322343].mkv
+!new/[RyRo]_Digimon_Adventure_19_(h264)_[505291FB].mkv
+!new/[RyRo]_Digimon_Adventure_20_(h264)_[F3C3E325].mkv
+!new/[RyRo]_Digimon_Adventure_21_(h264)_[655B024D].mkv
+!new/[RyRo]_Digimon_Adventure_22_(h264)_[4BB17E42].mkv
+!new/[RyRo]_Digimon_Adventure_23_(h264)_[AC2B5BED].mkv
+!new/[RyRo]_Digimon_Adventure_24_(h264)_[D4F852C5].mkv
+!new/[RyRo]_Digimon_Adventure_25_(h264)_[D13C0C43].mkv
+!new/[RyRo]_Digimon_Adventure_26_(h264)_[9ADB780A].mkv
+!new/[RyRo]_Digimon_Adventure_27_(DVD_h264_AAC)_[ABEB91A6].mkv
+!new/[RyRo]_Digimon_Adventure_28_(DVD_h264_AAC)_[44C7DEC4].mkv
+!new/[RyRo]_Digimon_Adventure_29_(DVD_h264_AAC)_[94D32773].mkv
+!new/[RyRo]_Digimon_Adventure_30_(DVD_h264_AAC)_[1105905C].mkv
+!new/[RyRo]_Digimon_Adventure_31_(DVD_h264_AAC)_[BA1F2D08].mkv
+!new/[RyRo]_Digimon_Adventure_32_(DVD_h264_AAC)_[4F0D160B].mkv
+!new/[RyRo]_Digimon_Adventure_33_(DVD_h264_AAC)_[C6DD9E71].mkv
+!new/[RyRo]_Digimon_Adventure_34_(DVD_h264_AAC)_[01946C7D].mkv
+!new/[RyRo]_Digimon_Adventure_35_(DVD_h264_AAC)_[3D38E060].mkv
+!new/[RyRo]_Digimon_Adventure_36_(DVD_h264_AAC)_[057B482A].mkv
+!new/[RyRo]_Digimon_Adventure_37_(DVD_h264_AAC)_[A68494D2].mkv
+!new/[RyRo]_Digimon_Adventure_38_(DVD_h264_AAC)_[6C42E530].mkv
+!new/[RyRo]_Digimon_Adventure_39_(DVD_h264_AAC)_[84B6F75D].mkv
+!new/[RyRo]_Digimon_Adventure_40_(DVD_h264_AAC)_[CB7C1FE8].mkv
+!new/[RyRo]_Digimon_Adventure_41_(DVD_h264_AAC)_[2D7D1160].mkv
+!new/[RyRo]_Digimon_Adventure_42_(DVD_h264_AAC)_[2024F544].mkv
+!new/[RyRo]_Digimon_Adventure_43_(DVD_h264_AAC)_[2E08E29E].mkv
+!new/[RyRo]_Digimon_Adventure_44_(DVD_h264_AAC)_[BFAE3024].mkv
+!new/[RyRo]_Digimon_Adventure_45_(DVD_h264_AAC)_[66606FC9].mkv
+!new/[RyRo]_Digimon_Adventure_46_(DVD_h264_AAC)_[09E5A0DB].mkv
+!new/[RyRo]_Digimon_Adventure_47_(DVD_h264_AAC)_[E2F8E6E3].mkv
+!new/[RyRo]_Digimon_Adventure_48_(DVD_h264_AAC)_[67EAA24C].mkv
+!new/[RyRo]_Digimon_Adventure_49_(DVD_h264_AAC)_[717ED5A4].mkv
+!new/[RyRo]_Digimon_Adventure_50_(DVD_h264_AAC)_[E5222C79].mkv
+!new/[RyRo]_Digimon_Adventure_51_(DVD_h264_AAC)_[7D984891].mkv
+!new/[RyRo]_Digimon_Adventure_52_(DVD_h264_AAC)_[B0CC4D35].mkv
+!new/[RyRo]_Digimon_Adventure_53_(DVD_h264_AAC)_[2B56D3A2].mkv
+!new/[RyRo]_Digimon_Adventure_54_END_(DVD_h264_AAC)_[68187049].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
