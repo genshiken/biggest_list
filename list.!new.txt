@@ -48,11 +48,8 @@
 !new/-baru87-/titip bntar jgn diapus/[JPopsuki] VAMPS - Live 2010 BEAUTY AND THE BEAST (WOWOW 1920x1080i MPEG2+AAC).ts010
 !new/-baru87-/titip bntar jgn diapus/[JPopsuki] VAMPS - Live 2010 BEAUTY AND THE BEAST (WOWOW 1920x1080i MPEG2+AAC).ts011
 !new/-baru87-/titip bntar jgn diapus/[JPopsuki] VAMPS - Live 2010 BEAUTY AND THE BEAST (WOWOW 1920x1080i MPEG2+AAC).ts012
-!new/.bef
 !new/.broken/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.mkv
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
-!new/.now
-!new/Bleach - 315 [HorribleSubs][720p].mkv
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
@@ -567,30 +564,6 @@
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.nfo
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.sfv
 !new/Tenchi Universe/zx.tenchi-universe.01.divx5.ogm
-!new/[Kira-Fansub]_Shuffle!_Episode 01v2_(BD_1280x720_h264_JP+EN_ AAC) [EE362A92].mkv
-!new/[Kira-Fansub]_Shuffle!_Episode 02_(BD 1280x720 h264 JP+EN AAC) [69757F9A].mkv
-!new/[Kira-Fansub]_Shuffle!_Episode 03_(BD 1280x720 h264 JP+EN AAC) [9373C819].mkv
-!new/[Kira-Fansub]_Shuffle!_Episode 04_(BD 1280X720 h264 JP+EN AAC) [099F2FC4].mkv
-!new/[Kira-Fansub]_Shuffle!_Episode 05_(BD_1280x720_h264_JP+EN_AAC) [88735F83].mkv
-!new/[Kira-Fansub]_Shuffle!_Episode 06_(BD_1280x720_h264_JP+EN_AAC) [3CE3DE39].mkv
-!new/[Kira-Fansub]_Shuffle!_Episode 07_(BD_1280x720_h264_JP+EN_AAC) [4A71F05C].mkv
-!new/[Kira-Fansub]_Shuffle!_Episode 08_(BD_1280x720_h264_JP+EN_AAC) [9DE9CE5B].mkv
-!new/[Kira-Fansub]_Shuffle!_Episode 09_(BD_1280x720_h264_JP+EN_AAC) [0951537A].mkv
-!new/[Kira-Fansub]_Shuffle!_Episode 10_(BD_1280x720_h264_JP+EN_AAC) [B3F76DB9].mkv
-!new/[Kira-Fansub]_Shuffle!_Episode 11_(BD_1280x720_h264_JP+EN_AAC) [EACADB68].mkv
-!new/[Kira-Fansub]_Shuffle!_Episode 12_(BD_1280x720_h264_JP+EN_AAC) [E4F819FB].mkv
-!new/[Kira-Fansub]_Shuffle!_Episode 13_(BD_1280x720_h264_JP+EN_AAC) [C9B9B19D].mkv
-!new/[Kira-Fansub]_Shuffle!_Episode 14_(BD_1280x720_h264_JP+EN_AAC) [BD526010].mkv
-!new/[Kira-Fansub]_Shuffle!_Episode 15_(BD_1280x720_h264_JP+EN_AAC) [77F24AF2].mkv
-!new/[Kira-Fansub]_Shuffle!_Episode 16_(BD_1280x720_h264_JP+EN_AAC) [00FDBA8E].mkv
-!new/[Kira-Fansub]_Shuffle!_Episode 17_(BD_1280x720_h264_JP+EN_AAC) [F0E08F96].mkv
-!new/[Kira-Fansub]_Shuffle!_Episode 18_(BD_1280x720_h264_JP+EN_AAC) [A8FBC2E2].mkv
-!new/[Kira-Fansub]_Shuffle!_Episode 19_(BD_1280x720_h264_JP+EN_AAC) [1D898289].mkv
-!new/[Kira-Fansub]_Shuffle!_Episode 20_(BD_1280x720_h264_JP EN_AAC) [793825F9].mkv
-!new/[Kira-Fansub]_Shuffle!_Episode 21_(BD_1280x720_h264_JP EN_AAC) [99798ED5].mkv
-!new/[Kira-Fansub]_Shuffle!_Episode 22_(BD_1280x720_h264_JP+EN_AAC) [90782168].mkv
-!new/[Kira-Fansub]_Shuffle!_Episode 23_(BD_1280x720_h264_JP+EN_AAC) [1D2AC201].mkv
-!new/[Kira-Fansub]_Shuffle!_Episode 24v2_END_(BD_1280x720_h264_JP EN_AAC) [E2DAB8A8].mkv
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
 !new/[OVA-1991] Kimagure Orange Road Rouge no Dengon/Kimagure_Orange_Road__Rouge_no_Dengon_-_1[1]_-_OVA_[640x480][DVD][bishi][875962B1].avi
 !new/[OVA-1992] Giant Robo/Giant_Robo_-_1[7]_-_The_Black_Attache_Case_[704x480][DVD][G_P][DD833BF2].mkv
