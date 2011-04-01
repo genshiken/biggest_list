@@ -583,8 +583,6 @@
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_S01[3]_-_Macross_7_P-L-U-S__Mylene_[640x480][LD][CA][C1C8471F].avi
 !new/[Over-Time]_Pirate_Sentai_Gokaiger_-_06_[F69C5BAB].mkv
 !new/[PM]Pocket_Monsters_Best_Wishes_025_Hiun_Gym_Match!_Purehearted_Bug_Pokemon_Battle!![H264_720P][0BF8D06E].mkv
-!new/[ReDone] Soul Link - 05 (DVD) [DC033C8F].mkv
-!new/[TMD_A-Destiny]_Bakuman_24_[720p][16943DCD].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -827,8 +825,10 @@
 !new/[aarinfantasy]_Sekai-ichi_Hatsukoi_OVA_[9751CA6C].avi
 !new/_unchecked/[HorribleSubs] Wandering Son - 11 [720p].mkv
 !new/_unchecked/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_51_[1E28797E].mkv
+!new/_unchecked/[PM]Pocket_Monsters_Best_Wishes_027_Beware_of_the_Cute_Face!_Paralyzed_by_Emonga!![H264_720P][44663507].mkv
 !new/_unchecked/[SHiN-gx] A-Channel - 01 [Webrip][848x480 h.264 AAC][C0C3E9B9].mkv
 !new/_unchecked/[Stratos-Subs] Infinite Stratos - 12 (1280x720 H.264 AAC) [379759DB].mkv
+!new/_unchecked/[UTW]_Fractale_-_11_[h264-720p][9961BD43].mkv
 !new/_unchecked/[aarinfantasy]_Sekai-ichi_Hatsukoi_OVA_v2_[9EB3AC70].avi
 !new/_unchecked/[gg]_2010_Young_Animator_Training_Project_-_Kizuna_Ichigeki_[E03F87C9].mkv
 !new/_unchecked/[gg]_Yumekui_Merry_-_12_[C2CE8EA5].mkv
