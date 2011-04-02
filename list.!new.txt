@@ -564,6 +564,7 @@
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.nfo
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.sfv
 !new/Tenchi Universe/zx.tenchi-universe.01.divx5.ogm
+!new/[Ayako]_Infinite_Stratos_-_IS_-_12_[H264][720p][660B00BB].mkv
 !new/[Coalgirls]_Dragon_Crisis_03_(1280x720_Blu-Ray_FLAC)_[64363E05].mkv
 !new/[Coalgirls]_Dragon_Crisis_04_(1280x720_Blu-Ray_FLAC)_[907941DD].mkv
 !new/[Coalgirls]_FLCL_01_(960x720_Blu-ray_FLAC)_[55255EAE].mkv
@@ -582,8 +583,12 @@
 !new/[Coalgirls]_FLCL_One_Life_(960x720_Blu-ray_FLAC)_[3F1893DA].mkv
 !new/[Coalgirls]_FLCL_Ride_On_Shooting_Star_(960x720_Blu-ray_FLAC)_[EDA4EF3D].mkv
 !new/[Coalgirls]_FLCL_Ride_On_Shooting_Star_Video_(1280x720_Blu-ray_FLAC)_[270312E6].mkv
+!new/[CureCom] Fresh Pretty Cure! - 25 [HD][431DDF72].mkv
+!new/[HorribleSubs] Cardfight!! Vanguard - 12 [720p].mkv
 !new/[HorribleSubs] Lilpri - 50 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 205 [720p].mkv
+!new/[HorribleSubs] Rio - Rainbow Gate - 13 [720p].mkv
+!new/[Mazui]_Ore_No_Imouto_-_13_[XviD][F6DA4984].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
 !new/[OVA-1991] Kimagure Orange Road Rouge no Dengon/Kimagure_Orange_Road__Rouge_no_Dengon_-_1[1]_-_OVA_[640x480][DVD][bishi][875962B1].avi
 !new/[OVA-1992] Giant Robo/Giant_Robo_-_1[7]_-_The_Black_Attache_Case_[704x480][DVD][G_P][DD833BF2].mkv
@@ -599,6 +604,7 @@
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_S01[3]_-_Macross_7_P-L-U-S__Mylene_[640x480][LD][CA][C1C8471F].avi
 !new/[Over-Time]_Pirate_Sentai_Gokaiger_-_06_[F69C5BAB].mkv
 !new/[PM]Pocket_Monsters_Best_Wishes_025_Hiun_Gym_Match!_Purehearted_Bug_Pokemon_Battle!![H264_720P][0BF8D06E].mkv
+!new/[SS]_Ore_No_Imouto_-_11_[9E0C01EC].mkv
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ogm
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_001[167]_-_The_Girl_Who_Overcame_Time..._and_the_Boy_Who_Was_Just_Overcome_[576x432][DVD][RAW][AHQ][D3798DBC].ssa
 !new/[TV Series-2000] Inuyasha/Inuyasha_-_002[167]_-_Seekers_of_the_Sacred_Jewel_[576x432][DVD][RAW][AHQ][79A00C9F].ogm
@@ -838,6 +844,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[UTW-Mazui]_Toaru_Majutsu_no_Index_II_-_24_[720p][A3732D5A].mkv
 !new/[aarinfantasy]_Sekai-ichi_Hatsukoi_OVA_[9751CA6C].avi
 !new/_unchecked/[HorribleSubs] Wandering Son - 11 [720p].mkv
 !new/_unchecked/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_51_[1E28797E].mkv
