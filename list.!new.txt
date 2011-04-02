@@ -564,7 +564,6 @@
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.nfo
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.sfv
 !new/Tenchi Universe/zx.tenchi-universe.01.divx5.ogm
-!new/[Ayako]_Infinite_Stratos_-_IS_-_12_[H264][720p][660B00BB].mkv
 !new/[Coalgirls]_Aoi_Bungaku_01_(1280x720_Blu-ray_FLAC)_[E5CAFE78].mkv
 !new/[Coalgirls]_Aoi_Bungaku_02_(1280x720_Blu-ray_FLAC)_[DF715960].mkv
 !new/[Coalgirls]_Aoi_Bungaku_03_(1280x720_Blu-ray_FLAC)_[FD2AED9E].mkv
@@ -915,16 +914,16 @@
 !new/[a-s]_inuyasha_-_056__rs2_[3E1388E3].mkv
 !new/[a-s]_inuyasha_-_057__rs2_[001D9CCA].mkv
 !new/[a-s]_inuyasha_-_058__rs2_[CE5ACD08].mkv
+!new/[a-s]_inuyasha_-_059__rs2_[A0578A68].mkv
+!new/[a-s]_inuyasha_-_060__rs2_[AC5791D2].mkv
 !new/[aarinfantasy]_Sekai-ichi_Hatsukoi_OVA_[9751CA6C].avi
 !new/_unchecked/[HorribleSubs] Wandering Son - 11 [720p].mkv
-!new/_unchecked/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_51_[1E28797E].mkv
 !new/_unchecked/[PM]Pocket_Monsters_Best_Wishes_027_Beware_of_the_Cute_Face!_Paralyzed_by_Emonga!![H264_720P][44663507].mkv
 !new/_unchecked/[SHiN-gx] A-Channel - 01 [Webrip][848x480 h.264 AAC][C0C3E9B9].mkv
 !new/_unchecked/[Stratos-Subs] Infinite Stratos - 12 (1280x720 H.264 AAC) [379759DB].mkv
 !new/_unchecked/[UTW]_Fractale_-_11_[h264-720p][9961BD43].mkv
 !new/_unchecked/[aarinfantasy]_Sekai-ichi_Hatsukoi_OVA_v2_[9EB3AC70].avi
 !new/_unchecked/[gg]_2010_Young_Animator_Training_Project_-_Kizuna_Ichigeki_[E03F87C9].mkv
-!new/_unchecked/[gg]_Yumekui_Merry_-_12_[C2CE8EA5].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
