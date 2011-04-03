@@ -564,6 +564,7 @@
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.nfo
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.sfv
 !new/Tenchi Universe/zx.tenchi-universe.01.divx5.ogm
+!new/[Ayako-Himatsubushi]_Dog_Days_-_01v2_[720p][B416ACB0].mkv
 !new/[Coalgirls]_Aoi_Bungaku_01_(1280x720_Blu-ray_FLAC)_[E5CAFE78].mkv
 !new/[Coalgirls]_Aoi_Bungaku_02_(1280x720_Blu-ray_FLAC)_[DF715960].mkv
 !new/[Coalgirls]_Aoi_Bungaku_03_(1280x720_Blu-ray_FLAC)_[FD2AED9E].mkv
@@ -594,17 +595,26 @@
 !new/[Coalgirls]_FLCL_One_Life_(960x720_Blu-ray_FLAC)_[3F1893DA].mkv
 !new/[Coalgirls]_FLCL_Ride_On_Shooting_Star_(960x720_Blu-ray_FLAC)_[EDA4EF3D].mkv
 !new/[Coalgirls]_FLCL_Ride_On_Shooting_Star_Video_(1280x720_Blu-ray_FLAC)_[270312E6].mkv
+!new/[Commie] X-Men - 01 [43164D05].mkv
 !new/[CureCom] Fresh Pretty Cure! - 25 [HD][431DDF72].mkv
 !new/[Doremi].HeartCatch.Movie.BD.[1920x1080].[0CC99389].mkv
 !new/[GotWoot]_Nana_to_Kaoru_(OAD)_01_[DVD][h264_AAC][24DC80EA].mkv
 !new/[Harth]_Heroman_EX-3_[BD_1280x720_FLAC][434A50D9].mkv
 !new/[Hatsuyuki]_Freezing_-_01_[BD_1280x720_x264_ FLAC][F9F810F3].mkv
+!new/[Hatsuyuki]_Freezing_-_02_[BD_1280x720_x264_ FLAC][C0E631D0].mkv
+!new/[Hatsuyuki]_Freezing_Special_-_01_[BD_1280x720][8E6226F5].mkv
 !new/[Himatsubushi-Ayako] Dog Days 01 [1280x720][FAC46F85].mkv
+!new/[HorribleSubs] Beelzebub - 11 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 12 [720p].mkv
+!new/[HorribleSubs] Fairy Tail - 73 [720p].mkv
 !new/[HorribleSubs] Lilpri - 50 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 205 [720p].mkv
+!new/[HorribleSubs] Nichijou - 01 [720p].mkv
 !new/[HorribleSubs] Rio - Rainbow Gate - 13 [720p].mkv
 !new/[Licca] Pollyanna Episode 08 (h.264) [7F925829].mkv
+!new/[Nipponsei] Kimi ni Todoke 2nd Season Original Soundtrack.zip
+!new/[Nipponsei] Kore wa Zombie desu ka Original Soundtrack.zip
+!new/[Nipponsei] Soredemo Machi wa Mawatteiru Original Soundtrack.zip
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
 !new/[OVA-1991] Kimagure Orange Road Rouge no Dengon/Kimagure_Orange_Road__Rouge_no_Dengon_-_1[1]_-_OVA_[640x480][DVD][bishi][875962B1].avi
 !new/[OVA-1992] Giant Robo/Giant_Robo_-_1[7]_-_The_Black_Attache_Case_[704x480][DVD][G_P][DD833BF2].mkv
@@ -636,6 +646,111 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[Victorique]_Gosick_-_11_[h264-720p][5615059C].mkv
+!new/[a-s]_inuyasha_-_061__rs2_[D4258401].mkv
+!new/[a-s]_inuyasha_-_062__rs2_[E59F6F64].mkv
+!new/[a-s]_inuyasha_-_063__rs2_[5992AD0E].mkv
+!new/[a-s]_inuyasha_-_064__rs2_[77C61359].mkv
+!new/[a-s]_inuyasha_-_065__rs2_[25FCBBE9].mkv
+!new/[a-s]_inuyasha_-_066__rs2_[509AA798].mkv
+!new/[a-s]_inuyasha_-_067__rs2_[F06446B0].mkv
+!new/[a-s]_inuyasha_-_068__rs2_[3729B005].mkv
+!new/[a-s]_inuyasha_-_069__rs2_[688D0564].mkv
+!new/[a-s]_inuyasha_-_070__rs2_[8E1A1B0A].mkv
+!new/[a-s]_inuyasha_-_071__rs2_[F8A21B6D].mkv
+!new/[a-s]_inuyasha_-_072__rs2_[EF4DEA89].mkv
+!new/[a-s]_inuyasha_-_073__rs2_[CA8AF17D].mkv
+!new/[a-s]_inuyasha_-_074__rs2_[9DB0F355].mkv
+!new/[a-s]_inuyasha_-_075__rs2_[2A4DD29D].mkv
+!new/[a-s]_inuyasha_-_076__rs2_[3FB4C49F].mkv
+!new/[a-s]_inuyasha_-_077__rs2_[2FFFF46A].mkv
+!new/[a-s]_inuyasha_-_078__rs2_[F41B9C67].mkv
+!new/[a-s]_inuyasha_-_079__rs2_[538C8427].mkv
+!new/[a-s]_inuyasha_-_080__rs2_[466852AE].mkv
+!new/[a-s]_inuyasha_-_081__rs2_[B6F36E39].mkv
+!new/[a-s]_inuyasha_-_082__rs2_[5C37582A].mkv
+!new/[a-s]_inuyasha_-_083__rs2_[C621B8E4].mkv
+!new/[a-s]_inuyasha_-_084__rs2_[775FE1FE].mkv
+!new/[a-s]_inuyasha_-_085__rs2_[E62417E3].mkv
+!new/[a-s]_inuyasha_-_086__rs2_[22385B4B].mkv
+!new/[a-s]_inuyasha_-_087__rs2_[2B51D3E1].mkv
+!new/[a-s]_inuyasha_-_088__rs2_[34AD451B].mkv
+!new/[a-s]_inuyasha_-_089__rs2_[83DF99E4].mkv
+!new/[a-s]_inuyasha_-_090__rs2_[F6B6A33A].mkv
+!new/[a-s]_inuyasha_-_091__rs2_[6C27C74E].mkv
+!new/[a-s]_inuyasha_-_092__rs2_[29431EF7].mkv
+!new/[a-s]_inuyasha_-_093__rs2_[0A798953].mkv
+!new/[a-s]_inuyasha_-_094__rs2_[478DC6A6].mkv
+!new/[a-s]_inuyasha_-_095__rs2_[DEB4E2B3].mkv
+!new/[a-s]_inuyasha_-_096__rs2_[3C547AB3].mkv
+!new/[a-s]_inuyasha_-_097__rs2_[1213ED73].mkv
+!new/[a-s]_inuyasha_-_098__rs2_[F55B221F].mkv
+!new/[a-s]_inuyasha_-_099__rs2_[55A618DD].mkv
+!new/[a-s]_inuyasha_-_100__rs2_[BBCCD7A0].mkv
+!new/[a-s]_inuyasha_-_101__rs2_[7E8C1517].mkv
+!new/[a-s]_inuyasha_-_102__rs2_[31637F2F].mkv
+!new/[a-s]_inuyasha_-_103__rs2_[CA1B222E].mkv
+!new/[a-s]_inuyasha_-_104__rs2_[531304FD].mkv
+!new/[a-s]_inuyasha_-_105__rs2_[615B4A75].mkv
+!new/[a-s]_inuyasha_-_106__rs2_[1c86f651].mkv
+!new/[a-s]_inuyasha_-_107__rs2_[558aa414].mkv
+!new/[a-s]_inuyasha_-_108__rs2_[4ab97683].mkv
+!new/[a-s]_inuyasha_-_109__rs2_[33347b11].mkv
+!new/[a-s]_inuyasha_-_110__rs2_[bf42415a].mkv
+!new/[a-s]_inuyasha_-_111__rs2_[8a8030a1].mkv
+!new/[a-s]_inuyasha_-_112__rs2_[80503b28].mkv
+!new/[a-s]_inuyasha_-_113__rs2_[5ae787d0].mkv
+!new/[a-s]_inuyasha_-_114__rs2_[06c4150a].mkv
+!new/[a-s]_inuyasha_-_115__rs2_[e1527d52].mkv
+!new/[a-s]_inuyasha_-_116__rs2_[8a65da88].mkv
+!new/[a-s]_inuyasha_-_117__rs2_[54df0a2b].mkv
+!new/[a-s]_inuyasha_-_118__rs2_[634791ed].mkv
+!new/[a-s]_inuyasha_-_119__rs2_[7986454b].mkv
+!new/[a-s]_inuyasha_-_120__rs2_[8e496beb].mkv
+!new/[a-s]_inuyasha_-_121__rs2_[d18fa5cf].mkv
+!new/[a-s]_inuyasha_-_122__rs2_[3713f119].mkv
+!new/[a-s]_inuyasha_-_123__rs2_[16363ed7].mkv
+!new/[a-s]_inuyasha_-_124__rs2_[ebd389a1].mkv
+!new/[a-s]_inuyasha_-_125__rs2_[7b6d6cd7].mkv
+!new/[a-s]_inuyasha_-_126__rs2_[5E05444B].mkv
+!new/[a-s]_inuyasha_-_127__rs2_[BDBD8948].mkv
+!new/[a-s]_inuyasha_-_128__rs2_[3D747060].mkv
+!new/[a-s]_inuyasha_-_129__rs2_[5571BDDF].mkv
+!new/[a-s]_inuyasha_-_130__rs2_[F9D2D9B8].mkv
+!new/[a-s]_inuyasha_-_131__rs2_[B891E3AD].mkv
+!new/[a-s]_inuyasha_-_132__rs2_[3C9FB875].mkv
+!new/[a-s]_inuyasha_-_133-134__rs2_[03A48078].mkv
+!new/[a-s]_inuyasha_-_135__rs2_[02A069EF].mkv
+!new/[a-s]_inuyasha_-_136__rs2_[15287220].mkv
+!new/[a-s]_inuyasha_-_137__rs2_[92D47645].mkv
+!new/[a-s]_inuyasha_-_138__rs2_[3AD0D6F6].mkv
+!new/[a-s]_inuyasha_-_139__rs2_[A82183E8].mkv
+!new/[a-s]_inuyasha_-_140__rs2_[05FF30AE].mkv
+!new/[a-s]_inuyasha_-_141__rs2_[699FA60B].mkv
+!new/[a-s]_inuyasha_-_142__rs2_[9976466E].mkv
+!new/[a-s]_inuyasha_-_143__rs2_[A11DECD1].mkv
+!new/[a-s]_inuyasha_-_144__rs2_[E664F6C8].mkv
+!new/[a-s]_inuyasha_-_145__rs2_[F82BAFBC].mkv
+!new/[a-s]_inuyasha_-_146__rs2_[D9FD8832].mkv
+!new/[a-s]_inuyasha_-_147-148__rs2_[1C1155FF].mkv
+!new/[a-s]_inuyasha_-_149__rs2_[53192494].mkv
+!new/[a-s]_inuyasha_-_150__rs2_[3DDDACC9].mkv
+!new/[a-s]_inuyasha_-_151__rs2_[49FA1F9B].mkv
+!new/[a-s]_inuyasha_-_152__rs2_[E0395D28].mkv
+!new/[a-s]_inuyasha_-_153__rs2_[554DF1BB].mkv
+!new/[a-s]_inuyasha_-_154__rs2_[9FD20AFB].mkv
+!new/[a-s]_inuyasha_-_155__rs2_[5C60073F].mkv
+!new/[a-s]_inuyasha_-_156__rs2_[3316E9AA].mkv
+!new/[a-s]_inuyasha_-_157__rs2_[3F37500F].mkv
+!new/[a-s]_inuyasha_-_158__rs2_[ADD56359].mkv
+!new/[a-s]_inuyasha_-_159__rs2_[DFA5C99F].mkv
+!new/[a-s]_inuyasha_-_160__rs2_[166E8F18].mkv
+!new/[a-s]_inuyasha_-_161__rs2_[44399B19].mkv
+!new/[a-s]_inuyasha_-_162__rs2_[2B39860C].mkv
+!new/[a-s]_inuyasha_-_163__rs2_[6F8589FC].mkv
+!new/[a-s]_inuyasha_-_164__rs2_[E8E0B834].mkv
+!new/[a-s]_inuyasha_-_165__rs2_[4EE2A925].mkv
+!new/[a-s]_inuyasha_-_166-167__rs2_[6D234EF1].mkv
 !new/[aarinfantasy]_Sekai-ichi_Hatsukoi_OVA_[9751CA6C].avi
 !new/_unchecked/[PM]Pocket_Monsters_Best_Wishes_027_Beware_of_the_Cute_Face!_Paralyzed_by_Emonga!![H264_720P][44663507].mkv
 !new/_unchecked/[SHiN-gx] A-Channel - 01 [Webrip][848x480 h.264 AAC][C0C3E9B9].mkv
