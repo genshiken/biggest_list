@@ -1054,16 +1054,6 @@ incomplete/Fireball/[DATS] Fireball - 10 [DVD][035912E4].mkv
 incomplete/Fireball/[DATS] Fireball - 11 [DVD][74DDD03E].mkv
 incomplete/Fireball/[DATS] Fireball - 12 [DVD][7B4F27B4].mkv
 incomplete/Fireball/[DATS] Fireball - 13 [DVD][44ECEABB].mkv
-incomplete/Fractale/[UTW] Fractale - 01 [720p][96D3F1BF].mkv
-incomplete/Fractale/[UTW] Fractale - 02 [720p][D7961156].mkv
-incomplete/Fractale/[UTW] Fractale - 03 [720p][FAE7890A].mkv
-incomplete/Fractale/[UTW] Fractale - 04 [720p][BE4B9022].mkv
-incomplete/Fractale/[UTW] Fractale - 05 [720p][64FD8A59].mkv
-incomplete/Fractale/[UTW] Fractale - 06 [720p][F8DA9F24].mkv
-incomplete/Fractale/[UTW] Fractale - 07 [720p][5BE422F3].mkv
-incomplete/Fractale/[UTW] Fractale - 08 [720p][E70FEA3E].mkv
-incomplete/Fractale/[UTW] Fractale - 09 [720p][93ABAA98].mkv
-incomplete/Fractale/[UTW] Fractale - 10 [720p][0581A036].mkv
 incomplete/Freezing/[Whine-Subs] Freezing - 01 [720p][C23D808A].mkv
 incomplete/Freezing/[WhyNot] Freezing - 01 [1E14B456].mkv
 incomplete/Freezing/[WhyNot] Freezing - 01 [Censored][44538095].mkv
@@ -1692,32 +1682,6 @@ incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 119 [720p][74650B46].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 120 [720p][C621978B].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 121 [B4274438].mkv
 incomplete/Inazuma Eleven/[RyRo] Inazuma Eleven - 122 [720p][E414DE83].mkv
-incomplete/Infinite Stratos/[Ayako] Infinite Stratos - 01 [v2 720p][4B45EF48].mkv
-incomplete/Infinite Stratos/[Ayako] Infinite Stratos - 02 [720p][05C376A9].mkv
-incomplete/Infinite Stratos/[Ayako] Infinite Stratos - 03 [720p][87E1FABE].mkv
-incomplete/Infinite Stratos/[Ayako] Infinite Stratos - 04 [720p][192428AB].mkv
-incomplete/Infinite Stratos/[Ayako] Infinite Stratos - 05 [720p][1FA14D41].mkv
-incomplete/Infinite Stratos/[Ayako] Infinite Stratos - 06 [720p][99299389].mkv
-incomplete/Infinite Stratos/[Ayako] Infinite Stratos - 07 [v2 720p][44419534].mkv
-incomplete/Infinite Stratos/[Ayako] Infinite Stratos - 08 [720p][C48BE631].mkv
-incomplete/Infinite Stratos/[Ayako] Infinite Stratos - 09 [720p][0D13B92C].mkv
-incomplete/Infinite Stratos/[Ayako] Infinite Stratos - 10 [720p][0C074A1F].mkv
-incomplete/Infinite Stratos/[Ayako] Infinite Stratos - 11 [720p][276FC82F].mkv
-incomplete/Infinite Stratos/[Ayako] Infinite Stratos - 12 [End][720p][660B00BB].mkv
-incomplete/Infinite Stratos/[SS] Infinite Stratos - 01 [720p][CFA91117].mkv
-incomplete/Infinite Stratos/[SS] Infinite Stratos - 02 [720p][90008EDD].mkv
-incomplete/Infinite Stratos/[SS] Infinite Stratos - 03 [720p][5B66CCE8].mkv
-incomplete/Infinite Stratos/[SS] Infinite Stratos - 04 [720p][97A3833A].mkv
-incomplete/Infinite Stratos/[SS] Infinite Stratos - 05 [720p][AEFCD7C5].mkv
-incomplete/Infinite Stratos/[SS] Infinite Stratos - 06 [720p][860C6F2D].mkv
-incomplete/Infinite Stratos/[SS] Infinite Stratos - 07 [720p][13C2D820].mkv
-incomplete/Infinite Stratos/[SS] Infinite Stratos - 08 [720p][6E60CA27].mkv
-incomplete/Infinite Stratos/[SS] Infinite Stratos - 09 [720p][378F5457].mkv
-incomplete/Infinite Stratos/[SS] Infinite Stratos - 10 [720p][827622F3].mkv
-incomplete/Infinite Stratos/[Stratos-Subs] Infinite Stratos - 08 [720p][40C80B31].mkv
-incomplete/Infinite Stratos/[Stratos-Subs] Infinite Stratos - 09 [v2 720p][D57E4A54].mkv
-incomplete/Infinite Stratos/[Stratos-Subs] Infinite Stratos - 10 [720p][1ED711BE].mkv
-incomplete/Infinite Stratos/[Stratos-Subs] Infinite Stratos - 11 [720p][7F6117F1].mkv
 incomplete/Initial D Battle Stage/[Shinsen-Subs] Initial D Battle Stage - 2 [End][B54855AA].mkv
 incomplete/Iron Man/[Force-Works] Iron Man - 01 [A66813DB].mkv
 incomplete/Iron Man/[Force-Works] Iron Man - 02 [2D05AB2F].mkv
@@ -2997,6 +2961,7 @@ incomplete/One Piece/One Piece - 487 [yibis][v3 720p][9BA6A3B8].mkv
 incomplete/One Piece/One Piece - 488 [yibis][720p][6FD8334B].mkv
 incomplete/One Piece/One Piece - 489 [yibis][720p][F39D31C7].mkv
 incomplete/One Piece/One Piece - 490 [yibis][720p][94437281].mkv
+incomplete/One Piece/One Piece - 491 [yibis][720p][7656565F].mkv
 incomplete/One Piece/One Piece - Opening 7 [Vegapunk][720p][6B7F029D].mp4
 incomplete/One Piece/One Piece - Opening 8 [Vegapunk][720p][D45E5410].mp4
 incomplete/One Piece/One Piece - Special 1 [K-F][DVD][DF62ACA0].avi
@@ -3671,16 +3636,6 @@ incomplete/VS Knight Lamune & 40 fire/[Live-eviL] VS Knight Lamune & 40 fire - 0
 incomplete/VS Knight Lamune & 40 fire/[Live-eviL] VS Knight Lamune & 40 fire - 02 [4317FA9E].avi
 incomplete/VS Knight Lamune & 40 fire/[Live-eviL] VS Knight Lamune & 40 fire - 03 [4C67226D].avi
 incomplete/VS Knight Lamune & 40 fire/[Live-eviL] VS Knight Lamune & 40 fire - 04 [AD713400].avi
-incomplete/Wandering Son/[umee] Wandering Son - 01 [4CE1588E].mkv
-incomplete/Wandering Son/[umee] Wandering Son - 02 [D16C3A49].mkv
-incomplete/Wandering Son/[umee] Wandering Son - 03 [00B3F22D].mkv
-incomplete/Wandering Son/[umee] Wandering Son - 04 [F3DED1CD].mkv
-incomplete/Wandering Son/[umee] Wandering Son - 05 [2C246363].mkv
-incomplete/Wandering Son/[umee] Wandering Son - 06 [949E3178].mkv
-incomplete/Wandering Son/[umee] Wandering Son - 07 [D6C5C3C3].mkv
-incomplete/Wandering Son/[umee] Wandering Son - 08 [FFD5D691].mkv
-incomplete/Wandering Son/[umee] Wandering Son - 09 [8E9AE2B2].mkv
-incomplete/Wandering Son/[umee] Wandering Son - 10 [D41F261C].mkv
 incomplete/Wangan Midnight/[Shinsen-Subs] Wangan Midnight - 01 [DVD][222DCD0C].mkv
 incomplete/Wangan Midnight/[Shinsen-Subs] Wangan Midnight - 02 [DVD][FE60242B].mkv
 incomplete/Weiss Survive R/[Ayako] Weiss Survive R - 01 [E975A989].mkv
