@@ -599,6 +599,8 @@
 !new/[CureCom] Fresh Pretty Cure! - 25 [HD][431DDF72].mkv
 !new/[Doremi].HeartCatch.Movie.BD.[1920x1080].[0CC99389].mkv
 !new/[GotWoot]_Nana_to_Kaoru_(OAD)_01_[DVD][h264_AAC][24DC80EA].mkv
+!new/[Harth]_Heroman_EX-1_[BD_1280x720_FLAC][C85FDE0D].mkv
+!new/[Harth]_Heroman_EX-2v2_[BD_1280x720_FLAC][99E96D8C].mkv
 !new/[Harth]_Heroman_EX-3_[BD_1280x720_FLAC][434A50D9].mkv
 !new/[Hatsuyuki]_Freezing_-_01_[BD_1280x720_x264_ FLAC][F9F810F3].mkv
 !new/[Hatsuyuki]_Freezing_-_02_[BD_1280x720_x264_ FLAC][C0E631D0].mkv
@@ -607,10 +609,12 @@
 !new/[HorribleSubs] Beelzebub - 11 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 12 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 73 [720p].mkv
+!new/[HorribleSubs] Hanasaku Iroha - 01 [720p].mkv
 !new/[HorribleSubs] Lilpri - 50 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 205 [720p].mkv
 !new/[HorribleSubs] Nichijou - 01 [720p].mkv
 !new/[HorribleSubs] Rio - Rainbow Gate - 13 [720p].mkv
+!new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 26 [720p].mkv
 !new/[Licca] Pollyanna Episode 08 (h.264) [7F925829].mkv
 !new/[Nipponsei] Kimi ni Todoke 2nd Season Original Soundtrack.zip
 !new/[Nipponsei] Kore wa Zombie desu ka Original Soundtrack.zip
@@ -630,6 +634,8 @@
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_S01[3]_-_Macross_7_P-L-U-S__Mylene_[640x480][LD][CA][C1C8471F].avi
 !new/[PM]Pocket_Monsters_Best_Wishes_022_Hiun_City!_Fushide_Panic!![H264_720P][37A043F4].mkv
 !new/[PM]Pocket_Monsters_Best_Wishes_027_Beware_of_the_Cute_Face!_Paralyzed_by_Emonga!![H264_720P][44663507].mkv
+!new/[SRCL-7486] supercell - Today Is A Beautiful Day (Limited Edition)[FLAC+Scans].zip
+!new/[SRCL-7486] supercell - Today Is A Beautiful Day (Limited Edition)[ISO,MDS].rar
 !new/[Saizen]_Igano_Kabamaru_-_07v2_[2B25B6F8].mkv
 !new/[Saizen]_Igano_Kabamaru_-_08_[E1DACAE0].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
