@@ -564,6 +564,7 @@
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.nfo
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.sfv
 !new/Tenchi Universe/zx.tenchi-universe.01.divx5.ogm
+!new/[ARR] Aoi Blink - 01 [7CEA315B].mkv
 !new/[ARR] Little Women - 01 [5DDDCEA4].mkv
 !new/[AonE]_Haiyoru!_Nyaruani_TV_12_[0987FAD9].mkv
 !new/[Ayako-Himatsubushi]_Dog_Days_-_01v2_[720p][B416ACB0].mkv
@@ -615,6 +616,8 @@
 !new/[Himatsubushi-Ayako] Dog Days 01 [1280x720][FAC46F85].mkv
 !new/[HorribleSubs] Battle Girls - Time Paradox - 01 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 11 [720p].mkv
+!new/[HorribleSubs] Bleach - 316 [720p].mkv
+!new/[HorribleSubs] Bleach - 316v2 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 12 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 73 [720p].mkv
 !new/[HorribleSubs] Gintama - 202 [720p].mkv
@@ -667,6 +670,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[Underwater-Commie] Hanasaku Iroha - 01 (720p) [CC2E52C9].mkv
 !new/[Underwater-Commie] Nichijou - 01 (720p) [99B70B42].mkv
 !new/[Victorique]_Gosick_-_11_[h264-720p][5615059C].mkv
 !new/[WhyNot-Hadena] Gintama - Shinyaku Benizakura-Hen [DVD 480p AAC][F681C4FB].mkv
