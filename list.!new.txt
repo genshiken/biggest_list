@@ -604,6 +604,9 @@
 !new/[CureCom] Fresh Pretty Cure! - 25 [HD][431DDF72].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.08.[1280x720].[F70E7861].mkv
 !new/[Doremi].HeartCatch.Movie.BD.[1920x1080].[0CC99389].mkv
+!new/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri 02 Ending B [BD][1080p-FLAC][80CB7564].mkv
+!new/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri 02 [BD][1080p-FLAC][5D6A40FA].mkv
+!new/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri NCED [BD][1080p-FLAC][66CC177F].mkv
 !new/[Frostii]_Tetsuko_no_Tabi_-_02_[2EDA9FAD].mkv
 !new/[GotWoot]_Nana_to_Kaoru_(OAD)_01_[DVD][h264_AAC][24DC80EA].mkv
 !new/[Harth]_Heroman_EX-1_[BD_1280x720_FLAC][C85FDE0D].mkv
@@ -626,6 +629,7 @@
 !new/[HorribleSubs] Naruto Shippuuden - 205 [720p].mkv
 !new/[HorribleSubs] Nichijou - 01 [720p].mkv
 !new/[HorribleSubs] Rio - Rainbow Gate - 13 [720p].mkv
+!new/[HorribleSubs] Steins;Gate - 01 [720p].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 26 [720p].mkv
 !new/[Licca] Pollyanna Episode 08 (h.264) [7F925829].mkv
 !new/[Licca] Pollyanna Episode 09 (h.264) [EEBD4F30].mkv
@@ -779,6 +783,7 @@
 !new/[a-s]_inuyasha_-_165__rs2_[4EE2A925].mkv
 !new/[a-s]_inuyasha_-_166-167__rs2_[6D234EF1].mkv
 !new/[aarinfantasy]_Sekai-ichi_Hatsukoi_OVA_[9751CA6C].avi
+!new/[gg]_2010_Young_Animator_Training_Project_-_Super_Veggie_Torracman_[5EFED6D9].mkv
 !new/[gg]_2010_Young_Animator_Training_Project_-_Wardrobe_Dwellers_[6CA4E29E].mkv
 !new/[gg]_Fireball_Charming_-_01_[13AF356C].mkv
 !new/[gg]_Star_Driver_-_25_[CFF4807E].mkv
