@@ -722,6 +722,12 @@
 !new/Rasmus Faber Presents-Platina Jazz Anime Standards Vol.1-2009-COCMP3/16-rasmus_faber_presents-doll-cocmp3.mp3
 !new/Rasmus Faber Presents-Platina Jazz Anime Standards Vol.1-2009-COCMP3/17-rasmus_faber_presents-sorae___-cocmp3.mp3
 !new/Rasmus Faber Presents-Platina Jazz Anime Standards Vol.1-2009-COCMP3/18-rasmus_faber_presents-voices-cocmp3.mp3
+!new/Sakigake_Cromartie_High_-_The_Movie_CD1_[CiMG].avi
+!new/Sakigake_Cromartie_High_-_The_Movie_CD1_[CiMG].idx
+!new/Sakigake_Cromartie_High_-_The_Movie_CD1_[CiMG].sub
+!new/Sakigake_Cromartie_High_-_The_Movie_CD2_[CiMG].avi
+!new/Sakigake_Cromartie_High_-_The_Movie_CD2_[CiMG].idx
+!new/Sakigake_Cromartie_High_-_The_Movie_CD2_[CiMG].sub
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_01v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_02v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_03v2[divx5.1.1].mkv
@@ -875,6 +881,7 @@
 !new/[CureCom] Fresh Pretty Cure! - 26 [HD][F8850EE3].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.08.[1280x720].[F70E7861].mkv
 !new/[Doremi].HeartCatch.Movie.BD.[1920x1080].[0CC99389].mkv
+!new/[Doremi].Motto.Ojamajo.Doremi.43.[D9FFC4F9].avi
 !new/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri 02 Ending B [BD][1080p-FLAC][80CB7564].mkv
 !new/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri 02 [BD][1080p-FLAC][5D6A40FA].mkv
 !new/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri NCED [BD][1080p-FLAC][66CC177F].mkv
@@ -898,8 +905,10 @@
 !new/[HorribleSubs] Hanasaku Iroha - 01 [720p].mkv
 !new/[HorribleSubs] Lilpri - 50 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 205 [720p].mkv
+!new/[HorribleSubs] Naruto Shippuuden - 206 [720p].mkv
 !new/[HorribleSubs] Nichijou - 01 [720p].mkv
 !new/[HorribleSubs] Rio - Rainbow Gate - 13 [720p].mkv
+!new/[HorribleSubs] SKET Dance - 01 [720p].mkv
 !new/[HorribleSubs] Steins;Gate - 01 [720p].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 26 [720p].mkv
 !new/[Licca] Pollyanna Episode 08 (h.264) [7F925829].mkv
@@ -911,6 +920,7 @@
 !new/[Nipponsei] Kore wa Zombie desu ka Original Soundtrack.zip
 !new/[Nipponsei] Soredemo Machi wa Mawatteiru Original Soundtrack.zip
 !new/[Nutbladder]_Kaiji_S2_-_01_[D721C8A7].mkv
+!new/[Nutbladder]_Polysema_Magi_Madoka_Magica_-_01_[78EFCFB8].mkv
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
 !new/[OVA-1991] Kimagure Orange Road Rouge no Dengon/Kimagure_Orange_Road__Rouge_no_Dengon_-_1[1]_-_OVA_[640x480][DVD][bishi][875962B1].avi
 !new/[OVA-1992] Giant Robo/Giant_Robo_-_1[7]_-_The_Black_Attache_Case_[704x480][DVD][G_P][DD833BF2].mkv
@@ -946,8 +956,36 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[WhyNot-Hadena] Gintama - Shinyaku Benizakura-Hen [DVD 480p AAC][F681C4FB].mkv
+!new/[a-s]_sakigake!!_cromartie_high_school_-_01_-_i_used_to_be_a_bad_boy_bragging_contest__ranmasaotome_[1D799C09].mkv
+!new/[a-s]_sakigake!!_cromartie_high_school_-_02_-_blade_runners_high__ranmasaotome_[27576118].mkv
+!new/[a-s]_sakigake!!_cromartie_high_school_-_03_-_cromartie_high_(co-ed)__ranmasaotome_[EBF4FE19].mkv
+!new/[a-s]_sakigake!!_cromartie_high_school_-_04_-_radio_gaga__ranmasaotome_[1371533A].mkv
+!new/[a-s]_sakigake!!_cromartie_high_school_-_05_-_sentimental_bus__ranmasaotome_[958B5AA9].mkv
+!new/[a-s]_sakigake!!_cromartie_high_school_-_06_-_the_empire_of_ambition__ranmasaotome_[B9F246F5].mkv
+!new/[a-s]_sakigake!!_cromartie_high_school_-_07_-_puutan__ranmasaotome_[D24C0239].mkv
+!new/[a-s]_sakigake!!_cromartie_high_school_-_08_-_electric_warrior__ranmasaotome_[B77603EE].mkv
+!new/[a-s]_sakigake!!_cromartie_high_school_-_09_-_reboot__ranmasaotome_[6E94315C].mkv
+!new/[a-s]_sakigake!!_cromartie_high_school_-_10_-_jackson__ranmasaotome_[ADDFECFF].mkv
+!new/[a-s]_sakigake!!_cromartie_high_school_-_11_-_usa_trip__ranmasaotome_[8C665BF6].mkv
+!new/[a-s]_sakigake!!_cromartie_high_school_-_12_-_road_safety__ranmasaotome_[39AD23E7].mkv
+!new/[a-s]_sakigake!!_cromartie_high_school_-_13_-_joshua_tree__ranmasaotome_[F7DC8A22].mkv
+!new/[a-s]_sakigake!!_cromartie_high_school_-_14_-_talking_head__ranmasaotome_[C59A8E66].mkv
+!new/[a-s]_sakigake!!_cromartie_high_school_-_15_-_ok_computer__ranmasaotome_[022EB76B].mkv
+!new/[a-s]_sakigake!!_cromartie_high_school_-_16_-_japan_boss_championships__ranmasaotome_[7D8DEDBF].mkv
+!new/[a-s]_sakigake!!_cromartie_high_school_-_17_-_shooting_star_press__ranmasaotome_[81E538E8].mkv
+!new/[a-s]_sakigake!!_cromartie_high_school_-_18_-_pootan_gets_fired__ranmasaotome_[DC6F96B0].mkv
+!new/[a-s]_sakigake!!_cromartie_high_school_-_19_-_moto-mechazawa__ranmasaotome_[2A911FF4].mkv
+!new/[a-s]_sakigake!!_cromartie_high_school_-_20_-_lost_relation__ranmasaotome_[DA544E69].mkv
+!new/[a-s]_sakigake!!_cromartie_high_school_-_21_-_school_trip__ranmasaotome_[1838E8DC].mkv
+!new/[a-s]_sakigake!!_cromartie_high_school_-_22_-_you_never_give_me_your_name__ranmasaotome_[7C825FE4].mkv
+!new/[a-s]_sakigake!!_cromartie_high_school_-_23_-_stone_cold_crazy__ranmasaotome_[AC5956B4].mkv
+!new/[a-s]_sakigake!!_cromartie_high_school_-_24_-_gorilla_sushi__ranmasaotome_[670A0F6A].mkv
+!new/[a-s]_sakigake!!_cromartie_high_school_-_25_-_a_whole_lot_of_love__ranmasaotome_[D37B6AEF].mkv
+!new/[a-s]_sakigake!!_cromartie_high_school_-_26_-_sudama!!_cromartie_girls_high_school__ranmasaotome_[24BD198F].mkv
+!new/[gg]_Yumekui_Merry_-_13_[8CE290EE].mkv
 !new/[lolgh0st] ORETACHI 1v3 patch.rar
 !new/[lolgh0st]_Ore-tachi_ni_Tsubasa_wa_Nai_-_01_v2_[720p_H264][2C21E842].mkv
+!new/[umee]_Wandering_Son_-_12_[0D23C925].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
