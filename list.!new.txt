@@ -523,6 +523,32 @@
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/List.txt
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/disc_8.jpg
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/mibox_cover.gif
+!new/Mushishi/Mushishi_-_01_-_The_Green_Gathering_-_[niizk](df378a98).mkv
+!new/Mushishi/Mushishi_-_02_-_The_Light_of_the_Eyelids_-_[niizk](46ec2ae2).mkv
+!new/Mushishi/Mushishi_-_03_-_Tender_Horns_-_[niizk](1e64fc07).mkv
+!new/Mushishi/Mushishi_-_04_-_Pillow_Lane_-_[niizk](97e708ad).mkv
+!new/Mushishi/Mushishi_-_05_-_Swamp_that_Travels_-_[niizk](cc3988f1).mkv
+!new/Mushishi/Mushishi_-_06_-_Group_that_Breathes_in_Dew_-_[niizk](7ee1f7bf).mkv
+!new/Mushishi/Mushishi_-_07_-_The_Rain_Falls__a_Rainbow_Forms_-_[niizk](b1682b49).mkv
+!new/Mushishi/Mushishi_-_08_-_From_the_Sea_Border_-_[niizk](534d56b2).mkv
+!new/Mushishi/Mushishi_-_09_-_The_Heavy_Seed_-_[niizk](c43c9d80).mkv
+!new/Mushishi/Mushishi_-_10_-_White_in_the_Ink_Slab_-_[niizk](66835bcd).mkv
+!new/Mushishi/Mushishi_-_11_-_Sleeping_Forest_-_[niizk](271ce526).mkv
+!new/Mushishi/Mushishi_-_12_-_The_One_Eyed_Fish_-_[niizk](cf2f0be4).mkv
+!new/Mushishi/Mushishi_-_13_-_One_Night_Bridge_-_[niizk](fa0b7226).mkv
+!new/Mushishi/Mushishi_-_14_-_Inside_the_Cage_-_[niizk](5350ba7f).mkv
+!new/Mushishi/Mushishi_-_15_-_Feign_Spring_-_[niizk](ed1a31d9).mkv
+!new/Mushishi/Mushishi_-_16_-_Serpent_of_Dawn_-_[niizk](10741eef).mkv
+!new/Mushishi/Mushishi_-_17_-_Picking_the_Empty_Cocoon_-_[niizk](bcaa3e5d).mkv
+!new/Mushishi/Mushishi_-_18_-_The_Robe_that_Embraces_a_Mountain_-_[niizk](2ec5afcd).mkv
+!new/Mushishi/Mushishi_-_19_-_Top_of_the_String_-_[niizk](d9da47ad).mkv
+!new/Mushishi/Mushishi_-_20_-_A_Sea_of_Brushes_-_[niizk](116ebc33).mkv
+!new/Mushishi/Mushishi_-_21_-_The_Cotton_Spore_-_[niizk](5e61c7e8).mkv
+!new/Mushishi/Mushishi_-_22_-_The_Offshore_Shrine_-_[niizk](73844020).mkv
+!new/Mushishi/Mushishi_-_23_-_The_Sound_of_Rust_-_[niizk](585a1f2b).mkv
+!new/Mushishi/Mushishi_-_24_-_Journey_in_the_Field_of_Fire_-_[niizk](b0dc0b1a).mkv
+!new/Mushishi/Mushishi_-_25_-_Eye_of_Fortune__Eye_of_Calamity_-_[niizk](36ca2a4c).mkv
+!new/Mushishi/Mushishi_-_26_-_The_Sound_of_Stepping_Grass_-_[niizk](3bf6721c).mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
@@ -955,7 +981,9 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[UTW]_Kampfer_fur_die_Liebe_-_14_[h264-720p][DB9C442E].mkv
 !new/[WhyNot-Hadena] Gintama - Shinyaku Benizakura-Hen [DVD 480p AAC][F681C4FB].mkv
+!new/[WhyNot] Freezing - 12 [Uncensored][896B166F].mkv
 !new/[a-s]_sakigake!!_cromartie_high_school_-_01_-_i_used_to_be_a_bad_boy_bragging_contest__ranmasaotome_[1D799C09].mkv
 !new/[a-s]_sakigake!!_cromartie_high_school_-_02_-_blade_runners_high__ranmasaotome_[27576118].mkv
 !new/[a-s]_sakigake!!_cromartie_high_school_-_03_-_cromartie_high_(co-ed)__ranmasaotome_[EBF4FE19].mkv
