@@ -908,6 +908,7 @@
 !new/[ARR] Little Women - 01 [5DDDCEA4].mkv
 !new/[AonE]_Haiyoru!_Nyaruani_TV_12_[0987FAD9].mkv
 !new/[Ayako-Himatsubushi]_Dog_Days_-_01v2_[720p][B416ACB0].mkv
+!new/[Ayako-Himatsubushi]_Dog_Days_-_02_[720p][6E9A0AE2].mkv
 !new/[Coalgirls]_Aoi_Bungaku_01_(1280x720_Blu-ray_FLAC)_[E5CAFE78].mkv
 !new/[Coalgirls]_Aoi_Bungaku_02_(1280x720_Blu-ray_FLAC)_[DF715960].mkv
 !new/[Coalgirls]_Aoi_Bungaku_03_(1280x720_Blu-ray_FLAC)_[FD2AED9E].mkv
@@ -939,6 +940,7 @@
 !new/[Coalgirls]_FLCL_Ride_On_Shooting_Star_(960x720_Blu-ray_FLAC)_[EDA4EF3D].mkv
 !new/[Coalgirls]_FLCL_Ride_On_Shooting_Star_Video_(1280x720_Blu-ray_FLAC)_[270312E6].mkv
 !new/[Commie] Level E - 13 [9CD38191].mkv
+!new/[Commie] Maria†Holic Alive - 01 [322CBF46].mkv
 !new/[Commie] Steins;Gate - 01 [5D6ABAE3].mkv
 !new/[Commie] Tiger & Bunny - 01 [39E1E59A].mkv
 !new/[Commie] X-Men - 01 [43164D05].mkv
@@ -951,6 +953,8 @@
 !new/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri 02 [BD][1080p-FLAC][5D6A40FA].mkv
 !new/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri NCED [BD][1080p-FLAC][66CC177F].mkv
 !new/[Frostii]_Tetsuko_no_Tabi_-_02_[2EDA9FAD].mkv
+!new/[GotWoot]_Moonlight_Mile_S2_-_13_[720p_H264_AAC5.1][281CD854].mkv
+!new/[GotWoot]_Moonlight_Mile_S2_-_14_[Final][720p_H264_AAC5.1][6D729F07].mkv
 !new/[GotWoot]_Nana_to_Kaoru_(OAD)_01_[DVD][h264_AAC][24DC80EA].mkv
 !new/[Harth]_Heroman_EX-1_[BD_1280x720_FLAC][C85FDE0D].mkv
 !new/[Harth]_Heroman_EX-2v2_[BD_1280x720_FLAC][99E96D8C].mkv
@@ -1020,6 +1024,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[UTW-Mazui]_Steins;Gate_-_01_[SD][040FAC03].mkv
 !new/[UTW]_Kampfer_fur_die_Liebe_-_14_[h264-720p][DB9C442E].mkv
 !new/[WhyNot-Hadena] Gintama - Shinyaku Benizakura-Hen [DVD 480p AAC][F681C4FB].mkv
 !new/[WhyNot] Freezing - 12 [Uncensored][896B166F].mkv
