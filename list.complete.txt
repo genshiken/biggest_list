@@ -16492,7 +16492,6 @@ complete/w/Wagaya no Oinari-sama/[SS] Wagaya no Oinari-sama - 21 [28CC3C71].mkv
 complete/w/Wagaya no Oinari-sama/[SS] Wagaya no Oinari-sama - 22 [9B871D25].mkv
 complete/w/Wagaya no Oinari-sama/[SS] Wagaya no Oinari-sama - 23 [55AA0410].mkv
 complete/w/Wagaya no Oinari-sama/[SS] Wagaya no Oinari-sama - 24 [End][E1681C54].mkv
-complete/w/Wandering Son/[HorribleSubs] Wandering Son - 11 [End][720p][42D272AF].mkv
 complete/w/Wandering Son/[umee] Wandering Son - 01 [4CE1588E].mkv
 complete/w/Wandering Son/[umee] Wandering Son - 02 [D16C3A49].mkv
 complete/w/Wandering Son/[umee] Wandering Son - 03 [00B3F22D].mkv
@@ -16502,7 +16501,8 @@ complete/w/Wandering Son/[umee] Wandering Son - 06 [949E3178].mkv
 complete/w/Wandering Son/[umee] Wandering Son - 07 [D6C5C3C3].mkv
 complete/w/Wandering Son/[umee] Wandering Son - 08 [FFD5D691].mkv
 complete/w/Wandering Son/[umee] Wandering Son - 09 [8E9AE2B2].mkv
-complete/w/Wandering Son/[umee] Wandering Son - 10 [D41F261C].mkv
+complete/w/Wandering Son/[umee] Wandering Son - 10-11 [D41F261C].mkv
+complete/w/Wandering Son/[umee] Wandering Son - 12 [End][0D23C925].mkv
 complete/w/Welcome to the NHK!/[Oyasumi] Welcome to the NHK! - 01 [B17D228B].mkv
 complete/w/Welcome to the NHK!/[Oyasumi] Welcome to the NHK! - 02 [69D39625].mkv
 complete/w/Welcome to the NHK!/[Oyasumi] Welcome to the NHK! - 03 [v2][A296ECE2].mkv
@@ -17148,6 +17148,19 @@ complete/y/Yume Tsukai/[Arienai-Ureshii] Yume Tsukai - 09 [606E3454].mp4
 complete/y/Yume Tsukai/[Arienai-Ureshii] Yume Tsukai - 10 [DD132D40].mp4
 complete/y/Yume Tsukai/[Arienai-Ureshii] Yume Tsukai - 11 [6F0C4C0C].mp4
 complete/y/Yume Tsukai/[Arienai-Ureshii] Yume Tsukai - 12 [End][5615573E].mp4
+complete/y/Yumekui Merry/[gg] Yumekui Merry - 01 [v2][74AA3CCA].mkv
+complete/y/Yumekui Merry/[gg] Yumekui Merry - 02 [3DA5CBEF].mkv
+complete/y/Yumekui Merry/[gg] Yumekui Merry - 03 [D1746EB4].mkv
+complete/y/Yumekui Merry/[gg] Yumekui Merry - 04 [F2574AC7].mkv
+complete/y/Yumekui Merry/[gg] Yumekui Merry - 05 [FC96B5E4].mkv
+complete/y/Yumekui Merry/[gg] Yumekui Merry - 06 [FD1776E7].mkv
+complete/y/Yumekui Merry/[gg] Yumekui Merry - 07 [35F7AA0F].mkv
+complete/y/Yumekui Merry/[gg] Yumekui Merry - 08 [221F02A5].mkv
+complete/y/Yumekui Merry/[gg] Yumekui Merry - 09 [2987543E].mkv
+complete/y/Yumekui Merry/[gg] Yumekui Merry - 10 [3B0DED73].mkv
+complete/y/Yumekui Merry/[gg] Yumekui Merry - 11 [353D4A9C].mkv
+complete/y/Yumekui Merry/[gg] Yumekui Merry - 12 [C2CE8EA5].mkv
+complete/y/Yumekui Merry/[gg] Yumekui Merry - 13 [End][8CE290EE].mkv
 complete/y/Yumeria/[Anime-Keep] Yumeria - 01 [327D38DA].avi
 complete/y/Yumeria/[Anime-Keep] Yumeria - 02 [9CB1389E].avi
 complete/y/Yumeria/[Anime-Keep] Yumeria - 03 [E1D568A9].avi

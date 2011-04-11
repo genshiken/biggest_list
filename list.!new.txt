@@ -906,10 +906,6 @@
 !new/[AE-Kaen]_Toriko_x_One_Piece_Crossover_[720p][E014E37D].mkv
 !new/[ARR] Aoi Blink - 01 [7CEA315B].mkv
 !new/[ARR] Little Women - 01 [5DDDCEA4].mkv
-!new/[AonE]_Haiyoru!_Nyaruani_TV_12_[0987FAD9].mkv
-!new/[Ayako-Himatsubushi]_Dog_Days_-_01v2_[720p][B416ACB0].mkv
-!new/[Ayako-Himatsubushi]_Dog_Days_-_02_[720p][6E9A0AE2].mkv
-!new/[Ayako-Nishishi]_Softenni_-_01_[720p][A13C299A].mkv
 !new/[Coalgirls]_Aoi_Bungaku_01_(1280x720_Blu-ray_FLAC)_[E5CAFE78].mkv
 !new/[Coalgirls]_Aoi_Bungaku_02_(1280x720_Blu-ray_FLAC)_[DF715960].mkv
 !new/[Coalgirls]_Aoi_Bungaku_03_(1280x720_Blu-ray_FLAC)_[FD2AED9E].mkv
@@ -947,8 +943,6 @@
 !new/[Commie] Tiger & Bunny - 02 [521D1EE6].mkv
 !new/[Commie] X-Men - 01 [43164D05].mkv
 !new/[Commie] X-Men - 02v2 [B0419D64].mkv
-!new/[CureCom] Fresh Pretty Cure! - 25 [HD][431DDF72].mkv
-!new/[CureCom] Fresh Pretty Cure! - 26 [HD][F8850EE3].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.08.[1280x720].[F70E7861].mkv
 !new/[Doremi].HeartCatch.Movie.BD.[1920x1080].[0CC99389].mkv
 !new/[Doremi].Motto.Ojamajo.Doremi.43.[D9FFC4F9].avi
@@ -967,7 +961,6 @@
 !new/[Hatsuyuki]_Freezing_Special_-_01_[BD_1280x720][8E6226F5].mkv
 !new/[Hatsuyuki]_Freezing_Special_-_01v2_[BD_1280x720][25273DD9].mkv
 !new/[HiNA-Wasurenai] Hen Zemi TV 01 [UNCENSORED][1280x720 H264 AAC] [DEAA640C].mkv
-!new/[Himatsubushi-Ayako] Dog Days 01 [1280x720][FAC46F85].mkv
 !new/[HorribleSubs] Astarotte's Toy - 01 [720p].mkv
 !new/[HorribleSubs] Battle Girls - Time Paradox - 01 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 11 [720p].mkv
@@ -977,6 +970,7 @@
 !new/[HorribleSubs] Fairy Tail - 73 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 74 [720p].mkv
 !new/[HorribleSubs] Gintama - 202 [720p].mkv
+!new/[HorribleSubs] Gintama - 203 [720p].mkv
 !new/[HorribleSubs] Hanasaku Iroha - 01 [720p].mkv
 !new/[HorribleSubs] Hanasaku Iroha - 02 [720p].mkv
 !new/[HorribleSubs] Lilpri - 50 [720p].mkv
@@ -988,10 +982,6 @@
 !new/[HorribleSubs] SKET Dance - 01 [720p].mkv
 !new/[HorribleSubs] Steins;Gate - 01 [720p].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 26 [720p].mkv
-!new/[Licca] Pollyanna Episode 08 (h.264) [7F925829].mkv
-!new/[Licca] Pollyanna Episode 09 (h.264) [EEBD4F30].mkv
-!new/[Licca] Pollyanna Episode 10 (h.264) [59742660].mkv
-!new/[Licca] Pollyanna Episode 11 (h.264) [16608522].mkv
 !new/[MSPN-SUBS] Ore-tachi ni Tsubasa wa Nai 01[1280x720] [3853951A].mkv
 !new/[MSPN-SUBS]_Ore-tachi_ni_Tsubasa_wa_Nai_-_01_[1280x720][v2][patch].zip
 !new/[Nipponsei] Kimi ni Todoke 2nd Season Original Soundtrack.zip
@@ -1012,8 +1002,6 @@
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_2[3]_-_On_Stage_[640x480][DVD][CA][4172F5FF].mkv
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_3[3]_-_Which_One_Do_You_Love__[640x480][DVD][CA][D01B97BF].mkv
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_S01[3]_-_Macross_7_P-L-U-S__Mylene_[640x480][LD][CA][C1C8471F].avi
-!new/[Over-Time]_Kamen_Rider_OOO_-_29_[0D250F6D].mkv
-!new/[Over-Time]_Pirate_Sentai_Gokaiger_-_08_[D9E8211F].mkv
 !new/[PM]Pocket_Monsters_Best_Wishes_022_Hiun_City!_Fushide_Panic!![H264_720P][37A043F4].mkv
 !new/[PM]Pocket_Monsters_Best_Wishes_027_Beware_of_the_Cute_Face!_Paralyzed_by_Emonga!![H264_720P][44663507].mkv
 !new/[PM]Pocket_Monsters_Best_Wishes_028_Emonga_VS_Tsutarja!_The_Great_Volt_Switch_Mayhem!![H264_720P][031B3E32].mkv
@@ -1066,11 +1054,8 @@
 !new/[a-s]_sakigake!!_cromartie_high_school_-_24_-_gorilla_sushi__ranmasaotome_[670A0F6A].mkv
 !new/[a-s]_sakigake!!_cromartie_high_school_-_25_-_a_whole_lot_of_love__ranmasaotome_[D37B6AEF].mkv
 !new/[a-s]_sakigake!!_cromartie_high_school_-_26_-_sudama!!_cromartie_girls_high_school__ranmasaotome_[24BD198F].mkv
-!new/[gg]_Yumekui_Merry_-_13_[8CE290EE].mkv
 !new/[lolgh0st] ORETACHI 1v3 patch.rar
 !new/[lolgh0st]_Ore-tachi_ni_Tsubasa_wa_Nai_-_01_v2_[720p_H264][2C21E842].mkv
-!new/[pwq]_A-Channel_-_01_[604D6752].mkv
-!new/[umee]_Wandering_Son_-_12_[0D23C925].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
