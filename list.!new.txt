@@ -968,6 +968,7 @@
 !new/[Hatsuyuki]_Freezing_Special_-_01v2_[BD_1280x720][25273DD9].mkv
 !new/[HiNA-Wasurenai] Hen Zemi TV 01 [UNCENSORED][1280x720 H264 AAC] [DEAA640C].mkv
 !new/[Himatsubushi-Ayako] Dog Days 01 [1280x720][FAC46F85].mkv
+!new/[HorribleSubs] Astarotte's Toy - 01 [720p].mkv
 !new/[HorribleSubs] Battle Girls - Time Paradox - 01 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 11 [720p].mkv
 !new/[HorribleSubs] Bleach - 316 [720p].mkv
@@ -977,6 +978,7 @@
 !new/[HorribleSubs] Fairy Tail - 74 [720p].mkv
 !new/[HorribleSubs] Gintama - 202 [720p].mkv
 !new/[HorribleSubs] Hanasaku Iroha - 01 [720p].mkv
+!new/[HorribleSubs] Hanasaku Iroha - 02 [720p].mkv
 !new/[HorribleSubs] Lilpri - 50 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 205 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 206 [720p].mkv
@@ -989,6 +991,7 @@
 !new/[Licca] Pollyanna Episode 08 (h.264) [7F925829].mkv
 !new/[Licca] Pollyanna Episode 09 (h.264) [EEBD4F30].mkv
 !new/[Licca] Pollyanna Episode 10 (h.264) [59742660].mkv
+!new/[Licca] Pollyanna Episode 11 (h.264) [16608522].mkv
 !new/[MSPN-SUBS] Ore-tachi ni Tsubasa wa Nai 01[1280x720] [3853951A].mkv
 !new/[MSPN-SUBS]_Ore-tachi_ni_Tsubasa_wa_Nai_-_01_[1280x720][v2][patch].zip
 !new/[Nipponsei] Kimi ni Todoke 2nd Season Original Soundtrack.zip
@@ -1009,6 +1012,8 @@
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_2[3]_-_On_Stage_[640x480][DVD][CA][4172F5FF].mkv
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_3[3]_-_Which_One_Do_You_Love__[640x480][DVD][CA][D01B97BF].mkv
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_S01[3]_-_Macross_7_P-L-U-S__Mylene_[640x480][LD][CA][C1C8471F].avi
+!new/[Over-Time]_Kamen_Rider_OOO_-_29_[0D250F6D].mkv
+!new/[Over-Time]_Pirate_Sentai_Gokaiger_-_08_[D9E8211F].mkv
 !new/[PM]Pocket_Monsters_Best_Wishes_022_Hiun_City!_Fushide_Panic!![H264_720P][37A043F4].mkv
 !new/[PM]Pocket_Monsters_Best_Wishes_027_Beware_of_the_Cute_Face!_Paralyzed_by_Emonga!![H264_720P][44663507].mkv
 !new/[PM]Pocket_Monsters_Best_Wishes_028_Emonga_VS_Tsutarja!_The_Great_Volt_Switch_Mayhem!![H264_720P][031B3E32].mkv
