@@ -466,6 +466,7 @@ music/Nipponsei/[Nipponsei] Densetsu no Yuusha no Densetsu ED Single - Truth Of 
 music/Nipponsei/[Nipponsei] Densetsu no Yuusha no Densetsu ED2 Single - Hikari no Firmento [Takagi Ayahi].zip
 music/Nipponsei/[Nipponsei] Densetsu no Yuusha no Densetsu OP Single - LAMENT ~Yagate Yorokobi wo~ [Yuuki Aira].zip
 music/Nipponsei/[Nipponsei] Densetsu no Yuusha no Densetsu OP2 Single - Last Inferno [Ceui].zip
+music/Nipponsei/[Nipponsei] Dog Days OP Single - SCARLET KNIGHT [Mizuki Nana].zip
 music/Nipponsei/[Nipponsei] Doujin Work ED Single - Yumemiru Otome [Mizubashi Mai].zip
 music/Nipponsei/[Nipponsei] Doujin Work OP Single - I jan Yuujou [MAKI].zip
 music/Nipponsei/[Nipponsei] Dragon Crisis! ED Single - Mirai Bowl [Momoiro Clover].zip
@@ -692,6 +693,7 @@ music/Nipponsei/[Nipponsei] Keroro Gunsou ED9 Single - Kurutto Mawatte Ikkaiten 
 music/Nipponsei/[Nipponsei] Keroro Gunsou OP7 Single - Fundari Kettari [Dylan Catherine].zip
 music/Nipponsei/[Nipponsei] Kidou Senshi Gundam SEED DESTINY Special Edition III Unmei no Gouka ED - Enrai ~Tooku ni Aru Akari~ [HIGH and MIGHTY COLOR].zip
 music/Nipponsei/[Nipponsei] Kimi ni Todoke 2nd Season OP Single - Sawakaze [Tanizawa Tomofumi].zip
+music/Nipponsei/[Nipponsei] Kimi ni Todoke 2nd Season Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Kimi ni Todoke 2nd Seasons ED Single - Kimi ni Todoke... [MAY'S].zip
 music/Nipponsei/[Nipponsei] Kiss Dum -ENGAGE planet- ED Single - Kimi ga iru Kagiri [Stephanie].zip
 music/Nipponsei/[Nipponsei] Kodomo no Jikan TV OVA ED Single - Hana Maru Sensation [Little Non].zip
@@ -704,6 +706,7 @@ music/Nipponsei/[Nipponsei] Kono Aozora ni Yakusoku wo Character Song Vol.1 [Saw
 music/Nipponsei/[Nipponsei] Kono Aozora ni Yakusoku wo Character Song Vol.2 [Hayama Umi].zip
 music/Nipponsei/[Nipponsei] Kore wa Zombie desu ka ED Single - Kizuite Zombie-sama, Watashi wa Classmate desu [Yamaguchi Rie with manzo].zip
 music/Nipponsei/[Nipponsei] Kore wa Zombie desu ka OP Single - Makasete Tonight [Nomizu Iori].zip
+music/Nipponsei/[Nipponsei] Kore wa Zombie desu ka Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Koutetsu Sangokushi ED Single - Kuon [Miyano Mamoru].zip
 music/Nipponsei/[Nipponsei] Koutetsu Sangokushi OP Single - Nostalgia [camino].zip
 music/Nipponsei/[Nipponsei] Kujibiki Unbalance ED Single - Harmonies [Nonaka Ai & Koshimizu Ami].zip
@@ -880,6 +883,7 @@ music/Nipponsei/[Nipponsei] Ookiku Furikabutte ED Single - Medaka ga Mita Niji [
 music/Nipponsei/[Nipponsei] Ookiku Furikabutte Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Ore no Imouto ga Konna ni Kawaii Wake ga nai ED3 ED4 Single - Horaism [Various].zip
 music/Nipponsei/[Nipponsei] Ore no Imouto ga Konna ni Kawaii Wake ga nai ED5 ED6 Single - Orange [Various].zip
+music/Nipponsei/[Nipponsei] Ore no Imouto ga Konna ni Kawaii Wake ga nai ED7 ED8 Single - Masquerade! [Various].zip
 music/Nipponsei/[Nipponsei] Ore no Imouto ga Konna ni Kawaii Wake ga nai OP Single - irony [ClariS].zip
 music/Nipponsei/[Nipponsei] Ore no Imouto ga Konna ni Kawaii Wake ga nai Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Otogi Juushi Akazukin Drama & Soundtrack Album 2.zip
@@ -1095,6 +1099,7 @@ music/Nipponsei/[Nipponsei] Sora no Otoshimono Forte Heart Original Soundtrack.z
 music/Nipponsei/[Nipponsei] Sora no Otoshimono Forte OP Single - Heart no Kakuritsu [Yoshida Hitomi & Hayami Saori].zip
 music/Nipponsei/[Nipponsei] Soredemo Machi wa Mawatte iru OP Single - DOWN TOWN [Sakamoto Maaya].zip
 music/Nipponsei/[Nipponsei] Soredemo Machi wa Mawatte iru! ED Single - Maids Sanjou [Maids].zip
+music/Nipponsei/[Nipponsei] Soredemo Machi wa Mawatteiru Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Soukou no Strain OP ED Single - Message [Yoko & Sema].zip
 music/Nipponsei/[Nipponsei] Soukou no Strain Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Soukyuu no Fafner Heaven and Earth Main Theme Single - Soukyuu [angela].zip
@@ -1299,6 +1304,7 @@ music/Nipponsei/[Nipponsei] Wind -a breath of heart- Original Soundtrack Mini Dr
 music/Nipponsei/[Nipponsei] Witchblade ED Single - Ashita no te [Noto Mamiko].zip
 music/Nipponsei/[Nipponsei] Witchblade OP Single - XTC [Psychic Lover] (320 kbps).zip
 music/Nipponsei/[Nipponsei] Working!! Original Soundtrack Vol.2.zip
+music/Nipponsei/[Nipponsei] Working!! Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] World Destruction OP Single - ZERO [AAA].zip
 music/Nipponsei/[Nipponsei] Yakitate Japan ED Single - SUNDAY [The Babystars] [CD0E57D0] 320k CBR.zip
 music/Nipponsei/[Nipponsei] Yakitate Japan ED2 Single - To All Tha Dreamers [SOUL D OUT].zip

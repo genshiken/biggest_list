@@ -914,28 +914,6 @@
 !new/[ARR] Aoi Blink - 01 [7CEA315B].mkv
 !new/[ARR] Little Women - 01 [5DDDCEA4].mkv
 !new/[BSS]_Mobile_Suit_Gundam_Unicorn_-_03_[1080p][6925DF04].mkv
-!new/[Coalgirls]_Aoi_Bungaku_01_(1280x720_Blu-ray_FLAC)_[E5CAFE78].mkv
-!new/[Coalgirls]_Aoi_Bungaku_02_(1280x720_Blu-ray_FLAC)_[DF715960].mkv
-!new/[Coalgirls]_Aoi_Bungaku_03_(1280x720_Blu-ray_FLAC)_[FD2AED9E].mkv
-!new/[Coalgirls]_Aoi_Bungaku_04_(1280x720_Blu-ray_FLAC)_[A1ADE6AC].mkv
-!new/[Coalgirls]_Aoi_Bungaku_05_(1280x720_Blu-ray_FLAC)_[C33C0039].mkv
-!new/[Coalgirls]_Aoi_Bungaku_06_(1280x720_Blu-ray_FLAC)_[80014860].mkv
-!new/[Coalgirls]_Aoi_Bungaku_07_(1280x720_Blu-ray_FLAC)_[DA890523].mkv
-!new/[Coalgirls]_Aoi_Bungaku_08_(1280x720_Blu-ray_FLAC)_[F6A7C338].mkv
-!new/[Coalgirls]_Aoi_Bungaku_09_(1280x720_Blu-ray_FLAC)_[F232B04B].mkv
-!new/[Coalgirls]_Aoi_Bungaku_10_(1280x720_Blu-ray_FLAC)_[E3125073].mkv
-!new/[Coalgirls]_Aoi_Bungaku_11_(1280x720_Blu-ray_FLAC)_[044FCD12].mkv
-!new/[Coalgirls]_Aoi_Bungaku_12_(1280x720_Blu-ray_FLAC)_[F6EE75D6].mkv
-!new/[Coalgirls]_Dragon_Crisis_03_(1280x720_Blu-Ray_FLAC)_[64363E05].mkv
-!new/[Coalgirls]_Dragon_Crisis_04_(1280x720_Blu-Ray_FLAC)_[907941DD].mkv
-!new/[Commie] Level E - 13 [9CD38191].mkv
-!new/[Commie] Maria†Holic Alive - 01 [322CBF46].mkv
-!new/[Commie] Steins;Gate - 01 [5D6ABAE3].mkv
-!new/[Commie] Steins;Gate - 02 [D5F742BB].mkv
-!new/[Commie] Tiger & Bunny - 01 [39E1E59A].mkv
-!new/[Commie] Tiger & Bunny - 02 [521D1EE6].mkv
-!new/[Commie] X-Men - 01 [43164D05].mkv
-!new/[Commie] X-Men - 02v2 [B0419D64].mkv
 !new/[Doki-Chihiro] Hoshizora e Kakaru Hashi - 01 (1280x720 h264 AAC) [84C884AE].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.08.[1280x720].[F70E7861].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.09.v2.[1280x720].[D3619BF8].mkv
@@ -944,10 +922,6 @@
 !new/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri 02 Ending B [BD][1080p-FLAC][80CB7564].mkv
 !new/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri 02 [BD][1080p-FLAC][5D6A40FA].mkv
 !new/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri NCED [BD][1080p-FLAC][66CC177F].mkv
-!new/[Frostii]_Tetsuko_no_Tabi_-_02_[2EDA9FAD].mkv
-!new/[GotWoot]_Moonlight_Mile_S2_-_13_[720p_H264_AAC5.1][281CD854].mkv
-!new/[GotWoot]_Moonlight_Mile_S2_-_14_[Final][720p_H264_AAC5.1][6D729F07].mkv
-!new/[GotWoot]_Nana_to_Kaoru_(OAD)_01_[DVD][h264_AAC][24DC80EA].mkv
 !new/[Harth]_Heroman_EX-1_[BD_1280x720_FLAC][C85FDE0D].mkv
 !new/[Harth]_Heroman_EX-2v2_[BD_1280x720_FLAC][99E96D8C].mkv
 !new/[Harth]_Heroman_EX-3_[BD_1280x720_FLAC][434A50D9].mkv
@@ -975,22 +949,12 @@
 !new/[HorribleSubs] Lilpri - 50 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 205 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 206 [720p].mkv
-!new/[HorribleSubs] Nichijou - 01 [720p].mkv
-!new/[HorribleSubs] Nichijou - 02 [720p].mkv
 !new/[HorribleSubs] Rio - Rainbow Gate - 13 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 01 [720p].mkv
-!new/[HorribleSubs] Steins;Gate - 01 [720p].mkv
-!new/[HorribleSubs] Steins;Gate - 02 [720p].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 26 [720p].mkv
 !new/[HorribleSubs] The World God Only Knows 2 - 01 [720p].mkv
 !new/[MSPN-SUBS] Ore-tachi ni Tsubasa wa Nai 01[1280x720] [3853951A].mkv
 !new/[MSPN-SUBS]_Ore-tachi_ni_Tsubasa_wa_Nai_-_01_[1280x720][v2][patch].zip
-!new/[Nipponsei] Dog Days OP Single - SCARLET KNIGHT [Mizuki Nana].zip
-!new/[Nipponsei] Kimi ni Todoke 2nd Season Original Soundtrack.zip
-!new/[Nipponsei] Kore wa Zombie desu ka Original Soundtrack.zip
-!new/[Nipponsei] Ore no Imouto ga Konna ni Kawaii Wake ga nai ED7 ED8 Single - Masquerade! [Various].zip
-!new/[Nipponsei] Soredemo Machi wa Mawatteiru Original Soundtrack.zip
-!new/[Nipponsei] Working!! Original Soundtrack.zip
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
 !new/[OVA-1991] Kimagure Orange Road Rouge no Dengon/Kimagure_Orange_Road__Rouge_no_Dengon_-_1[1]_-_OVA_[640x480][DVD][bishi][875962B1].avi
 !new/[OVA-1992] Giant Robo/Giant_Robo_-_1[7]_-_The_Black_Attache_Case_[704x480][DVD][G_P][DD833BF2].mkv

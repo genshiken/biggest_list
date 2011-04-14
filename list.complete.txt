@@ -588,18 +588,18 @@ complete/a/Antique Bakery/[gg] Antique Bakery - 09 [66C11DF0].mkv
 complete/a/Antique Bakery/[gg] Antique Bakery - 10 [5B140A4A].mkv
 complete/a/Antique Bakery/[gg] Antique Bakery - 11 [71F93AAD].mkv
 complete/a/Antique Bakery/[gg] Antique Bakery - 12 [End][0697FF47].mkv
-complete/a/Aoi Bungaku/[Commie] Blue Literature - 01-02 [BD][2E5C9D92].mkv
-complete/a/Aoi Bungaku/[Commie] Blue Literature - 03-04 [BD][52573A81].mkv
-complete/a/Aoi Bungaku/[gg] Aoi Bungaku - 01 [v2][1EE05A01].mkv
-complete/a/Aoi Bungaku/[gg] Aoi Bungaku - 02 [EB2566F0].mkv
-complete/a/Aoi Bungaku/[gg] Aoi Bungaku - 03 [4B638808].mkv
-complete/a/Aoi Bungaku/[gg] Aoi Bungaku - 04 [983AED3B].mkv
-complete/a/Aoi Bungaku/[gg] Aoi Bungaku - 05 [16B76F78].mkv
-complete/a/Aoi Bungaku/[gg] Aoi Bungaku - 06 [31C2134F].mkv
-complete/a/Aoi Bungaku/[gg] Aoi Bungaku - 07-08 [E179D65A].mkv
-complete/a/Aoi Bungaku/[gg] Aoi Bungaku - 09 [432BC7B4].mkv
-complete/a/Aoi Bungaku/[gg] Aoi Bungaku - 10 [176D0C92].mkv
-complete/a/Aoi Bungaku/[gg] Aoi Bungaku - 11-12 [End][A30D3FE7].mkv
+complete/a/Aoi Bungaku/[Coalgirls] Aoi Bungaku - 01 [720p BD][E5CAFE78].mkv
+complete/a/Aoi Bungaku/[Coalgirls] Aoi Bungaku - 02 [720p BD][DF715960].mkv
+complete/a/Aoi Bungaku/[Coalgirls] Aoi Bungaku - 03 [720p BD][FD2AED9E].mkv
+complete/a/Aoi Bungaku/[Coalgirls] Aoi Bungaku - 04 [720p BD][A1ADE6AC].mkv
+complete/a/Aoi Bungaku/[Coalgirls] Aoi Bungaku - 05 [720p BD][C33C0039].mkv
+complete/a/Aoi Bungaku/[Coalgirls] Aoi Bungaku - 06 [720p BD][80014860].mkv
+complete/a/Aoi Bungaku/[Coalgirls] Aoi Bungaku - 07 [720p BD][DA890523].mkv
+complete/a/Aoi Bungaku/[Coalgirls] Aoi Bungaku - 08 [720p BD][F6A7C338].mkv
+complete/a/Aoi Bungaku/[Coalgirls] Aoi Bungaku - 09 [720p BD][F232B04B].mkv
+complete/a/Aoi Bungaku/[Coalgirls] Aoi Bungaku - 10 [720p BD][E3125073].mkv
+complete/a/Aoi Bungaku/[Coalgirls] Aoi Bungaku - 11 [720p BD][044FCD12].mkv
+complete/a/Aoi Bungaku/[Coalgirls] Aoi Bungaku - 12 [End][720p BD][F6EE75D6].mkv
 complete/a/Aoi Hana/[Yuurisan-Subs] Aoi Hana - 01 [CFC64E7C].mkv
 complete/a/Aoi Hana/[Yuurisan-Subs] Aoi Hana - 02 [773EB0E3].mkv
 complete/a/Aoi Hana/[Yuurisan-Subs] Aoi Hana - 03 [1B06388E].mkv
@@ -3136,12 +3136,10 @@ complete/d/Doujin Work/[SpoonSubs] Doujin Work - 11 [A666216E].mkv
 complete/d/Doujin Work/[SpoonSubs] Doujin Work - 12 [End][8AE58740].mkv
 complete/d/Dragon Crisis!/[Coalgirls] Dragon Crisis! - 01 [720p BD][A5D5DCD1].mkv
 complete/d/Dragon Crisis!/[Coalgirls] Dragon Crisis! - 02 [720p BD][5B49A4DE].mkv
+complete/d/Dragon Crisis!/[Coalgirls] Dragon Crisis! - 03 [720p BD][64363E05].mkv
+complete/d/Dragon Crisis!/[Coalgirls] Dragon Crisis! - 04 [720p BD][907941DD].mkv
 complete/d/Dragon Crisis!/[Coalgirls] Dragon Crisis! - Ending (Clean) [720p BD][8D69808A].mkv
 complete/d/Dragon Crisis!/[Coalgirls] Dragon Crisis! - Opening (Clean) [720p BD][11DCB896].mkv
-complete/d/Dragon Crisis!/[Underwater-Commie] Dragon Crisis! - 01 [v2 720p][8830ADCF].mkv
-complete/d/Dragon Crisis!/[Underwater-Commie] Dragon Crisis! - 02 [720p][DB72B087].mkv
-complete/d/Dragon Crisis!/[Underwater-Commie] Dragon Crisis! - 03 [720p][758F6FCB].mkv
-complete/d/Dragon Crisis!/[Underwater-Commie] Dragon Crisis! - 04 [720p][76C0E849].mkv
 complete/d/Dragon Crisis!/[Underwater-Commie] Dragon Crisis! - 05 [720p][DC3BB289].mkv
 complete/d/Dragon Crisis!/[Underwater-Commie] Dragon Crisis! - 06 [720p][5DF36DEE].mkv
 complete/d/Dragon Crisis!/[Underwater-Commie] Dragon Crisis! - 07 [720p][C6E1B1FC].mkv
@@ -3705,6 +3703,19 @@ complete/e/Eyeshield 21/[Saizen] Eyeshield 21 - 065 [DVD][5DAFE4AB].mp4
 complete/e/Eyeshield 21/[Saizen] Eyeshield 21 - 066 [DVD][3DF0C028].mp4
 complete/e/Eyeshield 21/[Saizen] Eyeshield 21 - 067 [DVD][905CC0DA].mp4
 complete/e/Eyeshield 21/[Saizen] Eyeshield 21 - 068 [DVD][5A74C232].mp4
+complete/e/Level E/[Commie] Level E - 01 [D82DB09D].mkv
+complete/e/Level E/[Commie] Level E - 02 [7C6BFFDE].mkv
+complete/e/Level E/[Commie] Level E - 03 [4C8BB730].mkv
+complete/e/Level E/[Commie] Level E - 04 [34CDC87A].mkv
+complete/e/Level E/[Commie] Level E - 05 [F18D788C].mkv
+complete/e/Level E/[Commie] Level E - 06 [6014C042].mkv
+complete/e/Level E/[Commie] Level E - 07 [5A093547].mkv
+complete/e/Level E/[Commie] Level E - 08 [AE62E870].mkv
+complete/e/Level E/[Commie] Level E - 09 [7EC7E326].mkv
+complete/e/Level E/[Commie] Level E - 10 [A6985717].mkv
+complete/e/Level E/[Commie] Level E - 11 [BC651F92].mkv
+complete/e/Level E/[Commie] Level E - 12 [4D9B03A7].mkv
+complete/e/Level E/[Commie] Level E - 13 [End][9CD38191].mkv
 complete/e/ef - a tale of melodies/[THORA] ef - a tale of melodies - 01 (1920x1080) [BD][115F08EF].mkv
 complete/e/ef - a tale of melodies/[THORA] ef - a tale of melodies - 02 (1920x1080) [BD][859ABC05].mkv
 complete/e/ef - a tale of melodies/[THORA] ef - a tale of melodies - 03 (1920x1080) [BD][87C25915].mkv
