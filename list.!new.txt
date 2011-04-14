@@ -78,6 +78,7 @@
 !new/Dragon Ball/Movie - 06 - Return Of Cooler.rmvb
 !new/Dragon Ball/Movie - 08 - Broly The Legendary Super Saiyan.rmvb
 !new/Dragon Ball/Movie - 09 - Bojack Unbound.rmvb
+!new/Kamen_Rider_W_Returns_-_Kamen_Rider_Accel_[W-Time].mkv
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_01_[Anime-Empire_&_Aoshi].avi
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_02_[Anime-Empire_&_Aoshi].avi
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_03_[Anime-Empire_&_Aoshi].avi
@@ -798,7 +799,6 @@
 !new/Sakigake_Cromartie_High_-_The_Movie_CD2_[CiMG].avi
 !new/Sakigake_Cromartie_High_-_The_Movie_CD2_[CiMG].idx
 !new/Sakigake_Cromartie_High_-_The_Movie_CD2_[CiMG].sub
-!new/Seikon_no_Qwaser_II/[SubDesu] Seikon no Qwaser II - 01 (1280x720) [916F9A00].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_01v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_02v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_03v2[divx5.1.1].mkv
@@ -931,10 +931,12 @@
 !new/[Commie] Level E - 13 [9CD38191].mkv
 !new/[Commie] Maria†Holic Alive - 01 [322CBF46].mkv
 !new/[Commie] Steins;Gate - 01 [5D6ABAE3].mkv
+!new/[Commie] Steins;Gate - 02 [D5F742BB].mkv
 !new/[Commie] Tiger & Bunny - 01 [39E1E59A].mkv
 !new/[Commie] Tiger & Bunny - 02 [521D1EE6].mkv
 !new/[Commie] X-Men - 01 [43164D05].mkv
 !new/[Commie] X-Men - 02v2 [B0419D64].mkv
+!new/[Doki-Chihiro] Hoshizora e Kakaru Hashi - 01 (1280x720 h264 AAC) [84C884AE].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.08.[1280x720].[F70E7861].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.09.v2.[1280x720].[D3619BF8].mkv
 !new/[Doremi].HeartCatch.Movie.BD.[1920x1080].[0CC99389].mkv
@@ -989,9 +991,6 @@
 !new/[Nipponsei] Ore no Imouto ga Konna ni Kawaii Wake ga nai ED7 ED8 Single - Masquerade! [Various].zip
 !new/[Nipponsei] Soredemo Machi wa Mawatteiru Original Soundtrack.zip
 !new/[Nipponsei] Working!! Original Soundtrack.zip
-!new/[Nutbladder]_Kaiji_S2_-_01_[D721C8A7].mkv
-!new/[Nutbladder]_Kaiji_S2_-_02_[096DDC1E].mkv
-!new/[Nutbladder]_Polysema_Magi_Madoka_Magica_-_01_[78EFCFB8].mkv
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
 !new/[OVA-1991] Kimagure Orange Road Rouge no Dengon/Kimagure_Orange_Road__Rouge_no_Dengon_-_1[1]_-_OVA_[640x480][DVD][bishi][875962B1].avi
 !new/[OVA-1992] Giant Robo/Giant_Robo_-_1[7]_-_The_Black_Attache_Case_[704x480][DVD][G_P][DD833BF2].mkv
@@ -1005,19 +1004,6 @@
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_2[3]_-_On_Stage_[640x480][DVD][CA][4172F5FF].mkv
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_3[3]_-_Which_One_Do_You_Love__[640x480][DVD][CA][D01B97BF].mkv
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_S01[3]_-_Macross_7_P-L-U-S__Mylene_[640x480][LD][CA][C1C8471F].avi
-!new/[PM]Pocket_Monsters_Best_Wishes_022_Hiun_City!_Fushide_Panic!![H264_720P][37A043F4].mkv
-!new/[PM]Pocket_Monsters_Best_Wishes_027_Beware_of_the_Cute_Face!_Paralyzed_by_Emonga!![H264_720P][44663507].mkv
-!new/[PM]Pocket_Monsters_Best_Wishes_028_Emonga_VS_Tsutarja!_The_Great_Volt_Switch_Mayhem!![H264_720P][031B3E32].mkv
-!new/[PM]Pocket_Monsters_Best_Wishes_029_The_Scaaary_Stories_of_Hitomoshi_Mansion![H264_720P][D5CECFA3].mkv
-!new/[ReDone] Soul Link - 06 (DVD) [BB2D5F89].mkv
-!new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 09 [1080p - Bluray][68B29354].mkv
-!new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 10 [1080p - Bluray][17C26724].mkv
-!new/[Ryuumaru] Hyakka Ryouran Samurai Girls - Special 05 [720p][82E4F5F4].mkv
-!new/[SHiN-gx] A-Channel - 01 [Webrip][848x480 h.264 AAC][C0C3E9B9].mkv
-!new/[SRCL-7486] supercell - Today Is A Beautiful Day (Limited Edition)[FLAC+Scans].zip
-!new/[SRCL-7486] supercell - Today Is A Beautiful Day (Limited Edition)[ISO,MDS].rar
-!new/[Shin-S] Ore no Imouto ga Konna ni Kawaii Wake ga Nai ED Single 4 - Masquerade! [Hanazawa Kana & Nabatame Hitomi].zip
-!new/[SubDesu] Shukufuku no Campanella OVA BD Uncensored (1920x1080) [B086CA32].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -1033,16 +1019,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[UTW-Mazui]_Steins;Gate_-_01_[720p][2994A18E].mkv
-!new/[UTW]_Kampfer_fur_die_Liebe_-_14_[h264-720p][DB9C442E].mkv
-!new/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 02 [DVD H264 640x480] [7396A7B7].mkv
-!new/[WhyNot-Hadena] Gintama - Shinyaku Benizakura-Hen [DVD 480p AAC][F681C4FB].mkv
-!new/[WhyNot] Freezing - 12 [Uncensored][896B166F].mkv
-!new/[WhyNot] Yondemasu yo, Azazel-san - 01 [8FE8AA81].mkv
-!new/[aarinfantasy]_Otona_ni_natte_mo_Ep1_[0E1A4D52].avi
-!new/[gg]_Armored_Trooper_VOTOMS_-_Finder_(BD,1080p)_[9F273CE5].mkv
-!new/[lolgh0st] ORETACHI 1v3 patch.rar
-!new/[lolgh0st]_Ore-tachi_ni_Tsubasa_wa_Nai_-_01_v2_[720p_H264][2C21E842].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -1454,9 +1430,3 @@
 !new/raw/natsunoarashi/[SomeBody-Raws][DVD]_Natsu_No_Arashi_-_13_RAW_(704x480_x264_Vorbis).mkv
 !new/raw/natsunoarashi/[SomeBody-Raws][DVD]_Natsu_No_Arashi_-_Clear_ED_(704x480_x264_Vorbis).mkv
 !new/raw/natsunoarashi/[SomeBody-Raws][DVD]_Natsu_No_Arashi_-_Clear_OP_(704x480_x264_Vorbis).mkv
-!new/sf/[Zero-Raws] Shuffle! - 01 (BD 1280x720 x264 FLAC) subbed[2143C867]-TSuNDeRe.mkv
-!new/sf/[Zero-Raws] Shuffle! - 02 (BD 1280x720 x264 FLAC) subbed[96B195B8]-TSuNDeRe.mkv
-!new/sf/[Zero-Raws] Shuffle! - 03 (BD 1280x720 x264 FLAC) subbed[87FB2DD9]-TSuNDeRe.mkv
-!new/sf/[Zero-Raws] Shuffle! - 04 (BD 1280x720 x264 FLAC) subbed[8C611AE2]-TSuNDeRe.mkv
-!new/sf/[Zero-Raws] Shuffle! - 05 (BD 1280x720 x264 FLAC) subbed[05C90195]-TSuNDeRe.mkv
-!new/sf/[Zero-Raws] Shuffle! - 06 (BD 1280x720 x264 FLAC) subbed[F489E7D0]-TSuNDeRe.mkv
