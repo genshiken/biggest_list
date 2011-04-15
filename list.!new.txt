@@ -916,7 +916,13 @@
 !new/[ARR] Aoi Blink - 01 [7CEA315B].mkv
 !new/[ARR] Little Women - 01 [5DDDCEA4].mkv
 !new/[BSS]_Mobile_Suit_Gundam_Unicorn_-_03_[1080p][6925DF04].mkv
+!new/[Commie] The World God Only Knows S2 - 01 [FCC717B4].mkv
+!new/[CureCom] Fresh Pretty Cure! - 07 [DVD][1ECA5CF2].mkv
+!new/[CureCom] Fresh Pretty Cure! - 08 [DVD][B621036F].mkv
+!new/[CureCom] Fresh Pretty Cure! - 09 [DVD][D8BD4E37].mkv
 !new/[Doki-Chihiro] Hoshizora e Kakaru Hashi - 01 (1280x720 h264 AAC) [84C884AE].mkv
+!new/[Doki] 30-sai no Hoken Taiiku - 01 (1280x720 h264 AAC) [2B44FC62].mkv
+!new/[Doki] 30-sai no Hoken Taiiku - 02 (1280x720 h264 AAC) [78037340].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.08.[1280x720].[F70E7861].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.09.v2.[1280x720].[D3619BF8].mkv
 !new/[Doremi].HeartCatch.Movie.BD.[1920x1080].[0CC99389].mkv
@@ -924,6 +930,8 @@
 !new/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri 02 Ending B [BD][1080p-FLAC][80CB7564].mkv
 !new/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri 02 [BD][1080p-FLAC][5D6A40FA].mkv
 !new/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri NCED [BD][1080p-FLAC][66CC177F].mkv
+!new/[GotWoot]_Moonlight_Mile_S2_-_12_[720p_H264_AAC5.1][F7F57767].mkv
+!new/[GotWoot]_Moonlight_Mile_S2_-_14_[Final][720p_H264_AAC5.1][6D729F07].mkv
 !new/[Harth]_Heroman_EX-1_[BD_1280x720_FLAC][C85FDE0D].mkv
 !new/[Harth]_Heroman_EX-2v2_[BD_1280x720_FLAC][99E96D8C].mkv
 !new/[Harth]_Heroman_EX-3_[BD_1280x720_FLAC][434A50D9].mkv
@@ -951,8 +959,11 @@
 !new/[HorribleSubs] Lilpri - 50 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 205 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 206 [720p].mkv
+!new/[HorribleSubs] Naruto Shippuuden - 207 [720p].mkv
+!new/[HorribleSubs] Ore-tachi Ni Tsubasa wa Nai - 01 [720p].mkv
 !new/[HorribleSubs] Rio - Rainbow Gate - 13 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 01 [720p].mkv
+!new/[HorribleSubs] SKET Dance - 02 [720p].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 26 [720p].mkv
 !new/[HorribleSubs] The World God Only Knows 2 - 01 [720p].mkv
 !new/[MSPN-SUBS] Ore-tachi ni Tsubasa wa Nai 01[1280x720] [3853951A].mkv
@@ -970,6 +981,8 @@
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_2[3]_-_On_Stage_[640x480][DVD][CA][4172F5FF].mkv
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_3[3]_-_Which_One_Do_You_Love__[640x480][DVD][CA][D01B97BF].mkv
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_S01[3]_-_Macross_7_P-L-U-S__Mylene_[640x480][LD][CA][C1C8471F].avi
+!new/[RyRo]_Inazuma_Eleven_-_124_(1280x720_x264_AAC)_[395CE547].mkv
+!new/[Saizen]_Ashita_no_Joe_-_19_[DVD][D3C45FCE].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -985,6 +998,12 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[UTW]_Hidan_no_Aria_-_01_[h264-720p][C0289EFA].mkv
+!new/[Underwater-Commie] Astarotte no Omocha! - 01 (720p) [DD4F0AD0].mkv
+!new/[Underwater-Commie] Denpa Onna to Seishun Otoko - 01 (720p) [8A3C0C90].mkv
+!new/[Underwater-Commie] Hanasaku Iroha - 02 (720p) [F3363342].mkv
+!new/[WhyNot-Hadena] Gintama' - 202 [914E5B1B].mkv
+!new/[gg]_C_The_Money_of_Soul_and_Possibility_Control_-_01_[7B880013].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
