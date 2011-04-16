@@ -941,6 +941,7 @@
 !new/[Hatsuyuki]_Freezing_Special_-_01v2_[BD_1280x720][25273DD9].mkv
 !new/[Hatsuyuki]_Hoshizora_e_Kakaru_Hashi_-_01v0_[1280x720][0E391803].mkv
 !new/[HiNA-Wasurenai] Hen Zemi TV 01 [UNCENSORED][1280x720 H264 AAC] [DEAA640C].mkv
+!new/[Hiryuu] Freezing 02 [BD 1280x720 H264 AAC] [7462F0C4].mkv
 !new/[HorribleSubs] Astarotte's Toy - 01 [720p].mkv
 !new/[HorribleSubs] Battle Girls - Time Paradox - 01 [720p].mkv
 !new/[HorribleSubs] Battle Girls - Time Paradox - 02 [720p].mkv
@@ -950,8 +951,10 @@
 !new/[HorribleSubs] Bleach - 317 [720p].mkv
 !new/[HorribleSubs] Bleach - 317v2 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 12 [720p].mkv
+!new/[HorribleSubs] Cardfight!! Vanguard - 14 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 73 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 74 [720p].mkv
+!new/[HorribleSubs] Fairy Tail - 75 [720p].mkv
 !new/[HorribleSubs] Gintama - 202 [720p].mkv
 !new/[HorribleSubs] Gintama - 203 [720p].mkv
 !new/[HorribleSubs] Hanasaku Iroha - 01 [720p].mkv
@@ -968,6 +971,7 @@
 !new/[HorribleSubs] Sekai-ichi Hatsukoi - 02 [720p].mkv
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 26 [720p].mkv
 !new/[HorribleSubs] The World God Only Knows 2 - 01 [720p].mkv
+!new/[Kira-Fansub]_Seikon_no_Qwaser_EX_Music_Video_(BD_1080p_h264_AAC)_[00354880].mkv
 !new/[MSPN-SUBS] Ore-tachi ni Tsubasa wa Nai 01[1280x720] [3853951A].mkv
 !new/[MSPN-SUBS]_Ore-tachi_ni_Tsubasa_wa_Nai_-_01_[1280x720][v2][patch].zip
 !new/[Mazui]_Denpa_Onna_to_Seishun_Otoko_-_01_[7D056FE5].mkv
@@ -1004,6 +1008,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[UTW]_Ano_Hana_-_01_[h264-720p][58F95653].mkv
 !new/[UTW]_Hidan_no_Aria_-_01_[h264-720p][C0289EFA].mkv
 !new/[Underwater-Commie] Astarotte no Omocha! - 01 (720p) [DD4F0AD0].mkv
 !new/[Underwater-Commie] Denpa Onna to Seishun Otoko - 01 (720p) [8A3C0C90].mkv
@@ -1013,7 +1018,6 @@
 !new/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 42 [DVD H264 640x476] [A1E42E91].mkv
 !new/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 43 [DVD H264 640x476] [C53F8941].mkv
 !new/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 44 [DVD H264 640x476] [09868C9C].mkv
-!new/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 45 (April Fools 2010) [DVD H264 640x476] [20100401].mkv
 !new/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 45 [DVD H264 640x476] [87AC8CD4].mkv
 !new/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 46 [DVD H264 640x476] [73C5286E].mkv
 !new/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 47 [DVD H264 640x476] [13BA07F8].mkv
@@ -1022,12 +1026,7 @@
 !new/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 50 [DVD H264 640x476] [1A9884EF].mkv
 !new/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 51 [DVD H264 640x476] [631C02B1].mkv
 !new/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 52 [DVD H264 640x476] [7C7FD75E].mkv
-!new/[WhyNot-Hadena] Gintama' - 202 [914E5B1B].mkv
-!new/[aarinfantasy]_Otona_ni_natte_mo_Ep2_[5EFF771E].avi
-!new/[gg]_Ano_Hi_Mita_Hana_no_Namae_o_Bokutachi_wa_Mada_Shiranai_-_01_[4AB675D1].mkv
-!new/[gg]_C_The_Money_of_Soul_and_Possibility_Control_-_01_[7B880013].mkv
-!new/[gg]_Dororon_Enma-kun_Meramera_-_02_[40804FBA].mkv
-!new/[gg]_Hidan_no_Aria_-_01_[50D65275].mkv
+!new/[gg]_Dororon_Enma-kun_Meramera_-_01_[08BB76C5].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
