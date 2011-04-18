@@ -54,6 +54,7 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - 610 [DCTP][720p][D042FA37].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -915,23 +916,28 @@
 !new/[AE-Kaen]_Toriko_x_One_Piece_Crossover_[720p][E014E37D].mkv
 !new/[ARR] Aoi Blink - 01 [7CEA315B].mkv
 !new/[ARR] Little Women - 01 [5DDDCEA4].mkv
+!new/[Ayako-Himatsubushi]_Dog_Days_-_03_[720p][83703EF1].mkv
 !new/[BSS]_Mobile_Suit_Gundam_Unicorn_-_03_[1080p][6925DF04].mkv
 !new/[Commie] The World God Only Knows S2 - 01 [FCC717B4].mkv
+!new/[Commie] Tiger & Bunny - 03 [A0A9AF73].mkv
+!new/[Commie] X-Men - 03 [AB8918AD].mkv
 !new/[CureCom] Fresh Pretty Cure! - 07 [DVD][1ECA5CF2].mkv
 !new/[CureCom] Fresh Pretty Cure! - 08 [DVD][B621036F].mkv
 !new/[CureCom] Fresh Pretty Cure! - 09 [DVD][D8BD4E37].mkv
 !new/[Doki-Chihiro] Hoshizora e Kakaru Hashi - 01 (1280x720 h264 AAC) [84C884AE].mkv
 !new/[Doki] 30-sai no Hoken Taiiku - 01 (1280x720 h264 AAC) [2B44FC62].mkv
 !new/[Doki] 30-sai no Hoken Taiiku - 02 (1280x720 h264 AAC) [78037340].mkv
+!new/[Doki] Shukufuku no Campanella - OVA (1920x1080 h264 BD FLAC) [3D7C3F8E].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.08.[1280x720].[F70E7861].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.09.v2.[1280x720].[D3619BF8].mkv
+!new/[Doremi-CureCom].Suite.PreCure!.10.[1280x720].[F27D6E44].mkv
 !new/[Doremi].HeartCatch.Movie.BD.[1920x1080].[0CC99389].mkv
 !new/[Doremi].Motto.Ojamajo.Doremi.43.[D9FFC4F9].avi
+!new/[Doremi].Motto.Ojamajo.Doremi.44.[F1682DB5].avi
 !new/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri 02 Ending B [BD][1080p-FLAC][80CB7564].mkv
 !new/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri 02 [BD][1080p-FLAC][5D6A40FA].mkv
 !new/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri NCED [BD][1080p-FLAC][66CC177F].mkv
-!new/[GotWoot]_Moonlight_Mile_S2_-_12_[720p_H264_AAC5.1][F7F57767].mkv
-!new/[GotWoot]_Moonlight_Mile_S2_-_14_[Final][720p_H264_AAC5.1][6D729F07].mkv
+!new/[Formula]_Tales_of_Symphonia_OVA_-_Tethe'alla_Bonus_3_[2123C47B].mkv
 !new/[Harth]_Heroman_EX-1_[BD_1280x720_FLAC][C85FDE0D].mkv
 !new/[Harth]_Heroman_EX-2v2_[BD_1280x720_FLAC][99E96D8C].mkv
 !new/[Harth]_Heroman_EX-3_[BD_1280x720_FLAC][434A50D9].mkv
@@ -941,17 +947,18 @@
 !new/[Hatsuyuki]_Freezing_Special_-_01v2_[BD_1280x720][25273DD9].mkv
 !new/[Hatsuyuki]_Hoshizora_e_Kakaru_Hashi_-_01v0_[1280x720][0E391803].mkv
 !new/[HiNA-Wasurenai] Hen Zemi TV 01 [UNCENSORED][1280x720 H264 AAC] [DEAA640C].mkv
-!new/[Hiryuu] Freezing 02 [BD 1280x720 H264 AAC] [7462F0C4].mkv
 !new/[HorribleSubs] Astarotte's Toy - 01 [720p].mkv
 !new/[HorribleSubs] Battle Girls - Time Paradox - 01 [720p].mkv
 !new/[HorribleSubs] Battle Girls - Time Paradox - 02 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 11 [720p].mkv
+!new/[HorribleSubs] Beelzebub - 13 [720p].mkv
 !new/[HorribleSubs] Bleach - 316 [720p].mkv
 !new/[HorribleSubs] Bleach - 316v2 [720p].mkv
 !new/[HorribleSubs] Bleach - 317 [720p].mkv
 !new/[HorribleSubs] Bleach - 317v2 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 12 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 14 [720p].mkv
+!new/[HorribleSubs] Deadman Wonderland  - 01 [480p].mkv
 !new/[HorribleSubs] Fairy Tail - 73 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 74 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 75 [720p].mkv
@@ -959,6 +966,7 @@
 !new/[HorribleSubs] Gintama - 203 [720p].mkv
 !new/[HorribleSubs] Hanasaku Iroha - 01 [720p].mkv
 !new/[HorribleSubs] Hanasaku Iroha - 02 [720p].mkv
+!new/[HorribleSubs] Hanasaku Iroha - 03 [720p].mkv
 !new/[HorribleSubs] Lilpri - 50 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 205 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 206 [720p].mkv
@@ -972,6 +980,7 @@
 !new/[HorribleSubs] Super Robot Taisen OG - The Inspector - 26 [720p].mkv
 !new/[HorribleSubs] The World God Only Knows 2 - 01 [720p].mkv
 !new/[Kira-Fansub]_Seikon_no_Qwaser_EX_Music_Video_(BD_1080p_h264_AAC)_[00354880].mkv
+!new/[Licca] Pollyanna Episode 12 (h.264) [7BDAEEC4].mkv
 !new/[MSPN-SUBS] Ore-tachi ni Tsubasa wa Nai 01[1280x720] [3853951A].mkv
 !new/[MSPN-SUBS]_Ore-tachi_ni_Tsubasa_wa_Nai_-_01_[1280x720][v2][patch].zip
 !new/[Mazui]_Denpa_Onna_to_Seishun_Otoko_-_01_[7D056FE5].mkv
@@ -989,10 +998,14 @@
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_3[3]_-_Which_One_Do_You_Love__[640x480][DVD][CA][D01B97BF].mkv
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_S01[3]_-_Macross_7_P-L-U-S__Mylene_[640x480][LD][CA][C1C8471F].avi
 !new/[Oni-B]_Yu-Gi-Oh!_Zexal_-_01v2_[720p].mkv
+!new/[Over-Time]_Kamen_Rider_OOO_-_30_[C807BEE9].mkv
+!new/[RyRo]_Digimon_Xros_Wars_-_32_(1280x720_x264_AAC)_[17F7DEB7].mkv
 !new/[RyRo]_Inazuma_Eleven_-_124_(1280x720_x264_AAC)_[395CE547].mkv
 !new/[SMS] Starry Sky - 15 [E4E7A3BF].mkv
 !new/[SMS] Starry Sky - 16 [064084D0].mkv
+!new/[SMS] Starry Sky - 17 [9DCF605A].mkv
 !new/[Saizen]_Ashita_no_Joe_-_19_[DVD][D3C45FCE].mkv
+!new/[SubDesu] Yozakura Quartet ~Hoshi no Umi~ 02 [DVD] [061496B6].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -1011,22 +1024,9 @@
 !new/[UTW]_Ano_Hana_-_01_[h264-720p][58F95653].mkv
 !new/[UTW]_Hidan_no_Aria_-_01_[h264-720p][C0289EFA].mkv
 !new/[Underwater-Commie] Astarotte no Omocha! - 01 (720p) [DD4F0AD0].mkv
+!new/[Underwater-Commie] Astarotte no Omocha! - 02 (720p) [D9EB8E5B].mkv
 !new/[Underwater-Commie] Denpa Onna to Seishun Otoko - 01 (720p) [8A3C0C90].mkv
 !new/[Underwater-Commie] Hanasaku Iroha - 02 (720p) [F3363342].mkv
-!new/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 40 [DVD H264 640x476] [C04B035F].mkv
-!new/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 41 [DVD H264 640x476] [7A846C84].mkv
-!new/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 42 [DVD H264 640x476] [A1E42E91].mkv
-!new/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 43 [DVD H264 640x476] [C53F8941].mkv
-!new/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 44 [DVD H264 640x476] [09868C9C].mkv
-!new/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 45 [DVD H264 640x476] [87AC8CD4].mkv
-!new/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 46 [DVD H264 640x476] [73C5286E].mkv
-!new/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 47 [DVD H264 640x476] [13BA07F8].mkv
-!new/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 48 [DVD H264 640x476] [B44EEE24].mkv
-!new/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 49 [DVD H264 640x476] [42D8AD45].mkv
-!new/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 50 [DVD H264 640x476] [1A9884EF].mkv
-!new/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 51 [DVD H264 640x476] [631C02B1].mkv
-!new/[Wasurenai] Mermaid Melody Pichi Pichi Pitch - 52 [DVD H264 640x476] [7C7FD75E].mkv
-!new/[gg]_Dororon_Enma-kun_Meramera_-_01_[08BB76C5].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
