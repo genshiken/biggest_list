@@ -3967,11 +3967,11 @@ complete/f/Fortune Arterial/[SS] Fortune Arterial - 09 [9E1E6E63].mkv
 complete/f/Fortune Arterial/[SS] Fortune Arterial - 10 [B123468F].mkv
 complete/f/Fortune Arterial/[SS] Fortune Arterial - 11 [E64C5006].mkv
 complete/f/Fortune Arterial/[SS] Fortune Arterial - 12 [End][68BCE900].mkv
-complete/f/Fractale/[UTW] Fractale - 01 [720p][96D3F1BF].mkv
+complete/f/Fractale/[UTW] Fractale - 01 [720p][8CB251E0].mkv
 complete/f/Fractale/[UTW] Fractale - 02 [720p][D7961156].mkv
-complete/f/Fractale/[UTW] Fractale - 03 [720p][FAE7890A].mkv
+complete/f/Fractale/[UTW] Fractale - 03 [720p][3995B7DC].mkv
 complete/f/Fractale/[UTW] Fractale - 04 [720p][BE4B9022].mkv
-complete/f/Fractale/[UTW] Fractale - 05 [720p][64FD8A59].mkv
+complete/f/Fractale/[UTW] Fractale - 05 [720p][A71AD016].mkv
 complete/f/Fractale/[UTW] Fractale - 06 [720p][F8DA9F24].mkv
 complete/f/Fractale/[UTW] Fractale - 07 [720p][5BE422F3].mkv
 complete/f/Fractale/[UTW] Fractale - 08 [720p][E70FEA3E].mkv
@@ -12490,6 +12490,19 @@ complete/r/RideBack/[Frostii] RideBack - 09 (1280x720) [BE6420EC].mkv
 complete/r/RideBack/[Frostii] RideBack - 10 (1280x720) [1F73117D].mkv
 complete/r/RideBack/[Frostii] RideBack - 11 (1280x720) [9A11DFE2].mkv
 complete/r/RideBack/[Frostii] RideBack - 12 (1280x720) [End][C718759B].mkv
+complete/r/Rio - Rainbow Gate/[HorribleSubs] Rio - Rainbow Gate - 01 [v2][720p][BBF561F8].mkv
+complete/r/Rio - Rainbow Gate/[HorribleSubs] Rio - Rainbow Gate - 02 [720p][1FEED5BF].mkv
+complete/r/Rio - Rainbow Gate/[HorribleSubs] Rio - Rainbow Gate - 03 [720p][7533EE13].mkv
+complete/r/Rio - Rainbow Gate/[HorribleSubs] Rio - Rainbow Gate - 04 [720p][B71BB2EF].mkv
+complete/r/Rio - Rainbow Gate/[HorribleSubs] Rio - Rainbow Gate - 05 [720p][1D2B76FA].mkv
+complete/r/Rio - Rainbow Gate/[HorribleSubs] Rio - Rainbow Gate - 06 [720p][E54373FC].mkv
+complete/r/Rio - Rainbow Gate/[HorribleSubs] Rio - Rainbow Gate - 07 [720p][BEE13001].mkv
+complete/r/Rio - Rainbow Gate/[HorribleSubs] Rio - Rainbow Gate - 08 [720p][9ACD6CF9].mkv
+complete/r/Rio - Rainbow Gate/[HorribleSubs] Rio - Rainbow Gate - 09 [720p][17AE3CE5].mkv
+complete/r/Rio - Rainbow Gate/[HorribleSubs] Rio - Rainbow Gate - 10 [720p][8631BA60].mkv
+complete/r/Rio - Rainbow Gate/[HorribleSubs] Rio - Rainbow Gate - 11 [720p][E539EA9F].mkv
+complete/r/Rio - Rainbow Gate/[HorribleSubs] Rio - Rainbow Gate - 12 [720p][12A12C91].mkv
+complete/r/Rio - Rainbow Gate/[HorribleSubs] Rio - Rainbow Gate - 13 [End][720p][7FBE3979].mkv
 complete/r/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 01 [7CE6409E].mkv
 complete/r/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 02 [F791E97C].mkv
 complete/r/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 03 [E15085CA].mkv
@@ -14135,6 +14148,7 @@ complete/s/Shugo Chara!/[chibi] Shugo Chara! - 48 (1280x720) [432A2607].mkv
 complete/s/Shugo Chara!/[chibi] Shugo Chara! - 49 (1280x720) [59ABD24A].mkv
 complete/s/Shugo Chara!/[chibi] Shugo Chara! - 50 (1280x720) [B0EE4D4C].mkv
 complete/s/Shugo Chara!/[chibi] Shugo Chara! - 51 (1280x720) [End][D3CEBC94].mkv
+complete/s/Shukufuku no Campanella OVA/[Doki] Shukufuku no Campanella OVA [1080p BD][3D7C3F8E].mkv
 complete/s/Shukufuku no Campanella OVA/[SubDesu] Shukufuku no Campanella OVA [1080p BD][B086CA32].mkv
 complete/s/Simoun/[Simoun-Fans] Simoun - 01 [427C6D7F].mkv
 complete/s/Simoun/[Simoun-Fans] Simoun - 02 [9E3B103C].mkv
@@ -14986,6 +15000,32 @@ complete/s/Sumomo mo Momo mo/[LuPerry] Sumomo mo Momo mo - 19 (1280x720) [C9EE3C
 complete/s/Sumomo mo Momo mo/[LuPerry] Sumomo mo Momo mo - 20 (1280x720) [8D028070].mkv
 complete/s/Sumomo mo Momo mo/[LuPerry] Sumomo mo Momo mo - 21 (1280x720) [194978AC].mkv
 complete/s/Sumomo mo Momo mo/[LuPerry] Sumomo mo Momo mo - 22 (1280x720) [End][89611273].mkv
+complete/s/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 01 [720p][3E29FBE4].mkv
+complete/s/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 02 [720p][2BB50ED0].mkv
+complete/s/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 03 [720p][92DFA225].mkv
+complete/s/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 04 [720p][D484058F].mkv
+complete/s/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 05 [720p][C3E6204D].mkv
+complete/s/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 06 [720p][FA196E0C].mkv
+complete/s/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 07 [720p][CD493B5D].mkv
+complete/s/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 08 [720p][605557FA].mkv
+complete/s/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 09 [720p][BE3FDF4C].mkv
+complete/s/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 10 [720p][83FA462E].mkv
+complete/s/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 11 [720p][D04F6798].mkv
+complete/s/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 12 [720p][B417723E].mkv
+complete/s/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 13 [720p][EA5938DA].mkv
+complete/s/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 14 [720p][FB878C60].mkv
+complete/s/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 15 [720p][10650E8C].mkv
+complete/s/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 16 [720p][E7A87A56].mkv
+complete/s/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 17 [720p][24ABA9BD].mkv
+complete/s/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 18 [720p][28B81E09].mkv
+complete/s/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 19 [720p][54E2CAFE].mkv
+complete/s/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 20 [720p][6EF3A6F7].mkv
+complete/s/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 21 [720p][1163520A].mkv
+complete/s/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 22 [720p][E146ADDE].mkv
+complete/s/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 23 [720p][F3F60C8E].mkv
+complete/s/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 24 [720p][5927F3D1].mkv
+complete/s/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 25 [720p][6E3D7D9B].mkv
+complete/s/Super Robot Taisen OG - The Inspector/[HorribleSubs] Super Robot Taisen OG - The Inspector - 26 [End][720p][4F2F1B8F].mkv
 complete/s/Suteki Tantei Labyrinth/[Himitsu] Suteki Tantei Labyrinth - 07 [BA3D6A79].avi
 complete/s/Suteki Tantei Labyrinth/[Himitsu] Suteki Tantei Labyrinth - 08 [699C6471].avi
 complete/s/Suteki Tantei Labyrinth/[Himitsu] Suteki Tantei Labyrinth - 09 [7067FDDC].avi
@@ -15689,6 +15729,30 @@ complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - Ending (Clea
 complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - Ending 2 (Clean) (1920x1080) [BD][A864E738].mkv
 complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - Opening (Clean) (1920x1080) [BD][A05D1AE0].mkv
 complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - Opening 2 (Clean) (1920x1080) [BD][1DBD4E2B].mkv
+complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 01 [720p BD][4ADFB900].mkv
+complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 02 [720p BD][0902CCB6].mkv
+complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 03 [720p BD][66F9C70A].mkv
+complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 04 [720p][C00B6237].mkv
+complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 05 [720p][2A4B6293].mkv
+complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 06 [720p][35CDD311].mkv
+complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 07 [720p][5AE671CB].mkv
+complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 08 [720p][7D946CA2].mkv
+complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 09 [720p][06FFA622].mkv
+complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 10 [720p][CB0443DA].mkv
+complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 11 [720p][FB30D0DD].mkv
+complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 12 [v2 720p][4C38B114].mkv
+complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 13 [720p][181AEEEE].mkv
+complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 14 [v2 720p][5FEB162A].mkv
+complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 15 [720p][063FF416].mkv
+complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 16 [v2 720p][0EC72D65].mkv
+complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 17 [v2 720p][5A57BF61].mkv
+complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 18 [720p][451D7C3B].mkv
+complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 19 [720p][044FAA53].mkv
+complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 20 [720p][94047416].mkv
+complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 21 [720p][E45944B4].mkv
+complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 22 [720p][76207104].mkv
+complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 23 [v3 720p][0A6309A4].mkv
+complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 24 [End][v2 720p][91251E3D].mkv
 complete/t/Toaru Majutsu no Index/[Eclipse] Toaru Majutsu no Index - 01 (1280x720) [678AB4A6].mkv
 complete/t/Toaru Majutsu no Index/[Eclipse] Toaru Majutsu no Index - 02 (1280x720) [B4690E27].mkv
 complete/t/Toaru Majutsu no Index/[Eclipse] Toaru Majutsu no Index - 03 (1280x720) [AC578F83].mkv
