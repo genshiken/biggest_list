@@ -911,6 +911,7 @@
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.nfo
 !new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.sfv
 !new/Tenchi Universe/zx.tenchi-universe.01.divx5.ogm
+!new/UTW_Fractale_Patches.zip
 !new/[A-Destiny_SGKK] Toriko - 01 (1280x720 H264 AAC) [C8FD67E4].mkv
 !new/[AE-Kaen]_Toriko_-_02_[720p][960809F4].mkv
 !new/[AE-Kaen]_Toriko_x_One_Piece_Crossover_[720p][E014E37D].mkv
@@ -1104,6 +1105,14 @@
 !new/bla/zx.black.heaven.12.sub.rar
 !new/bla/zx.black.heaven.13.dub.avi
 !new/bla/zx.black.heaven.13.sub.rar
+!new/fra/README.txt
+!new/fra/UTW_Fractale_01v2.bat
+!new/fra/UTW_Fractale_03v2.bat
+!new/fra/UTW_Fractale_05v2.bat
+!new/fra/xdelta3/UTW_Fractale_01v2.xdelta
+!new/fra/xdelta3/UTW_Fractale_03v2.xdelta
+!new/fra/xdelta3/UTW_Fractale_05v2.xdelta
+!new/fra/xdelta3/xdelta3.exe
 !new/gintama 49+147-201/[HorribleSubs] Gintama - 147 [480p] [BEA77820].mkv
 !new/gintama 49+147-201/[HorribleSubs] Gintama - 148 [480p] [BACEFBFD].mkv
 !new/gintama 49+147-201/[HorribleSubs] Gintama - 149 [480p] [F95C0B6F].mkv
