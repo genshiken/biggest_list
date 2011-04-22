@@ -996,23 +996,6 @@
 !new/Tenchi Universe/zx.tenchi-universe.01.divx5.ogm
 !new/VirtualBox-4.0.6-71344-Win.exe
 !new/[A-Destiny_SGKK] Toriko - 01 (1280x720 H264 AAC) [C8FD67E4].mkv
-!new/[A-Flux&Lunar] Mermaid Melody Pichi Pichi Pitch - 01 [B17F4CC5].avi
-!new/[A-Flux&Lunar] Mermaid Melody Pichi Pichi Pitch - 02 [54F7F0EF].avi
-!new/[A-Flux&Lunar] Mermaid Melody Pichi Pichi Pitch - 03 [BF61ADDE].avi
-!new/[A-Flux&Lunar] Mermaid Melody Pichi Pichi Pitch - 04 [23D278C3].avi
-!new/[A-Flux&Lunar] Mermaid Melody Pichi Pichi Pitch - 05 [A41DD7ED].avi
-!new/[A-Flux&Lunar] Mermaid Melody Pichi Pichi Pitch - 06 [E13E45BD].avi
-!new/[A-Flux&Lunar] Mermaid Melody Pichi Pichi Pitch - 07 [9CC0F186].avi
-!new/[A-Flux&Lunar] Mermaid Melody Pichi Pichi Pitch - 08 [BF2B9E5C].avi
-!new/[A-Flux&Lunar] Mermaid Melody Pichi Pichi Pitch - 09 [82CB3874].avi
-!new/[A-Flux&Lunar] Mermaid Melody Pichi Pichi Pitch - 10 [D61471E0].avi
-!new/[A-Flux&Lunar] Mermaid Melody Pichi Pichi Pitch - 11 [1F539767].avi
-!new/[A-Flux&Lunar] Mermaid Melody Pichi Pichi Pitch - 12 [C38D9D2E].avi
-!new/[A-Flux&Lunar] Mermaid Melody Pichi Pichi Pitch - 13 [2CC9137F].avi
-!new/[A-Flux&Lunar] Mermaid Melody Pichi Pichi Pitch - 14 [D8D0E3CB].avi
-!new/[A-Flux&Lunar] Mermaid Melody Pichi Pichi Pitch - 15 [D63775F2].avi
-!new/[A-Flux&Lunar] Mermaid Melody Pichi Pichi Pitch - 16 [1DF8FA06].avi
-!new/[A-Flux&Lunar] Mermaid Melody Pichi Pichi Pitch - 17 [3C3BF57E].avi
 !new/[AE-Kaen]_Toriko_-_02_[720p][960809F4].mkv
 !new/[AE-Kaen]_Toriko_x_One_Piece_Crossover_[720p][E014E37D].mkv
 !new/[Ayako-Nishishi]_Softenni_-_02_[720p][A48E8D59].mkv
@@ -1057,10 +1040,33 @@
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_3[3]_-_Which_One_Do_You_Love__[640x480][DVD][CA][D01B97BF].mkv
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_S01[3]_-_Macross_7_P-L-U-S__Mylene_[640x480][LD][CA][C1C8471F].avi
 !new/[Oni-B] Jewelpet Sunshine - 01 [720p].mkv
+!new/[PM]Best_Wishes_HD.sfv
+!new/[PM]Pocket_Monsters_Best_Wishes_001_To_the_Isshu_Region!_The_Shadow_of_Zekrom!![H264_720P][93A4D8AD].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_002_Iris_and_Kibago![H264_720P][9CDACBD7].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_003_Mijumaru!_Meguroco!_Close_Call!![H264_720P][A35935CB].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_004_Battle_Club!_A_Mysterious_Pokemon_Appears!![H264_720P][41729873].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_005_Sanyo_Gym!_VS_Baoppu,_Hiyappu_and_Yanappu!![H264_720P][0CC995B6].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_006_The_Dream_Site!_Munna_and_Musharna!![H264_720P][E73C19E5].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_007_Tsutarja,_Attraction_via_Getting![H264_720P][58A8B4B5].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_008_Darumakka_and_Hihidaruma!_The_Secret_of_the_Clock_Tower!![H264_720P][EF4D8B00].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_009_Pendror's_Rampage!_Rescue_Kibago!![H264_720P][97CA0CDF].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_010_Rival_Battle!_The_Formidable_Pururill!![H264_720P][071BE9C5].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_011_Ishizumai!_Take_Back_Your_Home!![H264_720P][485AA7F2].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_012_The_Yabukuron_Squadron_and_the_Secret_Base![H264_720P][DC28C1EA].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_013_Chillarmy_is_Tidy![H264_720P][E254C5BD].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_014_Shippo_City!_The_Great_Museum_Adventure!![H264_720P][9CBD5B63].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_015_Shippo_Gym_Match!_VS_Gym_Leader_Aloe!![H264_720P][E45DF0BC].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_016_Rematch_at_Shippo_Gym!_New_Move_Explosion!![H264_720P][AB2ACD4C].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_017_The_Roughneck_Who_Came_From_An_Egg![H264_720P][080A1C9C].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_018_Yaguruma_Forest!_Kurumiru_and_Arti!![H264_720P][86583F2D].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_019_Sommelier_Showdown!_Ishizumai_VS_Futachimaru!![H264_720P][DD2F7A66].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_020_Pikachu_VS_Meguroco_VS_Koaruhie!![H264_720P][40DF32A0].mkv
+!new/[ReDone] Soul Link - 07 (DVD) [E6080280].mkv
 !new/[ReDone] Tonagura! - 07 (DVD) [BDFE38A6].mkv
 !new/[RyRo]_Inazuma_Eleven_-_123_(1280x720_x264_AAC)_[F371CA82].mkv
 !new/[RyRo]_Inazuma_Eleven_-_125_(1280x720_x264_AAC)_[311ECA98].mkv
 !new/[SS] Gosick - 11 (1280x720 h264) [225815E9].mkv
+!new/[SubDesu] 30-sai no Hoken Taiiku - 03 (1280x720) [B2C97712].mkv
 !new/[SubDesu] Seikon no Qwaser II - 02 (1280x720) [A4AEDFC6].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
@@ -1078,6 +1084,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[UTW]_Hidan_no_Aria_-_02_[h264-720p][BC57F04D].mkv
+!new/[Underwater-Commie] Denpa Onna to Seishun Otoko - 02 (720p) [991EC2B9].mkv
 !new/[WhyNot] Hen Zemi - 02 [F99CC5DF].mkv
 !new/[cpx] 吾妻仁美 - ハリネズミ («Azuma Hitomi - Harinezume», Fractale OP Single) (2011.03.09) (FLAC).zip
 !new/[gg]_Ano_Hi_Mita_Hana_no_Namae_o_Bokutachi_wa_Mada_Shiranai_-_02_[E1F68269].mkv
