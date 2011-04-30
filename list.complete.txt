@@ -3967,6 +3967,10 @@ complete/f/Fortune Arterial/[SS] Fortune Arterial - 09 [9E1E6E63].mkv
 complete/f/Fortune Arterial/[SS] Fortune Arterial - 10 [B123468F].mkv
 complete/f/Fortune Arterial/[SS] Fortune Arterial - 11 [E64C5006].mkv
 complete/f/Fortune Arterial/[SS] Fortune Arterial - 12 [End][68BCE900].mkv
+complete/f/Fractale/[Coalgirls] Fractale - 01 [1080p BD][E3E14555].mkv
+complete/f/Fractale/[Coalgirls] Fractale - 02 [1080p BD][C3E802B5].mkv
+complete/f/Fractale/[Coalgirls] Fractale - Ending [1080p BD][736C0598].mkv
+complete/f/Fractale/[Coalgirls] Fractale - Opening [1080p BD][1059D8CF].mkv
 complete/f/Fractale/[UTW] Fractale - 01 [720p][8CB251E0].mkv
 complete/f/Fractale/[UTW] Fractale - 02 [720p][D7961156].mkv
 complete/f/Fractale/[UTW] Fractale - 03 [720p][3995B7DC].mkv
@@ -6182,6 +6186,7 @@ complete/h/High School Girls/[LIME] High School Girls - 09 [69320D40].avi
 complete/h/High School Girls/[LIME] High School Girls - 10 [0B557829].avi
 complete/h/High School Girls/[LIME] High School Girls - 11 [ECE07AE4].avi
 complete/h/High School Girls/[LIME] High School Girls - 12 [End][382501D6].avi
+complete/h/High School of the Dead OVA/[IB] High School of the Dead OVA [1080p BD][A277B7F5].mkv
 complete/h/High School of the Dead/[gg-THORA] High School of the Dead - 01 [1080p BD][190F8F0D].mkv
 complete/h/High School of the Dead/[gg-THORA] High School of the Dead - 02 [1080p BD][FCDB2FE3].mkv
 complete/h/High School of the Dead/[gg-THORA] High School of the Dead - Opening [1080p BD][A77E239C].mkv
@@ -6358,6 +6363,59 @@ complete/h/Himawari/[Mendoi] Himawari - 03 [E7F91496].mkv
 complete/h/Himawari/[Mendoi] Himawari - 04 [C85F5E18].mkv
 complete/h/Himawari/[Mendoi] Himawari - 05 [DEC02EF5].mkv
 complete/h/Himawari/[Mendoi] Himawari - 06 [DVD][0A23ED2C].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[Chihiro] Hime Chen! Otogi Chikku Idol Lilpri - 01 [720p][10115E01].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[Chihiro] Hime Chen! Otogi Chikku Idol Lilpri - 02 [720p][10115E02].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[Chihiro] Hime Chen! Otogi Chikku Idol Lilpri - 03 [720p][10115E03].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[Chihiro] Hime Chen! Otogi Chikku Idol Lilpri - 04 [720p][10115E04].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[Chihiro] Hime Chen! Otogi Chikku Idol Lilpri - 05 [720p][10115E05].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[Chihiro] Hime Chen! Otogi Chikku Idol Lilpri - 06 [720p][10115E06].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[Chihiro] Hime Chen! Otogi Chikku Idol Lilpri - 07 [720p][10115E07].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[Chihiro] Hime Chen! Otogi Chikku Idol Lilpri - 08 [720p][10115E08].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[Chihiro] Hime Chen! Otogi Chikku Idol Lilpri - 09 [720p][10115E09].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[Chihiro] Hime Chen! Otogi Chikku Idol Lilpri - 10 [720p][10115E10].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[Chihiro] Hime Chen! Otogi Chikku Idol Lilpri - 11 [720p][10115E11].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[Chihiro] Hime Chen! Otogi Chikku Idol Lilpri - 12 [720p][10115E12].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[Chihiro] Hime Chen! Otogi Chikku Idol Lilpri - 13 [720p][10115E13].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[Chihiro] Hime Chen! Otogi Chikku Idol Lilpri - 14 [720p][10115E14].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[Chihiro] Hime Chen! Otogi Chikku Idol Lilpri - 15 [720p][10115E15].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[Chihiro] Hime Chen! Otogi Chikku Idol Lilpri - 16 [720p][10115E16].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[Chihiro] Hime Chen! Otogi Chikku Idol Lilpri - 17 [720p][10115E17].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[Chihiro] Hime Chen! Otogi Chikku Idol Lilpri - Ending [720p][10115EB1].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[Chihiro] Hime Chen! Otogi Chikku Idol Lilpri - Opening [720p][10115EA1].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 18 [720p][7D3B0698].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 19 [720p][0A7FBD30].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 20 [720p][2047BD79].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 21 [720p][447CB7F9].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 22 [720p][4FC4D4F6].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 23 [720p][438FEA0E].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 24 [720p][3FA1C869].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 25 [720p][ECF88773].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 26 [720p][9438E6B1].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 27 [720p][77FF41FE].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 28 [720p][7A65AEC4].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 29 [720p][A60DE56C].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 30 [720p][DD818C78].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 31 [720p][1483FC40].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 32 [720p][3447082A].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 33 [720p][5C1417F0].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 34 [720p][2E859C52].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 35 [720p][940C70F4].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 36 [F5A57999].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 37 [720p][C61AD606].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 38 [720p][244EF81A].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 39 [720p][A5DA901B].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 40 [720p][B99EA670].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 41 [720p][27B171FB].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 42 [720p][0E68E56F].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 43 [720p][9DBEDD24].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 44 [720p][C32220CE].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 45 [v2 720p][D40A9D4A].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 46 [720p][D755F4D4].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 47 [720p][A269115B].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 48 [720p][14E6482B].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 49 [720p][65457DD5].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 50 [720p][A0EE45CA].mkv
+complete/h/Hime Chen! Otogi Chikku Idol Lilpri/[HorribleSubs] Hime Chen! Otogi Chikku Idol Lilpri - 51 [End][720p][CB7C4729].mkv
 complete/h/Himesama Goyoujin/[m.3.3.w] Himesama Goyoujin - 01 [D6A1DB0E].mkv
 complete/h/Himesama Goyoujin/[m.3.3.w] Himesama Goyoujin - 02 [63BCC842].mkv
 complete/h/Himesama Goyoujin/[m.3.3.w] Himesama Goyoujin - 03 [B00BF6FC].mkv
@@ -6575,6 +6633,9 @@ complete/h/Hyper Police/[aod] Hyper Police - 22 [F2EC82FC].ogm
 complete/h/Hyper Police/[aod] Hyper Police - 23 [3155D034].ogm
 complete/h/Hyper Police/[aod] Hyper Police - 24 [3776325E].ogm
 complete/h/Hyper Police/[aod] Hyper Police - 25 [End][D9BE57F7].ogm
+complete/h/hack Quantum/[Fnolli] hack Quantum - 1 [v2][2C60EDE6].mkv
+complete/h/hack Quantum/[Fnolli] hack Quantum - 2 [v2][472A631F].mkv
+complete/h/hack Quantum/[Fnolli] hack Quantum - 3 [End][B4F8B2BC].mkv
 complete/h/hack Roots/[zw] hack Roots - 01 (1280x720) [04AF2C6C].mkv
 complete/h/hack Roots/[zw] hack Roots - 02 (1280x720) [91ED5CBC].mkv
 complete/h/hack Roots/[zw] hack Roots - 03 (1280x720) [D7327558].mkv
@@ -8220,6 +8281,19 @@ complete/k/Kimi ga Nozomu Eien/[KAA] Kimi ga Nozomu Eien - 11 [DVD][6EC2E5A0].mk
 complete/k/Kimi ga Nozomu Eien/[KAA] Kimi ga Nozomu Eien - 12 [DVD][F8B9CD19].mkv
 complete/k/Kimi ga Nozomu Eien/[KAA] Kimi ga Nozomu Eien - 13 [DVD][A5C1D009].mkv
 complete/k/Kimi ga Nozomu Eien/[KAA] Kimi ga Nozomu Eien - 14 [End][DVD][D352D643].mkv
+complete/k/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 00 [BF735BC4].mkv
+complete/k/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 01 [v3][530B1D04].mkv
+complete/k/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 02 [5D0399FB].mkv
+complete/k/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 03 [v2][80F52DFD].mkv
+complete/k/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 04 [3A391A12].mkv
+complete/k/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 05 [82E898A1].mkv
+complete/k/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 06 [B1DBC1EF].mkv
+complete/k/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 07 [929047E4].mkv
+complete/k/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 08 [61B1E116].mkv
+complete/k/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 09 [1C7D99DF].mkv
+complete/k/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 10 [v2][246E6BD5].mkv
+complete/k/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 11 [8A953257].mkv
+complete/k/Kimi ni Todoke 2nd Season/[gg] Kimi ni Todoke 2nd Season - 12 [End][v2][FF09BC14].mkv
 complete/k/Kimi ni Todoke/[Eclipse] Kimi ni Todoke - 01 (1280x720) [59A2304A].mkv
 complete/k/Kimi ni Todoke/[Eclipse] Kimi ni Todoke - 02 (1280x720) [25246574].mkv
 complete/k/Kimi ni Todoke/[Eclipse] Kimi ni Todoke - 03 (1280x720) [2FA15C8D].mkv
@@ -9604,32 +9678,32 @@ complete/m/Mai-Otome Zwei/[SS] Mai-Otome Zwei - 1 [C7E8D780].mkv
 complete/m/Mai-Otome Zwei/[SS] Mai-Otome Zwei - 2 [EAD3EAF2].mkv
 complete/m/Mai-Otome Zwei/[SS] Mai-Otome Zwei - 3 [23DEEEAB].mkv
 complete/m/Mai-Otome Zwei/[SS] Mai-Otome Zwei - 4 [End][44371F87].mkv
-complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 01 (960x720) [BD][8491DF07].mkv
-complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 02 (960x720) [BD][BDDD84DC].mkv
-complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 03 (960x720) [BD][CA8AFB99].mkv
-complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 04 (960x720) [BD][611848A1].mkv
-complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 05 (960x720) [BD][D550E8DD].mkv
-complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 06 (960x720) [BD][C1442B2A].mkv
-complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 07 (960x720) [BD][FC3F53E2].mkv
-complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 08 (960x720) [BD][349844B6].mkv
-complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 09 (960x720) [BD][B49FBFDD].mkv
-complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 10 (960x720) [BD][1CCAF6C5].mkv
-complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 11 (960x720) [BD][1D88431D].mkv
-complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 12 (960x720) [BD][6404767C].mkv
-complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 13 (960x720) [BD][33B661BA].mkv
-complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 14 (960x720) [BD][52931CFD].mkv
-complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 15 (960x720) [BD][497F025F].mkv
-complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 16 (960x720) [BD][5882303E].mkv
-complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 17 (960x720) [BD][5122EBDA].mkv
-complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 18 (960x720) [BD][6196F818].mkv
-complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 19 (960x720) [BD][4C730DB8].mkv
-complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 20 (960x720) [BD][DA387F36].mkv
-complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 21 (960x720) [BD][4DBAA890].mkv
-complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 22 (960x720) [BD][289AE361].mkv
-complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 23 (960x720) [BD][8114ACA4].mkv
-complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 24 (960x720) [BD][7BE294A5].mkv
-complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 25 (960x720) [BD][E9C4E79C].mkv
-complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 26 (960x720) [End][BD][33EB575C].mkv
+complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 01 [720p BD][8491DF07].mkv
+complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 02 [720p BD][BDDD84DC].mkv
+complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 03 [720p BD][CA8AFB99].mkv
+complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 04 [720p BD][611848A1].mkv
+complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 05 [720p BD][D550E8DD].mkv
+complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 06 [720p BD][C1442B2A].mkv
+complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 07 [720p BD][FC3F53E2].mkv
+complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 08 [720p BD][349844B6].mkv
+complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 09 [720p BD][B49FBFDD].mkv
+complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 10 [720p BD][1CCAF6C5].mkv
+complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 11 [720p BD][1D88431D].mkv
+complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 12 [720p BD][6404767C].mkv
+complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 13 [720p BD][33B661BA].mkv
+complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 14 [720p BD][52931CFD].mkv
+complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 15 [720p BD][497F025F].mkv
+complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 16 [720p BD][5882303E].mkv
+complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 17 [720p BD][5122EBDA].mkv
+complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 18 [720p BD][6196F818].mkv
+complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 19 [720p BD][4C730DB8].mkv
+complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 20 [720p BD][DA387F36].mkv
+complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 21 [720p BD][4DBAA890].mkv
+complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 22 [720p BD][289AE361].mkv
+complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 23 [720p BD][8114ACA4].mkv
+complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 24 [720p BD][7BE294A5].mkv
+complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 25 [720p BD][E9C4E79C].mkv
+complete/m/Mai-Otome/[Coalgirls] Mai-Otome - 26 [End][720p BD][33EB575C].mkv
 complete/m/Maison Ikkoku OVA/Maison Ikkoku OVA - 1 [578AED68].avi
 complete/m/Maison Ikkoku OVA/Maison Ikkoku OVA - 2 [End][0A0AB738].avi
 complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 01 [A1A7ACCF].mkv
@@ -10348,28 +10422,29 @@ complete/m/Mission-E/[oom] Mission-E - 10 [3583E4CB].avi
 complete/m/Mission-E/[oom] Mission-E - 11 [810C8C95].avi
 complete/m/Mission-E/[oom] Mission-E - 12 [End][EF270568].avi
 complete/m/Mitsudomoe OVA/[m.3.3.w] Mitsudomoe - 14 OVA [1080p BD][553778B1].mkv
+complete/m/Mitsudomoe OVA/[polished] Mitsudomoe - 14 OVA [1080p BD][C0D66329].mkv
 complete/m/Mitsudomoe Picture Drama/[m.3.3.w] Mitsudomoe Picture Drama - 1 [5AA1CBEE].mkv
 complete/m/Mitsudomoe Picture Drama/[m.3.3.w] Mitsudomoe Picture Drama - 2 [EE82E6F4].mkv
 complete/m/Mitsudomoe Picture Drama/[m.3.3.w] Mitsudomoe Picture Drama - 3 [754559D1].mkv
 complete/m/Mitsudomoe Picture Drama/[m.3.3.w] Mitsudomoe Picture Drama - 4 [8F4EC242].mkv
 complete/m/Mitsudomoe Picture Drama/[m.3.3.w] Mitsudomoe Picture Drama - 5 [0A8EEB54].mkv
 complete/m/Mitsudomoe Picture Drama/[m.3.3.w] Mitsudomoe Picture Drama - 6 [End][9675C519].mkv
-complete/m/Mitsudomoe/[HorribleSubs] Mitsudomoe - 01 (1280x720) [56B68B19].mkv
-complete/m/Mitsudomoe/[HorribleSubs] Mitsudomoe - 02 (1280x720) [7048D204].mkv
-complete/m/Mitsudomoe/[HorribleSubs] Mitsudomoe - 03 (1280x720) [E3886CA2].mkv
-complete/m/Mitsudomoe/[HorribleSubs] Mitsudomoe - 04 (1280x720) [9E43A9AD].mkv
-complete/m/Mitsudomoe/[HorribleSubs] Mitsudomoe - 05 (1280x720) [1756056F].mkv
-complete/m/Mitsudomoe/[HorribleSubs] Mitsudomoe - 06 (1280x720) [CBAFC77A].mkv
-complete/m/Mitsudomoe/[HorribleSubs] Mitsudomoe - 07 (1280x720) [77710EAF].mkv
-complete/m/Mitsudomoe/[HorribleSubs] Mitsudomoe - 08 (1280x720) [E5459E61].mkv
-complete/m/Mitsudomoe/[HorribleSubs] Mitsudomoe - 09 (1280x720) [4A1EAAF1].mkv
-complete/m/Mitsudomoe/[HorribleSubs] Mitsudomoe - 10 (1280x720) [397192B9].mkv
-complete/m/Mitsudomoe/[HorribleSubs] Mitsudomoe - 11 (1280x720) [F22AE1B0].mkv
-complete/m/Mitsudomoe/[HorribleSubs] Mitsudomoe - 12 (1280x720) [A45C4082].mkv
-complete/m/Mitsudomoe/[HorribleSubs] Mitsudomoe - 13 (1280x720) [End][99074B22].mkv
-complete/m/Mitsudomoe/[RaveSubs] Mitsudomoe - 01 (1280x720) [v2][8E6792C6].mkv
-complete/m/Mitsudomoe/[RaveSubs] Mitsudomoe - 02 (1280x720) [E8513815].mkv
-complete/m/Mitsudomoe/[RaveSubs] Mitsudomoe - 03 (1280x720) [v2][B0BE5B25].mkv
+complete/m/Mitsudomoe/[polished] Mitsudomoe - 01 [v2 1080p BD][F05BD8B1].mkv
+complete/m/Mitsudomoe/[polished] Mitsudomoe - 02 [v2 1080p BD][D90EE8FE].mkv
+complete/m/Mitsudomoe/[polished] Mitsudomoe - 03 [1080p BD][B94932B4].mkv
+complete/m/Mitsudomoe/[polished] Mitsudomoe - 04 [1080p BD][09DE3817].mkv
+complete/m/Mitsudomoe/[polished] Mitsudomoe - 05 [1080p BD][98B1437A].mkv
+complete/m/Mitsudomoe/[polished] Mitsudomoe - 06 [1080p BD][799BACB2].mkv
+complete/m/Mitsudomoe/[polished] Mitsudomoe - 07 [1080p BD][D3CC719A].mkv
+complete/m/Mitsudomoe/[polished] Mitsudomoe - 08 [1080p BD][71191370].mkv
+complete/m/Mitsudomoe/[polished] Mitsudomoe - 09 [1080p BD][DA2C99CA].mkv
+complete/m/Mitsudomoe/[polished] Mitsudomoe - 10 [1080p BD][FFD535A4].mkv
+complete/m/Mitsudomoe/[polished] Mitsudomoe - 11 [1080p BD][33B119A3].mkv
+complete/m/Mitsudomoe/[polished] Mitsudomoe - 12 [1080p BD][82D8AC46].mkv
+complete/m/Mitsudomoe/[polished] Mitsudomoe - 13 [End][1080p BD][9A932856].mkv
+complete/m/Mitsudomoe/[polished] Mitsudomoe - Ending 1 (Clean) [1080p BD][5D86EA4A].mkv
+complete/m/Mitsudomoe/[polished] Mitsudomoe - Ending 2 (Clean) [1080p BD][BAD9FDB7].mkv
+complete/m/Mitsudomoe/[polished] Mitsudomoe - Opening (Clean) [1080p BD][E549CF2D].mkv
 complete/m/Mnemosyne/[A-E & Ureshii] Mnemosyne - 2 [DVD][1D3C117D].mkv
 complete/m/Mnemosyne/[A-E & Ureshii] Mnemosyne - 3 [DVD][6E543F20].mkv
 complete/m/Mnemosyne/[A-E & Ureshii] Mnemosyne - 4 [DVD][1B7AAB48].mkv
@@ -10566,6 +10641,32 @@ complete/m/Mushi-Uta/[SBS] Mushi-Uta - 09 [B1A02BBD].mkv
 complete/m/Mushi-Uta/[SBS] Mushi-Uta - 10 [37BB0BD8].mkv
 complete/m/Mushi-Uta/[SBS] Mushi-Uta - 11 [CBC7D8B6].mkv
 complete/m/Mushi-Uta/[SBS] Mushi-Uta - 12 [End][2560002F].mkv
+complete/m/Mushishi/[niizk] Mushishi - 01 [DF378A98].mkv
+complete/m/Mushishi/[niizk] Mushishi - 02 [46EC2AE2].mkv
+complete/m/Mushishi/[niizk] Mushishi - 03 [1E64FC07].mkv
+complete/m/Mushishi/[niizk] Mushishi - 04 [97E708AD].mkv
+complete/m/Mushishi/[niizk] Mushishi - 05 [CC3988F1].mkv
+complete/m/Mushishi/[niizk] Mushishi - 06 [7EE1F7BF].mkv
+complete/m/Mushishi/[niizk] Mushishi - 07 [B1682B49].mkv
+complete/m/Mushishi/[niizk] Mushishi - 08 [534D56B2].mkv
+complete/m/Mushishi/[niizk] Mushishi - 09 [C43C9D80].mkv
+complete/m/Mushishi/[niizk] Mushishi - 10 [66835BCD].mkv
+complete/m/Mushishi/[niizk] Mushishi - 11 [271CE526].mkv
+complete/m/Mushishi/[niizk] Mushishi - 12 [CF2F0BE4].mkv
+complete/m/Mushishi/[niizk] Mushishi - 13 [FA0B7226].mkv
+complete/m/Mushishi/[niizk] Mushishi - 14 [5350BA7F].mkv
+complete/m/Mushishi/[niizk] Mushishi - 15 [ED1A31D9].mkv
+complete/m/Mushishi/[niizk] Mushishi - 16 [10741EEF].mkv
+complete/m/Mushishi/[niizk] Mushishi - 17 [BCAA3E5D].mkv
+complete/m/Mushishi/[niizk] Mushishi - 18 [2EC5AFCD].mkv
+complete/m/Mushishi/[niizk] Mushishi - 19 [D9DA47AD].mkv
+complete/m/Mushishi/[niizk] Mushishi - 20 [116EBC33].mkv
+complete/m/Mushishi/[niizk] Mushishi - 21 [5E61C7E8].mkv
+complete/m/Mushishi/[niizk] Mushishi - 22 [73844020].mkv
+complete/m/Mushishi/[niizk] Mushishi - 23 [585A1F2B].mkv
+complete/m/Mushishi/[niizk] Mushishi - 24 [B0DC0B1A].mkv
+complete/m/Mushishi/[niizk] Mushishi - 25 [36CA2A4C].mkv
+complete/m/Mushishi/[niizk] Mushishi - 26 [End][3BF6721C].mkv
 complete/m/Muteki Kanban Musume/[Kiss-Kyuu] Muteki Kanban Musume - 01 [CDAD8DAC].avi
 complete/m/Muteki Kanban Musume/[Kiss-Kyuu] Muteki Kanban Musume - 02 [01CD7905].avi
 complete/m/Muteki Kanban Musume/[Kiss-Kyuu] Muteki Kanban Musume - 03 [674AA563].avi
@@ -10989,10 +11090,6 @@ complete/n/Natsume Yuujinchou/[BSS] Natsume Yuujinchou - 10 [41577B82].mkv
 complete/n/Natsume Yuujinchou/[BSS] Natsume Yuujinchou - 11 [BA42F76C].mkv
 complete/n/Natsume Yuujinchou/[BSS] Natsume Yuujinchou - 12 [B15C979D].mkv
 complete/n/Natsume Yuujinchou/[BSS] Natsume Yuujinchou - 13 [End][217FF831].mkv
-complete/n/Needless/[Ayako-Himatsubushi] Needless - 09 [720p][83419B02].mkv
-complete/n/Needless/[Ayako-Himatsubushi] Needless - 10 [720p][270005AB].mkv
-complete/n/Needless/[Ayako-Himatsubushi] Needless - 11 [720p][FE2125EE].mkv
-complete/n/Needless/[Ayako-Himatsubushi] Needless - 12 [720p][0793C031].mkv
 complete/n/Needless/[Ayako-Himatsubushi] Needless - 13 [720p][C2F82714].mkv
 complete/n/Needless/[Ayako-Himatsubushi] Needless - 14 [720p][7394A78F].mkv
 complete/n/Needless/[Ayako-Himatsubushi] Needless - 15 [720p][6209ECDB].mkv
@@ -11005,14 +11102,18 @@ complete/n/Needless/[Ayako-Himatsubushi] Needless - 21 [720p][768E10AC].mkv
 complete/n/Needless/[Ayako-Himatsubushi] Needless - 22 [720p][102B2984].mkv
 complete/n/Needless/[Ayako-Himatsubushi] Needless - 23 [720p][EB07E592].mkv
 complete/n/Needless/[Ayako-Himatsubushi] Needless - 24 [720p][End][BC46EDE6].mkv
-complete/n/Needless/[DmonHiro] Needless - 01 [v2 720p BD][B07B5492].mkv
-complete/n/Needless/[DmonHiro] Needless - 02 [v2 720p BD][8FEE677F].mkv
-complete/n/Needless/[DmonHiro] Needless - 03 [v2 720p BD][D089B5E3].mkv
-complete/n/Needless/[DmonHiro] Needless - 04 [720p BD][1ACAFD54].mkv
+complete/n/Needless/[DmonHiro] Needless - 01 [720p BD][D5903F8B].mkv
+complete/n/Needless/[DmonHiro] Needless - 02 [720p BD][1FE15FE5].mkv
+complete/n/Needless/[DmonHiro] Needless - 03 [720p BD][B14A2084].mkv
+complete/n/Needless/[DmonHiro] Needless - 04 [720p BD][B801C3D3].mkv
 complete/n/Needless/[DmonHiro] Needless - 05 [720p BD][A16630B2].mkv
-complete/n/Needless/[DmonHiro] Needless - 06 [720p BD][112A6FF8].mkv
-complete/n/Needless/[DmonHiro] Needless - 07 [720p BD][FBFAB22D].mkv
-complete/n/Needless/[DmonHiro] Needless - 08 [720p BD][7AD5D8AF].mkv
+complete/n/Needless/[DmonHiro] Needless - 06 [720p BD][68BF4BCA].mkv
+complete/n/Needless/[DmonHiro] Needless - 07 [720p BD][560AD4ED].mkv
+complete/n/Needless/[DmonHiro] Needless - 08 [720p BD][4A01D60E].mkv
+complete/n/Needless/[DmonHiro] Needless - 09 [720p BD][E8D8BA83].mkv
+complete/n/Needless/[DmonHiro] Needless - 10 [720p BD][09D3512E].mkv
+complete/n/Needless/[DmonHiro] Needless - 11 [720p BD][5A351804].mkv
+complete/n/Needless/[DmonHiro] Needless - 12 [720p BD][1D495089].mkv
 complete/n/Negima OVA/[AQS-Anime] Negima OVA - Haru [E02565D0].mkv
 complete/n/Negima OVA/[AQS-Anime] Negima OVA - Natsu [3A869559].mkv
 complete/n/Negima!/[Exiled-Destiny] Negima! - 01 [0A6A0F79].mkv
@@ -11283,6 +11384,19 @@ complete/n/Noir/[zx] Noir - 23 [0FF00957].ogm
 complete/n/Noir/[zx] Noir - 24 [7837A3FD].ogm
 complete/n/Noir/[zx] Noir - 25 [F50C358B].ogm
 complete/n/Noir/[zx] Noir - 26 [End][FDA8E521].ogm
+complete/n/Now and Then Here and There/[G_P] Now and Then Here and There - 01 [7875E584].mkv
+complete/n/Now and Then Here and There/[G_P] Now and Then Here and There - 02 [5DD34F8F].mkv
+complete/n/Now and Then Here and There/[G_P] Now and Then Here and There - 03 [6AE89047].mkv
+complete/n/Now and Then Here and There/[G_P] Now and Then Here and There - 04 [9166EA34].mkv
+complete/n/Now and Then Here and There/[G_P] Now and Then Here and There - 05 [138C4718].mkv
+complete/n/Now and Then Here and There/[G_P] Now and Then Here and There - 06 [A2A5DFA1].mkv
+complete/n/Now and Then Here and There/[G_P] Now and Then Here and There - 07 [B30B2D6F].mkv
+complete/n/Now and Then Here and There/[G_P] Now and Then Here and There - 08 [AB801BF5].mkv
+complete/n/Now and Then Here and There/[G_P] Now and Then Here and There - 09 [45FC3B9E].mkv
+complete/n/Now and Then Here and There/[G_P] Now and Then Here and There - 10 [90CD36C4].mkv
+complete/n/Now and Then Here and There/[G_P] Now and Then Here and There - 11 [F94D2C91].mkv
+complete/n/Now and Then Here and There/[G_P] Now and Then Here and There - 12 [EDDB19D0].mkv
+complete/n/Now and Then Here and There/[G_P] Now and Then Here and There - 13 [End][6D3DE267].mkv
 complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 01 [v2][E46F2A29].mkv
 complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 02 [754FE16D].mkv
 complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 03 [78D2C5C7].mkv
@@ -11301,13 +11415,13 @@ complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 14 [71499CAB].mkv
 complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 15 [B3CB522F].mkv
 complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 16 [CA7CDC76].mkv
 complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 17 [A29EF086].mkv
-complete/n/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 18 [FCAFF71B].mkv
-complete/n/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 19 [30009E58].mkv
-complete/n/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 20 [1B413C7D].mkv
-complete/n/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 21 [20B4F82C].mkv
-complete/n/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 22 [A74E8E55].mkv
-complete/n/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 23 [BC9241C7].mkv
-complete/n/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 24 [625509F3].mkv
+complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 18 [65D3FB18].mkv
+complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 19 [5EF1F531].mkv
+complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 20 [FF986C98].mkv
+complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 21 [28D5E404].mkv
+complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 22 [12866182].mkv
+complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 23 [80F75FAD].mkv
+complete/n/Nurarihyon no Mago/[Commie] Nurarihyon no Mago - 24 [A2A93E70].mkv
 complete/n/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 25 [D0098060].mkv
 complete/n/Nurarihyon no Mago/[WhyNot] Nurarihyon no Mago - 26 [End][C0E0C3BB].mkv
 complete/n/Nurse Witch Komugi-chan Magikarte Z/[No-Subs] Nurse Witch Komugi-chan Magikarte Z - 1 [v2][296056ED].mkv
@@ -12265,6 +12379,18 @@ complete/p/Puchi Eva Evangelion@School/[ETB] Puchi Eva Evangelion@School - 22 [A
 complete/p/Puchi Eva Evangelion@School/[ETB] Puchi Eva Evangelion@School - 23 [B7736E78].mkv
 complete/p/Puchi Eva Evangelion@School/[ETB] Puchi Eva Evangelion@School - 24 [End][99B1074D].mkv
 complete/p/Puchi Eva Evangelion@School/[ETB] Puchi Eva Evangelion@School - Intro [BA0A14DA].mkv
+complete/p/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 01 [0557C1C6].mkv
+complete/p/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 02 [98A990D8].mkv
+complete/p/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 03 [8442AF1D].mkv
+complete/p/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 04 [C2AEF6CA].mkv
+complete/p/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 05 [241844ED].mkv
+complete/p/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 06 [584027C6].mkv
+complete/p/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 07 [35ED5B25].mkv
+complete/p/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 08 [C862183C].mkv
+complete/p/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 09 [F012C7A7].mkv
+complete/p/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 10 [1A588994].mkv
+complete/p/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 11 [44209DA8].mkv
+complete/p/Puella Magi Madoka Magica/[gg] Puella Magi Madoka Magica - 12 [End][1A2F25C0].mkv
 complete/p/Pumpkin Scissors/[Eclipse] Pumpkin Scissors - 01 (1024x576) [14FE0678].mkv
 complete/p/Pumpkin Scissors/[Eclipse] Pumpkin Scissors - 02 (1024x576) [0CAFB71F].mkv
 complete/p/Pumpkin Scissors/[Eclipse] Pumpkin Scissors - 03 (1024x576) [7A6E7B30].mkv
@@ -12836,6 +12962,21 @@ complete/s/SRWOG - Divine Wars/[SoS-dp] SRWOG - Divine Wars - 23 [AC78EA06].mkv
 complete/s/SRWOG - Divine Wars/[SoS-dp] SRWOG - Divine Wars - 24 [A4931E7E].mkv
 complete/s/SRWOG - Divine Wars/[SoS-dp] SRWOG - Divine Wars - 25 [A9A7054F].mkv
 complete/s/SRWOG - Divine Wars/[SoS-dp] SRWOG - Divine Wars - 26 [End][A72A9070].mkv
+complete/s/Saikano OVA/[a4e] Saikano OVA - 1 [82E0FCF9].mkv
+complete/s/Saikano OVA/[a4e] Saikano OVA - 2 [End][v2][D38C7AB6].mkv
+complete/s/Saikano/[SSP-Corp] Saikano - 01 [BE1537E8].mkv
+complete/s/Saikano/[SSP-Corp] Saikano - 02 [2581EA1D].mkv
+complete/s/Saikano/[SSP-Corp] Saikano - 03 [81DD9AA8].mkv
+complete/s/Saikano/[SSP-Corp] Saikano - 04 [C8912B2A].mkv
+complete/s/Saikano/[SSP-Corp] Saikano - 05 [C9B661F8].mkv
+complete/s/Saikano/[SSP-Corp] Saikano - 06 [54C3991B].mkv
+complete/s/Saikano/[SSP-Corp] Saikano - 07 [CDC5E82E].mkv
+complete/s/Saikano/[SSP-Corp] Saikano - 08 [8DB27FE5].mkv
+complete/s/Saikano/[SSP-Corp] Saikano - 09 [A37A89BB].mkv
+complete/s/Saikano/[SSP-Corp] Saikano - 10 [1827C14A].mkv
+complete/s/Saikano/[SSP-Corp] Saikano - 11 [1A34FE9A].mkv
+complete/s/Saikano/[SSP-Corp] Saikano - 12 [1B835D39].mkv
+complete/s/Saikano/[SSP-Corp] Saikano - 13 [End][8074C598].mkv
 complete/s/Sailor Moon R/[SMC] Sailor Moon R - 01 [DVD][A4314AAB].mkv
 complete/s/Sailor Moon R/[SMC] Sailor Moon R - 02 [DVD][B1724F1C].mkv
 complete/s/Sailor Moon R/[SMC] Sailor Moon R - 03 [DVD][5F24AB54].mkv
@@ -15346,6 +15487,32 @@ complete/t/Telepathy Shoujo Ran/[m.3.3.w] Telepathy Shoujo Ran - 23 (1280x720) [
 complete/t/Telepathy Shoujo Ran/[m.3.3.w] Telepathy Shoujo Ran - 24 (1280x720) [4BBBAE84].mkv
 complete/t/Telepathy Shoujo Ran/[m.3.3.w] Telepathy Shoujo Ran - 25 (1280x720) [D12BCC10].mkv
 complete/t/Telepathy Shoujo Ran/[m.3.3.w] Telepathy Shoujo Ran - 26 (1280x720) [End][A086CDB2].mkv
+complete/t/Tenchi Universe/[zx] Tenchi Universe - 01 [57992583].ogm
+complete/t/Tenchi Universe/[zx] Tenchi Universe - 02 [77283F5B].ogm
+complete/t/Tenchi Universe/[zx] Tenchi Universe - 03 [B7E7CDFD].ogm
+complete/t/Tenchi Universe/[zx] Tenchi Universe - 04 [68946A5E].ogm
+complete/t/Tenchi Universe/[zx] Tenchi Universe - 05 [DDBE9456].ogm
+complete/t/Tenchi Universe/[zx] Tenchi Universe - 06 [63D51C48].ogm
+complete/t/Tenchi Universe/[zx] Tenchi Universe - 07 [BDB26156].ogm
+complete/t/Tenchi Universe/[zx] Tenchi Universe - 08 [1A6590DC].ogm
+complete/t/Tenchi Universe/[zx] Tenchi Universe - 09 [45550FE7].ogm
+complete/t/Tenchi Universe/[zx] Tenchi Universe - 10 [5BAA3E45].ogm
+complete/t/Tenchi Universe/[zx] Tenchi Universe - 11 [D64E8FA0].ogm
+complete/t/Tenchi Universe/[zx] Tenchi Universe - 12 [F5782251].ogm
+complete/t/Tenchi Universe/[zx] Tenchi Universe - 13 [32A8D3B7].ogm
+complete/t/Tenchi Universe/[zx] Tenchi Universe - 14 [C4732358].ogm
+complete/t/Tenchi Universe/[zx] Tenchi Universe - 15 [263CC849].ogm
+complete/t/Tenchi Universe/[zx] Tenchi Universe - 16 [B6E5BDD4].ogm
+complete/t/Tenchi Universe/[zx] Tenchi Universe - 17 [C74FBE72].ogm
+complete/t/Tenchi Universe/[zx] Tenchi Universe - 18 [753BB97E].ogm
+complete/t/Tenchi Universe/[zx] Tenchi Universe - 19 [3234A149].ogm
+complete/t/Tenchi Universe/[zx] Tenchi Universe - 20 [6A094179].ogm
+complete/t/Tenchi Universe/[zx] Tenchi Universe - 21 [0584A411].ogm
+complete/t/Tenchi Universe/[zx] Tenchi Universe - 22 [A63245AC].ogm
+complete/t/Tenchi Universe/[zx] Tenchi Universe - 23 [DA3523AA].ogm
+complete/t/Tenchi Universe/[zx] Tenchi Universe - 24 [1D4A676B].ogm
+complete/t/Tenchi Universe/[zx] Tenchi Universe - 25 [D50B8481].ogm
+complete/t/Tenchi Universe/[zx] Tenchi Universe - 26 [End][FFE76D4C].ogm
 complete/t/Tengen Toppa Gurren Lagann/[BSS] Tengen Toppa Gurren Lagann - 20 [DVD][EE095A1D].mkv
 complete/t/Tengen Toppa Gurren Lagann/[BSS] Tengen Toppa Gurren Lagann - 21 [DVD][5B453C9F].mkv
 complete/t/Tengen Toppa Gurren Lagann/[BSS] Tengen Toppa Gurren Lagann - 22 [DVD][A836998B].mkv
@@ -15810,9 +15977,9 @@ complete/t/Toaru Kagaku no Railgun/[AtsA] Toaru Kagaku no Railgun - Opening 2 (C
 complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 01 [720p BD][4ADFB900].mkv
 complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 02 [720p BD][0902CCB6].mkv
 complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 03 [720p BD][66F9C70A].mkv
-complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 04 [720p][C00B6237].mkv
-complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 05 [720p][2A4B6293].mkv
-complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 06 [720p][35CDD311].mkv
+complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 04 [720p BD][3C59CAF4].mkv
+complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 05 [720p BD][D20B13A0].mkv
+complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 06 [720p BD][F096B83A].mkv
 complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 07 [720p][5AE671CB].mkv
 complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 08 [720p][7D946CA2].mkv
 complete/t/Toaru Majutsu no Index II/[UTW-Mazui] Toaru Majutsu no Index II - 09 [720p][06FFA622].mkv
@@ -15957,8 +16124,8 @@ complete/t/Tonagura!/[ReDone] Tonagura! - 02 [DVD][DB97C3D8].mkv
 complete/t/Tonagura!/[ReDone] Tonagura! - 03 [DVD][25BA734C].mkv
 complete/t/Tonagura!/[ReDone] Tonagura! - 04 [DVD][BBA010EB].mkv
 complete/t/Tonagura!/[ReDone] Tonagura! - 05 [DVD][D28EECB3].mkv
+complete/t/Tonagura!/[ReDone] Tonagura! - 06 [DVD][9585158E].mkv
 complete/t/Tonagura!/[ReDone] Tonagura! - 07 [DVD][BDFE38A6].mkv
-complete/t/Tonagura!/[Ryo] Tonagura! - 06 [9A4C5E06].mp4
 complete/t/Tonagura!/[Ryo] Tonagura! - 08 [E996D57B].mp4
 complete/t/Tonagura!/[Ryo] Tonagura! - 09 [8D893095].mp4
 complete/t/Tonagura!/[Ryo] Tonagura! - 10 [912A1FFD].mp4

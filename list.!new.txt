@@ -50,6 +50,7 @@
 !new/-baru87-/titip bntar jgn diapus/[JPopsuki] VAMPS - Live 2010 BEAUTY AND THE BEAST (WOWOW 1920x1080i MPEG2+AAC).ts012
 !new/.broken/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.mkv
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
+!new/.sh_history
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
@@ -78,7 +79,6 @@
 !new/Dragon Ball/Movie - 06 - Return Of Cooler.rmvb
 !new/Dragon Ball/Movie - 08 - Broly The Legendary Super Saiyan.rmvb
 !new/Dragon Ball/Movie - 09 - Bojack Unbound.rmvb
-!new/Kamen_Rider_W_Returns_-_Kamen_Rider_Accel_[W-Time].mkv
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_01_[Anime-Empire_&_Aoshi].avi
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_02_[Anime-Empire_&_Aoshi].avi
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_03_[Anime-Empire_&_Aoshi].avi
@@ -295,8 +295,95 @@
 !new/LG/[Central Anime] LOGH Gaiden 2 E26 - Survivors 04 [49814d59].mkv
 !new/LG/[Central Anime] LOGH Gaiden 2 E27 - 3rd Battle of Tiamat 01 [28bc0187].mkv
 !new/LG/[Central Anime] LOGH Gaiden 2 E28 - 3rd Battle of Tiamat 02 [240cf9ef].mkv
+!new/Lesson - 01 - Golden Age America.mkv
+!new/Lesson - 02 - The Magdalene Order.mkv
+!new/Lesson - 03 - Secret Weapons Of The Magdalene Order.mkv
+!new/Lesson - 04 - The Apostles.mkv
+!new/Lesson - 05 - Summoned Beasts.mkv
+!new/Lesson - 06 - Devil Worshipers.mkv
+!new/Lesson - 07 - The Sinners.mkv
+!new/Lesson - 08 - Mary Of Magdalene.mkv
+!new/Lesson - 09 - Stigmata.mkv
+!new/Lesson - 10 - The Ritual Of Atonement.mkv
+!new/Lesson - 11 - The Head Of Pandemonium.mkv
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].ENG.srt
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].avi
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_080_[0801598F].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_081_[3FA4EB1F].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_082_[0D70BDAA].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_083_[4136C6F6].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_084_[EBFB56E1].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_085_[22DE696D].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_086_[3F81299D].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_087_[17DA7565].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_088_[B7792C23].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_089_[B578CA9A].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_090_[E3D93334].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_091_[4A263712].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_092_[9F002279].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_093_[95BD20BF].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_094_[9BAB0455].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_095_[266D151B].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_096_[8535A621].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_097_[FE4EBFED].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_098_[93F9C49B].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_099_[61D21DEA].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_100_[7F46E581].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_101_[1D636C6D].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_102_[8D348AC3].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_103_[7AD0BEEE].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_104_[A56D5094].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_105_[E6F99C1C].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_106_[E36A67C5].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_107_[8F953713].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_108_[9C820FA9].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_109_[0AB4DEB3].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_110_[4D254335].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_111_[228D9726].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_112_[4489F2B9].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_113_[7FEF7DF7].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_114_[420BFBA4].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_115_[BF4C41FC].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_116_[FF9A3239].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_117_[C414DF27].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_118_[5CF5741A].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_119_[9939A284].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_120_[70A35119].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_121_[0E93BFFA].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_122_[85E82129].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_123_[248B5FF0].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_124_[6AF56B37].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_125_[839E0398].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_126_[855473C2].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_127_[4247C04F].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_128_[1329434B].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_129_[5AA0F15D].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_130_[6AA6DC3A].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_131_[DC2C76AC].mkv
+!new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_132_[CC75950B].mkv
+!new/Lupin III/[neo1024] Lupin III - 133 - Keep Your Hands Off the Hot Treasure [AE092C0E].mkv
+!new/Lupin III/[neo1024] Lupin III - 134 - The Climactic Lupin Arrest Operation [BF3C1B3A].mkv
+!new/Lupin III/[neo1024] Lupin III - 135 - Poison and Magic and Lupin III [E2F61056].mkv
+!new/Lupin III/[neo1024] Lupin III - 136 - Revenge of the Gold Butterfly [AE8D6EF2].mkv
+!new/Lupin III/[neo1024] Lupin III - 137 - The Magnificent Team-Play Operation [DE74AB95].mkv
+!new/Lupin III/[neo1024] Lupin III - 138 - The Treasure of Pompeii and Venomous Snakes [B6F5DA98].mkv
+!new/Lupin III/[neo1024] Lupin III - 139 - Steal Everything of Lupin's [0DFEB6E4].mkv
+!new/Lupin III/[neo1024] Lupin III - 140 - Wolf, Run, Pig, Fall Down [5E12C3B2].mkv
+!new/Lupin III/[neo1024] Lupin III - 141 - 1980 Moscow Revelation [98D8DC1B].mkv
+!new/Lupin III/[neo1024] Lupin III - 142 - The Big Favorite Disappeared at the Grand Race [BB866A6C].mkv
+!new/Lupin III/[neo1024] Lupin III - 143 - The Miami Bank Raid Anniversary [E4627758].mkv
+!new/Lupin III/[neo1024] Lupin III - 144 - Fujiko's Close Call Rescue Operation [B9473F42].mkv
+!new/Lupin III/[neo1024] Lupin III - 145 - Albatross - The Wings of Death [3B6D5A36].mkv
+!new/Lupin III/[neo1024] Lupin III - 146 - Lupin's Splendid Failure [C212C657].mkv
+!new/Lupin III/[neo1024] Lupin III - 147 - The Mermaid That Disappeared in the Midnight Sun [3816738D].mkv
+!new/Lupin III/[neo1024] Lupin III - 148 - The Target Is 555 Meters Away [3216AC13].mkv
+!new/Lupin III/[neo1024] Lupin III - 149 - The Treasure of Mecca Wore a Veil [03124BBE].mkv
+!new/Lupin III/[neo1024] Lupin III - 150 - Piano Symphony 'Zoo' [8158E8E8].mkv
+!new/Lupin III/[neo1024] Lupin III - 151 - The Arrest Lupin Highway Operation [A30B3155].mkv
+!new/Lupin III/[neo1024] Lupin III - 152 - Jigen and a Hat and a Pistol [D9D162BB].mkv
+!new/Lupin III/[neo1024] Lupin III - 153 - The Bills That Came from God [10622CD8].mkv
+!new/Lupin III/[neo1024] Lupin III - 154 - The Hexagon's Great Legacy  [C2AE32D4].mkv
+!new/Lupin III/[neo1024] Lupin III - 155 - Farewell, My Beloved Lupin [54750D52].mkv
 !new/Lupin S2/[RiP] Lupin S2 - 001 [42A26DC3].mkv
 !new/Lupin S2/[RiP] Lupin S2 - 002 [B5D0D458].mkv
 !new/Lupin S2/[RiP] Lupin S2 - 003 [0017CBD9].mkv
@@ -649,32 +736,6 @@
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/List.txt
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/disc_8.jpg
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/mibox_cover.gif
-!new/Mushishi/Mushishi_-_01_-_The_Green_Gathering_-_[niizk](df378a98).mkv
-!new/Mushishi/Mushishi_-_02_-_The_Light_of_the_Eyelids_-_[niizk](46ec2ae2).mkv
-!new/Mushishi/Mushishi_-_03_-_Tender_Horns_-_[niizk](1e64fc07).mkv
-!new/Mushishi/Mushishi_-_04_-_Pillow_Lane_-_[niizk](97e708ad).mkv
-!new/Mushishi/Mushishi_-_05_-_Swamp_that_Travels_-_[niizk](cc3988f1).mkv
-!new/Mushishi/Mushishi_-_06_-_Group_that_Breathes_in_Dew_-_[niizk](7ee1f7bf).mkv
-!new/Mushishi/Mushishi_-_07_-_The_Rain_Falls__a_Rainbow_Forms_-_[niizk](b1682b49).mkv
-!new/Mushishi/Mushishi_-_08_-_From_the_Sea_Border_-_[niizk](534d56b2).mkv
-!new/Mushishi/Mushishi_-_09_-_The_Heavy_Seed_-_[niizk](c43c9d80).mkv
-!new/Mushishi/Mushishi_-_10_-_White_in_the_Ink_Slab_-_[niizk](66835bcd).mkv
-!new/Mushishi/Mushishi_-_11_-_Sleeping_Forest_-_[niizk](271ce526).mkv
-!new/Mushishi/Mushishi_-_12_-_The_One_Eyed_Fish_-_[niizk](cf2f0be4).mkv
-!new/Mushishi/Mushishi_-_13_-_One_Night_Bridge_-_[niizk](fa0b7226).mkv
-!new/Mushishi/Mushishi_-_14_-_Inside_the_Cage_-_[niizk](5350ba7f).mkv
-!new/Mushishi/Mushishi_-_15_-_Feign_Spring_-_[niizk](ed1a31d9).mkv
-!new/Mushishi/Mushishi_-_16_-_Serpent_of_Dawn_-_[niizk](10741eef).mkv
-!new/Mushishi/Mushishi_-_17_-_Picking_the_Empty_Cocoon_-_[niizk](bcaa3e5d).mkv
-!new/Mushishi/Mushishi_-_18_-_The_Robe_that_Embraces_a_Mountain_-_[niizk](2ec5afcd).mkv
-!new/Mushishi/Mushishi_-_19_-_Top_of_the_String_-_[niizk](d9da47ad).mkv
-!new/Mushishi/Mushishi_-_20_-_A_Sea_of_Brushes_-_[niizk](116ebc33).mkv
-!new/Mushishi/Mushishi_-_21_-_The_Cotton_Spore_-_[niizk](5e61c7e8).mkv
-!new/Mushishi/Mushishi_-_22_-_The_Offshore_Shrine_-_[niizk](73844020).mkv
-!new/Mushishi/Mushishi_-_23_-_The_Sound_of_Rust_-_[niizk](585a1f2b).mkv
-!new/Mushishi/Mushishi_-_24_-_Journey_in_the_Field_of_Fire_-_[niizk](b0dc0b1a).mkv
-!new/Mushishi/Mushishi_-_25_-_Eye_of_Fortune__Eye_of_Calamity_-_[niizk](36ca2a4c).mkv
-!new/Mushishi/Mushishi_-_26_-_The_Sound_of_Stepping_Grass_-_[niizk](3bf6721c).mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
@@ -853,12 +914,18 @@
 !new/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x23_DVDRiP.rmvb
 !new/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x24_DVDRiP.rmvb
 !new/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x25_DVDRiP.rmvb
-!new/Sakigake_Cromartie_High_-_The_Movie_CD1_[CiMG].avi
-!new/Sakigake_Cromartie_High_-_The_Movie_CD1_[CiMG].idx
-!new/Sakigake_Cromartie_High_-_The_Movie_CD1_[CiMG].sub
-!new/Sakigake_Cromartie_High_-_The_Movie_CD2_[CiMG].avi
-!new/Sakigake_Cromartie_High_-_The_Movie_CD2_[CiMG].idx
-!new/Sakigake_Cromartie_High_-_The_Movie_CD2_[CiMG].sub
+!new/Saishuuheiki Kanojo - Special [E-F & A-E].avi
+!new/Sakigake Cromartie High - The Movie CD1 [CiMG].avi
+!new/Sakigake Cromartie High - The Movie CD1 [CiMG].idx
+!new/Sakigake Cromartie High - The Movie CD1 [CiMG].sub
+!new/Sakigake Cromartie High - The Movie CD2 [CiMG].avi
+!new/Sakigake Cromartie High - The Movie CD2 [CiMG].idx
+!new/Sakigake Cromartie High - The Movie CD2 [CiMG].sub
+!new/Serial Experiments Lain/[KAA]_Serial_Experiments_Lain_01[DVD][F348D976].avi
+!new/Serial Experiments Lain/[KAA]_Serial_Experiments_Lain_02[DVD][83D466C5].avi
+!new/Serial Experiments Lain/[KAA]_Serial_Experiments_Lain_03[DVD][3628606B].avi
+!new/Serial Experiments Lain/[KAA]_Serial_Experiments_Lain_04[DVD][A3480B7D].avi
+!new/Serial Experiments Lain/[KAA]_Serial_Experiments_Lain_05[DVD][674C2A16].avi
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_01v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_02v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_03v2[divx5.1.1].mkv
@@ -939,67 +1006,8 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.01.divx5.ogm
-!new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.02.divx5.ogm
-!new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.03.divx5.ogm
-!new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.04.divx5.ogm
-!new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.05.divx5.ogm
-!new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.06.divx5.ogm
-!new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.07.divx5.ogm
-!new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.08.divx5.ogm
-!new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.09.divx5.ogm
-!new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.10.divx5.ogm
-!new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.11.divx5.ogm
-!new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.12.divx5.ogm
-!new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.13.divx5.ogm
-!new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.14.divx5.ogm
-!new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.15.divx5.ogm
-!new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.16.divx5.ogm
-!new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.17.divx5.ogm
-!new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.18.divx5.ogm
-!new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.19.divx5.ogm
-!new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.20.divx5.ogm
-!new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.21.divx5.ogm
-!new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.22.divx5.ogm
-!new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.23.divx5.ogm
-!new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.24.divx5.ogm
-!new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.25.divx5.ogm
-!new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.26.divx5.ogm
-!new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.nfo
-!new/Tenchi Muyo/Tenchi Universe/zx.tenchi-universe.sfv
-!new/Tenchi Universe/zx.tenchi-universe.01.divx5.ogm
-!new/VirtualBox-4.0.6-71344-Win.exe
-!new/[A-Destiny_SGKK] Toriko - 01 (1280x720 H264 AAC) [C8FD67E4].mkv
-!new/[AE-Kaen]_Toriko_-_02_[720p][960809F4].mkv
-!new/[AE-Kaen]_Toriko_x_One_Piece_Crossover_[720p][E014E37D].mkv
-!new/[Ayako-Nishishi]_Softenni_-_02_[720p][A48E8D59].mkv
-!new/[Commie] Steins;Gate - 03 [52ED6287].mkv
-!new/[Commie] The World God Only Knows S2 - 02 [09DAD96D].mkv
-!new/[Doki-Chihiro] Hoshizora e Kakaru Hashi - 01 (1280x720 h264 AAC) [84C884AE].mkv
-!new/[Doki-Chihiro] Hoshizora e Kakaru Hashi - 02 (848x480 h264 AAC) [5E3D2947].mkv
-!new/[Doki] 30-sai no Hoken Taiiku - 01 (1280x720 h264 AAC) [2B44FC62].mkv
-!new/[Doki] 30-sai no Hoken Taiiku - 02 (1280x720 h264 AAC) [78037340].mkv
-!new/[Doki] A Channel - 03 (1280x720 h264 AAC) [24430048].mkv
-!new/[Doki] Seikon no Qwaser - 10.5 (1280x720 h264 BD FLAC) [985FB5B8].mkv
-!new/[Doki] Seikon no Qwaser - 14 (1280x720 h264 BD FLAC) [7B763DED].mkv
-!new/[Doki] Seikon no Qwaser - 15 (1280x720 h264 BD FLAC) [494E669B].mkv
-!new/[EAC]TVアニメ 「DOG DAYS」 OPテーマ 「SCARLET KNIGHT」／水樹奈々.zip
-!new/[EAC]TVアニメ「花咲くいろは」OPテーマ 「ハナノイロ」／nano.RIPE[APE+CUE+JPG].zip
-!new/[FFFpeeps] Pretty Rhythm - Aurora Dream 01 [480p][BCF75565].mkv
-!new/[FFFpeeps] Soft Tennis 02 [720p][001A0A3B].mkv
-!new/[Formula]_Tales_of_Symphonia_OVA_-_Tethe'alla_Bonus_2_[B7BCAEB0].mkv
-!new/[HorribleSubs] Beelzebub - 12 [720p].mkv
-!new/[HorribleSubs] Cardfight!! Vanguard - 13 [720p].mkv
-!new/[HorribleSubs] Hoshizora e Kakaru Hashi - 02 [720p].mkv
-!new/[HorribleSubs] Lilpri - 23 [720p].mkv
-!new/[HorribleSubs] Naruto Shippuuden - 208 [720p].mkv
-!new/[HorribleSubs] SKET Dance - 03 [720p].mkv
-!new/[HorribleSubs] Sekai-ichi Hatsukoi - 01 [720p].mkv
-!new/[Licca] Happy Kappi Episode 03 (h.264) [1DCFB7D8].mkv
-!new/[Licca] Pollyanna Episode 13 (h.264) [EDAA366F].mkv
-!new/[Lunar] Mermaid Melody Pichi Pichi Pitch Trailer [3B6D2BFF].avi
-!new/[Mazui]_Denpa_Onna_to_Seishun_Otoko_-_02_[5190BBAF].mkv
-!new/[Nutbladder]_Kaiji_S2_-_03_[81E952E7].mkv
+!new/[AE-Kaen] Toriko - 02 [720p][960809F4].mkv
+!new/[AE-Kaen] Toriko x One Piece Crossover [720p][E014E37D].mkv
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
 !new/[OVA-1991] Kimagure Orange Road Rouge no Dengon/Kimagure_Orange_Road__Rouge_no_Dengon_-_1[1]_-_OVA_[640x480][DVD][bishi][875962B1].avi
 !new/[OVA-1992] Giant Robo/Giant_Robo_-_1[7]_-_The_Black_Attache_Case_[704x480][DVD][G_P][DD833BF2].mkv
@@ -1013,10 +1021,6 @@
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_2[3]_-_On_Stage_[640x480][DVD][CA][4172F5FF].mkv
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_3[3]_-_Which_One_Do_You_Love__[640x480][DVD][CA][D01B97BF].mkv
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_S01[3]_-_Macross_7_P-L-U-S__Mylene_[640x480][LD][CA][C1C8471F].avi
-!new/[Oni-B] Jewelpet Sunshine - 01 [720p].mkv
-!new/[SS] Gosick - 11 (1280x720 h264) [225815E9].mkv
-!new/[SubDesu] 30-sai no Hoken Taiiku - 03 (1280x720) [B2C97712].mkv
-!new/[SubDesu] Seikon no Qwaser II - 02 (1280x720) [A4AEDFC6].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -1032,16 +1036,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[UTW]_Hidan_no_Aria_-_02_[h264-720p][BC57F04D].mkv
-!new/[Underwater-Commie] Denpa Onna to Seishun Otoko - 02 (720p) [991EC2B9].mkv
-!new/[WhyNot] Hen Zemi - 02 [F99CC5DF].mkv
-!new/[cpx] 吾妻仁美 - ハリネズミ («Azuma Hitomi - Harinezume», Fractale OP Single) (2011.03.09) (FLAC).zip
-!new/[gg]_Ano_Hi_Mita_Hana_no_Namae_o_Bokutachi_wa_Mada_Shiranai_-_02_[E1F68269].mkv
-!new/[gg]_C_The_Money_of_Soul_and_Possibility_Control_-_02_[D51046B2].mkv
-!new/[gg]_Hidan_no_Aria_-_02_[DF338A62].mkv
-!new/[gg]_Puella_Magi_Madoka_Magica_-_11_[44209DA8].mkv
-!new/[gg]_Puella_Magi_Madoka_Magica_-_12_[1A2F25C0].mkv
-!new/[天使动漫][WWW.TSDM.NET][110309]TVアニメ『STAR DRIVER 輝きのタクト』OP2 - 「SHINING☆STAR 」／9nine[FLAC+BK].zip
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -1201,7 +1195,7 @@
 !new/gintama 49+147-201/[Rumbel]_Gintama_-_JUMP_FESTA_05[XviD][8271B673].avi
 !new/gintama 49+147-201/[Rumbel]_Gintama_OVA_-_Shiroyasha_Koutan_[H264][7ACD0725].mkv
 !new/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
-!new/lama/[Ayako] Wei� Survive R - 01 - H264 - E975A989.mkv
+!new/lama/[Ayako] Wei Survive R - 01 - H264 - E975A989.mkv
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
 !new/lama/[Kuroneko] Fullmetal Alchemist - Chibi Party OAV [DB1546EB].avi
 !new/lama/[TAC Studios] Hunter X Hunter - Requiem.avi
