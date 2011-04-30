@@ -51,6 +51,17 @@
 !new/.broken/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.mkv
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
 !new/.sh_history
+!new/Azumaria Lessons/Lesson - 01 - Golden Age America.mkv
+!new/Azumaria Lessons/Lesson - 02 - The Magdalene Order.mkv
+!new/Azumaria Lessons/Lesson - 03 - Secret Weapons Of The Magdalene Order.mkv
+!new/Azumaria Lessons/Lesson - 04 - The Apostles.mkv
+!new/Azumaria Lessons/Lesson - 05 - Summoned Beasts.mkv
+!new/Azumaria Lessons/Lesson - 06 - Devil Worshipers.mkv
+!new/Azumaria Lessons/Lesson - 07 - The Sinners.mkv
+!new/Azumaria Lessons/Lesson - 08 - Mary Of Magdalene.mkv
+!new/Azumaria Lessons/Lesson - 09 - Stigmata.mkv
+!new/Azumaria Lessons/Lesson - 10 - The Ritual Of Atonement.mkv
+!new/Azumaria Lessons/Lesson - 11 - The Head Of Pandemonium.mkv
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
@@ -295,17 +306,6 @@
 !new/LG/[Central Anime] LOGH Gaiden 2 E26 - Survivors 04 [49814d59].mkv
 !new/LG/[Central Anime] LOGH Gaiden 2 E27 - 3rd Battle of Tiamat 01 [28bc0187].mkv
 !new/LG/[Central Anime] LOGH Gaiden 2 E28 - 3rd Battle of Tiamat 02 [240cf9ef].mkv
-!new/Lesson - 01 - Golden Age America.mkv
-!new/Lesson - 02 - The Magdalene Order.mkv
-!new/Lesson - 03 - Secret Weapons Of The Magdalene Order.mkv
-!new/Lesson - 04 - The Apostles.mkv
-!new/Lesson - 05 - Summoned Beasts.mkv
-!new/Lesson - 06 - Devil Worshipers.mkv
-!new/Lesson - 07 - The Sinners.mkv
-!new/Lesson - 08 - Mary Of Magdalene.mkv
-!new/Lesson - 09 - Stigmata.mkv
-!new/Lesson - 10 - The Ritual Of Atonement.mkv
-!new/Lesson - 11 - The Head Of Pandemonium.mkv
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].ENG.srt
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].avi
 !new/Lupin III/[aUmi.rip]_Lupin_III_S2_-_080_[0801598F].mkv
@@ -914,18 +914,12 @@
 !new/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x23_DVDRiP.rmvb
 !new/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x24_DVDRiP.rmvb
 !new/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x25_DVDRiP.rmvb
-!new/Saishuuheiki Kanojo - Special [E-F & A-E].avi
 !new/Sakigake Cromartie High - The Movie CD1 [CiMG].avi
 !new/Sakigake Cromartie High - The Movie CD1 [CiMG].idx
 !new/Sakigake Cromartie High - The Movie CD1 [CiMG].sub
 !new/Sakigake Cromartie High - The Movie CD2 [CiMG].avi
 !new/Sakigake Cromartie High - The Movie CD2 [CiMG].idx
 !new/Sakigake Cromartie High - The Movie CD2 [CiMG].sub
-!new/Serial Experiments Lain/[KAA]_Serial_Experiments_Lain_01[DVD][F348D976].avi
-!new/Serial Experiments Lain/[KAA]_Serial_Experiments_Lain_02[DVD][83D466C5].avi
-!new/Serial Experiments Lain/[KAA]_Serial_Experiments_Lain_03[DVD][3628606B].avi
-!new/Serial Experiments Lain/[KAA]_Serial_Experiments_Lain_04[DVD][A3480B7D].avi
-!new/Serial Experiments Lain/[KAA]_Serial_Experiments_Lain_05[DVD][674C2A16].avi
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_01v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_02v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_03v2[divx5.1.1].mkv
@@ -1006,8 +1000,6 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[AE-Kaen] Toriko - 02 [720p][960809F4].mkv
-!new/[AE-Kaen] Toriko x One Piece Crossover [720p][E014E37D].mkv
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
 !new/[OVA-1991] Kimagure Orange Road Rouge no Dengon/Kimagure_Orange_Road__Rouge_no_Dengon_-_1[1]_-_OVA_[640x480][DVD][bishi][875962B1].avi
 !new/[OVA-1992] Giant Robo/Giant_Robo_-_1[7]_-_The_Black_Attache_Case_[704x480][DVD][G_P][DD833BF2].mkv
@@ -1195,7 +1187,7 @@
 !new/gintama 49+147-201/[Rumbel]_Gintama_-_JUMP_FESTA_05[XviD][8271B673].avi
 !new/gintama 49+147-201/[Rumbel]_Gintama_OVA_-_Shiroyasha_Koutan_[H264][7ACD0725].mkv
 !new/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
-!new/lama/[Ayako] Wei Survive R - 01 - H264 - E975A989.mkv
+!new/lama/[Ayako] Wei� Survive R - 01 - H264 - E975A989.mkv
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
 !new/lama/[Kuroneko] Fullmetal Alchemist - Chibi Party OAV [DB1546EB].avi
 !new/lama/[TAC Studios] Hunter X Hunter - Requiem.avi

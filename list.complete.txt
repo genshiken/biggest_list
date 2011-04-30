@@ -8772,6 +8772,7 @@ complete/k/Kyouran Kazoku Nikki/[SS-Eclipse] Kyouran Kazoku Nikki - 23 (1280x720
 complete/k/Kyouran Kazoku Nikki/[SS-Eclipse] Kyouran Kazoku Nikki - 24 (1280x720) [FB4463A0].mkv
 complete/k/Kyouran Kazoku Nikki/[SS-Eclipse] Kyouran Kazoku Nikki - 25 (1280x720) [ECDF817A].mkv
 complete/k/Kyouran Kazoku Nikki/[SS-Eclipse] Kyouran Kazoku Nikki - 26 (1280x720) [End][2C2AF775].mkv
+complete/k/[Monokage] Koi Sento OVA [6BBA4AD8].mkv
 complete/k/kimikiss pure rouge Special/[BSS] kimikiss pure rouge - Special [DVD][133B3ECF].mkv
 complete/k/kimikiss pure rouge/[BSS] kimikiss pure rouge - 01 [DVD][E74C19C2].mkv
 complete/k/kimikiss pure rouge/[BSS] kimikiss pure rouge - 02 [DVD][FD576C7A].mkv
@@ -13851,6 +13852,19 @@ complete/s/Sengoku Basara/[gSS] Sengoku Basara - 10 [FFAEFE7D].mkv
 complete/s/Sengoku Basara/[gg] Sengoku Basara - 11 [1790506A].mkv
 complete/s/Sengoku Basara/[gg] Sengoku Basara - 12 [62BACAD4].mkv
 complete/s/Sentou Yousei Tasukete! Mave-chan/[dp] Sentou Yousei Tasukete! Mave-chan [A31B4444].avi
+complete/s/Serial Experiments Lain/[KAA] Serial Experiments Lain - 01 [DVD][F348D976].avi
+complete/s/Serial Experiments Lain/[KAA] Serial Experiments Lain - 02 [DVD][83D466C5].avi
+complete/s/Serial Experiments Lain/[KAA] Serial Experiments Lain - 03 [DVD][3628606B].avi
+complete/s/Serial Experiments Lain/[KAA] Serial Experiments Lain - 04 [DVD][A3480B7D].avi
+complete/s/Serial Experiments Lain/[KAA] Serial Experiments Lain - 05 [DVD][674C2A16].avi
+complete/s/Serial Experiments Lain/[KAA] Serial Experiments Lain - 06 [DVD][D9DB4D84].avi
+complete/s/Serial Experiments Lain/[KAA] Serial Experiments Lain - 07 [DVD][8122A7DE].avi
+complete/s/Serial Experiments Lain/[KAA] Serial Experiments Lain - 08 [DVD][8506DCC4].avi
+complete/s/Serial Experiments Lain/[KAA] Serial Experiments Lain - 09 [DVD][8D8704C9].avi
+complete/s/Serial Experiments Lain/[KAA] Serial Experiments Lain - 10 [DVD][75FE00A0].avi
+complete/s/Serial Experiments Lain/[KAA] Serial Experiments Lain - 11 [DVD][6437FD7E].avi
+complete/s/Serial Experiments Lain/[KAA] Serial Experiments Lain - 12 [DVD][95723591].avi
+complete/s/Serial Experiments Lain/[KAA] Serial Experiments Lain - 13 [End][DVD][43F2135E].avi
 complete/s/Seto no Hanayome OVA/[Seto Otaku] Seto no Hanayome OVA - 1 [v2][DVD][4EB08EF7].mkv
 complete/s/Seto no Hanayome OVA/[Seto Otaku] Seto no Hanayome OVA - 2 [End][DVD][38603DCD].mkv
 complete/s/Seto no Hanayome OVA/[Seto Otaku] Seto no Hanayome OVA - Ending (Clean) [DVD][A85BA652].mp4
