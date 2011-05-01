@@ -1578,6 +1578,19 @@ complete/b/Bokurano/[Triad] Bokurano - 21 [4B8D709A].avi
 complete/b/Bokurano/[Triad] Bokurano - 22 [E0FC01A2].avi
 complete/b/Bokurano/[Triad] Bokurano - 23 [F79AFD10].avi
 complete/b/Bokurano/[Triad] Bokurano - 24 [End][2631DA84].avi
+complete/b/Boogiepop Phantom/[V-A] Boogiepop Phantom - 01 [F117F66B].mkv
+complete/b/Boogiepop Phantom/[V-A] Boogiepop Phantom - 02 [B29DB66A].mkv
+complete/b/Boogiepop Phantom/[V-A] Boogiepop Phantom - 03 [3B4EE430].mkv
+complete/b/Boogiepop Phantom/[V-A] Boogiepop Phantom - 04 [32C5B109].mkv
+complete/b/Boogiepop Phantom/[V-A] Boogiepop Phantom - 05 [0427779F].mkv
+complete/b/Boogiepop Phantom/[V-A] Boogiepop Phantom - 06 [9E7D5349].mkv
+complete/b/Boogiepop Phantom/[V-A] Boogiepop Phantom - 07 [CF5169F4].mkv
+complete/b/Boogiepop Phantom/[V-A] Boogiepop Phantom - 08 [1141E530].mkv
+complete/b/Boogiepop Phantom/[V-A] Boogiepop Phantom - 09 [1E0B63CC].mkv
+complete/b/Boogiepop Phantom/[V-A] Boogiepop Phantom - 10 [B75A0478].mkv
+complete/b/Boogiepop Phantom/[V-A] Boogiepop Phantom - 11 [65507379].mkv
+complete/b/Boogiepop Phantom/[V-A] Boogiepop Phantom - 12 [End][10626BA0].mkv
+complete/b/Boogiepop Phantom/[V-A] Boogiepop Phantom - AMV [77BC1CC3].avi
 complete/b/Bus Gamer/[Shinsen-Subs] Bus Gamer - 1 [A4AC95DC].avi
 complete/b/Bus Gamer/[Shinsen-Subs] Bus Gamer - 2 [E3FF2219].avi
 complete/b/Bus Gamer/[Shinsen-Subs] Bus Gamer - 3 [End][918DED62].avi
@@ -3380,6 +3393,10 @@ complete/e/Element Hunters/[DB] Element Hunters - 39 [End][929E4EAB].avi
 complete/e/Element Hunters/[gleam] Element Hunters - 01 (1280x720) [v2][8FB65DAA].mkv
 complete/e/Element Hunters/[gleam] Element Hunters - 02 (1280x720) [42D0606F].mkv
 complete/e/Element Hunters/[gleam] Element Hunters - 03 (1280x720) [AF7B5286].mkv
+complete/e/Elf Ban Kakyuusei OVA/[IY-F] Elf Ban Kakyuusei OVA - 1 [AADEC823].avi
+complete/e/Elf Ban Kakyuusei OVA/[IY-F] Elf Ban Kakyuusei OVA - 2 [2BBC443A].avi
+complete/e/Elf Ban Kakyuusei OVA/[IY-F] Elf Ban Kakyuusei OVA - 3 [411DFE3F].avi
+complete/e/Elf Ban Kakyuusei OVA/[IY-F] Elf Ban Kakyuusei OVA - 4 [End][5A94D22C].avi
 complete/e/Elfen Lied OVA/[Anime-MX] Elfen Lied OVA [9E462154].mkv
 complete/e/Elfen Lied/[AKH-Anisubs] Elfen Lied - 01 [5B625F28].mkv
 complete/e/Elfen Lied/[AKH-Anisubs] Elfen Lied - 02 [38B58188].mkv

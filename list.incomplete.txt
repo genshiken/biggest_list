@@ -710,6 +710,7 @@ incomplete/Darker than Black - The Black Contractor - Gaiden/[BSS] Darker than B
 incomplete/Darker than Black - The Black Contractor - Gaiden/[BSS] Darker than Black - The Black Contractor - Gaiden - 03 [8755C487].mkv
 incomplete/Darker than Black - The Black Contractor - Gaiden/[BSS] Darker than Black - The Black Contractor - Gaiden - 04 [058316BE].mkv
 incomplete/Deadman Wonderland/[Commie] Deadman Wonderland - 01 [CB611109].mkv
+incomplete/Deadman Wonderland/[HorribleSubs] Deadman Wonderland - 03 [720p][A9E71C8F].mkv
 incomplete/Deadman Wonderland/[umee] Deadman Wonderland - 01 [62084908].mkv
 incomplete/Deadman Wonderland/[umee] Deadman Wonderland - 02 [E68DC341].mkv
 incomplete/Deltora Quest/[ACG-ray=out] Deltora Quest - 22 [6C5BCD56].mkv
@@ -883,7 +884,6 @@ incomplete/Detective Conan/Detective Conan - 609 [DCTP][720p][5AB609EF].mp4
 incomplete/Detective Conan/Detective Conan - 610 [DCTP][720p][D042FA37].mp4
 incomplete/Detective Conan/Detective Conan - 611 [DCTP][720p][10CC8089].mp4
 incomplete/Detective Holmes/[FBI] Detective Holmes - 01 [E0975B64].mkv
-incomplete/Digimon Adventure/[wpp] Digimon Adventure - 18 [B492D87D].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 01 [720p][EF50D001].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 02 [720p][16DC8D8E].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 03 [720p][E022751F].mkv
@@ -916,6 +916,7 @@ incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 30 [720p][83AEAD60].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 31 [720p][90A0F7E0].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 32 [720p][17F7DEB7].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 33 [720p][943370F2].mkv
+incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 34 [720p][024A589F].mkv
 incomplete/Dirty Pair TV/[FLF & L-E] Dirty Pair TV - 01 [9689517F].mkv
 incomplete/Dirty Pair TV/[FLF & L-E] Dirty Pair TV - 02 [793D547A].mkv
 incomplete/Dirty Pair TV/[FLF & L-E] Dirty Pair TV - 03 [AEF9424F].mkv
@@ -3066,6 +3067,7 @@ incomplete/Pollyanna/[Licca] Pollyanna - 11 [16608522].mkv
 incomplete/Pollyanna/[Licca] Pollyanna - 12 [7BDAEEC4].mkv
 incomplete/Pollyanna/[Licca] Pollyanna - 13 [EDAA366F].mkv
 incomplete/Pollyanna/[Licca] Pollyanna - 14 [ED9CC035].mkv
+incomplete/Pollyanna/[Licca] Pollyanna - 15 [407C7519].mkv
 incomplete/Popolocrois Story/[A-BT & Pakapuka] Popolocrois Story - 25 [End][F3B59583].avi
 incomplete/Popolocrois Story/[A-BT-Pakapuka] PopoloCrois Story - 21 [10B31944].avi
 incomplete/Popolocrois Story/[A-BT-Pakapuka] PopoloCrois Story - 22 [1CD068FE].avi
@@ -3204,6 +3206,8 @@ incomplete/Sekai-ichi Hatsukoi/[HorribleSubs] Sekai-ichi Hatsukoi - 01 [720p][E8
 incomplete/Sekai-ichi Hatsukoi/[HorribleSubs] Sekai-ichi Hatsukoi - 02 [720p][85A41E7E].mkv
 incomplete/Sekai-ichi Hatsukoi/[HorribleSubs] Sekai-ichi Hatsukoi - 03 [720p][6E2C2550].mkv
 incomplete/Sekai-ichi Hatsukoi/[HorribleSubs] Sekai-ichi Hatsukoi - 04 [720p][34BC5CD1].mkv
+incomplete/Sekai-ichi Hatsukoi/[Ryuumaru] Sekaiichi Hatsukoi - 01 [720p][23C943C9].mkv
+incomplete/Sekai-ichi Hatsukoi/[Ryuumaru] Sekaiichi Hatsukoi - 02 [720p][3D43EFD6].mkv
 incomplete/Senkou no Night Raid/[Animanda] Senkou no Night Raid - 07 [Special][7EBC8D18].mkv
 incomplete/Senkou no Night Raid/[Animanda] Senkou no Night Raid - 08 [4658BE3A].mkv
 incomplete/Senkou no Night Raid/[Animanda] Senkou no Night Raid - 09 [437EDA40].mkv
