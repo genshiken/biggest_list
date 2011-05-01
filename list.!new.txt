@@ -736,6 +736,18 @@
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/List.txt
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/disc_8.jpg
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/mibox_cover.gif
+!new/NieA under 7/NieA_under_7_-_01.mkv
+!new/NieA under 7/NieA_under_7_-_02.mkv
+!new/NieA under 7/NieA_under_7_-_03.mkv
+!new/NieA under 7/NieA_under_7_-_04.mkv
+!new/NieA under 7/NieA_under_7_-_05.mkv
+!new/NieA under 7/NieA_under_7_-_06.mkv
+!new/NieA under 7/NieA_under_7_-_07.mkv
+!new/NieA under 7/NieA_under_7_-_08.mkv
+!new/NieA under 7/NieA_under_7_-_09.mkv
+!new/NieA under 7/NieA_under_7_-_10.mkv
+!new/NieA under 7/NieA_under_7_-_11.mkv
+!new/NieA under 7/NieA_under_7_-_12.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
@@ -1000,20 +1012,6 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[EAC] 愛と勇気のピッグガール とんでぶ～りん OP＆ED 愛はカッコわるい／ぶーりん あ・ら・もーど - パーキッツ.zip
-!new/[HorribleSubs] Beelzebub - 15 [720p].mkv
-!new/[Lunar] Kakyuusei 2 - 01 [16DAD564].avi
-!new/[Lunar] Kakyuusei 2 - 02 [FF48EFCE].avi
-!new/[Lunar] Kakyuusei 2 - 03 [473C8129].avi
-!new/[Lunar] Kakyuusei 2 - 04 [2B5BCB14].avi
-!new/[Lunar] Kakyuusei 2 - 05 [5F6EEEA9].avi
-!new/[Lunar] Kakyuusei 2 - 06 [DE2AA8F7].avi
-!new/[Lunar] Kakyuusei 2 - 07 [4B95B9F9].avi
-!new/[Lunar] Kakyuusei 2 - 08 [3DD38B9C].avi
-!new/[Lunar] Kakyuusei 2 - 09 [D00F10B8].avi
-!new/[Lunar] Kakyuusei 2 - 10 [84D81B23].avi
-!new/[Lunar] Kakyuusei 2 - 11 [65A0FD88].avi
-!new/[Lunar] Kakyuusei 2 - 12 [11B008CF].avi
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
 !new/[OVA-1991] Kimagure Orange Road Rouge no Dengon/Kimagure_Orange_Road__Rouge_no_Dengon_-_1[1]_-_OVA_[640x480][DVD][bishi][875962B1].avi
 !new/[OVA-1992] Giant Robo/Giant_Robo_-_1[7]_-_The_Black_Attache_Case_[704x480][DVD][G_P][DD833BF2].mkv
@@ -1042,7 +1040,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[WhyNot] Yondemasu yo, Azazel-san - 04 [E7CD4F01].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
