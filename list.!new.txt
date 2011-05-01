@@ -1012,6 +1012,32 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
+!new/[A-BT&Pakapuka]PopoloCrois_2003_Ep01_V2[AFB288F2].avi
+!new/[A-BT&Pakapuka]PopoloCrois_2003_Ep02_V2[C0900E83].avi
+!new/[A-BT&Pakapuka]PopoloCrois_2003_Ep03_V2[184859F0].avi
+!new/[A-BT&Pakapuka]PopoloCrois_2003_Ep04[CE3204B2].avi
+!new/[A-BT&Pakapuka]PopoloCrois_2003_Ep05[13D66B7F].avi
+!new/[A-BT&Pakapuka]PopoloCrois_2003_Ep06[4D149EE4].avi
+!new/[A-BT&Pakapuka]PopoloCrois_2003_Ep07[237A5B5F].avi
+!new/[A-BT&Pakapuka]PopoloCrois_2003_Ep08_V2[70E08E50].avi
+!new/[A-BT&Pakapuka]PopoloCrois_2003_Ep09[568F558C].avi
+!new/[A-BT&Pakapuka]PopoloCrois_2003_Ep10[6FF87A4B].avi
+!new/[A-BT&Pakapuka]PopoloCrois_2003_Ep11[672AA2D8].avi
+!new/[A-BT&Pakapuka]PopoloCrois_2003_Ep12[FB8AB801].avi
+!new/[A-BT&Pakapuka]PopoloCrois_2003_Ep13[281ABF29].avi
+!new/[A-BT&Pakapuka]PopoloCrois_2003_Ep14[76251E25].avi
+!new/[A-BT&Pakapuka]PopoloCrois_2003_Ep15[394E6085].avi
+!new/[A-BT&Pakapuka]PopoloCrois_2003_Ep16[D72CA503].avi
+!new/[A-BT&Pakapuka]PopoloCrois_2003_Ep17[DFD612A9].avi
+!new/[A-BT&Pakapuka]PopoloCrois_2003_Ep18_V2[D6C073E5].avi
+!new/[A-BT&Pakapuka]PopoloCrois_2003_Ep19[41EDD8D3].avi
+!new/[A-BT&Pakapuka]PopoloCrois_2003_Ep20[6A4E8709].avi
+!new/[A-BT&Pakapuka]PopoloCrois_2003_Ep21[6D4E5E7E].avi
+!new/[A-BT&Pakapuka]PopoloCrois_2003_Ep22[417AAF03].avi
+!new/[A-BT&Pakapuka]PopoloCrois_2003_Ep23[D76A5B02].avi
+!new/[A-BT&Pakapuka]PopoloCrois_2003_Ep24[6642B13D].avi
+!new/[A-BT&Pakapuka]PopoloCrois_2003_Ep25[81BF1165].avi
+!new/[A-BT&Pakapuka]PopoloCrois_2003_Ep26_Final_[FE9EC6A5].avi
 !new/[Anime-Keep]_Mahoujin_Guruguru_Movie_[0F189EAD].avi
 !new/[Coalgirls]_Serial_Experiments_Lain_01_(1520x1080_Blu-Ray_FLAC)_[573CDDD6].mkv
 !new/[Coalgirls]_Serial_Experiments_Lain_02_(1520x1080_Blu-Ray_FLAC)_[19F59BAF].mkv
@@ -1028,7 +1054,10 @@
 !new/[Coalgirls]_Serial_Experiments_Lain_13_(1520x1080_Blu-Ray_FLAC)_[4E815F0C].mkv
 !new/[Coalgirls]_Serial_Experiments_Lain_ED_(1520x1080_Blu-Ray_FLAC)_[BF8449F7].mkv
 !new/[Coalgirls]_Serial_Experiments_Lain_OP_(1520x1080_Blu-Ray_FLAC)_[DF129863].mkv
+!new/[Commie] Deadman Wonderland - 02 [A331E718].mkv
+!new/[Commie] Steins;Gate - 04 [39A2D4D2].mkv
 !new/[LonE]_ZONE_-_Z_(FLAC).rar
+!new/[Nutbladder]_Kaiji_S2_-_04_[165ECBA7].mkv
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
 !new/[OVA-1991] Kimagure Orange Road Rouge no Dengon/Kimagure_Orange_Road__Rouge_no_Dengon_-_1[1]_-_OVA_[640x480][DVD][bishi][875962B1].avi
 !new/[OVA-1992] Giant Robo/Giant_Robo_-_1[7]_-_The_Black_Attache_Case_[704x480][DVD][G_P][DD833BF2].mkv
@@ -1042,6 +1071,7 @@
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_2[3]_-_On_Stage_[640x480][DVD][CA][4172F5FF].mkv
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_3[3]_-_Which_One_Do_You_Love__[640x480][DVD][CA][D01B97BF].mkv
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_S01[3]_-_Macross_7_P-L-U-S__Mylene_[640x480][LD][CA][C1C8471F].avi
+!new/[Ryuumaru]_Sekaiichi_Hatsukoi_-_03_[720p][F82A1A6E].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
