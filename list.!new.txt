@@ -751,7 +751,6 @@
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
-!new/Puella Magi Madoka Magica Drama CD1 - Memories of You [112AE1A0].mkv
 !new/Ranma (Complete)/Ranma Movies and OVAs/Thumbs.db
 !new/Ranma (Complete)/Ranma Movies and OVAs/[anime_fin]_Ranma_Movie_1_DVDRiP_dualaudio.ogm
 !new/Ranma (Complete)/Ranma Movies and OVAs/[anime_fin]_Ranma_Movie_2_DVDRiP_dualaudio.ogm
@@ -1013,12 +1012,6 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[ARR] Little El Cid no Bouken - 01 [260EB70A].mkv
-!new/[Ayako-Nishishi]_Softenni_-_04_[720p][3E3D55D9].mkv
-!new/[HorribleSubs] Astarotte's Toy - 04 [720p].mkv
-!new/[HorribleSubs] Hanasaku Iroha - 05 [720p].mkv
-!new/[HorribleSubs] Maria Holic Alive - 03 [720p].mkv
-!new/[HorribleSubs] Maria Holic Alive - 04 [720p].mkv
 !new/[OVA-1991] Kimagure Orange Road Omoi Gakenai Situation/Kimagure_Orange_Road__Omoi_Gakenai_Situation_-_1[1]_-_OVA_[640x480][DVD][bishi][ED69F892].avi
 !new/[OVA-1991] Kimagure Orange Road Rouge no Dengon/Kimagure_Orange_Road__Rouge_no_Dengon_-_1[1]_-_OVA_[640x480][DVD][bishi][875962B1].avi
 !new/[OVA-1992] Giant Robo/Giant_Robo_-_1[7]_-_The_Black_Attache_Case_[704x480][DVD][G_P][DD833BF2].mkv
@@ -1032,9 +1025,6 @@
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_2[3]_-_On_Stage_[640x480][DVD][CA][4172F5FF].mkv
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_3[3]_-_Which_One_Do_You_Love__[640x480][DVD][CA][D01B97BF].mkv
 !new/[OVA-1995] Macross - 7 Encore/Macross_7_Encore_-_S01[3]_-_Macross_7_P-L-U-S__Mylene_[640x480][LD][CA][C1C8471F].avi
-!new/[Over-Time]_Kamen_Rider_OOO_-_32_[2478CC4B].mkv
-!new/[RyRo]_Inazuma_Eleven_-_126_(1280x720_x264_AAC)_[4B67C5ED].mkv
-!new/[SMS] Starry Sky - 19 [FB3C747E].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -1050,7 +1040,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[pwq]_A-Channel_-_04_[9C2460A2].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
