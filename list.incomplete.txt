@@ -136,6 +136,7 @@ incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 33 [
 incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 34 [720p][31AC4220].mkv
 incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 01 [v2][BC62CE11].mkv
 incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 02 [EF511E91].mkv
+incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 03 [8109CBD1].mkv
 incomplete/Aoi Blink/[ARR] Aoi Blink - 01 [7CEA315B].mkv
 incomplete/Aoki Densetsu Shoot!/[Saizen] Aoki Densetsu Shoot! - 34 [DVD][5DE072D3].mkv
 incomplete/Aoki Densetsu Shoot!/[Saizen] Aoki Densetsu Shoot! - 35 [DVD][55E30867].mkv
@@ -711,9 +712,10 @@ incomplete/Darker than Black - The Black Contractor - Gaiden/[BSS] Darker than B
 incomplete/Darker than Black - The Black Contractor - Gaiden/[BSS] Darker than Black - The Black Contractor - Gaiden - 03 [8755C487].mkv
 incomplete/Darker than Black - The Black Contractor - Gaiden/[BSS] Darker than Black - The Black Contractor - Gaiden - 04 [058316BE].mkv
 incomplete/Deadman Wonderland/[Commie] Deadman Wonderland - 01 [CB611109].mkv
-incomplete/Deadman Wonderland/[HorribleSubs] Deadman Wonderland - 03 [720p][A9E71C8F].mkv
+incomplete/Deadman Wonderland/[Commie] Deadman Wonderland - 02 [A331E718].mkv
 incomplete/Deadman Wonderland/[umee] Deadman Wonderland - 01 [62084908].mkv
 incomplete/Deadman Wonderland/[umee] Deadman Wonderland - 02 [E68DC341].mkv
+incomplete/Deadman Wonderland/[umee] Deadman Wonderland - 03 [BA446D2E].mkv
 incomplete/Deltora Quest/[ACG-ray=out] Deltora Quest - 22 [6C5BCD56].mkv
 incomplete/Deltora Quest/[DATS] Deltora Quest - 01 [B08A94B1].mp4
 incomplete/Deltora Quest/[DATS] Deltora Quest - 02 [C3AE1F78].mp4
@@ -926,6 +928,7 @@ incomplete/Dog Days/[Ayako-Himatsubushi] Dog Days - 01 [v2 720p][B416ACB0].mkv
 incomplete/Dog Days/[Ayako-Himatsubushi] Dog Days - 02 [720p][6E9A0AE2].mkv
 incomplete/Dog Days/[Ayako-Himatsubushi] Dog Days - 03 [720p][83703EF1].mkv
 incomplete/Dog Days/[Ayako-Himatsubushi] Dog Days - 04 [720p][0030DC90].mkv
+incomplete/Dog Days/[Ayako-Himatsubushi] Dog Days - 05 [720p][4BDD03AD].mkv
 incomplete/Dogtato-kun/[Triad] Dogtato-kun - 01 [DVD][AB88242D].avi
 incomplete/Dogtato-kun/[Triad] Dogtato-kun - 08 [DVD][32DBDCAC].avi
 incomplete/Doraemon/[Nobita] Doraemon - 01 [8B777A11].mkv
@@ -1781,6 +1784,7 @@ incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 22 (1280x720) [
 incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 01 [D721C8A7].mkv
 incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 02 [096DDC1E].mkv
 incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 03 [81E952E7].mkv
+incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 04 [165ECBA7].mkv
 incomplete/Kamichama Karin/[Kedex] Kamichama Karin - 01 [77A49DFF].avi
 incomplete/Kamichama Karin/[Kedex] Kamichama Karin - 02 [4D18F7AF].avi
 incomplete/Kamichama Karin/[Kedex] Kamichama Karin - 03 [40DD32D9].avi
@@ -2207,6 +2211,7 @@ incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 24 [720p][053E4803].mkv
 incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 25 [720p][6F01424D].mkv
 incomplete/Mermaid Melody Pichi Pichi Pitch Pure/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 01 [v2 DVD][A829314C].mkv
 incomplete/Mermaid Melody Pichi Pichi Pitch Pure/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 02 [DVD][7396A7B7].mkv
+incomplete/Mermaid Melody Pichi Pichi Pitch Pure/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 03 [DVD][043A4645].mkv
 incomplete/Might Gaine/[Nyoro~n Subs] Might Gaine - 01 [E4BED354].mkv
 incomplete/Minami-ke Drama CD/[BSS] Minami-ke Drama CD - 01 - Rolling Around [93DC7733].mkv
 incomplete/Minami-ke Drama CD/[BSS] Minami-ke Drama CD - 02 - I'm not a Mangaka [60092314].mkv
@@ -2377,6 +2382,7 @@ incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 206 [720p][84238
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 207 [720p][D0283486].mkv
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 208 [720p][B39DD1A7].mkv
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 209 [720p][95095D4D].mkv
+incomplete/Nessa no Haou Gandalla/[ARR] Nessa no Haou Gandalla - 01 [52EBCAF2].mkv
 incomplete/Nichijou/[UTW] Nichijou - 00 [LQ][5E9D0BF4].mkv
 incomplete/Nichijou/[Underwater-Commie] Nichijou - 01 [720p][99B70B42].mkv
 incomplete/Nichijou/[Underwater-Commie] Nichijou - 02 [720p][87E53446].mkv
@@ -3209,6 +3215,7 @@ incomplete/Sekai-ichi Hatsukoi/[HorribleSubs] Sekai-ichi Hatsukoi - 03 [720p][6E
 incomplete/Sekai-ichi Hatsukoi/[HorribleSubs] Sekai-ichi Hatsukoi - 04 [720p][34BC5CD1].mkv
 incomplete/Sekai-ichi Hatsukoi/[Ryuumaru] Sekaiichi Hatsukoi - 01 [720p][23C943C9].mkv
 incomplete/Sekai-ichi Hatsukoi/[Ryuumaru] Sekaiichi Hatsukoi - 02 [720p][3D43EFD6].mkv
+incomplete/Sekai-ichi Hatsukoi/[Ryuumaru] Sekaiichi Hatsukoi - 03 [720p][F82A1A6E].mkv
 incomplete/Senkou no Night Raid/[Animanda] Senkou no Night Raid - 07 [Special][7EBC8D18].mkv
 incomplete/Senkou no Night Raid/[Animanda] Senkou no Night Raid - 08 [4658BE3A].mkv
 incomplete/Senkou no Night Raid/[Animanda] Senkou no Night Raid - 09 [437EDA40].mkv
@@ -3408,7 +3415,7 @@ incomplete/Starry Sky/[SMS] Starry Sky - 18 [4F8F95CF].mkv
 incomplete/Steins;Gate/[Commie] Steins;Gate - 01 [5D6ABAE3].mkv
 incomplete/Steins;Gate/[Commie] Steins;Gate - 02 [D5F742BB].mkv
 incomplete/Steins;Gate/[Commie] Steins;Gate - 03 [52ED6287].mkv
-incomplete/Steins;Gate/[HorribleSubs] Steins;Gate - 04 [720p][BBF82DBD].mkv
+incomplete/Steins;Gate/[Commie] Steins;Gate - 04 [39A2D4D2].mkv
 incomplete/Steins;Gate/[UTW-Mazui] Steins;Gate - 01 [720p][2994A18E].mkv
 incomplete/Strong World/[yibis] Strong World - 0 [DVD][49C1A026].mkv
 incomplete/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 01 [720p][979152CB].mkv

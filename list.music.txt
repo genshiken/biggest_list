@@ -1509,6 +1509,7 @@ music/Shin-S/[Shin-S] Kampfer fur die Liebe OP & ED Single - Choose my love! [Va
 music/Shin-S/[Shin-S] Moribito Kozorite PC Game OP Single - Moribito Kozorite [Nogawa Sakura].zip
 music/Shin-S/[Shin-S] Nichijou OP Single - Hyadain no Kakakata Kataomoi-C [Hyadain].zip
 music/Shin-S/[Shin-S] Ore no Imouto ga Konna ni Kawaii Wake ga Nai ED Single 4 - Masquerade! [Hanazawa Kana & Nabatame Hitomi].zip
+music/Shin-S/[Shin-S] Ore no Imouto ga Konna ni Kawaii Wake ga Nai ED Single 5 - Suki Nandamon! [Taketatsu Ayana & Tamura Yukari].zip
 music/Shin-S/[Shin-S] Ore-tachi ni Tsubasa wa Nai OP & ED Single - Spread Wings. [Misato Aki].zip
 music/Shin-S/[Shin-S] STAR DRIVER ~Kagayaki no Takuto~ OP2 Single - SHINING STAR [9nine].zip
 music/Shin-S/[Shin-S] Softenni OP Single - Rulebook wo Wasurechae [ULTRA-PRISM with Hakuouchuu Soft Tennis Club].zip
@@ -3458,6 +3459,7 @@ music/losslessone/[LonE]_Yuuki_Aoi,_Hanazawa_Kana,_Watanabe_Akeno_-_WEB_Anime_Yu
 music/losslessone/[LonE]_Yuumao_-_Genshiken_2_ED_Single_-_Clubhouse_Sandwich_[w_scans]_(FLAC).rar
 music/losslessone/[LonE]_ZERODECIBEL_-_Drama_CD_Hanbun_no_Tsuki_ga_Noboru_Sora_SOUND_TRACK_[w_scans]_(FLAC).rar
 music/losslessone/[LonE]_ZIZZ,_Watanabe_Kazuhiro,_Itou_Kanako_-_Fate_Zero_Original_Image_Soundtrack_RETURN_TO_ZERO_[w_scans]_(FLAC).rar
+music/losslessone/[LonE]_ZONE_-_Z_(FLAC).rar
 music/losslessone/[LonE]_Zetsubou_Shoujotachi_-_Sayonara_Zetsubou_Sensei_ED_Single_-_Zessei_Bijin_[w_scans]_(FLAC).rar
 music/losslessone/[LonE]_Zetsubou_Shoujotachi_-_Zan_Sayonara_Zetsubou_Sensei_ED_Single_-_Zetsubou_Restaurant_[w_scans]_(FLAC).rar
 music/losslessone/[LonE]_[ef_-the_first_tale.-_theme_song]_Hitomi_Harada_-_Yuukyuu_no_tsubasa_[w_scans]_(RERELEASE)_(FLAC).rar
