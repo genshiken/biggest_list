@@ -12246,6 +12246,31 @@ complete/p/Planetes/[PSNR] Planetes - 25 (1280x720) [93C5E290].mkv
 complete/p/Planetes/[PSNR] Planetes - 26 (1280x720) [End][721D285B].mkv
 complete/p/Planetes/[PSNR] Planetes - Ending [C36E80FE].mkv
 complete/p/Ponyo on the Cliff by the Sea/[Momo] Ponyo on the Cliff by the Sea [C8F127AE].avi
+complete/p/PopoloCrois (1998)/[A-BT Pakapuka] PopoloCrois (1998) - 01 [v3][CF8B0BDA].avi
+complete/p/PopoloCrois (1998)/[A-BT Pakapuka] PopoloCrois (1998) - 02 [80B1BB4D].avi
+complete/p/PopoloCrois (1998)/[A-BT Pakapuka] PopoloCrois (1998) - 03 [4092060D].avi
+complete/p/PopoloCrois (1998)/[A-BT Pakapuka] PopoloCrois (1998) - 04 [C4641F00].avi
+complete/p/PopoloCrois (1998)/[A-BT Pakapuka] PopoloCrois (1998) - 05 [4A003D16].avi
+complete/p/PopoloCrois (1998)/[A-BT Pakapuka] PopoloCrois (1998) - 06 [88B5D921].avi
+complete/p/PopoloCrois (1998)/[A-BT Pakapuka] PopoloCrois (1998) - 07 [v2][55A65956].avi
+complete/p/PopoloCrois (1998)/[A-BT Pakapuka] PopoloCrois (1998) - 08 [6F6A48FA].avi
+complete/p/PopoloCrois (1998)/[A-BT Pakapuka] PopoloCrois (1998) - 09 [EF1DDAD5].avi
+complete/p/PopoloCrois (1998)/[A-BT Pakapuka] PopoloCrois (1998) - 10 [51551D1F].avi
+complete/p/PopoloCrois (1998)/[A-BT Pakapuka] PopoloCrois (1998) - 11 [CB2362E7].avi
+complete/p/PopoloCrois (1998)/[A-BT Pakapuka] PopoloCrois (1998) - 12 [F7A125DB].avi
+complete/p/PopoloCrois (1998)/[A-BT Pakapuka] PopoloCrois (1998) - 13 [B6CF59AE].avi
+complete/p/PopoloCrois (1998)/[A-BT Pakapuka] PopoloCrois (1998) - 14 [37D5AD65].avi
+complete/p/PopoloCrois (1998)/[A-BT Pakapuka] PopoloCrois (1998) - 15 [1F929F14].avi
+complete/p/PopoloCrois (1998)/[A-BT Pakapuka] PopoloCrois (1998) - 16 [98BCE17A].avi
+complete/p/PopoloCrois (1998)/[A-BT Pakapuka] PopoloCrois (1998) - 17 [783F5CB5].avi
+complete/p/PopoloCrois (1998)/[A-BT Pakapuka] PopoloCrois (1998) - 18 [7F1850A7].avi
+complete/p/PopoloCrois (1998)/[A-BT Pakapuka] PopoloCrois (1998) - 19 [F9A4306E].avi
+complete/p/PopoloCrois (1998)/[A-BT Pakapuka] PopoloCrois (1998) - 20 [FDF0BB71].avi
+complete/p/PopoloCrois (1998)/[A-BT Pakapuka] PopoloCrois (1998) - 21 [10B31944].avi
+complete/p/PopoloCrois (1998)/[A-BT Pakapuka] PopoloCrois (1998) - 22 [1CD068FE].avi
+complete/p/PopoloCrois (1998)/[A-BT Pakapuka] PopoloCrois (1998) - 23 [C7886995].avi
+complete/p/PopoloCrois (1998)/[A-BT Pakapuka] PopoloCrois (1998) - 24 [260E91CA].avi
+complete/p/PopoloCrois (1998)/[A-BT Pakapuka] PopoloCrois (1998) - 25 [End][F3B59583].avi
 complete/p/PopoloCrois (2003)/[A-BT Pakapuka] PopoloCrois (2003) - 01 [v2][AFB288F2].avi
 complete/p/PopoloCrois (2003)/[A-BT Pakapuka] PopoloCrois (2003) - 02 [v2][C0900E83].avi
 complete/p/PopoloCrois (2003)/[A-BT Pakapuka] PopoloCrois (2003) - 03 [v2][184859F0].avi
@@ -16250,7 +16275,7 @@ complete/t/Tonagura!/[ReDone] Tonagura! - 04 [DVD][BBA010EB].mkv
 complete/t/Tonagura!/[ReDone] Tonagura! - 05 [DVD][D28EECB3].mkv
 complete/t/Tonagura!/[ReDone] Tonagura! - 06 [DVD][9585158E].mkv
 complete/t/Tonagura!/[ReDone] Tonagura! - 07 [DVD][BDFE38A6].mkv
-complete/t/Tonagura!/[Ryo] Tonagura! - 08 [E996D57B].mp4
+complete/t/Tonagura!/[ReDone] Tonagura! - 08 [DVD][2514261B].mkv
 complete/t/Tonagura!/[Ryo] Tonagura! - 09 [8D893095].mp4
 complete/t/Tonagura!/[Ryo] Tonagura! - 10 [912A1FFD].mp4
 complete/t/Tonagura!/[Ryo] Tonagura! - 11 [5022AD26].mp4
