@@ -395,6 +395,7 @@ music/Nipponsei/[Nipponsei] Basilisk ~Kouga Ninpouchou~ ED1 ED2 Single - WILD EY
 music/Nipponsei/[Nipponsei] Battle Spirits Brave OP Single - free [Karasu].zip
 music/Nipponsei/[Nipponsei] Beelzebub ED Single - Answer [No Sleeves].zip
 music/Nipponsei/[Nipponsei] Beelzebub OP Single - Dadada [Group Tamashii].zip
+music/Nipponsei/[Nipponsei] Beelzebub OP2 Single - Hajimaru no wa, Sayonara [ON OFF].zip
 music/Nipponsei/[Nipponsei] Beet the Vandel Buster ED1 Single - pureness [Nana Kitade].zip
 music/Nipponsei/[Nipponsei] Beet the Vandel Buster ED2 Single - Dreaming Under the Moon [Katou Miliyah].zip
 music/Nipponsei/[Nipponsei] Beet the Vandel Buster OP Single - emotion [Sunbrain].zip
@@ -821,6 +822,8 @@ music/Nipponsei/[Nipponsei] Mitsudomoe Zouryouchuu! OP Single - Waga Na wa Shoug
 music/Nipponsei/[Nipponsei] Moetan Original Soundtrack Character Mini Album.zip
 music/Nipponsei/[Nipponsei] Mononoke Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Moonlight Mile Original Soundtrack.zip
+music/Nipponsei/[Nipponsei] Moshidora ED Single - Daisuki da yo [momo].zip
+music/Nipponsei/[Nipponsei] Moshidora OP Single - Yume Note [azusa].zip
 music/Nipponsei/[Nipponsei] Motto ToLOVEru Character CD1 - Lala & Haruna [Tomatsu Haruka & Yahagi Sayuri].zip
 music/Nipponsei/[Nipponsei] Motto ToLOVEru Character CD2 - Mikan & Yami [Hanazawa Kana & Fukuen Misato].zip
 music/Nipponsei/[Nipponsei] Motto ToLOVEru Character CD3 - Nana & Momo [Itou Kanae & Toyosaki Aki].zip
@@ -1030,6 +1033,7 @@ music/Nipponsei/[Nipponsei] Saiunkoku Monogatari 2nd Series ED Single - Asu he [
 music/Nipponsei/[Nipponsei] Saiunkoku Monogatari ED Single - Saikou no Kataomoi [Tainaka Sachi].zip
 music/Nipponsei/[Nipponsei] Saiunkoku Monogatari Original Soundtrack 1.zip
 music/Nipponsei/[Nipponsei] Saiunkoku Monogatari Original Soundtrack 2.zip
+music/Nipponsei/[Nipponsei] Saiyuki Gaiden OP ED Single - Sakura no Ki no Shita [KOKIA].zip
 music/Nipponsei/[Nipponsei] Samurai7 ED Album - Niji Musubi [Rin'].zip
 music/Nipponsei/[Nipponsei] Saraiya Goyou ED Single - Sign of Love [immi].zip
 music/Nipponsei/[Nipponsei] Saraiya Goyou Original Soundtrack.zip

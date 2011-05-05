@@ -890,6 +890,7 @@ incomplete/Detective Conan/Detective Conan - 608 [DCTP][720p][323D802D].mp4
 incomplete/Detective Conan/Detective Conan - 609 [DCTP][720p][5AB609EF].mp4
 incomplete/Detective Conan/Detective Conan - 610 [DCTP][720p][D042FA37].mp4
 incomplete/Detective Conan/Detective Conan - 611 [DCTP][720p][10CC8089].mp4
+incomplete/Detective Conan/Detective Conan - 612 [DCTP][720p][1715F0CA].mp4
 incomplete/Detective Holmes/[FBI] Detective Holmes - 01 [E0975B64].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 01 [720p][EF50D001].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 02 [720p][16DC8D8E].mkv
@@ -1370,21 +1371,21 @@ incomplete/Gosick/[SS] Gosick - 08 [720p][3A06D0B0].mkv
 incomplete/Gosick/[SS] Gosick - 09 [720p][B8B9D227].mkv
 incomplete/Gosick/[SS] Gosick - 10 [720p][F0D0D2EE].mkv
 incomplete/Gosick/[SS] Gosick - 11 [720p][225815E9].mkv
-incomplete/Gosick/[Victorique] Gosick - 01 [v2 720p][800E4683].mkv
-incomplete/Gosick/[Victorique] Gosick - 02 [720p][DFE95680].mkv
-incomplete/Gosick/[Victorique] Gosick - 03 [720p][6B8BECCB].mkv
-incomplete/Gosick/[Victorique] Gosick - 04 [720p][A50D6DFB].mkv
-incomplete/Gosick/[Victorique] Gosick - 05 [720p][48A2CC96].mkv
-incomplete/Gosick/[Victorique] Gosick - 06 [720p][62161A73].mkv
-incomplete/Gosick/[Victorique] Gosick - 07 [720p][6B9E844E].mkv
-incomplete/Gosick/[Victorique] Gosick - 08 [720p][7A8D6DE0].mkv
-incomplete/Gosick/[Victorique] Gosick - 09 [720p][C2FCE226].mkv
-incomplete/Gosick/[Victorique] Gosick - 10 [720p][60CD59D9].mkv
-incomplete/Gosick/[Victorique] Gosick - 11 [720p][5615059C].mkv
-incomplete/Gosick/[Victorique] Gosick - 12 [720p][4BE0CB68].mkv
+incomplete/Gosick/[Victorique] Gosick - 01 [720p][253172D2].mkv
+incomplete/Gosick/[Victorique] Gosick - 02 [720p][043945F1].mkv
+incomplete/Gosick/[Victorique] Gosick - 03 [720p][DD76C659].mkv
+incomplete/Gosick/[Victorique] Gosick - 04 [720p][C25F52DD].mkv
+incomplete/Gosick/[Victorique] Gosick - 05 [720p][EDAD918A].mkv
+incomplete/Gosick/[Victorique] Gosick - 06 [720p][9FC1F75E].mkv
+incomplete/Gosick/[Victorique] Gosick - 07 [720p][43E63E63].mkv
+incomplete/Gosick/[Victorique] Gosick - 08 [720p][24BD1849].mkv
+incomplete/Gosick/[Victorique] Gosick - 09 [720p][2564197C].mkv
+incomplete/Gosick/[Victorique] Gosick - 10 [720p][0037E5E9].mkv
+incomplete/Gosick/[Victorique] Gosick - 11 [720p][14781679].mkv
+incomplete/Gosick/[Victorique] Gosick - 12 [720p][8E10FC11].mkv
 incomplete/Gosick/[Victorique] Gosick - 13 [720p][DE144905].mkv
 incomplete/Gosick/[Victorique] Gosick - 14 [720p][BAE178B9].mkv
-incomplete/Gosick/[Victorique]_Gosick_-_15_[h264-720p][9057F00E].mkv
+incomplete/Gosick/[Victorique] Gosick - 15 [720p][9057F00E].mkv
 incomplete/Gun X Sword/[Shinsen-Subs] Gun X Sword - 10 [DE58BF1B].avi
 incomplete/Gun X Sword/[Shinsen-Subs] Gun X Sword - 11 [94BA7245].avi
 incomplete/Gun X Sword/[Shinsen-Subs] Gun X Sword - 12 [8C1B0A0B].avi
@@ -1794,6 +1795,7 @@ incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 01 [D721C8A7].mkv
 incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 02 [096DDC1E].mkv
 incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 03 [81E952E7].mkv
 incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 04 [165ECBA7].mkv
+incomplete/Kaiji S2/[Underwater-Commie] Kaiji S2 - 05 [720p][75CAF914].mkv
 incomplete/Kamichama Karin/[Kedex] Kamichama Karin - 01 [77A49DFF].avi
 incomplete/Kamichama Karin/[Kedex] Kamichama Karin - 02 [4D18F7AF].avi
 incomplete/Kamichama Karin/[Kedex] Kamichama Karin - 03 [40DD32D9].avi
@@ -2276,6 +2278,7 @@ incomplete/Moshidora/[gg] Moshidora - 04 [4D1A41E3].mkv
 incomplete/Moshidora/[gg] Moshidora - 05 [6859A6E7].mkv
 incomplete/Moshidora/[gg] Moshidora - 06 [62C4B99E].mkv
 incomplete/Moshidora/[gg] Moshidora - 07 [7B3B5E6A].mkv
+incomplete/Moshidora/[gg] Moshidora - 08 [CB1279AF].mkv
 incomplete/Motto Ojamajo Doremi/[Doremi] Motto Ojamajo Doremi - 01 [A59CC23D].avi
 incomplete/Motto Ojamajo Doremi/[Doremi] Motto Ojamajo Doremi - 02 [78C66166].avi
 incomplete/Motto Ojamajo Doremi/[Doremi] Motto Ojamajo Doremi - 03 [88929393].avi
@@ -3076,6 +3079,7 @@ incomplete/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 028 [720p][031B3E32].m
 incomplete/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 029 [720p][D5CECFA3].mkv
 incomplete/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 030 [720p][080F0D5F].mkv
 incomplete/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 031 [720p][9119D3DD].mkv
+incomplete/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 032 [720p][AA928AE3].mkv
 incomplete/Pollyanna/[Licca] Pollyanna - 01 [84C45157].mkv
 incomplete/Pollyanna/[Licca] Pollyanna - 02 [37E0B1A9].mkv
 incomplete/Pollyanna/[Licca] Pollyanna - 03 [FA6C078F].mkv
@@ -3097,6 +3101,8 @@ incomplete/Popolocrois Story/[A-BT-Pakapuka] PopoloCrois Story - 22 [1CD068FE].a
 incomplete/Popolocrois Story/[A-BT-Pakapuka] PopoloCrois Story - 23 [C7886995].avi
 incomplete/Popolocrois Story/[A-BT-Pakapuka] PopoloCrois Story - 24 [260E91CA].avi
 incomplete/Pretty Rhythm - Aurora Dream/[FFFpeeps] Pretty Rhythm - Aurora Dream - 01 [BCF75565].mkv
+incomplete/Pretty Rhythm - Aurora Dream/[FFFpeeps] Pretty Rhythm - Aurora Dream - 02 [81C60B42].mkv
+incomplete/Pretty Rhythm - Aurora Dream/[FFFpeeps] Pretty Rhythm - Aurora Dream - 03 [407459E9].mkv
 incomplete/Pretty Rhythm - Aurora Dream/[KiteSeekers-Wasurenai] Pretty Rhythm - Aurora Dream - 01 [576p][F7EB9F70].mkv
 incomplete/Prince of Tennis - Another Story OVA/[IP] Prince of Tennis - Another Story OVA - 1 [E77F84B8].avi
 incomplete/Princess Resurrection OVA/Princess Resurrection OVA - 1 [Mamiko SHiN][DVD][EEE2827C].mkv
@@ -3447,6 +3453,7 @@ incomplete/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 08 [720p][F70E7861].
 incomplete/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 09 [v2 720p][D3619BF8].mkv
 incomplete/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 10 [720p][F27D6E44].mkv
 incomplete/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 11 [720p][28559A8B].mkv
+incomplete/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 12 [720p][D4357D74].mkv
 incomplete/Suite PreCure!/[Nutbladder] Suite Precure - 01 [3DA27245].mkv
 incomplete/Suite PreCure!/[Nutbladder] Suite Precure - 02 [819AAD27].mkv
 incomplete/Suite PreCure!/[Nutbladder] Suite Precure - 03 [600FA473].mkv
