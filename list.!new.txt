@@ -554,6 +554,7 @@
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
+!new/Prince_of_Tennis.sfv
 !new/Ranma (Complete)/Ranma Movies and OVAs/Thumbs.db
 !new/Ranma (Complete)/Ranma Movies and OVAs/[anime_fin]_Ranma_Movie_1_DVDRiP_dualaudio.ogm
 !new/Ranma (Complete)/Ranma Movies and OVAs/[anime_fin]_Ranma_Movie_2_DVDRiP_dualaudio.ogm
@@ -815,10 +816,18 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[Coalgirls]_Dragon_Crisis_05_(1280x720_Blu-Ray_FLAC)_[98266445].mkv
-!new/[Coalgirls]_Dragon_Crisis_06_(1280x720_Blu-Ray_FLAC)_[F6DB1701].mkv
-!new/[Commie] The World God Only Knows S2 - 04 [E3719C1C].mkv
-!new/[OZC]Mobile Suit Gundam F91 [2011 Release].mkv
+!new/[Shinsen-Subs]_Prince_of_Tennis_-_165_[9032097A].avi
+!new/[Shinsen-Subs]_Prince_of_Tennis_-_166_[23B25B32].avi
+!new/[Shinsen-Subs]_Prince_of_Tennis_-_167_[00097B0C].avi
+!new/[Shinsen-Subs]_Prince_of_Tennis_-_168-169_[38C44F9E].avi
+!new/[Shinsen-Subs]_Prince_of_Tennis_-_170_[F199ABF9].avi
+!new/[Shinsen-Subs]_Prince_of_Tennis_-_171_[FD90743A].avi
+!new/[Shinsen-Subs]_Prince_of_Tennis_-_172_[D59D2580].avi
+!new/[Shinsen-Subs]_Prince_of_Tennis_-_173_[0E2B7104].avi
+!new/[Shinsen-Subs]_Prince_of_Tennis_-_174_[A771E104].avi
+!new/[Shinsen-Subs]_Prince_of_Tennis_-_175_[41EC3C95].avi
+!new/[Shinsen-Subs]_Prince_of_Tennis_-_176_[57B98403].avi
+!new/[Shinsen-Subs]_Prince_of_Tennis_-_177-178_[F2CB4D8B].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -834,6 +843,88 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[a-o]Prince_Of_Tennis_107[19785161].avi
+!new/[a-o]Prince_Of_Tennis_109[5DBCA14C].avi
+!new/[a-o]Prince_Of_Tennis_111[9461D894].avi
+!new/[a-o]Prince_Of_Tennis_113[FB472DA3].avi
+!new/[a-o]Prince_Of_Tennis_116-117[C0D9F666].avi
+!new/[a-o]Prince_Of_Tennis_118[F8FBBB82].avi
+!new/[a-o]Prince_Of_Tennis_119[409EA08C].avi
+!new/[a-o]Prince_Of_Tennis_120[4A102882].avi
+!new/[a-o]Prince_Of_Tennis_121[7BDCF9D2].avi
+!new/[a-o]Prince_Of_Tennis_122[410B7CD4].avi
+!new/[a-o]Prince_Of_Tennis_123[2943AAD1].avi
+!new/[a-o]Prince_Of_Tennis_125[4DC915F3].avi
+!new/[a-o]Prince_Of_Tennis_126[0C51EEC4].avi
+!new/[a-o]Prince_Of_Tennis_128[A5838EFB].avi
+!new/[a-o]Prince_Of_Tennis_135[41E03458].avi
+!new/[a-o]Prince_Of_Tennis_137[7229FBE4].avi
+!new/[a-o]Prince_Of_Tennis_138[EC8131AF].avi
+!new/[a-o]Prince_Of_Tennis_142[EE811347].avi
+!new/[a-o]Prince_of_Tennis_01.avi
+!new/[a-o]Prince_of_Tennis_02.avi
+!new/[a-o]Prince_of_Tennis_03.avi
+!new/[a-o]Prince_of_Tennis_04.avi
+!new/[a-o]Prince_of_Tennis_05.avi
+!new/[a-o]Prince_of_Tennis_06.avi
+!new/[a-o]Prince_of_Tennis_07.avi
+!new/[a-o]Prince_of_Tennis_08.avi
+!new/[a-o]Prince_of_Tennis_09.avi
+!new/[a-o]Prince_of_Tennis_10.avi
+!new/[a-o]Prince_of_Tennis_100[C045379C].avi
+!new/[a-o]Prince_of_Tennis_101[ED55488E].avi
+!new/[a-o]Prince_of_Tennis_102[37F39010].avi
+!new/[a-o]Prince_of_Tennis_103[B999B836].avi
+!new/[a-o]Prince_of_Tennis_104[3B9E9920].avi
+!new/[a-o]Prince_of_Tennis_105[875731B9].avi
+!new/[a-o]Prince_of_Tennis_106[F15B0F99].avi
+!new/[a-o]Prince_of_Tennis_108[9ADE0452].avi
+!new/[a-o]Prince_of_Tennis_11.avi
+!new/[a-o]Prince_of_Tennis_110[D53B84E8].avi
+!new/[a-o]Prince_of_Tennis_112[0D6EFDDD].avi
+!new/[a-o]Prince_of_Tennis_114[8B0715F7].avi
+!new/[a-o]Prince_of_Tennis_115[EE253600].avi
+!new/[a-o]Prince_of_Tennis_12-13_Special.avi
+!new/[a-o]Prince_of_Tennis_12.avi
+!new/[a-o]Prince_of_Tennis_124[02618B7A].avi
+!new/[a-o]Prince_of_Tennis_127[18D6EBCF].avi
+!new/[a-o]Prince_of_Tennis_129[AB531557].avi
+!new/[a-o]Prince_of_Tennis_13.avi
+!new/[a-o]Prince_of_Tennis_130[6E87EBBA].avi
+!new/[a-o]Prince_of_Tennis_131[466DB8E2].avi
+!new/[a-o]Prince_of_Tennis_132_[7F1DF1F7].avi
+!new/[a-o]Prince_of_Tennis_133_[6C2D8DE9].avi
+!new/[a-o]Prince_of_Tennis_134_[8885725C].avi
+!new/[a-o]Prince_of_Tennis_136[FADFF99B].avi
+!new/[a-o]Prince_of_Tennis_139[9896C8C7].avi
+!new/[a-o]Prince_of_Tennis_14.avi
+!new/[a-o]Prince_of_Tennis_140-141[CAB44D8F].avi
+!new/[a-o]Prince_of_Tennis_143[75F4F6BC].avi
+!new/[a-o]Prince_of_Tennis_144[86143444].avi
+!new/[a-o]Prince_of_Tennis_145[3EB38DD3].avi
+!new/[a-o]Prince_of_Tennis_146[A520DE6F].avi
+!new/[a-o]Prince_of_Tennis_147[EE71E038].avi
+!new/[a-o]Prince_of_Tennis_148[DFE1AD41].avi
+!new/[a-o]Prince_of_Tennis_149[3F65B6B1].avi
+!new/[a-o]Prince_of_Tennis_15.avi
+!new/[a-o]Prince_of_Tennis_150[457178A3].avi
+!new/[a-o]Prince_of_Tennis_151[0998B023].avi
+!new/[a-o]Prince_of_Tennis_152[37816025].avi
+!new/[a-o]Prince_of_Tennis_153_[95E5EC15].avi
+!new/[a-o]Prince_of_Tennis_154_-_155_[F87AFD12].avi
+!new/[a-o]Prince_of_Tennis_156[691E67C9].avi
+!new/[a-o]Prince_of_Tennis_157[0EE0F8D9].avi
+!new/[a-o]Prince_of_Tennis_158[34066589].avi
+!new/[a-o]Prince_of_Tennis_159[64244A79].avi
+!new/[a-o]Prince_of_Tennis_16.avi
+!new/[a-o]Prince_of_Tennis_160[6A5B3454].avi
+!new/[a-o]Prince_of_Tennis_161[85542B75].avi
+!new/[a-o]Prince_of_Tennis_162[5218F372].avi
+!new/[a-o]Prince_of_Tennis_163[A9294FBA].avi
+!new/[a-o]Prince_of_Tennis_164[A21747D0].avi
+!new/[a-o]Prince_of_Tennis_17.avi
+!new/[a-o]Prince_of_Tennis_18.avi
+!new/[a-o]Prince_of_Tennis_19.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
