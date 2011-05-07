@@ -817,8 +817,14 @@
 !new/[Commie]+Steins;Gate+-+05v2+Patch.zip
 !new/[Doki-Chihiro]_Time_Paladin_Sakura_-_01_[704x480_DVD_AC3][EAC29A8A].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 17 [720p].mkv
+!new/[HorribleSubs] Deadman Wonderland  - 04 [720p].mkv
+!new/[HorribleSubs] Fairy Tail - 78 [720p].mkv
 !new/[HorribleSubs] Ore-tachi Ni Tsubasa wa Nai - 05v2 [720p].mkv
 !new/[HorribleSubs] Sekai-ichi Hatsukoi - 05v2 [720p].mkv
+!new/[Kokuhaku]_Tsukiyo_no_Fromage_ch12.zip
+!new/[Nipponsei] Astarotte no Omocha! Character Song CD Vol.1 - Astarotte Ygvar & Judit Snorrevik [Various].zip
+!new/[Nipponsei] Seikon no Qwaser II OP Single - Rasen, Arui wa Seinaru Yokubou. [Faylan].zip
+!new/[PM]Pocket_Monsters_-_027_-_Sleeper_and_Pokemon_Regression![H264_SUB][031A8848].mkv
 !new/[RaX]Kiba_-_01_-_Winds_of_Fate_(x264_AAC)_[v2]_[FC996A81].mkv
 !new/[RaX]Kiba_-_02_-_A_New_World_(x264_AAC)_[v2]_[F49911C0].mkv
 !new/[RaX]Kiba_-_03_-_Those_With_Power_(x264_AAC)_[v2]_[3F39DF71].mkv
@@ -870,6 +876,7 @@
 !new/[RaX]Kiba_-_49_-_Mother_and_Child_(x264_AAC)_[E303875C].mkv
 !new/[RaX]Kiba_-_50_-_An_Eternal_Bond_(x264_AAC)_[E6C1643C].mkv
 !new/[RaX]Kiba_-_51_-_To_Where_the_Wind_Blows_(x264_AAC)_[43BD2B46].mkv
+!new/[RyRo]_Inazuma_Eleven_-_127_END_(1280x720_x264_AAC)_[C1F0C5BE].mkv
 !new/[SubDesu] 30-sai no Hoken Taiiku - 05 (1280x720) [6B7812BE].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
@@ -886,8 +893,21 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[UTW]_Ano_Hana_-_04_[h264-720p][4FC5171C].mkv
 !new/[UTW]_Hidan_no_Aria_-_04_[h264-720p][BDCE69D2].mkv
 !new/[Underwater-Commie] Denpa Onna to Seishun Otoko - 04 (720p) [ADA6719B].mkv
+!new/[WhyNot] Hen Zemi - 05 [Uncensored][0E0FE82B].mkv
+!new/[a4e]Agent_Aika_01[h.264].mkv
+!new/[a4e]Agent_Aika_02[h.264].mkv
+!new/[a4e]Agent_Aika_03[h.264].mkv
+!new/[a4e]Agent_Aika_04[h.264].mkv
+!new/[a4e]Agent_Aika_05[h.264].mkv
+!new/[a4e]Agent_Aika_06[h.264].mkv
+!new/[a4e]Agent_Aika_07[h.264].mkv
+!new/[a4e]Agent_Aika_4.5[h.264].mkv
+!new/[a4e]Aika_R-16_01[h264].mkv
+!new/[a4e]Aika_R-16_02[h264].mkv
+!new/[a4e]Aika_R-16_03[h264].mkv
 !new/[gg]_Moshidora_(Moshi_Koko_Yakyu_no_Joshi_Manager_ga_Drucker_no_Management_o_Yondara)_-_10_[].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
