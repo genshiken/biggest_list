@@ -141,6 +141,7 @@ incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 34 [
 incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 01 [v2][BC62CE11].mkv
 incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 02 [EF511E91].mkv
 incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 03 [8109CBD1].mkv
+incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 04 [v2][B4DE9B66].mkv
 incomplete/Aoi Blink/[ARR] Aoi Blink - 01 [7CEA315B].mkv
 incomplete/Aoki Densetsu Shoot!/[Saizen] Aoki Densetsu Shoot! - 34 [DVD][5DE072D3].mkv
 incomplete/Aoki Densetsu Shoot!/[Saizen] Aoki Densetsu Shoot! - 35 [DVD][55E30867].mkv
@@ -191,12 +192,11 @@ incomplete/Ask Dr. Rin!/[HnK & L-E] Ask Dr. Rin! - 08 [7001DA65].avi
 incomplete/Ask Dr. Rin!/[HnK & L-E] Ask Dr. Rin! - 09 [69294171].avi
 incomplete/Ask Dr. Rin!/[HnK & L-E] Ask Dr. Rin! - 10 [23C37344].avi
 incomplete/Ask Dr. Rin!/[HnK & L-E] Ask Dr. Rin! - 11 [580BE701].avi
-incomplete/Astarotte no Omocha!/[HorribleSubs] Astarotte's Toy - 03 [720p][ACA4702C].mkv
-incomplete/Astarotte no Omocha!/[HorribleSubs] Astarotte's Toy - 04 [720p][C056516D].mkv
 incomplete/Astarotte no Omocha!/[Underwater-Commie] Astarotte no Omocha! - 01 [720p][DD4F0AD0].mkv
 incomplete/Astarotte no Omocha!/[Underwater-Commie] Astarotte no Omocha! - 02 [720p][D9EB8E5B].mkv
 incomplete/Astarotte no Omocha!/[Underwater-Commie] Astarotte no Omocha! - 03 [720p][3583F7FE].mkv
 incomplete/Astarotte no Omocha!/[Underwater-Commie] Astarotte no Omocha! - 04 [720p][E228496A].mkv
+incomplete/Astarotte no Omocha!/[Underwater-Commie] Astarotte no Omocha! - 05 [720p][CE05AA4F].mkv
 incomplete/Astro Fighter Sunred/[ANBU] Astro Fighter Sunred - 01 [170751D6].mkv
 incomplete/Astro Fighter Sunred/[ANBU] Astro Fighter Sunred - 02 [B22B9E90].mkv
 incomplete/Astro Fighter Sunred/[ANBU] Astro Fighter Sunred - 03 [4A5E438E].mkv
@@ -946,6 +946,7 @@ incomplete/Dog Days/[Ayako-Himatsubushi] Dog Days - 02 [720p][6E9A0AE2].mkv
 incomplete/Dog Days/[Ayako-Himatsubushi] Dog Days - 03 [720p][83703EF1].mkv
 incomplete/Dog Days/[Ayako-Himatsubushi] Dog Days - 04 [720p][0030DC90].mkv
 incomplete/Dog Days/[Ayako-Himatsubushi] Dog Days - 05 [720p][4BDD03AD].mkv
+incomplete/Dog Days/[Ayako-Himatsubushi] Dog Days - 06 [720p][F92E3424].mkv
 incomplete/Dogtato-kun/[Triad] Dogtato-kun - 01 [DVD][AB88242D].avi
 incomplete/Dogtato-kun/[Triad] Dogtato-kun - 08 [DVD][32DBDCAC].avi
 incomplete/Doraemon/[Nobita] Doraemon - 01 [8B777A11].mkv
