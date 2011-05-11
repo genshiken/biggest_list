@@ -90,12 +90,16 @@ music/EAC/[EAC] [101110] TVアニメ そらのおとしものf（フォルテ）
 music/EAC/[EAC] [101110]TVアニメ えむえむっ！ ED主題歌「More-more LOVERS!!」／麻生夏子  (tak+bmp+rr3).rar
 music/EAC/[EAC] [101124] TVアニメ とある魔術の禁書目録（インデックス）II ED 「Magic∞world」[DVD付初回限定盤]／黒崎真音 (ape+cue+ISO　PD輸入).7z
 music/EAC/[EAC] [110427] TVアニメ 「電波女と青春男」 OPテーマ 「Os-宇宙人」／エリオをかまってちゃん (ape+cue+jpg).zip
+music/EAC/[EAC] [110511] TVアニメ 花咲くいろは ED 「Hazy」[DVD付初回生産限定盤]／スフィア (ape+cue+ISO).rar
 music/EAC/[EAC] 愛と勇気のピッグガール とんでぶ～りん OP＆ED 愛はカッコわるい／ぶーりん あ・ら・もーど - パーキッツ.zip
 music/EAC/[EAC]TVアニメ 「DOG DAYS」 OPテーマ 「SCARLET KNIGHT」／水樹奈々.zip
 music/EAC/[EAC]TVアニメ 「アスタロッテのおもちゃ！」 OPテーマ「天使のCLOVER」／愛美(ape+cue+jpg).zip
 music/EAC/[EAC]TVアニメ 「俺たちに翼はない」 OPテーマ「Spread Wings」／美郷あき(ape+cue+jpg).zip
 music/EAC/[EAC]TVアニメ「STEINS;GATE 」OPテーマ 「Hacking to the Gate」[DVD付初回限定盤]／いとうかなこ (ape+cue+jpg+iso).zip
+music/EAC/[EAC]TVアニメ「俺たちに翼はない」EDテーマ 「NEVERLAND」／橋本みゆき (ape+cue+jpg).zip
+music/EAC/[EAC]TVアニメ「緋弾のアリア 」OPテーマ 「Scarlet Ballet」[初回限定盤]／May’n (ape+cue+jpg).zip
 music/EAC/[EAC]TVアニメ「花咲くいろは」OPテーマ 「ハナノイロ」／nano.RIPE[APE+CUE+JPG].zip
+music/EAC/[EAC]TVアニメ「青の祓魔師」OPテーマ 「CORE PRIDE」[青の祓魔師盤]／UVERworld (ape+cue+jpg).zip
 music/EAC/[EAC][090121] ELISA - white pulsation (tta+cue+16jpg+iso+mds+rr3).rar
 music/EAC/[EAC][100429] ef - a fairy tale of the two. IMAGE SONG CD - echt forgather (ape+cue+rr3).rar
 music/EAC/[EAC][110427] Nichijou OP Single - Hyadain no Kakakata Kataomoi-C (wav+cue+jpg).rar
@@ -597,6 +601,7 @@ music/Nipponsei/[Nipponsei] Gundam SEED DESTINY Suit CD Vol. 6 - Shin Asuka x De
 music/Nipponsei/[Nipponsei] Gundam SEED DESTINY Suit CD Vol. 7 - Auel x Sting.zip
 music/Nipponsei/[Nipponsei] Gundam SEED~SEED DESTINY BEST 'THE BRIDGE' Across the Songs from GUNDAM SEED & SEED DESTINY.zip
 music/Nipponsei/[Nipponsei] Hakuouki Original Soundtrack.zip
+music/Nipponsei/[Nipponsei] Hanasaku Iroha ED Single - Hazy [Sphere].zip
 music/Nipponsei/[Nipponsei] Hanasaku Iroha OP Single - Hana no Iro [nano.RIPE].zip
 music/Nipponsei/[Nipponsei] Hanbun no Tsuki ga Noboru Sora OP ED Single - Aoi Koufuku [nobuko] (320 kbps).zip
 music/Nipponsei/[Nipponsei] Hanoka OP Single - Dual Love on the planet ~Hanoka~ [Nogawa Sakura].zip
@@ -618,9 +623,12 @@ music/Nipponsei/[Nipponsei] Hayate no Gotoku Radio CD1 - Radio the combat butler
 music/Nipponsei/[Nipponsei] Heart Catch Precure! ED2 Single - Tomorrow Song ~Ashita no Uta~ [Kudou Mayu & Ikeda Aya].zip
 music/Nipponsei/[Nipponsei] Heartcatch Precure! Insert Song Single - Power of Shine [Kuwashima Houko & Hisakawa Aya].zip
 music/Nipponsei/[Nipponsei] Heartcatch Precure! Movie OP ED Single - Alright! Heartcatch Precure! for the Movie [Ikeda Aya & Kudou Mayu].zip
+music/Nipponsei/[Nipponsei] Hen Zemi OP Single - Punctuation! [Hanazawa Kana].zip
 music/Nipponsei/[Nipponsei] Heroic Age ED Single - Azurite [Urakabe Tae].zip
 music/Nipponsei/[Nipponsei] Hidamari Sketch OP Single - Sketch Switch [Various].zip
 music/Nipponsei/[Nipponsei] Hidamari Sketch X Hoshimittsu Character CD 6 - Sae [Shintani Ryouko].zip
+music/Nipponsei/[Nipponsei] Hidan no Aria ED Single - Camellia no Hitomi [Nakano Aiko].zip
+music/Nipponsei/[Nipponsei] Hidan no Aria OP Single - Scarlet Ballet [May'n].zip
 music/Nipponsei/[Nipponsei] Highschool of the Dead ED Album - H.O.T.D. [Kurosaki Maon].zip
 music/Nipponsei/[Nipponsei] Highschool of the Dead OP Single - HIGHSCHOOL OF THE DEAD [Kishida Kyoudan & The Myoujou Rocket].zip
 music/Nipponsei/[Nipponsei] Highschool of the Dead Original Soundtrack.zip
@@ -1518,6 +1526,7 @@ music/Shin-S/[Shin-S] Astarotte no Omocha! OP Single - Tenshi no CLOVER [Aimi].z
 music/Shin-S/[Shin-S] Denpa Onna to Seishun Otoko OP Single - Os-Uchuujin [Erio wo Kamatte-chan].zip
 music/Shin-S/[Shin-S] Dragon Crisis! ED Single - Mirai Bowl [Momoiro Clover].zip
 music/Shin-S/[Shin-S] Hanasaku Iroha OP Single - Hana no Iro [nano.RIPE].zip
+music/Shin-S/[Shin-S] Hidan no Aria ED Single - Camellia no Hitomi [Nakano Aiko].zip
 music/Shin-S/[Shin-S] Kampfer fur die Liebe OP & ED Single - Choose my love! [Various].zip
 music/Shin-S/[Shin-S] Moribito Kozorite PC Game OP Single - Moribito Kozorite [Nogawa Sakura].zip
 music/Shin-S/[Shin-S] Moshidora ~Moshi Koukou Yakyuu no Joshi Manager ga Drucker no Management wo Yondara~ ED Single - Daisuki da yo [momo].zip

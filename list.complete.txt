@@ -108,6 +108,32 @@ complete/a/A Little Princess Sara/[Licca] A Little Princess Sara - 43 [A94E0D00]
 complete/a/A Little Princess Sara/[Licca] A Little Princess Sara - 44 [3985CD39].mkv
 complete/a/A Little Princess Sara/[Licca] A Little Princess Sara - 45 [7B94E464].mkv
 complete/a/A Little Princess Sara/[Licca] A Little Princess Sara - 46 [End][30B1E84B].mkv
+complete/a/A Little Snow Fairy Sugar/[Exiled-Destiny] A Little Snow Fairy Sugar - 01 [878A6E7B].mkv
+complete/a/A Little Snow Fairy Sugar/[Exiled-Destiny] A Little Snow Fairy Sugar - 02 [23102AD4].mkv
+complete/a/A Little Snow Fairy Sugar/[Exiled-Destiny] A Little Snow Fairy Sugar - 03 [5BD5BA39].mkv
+complete/a/A Little Snow Fairy Sugar/[Exiled-Destiny] A Little Snow Fairy Sugar - 04 [835CAFB1].mkv
+complete/a/A Little Snow Fairy Sugar/[Exiled-Destiny] A Little Snow Fairy Sugar - 05 [06F0322A].mkv
+complete/a/A Little Snow Fairy Sugar/[Exiled-Destiny] A Little Snow Fairy Sugar - 06 [01907345].mkv
+complete/a/A Little Snow Fairy Sugar/[Exiled-Destiny] A Little Snow Fairy Sugar - 07 [CD665932].mkv
+complete/a/A Little Snow Fairy Sugar/[Exiled-Destiny] A Little Snow Fairy Sugar - 08 [D763930C].mkv
+complete/a/A Little Snow Fairy Sugar/[Exiled-Destiny] A Little Snow Fairy Sugar - 09 [E90F3135].mkv
+complete/a/A Little Snow Fairy Sugar/[Exiled-Destiny] A Little Snow Fairy Sugar - 10 [6079E892].mkv
+complete/a/A Little Snow Fairy Sugar/[Exiled-Destiny] A Little Snow Fairy Sugar - 11 [1A71BCF4].mkv
+complete/a/A Little Snow Fairy Sugar/[Exiled-Destiny] A Little Snow Fairy Sugar - 12 [B3D4457E].mkv
+complete/a/A Little Snow Fairy Sugar/[Exiled-Destiny] A Little Snow Fairy Sugar - 13 [F69F67E3].mkv
+complete/a/A Little Snow Fairy Sugar/[Exiled-Destiny] A Little Snow Fairy Sugar - 14 [A3B4F798].mkv
+complete/a/A Little Snow Fairy Sugar/[Exiled-Destiny] A Little Snow Fairy Sugar - 15 [7FD72566].mkv
+complete/a/A Little Snow Fairy Sugar/[Exiled-Destiny] A Little Snow Fairy Sugar - 16 [7698766D].mkv
+complete/a/A Little Snow Fairy Sugar/[Exiled-Destiny] A Little Snow Fairy Sugar - 17 [0F73F955].mkv
+complete/a/A Little Snow Fairy Sugar/[Exiled-Destiny] A Little Snow Fairy Sugar - 18 [59755C57].mkv
+complete/a/A Little Snow Fairy Sugar/[Exiled-Destiny] A Little Snow Fairy Sugar - 19 [23AA6FDE].mkv
+complete/a/A Little Snow Fairy Sugar/[Exiled-Destiny] A Little Snow Fairy Sugar - 20 [340DA2DF].mkv
+complete/a/A Little Snow Fairy Sugar/[Exiled-Destiny] A Little Snow Fairy Sugar - 21 [3BB0C7FC].mkv
+complete/a/A Little Snow Fairy Sugar/[Exiled-Destiny] A Little Snow Fairy Sugar - 22 [BA95DE5B].mkv
+complete/a/A Little Snow Fairy Sugar/[Exiled-Destiny] A Little Snow Fairy Sugar - 23 [5693186B].mkv
+complete/a/A Little Snow Fairy Sugar/[Exiled-Destiny] A Little Snow Fairy Sugar - 24 [A3F361A7].mkv
+complete/a/A Little Snow Fairy Sugar/[Exiled-Destiny] A Little Snow Fairy Sugar - 25 [FDFCAB01].mkv
+complete/a/A Little Snow Fairy Sugar/[Exiled-Destiny] A Little Snow Fairy Sugar - 26 [End][F2EF52FA].mkv
 complete/a/AA! Megami-sama OVA/[AniSubs] AA! Megami-sama - OVA 1 [4C2671B8].mkv
 complete/a/AA! Megami-sama OVA/[AniSubs] AA! Megami-sama - OVA 2 [23CF1D14].mkv
 complete/a/AA! Megami-sama OVA/[AniSubs] AA! Megami-sama - OVA 3 [121A2AFD].mkv
@@ -724,7 +750,6 @@ complete/a/Aria the Origination/[ETB] Aria the Origination - 11 [13677CA8].mkv
 complete/a/Aria the Origination/[ETB] Aria the Origination - 12 [1945F04D].mkv
 complete/a/Aria the Origination/[ETB] Aria the Origination - 13 [5829B612].mkv
 complete/a/Aria the Origination/[ETB] Aria the Origination - Ending [6F4C5543].mkv
-complete/a/Armored Trooper VOTOMS - Finder/[gg] Armored Trooper VOTOMS - Finder [1080p BD][9F273CE5].mkv
 complete/a/Armored Trooper Votoms - Big Battle/[SHS-FoSu] Armored Trooper Votoms - Big Battle [DVD][3696E33B].mkv
 complete/a/Armored Trooper Votoms - Pailsen Files/[Shinsen-Subs] Armored Trooper Votoms - Pailsen Files - 01 [C7248F04].mkv
 complete/a/Armored Trooper Votoms - Pailsen Files/[Shinsen-Subs] Armored Trooper Votoms - Pailsen Files - 02 [0E3B5C94].mkv
@@ -739,6 +764,9 @@ complete/a/Armored Trooper Votoms - Pailsen Files/[Shinsen-Subs] Armored Trooper
 complete/a/Armored Trooper Votoms - Pailsen Files/[Shinsen-Subs] Armored Trooper Votoms - Pailsen Files - 11 [067BCB6F].mkv
 complete/a/Armored Trooper Votoms - Pailsen Files/[Shinsen-Subs] Armored Trooper Votoms - Pailsen Files - 12 [End][9CBFD150].mkv
 complete/a/Armored Trooper Votoms - The Last Red Shoulder/[Shinsen-Subs] Armored Trooper Votoms - The Last Red Shoulder [DVD][D4320BF6].mkv
+complete/a/Armored Trooper Votoms OVA/[gg] Armored Trooper Votoms OVA - 1 [1080p BD][D8B60815].mkv
+complete/a/Armored Trooper Votoms OVA/[gg] Armored Trooper Votoms OVA - 2 [1080p BD][9F273CE5].mkv
+complete/a/Armored Trooper Votoms OVA/[gg] Armored Trooper Votoms OVA - 3 [End][1080p BD][EA07E1F7].mkv
 complete/a/Asatte no Houkou/[Ureshii] Asatte no Houkou - 01 [DVD][2EFA1363].mkv
 complete/a/Asatte no Houkou/[Ureshii] Asatte no Houkou - 02 [DVD][C0174CAB].mkv
 complete/a/Asatte no Houkou/[Ureshii] Asatte no Houkou - 03 [DVD][20BC4657].mkv
@@ -13089,6 +13117,32 @@ complete/p/Princess Lover!/[polished] Princess Lover! - 10 [DVD][FDD94B7E].mkv
 complete/p/Princess Lover!/[polished] Princess Lover! - 11 [DVD][B99DC866].mkv
 complete/p/Princess Lover!/[polished] Princess Lover! - 12 [End][DVD][8A2FC6F1].mkv
 complete/p/Princess Minerva/[AM] Princess Minerva [7C2948E3].avi
+complete/p/Princess Nine/[Anime-Takeover] Princess Nine - 01 [41F1E2B9].mkv
+complete/p/Princess Nine/[Anime-Takeover] Princess Nine - 02 [9D20788E].mkv
+complete/p/Princess Nine/[Anime-Takeover] Princess Nine - 03 [36DA194D].mkv
+complete/p/Princess Nine/[Anime-Takeover] Princess Nine - 04 [D72D8ECE].mkv
+complete/p/Princess Nine/[Anime-Takeover] Princess Nine - 05 [64062778].mkv
+complete/p/Princess Nine/[Anime-Takeover] Princess Nine - 06 [10EA5DDB].mkv
+complete/p/Princess Nine/[Anime-Takeover] Princess Nine - 07 [5224F28D].mkv
+complete/p/Princess Nine/[Anime-Takeover] Princess Nine - 08 [AD77303E].mkv
+complete/p/Princess Nine/[Anime-Takeover] Princess Nine - 09 [0D022867].mkv
+complete/p/Princess Nine/[Anime-Takeover] Princess Nine - 10 [1FCC9755].mkv
+complete/p/Princess Nine/[Anime-Takeover] Princess Nine - 11 [9DA2E2DB].mkv
+complete/p/Princess Nine/[Anime-Takeover] Princess Nine - 12 [9AEE9DD6].mkv
+complete/p/Princess Nine/[Anime-Takeover] Princess Nine - 13 [4CCBC820].mkv
+complete/p/Princess Nine/[Anime-Takeover] Princess Nine - 14 [F89C9491].mkv
+complete/p/Princess Nine/[Anime-Takeover] Princess Nine - 15 [EEC7CDFA].mkv
+complete/p/Princess Nine/[Anime-Takeover] Princess Nine - 16 [78AB446C].mkv
+complete/p/Princess Nine/[Anime-Takeover] Princess Nine - 17 [5E081086].mkv
+complete/p/Princess Nine/[Anime-Takeover] Princess Nine - 18 [299152D2].mkv
+complete/p/Princess Nine/[Anime-Takeover] Princess Nine - 19 [523D71D6].mkv
+complete/p/Princess Nine/[Anime-Takeover] Princess Nine - 20 [D77AF89C].mkv
+complete/p/Princess Nine/[Anime-Takeover] Princess Nine - 21 [D4B6805F].mkv
+complete/p/Princess Nine/[Anime-Takeover] Princess Nine - 22 [CA42A68F].mkv
+complete/p/Princess Nine/[Anime-Takeover] Princess Nine - 23 [A9873AF3].mkv
+complete/p/Princess Nine/[Anime-Takeover] Princess Nine - 24 [34F6620C].mkv
+complete/p/Princess Nine/[Anime-Takeover] Princess Nine - 25 [8179EF68].mkv
+complete/p/Princess Nine/[Anime-Takeover] Princess Nine - 26 [End][DC3F8ECF].mkv
 complete/p/Princess Princess/[aarinfantasy-KissSub] Princess Princess - 01 [15653420].avi
 complete/p/Princess Princess/[aarinfantasy-KissSub] Princess Princess - 02 [3283F61E].avi
 complete/p/Princess Princess/[aarinfantasy-KissSub] Princess Princess - 03 [5792857A].avi
