@@ -537,6 +537,45 @@
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/List.txt
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/disc_8.jpg
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/mibox_cover.gif
+!new/Nadia/[a4e]Nadia_01v2[divx5.05].ogm
+!new/Nadia/[a4e]Nadia_02v2[divx5.05].ogm
+!new/Nadia/[a4e]Nadia_03[divx5.05].ogm
+!new/Nadia/[a4e]Nadia_04[divx5.05].ogm
+!new/Nadia/[a4e]Nadia_05[divx5.05].ogm
+!new/Nadia/[a4e]Nadia_06[divx5.1].ogm
+!new/Nadia/[a4e]Nadia_07[divx5.1].ogm
+!new/Nadia/[a4e]Nadia_08v2[divx5.1].ogm
+!new/Nadia/[a4e]Nadia_09[divx5.1].ogm
+!new/Nadia/[a4e]Nadia_10[divx5.1].ogm
+!new/Nadia/[a4e]Nadia_11[divx5.1].ogm
+!new/Nadia/[a4e]Nadia_12[divx5.1].ogm
+!new/Nadia/[a4e]Nadia_13[divx5.1].ogm
+!new/Nadia/[a4e]Nadia_14[divx5.1].ogm
+!new/Nadia/[a4e]Nadia_15[divx5.1].ogm
+!new/Nadia/[a4e]Nadia_16[divx5.1.1].ogm
+!new/Nadia/[a4e]Nadia_17[divx5.1.1].ogm
+!new/Nadia/[a4e]Nadia_18[divx5.1.1].ogm
+!new/Nadia/[a4e]Nadia_19[divx5.1.1].ogm
+!new/Nadia/[a4e]Nadia_20[divx5.1.1].ogm
+!new/Nadia/[a4e]Nadia_21[divx5.2.1].mkv
+!new/Nadia/[a4e]Nadia_22[divx5.2.1].mkv
+!new/Nadia/[a4e]Nadia_23[divx5.2.1].mkv
+!new/Nadia/[a4e]Nadia_24[divx5.2.1].mkv
+!new/Nadia/[a4e]Nadia_25[divx5.2.1].mkv
+!new/Nadia/[a4e]Nadia_26[divx5.2.1].mkv
+!new/Nadia/[a4e]Nadia_27[divx5.2.1].mkv
+!new/Nadia/[a4e]Nadia_28[divx5.2.1].mkv
+!new/Nadia/[a4e]Nadia_29[divx5.2.1].mkv
+!new/Nadia/[a4e]Nadia_30[divx5.2.1].mkv
+!new/Nadia/[a4e]Nadia_31[divx5.2.1].mkv
+!new/Nadia/[a4e]Nadia_32[divx5.2.1].mkv
+!new/Nadia/[a4e]Nadia_33[XviD].mkv
+!new/Nadia/[a4e]Nadia_34[XviD].mkv
+!new/Nadia/[a4e]Nadia_35[XviD].mkv
+!new/Nadia/[a4e]Nadia_36[XviD].mkv
+!new/Nadia/[a4e]Nadia_37[XviD].mkv
+!new/Nadia/[a4e]Nadia_38[XviD].mkv
+!new/Nadia/[a4e]Nadia_39v2[XviD].mkv
 !new/NieA under 7/NieA_under_7_-_01.mkv
 !new/NieA under 7/NieA_under_7_-_02.mkv
 !new/NieA under 7/NieA_under_7_-_03.mkv
@@ -817,33 +856,6 @@
 !new/Toaru Kagaku no Railgun - 40 [OS].zip
 !new/Tsukiyo no Fromage - 12 [Kokuhaku].zip
 !new/Tsukiyo no Fromage - 13 [Kokuhaku].zip
-!new/[Coalgirls]_Clannad_01_(1920x1080_Blu-Ray_FLAC)_[717AEED4].mkv
-!new/[Coalgirls]_Clannad_02_(1920x1080_Blu-Ray_FLAC)_[C857E5E8].mkv
-!new/[Coalgirls]_Clannad_03_(1920x1080_Blu-Ray_FLAC)_[5C9CE9C2].mkv
-!new/[Coalgirls]_Clannad_04_(1920x1080_Blu-Ray_FLAC)_[3D096D57].mkv
-!new/[Coalgirls]_Clannad_05_(1920x1080_Blu-Ray_FLAC)_[2039337C].mkv
-!new/[Coalgirls]_Clannad_06_(1920x1080_Blu-Ray_FLAC)_[54AAE592].mkv
-!new/[Coalgirls]_Clannad_07_(1920x1080_Blu-Ray_FLAC)_[47D3707B].mkv
-!new/[Coalgirls]_Clannad_08_(1920x1080_Blu-Ray_FLAC)_[D2BA0694].mkv
-!new/[Coalgirls]_Clannad_09_(1920x1080_Blu-Ray_FLAC)_[9EB14481].mkv
-!new/[Coalgirls]_Clannad_10_(1920x1080_Blu-Ray_FLAC)_[A9069A4A].mkv
-!new/[Coalgirls]_Clannad_11_(1920x1080_Blu-Ray_FLAC)_[F10AF6CB].mkv
-!new/[Coalgirls]_Clannad_12_(1920x1080_Blu-Ray_FLAC)_[8CA0B24F].mkv
-!new/[Coalgirls]_Clannad_13_(1920x1080_Blu-Ray_FLAC)_[FD6E3870].mkv
-!new/[Coalgirls]_Clannad_14_(1920x1080_Blu-Ray_FLAC)_[FE88D26A].mkv
-!new/[Coalgirls]_Clannad_15_(1920x1080_Blu-Ray_FLAC)_[09D0097C].mkv
-!new/[Coalgirls]_Clannad_16_(1920x1080_Blu-Ray_FLAC)_[6AE448E7].mkv
-!new/[Coalgirls]_Clannad_17_(1920x1080_Blu-Ray_FLAC)_[F1382D97].mkv
-!new/[Coalgirls]_Clannad_18_(1920x1080_Blu-Ray_FLAC)_[B43D5F15].mkv
-!new/[Coalgirls]_Clannad_19_(1920x1080_Blu-Ray_FLAC)_[32CA785B].mkv
-!new/[Coalgirls]_Clannad_20_(1920x1080_Blu-Ray_FLAC)_[90B5526E].mkv
-!new/[Coalgirls]_Clannad_21_(1920x1080_Blu-Ray_FLAC)_[81AFE085].mkv
-!new/[Coalgirls]_Clannad_22_(1920x1080_Blu-Ray_FLAC)_[31D900C2].mkv
-!new/[Coalgirls]_Clannad_23_(1920x1080_Blu-Ray_FLAC)_[FA35E640].mkv
-!new/[Coalgirls]_Clannad_24_(1920x1080_Blu-Ray_FLAC)_[C7F2430C].mkv
-!new/[Coalgirls]_Clannad_ED_(1920x1080_Blu-Ray_FLAC)_[72DBBAAA].mkv
-!new/[Coalgirls]_Clannad_OP_(1920x1080_Blu-Ray_FLAC)_[B516B029].mkv
-!new/[Mariawhereyoufuckers] MARIA WHERE YOU FUCKERS - OP [16A79CD7].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -859,45 +871,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[a4e]Nadia_01v2[divx5.05].ogm
-!new/[a4e]Nadia_02v2[divx5.05].ogm
-!new/[a4e]Nadia_03[divx5.05].ogm
-!new/[a4e]Nadia_04[divx5.05].ogm
-!new/[a4e]Nadia_05[divx5.05].ogm
-!new/[a4e]Nadia_06[divx5.1].ogm
-!new/[a4e]Nadia_07[divx5.1].ogm
-!new/[a4e]Nadia_08v2[divx5.1].ogm
-!new/[a4e]Nadia_09[divx5.1].ogm
-!new/[a4e]Nadia_10[divx5.1].ogm
-!new/[a4e]Nadia_11[divx5.1].ogm
-!new/[a4e]Nadia_12[divx5.1].ogm
-!new/[a4e]Nadia_13[divx5.1].ogm
-!new/[a4e]Nadia_14[divx5.1].ogm
-!new/[a4e]Nadia_15[divx5.1].ogm
-!new/[a4e]Nadia_16[divx5.1.1].ogm
-!new/[a4e]Nadia_17[divx5.1.1].ogm
-!new/[a4e]Nadia_18[divx5.1.1].ogm
-!new/[a4e]Nadia_19[divx5.1.1].ogm
-!new/[a4e]Nadia_20[divx5.1.1].ogm
-!new/[a4e]Nadia_21[divx5.2.1].mkv
-!new/[a4e]Nadia_22[divx5.2.1].mkv
-!new/[a4e]Nadia_23[divx5.2.1].mkv
-!new/[a4e]Nadia_24[divx5.2.1].mkv
-!new/[a4e]Nadia_25[divx5.2.1].mkv
-!new/[a4e]Nadia_26[divx5.2.1].mkv
-!new/[a4e]Nadia_27[divx5.2.1].mkv
-!new/[a4e]Nadia_28[divx5.2.1].mkv
-!new/[a4e]Nadia_29[divx5.2.1].mkv
-!new/[a4e]Nadia_30[divx5.2.1].mkv
-!new/[a4e]Nadia_31[divx5.2.1].mkv
-!new/[a4e]Nadia_32[divx5.2.1].mkv
-!new/[a4e]Nadia_33[XviD].mkv
-!new/[a4e]Nadia_34[XviD].mkv
-!new/[a4e]Nadia_35[XviD].mkv
-!new/[a4e]Nadia_36[XviD].mkv
-!new/[a4e]Nadia_37[XviD].mkv
-!new/[a4e]Nadia_38[XviD].mkv
-!new/[a4e]Nadia_39v2[XviD].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx

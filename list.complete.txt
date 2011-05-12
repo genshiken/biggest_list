@@ -2223,7 +2223,6 @@ complete/c/Chu-Bra!!/[Ryuumaru] Chu-Bra!! - 09 [ED9F59E7].mkv
 complete/c/Chu-Bra!!/[Ryuumaru] Chu-Bra!! - 10 [E7D6AF5B].mkv
 complete/c/Chu-Bra!!/[Ryuumaru] Chu-Bra!! - 11 [04334665].mkv
 complete/c/Chu-Bra!!/[Ryuumaru] Chu-Bra!! - 12 [End][E36458A5].mkv
-complete/c/Clannad - OAV/[THORA] Clannad - 24 OAV (1920x1080) [BD][989ADF5E].mkv
 complete/c/Clannad After Story OVA/[SS-Eclipse] Clannad After Story - 25 OVA [DVD][52E22553].mkv
 complete/c/Clannad After Story/[SS-Eclipse] Clannad After Story - 01 (1024x576) [2A6CBFE1].mkv
 complete/c/Clannad After Story/[SS-Eclipse] Clannad After Story - 02 (1024x576) [41BB1ACD].mkv
@@ -2249,31 +2248,58 @@ complete/c/Clannad After Story/[SS-Eclipse] Clannad After Story - 21 (1024x576) 
 complete/c/Clannad After Story/[SS-Eclipse] Clannad After Story - 22 (1024x576) [20BEDAC8].mkv
 complete/c/Clannad After Story/[SS-Eclipse] Clannad After Story - 23 (1024x576) [22B6ED04].mkv
 complete/c/Clannad After Story/[SS-Eclipse] Clannad After Story - 24 (1024x576) [End][608F4639].mkv
-complete/c/Clannad/[THORA] Clannad - 01 (1920x1080) [BD][B219AF8B].mkv
-complete/c/Clannad/[THORA] Clannad - 02 (1920x1080) [BD][37EFCBA6].mkv
-complete/c/Clannad/[THORA] Clannad - 03 (1920x1080) [BD][FEDBFF50].mkv
-complete/c/Clannad/[THORA] Clannad - 04 (1920x1080) [BD][6E8700F9].mkv
-complete/c/Clannad/[THORA] Clannad - 05 (1920x1080) [BD][095449D2].mkv
-complete/c/Clannad/[THORA] Clannad - 06 (1920x1080) [BD][342BB289].mkv
-complete/c/Clannad/[THORA] Clannad - 07 (1920x1080) [BD][4EE9C6EF].mkv
-complete/c/Clannad/[THORA] Clannad - 08 (1920x1080) [BD][9BCC41DF].mkv
-complete/c/Clannad/[THORA] Clannad - 09 (1920x1080) [BD][52710FE6].mkv
-complete/c/Clannad/[THORA] Clannad - 10 (1920x1080) [BD][FEE7315D].mkv
-complete/c/Clannad/[THORA] Clannad - 11 (1920x1080) [BD][64855C00].mkv
-complete/c/Clannad/[THORA] Clannad - 12 (1920x1080) [BD][070C2C00].mkv
-complete/c/Clannad/[THORA] Clannad - 13 (1920x1080) [BD][05913D2F].mkv
-complete/c/Clannad/[THORA] Clannad - 14 (1920x1080) [BD][1DD9A923].mkv
-complete/c/Clannad/[THORA] Clannad - 15 (1920x1080) [BD][71ED4FD3].mkv
-complete/c/Clannad/[THORA] Clannad - 16 (1920x1080) [BD][EEC9DF27].mkv
-complete/c/Clannad/[THORA] Clannad - 17 (1920x1080) [BD][F86BC609].mkv
-complete/c/Clannad/[THORA] Clannad - 18 (1920x1080) [BD][A72202B6].mkv
-complete/c/Clannad/[THORA] Clannad - 19 (1920x1080) [BD][16732C66].mkv
-complete/c/Clannad/[THORA] Clannad - 20 (1920x1080) [BD][FB4F193F].mkv
-complete/c/Clannad/[THORA] Clannad - 21 (1920x1080) [BD][19A95AE7].mkv
-complete/c/Clannad/[THORA] Clannad - 22 (1920x1080) [BD][3D921C49].mkv
-complete/c/Clannad/[THORA] Clannad - 23 (1920x1080) [End][BD][A06DEACA].mkv
-complete/c/Clannad/[THORA] Clannad - Ending (1920x1080) [v2][BD][60E3BC34].mkv
-complete/c/Clannad/[THORA] Clannad - Opening (Clean) (1920x1080) [BD][98982B1C].mkv
+complete/c/Clannad OVA/[Coalgirls] Clannad - 24 OVA [1080p BD][C7F2430C].mkv
+complete/c/Clannad OVA/[THORA] Clannad - 24 OVA [1080p BD][989ADF5E].mkv
+complete/c/Clannad/[Coalgirls] Clannad - 01 [1080p BD][717AEED4].mkv
+complete/c/Clannad/[Coalgirls] Clannad - 02 [1080p BD][C857E5E8].mkv
+complete/c/Clannad/[Coalgirls] Clannad - 03 [1080p BD][5C9CE9C2].mkv
+complete/c/Clannad/[Coalgirls] Clannad - 04 [1080p BD][3D096D57].mkv
+complete/c/Clannad/[Coalgirls] Clannad - 05 [1080p BD][2039337C].mkv
+complete/c/Clannad/[Coalgirls] Clannad - 06 [1080p BD][54AAE592].mkv
+complete/c/Clannad/[Coalgirls] Clannad - 07 [1080p BD][47D3707B].mkv
+complete/c/Clannad/[Coalgirls] Clannad - 08 [1080p BD][D2BA0694].mkv
+complete/c/Clannad/[Coalgirls] Clannad - 09 [1080p BD][9EB14481].mkv
+complete/c/Clannad/[Coalgirls] Clannad - 10 [1080p BD][A9069A4A].mkv
+complete/c/Clannad/[Coalgirls] Clannad - 11 [1080p BD][F10AF6CB].mkv
+complete/c/Clannad/[Coalgirls] Clannad - 12 [1080p BD][8CA0B24F].mkv
+complete/c/Clannad/[Coalgirls] Clannad - 13 [1080p BD][FD6E3870].mkv
+complete/c/Clannad/[Coalgirls] Clannad - 14 [1080p BD][FE88D26A].mkv
+complete/c/Clannad/[Coalgirls] Clannad - 15 [1080p BD][09D0097C].mkv
+complete/c/Clannad/[Coalgirls] Clannad - 16 [1080p BD][6AE448E7].mkv
+complete/c/Clannad/[Coalgirls] Clannad - 17 [1080p BD][F1382D97].mkv
+complete/c/Clannad/[Coalgirls] Clannad - 18 [1080p BD][B43D5F15].mkv
+complete/c/Clannad/[Coalgirls] Clannad - 19 [1080p BD][32CA785B].mkv
+complete/c/Clannad/[Coalgirls] Clannad - 20 [1080p BD][90B5526E].mkv
+complete/c/Clannad/[Coalgirls] Clannad - 21 [1080p BD][81AFE085].mkv
+complete/c/Clannad/[Coalgirls] Clannad - 22 [1080p BD][31D900C2].mkv
+complete/c/Clannad/[Coalgirls] Clannad - 23 [End][1080p BD][FA35E640].mkv
+complete/c/Clannad/[Coalgirls] Clannad - Ending [1080p BD][72DBBAAA].mkv
+complete/c/Clannad/[Coalgirls] Clannad - Opening [1080p BD][B516B029].mkv
+complete/c/Clannad/[THORA] Clannad - 01 [1080p BD][B219AF8B].mkv
+complete/c/Clannad/[THORA] Clannad - 02 [1080p BD][37EFCBA6].mkv
+complete/c/Clannad/[THORA] Clannad - 03 [1080p BD][FEDBFF50].mkv
+complete/c/Clannad/[THORA] Clannad - 04 [1080p BD][6E8700F9].mkv
+complete/c/Clannad/[THORA] Clannad - 05 [1080p BD][095449D2].mkv
+complete/c/Clannad/[THORA] Clannad - 06 [1080p BD][342BB289].mkv
+complete/c/Clannad/[THORA] Clannad - 07 [1080p BD][4EE9C6EF].mkv
+complete/c/Clannad/[THORA] Clannad - 08 [1080p BD][9BCC41DF].mkv
+complete/c/Clannad/[THORA] Clannad - 09 [1080p BD][52710FE6].mkv
+complete/c/Clannad/[THORA] Clannad - 10 [1080p BD][FEE7315D].mkv
+complete/c/Clannad/[THORA] Clannad - 11 [1080p BD][64855C00].mkv
+complete/c/Clannad/[THORA] Clannad - 12 [1080p BD][070C2C00].mkv
+complete/c/Clannad/[THORA] Clannad - 13 [1080p BD][05913D2F].mkv
+complete/c/Clannad/[THORA] Clannad - 14 [1080p BD][1DD9A923].mkv
+complete/c/Clannad/[THORA] Clannad - 15 [1080p BD][71ED4FD3].mkv
+complete/c/Clannad/[THORA] Clannad - 16 [1080p BD][EEC9DF27].mkv
+complete/c/Clannad/[THORA] Clannad - 17 [1080p BD][F86BC609].mkv
+complete/c/Clannad/[THORA] Clannad - 18 [1080p BD][A72202B6].mkv
+complete/c/Clannad/[THORA] Clannad - 19 [1080p BD][16732C66].mkv
+complete/c/Clannad/[THORA] Clannad - 20 [1080p BD][FB4F193F].mkv
+complete/c/Clannad/[THORA] Clannad - 21 [1080p BD][19A95AE7].mkv
+complete/c/Clannad/[THORA] Clannad - 22 [1080p BD][3D921C49].mkv
+complete/c/Clannad/[THORA] Clannad - 23 [End][1080p BD][A06DEACA].mkv
+complete/c/Clannad/[THORA] Clannad - Ending [v2 1080p BD][60E3BC34].mkv
+complete/c/Clannad/[THORA] Clannad - Opening (Clean) [1080p BD][98982B1C].mkv
 complete/c/Claymore/[Eclipse] Claymore - 01 [DVD][AFEAA0D7].mkv
 complete/c/Claymore/[Eclipse] Claymore - 02 [DVD][54FBC4FE].mkv
 complete/c/Claymore/[Eclipse] Claymore - 03 [DVD][97B2EF24].mkv
