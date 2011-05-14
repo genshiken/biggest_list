@@ -67,6 +67,8 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - 613 [DCTP][720p][2B2772BB].mp4
+!new/Detective Conan - 614 [DCTP][720p][B2D3A16A].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -853,6 +855,13 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
+!new/[HorribleSubs] Cardfight!! Vanguard - 18 [720p].mkv
+!new/[HorribleSubs] Ore-tachi Ni Tsubasa wa Nai - 06 [720p].mkv
+!new/[HorribleSubs] Sekai-ichi Hatsukoi - 06 [720p].mkv
+!new/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 36 [H264 1280x720] [ABB79C24].mkv
+!new/[Nipponsei] Deadman Wonderland OP Single - One Reason [DWB feat. fade].zip
+!new/[Nipponsei] Dororon Emma-kun Meeramera OP ED Single - Tamashii Mera Mera Icchou C! [Endou Masaaki & Moon Riders].zip
+!new/[SubDesu] 30-sai no Hoken Taiiku - 06 (1280x720) [7286E8CD].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
