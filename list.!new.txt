@@ -591,6 +591,10 @@
 !new/NieA under 7/NieA_under_7_-_11.mkv
 !new/NieA under 7/NieA_under_7_-_12.mkv
 !new/NieA under 7/NieA_under_7_-_13.mkv
+!new/Ookami-San_BD1_[720p,BluRay,x264]_-_THORA.sfv
+!new/Ookami-San_Ep1_[720p,BluRay,x264]_-_THORA.mkv
+!new/Ookami-San_Ep2_[720p,BluRay,x264]_-_THORA.mkv
+!new/Ookami-san_BD1_(2010)_[720p,BluRay,x264]_-_THORA.nfo
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
@@ -769,6 +773,45 @@
 !new/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x23_DVDRiP.rmvb
 !new/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x24_DVDRiP.rmvb
 !new/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x25_DVDRiP.rmvb
+!new/Revolutionary Girl Utena - 01 [h.264 AC3][273A38AE].mkv
+!new/Revolutionary Girl Utena - 02 [h.264 AC3][B883A6BF].mkv
+!new/Revolutionary Girl Utena - 03 [h.264 AC3][025E2A3F].mkv
+!new/Revolutionary Girl Utena - 04 [h.264 AC3][FADE7238].mkv
+!new/Revolutionary Girl Utena - 05 [h.264 AC3][4DACA446].mkv
+!new/Revolutionary Girl Utena - 06 [h.264 AC3][3FF2C170].mkv
+!new/Revolutionary Girl Utena - 07 [h.264 AC3][96345724].mkv
+!new/Revolutionary Girl Utena - 08 [h.264 AC3][547E8993].mkv
+!new/Revolutionary Girl Utena - 09 [h.264 AC3][0D344EBB].mkv
+!new/Revolutionary Girl Utena - 10 [h.264 AC3][E6057166].mkv
+!new/Revolutionary Girl Utena - 11 [h.264 AC3][E0C939D5].mkv
+!new/Revolutionary Girl Utena - 12 [h.264 AC3][CC7728E3].mkv
+!new/Revolutionary Girl Utena - 13 [h.264 AC3][7A7F4038].mkv
+!new/Revolutionary Girl Utena - 14 [h.264 AC3][D1F5096B].mkv
+!new/Revolutionary Girl Utena - 15 [h.264 AC3][834CD306].mkv
+!new/Revolutionary Girl Utena - 16 [h.264 AC3][11C55248].mkv
+!new/Revolutionary Girl Utena - 17 [h.264 AC3][7F04C161].mkv
+!new/Revolutionary Girl Utena - 18 [h.264 AC3][74A710AC].mkv
+!new/Revolutionary Girl Utena - 19 [h.264 AC3][F63BB02B].mkv
+!new/Revolutionary Girl Utena - 20 [h.264 AC3][4E3A9336].mkv
+!new/Revolutionary Girl Utena - 21 [h.264 AC3][9ED21702].mkv
+!new/Revolutionary Girl Utena - 22 [h.264 AC3][A11D09A6].mkv
+!new/Revolutionary Girl Utena - 23 [h.264 AC3][A27E35A8].mkv
+!new/Revolutionary Girl Utena - 24 [h.264 AC3][BD37D075].mkv
+!new/Revolutionary Girl Utena - 25 [h.264 AC3][68B84016].mkv
+!new/Revolutionary Girl Utena - 26 [h.264 AC3][DD334F09].mkv
+!new/Revolutionary Girl Utena - 27 [h.264 AC3][9B581B34].mkv
+!new/Revolutionary Girl Utena - 28 [h.264 AC3][D40C688B].mkv
+!new/Revolutionary Girl Utena - 29 [h.264 AC3][2791EEDF].mkv
+!new/Revolutionary Girl Utena - 30 [h.264 AC3][966972AC].mkv
+!new/Revolutionary Girl Utena - 31 [h.264 AC3][B05F3A40].mkv
+!new/Revolutionary Girl Utena - 32 [h.264 AC3][3EC8FC93].mkv
+!new/Revolutionary Girl Utena - 33 [h.264 AC3][AA0641C0].mkv
+!new/Revolutionary Girl Utena - 34 [h.264 AC3][123B27E0].mkv
+!new/Revolutionary Girl Utena - 35 [h.264 AC3][2D310614].mkv
+!new/Revolutionary Girl Utena - 36 [h.264 AC3][74EC9A10].mkv
+!new/Revolutionary Girl Utena - 37 [h.264 AC3][8C16A7C7].mkv
+!new/Revolutionary Girl Utena - 38 [h.264 AC3][825942A6].mkv
+!new/Revolutionary Girl Utena - 39 [h.264 AC3][FCCF0DCD].mkv
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD1 [CiMG].avi
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD1 [CiMG].idx
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD1 [CiMG].sub
@@ -901,6 +944,10 @@
 !new/[ACX]Fantastic_Children_-_24_-_Thoma's_Truth_[[Saiyan]BrollY]_[8E427694].mkv
 !new/[ACX]Fantastic_Children_-_25_-_Towards_the_Zone_[[Saiyan]BrollY]_[A6092025].mkv
 !new/[ACX]Fantastic_Children_-_26_-_Demise_and_Then_Beginning_[[Saiyan]BrollY]_[0E6A0A89].mkv
+!new/[AQS-Anime]_To_Heart_2_adnext_2_[1080p][H264-AAC][5583F545].mkv
+!new/[Commie] Deadman Wonderland - 05 [419A531A].mkv
+!new/[Commie] X-Men - 06 [D45BCC8E].mkv
+!new/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_16_[75e2e000].avi
 !new/[Froth-Bite]Rescue_Angel[F3E42B8D].mp4
 !new/[Froth-Bite]Rescue_Wings_-_01_DVD[8E6EF6F1].mp4
 !new/[Froth-Bite]Rescue_Wings_-_02_DVD[877D4798].mp4
@@ -915,12 +962,18 @@
 !new/[Froth-Bite]Rescue_Wings_-_11_DVD[23EDEE09].mp4
 !new/[Froth-Bite]Rescue_Wings_-_12_DVD[2361D03E].mp4
 !new/[Froth-Bite]Rescue_Wings_-_13_DVD[50D092C2].mp4
+!new/[HorribleSubs] Beelzebub - 17 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 18 [720p].mkv
+!new/[HorribleSubs] Deadman Wonderland  - 05 [720p].mkv
+!new/[HorribleSubs] Fairy Tail - 79 [720p].mkv
+!new/[HorribleSubs] Nichijou - 07 [720p].mkv
 !new/[HorribleSubs] Ore-tachi Ni Tsubasa wa Nai - 06 [720p].mkv
 !new/[HorribleSubs] Sekai-ichi Hatsukoi - 06 [720p].mkv
 !new/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 36 [H264 1280x720] [ABB79C24].mkv
+!new/[Licca] Pollyanna Episode 17 (h.264) [BA8462EC].mkv
 !new/[Nipponsei] Deadman Wonderland OP Single - One Reason [DWB feat. fade].zip
 !new/[Nipponsei] Dororon Emma-kun Meeramera OP ED Single - Tamashii Mera Mera Icchou C! [Endou Masaaki & Moon Riders].zip
+!new/[SMS] Starry Sky - 21 [46071740].mkv
 !new/[SubDesu] 30-sai no Hoken Taiiku - 06 (1280x720) [7286E8CD].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
@@ -937,6 +990,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[WhyNot] Hen Zemi - 06v2 [Uncensored][A013BD69].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
