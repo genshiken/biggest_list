@@ -67,8 +67,6 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
-!new/Detective Conan - 613 [DCTP][720p][2B2772BB].mp4
-!new/Detective Conan - 614 [DCTP][720p][B2D3A16A].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -93,6 +91,32 @@
 !new/Dragon Ball/Movie - 06 - Return Of Cooler.rmvb
 !new/Dragon Ball/Movie - 08 - Broly The Legendary Super Saiyan.rmvb
 !new/Dragon Ball/Movie - 09 - Bojack Unbound.rmvb
+!new/Fantastic Children/[ACX]Fantastic_Children_-_01_-_From_the_limits_of_darkness_[[Saiyan]BrollY]_[43EDBE59].mkv
+!new/Fantastic Children/[ACX]Fantastic_Children_-_02_-_Wandering_feelings_[[Saiyan]BrollY]_[CDA87D28].mkv
+!new/Fantastic Children/[ACX]Fantastic_Children_-_03_-_The_place_I_want_to_go_to_[[Saiyan]BrollY]_[B036C808].mkv
+!new/Fantastic Children/[ACX]Fantastic_Children_-_04_-_Shinon_[[Saiyan]BrollY]_[42321CB8].mkv
+!new/Fantastic Children/[ACX]Fantastic_Children_-_05_-_Kokkuri_Island_[[Saiyan]BrollY]_[E85885AA].mkv
+!new/Fantastic Children/[ACX]Fantastic_Children_-_06_-_Kokkuri_Island_2_[[Saiyan]BrollY]_[054E07FC].mkv
+!new/Fantastic Children/[ACX]Fantastic_Children_-_07_-_The_Children_of_Belfort_[[Saiyan]BrollY]_[A2A38C37].mkv
+!new/Fantastic Children/[ACX]Fantastic_Children_-_08_-_A_warm_home_[[Saiyan]BrollY]_[9B9F106A].mkv
+!new/Fantastic Children/[ACX]Fantastic_Children_-_09_-_OSL_[[Saiyan]BrollY]_[83C9DC90].mkv
+!new/Fantastic Children/[ACX]Fantastic_Children_-_10_-_GED_Organization_[[Saiyan]BrollY]_[F187423A].mkv
+!new/Fantastic Children/[ACX]Fantastic_Children_-_11_-_The_Important_Person_[[Saiyan]BrollY]_[0E015F74].mkv
+!new/Fantastic Children/[ACX]Fantastic_Children_-_12_-_Enma_[[Saiyan]BrollY]_[5CE8621D].mkv
+!new/Fantastic Children/[ACX]Fantastic_Children_-_13_-_Memory_of_Girishia_[[Saiyan]BrollY]_[7A0E9EA7].mkv
+!new/Fantastic Children/[ACX]Fantastic_Children_-_14_-_Locus_[[Saiyan]BrollY]_[A77D9AA4].mkv
+!new/Fantastic Children/[ACX]Fantastic_Children_-_15_-_Reminiscence_[[Saiyan]BrollY]_[FA21C4EC].mkv
+!new/Fantastic Children/[ACX]Fantastic_Children_-_16_-_Recurrence_Inside_the_Mist_[[Saiyan]BrollY]_[7EDA1D64].mkv
+!new/Fantastic Children/[ACX]Fantastic_Children_-_17_-_Tina_[[Saiyan]BrollY]_[D116F2AA].mkv
+!new/Fantastic Children/[ACX]Fantastic_Children_-_18_-_Tragedy_[[Saiyan]BrollY]_[09495760].mkv
+!new/Fantastic Children/[ACX]Fantastic_Children_-_19_-_Oath_[[Saiyan]BrollY]_[263FAE0A].mkv
+!new/Fantastic Children/[ACX]Fantastic_Children_-_20_-_Circling_Life_[[Saiyan]BrollY]_[627E9D4C].mkv
+!new/Fantastic Children/[ACX]Fantastic_Children_-_21_-_Dumas_[[Saiyan]BrollY]_[A16E598F].mkv
+!new/Fantastic Children/[ACX]Fantastic_Children_-_22_-_Come_Flying_[[Saiyan]BrollY]_[EA8801AA].mkv
+!new/Fantastic Children/[ACX]Fantastic_Children_-_23_-_Gherta_[[Saiyan]BrollY]_[171E9C9C].mkv
+!new/Fantastic Children/[ACX]Fantastic_Children_-_24_-_Thoma's_Truth_[[Saiyan]BrollY]_[8E427694].mkv
+!new/Fantastic Children/[ACX]Fantastic_Children_-_25_-_Towards_the_Zone_[[Saiyan]BrollY]_[A6092025].mkv
+!new/Fantastic Children/[ACX]Fantastic_Children_-_26_-_Demise_and_Then_Beginning_[[Saiyan]BrollY]_[0E6A0A89].mkv
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_01_[Anime-Empire_&_Aoshi].avi
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_02_[Anime-Empire_&_Aoshi].avi
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_03_[Anime-Empire_&_Aoshi].avi
@@ -591,10 +615,6 @@
 !new/NieA under 7/NieA_under_7_-_11.mkv
 !new/NieA under 7/NieA_under_7_-_12.mkv
 !new/NieA under 7/NieA_under_7_-_13.mkv
-!new/Ookami-San_BD1_[720p,BluRay,x264]_-_THORA.sfv
-!new/Ookami-San_Ep1_[720p,BluRay,x264]_-_THORA.mkv
-!new/Ookami-San_Ep2_[720p,BluRay,x264]_-_THORA.mkv
-!new/Ookami-san_BD1_(2010)_[720p,BluRay,x264]_-_THORA.nfo
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
@@ -773,45 +793,50 @@
 !new/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x23_DVDRiP.rmvb
 !new/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x24_DVDRiP.rmvb
 !new/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x25_DVDRiP.rmvb
-!new/Revolutionary Girl Utena - 01 [h.264 AC3][273A38AE].mkv
-!new/Revolutionary Girl Utena - 02 [h.264 AC3][B883A6BF].mkv
-!new/Revolutionary Girl Utena - 03 [h.264 AC3][025E2A3F].mkv
-!new/Revolutionary Girl Utena - 04 [h.264 AC3][FADE7238].mkv
-!new/Revolutionary Girl Utena - 05 [h.264 AC3][4DACA446].mkv
-!new/Revolutionary Girl Utena - 06 [h.264 AC3][3FF2C170].mkv
-!new/Revolutionary Girl Utena - 07 [h.264 AC3][96345724].mkv
-!new/Revolutionary Girl Utena - 08 [h.264 AC3][547E8993].mkv
-!new/Revolutionary Girl Utena - 09 [h.264 AC3][0D344EBB].mkv
-!new/Revolutionary Girl Utena - 10 [h.264 AC3][E6057166].mkv
-!new/Revolutionary Girl Utena - 11 [h.264 AC3][E0C939D5].mkv
-!new/Revolutionary Girl Utena - 12 [h.264 AC3][CC7728E3].mkv
-!new/Revolutionary Girl Utena - 13 [h.264 AC3][7A7F4038].mkv
-!new/Revolutionary Girl Utena - 14 [h.264 AC3][D1F5096B].mkv
-!new/Revolutionary Girl Utena - 15 [h.264 AC3][834CD306].mkv
-!new/Revolutionary Girl Utena - 16 [h.264 AC3][11C55248].mkv
-!new/Revolutionary Girl Utena - 17 [h.264 AC3][7F04C161].mkv
-!new/Revolutionary Girl Utena - 18 [h.264 AC3][74A710AC].mkv
-!new/Revolutionary Girl Utena - 19 [h.264 AC3][F63BB02B].mkv
-!new/Revolutionary Girl Utena - 20 [h.264 AC3][4E3A9336].mkv
-!new/Revolutionary Girl Utena - 21 [h.264 AC3][9ED21702].mkv
-!new/Revolutionary Girl Utena - 22 [h.264 AC3][A11D09A6].mkv
-!new/Revolutionary Girl Utena - 23 [h.264 AC3][A27E35A8].mkv
-!new/Revolutionary Girl Utena - 24 [h.264 AC3][BD37D075].mkv
-!new/Revolutionary Girl Utena - 25 [h.264 AC3][68B84016].mkv
-!new/Revolutionary Girl Utena - 26 [h.264 AC3][DD334F09].mkv
-!new/Revolutionary Girl Utena - 27 [h.264 AC3][9B581B34].mkv
-!new/Revolutionary Girl Utena - 28 [h.264 AC3][D40C688B].mkv
-!new/Revolutionary Girl Utena - 29 [h.264 AC3][2791EEDF].mkv
-!new/Revolutionary Girl Utena - 30 [h.264 AC3][966972AC].mkv
-!new/Revolutionary Girl Utena - 31 [h.264 AC3][B05F3A40].mkv
-!new/Revolutionary Girl Utena - 32 [h.264 AC3][3EC8FC93].mkv
-!new/Revolutionary Girl Utena - 33 [h.264 AC3][AA0641C0].mkv
-!new/Revolutionary Girl Utena - 34 [h.264 AC3][123B27E0].mkv
-!new/Revolutionary Girl Utena - 35 [h.264 AC3][2D310614].mkv
-!new/Revolutionary Girl Utena - 36 [h.264 AC3][74EC9A10].mkv
-!new/Revolutionary Girl Utena - 37 [h.264 AC3][8C16A7C7].mkv
-!new/Revolutionary Girl Utena - 38 [h.264 AC3][825942A6].mkv
-!new/Revolutionary Girl Utena - 39 [h.264 AC3][FCCF0DCD].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 01 [h.264 AC3][273A38AE].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 02 [h.264 AC3][B883A6BF].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 03 [h.264 AC3][025E2A3F].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 04 [h.264 AC3][FADE7238].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 05 [h.264 AC3][4DACA446].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 06 [h.264 AC3][3FF2C170].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 07 [h.264 AC3][96345724].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 08 [h.264 AC3][547E8993].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 09 [h.264 AC3][0D344EBB].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 10 [h.264 AC3][E6057166].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 11 [h.264 AC3][E0C939D5].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 12 [h.264 AC3][CC7728E3].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 13 [h.264 AC3][7A7F4038].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 14 [h.264 AC3][D1F5096B].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 15 [h.264 AC3][834CD306].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 16 [h.264 AC3][11C55248].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 17 [h.264 AC3][7F04C161].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 18 [h.264 AC3][74A710AC].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 19 [h.264 AC3][F63BB02B].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 20 [h.264 AC3][4E3A9336].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 21 [h.264 AC3][9ED21702].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 22 [h.264 AC3][A11D09A6].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 23 [h.264 AC3][A27E35A8].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 24 [h.264 AC3][BD37D075].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 25 [h.264 AC3][68B84016].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 26 [h.264 AC3][DD334F09].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 27 [h.264 AC3][9B581B34].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 28 [h.264 AC3][D40C688B].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 29 [h.264 AC3][2791EEDF].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 30 [h.264 AC3][966972AC].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 31 [h.264 AC3][B05F3A40].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 32 [h.264 AC3][3EC8FC93].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 33 [h.264 AC3][AA0641C0].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 34 [h.264 AC3][123B27E0].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 35 [h.264 AC3][2D310614].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 36 [h.264 AC3][74EC9A10].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 37 [h.264 AC3][8C16A7C7].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 38 [h.264 AC3][825942A6].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - 39 [h.264 AC3][FCCF0DCD].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - Creditless Ending 01 [h.264 AC3][A06BC06B].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - Creditless Ending 02 [h.264 AC3][72B97B93].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - Creditless Ending 03 [h.264 AC3][7073E8CC].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - Creditless Ending 04 [h.264 AC3][7151C6BF].mkv
+!new/Revolutionary Girl Utena/Revolutionary Girl Utena - Creditless Opening [h.264 AC3][A0C21C03].mkv
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD1 [CiMG].avi
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD1 [CiMG].idx
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD1 [CiMG].sub
@@ -898,84 +923,95 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[A-F]_Twin_Spica_-_01.avi
-!new/[A-F]_Twin_Spica_-_02.avi
-!new/[A-F]_Twin_Spica_-_03.avi
-!new/[A-F]_Twin_Spica_-_04.avi
-!new/[A-F]_Twin_Spica_-_05.avi
-!new/[A-F]_Twin_Spica_-_06.avi
-!new/[A-F]_Twin_Spica_-_07.avi
-!new/[A-F]_Twin_Spica_-_08.avi
-!new/[A-F]_Twin_Spica_-_09.avi
-!new/[A-F]_Twin_Spica_-_10.avi
-!new/[A-F]_Twin_Spica_-_11.avi
-!new/[A-F]_Twin_Spica_-_12.avi
-!new/[A-F]_Twin_Spica_-_13.avi
-!new/[A-F]_Twin_Spica_-_14.avi
-!new/[A-F]_Twin_Spica_-_15.avi
-!new/[A-F]_Twin_Spica_-_16.avi
-!new/[A-F]_Twin_Spica_-_17.avi
-!new/[A-F]_Twin_Spica_-_18.avi
-!new/[A-F]_Twin_Spica_-_19.avi
-!new/[A-F]_Twin_Spica_-_20.avi
-!new/[ACX]Fantastic_Children_-_01_-_From_the_limits_of_darkness_[[Saiyan]BrollY]_[43EDBE59].mkv
-!new/[ACX]Fantastic_Children_-_02_-_Wandering_feelings_[[Saiyan]BrollY]_[CDA87D28].mkv
-!new/[ACX]Fantastic_Children_-_03_-_The_place_I_want_to_go_to_[[Saiyan]BrollY]_[B036C808].mkv
-!new/[ACX]Fantastic_Children_-_04_-_Shinon_[[Saiyan]BrollY]_[42321CB8].mkv
-!new/[ACX]Fantastic_Children_-_05_-_Kokkuri_Island_[[Saiyan]BrollY]_[E85885AA].mkv
-!new/[ACX]Fantastic_Children_-_06_-_Kokkuri_Island_2_[[Saiyan]BrollY]_[054E07FC].mkv
-!new/[ACX]Fantastic_Children_-_07_-_The_Children_of_Belfort_[[Saiyan]BrollY]_[A2A38C37].mkv
-!new/[ACX]Fantastic_Children_-_08_-_A_warm_home_[[Saiyan]BrollY]_[9B9F106A].mkv
-!new/[ACX]Fantastic_Children_-_09_-_OSL_[[Saiyan]BrollY]_[83C9DC90].mkv
-!new/[ACX]Fantastic_Children_-_10_-_GED_Organization_[[Saiyan]BrollY]_[F187423A].mkv
-!new/[ACX]Fantastic_Children_-_11_-_The_Important_Person_[[Saiyan]BrollY]_[0E015F74].mkv
-!new/[ACX]Fantastic_Children_-_12_-_Enma_[[Saiyan]BrollY]_[5CE8621D].mkv
-!new/[ACX]Fantastic_Children_-_13_-_Memory_of_Girishia_[[Saiyan]BrollY]_[7A0E9EA7].mkv
-!new/[ACX]Fantastic_Children_-_14_-_Locus_[[Saiyan]BrollY]_[A77D9AA4].mkv
-!new/[ACX]Fantastic_Children_-_15_-_Reminiscence_[[Saiyan]BrollY]_[FA21C4EC].mkv
-!new/[ACX]Fantastic_Children_-_16_-_Recurrence_Inside_the_Mist_[[Saiyan]BrollY]_[7EDA1D64].mkv
-!new/[ACX]Fantastic_Children_-_17_-_Tina_[[Saiyan]BrollY]_[D116F2AA].mkv
-!new/[ACX]Fantastic_Children_-_18_-_Tragedy_[[Saiyan]BrollY]_[09495760].mkv
-!new/[ACX]Fantastic_Children_-_19_-_Oath_[[Saiyan]BrollY]_[263FAE0A].mkv
-!new/[ACX]Fantastic_Children_-_20_-_Circling_Life_[[Saiyan]BrollY]_[627E9D4C].mkv
-!new/[ACX]Fantastic_Children_-_21_-_Dumas_[[Saiyan]BrollY]_[A16E598F].mkv
-!new/[ACX]Fantastic_Children_-_22_-_Come_Flying_[[Saiyan]BrollY]_[EA8801AA].mkv
-!new/[ACX]Fantastic_Children_-_23_-_Gherta_[[Saiyan]BrollY]_[171E9C9C].mkv
-!new/[ACX]Fantastic_Children_-_24_-_Thoma's_Truth_[[Saiyan]BrollY]_[8E427694].mkv
-!new/[ACX]Fantastic_Children_-_25_-_Towards_the_Zone_[[Saiyan]BrollY]_[A6092025].mkv
-!new/[ACX]Fantastic_Children_-_26_-_Demise_and_Then_Beginning_[[Saiyan]BrollY]_[0E6A0A89].mkv
-!new/[AQS-Anime]_To_Heart_2_adnext_2_[1080p][H264-AAC][5583F545].mkv
-!new/[Commie] Deadman Wonderland - 05 [419A531A].mkv
-!new/[Commie] X-Men - 06 [D45BCC8E].mkv
-!new/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_16_[75e2e000].avi
-!new/[Froth-Bite]Rescue_Angel[F3E42B8D].mp4
-!new/[Froth-Bite]Rescue_Wings_-_01_DVD[8E6EF6F1].mp4
-!new/[Froth-Bite]Rescue_Wings_-_02_DVD[877D4798].mp4
-!new/[Froth-Bite]Rescue_Wings_-_03_DVD[947924D0].mp4
-!new/[Froth-Bite]Rescue_Wings_-_04_DVD[541865BB].mp4
-!new/[Froth-Bite]Rescue_Wings_-_05_DVD[D6A500E5].mp4
-!new/[Froth-Bite]Rescue_Wings_-_06_DVD[7980D86E].mp4
-!new/[Froth-Bite]Rescue_Wings_-_07_DVD[B1D8413E].mp4
-!new/[Froth-Bite]Rescue_Wings_-_08_DVD[92B016C8].mp4
-!new/[Froth-Bite]Rescue_Wings_-_09_DVD[5DB22B71].mp4
-!new/[Froth-Bite]Rescue_Wings_-_10_DVD[F77BDB4C].mp4
-!new/[Froth-Bite]Rescue_Wings_-_11_DVD[23EDEE09].mp4
-!new/[Froth-Bite]Rescue_Wings_-_12_DVD[2361D03E].mp4
-!new/[Froth-Bite]Rescue_Wings_-_13_DVD[50D092C2].mp4
-!new/[HorribleSubs] Beelzebub - 17 [720p].mkv
-!new/[HorribleSubs] Cardfight!! Vanguard - 18 [720p].mkv
-!new/[HorribleSubs] Deadman Wonderland  - 05 [720p].mkv
-!new/[HorribleSubs] Fairy Tail - 79 [720p].mkv
-!new/[HorribleSubs] Hanasaku Iroha - 07 [720p].mkv
-!new/[HorribleSubs] Nichijou - 07 [720p].mkv
-!new/[HorribleSubs] Ore-tachi Ni Tsubasa wa Nai - 06 [720p].mkv
-!new/[HorribleSubs] Sekai-ichi Hatsukoi - 06 [720p].mkv
-!new/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 36 [H264 1280x720] [ABB79C24].mkv
-!new/[Licca] Pollyanna Episode 17 (h.264) [BA8462EC].mkv
-!new/[Nipponsei] Deadman Wonderland OP Single - One Reason [DWB feat. fade].zip
-!new/[Nipponsei] Dororon Emma-kun Meeramera OP ED Single - Tamashii Mera Mera Icchou C! [Endou Masaaki & Moon Riders].zip
-!new/[SMS] Starry Sky - 21 [46071740].mkv
-!new/[SubDesu] 30-sai no Hoken Taiiku - 06 (1280x720) [7286E8CD].mkv
+!new/Ultraviolet Code 044/[KiteSeekers] Ultraviolet Code 044 - 06 [H264 848x480] [48F2B55D].mkv
+!new/Ultraviolet Code 044/[KiteSeekers] Ultraviolet Code 044 - 07 [H264 848x480] [685B877C].mkv
+!new/Ultraviolet Code 044/[KiteSeekers] Ultraviolet Code 044 - 08 [H264 848x480] [B6A95283].mkv
+!new/Ultraviolet Code 044/[KiteSeekers] Ultraviolet Code 044 - 09 [H264 848x480] [E9DA22F6].mkv
+!new/Ultraviolet Code 044/[KiteSeekers] Ultraviolet Code 044 - 10 [H264 848x480] [415F4858].mkv
+!new/Ultraviolet Code 044/[KiteSeekers] Ultraviolet Code 044 - 11 [H264 848x480] [088F245B].mkv
+!new/Ultraviolet Code 044/[KiteSeekers] Ultraviolet Code 044 - 12 [H264 848x480] [4DA0A5AE].mkv
+!new/Ultraviolet Code 044/[RMN-KSN]_Ultraviolet_Code_044_-_01_[1280x720][0A102021].mp4
+!new/Ultraviolet Code 044/[RMN-KSN]_Ultraviolet_Code_044_-_02_[1280x720][D41C9BE8].mp4
+!new/Ultraviolet Code 044/[RMN-KSN]_Ultraviolet_Code_044_-_03_[1280x720][EA5A471F].mp4
+!new/Ultraviolet Code 044/[RMN-KSN]_Ultraviolet_Code_044_-_04_[1280x720][F19FAD89].mp4
+!new/Ultraviolet Code 044/[RMN-KSN]_Ultraviolet_Code_044_-_05_[1280x720][6226635C].mp4
+!new/Yamato/YAMATO 3x02.-Great Battle on the Milky Way..mkv
+!new/Yamato/YAMATO 3x03.-Star Forces Embarks at Dawn.mkv
+!new/Yamato/YAMATO 3x04.-Shoot for Planet Mars..mkv
+!new/Yamato/YAMATO 3x05.-S.O.S Legendra!.mkv
+!new/Yamato/YAMATO 3x06.-Great Battle Near Planet Brumas.mkv
+!new/Yamato/YAMATO 3x07.-The Rough Seas of Alpha Centauri..mkv
+!new/Yamato/YAMATO 3x08.-The Last Pioneer.mkv
+!new/Yamato/YAMATO 3x09.-Battle at Barnard Star.mkv
+!new/Yamato/YAMATO 3x10.-Dagon·s New Fleet Counter-attacks.mkv
+!new/Yamato/YAMATO 3x11.-Yamato Faces Danger at Cygnus.mkv
+!new/Yamato/YAMATO 3x12 - Stellar Prison Camp.mkv
+!new/Yamato/YAMATO 3x13.-Dreadful Bolar Federation.mkv
+!new/Yamato/YAMATO 3x14 - Subspace Submarine Captain Galman Wolf.mkv
+!new/Yamato/YAMATO 3x15 - Yamato's Captured!.mkv
+!new/Yamato/YAMATO 3x16 - Festive Day for Desslok.mkv
+!new/Yamato/YAMATO 3x17 - Desslok's Empire in a Crisis.mkv
+!new/Yamato/YAMATO 3x18 - The Angry Sun.mkv
+!new/Yamato/YAMATO 3x19 - On the Way to Planet Phantom.mkv
+!new/Yamato/YAMATO 3x20 - The Planet of lllusions.mkv
+!new/Yamato/YAMATO 3x21 - Lost Hope.mkv
+!new/Yamato/YAMATO 3x22 - Farewell Planet Phantom.mkv
+!new/Yamato/YAMATO 3x23 - Battle at the Scalageck Star Cluster.mkv
+!new/Yamato/YAMATO 3x24 - Secret of Planet Guardiana.mkv
+!new/Yamato/YAMATO 3x25 - Yamato, Shoot that Sun!.mkv
+!new/Yamato/Yamato 01 - remaster (Central Anime) [33d6eb95].mkv
+!new/Yamato/Yamato 02 - remaster (Central Anime) [d9ab7e12].mkv
+!new/Yamato/Yamato 03 - remaster (Central Anime) [36f50f9e].mkv
+!new/Yamato/Yamato 04 - remaster (Central Anime) [cbe5b460].mkv
+!new/Yamato/Yamato 05 - remaster (Central Anime) [45ab40de].mkv
+!new/Yamato/Yamato 06 - remaster (Central Anime) [e0cec617].mkv
+!new/Yamato/Yamato 07 - remaster (Central Anime) [5f2600d7].mkv
+!new/Yamato/Yamato 08 - remaster (Central Anime) [e957eaa7].mkv
+!new/Yamato/Yamato 09 - remaster (Central Anime) [ccf0311f].mkv
+!new/Yamato/Yamato 10 - remaster (Central Anime) [3b4a39c8].mkv
+!new/Yamato/Yamato 11 - remaster (Central Anime) [413af728].mkv
+!new/Yamato/Yamato 12 - remaster (Central Anime) [511249b3].mkv
+!new/Yamato/Yamato 13 - remaster (Central Anime) [6f707bf6].mkv
+!new/Yamato/Yamato 14 - remaster (Central Anime) [1a0d40b2].mkv
+!new/Yamato/Yamato 15 - remaster (Central Anime) [1119c16a].mkv
+!new/Yamato/Yamato 16 - remaster (Central Anime) [ccb6d866].mkv
+!new/Yamato/Yamato 17 - remaster (Central Anime) [1735a728].mkv
+!new/Yamato/Yamato 18 - remaster (Central Anime) [3654a0dd].mkv
+!new/Yamato/Yamato 19 - remaster (Central Anime) [da52443c].mkv
+!new/Yamato/Yamato 20 - remaster (Central Anime) [8afbf573].mkv
+!new/Yamato/Yamato 21 - remaster (Central Anime) [be2cac6a].mkv
+!new/Yamato/Yamato 22 - remaster (Central Anime) [e859385e].mkv
+!new/Yamato/Yamato 23 - remaster (Central Anime) [5f7e82c7].mkv
+!new/Yamato/Yamato 24 - remaster (Central Anime) [0a190c65].mkv
+!new/Yamato/Yamato 25 - remaster (Central Anime) [010a5e2c].mkv
+!new/Yamato/Yamato 26 - remaster (Central Anime) [c1323b81].mkv
+!new/Yamato/Yamato 3x01.mkv
+!new/Yamato/Yamato S2 01 - remaster (Central Anime) [aac0cb66].mkv
+!new/Yamato/Yamato S2 02 - remaster (Central Anime) [f4fb8ce0].mkv
+!new/Yamato/Yamato S2 03 - remaster (Central Anime) [6a9e745f].mkv
+!new/Yamato/Yamato S2 04 - remaster (Central Anime) [3f5a7202].mkv
+!new/Yamato/Yamato S2 05 - remaster (Central Anime) [5e064a19].mkv
+!new/Yamato/Yamato S2 06 - remaster (Central Anime) [579266ae].mkv
+!new/Yamato/Yamato S2 07 - remaster (Central Anime) [38176bb6].mkv
+!new/Yamato/Yamato S2 08 - remaster (Central Anime) [ee67cc1b].mkv
+!new/Yamato/Yamato S2 09 - remaster (Central Anime) [da797e13].mkv
+!new/Yamato/Yamato S2 10 - remaster (Central Anime) [611f5c89].mkv
+!new/Yamato/Yamato S2 11 - remaster (Central Anime) [89b6e695].mkv
+!new/Yamato/Yamato S2 12 - remaster (Central Anime) [c47aac89].mkv
+!new/Yamato/Yamato S2 13 - remaster (Central Anime) [3d48b0b2].mkv
+!new/Yamato/Yamato S2 14 - remaster (Central Anime) [227fbd7a].mkv
+!new/Yamato/Yamato S2 15 - remaster (Central Anime) [f08fbdc6].mkv
+!new/Yamato/Yamato S2 16 - remaster (Central Anime) [a3e5f1bb].mkv
+!new/Yamato/Yamato S2 17 - remaster (Central Anime) [c1b705a1].mkv
+!new/Yamato/Yamato S2 18 - remaster (Central Anime) [4bf99069].mkv
+!new/Yamato/Yamato S2 19 - remaster (Central Anime) [1a7206b9].mkv
+!new/Yamato/Yamato S2 20 - remaster (Central Anime) [e9d48908].mkv
+!new/Yamato/Yamato S2 21 - remaster (Central Anime) [bf86b8ff].mkv
+!new/Yamato/Yamato S2 22 - remaster (Central Anime) [78365605].mkv
+!new/Yamato/Yamato S2 23 - remaster (Central Anime) [c5c0c89a].mkv
+!new/Yamato/Yamato S2 24 - remaster (Central Anime) [02f89f8e].mkv
+!new/Yamato/Yamato S2 25 - remaster (Central Anime) [070ff20d].mkv
+!new/Yamato/Yamato S2 26 - remaster (Central Anime) [92ba08b6].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -991,18 +1027,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[UTW]_Amagami_SS_-_23_[BD][h264-1080p_FLAC][EDE0E227].mkv
-!new/[UTW]_Amagami_SS_-_24_[BD][h264-1080p_FLAC][9AF12D21].mkv
-!new/[UTW]_Amagami_SS_-_25_[BD][h264-1080p_FLAC][ACF6DA9C].mkv
-!new/[UTW]_Amagami_SS_-_26_[BD][h264-1080p_FLAC][97882523].mkv
-!new/[UTW]_Amagami_SS_-_ED6_[BD][h264-1080p_FLAC][A3741A41].mkv
-!new/[UTW]_Amagami_SS_-_ED7_[BD][h264-1080p_FLAC][4CCECBEF].mkv
-!new/[UTW]_Amagami_SS_-_ED8_[BD][h264-1080p_FLAC][19F115AD].mkv
-!new/[UTW]_Amagami_SS_-_OP2c_[BD][h264-1080p_FLAC][B1DAD0C1].mkv
-!new/[UTW]_Amagami_SS_-_OP2d_[BD][h264-1080p_FLAC][74F7858C].mkv
-!new/[UTW]_Amagami_SS_-_OP2e_[BD][h264-1080p_FLAC][F61CEE2B].mkv
-!new/[WhyNot] Hen Zemi - 06v2 [Uncensored][A013BD69].mkv
-!new/[gg]_Dororon_Enma-kun_Meramera_-_06_[35107354].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx

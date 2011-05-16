@@ -529,18 +529,24 @@ complete/a/Amagami SS/[UTW] Amagami SS - 19 [720p][C9D7E192].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - 20 [720p][24AE20A7].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - 21 [720p][7954AB09].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - 22 [720p][8EC2A85E].mkv
-complete/a/Amagami SS/[UTW] Amagami SS - 23 [720p][D6D6EE27].mkv
-complete/a/Amagami SS/[UTW] Amagami SS - 24 [720p][5231B111].mkv
-complete/a/Amagami SS/[UTW] Amagami SS - 25 [End][720p][D8540E4E].mkv
-complete/a/Amagami SS/[UTW] Amagami SS - 26 [720p BD][70EF71DA].mkv
+complete/a/Amagami SS/[UTW] Amagami SS - 23 [1080p BD][EDE0E227].mkv
+complete/a/Amagami SS/[UTW] Amagami SS - 24 [1080p BD][9AF12D21].mkv
+complete/a/Amagami SS/[UTW] Amagami SS - 25 [End][1080p BD][ACF6DA9C].mkv
+complete/a/Amagami SS/[UTW] Amagami SS - 26 OVA [1080p BD][97882523].mkv
+complete/a/Amagami SS/[UTW] Amagami SS - Ending 1 [1080p BD][10BC699E].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - Ending 2 [1080p BD][2A1E16A0].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - Ending 3 [1080p BD][9E1B19EA].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - Ending 4 [1080p BD][A8A3D076].mkv
-complete/a/Amagami SS/[UTW] Amagami SS - Ending [1080p BD][10BC699E].mkv
+complete/a/Amagami SS/[UTW] Amagami SS - Ending 6 [1080p BD][A3741A41].mkv
+complete/a/Amagami SS/[UTW] Amagami SS - Ending 7 [1080p BD][4CCECBEF].mkv
+complete/a/Amagami SS/[UTW] Amagami SS - Ending 8 [1080p BD][19F115AD].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - Opening 1a [1080p BD][661C4727].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - Opening 1b [1080p BD][CA5936B0].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - Opening 1c [1080p BD][9D7A299A].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - Opening 2a [1080p BD][1284B6BC].mkv
+complete/a/Amagami SS/[UTW] Amagami SS - Opening 2c [1080p BD][B1DAD0C1].mkv
+complete/a/Amagami SS/[UTW] Amagami SS - Opening 2d [1080p BD][74F7858C].mkv
+complete/a/Amagami SS/[UTW] Amagami SS - Opening 2e [1080p BD][F61CEE2B].mkv
 complete/a/Amatsuki/[Ureshii] Amatsuki - 01 [0E3AEB86].mkv
 complete/a/Amatsuki/[Ureshii] Amatsuki - 02 [0B2B0E0D].mkv
 complete/a/Amatsuki/[Ureshii] Amatsuki - 03 [8D00BD2A].mkv
@@ -12309,6 +12315,8 @@ complete/o/Ookami-san/[Mazui] Ookami-san - 09 [v2][D4F05F8E].mkv
 complete/o/Ookami-san/[Mazui] Ookami-san - 10 [v2][9D6F6817].mkv
 complete/o/Ookami-san/[Mazui] Ookami-san - 11 [A26657BB].mkv
 complete/o/Ookami-san/[Mazui] Ookami-san - 12 [End][F8E1E04A].mkv
+complete/o/Ookami-san/[THORA] Ookami-san - 01 [720p BD][C295E788].mkv
+complete/o/Ookami-san/[THORA] Ookami-san - 02 [720p BD][D1724CB1].mkv
 complete/o/Ookamikakushi/[Formula] Ookamikakushi - 01 [v2 720p][B1CA96A9].mkv
 complete/o/Ookamikakushi/[Formula] Ookamikakushi - 02 [720p][629B5AD6].mkv
 complete/o/Ookamikakushi/[Formula] Ookamikakushi - 03 [720p][B01EAA3F].mkv
@@ -13511,6 +13519,19 @@ complete/r/Rental Magica/[Eclipse] Rental Magica - 21 [54B5622F].mkv
 complete/r/Rental Magica/[Eclipse] Rental Magica - 22 [EAFE18EE].mkv
 complete/r/Rental Magica/[Eclipse] Rental Magica - 23 [E62F70F4].mkv
 complete/r/Rental Magica/[Eclipse] Rental Magica - 24 [End][E562097F].mkv
+complete/r/Rescue Wings/[Froth-Bite] Rescue Wings - 01 [DVD][8E6EF6F1].mp4
+complete/r/Rescue Wings/[Froth-Bite] Rescue Wings - 02 [DVD][877D4798].mp4
+complete/r/Rescue Wings/[Froth-Bite] Rescue Wings - 03 [DVD][947924D0].mp4
+complete/r/Rescue Wings/[Froth-Bite] Rescue Wings - 04 [DVD][541865BB].mp4
+complete/r/Rescue Wings/[Froth-Bite] Rescue Wings - 05 [DVD][D6A500E5].mp4
+complete/r/Rescue Wings/[Froth-Bite] Rescue Wings - 06 [DVD][7980D86E].mp4
+complete/r/Rescue Wings/[Froth-Bite] Rescue Wings - 07 [DVD][B1D8413E].mp4
+complete/r/Rescue Wings/[Froth-Bite] Rescue Wings - 08 [DVD][92B016C8].mp4
+complete/r/Rescue Wings/[Froth-Bite] Rescue Wings - 09 [DVD][5DB22B71].mp4
+complete/r/Rescue Wings/[Froth-Bite] Rescue Wings - 10 [DVD][F77BDB4C].mp4
+complete/r/Rescue Wings/[Froth-Bite] Rescue Wings - 11 [DVD][23EDEE09].mp4
+complete/r/Rescue Wings/[Froth-Bite] Rescue Wings - 12 [DVD][2361D03E].mp4
+complete/r/Rescue Wings/[Froth-Bite] Rescue Wings - 13 [End][DVD][50D092C2].mp4
 complete/r/RideBack/[Frostii] RideBack - 01 (1280x720) [24468FE8].mkv
 complete/r/RideBack/[Frostii] RideBack - 02 (1280x720) [55CC3402].mkv
 complete/r/RideBack/[Frostii] RideBack - 03 (1280x720) [AB088905].mkv
@@ -14481,6 +14502,8 @@ complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 05 [DVD][70F54A4D].mkv
 complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 06 [DVD][044195C2].mkv
 complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 07 [DVD][EDCB39C9].mkv
 complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 08 [DVD][CF682C45].mkv
+complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 09 [DVD][90A995AC].mkv
+complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 10 [DVD][1DDC3C92].mkv
 complete/s/Sayonara Zetsubou Sensei/[a.f.k.] Sayonara Zetsubou Sensei - 01 [FE83A1BD].avi
 complete/s/Sayonara Zetsubou Sensei/[a.f.k.] Sayonara Zetsubou Sensei - 02 [70C1ED5F].avi
 complete/s/Sayonara Zetsubou Sensei/[a.f.k.] Sayonara Zetsubou Sensei - 03 [C5F5E8C5].avi
@@ -16763,6 +16786,8 @@ complete/t/To Heart 2 OVA/[Avalon-AQS] To Heart 2 OVA - 2 [1D36EAF4].mkv
 complete/t/To Heart 2 OVA/[Avalon-AQS] To Heart 2 OVA - 3 [End][FEEB35CF].mkv
 complete/t/To Heart 2 ad/[Formula] To Heart 2 ad - OVA 1 [EFA7A894].mkv
 complete/t/To Heart 2 ad/[Formula] To Heart 2 ad - OVA 2 [End][757F070E].mkv
+complete/t/To Heart 2 adnext/[AQS-Anime] To Heart 2 adnext - 1 [1080p][79068F4D].mkv
+complete/t/To Heart 2 adnext/[AQS-Anime] To Heart 2 adnext - 2 [End][1080p][5583F545].mkv
 complete/t/To Heart 2 adplus/[AQS-Anime] To Heart 2 adplus - 1 [6E1AB59C].mkv
 complete/t/To Heart 2 adplus/[AQS-Anime] To Heart 2 adplus - 2 [End][37BD9EC5].mkv
 complete/t/To Heart 2/[Avalon-AQS] To Heart 2 - 12 [2FE37E00].avi
@@ -17403,6 +17428,26 @@ complete/t/Turn-A Gundam/[EG] Turn-A Gundam - Opening 2 [9F95DB7D].mkv
 complete/t/Turn-A Gundam/[EG] Turn-A Gundam - Opening [v2][2640070C].mkv
 complete/t/Twin Angel OVA/[Ayako-m.3.3.w] Twin Angel OVA - 1 [v2][ABB526E9].mkv
 complete/t/Twin Angel OVA/[Ayako-m.3.3.w] Twin Angel OVA - 2 [End][A084F925].mkv
+complete/t/Twin Spica/[A-F] Twin Spica - 01 [30C80F2F].avi
+complete/t/Twin Spica/[A-F] Twin Spica - 02 [96E93F1D].avi
+complete/t/Twin Spica/[A-F] Twin Spica - 03 [F1301B42].avi
+complete/t/Twin Spica/[A-F] Twin Spica - 04 [26910FF6].avi
+complete/t/Twin Spica/[A-F] Twin Spica - 05 [AFE40FAB].avi
+complete/t/Twin Spica/[A-F] Twin Spica - 06 [6B3DF2A5].avi
+complete/t/Twin Spica/[A-F] Twin Spica - 07 [11F6BFF1].avi
+complete/t/Twin Spica/[A-F] Twin Spica - 08 [1857AAD8].avi
+complete/t/Twin Spica/[A-F] Twin Spica - 09 [0A1990E9].avi
+complete/t/Twin Spica/[A-F] Twin Spica - 10 [9C5D8C3C].avi
+complete/t/Twin Spica/[A-F] Twin Spica - 11 [F21B824C].avi
+complete/t/Twin Spica/[A-F] Twin Spica - 12 [42B9887E].avi
+complete/t/Twin Spica/[A-F] Twin Spica - 13 [31A71059].avi
+complete/t/Twin Spica/[A-F] Twin Spica - 14 [8F8199C2].avi
+complete/t/Twin Spica/[A-F] Twin Spica - 15 [E69B6AFA].avi
+complete/t/Twin Spica/[A-F] Twin Spica - 16 [D5E56ACE].avi
+complete/t/Twin Spica/[A-F] Twin Spica - 17 [8E771242].avi
+complete/t/Twin Spica/[A-F] Twin Spica - 18 [D5CFC73B].avi
+complete/t/Twin Spica/[A-F] Twin Spica - 19 [077FF034].avi
+complete/t/Twin Spica/[A-F] Twin Spica - 20 [End][0F1CEABC].avi
 complete/t/Two Walnuts/[Saizen] Two Walnuts [DVD][2A4E81B9].mkv
 complete/t/Tytania/[ANBU] Tytania - 01 [FF1B3892].mkv
 complete/t/Tytania/[ANBU] Tytania - 02 [9DD152A0].mkv

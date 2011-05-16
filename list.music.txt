@@ -190,6 +190,7 @@ music/Misc Distro/Kimi ga Nozomu Eien.zip
 music/Misc Distro/Law of Ueki.zip
 music/Misc Distro/Mai Kuraki - always (320kbps).zip
 music/Misc Distro/Minami Kuribayashi - Passage.zip
+music/Misc Distro/Mobile Suit Gundam F91 OST.zip
 music/Misc Distro/Nami Tamaki - Speciality.zip
 music/Misc Distro/Nana Mizuki.zip
 music/Misc Distro/Otome wa boku ni koishiteru Original Soundtrack.mka
@@ -481,6 +482,7 @@ music/Nipponsei/[Nipponsei] Darker Than Black -Kuro no Keiyakusha- Gekihan.zip
 music/Nipponsei/[Nipponsei] Darker Than Black ED Single - Tsuki Akari [Rie Fu].zip
 music/Nipponsei/[Nipponsei] Darker Than Black OP Single - HOWLING [abingdon boys school].zip
 music/Nipponsei/[Nipponsei] Deadman Wonderland ED Single - SHINY SHINY [DWB feat. Nirgilis].zip
+music/Nipponsei/[Nipponsei] Deadman Wonderland OP Single - One Reason [DWB feat. fade].zip
 music/Nipponsei/[Nipponsei] Death Note Movie Insert Song - Manatsu no Yoru no Yume [Suga Shikao].zip
 music/Nipponsei/[Nipponsei] Death Note OP ED Single - the WORLD [Nightmare].zip
 music/Nipponsei/[Nipponsei] Deltora Quest ED2 Single - Hey Now [COOLON].zip
@@ -494,6 +496,7 @@ music/Nipponsei/[Nipponsei] Densetsu no Yuusha no Densetsu ED2 Single - Hikari n
 music/Nipponsei/[Nipponsei] Densetsu no Yuusha no Densetsu OP Single - LAMENT ~Yagate Yorokobi wo~ [Yuuki Aira].zip
 music/Nipponsei/[Nipponsei] Densetsu no Yuusha no Densetsu OP2 Single - Last Inferno [Ceui].zip
 music/Nipponsei/[Nipponsei] Dog Days OP Single - SCARLET KNIGHT [Mizuki Nana].zip
+music/Nipponsei/[Nipponsei] Dororon Emma-kun Meeramera OP ED Single - Tamashii Mera Mera Icchou C! [Endou Masaaki & Moon Riders].zip
 music/Nipponsei/[Nipponsei] Doujin Work ED Single - Yumemiru Otome [Mizubashi Mai].zip
 music/Nipponsei/[Nipponsei] Doujin Work OP Single - I jan Yuujou [MAKI].zip
 music/Nipponsei/[Nipponsei] Dragon Crisis! ED Single - Mirai Bowl [Momoiro Clover].zip
