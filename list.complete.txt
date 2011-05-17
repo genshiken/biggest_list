@@ -525,10 +525,10 @@ complete/a/Amagami SS/[UTW] Amagami SS - 15 [1080p BD][3C9CA4C7].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - 16 [1080p BD][8101B55B].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - 17 [1080p BD][1399F294].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - 18 [1080p BD][AFEE3D09].mkv
-complete/a/Amagami SS/[UTW] Amagami SS - 19 [720p][C9D7E192].mkv
-complete/a/Amagami SS/[UTW] Amagami SS - 20 [720p][24AE20A7].mkv
-complete/a/Amagami SS/[UTW] Amagami SS - 21 [720p][7954AB09].mkv
-complete/a/Amagami SS/[UTW] Amagami SS - 22 [720p][8EC2A85E].mkv
+complete/a/Amagami SS/[UTW] Amagami SS - 19 [1080p BD][E495C98A].mkv
+complete/a/Amagami SS/[UTW] Amagami SS - 20 [1080p BD][A52F1A0C].mkv
+complete/a/Amagami SS/[UTW] Amagami SS - 21 [1080p BD][630C3049].mkv
+complete/a/Amagami SS/[UTW] Amagami SS - 22 [1080p BD][03FFC075].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - 23 [1080p BD][EDE0E227].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - 24 [1080p BD][9AF12D21].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - 25 [End][1080p BD][ACF6DA9C].mkv
@@ -537,6 +537,7 @@ complete/a/Amagami SS/[UTW] Amagami SS - Ending 1 [1080p BD][10BC699E].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - Ending 2 [1080p BD][2A1E16A0].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - Ending 3 [1080p BD][9E1B19EA].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - Ending 4 [1080p BD][A8A3D076].mkv
+complete/a/Amagami SS/[UTW] Amagami SS - Ending 5 [1080p BD][254744C4].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - Ending 6 [1080p BD][A3741A41].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - Ending 7 [1080p BD][4CCECBEF].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - Ending 8 [1080p BD][19F115AD].mkv
@@ -544,6 +545,7 @@ complete/a/Amagami SS/[UTW] Amagami SS - Opening 1a [1080p BD][661C4727].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - Opening 1b [1080p BD][CA5936B0].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - Opening 1c [1080p BD][9D7A299A].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - Opening 2a [1080p BD][1284B6BC].mkv
+complete/a/Amagami SS/[UTW] Amagami SS - Opening 2b [1080p BD][5E128940].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - Opening 2c [1080p BD][B1DAD0C1].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - Opening 2d [1080p BD][74F7858C].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - Opening 2e [1080p BD][F61CEE2B].mkv
@@ -9257,6 +9259,58 @@ complete/l/Last Exile/[Anime-Takeover] Last Exile - 23 [CFDD1F65].ogm
 complete/l/Last Exile/[Anime-Takeover] Last Exile - 24 [33129CED].ogm
 complete/l/Last Exile/[Anime-Takeover] Last Exile - 25 [634E807B].ogm
 complete/l/Last Exile/[Anime-Takeover] Last Exile - 26 [End][3F0A8B59].ogm
+complete/l/Legend of Galactic Heroes Gaiden 2/[Central Anime] Legend of Galactic Heroes Gaiden 2 - 01 [737C02DC].avi
+complete/l/Legend of Galactic Heroes Gaiden 2/[Central Anime] Legend of Galactic Heroes Gaiden 2 - 02 [D67912BE].avi
+complete/l/Legend of Galactic Heroes Gaiden 2/[Central Anime] Legend of Galactic Heroes Gaiden 2 - 03 [93F0F861].avi
+complete/l/Legend of Galactic Heroes Gaiden 2/[Central Anime] Legend of Galactic Heroes Gaiden 2 - 04 [8EACB23F].avi
+complete/l/Legend of Galactic Heroes Gaiden 2/[Central Anime] Legend of Galactic Heroes Gaiden 2 - 05 [F1CCBA05].avi
+complete/l/Legend of Galactic Heroes Gaiden 2/[Central Anime] Legend of Galactic Heroes Gaiden 2 - 06 [D9234BDF].avi
+complete/l/Legend of Galactic Heroes Gaiden 2/[Central Anime] Legend of Galactic Heroes Gaiden 2 - 07 [64FF0E8C].avi
+complete/l/Legend of Galactic Heroes Gaiden 2/[Central Anime] Legend of Galactic Heroes Gaiden 2 - 08 [BD4A5A9A].avi
+complete/l/Legend of Galactic Heroes Gaiden 2/[Central Anime] Legend of Galactic Heroes Gaiden 2 - 09 [92FE2436].avi
+complete/l/Legend of Galactic Heroes Gaiden 2/[Central Anime] Legend of Galactic Heroes Gaiden 2 - 10 [A778A1E4].avi
+complete/l/Legend of Galactic Heroes Gaiden 2/[Central Anime] Legend of Galactic Heroes Gaiden 2 - 11 [F2C50C7B].avi
+complete/l/Legend of Galactic Heroes Gaiden 2/[Central Anime] Legend of Galactic Heroes Gaiden 2 - 12 [19E4AD9A].avi
+complete/l/Legend of Galactic Heroes Gaiden 2/[Central Anime] Legend of Galactic Heroes Gaiden 2 - 13 [E87B29E2].avi
+complete/l/Legend of Galactic Heroes Gaiden 2/[Central Anime] Legend of Galactic Heroes Gaiden 2 - 14 [FB92083A].avi
+complete/l/Legend of Galactic Heroes Gaiden 2/[Central Anime] Legend of Galactic Heroes Gaiden 2 - 15 [9403C61D].mkv
+complete/l/Legend of Galactic Heroes Gaiden 2/[Central Anime] Legend of Galactic Heroes Gaiden 2 - 16 [AC119D7B].mkv
+complete/l/Legend of Galactic Heroes Gaiden 2/[Central Anime] Legend of Galactic Heroes Gaiden 2 - 17 [E98C9B54].mkv
+complete/l/Legend of Galactic Heroes Gaiden 2/[Central Anime] Legend of Galactic Heroes Gaiden 2 - 18 [C7C8BF4C].mkv
+complete/l/Legend of Galactic Heroes Gaiden 2/[Central Anime] Legend of Galactic Heroes Gaiden 2 - 19 [AC879700].mkv
+complete/l/Legend of Galactic Heroes Gaiden 2/[Central Anime] Legend of Galactic Heroes Gaiden 2 - 20 [2941EC5D].mkv
+complete/l/Legend of Galactic Heroes Gaiden 2/[Central Anime] Legend of Galactic Heroes Gaiden 2 - 21 [D64FEF71].mkv
+complete/l/Legend of Galactic Heroes Gaiden 2/[Central Anime] Legend of Galactic Heroes Gaiden 2 - 22 [EF31EE20].mkv
+complete/l/Legend of Galactic Heroes Gaiden 2/[Central Anime] Legend of Galactic Heroes Gaiden 2 - 23 [A194BB31].mkv
+complete/l/Legend of Galactic Heroes Gaiden 2/[Central Anime] Legend of Galactic Heroes Gaiden 2 - 24 [6B14ADE4].mkv
+complete/l/Legend of Galactic Heroes Gaiden 2/[Central Anime] Legend of Galactic Heroes Gaiden 2 - 25 [14B3A6F3].mkv
+complete/l/Legend of Galactic Heroes Gaiden 2/[Central Anime] Legend of Galactic Heroes Gaiden 2 - 26 [49814D59].mkv
+complete/l/Legend of Galactic Heroes Gaiden 2/[Central Anime] Legend of Galactic Heroes Gaiden 2 - 27 [28BC0187].mkv
+complete/l/Legend of Galactic Heroes Gaiden 2/[Central Anime] Legend of Galactic Heroes Gaiden 2 - 28 [End][240CF9EF].mkv
+complete/l/Legend of Galactic Heroes Gaiden/[Central Anime] Legend of Galactic Heroes Gaiden - 01 [51994B1E].avi
+complete/l/Legend of Galactic Heroes Gaiden/[Central Anime] Legend of Galactic Heroes Gaiden - 02 [064ACC19].avi
+complete/l/Legend of Galactic Heroes Gaiden/[Central Anime] Legend of Galactic Heroes Gaiden - 03 [1C0B28A0].avi
+complete/l/Legend of Galactic Heroes Gaiden/[Central Anime] Legend of Galactic Heroes Gaiden - 04 [F74C1ECC].avi
+complete/l/Legend of Galactic Heroes Gaiden/[Central Anime] Legend of Galactic Heroes Gaiden - 05 [25807A4D].avi
+complete/l/Legend of Galactic Heroes Gaiden/[Central Anime] Legend of Galactic Heroes Gaiden - 06 [7237E06F].avi
+complete/l/Legend of Galactic Heroes Gaiden/[Central Anime] Legend of Galactic Heroes Gaiden - 07 [1E7684B1].avi
+complete/l/Legend of Galactic Heroes Gaiden/[Central Anime] Legend of Galactic Heroes Gaiden - 08 [663F105F].avi
+complete/l/Legend of Galactic Heroes Gaiden/[Central Anime] Legend of Galactic Heroes Gaiden - 09 [C2593981].avi
+complete/l/Legend of Galactic Heroes Gaiden/[Central Anime] Legend of Galactic Heroes Gaiden - 10 [A4854326].avi
+complete/l/Legend of Galactic Heroes Gaiden/[Central Anime] Legend of Galactic Heroes Gaiden - 11 [3C4F63B0].avi
+complete/l/Legend of Galactic Heroes Gaiden/[Central Anime] Legend of Galactic Heroes Gaiden - 12 [3DD8839E].avi
+complete/l/Legend of Galactic Heroes Gaiden/[Central Anime] Legend of Galactic Heroes Gaiden - 13 [46AFE7BC].avi
+complete/l/Legend of Galactic Heroes Gaiden/[Central Anime] Legend of Galactic Heroes Gaiden - 14 [E98B9172].avi
+complete/l/Legend of Galactic Heroes Gaiden/[Central Anime] Legend of Galactic Heroes Gaiden - 15 [39932D5B].avi
+complete/l/Legend of Galactic Heroes Gaiden/[Central Anime] Legend of Galactic Heroes Gaiden - 16 [9D95CBB1].avi
+complete/l/Legend of Galactic Heroes Gaiden/[Central Anime] Legend of Galactic Heroes Gaiden - 17 [B720B60D].avi
+complete/l/Legend of Galactic Heroes Gaiden/[Central Anime] Legend of Galactic Heroes Gaiden - 18 [0E556E76].avi
+complete/l/Legend of Galactic Heroes Gaiden/[Central Anime] Legend of Galactic Heroes Gaiden - 19 [79FD2A36].avi
+complete/l/Legend of Galactic Heroes Gaiden/[Central Anime] Legend of Galactic Heroes Gaiden - 20 [53550956].avi
+complete/l/Legend of Galactic Heroes Gaiden/[Central Anime] Legend of Galactic Heroes Gaiden - 21 [8852904F].avi
+complete/l/Legend of Galactic Heroes Gaiden/[Central Anime] Legend of Galactic Heroes Gaiden - 22 [B2ECFF45].avi
+complete/l/Legend of Galactic Heroes Gaiden/[Central Anime] Legend of Galactic Heroes Gaiden - 23 [CA87A07F].avi
+complete/l/Legend of Galactic Heroes Gaiden/[Central Anime] Legend of Galactic Heroes Gaiden - 24 [End][32D1ABDA].avi
 complete/l/Legend of Galactic Heroes/[Central Anime] Legend of Galactic Heroes - 001 [588BB5AC].avi
 complete/l/Legend of Galactic Heroes/[Central Anime] Legend of Galactic Heroes - 002 [0978BE38].avi
 complete/l/Legend of Galactic Heroes/[Central Anime] Legend of Galactic Heroes - 003 [B78340B1].avi
@@ -15826,8 +15880,7 @@ complete/s/Soul Link/[ReDone] Soul Link - 05 [DVD][DC033C8F].mkv
 complete/s/Soul Link/[ReDone] Soul Link - 06 [DVD][BB2D5F89].mkv
 complete/s/Soul Link/[ReDone] Soul Link - 07 [DVD][E6080280].mkv
 complete/s/Soul Link/[ReDone] Soul Link - 08 [DVD][C47BB7E7].mkv
-complete/s/Soul Link/[yesy] Soul Link - 08 [77A0BE00].avi
-complete/s/Soul Link/[yesy] Soul Link - 09 [BCB4628E].avi
+complete/s/Soul Link/[ReDone] Soul Link - 09 [DVD][96246F9D].mkv
 complete/s/Soul Link/[yesy] Soul Link - 10 [DA305D66].avi
 complete/s/Soul Link/[yesy] Soul Link - 11 [4BFDB83F].avi
 complete/s/Soul Link/[yesy] Soul Link - 12 [End][083A9C7C].avi
