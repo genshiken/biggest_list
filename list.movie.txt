@@ -17,6 +17,7 @@ movie/Cardcaptor Sakura/[Coalgirls] Cardcaptor Sakura - Movie [DVD][53FD907C].mk
 movie/Cencoroll/[Formula] Cencoroll [BFDBFD3D].mkv
 movie/Cencoroll/[Koharubi] Cencoroll [HQ][EEE806D5].mkv
 movie/Clannad - The Motion Picture/[SS-Eclipse] Clannad - The Motion Picture [DVD][FDB42A85].mkv
+movie/Colorful/[Doki] Colorful [1080p BD][90BAC5BD].mkv
 movie/Cowboy Bebob - Knockin' on Heaven's Door/[niizk] Cowboy Bebob - Knockin' on Heaven's Door [BE3625D7].mkv
 movie/Crayon Shin-chan/[Unknown] Crayon Shin-chan - Movie 8 (Part 1) [5A830C46].avi
 movie/Crayon Shin-chan/[Unknown] Crayon Shin-chan - Movie 8 (Part 2) [200522E2].avi

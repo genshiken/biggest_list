@@ -761,98 +761,83 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/Yamato/YAMATO 3x02.-Great Battle on the Milky Way..mkv
-!new/Yamato/YAMATO 3x03.-Star Forces Embarks at Dawn.mkv
-!new/Yamato/YAMATO 3x04.-Shoot for Planet Mars..mkv
-!new/Yamato/YAMATO 3x05.-S.O.S Legendra!.mkv
-!new/Yamato/YAMATO 3x06.-Great Battle Near Planet Brumas.mkv
-!new/Yamato/YAMATO 3x07.-The Rough Seas of Alpha Centauri..mkv
-!new/Yamato/YAMATO 3x08.-The Last Pioneer.mkv
-!new/Yamato/YAMATO 3x09.-Battle at Barnard Star.mkv
-!new/Yamato/YAMATO 3x10.-Dagon·s New Fleet Counter-attacks.mkv
-!new/Yamato/YAMATO 3x11.-Yamato Faces Danger at Cygnus.mkv
-!new/Yamato/YAMATO 3x12 - Stellar Prison Camp.mkv
-!new/Yamato/YAMATO 3x13.-Dreadful Bolar Federation.mkv
-!new/Yamato/YAMATO 3x14 - Subspace Submarine Captain Galman Wolf.mkv
-!new/Yamato/YAMATO 3x15 - Yamato's Captured!.mkv
-!new/Yamato/YAMATO 3x16 - Festive Day for Desslok.mkv
-!new/Yamato/YAMATO 3x17 - Desslok's Empire in a Crisis.mkv
-!new/Yamato/YAMATO 3x18 - The Angry Sun.mkv
-!new/Yamato/YAMATO 3x19 - On the Way to Planet Phantom.mkv
-!new/Yamato/YAMATO 3x20 - The Planet of lllusions.mkv
-!new/Yamato/YAMATO 3x21 - Lost Hope.mkv
-!new/Yamato/YAMATO 3x22 - Farewell Planet Phantom.mkv
-!new/Yamato/YAMATO 3x23 - Battle at the Scalageck Star Cluster.mkv
-!new/Yamato/YAMATO 3x24 - Secret of Planet Guardiana.mkv
-!new/Yamato/YAMATO 3x25 - Yamato, Shoot that Sun!.mkv
-!new/Yamato/Yamato 01 - remaster (Central Anime) [33d6eb95].mkv
-!new/Yamato/Yamato 02 - remaster (Central Anime) [d9ab7e12].mkv
-!new/Yamato/Yamato 03 - remaster (Central Anime) [36f50f9e].mkv
-!new/Yamato/Yamato 04 - remaster (Central Anime) [cbe5b460].mkv
-!new/Yamato/Yamato 05 - remaster (Central Anime) [45ab40de].mkv
-!new/Yamato/Yamato 06 - remaster (Central Anime) [e0cec617].mkv
-!new/Yamato/Yamato 07 - remaster (Central Anime) [5f2600d7].mkv
-!new/Yamato/Yamato 08 - remaster (Central Anime) [e957eaa7].mkv
-!new/Yamato/Yamato 09 - remaster (Central Anime) [ccf0311f].mkv
-!new/Yamato/Yamato 10 - remaster (Central Anime) [3b4a39c8].mkv
-!new/Yamato/Yamato 11 - remaster (Central Anime) [413af728].mkv
-!new/Yamato/Yamato 12 - remaster (Central Anime) [511249b3].mkv
-!new/Yamato/Yamato 13 - remaster (Central Anime) [6f707bf6].mkv
-!new/Yamato/Yamato 14 - remaster (Central Anime) [1a0d40b2].mkv
-!new/Yamato/Yamato 15 - remaster (Central Anime) [1119c16a].mkv
-!new/Yamato/Yamato 16 - remaster (Central Anime) [ccb6d866].mkv
-!new/Yamato/Yamato 17 - remaster (Central Anime) [1735a728].mkv
-!new/Yamato/Yamato 18 - remaster (Central Anime) [3654a0dd].mkv
-!new/Yamato/Yamato 19 - remaster (Central Anime) [da52443c].mkv
-!new/Yamato/Yamato 20 - remaster (Central Anime) [8afbf573].mkv
-!new/Yamato/Yamato 21 - remaster (Central Anime) [be2cac6a].mkv
-!new/Yamato/Yamato 22 - remaster (Central Anime) [e859385e].mkv
-!new/Yamato/Yamato 23 - remaster (Central Anime) [5f7e82c7].mkv
-!new/Yamato/Yamato 24 - remaster (Central Anime) [0a190c65].mkv
-!new/Yamato/Yamato 25 - remaster (Central Anime) [010a5e2c].mkv
-!new/Yamato/Yamato 26 - remaster (Central Anime) [c1323b81].mkv
-!new/Yamato/Yamato 3x01.mkv
-!new/Yamato/Yamato S2 01 - remaster (Central Anime) [aac0cb66].mkv
-!new/Yamato/Yamato S2 02 - remaster (Central Anime) [f4fb8ce0].mkv
-!new/Yamato/Yamato S2 03 - remaster (Central Anime) [6a9e745f].mkv
-!new/Yamato/Yamato S2 04 - remaster (Central Anime) [3f5a7202].mkv
-!new/Yamato/Yamato S2 05 - remaster (Central Anime) [5e064a19].mkv
-!new/Yamato/Yamato S2 06 - remaster (Central Anime) [579266ae].mkv
-!new/Yamato/Yamato S2 07 - remaster (Central Anime) [38176bb6].mkv
-!new/Yamato/Yamato S2 08 - remaster (Central Anime) [ee67cc1b].mkv
-!new/Yamato/Yamato S2 09 - remaster (Central Anime) [da797e13].mkv
-!new/Yamato/Yamato S2 10 - remaster (Central Anime) [611f5c89].mkv
-!new/Yamato/Yamato S2 11 - remaster (Central Anime) [89b6e695].mkv
-!new/Yamato/Yamato S2 12 - remaster (Central Anime) [c47aac89].mkv
-!new/Yamato/Yamato S2 13 - remaster (Central Anime) [3d48b0b2].mkv
-!new/Yamato/Yamato S2 14 - remaster (Central Anime) [227fbd7a].mkv
-!new/Yamato/Yamato S2 15 - remaster (Central Anime) [f08fbdc6].mkv
-!new/Yamato/Yamato S2 16 - remaster (Central Anime) [a3e5f1bb].mkv
-!new/Yamato/Yamato S2 17 - remaster (Central Anime) [c1b705a1].mkv
-!new/Yamato/Yamato S2 18 - remaster (Central Anime) [4bf99069].mkv
-!new/Yamato/Yamato S2 19 - remaster (Central Anime) [1a7206b9].mkv
-!new/Yamato/Yamato S2 20 - remaster (Central Anime) [e9d48908].mkv
-!new/Yamato/Yamato S2 21 - remaster (Central Anime) [bf86b8ff].mkv
-!new/Yamato/Yamato S2 22 - remaster (Central Anime) [78365605].mkv
-!new/Yamato/Yamato S2 23 - remaster (Central Anime) [c5c0c89a].mkv
-!new/Yamato/Yamato S2 24 - remaster (Central Anime) [02f89f8e].mkv
-!new/Yamato/Yamato S2 25 - remaster (Central Anime) [070ff20d].mkv
-!new/Yamato/Yamato S2 26 - remaster (Central Anime) [92ba08b6].mkv
-!new/[Ani-Kraze]_Angel_Heart_-_01_[6F1031A6].avi
-!new/[Ani-Kraze]_Angel_Heart_-_37_[64B2668D].avi
-!new/[Ani-Kraze]_Angel_Heart_-_44_[943B870D].avi
-!new/[Ani-Kraze]_Angel_Heart_-_45_[4A807A99].avi
-!new/[Ani-Kraze]_Angel_Heart_-_46_[D2152BFC].avi
-!new/[Ani-Kraze]_Angel_Heart_-_47_[7184845E].avi
-!new/[Ani-Kraze]_Angel_Heart_-_48_[CB362CCA][1000th_Release].avi
-!new/[Ani-Kraze]_Angel_Heart_-_49_[92E462DB].avi
-!new/[Ani-Kraze]_Angel_Heart_-_50_[FINAL]_[DDC88F23].avi
-!new/[Doki] Colorful (1920x1080 h264 BD FLAC) [90BAC5BD].mkv
-!new/[EAC]TVアニメ 「アスタロッテのおもちゃ！」 EDテーマ「真夏のフォトグラフ」／azusa(ape+cue+jpg).zip
-!new/[EAC]TVアニメ 「神のみぞ知るセカイII」 OPテーマ「A Whole New World God Only Knows」／Oratorio The World God Only Knows(ape+cue+jpg).zip
-!new/[Hiryuu-HiNA] Dog Days 07 [1280x720 H264 AAC] [F3A41B1E].mkv
-!new/[KiteSeekers-Kira] Lovely Complex - 01 [DVD H264 720x480] [ED8E50EE].mkv
-!new/[RyRo]_Inazuma_Eleven_GO_-_001_(720p)_[2668855F].mkv
+!new/Yamato/s1/Yamato 01 - remaster (Central Anime) [33d6eb95].mkv
+!new/Yamato/s1/Yamato 02 - remaster (Central Anime) [d9ab7e12].mkv
+!new/Yamato/s1/Yamato 03 - remaster (Central Anime) [36f50f9e].mkv
+!new/Yamato/s1/Yamato 04 - remaster (Central Anime) [cbe5b460].mkv
+!new/Yamato/s1/Yamato 05 - remaster (Central Anime) [45ab40de].mkv
+!new/Yamato/s1/Yamato 06 - remaster (Central Anime) [e0cec617].mkv
+!new/Yamato/s1/Yamato 07 - remaster (Central Anime) [5f2600d7].mkv
+!new/Yamato/s1/Yamato 08 - remaster (Central Anime) [e957eaa7].mkv
+!new/Yamato/s1/Yamato 09 - remaster (Central Anime) [ccf0311f].mkv
+!new/Yamato/s1/Yamato 10 - remaster (Central Anime) [3b4a39c8].mkv
+!new/Yamato/s1/Yamato 11 - remaster (Central Anime) [413af728].mkv
+!new/Yamato/s1/Yamato 12 - remaster (Central Anime) [511249b3].mkv
+!new/Yamato/s1/Yamato 13 - remaster (Central Anime) [6f707bf6].mkv
+!new/Yamato/s1/Yamato 14 - remaster (Central Anime) [1a0d40b2].mkv
+!new/Yamato/s1/Yamato 15 - remaster (Central Anime) [1119c16a].mkv
+!new/Yamato/s1/Yamato 16 - remaster (Central Anime) [ccb6d866].mkv
+!new/Yamato/s1/Yamato 17 - remaster (Central Anime) [1735a728].mkv
+!new/Yamato/s1/Yamato 18 - remaster (Central Anime) [3654a0dd].mkv
+!new/Yamato/s1/Yamato 19 - remaster (Central Anime) [da52443c].mkv
+!new/Yamato/s1/Yamato 20 - remaster (Central Anime) [8afbf573].mkv
+!new/Yamato/s1/Yamato 21 - remaster (Central Anime) [be2cac6a].mkv
+!new/Yamato/s1/Yamato 22 - remaster (Central Anime) [e859385e].mkv
+!new/Yamato/s1/Yamato 23 - remaster (Central Anime) [5f7e82c7].mkv
+!new/Yamato/s1/Yamato 24 - remaster (Central Anime) [0a190c65].mkv
+!new/Yamato/s1/Yamato 25 - remaster (Central Anime) [010a5e2c].mkv
+!new/Yamato/s1/Yamato 26 - remaster (Central Anime) [c1323b81].mkv
+!new/Yamato/s2/Yamato S2 01 - remaster (Central Anime) [aac0cb66].mkv
+!new/Yamato/s2/Yamato S2 02 - remaster (Central Anime) [f4fb8ce0].mkv
+!new/Yamato/s2/Yamato S2 03 - remaster (Central Anime) [6a9e745f].mkv
+!new/Yamato/s2/Yamato S2 04 - remaster (Central Anime) [3f5a7202].mkv
+!new/Yamato/s2/Yamato S2 05 - remaster (Central Anime) [5e064a19].mkv
+!new/Yamato/s2/Yamato S2 06 - remaster (Central Anime) [579266ae].mkv
+!new/Yamato/s2/Yamato S2 07 - remaster (Central Anime) [38176bb6].mkv
+!new/Yamato/s2/Yamato S2 08 - remaster (Central Anime) [ee67cc1b].mkv
+!new/Yamato/s2/Yamato S2 09 - remaster (Central Anime) [da797e13].mkv
+!new/Yamato/s2/Yamato S2 10 - remaster (Central Anime) [611f5c89].mkv
+!new/Yamato/s2/Yamato S2 11 - remaster (Central Anime) [89b6e695].mkv
+!new/Yamato/s2/Yamato S2 12 - remaster (Central Anime) [c47aac89].mkv
+!new/Yamato/s2/Yamato S2 13 - remaster (Central Anime) [3d48b0b2].mkv
+!new/Yamato/s2/Yamato S2 14 - remaster (Central Anime) [227fbd7a].mkv
+!new/Yamato/s2/Yamato S2 15 - remaster (Central Anime) [f08fbdc6].mkv
+!new/Yamato/s2/Yamato S2 16 - remaster (Central Anime) [a3e5f1bb].mkv
+!new/Yamato/s2/Yamato S2 17 - remaster (Central Anime) [c1b705a1].mkv
+!new/Yamato/s2/Yamato S2 18 - remaster (Central Anime) [4bf99069].mkv
+!new/Yamato/s2/Yamato S2 19 - remaster (Central Anime) [1a7206b9].mkv
+!new/Yamato/s2/Yamato S2 20 - remaster (Central Anime) [e9d48908].mkv
+!new/Yamato/s2/Yamato S2 21 - remaster (Central Anime) [bf86b8ff].mkv
+!new/Yamato/s2/Yamato S2 22 - remaster (Central Anime) [78365605].mkv
+!new/Yamato/s2/Yamato S2 23 - remaster (Central Anime) [c5c0c89a].mkv
+!new/Yamato/s2/Yamato S2 24 - remaster (Central Anime) [02f89f8e].mkv
+!new/Yamato/s2/Yamato S2 25 - remaster (Central Anime) [070ff20d].mkv
+!new/Yamato/s2/Yamato S2 26 - remaster (Central Anime) [92ba08b6].mkv
+!new/Yamato/s3/YAMATO 3x02.-Great Battle on the Milky Way..mkv
+!new/Yamato/s3/YAMATO 3x03.-Star Forces Embarks at Dawn.mkv
+!new/Yamato/s3/YAMATO 3x04.-Shoot for Planet Mars..mkv
+!new/Yamato/s3/YAMATO 3x05.-S.O.S Legendra!.mkv
+!new/Yamato/s3/YAMATO 3x06.-Great Battle Near Planet Brumas.mkv
+!new/Yamato/s3/YAMATO 3x07.-The Rough Seas of Alpha Centauri..mkv
+!new/Yamato/s3/YAMATO 3x08.-The Last Pioneer.mkv
+!new/Yamato/s3/YAMATO 3x09.-Battle at Barnard Star.mkv
+!new/Yamato/s3/YAMATO 3x10.-Dagon·s New Fleet Counter-attacks.mkv
+!new/Yamato/s3/YAMATO 3x11.-Yamato Faces Danger at Cygnus.mkv
+!new/Yamato/s3/YAMATO 3x12 - Stellar Prison Camp.mkv
+!new/Yamato/s3/YAMATO 3x13.-Dreadful Bolar Federation.mkv
+!new/Yamato/s3/YAMATO 3x14 - Subspace Submarine Captain Galman Wolf.mkv
+!new/Yamato/s3/YAMATO 3x15 - Yamato's Captured!.mkv
+!new/Yamato/s3/YAMATO 3x16 - Festive Day for Desslok.mkv
+!new/Yamato/s3/YAMATO 3x17 - Desslok's Empire in a Crisis.mkv
+!new/Yamato/s3/YAMATO 3x18 - The Angry Sun.mkv
+!new/Yamato/s3/YAMATO 3x19 - On the Way to Planet Phantom.mkv
+!new/Yamato/s3/YAMATO 3x20 - The Planet of lllusions.mkv
+!new/Yamato/s3/YAMATO 3x21 - Lost Hope.mkv
+!new/Yamato/s3/YAMATO 3x22 - Farewell Planet Phantom.mkv
+!new/Yamato/s3/YAMATO 3x23 - Battle at the Scalageck Star Cluster.mkv
+!new/Yamato/s3/YAMATO 3x24 - Secret of Planet Guardiana.mkv
+!new/Yamato/s3/YAMATO 3x25 - Yamato, Shoot that Sun!.mkv
+!new/Yamato/s3/Yamato 3x01.mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -868,9 +853,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[anime-rg_-_ray=out]_Yoiko_-_08_[695A148D].mkv
-!new/[anime-rg_-_ray=out]_Yoiko_-_09_[8F2FD84E].mkv
-!new/[anime-rg_-_ray=out]_Yoiko_-_10_[D34CECA1].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
