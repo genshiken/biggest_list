@@ -841,16 +841,10 @@
 !new/Yamato/s3/Yamato 3x01.mkv
 !new/[ARR] Belfi & Lilibit - 01 [D0752CB1].mkv
 !new/[EAC]TVアニメ 「戦国乙女～桃色パラドックス～」 OP&EDテーマ「陽炎 -kagerou-・熱き矢の如く」／天下取り隊(ape+cue+jpg+iso).zip
-!new/[Frostii]_K-On!!_B-Side_Theater_-_Uraon!!_-_7_[EACF0F6E].mkv
-!new/[Frostii]_K-On!!_B-Side_Theater_-_Uraon!!_-_8_[5B1C279E].mkv
-!new/[Frostii]_K-On!!_B-Side_Theater_-_Uraon!!_-_9_[D3B356B9].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 212 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 07 [720p].mkv
 !new/[KiteSeekers-Kira] Lovely Complex - 02 [DVD H264 720x480] [A9A5C06B].mkv
-!new/[Mazui]_Denpa_Onna_to_Seishun_Otoko_-_06_[4F78438D].mkv
-!new/[Nutbladder]_Kaiji_S2_-_07_[D6221284].mkv
 !new/[Rurouni-Team]_Angel_Heart_49_XviD_[37C69FC0].ogm
-!new/[Saizen]_Captain_Tsubasa_Road_to_2002_-_22_[DVD][89CAF7CF].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -866,10 +860,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[gg]_Fireball_Charming_-_05_[00CCB37C].mkv
-!new/[pwq]_A-Channel_-_06_[3B074CEB].mkv
-!new/[yibis]_One_Piece_490_v2_[720p][D816BA67].mkv
-!new/[yibis]_One_Piece_496_[720p][9FDBF72D].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx

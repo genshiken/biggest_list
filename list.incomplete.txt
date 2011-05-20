@@ -29,6 +29,7 @@ incomplete/A Channel/[pwq] A Channel - 01 [604D6752].mkv
 incomplete/A Channel/[pwq] A Channel - 02 [D1258910].mkv
 incomplete/A Channel/[pwq] A Channel - 03 [DB098148].mkv
 incomplete/A Channel/[pwq] A Channel - 04 [9C2460A2].mkv
+incomplete/A Channel/[pwq] A Channel - 06 [3B074CEB].mkv
 incomplete/Ah! My Goddess - Together, Forever/[Commie] Ah! My Goddess - Together, Forever - 01 [DVD][F864774A].mkv
 incomplete/Ah! My Goddess - Together, Forever/[gg] Ah! My Goddess - Itsumo Futari de - 1 [9B884DFC].mkv
 incomplete/Air Gear OVA/[Commie] Air Gear OVA - 1 [DVD][EE062B76].mkv
@@ -577,10 +578,10 @@ incomplete/Captain Tsubasa Road to 2002/[Saizen-SD] Captain Tsubasa Road to 2002
 incomplete/Captain Tsubasa Road to 2002/[Saizen-SD] Captain Tsubasa Road to 2002 - 16 [DVD][69CD35B1].mkv
 incomplete/Captain Tsubasa Road to 2002/[Saizen-SD] Captain Tsubasa Road to 2002 - 17 [v2][DVD][4F01685F].mkv
 incomplete/Captain Tsubasa Road to 2002/[Saizen-SD] Captain Tsubasa Road to 2002 - 18 [DVD][3C54A41C].mkv
-incomplete/Captain Tsubasa Road to 2002/[Saizen-SD] Captain Tsubasa Road to 2002 - 19 [81A0BB99].mkv
 incomplete/Captain Tsubasa Road to 2002/[Saizen-SD] Captain Tsubasa Road to 2002 - 19 [DVD][81A0BB99].mkv
 incomplete/Captain Tsubasa Road to 2002/[Saizen] Captain Tsubasa Road to 2002 - 20 [DVD][17BC0BC5].mkv
 incomplete/Captain Tsubasa Road to 2002/[Saizen] Captain Tsubasa Road to 2002 - 21 [DVD][7071AD3C].mkv
+incomplete/Captain Tsubasa Road to 2002/[Saizen] Captain Tsubasa Road to 2002 - 22 [DVD][89CAF7CF].mkv
 incomplete/Cardfight!! Vanguard/[HorribleSubs] Cardfight!! Vanguard - 01 [720p][0A23C07B].mkv
 incomplete/Cardfight!! Vanguard/[HorribleSubs] Cardfight!! Vanguard - 02 [720p][A6787685].mkv
 incomplete/Cardfight!! Vanguard/[HorribleSubs] Cardfight!! Vanguard - 03 [720p][BEFD44B8].mkv
@@ -723,6 +724,7 @@ incomplete/Denpa Onna to Seishun Otoko/[Mazui] Denpa Onna to Seishun Otoko - 02 
 incomplete/Denpa Onna to Seishun Otoko/[Mazui] Denpa Onna to Seishun Otoko - 03 [5937CC22].mkv
 incomplete/Denpa Onna to Seishun Otoko/[Mazui] Denpa Onna to Seishun Otoko - 04 [42390F88].mkv
 incomplete/Denpa Onna to Seishun Otoko/[Mazui] Denpa Onna to Seishun Otoko - 05 [244C22FB].mkv
+incomplete/Denpa Onna to Seishun Otoko/[Mazui] Denpa Onna to Seishun Otoko - 06 [4F78438D].mkv
 incomplete/Denpa Onna to Seishun Otoko/[Underwater-Commie] Denpa Onna to Seishun Otoko - 01 [720p][8A3C0C90].mkv
 incomplete/Denpa Onna to Seishun Otoko/[Underwater-Commie] Denpa Onna to Seishun Otoko - 02 [720p][991EC2B9].mkv
 incomplete/Denpa Onna to Seishun Otoko/[Underwater-Commie] Denpa Onna to Seishun Otoko - 03 [720p][C517D7E6].mkv
@@ -1116,6 +1118,7 @@ incomplete/Fireball Charming/[gg] Fireball Charming - 01 [13AF356C].mkv
 incomplete/Fireball Charming/[gg] Fireball Charming - 02 [47E77522].mkv
 incomplete/Fireball Charming/[gg] Fireball Charming - 03 [C8BBB835].mkv
 incomplete/Fireball Charming/[gg] Fireball Charming - 04 [935AD25A].mkv
+incomplete/Fireball Charming/[gg] Fireball Charming - 05 [00CCB37C].mkv
 incomplete/Fireball/[DATS] Fireball - 07 [DVD][75CCFFC0].mkv
 incomplete/Fireball/[DATS] Fireball - 08 [DVD][10A6A4D2].mkv
 incomplete/Fireball/[DATS] Fireball - 09 [DVD][E8DCC3B6].mkv
@@ -1633,6 +1636,7 @@ incomplete/Hidan no Aria/[UTW] Hidan no Aria - 02 [720p][BC57F04D].mkv
 incomplete/Hidan no Aria/[UTW] Hidan no Aria - 03 [720p][35C98AE2].mkv
 incomplete/Hidan no Aria/[UTW] Hidan no Aria - 04 [720p][BDCE69D2].mkv
 incomplete/Hidan no Aria/[UTW] Hidan no Aria - 05 [720p][E7724B68].mkv
+incomplete/Hidan no Aria/[UTW] Hidan no Aria - 06 [720p][A01EBF63].mkv
 incomplete/Hime-chan's Ribbon/[h-b] Hime-chan's Ribbon - 01 [E3FEC3B1].avi
 incomplete/Hime-chan's Ribbon/[h-b] Hime-chan's Ribbon - 02 [014FF00B].avi
 incomplete/Hime-chan's Ribbon/[h-b] Hime-chan's Ribbon - 03 [3AE2FFE4].avi
@@ -1740,6 +1744,7 @@ incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 03 [81E952E7].mkv
 incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 04 [165ECBA7].mkv
 incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 05 [ABA7F787].mkv
 incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 06 [E8CEF9A4].mkv
+incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 07 [D6221284].mkv
 incomplete/Kaiji S2/[Underwater-Commie] Kaiji S2 - 05 [720p][75CAF914].mkv
 incomplete/Kamichama Karin/[Kedex] Kamichama Karin - 01 [77A49DFF].avi
 incomplete/Kamichama Karin/[Kedex] Kamichama Karin - 02 [4D18F7AF].avi
@@ -2867,11 +2872,12 @@ incomplete/One Piece/One Piece - 487 [yibis][720p][2785504B].mkv
 incomplete/One Piece/One Piece - 487 [yibis][v3 720p][9BA6A3B8].mkv
 incomplete/One Piece/One Piece - 488 [yibis][720p][6FD8334B].mkv
 incomplete/One Piece/One Piece - 489 [yibis][720p][F39D31C7].mkv
-incomplete/One Piece/One Piece - 490 [yibis][720p][94437281].mkv
+incomplete/One Piece/One Piece - 490 [yibis][v2 720p][D816BA67].mkv
 incomplete/One Piece/One Piece - 491 [yibis][720p][7656565F].mkv
 incomplete/One Piece/One Piece - 493 [yibis][720p][B258A903].mkv
 incomplete/One Piece/One Piece - 494 [yibis][720p][66227CF8].mkv
 incomplete/One Piece/One Piece - 495 [yibis][720p][1F74F81A].mkv
+incomplete/One Piece/One Piece - 496 [yibis][720p][9FDBF72D].mkv
 incomplete/One Piece/One Piece - Opening 7 [Vegapunk][720p][6B7F029D].mp4
 incomplete/One Piece/One Piece - Opening 8 [Vegapunk][720p][D45E5410].mp4
 incomplete/One Piece/One Piece - Special 1 [K-F][DVD][DF62ACA0].avi
