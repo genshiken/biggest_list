@@ -970,22 +970,22 @@ complete/b/BALDR FORCE EXE Resolution/[Megami] BALDR FORCE EXE Resolution - 1 [0
 complete/b/BALDR FORCE EXE Resolution/[Megami] BALDR FORCE EXE Resolution - 2 [BE5489D0].mkv
 complete/b/BALDR FORCE EXE Resolution/[Megami] BALDR FORCE EXE Resolution - 3 [6E07E289].mkv
 complete/b/BALDR FORCE EXE Resolution/[Megami] BALDR FORCE EXE Resolution - 4 [End][6D4F806A].mkv
-complete/b/Baccano! Specials/[BSS] Baccano! - 14 [3D128607].mkv
-complete/b/Baccano! Specials/[BSS] Baccano! - 15 [704C2C59].mkv
-complete/b/Baccano! Specials/[BSS] Baccano! - 16 [4CD8A442].mkv
-complete/b/Baccano!/[Ayu] Baccano! - 01 [DVD][608DD92D].mkv
-complete/b/Baccano!/[Ayu] Baccano! - 02 [DVD][EF8E8CBF].mkv
-complete/b/Baccano!/[Ayu] Baccano! - 03 [DVD][4A3C5BB6].mkv
-complete/b/Baccano!/[Ayu] Baccano! - 04 [DVD][F818CF8C].mkv
-complete/b/Baccano!/[Ayu] Baccano! - 05 [DVD][EEB0BFD2].mkv
-complete/b/Baccano!/[Ayu] Baccano! - 06 [DVD][88AC6711].mkv
-complete/b/Baccano!/[Ayu] Baccano! - 07 [DVD][7948B97E].mkv
-complete/b/Baccano!/[Ayu] Baccano! - 08 [DVD][13D32173].mkv
-complete/b/Baccano!/[Ayu] Baccano! - 09 [DVD][CE669538].mkv
-complete/b/Baccano!/[Ayu] Baccano! - 10 [DVD][953D9437].mkv
-complete/b/Baccano!/[Ayu] Baccano! - 11 [DVD][A4CA8A8D].mkv
-complete/b/Baccano!/[Ayu] Baccano! - 12 [DVD][F5B3E9CD].mkv
-complete/b/Baccano!/[Ayu] Baccano! - 13 [End][98092FFB].mkv
+complete/b/Baccano!/[Coalgirls] Baccano! - 01 [720p BD][8C7BF046].mkv
+complete/b/Baccano!/[Coalgirls] Baccano! - 02 [720p BD][F1DC71B3].mkv
+complete/b/Baccano!/[Coalgirls] Baccano! - 03 [720p BD][2FC5623A].mkv
+complete/b/Baccano!/[Coalgirls] Baccano! - 04 [720p BD][F4D63D2A].mkv
+complete/b/Baccano!/[Coalgirls] Baccano! - 05 [720p BD][8CFA1995].mkv
+complete/b/Baccano!/[Coalgirls] Baccano! - 06 [720p BD][996D91BD].mkv
+complete/b/Baccano!/[Coalgirls] Baccano! - 07 [720p BD][62620A0C].mkv
+complete/b/Baccano!/[Coalgirls] Baccano! - 08 [720p BD][330E9CB5].mkv
+complete/b/Baccano!/[Coalgirls] Baccano! - 09 [720p BD][A214A2B0].mkv
+complete/b/Baccano!/[Coalgirls] Baccano! - 10 [720p BD][88A250B5].mkv
+complete/b/Baccano!/[Coalgirls] Baccano! - 11 [720p BD][61D8CEE7].mkv
+complete/b/Baccano!/[Coalgirls] Baccano! - 12 [720p BD][40A36516].mkv
+complete/b/Baccano!/[Coalgirls] Baccano! - 13 [720p BD][5B480128].mkv
+complete/b/Baccano!/[Coalgirls] Baccano! - 14 [720p BD][5741FA46].mkv
+complete/b/Baccano!/[Coalgirls] Baccano! - 15 [720p BD][4FA84C44].mkv
+complete/b/Baccano!/[Coalgirls] Baccano! - 16 [End][720p BD][015C9FEC].mkv
 complete/b/Baka to Test to Shokanju - Christmas Special/[LSS] Baka to Test to Shokanju - Christmas Special [Webcast][B41E9F09].mkv
 complete/b/Baka to Test to Shokanju/[Elysium] Baka to Test to Shokanju - 01 [1080p BD][F512D5EC].mkv
 complete/b/Baka to Test to Shokanju/[Elysium] Baka to Test to Shokanju - 02 [1080p BD][A1A7FEB2].mkv
@@ -1201,6 +1201,56 @@ complete/b/Battle Programmer Shirase/[SNS] Battle Programmer Shirase - Ending [7
 complete/b/Battle Programmer Shirase/[SNS] Battle Programmer Shirase - Opening [8CE99234].mkv
 complete/b/Battle Programmer Shirase/[SNS] Battle Programmer Shirase - TV Previews [CB07267D].mkv
 complete/b/Battle Programmer Shirase/[SNS] Battle Programmer Shirase - TV Promo [5D53C0AC].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 01 [C6C37DAC].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 02 [0911C56A].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 03 [281AA9A2].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 04 [2548BF9D].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 05 [17374E29].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 06 [21EF860A].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 07 [A518B829].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 08 [1A6FA47A].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 09 [ABF306F6].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 10 [C2BF5D7E].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 11 [59777D17].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 12 [85002971].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 13 [3B919E07].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 14 [6EDB8F9D].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 15 [785BB356].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 16 [3E502C0C].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 17 [C054B1E1].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 18 [816B8657].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 19 [C98E63DC].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 20 [21A97EA2].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 21 [EAC83728].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 22 [7EEA288E].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 23 [B569BEB1].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 24 [8D69C788].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 25 [297D7277].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 26 [B873CBD0].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 27 [4BA02197].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 28 [27F7B096].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 29 [8F8414FD].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 30 [59EB9F27].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 31 [F857C477].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 32 [0678FB91].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 33 [4267E0F8].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 34 [A0525E89].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 35 [123B0ACF].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 36 [1927ECF2].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 37 [212FF73D].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 38 [8C580D99].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 39 [46270B96].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 40 [5A7267E3].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 41 [C9D89236].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 42 [4F8148B3].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 43 [F11FCB95].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 44 [676A9746].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 45 [8C4D7A0B].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 46 [352798C9].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 47 [8C6D8F72].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 48 [E94F89C1].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 49 [F3C4A5C2].mkv
+complete/b/Battle Spirits Shounen Toppa Bashin/[ARR] Battle Spirits Shounen Toppa Bashin - 50 [End][5BF74C3C].mkv
 complete/b/Bavel no Hon/[Kokoromi Fansubs] Bavel no Hon [28FA5660].mkv
 complete/b/Beck/[A-E] Beck - 09 [059E7A55].avi
 complete/b/Beck/[A-E] Beck - 10 [114FBAE7].avi
@@ -7788,6 +7838,7 @@ complete/k/Kaibutsu Oujo/[Genjo] Kaibutsu Oujo - 07 [F6ED613F].mkv
 complete/k/Kaibutsu Oujo/[Genjo] Kaibutsu Oujo - 08 [52FB8740].mkv
 complete/k/Kaibutsu Oujo/[Genjo] Kaibutsu Oujo - 09 [D2E98B0E].mkv
 complete/k/Kaibutsu Oujo/[Genjo] Kaibutsu Oujo - 10 [20B02356].mkv
+complete/k/Kaichou wa Maid-sama OVA/[Hiryuu-Kira] Kaichou wa Maid-sama OVA [1080p BD][DF25AEA3].mkv
 complete/k/Kaichu!/[DATS] Kaichu! - 1 [0C7CD2E1].mkv
 complete/k/Kaichu!/[DATS] Kaichu! - 2 [End][D04FA15B].mkv
 complete/k/Kaiji/[Triad] Kaiji - 01 [7216E69F].mkv
@@ -9606,6 +9657,7 @@ complete/l/Lovely Complex/[KissSub] Lovely Complex - 23 [5C3EAE0B].avi
 complete/l/Lovely Complex/[KissSub] Lovely Complex - 24 [End][0849E931].avi
 complete/l/Lovely Complex/[KiteSeekers-Kira] Lovely Complex - 01 [DVD][ED8E50EE].mkv
 complete/l/Lovely Complex/[KiteSeekers-Kira] Lovely Complex - 02 [DVD][A9A5C06B].mkv
+complete/l/Lovely Complex/[KiteSeekers-Kira] Lovely Complex - 03 [DVD][B90FA9D2].mkv
 complete/l/Lucky Star - OVA/[EnA] Lucky Star - OVA [DVD][5F74AE07].mkv
 complete/l/Lucky Star/[Exiled-Destiny] Lucky Star - 01 [4A25C979].mkv
 complete/l/Lucky Star/[Exiled-Destiny] Lucky Star - 02 [26DAE191].mkv

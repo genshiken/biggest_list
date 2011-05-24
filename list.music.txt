@@ -89,6 +89,7 @@ music/EAC/[EAC] [101027] TVアニメ『ヨスガノソラ』オープニング�
 music/EAC/[EAC] [101110] TVアニメ そらのおとしものf（フォルテ） OP 「ハートの確率」[DVD付初回限定盤]／blue drops (ape+cue+ISO PD輸入).7z
 music/EAC/[EAC] [101110]TVアニメ えむえむっ！ ED主題歌「More-more LOVERS!!」／麻生夏子  (tak+bmp+rr3).rar
 music/EAC/[EAC] [101124] TVアニメ とある魔術の禁書目録（インデックス）II ED 「Magic∞world」[DVD付初回限定盤]／黒崎真音 (ape+cue+ISO　PD輸入).7z
+music/EAC/[EAC] [110303] TVアニメ 神のみぞ知るセカイ 中川かのん 1stアルバム「Birth」[初回限定盤]／中川かのん starring 東山奈央 (2tak+bmp+CUE).zip
 music/EAC/[EAC] [110427] TVアニメ 「電波女と青春男」 OPテーマ 「Os-宇宙人」／エリオをかまってちゃん (ape+cue+jpg).zip
 music/EAC/[EAC] [110511] TVアニメ 花咲くいろは ED 「Hazy」[DVD付初回生産限定盤]／スフィア (ape+cue+ISO).rar
 music/EAC/[EAC] 愛と勇気のピッグガール とんでぶ～りん OP＆ED 愛はカッコわるい／ぶーりん あ・ら・もーど - パーキッツ.zip
@@ -96,6 +97,7 @@ music/EAC/[EAC]TVアニメ 「DOG DAYS」 OPテーマ 「SCARLET KNIGHT」／水
 music/EAC/[EAC]TVアニメ 「アスタロッテのおもちゃ！」 EDテーマ「真夏のフォトグラフ」／azusa(ape+cue+jpg).zip
 music/EAC/[EAC]TVアニメ 「アスタロッテのおもちゃ！」 OPテーマ「天使のCLOVER」／愛美(ape+cue+jpg).zip
 music/EAC/[EAC]TVアニメ 「俺たちに翼はない」 OPテーマ「Spread Wings」／美郷あき(ape+cue+jpg).zip
+music/EAC/[EAC]TVアニメ 「戦国乙女～桃色パラドックス～」 OP&EDテーマ「陽炎 -kagerou-・熱き矢の如く」／天下取り隊(ape+cue+jpg+iso).zip
 music/EAC/[EAC]TVアニメ 「神のみぞ知るセカイII」 OPテーマ「A Whole New World God Only Knows」／Oratorio The World God Only Knows(ape+cue+jpg).zip
 music/EAC/[EAC]TVアニメ「STEINS;GATE 」OPテーマ 「Hacking to the Gate」[DVD付初回限定盤]／いとうかなこ (ape+cue+jpg+iso).zip
 music/EAC/[EAC]TVアニメ「俺たちに翼はない」EDテーマ 「NEVERLAND」／橋本みゆき (ape+cue+jpg).zip
@@ -1548,6 +1550,7 @@ music/Shin-S/[Shin-S] Kampfer fur die Liebe OP & ED Single - Choose my love! [Va
 music/Shin-S/[Shin-S] Moribito Kozorite PC Game OP Single - Moribito Kozorite [Nogawa Sakura].zip
 music/Shin-S/[Shin-S] Moshidora ~Moshi Koukou Yakyuu no Joshi Manager ga Drucker no Management wo Yondara~ ED Single - Daisuki da yo [momo].zip
 music/Shin-S/[Shin-S] Moshidora ~Moshi Koukou Yakyuu no Joshi Manager ga Drucker no Management wo Yondara~ OP Single - Yume Note [azusa].zip
+music/Shin-S/[Shin-S] Nichijou ED Single - Zzz [Sasaki Sayaka].zip
 music/Shin-S/[Shin-S] Nichijou OP Single - Hyadain no Kakakata Kataomoi-C [Hyadain].zip
 music/Shin-S/[Shin-S] Ore no Imouto ga Konna ni Kawaii Wake ga Nai ED Single 4 - Masquerade! [Hanazawa Kana & Nabatame Hitomi].zip
 music/Shin-S/[Shin-S] Ore no Imouto ga Konna ni Kawaii Wake ga Nai ED Single 5 - Suki Nandamon! [Taketatsu Ayana & Tamura Yukari].zip
