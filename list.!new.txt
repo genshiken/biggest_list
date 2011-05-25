@@ -63,12 +63,10 @@
 !new/Azumaria Lessons/Lesson - 09 - Stigmata.mkv
 !new/Azumaria Lessons/Lesson - 10 - The Ritual Of Atonement.mkv
 !new/Azumaria Lessons/Lesson - 11 - The Head Of Pandemonium.mkv
-!new/Baccano!_Patches.rar
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
-!new/Detective Conan - 616 [DCTP][720p][C1902CFC].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -840,29 +838,7 @@
 !new/Yamato/s3/YAMATO 3x24 - Secret of Planet Guardiana.mkv
 !new/Yamato/s3/YAMATO 3x25 - Yamato, Shoot that Sun!.mkv
 !new/Yamato/s3/Yamato 3x01.mkv
-!new/[EAC]TVアニメ「DOG DAYS」EDテーマ 「PRESENTER」[DVD付]／堀江由衣(ape+cue+jpg+iso).zip
-!new/[EAC]TVアニメ「STEINS；GATE」EDテーマ 「刻司ル十二ノ盟約」[DVD付]／ファンタズム（FES CV：榊原ゆい）(ape+cue+jpg+iso)ver.zip
-!new/[EAC]TVアニメ「そふてにっ」EDテーマ 「つまさきだち」[DVD付]／伊藤かな恵(ape+cue+jpg+iso).zip
-!new/[EAC]TVアニメ「神のみぞ知るセカイ 」EDテーマ 「アイノヨカン」／神のみぞ知り隊 (ape+cue+jpg).zip
-!new/[EAC]TVアニメ「電波女と青春男  」EDテーマ 「ルル」／やくしまるえつこ(ape+cue+jpg).zip
-!new/[Hiryuu] Softenni 06 [1280x720 H264 AAC] [77BC7E60].mkv
-!new/[HorribleSubs] Bleach - 323 [720p].mkv
-!new/[HorribleSubs] Steins;Gate - 08 [720p].mkv
-!new/[KiteSeekers-Kira] Lovely Complex - 04 [DVD H264 720x480] [47ABE900].mkv
-!new/[KiteSeekers-Kira] Lovely Complex - 05 [DVD H264 720x480] [486B2B87].mkv
-!new/[Nipponsei] Denpa Onna to Seishun Otoko ED Single - Ruru [Yakushimaru Etsuko].zip
-!new/[Nipponsei] Dog Days ED Single - PRESENTER [Horie Yui].zip
-!new/[Nipponsei] Kami Nomi zo Shiru Sekai II ED Single - Ai no Yokan [Various].zip
-!new/[Nipponsei] Nichijou ED Single - Zzz [Sasaki Sayaka].zip
-!new/[Nipponsei] STEINS GATE ED Single - Tokitsukasadoru Juuni no Meiyaku [Sakakibara Yui].zip
-!new/[Nipponsei] Softenni ED Single - Tsumasakidachi [Itou Kanae].zip
-!new/[ReDone] Tonagura! - 10 (DVD) [37BD0349].mkv
-!new/[Rumbel]_Gintama'_-_202v2_[HD][H264][5D3C23D6].mkv
-!new/[Shin-S] DOG DAYS ED Single - PRESENTER [Horie Yui].zip
-!new/[Shin-S] Denpa Onna to Seishun Otoko ED Single - Ruru [Yakushimaru Etsuko].zip
-!new/[Shin-S] Kami Nomi zo Shiru Sekai II ED Single - Ai no Yokan [Kami Nomi zo Shiri-tai].zip
-!new/[Shin-S] Softenni ED Single - Tsumasaki Dachi [Itou Kanae].zip
-!new/[Shin-S] Steins;Gate ED Single - Toki Tsukasadoru Juuni no Meiyaku [Sakakibara Yui].zip
+!new/[Shin-S] Seikon no Qwaser II ED Single - metaphor [Shoujo Byou].zip
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -878,8 +854,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[WhyNot] Yondemasu yo, Azazel-san - 05 [A7FBAF51].mkv
-!new/[WhyNot] Yondemasu yo, Azazel-san - 06 [C9099842].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -1173,6 +1147,42 @@
 !new/narutoship/Naruto Shippuden 194.mkv
 !new/narutoship/Naruto Shippuden 195.mkv
 !new/narutoship/Naruto Shippuden 196.mkv
+!new/p/Baccano!_Patches.rar
+!new/p/Use this to patch, and then find the new files in the New_Versisons folder.bat
+!new/p/xdelta/Baccano_01.xdelta
+!new/p/xdelta/Baccano_02.xdelta
+!new/p/xdelta/Baccano_03.xdelta
+!new/p/xdelta/Baccano_04.xdelta
+!new/p/xdelta/Baccano_05.xdelta
+!new/p/xdelta/Baccano_06.xdelta
+!new/p/xdelta/Baccano_07.xdelta
+!new/p/xdelta/Baccano_08.xdelta
+!new/p/xdelta/Baccano_09.xdelta
+!new/p/xdelta/Baccano_10.xdelta
+!new/p/xdelta/Baccano_11.xdelta
+!new/p/xdelta/Baccano_12.xdelta
+!new/p/xdelta/Baccano_13.xdelta
+!new/p/xdelta/Baccano_14.xdelta
+!new/p/xdelta/Baccano_15.xdelta
+!new/p/xdelta/Baccano_16.xdelta
+!new/p/xdelta/[Coalgirls] Baccano! - 01 [720p BD].mkv
+!new/p/xdelta/[Coalgirls] Baccano! - 02 [720p BD].mkv
+!new/p/xdelta/[Coalgirls] Baccano! - 03 [720p BD].mkv
+!new/p/xdelta/[Coalgirls] Baccano! - 04 [720p BD].mkv
+!new/p/xdelta/[Coalgirls] Baccano! - 05 [720p BD].mkv
+!new/p/xdelta/[Coalgirls] Baccano! - 06 [720p BD].mkv
+!new/p/xdelta/[Coalgirls] Baccano! - 07 [720p BD].mkv
+!new/p/xdelta/[Coalgirls] Baccano! - 08 [720p BD].mkv
+!new/p/xdelta/[Coalgirls] Baccano! - 09 [720p BD].mkv
+!new/p/xdelta/[Coalgirls] Baccano! - 10 [720p BD].mkv
+!new/p/xdelta/[Coalgirls] Baccano! - 11 [720p BD].mkv
+!new/p/xdelta/[Coalgirls] Baccano! - 12 [720p BD].mkv
+!new/p/xdelta/[Coalgirls] Baccano! - 13 [720p BD].mkv
+!new/p/xdelta/[Coalgirls] Baccano! - 14 [720p BD].mkv
+!new/p/xdelta/[Coalgirls] Baccano! - 15 [720p BD].mkv
+!new/p/xdelta/[Coalgirls] Baccano! - 16 [720p BD].mkv
+!new/p/xdelta/v2.mkv
+!new/p/xdelta/xdelta3.exe
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス OVA 「青空が描きたい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 映像特典 「The たんかい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 第01話 「えがいてあそぼ」.mkv

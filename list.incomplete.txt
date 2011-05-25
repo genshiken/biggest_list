@@ -532,6 +532,7 @@ incomplete/Bleach/Bleach - 318 [HorribleSubs][v2 720p][8A81251A].mkv
 incomplete/Bleach/Bleach - 319 [HorribleSubs][720p][1F56CB37].mkv
 incomplete/Bleach/Bleach - 320 [HorribleSubs][720p][088B63F3].mkv
 incomplete/Bleach/Bleach - 322 [HorribleSubs][720p][E606A413].mkv
+incomplete/Bleach/Bleach - 323 [HorribleSubs][720p][077A654B].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 01 [AFCE3665].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 02 [A90F670C].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 03 [A47F2053].mkv
@@ -906,6 +907,7 @@ incomplete/Detective Conan/Detective Conan - 612 [DCTP][720p][1715F0CA].mp4
 incomplete/Detective Conan/Detective Conan - 613 [DCTP][720p][2B2772BB].mp4
 incomplete/Detective Conan/Detective Conan - 614 [DCTP][720p][B2D3A16A].mp4
 incomplete/Detective Conan/Detective Conan - 615 [DCTP][720p][C46A6BF2].mp4
+incomplete/Detective Conan/Detective Conan - 616 [DCTP][720p][C1902CFC].mp4
 incomplete/Detective Holmes/[FBI] Detective Holmes - 01 [E0975B64].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 01 [720p][EF50D001].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 02 [720p][16DC8D8E].mkv
@@ -1242,6 +1244,7 @@ incomplete/Gintama'/[HorribleSubs] Gintama' - 05 [720p][A28D30ED].mkv
 incomplete/Gintama'/[HorribleSubs] Gintama' - 06 [720p][9E4D5DDC].mkv
 incomplete/Gintama'/[HorribleSubs] Gintama' - 07 [720p][073BE4E2].mkv
 incomplete/Gintama'/[HorribleSubs] Gintama' - 08 [720p][4F1382C1].mkv
+incomplete/Gintama'/[Rumbel] Gintama' - 02 [5D3C23D6].mkv
 incomplete/Gintama'/[Rumbel] Gintama' - 02 [DB82C477].mkv
 incomplete/Gintama'/[WhyNot-Hadena] Gintama' - 01 [914E5B1B].mkv
 incomplete/Gintama'/[WhyNot-Hadena] Gintama' - 02 [C89434B2].mkv
@@ -3297,6 +3300,7 @@ incomplete/Softenni/[Ayako-Nishishi] Softenni - 02 [720p][A48E8D59].mkv
 incomplete/Softenni/[Ayako-Nishishi] Softenni - 03 [720p][4FEC2634].mkv
 incomplete/Softenni/[Ayako-Nishishi] Softenni - 04 [720p][3E3D55D9].mkv
 incomplete/Softenni/[Hiryuu] Softenni - 05 [720p][446E704D].mkv
+incomplete/Softenni/[Hiryuu] Softenni - 06 [720p][77BC7E60].mkv
 incomplete/Sonic X/[Unknown] Sonic X - 28 [A5679B5A].avi
 incomplete/Sonic X/[Unknown] Sonic X - 29 [78B9F77D].avi
 incomplete/Sonic X/[Unknown] Sonic X - 30 [EED8FE9D].avi
@@ -3401,6 +3405,7 @@ incomplete/Steins;Gate/[Commie] Steins;Gate - 04 [v2][D23797BA].mkv
 incomplete/Steins;Gate/[Commie] Steins;Gate - 05 [v2][9BA73F2C].mkv
 incomplete/Steins;Gate/[Commie] Steins;Gate - 06 [D34A848A].mkv
 incomplete/Steins;Gate/[Commie] Steins;Gate - 07 [B80BD60A].mkv
+incomplete/Steins;Gate/[HorribleSubs] Steins;Gate - 08 [720p][16BF1923].mkv
 incomplete/Strong World/[yibis] Strong World - 0 [DVD][49C1A026].mkv
 incomplete/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 01 [720p][979152CB].mkv
 incomplete/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 02 [720p][B92C5AD5].mkv
@@ -3711,6 +3716,8 @@ incomplete/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 01 [8FE8
 incomplete/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 02 [AE71AEE3].mkv
 incomplete/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 03 [FE53BB5B].mkv
 incomplete/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 04 [E7CD4F01].mkv
+incomplete/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 05 [A7FBAF51].mkv
+incomplete/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 06 [C9099842].mkv
 incomplete/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 07 [1F59AA55].mkv
 incomplete/Yoshimune/[F-B & Scramble!] Yoshimune - 01 [D6661800].mp4
 incomplete/Yoshimune/[F-B & Scramble!] Yoshimune - 02 [B6EA56DA].mp4
