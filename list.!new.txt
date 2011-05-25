@@ -838,7 +838,6 @@
 !new/Yamato/s3/YAMATO 3x24 - Secret of Planet Guardiana.mkv
 !new/Yamato/s3/YAMATO 3x25 - Yamato, Shoot that Sun!.mkv
 !new/Yamato/s3/Yamato 3x01.mkv
-!new/[Shin-S] Seikon no Qwaser II ED Single - metaphor [Shoujo Byou].zip
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -1147,42 +1146,6 @@
 !new/narutoship/Naruto Shippuden 194.mkv
 !new/narutoship/Naruto Shippuden 195.mkv
 !new/narutoship/Naruto Shippuden 196.mkv
-!new/p/Baccano!_Patches.rar
-!new/p/Use this to patch, and then find the new files in the New_Versisons folder.bat
-!new/p/xdelta/Baccano_01.xdelta
-!new/p/xdelta/Baccano_02.xdelta
-!new/p/xdelta/Baccano_03.xdelta
-!new/p/xdelta/Baccano_04.xdelta
-!new/p/xdelta/Baccano_05.xdelta
-!new/p/xdelta/Baccano_06.xdelta
-!new/p/xdelta/Baccano_07.xdelta
-!new/p/xdelta/Baccano_08.xdelta
-!new/p/xdelta/Baccano_09.xdelta
-!new/p/xdelta/Baccano_10.xdelta
-!new/p/xdelta/Baccano_11.xdelta
-!new/p/xdelta/Baccano_12.xdelta
-!new/p/xdelta/Baccano_13.xdelta
-!new/p/xdelta/Baccano_14.xdelta
-!new/p/xdelta/Baccano_15.xdelta
-!new/p/xdelta/Baccano_16.xdelta
-!new/p/xdelta/[Coalgirls] Baccano! - 01 [720p BD].mkv
-!new/p/xdelta/[Coalgirls] Baccano! - 02 [720p BD].mkv
-!new/p/xdelta/[Coalgirls] Baccano! - 03 [720p BD].mkv
-!new/p/xdelta/[Coalgirls] Baccano! - 04 [720p BD].mkv
-!new/p/xdelta/[Coalgirls] Baccano! - 05 [720p BD].mkv
-!new/p/xdelta/[Coalgirls] Baccano! - 06 [720p BD].mkv
-!new/p/xdelta/[Coalgirls] Baccano! - 07 [720p BD].mkv
-!new/p/xdelta/[Coalgirls] Baccano! - 08 [720p BD].mkv
-!new/p/xdelta/[Coalgirls] Baccano! - 09 [720p BD].mkv
-!new/p/xdelta/[Coalgirls] Baccano! - 10 [720p BD].mkv
-!new/p/xdelta/[Coalgirls] Baccano! - 11 [720p BD].mkv
-!new/p/xdelta/[Coalgirls] Baccano! - 12 [720p BD].mkv
-!new/p/xdelta/[Coalgirls] Baccano! - 13 [720p BD].mkv
-!new/p/xdelta/[Coalgirls] Baccano! - 14 [720p BD].mkv
-!new/p/xdelta/[Coalgirls] Baccano! - 15 [720p BD].mkv
-!new/p/xdelta/[Coalgirls] Baccano! - 16 [720p BD].mkv
-!new/p/xdelta/v2.mkv
-!new/p/xdelta/xdelta3.exe
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス OVA 「青空が描きたい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 映像特典 「The たんかい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 第01話 「えがいてあそぼ」.mkv
