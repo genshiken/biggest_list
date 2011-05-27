@@ -67,6 +67,36 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_01_(1920x1080_Blu-Ray_FLAC)_[3B9F4B48].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_02_(1920x1080_Blu-Ray_FLAC)_[E17F731C].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_03_(1920x1080_Blu-Ray_FLAC)_[90B7FEE2].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_04_(1920x1080_Blu-Ray_FLAC)_[6226DB47].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_05_(1920x1080_Blu-Ray_FLAC)_[FBCF3FE4].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_06_(1920x1080_Blu-Ray_FLAC)_[BC978A8A].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_07_(1920x1080_Blu-Ray_FLAC)_[EF33CDC3].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_08_(1920x1080_Blu-Ray_FLAC)_[A4ABF28A].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_09_(1920x1080_Blu-Ray_FLAC)_[897D4DCB].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_10_(1920x1080_Blu-Ray_FLAC)_[708CDB09].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_11_(1920x1080_Blu-Ray_FLAC)_[306D0032].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_12_(1920x1080_Blu-Ray_FLAC)_[5FD7E5E1].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_13_(1920x1080_Blu-Ray_FLAC)_[466364B1].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_14_(1920x1080_Blu-Ray_FLAC)_[FDD093F6].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_15_(1920x1080_Blu-Ray_FLAC)_[45BCA88B].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_16_(1920x1080_Blu-Ray_FLAC)_[E4FA463A].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_17_(1920x1080_Blu-Ray_FLAC)_[31623D17].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_18_(1920x1080_Blu-Ray_FLAC)_[A0B63BF3].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_19_(1920x1080_Blu-Ray_FLAC)_[E37CA9EE].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_20_(1920x1080_Blu-Ray_FLAC)_[87EA66C5].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_21_(1920x1080_Blu-Ray_FLAC)_[88665621].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_22_(1920x1080_Blu-Ray_FLAC)_[E47C33E6].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_23_(1920x1080_Blu-Ray_FLAC)_[7C952B55].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_24_(1920x1080_Blu-Ray_FLAC)_[A7370313].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_25_(1920x1080_Blu-Ray_FLAC)_[2B485D30].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_ED1_(1920x1080_Blu-Ray_FLAC)_[C808621E].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_ED2_(1920x1080_Blu-Ray_FLAC)_[129EB38E].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_ED3_(1920x1080_Blu-Ray_FLAC)_[B0E4D8E2].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_ED4_(1920x1080_Blu-Ray_FLAC)_[138ED671].mkv
+!new/Clannad - After Story/[Coalgirls]_Clannad_~After_Story~_OP_(1920x1080_Blu-Ray_FLAC)_[A18048F1].mkv
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -838,36 +868,6 @@
 !new/Yamato/s3/YAMATO 3x24 - Secret of Planet Guardiana.mkv
 !new/Yamato/s3/YAMATO 3x25 - Yamato, Shoot that Sun!.mkv
 !new/Yamato/s3/Yamato 3x01.mkv
-!new/[Coalgirls]_Clannad_~After_Story~_01_(1920x1080_Blu-Ray_FLAC)_[3B9F4B48].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_02_(1920x1080_Blu-Ray_FLAC)_[E17F731C].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_03_(1920x1080_Blu-Ray_FLAC)_[90B7FEE2].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_04_(1920x1080_Blu-Ray_FLAC)_[6226DB47].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_05_(1920x1080_Blu-Ray_FLAC)_[FBCF3FE4].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_06_(1920x1080_Blu-Ray_FLAC)_[BC978A8A].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_07_(1920x1080_Blu-Ray_FLAC)_[EF33CDC3].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_08_(1920x1080_Blu-Ray_FLAC)_[A4ABF28A].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_09_(1920x1080_Blu-Ray_FLAC)_[897D4DCB].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_10_(1920x1080_Blu-Ray_FLAC)_[708CDB09].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_11_(1920x1080_Blu-Ray_FLAC)_[306D0032].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_12_(1920x1080_Blu-Ray_FLAC)_[5FD7E5E1].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_13_(1920x1080_Blu-Ray_FLAC)_[466364B1].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_14_(1920x1080_Blu-Ray_FLAC)_[FDD093F6].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_15_(1920x1080_Blu-Ray_FLAC)_[45BCA88B].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_16_(1920x1080_Blu-Ray_FLAC)_[E4FA463A].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_17_(1920x1080_Blu-Ray_FLAC)_[31623D17].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_18_(1920x1080_Blu-Ray_FLAC)_[A0B63BF3].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_19_(1920x1080_Blu-Ray_FLAC)_[E37CA9EE].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_20_(1920x1080_Blu-Ray_FLAC)_[87EA66C5].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_21_(1920x1080_Blu-Ray_FLAC)_[88665621].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_22_(1920x1080_Blu-Ray_FLAC)_[E47C33E6].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_23_(1920x1080_Blu-Ray_FLAC)_[7C952B55].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_24_(1920x1080_Blu-Ray_FLAC)_[A7370313].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_25_(1920x1080_Blu-Ray_FLAC)_[2B485D30].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_ED1_(1920x1080_Blu-Ray_FLAC)_[C808621E].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_ED2_(1920x1080_Blu-Ray_FLAC)_[129EB38E].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_ED3_(1920x1080_Blu-Ray_FLAC)_[B0E4D8E2].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_ED4_(1920x1080_Blu-Ray_FLAC)_[138ED671].mkv
-!new/[Coalgirls]_Clannad_~After_Story~_OP_(1920x1080_Blu-Ray_FLAC)_[A18048F1].mkv
 !new/[Coalgirls]_Highschool_of_the_Dead_01_(1920x1080_Blu-Ray_FLAC)_[90CC6DC1].mkv
 !new/[Coalgirls]_Highschool_of_the_Dead_02_(1920x1080_Blu-Ray_FLAC)_[7F460EF0].mkv
 !new/[Coalgirls]_Highschool_of_the_Dead_03_(1920x1080_Blu-Ray_FLAC)_[1609D8E7].mkv
@@ -888,6 +888,28 @@
 !new/[Coalgirls]_Kaichou_wa_Maid-sama_06_(1280x720_Blu-Ray_FLAC)_[C44CE886].mkv
 !new/[Coalgirls]_Kaichou_wa_Maid-sama_07_(1280x720_Blu-Ray_FLAC)_[2131EF65].mkv
 !new/[Coalgirls]_Kaichou_wa_Maid-sama_08_(1280x720_Blu-Ray_FLAC)_[B1EF7384].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_09_(1280x720_Blu-Ray_FLAC)_[6B621B6E].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_10_(1280x720_Blu-Ray_FLAC)_[FE7AEB80].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_11_(1280x720_Blu-Ray_FLAC)_[DF44D46E].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_12_(1280x720_Blu-Ray_FLAC)_[2811A4EB].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_13_(1280x720_Blu-Ray_FLAC)_[872C9FFD].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_14_(1280x720_Blu-Ray_FLAC)_[0B9F8CED].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_15_(1280x720_Blu-Ray_FLAC)_[C58369EE].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_16_(1280x720_Blu-Ray_FLAC)_[B6B40067].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_17_(1280x720_Blu-Ray_FLAC)_[040E9E21].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_18_(1280x720_Blu-Ray_FLAC)_[024C8909].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_19_(1280x720_Blu-Ray_FLAC)_[BD459FEA].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_20_(1280x720_Blu-Ray_FLAC)_[88714B5B].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_21_(1280x720_Blu-Ray_FLAC)_[E37A94F8].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_22_(1280x720_Blu-Ray_FLAC)_[EE73DD56].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_23_(1280x720_Blu-Ray_FLAC)_[0E0F97C2].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_24_(1280x720_Blu-Ray_FLAC)_[2068EDDE].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_25_(1280x720_Blu-Ray_FLAC)_[B93B07AC].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_26_(1280x720_Blu-Ray_FLAC)_[24481D86].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_27_(1280x720_Blu-Ray_FLAC)_[E2F1AAEE].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_ED1_(1280x720_Blu-Ray_FLAC)_[96FF0036].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_ED2_(1280x720_Blu-Ray_FLAC)_[A357D4FF].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_OP1_(1280x720_Blu-Ray_FLAC)_[6FB776EF].mkv
 !new/[Commie] The World God Only Knows S2 - 07 [287AE9A7].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.15.[1280x720].[3F2ABE5E].mkv
 !new/[EAC]TVアニメ「Aチャンネル」OPテーマ 「Morning Arch」[DVD付]／河野マリナ(ape+cue+jpg+iso).zip
