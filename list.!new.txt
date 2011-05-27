@@ -838,20 +838,80 @@
 !new/Yamato/s3/YAMATO 3x24 - Secret of Planet Guardiana.mkv
 !new/Yamato/s3/YAMATO 3x25 - Yamato, Shoot that Sun!.mkv
 !new/Yamato/s3/Yamato 3x01.mkv
+!new/[Coalgirls]_Clannad_~After_Story~_01_(1920x1080_Blu-Ray_FLAC)_[3B9F4B48].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_02_(1920x1080_Blu-Ray_FLAC)_[E17F731C].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_03_(1920x1080_Blu-Ray_FLAC)_[90B7FEE2].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_04_(1920x1080_Blu-Ray_FLAC)_[6226DB47].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_05_(1920x1080_Blu-Ray_FLAC)_[FBCF3FE4].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_06_(1920x1080_Blu-Ray_FLAC)_[BC978A8A].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_07_(1920x1080_Blu-Ray_FLAC)_[EF33CDC3].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_08_(1920x1080_Blu-Ray_FLAC)_[A4ABF28A].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_09_(1920x1080_Blu-Ray_FLAC)_[897D4DCB].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_10_(1920x1080_Blu-Ray_FLAC)_[708CDB09].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_11_(1920x1080_Blu-Ray_FLAC)_[306D0032].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_12_(1920x1080_Blu-Ray_FLAC)_[5FD7E5E1].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_13_(1920x1080_Blu-Ray_FLAC)_[466364B1].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_14_(1920x1080_Blu-Ray_FLAC)_[FDD093F6].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_15_(1920x1080_Blu-Ray_FLAC)_[45BCA88B].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_16_(1920x1080_Blu-Ray_FLAC)_[E4FA463A].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_17_(1920x1080_Blu-Ray_FLAC)_[31623D17].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_18_(1920x1080_Blu-Ray_FLAC)_[A0B63BF3].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_19_(1920x1080_Blu-Ray_FLAC)_[E37CA9EE].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_20_(1920x1080_Blu-Ray_FLAC)_[87EA66C5].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_21_(1920x1080_Blu-Ray_FLAC)_[88665621].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_22_(1920x1080_Blu-Ray_FLAC)_[E47C33E6].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_23_(1920x1080_Blu-Ray_FLAC)_[7C952B55].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_24_(1920x1080_Blu-Ray_FLAC)_[A7370313].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_25_(1920x1080_Blu-Ray_FLAC)_[2B485D30].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_ED1_(1920x1080_Blu-Ray_FLAC)_[C808621E].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_ED2_(1920x1080_Blu-Ray_FLAC)_[129EB38E].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_ED3_(1920x1080_Blu-Ray_FLAC)_[B0E4D8E2].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_ED4_(1920x1080_Blu-Ray_FLAC)_[138ED671].mkv
+!new/[Coalgirls]_Clannad_~After_Story~_OP_(1920x1080_Blu-Ray_FLAC)_[A18048F1].mkv
+!new/[Coalgirls]_Highschool_of_the_Dead_01_(1920x1080_Blu-Ray_FLAC)_[90CC6DC1].mkv
+!new/[Coalgirls]_Highschool_of_the_Dead_02_(1920x1080_Blu-Ray_FLAC)_[7F460EF0].mkv
+!new/[Coalgirls]_Highschool_of_the_Dead_03_(1920x1080_Blu-Ray_FLAC)_[1609D8E7].mkv
+!new/[Coalgirls]_Highschool_of_the_Dead_04_(1920x1080_Blu-Ray_FLAC)_[5A625253].mkv
+!new/[Coalgirls]_Highschool_of_the_Dead_05_(1920x1080_Blu-Ray_FLAC)_[87EB2EF2].mkv
+!new/[Coalgirls]_Highschool_of_the_Dead_06_(1920x1080_Blu-Ray_FLAC)_[00AF0C10].mkv
+!new/[Coalgirls]_Highschool_of_the_Dead_07_(1920x1080_Blu-Ray_FLAC)_[03B9B051].mkv
+!new/[Coalgirls]_Highschool_of_the_Dead_08_(1920x1080_Blu-Ray_FLAC)_[E709A4C5].mkv
+!new/[Coalgirls]_Highschool_of_the_Dead_09_(1920x1080_Blu-Ray_FLAC)_[4F8C5F4A].mkv
+!new/[Coalgirls]_Highschool_of_the_Dead_10_(1920x1080_Blu-Ray_FLAC)_[BF7DA462].mkv
+!new/[Coalgirls]_Highschool_of_the_Dead_11_(1920x1080_Blu-Ray_FLAC)_[B366C657].mkv
+!new/[Coalgirls]_Highschool_of_the_Dead_12_(1920x1080_Blu-Ray_FLAC)_[50D1D70E].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_01_(1280x720_Blu-Ray_FLAC)_[4AD4045A].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_02_(1280x720_Blu-Ray_FLAC)_[D310B097].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_03_(1280x720_Blu-Ray_FLAC)_[28F43984].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_04_(1280x720_Blu-Ray_FLAC)_[B535B83D].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_05_(1280x720_Blu-Ray_FLAC)_[9B0C94D2].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_06_(1280x720_Blu-Ray_FLAC)_[C44CE886].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_07_(1280x720_Blu-Ray_FLAC)_[2131EF65].mkv
+!new/[Coalgirls]_Kaichou_wa_Maid-sama_08_(1280x720_Blu-Ray_FLAC)_[B1EF7384].mkv
 !new/[Commie] The World God Only Knows S2 - 07 [287AE9A7].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.15.[1280x720].[3F2ABE5E].mkv
 !new/[EAC]TVアニメ「Aチャンネル」OPテーマ 「Morning Arch」[DVD付]／河野マリナ(ape+cue+jpg+iso).zip
 !new/[EAC]TVアニメ「まりあ†ほりっく あらいぶ」OPEDテーマ 「るんるんりる らんらんらら・どうにもとまらない」／小林ゆう、天の妃少女合唱団(ape+cue+jpg).zip
+!new/[EAC]TVアニメ「もしドラ」EDテーマ 「大好きだよ」[初回限定盤]／momo(wav+cue).zip
+!new/[EAC]TVアニメ「もしドラ」OPテーマ 「夢ノート」[特別盤]／azusa(wav+cue).zip
 !new/[EAC]TVアニメ「星空へ架かる橋」EDテーマ 「だっしゅどシンデレラ」／中津川初(CV：中村繪里子)&本円佳(CV：清水愛)(ape+cue+jpg).zip
 !new/[EAC]TVアニメ「星空へ架かる橋」OPテーマ 「星風のホロスコープ」／のみこ(ape+cue+jpg).zip
+!new/[HorribleSubs] Naruto Shippuuden - 213 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 08 [720p].mkv
+!new/[HorribleSubs] SKET Dance - 08v2 [720p].mkv
 !new/[KiteSeekers-Kira] Lovely Complex - 06 [DVD H264 720x480] [CFB03777].mkv
 !new/[Licca] Happy Kappi Episode 08 (h.264) [DFA76B77].mkv
 !new/[Nipponsei] A Channel OP Single - Morning Arch [Kawano Marina].zip
 !new/[Nipponsei] Maria Holic Alive OP ED Single - Runrunriru Ranranrara [Various].zip
 !new/[Nutbladder]_Kaiji_S2_-_08_[28493786].mkv
+!new/[RANDOMFAGGOTS]_Kaiji_-_Life_Reversal_Game_DVD_-_Cast_Interview_[A4C6EC86].mkv
+!new/[RANDOMFAGGOTS]_Kaiji_-_Life_Reversal_Game_DVD_-_Extra_DVD_Trailers_[A7772B65].mkv
+!new/[RANDOMFAGGOTS]_Kaiji_-_Life_Reversal_Game_DVD_Trailer_[45FFA0DD].mkv
+!new/[RANDOMFAGGOTS]_Kaiji_-_Life_Reversal_Game_DVD_[JAP SUB ENG][5DBC41E0].mkv
 !new/[RyRo]_Digimon_Xros_Wars_-_37_(1280x720_x264_AAC)_[222FBEE2].mkv
 !new/[RyRo]_Inazuma_Eleven_GO_-_003_(720p)_[BB4495C8].mkv
+!new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 11 [1080p - Bluray][9B16322C].mkv
+!new/[Ryuumaru] Hyakka Ryouran Samurai Girls - 12 [1080p - Bluray][877E9865].mkv
 !new/[Shin-S] A Channel OP Single - Morning Arch [Kawano Marina].zip
 !new/[Shin-S] Hoshizora e Kakaru Hashi ED Single - Dash do Cinderella [Nakamura Eriko & Shimizu Ai].zip
 !new/[Shin-S] IS ~Infinite Stratos~ Character Song CD Vol.2 - Cecilia [Yukana].zip
@@ -871,6 +931,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[Underwater-Commie] Denpa Onna to Seishun Otoko - 07 (720p) [FC850BBC].mkv
 !new/[yibis]_One_Piece_497_[720p][0ABA49D2].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
