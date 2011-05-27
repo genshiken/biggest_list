@@ -27,6 +27,7 @@ incomplete/A Channel/[EveTaku] A Channel - 04 [v2 720p][5935FBCC].mkv
 incomplete/A Channel/[EveTaku] A Channel - 05 [v2 720p][4C63E9C9].mkv
 incomplete/A Channel/[EveTaku] A Channel - 06 [v2 720p][15D17E74].mkv
 incomplete/A Channel/[EveTaku] A Channel - 07 [720p][60B3D854].mkv
+incomplete/A Channel/[EveTaku] A Channel - 08 [720p][B10126D9].mkv
 incomplete/A Channel/[pwq] A Channel - 01 [604D6752].mkv
 incomplete/A Channel/[pwq] A Channel - 02 [D1258910].mkv
 incomplete/A Channel/[pwq] A Channel - 03 [DB098148].mkv
@@ -79,6 +80,7 @@ incomplete/Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai/[gg] Ano Hi Mi
 incomplete/Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai/[gg] Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai - 04 [E4236632].mkv
 incomplete/Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai/[gg] Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai - 05 [18CAE84F].mkv
 incomplete/Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai/[gg] Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai - 06 [DBA309AC].mkv
+incomplete/Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai/[gg] Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai - 07 [DF4FE748].mkv
 incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 01 [v2 720p][8A0720BE].mkv
 incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 02 [720p][35D8C4AB].mkv
 incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 03 [720p][1D7B4677].mkv
@@ -739,13 +741,15 @@ incomplete/Denpa Onna to Seishun Otoko/[Mazui] Denpa Onna to Seishun Otoko - 02 
 incomplete/Denpa Onna to Seishun Otoko/[Mazui] Denpa Onna to Seishun Otoko - 03 [5937CC22].mkv
 incomplete/Denpa Onna to Seishun Otoko/[Mazui] Denpa Onna to Seishun Otoko - 04 [42390F88].mkv
 incomplete/Denpa Onna to Seishun Otoko/[Mazui] Denpa Onna to Seishun Otoko - 05 [244C22FB].mkv
-incomplete/Denpa Onna to Seishun Otoko/[Mazui] Denpa Onna to Seishun Otoko - 06 [4F78438D].mkv
+incomplete/Denpa Onna to Seishun Otoko/[Mazui] Denpa Onna to Seishun Otoko - 06 [v2][636EA4DA].mkv
+incomplete/Denpa Onna to Seishun Otoko/[Mazui] Denpa Onna to Seishun Otoko - 07 [2FD83E1C].mkv
 incomplete/Denpa Onna to Seishun Otoko/[Underwater-Commie] Denpa Onna to Seishun Otoko - 01 [720p][8A3C0C90].mkv
 incomplete/Denpa Onna to Seishun Otoko/[Underwater-Commie] Denpa Onna to Seishun Otoko - 02 [720p][991EC2B9].mkv
 incomplete/Denpa Onna to Seishun Otoko/[Underwater-Commie] Denpa Onna to Seishun Otoko - 03 [720p][C517D7E6].mkv
 incomplete/Denpa Onna to Seishun Otoko/[Underwater-Commie] Denpa Onna to Seishun Otoko - 04 [720p][ADA6719B].mkv
 incomplete/Denpa Onna to Seishun Otoko/[Underwater-Commie] Denpa Onna to Seishun Otoko - 05 [720p][D0289B81].mkv
 incomplete/Denpa Onna to Seishun Otoko/[Underwater-Commie] Denpa Onna to Seishun Otoko - 06 [720p][B147CBD6].mkv
+incomplete/Denpa Onna to Seishun Otoko/[Underwater-Commie] Denpa Onna to Seishun Otoko - 07 [720p][D4FC82E7].mkv
 incomplete/Denpa Teki na Kanojo/[Ayako] Denpa Teki na Kanojo - 1 [DVD][549F83BE].mkv
 incomplete/Denpa Teki na Kanojo/[Ayako] Denpa Teki na Kanojo - 2 [DVD][EEA3AB90].mkv
 incomplete/Detective Conan OVA/Detective Conan OVA - Magic File 5 [DCTP][0AF4137E].mp4
@@ -944,6 +948,7 @@ incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 33 [720p][943370F2].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 34 [720p][024A589F].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 35 [720p][0D5488A2].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 36 [720p][B8A41327].mkv
+incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 37 [720p][222FBEE2].mkv
 incomplete/Dirty Pair TV/[FLF & L-E] Dirty Pair TV - 01 [9689517F].mkv
 incomplete/Dirty Pair TV/[FLF & L-E] Dirty Pair TV - 02 [793D547A].mkv
 incomplete/Dirty Pair TV/[FLF & L-E] Dirty Pair TV - 03 [AEF9424F].mkv
@@ -1534,7 +1539,6 @@ incomplete/Hanasakeru Seishounen/[m.3.3.w] Hanasakeru Seishounen - 10 [96B46865]
 incomplete/Hanasakeru Seishounen/[m.3.3.w] Hanasakeru Seishounen - 11 [FD41BDAB].mkv
 incomplete/Hanasakeru Seishounen/[m.3.3.w] Hanasakeru Seishounen - 12 [6EECC837].mkv
 incomplete/Hanasakeru Seishounen/[m.3.3.w] Hanasakeru Seishounen - 12.5 [43281E55].mkv
-incomplete/Hanasaku Iroha/[HorribleSubs] Hanasaku Iroha - 08 [720p][4BFC79CE].mkv
 incomplete/Hanasaku Iroha/[Underwater-Commie] Hanasaku Iroha - 01 [720p][CC2E52C9].mkv
 incomplete/Hanasaku Iroha/[Underwater-Commie] Hanasaku Iroha - 02 [720p][F3363342].mkv
 incomplete/Hanasaku Iroha/[Underwater-Commie] Hanasaku Iroha - 03 [720p][A043409B].mkv
@@ -1542,6 +1546,7 @@ incomplete/Hanasaku Iroha/[Underwater-Commie] Hanasaku Iroha - 04 [720p][B4C72BF
 incomplete/Hanasaku Iroha/[Underwater-Commie] Hanasaku Iroha - 05 [720p][E8FF277B].mkv
 incomplete/Hanasaku Iroha/[Underwater-Commie] Hanasaku Iroha - 06 [720p][D8DC47E4].mkv
 incomplete/Hanasaku Iroha/[Underwater-Commie] Hanasaku Iroha - 07 [720p][01B2F0CE].mkv
+incomplete/Hanasaku Iroha/[Underwater-Commie] Hanasaku Iroha - 08 [720p][D2D556E8].mkv
 incomplete/Happy Happy Clover/[Yoroshiku] Happy Happy Clover - 01 [E96A9A3F].mkv
 incomplete/Happy Happy Clover/[Yoroshiku] Happy Happy Clover - 02 [0D3C76FC].mkv
 incomplete/Happy Happy Clover/[Yoroshiku] Happy Happy Clover - 03 [95A5E181].mkv
@@ -1562,6 +1567,7 @@ incomplete/Happy Kappi/[Licca] Happy Kappi - 04 [DCA4C916].mkv
 incomplete/Happy Kappi/[Licca] Happy Kappi - 05 [7D7EA808].mkv
 incomplete/Happy Kappi/[Licca] Happy Kappi - 06 [D664421E].mkv
 incomplete/Happy Kappi/[Licca] Happy Kappi - 07 [994725DB].mkv
+incomplete/Happy Kappi/[Licca] Happy Kappi - 08 [DFA76B77].mkv
 incomplete/Hell Teacher Nube/[ANFS] Hell Teacher Nube - 09 [01E61B16].avi
 incomplete/Hell Teacher Nube/[Flomp] Hell Teacher Nube - 10 [4F190991].mkv
 incomplete/Hell Teacher Nube/[Yami] Hell Teacher Nube - 11 [061B3E8E].avi
@@ -1711,6 +1717,7 @@ incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 07 [v2][2B25B6F8].mkv
 incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 08 [E1DACAE0].mkv
 incomplete/Inazuma Eleven GO/[RyRo] Inazuma Eleven GO - 001 [720p][2668855F].mkv
 incomplete/Inazuma Eleven GO/[RyRo] Inazuma Eleven GO - 002 [720p][04B18A67].mkv
+incomplete/Inazuma Eleven GO/[RyRo] Inazuma Eleven GO - 003 [720p][BB4495C8].mkv
 incomplete/Initial D Battle Stage/[Shinsen-Subs] Initial D Battle Stage - 2 [End][B54855AA].mkv
 incomplete/Iron Man/[Force-Works] Iron Man - 01 [A66813DB].mkv
 incomplete/Iron Man/[Force-Works] Iron Man - 02 [2D05AB2F].mkv
@@ -1749,28 +1756,6 @@ incomplete/Juuni Kokuki/[Arigatou] Juuni Kokuki - 01 [800E8F88].mkv
 incomplete/Juushin Enbu - Hero Tales/[DATS] Juushin Enbu - Hero Tales - 03 (1280x720) [3BD687F3].mkv
 incomplete/Juushin Enbu - Hero Tales/[Gekkostate] Juushin Enbu - Hero Tales - 01 (1024x576) [A06DD797].mp4
 incomplete/Kaibutsu Oujo OVA/[Ayako] Kaibutsu Oujo OVA - 01 [DVD][58E20764].mkv
-incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 01 (1280x720) [149F1EB5].mkv
-incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 02 (1280x720) [A3508CA2].mkv
-incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 03 (1280x720) [F0D374A8].mkv
-incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 04 (1280x720) [360F9350].mkv
-incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 05 (1280x720) [448B74D5].mkv
-incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 06 (1280x720) [E3AE215D].mkv
-incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 07 (1280x720) [A631E452].mkv
-incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 08 (1280x720) [11F2D599].mkv
-incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 09 (1280x720) [EBBEC323].mkv
-incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 10 (1280x720) [90D979DC].mkv
-incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 11 (1280x720) [F677D786].mkv
-incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 12 (1280x720) [AC3283F9].mkv
-incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 13 (1280x720) [606E6108].mkv
-incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 14 (1280x720) [4F034DDF].mkv
-incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 15 (1280x720) [D9518632].mkv
-incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 16 (1280x720) [61EF13A9].mkv
-incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 17 (1280x720) [B6FBB919].mkv
-incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 18 (1280x720) [75E1C621].mkv
-incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 19 (1280x720) [C7DB7C56].mkv
-incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 20 (1280x720) [EB931407].mkv
-incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 21 (1280x720) [29D4F4BF].mkv
-incomplete/Kaichou wa Maid-sama/[Eclipse] Kaichou wa Maid-sama - 22 (1280x720) [52442369].mkv
 incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 01 [D721C8A7].mkv
 incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 02 [096DDC1E].mkv
 incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 03 [81E952E7].mkv
@@ -1778,6 +1763,7 @@ incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 04 [165ECBA7].mkv
 incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 05 [ABA7F787].mkv
 incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 06 [E8CEF9A4].mkv
 incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 07 [D6221284].mkv
+incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 08 [28493786].mkv
 incomplete/Kaiji S2/[Underwater-Commie] Kaiji S2 - 05 [720p][75CAF914].mkv
 incomplete/Kamichama Karin/[Kedex] Kamichama Karin - 01 [77A49DFF].avi
 incomplete/Kamichama Karin/[Kedex] Kamichama Karin - 02 [4D18F7AF].avi
@@ -2335,6 +2321,7 @@ incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 209 [720p][95095
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 210 [720p][D3EFF23F].mkv
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 211 [720p][ADD66025].mkv
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 212 [720p][A7757259].mkv
+incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 213 [720p][532F8649].mkv
 incomplete/Nessa no Haou Gandalla/[ARR] Nessa no Haou Gandalla - 01 [52EBCAF2].mkv
 incomplete/Nichijou/[UTW] Nichijou - 00 [LQ][5E9D0BF4].mkv
 incomplete/Nichijou/[Underwater-Commie] Nichijou - 01 [720p][99B70B42].mkv
@@ -2913,6 +2900,7 @@ incomplete/One Piece/One Piece - 493 [yibis][720p][B258A903].mkv
 incomplete/One Piece/One Piece - 494 [yibis][720p][66227CF8].mkv
 incomplete/One Piece/One Piece - 495 [yibis][720p][1F74F81A].mkv
 incomplete/One Piece/One Piece - 496 [yibis][720p][9FDBF72D].mkv
+incomplete/One Piece/One Piece - 497 [yibis][720p][0ABA49D2].mkv
 incomplete/One Piece/One Piece - Opening 7 [Vegapunk][720p][6B7F029D].mp4
 incomplete/One Piece/One Piece - Opening 8 [Vegapunk][720p][D45E5410].mp4
 incomplete/One Piece/One Piece - Special 1 [K-F][DVD][DF62ACA0].avi
@@ -3158,6 +3146,7 @@ incomplete/SKET Dance/[HorribleSubs] SKET Dance - 04 [720p][B757471F].mkv
 incomplete/SKET Dance/[HorribleSubs] SKET Dance - 05 [720p][6ACC6D73].mkv
 incomplete/SKET Dance/[HorribleSubs] SKET Dance - 06 [720p][702DE346].mkv
 incomplete/SKET Dance/[HorribleSubs] SKET Dance - 07 [720p][169DB232].mkv
+incomplete/SKET Dance/[HorribleSubs] SKET Dance - 08 [v2 720p][698602F7].mkv
 incomplete/Saint October/[AoG] Saint October - 14 [8A7C9F10].mkv
 incomplete/Saint October/[AoG] Saint October - 15 [2D340C11].mkv
 incomplete/Saint October/[AoG] Saint October - 16 [C508CCC8].mkv
@@ -3299,6 +3288,8 @@ incomplete/Softenni/[Ayako-Nishishi] Softenni - 01 [720p][A13C299A].mkv
 incomplete/Softenni/[Ayako-Nishishi] Softenni - 02 [720p][A48E8D59].mkv
 incomplete/Softenni/[Ayako-Nishishi] Softenni - 03 [720p][4FEC2634].mkv
 incomplete/Softenni/[Ayako-Nishishi] Softenni - 04 [720p][3E3D55D9].mkv
+incomplete/Softenni/[Ayako-Nishishi] Softenni - 05 [720p][58111C0C].mkv
+incomplete/Softenni/[Ayako-Nishishi] Softenni - 06 [720p][7E78C35F].mkv
 incomplete/Softenni/[Hiryuu] Softenni - 05 [720p][446E704D].mkv
 incomplete/Softenni/[Hiryuu] Softenni - 06 [720p][77BC7E60].mkv
 incomplete/Sonic X/[Unknown] Sonic X - 28 [A5679B5A].avi
@@ -3420,6 +3411,7 @@ incomplete/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 11 [720p][28559A8B].
 incomplete/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 12 [720p][D4357D74].mkv
 incomplete/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 13 [720p][00A03568].mkv
 incomplete/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 14 [720p][2D782213].mkv
+incomplete/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 15 [720p][3F2ABE5E].mkv
 incomplete/Suite PreCure!/[Nutbladder] Suite Precure - 01 [3DA27245].mkv
 incomplete/Suite PreCure!/[Nutbladder] Suite Precure - 02 [819AAD27].mkv
 incomplete/Suite PreCure!/[Nutbladder] Suite Precure - 03 [600FA473].mkv
@@ -3512,6 +3504,7 @@ incomplete/The World God Only Knows S2/[Commie] The World God Only Knows S2 - 03
 incomplete/The World God Only Knows S2/[Commie] The World God Only Knows S2 - 04 [E3719C1C].mkv
 incomplete/The World God Only Knows S2/[Commie] The World God Only Knows S2 - 05 [662734EF].mkv
 incomplete/The World God Only Knows S2/[Commie] The World God Only Knows S2 - 06 [8541961D].mkv
+incomplete/The World God Only Knows S2/[Commie] The World God Only Knows S2 - 07 [287AE9A7].mkv
 incomplete/The World God Only Knows S2/[HorribleSubs] The World God Only Knows 2 - 07 [720p][638852CA].mkv
 incomplete/Tiger & Bunny/[Commie] Tiger & Bunny - 01 [39E1E59A].mkv
 incomplete/Tiger & Bunny/[Commie] Tiger & Bunny - 02 [521D1EE6].mkv
