@@ -67,6 +67,56 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 01 [178529E3].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 02 [B8D325DC].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 03 [31E5F053].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 04 [76382DC6].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 05 [E90B16EC].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 06 [717E534C].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 07 [31BD9A0A].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 08 [35941CBB].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 09 [48A239DB].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 10 [F02B29B3].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 11 [D307A2C3].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 12 [7D752621].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 13 [502E01DD].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 14 [35D8A6B1].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 15 [508A03A8].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 16 [E556D4C7].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 17 [CF1A25F1].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 18 [DDA82CEE].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 19 [D1FBE097].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 20 [C93572E8].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 21 [FFFEFACD].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 22 [v2][16D5AF29].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 23 [CC0BFD51].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 24 [0272DD4D].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 25 [221D2C75].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 26 [330DE21F].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 27 [F404196E].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 28 [DD49CB19].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 29 [DC7A5FE1].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 30 [FAB07BBC].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 31 [F89AB64B].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 32 [F77C8EE1].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 33 [71D2F884].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 34 [9EB771DF].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 35 [2C508CA0].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 36 [06AFC2D0].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 37 [5F6D06E0].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 38 [B2137B33].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 39 [0AEA5169].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 40 [6650D74E].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 41 [DB2D881D].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 42 [0F417CDB].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 43 [3ECB2DE3].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 44 [551AD961].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 45 [94EEEEAA].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 46 [79A1B213].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 47 [AA242E44].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 48 [0380D539].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 49 [D133B4DC].avi
+!new/Digimon Frontier/[wpp] Digimon Frontier - 50 [D6B28128].avi
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -91,6 +141,9 @@
 !new/Dragon Ball/Movie - 06 - Return Of Cooler.rmvb
 !new/Dragon Ball/Movie - 08 - Broly The Legendary Super Saiyan.rmvb
 !new/Dragon Ball/Movie - 09 - Bojack Unbound.rmvb
+!new/Kaiji Live Action/[RANDOMFAGGOTS] Kaiji - Life Reversal Game [DVD] - Extra DVD Trailers [A7772B65].mkv
+!new/Kaiji Live Action/[RANDOMFAGGOTS] Kaiji - Life Reversal Game [DVD] Trailer [45FFA0DD].mkv
+!new/Kaiji Live Action/[RANDOMFAGGOTS] Kaiji - Life Reversal Game [DVD][JAP SUB ENG][5DBC41E0].mkv
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_01_[Anime-Empire_&_Aoshi].avi
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_02_[Anime-Empire_&_Aoshi].avi
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_03_[Anime-Empire_&_Aoshi].avi
@@ -838,29 +891,6 @@
 !new/Yamato/s3/YAMATO 3x24 - Secret of Planet Guardiana.mkv
 !new/Yamato/s3/YAMATO 3x25 - Yamato, Shoot that Sun!.mkv
 !new/Yamato/s3/Yamato 3x01.mkv
-!new/[A-Destiny_SGKK] Toriko - 08 (1280x720 H264 AAC) [77BB2CB5].mkv
-!new/[ASL]_Itou_Kanae_-_Softenni_ED_-_Tsumasakidachi_[FLAC]_[w_Scans].rar
-!new/[ASL]_PSYCHIC_LOVER_-_Rewrite_2nd_OP_Theme_-_Rewrite_[FLAC].rar
-!new/[ASL]_Various_Artists_-_Itsuka,_Todoku,_Ano_Sora_ni._ ~Precious_Selection~_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artists_-_Maria_Holic_-_Alive_OP_ED_-_runrun_riru_ranran_rara_._dounimo_tomaranai_[FLAC]_[w_Scans].rar
-!new/[ASL]_Yukana_-_IS_Character_Vol_Song_CD_Vol._2_- _Cecilia_[FLAC]_[w_Scans].rar
-!new/[Coalgirls]_Dragon_Crisis_07_(1280x720_Blu-Ray_FLAC)_[096364C7].mkv
-!new/[Coalgirls]_Dragon_Crisis_08_(1280x720_Blu-Ray_FLAC)_[824E7813].mkv
-!new/[Commie] Steins;Gate - 08 [9A8D9ED2].mkv
-!new/[Commie] X-Men - 08 [8CD19ABA].mkv
-!new/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_17_[fe3c778b].avi
-!new/[Hiryuu] Freezing SP03 [BD 1280x720 H264 AAC] [E9C89E79].mkv
-!new/[Hiryuu] Softenni 07 [1280x720 H264 AAC] [850FC596].mkv
-!new/[HorribleSubs] Fairy Tail - 81 [720p].mkv
-!new/[HorribleSubs] Ore-tachi Ni Tsubasa wa Nai - 08 [720p].mkv
-!new/[HorribleSubs] Sekai-ichi Hatsukoi - 08 [720p].mkv
-!new/[Nipponsei] Kore wa Zombie Desu ka Mecha Sounyuuka & Mecha Soundtrack Bangai Hen.zip
-!new/[Nipponsei] Ore no Imouto ga Konna ni Kawaii Wake ga nai ED11 ED12 Single - Akihabara Dance Now!! [Various].zip
-!new/[Nutbladder]_Katte_ni_Kaizo_-_01v0_[57C1DB44].mkv
-!new/[RANDOMFAGGOTS]_Kaiji_-_Life_Reversal_Game_DVD_-_Extra_DVD_Trailers_[A7772B65].mkv
-!new/[RANDOMFAGGOTS]_Kaiji_-_Life_Reversal_Game_DVD_Trailer_[45FFA0DD].mkv
-!new/[RANDOMFAGGOTS]_Kaiji_-_Life_Reversal_Game_DVD_[JAP SUB ENG][5DBC41E0].mkv
-!new/[Saizen]_Captain_Tsubasa_Road_to_2002_-_24_[DVD][CA28A0EB].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -876,12 +906,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[UTW]_Ano_Hana_-_07_[h264-720p][1CED464E].mkv
-!new/[UTW]_Hidan_no_Aria_-_07_[h264-720p][610F991F].mkv
-!new/[WhyNot] Hen Zemi - 08 [Uncensored][87ED33A4].mkv
-!new/[gg]_C_The_Money_of_Soul_and_Possibility_Control_-_07_[5B7CC7D7].mkv
-!new/[gg]_Dororon_Enma-kun_Meramera_-_08_[EC7346DD].mkv
-!new/[yibis]_One_Piece_498_[720p][B25D9774].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
