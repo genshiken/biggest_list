@@ -856,6 +856,7 @@
 !new/[ASL]_Various_Artists_-_ORANGE_CANDY_BOX_-Angel_Note_Best_Collection_8-_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_ED_11_&_12_-_Akihabara_Dance_Nau!!_ Tadaima._[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Touhou_Middonaito_MAXIMUM_TUNE_Gaiden_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Worlds_and_World's_end_Original_Soundtrack_-_Sekai_no_Owaru,_Sono_Hi_made_[FLAC]_[w_Scans].rar
 !new/[ASL]_nao_-_Hyperdimension_Neptunia_OP_-_Ryuusei_no_Bifrost_[FLAC].rar
 !new/[Ayako-Nishishi]_Softenni_-_07_[720p][B08C01DE].mkv
 !new/[Ayako-Nishishi]_Softenni_-_08_[720p][BC0D635D].mkv
@@ -909,12 +910,17 @@
 !new/[HorribleSubs] Battle Girls - Time Paradox - 09 [720p].mkv
 !new/[HorribleSubs] Bleach - 324 [720p].mkv
 !new/[HorribleSubs] Gintama - 210 [720p].mkv
+!new/[HorribleSubs] Hoshizora e Kakaru Hashi - 08 [720p].mkv
+!new/[HorribleSubs] Naruto Shippuuden - 214 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 09 [720p].mkv
 !new/[HorribleSubs] Steins;Gate - 09 [720p].mkv
 !new/[HorribleSubs] The World God Only Knows 2 - 08v2 [720p].mkv
 !new/[Licca] Happy Kappi Episode 09 (h.264) [F17C1040].mkv
 !new/[Licca] Pollyanna Episode 19 (h.264) [3D67D12D].mkv
+!new/[Mamiko]_RO-KYU-BU!_PV1_[720p][72BE4871].mkv
+!new/[Mazui]_Denpa_Onna_to_Seishun_Otoko_-_08_[C985D5F4].mkv
 !new/[Mazui]_Ore_No_Imouto_-_15_[7E4F6F44].mkv
+!new/[Nutbladder]_Kaiji_S2_-_09_[E7BB2401].mkv
 !new/[PM]Pocket_Monsters_Best_Wishes_035_Gamagaru_and_Muggyo!_Battle_at_the_Waterfront!![H264_720P][6AD53513].mkv
 !new/[Saizen]_Captain_Tsubasa_Road_to_2002_-_25_[DVD][67C34094].mkv
 !new/[SubDesu] 30-sai no Hoken Taiiku - 08 (1280x720) [EE2862D6].mkv
@@ -935,10 +941,13 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[UTW]_Hidan_no_Aria_-_08_[h264-720p][D62B01B5].mkv
 !new/[UTW]_Kampfer_fur_die_Liebe_-_13v0_[BD][h264-1080p][1BE824E4].mkv
+!new/[Underwater-Commie] Denpa Onna to Seishun Otoko - 08 (720p) [129929E0].mkv
 !new/[Underwater-Commie] Hanasaku Iroha - 09 (720p) [5D006109].mkv
 !new/[Underwater-Commie] Kaiji S2 - 09 (720p) [237119CB].mkv
 !new/[gg]_Fireball_Charming_-_07_[495F2107].mkv
+!new/[gg]_Hidan_no_Aria_-_08_[39382D13].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
