@@ -92,7 +92,37 @@
 !new/Dragon Ball/Movie - 06 - Return Of Cooler.rmvb
 !new/Dragon Ball/Movie - 08 - Broly The Legendary Super Saiyan.rmvb
 !new/Dragon Ball/Movie - 09 - Bojack Unbound.rmvb
-!new/Info.txt
+!new/K-ON!!/[Elysium] K-ON!! - 01 [1080p BD][46681059].mkv
+!new/K-ON!!/[Elysium] K-ON!! - 02 [1080p BD][3C162847].mkv
+!new/K-ON!!/[Elysium] K-ON!! - 03 [1080p BD][F024CADA].mkv
+!new/K-ON!!/[Elysium] K-ON!! - 04 [1080p BD][9A171011].mkv
+!new/K-ON!!/[Elysium] K-ON!! - 05 [1080p BD][79BD309D].mkv
+!new/K-ON!!/[Elysium] K-ON!! - 06 [1080p BD][B520B32B].mkv
+!new/K-ON!!/[Elysium] K-ON!! - 07 [1080p BD][BB96795F].mkv
+!new/K-ON!!/[Elysium] K-ON!! - 08 [1080p BD][E3C0456F].mkv
+!new/K-ON!!/[Elysium] K-ON!! - 09 [1080p BD][8F892324].mkv
+!new/K-ON!!/[Elysium] K-ON!! - 10 [1080p BD][684056B6].mkv
+!new/K-ON!!/[Elysium] K-ON!! - 11 [1080p BD][1CEDA517].mkv
+!new/K-ON!!/[Elysium] K-ON!! - 12 [1080p BD][56E76311].mkv
+!new/K-ON!!/[Elysium] K-ON!! - 13 [1080p BD][7AD550BE].mkv
+!new/K-ON!!/[Elysium] K-ON!! - 14 [1080p BD][09BC5D74].mkv
+!new/K-ON!!/[Elysium] K-ON!! - 15 [1080p BD][D832DFD4].mkv
+!new/K-ON!!/[Elysium] K-ON!! - 16 [1080p BD][B9E0105D].mkv
+!new/K-ON!!/[Elysium] K-ON!! - 17 [1080p BD][B259C986].mkv
+!new/K-ON!!/[Elysium] K-ON!! - 18 [1080p BD][C6111A68].mkv
+!new/K-ON!!/[Elysium] K-ON!! - 19 [1080p BD][34ECF840].mkv
+!new/K-ON!!/[Elysium] K-ON!! - 20 [1080p BD][BC9667AF].mkv
+!new/K-ON!!/[Elysium] K-ON!! - 21 [1080p BD][4FEBF7FF].mkv
+!new/K-ON!!/[Elysium] K-ON!! - 22 [1080p BD][8C712094].mkv
+!new/K-ON!!/[Elysium] K-ON!! - 23 [1080p BD][70D18643].mkv
+!new/K-ON!!/[Elysium] K-ON!! - 24 [1080p BD][372E1AA9].mkv
+!new/K-ON!!/[Elysium] K-ON!! - 25 [1080p BD][A736FA6D].mkv
+!new/K-ON!!/[Elysium] K-ON!! - 26 [End][1080p BD][ECC930FE].mkv
+!new/K-ON!!/[Elysium] K-ON!! - 27 OVA [1080p BD][10AB0198].mkv
+!new/K-ON!!/[Elysium] K-ON!! - Ending 1 [1080p BD][FC799547].mkv
+!new/K-ON!!/[Elysium] K-ON!! - Ending 2 [1080p BD][44D53C8D].mkv
+!new/K-ON!!/[Elysium] K-ON!! - Opening 1 [1080p BD][48887972].mkv
+!new/K-ON!!/[Elysium] K-ON!! - Opening 2 [1080p BD][608AFCF1].mkv
 !new/Kaiji Live Action/[RANDOMFAGGOTS] Kaiji - Life Reversal Game [DVD] - Extra DVD Trailers [A7772B65].mkv
 !new/Kaiji Live Action/[RANDOMFAGGOTS] Kaiji - Life Reversal Game [DVD] Trailer [45FFA0DD].mkv
 !new/Kaiji Live Action/[RANDOMFAGGOTS] Kaiji - Life Reversal Game [DVD][JAP SUB ENG][5DBC41E0].mkv
@@ -843,120 +873,6 @@
 !new/Yamato/s3/YAMATO 3x24 - Secret of Planet Guardiana.mkv
 !new/Yamato/s3/YAMATO 3x25 - Yamato, Shoot that Sun!.mkv
 !new/Yamato/s3/Yamato 3x01.mkv
-!new/[A-Destiny_SGKK] Toriko - 09 (1280x720 H264 AAC) [93CB8DB3].mkv
-!new/[ASL]_Nakajima_Megumi_-_Moshidora_-_If_[FLAC]_[w_Scans].rar
-!new/[ASL]_Nishizawa_Hagumi_-_Natsuyuki_~summer_snow~_Maxi_Single_-_Natsu_no_Hi_no_Refrain_[FLAC].rar
-!new/[ASL]_SMEE_-_~Lover_Able~_IcyaLove_Memorial_Sound_Collection_[FLAC].rar
-!new/[ASL]_Shimotsuki_Haruka_-_melodies_memories_[w_Scans]_[FLAC].rar
-!new/[ASL]_TAMUSIC_-_Angel_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Arists_-_Infinite_Stratos_ORIGINAL_SOUNDTRACK_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artist_-_Tiny_Dungeon_-BLACK_and_WHITE-_Original_Soundtrack_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artist_-_Twinkle_Crusaders_Kirakira_Sound_Stage_01_-_Herena_&_Melilot_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artist_-_Twinkle_Crusaders_Kirakira_Sound_Stage_02_-_Ria_&_Lolotte_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artist_-_Twinkle_Crusaders_Kirakira_Sound_Stage_03_-_Misa_&_Azel_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artist_-_Twinkle_Crusaders_Kirakira_Sound_Stage_04_-_Nanaka_&_Sacchin_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artist_-_Twinkle_Crusaders_Kirakira_Sound_Stage_05_-_Sio_&_Amylina_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artists_-_ Suzukaze_no_Melt_Original_Sound_Track_Melty_Wind_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artists_-_Artemis_Blue_Music_Selection_[FLAC].rar
-!new/[ASL]_Various_Artists_-_CURE_GIRL_Original_Sound_Track_II_[FLAC].rar
-!new/[ASL]_Various_Artists_-_CURE_GIRL_Original_Sound_Track_I_[FLAC].rar
-!new/[ASL]_Various_Artists_-_Flag_Heshiori_Otoko_Theme_Song_Maxi_CD_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artists_-_ORANGE_CANDY_BOX_-Angel_Note_Best_Collection_8-_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artists_-_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_ED_11_&_12_-_Akihabara_Dance_Nau!!_ Tadaima._[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artists_-_Touhou_Middonaito_MAXIMUM_TUNE_Gaiden_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artists_-_Worlds_and_World's_end_Original_Soundtrack_-_Sekai_no_Owaru,_Sono_Hi_made_[FLAC]_[w_Scans].rar
-!new/[ASL]_eufonius_-_bezel_[FLAC]_[w_Scans].rar
-!new/[ASL]_nao_-_Hyperdimension_Neptunia_OP_-_Ryuusei_no_Bifrost_[FLAC].rar
-!new/[AonE-Diffusion]xXxHoLic_-_Rou_Adayume_[DVD]_[CC01609E].mkv
-!new/[Ayako-Nishishi]_Softenni_-_07_[720p][B08C01DE].mkv
-!new/[Ayako-Nishishi]_Softenni_-_08_[720p][BC0D635D].mkv
-!new/[Ayako-Nishishi]_Softenni_-_09_[720p][AB749FBB].mkv
-!new/[Coalgirls]_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_01_(1280x720_Blu-Ray_FLAC)_[90C6DB31].mkv
-!new/[Coalgirls]_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_02_(1280x720_Blu-Ray_FLAC)_[C59F4CBE].mkv
-!new/[Coalgirls]_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_03_(1280x720_Blu-Ray_FLAC)_[0A3F633B].mkv
-!new/[Coalgirls]_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_04_(1280x720_Blu-Ray_FLAC)_[29FEF7D8].mkv
-!new/[Coalgirls]_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_05_(1280x720_Blu-Ray_FLAC)_[F24805D9].mkv
-!new/[Coalgirls]_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_06_(1280x720_Blu-Ray_FLAC)_[9BC0D2DE].mkv
-!new/[Coalgirls]_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_07_(1280x720_Blu-Ray_FLAC)_[BD1D3183].mkv
-!new/[Coalgirls]_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_08_(1280x720_Blu-Ray_FLAC)_[7B889599].mkv
-!new/[Coalgirls]_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_09_(1280x720_Blu-Ray_FLAC)_[376393BC].mkv
-!new/[Coalgirls]_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_10_(1280x720_Blu-Ray_FLAC)_[9ACCE98D].mkv
-!new/[Coalgirls]_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_11_(1280x720_Blu-Ray_FLAC)_[921AB821].mkv
-!new/[Coalgirls]_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_12_-_Good_End_(1280x720_Blu-Ray_FLAC)_[50B0D3F4].mkv
-!new/[Commie] Steins;Gate - 09 [E98BDFD9].mkv
-!new/[Commie] The World God Only Knows S2 - 08 [1F818EF7].mkv
-!new/[Commie] Tiger & Bunny - Pilot [BD 1080p AAC] [37A46231].mkv
-!new/[Doki] 30-sai no Hoken Taiiku - 08 (1280x720 h264 AAC) [4CAD0B6F].mkv
-!new/[Doremi-CureCom].Suite.PreCure!.16.[1280x720].[D7EC461B].mkv
-!new/[Doremi].Motto.Ojamajo.Doremi.46.[16264A23].avi
-!new/[Elysium]K-ON!!.ED1(BD.1080p.FLAC)[FC799547].mkv
-!new/[Elysium]K-ON!!.ED2(BD.1080p.FLAC)[44D53C8D].mkv
-!new/[Elysium]K-ON!!.EP01(BD.1080p.FLAC)[46681059].mkv
-!new/[Elysium]K-ON!!.EP02(BD.1080p.FLAC)[3C162847].mkv
-!new/[Elysium]K-ON!!.EP03(BD.1080p.FLAC)[F024CADA].mkv
-!new/[Elysium]K-ON!!.EP04(BD.1080p.FLAC)[9A171011].mkv
-!new/[Elysium]K-ON!!.EP05(BD.1080p.FLAC)[79BD309D].mkv
-!new/[Elysium]K-ON!!.EP06(BD.1080p.FLAC)[B520B32B].mkv
-!new/[Elysium]K-ON!!.EP07(BD.1080p.FLAC)[BB96795F].mkv
-!new/[Elysium]K-ON!!.EP08(BD.1080p.FLAC)[E3C0456F].mkv
-!new/[Elysium]K-ON!!.EP09(BD.1080p.FLAC)[8F892324].mkv
-!new/[Elysium]K-ON!!.EP10(BD.1080p.FLAC)[684056B6].mkv
-!new/[Elysium]K-ON!!.EP11(BD.1080p.FLAC)[1CEDA517].mkv
-!new/[Elysium]K-ON!!.EP12(BD.1080p.FLAC)[56E76311].mkv
-!new/[Elysium]K-ON!!.EP13(BD.1080p.FLAC)[7AD550BE].mkv
-!new/[Elysium]K-ON!!.EP14(BD.1080p.FLAC)[09BC5D74].mkv
-!new/[Elysium]K-ON!!.EP15(BD.1080p.FLAC)[D832DFD4].mkv
-!new/[Elysium]K-ON!!.EP16(BD.1080p.FLAC)[B9E0105D].mkv
-!new/[Elysium]K-ON!!.EP17(BD.1080p.FLAC)[B259C986].mkv
-!new/[Elysium]K-ON!!.EP18(BD.1080p.FLAC)[C6111A68].mkv
-!new/[Elysium]K-ON!!.EP19(BD.1080p.FLAC)[34ECF840].mkv
-!new/[Elysium]K-ON!!.EP20(BD.1080p.FLAC)[BC9667AF].mkv
-!new/[Elysium]K-ON!!.EP21(BD.1080p.FLAC)[4FEBF7FF].mkv
-!new/[Elysium]K-ON!!.EP22(BD.1080p.FLAC)[8C712094].mkv
-!new/[Elysium]K-ON!!.EP23(BD.1080p.FLAC)[70D18643].mkv
-!new/[Elysium]K-ON!!.EP24(BD.1080p.FLAC)[372E1AA9].mkv
-!new/[Elysium]K-ON!!.OP1(BD.1080p.FLAC)[48887972].mkv
-!new/[Elysium]K-ON!!.OP2(BD.1080p.FLAC)[608AFCF1].mkv
-!new/[Elysium]K-ON!!.SP01[EP25](BD.1080p.FLAC)[A736FA6D].mkv
-!new/[Elysium]K-ON!!.SP02[EP26](BD.1080p.FLAC)[ECC930FE].mkv
-!new/[Elysium]K-ON!!.SP03[EP27](BD.1080p.FLAC)[10AB0198].mkv
-!new/[EveTaku] A-Channel - 09 (1280x720 x264 AAC)[9768a7de].mkv
-!new/[Hiryuu-HiNA] Dog Days 09 [1280x720 H264 AAC] [D095F00D].mkv
-!new/[HorribleSubs] Battle Girls - Time Paradox - 09 [720p].mkv
-!new/[HorribleSubs] Bleach - 324 [720p].mkv
-!new/[HorribleSubs] Cardfight!! Vanguard - 21 [720p].mkv
-!new/[HorribleSubs] Fairy Tail - 82 [720p].mkv
-!new/[HorribleSubs] Gintama - 210 [720p].mkv
-!new/[HorribleSubs] Hoshizora e Kakaru Hashi - 08 [720p].mkv
-!new/[HorribleSubs] Naruto Shippuuden - 214 [720p].mkv
-!new/[HorribleSubs] Ore-tachi Ni Tsubasa wa Nai - 09 [720p].mkv
-!new/[HorribleSubs] SKET Dance - 09 [720p].mkv
-!new/[HorribleSubs] Sekai-ichi Hatsukoi - 09 [720p].mkv
-!new/[HorribleSubs] Steins;Gate - 09 [720p].mkv
-!new/[HorribleSubs] The World God Only Knows 2 - 08v2 [720p].mkv
-!new/[KiteSeekers-Kira] Lovely Complex - 07 [DVD H264 720x480] [2404C986].mkv
-!new/[Licca] Happy Kappi Episode 09 (h.264) [F17C1040].mkv
-!new/[Licca] Pollyanna Episode 19 (h.264) [3D67D12D].mkv
-!new/[Licca] Pollyanna Episode 20 (h.264) [DA4EE794].mkv
-!new/[Mamiko]_RO-KYU-BU!_PV1_[720p][72BE4871].mkv
-!new/[Mazui]_Denpa_Onna_to_Seishun_Otoko_-_08_[C985D5F4].mkv
-!new/[Mazui]_Ore_No_Imouto_-_15_[7E4F6F44].mkv
-!new/[Nipponsei] A Channel ED & Insert Song Single - Humming Girl [Various].zip
-!new/[Nipponsei] Fractale Original Soundtrack.zip
-!new/[Nutbladder]_Kaiji_S2_-_09_[E7BB2401].mkv
-!new/[Nutbladder]_Spelunker_is_a_teacher_[00589591].mkv
-!new/[Over-Time]_Kamen_Rider_OOO_-_36_[D3126360].mkv
-!new/[Over-Time]_Pirate_Sentai_Gokaiger_-_15_[AAEDABB0].mkv
-!new/[PM]Pocket_Monsters_Best_Wishes_035_Gamagaru_and_Muggyo!_Battle_at_the_Waterfront!![H264_720P][6AD53513].mkv
-!new/[ReDone] Soul Link - 10 (DVD) [7E1D731A].mkv
-!new/[RyRo]_Inazuma_Eleven_GO_-_004_(720p)_[CED96B44].mkv
-!new/[SHiN-gx] Yuri Seijin Naoko-san OVA [DVD][720x480 AR h.264 AC3][38E5436D].mkv
-!new/[Saizen-HnG]_Ashita_no_Joe_-_20_[DVD] [85E3FEF7].avi
-!new/[Saizen]_Captain_Tsubasa_Road_to_2002_-_25_[DVD][67C34094].mkv
-!new/[Shin-S] A Channel ED & Insert Song Single - Humming Girl [Various].zip
-!new/[SubDesu] 30-sai no Hoken Taiiku - 08 (1280x720) [EE2862D6].mkv
-!new/[SubDesu] Seikon no Qwaser II - 06 (1280x720) [7BC8F54C].mkv
-!new/[SubDesu] Seikon no Qwaser II - 07 (1280x720) [0E595A0C].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -972,21 +888,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[UTW]_Ano_Hana_-_08_[h264-720p][619F5FB3].mkv
-!new/[UTW]_Hidan_no_Aria_-_08_[h264-720p][D62B01B5].mkv
-!new/[UTW]_Kampfer_fur_die_Liebe_-_13v0_[BD][h264-1080p][1BE824E4].mkv
-!new/[Underwater-Commie] Denpa Onna to Seishun Otoko - 08 (720p) [129929E0].mkv
-!new/[Underwater-Commie] Hanasaku Iroha - 09 (720p) [5D006109].mkv
-!new/[Underwater-Commie] Kaiji S2 - 09 (720p) [237119CB].mkv
-!new/[WhyNot] Hen Zemi - 09 [0E329657].mkv
-!new/[gg]_Ano_Hi_Mita_Hana_no_Namae_o_Bokutachi_wa_Mada_Shiranai_-_08_[60F4E539].mkv
-!new/[gg]_Break_Blade_-_5_(1080p)_[48BAF4B4].mkv
-!new/[gg]_C_The_Money_of_Soul_and_Possibility_Control_-_08_[CB7DBC17].mkv
-!new/[gg]_Fireball_Charming_-_07_[495F2107].mkv
-!new/[gg]_Fireball_Charming_-_08_[55A0FB07].mkv
-!new/[gg]_Fireball_Charming_-_09_[99384627].mkv
-!new/[gg]_Hidan_no_Aria_-_08_[39382D13].mkv
-!new/[yibis]_One_Piece_499_[720p][804E7C13].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
