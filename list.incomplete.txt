@@ -280,6 +280,7 @@ incomplete/Beelzebub/[HorribleSubs] Beelzebub - 16 [720p][462367E8].mkv
 incomplete/Beelzebub/[HorribleSubs] Beelzebub - 17 [720p][1389DF4D].mkv
 incomplete/Beelzebub/[HorribleSubs] Beelzebub - 18 [720p][EDDFE500].mkv
 incomplete/Beelzebub/[HorribleSubs] Beelzebub - 19 [720p][6505B416].mkv
+incomplete/Beelzebub/[HorribleSubs] Beelzebub - 20 [720p][2391D971].mkv
 incomplete/Before Green Gables/[ray=out] Before Green Gables - 01 [HD][898B650B].mkv
 incomplete/Before Green Gables/[ray=out] Before Green Gables - 02 [HD][9FEE3EFF].mkv
 incomplete/Before Green Gables/[ray=out] Before Green Gables - 03 [HD][5F7CBFF3].mkv
@@ -745,6 +746,7 @@ incomplete/Deadman Wonderland/[Commie] Deadman Wonderland - 04 [18D16855].mkv
 incomplete/Deadman Wonderland/[Commie] Deadman Wonderland - 05 [419A531A].mkv
 incomplete/Deadman Wonderland/[Commie] Deadman Wonderland - 06 [B8C0CABA].mkv
 incomplete/Deadman Wonderland/[Commie] Deadman Wonderland - 07 [F3CF738F].mkv
+incomplete/Deadman Wonderland/[HorribleSubs] Deadman Wonderland  - 08 [720p][82B0FD7A].mkv
 incomplete/Deadman Wonderland/[umee] Deadman Wonderland - 01 [62084908].mkv
 incomplete/Deadman Wonderland/[umee] Deadman Wonderland - 02 [E68DC341].mkv
 incomplete/Deadman Wonderland/[umee] Deadman Wonderland - 03 [BA446D2E].mkv
@@ -986,8 +988,6 @@ incomplete/Dog Days/[Ayako-Himatsubushi] Dog Days - 06 [720p][F92E3424].mkv
 incomplete/Dog Days/[Hiryuu-HiNA] Dog Days - 07 [720p][F3A41B1E].mkv
 incomplete/Dog Days/[Hiryuu-HiNA] Dog Days - 08 [720p][268C466E].mkv
 incomplete/Dog Days/[Hiryuu-HiNA] Dog Days - 09 [720p][D095F00D].mkv
-incomplete/Dogtato-kun/[Triad] Dogtato-kun - 01 [DVD][AB88242D].avi
-incomplete/Dogtato-kun/[Triad] Dogtato-kun - 08 [DVD][32DBDCAC].avi
 incomplete/Doraemon/[Nobita] Doraemon - 01 [8B777A11].mkv
 incomplete/Doraemon/[Nobita] Doraemon - 02 [5E1F6ADF].mkv
 incomplete/Doraemon/[Nobita] Doraemon - 03 [77976897].mkv
@@ -2370,6 +2370,7 @@ incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 212 [720p][A7757
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 213 [720p][532F8649].mkv
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 214 [720p][A95C1DDD].mkv
 incomplete/Nessa no Haou Gandalla/[ARR] Nessa no Haou Gandalla - 01 [52EBCAF2].mkv
+incomplete/Nichijou/[HorribleSubs] Nichijou - 10 [720p][C8353DCF].mkv
 incomplete/Nichijou/[UTW] Nichijou - 00 [LQ][5E9D0BF4].mkv
 incomplete/Nichijou/[Underwater-Commie] Nichijou - 01 [720p][99B70B42].mkv
 incomplete/Nichijou/[Underwater-Commie] Nichijou - 02 [720p][87E53446].mkv
@@ -3040,6 +3041,7 @@ incomplete/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 032 [720p][AA928AE3].m
 incomplete/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 033 [720p][D571CDEF].mkv
 incomplete/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 034 [720p][2C346FCA].mkv
 incomplete/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 035 [720p][6AD53513].mkv
+incomplete/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 036 [720p][1E01BAA4].mkv
 incomplete/Pokemon/[PM] Pokemon - 027 [031A8848].mkv
 incomplete/Pollyanna/[Licca] Pollyanna - 01 [84C45157].mkv
 incomplete/Pollyanna/[Licca] Pollyanna - 02 [37E0B1A9].mkv
@@ -3709,6 +3711,7 @@ incomplete/X-Men/[Commie] X-Men - 05 [33B9B22B].mkv
 incomplete/X-Men/[Commie] X-Men - 06 [D45BCC8E].mkv
 incomplete/X-Men/[Commie] X-Men - 07 [553988DA].mkv
 incomplete/X-Men/[Commie] X-Men - 08 [8CD19ABA].mkv
+incomplete/X-Men/[Commie] X-Men - 09 [B794B26A].mkv
 incomplete/Yadamon/[Live-eviL] Yadamon - 01 [572DC67A].mkv
 incomplete/Yaiba/[ASource] Yaiba - 23 [DVD][00084662].avi
 incomplete/Yawara/[F-B L-E] Yawara - 42 [599A6D25].avi
@@ -3758,6 +3761,7 @@ incomplete/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 04 [E7CD
 incomplete/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 05 [A7FBAF51].mkv
 incomplete/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 06 [C9099842].mkv
 incomplete/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 07 [1F59AA55].mkv
+incomplete/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 09 [8B5EC42F].mkv
 incomplete/Yoshimune/[F-B & Scramble!] Yoshimune - 01 [D6661800].mp4
 incomplete/Yoshimune/[F-B & Scramble!] Yoshimune - 02 [B6EA56DA].mp4
 incomplete/Yoshimune/[F-B & Scramble!] Yoshimune - 03 [244BD028].mp4

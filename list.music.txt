@@ -67,8 +67,10 @@ music/ACHGM-DIE/[2007-05-15]_[ACHGM-DIE]_[2934]_El_Cazador_de_la_Bruja_OP_Single
 music/ACHGM-DIE/[2007-06-19]_[ACHGM-DIE]_[3075]_Terra_he..._ED_Single_-_Love_is...[w_scans].rar
 music/ACHGM-DIE/[2007-07-03]_[ACHGM-DIE]_[3114]_Kiss_Dum_-ENGAGE_planet-_OP_Single_-_Toki_wo_Koete_[w_scans].rar
 music/ASL/[ASL]_Airi_-_30-sai_no_Hoken_Taiiku_ED_-_Learn together_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Elements_Garden_-_Taiyou_no_Promia_Complete_Soundtrack_CD_~Music_for_Milsant~_[FLAC].rar
 music/ASL/[ASL]_Isami_-_Trinity_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Itou_Kanae_-_Softenni_ED_-_Tsumasakidachi_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Karen_-_Gokuin_no_Sentou_Original_Soundtrack_CD_[FLAC].rar
 music/ASL/[ASL]_Nakajima_Megumi_-_Moshidora_-_If_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Nishizawa_Hagumi_-_Natsuyuki_~summer_snow~_Maxi_Single_-_Natsu_no_Hi_no_Refrain_[FLAC].rar
 music/ASL/[ASL]_PSYCHIC_LOVER_-_Rewrite_2nd_OP_Theme_-_Rewrite_[FLAC].rar
@@ -86,6 +88,7 @@ music/ASL/[ASL]_Various_Artist_-_Twinkle_Crusaders_Kirakira_Sound_Stage_03_-_Mis
 music/ASL/[ASL]_Various_Artist_-_Twinkle_Crusaders_Kirakira_Sound_Stage_04_-_Nanaka_&_Sacchin_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artist_-_Twinkle_Crusaders_Kirakira_Sound_Stage_05_-_Sio_&_Amylina_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_ Suzukaze_no_Melt_Original_Sound_Track_Melty_Wind_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_A-CHANNEL_THE_ANIMATION_1_BONUS_DISC_Ending_theme_&_Inserted_Songs_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Artemis_Blue_Music_Selection_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_CURE_GIRL_Original_Sound_Track_II_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_CURE_GIRL_Original_Sound_Track_I_[FLAC].rar
@@ -95,6 +98,7 @@ music/ASL/[ASL]_Various_Artists_-_Itsuka,_Todoku,_Ano_Sora_ni._ ~Precious_Select
 music/ASL/[ASL]_Various_Artists_-_Maria_Holic_-_Alive_OP_ED_-_runrun_riru_ranran_rara_._dounimo_tomaranai_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_ORANGE_CANDY_BOX_-Angel_Note_Best_Collection_8-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_ED_11_&_12_-_Akihabara_Dance_Nau!!_ Tadaima._[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Otome_wa_Boku_ni_Koishiteru_Portable_Futari_no_Elder_Original_Soundtrack_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Taiyou_no_Promia_Theme_Song_Maxi_Single_CD_-_~Song_for_Milsant~_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Touhou_Middonaito_MAXIMUM_TUNE_Gaiden_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Worlds_and_World's_end_Original_Soundtrack_-_Sekai_no_Owaru,_Sono_Hi_made_[FLAC]_[w_Scans].rar
@@ -385,6 +389,7 @@ music/Nipponsei/[Nipponsei] Asobi ni Iku yo! ED Single - Omoide ga Jama wo Suru 
 music/Nipponsei/[Nipponsei] Asobi ni Iku yo! OP Single - Now loading... SKY!! [Sphere].zip
 music/Nipponsei/[Nipponsei] Asobi ni Iku yo! Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Astarotte no Omocha! Character Song CD Vol.1 - Astarotte Ygvar & Judit Snorrevik [Various].zip
+music/Nipponsei/[Nipponsei] Astarotte no Omocha! Character Song CD Vol.2 - Touhara Asuha & Touhara Naoya [Various].zip
 music/Nipponsei/[Nipponsei] Astarotte no Omocha! ED Single - Manatsu no Photograph [azusa].zip
 music/Nipponsei/[Nipponsei] Astarotte no Omocha! OP Single - Tenshi no CLOVER [Aimi].zip
 music/Nipponsei/[Nipponsei] BECK ED Single - above the clouds [meister].zip
@@ -411,6 +416,7 @@ music/Nipponsei/[Nipponsei] BLEACH ED11 Single - Tsumasaki [Ore Ska Band].zip
 music/Nipponsei/[Nipponsei] BLEACH ED13 Single - Tane wo Maku Hibi [Atari Kousuke].zip
 music/Nipponsei/[Nipponsei] BLEACH ED24 Single - echoes [universe].zip
 music/Nipponsei/[Nipponsei] BLEACH ED25 Single - Last Moment [SPYAIR].zip
+music/Nipponsei/[Nipponsei] BLEACH ED27 Single - Song for... [ROOKiEZ is PUNK'D].zip
 music/Nipponsei/[Nipponsei] BLEACH Movie - MEMORIES OF NOBODY Main Theme Single - Sen no Yoru wo Koete [Aqua Timez].zip
 music/Nipponsei/[Nipponsei] BLEACH Movie - MEMORIES OF NOBODY Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] BLEACH Movie 4 Main Theme Single - Save The One, Save The All [T.M. Revolution].zip
@@ -947,6 +953,7 @@ music/Nipponsei/[Nipponsei] NARUTO OP9 Single - Yura Yura [Hearts Grow].zip
 music/Nipponsei/[Nipponsei] NARUTO Shippuuden ED14 Single - Utakata Hanabi [supercell].zip
 music/Nipponsei/[Nipponsei] NARUTO Shippuuden ED15 Single - U can do it! [DOMINO].zip
 music/Nipponsei/[Nipponsei] NARUTO Shippuuden ED16 Single - Mayonaka no Orchestra [Aqua Timez].zip
+music/Nipponsei/[Nipponsei] NARUTO Shippuuden ED17 Single - FREEDOM [HOME MADE Kazoku].zip
 music/Nipponsei/[Nipponsei] NARUTO Shippuuden OP07 Single - Toumei Datta Sekai [Hata Motohiro].zip
 music/Nipponsei/[Nipponsei] NARUTO Shippuuden OP08 Single - Diver [NICO Touches the Walls].zip
 music/Nipponsei/[Nipponsei] NIGHT HEAD GENESIS ED - Nemutteita Kimochi Nemutteita Kokoro [Aya Kamiki].zip
@@ -1620,6 +1627,7 @@ music/Shin-S/[Shin-S] Hanasaku Iroha OP Single - Hana no Iro [nano.RIPE].zip
 music/Shin-S/[Shin-S] Hidan no Aria ED Single - Camellia no Hitomi [Nakano Aiko].zip
 music/Shin-S/[Shin-S] Hoshizora e Kakaru Hashi ED Single - Dash do Cinderella [Nakamura Eriko & Shimizu Ai].zip
 music/Shin-S/[Shin-S] IS ~Infinite Stratos~ Character Song CD Vol.2 - Cecilia [Yukana].zip
+music/Shin-S/[Shin-S] Kami Nomi zo Shiru Sekai Character CD 5 - Kasuga Kusunoki [Koshimizu Ami].zip
 music/Shin-S/[Shin-S] Kami Nomi zo Shiru Sekai II ED Single - Ai no Yokan [Kami Nomi zo Shiri-tai].zip
 music/Shin-S/[Shin-S] Kami Nomi zo Shiru Sekai II OP Single - A Whole New World God Only Knows [Oratorio The World God Only Knows].zip
 music/Shin-S/[Shin-S] Kami Nomi zo Shiru Sekai Insert Song Single - Koi, Yoroshiku Onegai Shimasu! [Citron].zip
