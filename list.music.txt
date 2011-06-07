@@ -71,6 +71,7 @@ music/ASL/[ASL]_Elements_Garden_-_Taiyou_no_Promia_Complete_Soundtrack_CD_~Music
 music/ASL/[ASL]_Isami_-_Trinity_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Itou_Kanae_-_Softenni_ED_-_Tsumasakidachi_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Karen_-_Gokuin_no_Sentou_Original_Soundtrack_CD_[FLAC].rar
+music/ASL/[ASL]_Kicco_-_Gateau_au_Chocolate_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Nakajima_Megumi_-_Moshidora_-_If_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Nishizawa_Hagumi_-_Natsuyuki_~summer_snow~_Maxi_Single_-_Natsu_no_Hi_no_Refrain_[FLAC].rar
 music/ASL/[ASL]_PSYCHIC_LOVER_-_Rewrite_2nd_OP_Theme_-_Rewrite_[FLAC].rar
@@ -89,16 +90,22 @@ music/ASL/[ASL]_Various_Artist_-_Twinkle_Crusaders_Kirakira_Sound_Stage_04_-_Nan
 music/ASL/[ASL]_Various_Artist_-_Twinkle_Crusaders_Kirakira_Sound_Stage_05_-_Sio_&_Amylina_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_ Suzukaze_no_Melt_Original_Sound_Track_Melty_Wind_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_A-CHANNEL_THE_ANIMATION_1_BONUS_DISC_Ending_theme_&_Inserted_Songs_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Akatoki!_Original_Sound_Track_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Akatoki!_Theme_Song_&_Ending_Song_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Artemis_Blue_Music_Selection_[FLAC].rar
+music/ASL/[ASL]_Various_Artists_-_Astarotte_no_Omocha!_Character_Song_CD_Vol.2_Naoya_Tohara_x_Asuha_Tohara_[FLAC]_[w Scans].rar
 music/ASL/[ASL]_Various_Artists_-_CURE_GIRL_Original_Sound_Track_II_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_CURE_GIRL_Original_Sound_Track_I_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Delivara!_-deliverance_of_strays-_Original_Soundtrack_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_FOLCLOLE_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Flag_Heshiori_Otoko_Theme_Song_Maxi_CD_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Itsuka,_Todoku,_Ano_Sora_ni._ ~Precious_Selection~_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Koi_to_Senkyo_to_Chocolate_Ending_Theme_Collection_-_CHOCOLATE_SONGS_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Maria_Holic_-_Alive_OP_ED_-_runrun_riru_ranran_rara_._dounimo_tomaranai_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_ORANGE_CANDY_BOX_-Angel_Note_Best_Collection_8-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_ED_11_&_12_-_Akihabara_Dance_Nau!!_ Tadaima._[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Otome_wa_Boku_ni_Koishiteru_Portable_Futari_no_Elder_Original_Soundtrack_[FLAC].rar
+music/ASL/[ASL]_Various_Artists_-_STAR_DRIVER_Kagayaki_no_Takuto_BD_Vol._5_Bonus_CD_- Cross_Over_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Taiyou_no_Promia_Theme_Song_Maxi_Single_CD_-_~Song_for_Milsant~_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Touhou_Middonaito_MAXIMUM_TUNE_Gaiden_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Worlds_and_World's_end_Original_Soundtrack_-_Sekai_no_Owaru,_Sono_Hi_made_[FLAC]_[w_Scans].rar
@@ -1361,6 +1368,7 @@ music/Nipponsei/[Nipponsei] To Aru Kagaku no Railgun Archives 3.zip
 music/Nipponsei/[Nipponsei] To Aru Kagaku no Railgun OP2 Single - LEVEL 5 -judgelight- [fripSide].zip
 music/Nipponsei/[Nipponsei] To Aru Kagaku no Railgun OVA ED Single - Special 'ONE' [ELISA].zip
 music/Nipponsei/[Nipponsei] To Aru Kagaku no Railgun OVA OP Single - future gazer [fripSide].zip
+music/Nipponsei/[Nipponsei] To Aru Majutsu no Index II Archives 1.zip
 music/Nipponsei/[Nipponsei] To Aru Majutsu no Index II ED Single - Magic world [Kurosaki Maon].zip
 music/Nipponsei/[Nipponsei] To Aru Majutsu no Index II ED2 Single - Last Memories [Kurosaki Maon].zip
 music/Nipponsei/[Nipponsei] To Aru Majutsu no Index II OP Single - No buts! [Kawada Mami].zip
