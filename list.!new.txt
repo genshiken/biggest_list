@@ -531,6 +531,7 @@
 !new/NieA under 7/NieA_under_7_-_11.mkv
 !new/NieA under 7/NieA_under_7_-_12.mkv
 !new/NieA under 7/NieA_under_7_-_13.mkv
+!new/Notes on episode 10.5.txt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
@@ -912,6 +913,9 @@
 !new/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.5 - Kasuga Kusunoki [Koshimizu Ami].zip
 !new/[Nipponsei] To Aru Majutsu no Index II Original Soundtrack 2.zip
 !new/[Nipponsei] Yondemasu yo, Azazel-san. Main Theme Single - Pandemic!! [Team Nekokan].zip
+!new/[Nutbladder]_Kaiji_S2_-_10_[E06276B6].mkv
+!new/[ReDone] Soul Link - 10.5 Part A (DVD) [A4BED3B0].mkv
+!new/[ReDone] Soul Link - 10.5 Part B (DVD) [A7E3AC30].mkv
 !new/[RyRo]_Digimon_Xros_Wars_-_39_(1280x720_x264_AAC)_[A292FFD9].mkv
 !new/[Ryuumaru]_Hoshizora_e_Kakaru_Hashi_-_08_[720p][6979767E].mkv
 !new/[Ryuumaru]_Hoshizora_e_Kakaru_Hashi_-_09_[720p][151D1318].mkv
@@ -935,6 +939,13 @@
 !new/[UTW]_Kampfer_fur_die_Liebe_-_Creditless_ED_[BD][h264-1080p_FLAC][A2657087].mkv
 !new/[UTW]_Kampfer_fur_die_Liebe_-_Creditless_OP_[BD][h264-1080p_FLAC][81CF5057].mkv
 !new/[Underwater-Commie] Hanasaku Iroha - 10 (720p) [4AC495FE].mkv
+!new/[Underwater-Commie] Nichijou - 10 (720p) [4BCE8A9F].mkv
+!new/[Victorique]_Gosick_-_01_[BD][h264-720p_FLAC][A31D882E].mkv
+!new/[Victorique]_Gosick_-_02_[BD][h264-720p_FLAC][1B2D04F5].mkv
+!new/[Victorique]_Gosick_-_03_[BD][h264-720p_FLAC][0B7D06B3].mkv
+!new/[Victorique]_Gosick_-_04_[BD][h264-720p_FLAC][A22F9F80].mkv
+!new/[yesy] Soul Link - 01 (TV) Sayaka Panchira Scene [159CD85D].mkv
+!new/[yesy] Soul Link - 10 (TV) Preview for 10.5 [3460C8E5].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
