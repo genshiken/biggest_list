@@ -106,6 +106,7 @@ music/ASL/[ASL]_Various_Artists_-_ORANGE_CANDY_BOX_-Angel_Note_Best_Collection_8
 music/ASL/[ASL]_Various_Artists_-_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_ED_11_&_12_-_Akihabara_Dance_Nau!!_ Tadaima._[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Otome_wa_Boku_ni_Koishiteru_Portable_Futari_no_Elder_Original_Soundtrack_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_STAR_DRIVER_Kagayaki_no_Takuto_BD_Vol._5_Bonus_CD_- Cross_Over_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Sengoku_Otome_-_SENGOKU_GROOVE_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Taiyou_no_Promia_Theme_Song_Maxi_Single_CD_-_~Song_for_Milsant~_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Touhou_Middonaito_MAXIMUM_TUNE_Gaiden_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Worlds_and_World's_end_Original_Soundtrack_-_Sekai_no_Owaru,_Sono_Hi_made_[FLAC]_[w_Scans].rar
@@ -113,6 +114,8 @@ music/ASL/[ASL]_Yukana_-_IS_Character_Vol_Song_CD_Vol._2_- _Cecilia_[FLAC]_[w_Sc
 music/ASL/[ASL]_eufonius_-_bezel_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_lovelive!_μ's_-_Printemps_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_nao_-_Hyperdimension_Neptunia_OP_-_Ryuusei_no_Bifrost_[FLAC].rar
+music/ASL/[ASL]_school_food_punishment_-_C_-_RPG_[FLAC].rar
+music/ASL/[ASL]_shoujo_byou_-_Seikon_no_Qwaser_II_ED_-_metaphor_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_μ's_Snow_halation_[FLAC]_[w_Scans].rar
 music/Angel Beats! NCOP&NCED - My Soul, Your Beats!／Brave Song (DVD).iso
 music/Aznmp3/[#aznmp3] Jyukai Second Single - KOIBITO DOUSHI [320kbps.2006.07.26].zip
@@ -784,6 +787,7 @@ music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.0 - Elsie [Ito
 music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.1 - Takahara Ayumi [Taketatsu Ayana].zip
 music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.2 - Aoyama Mio [Yuuki Aoi].zip
 music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.3 - Nakagawa Kanon [Touyama Nao].zip
+music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.5 - Kasuga Kusunoki [Koshimizu Ami].zip
 music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai ED Single - Koi no Shirushi [Various].zip
 music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai II ED Single - Ai no Yokan [Various].zip
 music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai II OP Single - A Whole New World God Only Knows [Oratorio The World God Only Knows].zip
@@ -1374,6 +1378,7 @@ music/Nipponsei/[Nipponsei] To Aru Majutsu no Index II ED2 Single - Last Memorie
 music/Nipponsei/[Nipponsei] To Aru Majutsu no Index II OP Single - No buts! [Kawada Mami].zip
 music/Nipponsei/[Nipponsei] To Aru Majutsu no Index II OP2 Single - See visionS [Kawada Mami].zip
 music/Nipponsei/[Nipponsei] To Aru Majutsu no Index II Original Soundtrack 1.zip
+music/Nipponsei/[Nipponsei] To Aru Majutsu no Index II Original Soundtrack 2.zip
 music/Nipponsei/[Nipponsei] To Heart 2 OP ED Single - Hello [Ikeda Haruna] (320 kbps).zip
 music/Nipponsei/[Nipponsei] To Heart 2 OVA OP Single - Ichiban Boshi [Suara].zip
 music/Nipponsei/[Nipponsei] To Heart 2 Original Soundtrack.zip
@@ -1477,6 +1482,7 @@ music/Nipponsei/[Nipponsei] Yojouhan Shinwa Taikei Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Yomigaeru Sora -Rescue Wings- ED and Insert Single - Emblem [JAM Project] (320 kbps).zip
 music/Nipponsei/[Nipponsei] Yomigaeru Sora -Rescue Wings- OP Single - Ashita wo Tomenaide [Aki Misato] (320 kbps).zip
 music/Nipponsei/[Nipponsei] Yomigaeru Sora -Rescue Wings- Original Soundtrack.zip
+music/Nipponsei/[Nipponsei] Yondemasu yo, Azazel-san. Main Theme Single - Pandemic!! [Team Nekokan].zip
 music/Nipponsei/[Nipponsei] Yosuga no Sora ED Single - Pinky Jones [Momoiro Clover].zip
 music/Nipponsei/[Nipponsei] Yosuga no Sora Insert Song Single - Tsunagu Kizuna [Team. Nekocan feat. Amaoto Junca].zip
 music/Nipponsei/[Nipponsei] Yosuga no Sora OP Single - Hiyoku no Hane [eufonius].zip
@@ -2988,6 +2994,7 @@ music/losslessone/[LonE]_Outer,_MOMO,_KOTOKO,_Tsutsumi_Inosuke,_Kawada_Mami,_Shi
 music/losslessone/[LonE]_Ozawa_Takumi,_Ooyama_Masashi,_FictionJunction,_Nanri_Yuuka_-_Ookamikakushi_Original_Soundtrack_[w_scans]_(FLAC).rar
 music/losslessone/[LonE]_PNGN6_-_Penguin_Girl_Heart_OP_Single_-_Renai_Jiyuu_Shoujo_[w_scans]_(FLAC).rar
 music/losslessone/[LonE]_POSSIBILITY_-_Gintama_ED9_Single_-_sanagi_[w_scans]_(FLAC).rar
+music/losslessone/[LonE]_PSYCHIC LOVER_-_Rewrite_2nd_Opening_Theme_Single_-_Rewrite_[w_scans]_(FLAC).rar
 music/losslessone/[LonE]_PUFFY_-_Ooedo_Rocket_OP_Single_-_boom_boom_beat_[w_scans]_(FLAC).rar
 music/losslessone/[LonE]_Paradise_Lunch_-_Baccano_OP_Single_-_Guns_Roses_[w_scans]_(FLAC).rar
 music/losslessone/[LonE]_Phantasm_(FES_cv._Sakakibara_Yui)_-_CHAOS_HEAD_Insert_ED_Single_-_Zaika_ni_Keiyaku_no_Chi_wo_[w_scans]_(FLAC).rar

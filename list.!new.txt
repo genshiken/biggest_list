@@ -796,6 +796,41 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 01 - Four Warriors Come Out of the Sky [C19E212F].mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 02 - The Mystery of Planet Master [73A08CA8].mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 03 - Birth of Double Convoy! [E0DC076B].mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 04 - Operation Cassette [EC8BB50A].mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 05 - Rebellion on Planet Beast [3D0B4158].mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 06 - Approach of the Demon Meteorite [D3A7F0B5].mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 07 - The Four-Million-Year-Old Veil of Mystery [37ECDD8E].mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 08 - Terror of the Six Shadows [800F6DF1].mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 09 - Seibertron is in Grave Danger part one [673A34ED].mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 10 - Seibertron is in Grave Danger, part two [8F12A92C].mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 11 - Scorponok, the Shadow Emperor [5A0A244B].mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 12 - The Dormant Volcano Mysteriously Erupts [96298B5C].mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 13 - Head On, Fortress Maximus [C4F10C25].mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 14 - Explosion on Mars!! Maximus is in Danger [F3423B1F].mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 15 - Explosion on Mars!! Megazarak Appears [8998778A].mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 16 - The Return of the Immortal Emperor [E6F99A38].mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 17 - SOS from Planet Sandra [C903E86E].mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 18 - The Most Important Thing in the World [1929FDDF].mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 19 - Battle to the Death on the Beehive Planet [8A9C788A].mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 20 - Tide-turning Battle on the False Planet [BA1E7AB2].mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 21 - Find Megazarak`s Weak Spot [613D947E].mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 22_-_Head Formation of Friendship (b4d768ec).mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 23_-_Mystery of the Space Pirate Ship(622e53ac).mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 24 - The Death of Ultra Magnus (dd1b8537).mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 25_-_The Emperor of Destruction Vanishes on an Iceberg (0F594D30).mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 26_-_I Risk My Life for Earth (1e705a9c).mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 27_-_The Miracle Warriors - The Targetmasters, part one (263c2170).mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 28_-_The Miracle Warriors - The Targetmasters, part two (2ca7b951).mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 29_-_The Master Sword is in Danger (ade6ee36).mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 30 - The Zarak shield turns the tide.mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 31_-_Operation Destroy the Destrons (1F385608).mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 32_-_My Friend Sixshot! (86b5e737).mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 33_-_Duel on the Asteroid (8ea3561f).mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 34_-_The Final Showdown on Earth, part one (be04bf62).mkv
+!new/Transformers Headmasters/[Reb] Transformers Headmasters - 35_-_The Final Showdown on Earth, part two (9949ecb7).mkv
 !new/Yamato/s1/Yamato 01 - remaster (Central Anime) [33d6eb95].mkv
 !new/Yamato/s1/Yamato 02 - remaster (Central Anime) [d9ab7e12].mkv
 !new/Yamato/s1/Yamato 03 - remaster (Central Anime) [36f50f9e].mkv
@@ -873,58 +908,8 @@
 !new/Yamato/s3/YAMATO 3x24 - Secret of Planet Guardiana.mkv
 !new/Yamato/s3/YAMATO 3x25 - Yamato, Shoot that Sun!.mkv
 !new/Yamato/s3/Yamato 3x01.mkv
-!new/[ANE] Fortune Arterial Akai Yakusoku - Creditless Endings [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Fortune Arterial Akai Yakusoku - Creditless Opening [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Fortune Arterial Akai Yakusoku - Ep01 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Fortune Arterial Akai Yakusoku - Ep02 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Fortune Arterial Akai Yakusoku - Ep03 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Fortune Arterial Akai Yakusoku - Ep04 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Fortune Arterial Akai Yakusoku - Ep05 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Fortune Arterial Akai Yakusoku - Ep06 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Fortune Arterial Akai Yakusoku - Ep07 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Fortune Arterial Akai Yakusoku - Ep08 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Fortune Arterial Akai Yakusoku - Ep09 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Fortune Arterial Akai Yakusoku - Ep10 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Fortune Arterial Akai Yakusoku - Ep11 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Fortune Arterial Akai Yakusoku - Ep12 Creditless Ending [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Fortune Arterial Akai Yakusoku - Ep12 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Kara no Kyoukai - 1 - Overlooking View [BDRip 720p x264 AAC].mkv
-!new/[ANE] Kara no Kyoukai - 2 - Murder Speculation (Part A) [BDRip 720p x264 AAC].mkv
-!new/[ANE] Kara no Kyoukai - 3 - Remaining Sense of Pain [BDRip 720p x264 AAC].mkv
-!new/[ANE] Kara no Kyoukai - 4v0 - The Hollow Shrine [BDRip 720p x264 AAC].mkv
-!new/[ANE] Kara no Kyoukai - 5v0 - Paradox Paradigm [BDRip 720p x264 AAC].mkv
-!new/[ANE] Kara no Kyoukai - 6 - Oblivion Recording [BDRip 720p x264 AAC].mkv
-!new/[ANE] Kara no Kyoukai - 7v0 - Murder Speculation (Part B) [BDRip 720p x264 AAC].mkv
-!new/[ANE] Kara no Kyoukai - Cinema Intro 1 [BDRip 720p x264 AAC].mkv
-!new/[ANE] Kara no Kyoukai - Cinema Intro 2 [BDRip 720p x264 AAC].mkv
-!new/[ANE] Kara no Kyoukai - Cinema Intro 3 [BDRip 720p x264 AAC].mkv
-!new/[ANE] Kara no Kyoukai - Cinema Intro 4v0 [BDRip 720p x264 AAC].mkv
-!new/[ANE] Kara no Kyoukai - Cinema Intro 5v0 [BDRip 720p x264 AAC].mkv
-!new/[ANE] Kara no Kyoukai - Cinema Intro 6 [BDRip 720p x264 AAC].mkv
-!new/[ANE] Kara no Kyoukai - Cinema Intro 7v0 [BDRip 720p x264 AAC].mkv
-!new/[ANE] Kara no Kyoukai - Epilogue [BDRip 720p x264 AAC].mkv
-!new/[ANE] Kara no Kyoukai - Remix v0 - Gate of Seventh Heaven [BDRip 720p x264 AAC].mkv
-!new/[Ayako-Himatsubushi]_Dog_Days_-_07_[720p][211E0B05].mkv
-!new/[Commie] Deadman Wonderland - 08 [1E2C60B1].mkv
-!new/[Commie] The World God Only Knows S2 - 09 [6C55940F].mkv
-!new/[Hiryuu-HiNA] Dog Days 10 [1280x720 H264 AAC] [D1A36484].mkv
-!new/[HorribleSubs] Battle Girls - Time Paradox - 10 [720p].mkv
-!new/[HorribleSubs] Bleach - 325 [720p].mkv
-!new/[HorribleSubs] Naruto Shippuuden - 215 [720p].mkv
-!new/[HorribleSubs] SKET Dance - 10 [720p].mkv
-!new/[HorribleSubs] SKET Dance - 10v2 [720p].mkv
-!new/[HorribleSubs] Steins;Gate - 10 [720p].mkv
-!new/[LonE]_PSYCHIC LOVER_-_Rewrite_2nd_Opening_Theme_Single_-_Rewrite_[w_scans]_(FLAC).rar
-!new/[Mazui]_Denpa_Onna_to_Seishun_Otoko_-_09_[C37F0FD1].mkv
-!new/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.5 - Kasuga Kusunoki [Koshimizu Ami].zip
-!new/[Nipponsei] To Aru Majutsu no Index II Original Soundtrack 2.zip
-!new/[Nipponsei] Yondemasu yo, Azazel-san. Main Theme Single - Pandemic!! [Team Nekokan].zip
-!new/[Nutbladder]_Kaiji_S2_-_10_[E06276B6].mkv
-!new/[ReDone] Soul Link - 10.5 Part A (DVD) [A4BED3B0].mkv
-!new/[ReDone] Soul Link - 10.5 Part B (DVD) [A7E3AC30].mkv
-!new/[RyRo]_Digimon_Xros_Wars_-_39_(1280x720_x264_AAC)_[A292FFD9].mkv
-!new/[Ryuumaru]_Hoshizora_e_Kakaru_Hashi_-_08_[720p][6979767E].mkv
-!new/[Ryuumaru]_Hoshizora_e_Kakaru_Hashi_-_09_[720p][151D1318].mkv
+!new/[ReDone] Soul Link - 10.5 Part A [DVD][A4BED3B0].mkv
+!new/[ReDone] Soul Link - 10.5 Part B [DVD][A7E3AC30].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -940,17 +925,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[UTW]_Kampfer_fur_die_Liebe_-_13_[BD][h264-1080p_FLAC][77A25B43].mkv
-!new/[UTW]_Kampfer_fur_die_Liebe_-_14_[BD][h264-1080p_FLAC][A7BD35FD].mkv
-!new/[UTW]_Kampfer_fur_die_Liebe_-_Creditless_ED_[BD][h264-1080p_FLAC][A2657087].mkv
-!new/[UTW]_Kampfer_fur_die_Liebe_-_Creditless_OP_[BD][h264-1080p_FLAC][81CF5057].mkv
-!new/[Underwater-Commie] Hanasaku Iroha - 10 (720p) [4AC495FE].mkv
-!new/[Underwater-Commie] Nichijou - 10 (720p) [4BCE8A9F].mkv
-!new/[Victorique]_Gosick_-_01_[BD][h264-720p_FLAC][A31D882E].mkv
-!new/[Victorique]_Gosick_-_02_[BD][h264-720p_FLAC][1B2D04F5].mkv
-!new/[Victorique]_Gosick_-_03_[BD][h264-720p_FLAC][0B7D06B3].mkv
-!new/[Victorique]_Gosick_-_04_[BD][h264-720p_FLAC][A22F9F80].mkv
-!new/[gg]_C_The_Money_of_Soul_and_Possibility_Control_-_09_[2EC2AF60].mkv
 !new/[yesy] Soul Link - 01 (TV) Sayaka Panchira Scene [159CD85D].mkv
 !new/[yesy] Soul Link - 10 (TV) Preview for 10.5 [3460C8E5].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
@@ -1053,6 +1027,37 @@
 !new/bla/zx.black.heaven.12.sub.rar
 !new/bla/zx.black.heaven.13.dub.avi
 !new/bla/zx.black.heaven.13.sub.rar
+!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Creditless Endings [BDRip 1080p x264 FLAC].mkv
+!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Creditless Opening [BDRip 1080p x264 FLAC].mkv
+!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Ep01 [BDRip 1080p x264 FLAC].mkv
+!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Ep02 [BDRip 1080p x264 FLAC].mkv
+!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Ep03 [BDRip 1080p x264 FLAC].mkv
+!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Ep04 [BDRip 1080p x264 FLAC].mkv
+!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Ep05 [BDRip 1080p x264 FLAC].mkv
+!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Ep06 [BDRip 1080p x264 FLAC].mkv
+!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Ep07 [BDRip 1080p x264 FLAC].mkv
+!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Ep08 [BDRip 1080p x264 FLAC].mkv
+!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Ep09 [BDRip 1080p x264 FLAC].mkv
+!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Ep10 [BDRip 1080p x264 FLAC].mkv
+!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Ep11 [BDRip 1080p x264 FLAC].mkv
+!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Ep12 Creditless Ending [BDRip 1080p x264 FLAC].mkv
+!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Ep12 [BDRip 1080p x264 FLAC].mkv
+!new/knkbd/[ANE] Kara no Kyoukai - 1 - Overlooking View [BDRip 720p x264 AAC].mkv
+!new/knkbd/[ANE] Kara no Kyoukai - 2 - Murder Speculation (Part A) [BDRip 720p x264 AAC].mkv
+!new/knkbd/[ANE] Kara no Kyoukai - 3 - Remaining Sense of Pain [BDRip 720p x264 AAC].mkv
+!new/knkbd/[ANE] Kara no Kyoukai - 4v0 - The Hollow Shrine [BDRip 720p x264 AAC].mkv
+!new/knkbd/[ANE] Kara no Kyoukai - 5v0 - Paradox Paradigm [BDRip 720p x264 AAC].mkv
+!new/knkbd/[ANE] Kara no Kyoukai - 6 - Oblivion Recording [BDRip 720p x264 AAC].mkv
+!new/knkbd/[ANE] Kara no Kyoukai - 7v0 - Murder Speculation (Part B) [BDRip 720p x264 AAC].mkv
+!new/knkbd/[ANE] Kara no Kyoukai - Cinema Intro 1 [BDRip 720p x264 AAC].mkv
+!new/knkbd/[ANE] Kara no Kyoukai - Cinema Intro 2 [BDRip 720p x264 AAC].mkv
+!new/knkbd/[ANE] Kara no Kyoukai - Cinema Intro 3 [BDRip 720p x264 AAC].mkv
+!new/knkbd/[ANE] Kara no Kyoukai - Cinema Intro 4v0 [BDRip 720p x264 AAC].mkv
+!new/knkbd/[ANE] Kara no Kyoukai - Cinema Intro 5v0 [BDRip 720p x264 AAC].mkv
+!new/knkbd/[ANE] Kara no Kyoukai - Cinema Intro 6 [BDRip 720p x264 AAC].mkv
+!new/knkbd/[ANE] Kara no Kyoukai - Cinema Intro 7v0 [BDRip 720p x264 AAC].mkv
+!new/knkbd/[ANE] Kara no Kyoukai - Epilogue [BDRip 720p x264 AAC].mkv
+!new/knkbd/[ANE] Kara no Kyoukai - Remix v0 - Gate of Seventh Heaven [BDRip 720p x264 AAC].mkv
 !new/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/lama/[Ayako] Wei� Survive R - 01 - H264 - E975A989.mkv
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
@@ -1246,7 +1251,7 @@
 !new/narutoship/Naruto Shippuden 194.mkv
 !new/narutoship/Naruto Shippuden 195.mkv
 !new/narutoship/Naruto Shippuden 196.mkv
-!new/o37v2patch.zip
+!new/o37 [v2] patch.zip
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス OVA 「青空が描きたい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 映像特典 「The たんかい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 第01話 「えがいてあそぼ」.mkv
