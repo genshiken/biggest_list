@@ -67,6 +67,7 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - 618 [DCTP][720p][F9F50F17].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -909,8 +910,13 @@
 !new/Yamato/s3/YAMATO 3x25 - Yamato, Shoot that Sun!.mkv
 !new/Yamato/s3/Yamato 3x01.mkv
 !new/[ASL]_Koshimizu_Ami_-_Kami_Nomi_zo_Shiru_Sekai_II_Character_CD_5_-_Kasuga_Kusunoki_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Astarotte_no_Omocha!_Character_Song_CD_Vol.1_Astarotte_Ygval_x_Judit_Snorrevik_[FLAC].rar
+!new/[Ayako-Himatsubushi]_Dog_Days_-_08_[720p][CF2D2990].mkv
+!new/[HorribleSubs] Cardfight!! Vanguard - 22 [720p].mkv
 !new/[HorribleSubs] Ore-tachi Ni Tsubasa wa Nai - 10 [720p].mkv
 !new/[HorribleSubs] Sekai-ichi Hatsukoi - 10 [720p].mkv
+!new/[Mamiko]_RO-KYU-BU!_PV2_[720p][D90824BB].mkv
+!new/[PV-RAWS] RO-KYU-BU! PV 2 (480p_H.264-AAC).flv
 !new/[ReDone] Soul Link - 10.5 Part A [DVD][A4BED3B0].mkv
 !new/[ReDone] Soul Link - 10.5 Part B [DVD][A7E3AC30].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
@@ -928,9 +934,12 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[UTW]_Ano_Hana_-_09_[h264-720p][D0F9A2C5].mkv
 !new/[UTW]_Hidan_no_Aria_-_09_[h264-720p][55B50132].mkv
+!new/[WhyNot] Hen Zemi - 10 [74EEFD00].mkv
 !new/[gg]_Ano_Hi_Mita_Hana_no_Namae_o_Bokutachi_wa_Mada_Shiranai_-_09_[E53227DD].mkv
 !new/[gg]_Dororon_Enma-kun_Meramera_-_09_[43581C0E].mkv
+!new/[gg]_Dororon_Enma-kun_Meramera_-_10_[095186FA].mkv
 !new/[yesy] Soul Link - 01 (TV) Sayaka Panchira Scene [159CD85D].mkv
 !new/[yesy] Soul Link - 10 (TV) Preview for 10.5 [3460C8E5].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
