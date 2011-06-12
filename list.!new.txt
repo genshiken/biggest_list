@@ -844,6 +844,7 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
+!new/The.Transformers.The.Movie.1986.1080p.BluRay.x264-hV.mkv
 !new/Transformers Headmasters/[Reb] Transformers Headmasters - 01 - Four Warriors Come Out of the Sky [C19E212F].mkv
 !new/Transformers Headmasters/[Reb] Transformers Headmasters - 02 - The Mystery of Planet Master [73A08CA8].mkv
 !new/Transformers Headmasters/[Reb] Transformers Headmasters - 03 - Birth of Double Convoy! [E0DC076B].mkv
@@ -961,6 +962,7 @@
 !new/[ASL]_Koshimizu_Ami_-_Kami_Nomi_zo_Shiru_Sekai_II_Character_CD_5_-_Kasuga_Kusunoki_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Astarotte_no_Omocha!_Character_Song_CD_Vol.1_Astarotte_Ygval_x_Judit_Snorrevik_[FLAC].rar
 !new/[Ayako-Himatsubushi]_Dog_Days_-_08_[720p][CF2D2990].mkv
+!new/[Commie] Tiger & Bunny - 11 [E25689B5].mkv
 !new/[Commie] X-Men - 10 [22F9CD61].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.17.[1280x720].[74702E4C].mkv
 !new/[HD-subs][kore wa zombie desuka  - 13 (OVA) [720p].mkv
@@ -971,6 +973,7 @@
 !new/[HorribleSubs] Nichijou - 11 [720p].mkv
 !new/[HorribleSubs] Ore-tachi Ni Tsubasa wa Nai - 10 [720p].mkv
 !new/[HorribleSubs] Sekai-ichi Hatsukoi - 10 [720p].mkv
+!new/[Licca] Pollyanna Episode 23 (h.264) [51DF2BB1].mkv
 !new/[Mamiko]_RO-KYU-BU!_PV2_[720p][D90824BB].mkv
 !new/[Nipponsei] Beelzebub ED2 Single - Tsuyogari [Nakagawa Shouko].zip
 !new/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.00 - Haqua [Hayami Saori].zip
@@ -978,6 +981,23 @@
 !new/[PV-RAWS] RO-KYU-BU! PV 2 (480p_H.264-AAC).flv
 !new/[ReDone] Soul Link - 10.5 Part A [DVD][A4BED3B0].mkv
 !new/[ReDone] Soul Link - 10.5 Part B [DVD][A7E3AC30].mkv
+!new/[T-N]Transformers_Masterforce_-_27_[9E83DDF7].avi
+!new/[T-N]Transformers_Masterforce_-_28_[E5236154].avi
+!new/[T-N]Transformers_Masterforce_-_29_[86BE3916].avi
+!new/[T-N]Transformers_Masterforce_-_30_[5EF49FEE].avi
+!new/[T-N]Transformers_Masterforce_-_31_[F97C4E8B].avi
+!new/[T-N]Transformers_Masterforce_-_32_[93E4FFB9].avi
+!new/[T-N]Transformers_Masterforce_-_33_[BE04539C].avi
+!new/[T-N]Transformers_Masterforce_-_34_[EEE2D7C1].avi
+!new/[T-N]Transformers_Masterforce_-_35_[D773CCBB].avi
+!new/[T-N]Transformers_Masterforce_-_36_[4A41B5E7].avi
+!new/[T-N]Transformers_Masterforce_-_37_[5832075A].avi
+!new/[T-N]Transformers_Masterforce_-_38_[C29647AF].avi
+!new/[T-N]Transformers_Masterforce_-_39_[93456F34].avi
+!new/[T-N]Transformers_Masterforce_-_40_[AB8665C4].avi
+!new/[T-N]Transformers_Masterforce_-_41_[1B393DE8].avi
+!new/[T-N]Transformers_Masterforce_-_42_[5B026F45].avi
+!new/[T-N]Transformers_Masterforce_-_Big_Book_of_Masterforce[87DD4008].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -996,6 +1016,32 @@
 !new/[UTW]_Ano_Hana_-_09_[h264-720p][D0F9A2C5].mkv
 !new/[UTW]_Hidan_no_Aria_-_09_[h264-720p][55B50132].mkv
 !new/[Victorique]_Gosick_-_21_[h264-720p][AF8764D6].mkv
+!new/[WPP_&_T-N]Transformers_Masterforce_-_01_[6275CCD4].avi
+!new/[WPP_&_T-N]Transformers_Masterforce_-_02_[FB133476].avi
+!new/[WPP_&_T-N]Transformers_Masterforce_-_03_[3F3BAF07].avi
+!new/[WPP_&_T-N]Transformers_Masterforce_-_04_[4E9D8E12].avi
+!new/[WPP_&_T-N]Transformers_Masterforce_-_05_[AA613BE3].avi
+!new/[WPP_&_T-N]Transformers_Masterforce_-_06_[C1EFDA22].avi
+!new/[WPP_&_T-N]Transformers_Masterforce_-_07_[1B484011].avi
+!new/[WPP_&_T-N]Transformers_Masterforce_-_08_[9DCA670D].avi
+!new/[WPP_&_T-N]Transformers_Masterforce_-_09_[55DDAC64].avi
+!new/[WPP_&_T-N]Transformers_Masterforce_-_10_[F5AB380C].avi
+!new/[WPP_&_T-N]Transformers_Masterforce_-_11_[B7C126A0].avi
+!new/[WPP_&_T-N]Transformers_Masterforce_-_12_[FEC3A517].avi
+!new/[WPP_&_T-N]Transformers_Masterforce_-_13_[CC1182DC].avi
+!new/[WPP_&_T-N]Transformers_Masterforce_-_14_[8A4256B1].avi
+!new/[WPP_&_T-N]Transformers_Masterforce_-_15_[25411EA8].avi
+!new/[WPP_&_T-N]Transformers_Masterforce_-_16_[C920AE92].avi
+!new/[WPP_&_T-N]Transformers_Masterforce_-_17_[6FABD008].avi
+!new/[WPP_&_T-N]Transformers_Masterforce_-_18_[4A962F73].avi
+!new/[WPP_&_T-N]Transformers_Masterforce_-_19_[38D41A8D].avi
+!new/[WPP_&_T-N]Transformers_Masterforce_-_20_[C4D8395F].avi
+!new/[WPP_&_T-N]Transformers_Masterforce_-_21_[08C3774E].avi
+!new/[WPP_&_T-N]Transformers_Masterforce_-_22_[2B7EFCA0].avi
+!new/[WPP_&_T-N]Transformers_Masterforce_-_23_[D52CEBBF].avi
+!new/[WPP_&_T-N]Transformers_Masterforce_-_24_[2DE2E6A1].avi
+!new/[WPP_&_T-N]Transformers_Masterforce_-_25_[19539BF6].avi
+!new/[WPP_&_T-N]Transformers_Masterforce_-_26_[E490235A].avi
 !new/[WhyNot] Hen Zemi - 10 [74EEFD00].mkv
 !new/[dvdrip] Transformers (1984) - E01 More than meets the eye day one (part 1).avi
 !new/[dvdrip] Transformers (1984) - E02 More than meets the eye day two (part 2).avi
@@ -1090,6 +1136,11 @@
 !new/[dvdrip] Transformers (1984) - E91 Call of the primatives.avi
 !new/[dvdrip] Transformers (1984) - E92 The face of nijika.avi
 !new/[dvdrip] Transformers (1984) - E93 The burden hardest to bear.avi
+!new/[dvdrip] Transformers (1984) - E94 The return of optimus prime part 1.avi
+!new/[dvdrip] Transformers (1984) - E95 The return of optimus prime part 2.avi
+!new/[dvdrip] Transformers (1984) - E96 The rebirth part 1.avi
+!new/[dvdrip] Transformers (1984) - E97 The rebirth part 2.avi
+!new/[dvdrip] Transformers (1984) - E98 The rebirth part 3.avi
 !new/[gg]_Ano_Hi_Mita_Hana_no_Namae_o_Bokutachi_wa_Mada_Shiranai_-_09_[E53227DD].mkv
 !new/[gg]_Dororon_Enma-kun_Meramera_-_09_[43581C0E].mkv
 !new/[gg]_Dororon_Enma-kun_Meramera_-_10_[095186FA].mkv
