@@ -964,15 +964,19 @@
 !new/[Ayako-Himatsubushi]_Dog_Days_-_08_[720p][CF2D2990].mkv
 !new/[Commie] Tiger & Bunny - 11 [E25689B5].mkv
 !new/[Commie] X-Men - 10 [22F9CD61].mkv
+!new/[CureCom] Fresh Pretty Cure! - 28 [HD][F6F28A8E].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.17.[1280x720].[74702E4C].mkv
 !new/[HD-subs][kore wa zombie desuka  - 13 (OVA) [720p].mkv
+!new/[HorribleSubs] Astarotte's Toy - 10 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 21 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 22 [720p].mkv
 !new/[HorribleSubs] Deadman Wonderland  - 09 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 83 [720p].mkv
+!new/[HorribleSubs] Hanasaku Iroha - 11 [720p].mkv
 !new/[HorribleSubs] Nichijou - 11 [720p].mkv
 !new/[HorribleSubs] Ore-tachi Ni Tsubasa wa Nai - 10 [720p].mkv
 !new/[HorribleSubs] Sekai-ichi Hatsukoi - 10 [720p].mkv
+!new/[Licca] Happy Kappi Episode 10 (h.264) [067E8EC1].mkv
 !new/[Licca] Pollyanna Episode 23 (h.264) [51DF2BB1].mkv
 !new/[Mamiko]_RO-KYU-BU!_PV2_[720p][D90824BB].mkv
 !new/[Nipponsei] Beelzebub ED2 Single - Tsuyogari [Nakagawa Shouko].zip
@@ -998,6 +1002,43 @@
 !new/[T-N]Transformers_Masterforce_-_41_[1B393DE8].avi
 !new/[T-N]Transformers_Masterforce_-_42_[5B026F45].avi
 !new/[T-N]Transformers_Masterforce_-_Big_Book_of_Masterforce[87DD4008].avi
+!new/[T-N]Transformers_Victory_-_01_[6CE8731E].avi
+!new/[T-N]Transformers_Victory_-_02_[6236F39A].avi
+!new/[T-N]Transformers_Victory_-_03_[E34766A9].avi
+!new/[T-N]Transformers_Victory_-_04_[9D2E55B2].avi
+!new/[T-N]Transformers_Victory_-_05_[D78AB58F].avi
+!new/[T-N]Transformers_Victory_-_06_[6D2FA4EA].avi
+!new/[T-N]Transformers_Victory_-_07_[A92504F0].avi
+!new/[T-N]Transformers_Victory_-_08_[B064A061].avi
+!new/[T-N]Transformers_Victory_-_09_[F1C025C6].avi
+!new/[T-N]Transformers_Victory_-_10_[2DF746EA].avi
+!new/[T-N]Transformers_Victory_-_11_[DEFC7480].avi
+!new/[T-N]Transformers_Victory_-_12_[76345991].avi
+!new/[T-N]Transformers_Victory_-_13_[4CBDF922].avi
+!new/[T-N]Transformers_Victory_-_14_[8C3FD577].avi
+!new/[T-N]Transformers_Victory_-_15_[30BFC80E].avi
+!new/[T-N]Transformers_Victory_-_16_[C22E21D3].avi
+!new/[T-N]Transformers_Victory_-_17_[41DD0030].avi
+!new/[T-N]Transformers_Victory_-_18_[851D167F].avi
+!new/[T-N]Transformers_Victory_-_19_[000E0631].avi
+!new/[T-N]Transformers_Victory_-_20_[A8DC409C].avi
+!new/[T-N]Transformers_Victory_-_21_[E9A01DB8].avi
+!new/[T-N]Transformers_Victory_-_22_[B80001A9].avi
+!new/[T-N]Transformers_Victory_-_23_[C510E655].avi
+!new/[T-N]Transformers_Victory_-_24_[B4AC03EE].avi
+!new/[T-N]Transformers_Victory_-_25_[25E7503A].avi
+!new/[T-N]Transformers_Victory_-_26_[1E08CD87].avi
+!new/[T-N]Transformers_Victory_-_27_[4E4D1623].avi
+!new/[T-N]Transformers_Victory_-_28_[0668CA0C].avi
+!new/[T-N]Transformers_Victory_-_29_[A9D6FDF1].avi
+!new/[T-N]Transformers_Victory_-_30_[12A107C5].avi
+!new/[T-N]Transformers_Victory_-_31_[7F94C5E6].avi
+!new/[T-N]Transformers_Victory_-_32_[20D5EB0B].avi
+!new/[T-N]Transformers_Victory_-_33_[538FEF65].avi
+!new/[T-N]Transformers_Victory_-_34_[FCAAAD11].avi
+!new/[T-N]Transformers_Victory_-_35_[6635B794].avi
+!new/[T-N]Transformers_Victory_-_36_[B78F07E1].avi
+!new/[T-N]Transformers_Victory_-_37_[7862E425].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -1142,6 +1183,7 @@
 !new/[dvdrip] Transformers (1984) - E97 The rebirth part 2.avi
 !new/[dvdrip] Transformers (1984) - E98 The rebirth part 3.avi
 !new/[gg]_Ano_Hi_Mita_Hana_no_Namae_o_Bokutachi_wa_Mada_Shiranai_-_09_[E53227DD].mkv
+!new/[gg]_Ao_no_Exorcist_-_09_[A13A9B19].mkv
 !new/[gg]_Dororon_Enma-kun_Meramera_-_09_[43581C0E].mkv
 !new/[gg]_Dororon_Enma-kun_Meramera_-_10_[095186FA].mkv
 !new/[yesy] Soul Link - 01 (TV) Sayaka Panchira Scene [159CD85D].mkv
