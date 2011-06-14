@@ -1109,6 +1109,7 @@
 !new/[Doremi].Motto.Ojamajo.Doremi.47.[54D70887].avi
 !new/[HD-subs][kore wa zombie desuka  - 13 (OVA) [720p].mkv
 !new/[HorribleSubs] Astarotte's Toy - 10 [720p].mkv
+!new/[HorribleSubs] Battle Girls - Time Paradox - 11 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 21 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 22 [720p].mkv
 !new/[HorribleSubs] Deadman Wonderland  - 09 [720p].mkv
@@ -1290,6 +1291,28 @@
 !new/bla/zx.black.heaven.12.sub.rar
 !new/bla/zx.black.heaven.13.dub.avi
 !new/bla/zx.black.heaven.13.sub.rar
+!new/cor.extras.getbackers.ending1.[8194D2A2].mkv
+!new/cor.extras.getbackers.ending2.[1722AB95].mkv
+!new/cor.extras.getbackers.ending3.[BBD031CD].mkv
+!new/cor.extras.getbackers.ending4.[58F5F928].mkv
+!new/cor.extras.getbackers.opening1.[E2EFCBC3].mkv
+!new/cor.extras.getbackers.opening2.[D7CCEC84].mkv
+!new/cor.extras.getbackers.vol1.behind.the.scenes.[8D7CDD88].mkv
+!new/cor.extras.getbackers.vol2.behind.the.scenes.[4D311A7B].mkv
+!new/cor.extras.getbackers.vol3.behind.the.scenes.[F79E7A32].mkv
+!new/cor.extras.getbackers.vol4.a.conversation.with.dan.dietz.[F6853E0D].mkv
+!new/cor.extras.getbackers.vol4.behind.the.scenes.[E2FC738C].mkv
+!new/cor.extras.getbackers.vol6.behind.the.scenes.[8641641D].mkv
+!new/cor.extras.getbackers.vol7.behind.the.scenes.[590A6888].mkv
+!new/cor.tv.getbackers.01.[9E46CEF0].mkv
+!new/cor.tv.getbackers.02.[963295A6].mkv
+!new/cor.tv.getbackers.03.[9CFA249D].mkv
+!new/cor.tv.getbackers.04.[2D2CC9FC].mkv
+!new/cor.tv.getbackers.05.[47A92846].mkv
+!new/cor.tv.getbackers.06.[33DAAD49].mkv
+!new/cor.tv.getbackers.07.[C9EF2B34].mkv
+!new/cor.tv.getbackers.08.[E3BD8191].mkv
+!new/cor.tv.getbackers.09.[46FAE4F7].mkv
 !new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Creditless Endings [BDRip 1080p x264 FLAC].mkv
 !new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Creditless Opening [BDRip 1080p x264 FLAC].mkv
 !new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Ep01 [BDRip 1080p x264 FLAC].mkv
