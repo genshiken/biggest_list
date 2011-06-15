@@ -114,8 +114,6 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
-!new/Detective Conan - 618 [DCTP][720p][F9F50F17].mp4
-!new/Detective Conan - 619 [DCTP][720p][6D62DFD7].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -846,182 +844,6 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
 !new/The.Transformers.The.Movie.1986.1080p.BluRay.x264-hV.mkv
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 01 [BAD77CF8].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 02 [894FA5BA].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 03 [25E8F6AF].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 04 [3F3FCB32].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 05 [405201CF].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 06 [AB3738B6].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 07 [ACBC42BB].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 08 [289D2D3A].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 09 [0152B081].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 10 [65832B3E].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 11 [45156AC6].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 12 [8DD4D62E].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 13 [1DBF0F6F].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 14 [54B1DA2E].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 15 [7CFC8B6B].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 16 [434B1CAD].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 17 [8E22C45E].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 18 [6093E23F].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 19 [6EB099F3].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 20 [5084729B].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 21 [4419130F].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 22 [408EA156].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 23 [16EDBE98].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 24 [4B4A55B1].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 25 [7631668F].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 26 [0FE895B8].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 27 [EC9AD727].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 28 [2C5B4691].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 29 [171EA837].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 30 [CD64255A].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 31 [9048FC25].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 32 [8D94A854].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 33 [60FC64D9].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 34 [B10A5947].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 35 [779B21FA].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 36 [DD62B9E7].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 37 [66D6E491].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 38 [189F07FE].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 39 [3677BE56].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 40 [ED7B5A45].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 41 [488ED361].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 42 [F4C5F3F9].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 43 [8C5A6658].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 44 [7E48F31A].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 45 [C270B0AD].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 46 [DB33CF0D].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 47 [2BD814EE].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 48 [6131F5F9].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 49 [5C39BCDC].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 50 [45A06C0E].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 51 [4BA6A70D].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 52 [9E0172DE].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 53 [6A8DB8A9].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 54 [D5EC10AB].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 55 [DC698158].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 56 [B5551236].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 57 [9F708E80].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 58 [1295C8F7].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 59 [D365A073].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 60 [391E8632].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 61 [9CA368EA].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 62 [F7A27219].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 63 [89121F20].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 64 [A3F10655].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 65 [D05208BC].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 66 [3DCAB403].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 67 [BD207B72].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 68 [C35377BA].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 69 [EC4F8781].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 70 [EDCD5C84].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 71 [00E6587A].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 72 [51902A8F].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 73 [C8944276].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 74 [3FB9CD18].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 75 [9F68F6F0].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 76 [0E1FF105].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 77 [37891FD2].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 78 [77114015].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 79 [F66D2EB8].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 80 [91B15A80].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 81 [972A526D].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 82 [5D842A93].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 83 [0D0845D8].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 84 [B46C1543].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 85 [E50E35A0].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 86 [28D2568C].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 87 [FB0793C7].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 88 [550971B5].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 89 [6A1CFE49].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 90 [3EBEF823].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 91 [75357C5E].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 92 [F579E570].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 93 [92C4AF36].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 94 [79435173].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 95 [A22848B9].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 96 [8F05E31E].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 97 [74AF295D].avi
-!new/Transformers (1984)/[dvdrip] Transformers (1984) - 98 [D7D66C15].avi
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 01 - Four Warriors Come Out of the Sky [C19E212F].mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 02 - The Mystery of Planet Master [73A08CA8].mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 03 - Birth of Double Convoy! [E0DC076B].mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 04 - Operation Cassette [EC8BB50A].mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 05 - Rebellion on Planet Beast [3D0B4158].mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 06 - Approach of the Demon Meteorite [D3A7F0B5].mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 07 - The Four-Million-Year-Old Veil of Mystery [37ECDD8E].mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 08 - Terror of the Six Shadows [800F6DF1].mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 09 - Seibertron is in Grave Danger part one [673A34ED].mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 10 - Seibertron is in Grave Danger, part two [8F12A92C].mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 11 - Scorponok, the Shadow Emperor [5A0A244B].mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 12 - The Dormant Volcano Mysteriously Erupts [96298B5C].mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 13 - Head On, Fortress Maximus [C4F10C25].mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 14 - Explosion on Mars!! Maximus is in Danger [F3423B1F].mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 15 - Explosion on Mars!! Megazarak Appears [8998778A].mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 16 - The Return of the Immortal Emperor [E6F99A38].mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 17 - SOS from Planet Sandra [C903E86E].mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 18 - The Most Important Thing in the World [1929FDDF].mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 19 - Battle to the Death on the Beehive Planet [8A9C788A].mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 20 - Tide-turning Battle on the False Planet [BA1E7AB2].mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 21 - Find Megazarak`s Weak Spot [613D947E].mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 22_-_Head Formation of Friendship (b4d768ec).mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 23_-_Mystery of the Space Pirate Ship(622e53ac).mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 24 - The Death of Ultra Magnus (dd1b8537).mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 25_-_The Emperor of Destruction Vanishes on an Iceberg (0F594D30).mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 26_-_I Risk My Life for Earth (1e705a9c).mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 27_-_The Miracle Warriors - The Targetmasters, part one (263c2170).mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 28_-_The Miracle Warriors - The Targetmasters, part two (2ca7b951).mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 29_-_The Master Sword is in Danger (ade6ee36).mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 30 - The Zarak shield turns the tide.mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 31_-_Operation Destroy the Destrons (1F385608).mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 32_-_My Friend Sixshot! (86b5e737).mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 33_-_Duel on the Asteroid (8ea3561f).mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 34_-_The Final Showdown on Earth, part one (be04bf62).mkv
-!new/Transformers Headmasters/[Reb] Transformers Headmasters - 35_-_The Final Showdown on Earth, part two (9949ecb7).mkv
-!new/Transformers Masterforce/[T-N]Transformers_Masterforce_-_27_[9E83DDF7].avi
-!new/Transformers Masterforce/[T-N]Transformers_Masterforce_-_28_[E5236154].avi
-!new/Transformers Masterforce/[T-N]Transformers_Masterforce_-_29_[86BE3916].avi
-!new/Transformers Masterforce/[T-N]Transformers_Masterforce_-_30_[5EF49FEE].avi
-!new/Transformers Masterforce/[T-N]Transformers_Masterforce_-_31_[F97C4E8B].avi
-!new/Transformers Masterforce/[T-N]Transformers_Masterforce_-_32_[93E4FFB9].avi
-!new/Transformers Masterforce/[T-N]Transformers_Masterforce_-_33_[BE04539C].avi
-!new/Transformers Masterforce/[T-N]Transformers_Masterforce_-_34_[EEE2D7C1].avi
-!new/Transformers Masterforce/[T-N]Transformers_Masterforce_-_35_[D773CCBB].avi
-!new/Transformers Masterforce/[T-N]Transformers_Masterforce_-_36_[4A41B5E7].avi
-!new/Transformers Masterforce/[T-N]Transformers_Masterforce_-_37_[5832075A].avi
-!new/Transformers Masterforce/[T-N]Transformers_Masterforce_-_38_[C29647AF].avi
-!new/Transformers Masterforce/[T-N]Transformers_Masterforce_-_39_[93456F34].avi
-!new/Transformers Masterforce/[T-N]Transformers_Masterforce_-_40_[AB8665C4].avi
-!new/Transformers Masterforce/[T-N]Transformers_Masterforce_-_41_[1B393DE8].avi
-!new/Transformers Masterforce/[T-N]Transformers_Masterforce_-_42_[5B026F45].avi
-!new/Transformers Masterforce/[T-N]Transformers_Masterforce_-_Big_Book_of_Masterforce[87DD4008].avi
-!new/Transformers Masterforce/[WPP_&_T-N]Transformers_Masterforce_-_01_[6275CCD4].avi
-!new/Transformers Masterforce/[WPP_&_T-N]Transformers_Masterforce_-_02_[FB133476].avi
-!new/Transformers Masterforce/[WPP_&_T-N]Transformers_Masterforce_-_03_[3F3BAF07].avi
-!new/Transformers Masterforce/[WPP_&_T-N]Transformers_Masterforce_-_04_[4E9D8E12].avi
-!new/Transformers Masterforce/[WPP_&_T-N]Transformers_Masterforce_-_05_[AA613BE3].avi
-!new/Transformers Masterforce/[WPP_&_T-N]Transformers_Masterforce_-_06_[C1EFDA22].avi
-!new/Transformers Masterforce/[WPP_&_T-N]Transformers_Masterforce_-_07_[1B484011].avi
-!new/Transformers Masterforce/[WPP_&_T-N]Transformers_Masterforce_-_08_[9DCA670D].avi
-!new/Transformers Masterforce/[WPP_&_T-N]Transformers_Masterforce_-_09_[55DDAC64].avi
-!new/Transformers Masterforce/[WPP_&_T-N]Transformers_Masterforce_-_10_[F5AB380C].avi
-!new/Transformers Masterforce/[WPP_&_T-N]Transformers_Masterforce_-_11_[B7C126A0].avi
-!new/Transformers Masterforce/[WPP_&_T-N]Transformers_Masterforce_-_12_[FEC3A517].avi
-!new/Transformers Masterforce/[WPP_&_T-N]Transformers_Masterforce_-_13_[CC1182DC].avi
-!new/Transformers Masterforce/[WPP_&_T-N]Transformers_Masterforce_-_14_[8A4256B1].avi
-!new/Transformers Masterforce/[WPP_&_T-N]Transformers_Masterforce_-_15_[25411EA8].avi
-!new/Transformers Masterforce/[WPP_&_T-N]Transformers_Masterforce_-_16_[C920AE92].avi
-!new/Transformers Masterforce/[WPP_&_T-N]Transformers_Masterforce_-_17_[6FABD008].avi
-!new/Transformers Masterforce/[WPP_&_T-N]Transformers_Masterforce_-_18_[4A962F73].avi
-!new/Transformers Masterforce/[WPP_&_T-N]Transformers_Masterforce_-_19_[38D41A8D].avi
-!new/Transformers Masterforce/[WPP_&_T-N]Transformers_Masterforce_-_20_[C4D8395F].avi
-!new/Transformers Masterforce/[WPP_&_T-N]Transformers_Masterforce_-_21_[08C3774E].avi
-!new/Transformers Masterforce/[WPP_&_T-N]Transformers_Masterforce_-_22_[2B7EFCA0].avi
-!new/Transformers Masterforce/[WPP_&_T-N]Transformers_Masterforce_-_23_[D52CEBBF].avi
-!new/Transformers Masterforce/[WPP_&_T-N]Transformers_Masterforce_-_24_[2DE2E6A1].avi
-!new/Transformers Masterforce/[WPP_&_T-N]Transformers_Masterforce_-_25_[19539BF6].avi
-!new/Transformers Masterforce/[WPP_&_T-N]Transformers_Masterforce_-_26_[E490235A].avi
 !new/Yamato/s1/Yamato 01 - remaster (Central Anime) [33d6eb95].mkv
 !new/Yamato/s1/Yamato 02 - remaster (Central Anime) [d9ab7e12].mkv
 !new/Yamato/s1/Yamato 03 - remaster (Central Anime) [36f50f9e].mkv
@@ -1099,83 +921,20 @@
 !new/Yamato/s3/YAMATO 3x24 - Secret of Planet Guardiana.mkv
 !new/Yamato/s3/YAMATO 3x25 - Yamato, Shoot that Sun!.mkv
 !new/Yamato/s3/Yamato 3x01.mkv
-!new/[A-Destiny_SGKK] Toriko - 10 (1280x720 H264 AAC) [17F65CF1].mkv
-!new/[ASL]_Hayami_Saori_-_Kami_Nomi_zo_Shiru_Sekai_II_Character_CD_00_Haqua_starring_Hayami_Saori_[FLAC]_[w_Scans].rar
-!new/[ASL]_Katakiri_Rekka_-_History_of_WORXSONGz_1_[FLAC].rar
-!new/[ASL]_Shikata_Akiko_-_Byakumu_no_Mayu_~Ricordando_il_passato~_[FLAC]_[w_Scans].rar
-!new/[ASL]_azusa_-_Yume_Note_[FLAC].rar
-!new/[Commie] Steins;Gate - 10 [FA233F56].mkv
-!new/[CureCom] Fresh Pretty Cure! - 28 [HD][F6F28A8E].mkv
-!new/[CureCom] Fresh Pretty Cure! - 29 [HD][49DCF9AD].mkv
-!new/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_18_[c7d8779c].avi
-!new/[Doremi-CureCom].Suite.PreCure!.17.[1280x720].[74702E4C].mkv
-!new/[Doremi-CureCom].Suite.PreCure!.18.[1280x720].[4C90228B].mkv
-!new/[Doremi].Motto.Ojamajo.Doremi.47.[54D70887].avi
+!new/[A-Destiny SGKK] Toriko - 10 [720p][17F65CF1].mkv
 !new/[HD-subs][kore wa zombie desuka  - 13 (OVA) [720p].mkv
-!new/[HorribleSubs] Astarotte's Toy - 10 [720p].mkv
 !new/[HorribleSubs] Battle Girls - Time Paradox - 11 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 21 [720p].mkv
 !new/[HorribleSubs] Bleach - 326 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 22 [720p].mkv
-!new/[HorribleSubs] Deadman Wonderland  - 09 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 83 [720p].mkv
 !new/[HorribleSubs] Gintama - 212 [720p].mkv
 !new/[HorribleSubs] Hanasaku Iroha - 11 [720p].mkv
 !new/[HorribleSubs] Ore-tachi Ni Tsubasa wa Nai - 10 [720p].mkv
 !new/[HorribleSubs] Sekai-ichi Hatsukoi - 10 [720p].mkv
 !new/[HorribleSubs] The World God Only Knows 2 - 10 [720p].mkv
-!new/[Licca] Happy Kappi Episode 10 (h.264) [067E8EC1].mkv
-!new/[Licca] Pollyanna Episode 23 (h.264) [51DF2BB1].mkv
-!new/[Mamiko]_RO-KYU-BU!_PV2_[720p][D90824BB].mkv
-!new/[Nipponsei] Beelzebub ED2 Single - Tsuyogari [Nakagawa Shouko].zip
-!new/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.00 - Haqua [Hayami Saori].zip
-!new/[Nipponsei] Shiki Original Soundtrack.zip
-!new/[Over-Time]_Kamen_Rider_OOO_-_38_[84347A21].mkv
-!new/[Over-Time]_Pirate_Sentai_Gokaiger_-_17_[77EE0564].mkv
 !new/[PV-RAWS] RO-KYU-BU! PV 2 (480p_H.264-AAC).flv
 !new/[PV-RAWS] RO-KYU-BU! PV 2 (720p_H.264-AAC).mp4
-!new/[ReDone] Soul Link - 10.5 Part A [DVD][A4BED3B0].mkv
-!new/[ReDone] Soul Link - 10.5 Part B [DVD][A7E3AC30].mkv
-!new/[ReDone] Tonagura! - 12 (DVD) [4BB407F2].mkv
-!new/[RyRo]_Inazuma_Eleven_GO_-_005_(720p)_[E46D8905].mkv
-!new/[SubDesu] 30-sai no Hoken Taiiku - 10 (1280x720) [E6F02061].mkv
-!new/[T-N]Transformers_Victory_-_01_[6CE8731E].avi
-!new/[T-N]Transformers_Victory_-_02_[6236F39A].avi
-!new/[T-N]Transformers_Victory_-_03_[E34766A9].avi
-!new/[T-N]Transformers_Victory_-_04_[9D2E55B2].avi
-!new/[T-N]Transformers_Victory_-_05_[D78AB58F].avi
-!new/[T-N]Transformers_Victory_-_06_[6D2FA4EA].avi
-!new/[T-N]Transformers_Victory_-_07_[A92504F0].avi
-!new/[T-N]Transformers_Victory_-_08_[B064A061].avi
-!new/[T-N]Transformers_Victory_-_09_[F1C025C6].avi
-!new/[T-N]Transformers_Victory_-_10_[2DF746EA].avi
-!new/[T-N]Transformers_Victory_-_11_[DEFC7480].avi
-!new/[T-N]Transformers_Victory_-_12_[76345991].avi
-!new/[T-N]Transformers_Victory_-_13_[4CBDF922].avi
-!new/[T-N]Transformers_Victory_-_14_[8C3FD577].avi
-!new/[T-N]Transformers_Victory_-_15_[30BFC80E].avi
-!new/[T-N]Transformers_Victory_-_16_[C22E21D3].avi
-!new/[T-N]Transformers_Victory_-_17_[41DD0030].avi
-!new/[T-N]Transformers_Victory_-_18_[851D167F].avi
-!new/[T-N]Transformers_Victory_-_19_[000E0631].avi
-!new/[T-N]Transformers_Victory_-_20_[A8DC409C].avi
-!new/[T-N]Transformers_Victory_-_21_[E9A01DB8].avi
-!new/[T-N]Transformers_Victory_-_22_[B80001A9].avi
-!new/[T-N]Transformers_Victory_-_23_[C510E655].avi
-!new/[T-N]Transformers_Victory_-_24_[B4AC03EE].avi
-!new/[T-N]Transformers_Victory_-_25_[25E7503A].avi
-!new/[T-N]Transformers_Victory_-_26_[1E08CD87].avi
-!new/[T-N]Transformers_Victory_-_27_[4E4D1623].avi
-!new/[T-N]Transformers_Victory_-_28_[0668CA0C].avi
-!new/[T-N]Transformers_Victory_-_29_[A9D6FDF1].avi
-!new/[T-N]Transformers_Victory_-_30_[12A107C5].avi
-!new/[T-N]Transformers_Victory_-_31_[7F94C5E6].avi
-!new/[T-N]Transformers_Victory_-_32_[20D5EB0B].avi
-!new/[T-N]Transformers_Victory_-_33_[538FEF65].avi
-!new/[T-N]Transformers_Victory_-_34_[FCAAAD11].avi
-!new/[T-N]Transformers_Victory_-_35_[6635B794].avi
-!new/[T-N]Transformers_Victory_-_36_[B78F07E1].avi
-!new/[T-N]Transformers_Victory_-_37_[7862E425].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -1191,10 +950,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[aether-raws] Kawano Marina - Morning Arch [DVD][328A332D].mkv
-!new/[umee]_Shiki_-_20.5_[249AF7DD].mkv
-!new/[yesy] Soul Link - 01 (TV) Sayaka Panchira Scene [159CD85D].mkv
-!new/[yesy] Soul Link - 10 (TV) Preview for 10.5 [3460C8E5].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx

@@ -69,10 +69,12 @@ music/ACHGM-DIE/[2007-07-03]_[ACHGM-DIE]_[3114]_Kiss_Dum_-ENGAGE_planet-_OP_Sing
 music/ASL/[ASL]_Airi_-_30-sai_no_Hoken_Taiiku_ED_-_Learn together_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_EXIT_TUNES_PRESENTS_Mayumi_Morinaga_-_Exp._[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Elements_Garden_-_Taiyou_no_Promia_Complete_Soundtrack_CD_~Music_for_Milsant~_[FLAC].rar
+music/ASL/[ASL]_Hayami_Saori_-_Kami_Nomi_zo_Shiru_Sekai_II_Character_CD_00_Haqua_starring_Hayami_Saori_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_IKU_-_Robe_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Isami_-_Trinity_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Itou_Kanae_-_Softenni_ED_-_Tsumasakidachi_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Karen_-_Gokuin_no_Sentou_Original_Soundtrack_CD_[FLAC].rar
+music/ASL/[ASL]_Katakiri_Rekka_-_History_of_WORXSONGz_1_[FLAC].rar
 music/ASL/[ASL]_Kicco_-_Gateau_au_Chocolate_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Koshimizu_Ami_-_Kami_Nomi_zo_Shiru_Sekai_II_Character_CD_5_-_Kasuga_Kusunoki_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Nakajima_Megumi_-_Moshidora_-_If_[FLAC]_[w_Scans].rar
@@ -81,6 +83,7 @@ music/ASL/[ASL]_PSYCHIC_LOVER_-_Rewrite_2nd_OP_Theme_-_Rewrite_[FLAC].rar
 music/ASL/[ASL]_Puella_Magi_Madoka_Magica_Special_CD_2_Original_Soundtrack_I_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_SMEE_-_~Lover_Able~_IcyaLove_Memorial_Sound_Collection_[FLAC].rar
 music/ASL/[ASL]_Sayaka_Sasaki_-_Nichjou_ED_Single_Zzz_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Shikata_Akiko_-_Byakumu_no_Mayu_~Ricordando_il_passato~_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Shimotsuki_Haruka_-_melodies_memories_[w_Scans]_[FLAC].rar
 music/ASL/[ASL]_TAMUSIC_-_Angel_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Arists_-_Infinite_Stratos_ORIGINAL_SOUNDTRACK_[FLAC]_[w_Scans].rar
@@ -115,6 +118,7 @@ music/ASL/[ASL]_Various_Artists_-_Taiyou_no_Promia_Theme_Song_Maxi_Single_CD_-_~
 music/ASL/[ASL]_Various_Artists_-_Touhou_Middonaito_MAXIMUM_TUNE_Gaiden_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Worlds_and_World's_end_Original_Soundtrack_-_Sekai_no_Owaru,_Sono_Hi_made_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Yukana_-_IS_Character_Vol_Song_CD_Vol._2_- _Cecilia_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_azusa_-_Yume_Note_[FLAC].rar
 music/ASL/[ASL]_eufonius_-_bezel_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_lovelive!_μ's_-_Printemps_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_nao_-_Hyperdimension_Neptunia_OP_-_Ryuusei_no_Bifrost_[FLAC].rar
@@ -477,6 +481,7 @@ music/Nipponsei/[Nipponsei] Basilisk Kouga Ninpou Chou Original Soundtrack III.z
 music/Nipponsei/[Nipponsei] Basilisk ~Kouga Ninpouchou~ ED1 ED2 Single - WILD EYES [Mizuki Nana] (320 kbps).zip
 music/Nipponsei/[Nipponsei] Battle Spirits Brave OP Single - free [Karasu].zip
 music/Nipponsei/[Nipponsei] Beelzebub ED Single - Answer [No Sleeves].zip
+music/Nipponsei/[Nipponsei] Beelzebub ED2 Single - Tsuyogari [Nakagawa Shouko].zip
 music/Nipponsei/[Nipponsei] Beelzebub OP Single - Dadada [Group Tamashii].zip
 music/Nipponsei/[Nipponsei] Beelzebub OP2 Single - Hajimaru no wa, Sayonara [ON OFF].zip
 music/Nipponsei/[Nipponsei] Beet the Vandel Buster ED1 Single - pureness [Nana Kitade].zip
@@ -788,6 +793,7 @@ music/Nipponsei/[Nipponsei] Kaichou wa Maid-sama! Maid Latte Songs!.zip
 music/Nipponsei/[Nipponsei] Kaichou wa Maid-sama! Virtual Live Album.zip
 music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD. - Asuka Sora [Sakurai Tomo].zip
 music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.0 - Elsie [Itou Kanae].zip
+music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.00 - Haqua [Hayami Saori].zip
 music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.1 - Takahara Ayumi [Taketatsu Ayana].zip
 music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.2 - Aoyama Mio [Yuuki Aoi].zip
 music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.3 - Nakagawa Kanon [Touyama Nao].zip
@@ -1205,6 +1211,7 @@ music/Nipponsei/[Nipponsei] Shijou Saikyou no Deshi Kenichi ED3 Single - RunOver
 music/Nipponsei/[Nipponsei] Shijou Saikyou no Deshi Kenichi OP Single - Be Strong [Yazumi Kana].zip
 music/Nipponsei/[Nipponsei] Shiki ED Single - walk no Yakusoku [nangi].zip
 music/Nipponsei/[Nipponsei] Shiki OP Single - Kuchizuke [BUCK-TICK].zip
+music/Nipponsei/[Nipponsei] Shiki Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Shin Koihime Musou ~Otome Tairan~ Character Vocal Album.zip
 music/Nipponsei/[Nipponsei] Shingetsutan Tsukihime - OST 1 - Moonlit Archives.zip
 music/Nipponsei/[Nipponsei] Shingetsutan Tsukihime - OST 2 - Moonlit Archives.zip
