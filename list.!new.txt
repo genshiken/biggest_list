@@ -922,7 +922,9 @@
 !new/Yamato/s3/YAMATO 3x25 - Yamato, Shoot that Sun!.mkv
 !new/Yamato/s3/Yamato 3x01.mkv
 !new/[A-Destiny SGKK] Toriko - 10 [720p][17F65CF1].mkv
+!new/[Commie] Steins;Gate - 11 [21EFBB77].mkv
 !new/[HD-subs][kore wa zombie desuka  - 13 (OVA) [720p].mkv
+!new/[Hiryuu-HiNA] Dog Days 11 [1280x720 H264 AAC] [B19EA51F].mkv
 !new/[HorribleSubs] Battle Girls - Time Paradox - 11 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 21 [720p].mkv
 !new/[HorribleSubs] Bleach - 326 [720p].mkv
@@ -933,8 +935,13 @@
 !new/[HorribleSubs] Ore-tachi Ni Tsubasa wa Nai - 10 [720p].mkv
 !new/[HorribleSubs] Sekai-ichi Hatsukoi - 10 [720p].mkv
 !new/[HorribleSubs] The World God Only Knows 2 - 10 [720p].mkv
+!new/[Licca] Happy Kappi Episode 11 (h.264) [5BC31ECC].mkv
+!new/[Mamiko]_RO-KYU-BU!_PV3_[720p][55562D0C].mkv
+!new/[PCSS] Yes! Pretty Cure 5 - 27 (DVD) [B37C6BAF].mkv
 !new/[PV-RAWS] RO-KYU-BU! PV 2 (480p_H.264-AAC).flv
 !new/[PV-RAWS] RO-KYU-BU! PV 2 (720p_H.264-AAC).mp4
+!new/[ReDone] Soul Link - 11 (DVD) [9C824B8C].mkv
+!new/[Shin-S] Ano Hi Mita Hana no Namae wo Boku-tachi wa Mada Shiranai. OP Single - Aoi Shiori [Galileo Galilei].zip
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -950,6 +957,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[yibis]_One_Piece_493_v2_[720p][FD707D01].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
