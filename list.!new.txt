@@ -157,6 +157,39 @@
 !new/Ginga Sengoku Gun Yuuden Rai 17 [46295EB4].mkv
 !new/Ginga Sengoku Gun Yuuden Rai 18 [B5D7CD51].mkv
 !new/Ginga Sengoku Gun Yuuden Rai 19 [2333BBB0].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 20 [D39E46F1].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 21 [CB87FE1F].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 22 [4AAB8450].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 23 [FDFE55FB].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 24 [168B33AE].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 25 [432FB805].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 26 [5B22E203].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 27 [452623AA].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 28 [CF77F500].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 29 [435CF774].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 30 [80A6A9E9].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 31 [4B543532].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 32 [D945CB09].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 33 [4021DDB2].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 34 [0652929F].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 35 [D6803ACD].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 36 [032B1B7C].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 37 [6EBFB739].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 38 [C7D7C26F].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 39 [B9F11A5D].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 40 [6EC0F272].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 41 [C7D2A5EE].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 42 [5AFFA652].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 43 [2B91BB53].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 44 [35ABC265].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 45 [95DEC6A7].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 46 [4D0C61CB].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 47 [56B908AD].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 48 [E8E5E4AB].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 49 [B18FFE6B].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 50 [7A18D4C3].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 51 [FE305F3E].mkv
+!new/Ginga Sengoku Gun Yuuden Rai 52 [30C2C315].mkv
 !new/K-ON!!/[Elysium] K-ON!! - 01 [1080p BD][46681059].mkv
 !new/K-ON!!/[Elysium] K-ON!! - 02 [1080p BD][3C162847].mkv
 !new/K-ON!!/[Elysium] K-ON!! - 03 [1080p BD][F024CADA].mkv
@@ -969,11 +1002,15 @@
 !new/[Licca] Pollyanna Episode 24 (h.264) [CA14B8F2].mkv
 !new/[Mamiko]_RO-KYU-BU!_PV3_[720p][55562D0C].mkv
 !new/[Mazui]_Denpa_Onna_to_Seishun_Otoko_-_10_[1821BB68].mkv
+!new/[Nipponsei] 30sai no Hoken Taiiku OP Single - Koi no Doutei [kanon x kanon].zip
+!new/[Nipponsei] Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shira nai. OP Single - Aoi Shiori [Galileo Galilei].zip
 !new/[Nutbladder]_Kaiji_S2_-_11_[B90DFB93].mkv
 !new/[PCSS] Yes! Pretty Cure 5 - 27 (DVD) [B37C6BAF].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_038_Dent_the_Sommelier_Detective!_The_Case_of_the_Missing_Tabunne!![H264_720P][F4E41C9B].mkv
 !new/[PV-RAWS] RO-KYU-BU! PV 2 (480p_H.264-AAC).flv
 !new/[PV-RAWS] RO-KYU-BU! PV 2 (720p_H.264-AAC).mp4
 !new/[ReDone] Soul Link - 11 (DVD) [9C824B8C].mkv
+!new/[Saizen]_Captain_Tsubasa_Road_to_2002_-_26_[DVD][931CC587].mkv
 !new/[Shin-S] Ano Hi Mita Hana no Namae wo Boku-tachi wa Mada Shiranai. OP Single - Aoi Shiori [Galileo Galilei].zip
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
@@ -991,6 +1028,9 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[UTW]_Amagami_SS_-_04_[BD][h264-1080p_FLAC][29047B0C].mkv
+!new/[UTW]_Ano_Hana_-_10_[h264-720p][82B7D2D5].mkv
+!new/[Underwater-Commie] Denpa Onna to Seishun Otoko - 10 (720p) [1BE3CFDD].mkv
+!new/[ray=out]_Riri_to_Kaeru_to_(Otouto)_-_Special_[ADB256BC].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
