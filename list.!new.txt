@@ -987,6 +987,8 @@
 !new/[Ayakashi]Softenni - 10 [720p] [28B3C4B7].mkv
 !new/[Ayako-Himatsubushi]_Dog_Days_-_09_[720p][A88016A6].mkv
 !new/[Ayako-Himatsubushi]_Dog_Days_-_10_[720p][A76147F2].mkv
+!new/[Ayako-Himatsubushi]_Dog_Days_-_11_[720p][BF011C08].mkv
+!new/[Ayako-Nishishi]_Softenni_-_10_[720p][C7879087].mkv
 !new/[Commie] Steins;Gate - 11 [21EFBB77].mkv
 !new/[EveTaku] A-Channel - 11 (1280x720 x264 AAC)[2cc5f087].mkv
 !new/[Formula]_Armored_Trooper_Votoms_-_Phantom_Arc_-_06_[720p_H.264_AAC][A2E2046C].mkv
@@ -1043,8 +1045,10 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[UTW]_Amagami_SS_-_04_[BD][h264-1080p_FLAC][29047B0C].mkv
 !new/[UTW]_Ano_Hana_-_10_[h264-720p][82B7D2D5].mkv
+!new/[UTW]_Hidan_no_Aria_-_10_[h264-720p][82E07BA2].mkv
 !new/[Underwater-Commie] Denpa Onna to Seishun Otoko - 10 (720p) [1BE3CFDD].mkv
 !new/[WhyNot] Hen Zemi - 11 [16B24E2F].mkv
+!new/[gg]_C_The_Money_of_Soul_and_Possibility_Control_-_10_[6700489E].mkv
 !new/[gg]_Dororon_Enma-kun_Meramera_-_11_[C90F2A9B].mkv
 !new/[gg]_Fireball_Charming_-_10_[C50D62A7].mkv
 !new/[ray=out]_Riri_to_Kaeru_to_(Otouto)_-_Special_[ADB256BC].mkv
