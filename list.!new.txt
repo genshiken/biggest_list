@@ -99,6 +99,7 @@
 !new/1/Minami-ke/[A-E Saizen] Minami-ke - 11 [DVD][ABB032D8].mkv
 !new/1/Minami-ke/[A-E Saizen] Minami-ke - 12 [DVD][BEAE2FDA].mkv
 !new/1/Minami-ke/[A-E Saizen] Minami-ke - 13 [End][DVD][EA23834E].mkv
+!new/AnoHana10v2 - Extract everything to same folder as the v1 and run this file.rar
 !new/Azumaria Lessons/Lesson - 01 - Golden Age America.mkv
 !new/Azumaria Lessons/Lesson - 02 - The Magdalene Order.mkv
 !new/Azumaria Lessons/Lesson - 03 - Secret Weapons Of The Magdalene Order.mkv
@@ -974,12 +975,18 @@
 !new/Yamato/s3/YAMATO 3x25 - Yamato, Shoot that Sun!.mkv
 !new/Yamato/s3/Yamato 3x01.mkv
 !new/[ASL]_Faylan_-_Senjou_no_Valkyria_3_Ta_ga_Tame_no_Juusou_OP_-_Tomoshibi_[MP3]_[w_Scans].rar
+!new/[ASL]_Katakiri_Rekka_-_History_of_WORXSONGz_2_[FLAC].rar
 !new/[ASL]_L@ve_once_-mermaid_s_tears-_-_Character_Song_Collection_-_S@ng_once_[FLAC]_[w_Scans].rar
 !new/[ASL]_Shimotsuki_Haruka_-_Frost_Moon_Cafe _OP_ED_Theme_Single_-_smile_link_[MP3].rar
 !new/[ASL]_Touyama_Nao_-_Kami_Nomi_zo_Shiru_Sekai_Nakagawa_Kanon_1st_Album_-_Birth_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_KSL_Live_World_2010_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Little_Busters!_-_Deejay_Busters!_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Toaru_Majutsu_no_Index_II_ARCHIVES_1_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Toaru_Majutsu_no_Index_II_ORIGINAL_SOUND_TRACK_2_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_VOCALO_LOVERS_feat._Hatsune_Miku_[FLAC]_[w_Scans].rar
+!new/[Ayakashi]Softenni - 10 [720p] [28B3C4B7].mkv
+!new/[Ayako-Himatsubushi]_Dog_Days_-_09_[720p][A88016A6].mkv
+!new/[Ayako-Himatsubushi]_Dog_Days_-_10_[720p][A76147F2].mkv
 !new/[Commie] Steins;Gate - 11 [21EFBB77].mkv
 !new/[EveTaku] A-Channel - 11 (1280x720 x264 AAC)[2cc5f087].mkv
 !new/[Formula]_Armored_Trooper_Votoms_-_Phantom_Arc_-_06_[720p_H.264_AAC][A2E2046C].mkv
@@ -989,14 +996,18 @@
 !new/[HorribleSubs] Beelzebub - 21 [720p].mkv
 !new/[HorribleSubs] Bleach - 326 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 22 [720p].mkv
+!new/[HorribleSubs] Cardfight!! Vanguard - 23 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 83 [720p].mkv
+!new/[HorribleSubs] Fairy Tail - 84 [720p].mkv
 !new/[HorribleSubs] Gintama - 212 [720p].mkv
 !new/[HorribleSubs] Hanasaku Iroha - 11 [720p].mkv
 !new/[HorribleSubs] Hoshizora e Kakaru Hashi - 10 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 216 [720p].mkv
 !new/[HorribleSubs] Ore-tachi Ni Tsubasa wa Nai - 10 [720p].mkv
+!new/[HorribleSubs] Ore-tachi Ni Tsubasa wa Nai - 11 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 11v2 [720p].mkv
 !new/[HorribleSubs] Sekai-ichi Hatsukoi - 10 [720p].mkv
+!new/[HorribleSubs] Sekai-ichi Hatsukoi - 11 [720p].mkv
 !new/[HorribleSubs] The World God Only Knows 2 - 10 [720p].mkv
 !new/[Licca] Happy Kappi Episode 11 (h.264) [5BC31ECC].mkv
 !new/[Licca] Pollyanna Episode 24 (h.264) [CA14B8F2].mkv
@@ -1004,6 +1015,7 @@
 !new/[Mazui]_Denpa_Onna_to_Seishun_Otoko_-_10_[1821BB68].mkv
 !new/[Nipponsei] 30sai no Hoken Taiiku OP Single - Koi no Doutei [kanon x kanon].zip
 !new/[Nipponsei] Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shira nai. OP Single - Aoi Shiori [Galileo Galilei].zip
+!new/[Nipponsei] Gintama' ED Single - Samurai Heart (Some Like It Hot!!) [SPYAIR].zip
 !new/[Nutbladder]_Kaiji_S2_-_11_[B90DFB93].mkv
 !new/[PCSS] Yes! Pretty Cure 5 - 27 (DVD) [B37C6BAF].mkv
 !new/[PM]Pocket_Monsters_Best_Wishes_038_Dent_the_Sommelier_Detective!_The_Case_of_the_Missing_Tabunne!![H264_720P][F4E41C9B].mkv
@@ -1012,6 +1024,8 @@
 !new/[ReDone] Soul Link - 11 (DVD) [9C824B8C].mkv
 !new/[Saizen]_Captain_Tsubasa_Road_to_2002_-_26_[DVD][931CC587].mkv
 !new/[Shin-S] Ano Hi Mita Hana no Namae wo Boku-tachi wa Mada Shiranai. OP Single - Aoi Shiori [Galileo Galilei].zip
+!new/[SubDesu] 30-sai no Hoken Taiiku - 11 (1280x720) [57201245].mkv
+!new/[SubDesu] Seikon no Qwaser II - 10 (1280x720) [95AD15E0].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -1030,6 +1044,9 @@
 !new/[UTW]_Amagami_SS_-_04_[BD][h264-1080p_FLAC][29047B0C].mkv
 !new/[UTW]_Ano_Hana_-_10_[h264-720p][82B7D2D5].mkv
 !new/[Underwater-Commie] Denpa Onna to Seishun Otoko - 10 (720p) [1BE3CFDD].mkv
+!new/[WhyNot] Hen Zemi - 11 [16B24E2F].mkv
+!new/[gg]_Dororon_Enma-kun_Meramera_-_11_[C90F2A9B].mkv
+!new/[gg]_Fireball_Charming_-_10_[C50D62A7].mkv
 !new/[ray=out]_Riri_to_Kaeru_to_(Otouto)_-_Special_[ADB256BC].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
