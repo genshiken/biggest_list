@@ -989,7 +989,23 @@
 !new/[Ayako-Himatsubushi]_Dog_Days_-_10_[720p][A76147F2].mkv
 !new/[Ayako-Himatsubushi]_Dog_Days_-_11_[720p][BF011C08].mkv
 !new/[Ayako-Nishishi]_Softenni_-_10_[720p][C7879087].mkv
+!new/[Coalgirls]_Kanamemo_01_(704x480_DVD_AC3)_[18999209].mkv
+!new/[Coalgirls]_Kanamemo_02_(704x480_DVD_AC3)_[B809C42D].mkv
+!new/[Coalgirls]_Kanamemo_03_(704x480_DVD_AC3)_[06BF762F].mkv
+!new/[Coalgirls]_Kanamemo_04_(704x480_DVD_AC3)_[207169E6].mkv
+!new/[Coalgirls]_Kanamemo_05_(704x480_DVD_AC3)_[A85FD128].mkv
+!new/[Coalgirls]_Kanamemo_06_(704x480_DVD_AC3)_[5DCC98EB].mkv
+!new/[Coalgirls]_Kanamemo_07_(704x480_DVD_AC3)_[FF02B56C].mkv
+!new/[Coalgirls]_Kanamemo_08_(704x480_DVD_AC3)_[CA5E9FF4].mkv
+!new/[Coalgirls]_Kanamemo_09_(704x480_DVD_AC3)_[0000223A].mkv
+!new/[Coalgirls]_Kanamemo_10_(704x480_DVD_AC3)_[9F69347E].mkv
+!new/[Coalgirls]_Kanamemo_11_(704x480_DVD_AC3)_[5BC1A8BE].mkv
+!new/[Coalgirls]_Kanamemo_12_(704x480_DVD_AC3)_[BAD06669].mkv
+!new/[Coalgirls]_Kanamemo_13_(704x480_DVD_AC3)_[541EA041].mkv
+!new/[Coalgirls]_Kanamemo_ED_(704x480_DVD_AC3)_[526882F6].mkv
+!new/[Coalgirls]_Kanamemo_OP_(704x480_DVD_AC3)_[DDDD0111].mkv
 !new/[Commie] Steins;Gate - 11 [21EFBB77].mkv
+!new/[Commie] X-Men - 11 [CFA3D197].mkv
 !new/[EveTaku] A-Channel - 11 (1280x720 x264 AAC)[2cc5f087].mkv
 !new/[Formula]_Armored_Trooper_Votoms_-_Phantom_Arc_-_06_[720p_H.264_AAC][A2E2046C].mkv
 !new/[HD-subs][kore wa zombie desuka  - 13 (OVA) [720p].mkv
@@ -999,6 +1015,7 @@
 !new/[HorribleSubs] Bleach - 326 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 22 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 23 [720p].mkv
+!new/[HorribleSubs] Deadman Wonderland  - 10 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 83 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 84 [720p].mkv
 !new/[HorribleSubs] Gintama - 212 [720p].mkv
@@ -1013,6 +1030,7 @@
 !new/[HorribleSubs] The World God Only Knows 2 - 10 [720p].mkv
 !new/[Licca] Happy Kappi Episode 11 (h.264) [5BC31ECC].mkv
 !new/[Licca] Pollyanna Episode 24 (h.264) [CA14B8F2].mkv
+!new/[Licca] Pollyanna Episode 25 (h.264) [6A22350C].mkv
 !new/[Mamiko]_RO-KYU-BU!_PV3_[720p][55562D0C].mkv
 !new/[Mazui]_Denpa_Onna_to_Seishun_Otoko_-_10_[1821BB68].mkv
 !new/[Nipponsei] 30sai no Hoken Taiiku OP Single - Koi no Doutei [kanon x kanon].zip
@@ -1052,6 +1070,8 @@
 !new/[gg]_Dororon_Enma-kun_Meramera_-_11_[C90F2A9B].mkv
 !new/[gg]_Fireball_Charming_-_10_[C50D62A7].mkv
 !new/[ray=out]_Riri_to_Kaeru_to_(Otouto)_-_Special_[ADB256BC].mkv
+!new/[yibis]_One_Piece_495_v2_[720p][C109AD19].mkv
+!new/[yibis]_One_Piece_496_v2_[720p][28D6DB85].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
