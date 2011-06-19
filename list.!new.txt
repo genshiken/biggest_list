@@ -115,6 +115,7 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - Movie 08 - Magician of the Silver Sky [DCTP][1080p][H264][D1E15E30].mkv
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -988,6 +989,7 @@
 !new/[Ayako-Himatsubushi]_Dog_Days_-_09_[720p][A88016A6].mkv
 !new/[Ayako-Himatsubushi]_Dog_Days_-_10_[720p][A76147F2].mkv
 !new/[Ayako-Himatsubushi]_Dog_Days_-_11_[720p][BF011C08].mkv
+!new/[Ayako-Himatsubushi]_Dog_Days_-_12_[720p][A310A984].mkv
 !new/[Ayako-Nishishi]_Softenni_-_10_[720p][C7879087].mkv
 !new/[Coalgirls]_Kanamemo_01_(704x480_DVD_AC3)_[18999209].mkv
 !new/[Coalgirls]_Kanamemo_02_(704x480_DVD_AC3)_[B809C42D].mkv
@@ -1006,12 +1008,14 @@
 !new/[Coalgirls]_Kanamemo_OP_(704x480_DVD_AC3)_[DDDD0111].mkv
 !new/[Commie] Steins;Gate - 11 [21EFBB77].mkv
 !new/[Commie] X-Men - 11 [CFA3D197].mkv
+!new/[Doki] 30-sai no Hoken Taiiku - 11 (1280x720 h264 AAC) [2D5E2B94].mkv
 !new/[EveTaku] A-Channel - 11 (1280x720 x264 AAC)[2cc5f087].mkv
 !new/[Formula]_Armored_Trooper_Votoms_-_Phantom_Arc_-_06_[720p_H.264_AAC][A2E2046C].mkv
 !new/[HD-subs][kore wa zombie desuka  - 13 (OVA) [720p].mkv
 !new/[Hiryuu-HiNA] Dog Days 11 [1280x720 H264 AAC] [B19EA51F].mkv
 !new/[HorribleSubs] Battle Girls - Time Paradox - 11 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 21 [720p].mkv
+!new/[HorribleSubs] Beelzebub - 22 [720p].mkv
 !new/[HorribleSubs] Bleach - 326 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 22 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 23 [720p].mkv
@@ -1022,6 +1026,7 @@
 !new/[HorribleSubs] Hanasaku Iroha - 11 [720p].mkv
 !new/[HorribleSubs] Hoshizora e Kakaru Hashi - 10 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 216 [720p].mkv
+!new/[HorribleSubs] Nichijou - 12 [720p].mkv
 !new/[HorribleSubs] Ore-tachi Ni Tsubasa wa Nai - 10 [720p].mkv
 !new/[HorribleSubs] Ore-tachi Ni Tsubasa wa Nai - 11 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 11v2 [720p].mkv
