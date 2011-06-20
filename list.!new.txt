@@ -985,11 +985,16 @@
 !new/[ASL]_Various_Artists_-_Toaru_Majutsu_no_Index_II_ARCHIVES_1_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Toaru_Majutsu_no_Index_II_ORIGINAL_SOUND_TRACK_2_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_VOCALO_LOVERS_feat._Hatsune_Miku_[FLAC]_[w_Scans].rar
+!new/[Commie] Deadman Wonderland - 10 [C2FB2908].mkv
+!new/[Commie] Tiger & Bunny - 12 [78DE0162].mkv
 !new/[Doki] 30-sai no Hoken Taiiku - 11 (1280x720 h264 AAC) [2D5E2B94].mkv
 !new/[EveTaku] A-Channel - 11 (1280x720 x264 AAC)[2cc5f087].mkv
 !new/[Formula]_Armored_Trooper_Votoms_-_Phantom_Arc_-_06_[720p_H.264_AAC][A2E2046C].mkv
+!new/[FroZen]_Yawara_-_59_[CC5D9F03].mkv
+!new/[FroZen]_Yawara_-_60_[A577546A].mkv
 !new/[HD-subs][kore wa zombie desuka  - 13 (OVA) [720p].mkv
 !new/[Hiryuu-HiNA] Dog Days 11 [1280x720 H264 AAC] [B19EA51F].mkv
+!new/[HorribleSubs] Astarotte's Toy - 11 [720p].mkv
 !new/[HorribleSubs] Battle Girls - Time Paradox - 11 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 21 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 22 [720p].mkv
@@ -1000,10 +1005,13 @@
 !new/[HorribleSubs] Fairy Tail - 83 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 84 [720p].mkv
 !new/[HorribleSubs] Gintama - 212 [720p].mkv
+!new/[HorribleSubs] Gintama - 213 [720p].mkv
 !new/[HorribleSubs] Hanasaku Iroha - 11 [720p].mkv
+!new/[HorribleSubs] Hanasaku Iroha - 12v2 [720p].mkv
 !new/[HorribleSubs] Hoshizora e Kakaru Hashi - 10 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 216 [720p].mkv
 !new/[HorribleSubs] Nichijou - 12 [720p].mkv
+!new/[HorribleSubs] Nichijou - 12v2 [720p].mkv
 !new/[HorribleSubs] Ore-tachi Ni Tsubasa wa Nai - 10 [720p].mkv
 !new/[HorribleSubs] Ore-tachi Ni Tsubasa wa Nai - 11 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 11v2 [720p].mkv
@@ -1011,6 +1019,9 @@
 !new/[HorribleSubs] Sekai-ichi Hatsukoi - 11 [720p].mkv
 !new/[HorribleSubs] The World God Only Knows 2 - 10 [720p].mkv
 !new/[Mamiko]_RO-KYU-BU!_PV3_[720p][55562D0C].mkv
+!new/[Nipponsei] Dororon Enma-kun Meeramera Original Soundtrack.zip
+!new/[Nipponsei] Gosick - Chie no Izumi to Seranade.zip
+!new/[SubDesu] Seikon no Qwaser II - 09 (1280x720) [6B4166EE].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -1026,6 +1037,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[WhyNot] Yondemasu yo, Azazel-san - 11 [EBA40923].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
