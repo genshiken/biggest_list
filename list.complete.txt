@@ -510,6 +510,7 @@ complete/a/Amagami - Character Monologue/[UTW] Amagami - Character Monologue - 6
 complete/a/Amagami SS/[UTW] Amagami SS - 01 [1080p BD][82910A2B].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - 02 [1080p BD][C15A54D8].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - 03 [1080p BD][AC7FD2D7].mkv
+complete/a/Amagami SS/[UTW] Amagami SS - 04 [1080p BD][29047B0C].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - 05 [1080p BD][C195C37F].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - 06 [1080p BD][14FA990D].mkv
 complete/a/Amagami SS/[UTW] Amagami SS - 07 [1080p BD][7DF13F7C].mkv
@@ -8139,32 +8140,21 @@ complete/k/Kampfer/[Commie] Kampfer - 09 [1080p BD][80E6ABDB].mkv
 complete/k/Kampfer/[Commie] Kampfer - 10 [1080p BD][F52B3297].mkv
 complete/k/Kampfer/[Commie] Kampfer - 11 [1080p BD][809DBA69].mkv
 complete/k/Kampfer/[Commie] Kampfer - 12 [End 1080p BD][A50186F8].mkv
-complete/k/Kanamemo/[Underwater] Kanamemo - 01 [A0FF3A67].mkv
-complete/k/Kanamemo/[Underwater] Kanamemo - 02 [6D136236].mkv
-complete/k/Kanamemo/[Underwater] Kanamemo - 03 [C23F09D2].mkv
-complete/k/Kanamemo/[Underwater] Kanamemo - 04 [FE554606].mkv
-complete/k/Kanamemo/[Underwater] Kanamemo - 05 [2F1BF146].mkv
-complete/k/Kanamemo/[Underwater] Kanamemo - 06 [14FCD4B8].mkv
-complete/k/Kanamemo/[Underwater] Kanamemo - 07 [159BB779].mkv
-complete/k/Kanamemo/[Underwater] Kanamemo - 08 [9D9133A6].mkv
-complete/k/Kanamemo/[Underwater] Kanamemo - 09 [5FEE586F].mkv
-complete/k/Kanamemo/[Underwater] Kanamemo - 10 [EF00334F].mkv
-complete/k/Kanamemo/[Underwater] Kanamemo - 11 [1330C84E].mkv
-complete/k/Kanamemo/[Underwater] Kanamemo - 12 [24037A5A].mkv
-complete/k/Kanamemo/[Underwater] Kanamemo - 13 [End][49ECB93B].mkv
-complete/k/Kanamemo/[polished] Kanamemo - 01 [DVD][B8D0D8DF].mkv
-complete/k/Kanamemo/[polished] Kanamemo - 02 [DVD][E5D857ED].mkv
-complete/k/Kanamemo/[polished] Kanamemo - 03 [DVD][0BF26B6B].mkv
-complete/k/Kanamemo/[polished] Kanamemo - 04 [DVD][60F1C379].mkv
-complete/k/Kanamemo/[polished] Kanamemo - 05 [DVD][9F8EA4D5].mkv
-complete/k/Kanamemo/[polished] Kanamemo - 06 [DVD][DE018371].mkv
-complete/k/Kanamemo/[polished] Kanamemo - 07 [DVD][E9AC7578].mkv
-complete/k/Kanamemo/[polished] Kanamemo - 08 [DVD][9D3FF0AC].mkv
-complete/k/Kanamemo/[polished] Kanamemo - 09 [DVD][90F23172].mkv
-complete/k/Kanamemo/[polished] Kanamemo - 10 [DVD][1AD775E6].mkv
-complete/k/Kanamemo/[polished] Kanamemo - 11 [DVD][17DB18DF].mkv
-complete/k/Kanamemo/[polished] Kanamemo - 12 [DVD][0665EE94].mkv
-complete/k/Kanamemo/[polished] Kanamemo - 13 [v2][End][DVD][4A1D38EC].mkv
+complete/k/Kanamemo/[Coalgirls] Kanamemo - 01 [DVD][18999209].mkv
+complete/k/Kanamemo/[Coalgirls] Kanamemo - 02 [DVD][B809C42D].mkv
+complete/k/Kanamemo/[Coalgirls] Kanamemo - 03 [DVD][06BF762F].mkv
+complete/k/Kanamemo/[Coalgirls] Kanamemo - 04 [DVD][207169E6].mkv
+complete/k/Kanamemo/[Coalgirls] Kanamemo - 05 [DVD][A85FD128].mkv
+complete/k/Kanamemo/[Coalgirls] Kanamemo - 06 [DVD][5DCC98EB].mkv
+complete/k/Kanamemo/[Coalgirls] Kanamemo - 07 [DVD][FF02B56C].mkv
+complete/k/Kanamemo/[Coalgirls] Kanamemo - 08 [DVD][CA5E9FF4].mkv
+complete/k/Kanamemo/[Coalgirls] Kanamemo - 09 [DVD][0000223A].mkv
+complete/k/Kanamemo/[Coalgirls] Kanamemo - 10 [DVD][9F69347E].mkv
+complete/k/Kanamemo/[Coalgirls] Kanamemo - 11 [DVD][5BC1A8BE].mkv
+complete/k/Kanamemo/[Coalgirls] Kanamemo - 12 [DVD][BAD06669].mkv
+complete/k/Kanamemo/[Coalgirls] Kanamemo - 13 [End][DVD][541EA041].mkv
+complete/k/Kanamemo/[Coalgirls] Kanamemo - Ending [DVD][526882F6].mkv
+complete/k/Kanamemo/[Coalgirls] Kanamemo - Opening [DVD][DDDD0111].mkv
 complete/k/Kannagi - OVA/[SHiN-gx & Genjo] Kannagi - OVA [DVD][BAB4D3A6].mkv
 complete/k/Kannagi/[SHiN-gx & Genjo] Kannagi - 01 [v2][DVD][5AEE8505].mkv
 complete/k/Kannagi/[SHiN-gx & Genjo] Kannagi - 02 [v2][DVD][5AE8B55C].mkv
@@ -16154,7 +16144,7 @@ complete/s/Soul Link/[ReDone] Soul Link - 07 [DVD][E6080280].mkv
 complete/s/Soul Link/[ReDone] Soul Link - 08 [DVD][C47BB7E7].mkv
 complete/s/Soul Link/[ReDone] Soul Link - 09 [DVD][96246F9D].mkv
 complete/s/Soul Link/[ReDone] Soul Link - 10 [DVD][7E1D731A].mkv
-complete/s/Soul Link/[yesy] Soul Link - 11 [4BFDB83F].avi
+complete/s/Soul Link/[ReDone] Soul Link - 11 [DVD][9C824B8C].mkv
 complete/s/Soul Link/[yesy] Soul Link - 12 [End][083A9C7C].avi
 complete/s/Sousei no Aquarion OVA/[Shinsen-Subs] Sousei no Aquarion OVA - 1 [9C702197].avi
 complete/s/Sousei no Aquarion OVA/[Shinsen-Subs] Sousei no Aquarion OVA - 2 [End][A028C169].avi

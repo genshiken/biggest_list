@@ -325,6 +325,7 @@ music/Nipponsei/[Nipponsei] 009-1 Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] 2x2 Shinobuden OP ED Single (320k with scans).zip
 music/Nipponsei/[Nipponsei] 2x2 Shinobuden Soundtrack and Songs.zip
 music/Nipponsei/[Nipponsei] 30sai no Hoken Taiiku ED Single - learn together [AiRI].zip
+music/Nipponsei/[Nipponsei] 30sai no Hoken Taiiku OP Single - Koi no Doutei [kanon x kanon].zip
 music/Nipponsei/[Nipponsei] A Channel ED & Insert Song Single - Humming Girl [Various].zip
 music/Nipponsei/[Nipponsei] A Channel OP Single - Morning Arch [Kawano Marina].zip
 music/Nipponsei/[Nipponsei] AIKa R-16 OP ED Single - Sailing To The Future [Koshimizu Ami].zip
@@ -388,6 +389,7 @@ music/Nipponsei/[Nipponsei] Animal Yokochou ED2 - Sweetie [Orikasa Fumiko].zip
 music/Nipponsei/[Nipponsei] Animal Yokochou OP1 Single - Tondemo Nothing [Ami with Iyo, Kenta, Issa] (320 kbps).zip
 music/Nipponsei/[Nipponsei] Animal Yokochou OP2 Single - Love chu You [Ribbon Girl].zip
 music/Nipponsei/[Nipponsei] Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shira nai. ED Single - Secret Base ~Kimi ga Kureta mono~ [Various].zip
+music/Nipponsei/[Nipponsei] Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shira nai. OP Single - Aoi Shiori [Galileo Galilei].zip
 music/Nipponsei/[Nipponsei] Ao no Exorcist ED Single - Take off [2PM].zip
 music/Nipponsei/[Nipponsei] Ao no Exorcist OP Single - CORE PRIDE [UVERworld].zip
 music/Nipponsei/[Nipponsei] Aobouzu - Hiroshige Blue [5707E590] 320k CBR.zip
@@ -678,6 +680,7 @@ music/Nipponsei/[Nipponsei] Gintama ED7 Album - SIGNAL [KELUN].zip
 music/Nipponsei/[Nipponsei] Gintama OP Single - Pray [Tommy heavenly6].zip
 music/Nipponsei/[Nipponsei] Gintama OP2 Single - Tooi Nioi [YO-KING].zip
 music/Nipponsei/[Nipponsei] Gintama Original Soundtrack.zip
+music/Nipponsei/[Nipponsei] Gintama' ED Single - Samurai Heart (Some Like It Hot!!) [SPYAIR].zip
 music/Nipponsei/[Nipponsei] Gokujou Seitokai OP Single - Koi se yo Onna no ko [Tamura Yukari] (320 kbps).zip
 music/Nipponsei/[Nipponsei] Gokujou!! Mecha Mote Iinchou Second Collection OP ED Single - Oshare My Dream [Various].zip
 music/Nipponsei/[Nipponsei] Goshuushou-sama Ninomiya-kun OP ED Single - Yubikiri [Kadowaki Mai Sawashiro Miyuki].zip
@@ -1642,6 +1645,7 @@ music/Shin-S/[Shin - S] Mahou Shoujo Madoka Magica ED Single - Magia.rar
 music/Shin-S/[Shin-S] A Channel ED & Insert Song Single - Humming Girl [Various].zip
 music/Shin-S/[Shin-S] A Channel OP Single - Morning Arch [Kawano Marina].zip
 music/Shin-S/[Shin-S] Ano Hi Mita Hana no Namae wo Boku-tachi wa Mada Shiranai. ED Single - secret base ~Kimi ga Kureta Mono~ [Various].zip
+music/Shin-S/[Shin-S] Ano Hi Mita Hana no Namae wo Boku-tachi wa Mada Shiranai. OP Single - Aoi Shiori [Galileo Galilei].zip
 music/Shin-S/[Shin-S] Astarotte no Omocha! ED Single - Manatsu no Photograph [azusa].zip
 music/Shin-S/[Shin-S] Astarotte no Omocha! OP Single - Tenshi no CLOVER [Aimi].zip
 music/Shin-S/[Shin-S] DOG DAYS ED Single - PRESENTER [Horie Yui].zip
