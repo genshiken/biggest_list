@@ -318,6 +318,22 @@ complete/a/Akagi/[Triad] Akagi - 23 [A178306F].avi
 complete/a/Akagi/[Triad] Akagi - 24 [898162E3].avi
 complete/a/Akagi/[Triad] Akagi - 25 [044BAB9D].avi
 complete/a/Akagi/[Triad] Akagi - 26 [End][06B8E199].avi
+complete/a/Akahori Gedou Hour Rabuge/[Jumonji-Giri] Akahori Gedou Hour Rabuge - 01 [C9FBB644].mkv
+complete/a/Akahori Gedou Hour Rabuge/[Jumonji-Giri] Akahori Gedou Hour Rabuge - 02 [08F1A6C3].mkv
+complete/a/Akahori Gedou Hour Rabuge/[Jumonji-Giri] Akahori Gedou Hour Rabuge - 03 [8D39682E].mkv
+complete/a/Akahori Gedou Hour Rabuge/[Jumonji-Giri] Akahori Gedou Hour Rabuge - 04 [203F3F35].mkv
+complete/a/Akahori Gedou Hour Rabuge/[Jumonji-Giri] Akahori Gedou Hour Rabuge - 05 [3CA396A2].mkv
+complete/a/Akahori Gedou Hour Rabuge/[Jumonji-Giri] Akahori Gedou Hour Rabuge - 06 [96079C88].mkv
+complete/a/Akahori Gedou Hour Rabuge/[Jumonji-Giri] Akahori Gedou Hour Rabuge - 07 [392129D9].mkv
+complete/a/Akahori Gedou Hour Rabuge/[Jumonji-Giri] Akahori Gedou Hour Rabuge - 08 [D8925BFB].mkv
+complete/a/Akahori Gedou Hour Rabuge/[Jumonji-Giri] Akahori Gedou Hour Rabuge - 09 [FD9DB91A].mkv
+complete/a/Akahori Gedou Hour Rabuge/[Jumonji-Giri] Akahori Gedou Hour Rabuge - 10 [D9DF277C].mkv
+complete/a/Akahori Gedou Hour Rabuge/[Jumonji-Giri] Akahori Gedou Hour Rabuge - 11 [ED28747B].mkv
+complete/a/Akahori Gedou Hour Rabuge/[Jumonji-Giri] Akahori Gedou Hour Rabuge - 12 [C4D228CB].mkv
+complete/a/Akahori Gedou Hour Rabuge/[Jumonji-Giri] Akahori Gedou Hour Rabuge - 13 [End][D3610BC7].mkv
+complete/a/Akahori Gedou Hour Rabuge/[Jumonji-Giri] Akahori Gedou Hour Rabuge - Ending (Clean) [54EC55D4].mkv
+complete/a/Akahori Gedou Hour Rabuge/[Jumonji-Giri] Akahori Gedou Hour Rabuge - Opening 1 (Clean) [EB6E7790].mkv
+complete/a/Akahori Gedou Hour Rabuge/[Jumonji-Giri] Akahori Gedou Hour Rabuge - Opening 2 (Clean) [7FCD7858].mkv
 complete/a/Akane Maniax/[Anime-Legion] Akane Maniax - 3 [End][754422AC].avi
 complete/a/Akane Maniax/[Conclave-Legion] Akane Maniax - 2 [E52C9091].avi
 complete/a/Akane Maniax/[Keep-Legion] Akane Maniax - 1 [0B09ED84].avi
@@ -4160,6 +4176,21 @@ complete/f/Fighting Spirit/[Anime-MX] Fighting Spirit - 72 [CBEC4BCF].mkv
 complete/f/Fighting Spirit/[Anime-MX] Fighting Spirit - 73 [72C37F88].mkv
 complete/f/Fighting Spirit/[Anime-MX] Fighting Spirit - 74 [ECD448F7].mkv
 complete/f/Fighting Spirit/[Anime-MX] Fighting Spirit - 75 [End][B8DA258A].mkv
+complete/f/Final Approach/[Jumonji-Giri] Final Approach - 01 [1F1C19A8].mkv
+complete/f/Final Approach/[Jumonji-Giri] Final Approach - 02 [F170D0A9].mkv
+complete/f/Final Approach/[Jumonji-Giri] Final Approach - 03 [C1B7C2A3].mkv
+complete/f/Final Approach/[Jumonji-Giri] Final Approach - 04 [19487C2A].mkv
+complete/f/Final Approach/[Jumonji-Giri] Final Approach - 05 [22182087].mkv
+complete/f/Final Approach/[Jumonji-Giri] Final Approach - 06 [6D21033B].mkv
+complete/f/Final Approach/[Jumonji-Giri] Final Approach - 07 [381F9F41].mkv
+complete/f/Final Approach/[Jumonji-Giri] Final Approach - 08 [DDFEE646].mkv
+complete/f/Final Approach/[Jumonji-Giri] Final Approach - 09 [3941AFF1].mkv
+complete/f/Final Approach/[Jumonji-Giri] Final Approach - 10 [3AC84A06].mkv
+complete/f/Final Approach/[Jumonji-Giri] Final Approach - 11 [4D52AA0A].mkv
+complete/f/Final Approach/[Jumonji-Giri] Final Approach - 12 [256886C5].mkv
+complete/f/Final Approach/[Jumonji-Giri] Final Approach - 13 [End][34D9ACAD].mkv
+complete/f/Final Approach/[Jumonji-Giri] Final Approach - Ending (Clean) [93BCB963].mkv
+complete/f/Final Approach/[Jumonji-Giri] Final Approach - Opening (Clean)[7FDEDD5C].mkv
 complete/f/Final Fantasy - Legend of the Crystals OVA/[KLF] Final Fantasy - Legend of the Crystals OVA - 1 [6B23103A].avi
 complete/f/Final Fantasy - Legend of the Crystals OVA/[KLF] Final Fantasy - Legend of the Crystals OVA - 2 [51C1AD51].avi
 complete/f/Final Fantasy - Legend of the Crystals OVA/[KLF] Final Fantasy - Legend of the Crystals OVA - 3 [3B7A9240].avi
@@ -5075,6 +5106,58 @@ complete/g/Gigantic Formula/[Lunar] Gigantic Formula - 23 [1682F56E].mkv
 complete/g/Gigantic Formula/[Lunar] Gigantic Formula - 24 [AA03435D].mkv
 complete/g/Gigantic Formula/[Lunar] Gigantic Formula - 25 [0B11E262].mkv
 complete/g/Gigantic Formula/[Lunar] Gigantic Formula - 26 [End][1DE7DC42].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 01 [75AE745A].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 02 [63E8B59C].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 03 [AA056C29].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 04 [B9D1BEBB].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 05 [B08EF764].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 06 [F5DB01B5].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 07 [985A5062].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 08 [03633EAE].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 09 [C22AE07C].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 10 [E5A7CD49].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 11 [52E821F2].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 12 [5EF5D31A].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 13 [CAE543E2].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 14 [DFF6FD74].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 15 [3C952905].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 16 [0EA531B8].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 17 [46295EB4].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 18 [B5D7CD51].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 19 [2333BBB0].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 20 [D39E46F1].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 21 [CB87FE1F].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 22 [4AAB8450].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 23 [FDFE55FB].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 24 [168B33AE].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 25 [432FB805].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 26 [5B22E203].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 27 [452623AA].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 28 [CF77F500].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 29 [435CF774].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 30 [80A6A9E9].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 31 [4B543532].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 32 [D945CB09].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 33 [4021DDB2].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 34 [0652929F].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 35 [D6803ACD].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 36 [032B1B7C].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 37 [6EBFB739].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 38 [C7D7C26F].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 39 [B9F11A5D].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 40 [6EC0F272].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 41 [C7D2A5EE].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 42 [5AFFA652].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 43 [2B91BB53].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 44 [35ABC265].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 45 [95DEC6A7].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 46 [4D0C61CB].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 47 [56B908AD].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 48 [E8E5E4AB].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 49 [B18FFE6B].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 50 [7A18D4C3].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 51 [FE305F3E].mkv
+complete/g/Ginga Sengoku Gun Yuuden Rai/Ginga Sengoku Gun Yuuden Rai - 52 [End][30C2C315].mkv
 complete/g/Giniro no Kami no Agito/[ureshii] Giniro no Kami no Agito [D3ECCA59].mkv
 complete/g/Giniro no Olynssis/[Shinsen-Subs] Giniro no Olynssis - 01 [4DAFBDA6].mkv
 complete/g/Giniro no Olynssis/[Shinsen-Subs] Giniro no Olynssis - 02 [4FE5D05E].mkv
@@ -8954,6 +9037,9 @@ complete/k/Kobato/[gg] Kobato - 21 [C75A0DE5].mkv
 complete/k/Kobato/[gg] Kobato - 22 [4F78F360].mkv
 complete/k/Kobato/[gg] Kobato - 23 [7D10F68E].mkv
 complete/k/Kobato/[gg] Kobato - 24 [End][E02A6926].mkv
+complete/k/Koharu Biyori/[Exiled-Destiny] Koharu Biyori - 1 [4ADAB5BE].mkv
+complete/k/Koharu Biyori/[Exiled-Destiny] Koharu Biyori - 2 [7D035259].mkv
+complete/k/Koharu Biyori/[Exiled-Destiny] Koharu Biyori - 3 [3F36FB83].mkv
 complete/k/Koi Kaze/[NAG anime-fin] Koi Kaze - 01 [94117316].mkv
 complete/k/Koi Kaze/[NAG anime-fin] Koi Kaze - 02 [AEB4526C].mkv
 complete/k/Koi Kaze/[NAG anime-fin] Koi Kaze - 03 [91FB5B0C].mkv
@@ -11306,19 +11392,19 @@ complete/m/Minami-ke Okawari/[Ayu] Minami-ke Okawari - 10 (1280x720) [E4E13D47].
 complete/m/Minami-ke Okawari/[Ayu] Minami-ke Okawari - 11 (1280x720) [08FF6174].mkv
 complete/m/Minami-ke Okawari/[Ayu] Minami-ke Okawari - 12 (1280x720) [44FF6321].mkv
 complete/m/Minami-ke Okawari/[Ayu] Minami-ke Okawari - 13 (1280x720) [End][3A322615].mkv
-complete/m/Minami-ke/[Ayu] Minami-ke - 01 (1280x720) [v2][F3CF6D14].mkv
-complete/m/Minami-ke/[Ayu] Minami-ke - 02 (1280x720) [v3][8565F498].mkv
-complete/m/Minami-ke/[Ayu] Minami-ke - 03 (1280x720) [v2][BB58343F].mkv
-complete/m/Minami-ke/[Ayu] Minami-ke - 04 (1280x720) [v2][FC23A377].mkv
-complete/m/Minami-ke/[Ayu] Minami-ke - 05 (1280x720) [v2][7F68C892].mkv
-complete/m/Minami-ke/[Ayu] Minami-ke - 06 (1280x720) [F3D38706].mkv
-complete/m/Minami-ke/[Ayu] Minami-ke - 07 (1280x720) [0AB4266F].mkv
-complete/m/Minami-ke/[Ayu] Minami-ke - 08 (1280x720) [v2][FBC6D1EC].mkv
-complete/m/Minami-ke/[Ayu] Minami-ke - 09 (1280x720) [BB48373D].mkv
-complete/m/Minami-ke/[Ayu] Minami-ke - 10 (1280x720) [864FC2A6].mkv
-complete/m/Minami-ke/[Ayu] Minami-ke - 11 (1280x720) [v2][9992F8CA].mkv
-complete/m/Minami-ke/[Ayu] Minami-ke - 12 (1280x720) [753AA97F].mkv
-complete/m/Minami-ke/[Ayu] Minami-ke - 13 (1280x720) [End][2C0D7F29].mkv
+complete/m/Minami-ke/[A-E Saizen] Minami-ke - 01 [DVD][B393B799].mkv
+complete/m/Minami-ke/[A-E Saizen] Minami-ke - 02 [DVD][8BA5F0B5].mkv
+complete/m/Minami-ke/[A-E Saizen] Minami-ke - 03 [DVD][A5015788].mkv
+complete/m/Minami-ke/[A-E Saizen] Minami-ke - 04 [DVD][EBAC01E1].mkv
+complete/m/Minami-ke/[A-E Saizen] Minami-ke - 05 [DVD][EF01333B].mkv
+complete/m/Minami-ke/[A-E Saizen] Minami-ke - 06 [DVD][59272AB7].mkv
+complete/m/Minami-ke/[A-E Saizen] Minami-ke - 07 [DVD][0DAF750B].mkv
+complete/m/Minami-ke/[A-E Saizen] Minami-ke - 08 [DVD][B8891CCE].mkv
+complete/m/Minami-ke/[A-E Saizen] Minami-ke - 09 [DVD][BA57152A].mkv
+complete/m/Minami-ke/[A-E Saizen] Minami-ke - 10 [DVD][F82CF13B].mkv
+complete/m/Minami-ke/[A-E Saizen] Minami-ke - 11 [DVD][ABB032D8].mkv
+complete/m/Minami-ke/[A-E Saizen] Minami-ke - 12 [DVD][BEAE2FDA].mkv
+complete/m/Minami-ke/[A-E Saizen] Minami-ke - 13 [End][DVD][EA23834E].mkv
 complete/m/MiniPato/[anime fin] MiniPato [DVD][2906CE7D].avi
 complete/m/Mirai Nikki OVA/[Mazui] Mirai Nikki OVA [LQ][76A04333].mkv
 complete/m/Mission-E/[Minashigo-kai] Mission-E - 12 [E659F918].mkv
