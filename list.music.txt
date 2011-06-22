@@ -172,6 +172,7 @@ music/EAC/[EAC]TVアニメ「Aチャンネル」OPテーマ 「Morning Arch」[D
 music/EAC/[EAC]TVアニメ「DOG DAYS」EDテーマ 「PRESENTER」[DVD付]／堀江由衣(ape+cue+jpg+iso).zip
 music/EAC/[EAC]TVアニメ「STEINS;GATE 」OPテーマ 「Hacking to the Gate」[DVD付初回限定盤]／いとうかなこ (ape+cue+jpg+iso).zip
 music/EAC/[EAC]TVアニメ「STEINS；GATE」EDテーマ 「刻司ル十二ノ盟約」[DVD付]／ファンタズム（FES CV：榊原ゆい）(ape+cue+jpg+iso)ver.zip
+music/EAC/[EAC]TVアニメ「あの日見た花の名前を僕達はまだ知ら」OPテーマ 「青い栞」／Galileo Galilei(flac+cue+cover).zip
 music/EAC/[EAC]TVアニメ「そふてにっ」EDテーマ 「つまさきだち」[DVD付]／伊藤かな恵(ape+cue+jpg+iso).zip
 music/EAC/[EAC]TVアニメ「まりあ†ほりっく あらいぶ」OPEDテーマ 「るんるんりる らんらんらら・どうにもとまらない」／小林ゆう、天の妃少女合唱団(ape+cue+jpg).zip
 music/EAC/[EAC]TVアニメ「もしドラ」EDテーマ 「大好きだよ」[初回限定盤]／momo(wav+cue).zip
@@ -420,6 +421,8 @@ music/Nipponsei/[Nipponsei] Asobi ni Iku yo! OP Single - Now loading... SKY!! [S
 music/Nipponsei/[Nipponsei] Asobi ni Iku yo! Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Astarotte no Omocha! Character Song CD Vol.1 - Astarotte Ygvar & Judit Snorrevik [Various].zip
 music/Nipponsei/[Nipponsei] Astarotte no Omocha! Character Song CD Vol.2 - Touhara Asuha & Touhara Naoya [Various].zip
+music/Nipponsei/[Nipponsei] Astarotte no Omocha! Character Song CD Vol.3 - Griselda Reginhard & Elfleda Mirjasdorrir [Various].zip
+music/Nipponsei/[Nipponsei] Astarotte no Omocha! Character Song CD Vol.4 - Ingrid Sorveig Sorgrims & Elika Drakul Draupnils [Various].zip
 music/Nipponsei/[Nipponsei] Astarotte no Omocha! ED Single - Manatsu no Photograph [azusa].zip
 music/Nipponsei/[Nipponsei] Astarotte no Omocha! OP Single - Tenshi no CLOVER [Aimi].zip
 music/Nipponsei/[Nipponsei] BECK ED Single - above the clouds [meister].zip
@@ -446,6 +449,7 @@ music/Nipponsei/[Nipponsei] BLEACH ED11 Single - Tsumasaki [Ore Ska Band].zip
 music/Nipponsei/[Nipponsei] BLEACH ED13 Single - Tane wo Maku Hibi [Atari Kousuke].zip
 music/Nipponsei/[Nipponsei] BLEACH ED24 Single - echoes [universe].zip
 music/Nipponsei/[Nipponsei] BLEACH ED25 Single - Last Moment [SPYAIR].zip
+music/Nipponsei/[Nipponsei] BLEACH ED27 Single - Aoi Tori [Fumika].zip
 music/Nipponsei/[Nipponsei] BLEACH ED27 Single - Song for... [ROOKiEZ is PUNK'D].zip
 music/Nipponsei/[Nipponsei] BLEACH Movie - MEMORIES OF NOBODY Main Theme Single - Sen no Yoru wo Koete [Aqua Timez].zip
 music/Nipponsei/[Nipponsei] BLEACH Movie - MEMORIES OF NOBODY Original Soundtrack.zip
@@ -692,6 +696,7 @@ music/Nipponsei/[Nipponsei] Gintama OP Single - Pray [Tommy heavenly6].zip
 music/Nipponsei/[Nipponsei] Gintama OP2 Single - Tooi Nioi [YO-KING].zip
 music/Nipponsei/[Nipponsei] Gintama Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Gintama' ED Single - Samurai Heart (Some Like It Hot!!) [SPYAIR].zip
+music/Nipponsei/[Nipponsei] Gintama' OP Single - Tougenkyou Alien [serial TV drama].zip
 music/Nipponsei/[Nipponsei] Gokujou Seitokai OP Single - Koi se yo Onna no ko [Tamura Yukari] (320 kbps).zip
 music/Nipponsei/[Nipponsei] Gokujou!! Mecha Mote Iinchou Second Collection OP ED Single - Oshare My Dream [Various].zip
 music/Nipponsei/[Nipponsei] Goshuushou-sama Ninomiya-kun OP ED Single - Yubikiri [Kadowaki Mai Sawashiro Miyuki].zip
@@ -707,6 +712,7 @@ music/Nipponsei/[Nipponsei] Gundam SEED DESTINY Suit CD Vol. 7 - Auel x Sting.zi
 music/Nipponsei/[Nipponsei] Gundam SEED~SEED DESTINY BEST 'THE BRIDGE' Across the Songs from GUNDAM SEED & SEED DESTINY.zip
 music/Nipponsei/[Nipponsei] Hakuouki Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Hanasaku Iroha ED Single - Hazy [Sphere].zip
+music/Nipponsei/[Nipponsei] Hanasaku Iroha Image Song Collection.zip
 music/Nipponsei/[Nipponsei] Hanasaku Iroha OP Single - Hana no Iro [nano.RIPE].zip
 music/Nipponsei/[Nipponsei] Hanbun no Tsuki ga Noboru Sora OP ED Single - Aoi Koufuku [nobuko] (320 kbps).zip
 music/Nipponsei/[Nipponsei] Hanoka OP Single - Dual Love on the planet ~Hanoka~ [Nogawa Sakura].zip
@@ -813,6 +819,7 @@ music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.1 - Takahara A
 music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.2 - Aoyama Mio [Yuuki Aoi].zip
 music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.3 - Nakagawa Kanon [Touyama Nao].zip
 music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.5 - Kasuga Kusunoki [Koshimizu Ami].zip
+music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.6 - Kosaka Chihiro [Asumi Kana].zip
 music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai ED Single - Koi no Shirushi [Various].zip
 music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai II ED Single - Ai no Yokan [Various].zip
 music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai II OP Single - A Whole New World God Only Knows [Oratorio The World God Only Knows].zip
@@ -1669,6 +1676,7 @@ music/Shin-S/[Shin-S] Hidan no Aria ED Single - Camellia no Hitomi [Nakano Aiko]
 music/Shin-S/[Shin-S] Hoshizora e Kakaru Hashi ED Single - Dash do Cinderella [Nakamura Eriko & Shimizu Ai].zip
 music/Shin-S/[Shin-S] IS ~Infinite Stratos~ Character Song CD Vol.2 - Cecilia [Yukana].zip
 music/Shin-S/[Shin-S] Kami Nomi zo Shiru Sekai Character CD 5 - Kasuga Kusunoki [Koshimizu Ami].zip
+music/Shin-S/[Shin-S] Kami Nomi zo Shiru Sekai II Character CD 7 - Nagase Jun [Toyosaki Aki].zip
 music/Shin-S/[Shin-S] Kami Nomi zo Shiru Sekai II ED Single - Ai no Yokan [Kami Nomi zo Shiri-tai].zip
 music/Shin-S/[Shin-S] Kami Nomi zo Shiru Sekai II OP Single - A Whole New World God Only Knows [Oratorio The World God Only Knows].zip
 music/Shin-S/[Shin-S] Kami Nomi zo Shiru Sekai Insert Song Single - Koi, Yoroshiku Onegai Shimasu! [Citron].zip

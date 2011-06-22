@@ -165,6 +165,7 @@ incomplete/Armored Trooper Votoms - Phantom Arc/[SHS-FoSu] Armored Trooper Votom
 incomplete/Armored Trooper Votoms - Phantom Arc/[SHS-FoSu] Armored Trooper Votoms - Phantom Arc - 03 [720p][6BD53E7C].mkv
 incomplete/Ashita no Joe/[Saizen-HnG] Ashita no Joe - 20 [DVD][85E3FEF7].avi
 incomplete/Ashita no Joe/[Saizen-HnG] Ashita no Joe - 21 [DVD][DC78CD58].mkv
+incomplete/Ashita no Joe/[Saizen-HnG] Ashita no Joe - 22 [DVD][A2C17C06].mkv
 incomplete/Ashita no Joe/[Saizen] Ashita no Joe - 01 [DVD][69BCAC10].mkv
 incomplete/Ashita no Joe/[Saizen] Ashita no Joe - 02 [DVD][3ABA8A8C].mkv
 incomplete/Ashita no Joe/[Saizen] Ashita no Joe - 03 [DVD][D162E486].mkv
@@ -573,6 +574,7 @@ incomplete/Bleach/Bleach - 323 [HorribleSubs][720p][077A654B].mkv
 incomplete/Bleach/Bleach - 324 [HorribleSubs][720p][A2717B3F].mkv
 incomplete/Bleach/Bleach - 325 [HorribleSubs][720p][452D1C91].mkv
 incomplete/Bleach/Bleach - 326 [HorribleSubs][720p][E1ECFD0E].mkv
+incomplete/Bleach/Bleach - 327 [HorribleSubs][720p][FAF4A501].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 01 [AFCE3665].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 02 [A90F670C].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 03 [A47F2053].mkv
@@ -1036,6 +1038,7 @@ incomplete/Dog Days/[Hiryuu-HiNA] Dog Days - 08 [720p][268C466E].mkv
 incomplete/Dog Days/[Hiryuu-HiNA] Dog Days - 09 [720p][D095F00D].mkv
 incomplete/Dog Days/[Hiryuu-HiNA] Dog Days - 10 [720p][D1A36484].mkv
 incomplete/Dog Days/[Hiryuu-HiNA] Dog Days - 11 [720p][B19EA51F].mkv
+incomplete/Dog Days/[Hiryuu-HiNA] Dog Days - 12 [720p][2EFB6576].mkv
 incomplete/Doraemon/[Nobita] Doraemon - 01 [8B777A11].mkv
 incomplete/Doraemon/[Nobita] Doraemon - 02 [5E1F6ADF].mkv
 incomplete/Doraemon/[Nobita] Doraemon - 03 [77976897].mkv
@@ -3161,7 +3164,8 @@ incomplete/Popolocrois Story/[A-BT-Pakapuka] PopoloCrois Story - 24 [260E91CA].a
 incomplete/Pretty Rhythm - Aurora Dream/[FFFpeeps] Pretty Rhythm - Aurora Dream - 01 [BCF75565].mkv
 incomplete/Pretty Rhythm - Aurora Dream/[FFFpeeps] Pretty Rhythm - Aurora Dream - 02 [81C60B42].mkv
 incomplete/Pretty Rhythm - Aurora Dream/[FFFpeeps] Pretty Rhythm - Aurora Dream - 03 [407459E9].mkv
-incomplete/Pretty Rhythm - Aurora Dream/[KiteSeekers-Wasurenai] Pretty Rhythm - Aurora Dream - 01 [576p][F7EB9F70].mkv
+incomplete/Pretty Rhythm - Aurora Dream/[KiteSeekers-Wasurenai] Pretty Rhythm - Aurora Dream - 01 [v2 576p][DDB5AEB6].mkv
+incomplete/Pretty Rhythm - Aurora Dream/[KiteSeekers-Wasurenai] Pretty Rhythm - Aurora Dream - 02 [576p][1E6D724D].mkv
 incomplete/Prince of Tennis - Another Story OVA/[IP] Prince of Tennis - Another Story OVA - 1 [E77F84B8].avi
 incomplete/Princess Resurrection OVA/Princess Resurrection OVA - 1 [Mamiko SHiN][DVD][EEE2827C].mkv
 incomplete/Princess Resurrection OVA/Princess Resurrection OVA - 2 [Ayako][DVD][20B0A8BD].mkv
@@ -3691,6 +3695,7 @@ incomplete/Toriko/[A-Destiny SGKK] Toriko - 07 [720p][5CB1DAD4].mkv
 incomplete/Toriko/[A-Destiny SGKK] Toriko - 08 [720p][77BB2CB5].mkv
 incomplete/Toriko/[A-Destiny SGKK] Toriko - 09 [720p][93CB8DB3].mkv
 incomplete/Toriko/[A-Destiny SGKK] Toriko - 10 [720p][17F65CF1].mkv
+incomplete/Toriko/[A-Destiny] Toriko - 11 [720p][C0DC5D62].mkv
 incomplete/Touhou Unofficial Doujin Anime/[StrikeS-Ayako] Touhou Unofficial Doujin Anime - 01 [v2][3164C789].mkv
 incomplete/Ukkari Penelope (2009)/[BSS] Ukkari Penelope (2009) - 15 [3A2849A0].mkv
 incomplete/Ukkari Penelope (2009)/[BSS] Ukkari Penelope (2009) - 16 [EB8E980B].mkv
@@ -3869,6 +3874,8 @@ incomplete/Yoiko/[anime-rg ray=out] Yoiko - 12 [6903A862].mkv
 incomplete/Yoiko/[anime-rg ray=out] Yoiko - 13 [58F92426].mkv
 incomplete/Yoiko/[anime-rg ray=out] Yoiko - 14 [46BB6B7C].mkv
 incomplete/Yoiko/[anime-rg ray=out] Yoiko - 15 [BB96AE65].mkv
+incomplete/Yoiko/[anime-rg ray=out] Yoiko - 16 [D4CAAA7C].mkv
+incomplete/Yoiko/[anime-rg ray=out] Yoiko - 17 [F1643B84].mkv
 incomplete/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 01 [8FE8AA81].mkv
 incomplete/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 02 [AE71AEE3].mkv
 incomplete/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 03 [FE53BB5B].mkv
@@ -3948,6 +3955,11 @@ incomplete/Yumeiro Patissiere/[Wasurenai] Yumeiro Patissiere - 27 [B1A3A35D].mkv
 incomplete/Yumeiro Patissiere/[Wasurenai] Yumeiro Patissiere - 28 [23DED6CA].mkv
 incomplete/Yumeiro Patissiere/[Wasurenai] Yumeiro Patissiere - 29 [91098385].mkv
 incomplete/Yumeiro Patissiere/[Wasurenai] Yumeiro Patissiere - 30 [BD6BCC45].mkv
+incomplete/Yumeiro Patissiere/[Wasurenai] Yumeiro Patissiere - 46 [C019A3BF].mkv
+incomplete/Yumeiro Patissiere/[Wasurenai] Yumeiro Patissiere - 47 [165FC3B9].mkv
+incomplete/Yumeiro Patissiere/[Wasurenai] Yumeiro Patissiere - 48 [C1732BAA].mkv
+incomplete/Yumeiro Patissiere/[Wasurenai] Yumeiro Patissiere - 49 [A435DC91].mkv
+incomplete/Yumeiro Patissiere/[Wasurenai] Yumeiro Patissiere - 50 [End][F20B1158].mkv
 incomplete/Yutori-chan/[Yuurisan-Subs] Yutori-chan - 01 [Webrip][C9838BD2].mkv
 incomplete/Yutori-chan/[Yuurisan-Subs] Yutori-chan - 02 [Webrip][BFE01B68].mkv
 incomplete/Yutori-chan/[Yuurisan-Subs] Yutori-chan - 03 [Webrip][A15F24CC].mkv
