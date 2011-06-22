@@ -873,9 +873,11 @@
 !new/Yamato/s3/YAMATO 3x25 - Yamato, Shoot that Sun!.mkv
 !new/Yamato/s3/Yamato 3x01.mkv
 !new/[A-Destiny] Toriko - 11 (1280x720 H264 AAC) [C0DC5D62].mkv
+!new/[EAC]TVアニメ「あの日見た花の名前を僕達はまだ知ら」OPテーマ 「青い栞」／Galileo Galilei(flac+cue+cover).zip
 !new/[Harth]_Amagami_Drama_CD_-_Tanamachi_Kaoru_Monologue_-_First_Valentine_Monologue_[40C60322].mkv
 !new/[Hiryuu-HiNA] Dog Days 12 [1280x720 H264 AAC] [2EFB6576].mkv
 !new/[HorribleSubs] Bleach - 327 [720p].mkv
+!new/[KanAn]_Otogi-Jushi_Akazukin_v3_-_(DVD_h264_AAC)_[4863e960].mkv
 !new/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream - 01v2 [H264 1024x576] [DDB5AEB6].mkv
 !new/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream - 02 [H264 1024x576] [1E6D724D].mkv
 !new/[Nipponsei] Astarotte no Omocha! Character Song CD Vol.3 - Griselda Reginhard & Elfleda Mirjasdorrir [Various].zip
@@ -903,7 +905,8 @@
 !new/[Wasurenai] Yumeiro Patissiere - 48 [H264 848x480] [C1732BAA].mkv
 !new/[Wasurenai] Yumeiro Patissiere - 49 [H264 848x480] [A435DC91].mkv
 !new/[Wasurenai] Yumeiro Patissiere - 50 [H264 848x480] [F20B1158].mkv
-!new/[gg]_Ano_Hi_Mita_Hana_no_Namae_o_Bokutachi_wa_Mada_Shiranai_-_10v2_[F831656D].mkv
+!new/[anime-rg_-_ray=out]_Yoiko_-_16_[D4CAAA7C].mkv
+!new/[anime-rg_-_ray=out]_Yoiko_-_17_[F1643B84].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
