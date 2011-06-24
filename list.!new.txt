@@ -67,6 +67,7 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - 620 [DCTP][720p][279F2132].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -922,6 +923,20 @@
 !new/Yamato/s3/YAMATO 3x24 - Secret of Planet Guardiana.mkv
 !new/Yamato/s3/YAMATO 3x25 - Yamato, Shoot that Sun!.mkv
 !new/Yamato/s3/Yamato 3x01.mkv
+!new/[ASL]_Toyosaki_Aki_-_Kami_Nomi_zo_Shiru_Sekai_II_Character_CD_7_Nagase_Jun_starring_Toyosaki_Aki_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Secret_Game_CODE_Revise_Original_Sound_Track_[FLAC].rar
+!new/[ASL]_YuNa_-_Utatemeguri_Special_Song_CD_[FLAC]_[w_Scans].rar
+!new/[ASL]_lovelive!_μ’s_-_Bibi_[FLAC]_[w_Scans].rar
+!new/[EveTaku] A-Channel - 12 END (1280x720 x264 AAC)[01678112].mkv
+!new/[Harth]_Zero_no_Tsukaima_Character_CD2_-_Guiche_and_Montmorency_Mini-Drama_-_The_Forbidden_Nostrum_[713A947C].mkv
+!new/[HorribleSubs] Hoshizora e Kakaru Hashi - 11 [720p].mkv
+!new/[Nipponsei] Denpa Onna to Seishun Otoko Original Soundtrack Vol.1.zip
+!new/[Nipponsei] Inazuma Eleven GO ED Single - Yappa Seishun [Kitahara Sayaka].zip
+!new/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.7 - Nagase Jun [Toyosaki Aki].zip
+!new/[Nipponsei] Pretty Rhythm Aurora Dream ED Single - Happy GO Lucky! Happy Lucky de Go! [SUPER GIRLS].zip
+!new/[Nipponsei] Toriko OP Single - Guts Guts!! [Kushida Akira & Mishida Mihoko].zip
+!new/[Saizen-HnG]_Ashita_no_Joe_-_23_[DVD][0F48F71F].mkv
+!new/[SubDesu] Seikon no Qwaser II - 11 (1280x720) [63008159].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -937,6 +952,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[yibis]_One_Piece_497_v2_[720p][2A87E5F3].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
