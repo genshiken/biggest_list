@@ -67,7 +67,6 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
-!new/Detective Conan - 620 [DCTP][720p][279F2132].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -252,56 +251,6 @@
 !new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_62_[3269E048].mp4
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].ENG.srt
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].avi
-!new/Lupin III S3/[neo1024] Lupin III S3 - 01 [CA690D89].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 02 [74182A03].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 03 [41FC93A3].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 04 [13D7CB6B].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 05 [44D491AD].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 06 [16D73146].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 07 [1BEB1BB5].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 08 [6685B5A9].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 09 [C1EC56EA].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 10 [5E091476].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 11 [4A6EEF40].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 12 [6EB72EC7].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 13 [3B7DFDCB].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 14 [C5BA4D9D].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 15 [09816CA4].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 16 [D9F1132E].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 17 [4D750936].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 18 [F1841B72].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 19 [03C86BFE].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 20 [67132F56].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 21 [405C365D].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 22 [E1787B4B].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 23 [D0C2776B].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 24 [8BC83608].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 25 [D0505173].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 26 [94445223].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 27 [789B8D0B].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 28 [7872FE0A].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 29 [6C901AA6].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 30 [1451483A].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 31 [3C5D43EB].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 32 [F6BD8A6A].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 33 [C0FE8926].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 34 [EFC1B97A].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 35 [E9FB38F8].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 36 [836C1CB9].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 37 [982B0F6D].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 38 [280355F5].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 39 [B4CD4B40].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 40 [8BA51AA0].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 41 [945FA5B6].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 42 [B86C02FB].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 43 [08084AA1].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 44 [8CC40F4E].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 45 [8CAB3A56].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 46 [413B5DED].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 47 [B42BA5EB].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 48 [F1A33C40].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 49 [88935F8D].mkv
-!new/Lupin III S3/[neo1024] Lupin III S3 - 50 [696B9529].mkv
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 01 KTCR-9010/1. kanashimi yo konnichiwa (Saitou Yuki)  [OP]  (Hello! Sadness).mp3
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 01 KTCR-9010/10. ame yadori  (Take shelter from rain).mp3
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 01 KTCR-9010/11. ame yadori sono 2.mp3
@@ -923,28 +872,17 @@
 !new/Yamato/s3/YAMATO 3x24 - Secret of Planet Guardiana.mkv
 !new/Yamato/s3/YAMATO 3x25 - Yamato, Shoot that Sun!.mkv
 !new/Yamato/s3/Yamato 3x01.mkv
-!new/[ASL]_Nakagawa_Shoko_-_Beelzebub_ED_2_-_Tsuyogari_[FLAC]_[w_Scans].rar
-!new/[ASL]_Toyosaki_Aki_-_Kami_Nomi_zo_Shiru_Sekai_II_Character_CD_7_Nagase_Jun_starring_Toyosaki_Aki_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artists_-_Secret_Game_CODE_Revise_Original_Sound_Track_[FLAC].rar
-!new/[ASL]_Various_Artists_-_Utatemeguri_Original_Sound_Track_[FLAC]_[w_Scans].rar
-!new/[ASL]_YuNa_-_Utatemeguri_Special_Song_CD_[FLAC]_[w_Scans].rar
-!new/[ASL]_lovelive!_μ’s_-_Bibi_[FLAC]_[w_Scans].rar
-!new/[ASL]_nao_-_prismatic_infinity_carat._[FLAC]_[w_Scans].rar
-!new/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_19_[9734d277].avi
-!new/[EveTaku] A-Channel - 12 END (1280x720 x264 AAC)[01678112].mkv
+!new/[Coalgirls]_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_12_-_True_End_(1280x720_Blu-Ray_FLAC)_[6703EFF3].mkv
+!new/[Coalgirls]_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_13_(1280x720_Blu-Ray_FLAC)_[2F5ED4BB].mkv
 !new/[Harth]_Zero_no_Tsukaima_Character_CD2_-_Guiche_and_Montmorency_Mini-Drama_-_The_Forbidden_Nostrum_[713A947C].mkv
+!new/[HorribleSubs] Beelzebub - 23 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 24 [720p].mkv
+!new/[HorribleSubs] Fairy Tail - 85 [720p].mkv
 !new/[HorribleSubs] Hoshizora e Kakaru Hashi - 11 [720p].mkv
 !new/[HorribleSubs] Ore-tachi Ni Tsubasa wa Nai - 12 [720p].mkv
 !new/[HorribleSubs] Sekai-ichi Hatsukoi - 12 [720p].mkv
 !new/[Kata-Subs]_Morita-san_wa_Makuchi_-_OVA_01_[DVD][x264-FLAC].mkv
-!new/[Nipponsei] Denpa Onna to Seishun Otoko Original Soundtrack Vol.1.zip
-!new/[Nipponsei] Inazuma Eleven GO ED Single - Yappa Seishun [Kitahara Sayaka].zip
-!new/[Nipponsei] Kami Nomi zo Shiru Sekai Character CD.7 - Nagase Jun [Toyosaki Aki].zip
-!new/[Nipponsei] Pretty Rhythm Aurora Dream ED Single - Happy GO Lucky! Happy Lucky de Go! [SUPER GIRLS].zip
-!new/[Nipponsei] Toriko OP Single - Guts Guts!! [Kushida Akira & Mishida Mihoko].zip
 !new/[Saizen-HnG]_Ashita_no_Joe_-_23_[DVD][0F48F71F].mkv
-!new/[SubDesu] Seikon no Qwaser II - 11 (1280x720) [63008159].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -960,10 +898,8 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[WhyNot] Hen Zemi - 12 [CD26E275].mkv
 !new/[gg]_Ano_Hi_Mita_Hana_no_Namae_o_Bokutachi_wa_Mada_Shiranai_-_11_[35D3FBF4].mkv
 !new/[gg]_Hidan_no_Aria_-_11_[72422EED].mkv
-!new/[yibis]_One_Piece_497_v2_[720p][2A87E5F3].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
