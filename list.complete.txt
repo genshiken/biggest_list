@@ -888,6 +888,7 @@ complete/a/Asatte no Houkou/[Ureshii] Asatte no Houkou - 09 [DVD][C429C64D].mkv
 complete/a/Asatte no Houkou/[Ureshii] Asatte no Houkou - 10 [DVD][CE24CAAA].mkv
 complete/a/Asatte no Houkou/[Ureshii] Asatte no Houkou - 11 [DVD][3D5C6058].mkv
 complete/a/Asatte no Houkou/[Ureshii] Asatte no Houkou - 12 [End][DVD][CC409D83].mkv
+complete/a/Asobi ni Iku Yo! OVA/[Commie] Asobi ni Iku Yo! OVA [BD 720p][B57C0D77].mkv
 complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 01 [1080p BD][31002ACE].mkv
 complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 02 [1080p BD][BA99E984].mkv
 complete/a/Asobi ni Iku Yo!/[Commie] Asobi ni Iku Yo! - 03 [1080p BD][974C00F9].mkv
@@ -1243,6 +1244,19 @@ complete/b/Bastard/[P-A] Bastard - 3 [0CC44D7E].avi
 complete/b/Bastard/[P-A] Bastard - 4 [C28433A5].avi
 complete/b/Bastard/[P-A] Bastard - 5 [12092B7B].avi
 complete/b/Bastard/[P-A] Bastard - 6 [End][BB7B561D].avi
+complete/b/Battle Girls - Time Paradox/[HorribleSubs] Battle Girls - Time Paradox - 01 [720p][0A48D141].mkv
+complete/b/Battle Girls - Time Paradox/[HorribleSubs] Battle Girls - Time Paradox - 02 [720p][3C7574F1].mkv
+complete/b/Battle Girls - Time Paradox/[HorribleSubs] Battle Girls - Time Paradox - 03 [720p][84C6E941].mkv
+complete/b/Battle Girls - Time Paradox/[HorribleSubs] Battle Girls - Time Paradox - 04 [720p][D76FCB4A].mkv
+complete/b/Battle Girls - Time Paradox/[HorribleSubs] Battle Girls - Time Paradox - 05 [720p][4F043B8C].mkv
+complete/b/Battle Girls - Time Paradox/[HorribleSubs] Battle Girls - Time Paradox - 06 [720p][BFED1B04].mkv
+complete/b/Battle Girls - Time Paradox/[HorribleSubs] Battle Girls - Time Paradox - 07 [720p][49733FE7].mkv
+complete/b/Battle Girls - Time Paradox/[HorribleSubs] Battle Girls - Time Paradox - 08 [720p][B9C0536E].mkv
+complete/b/Battle Girls - Time Paradox/[HorribleSubs] Battle Girls - Time Paradox - 09 [720p][642D2C7B].mkv
+complete/b/Battle Girls - Time Paradox/[HorribleSubs] Battle Girls - Time Paradox - 10 [720p][632E4B51].mkv
+complete/b/Battle Girls - Time Paradox/[HorribleSubs] Battle Girls - Time Paradox - 11 [720p][CB221EB8].mkv
+complete/b/Battle Girls - Time Paradox/[HorribleSubs] Battle Girls - Time Paradox - 12 [720p][D299D18C].mkv
+complete/b/Battle Girls - Time Paradox/[HorribleSubs] Battle Girls - Time Paradox - 13 [End][720p][1E4F16A0].mkv
 complete/b/Battle Programmer Shirase/[SNS] Battle Programmer Shirase - 1 [A0AD52E7].mkv
 complete/b/Battle Programmer Shirase/[SNS] Battle Programmer Shirase - 2 [3398C544].mkv
 complete/b/Battle Programmer Shirase/[SNS] Battle Programmer Shirase - 3 [816015B6].mkv
@@ -3427,6 +3441,7 @@ complete/d/Dog Days/[Hiryuu-HiNA] Dog Days - 09 [720p][D095F00D].mkv
 complete/d/Dog Days/[Hiryuu-HiNA] Dog Days - 10 [720p][D1A36484].mkv
 complete/d/Dog Days/[Hiryuu-HiNA] Dog Days - 11 [720p][B19EA51F].mkv
 complete/d/Dog Days/[Hiryuu-HiNA] Dog Days - 12 [720p][2EFB6576].mkv
+complete/d/Dog Days/[Hiryuu-HiNA] Dog Days - 13 [End][720p][C81AD324].mkv
 complete/d/Dogtato-kun/[Triad] Dogtato-kun - 1 [DVD][AB88242D].avi
 complete/d/Dogtato-kun/[Triad] Dogtato-kun - 2 [End][DVD][32DBDCAC].avi
 complete/d/Dokuro-chan 2/[Exiled-Destiny] Dokuro-chan 2 - 1 [6329647E].mkv
@@ -4371,16 +4386,17 @@ complete/f/Fortune Arterial/[SS] Fortune Arterial - 11 [E64C5006].mkv
 complete/f/Fortune Arterial/[SS] Fortune Arterial - 12 [End][68BCE900].mkv
 complete/f/Fractale/[Coalgirls] Fractale - 01 [1080p BD][E3E14555].mkv
 complete/f/Fractale/[Coalgirls] Fractale - 02 [1080p BD][C3E802B5].mkv
+complete/f/Fractale/[Coalgirls] Fractale - 03 [1080p BD][5076CC71].mkv
+complete/f/Fractale/[Coalgirls] Fractale - 04 [1080p BD][422F9C38].mkv
+complete/f/Fractale/[Coalgirls] Fractale - 05 [1080p BD][3291AA64].mkv
+complete/f/Fractale/[Coalgirls] Fractale - 06 [1080p BD][DAF478FA].mkv
+complete/f/Fractale/[Coalgirls] Fractale - 07 [1080p BD][30D4EFAC].mkv
+complete/f/Fractale/[Coalgirls] Fractale - 08 [1080p BD][83AE3E4C].mkv
+complete/f/Fractale/[Coalgirls] Fractale - Ending 1 (Clean) [1080p BD][9E5E12FB].mkv
+complete/f/Fractale/[Coalgirls] Fractale - Ending 2 (Clean) [1080p BD][B9834B19].mkv
 complete/f/Fractale/[Coalgirls] Fractale - Ending [1080p BD][736C0598].mkv
+complete/f/Fractale/[Coalgirls] Fractale - Opening (Clean) [1080p BD][3130794B].mkv
 complete/f/Fractale/[Coalgirls] Fractale - Opening [1080p BD][1059D8CF].mkv
-complete/f/Fractale/[UTW] Fractale - 01 [720p][8CB251E0].mkv
-complete/f/Fractale/[UTW] Fractale - 02 [720p][D7961156].mkv
-complete/f/Fractale/[UTW] Fractale - 03 [720p][3995B7DC].mkv
-complete/f/Fractale/[UTW] Fractale - 04 [720p][BE4B9022].mkv
-complete/f/Fractale/[UTW] Fractale - 05 [720p][A71AD016].mkv
-complete/f/Fractale/[UTW] Fractale - 06 [720p][F8DA9F24].mkv
-complete/f/Fractale/[UTW] Fractale - 07 [720p][5BE422F3].mkv
-complete/f/Fractale/[UTW] Fractale - 08 [720p][E70FEA3E].mkv
 complete/f/Fractale/[UTW] Fractale - 09 [720p][93ABAA98].mkv
 complete/f/Fractale/[UTW] Fractale - 10 [720p][0581A036].mkv
 complete/f/Fractale/[UTW] Fractale - 11 [End][720p][9961BD43].mkv
@@ -17682,19 +17698,19 @@ complete/t/Tokyo Majin Gakuen Kenpuchou/[Shinsen-Subs] Tokyo Majin Gakuen Kenpuc
 complete/t/Tokyo Majin Gakuen Kenpuchou/[Shinsen-Subs] Tokyo Majin Gakuen Kenpuchou - 12 [4237B5EE].avi
 complete/t/Tokyo Majin Gakuen Kenpuchou/[Shinsen-Subs] Tokyo Majin Gakuen Kenpuchou - 13 [5B62169C].avi
 complete/t/Tokyo Majin Gakuen Kenpuchou/[Shinsen-Subs] Tokyo Majin Gakuen Kenpuchou - 14 [End][087EE91C].avi
-complete/t/Tonagura!/[ReDone] Tonagura! - 01 [DVD][E532475C].mkv
-complete/t/Tonagura!/[ReDone] Tonagura! - 02 [DVD][DB97C3D8].mkv
+complete/t/Tonagura!/[ReDone] Tonagura! - 01 [v2 DVD][BF175657].mkv
+complete/t/Tonagura!/[ReDone] Tonagura! - 02 [v2 DVD][D5177857].mkv
 complete/t/Tonagura!/[ReDone] Tonagura! - 03 [DVD][25BA734C].mkv
 complete/t/Tonagura!/[ReDone] Tonagura! - 04 [DVD][BBA010EB].mkv
-complete/t/Tonagura!/[ReDone] Tonagura! - 05 [DVD][D28EECB3].mkv
-complete/t/Tonagura!/[ReDone] Tonagura! - 06 [DVD][9585158E].mkv
+complete/t/Tonagura!/[ReDone] Tonagura! - 05 [v2 DVD][3ECB5FF1].mkv
+complete/t/Tonagura!/[ReDone] Tonagura! - 06 [v2 DVD][9A66A72D].mkv
 complete/t/Tonagura!/[ReDone] Tonagura! - 07 [DVD][BDFE38A6].mkv
-complete/t/Tonagura!/[ReDone] Tonagura! - 08 [DVD][2514261B].mkv
+complete/t/Tonagura!/[ReDone] Tonagura! - 08 [v2 DVD][8C7555CA].mkv
 complete/t/Tonagura!/[ReDone] Tonagura! - 09 [DVD][F2C71831].mkv
 complete/t/Tonagura!/[ReDone] Tonagura! - 10 [DVD][37BD0349].mkv
 complete/t/Tonagura!/[ReDone] Tonagura! - 11 [DVD][F89B731A].mkv
-complete/t/Tonagura!/[ReDone] Tonagura! - 12 [DVD][4BB407F2].mkv
-complete/t/Tonagura!/[Ryo] Tonagura! - 13 [End][19B977F6].mp4
+complete/t/Tonagura!/[ReDone] Tonagura! - 12 [v2 DVD][3157679A].mkv
+complete/t/Tonagura!/[ReDone] Tonagura! - 13 [End][DVD][14BF200F].mkv
 complete/t/Tono to Issho OAV/[Huzzah-Pretentious] Tono to Issho OAV [9151FA51].mkv
 complete/t/Top wo Nerae! 2/[ETB] Top wo Nerae! 2 - 1 [D41848B6].mkv
 complete/t/Top wo Nerae! 2/[ETB] Top wo Nerae! 2 - 2 [EA8B6076].mkv
