@@ -795,6 +795,9 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
+!new/The_Borrowers_Arrietty_(2010)_[1080p,BluRay,x264,DTS]_-_THORA-UTW.md5
+!new/The_Borrowers_Arrietty_(2010)_[1080p,BluRay,x264,DTS]_-_THORA-UTW.mkv
+!new/The_Borrowers_Arrietty_(2010)_[1080p,BluRay,x264,DTS]_-_THORA-UTW.nfo
 !new/Yamato/s1/Yamato 01 - remaster (Central Anime) [33d6eb95].mkv
 !new/Yamato/s1/Yamato 02 - remaster (Central Anime) [d9ab7e12].mkv
 !new/Yamato/s1/Yamato 03 - remaster (Central Anime) [36f50f9e].mkv
@@ -872,9 +875,11 @@
 !new/Yamato/s3/YAMATO 3x24 - Secret of Planet Guardiana.mkv
 !new/Yamato/s3/YAMATO 3x25 - Yamato, Shoot that Sun!.mkv
 !new/Yamato/s3/Yamato 3x01.mkv
+!new/[ASL]_Various_Artists_-_Denpa_Onna_to_Seishun_Otoko_Original_Soundtrack_Vol._1_[FLAC]_[w_Scans].rar
 !new/[Coalgirls]_Dragon_Crisis_09_(1280x720_Blu-Ray_FLAC)_[FC8ED97C].mkv
 !new/[Coalgirls]_Dragon_Crisis_10_(1280x720_Blu-Ray_FLAC)_[2861CB2A].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.19.[1280x720].[2098B1AB].mkv
+!new/[Hiryuu] Double-J 01 [1280x720 H264 AAC] [408D61A9].mkv
 !new/[KAW] Kindaichi Shounen no Jikenbo 016 [5AA94945].avi
 !new/[KAW] Kindaichi Shounen no Jikenbo 017 [689EB3AD].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
@@ -892,6 +897,8 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[gg]_Dororon_Enma-kun_Meramera_-_12_[F7488E84].mkv
+!new/[gg]_Fireball_Charming_-_13_[9741839D].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
