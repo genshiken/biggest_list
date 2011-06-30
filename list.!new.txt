@@ -67,6 +67,7 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - 621 [DCTP][720p][EF342FC8].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -876,12 +877,15 @@
 !new/Yamato/s3/YAMATO 3x25 - Yamato, Shoot that Sun!.mkv
 !new/Yamato/s3/Yamato 3x01.mkv
 !new/[ASL]_Various_Artists_-_Denpa_Onna_to_Seishun_Otoko_Original_Soundtrack_Vol._1_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Toaru_Majutsu_no_Index_II_ARCHIVES_2_[FLAC]_[w_Scans].rar
 !new/[Coalgirls]_Dragon_Crisis_09_(1280x720_Blu-Ray_FLAC)_[FC8ED97C].mkv
 !new/[Coalgirls]_Dragon_Crisis_10_(1280x720_Blu-Ray_FLAC)_[2861CB2A].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.19.[1280x720].[2098B1AB].mkv
 !new/[Hiryuu] Double-J 01 [1280x720 H264 AAC] [408D61A9].mkv
 !new/[KAW] Kindaichi Shounen no Jikenbo 016 [5AA94945].avi
 !new/[KAW] Kindaichi Shounen no Jikenbo 017 [689EB3AD].avi
+!new/[Mamiko]_Tamayuradio_Plus_Drama_CD_[Batch].rar
+!new/[Shikkaku]_Oretachi_ni_Tsubasa_wa_Nai_OVA_[LQ][1280x720][AAC][838D5725].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -900,6 +904,7 @@
 !new/[Victorique]_Gosick_-_23_[h264-720p][F5741445].mkv
 !new/[gg]_Dororon_Enma-kun_Meramera_-_12_[F7488E84].mkv
 !new/[gg]_Fireball_Charming_-_13_[9741839D].mkv
+!new/[yibis]_One_Piece_498_v2_[720p][F66A51A5].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
