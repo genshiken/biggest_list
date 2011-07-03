@@ -918,6 +918,9 @@
 !new/[ASL]_Various_Artists_-_relations_sister×sister._Soundtrack_CD_[FLAC]_[w_Scans].rar
 !new/[Coalgirls]_Dragon_Crisis_09_(1280x720_Blu-Ray_FLAC)_[FC8ED97C].mkv
 !new/[Coalgirls]_Dragon_Crisis_10_(1280x720_Blu-Ray_FLAC)_[2861CB2A].mkv
+!new/[Commie] Deadman Wonderland - 12 [14809A0C].mkv
+!new/[Commie] The World God Only Knows S2 - 12 [C0A4301E].mkv
+!new/[Commie] Tiger & Bunny - 14 [2CFF23DF].mkv
 !new/[Doki] Ro-Kyu-Bu! - 01 (1280x720 h264 AAC) [457A91B2].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.19.[1280x720].[2098B1AB].mkv
 !new/[EveTaku] A-Channel Special - 03 (1920x1080 x264 FLAC)[dd50e01a].mkv
@@ -925,10 +928,13 @@
 !new/[FroZen-EviL]_Yawara_-_62_[3E52FA24].mkv
 !new/[Harth]_Amagami_Drama_CD_-_Sakurai_Rihoko_Chapter_4_[54F50502].mkv
 !new/[Hiryuu] Double-J 01 [1280x720 H264 AAC] [408D61A9].mkv
+!new/[HorribleSubs] Beelzebub - 24 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 25 [720p].mkv
+!new/[HorribleSubs] Deadman Wonderland  - 12 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 86 [720p].mkv
 !new/[HorribleSubs] Hoshizora e Kakaru Hashi - 12 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 218 [720p].mkv
+!new/[HorribleSubs] Nichijou - 14 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 13 [720p].mkv
 !new/[KAW] Kindaichi Shounen no Jikenbo 016 [5AA94945].avi
 !new/[KAW] Kindaichi Shounen no Jikenbo 017 [689EB3AD].avi
@@ -943,6 +949,7 @@
 !new/[Nipponsei] Hoshi wo Ou Kodomo Original Soundtrack.zip
 !new/[Nutbladder]_Kaiji_S2_-_13_[967F7E5E].mkv
 !new/[ReDone] Soul Link - 12 (DVD) [END] [7724B427].mkv
+!new/[RyRo]_Digimon_X-Evolution_(DVD_h264)_[65E683B1].mkv
 !new/[RyRo]_Digimon_Xros_Wars_-_40_(1280x720_x264_AAC)_[8F732C3C].mkv
 !new/[RyRo]_Digimon_Xros_Wars_-_41_(1280x720_x264_AAC)_[41CBE87D].mkv
 !new/[Shikkaku]_Oretachi_ni_Tsubasa_wa_Nai_OVA_[LQ][1280x720][AAC][838D5725].mkv
@@ -969,8 +976,10 @@
 !new/[Underwater-Commie] Denpa Onna to Seishun Otoko - 12 (720p) [EB5B7447].mkv
 !new/[Victorique]_Gosick_-_23_[h264-720p][F5741445].mkv
 !new/[WhyNot] Hen Zemi - 13 [EB53A58C].mkv
+!new/[WhyNot] Yondemasu yo, Azazel-san - 13 [83FC778F].mkv
 !new/[gaijin] A-Channel - 01 (BD 720p FLAC) [4A1F7AAB].mkv
 !new/[gaijin] A-Channel - 02 (BD 720p FLAC) [A19ACB2E].mkv
+!new/[gg]_Kamisama_no_Memochou_-_01_Part_A_(Preair)_[0694A82A].mkv
 !new/[yibis]_One_Piece_498_v2_[720p][F66A51A5].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
