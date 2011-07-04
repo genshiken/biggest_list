@@ -77,9 +77,6 @@
 !new/2/Chrono Crusade/[KAA] Chrono Crusade - 23 [DVD][C6C741B0].mkv
 !new/2/Chrono Crusade/[KAA] Chrono Crusade - 24 [End][DVD][1885341F].mkv
 !new/2/Strike Witches 2/[Coalgirls] Strike Witches 2 - 01 [1080p BD][E79D3DE2].mkv
-!new/2/Usagichan de Cue!/[C1] Usagichan de Cue! - 1 [1C006987].mkv
-!new/2/Usagichan de Cue!/[C1] Usagichan de Cue! - 2 [8703E0FE].mkv
-!new/2/Usagichan de Cue!/[C1] Usagichan de Cue! - 3 [End][D47CEB12].mkv
 !new/Azumaria Lessons/Lesson - 01 - Golden Age America.mkv
 !new/Azumaria Lessons/Lesson - 02 - The Magdalene Order.mkv
 !new/Azumaria Lessons/Lesson - 03 - Secret Weapons Of The Magdalene Order.mkv
@@ -95,7 +92,6 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
-!new/Detective Conan - 621 [DCTP][720p][EF342FC8].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -738,7 +734,6 @@
 !new/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x23_DVDRiP.rmvb
 !new/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x24_DVDRiP.rmvb
 !new/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x25_DVDRiP.rmvb
-!new/Ro-Kyu-Bu! - 01 (ATX 1280x720 x264 AAC).mp4
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD1 [CiMG].avi
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD1 [CiMG].idx
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD1 [CiMG].sub
@@ -825,9 +820,6 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/The_Borrowers_Arrietty_(2010)_[1080p,BluRay,x264,DTS]_-_THORA-UTW.md5
-!new/The_Borrowers_Arrietty_(2010)_[1080p,BluRay,x264,DTS]_-_THORA-UTW.mkv
-!new/The_Borrowers_Arrietty_(2010)_[1080p,BluRay,x264,DTS]_-_THORA-UTW.nfo
 !new/Yamato/s1/Yamato 01 - remaster (Central Anime) [33d6eb95].mkv
 !new/Yamato/s1/Yamato 02 - remaster (Central Anime) [d9ab7e12].mkv
 !new/Yamato/s1/Yamato 03 - remaster (Central Anime) [36f50f9e].mkv
@@ -905,58 +897,6 @@
 !new/Yamato/s3/YAMATO 3x24 - Secret of Planet Guardiana.mkv
 !new/Yamato/s3/YAMATO 3x25 - Yamato, Shoot that Sun!.mkv
 !new/Yamato/s3/Yamato 3x01.mkv
-!new/[ASL]_Blue_Drops_-_Sora_no_Otoshimono_Tokei-jikake_no_Angeloid_Theme_Song_Single_-_SECOND_[FLAC].rar
-!new/[ASL]_REMEDIOS_-_Ano_Hi_Mita_Hana_no_Namae_o_Boku-tachi_wa_Mada_Shiranai_Original_Soundtrack_REMEDIOS_Vol_1_[FLAC].rar
-!new/[ASL]_Shimoda_Asami_-_Infinite_Stratos_Character_CD_Vol._3_-_Lin_[FLAC]_[w_Scans].rar
-!new/[ASL]_Touhou_Jihen_-_Sora_ga_Natteiru_Onna_no_Ko_wa_Daredemo_[FLAC].rar
-!new/[ASL]_UVERworld_-_Ao_No_Exorcist_Limited_Edition_OP_CORE_PRIDE_[w_Scans]_[FLAC].zip
-!new/[ASL]_Various_Artists_-_A_Channel_2_Limited_Edition_Bonus_CD_[FLAC].rar
-!new/[ASL]_Various_Artists_-_Denpa_Onna_to_Seishun_Otoko_Original_Soundtrack_Vol._1_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artists_-_Hoshi_o_Ou_Kodomo_Original_Soundtrack_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artists_-_Mitsudomoe_OST_-_Mitsudomo_Best_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artists_-_Toaru_Majutsu_no_Index_II_ARCHIVES_2_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artists_-_relations_sister×sister._Soundtrack_CD_[FLAC]_[w_Scans].rar
-!new/[Coalgirls]_Dragon_Crisis_09_(1280x720_Blu-Ray_FLAC)_[FC8ED97C].mkv
-!new/[Coalgirls]_Dragon_Crisis_10_(1280x720_Blu-Ray_FLAC)_[2861CB2A].mkv
-!new/[Commie] Deadman Wonderland - 12 [14809A0C].mkv
-!new/[Commie] The World God Only Knows S2 - 12 [C0A4301E].mkv
-!new/[Commie] Tiger & Bunny - 14 [2CFF23DF].mkv
-!new/[Doki] Ro-Kyu-Bu! - 01 (1280x720 h264 AAC) [457A91B2].mkv
-!new/[Doremi-CureCom].Suite.PreCure!.19.[1280x720].[2098B1AB].mkv
-!new/[EveTaku] A-Channel Special - 03 (1920x1080 x264 FLAC)[dd50e01a].mkv
-!new/[EveTaku] A-Channel Special - 04 (1920x1080 x264 FLAC)[66544b35].mkv
-!new/[FroZen-EviL]_Yawara_-_62_[3E52FA24].mkv
-!new/[Harth]_Amagami_Drama_CD_-_Sakurai_Rihoko_Chapter_4_[54F50502].mkv
-!new/[Hiryuu] Double-J 01 [1280x720 H264 AAC] [408D61A9].mkv
-!new/[HorribleSubs] Beelzebub - 24 [720p].mkv
-!new/[HorribleSubs] Cardfight!! Vanguard - 25 [720p].mkv
-!new/[HorribleSubs] Deadman Wonderland  - 12 [720p].mkv
-!new/[HorribleSubs] Fairy Tail - 86 [720p].mkv
-!new/[HorribleSubs] Hanasaku Iroha - 14 [720p].mkv
-!new/[HorribleSubs] Hoshizora e Kakaru Hashi - 12 [720p].mkv
-!new/[HorribleSubs] Naruto Shippuuden - 218 [720p].mkv
-!new/[HorribleSubs] Nichijou - 14 [720p].mkv
-!new/[HorribleSubs] SKET Dance - 13 [720p].mkv
-!new/[KAW] Kindaichi Shounen no Jikenbo 016 [5AA94945].avi
-!new/[KAW] Kindaichi Shounen no Jikenbo 017 [689EB3AD].avi
-!new/[Mamiko]_Tamayuradio_Plus_Drama_CD_[Batch].rar
-!new/[Mazui]_Denpa_Onna_to_Seishun_Otoko_-_11_[14DD02E4].mkv
-!new/[Mazui]_Denpa_Onna_to_Seishun_Otoko_-_12_[43A4F620].mkv
-!new/[Nipponsei] A Channel Insert Songs 2 [Yuuki Aoi & Fukuhara Kaori].zip
-!new/[Nipponsei] Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shira nai. Image Song Single - Dear Love [REMEDIOS].zip
-!new/[Nipponsei] Fullmetal Alchemist Milos no Seinaru Hoshi Main Theme Single - GOOD LUCK MY WAY [L'arc~en~Ciel].zip
-!new/[Nipponsei] Fullmetal Alchemist Milos no Seinaru Hoshi OP Single - Chasing hearts [miwa].zip
-!new/[Nipponsei] Hanasaku Iroha Insert Song Single - Saibou Kioku [nano.RIPE].zip
-!new/[Nipponsei] Hoshi wo Ou Kodomo Original Soundtrack.zip
-!new/[Nutbladder]_Kaiji_S2_-_13_[967F7E5E].mkv
-!new/[ReDone] Soul Link - 12 (DVD) [END] [7724B427].mkv
-!new/[RyRo]_Digimon_X-Evolution_(DVD_h264)_[65E683B1].mkv
-!new/[RyRo]_Digimon_Xros_Wars_-_40_(1280x720_x264_AAC)_[8F732C3C].mkv
-!new/[RyRo]_Digimon_Xros_Wars_-_41_(1280x720_x264_AAC)_[41CBE87D].mkv
-!new/[RyRo]_Jungle_Emperor_Leo_Special_2009_Yuuki_ga_Mirai_wo_Kaeru_(1280x720_h264_AAC)_[ED7CFFA4].mkv
-!new/[Shikkaku]_Oretachi_ni_Tsubasa_wa_Nai_OVA_[LQ][1280x720][AAC][838D5725].mkv
-!new/[SubDesu] Seikon no Qwaser II - 12 (1280x720) [719A9B7A].mkv
-!new/[TSuNDeRe]Tsuyokiss.01.[DVDRip.Xvid.864x480.Vorbis][5C9EE4CC].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -972,19 +912,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[UTW]_Hidan_no_Aria_-_11_[h264-720p][40C3CA0F].mkv
-!new/[UTW]_Hidan_no_Aria_-_12_[h264-720p][AD3164B5].mkv
-!new/[Underwater-Commie] Denpa Onna to Seishun Otoko - 11 (720p) [1BCAE33C].mkv
-!new/[Underwater-Commie] Denpa Onna to Seishun Otoko - 12 (720p) [EB5B7447].mkv
-!new/[Victorique]_Gosick_-_23_[h264-720p][F5741445].mkv
-!new/[WhyNot] Hen Zemi - 13 [EB53A58C].mkv
-!new/[WhyNot] Yondemasu yo, Azazel-san - 13 [83FC778F].mkv
-!new/[gaijin] A-Channel - 01 (BD 720p FLAC) [4A1F7AAB].mkv
-!new/[gaijin] A-Channel - 02 (BD 720p FLAC) [A19ACB2E].mkv
-!new/[gg]_Ao_no_Exorcist_-_12_[D75F6F4F].mkv
-!new/[gg]_Kamisama_no_Memochou_-_01_Part_A_(Preair)_[0694A82A].mkv
-!new/[gg]_Kamisama_no_Memochou_-_01_Part_B_(Preair)_[9F5B0F7A].mkv
-!new/[yibis]_One_Piece_498_v2_[720p][F66A51A5].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx

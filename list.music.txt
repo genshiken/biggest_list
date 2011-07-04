@@ -73,6 +73,7 @@ music/ASL/[ASL]_Apricot_Plum_-_Nadeshiko_Drip_SOUND_TRACK_[FLAC].rar
 music/ASL/[ASL]_Asami_Shimoda_-_THE_IDOLM@STER_MASTER_ARTIST_2_-SECOND_SEASON-_02_Ami_Futami_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Asumi_Kana_-_Kami_Nomi_zo_Shiru_Sekai_II_Character_CD_6_-_Kousaka_Chihiro_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Asumi_Kana_-_WORKING!!_Character_Song_Menu_2_Taneshima_Popura_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Blue_Drops_-_Sora_no_Otoshimono_Tokei-jikake_no_Angeloid_Theme_Song_Single_-_SECOND_[FLAC].rar
 music/ASL/[ASL]_CUFFS_-_CAFE_SOURIRE_SOUNDTRACK_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Chariot_-_Shojo_to_Maou_to_Tactics_Original_Soundtrack_[FLAC].rar
 music/ASL/[ASL]_Duca_-_CAFE_SOURIRE_MAXI_SINGLE_[FLAC]_[w_Scans].rar
@@ -98,16 +99,20 @@ music/ASL/[ASL]_Nakajima_Megumi_-_Moshidora_-_If_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Nishizawa_Hagumi_-_Natsuyuki_~summer_snow~_Maxi_Single_-_Natsu_no_Hi_no_Refrain_[FLAC].rar
 music/ASL/[ASL]_PSYCHIC_LOVER_-_Rewrite_2nd_OP_Theme_-_Rewrite_[FLAC].rar
 music/ASL/[ASL]_Puella_Magi_Madoka_Magica_Special_CD_2_Original_Soundtrack_I_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_REMEDIOS_-_Ano_Hi_Mita_Hana_no_Namae_o_Boku-tachi_wa_Mada_Shiranai_Original_Soundtrack_REMEDIOS_Vol_1_[FLAC].rar
 music/ASL/[ASL]_Rie_Kugimiya_-_THE_IDOLM@STER_MASTER_ARTIST_2_-SECOND_SEASON-_01_Iori_Minase_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Riryka_-_Gakuen_Taima!_Holy_x_Moly_Original_Soundtrack_[FLAC].rar
 music/ASL/[ASL]_SMEE_-_~Lover_Able~_IcyaLove_Memorial_Sound_Collection_[FLAC].rar
 music/ASL/[ASL]_Sayaka_Sasaki_-_Nichjou_ED_Single_Zzz_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Shikata_Akiko_-_Byakumu_no_Mayu_~Ricordando_il_passato~_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Shimoda_Asami_-_Infinite_Stratos_Character_CD_Vol._3_-_Lin_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Shimotsuki_Haruka_-_Frost_Moon_Cafe _OP_ED_Theme_Single_-_smile_link_[MP3].rar
 music/ASL/[ASL]_Shimotsuki_Haruka_-_melodies_memories_[w_Scans]_[FLAC].rar
 music/ASL/[ASL]_TAMUSIC_-_Angel_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Touhou_Jihen_-_Sora_ga_Natteiru_Onna_no_Ko_wa_Daredemo_[FLAC].rar
 music/ASL/[ASL]_Touyama_Nao_-_Kami_Nomi_zo_Shiru_Sekai_Nakagawa_Kanon_1st_Album_-_Birth_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Toyosaki_Aki_-_Kami_Nomi_zo_Shiru_Sekai_II_Character_CD_7_Nagase_Jun_starring_Toyosaki_Aki_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_UVERworld_-_Ao_No_Exorcist_Limited_Edition_OP_CORE_PRIDE_[w_Scans]_[FLAC].zip
 music/ASL/[ASL]_Various_Arists_-_Infinite_Stratos_ORIGINAL_SOUNDTRACK_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artist_-_Symphonic_Rain_Vocal_Album_RAINBOW_[FLAC]_[w_Scans].v2.rar
 music/ASL/[ASL]_Various_Artist_-_Tiny_Dungeon_-BLACK_and_WHITE-_Original_Soundtrack_[FLAC]_[w_Scans].rar
@@ -118,6 +123,7 @@ music/ASL/[ASL]_Various_Artist_-_Twinkle_Crusaders_Kirakira_Sound_Stage_04_-_Nan
 music/ASL/[ASL]_Various_Artist_-_Twinkle_Crusaders_Kirakira_Sound_Stage_05_-_Sio_&_Amylina_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_ Suzukaze_no_Melt_Original_Sound_Track_Melty_Wind_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_A-CHANNEL_THE_ANIMATION_1_BONUS_DISC_Ending_theme_&_Inserted_Songs_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_A_Channel_2_Limited_Edition_Bonus_CD_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Akatoki!_Original_Sound_Track_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Akatoki!_Theme_Song_&_Ending_Song_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Artemis_Blue_Music_Selection_[FLAC].rar
@@ -128,15 +134,18 @@ music/ASL/[ASL]_Various_Artists_-_Astarotte_no_Omocha!_Character_Song_CD_Vol.4_I
 music/ASL/[ASL]_Various_Artists_-_CURE_GIRL_Original_Sound_Track_II_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_CURE_GIRL_Original_Sound_Track_I_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Delivara!_-deliverance_of_strays-_Original_Soundtrack_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Denpa_Onna_to_Seishun_Otoko_Original_Soundtrack_Vol._1_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_FOLCLOLE_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Flag_Heshiori_Otoko_Theme_Song_Maxi_CD_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Hidan_no_Aria_Bullet.1_Bonus_CD_Character_Song_CD_Aria_&_BGM_Collection_[FLAC].rar
+music/ASL/[ASL]_Various_Artists_-_Hoshi_o_Ou_Kodomo_Original_Soundtrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Hyper-Highspeed-Genius_Reservation_Privilege_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Itsuka,_Todoku,_Ano_Sora_ni._ ~Precious_Selection~_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_KSL_Live_World_2010_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Koi_to_Senkyo_to_Chocolate_Ending_Theme_Collection_-_CHOCOLATE_SONGS_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Little_Busters!_-_Deejay_Busters!_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Maria_Holic_-_Alive_OP_ED_-_runrun_riru_ranran_rara_._dounimo_tomaranai_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Mitsudomoe_OST_-_Mitsudomo_Best_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_ORANGE_CANDY_BOX_-Angel_Note_Best_Collection_8-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_BD_7_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Ore_no_Imouto_ga_Konna_ni_Kawaii_Wake_ga_Nai_ED_11_&_12_-_Akihabara_Dance_Nau!!_ Tadaima._[FLAC]_[w_Scans].rar
@@ -149,11 +158,13 @@ music/ASL/[ASL]_Various_Artists_-_Secret_Game_CODE_Revise_Original_Sound_Track_[
 music/ASL/[ASL]_Various_Artists_-_Sengoku_Otome_-_SENGOKU_GROOVE_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Taiyou_no_Promia_Theme_Song_Maxi_Single_CD_-_~Song_for_Milsant~_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Toaru_Majutsu_no_Index_II_ARCHIVES_1_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Toaru_Majutsu_no_Index_II_ARCHIVES_2_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Toaru_Majutsu_no_Index_II_ORIGINAL_SOUND_TRACK_2_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Touhou_Middonaito_MAXIMUM_TUNE_Gaiden_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Utatemeguri_Original_Sound_Track_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_VOCALO_LOVERS_feat._Hatsune_Miku_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Worlds_and_World's_end_Original_Soundtrack_-_Sekai_no_Owaru,_Sono_Hi_made_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_relations_sister×sister._Soundtrack_CD_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Windmill_-_Hyper-Highspeed-Genius_Digital_Sound_Tracks_HHG!_[FLAC].rar
 music/ASL/[ASL]_YuNa_-_Utatemeguri_Special_Song_CD_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Yukana_-_IS_Character_Vol_Song_CD_Vol._2_- _Cecilia_[FLAC]_[w_Scans].rar
@@ -329,6 +340,7 @@ music/Misc Distro/[EAC] [101111] [CIRCUS／Lantis] CIRCUS 10th Collect Disc13～
 music/Misc Distro/[FoH] YURIA - YURIA (First Best Album)(192kbps).rar
 music/Misc Distro/[Kanshin] Digimon Savers OP - Gou-ing! Going! My Soul!! - Dynamite SHU (192kbps).rar
 music/Misc Distro/[MP3] Disgaea OP.zip
+music/Misc Distro/[Mamiko]_Tamayuradio_Plus_Drama_CD_[Batch].rar
 music/Misc Distro/[NSX] (02.11.2005) Fate Hollow Ataraxia OP ED Single  hollow [Number 201 feat. rhu]  (320kbps).zip
 music/Misc Distro/[NSX] (03.12.2005) Kanon arrange best album  recollections  (320kbps).zip
 music/Misc Distro/[NSX] (04.06.2006) D.C.II Da Capo II  Asaki Yumemishi Kimi to [yozuca rino]  (320kbps).zip
@@ -370,6 +382,7 @@ music/Nipponsei/[Nipponsei] 2x2 Shinobuden Soundtrack and Songs.zip
 music/Nipponsei/[Nipponsei] 30sai no Hoken Taiiku ED Single - learn together [AiRI].zip
 music/Nipponsei/[Nipponsei] 30sai no Hoken Taiiku OP Single - Koi no Doutei [kanon x kanon].zip
 music/Nipponsei/[Nipponsei] A Channel ED & Insert Song Single - Humming Girl [Various].zip
+music/Nipponsei/[Nipponsei] A Channel Insert Songs 2 [Yuuki Aoi & Fukuhara Kaori].zip
 music/Nipponsei/[Nipponsei] A Channel OP Single - Morning Arch [Kawano Marina].zip
 music/Nipponsei/[Nipponsei] AIKa R-16 OP ED Single - Sailing To The Future [Koshimizu Ami].zip
 music/Nipponsei/[Nipponsei] AIR Movie Soundtrack [320k CBR].zip
@@ -432,6 +445,7 @@ music/Nipponsei/[Nipponsei] Animal Yokochou ED2 - Sweetie [Orikasa Fumiko].zip
 music/Nipponsei/[Nipponsei] Animal Yokochou OP1 Single - Tondemo Nothing [Ami with Iyo, Kenta, Issa] (320 kbps).zip
 music/Nipponsei/[Nipponsei] Animal Yokochou OP2 Single - Love chu You [Ribbon Girl].zip
 music/Nipponsei/[Nipponsei] Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shira nai. ED Single - Secret Base ~Kimi ga Kureta mono~ [Various].zip
+music/Nipponsei/[Nipponsei] Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shira nai. Image Song Single - Dear Love [REMEDIOS].zip
 music/Nipponsei/[Nipponsei] Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shira nai. OP Single - Aoi Shiori [Galileo Galilei].zip
 music/Nipponsei/[Nipponsei] Ao no Exorcist ED Single - Take off [2PM].zip
 music/Nipponsei/[Nipponsei] Ao no Exorcist OP Single - CORE PRIDE [UVERworld].zip
@@ -690,6 +704,8 @@ music/Nipponsei/[Nipponsei] Full Metal Alchemist Original Soundtrack 2.zip
 music/Nipponsei/[Nipponsei] Full Metal Alchemist Original Soundtrack 3.zip
 music/Nipponsei/[Nipponsei] Full Metal Panic! TSR OP ED Single - Minamikaze [Shimokawa Mikuni].zip
 music/Nipponsei/[Nipponsei] Fullmetal Alchemist Brotherhood Original Soundtrack 3.zip
+music/Nipponsei/[Nipponsei] Fullmetal Alchemist Milos no Seinaru Hoshi Main Theme Single - GOOD LUCK MY WAY [L'arc~en~Ciel].zip
+music/Nipponsei/[Nipponsei] Fullmetal Alchemist Milos no Seinaru Hoshi OP Single - Chasing hearts [miwa].zip
 music/Nipponsei/[Nipponsei] Fushigi Hoshi no Futago Hime ED Single - Oshare Fantasy [Fine Rain] (320 kbps).zip
 music/Nipponsei/[Nipponsei] Gakuen Alice OP ED Single - Pikapika no Taiyo [Ueda Kana   Kugimiya Rie] [E1FCC52E] 320k CBR.zip
 music/Nipponsei/[Nipponsei] Gakuen Utopia Manabi Straight Character Mini Album Vol.1 - Amamiya Manami [Horie Yui].zip
@@ -746,6 +762,7 @@ music/Nipponsei/[Nipponsei] Gundam SEED~SEED DESTINY BEST 'THE BRIDGE' Across th
 music/Nipponsei/[Nipponsei] Hakuouki Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Hanasaku Iroha ED Single - Hazy [Sphere].zip
 music/Nipponsei/[Nipponsei] Hanasaku Iroha Image Song Collection.zip
+music/Nipponsei/[Nipponsei] Hanasaku Iroha Insert Song Single - Saibou Kioku [nano.RIPE].zip
 music/Nipponsei/[Nipponsei] Hanasaku Iroha OP Single - Hana no Iro [nano.RIPE].zip
 music/Nipponsei/[Nipponsei] Hanbun no Tsuki ga Noboru Sora OP ED Single - Aoi Koufuku [nobuko] (320 kbps).zip
 music/Nipponsei/[Nipponsei] Hanoka OP Single - Dual Love on the planet ~Hanoka~ [Nogawa Sakura].zip
@@ -790,6 +807,7 @@ music/Nipponsei/[Nipponsei] Honey and Clover II Insert Song Single - Night & Day
 music/Nipponsei/[Nipponsei] Honey and Clover Movie Ending Single - Aozora Pedal [Arashi].zip
 music/Nipponsei/[Nipponsei] Honey and Clover Movie Main Theme Song - Mahou no Kotoba [Spitz].zip
 music/Nipponsei/[Nipponsei] Honey and Clover Movie Original Soundtrack.zip
+music/Nipponsei/[Nipponsei] Hoshi wo Ou Kodomo Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Hoshizora he Kakaru Hashi ED Single - Cinderella [Nakamura Eriko & Shimizu Ai].zip
 music/Nipponsei/[Nipponsei] Hoshizora he Kakaru Hashi OP Single - Hoshikaze no Horoscope [Nomiko].zip
 music/Nipponsei/[Nipponsei] Hourou Musuko ED Single - For You [Rie fu].zip

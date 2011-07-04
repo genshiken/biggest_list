@@ -68,12 +68,14 @@ complete/a/A Channel/[EveTaku] A Channel - 03 [v2 720p][87049F2F].mkv
 complete/a/A Channel/[EveTaku] A Channel - 04 [v2 720p][5935FBCC].mkv
 complete/a/A Channel/[EveTaku] A Channel - 05 [v2 720p][4C63E9C9].mkv
 complete/a/A Channel/[EveTaku] A Channel - 06 [v2 720p][15D17E74].mkv
-complete/a/A Channel/[EveTaku] A Channel - 07 [720p][60B3D854].mkv
-complete/a/A Channel/[EveTaku] A Channel - 08 [720p][B10126D9].mkv
-complete/a/A Channel/[EveTaku] A Channel - 09 [720p][9768A7DE].mkv
-complete/a/A Channel/[EveTaku] A Channel - 10 [720p][D89CA143].mkv
-complete/a/A Channel/[EveTaku] A Channel - 11 [720p][2CC5F087].mkv
-complete/a/A Channel/[EveTaku] A Channel - 12 [End][720p][01678112].mkv
+complete/a/A Channel/[EveTaku] A Channel - 07 [v2 720p][031D68A2].mkv
+complete/a/A Channel/[EveTaku] A Channel - 08 [v2 720p][24A4081F].mkv
+complete/a/A Channel/[EveTaku] A Channel - 09 [v2 720p][FE44AE32].mkv
+complete/a/A Channel/[EveTaku] A Channel - 10 [v2 720p][F0D0FD93].mkv
+complete/a/A Channel/[EveTaku] A Channel - 11 [v2 720p][171BBDD2].mkv
+complete/a/A Channel/[EveTaku] A Channel - 12 [End][v2 720p][61A92287].mkv
+complete/a/A Channel/[gaijin] A Channel - 01 [720p BD][4A1F7AAB].mkv
+complete/a/A Channel/[gaijin] A Channel - 02 [720p BD][A19ACB2E].mkv
 complete/a/A Little Princess Sara/[Licca] A Little Princess Sara - 01 [8DD5B66B].mkv
 complete/a/A Little Princess Sara/[Licca] A Little Princess Sara - 02 [17CC3CF3].mkv
 complete/a/A Little Princess Sara/[Licca] A Little Princess Sara - 03 [C823732E].mkv
@@ -2979,6 +2981,18 @@ complete/d/Darker than Black/[CEB] Darker than Black - 24 [DC6FE8E8].mkv
 complete/d/Darker than Black/[CEB] Darker than Black - 25 [End][B12BEDF7].mkv
 complete/d/Darker than Black/[CEB] Darker than Black - 26 OVA [A8144EFB].mkv
 complete/d/Dead Girls OVA/[Animanda] Dead Girls OVA [92F7B042].mkv
+complete/d/Deadman Wonderland/[Commie] Deadman Wonderland - 01 [CB611109].mkv
+complete/d/Deadman Wonderland/[Commie] Deadman Wonderland - 02 [A331E718].mkv
+complete/d/Deadman Wonderland/[Commie] Deadman Wonderland - 03 [FA4E9753].mkv
+complete/d/Deadman Wonderland/[Commie] Deadman Wonderland - 04 [18D16855].mkv
+complete/d/Deadman Wonderland/[Commie] Deadman Wonderland - 05 [419A531A].mkv
+complete/d/Deadman Wonderland/[Commie] Deadman Wonderland - 06 [B8C0CABA].mkv
+complete/d/Deadman Wonderland/[Commie] Deadman Wonderland - 07 [F3CF738F].mkv
+complete/d/Deadman Wonderland/[Commie] Deadman Wonderland - 08 [1E2C60B1].mkv
+complete/d/Deadman Wonderland/[Commie] Deadman Wonderland - 09 [54064E42].mkv
+complete/d/Deadman Wonderland/[Commie] Deadman Wonderland - 10 [C2FB2908].mkv
+complete/d/Deadman Wonderland/[Commie] Deadman Wonderland - 11 [F1E59A55].mkv
+complete/d/Deadman Wonderland/[Commie] Deadman Wonderland - 12 [End][14809A0C].mkv
 complete/d/DearS/[Exiled-Destiny] DearS - 01 [ED2793F8].mkv
 complete/d/DearS/[Exiled-Destiny] DearS - 02 [64AD60CC].mkv
 complete/d/DearS/[Exiled-Destiny] DearS - 03 [78D035DD].mkv
@@ -3482,12 +3496,10 @@ complete/d/Dragon Crisis!/[Coalgirls] Dragon Crisis! - 05 [720p BD][98266445].mk
 complete/d/Dragon Crisis!/[Coalgirls] Dragon Crisis! - 06 [720p BD][F6DB1701].mkv
 complete/d/Dragon Crisis!/[Coalgirls] Dragon Crisis! - 07 [720p BD][096364C7].mkv
 complete/d/Dragon Crisis!/[Coalgirls] Dragon Crisis! - 08 [720p BD][824E7813].mkv
+complete/d/Dragon Crisis!/[Coalgirls] Dragon Crisis! - 09 [720p BD][FC8ED97C].mkv
+complete/d/Dragon Crisis!/[Coalgirls] Dragon Crisis! - 10 [720p BD][2861CB2A].mkv
 complete/d/Dragon Crisis!/[Coalgirls] Dragon Crisis! - Ending (Clean) [720p BD][8D69808A].mkv
 complete/d/Dragon Crisis!/[Coalgirls] Dragon Crisis! - Opening (Clean) [720p BD][11DCB896].mkv
-complete/d/Dragon Crisis!/[Underwater-Commie] Dragon Crisis! - 07 [720p][C6E1B1FC].mkv
-complete/d/Dragon Crisis!/[Underwater-Commie] Dragon Crisis! - 08 [720p][98AB0F43].mkv
-complete/d/Dragon Crisis!/[Underwater-Commie] Dragon Crisis! - 09 [720p][94DD9D95].mkv
-complete/d/Dragon Crisis!/[Underwater-Commie] Dragon Crisis! - 10 [720p][24ECE819].mkv
 complete/d/Dragon Crisis!/[Underwater-Commie] Dragon Crisis! - 11 [720p][EDD2E272].mkv
 complete/d/Dragon Crisis!/[Underwater-Commie] Dragon Crisis! - 12 [End][720p][603DD593].mkv
 complete/d/Dragonaut The Resonance/[I-Z] Dragonaut The Resonance - 08 [EDB1ED80].mp4
@@ -6552,6 +6564,19 @@ complete/h/Heavenly Sword/[Gekkostate] Heavenly Sword - 2 (1280x720) [F05EBCA8].
 complete/h/Heavenly Sword/[Gekkostate] Heavenly Sword - 3 (1280x720) [495AE8AA].mp4
 complete/h/Heavenly Sword/[Gekkostate] Heavenly Sword - 4 (1280x720) [C511C3AE].mp4
 complete/h/Heavenly Sword/[Gekkostate] Heavenly Sword - 5 (1280x720) [End][BF10EA77].mp4
+complete/h/Hen Zemi/[WhyNot] Hen Zemi - 01 [C7EE7EA0].mkv
+complete/h/Hen Zemi/[WhyNot] Hen Zemi - 02 [F99CC5DF].mkv
+complete/h/Hen Zemi/[WhyNot] Hen Zemi - 03 [D5AD5FD1].mkv
+complete/h/Hen Zemi/[WhyNot] Hen Zemi - 04 [1577D27D].mkv
+complete/h/Hen Zemi/[WhyNot] Hen Zemi - 05 [0E0FE82B].mkv
+complete/h/Hen Zemi/[WhyNot] Hen Zemi - 06 [v2 Uncensored][A013BD69].mkv
+complete/h/Hen Zemi/[WhyNot] Hen Zemi - 07 [Uncensored][806D0172].mkv
+complete/h/Hen Zemi/[WhyNot] Hen Zemi - 08 [Uncensored][87ED33A4].mkv
+complete/h/Hen Zemi/[WhyNot] Hen Zemi - 09 [0E329657].mkv
+complete/h/Hen Zemi/[WhyNot] Hen Zemi - 10 [74EEFD00].mkv
+complete/h/Hen Zemi/[WhyNot] Hen Zemi - 11 [16B24E2F].mkv
+complete/h/Hen Zemi/[WhyNot] Hen Zemi - 12 [CD26E275].mkv
+complete/h/Hen Zemi/[WhyNot] Hen Zemi - 13 [End][EB53A58C].mkv
 complete/h/Here is Greenwood/[HD] Here is Greenwood - 1 [91F9324E].mkv
 complete/h/Here is Greenwood/[HD] Here is Greenwood - 2 [1D49B785].mkv
 complete/h/Here is Greenwood/[HD] Here is Greenwood - 3 [ED5B0ABC].mkv
@@ -6719,6 +6744,18 @@ complete/h/Hidamari Sketch/[gg] Hidamari Sketch - 04 [E58F6D4F].mkv
 complete/h/Hidamari Sketch/[gg] Hidamari Sketch - 05 [7C52E6D4].mkv
 complete/h/Hidamari Sketch/[gg] Hidamari Sketch - 06 [E0BD59F9].mkv
 complete/h/Hidamari Sketch/[gg] Hidamari Sketch - 07 [6E2B29BB].mkv
+complete/h/Hidan no Aria/[UTW] Hidan no Aria - 01 [720p][C0289EFA].mkv
+complete/h/Hidan no Aria/[UTW] Hidan no Aria - 02 [720p][BC57F04D].mkv
+complete/h/Hidan no Aria/[UTW] Hidan no Aria - 03 [720p][35C98AE2].mkv
+complete/h/Hidan no Aria/[UTW] Hidan no Aria - 04 [720p][BDCE69D2].mkv
+complete/h/Hidan no Aria/[UTW] Hidan no Aria - 05 [720p][E7724B68].mkv
+complete/h/Hidan no Aria/[UTW] Hidan no Aria - 06 [720p][A01EBF63].mkv
+complete/h/Hidan no Aria/[UTW] Hidan no Aria - 07 [720p][610F991F].mkv
+complete/h/Hidan no Aria/[UTW] Hidan no Aria - 08 [720p][D62B01B5].mkv
+complete/h/Hidan no Aria/[UTW] Hidan no Aria - 09 [720p][55B50132].mkv
+complete/h/Hidan no Aria/[UTW] Hidan no Aria - 10 [720p][82E07BA2].mkv
+complete/h/Hidan no Aria/[UTW] Hidan no Aria - 11 [720p][40C3CA0F].mkv
+complete/h/Hidan no Aria/[UTW] Hidan no Aria - 12 [End][720p][AD3164B5].mkv
 complete/h/High School Girls/[LIME] High School Girls - 01 [1FF0B570].avi
 complete/h/High School Girls/[LIME] High School Girls - 02 [AC41BC75].avi
 complete/h/High School Girls/[LIME] High School Girls - 03 [728E61DB].avi
@@ -7049,6 +7086,18 @@ complete/h/Hoshi no Umi no Amuri/[OFP] Hoshi no Umi no Amuri - 3 [End][C67FD87C]
 complete/h/Hoshi no Umi no Amuri/[ujisub] Hoshi no Umi no Amuri - 2 [DVD][6BE6A279].mkv
 complete/h/Hoshizora Kiseki OVA/[A-Kraze] Hoshizora Kiseki OVA [DVD][F64F469A].mp4
 complete/h/Hoshizora Kiseki OVA/[MSF] Hoshizora Kiseki OVA [A3851242].mkv
+complete/h/Hoshizora e Kakaru Hashi/[HorribleSubs] Hoshizora e Kakaru Hashi - 10 [720p][7D5C5F8A].mkv
+complete/h/Hoshizora e Kakaru Hashi/[HorribleSubs] Hoshizora e Kakaru Hashi - 11 [720p][A4B5BE72].mkv
+complete/h/Hoshizora e Kakaru Hashi/[HorribleSubs] Hoshizora e Kakaru Hashi - 12 [End][720p][9905A1AD].mkv
+complete/h/Hoshizora e Kakaru Hashi/[Ryuumaru] Hoshizora e Kakaru Hashi - 01 [720p][525EB300].mkv
+complete/h/Hoshizora e Kakaru Hashi/[Ryuumaru] Hoshizora e Kakaru Hashi - 02 [v2 720p][96CC9952].mkv
+complete/h/Hoshizora e Kakaru Hashi/[Ryuumaru] Hoshizora e Kakaru Hashi - 03 [720p][A89C8D60].mkv
+complete/h/Hoshizora e Kakaru Hashi/[Ryuumaru] Hoshizora e Kakaru Hashi - 04 [720p][06870867].mkv
+complete/h/Hoshizora e Kakaru Hashi/[Ryuumaru] Hoshizora e Kakaru Hashi - 05 [720p][4399B363].mkv
+complete/h/Hoshizora e Kakaru Hashi/[Ryuumaru] Hoshizora e Kakaru Hashi - 06 [720p][0CB62BBB].mkv
+complete/h/Hoshizora e Kakaru Hashi/[Ryuumaru] Hoshizora e Kakaru Hashi - 07 [720p][617CC573].mkv
+complete/h/Hoshizora e Kakaru Hashi/[Ryuumaru] Hoshizora e Kakaru Hashi - 08 [720p][6979767E].mkv
+complete/h/Hoshizora e Kakaru Hashi/[Ryuumaru] Hoshizora e Kakaru Hashi - 09 [720p][151D1318].mkv
 complete/h/House of Five Leaves/[GotWoot] House of Five Leaves - 01 [720p][1C8A5541].mkv
 complete/h/House of Five Leaves/[GotWoot] House of Five Leaves - 02 [720p][DE06722E].mkv
 complete/h/House of Five Leaves/[GotWoot] House of Five Leaves - 03 [720p][425FE774].mkv
@@ -12994,6 +13043,7 @@ complete/o/Ore no Imouto/[Coalgirls] Ore no Imouto - 12.5 [720p BD][6703EFF3].mk
 complete/o/Ore no Imouto/[Coalgirls] Ore no Imouto - 13 [720p BD][2F5ED4BB].mkv
 complete/o/Ore no Imouto/[Mazui] Ore no Imouto - 14 [SD][7EA51F50].mkv
 complete/o/Ore no Imouto/[Mazui] Ore no Imouto - 15 [End][7E4F6F44].mkv
+complete/o/Oretachi ni Tsubasa wa Nai OVA/[Shikkaku] Oretachi ni Tsubasa wa Nai OVA [LQ 720p][838D5725].mkv
 complete/o/Oretachi ni Tsubasa wa Nai/[HorribleSubs] Oretachi ni Tsubasa wa Nai - 01 [720p][9F767893].mkv
 complete/o/Oretachi ni Tsubasa wa Nai/[HorribleSubs] Oretachi ni Tsubasa wa Nai - 02 [720p][B664F1D5].mkv
 complete/o/Oretachi ni Tsubasa wa Nai/[HorribleSubs] Oretachi ni Tsubasa wa Nai - 03 [720p][ACF29016].mkv
@@ -16403,7 +16453,7 @@ complete/s/Soul Link/[ReDone] Soul Link - 08 [DVD][C47BB7E7].mkv
 complete/s/Soul Link/[ReDone] Soul Link - 09 [DVD][96246F9D].mkv
 complete/s/Soul Link/[ReDone] Soul Link - 10 [DVD][7E1D731A].mkv
 complete/s/Soul Link/[ReDone] Soul Link - 11 [DVD][9C824B8C].mkv
-complete/s/Soul Link/[yesy] Soul Link - 12 [End][083A9C7C].avi
+complete/s/Soul Link/[ReDone] Soul Link - 12 [End][DVD][7724B427].mkv
 complete/s/Sousei no Aquarion OVA/[Shinsen-Subs] Sousei no Aquarion OVA - 1 [9C702197].avi
 complete/s/Sousei no Aquarion OVA/[Shinsen-Subs] Sousei no Aquarion OVA - 2 [End][A028C169].avi
 complete/s/Special A/[BakaWolf-m.3.3.w] Special A - 01 [C83164B9].mkv
@@ -17389,6 +17439,18 @@ complete/t/The Tower of Druaga - Sword of Uruk/[O-L] The Tower of Druaga - Sword
 complete/t/The Tower of Druaga - Sword of Uruk/[O-L] The Tower of Druaga - Sword of Uruk - 10 (1280x720) [272C8527].mkv
 complete/t/The Tower of Druaga - Sword of Uruk/[O-L] The Tower of Druaga - Sword of Uruk - 11 (1280x720) [5EB495A3].mkv
 complete/t/The Tower of Druaga - Sword of Uruk/[O-L] The Tower of Druaga - Sword of Uruk - 12 (1280x720) [End][E0CBD1FA].mkv
+complete/t/The World God Only Knows S2/[Commie] The World God Only Knows S2 - 01 [FCC717B4].mkv
+complete/t/The World God Only Knows S2/[Commie] The World God Only Knows S2 - 02 [09DAD96D].mkv
+complete/t/The World God Only Knows S2/[Commie] The World God Only Knows S2 - 03 [720B00C3].mkv
+complete/t/The World God Only Knows S2/[Commie] The World God Only Knows S2 - 04 [E3719C1C].mkv
+complete/t/The World God Only Knows S2/[Commie] The World God Only Knows S2 - 05 [662734EF].mkv
+complete/t/The World God Only Knows S2/[Commie] The World God Only Knows S2 - 06 [8541961D].mkv
+complete/t/The World God Only Knows S2/[Commie] The World God Only Knows S2 - 07 [287AE9A7].mkv
+complete/t/The World God Only Knows S2/[Commie] The World God Only Knows S2 - 08 [1F818EF7].mkv
+complete/t/The World God Only Knows S2/[Commie] The World God Only Knows S2 - 09 [6C55940F].mkv
+complete/t/The World God Only Knows S2/[Commie] The World God Only Knows S2 - 10 [918865F6].mkv
+complete/t/The World God Only Knows S2/[Commie] The World God Only Knows S2 - 11 [247EF9C8].mkv
+complete/t/The World God Only Knows S2/[Commie] The World God Only Knows S2 - 12 [End][C0A4301E].mkv
 complete/t/The World God Only Knows/[Commie] The World God Only Knows - 01 [v2][74C90DC8].mkv
 complete/t/The World God Only Knows/[Commie] The World God Only Knows - 02 [v2][3C63EB4E].mkv
 complete/t/The World God Only Knows/[Commie] The World God Only Knows - 03 [v2][5ADD78A2].mkv
@@ -19131,6 +19193,19 @@ complete/y/Yoku Wakaru Gendai Mahou/[polished] Yoku Wakaru Gendai Mahou - 09 (12
 complete/y/Yoku Wakaru Gendai Mahou/[polished] Yoku Wakaru Gendai Mahou - 10 (1280x720) [BD][7FD38174].mkv
 complete/y/Yoku Wakaru Gendai Mahou/[polished] Yoku Wakaru Gendai Mahou - 11 (1280x720) [BD][DF8156F9].mkv
 complete/y/Yoku Wakaru Gendai Mahou/[polished] Yoku Wakaru Gendai Mahou - 12 (1280x720) [End][BD][E3929CA5].mkv
+complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 01 [8FE8AA81].mkv
+complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 02 [AE71AEE3].mkv
+complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 03 [FE53BB5B].mkv
+complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 04 [E7CD4F01].mkv
+complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 05 [A7FBAF51].mkv
+complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 06 [C9099842].mkv
+complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 07 [1F59AA55].mkv
+complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 08 [3B803570].mkv
+complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 09 [8B5EC42F].mkv
+complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 10 [AC0BB516].mkv
+complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 11 [EBA40923].mkv
+complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 12 [073A775D].mkv
+complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 13 [End][83FC778F].mkv
 complete/y/Yotsunoha/[Formula] Yotsunoha - 1 [D5B2C988].mkv
 complete/y/Yotsunoha/[Formula] Yotsunoha - 2 [End][895C3DA8].mkv
 complete/y/You're Under Arrest! Full Throttle OVA/[Live-eviL] You're Under Arrest! Full Throttle - 24 OVA [DVD][1CB69633].mkv
