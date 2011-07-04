@@ -932,6 +932,7 @@
 !new/[HorribleSubs] Cardfight!! Vanguard - 25 [720p].mkv
 !new/[HorribleSubs] Deadman Wonderland  - 12 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 86 [720p].mkv
+!new/[HorribleSubs] Hanasaku Iroha - 14 [720p].mkv
 !new/[HorribleSubs] Hoshizora e Kakaru Hashi - 12 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 218 [720p].mkv
 !new/[HorribleSubs] Nichijou - 14 [720p].mkv
@@ -952,6 +953,7 @@
 !new/[RyRo]_Digimon_X-Evolution_(DVD_h264)_[65E683B1].mkv
 !new/[RyRo]_Digimon_Xros_Wars_-_40_(1280x720_x264_AAC)_[8F732C3C].mkv
 !new/[RyRo]_Digimon_Xros_Wars_-_41_(1280x720_x264_AAC)_[41CBE87D].mkv
+!new/[RyRo]_Jungle_Emperor_Leo_Special_2009_Yuuki_ga_Mirai_wo_Kaeru_(1280x720_h264_AAC)_[ED7CFFA4].mkv
 !new/[Shikkaku]_Oretachi_ni_Tsubasa_wa_Nai_OVA_[LQ][1280x720][AAC][838D5725].mkv
 !new/[SubDesu] Seikon no Qwaser II - 12 (1280x720) [719A9B7A].mkv
 !new/[TSuNDeRe]Tsuyokiss.01.[DVDRip.Xvid.864x480.Vorbis][5C9EE4CC].mkv
@@ -979,7 +981,9 @@
 !new/[WhyNot] Yondemasu yo, Azazel-san - 13 [83FC778F].mkv
 !new/[gaijin] A-Channel - 01 (BD 720p FLAC) [4A1F7AAB].mkv
 !new/[gaijin] A-Channel - 02 (BD 720p FLAC) [A19ACB2E].mkv
+!new/[gg]_Ao_no_Exorcist_-_12_[D75F6F4F].mkv
 !new/[gg]_Kamisama_no_Memochou_-_01_Part_A_(Preair)_[0694A82A].mkv
+!new/[gg]_Kamisama_no_Memochou_-_01_Part_B_(Preair)_[9F5B0F7A].mkv
 !new/[yibis]_One_Piece_498_v2_[720p][F66A51A5].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
