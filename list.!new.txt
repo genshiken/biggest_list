@@ -897,7 +897,16 @@
 !new/Yamato/s3/YAMATO 3x24 - Secret of Planet Guardiana.mkv
 !new/Yamato/s3/YAMATO 3x25 - Yamato, Shoot that Sun!.mkv
 !new/Yamato/s3/Yamato 3x01.mkv
+!new/[HorribleSubs] Bleach - 329 [720p].mkv
+!new/[HorribleSubs] Kamisama Dolls - 01 [720p].mkv
+!new/[HorribleSubs] Natsume Yuujinchou San - 27 [720p].mkv
+!new/[HorribleSubs] Steins;Gate - 14 [720p].mkv
+!new/[HorribleSubs] YuruYuri - 01 [720p].mkv
 !new/[Licca] Little Women II - Jo's Boys Episode 01 (h.264) [352C8427].mkv
+!new/[Licca] Little Women II - Jo's Boys Episode 02 (h.264) [B03FD1C3].mkv
+!new/[Licca] Pollyanna Episode 28 (h.264) [455C7DE0].mkv
+!new/[Over-Time]_Pirate_Sentai_Gokaiger_-_19_[31252A2A].mkv
+!new/[Saizen_&_Shinsen-Subs]_Captain_Tsubasa_Road_to_2002_-_28_[DVD][396A5778].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -913,6 +922,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[Tonde] YuruYuri - 01 720p.mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
