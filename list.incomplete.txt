@@ -538,6 +538,7 @@ incomplete/Bleach/Bleach - 326 [HorribleSubs][720p][E1ECFD0E].mkv
 incomplete/Bleach/Bleach - 327 [HorribleSubs][720p][FAF4A501].mkv
 incomplete/Bleach/Bleach - 328 [HorribleSubs][720p][991BCDD9].mkv
 incomplete/Bleach/Bleach - 329 [HorribleSubs][720p][CEC2B8EC].mkv
+incomplete/Blood-C/[Underwater] Blood-C - 01 [720p][CEBAC53A].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 01 [AFCE3665].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 02 [A90F670C].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 03 [A47F2053].mkv
@@ -994,6 +995,7 @@ incomplete/Doraemon/[Nobita] Doraemon - 04 [B1FC6349].mkv
 incomplete/Doraemon/[Nobita] Doraemon - 05 [25B35233].mkv
 incomplete/Doraemon/[Nobita] Doraemon - 06 [82A330E9].mkv
 incomplete/Double-J/[Hiryuu] Double-J - 01 [720p][408D61A9].mkv
+incomplete/Double-J/[Hiryuu] Double-J - 02 [720p][CEE576F3].mkv
 incomplete/Dragon Ball Kai/[SD-Taka] Dragon Ball Kai - 001 [720p][3F2B0268].mkv
 incomplete/Dragon Ball Kai/[SD-Taka] Dragon Ball Kai - 002 [720p][8C176BAC].mkv
 incomplete/Dragon Ball Kai/[SD-Taka] Dragon Ball Kai - 003 [720p][F0745246].mkv
@@ -1560,8 +1562,6 @@ incomplete/Hanasakeru Seishounen/[m.3.3.w] Hanasakeru Seishounen - 10 [96B46865]
 incomplete/Hanasakeru Seishounen/[m.3.3.w] Hanasakeru Seishounen - 11 [FD41BDAB].mkv
 incomplete/Hanasakeru Seishounen/[m.3.3.w] Hanasakeru Seishounen - 12 [6EECC837].mkv
 incomplete/Hanasakeru Seishounen/[m.3.3.w] Hanasakeru Seishounen - 12.5 [43281E55].mkv
-incomplete/Hanasaku Iroha/[HorribleSubs] Hanasaku Iroha - 13 [720p][0AEB51B0].mkv
-incomplete/Hanasaku Iroha/[HorribleSubs] Hanasaku Iroha - 14 [720p][7947E069].mkv
 incomplete/Hanasaku Iroha/[Underwater-Commie] Hanasaku Iroha - 01 [720p][CC2E52C9].mkv
 incomplete/Hanasaku Iroha/[Underwater-Commie] Hanasaku Iroha - 02 [720p][F3363342].mkv
 incomplete/Hanasaku Iroha/[Underwater-Commie] Hanasaku Iroha - 03 [720p][A043409B].mkv
@@ -1575,6 +1575,7 @@ incomplete/Hanasaku Iroha/[Underwater-Commie] Hanasaku Iroha - 10 [720p][4AC495F
 incomplete/Hanasaku Iroha/[Underwater-Commie] Hanasaku Iroha - 11 [720p][270A4834].mkv
 incomplete/Hanasaku Iroha/[Underwater-Commie] Hanasaku Iroha - 12 [720p][31C402BF].mkv
 incomplete/Hanasaku Iroha/[Underwater-Commie] Hanasaku Iroha - 13 [720p][D8081FF2].mkv
+incomplete/Hanasaku Iroha/[Underwater-Commie] Hanasaku Iroha - 14 [720p][D3377C6B].mkv
 incomplete/Happy Happy Clover/[Yoroshiku] Happy Happy Clover - 01 [E96A9A3F].mkv
 incomplete/Happy Happy Clover/[Yoroshiku] Happy Happy Clover - 02 [0D3C76FC].mkv
 incomplete/Happy Happy Clover/[Yoroshiku] Happy Happy Clover - 03 [95A5E181].mkv
@@ -1600,6 +1601,8 @@ incomplete/Happy Kappi/[Licca] Happy Kappi - 09 [F17C1040].mkv
 incomplete/Happy Kappi/[Licca] Happy Kappi - 10 [067E8EC1].mkv
 incomplete/Happy Kappi/[Licca] Happy Kappi - 11 [5BC31ECC].mkv
 incomplete/Happy Kappi/[Licca] Happy Kappi - 12 [E6C064DA].mkv
+incomplete/Happy Kappi/[Licca] Happy Kappi - 13 [6B89F247].mkv
+incomplete/Happy Kappi/[Licca] Happy Kappi - 14 [53ADE37B].mkv
 incomplete/Hell Teacher Nube/[ANFS] Hell Teacher Nube - 09 [01E61B16].avi
 incomplete/Hell Teacher Nube/[Flomp] Hell Teacher Nube - 10 [4F190991].mkv
 incomplete/Hell Teacher Nube/[Yami] Hell Teacher Nube - 11 [061B3E8E].avi
@@ -2111,6 +2114,7 @@ incomplete/Mahou Sensei Negima! Mou Hitotsu no Sekai/[AQS-Anime] Mahou Sensei Ne
 incomplete/Mahou Sensei Negima! Mou Hitotsu no Sekai/[AQS-Anime] Mahou Sensei Negima! Mou Hitotsu no Sekai - 02 [A9AD8B0E].mkv
 incomplete/Mahou Sensei Negima! Mou Hitotsu no Sekai/[AQS-Anime] Mahou Sensei Negima! Mou Hitotsu no Sekai - 03 [7230F37C].mkv
 incomplete/Mahou Sensei Negima! Mou Hitotsu no Sekai/[AQS-Anime] Mahou Sensei Negima! Mou Hitotsu no Sekai - 04 [842FC24F].mkv
+incomplete/Mahou no Star Magical Emi/[Live-eviL] Mahou no Star Magical Emi - 01 [9E0D9276].mkv
 incomplete/Mahoujin Guruguru/[A-Keep] Mahoujin Guruguru - 01 [FC2D097C].avi
 incomplete/Mahoujin Guruguru/[A-Keep] Mahoujin Guruguru - 02 [BED84BFB].avi
 incomplete/Mahoujin Guruguru/[A-Keep] Mahoujin Guruguru - 03 [C6FE4664].avi
@@ -2179,6 +2183,8 @@ incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 22 [720p][0171B182].mkv
 incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 23 [720p][6F878B22].mkv
 incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 24 [720p][053E4803].mkv
 incomplete/Marie & Gali/[Wasurenai] Marie & Gali - 25 [720p][6F01424D].mkv
+incomplete/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 01 [B8C345E7].mkv
+incomplete/Mayo Chiki/[Ayako] Mayo Chiki - 01 [720p][BAA60A16].mkv
 incomplete/Mermaid Melody Pichi Pichi Pitch Pure/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 01 [v2 DVD][A829314C].mkv
 incomplete/Mermaid Melody Pichi Pichi Pitch Pure/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 02 [DVD][7396A7B7].mkv
 incomplete/Mermaid Melody Pichi Pichi Pitch Pure/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 03 [DVD][043A4645].mkv
@@ -2229,6 +2235,7 @@ incomplete/Moonlight Mile/[FoSu-SHS] Moonlight Mile - 11 (1280x720) [F3E4664F].m
 incomplete/Moonlight Mile/[FoSu-SHS] Moonlight Mile - 12 (1280x720) [108265FB].mkv
 incomplete/Moonlight Mile/[Formula] Moonlight Mile - 01 (1280x720) [885A5004].mkv
 incomplete/Morita-san wa Makuchi OVA/[Kata-Subs] Morita-san wa Makuchi OVA - 1 [DVD][3B62DCE4].mkv
+incomplete/Morita-san wa Mukuchi/[SHiN-gx] Morita-san wa Mukuchi - 01 [720p][F4027264].mkv
 incomplete/Motto Ojamajo Doremi/[Doremi] Motto Ojamajo Doremi - 01 [A59CC23D].avi
 incomplete/Motto Ojamajo Doremi/[Doremi] Motto Ojamajo Doremi - 02 [78C66166].avi
 incomplete/Motto Ojamajo Doremi/[Doremi] Motto Ojamajo Doremi - 03 [88929393].avi
@@ -2277,6 +2284,7 @@ incomplete/Motto Ojamajo Doremi/[Doremi] Motto Ojamajo Doremi - 45 [4C6A6CEE].av
 incomplete/Motto Ojamajo Doremi/[Doremi] Motto Ojamajo Doremi - 46 [16264A23].avi
 incomplete/Motto Ojamajo Doremi/[Doremi] Motto Ojamajo Doremi - 47 [54D70887].avi
 incomplete/Motto Ojamajo Doremi/[Doremi] Motto Ojamajo Doremi - 48 [41735AB1].avi
+incomplete/Motto Ojamajo Doremi/[Doremi] Motto Ojamajo Doremi - 49 [209CDDE1].avi
 incomplete/Mouryou no Hako/[Aero] Mouryou no Hako - 01 (1280x720) [B1D69AB0].mkv
 incomplete/Mouryou no Hako/[Aero] Mouryou no Hako - 02 (1280x720) [v2][88995FB4].mkv
 incomplete/Mouryou no Hako/[Aero] Mouryou no Hako - 03 (1280x720) [v2][DEFA6F6E].mkv
@@ -2361,9 +2369,9 @@ incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 215 [720p][DCAC3
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 216 [720p][4A23016F].mkv
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 217 [720p][7708B54C].mkv
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 218 [720p][765915BF].mkv
+incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 219 [720p][448DB581].mkv
 incomplete/Natsume Yuujinchou San/[Commie] Natsume Yuujinchou San - 01 [CB15A29C].mkv
 incomplete/Nessa no Haou Gandalla/[ARR] Nessa no Haou Gandalla - 01 [52EBCAF2].mkv
-incomplete/Nichijou/[HorribleSubs] Nichijou - 14 [720p][107553BC].mkv
 incomplete/Nichijou/[UTW] Nichijou - 00 [LQ][5E9D0BF4].mkv
 incomplete/Nichijou/[Underwater-Commie] Nichijou - 01 [720p][99B70B42].mkv
 incomplete/Nichijou/[Underwater-Commie] Nichijou - 02 [720p][87E53446].mkv
@@ -2378,6 +2386,7 @@ incomplete/Nichijou/[Underwater-Commie] Nichijou - 10 [720p][4BCE8A9F].mkv
 incomplete/Nichijou/[Underwater-Commie] Nichijou - 11 [720p][33AC1210].mkv
 incomplete/Nichijou/[Underwater-Commie] Nichijou - 12 [720p][E7347555].mkv
 incomplete/Nichijou/[Underwater-Commie] Nichijou - 13 [720p][69148158].mkv
+incomplete/Nichijou/[Underwater-Commie] Nichijou - 14 [720p][113418D3].mkv
 incomplete/Ninku/[DB] Ninku - 01 [E889F9AB].avi
 incomplete/Ninku/[DB] Ninku - 02 [26ECC762].avi
 incomplete/Ninku/[DB] Ninku - 03 [F2D26E83].avi
@@ -3191,6 +3200,7 @@ incomplete/SKET Dance/[HorribleSubs] SKET Dance - 10 [v2 720p][5A80BA2C].mkv
 incomplete/SKET Dance/[HorribleSubs] SKET Dance - 11 [v2 720p][5E718392].mkv
 incomplete/SKET Dance/[HorribleSubs] SKET Dance - 12 [720p][9B845D48].mkv
 incomplete/SKET Dance/[HorribleSubs] SKET Dance - 13 [720p][6BCD32DA].mkv
+incomplete/SKET Dance/[HorribleSubs] SKET Dance - 14 [720p][F17DDAE4].mkv
 incomplete/Sacred Seven/[gg] Sacred Seven - 01 [03F50447].mkv
 incomplete/Saint October/[AoG] Saint October - 14 [8A7C9F10].mkv
 incomplete/Saint October/[AoG] Saint October - 15 [2D340C11].mkv
@@ -3465,7 +3475,7 @@ incomplete/Steins;Gate/[Commie] Steins;Gate - 10 [FA233F56].mkv
 incomplete/Steins;Gate/[Commie] Steins;Gate - 11 [21EFBB77].mkv
 incomplete/Steins;Gate/[Commie] Steins;Gate - 12 [69996EE2].mkv
 incomplete/Steins;Gate/[Commie] Steins;Gate - 13 [v3][8A516848].mkv
-incomplete/Steins;Gate/[HorribleSubs] Steins;Gate - 14 [720p][A8F901D9].mkv
+incomplete/Steins;Gate/[HorribleSubs] Steins;Gate - 14 [v2 720p][C26C8E5E].mkv
 incomplete/Strong World/[yibis] Strong World - 0 [DVD][49C1A026].mkv
 incomplete/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 01 [720p][979152CB].mkv
 incomplete/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 02 [720p][B92C5AD5].mkv
@@ -3616,6 +3626,7 @@ incomplete/Toriko/[A-Destiny SGKK] Toriko - 10 [720p][17F65CF1].mkv
 incomplete/Toriko/[A-Destiny] Toriko - 11 [720p][C0DC5D62].mkv
 incomplete/Toriko/[A-Destiny] Toriko - 12 [720p][ABD7C0D7].mkv
 incomplete/Toriko/[A-Destiny] Toriko - 13 [720p][E1619E08].mkv
+incomplete/Toriko/[A-Destiny] Toriko - 14 [720p][B429B970].mkv
 incomplete/Touhou Unofficial Doujin Anime/[StrikeS-Ayako] Touhou Unofficial Doujin Anime - 01 [v2][3164C789].mkv
 incomplete/Tsuyokiss/[Tsundere] Tsuyokiss - 01 [DVD][5C9EE4CC].mkv
 incomplete/Tsuyokiss/[Tsundere] Tsuyokiss - 02 [DVD][4557A9CD].mkv
@@ -3655,6 +3666,7 @@ incomplete/Uragiri wa Boku no Namae wo Shitteiru/[HorribleSubs] Uragiri wa Boku 
 incomplete/Uragiri wa Boku no Namae wo Shitteiru/[Yuurisan-Subs] Uragiri wa Boku no Namae wo Shitteiru - 01 [37B920D9].mkv
 incomplete/Uragiri wa Boku no Namae wo Shitteiru/[Yuurisan-Subs] Uragiri wa Boku no Namae wo Shitteiru - 02 [415AE315].mkv
 incomplete/Uragiri wa Boku no Namae wo Shitteiru/[Yuurisan-Subs] Uragiri wa Boku no Namae wo Shitteiru - 03 [v2][D113F0AB].mkv
+incomplete/Usagi Drop/[Commie] Usagi Drop - 01 [654EB35F].mkv
 incomplete/Usaru-san/[Diffusion] Usaru-san - 01 [00A75094].mkv
 incomplete/Usaru-san/[Diffusion] Usaru-san - 02 [4751DEE5].mkv
 incomplete/Usaru-san/[Diffusion] Usaru-san - 03 [23E911DB].mkv
