@@ -111,6 +111,7 @@ incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 09 [v2][10EBB56A].mkv
 incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 10 [v2][2394C227].mkv
 incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 11 [v2][4DA5A27D].mkv
 incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 12 [v2][CDC46254].mkv
+incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 13 [8A474B3A].mkv
 incomplete/Aoi Blink/[ARR] Aoi Blink - 01 [7CEA315B].mkv
 incomplete/Aoki Densetsu Shoot!/[Saizen] Aoki Densetsu Shoot! - 34 [DVD][5DE072D3].mkv
 incomplete/Aoki Densetsu Shoot!/[Saizen] Aoki Densetsu Shoot! - 35 [DVD][55E30867].mkv
@@ -1735,13 +1736,15 @@ incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 01 [5F1FCE3C].mkv
 incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 02 [CD5565DA].mkv
 incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 07 [v2][2B25B6F8].mkv
 incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 08 [E1DACAE0].mkv
-incomplete/Ikoku Meiro no Kurowaaze/[Ayako] Ikoku Meiro no Kurowaaze - 01 [720p][7D8269CC].mkv
+incomplete/Ikoku Meiro no Kurowaaze/[Ayako] Ikoku Meiro no Kurowaaze - 01 [v2 720p][50F363E5].mkv
+incomplete/Ikoku Meiro no Kurowaaze/[Ayako] Ikoku Meiro no Kurowaaze - 02 [720p][D5B3B7D4].mkv
 incomplete/Inazuma Eleven GO/[RyRo] Inazuma Eleven GO - 001 [720p][2668855F].mkv
 incomplete/Inazuma Eleven GO/[RyRo] Inazuma Eleven GO - 002 [720p][04B18A67].mkv
 incomplete/Inazuma Eleven GO/[RyRo] Inazuma Eleven GO - 003 [720p][BB4495C8].mkv
 incomplete/Inazuma Eleven GO/[RyRo] Inazuma Eleven GO - 004 [720p][CED96B44].mkv
 incomplete/Inazuma Eleven GO/[RyRo] Inazuma Eleven GO - 005 [720p][E46D8905].mkv
 incomplete/Inazuma Eleven GO/[RyRo] Inazuma Eleven GO - 006 [720p][73E10BAF].mkv
+incomplete/Inazuma Eleven GO/[RyRo] Inazuma Eleven GO - 009 [720p][D2E18F5C].mkv
 incomplete/Initial D Battle Stage/[Shinsen-Subs] Initial D Battle Stage - 2 [End][B54855AA].mkv
 incomplete/Iron Man/[Force-Works] Iron Man - 01 [A66813DB].mkv
 incomplete/Iron Man/[Force-Works] Iron Man - 02 [2D05AB2F].mkv
@@ -2419,6 +2422,7 @@ incomplete/Ninku/[DB] Ninku - 21 [26F63F20].avi
 incomplete/Ninku/[DB] Ninku - 22 [3E44A7B0].avi
 incomplete/No. 6/[gg] No. 6 - 01 [3B64215C].mkv
 incomplete/Nurarihyon no Mago Sennen Makyou/[WhyNot] Nurarihyon no Mago Sennen Makyou - 01 [72043125].mkv
+incomplete/Nyanpire/[AonE] Nyanpire - The Animation - 01 [3A652460].mkv
 incomplete/Nyanpire/[Nutbladder] Nyanpire - 01 [3E6E26D3].mkv
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 01 [3A853D01].avi
 incomplete/Ojamajo Doremi Sharp/[Doremi] Ojamajo Doremi Sharp - 02 [08A1F4E5].avi
