@@ -99,18 +99,18 @@ incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 35 [
 incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 36 [720p][ABB79C24].mkv
 incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 37 [720p][0F05D4C3].mkv
 incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 38 [720p][8E3055CB].mkv
-incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 01 [v2][BC62CE11].mkv
-incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 02 [EF511E91].mkv
-incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 03 [8109CBD1].mkv
-incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 04 [v2][B4DE9B66].mkv
-incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 05 [B2D96026].mkv
-incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 06 [26E1DD02].mkv
-incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 07 [E159A4DB].mkv
-incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 08 [464252C1].mkv
-incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 09 [A13A9B19].mkv
-incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 10 [F4AE712E].mkv
-incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 11 [F4BC6B80].mkv
-incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 12 [D75F6F4F].mkv
+incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 01 [v3][F421D269].mkv
+incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 02 [v2][0CE31825].mkv
+incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 03 [v2][87DA147D].mkv
+incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 04 [v3][CBE76CDE].mkv
+incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 05 [v2][7CBF9420].mkv
+incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 06 [v2][7DD284D9].mkv
+incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 07 [v2][57122464].mkv
+incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 08 [v2][46B5912C].mkv
+incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 09 [v2][10EBB56A].mkv
+incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 10 [v2][2394C227].mkv
+incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 11 [v2][4DA5A27D].mkv
+incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 12 [v2][CDC46254].mkv
 incomplete/Aoi Blink/[ARR] Aoi Blink - 01 [7CEA315B].mkv
 incomplete/Aoki Densetsu Shoot!/[Saizen] Aoki Densetsu Shoot! - 34 [DVD][5DE072D3].mkv
 incomplete/Aoki Densetsu Shoot!/[Saizen] Aoki Densetsu Shoot! - 35 [DVD][55E30867].mkv
@@ -230,6 +230,7 @@ incomplete/Aura Battler Dunbine - The Tale of Neo Byston Well/[Shin-Getter] Aura
 incomplete/Ayakashi Ayashi Inferno/[Shinsen-Subs] Ayakashi Ayashi Inferno - 01 [93211E22].avi
 incomplete/Ayatsuri Sakon/[ASP] Ayatsuri Sakon - 22 [DVD][9817F861].mp4
 incomplete/Azuki-chan/[ARR] Azuki-chan - 001 [089B1C3B].mkv
+incomplete/Baka to Test to Shokanju Ni/[Commie] Baka to Test to Shokanju Ni - 01 [3084A5A6].mkv
 incomplete/Baka to Test to Shoukanjuu Matsuri/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri - 01 [1080p BD][94537AEF].mkv
 incomplete/Baka to Test to Shoukanjuu Matsuri/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri - 02 [1080p BD][5D6A40FA].mkv
 incomplete/Baka to Test to Shoukanjuu Matsuri/[FFFpeeps] Baka to Test to Shoukanjuu Matsuri - Ending 1a [1080p BD][23E6F150].mkv
@@ -265,6 +266,7 @@ incomplete/Beelzebub/[HorribleSubs] Beelzebub - 21 [720p][15FA9084].mkv
 incomplete/Beelzebub/[HorribleSubs] Beelzebub - 22 [720p][F9980767].mkv
 incomplete/Beelzebub/[HorribleSubs] Beelzebub - 23 [720p][0387BED6].mkv
 incomplete/Beelzebub/[HorribleSubs] Beelzebub - 24 [720p][C1EA5982].mkv
+incomplete/Beelzebub/[HorribleSubs] Beelzebub - 25 [720p][95E70DD4].mkv
 incomplete/Before Green Gables/[ray=out] Before Green Gables - 01 [HD][898B650B].mkv
 incomplete/Before Green Gables/[ray=out] Before Green Gables - 02 [HD][9FEE3EFF].mkv
 incomplete/Before Green Gables/[ray=out] Before Green Gables - 03 [HD][5F7CBFF3].mkv
@@ -1092,6 +1094,7 @@ incomplete/Dragon Quest/[ANBU] Dragon Quest - 04 [ED0B902C].mkv
 incomplete/Dragon Quest/[ANBU] Dragon Quest - 05 [E96E6779].mkv
 incomplete/Dragon Quest/[ANBU] Dragon Quest - 06 [2E1F0C2F].mkv
 incomplete/Dragon Quest/[ANBU] Dragon Quest - 07 [B40D5451].mkv
+incomplete/Dragon Quest/[ANBU] Dragon Quest - 08 [CD8F72A3].mkv
 incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 04 [720p][572BCC9E].mkv
 incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 12 [720p][2C8EB7AD].mkv
 incomplete/Fairy Tail/[HorribleSubs] Fairy Tail - 13 [720p][D4CD1F35].mkv
@@ -1564,6 +1567,7 @@ incomplete/Hanasakeru Seishounen/[m.3.3.w] Hanasakeru Seishounen - 10 [96B46865]
 incomplete/Hanasakeru Seishounen/[m.3.3.w] Hanasakeru Seishounen - 11 [FD41BDAB].mkv
 incomplete/Hanasakeru Seishounen/[m.3.3.w] Hanasakeru Seishounen - 12 [6EECC837].mkv
 incomplete/Hanasakeru Seishounen/[m.3.3.w] Hanasakeru Seishounen - 12.5 [43281E55].mkv
+incomplete/Hanasaku Iroha/[HorribleSubs] Hanasaku Iroha - 15 [720p][173BD9F1].mkv
 incomplete/Hanasaku Iroha/[Underwater-Commie] Hanasaku Iroha - 01 [720p][CC2E52C9].mkv
 incomplete/Hanasaku Iroha/[Underwater-Commie] Hanasaku Iroha - 02 [720p][F3363342].mkv
 incomplete/Hanasaku Iroha/[Underwater-Commie] Hanasaku Iroha - 03 [720p][A043409B].mkv
@@ -1761,6 +1765,7 @@ incomplete/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi 
 incomplete/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 08 (1280x720) [BD][02656E90].mkv
 incomplete/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 09 (1280x720) [BD][7DB91636].mkv
 incomplete/Isekai no Seikishi Monogatari/[Wasurenai] Isekai no Seikishi Monogatari - 10 (1280x720) [BD][21AF365C].mkv
+incomplete/Itsuka Tenma no Kuro Usagi/[Derp] Itsuka Tenma no Kuro Usagi - 01 [v2 720p][F1C5BF4D].mkv
 incomplete/Jewel Pet/[mSubs] Jewel Pet - 01 [720p][AA1D364B].mkv
 incomplete/Jewelpet Sunshine/[Oni-B] Jewelpet Sunshine - 01 [720p][96DCDC7E].mkv
 incomplete/Jigoku Shoujo Mitsuganae/[SS-Ayu] Jigoku Shoujo Mitsuganae - 01 [329008CE].mkv
@@ -2374,6 +2379,7 @@ incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 218 [720p][76591
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 219 [720p][448DB581].mkv
 incomplete/Natsume Yuujinchou San/[Commie] Natsume Yuujinchou San - 01 [CB15A29C].mkv
 incomplete/Nessa no Haou Gandalla/[ARR] Nessa no Haou Gandalla - 01 [52EBCAF2].mkv
+incomplete/Nichijou/[HorribleSubs] Nichijou - 15 [720p][F9622DB1].mkv
 incomplete/Nichijou/[UTW] Nichijou - 00 [LQ][5E9D0BF4].mkv
 incomplete/Nichijou/[Underwater-Commie] Nichijou - 01 [720p][99B70B42].mkv
 incomplete/Nichijou/[Underwater-Commie] Nichijou - 02 [720p][87E53446].mkv
@@ -3100,8 +3106,11 @@ incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 05 [1B8BEC0C].mkv
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 08 [69EF2B35].mkv
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 09 [C37FE63E].mkv
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 10 [189FCA07].mkv
+incomplete/R-15/[Chiki-Subs] R-15 - 01 [720p][A280F70E].mkv
+incomplete/R-15/[Commie] R-15 - 01 [52843FAE].mkv
 incomplete/Reform Without Wasted Draws - The Legend of Koizumi/[gg] Reform Without Wasted Draws - The Legend of Koizumi - 01 [Webcast][61B04813].mkv
-incomplete/Ro-Kyu-Bu!/[Doki] Ro-Kyu-Bu! - 01 [720p][457A91B2].mkv
+incomplete/Ro-Kyu-Bu!/[Aho-Taku] Ro-Kyu-Bu! - 01 [720p][A97FB713].mkv
+incomplete/Ro-Kyu-Bu!/[Aho-Taku] Ro-Kyu-Bu! - 02 [720p][F441FA5B].mkv
 incomplete/Rockman EXE Beast/[WPP de Puku] Rockman EXE Beast - 17 [D12F8EC3].avi
 incomplete/Rockman.EXE Axess/[wpp] Rockman.EXE Axess - 01 [4BF2D92B].avi
 incomplete/Rockman.EXE Axess/[wpp] Rockman.EXE Axess - 02 [41B25E09].avi
@@ -3207,6 +3216,7 @@ incomplete/SKET Dance/[HorribleSubs] SKET Dance - 12 [720p][9B845D48].mkv
 incomplete/SKET Dance/[HorribleSubs] SKET Dance - 13 [720p][6BCD32DA].mkv
 incomplete/SKET Dance/[HorribleSubs] SKET Dance - 14 [720p][F17DDAE4].mkv
 incomplete/Sacred Seven/[gg] Sacred Seven - 01 [03F50447].mkv
+incomplete/Sacred Seven/[gg] Sacred Seven - 02 [A4970352].mkv
 incomplete/Saint October/[AoG] Saint October - 14 [8A7C9F10].mkv
 incomplete/Saint October/[AoG] Saint October - 15 [2D340C11].mkv
 incomplete/Saint October/[AoG] Saint October - 16 [C508CCC8].mkv
@@ -3603,6 +3613,7 @@ incomplete/Tiger & Bunny/[Commie] Tiger & Bunny - 11 [E25689B5].mkv
 incomplete/Tiger & Bunny/[Commie] Tiger & Bunny - 12 [78DE0162].mkv
 incomplete/Tiger & Bunny/[Commie] Tiger & Bunny - 13 [F980E3A4].mkv
 incomplete/Tiger & Bunny/[Commie] Tiger & Bunny - 14 [2CFF23DF].mkv
+incomplete/Tiger & Bunny/[Commie] Tiger & Bunny - 15 [FC38720C].mkv
 incomplete/Time Paladin Sakura/[Doki-Chihiro] Time Paladin Sakura - 01 [DVD][EAC29A8A].mkv
 incomplete/Time Paladin Sakura/[HiNA] Time Paladin Sakura - 01 [720p][AA4507AB].mkv
 incomplete/Toaru Kagaku no Railgun ARCHIVES/[arinashi] Toaru Kagaku no Railgun ARCHIVES - 01 [54834EF4].mkv
