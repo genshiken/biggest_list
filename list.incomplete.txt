@@ -1296,6 +1296,7 @@ incomplete/Gintama'/[HorribleSubs] Gintama' - 11 [720p][7B24D28C].mkv
 incomplete/Gintama'/[HorribleSubs] Gintama' - 12 [720p][4E429983].mkv
 incomplete/Gintama'/[HorribleSubs] Gintama' - 13 [720p][2640146B].mkv
 incomplete/Gintama'/[HorribleSubs] Gintama' - 14 [720p][70A2313C].mkv
+incomplete/Gintama'/[HorribleSubs] Gintama' - 15 [720p][A1DFD2E7].mkv
 incomplete/Gintama'/[Rumbel] Gintama' - 02 [5D3C23D6].mkv
 incomplete/Gintama'/[Rumbel] Gintama' - 02 [DB82C477].mkv
 incomplete/Gintama'/[WhyNot-Hadena] Gintama' - 01 [914E5B1B].mkv
@@ -1744,6 +1745,8 @@ incomplete/Inazuma Eleven GO/[RyRo] Inazuma Eleven GO - 003 [720p][BB4495C8].mkv
 incomplete/Inazuma Eleven GO/[RyRo] Inazuma Eleven GO - 004 [720p][CED96B44].mkv
 incomplete/Inazuma Eleven GO/[RyRo] Inazuma Eleven GO - 005 [720p][E46D8905].mkv
 incomplete/Inazuma Eleven GO/[RyRo] Inazuma Eleven GO - 006 [720p][73E10BAF].mkv
+incomplete/Inazuma Eleven GO/[RyRo] Inazuma Eleven GO - 007 [720p][DCD2CE90].mkv
+incomplete/Inazuma Eleven GO/[RyRo] Inazuma Eleven GO - 008 [720p][FBE20975].mkv
 incomplete/Inazuma Eleven GO/[RyRo] Inazuma Eleven GO - 009 [720p][D2E18F5C].mkv
 incomplete/Initial D Battle Stage/[Shinsen-Subs] Initial D Battle Stage - 2 [End][B54855AA].mkv
 incomplete/Iron Man/[Force-Works] Iron Man - 01 [A66813DB].mkv
@@ -1818,6 +1821,7 @@ incomplete/Kamichama Karin/[Kedex] Kamichama Karin - 15 [6AD1810C].avi
 incomplete/Kamichama Karin/[Kedex] Kamichama Karin - 16 [CFCA0713].avi
 incomplete/Kamichama Karin/[Kedex] Kamichama Karin - 17 [B1558DD5].avi
 incomplete/Kamisama Dolls/[HorribleSubs] Kamisama Dolls - 01 [720p][88425CFA].mkv
+incomplete/Kamisama no Memochou/[UTW] Kamisama no Memochou - 01 [720p][C2C005FF].mkv
 incomplete/Kamisama no Memochou/[gg] Kamisama no Memochou - 01a [Preair][0694A82A].mkv
 incomplete/Kamisama no Memochou/[gg] Kamisama no Memochou - 01b [Preair][9F5B0F7A].mkv
 incomplete/Katri, Girl of the Meadows/[Ushi-LE] Katri, Girl of the Meadows - 13 [396F7710].mkv
@@ -3219,7 +3223,7 @@ incomplete/SKET Dance/[HorribleSubs] SKET Dance - 11 [v2 720p][5E718392].mkv
 incomplete/SKET Dance/[HorribleSubs] SKET Dance - 12 [720p][9B845D48].mkv
 incomplete/SKET Dance/[HorribleSubs] SKET Dance - 13 [720p][6BCD32DA].mkv
 incomplete/SKET Dance/[HorribleSubs] SKET Dance - 14 [720p][F17DDAE4].mkv
-incomplete/Sacred Seven/[gg] Sacred Seven - 01 [03F50447].mkv
+incomplete/Sacred Seven/[gg] Sacred Seven - 01 [v2][392BA086].mkv
 incomplete/Sacred Seven/[gg] Sacred Seven - 02 [A4970352].mkv
 incomplete/Saint October/[AoG] Saint October - 14 [8A7C9F10].mkv
 incomplete/Saint October/[AoG] Saint October - 15 [2D340C11].mkv
