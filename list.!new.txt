@@ -898,11 +898,20 @@
 !new/Yamato/s3/YAMATO 3x24 - Secret of Planet Guardiana.mkv
 !new/Yamato/s3/YAMATO 3x25 - Yamato, Shoot that Sun!.mkv
 !new/Yamato/s3/Yamato 3x01.mkv
+!new/[ASL]_LIA_-_enigmaticLIA_4_[FLAC]_[w_Scans].rar
 !new/[ASL]_Lia_-_Key_Lia_Best_2001-2010_[FLAC]_[w_Scans].rar
+!new/[ASL]_SUPER_GiRL_-_Pretty_Rhythm_Aurora_Dream_ED_-_MAX!_Otomegokoro_Happy_GO_Lucky!_Happy_Lucky_de_GO!_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Kimi_to_Boku_to_Eden_no_Ringo_Original_Soundtrack_[FLAC]_[w_Scans].rar
 !new/[Commie] Steins;Gate - NCED [BD 720p AAC] [10bit] [C706859E].mkv
+!new/[HorribleSubs] Bleach - 330 [720p].mkv
+!new/[HorribleSubs] Natsume Yuujinchou San - 28 [720p].mkv
 !new/[HorribleSubs] Nekogami Yaoyorozu - 01 [720p].mkv
+!new/[HorribleSubs] Twin Angel - Twinkle Paradise - 01 [720p].mkv
 !new/[HorribleSubs] YuruYuri - 02 [720p].mkv
+!new/[Licca] Little Women II - Jo's Boys Episode 03 (h.264) [97C2E28E].mkv
+!new/[NyanTaku] Uta no Prince-sama Maji Love 1000% - 01 (1280x720 x264 AAC).mkv
+!new/[RyRo]_Digimon_Xros_Wars_-_42_(1280x720_x264_AAC)_[FC2A6C76].mkv
+!new/[SubDESU] Manyuu Hikenchou - 01 (1280x720) [80C0624B].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -918,6 +927,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[umai]_Otona_Joshi_no_Anime_Time_[014D24D6].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -1302,3 +1312,4 @@
 !new/raw/natsunoarashi/[SomeBody-Raws][DVD]_Natsu_No_Arashi_-_13_RAW_(704x480_x264_Vorbis).mkv
 !new/raw/natsunoarashi/[SomeBody-Raws][DVD]_Natsu_No_Arashi_-_Clear_ED_(704x480_x264_Vorbis).mkv
 !new/raw/natsunoarashi/[SomeBody-Raws][DVD]_Natsu_No_Arashi_-_Clear_OP_(704x480_x264_Vorbis).mkv
+!new/zx.ninja.scroll.divx5.ogm
