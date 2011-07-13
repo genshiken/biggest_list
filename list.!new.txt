@@ -557,6 +557,19 @@
 !new/NieA under 7/NieA_under_7_-_11.mkv
 !new/NieA under 7/NieA_under_7_-_12.mkv
 !new/NieA under 7/NieA_under_7_-_13.mkv
+!new/Ninja_Scroll_TV_Ep.01[x264-AAC][SSP-Corp][61EA79C2].mkv
+!new/Ninja_Scroll_TV_Ep.02[x264-AAC][SSP-Corp][119CCF87].mkv
+!new/Ninja_Scroll_TV_Ep.03[x264-AAC][SSP-Corp][A202087F].mkv
+!new/Ninja_Scroll_TV_Ep.04[x264-AAC][SSP-Corp][A590B913].mkv
+!new/Ninja_Scroll_TV_Ep.05[x264-AAC][SSP-Corp][9671E76B].mkv
+!new/Ninja_Scroll_TV_Ep.06[x264-AAC][SSP-Corp][4888C7B7].mkv
+!new/Ninja_Scroll_TV_Ep.07[x264-AAC][SSP-Corp][0D927BC0].mkv
+!new/Ninja_Scroll_TV_Ep.08[x264-AAC][SSP-Corp][F1A0E802].mkv
+!new/Ninja_Scroll_TV_Ep.09[x264-AAC][SSP-Corp][DE8A0F64].mkv
+!new/Ninja_Scroll_TV_Ep.10[x264-AAC][SSP-Corp][CB068A04].mkv
+!new/Ninja_Scroll_TV_Ep.11[x264-AAC][SSP-Corp][795132C6].mkv
+!new/Ninja_Scroll_TV_Ep.12[x264-AAC][SSP-Corp][CFC47921].mkv
+!new/Ninja_Scroll_TV_Ep.13[x264-AAC][SSP-Corp][FD6457EB].mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
@@ -901,16 +914,26 @@
 !new/[ASL]_LIA_-_enigmaticLIA_4_[FLAC]_[w_Scans].rar
 !new/[ASL]_Lia_-_Key_Lia_Best_2001-2010_[FLAC]_[w_Scans].rar
 !new/[ASL]_SUPER_GiRL_-_Pretty_Rhythm_Aurora_Dream_ED_-_MAX!_Otomegokoro_Happy_GO_Lucky!_Happy_Lucky_de_GO!_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_GOSICK_ORIGINAL_SOUNDTRACK_[FLAC].rar
+!new/[ASL]_Various_Artists_-_Hoshizora_e_Kakaru_Hashi_Original_Soundtrack_[FLAC].rar
 !new/[ASL]_Various_Artists_-_Kimi_to_Boku_to_Eden_no_Ringo_Original_Soundtrack_[FLAC]_[w_Scans].rar
+!new/[Chiki-Subs]_Kaitou_Tenshi_Twin_Angel_-_Kyun_Kyun_Tokimeki_Paradise!!_-_02_(1280x720_H.264_AAC)_[51AD802B].mkv
+!new/[Commie] Natsume Yuujinchou San - 02 [70781DE4].mkv
 !new/[Commie] Steins;Gate - NCED [BD 720p AAC] [10bit] [C706859E].mkv
 !new/[HorribleSubs] Bleach - 330 [720p].mkv
+!new/[HorribleSubs] Kamisama Dolls - 02 [720p].mkv
 !new/[HorribleSubs] Natsume Yuujinchou San - 28 [720p].mkv
 !new/[HorribleSubs] Nekogami Yaoyorozu - 01 [720p].mkv
 !new/[HorribleSubs] Steins;Gate - 15 [720p].mkv
 !new/[HorribleSubs] Twin Angel - Twinkle Paradise - 01 [720p].mkv
 !new/[HorribleSubs] YuruYuri - 02 [720p].mkv
+!new/[Licca] Happy Kappi Episode 15 (h.264) [4171FC27].mkv
 !new/[NyanTaku] Uta no Prince-sama Maji Love 1000% - 01 (1280x720 x264 AAC).mkv
 !new/[RyRo]_Digimon_Xros_Wars_-_42_(1280x720_x264_AAC)_[FC2A6C76].mkv
+!new/[Saizen-HnG]_Ashita_no_Joe_-_24_[DVD][C5BB77F5].mkv
+!new/[Shin-S] Nekogami Yaoyorozu ED Single - Oh My God [Tomatsu Haruka].zip
+!new/[Shin-S] THE iDOLM@STER ED Single - The world is all one!! [765PRO ALLSTARS].zip
+!new/[Shin-S] Uta no Prince-sama Maji LOVE 1000% OP Single - Orpheus [Miyano Mamoru].zip
 !new/[SubDESU] Manyuu Hikenchou - 01 (1280x720) [80C0624B].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
