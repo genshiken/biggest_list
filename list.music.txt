@@ -528,6 +528,7 @@ music/Nipponsei/[Nipponsei] BLEACH Movie 4 Main Theme Single - Save The One, Sav
 music/Nipponsei/[Nipponsei] BLEACH OP1 Single - Asterisk [Orange Range].zip
 music/Nipponsei/[Nipponsei] BLEACH OP12 Single - chAngE [miwa].zip
 music/Nipponsei/[Nipponsei] BLEACH OP13 Single - Ranbu no Melody [Sid].zip
+music/Nipponsei/[Nipponsei] BLEACH OP14 Single - BLUE [ViViD].zip
 music/Nipponsei/[Nipponsei] BLEACH OP2 Single - D-tecnoLife [UVERworld] (320 kbps).zip
 music/Nipponsei/[Nipponsei] BLEACH OP3 Single - Ichirin no Hana [HIGH and MIGHTY COLOR].zip
 music/Nipponsei/[Nipponsei] BLEACH OP4 Single - TONIGHT,TONIGHT,TONIGHT [BEAT CRUSADERS].zip
@@ -837,6 +838,7 @@ music/Nipponsei/[Nipponsei] Honey and Clover Movie Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Hoshi wo Ou Kodomo Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Hoshizora he Kakaru Hashi ED Single - Cinderella [Nakamura Eriko & Shimizu Ai].zip
 music/Nipponsei/[Nipponsei] Hoshizora he Kakaru Hashi OP Single - Hoshikaze no Horoscope [Nomiko].zip
+music/Nipponsei/[Nipponsei] Hoshizora he Kakaru Hashi Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Hourou Musuko ED Single - For You [Rie fu].zip
 music/Nipponsei/[Nipponsei] Hourou Musuko OP Single - Itsudatte. [Daisuke].zip
 music/Nipponsei/[Nipponsei] Hyakka Ryouran Samurai Girls ED Single - Koi ni Sesse Tooryanse [Various].zip
@@ -1096,6 +1098,8 @@ music/Nipponsei/[Nipponsei] Negima - Yume Minna de! [Various].zip
 music/Nipponsei/[Nipponsei] Negima DJCD Vol.2.zip
 music/Nipponsei/[Nipponsei] Negima OP ED Single - 1000% SPARKING [Various].zip
 music/Nipponsei/[Nipponsei] Negima Uta no CD 1.zip
+music/Nipponsei/[Nipponsei] Nekogami Yaoyorozu OP Single - Oh My God [Tomatsu Haruka].zip
+music/Nipponsei/[Nipponsei] Nichijou BGM & Radio Bangumi.zip
 music/Nipponsei/[Nipponsei] Nichijou ED Single - Zzz [Sasaki Sayaka].zip
 music/Nipponsei/[Nipponsei] Nichijou OP Single - Hyadain no Kakakata Kataomoi-C [Hyadain].zip
 music/Nipponsei/[Nipponsei] Night Wizard The Animation ED Single - Erinyes [BETTA FLASH].zip

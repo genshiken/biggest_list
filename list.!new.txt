@@ -822,7 +822,7 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/The_Wings_of_Honneamise_(1987)_[720p,BluRay,x264]_-_THORA.mkv
+!new/The Wings of Honneamise (1987)/[THORA] The Wings of Honneamise (1987) [720p BD][10104B10].mkv
 !new/Yamato/s1/Yamato 01 - remaster (Central Anime) [33d6eb95].mkv
 !new/Yamato/s1/Yamato 02 - remaster (Central Anime) [d9ab7e12].mkv
 !new/Yamato/s1/Yamato 03 - remaster (Central Anime) [36f50f9e].mkv
@@ -900,11 +900,6 @@
 !new/Yamato/s3/YAMATO 3x24 - Secret of Planet Guardiana.mkv
 !new/Yamato/s3/YAMATO 3x25 - Yamato, Shoot that Sun!.mkv
 !new/Yamato/s3/Yamato 3x01.mkv
-!new/[Nipponsei] BLEACH OP14 Single - BLUE [ViViD].zip
-!new/[Nipponsei] Hoshizora he Kakaru Hashi Original Soundtrack.zip
-!new/[Nipponsei] Nekogami Yaoyorozu OP Single - Oh My God [Tomatsu Haruka].zip
-!new/[Nipponsei] Nichijou BGM & Radio Bangumi.zip
-!new/[Saizen_&_Shinsen-Subs]_Captain_Tsubasa_Road_to_2002_-_30_[DVD][1CAE9999].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
