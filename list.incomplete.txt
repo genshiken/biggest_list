@@ -136,6 +136,7 @@ incomplete/Ashita no Joe/[Saizen-HnG] Ashita no Joe - 20 [DVD][85E3FEF7].avi
 incomplete/Ashita no Joe/[Saizen-HnG] Ashita no Joe - 21 [DVD][DC78CD58].mkv
 incomplete/Ashita no Joe/[Saizen-HnG] Ashita no Joe - 22 [DVD][A2C17C06].mkv
 incomplete/Ashita no Joe/[Saizen-HnG] Ashita no Joe - 23 [DVD][0F48F71F].mkv
+incomplete/Ashita no Joe/[Saizen-HnG] Ashita no Joe - 24 [DVD][C5BB77F5].mkv
 incomplete/Ashita no Joe/[Saizen] Ashita no Joe - 01 [DVD][69BCAC10].mkv
 incomplete/Ashita no Joe/[Saizen] Ashita no Joe - 02 [DVD][3ABA8A8C].mkv
 incomplete/Ashita no Joe/[Saizen] Ashita no Joe - 03 [DVD][D162E486].mkv
@@ -541,6 +542,7 @@ incomplete/Bleach/Bleach - 326 [HorribleSubs][720p][E1ECFD0E].mkv
 incomplete/Bleach/Bleach - 327 [HorribleSubs][720p][FAF4A501].mkv
 incomplete/Bleach/Bleach - 328 [HorribleSubs][720p][991BCDD9].mkv
 incomplete/Bleach/Bleach - 329 [HorribleSubs][720p][CEC2B8EC].mkv
+incomplete/Bleach/Bleach - 330 [HorribleSubs][720p][AC0F29A8].mkv
 incomplete/Blood-C/[Underwater] Blood-C - 01 [720p][CEBAC53A].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 01 [AFCE3665].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 02 [A90F670C].mkv
@@ -988,6 +990,7 @@ incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 38 [720p][BF8AAB7D].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 39 [720p][A292FFD9].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 40 [720p][8F732C3C].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 41 [720p][41CBE87D].mkv
+incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 42 [720p][FC2A6C76].mkv
 incomplete/Dirty Pair TV/[FLF & L-E] Dirty Pair TV - 01 [9689517F].mkv
 incomplete/Dirty Pair TV/[FLF & L-E] Dirty Pair TV - 02 [793D547A].mkv
 incomplete/Dirty Pair TV/[FLF & L-E] Dirty Pair TV - 03 [AEF9424F].mkv
@@ -1611,6 +1614,7 @@ incomplete/Happy Kappi/[Licca] Happy Kappi - 11 [5BC31ECC].mkv
 incomplete/Happy Kappi/[Licca] Happy Kappi - 12 [E6C064DA].mkv
 incomplete/Happy Kappi/[Licca] Happy Kappi - 13 [6B89F247].mkv
 incomplete/Happy Kappi/[Licca] Happy Kappi - 14 [53ADE37B].mkv
+incomplete/Happy Kappi/[Licca] Happy Kappi - 15 [4171FC27].mkv
 incomplete/Hell Teacher Nube/[ANFS] Hell Teacher Nube - 09 [01E61B16].avi
 incomplete/Hell Teacher Nube/[Flomp] Hell Teacher Nube - 10 [4F190991].mkv
 incomplete/Hell Teacher Nube/[Yami] Hell Teacher Nube - 11 [061B3E8E].avi
@@ -1802,7 +1806,9 @@ incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 12 [51DAC074].mkv
 incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 13 [967F7E5E].mkv
 incomplete/Kaiji S2/[Underwater-Commie] Kaiji S2 - 05 [720p][75CAF914].mkv
 incomplete/Kaiji S2/[Underwater-Commie] Kaiji S2 - 09 [720p][237119CB].mkv
+incomplete/Kaitou Tenshi Twin Angel Kyun Kyun Tokimeki Paradise!!/[Chiki-Subs] Kaitou Tenshi Twin Angel - Kyun Kyun Tokimeki Paradise!! - 02 [720p][51AD802B].mkv
 incomplete/Kaitou Tenshi Twin Angel Kyun Kyun Tokimeki Paradise!!/[Chiki-Subs] Kaitou Tenshi Twin Angel Kyun Kyun Tokimeki Paradise!! - 01 [720p][99C70DF5].mkv
+incomplete/Kaitou Tenshi Twin Angel Kyun Kyun Tokimeki Paradise!!/[HorribleSubs] Twin Angel - Twinkle Paradise - 01 [720p][BA937697].mkv
 incomplete/Kamichama Karin/[Kedex] Kamichama Karin - 01 [77A49DFF].avi
 incomplete/Kamichama Karin/[Kedex] Kamichama Karin - 02 [4D18F7AF].avi
 incomplete/Kamichama Karin/[Kedex] Kamichama Karin - 03 [40DD32D9].avi
@@ -1821,6 +1827,7 @@ incomplete/Kamichama Karin/[Kedex] Kamichama Karin - 15 [6AD1810C].avi
 incomplete/Kamichama Karin/[Kedex] Kamichama Karin - 16 [CFCA0713].avi
 incomplete/Kamichama Karin/[Kedex] Kamichama Karin - 17 [B1558DD5].avi
 incomplete/Kamisama Dolls/[HorribleSubs] Kamisama Dolls - 01 [720p][88425CFA].mkv
+incomplete/Kamisama Dolls/[HorribleSubs] Kamisama Dolls - 02 [720p][F741C7DE].mkv
 incomplete/Kamisama no Memochou/[UTW] Kamisama no Memochou - 01 [720p][C2C005FF].mkv
 incomplete/Kamisama no Memochou/[gg] Kamisama no Memochou - 01a [Preair][0694A82A].mkv
 incomplete/Kamisama no Memochou/[gg] Kamisama no Memochou - 01b [Preair][9F5B0F7A].mkv
@@ -2161,6 +2168,7 @@ incomplete/Mahoujin Guruguru/[A-Keep] Mahoujin Guruguru - 28 [ECFB7221].avi
 incomplete/Mahoujin Guruguru/[A-Keep] Mahoujin Guruguru - 29 [F3515BBF].avi
 incomplete/Mahoujin Guruguru/[A-Keep] Mahoujin Guruguru - 30 [CCF9E58E].avi
 incomplete/Maiden Rose OVA/[aarinfantasy] Maiden Rose OVA - 1 [CF2A8F80].avi
+incomplete/Manyuu Hikenchou/[SubDesu] Manyuu Hikenchou - 01 [720p][80C0624B].mkv
 incomplete/Maple Story/[Ashes-WIW] Maple Story - 01 [5B1872E3].mkv
 incomplete/Marginal Prince/[aarinfantasy] Marginal Prince - 01 [73C8AA2E].avi
 incomplete/Marginal Prince/[aarinfantasy] Marginal Prince - 02 [F6EF2301].avi
@@ -2251,6 +2259,7 @@ incomplete/Moonlight Mile/[FoSu-SHS] Moonlight Mile - 12 (1280x720) [108265FB].m
 incomplete/Moonlight Mile/[Formula] Moonlight Mile - 01 (1280x720) [885A5004].mkv
 incomplete/Morita-san wa Makuchi OVA/[Kata-Subs] Morita-san wa Makuchi OVA - 1 [DVD][3B62DCE4].mkv
 incomplete/Morita-san wa Mukuchi/[SHiN-gx] Morita-san wa Mukuchi - 01 [720p][F4027264].mkv
+incomplete/Morita-san wa Mukuchi/[SHiN-gx] Morita-san wa Mukuchi - 02 [720p][0DDAA6E3].mkv
 incomplete/Motto Ojamajo Doremi/[Doremi] Motto Ojamajo Doremi - 01 [A59CC23D].avi
 incomplete/Motto Ojamajo Doremi/[Doremi] Motto Ojamajo Doremi - 02 [78C66166].avi
 incomplete/Motto Ojamajo Doremi/[Doremi] Motto Ojamajo Doremi - 03 [88929393].avi
@@ -2386,6 +2395,8 @@ incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 217 [720p][7708B
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 218 [720p][765915BF].mkv
 incomplete/Naruto Shippuuden/[HorribleSubs] Naruto Shippuuden - 219 [720p][448DB581].mkv
 incomplete/Natsume Yuujinchou San/[Commie] Natsume Yuujinchou San - 01 [CB15A29C].mkv
+incomplete/Natsume Yuujinchou San/[Commie] Natsume Yuujinchou San - 02 [70781DE4].mkv
+incomplete/Nekogami Yaoyorozu/[HorribleSubs] Nekogami Yaoyorozu - 01 [720p][692F3D41].mkv
 incomplete/Nessa no Haou Gandalla/[ARR] Nessa no Haou Gandalla - 01 [52EBCAF2].mkv
 incomplete/Nichijou/[HorribleSubs] Nichijou - 15 [720p][F9622DB1].mkv
 incomplete/Nichijou/[UTW] Nichijou - 00 [LQ][5E9D0BF4].mkv
@@ -3500,6 +3511,8 @@ incomplete/Steins;Gate/[Commie] Steins;Gate - 11 [21EFBB77].mkv
 incomplete/Steins;Gate/[Commie] Steins;Gate - 12 [69996EE2].mkv
 incomplete/Steins;Gate/[Commie] Steins;Gate - 13 [v3][8A516848].mkv
 incomplete/Steins;Gate/[Commie] Steins;Gate - 14 [5F99DF79].mkv
+incomplete/Steins;Gate/[Commie] Steins;Gate - Ending (clean) [10bit 720p BD][C706859E].mkv
+incomplete/Steins;Gate/[HorribleSubs] Steins;Gate - 15 [720p][F128E394].mkv
 incomplete/Strong World/[yibis] Strong World - 0 [DVD][49C1A026].mkv
 incomplete/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 01 [720p][979152CB].mkv
 incomplete/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 02 [720p][B92C5AD5].mkv
@@ -3697,6 +3710,7 @@ incomplete/Usaru-san/[Diffusion] Usaru-san - 01 [00A75094].mkv
 incomplete/Usaru-san/[Diffusion] Usaru-san - 02 [4751DEE5].mkv
 incomplete/Usaru-san/[Diffusion] Usaru-san - 03 [23E911DB].mkv
 incomplete/Usaru-san/[Diffusion] Usaru-san - 04 [452D2338].mkv
+incomplete/Uta no Prince-sama Maji Love 1000%/[NyanTaku] Uta no Prince-sama Maji Love 1000% - 01 [720p][B08CAC2C].mkv
 incomplete/VS Knight Lamune & 40 fire/[DB L-E] VS Knight Lamune & 40 fire - 05 [8A591219].avi
 incomplete/VS Knight Lamune & 40 fire/[DB L-E] VS Knight Lamune & 40 fire - 06 [5BBCDA47].avi
 incomplete/VS Knight Lamune & 40 fire/[DB L-E] VS Knight Lamune & 40 fire - 07 [BBE3BEA6].avi
@@ -3915,6 +3929,7 @@ incomplete/Yumeiro Patissiere/[Wasurenai] Yumeiro Patissiere - 48 [C1732BAA].mkv
 incomplete/Yumeiro Patissiere/[Wasurenai] Yumeiro Patissiere - 49 [A435DC91].mkv
 incomplete/Yumeiro Patissiere/[Wasurenai] Yumeiro Patissiere - 50 [End][F20B1158].mkv
 incomplete/YuruYuri/[HorribleSubs] YuruYuri - 01 [720p][3A528975].mkv
+incomplete/YuruYuri/[HorribleSubs] YuruYuri - 02 [720p][77FA9B4D].mkv
 incomplete/Yutori-chan/[Yuurisan-Subs] Yutori-chan - 01 [Webrip][C9838BD2].mkv
 incomplete/Yutori-chan/[Yuurisan-Subs] Yutori-chan - 02 [Webrip][BFE01B68].mkv
 incomplete/Yutori-chan/[Yuurisan-Subs] Yutori-chan - 03 [Webrip][A15F24CC].mkv

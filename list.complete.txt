@@ -5565,17 +5565,17 @@ complete/g/Gosick/[Victorique] Gosick - 09 [720p][2564197C].mkv
 complete/g/Gosick/[Victorique] Gosick - 10 [720p][0037E5E9].mkv
 complete/g/Gosick/[Victorique] Gosick - 11 [720p][14781679].mkv
 complete/g/Gosick/[Victorique] Gosick - 12 [720p][8E10FC11].mkv
-complete/g/Gosick/[Victorique] Gosick - 13 [720p][DE144905].mkv
-complete/g/Gosick/[Victorique] Gosick - 14 [720p][BAE178B9].mkv
-complete/g/Gosick/[Victorique] Gosick - 15 [720p][9057F00E].mkv
-complete/g/Gosick/[Victorique] Gosick - 16 [720p][C227F576].mkv
-complete/g/Gosick/[Victorique] Gosick - 17 [720p][D1839C79].mkv
-complete/g/Gosick/[Victorique] Gosick - 18 [720p][0BC019D1].mkv
-complete/g/Gosick/[Victorique] Gosick - 19 [720p][4272B1DB].mkv
-complete/g/Gosick/[Victorique] Gosick - 20 [720p][C46DD8EC].mkv
-complete/g/Gosick/[Victorique] Gosick - 21 [720p][AF8764D6].mkv
-complete/g/Gosick/[Victorique] Gosick - 22 [720p][A55EF4BD].mkv
-complete/g/Gosick/[Victorique] Gosick - 23 [720p][F5741445].mkv
+complete/g/Gosick/[Victorique] Gosick - 13 [720p][26FE9FB2].mkv
+complete/g/Gosick/[Victorique] Gosick - 14 [720p][FB03F004].mkv
+complete/g/Gosick/[Victorique] Gosick - 15 [720p][AAA3BD57].mkv
+complete/g/Gosick/[Victorique] Gosick - 16 [720p][99030F4F].mkv
+complete/g/Gosick/[Victorique] Gosick - 17 [720p][DB0E71C4].mkv
+complete/g/Gosick/[Victorique] Gosick - 18 [720p][BF5134BC].mkv
+complete/g/Gosick/[Victorique] Gosick - 19 [720p][9446F48B].mkv
+complete/g/Gosick/[Victorique] Gosick - 20 [720p][4E5AB5F3].mkv
+complete/g/Gosick/[Victorique] Gosick - 21 [720p][3F3EAB1C].mkv
+complete/g/Gosick/[Victorique] Gosick - 22 [720p][74924C51].mkv
+complete/g/Gosick/[Victorique] Gosick - 23 [720p][950D4EB1].mkv
 complete/g/Gosick/[Victorique] Gosick - 24 [End][720p][301F460E].mkv
 complete/g/Gravion Zwei/[Exiled-Destiny] Gravion Zwei - 01 [v2][1531487F].mkv
 complete/g/Gravion Zwei/[Exiled-Destiny] Gravion Zwei - 02 [v2][D207D9EC].mkv
@@ -11316,6 +11316,18 @@ complete/m/Manabi Straight/[Eclipse-gg] Manabi Straight - 10 (1024x768) [F28FF06
 complete/m/Manabi Straight/[Eclipse-gg] Manabi Straight - 11 (1024x768) [5FECA77D].mkv
 complete/m/Manabi Straight/[Eclipse-gg] Manabi Straight - 12 (1024x768) [End][53B8ACA8].mkv
 complete/m/Manabi Straight/[GUMS] Manabi Straight - 06.5 OVA [0E58959E].mkv
+complete/m/Manabi Straight/[polished] Manabi Straight - 01 [DVD][A1D4B613].mkv
+complete/m/Manabi Straight/[polished] Manabi Straight - 02 [DVD][82633136].mkv
+complete/m/Manabi Straight/[polished] Manabi Straight - 03 [DVD][C2FF75F3].mkv
+complete/m/Manabi Straight/[polished] Manabi Straight - 04 [DVD][0B48855E].mkv
+complete/m/Manabi Straight/[polished] Manabi Straight - 05 [DVD][912A5825].mkv
+complete/m/Manabi Straight/[polished] Manabi Straight - 06 [DVD][5305A801].mkv
+complete/m/Manabi Straight/[polished] Manabi Straight - 07 [DVD][EFDFBC8B].mkv
+complete/m/Manabi Straight/[polished] Manabi Straight - 08 [DVD][00A34704].mkv
+complete/m/Manabi Straight/[polished] Manabi Straight - 09 [DVD][2806D70C].mkv
+complete/m/Manabi Straight/[polished] Manabi Straight - 10 [DVD][63C7E92D].mkv
+complete/m/Manabi Straight/[polished] Manabi Straight - 11 [DVD][485C5107].mkv
+complete/m/Manabi Straight/[polished] Manabi Straight - 12 [End][DVD][45FF07CA].mkv
 complete/m/Mao-chan/[SSP-Corp] Mao-chan - 01 [F0A85F82].mkv
 complete/m/Mao-chan/[SSP-Corp] Mao-chan - 02 [C157A541].mkv
 complete/m/Mao-chan/[SSP-Corp] Mao-chan - 03 [C6F25853].mkv
@@ -12565,6 +12577,19 @@ complete/n/Night Wizard/[AniSubs] Night Wizard - 12 [DVD][FA0395C0].mkv
 complete/n/Night Wizard/[AniSubs] Night Wizard - 13 [End][DVD][78504CD9].mkv
 complete/n/Night Wizard/[AniSubs] Night Wizard - Ending [DVD][46EB2ADE].mkv
 complete/n/Night Wizard/[AniSubs] Night Wizard - Opening [DVD][9ED90804].mkv
+complete/n/Ninja Scroll/[SSP-Corp] Ninja Scroll - 01 [61EA79C2].mkv
+complete/n/Ninja Scroll/[SSP-Corp] Ninja Scroll - 02 [119CCF87].mkv
+complete/n/Ninja Scroll/[SSP-Corp] Ninja Scroll - 03 [A202087F].mkv
+complete/n/Ninja Scroll/[SSP-Corp] Ninja Scroll - 04 [A590B913].mkv
+complete/n/Ninja Scroll/[SSP-Corp] Ninja Scroll - 05 [9671E76B].mkv
+complete/n/Ninja Scroll/[SSP-Corp] Ninja Scroll - 06 [4888C7B7].mkv
+complete/n/Ninja Scroll/[SSP-Corp] Ninja Scroll - 07 [0D927BC0].mkv
+complete/n/Ninja Scroll/[SSP-Corp] Ninja Scroll - 08 [F1A0E802].mkv
+complete/n/Ninja Scroll/[SSP-Corp] Ninja Scroll - 09 [DE8A0F64].mkv
+complete/n/Ninja Scroll/[SSP-Corp] Ninja Scroll - 10 [CB068A04].mkv
+complete/n/Ninja Scroll/[SSP-Corp] Ninja Scroll - 11 [795132C6].mkv
+complete/n/Ninja Scroll/[SSP-Corp] Ninja Scroll - 12 [CFC47921].mkv
+complete/n/Ninja Scroll/[SSP-Corp] Ninja Scroll - 13 [End][FD6457EB].mkv
 complete/n/Nishi no Yoki Majo/[ureshii] Nishi no Yoki Majo - 01 [88DB42AF].avi
 complete/n/Nishi no Yoki Majo/[ureshii] Nishi no Yoki Majo - 02 [81241682].avi
 complete/n/Nishi no Yoki Majo/[ureshii] Nishi no Yoki Majo - 03 [599462C9].avi
@@ -13132,6 +13157,7 @@ complete/o/Otome wa Boku ni Koishiteru/[Wasurenai] Otome wa Boku ni Koishiteru -
 complete/o/Otome wa Boku ni Koishiteru/[Wasurenai] Otome wa Boku ni Koishiteru - 10 [DVD][6090F3BC].mkv
 complete/o/Otome wa Boku ni Koishiteru/[Wasurenai] Otome wa Boku ni Koishiteru - 11 [DVD][1CE951B0].mkv
 complete/o/Otome wa Boku ni Koishiteru/[Wasurenai] Otome wa Boku ni Koishiteru - 12 [End][DVD][51A10756].mkv
+complete/o/Otona Joshi no Anime Time/[umai] Otona Joshi no Anime Time [014D24D6].mkv
 complete/o/Ouran High School Host Club/[Lunar] Ouran High School Host Club - 01 [27A38DD3].avi
 complete/o/Ouran High School Host Club/[Lunar] Ouran High School Host Club - 02 [A15A6553].avi
 complete/o/Ouran High School Host Club/[Lunar] Ouran High School Host Club - 03 [B84006C2].avi
