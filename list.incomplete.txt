@@ -3514,8 +3514,8 @@ incomplete/Steins;Gate/[Commie] Steins;Gate - 11 [21EFBB77].mkv
 incomplete/Steins;Gate/[Commie] Steins;Gate - 12 [69996EE2].mkv
 incomplete/Steins;Gate/[Commie] Steins;Gate - 13 [v3][8A516848].mkv
 incomplete/Steins;Gate/[Commie] Steins;Gate - 14 [5F99DF79].mkv
+incomplete/Steins;Gate/[Commie] Steins;Gate - 15 [1F4A7A8D].mkv
 incomplete/Steins;Gate/[Commie] Steins;Gate - Ending (clean) [10bit 720p BD][C706859E].mkv
-incomplete/Steins;Gate/[HorribleSubs] Steins;Gate - 15 [720p][F128E394].mkv
 incomplete/Strong World/[yibis] Strong World - 0 [DVD][49C1A026].mkv
 incomplete/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 01 [720p][979152CB].mkv
 incomplete/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 02 [720p][B92C5AD5].mkv
@@ -3710,6 +3710,7 @@ incomplete/Uragiri wa Boku no Namae wo Shitteiru/[Yuurisan-Subs] Uragiri wa Boku
 incomplete/Uragiri wa Boku no Namae wo Shitteiru/[Yuurisan-Subs] Uragiri wa Boku no Namae wo Shitteiru - 02 [415AE315].mkv
 incomplete/Uragiri wa Boku no Namae wo Shitteiru/[Yuurisan-Subs] Uragiri wa Boku no Namae wo Shitteiru - 03 [v2][D113F0AB].mkv
 incomplete/Usagi Drop/[Commie] Usagi Drop - 01 [654EB35F].mkv
+incomplete/Usagi Drop/[Commie] Usagi Drop - 02 [C929F4A4].mkv
 incomplete/Usaru-san/[Diffusion] Usaru-san - 01 [00A75094].mkv
 incomplete/Usaru-san/[Diffusion] Usaru-san - 02 [4751DEE5].mkv
 incomplete/Usaru-san/[Diffusion] Usaru-san - 03 [23E911DB].mkv
