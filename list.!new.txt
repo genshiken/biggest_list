@@ -900,11 +900,14 @@
 !new/Yamato/s3/YAMATO 3x24 - Secret of Planet Guardiana.mkv
 !new/Yamato/s3/YAMATO 3x25 - Yamato, Shoot that Sun!.mkv
 !new/Yamato/s3/Yamato 3x01.mkv
+!new/[A-Destiny] Toriko - 15 (1280x720 h264 AAC) [357A6213].mkv
 !new/[ASL]_Harada_Katsuyuki_-_Tantei_Opera_Milky_Holmes_Original_Soundtrack_[FLAC].rar
 !new/[ASL]_Lia_-_Key_Lia_Best_2001-2010_[EXTRA].rar
 !new/[ASL]_Various_Artists_-_Aneiro_Original_Soundtrack_CD_[FLAC].rar
 !new/[ASL]_Various_Artists_-_Atelier_Meruru_Original_Soundtrack_[FLAC].rar
 !new/[ASL]_Various_Artists_-_Fractale_Original_Soundtrack_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_GWAVE_2006_1st_Strike_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_GWAVE_2006_2nd_Strike_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Oretachi_ni_Tsubasa_wa_Nai_Character_Song_Compilation_1_~BD_DVD_demo_Oretachi_ni_Tsubasa_wa_NIGHT~_ [FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_euphoria_Theme_Song_Original_Soundtrack_CD_[FLAC].rar
 !new/[ASL]_school_food_punishment_-_Prog-Roid_[EXTRA].rar
@@ -919,6 +922,7 @@
 !new/[Chibiki]_THE_iDOLM@STER_-_02_[720p][26D112FB].mkv
 !new/[Commie] Baka to Test to Shokanju Ni - 02 [AEED8FF4].mkv
 !new/[Commie] Dantalian no Shoka - 01 [A01F4414].mkv
+!new/[Doremi].Motto.Ojamajo.Doremi.50.[3F94632D].avi
 !new/[Hiryuu] Double-J 03 [1280x720 H264 AAC] [01020AC8].mkv
 !new/[HorribleSubs] No. 6 - 02 [720p].mkv
 !new/[Licca] Pollyanna Episode 29 (h.264) [D008806D].mkv
@@ -940,6 +944,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[UTW]_Kamisama_no_Memochou_-_02_[h264-720p][10294B66].mkv
 !new/[Underwater-Commie] Nichijou - 15 (720p) [DCC5E1A9].mkv
 !new/[gg]_Mawaru_Penguindrum_-_02_[E0BE35C9].mkv
 !new/[yibis]_One_Piece_505_[720p][2BF89481].mkv
@@ -1330,3 +1335,4 @@
 !new/raw/natsunoarashi/[SomeBody-Raws][DVD]_Natsu_No_Arashi_-_13_RAW_(704x480_x264_Vorbis).mkv
 !new/raw/natsunoarashi/[SomeBody-Raws][DVD]_Natsu_No_Arashi_-_Clear_ED_(704x480_x264_Vorbis).mkv
 !new/raw/natsunoarashi/[SomeBody-Raws][DVD]_Natsu_No_Arashi_-_Clear_OP_(704x480_x264_Vorbis).mkv
+!new/wre_audiofix.patch
