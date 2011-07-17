@@ -93,6 +93,7 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - 623 [DCTP][720p][5955797D].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -918,14 +919,19 @@
 !new/[ASL]_school_food_punishment_-_school_food_is_good_food_[FLAC]_[w_Scans].rar
 !new/[Aho-Taku] Ro-Kyu-Bu! - 01v2[720p][246ae41d].mkv
 !new/[Aho-Taku] Ro-Kyu-Bu! - 03[720p][B08B49D0].mkv
+!new/[AonE]_Nyanpire_-_The_Animation_02_[38BC71A8].mkv
 !new/[Ayako]_Mayo_Chiki_-_02_[H264][720p][D9805400].mkv
 !new/[Chibiki]_THE_iDOLM@STER_-_02_[720p][26D112FB].mkv
 !new/[Commie] Baka to Test to Shokanju Ni - 02 [AEED8FF4].mkv
 !new/[Commie] Dantalian no Shoka - 01 [A01F4414].mkv
+!new/[Commie] Tiger & Bunny - 16 [273F368B].mkv
 !new/[Doremi].Motto.Ojamajo.Doremi.50.[3F94632D].avi
+!new/[Herp] Itsuka Tenma no Kuro usagi - 02 (1280x720 x264 AAC).mkv
 !new/[Hiryuu] Double-J 03 [1280x720 H264 AAC] [01020AC8].mkv
 !new/[HorribleSubs] No. 6 - 02 [720p].mkv
 !new/[Licca] Pollyanna Episode 29 (h.264) [D008806D].mkv
+!new/[Licca] Pollyanna Episode 30 (h.264) [DE8445B5].mkv
+!new/[NicoNico] R-15 - 02 [640x360 H.264 AAC].mkv
 !new/[Nipponsei] Softenni Original Soundtrack.zip
 !new/[Saizen_&_Shinsen-Subs]_Captain_Tsubasa_Road_to_2002_-_29_[DVD][51FED49B].mkv
 !new/[TSuNDeRe]Tsuyokiss.04.[DVDRip.Xvid.864x480.Vorbis][7A20F717].mkv
