@@ -958,6 +958,7 @@
 !new/[Herp] Itsuka Tenma no Kuro usagi - 02 (1280x720 x264 AAC).mkv
 !new/[Hiryuu] Double-J 03 [1280x720 H264 AAC] [01020AC8].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 27 [720p].mkv
+!new/[HorribleSubs] Hanasaku Iroha - 16 [720p].mkv
 !new/[HorribleSubs] Nichijou - 16 [720p].mkv
 !new/[HorribleSubs] No. 6 - 02 [720p].mkv
 !new/[Licca] Pollyanna Episode 29 (h.264) [D008806D].mkv
@@ -1150,6 +1151,11 @@
 !new/cor.extras.infinite.ryvius.textless.opening5.[42221716].mkv
 !new/cor.extras.infinite.ryvius.textless.opening6.[86B9B670].mkv
 !new/cor.extras.infinite.ryvius.textless.opening7.[0D26A832].mkv
+!new/cor.extras.revolutionary.girl.utena.the.adolescence.of.utena.behind.the.scenes.with.kunihiko.ikuhara.[339E76B5].mkv
+!new/cor.extras.revolutionary.girl.utena.the.adolescence.of.utena.fan.tribute.contest.[D4A58C07].mkv
+!new/cor.extras.revolutionary.girl.utena.the.adolescence.of.utena.hichiro.kobayashi's.art.sketches.[01370CF1].mkv
+!new/cor.extras.revolutionary.girl.utena.the.adolescence.of.utena.sketches.with.director's.notes.[5E6EC3A9].mkv
+!new/cor.movie.revolutionary.girl.utena.the.adolescence.of.utena.[A72506FF].mkv
 !new/cor.tv.infinite.ryvius.01.[47B5B160].mkv
 !new/cor.tv.infinite.ryvius.02.[71EA9890].mkv
 !new/cor.tv.infinite.ryvius.03.[25D8473F].mkv
