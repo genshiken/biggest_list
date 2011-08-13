@@ -77,7 +77,6 @@
 !new/2/Chrono Crusade/[KAA] Chrono Crusade - 22 [DVD][03B4E095].mkv
 !new/2/Chrono Crusade/[KAA] Chrono Crusade - 23 [DVD][C6C741B0].mkv
 !new/2/Chrono Crusade/[KAA] Chrono Crusade - 24 [End][DVD][1885341F].mkv
-!new/2/Strike Witches 2/[Coalgirls] Strike Witches 2 - 01 [1080p BD][E79D3DE2].mkv
 !new/Azumaria Lessons/Lesson - 01 - Golden Age America.mkv
 !new/Azumaria Lessons/Lesson - 02 - The Magdalene Order.mkv
 !new/Azumaria Lessons/Lesson - 03 - Secret Weapons Of The Magdalene Order.mkv
@@ -149,9 +148,6 @@
 !new/K-ON!!/[Elysium] K-ON!! - Ending 2 [1080p BD][44D53C8D].mkv
 !new/K-ON!!/[Elysium] K-ON!! - Opening 1 [1080p BD][48887972].mkv
 !new/K-ON!!/[Elysium] K-ON!! - Opening 2 [1080p BD][608AFCF1].mkv
-!new/Kaiji Live Action/[RANDOMFAGGOTS] Kaiji - Life Reversal Game [DVD] - Extra DVD Trailers [A7772B65].mkv
-!new/Kaiji Live Action/[RANDOMFAGGOTS] Kaiji - Life Reversal Game [DVD] Trailer [45FFA0DD].mkv
-!new/Kaiji Live Action/[RANDOMFAGGOTS] Kaiji - Life Reversal Game [DVD][JAP SUB ENG][5DBC41E0].mkv
 !new/Kamen Rider W Returns - Kamen Rider Eternal v2 [W-Time].mkv
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_01_[Anime-Empire_&_Aoshi].avi
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_02_[Anime-Empire_&_Aoshi].avi
@@ -900,10 +896,7 @@
 !new/Yamato/s3/YAMATO 3x24 - Secret of Planet Guardiana.mkv
 !new/Yamato/s3/YAMATO 3x25 - Yamato, Shoot that Sun!.mkv
 !new/Yamato/s3/Yamato 3x01.mkv
-!new/[HorribleSubs] Gintama - 217 [720p].mkv
-!new/[Over-Time]_Kamen_Rider_OOO_-_42_[45E68127].mkv
-!new/[Over-Time]_Pirate_Sentai_Gokaiger_-_21_[5B4FB362].mkv
-!new/[SMS] Starry Sky - 22 [88DCE66E].mkv
+!new/[HF-Testing]_A-Channel_OP_-_Kawano_Marina_-_Morning_Arch_[241EFEA8].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -919,12 +912,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[Thora] Laputa - Castle in the Sky (1986) [1080p BD][458AE03B].mkv
-!new/[gg]_Ao_no_Exorcist_-_14_[F3BA8064].mkv
-!new/[gg]_Sacred_Seven_-_03_[FB9C39E9].mkv
-!new/aslerr/[ASL]_Various_Artists_-_Angelic_Being..._Tsubasa_o_Kudasai_Original_Soundtrack_[FLAC].rar
-!new/aslerr/[ASL]_Various_Artists_-_GOSICK_ORIGINAL_SOUNDTRACK_[FLAC].rar
-!new/aslerr/[ASL]_Various_Artists_-_Hoshizora_e_Kakaru_Hashi_Original_Soundtrack_[FLAC].rar
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
