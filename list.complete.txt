@@ -65,7 +65,9 @@ complete/9/9 Love Stories/[dp] 9 Love Stories - 1 [3D611C85].mkv
 complete/9/9 Love Stories/[dp] 9 Love Stories - 2 [End][92ABB219].mkv
 complete/_/_summer/[Shinsen-Subs] _summer - 1 [47AD4022].avi
 complete/_/_summer/[Shinsen-Subs] _summer - 2 [End][75FE1F3D].avi
+complete/a/A Channel/[EveTaku] A Channel - 01 [1080p BD][C621FC83].mkv
 complete/a/A Channel/[EveTaku] A Channel - 01 [v3 720p][791A7887].mkv
+complete/a/A Channel/[EveTaku] A Channel - 02 [1080p BD][817E1F19].mkv
 complete/a/A Channel/[EveTaku] A Channel - 02 [v2 720p][5C837577].mkv
 complete/a/A Channel/[EveTaku] A Channel - 03 [v2 720p][87049F2F].mkv
 complete/a/A Channel/[EveTaku] A Channel - 04 [v2 720p][5935FBCC].mkv
@@ -2424,7 +2426,7 @@ complete/c/Chu-Bra!!/[Ryuumaru] Chu-Bra!! - 09 [ED9F59E7].mkv
 complete/c/Chu-Bra!!/[Ryuumaru] Chu-Bra!! - 10 [E7D6AF5B].mkv
 complete/c/Chu-Bra!!/[Ryuumaru] Chu-Bra!! - 11 [04334665].mkv
 complete/c/Chu-Bra!!/[Ryuumaru] Chu-Bra!! - 12 [End][E36458A5].mkv
-complete/c/Clannad After Story OVA/[Coalgirls] Clannad After Story - 25 OVA [1080p BD][2B485D30].mkv
+complete/c/Clannad After Story OVA/[Coalgirls] Clannad - After Story - 25 OVA [1080p BD][95236E00].mkv
 complete/c/Clannad After Story/[Coalgirls] Clannad After Story - 01 [1080p BD][3B9F4B48].mkv
 complete/c/Clannad After Story/[Coalgirls] Clannad After Story - 02 [1080p BD][E17F731C].mkv
 complete/c/Clannad After Story/[Coalgirls] Clannad After Story - 03 [1080p BD][90B7FEE2].mkv
@@ -2436,19 +2438,19 @@ complete/c/Clannad After Story/[Coalgirls] Clannad After Story - 08 [1080p BD][A
 complete/c/Clannad After Story/[Coalgirls] Clannad After Story - 09 [1080p BD][897D4DCB].mkv
 complete/c/Clannad After Story/[Coalgirls] Clannad After Story - 10 [1080p BD][708CDB09].mkv
 complete/c/Clannad After Story/[Coalgirls] Clannad After Story - 11 [1080p BD][306D0032].mkv
-complete/c/Clannad After Story/[Coalgirls] Clannad After Story - 12 [1080p BD][5FD7E5E1].mkv
+complete/c/Clannad After Story/[Coalgirls] Clannad After Story - 12 [1080p BD][A7E48E5F].mkv
 complete/c/Clannad After Story/[Coalgirls] Clannad After Story - 13 [1080p BD][466364B1].mkv
 complete/c/Clannad After Story/[Coalgirls] Clannad After Story - 14 [1080p BD][FDD093F6].mkv
 complete/c/Clannad After Story/[Coalgirls] Clannad After Story - 15 [1080p BD][45BCA88B].mkv
 complete/c/Clannad After Story/[Coalgirls] Clannad After Story - 16 [1080p BD][E4FA463A].mkv
 complete/c/Clannad After Story/[Coalgirls] Clannad After Story - 17 [1080p BD][31623D17].mkv
 complete/c/Clannad After Story/[Coalgirls] Clannad After Story - 18 [1080p BD][A0B63BF3].mkv
-complete/c/Clannad After Story/[Coalgirls] Clannad After Story - 19 [1080p BD][E37CA9EE].mkv
+complete/c/Clannad After Story/[Coalgirls] Clannad After Story - 19 [1080p BD][ECC7052D].mkv
 complete/c/Clannad After Story/[Coalgirls] Clannad After Story - 20 [1080p BD][87EA66C5].mkv
 complete/c/Clannad After Story/[Coalgirls] Clannad After Story - 21 [1080p BD][88665621].mkv
-complete/c/Clannad After Story/[Coalgirls] Clannad After Story - 22 [1080p BD][E47C33E6].mkv
+complete/c/Clannad After Story/[Coalgirls] Clannad After Story - 22 [1080p BD][07A81411].mkv
 complete/c/Clannad After Story/[Coalgirls] Clannad After Story - 23 [1080p BD][7C952B55].mkv
-complete/c/Clannad After Story/[Coalgirls] Clannad After Story - 24 [End][1080p BD][A7370313].mkv
+complete/c/Clannad After Story/[Coalgirls] Clannad After Story - 24 [End][1080p BD][47D27AFA].mkv
 complete/c/Clannad After Story/[Coalgirls] Clannad After Story - Ending 1 [1080p BD][C808621E].mkv
 complete/c/Clannad After Story/[Coalgirls] Clannad After Story - Ending 2 [1080p BD][129EB38E].mkv
 complete/c/Clannad After Story/[Coalgirls] Clannad After Story - Ending 3 [1080p BD][B0E4D8E2].mkv
@@ -13210,8 +13212,8 @@ complete/o/Ore no Imouto/[Coalgirls] Ore no Imouto - 11 [720p BD][921AB821].mkv
 complete/o/Ore no Imouto/[Coalgirls] Ore no Imouto - 12 [720p BD][50B0D3F4].mkv
 complete/o/Ore no Imouto/[Coalgirls] Ore no Imouto - 12.5 [720p BD][6703EFF3].mkv
 complete/o/Ore no Imouto/[Coalgirls] Ore no Imouto - 13 [720p BD][2F5ED4BB].mkv
-complete/o/Ore no Imouto/[Mazui] Ore no Imouto - 14 [SD][7EA51F50].mkv
-complete/o/Ore no Imouto/[Mazui] Ore no Imouto - 15 [End][7E4F6F44].mkv
+complete/o/Ore no Imouto/[Coalgirls] Ore no Imouto - 14 [720p BD][A140AE88].mkv
+complete/o/Ore no Imouto/[Coalgirls] Ore no Imouto - 15 [End][720p BD][E323F5CA].mkv
 complete/o/Oretachi ni Tsubasa wa Nai OVA/[Shikkaku] Oretachi ni Tsubasa wa Nai OVA [LQ 720p][838D5725].mkv
 complete/o/Oretachi ni Tsubasa wa Nai/[HorribleSubs] Oretachi ni Tsubasa wa Nai - 01 [720p][9F767893].mkv
 complete/o/Oretachi ni Tsubasa wa Nai/[HorribleSubs] Oretachi ni Tsubasa wa Nai - 02 [720p][B664F1D5].mkv
@@ -19054,32 +19056,32 @@ complete/w/Welcome to the NHK!/[Oyasumi] Welcome to the NHK! - 21 [F0632EE4].mkv
 complete/w/Welcome to the NHK!/[Oyasumi] Welcome to the NHK! - 22 [A3E60426].mkv
 complete/w/Welcome to the NHK!/[Oyasumi] Welcome to the NHK! - 23 [615BBC06].mkv
 complete/w/Welcome to the NHK!/[Oyasumi] Welcome to the NHK! - 24 [End][A01C6C62].mkv
-complete/w/White Album/[Commie] White Album - 14 [v2][0B390E1B].mkv
-complete/w/White Album/[Commie] White Album - 15 [AE2A7554].mkv
-complete/w/White Album/[Commie] White Album - 16 [B9BC35A9].mkv
-complete/w/White Album/[Commie] White Album - 17 [61D691D1].mkv
-complete/w/White Album/[Commie] White Album - 18 [2333043C].mkv
-complete/w/White Album/[Commie] White Album - 19 [FE5562A2].mkv
-complete/w/White Album/[Commie] White Album - 20 [933EC3AC].mkv
-complete/w/White Album/[Commie] White Album - 21 [1FD49798].mkv
-complete/w/White Album/[Commie] White Album - 22 [4E4FCD93].mkv
-complete/w/White Album/[Commie] White Album - 23 [71989B08].mkv
-complete/w/White Album/[Commie] White Album - 24 [3B15DDCD].mkv
-complete/w/White Album/[Commie] White Album - 25 [v2][05BBB384].mkv
-complete/w/White Album/[Commie] White Album - 26 [End][1FF87398].mkv
-complete/w/White Album/[Eclipse] White Album - 01 [720p][7A34D827].mkv
-complete/w/White Album/[Eclipse] White Album - 02 [720p][F8F8BE34].mkv
-complete/w/White Album/[Eclipse] White Album - 03 [720p][0B3A2A54].mkv
-complete/w/White Album/[Eclipse] White Album - 04 [720p][D0860817].mkv
-complete/w/White Album/[Eclipse] White Album - 05 [720p][B75D3D99].mkv
-complete/w/White Album/[Eclipse] White Album - 06 [720p][7C01A5B0].mkv
-complete/w/White Album/[Eclipse] White Album - 07 [720p][A6E75644].mkv
-complete/w/White Album/[Eclipse] White Album - 08 [720p][D4761B18].mkv
-complete/w/White Album/[Eclipse] White Album - 09 [720p][E381CF30].mkv
-complete/w/White Album/[Eclipse] White Album - 10 [720p][5BF9AD43].mkv
-complete/w/White Album/[Eclipse] White Album - 11 [720p][8E208605].mkv
-complete/w/White Album/[Eclipse] White Album - 12 [720p][890CA312].mkv
-complete/w/White Album/[Eclipse] White Album - 13 [720p][20D97704].mkv
+complete/w/White Album/[Coalgirls] White Album - 01 [720p BD][8C929BE2].mkv
+complete/w/White Album/[Coalgirls] White Album - 02 [720p BD][4D089066].mkv
+complete/w/White Album/[Coalgirls] White Album - 03 [720p BD][DDAFC37C].mkv
+complete/w/White Album/[Coalgirls] White Album - 04 [720p BD][516ED440].mkv
+complete/w/White Album/[Coalgirls] White Album - 05 [720p BD][5636CF2B].mkv
+complete/w/White Album/[Coalgirls] White Album - 06 [720p BD][A0E66421].mkv
+complete/w/White Album/[Coalgirls] White Album - 07 [720p BD][F903A006].mkv
+complete/w/White Album/[Coalgirls] White Album - 08 [720p BD][441A7998].mkv
+complete/w/White Album/[Coalgirls] White Album - 09 [720p BD][0B615CCE].mkv
+complete/w/White Album/[Coalgirls] White Album - 10 [720p BD][52B6E401].mkv
+complete/w/White Album/[Coalgirls] White Album - 11 [720p BD][EE0B6462].mkv
+complete/w/White Album/[Coalgirls] White Album - 12 [720p BD][22890E6D].mkv
+complete/w/White Album/[Coalgirls] White Album - 13 [720p BD][4635A0EF].mkv
+complete/w/White Album/[Coalgirls] White Album - 14 [720p BD][5AF75894].mkv
+complete/w/White Album/[Coalgirls] White Album - 15 [720p BD][23A50AE8].mkv
+complete/w/White Album/[Coalgirls] White Album - 16 [720p BD][C8387B44].mkv
+complete/w/White Album/[Coalgirls] White Album - 17 [720p BD][F5DF5EAB].mkv
+complete/w/White Album/[Coalgirls] White Album - 18 [720p BD][EA1DD09B].mkv
+complete/w/White Album/[Coalgirls] White Album - 19 [720p BD][C53A0E30].mkv
+complete/w/White Album/[Coalgirls] White Album - 20 [720p BD][3B5E015D].mkv
+complete/w/White Album/[Coalgirls] White Album - 21 [720p BD][E5B8DCD1].mkv
+complete/w/White Album/[Coalgirls] White Album - 22 [720p BD][8986F2FF].mkv
+complete/w/White Album/[Coalgirls] White Album - 23 [720p BD][5EE19682].mkv
+complete/w/White Album/[Coalgirls] White Album - 24 [720p BD][0783B47D].mkv
+complete/w/White Album/[Coalgirls] White Album - 25 [720p BD][D62DC196].mkv
+complete/w/White Album/[Coalgirls] White Album - 26 [End][720p BD][FED43525].mkv
 complete/w/Wind - a breath of heart - Extras/[Shinsen-Subs] Wind - a breath of heart - 09.5 [DVD][7566A581].avi
 complete/w/Wind - a breath of heart - Extras/[Shinsen-Subs] Wind - a breath of heart - 10.4 [DVD][FF3163E7].avi
 complete/w/Wind - a breath of heart - Extras/[Shinsen-Subs] Wind - a breath of heart - 10.8 [DVD][15185086].avi
