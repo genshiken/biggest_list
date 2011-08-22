@@ -531,6 +531,17 @@
 !new/NieA under 7/NieA_under_7_-_11.mkv
 !new/NieA under 7/NieA_under_7_-_12.mkv
 !new/NieA under 7/NieA_under_7_-_13.mkv
+!new/Niea.Under.Seven.01.(Dual.Audio).XVID.[AM].mkv
+!new/Niea.Under.Seven.02.(Dual.Audio).XVID.[AM].mkv
+!new/Niea.Under.Seven.03.(Dual.Audio).XVID.[AM].mkv
+!new/Niea.Under.Seven.04.(Dual.Audio).XVID.[AM].mkv
+!new/Niea.Under.Seven.05.(Dual.Audio).XVID.[AM].mkv
+!new/Niea.Under.Seven.06.(Dual.Audio).XVID.[AM].mkv
+!new/Niea.Under.Seven.07.(Dual.Audio).XVID.[AM].mkv
+!new/Niea.Under.Seven.08.(Dual.Audio).XVID.[AM].mkv
+!new/Niea.Under.Seven.09.(Dual.Audio).XVID.[AM].mkv
+!new/Niea.Under.Seven.10.(Dual.Audio).XVID.[AM].mkv
+!new/Niea.Under.Seven.11.(Dual.Audio).XVID.[AM].mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
@@ -796,22 +807,13 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
 !new/[ANE] Kyou no Go no Ni Takarabako OAD (DVD 1024x576 x264 AC-3)/[ANE] Kyou no Go no Ni Takarabako OAD (DVD 1024x576 x264 AC-3).mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/Bonus/[ANE] MM! - CM [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/Bonus/[ANE] MM! - Cat [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/Bonus/[ANE] MM! - Creditless Ending 2 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/Bonus/[ANE] MM! - Creditless Ending [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/Bonus/[ANE] MM! - Creditless Opening 1 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/Bonus/[ANE] MM! - Creditless Opening 2 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/Bonus/[ANE] MM! - Creditless Opening 3 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/Bonus/[ANE] MM! - Hiiragi Noa [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/Bonus/[ANE] MM! - Isurugi Mio [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/Bonus/[ANE] MM! - MFC [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/Bonus/[ANE] MM! - Massage [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/Bonus/[ANE] MM! - PV [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/Bonus/[ANE] MM! - Park [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/Bonus/[ANE] MM! - Sado's Family [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/Bonus/[ANE] MM! - Spa [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/Bonus/[ANE] MM! - Yuuno Arashiko [BDRip 1080p x264 FLAC].mkv
+!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - CM [BDRip 1080p x264 FLAC].mkv
+!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Cat [BDRip 1080p x264 FLAC].mkv
+!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Creditless Ending 2 [BDRip 1080p x264 FLAC].mkv
+!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Creditless Ending [BDRip 1080p x264 FLAC].mkv
+!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Creditless Opening 1 [BDRip 1080p x264 FLAC].mkv
+!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Creditless Opening 2 [BDRip 1080p x264 FLAC].mkv
+!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Creditless Opening 3 [BDRip 1080p x264 FLAC].mkv
 !new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Ep01 [BDRip 1080p x264 FLAC].mkv
 !new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Ep02 [BDRip 1080p x264 FLAC].mkv
 !new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Ep03 [BDRip 1080p x264 FLAC].mkv
@@ -824,6 +826,15 @@
 !new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Ep10 [BDRip 1080p x264 FLAC].mkv
 !new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Ep11 [BDRip 1080p x264 FLAC].mkv
 !new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Ep12 [BDRip 1080p x264 FLAC].mkv
+!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Hiiragi Noa [BDRip 1080p x264 FLAC].mkv
+!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Isurugi Mio [BDRip 1080p x264 FLAC].mkv
+!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - MFC [BDRip 1080p x264 FLAC].mkv
+!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Massage [BDRip 1080p x264 FLAC].mkv
+!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - PV [BDRip 1080p x264 FLAC].mkv
+!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Park [BDRip 1080p x264 FLAC].mkv
+!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Sado's Family [BDRip 1080p x264 FLAC].mkv
+!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Spa [BDRip 1080p x264 FLAC].mkv
+!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Yuuno Arashiko [BDRip 1080p x264 FLAC].mkv
 !new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/Bonus/[ANE] Shinryaku! Ika Musume - Creditless Opening [BDRip 1080p x264 FLAC].mkv
 !new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/Bonus/[ANE] Shinryaku! Ika Musume - Ep01 Creditless Ending [BDRip 1080p x264 FLAC].mkv
 !new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/Bonus/[ANE] Shinryaku! Ika Musume - Ep02 Creditless Ending [BDRip 1080p x264 FLAC].mkv
@@ -862,24 +873,6 @@
 !new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatte Iru - Ep10 [BDRip 1080p x264 FLAC].mkv
 !new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatte Iru - Ep11 [BDRip 1080p x264 FLAC].mkv
 !new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatte Iru - Ep12 [BDRip 1080p x264 FLAC].mkv
-!new/[Coalgirls]_Denpa_Onna_to_Seishun_Otoko_01-02_(1920x1080_Blu-ray_FLAC)/[Coalgirls]_Denpa_Onna_to_Seishun_Otoko_01_(1920x1080_Blu-ray_FLAC)_[E156386F].mkv
-!new/[Coalgirls]_Denpa_Onna_to_Seishun_Otoko_01-02_(1920x1080_Blu-ray_FLAC)/[Coalgirls]_Denpa_Onna_to_Seishun_Otoko_02_(1920x1080_Blu-ray_FLAC)_[BB275F3A].mkv
-!new/[Coalgirls]_Denpa_Onna_to_Seishun_Otoko_01-02_(1920x1080_Blu-ray_FLAC)/[Coalgirls]_Denpa_Onna_to_Seishun_Otoko_NCED_(1920x1080_Blu-ray_FLAC)_[194C22E2].mkv
-!new/[Coalgirls]_Denpa_Onna_to_Seishun_Otoko_01-02_(1920x1080_Blu-ray_FLAC)/[Coalgirls]_Denpa_Onna_to_Seishun_Otoko_NCOP_(1920x1080_Blu-ray_FLAC)_[ECF1F0D9].mkv
-!new/[Coalgirls]_Soul_Eater_01-13_(1280x720_Blu-ray_FLAC)/[Coalgirls]_Soul_Eater_01_(1280x720_Blu-ray_FLAC)_[09357BAA].mkv
-!new/[Coalgirls]_Soul_Eater_01-13_(1280x720_Blu-ray_FLAC)/[Coalgirls]_Soul_Eater_02_(1280x720_Blu-ray_FLAC)_[56696AE6].mkv
-!new/[Coalgirls]_Soul_Eater_01-13_(1280x720_Blu-ray_FLAC)/[Coalgirls]_Soul_Eater_03_(1280x720_Blu-ray_FLAC)_[44D99E2A].mkv
-!new/[Coalgirls]_Soul_Eater_01-13_(1280x720_Blu-ray_FLAC)/[Coalgirls]_Soul_Eater_04_(1280x720_Blu-ray_FLAC)_[08703962].mkv
-!new/[Coalgirls]_Soul_Eater_01-13_(1280x720_Blu-ray_FLAC)/[Coalgirls]_Soul_Eater_05_(1280x720_Blu-ray_FLAC)_[D7EA95C5].mkv
-!new/[Coalgirls]_Soul_Eater_01-13_(1280x720_Blu-ray_FLAC)/[Coalgirls]_Soul_Eater_06_(1280x720_Blu-ray_FLAC)_[2471656D].mkv
-!new/[Coalgirls]_Soul_Eater_01-13_(1280x720_Blu-ray_FLAC)/[Coalgirls]_Soul_Eater_07_(1280x720_Blu-ray_FLAC)_[ECC783F1].mkv
-!new/[Coalgirls]_Soul_Eater_01-13_(1280x720_Blu-ray_FLAC)/[Coalgirls]_Soul_Eater_08_(1280x720_Blu-ray_FLAC)_[B2D51A7C].mkv
-!new/[Coalgirls]_Soul_Eater_01-13_(1280x720_Blu-ray_FLAC)/[Coalgirls]_Soul_Eater_09_(1280x720_Blu-ray_FLAC)_[8FAF4F40].mkv
-!new/[Coalgirls]_Soul_Eater_01-13_(1280x720_Blu-ray_FLAC)/[Coalgirls]_Soul_Eater_10_(1280x720_Blu-ray_FLAC)_[B8D98F2D].mkv
-!new/[Coalgirls]_Soul_Eater_01-13_(1280x720_Blu-ray_FLAC)/[Coalgirls]_Soul_Eater_11_(1280x720_Blu-ray_FLAC)_[0A095AEF].mkv
-!new/[Coalgirls]_Soul_Eater_01-13_(1280x720_Blu-ray_FLAC)/[Coalgirls]_Soul_Eater_12_(1280x720_Blu-ray_FLAC)_[0465C9B4].mkv
-!new/[Coalgirls]_Soul_Eater_01-13_(1280x720_Blu-ray_FLAC)/[Coalgirls]_Soul_Eater_13_(1280x720_Blu-ray_FLAC)_[3A3FFA98].mkv
-!new/[HorribleSubs] Fairy Tail - 93 [720p][120D1311].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass

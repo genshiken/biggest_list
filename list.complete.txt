@@ -16596,10 +16596,6 @@ complete/s/Soukyuu no Fafner/[W_B] Soukyuu no Fafner - 23 [74EAB6EC].mkv
 complete/s/Soukyuu no Fafner/[W_B] Soukyuu no Fafner - 24 [E7C18CE7].mkv
 complete/s/Soukyuu no Fafner/[W_B] Soukyuu no Fafner - 25 [E157CEA2].mkv
 complete/s/Soukyuu no Fafner/[W_B] Soukyuu no Fafner - 26 [End][EF0ADCFC].mkv
-complete/s/Soul Eater/[A-E & Saizen] Soul Eater - 01 (1280x720) [Dual Editions][CC717FBD].mkv
-complete/s/Soul Eater/[A-E & Saizen] Soul Eater - 02 (1280x720) [Dual Editions][C0B2B9D6].mkv
-complete/s/Soul Eater/[A-E & Saizen] Soul Eater - 03 (1280x720) [Dual Editions][D1FF019E].mkv
-complete/s/Soul Eater/[A-E & Saizen] Soul Eater - 04 (1280x720) [Dual Editions][87FA7D54].mkv
 complete/s/Soul Eater/[AllHailExcalibur] Soul Eater - 29 [Uncut][183D09C2].mkv
 complete/s/Soul Eater/[AllHailExcalibur] Soul Eater - 30 [Uncut][A107D8A2].mkv
 complete/s/Soul Eater/[AllHailExcalibur] Soul Eater - 31 [Uncut][798FAADF].mkv
@@ -16658,18 +16654,22 @@ complete/s/Soul Eater/[Arigatou] Soul Eater - 48 [7B2E34D0].mkv
 complete/s/Soul Eater/[Arigatou] Soul Eater - 49 [B3F1D35E].mkv
 complete/s/Soul Eater/[Arigatou] Soul Eater - 50 [369D8541].mkv
 complete/s/Soul Eater/[Arigatou] Soul Eater - 51 [End][217D4C63].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 01 [720p BD][09357BAA].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 02 [720p BD][56696AE6].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 03 [720p BD][44D99E2A].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 04 [720p BD][08703962].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 05 [720p BD][D7EA95C5].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 06 [720p BD][2471656D].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 07 [720p BD][ECC783F1].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 08 [720p BD][B2D51A7C].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 09 [720p BD][8FAF4F40].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 10 [720p BD][B8D98F2D].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 11 [720p BD][0A095AEF].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 12 [720p BD][0465C9B4].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 13 [720p BD][3A3FFA98].mkv
 complete/s/Soul Eater/[Hatsuyuki] Soul Eater - 36 (1280x720) [21896323].mkv
 complete/s/Soul Eater/[Hatsuyuki] Soul Eater - 37 (1280x720) [6D95BB87].mkv
 complete/s/Soul Eater/[Hatsuyuki] Soul Eater - 38 (1280x720) [6B40E23F].mkv
-complete/s/Soul Eater/[Rumbel] Soul Eater - 05 (1280x720) [Uncut][4FEDA944].mkv
-complete/s/Soul Eater/[Rumbel] Soul Eater - 06 (1280x720) [v2][Uncut][922932DA].mkv
-complete/s/Soul Eater/[Rumbel] Soul Eater - 07 (1280x720) [v2][Uncut][46A9FD37].mkv
-complete/s/Soul Eater/[Rumbel] Soul Eater - 08 (1280x720) [Uncut][377CB168].mkv
-complete/s/Soul Eater/[Rumbel] Soul Eater - 09 (1280x720) [Uncut][37FB7981].mkv
-complete/s/Soul Eater/[Rumbel] Soul Eater - 10 (1280x720) [Uncut][4EA0F335].mkv
-complete/s/Soul Eater/[Rumbel] Soul Eater - 11 [Uncut][9A1256E3].mkv
-complete/s/Soul Eater/[Rumbel] Soul Eater - 12 [v2][Uncut][2DD15F6D].mkv
-complete/s/Soul Eater/[Rumbel] Soul Eater - 13 [Uncut][0EA60959].mkv
 complete/s/Soul Eater/[Rumbel] Soul Eater - 14 [Uncut][0EB14F12].mkv
 complete/s/Soul Eater/[Rumbel] Soul Eater - 15 [Uncut][153A0DB1].mkv
 complete/s/Soul Eater/[Rumbel] Soul Eater - 16 [Uncut][6D9140D0].mkv
