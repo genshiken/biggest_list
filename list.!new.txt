@@ -518,30 +518,6 @@
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/List.txt
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/disc_8.jpg
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/mibox_cover.gif
-!new/NieA under 7/NieA_under_7_-_01.mkv
-!new/NieA under 7/NieA_under_7_-_02.mkv
-!new/NieA under 7/NieA_under_7_-_03.mkv
-!new/NieA under 7/NieA_under_7_-_04.mkv
-!new/NieA under 7/NieA_under_7_-_05.mkv
-!new/NieA under 7/NieA_under_7_-_06.mkv
-!new/NieA under 7/NieA_under_7_-_07.mkv
-!new/NieA under 7/NieA_under_7_-_08.mkv
-!new/NieA under 7/NieA_under_7_-_09.mkv
-!new/NieA under 7/NieA_under_7_-_10.mkv
-!new/NieA under 7/NieA_under_7_-_11.mkv
-!new/NieA under 7/NieA_under_7_-_12.mkv
-!new/NieA under 7/NieA_under_7_-_13.mkv
-!new/Niea.Under.Seven.01.(Dual.Audio).XVID.[AM].mkv
-!new/Niea.Under.Seven.02.(Dual.Audio).XVID.[AM].mkv
-!new/Niea.Under.Seven.03.(Dual.Audio).XVID.[AM].mkv
-!new/Niea.Under.Seven.04.(Dual.Audio).XVID.[AM].mkv
-!new/Niea.Under.Seven.05.(Dual.Audio).XVID.[AM].mkv
-!new/Niea.Under.Seven.06.(Dual.Audio).XVID.[AM].mkv
-!new/Niea.Under.Seven.07.(Dual.Audio).XVID.[AM].mkv
-!new/Niea.Under.Seven.08.(Dual.Audio).XVID.[AM].mkv
-!new/Niea.Under.Seven.09.(Dual.Audio).XVID.[AM].mkv
-!new/Niea.Under.Seven.10.(Dual.Audio).XVID.[AM].mkv
-!new/Niea.Under.Seven.11.(Dual.Audio).XVID.[AM].mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
@@ -806,73 +782,44 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[ANE] Kyou no Go no Ni Takarabako OAD (DVD 1024x576 x264 AC-3)/[ANE] Kyou no Go no Ni Takarabako OAD (DVD 1024x576 x264 AC-3).mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - CM [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Cat [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Creditless Ending 2 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Creditless Ending [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Creditless Opening 1 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Creditless Opening 2 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Creditless Opening 3 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Ep01 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Ep02 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Ep03 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Ep04 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Ep05 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Ep06 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Ep07 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Ep08 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Ep09 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Ep10 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Ep11 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Ep12 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Hiiragi Noa [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Isurugi Mio [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - MFC [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Massage [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - PV [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Park [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Sado's Family [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Spa [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] MM! [BDRip 1080p x264 FLAC]/[ANE] MM! - Yuuno Arashiko [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/Bonus/[ANE] Shinryaku! Ika Musume - Creditless Opening [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/Bonus/[ANE] Shinryaku! Ika Musume - Ep01 Creditless Ending [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/Bonus/[ANE] Shinryaku! Ika Musume - Ep02 Creditless Ending [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/Bonus/[ANE] Shinryaku! Ika Musume - Ep03 Creditless Ending [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/Bonus/[ANE] Shinryaku! Ika Musume - Ep04 Creditless Ending [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/Bonus/[ANE] Shinryaku! Ika Musume - Ep05 Creditless Ending [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/Bonus/[ANE] Shinryaku! Ika Musume - Ep06 Creditless Ending [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/Bonus/[ANE] Shinryaku! Ika Musume - Ep07 Creditless Ending [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/Bonus/[ANE] Shinryaku! Ika Musume - Ep08 Creditless Ending [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/Bonus/[ANE] Shinryaku! Ika Musume - Ep09 Creditless Ending [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/Bonus/[ANE] Shinryaku! Ika Musume - Ep10 Creditless Ending [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/Bonus/[ANE] Shinryaku! Ika Musume - Ep11 Creditless Ending [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/Bonus/[ANE] Shinryaku! Ika Musume - Ep12 Creditless Ending [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Shinryaku! Ika Musume - Ep01 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Shinryaku! Ika Musume - Ep02 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Shinryaku! Ika Musume - Ep03 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Shinryaku! Ika Musume - Ep04 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Shinryaku! Ika Musume - Ep05 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Shinryaku! Ika Musume - Ep06 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Shinryaku! Ika Musume - Ep07 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Shinryaku! Ika Musume - Ep08 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Shinryaku! Ika Musume - Ep09 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Shinryaku! Ika Musume - Ep10 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Shinryaku! Ika Musume - Ep11 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Shinryaku! Ika Musume - Ep12 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatte Iru - Creditless Ending [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatte Iru - Ep01 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatte Iru - Ep02 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatte Iru - Ep03 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatte Iru - Ep04 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatte Iru - Ep05 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatte Iru - Ep06 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatte Iru - Ep07 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatte Iru - Ep08 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatte Iru - Ep09 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatte Iru - Ep10 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatte Iru - Ep11 [BDRip 1080p x264 FLAC].mkv
-!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatte Iru - Ep12 [BDRip 1080p x264 FLAC].mkv
+!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - 01 [1080p BD][BB6DD497].mkv
+!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - 02 [1080p BD][2F04FEB3].mkv
+!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - 03 [1080p BD][AF56D323].mkv
+!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - 04 [1080p BD][A84C7436].mkv
+!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - 05 [1080p BD][42CB2B60].mkv
+!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - 06 [1080p BD][794D170D].mkv
+!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - 07 [1080p BD][8CFE79F6].mkv
+!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - 08 [1080p BD][3434F52D].mkv
+!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - 09 [1080p BD][EDCD8BE8].mkv
+!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - 10 [1080p BD][FD166C5A].mkv
+!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - 11 [1080p BD][EBCCC7DD].mkv
+!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - 12 [End][1080p BD][7AF78FE2].mkv
+!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - Ending 01 (Clean) [1080p BD][E0717254].mkv
+!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - Ending 02 (Clean) [1080p BD][FA1F3E27].mkv
+!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - Ending 03 (Clean) [1080p BD][3F6C955C].mkv
+!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - Ending 04 (Clean) [1080p BD][BAC4333F].mkv
+!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - Ending 05 (Clean) [1080p BD][187045B8].mkv
+!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - Ending 06 (Clean) [1080p BD][0879D36E].mkv
+!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - Ending 07 (Clean) [1080p BD][86DF6750].mkv
+!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - Ending 08 (Clean) [1080p BD][4DB0DC58].mkv
+!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - Ending 09 (Clean) [1080p BD][75527CDD].mkv
+!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - Ending 10 (Clean) [1080p BD][FA9563EE].mkv
+!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - Ending 11 (Clean) [1080p BD][1B8D612F].mkv
+!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - Ending 12 (Clean) [1080p BD][F4EC70D3].mkv
+!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - Opening (Clean) [1080p BD][A59FB803].mkv
+!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatteiru - 01 [1080p BD][16E91B66].mkv
+!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatteiru - 02 [1080p BD][B8C643C0].mkv
+!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatteiru - 03 [1080p BD][34F9EAB0].mkv
+!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatteiru - 04 [1080p BD][EAC072CC].mkv
+!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatteiru - 05 [1080p BD][D16CCE0F].mkv
+!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatteiru - 06 [1080p BD][C0A6DFD5].mkv
+!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatteiru - 07 [1080p BD][B5AEBC74].mkv
+!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatteiru - 08 [1080p BD][AD215557].mkv
+!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatteiru - 09 [1080p BD][7BDEBE8F].mkv
+!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatteiru - 10 [1080p BD][BBBC112C].mkv
+!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatteiru - 11 [1080p BD][D1C84A3F].mkv
+!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatteiru - 12 [End][1080p BD][CEEDFDAF].mkv
+!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatteiru - Ending (Clean) [1080p BD][D283DBBB].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass

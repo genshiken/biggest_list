@@ -10575,22 +10575,23 @@ complete/m/MAR/[SS-AnY] MAR - 099 [3B4F0C8D].avi
 complete/m/MAR/[SS-AnY] MAR - 100 [1DBB5DA7].avi
 complete/m/MAR/[SS-AnY] MAR - 101 [BC3677F7].avi
 complete/m/MAR/[SS-AnY] MAR - 102 [End][A050C0AE].avi
-complete/m/MM!/[DGz] MM! - 01 [720p][66C81721].mkv
-complete/m/MM!/[DGz] MM! - 02 [720p][0659B0E8].mkv
-complete/m/MM!/[DGz] MM! - 03 [720p][1E082F98].mkv
-complete/m/MM!/[DGz] MM! - 04 [720p][65F0D780].mkv
-complete/m/MM!/[Ryuumaru] MM! - 01 [v2][7FEBDF8F].mkv
-complete/m/MM!/[Ryuumaru] MM! - 02 [v2][E903DACD].mkv
-complete/m/MM!/[Ryuumaru] MM! - 03 [A93914E9].mkv
-complete/m/MM!/[Ryuumaru] MM! - 04 [EC69764A].mkv
-complete/m/MM!/[Ryuumaru] MM! - 05 [D8CD4B38].mkv
-complete/m/MM!/[Ryuumaru] MM! - 06 [3EF5B2FD].mkv
-complete/m/MM!/[Ryuumaru] MM! - 07 [812B8FA8].mkv
-complete/m/MM!/[Ryuumaru] MM! - 08 [5B0F82EF].mkv
-complete/m/MM!/[Ryuumaru] MM! - 09 [4C9DF5B6].mkv
-complete/m/MM!/[Ryuumaru] MM! - 10 [2ADF5758].mkv
-complete/m/MM!/[Ryuumaru] MM! - 11 [71662CE1].mkv
-complete/m/MM!/[Ryuumaru] MM! - 12 [End][603F489D].mkv
+complete/m/MM!/[ANE] MM! - 01 [1080p BD][2922812D].mkv
+complete/m/MM!/[ANE] MM! - 02 [1080p BD][A6A7A21E].mkv
+complete/m/MM!/[ANE] MM! - 03 [1080p BD][81136A45].mkv
+complete/m/MM!/[ANE] MM! - 04 [1080p BD][39490476].mkv
+complete/m/MM!/[ANE] MM! - 05 [1080p BD][A2035EA2].mkv
+complete/m/MM!/[ANE] MM! - 06 [1080p BD][1B32EEC9].mkv
+complete/m/MM!/[ANE] MM! - 07 [1080p BD][FBF1AB9A].mkv
+complete/m/MM!/[ANE] MM! - 08 [1080p BD][36B1980A].mkv
+complete/m/MM!/[ANE] MM! - 09 [1080p BD][7139E114].mkv
+complete/m/MM!/[ANE] MM! - 10 [1080p BD][FB92CC05].mkv
+complete/m/MM!/[ANE] MM! - 11 [1080p BD][A2BA8FB5].mkv
+complete/m/MM!/[ANE] MM! - 12 [End][1080p BD][97720EE9].mkv
+complete/m/MM!/[ANE] MM! - Ending 1 (Clean) [1080p BD][BFAFB9FF].mkv
+complete/m/MM!/[ANE] MM! - Ending 2 (Clean) [1080p BD][E91A6875].mkv
+complete/m/MM!/[ANE] MM! - Opening 1 (Clean) [1080p BD][D3DB3B40].mkv
+complete/m/MM!/[ANE] MM! - Opening 2 (Clean) [1080p BD][D257677F].mkv
+complete/m/MM!/[ANE] MM! - Opening 3 (Clean) [1080p BD][BA41752A].mkv
 complete/m/MS IGLOO - Apocalypse 0079/[gg] MS IGLOO - Apocalypse 0079 - 1 [A263BF13].mkv
 complete/m/MS IGLOO - Apocalypse 0079/[gg] MS IGLOO - Apocalypse 0079 - 2 [B01A1A77].mkv
 complete/m/MS IGLOO - Apocalypse 0079/[gg] MS IGLOO - Apocalypse 0079 - 3 [End][CAC42A5D].mkv
@@ -12670,6 +12671,19 @@ complete/n/Neo Ranga/[AM] Neo Ranga - 45 [21622CD8].mkv
 complete/n/Neo Ranga/[AM] Neo Ranga - 46 [266518D4].mkv
 complete/n/Neo Ranga/[AM] Neo Ranga - 47 [7BD60EE4].mkv
 complete/n/Neo Ranga/[AM] Neo Ranga - 48 [End][1F63B650].mkv
+complete/n/Niea Under Seven/[AM] Niea Under Seven - 01 [4E02009D].mkv
+complete/n/Niea Under Seven/[AM] Niea Under Seven - 02 [CD4EC3A9].mkv
+complete/n/Niea Under Seven/[AM] Niea Under Seven - 03 [519B43C0].mkv
+complete/n/Niea Under Seven/[AM] Niea Under Seven - 04 [7132CA7D].mkv
+complete/n/Niea Under Seven/[AM] Niea Under Seven - 05 [4029D233].mkv
+complete/n/Niea Under Seven/[AM] Niea Under Seven - 06 [27847C39].mkv
+complete/n/Niea Under Seven/[AM] Niea Under Seven - 07 [EB0E77C0].mkv
+complete/n/Niea Under Seven/[AM] Niea Under Seven - 08 [B320B507].mkv
+complete/n/Niea Under Seven/[AM] Niea Under Seven - 09 [4A08B331].mkv
+complete/n/Niea Under Seven/[AM] Niea Under Seven - 10 [7E8C0B3A].mkv
+complete/n/Niea Under Seven/[AM] Niea Under Seven - 11 [A0672E0F].mkv
+complete/n/Niea Under Seven/[AM] Niea Under Seven - 12 [DC72DA97].mkv
+complete/n/Niea Under Seven/[AM] Niea Under Seven - 13 [End][24818D9A].mkv
 complete/n/Night Head Genesis/[A-Keep & gg] Night Head Genesis - 01 [81D6ED58].mkv
 complete/n/Night Head Genesis/[A-Keep & gg] Night Head Genesis - 02 [5E35B201].mkv
 complete/n/Night Head Genesis/[A-Keep & gg] Night Head Genesis - 03 [40F20173].mkv
@@ -17974,6 +17988,7 @@ complete/t/Toaru Majutsu no Index/[Eclipse] Toaru Majutsu no Index - 21 (1280x72
 complete/t/Toaru Majutsu no Index/[Eclipse] Toaru Majutsu no Index - 22 (1280x720) [14526419].mkv
 complete/t/Toaru Majutsu no Index/[Eclipse] Toaru Majutsu no Index - 23 (1280x720) [645D71A5].mkv
 complete/t/Toaru Majutsu no Index/[Eclipse] Toaru Majutsu no Index - 24 (1280x720) [End][BF806C7A].mkv
+complete/t/Today in Class 5-2 - Takarabako OAD/[ANE] Today in Class 5-2 - Takarabako OAD [576p DVD][251DFFB1].mkv
 complete/t/Today in Class 5-2 OAD/[SubSmith] Today in Class 5-2 OAD - Special Drama - Today's Minami Household [DVD][FEFC57F9].mkv
 complete/t/Today in Class 5-2 OAD/[SubSmith] Today in Class 5-2 OAD - Treasure Chest [DVD][BF5E59B6].mkv
 complete/t/Today in Class 5-2 TV/[Chihiro] Today in Class 5-2 TV - 01 [DVD][0B67AAC2].mkv
