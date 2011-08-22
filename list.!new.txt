@@ -53,6 +53,33 @@
 !new/.broken/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.mkv
 !new/.broken/[Chiki-Subs]_Mayo_Chiki_-_01v2_(1280x720_H.264.AAC)_[45704136].mkv
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
+!new/Aquarion_-_The_Movie_[3xR][Blu-ray.720p.H264.FLAC]_[D4A11BBE].mkv
+!new/Arigatou.Tokyo.Majin.Ep01.[x264.AAC][8B980588].mkv
+!new/Arigatou.Tokyo.Majin.Ep02.[x264.AAC][32942F0F].mkv
+!new/Arigatou.Tokyo.Majin.Ep03.[x264.AAC][2A2AC886].mkv
+!new/Arigatou.Tokyo.Majin.Ep04.[x264.AAC][B0BD4B44].mkv
+!new/Arigatou.Tokyo.Majin.Ep05.[x264.AAC][CA9711D3].mkv
+!new/Arigatou.Tokyo.Majin.Ep06.[x264.AAC][22994A1C].mkv
+!new/Arigatou.Tokyo.Majin.Ep07.[x264.AAC][67BB69E4].mkv
+!new/Arigatou.Tokyo.Majin.Ep08.[x264.AAC][C5A14ADE].mkv
+!new/Arigatou.Tokyo.Majin.Ep09.[x264.AAC][1B5AED1D].mkv
+!new/Arigatou.Tokyo.Majin.Ep10.[x264.AAC][F68E1299].mkv
+!new/Arigatou.Tokyo.Majin.Ep11.[x264.AAC][FAA80558].mkv
+!new/Arigatou.Tokyo.Majin.Ep12.[x264.AAC][F1292FCE].mkv
+!new/Arigatou.Tokyo.Majin.Ep13.[x264.AAC][646927A0].mkv
+!new/Arigatou.Tokyo.Majin.Ep14.[x264.AAC][8B958359].mkv
+!new/Arigatou.Tokyo.Majin.Ep15.[x264.AAC][D770BD18].mkv
+!new/Arigatou.Tokyo.Majin.Ep16.[x264.AAC][EE9C7542].mkv
+!new/Arigatou.Tokyo.Majin.Ep17.[x264.AAC][CB95DC61].mkv
+!new/Arigatou.Tokyo.Majin.Ep18.[x264.AAC][267D404B].mkv
+!new/Arigatou.Tokyo.Majin.Ep19.[x264.AAC][696C2AA8].mkv
+!new/Arigatou.Tokyo.Majin.Ep20.[x264.AAC][7E48FA61].mkv
+!new/Arigatou.Tokyo.Majin.Ep21.[x264.AAC][539CC09B].mkv
+!new/Arigatou.Tokyo.Majin.Ep22.[x264.AAC][205D81C2].mkv
+!new/Arigatou.Tokyo.Majin.Ep23.[x264.AAC][DFD14AAF].mkv
+!new/Arigatou.Tokyo.Majin.Ep24.[x264.AAC][D25E0AE0].mkv
+!new/Arigatou.Tokyo.Majin.Ep25.[x264.AAC][52CC2B7C].mkv
+!new/Arigatou.Tokyo.Majin.Ep26.[x264.AAC][E697CDBC].mkv
 !new/Azumaria Lessons/Lesson - 01 - Golden Age America.mkv
 !new/Azumaria Lessons/Lesson - 02 - The Magdalene Order.mkv
 !new/Azumaria Lessons/Lesson - 03 - Secret Weapons Of The Magdalene Order.mkv
@@ -92,6 +119,8 @@
 !new/Dragon Ball/Movie - 06 - Return Of Cooler.rmvb
 !new/Dragon Ball/Movie - 08 - Broly The Legendary Super Saiyan.rmvb
 !new/Dragon Ball/Movie - 09 - Bojack Unbound.rmvb
+!new/Genesis_of_Aquarion_-_OVA_01_-_Wings_of_Betrayal_[3xR][Blu-ray.720p.H264.FLAC]_[96C10E17].mkv
+!new/Genesis_of_Aquarion_-_OVA_02_-_Wings_of_Glory_[3xR][Blu-ray.720p.H264.FLAC]_[BED00A7B].mkv
 !new/Getter Robo Armageddon (Incomplete)/[ASS] Getter Robo Armageddon - 01 - From_beyond_the_grave_.avi
 !new/K-ON!!/[Elysium] K-ON!! - 01 [1080p BD][46681059].mkv
 !new/K-ON!!/[Elysium] K-ON!! - 02 [1080p BD][3C162847].mkv
@@ -125,6 +154,7 @@
 !new/K-ON!!/[Elysium] K-ON!! - Opening 1 [1080p BD][48887972].mkv
 !new/K-ON!!/[Elysium] K-ON!! - Opening 2 [1080p BD][608AFCF1].mkv
 !new/Kamen Rider W Returns - Kamen Rider Eternal v2 [W-Time].mkv
+!new/Kid the Phantom Thief (Magic Kaito) - 03 [DCTP][720p][6BBC5FED].mp4
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_01_[Anime-Empire_&_Aoshi].avi
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_02_[Anime-Empire_&_Aoshi].avi
 !new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_03_[Anime-Empire_&_Aoshi].avi
@@ -518,6 +548,32 @@
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/List.txt
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/disc_8.jpg
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/mibox_cover.gif
+!new/Otogi_Zoshi_Act.01[x264_AAC][SSP-Corp][4699E48D].mkv
+!new/Otogi_Zoshi_Act.02[x264_AAC][SSP-Corp][C0AA506F].mkv
+!new/Otogi_Zoshi_Act.03[x264_AAC][SSP-Corp][12A5018E].mkv
+!new/Otogi_Zoshi_Act.04[x264_AAC][SSP-Corp][86CEF5F3].mkv
+!new/Otogi_Zoshi_Act.05[x264_AAC][SSP-Corp][0CC2EBE9].mkv
+!new/Otogi_Zoshi_Act.06[x264_AAC][SSP-Corp][C3E40C37].mkv
+!new/Otogi_Zoshi_Act.07[x264_AAC][SSP-Corp][00CB5AE6].mkv
+!new/Otogi_Zoshi_Act.08[x264_AAC][SSP-Corp][AD27E08D].mkv
+!new/Otogi_Zoshi_Act.09[x264_AAC][SSP-Corp][E84A54C7].mkv
+!new/Otogi_Zoshi_Act.10[x264_AAC][SSP-Corp][F814D19F].mkv
+!new/Otogi_Zoshi_Act.11[x264_AAC][SSP-Corp][4225170F].mkv
+!new/Otogi_Zoshi_Act.12[x264_AAC][SSP-Corp][D0166B5C].mkv
+!new/Otogi_Zoshi_Act.13[x264_AAC][SSP-Corp][5C34450B].mkv
+!new/Otogi_Zoshi_Act.14[x264_AAC][SSP-Corp][2842B32B].mkv
+!new/Otogi_Zoshi_Act.15[x264_AAC][SSP-Corp][A4EE9814].mkv
+!new/Otogi_Zoshi_Act.16[x264_AAC][SSP-Corp][F80F3765].mkv
+!new/Otogi_Zoshi_Act.17[x264_AAC][SSP-Corp][26CEA86D].mkv
+!new/Otogi_Zoshi_Act.18[x264_AAC][SSP-Corp][1237EA95].mkv
+!new/Otogi_Zoshi_Act.19[x264_AAC][SSP-Corp][3828BEF3].mkv
+!new/Otogi_Zoshi_Act.20[x264_AAC][SSP-Corp][98909DAB].mkv
+!new/Otogi_Zoshi_Act.21[x264_AAC][SSP-Corp][40E7A1E2].mkv
+!new/Otogi_Zoshi_Act.22[x264_AAC][SSP-Corp][A540039E].mkv
+!new/Otogi_Zoshi_Act.23[x264_AAC][SSP-Corp][F789337A].mkv
+!new/Otogi_Zoshi_Act.24[x264_AAC][SSP-Corp][50942E6C].mkv
+!new/Otogi_Zoshi_Act.25[x264_AAC][SSP-Corp][89ED8D15].mkv
+!new/Otogi_Zoshi_Act.26[x264_AAC][SSP-Corp][5A6AD964].mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
@@ -782,55 +838,17 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - 01 [1080p BD][BB6DD497].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - 02 [1080p BD][2F04FEB3].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - 03 [1080p BD][AF56D323].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - 04 [1080p BD][A84C7436].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - 05 [1080p BD][42CB2B60].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - 06 [1080p BD][794D170D].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - 07 [1080p BD][8CFE79F6].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - 08 [1080p BD][3434F52D].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - 09 [1080p BD][EDCD8BE8].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - 10 [1080p BD][FD166C5A].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - 11 [1080p BD][EBCCC7DD].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - 12 [End][1080p BD][7AF78FE2].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - Ending 01 (Clean) [1080p BD][E0717254].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - Ending 02 (Clean) [1080p BD][FA1F3E27].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - Ending 03 (Clean) [1080p BD][3F6C955C].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - Ending 04 (Clean) [1080p BD][BAC4333F].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - Ending 05 (Clean) [1080p BD][187045B8].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - Ending 06 (Clean) [1080p BD][0879D36E].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - Ending 07 (Clean) [1080p BD][86DF6750].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - Ending 08 (Clean) [1080p BD][4DB0DC58].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - Ending 09 (Clean) [1080p BD][75527CDD].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - Ending 10 (Clean) [1080p BD][FA9563EE].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - Ending 11 (Clean) [1080p BD][1B8D612F].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - Ending 12 (Clean) [1080p BD][F4EC70D3].mkv
-!new/[ANE] Shinryaku! Ika Musume [BDRip 1080p x264 FLAC]/[ANE] Squid Girl - Opening (Clean) [1080p BD][A59FB803].mkv
-!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatteiru - 01 [1080p BD][16E91B66].mkv
-!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatteiru - 02 [1080p BD][B8C643C0].mkv
-!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatteiru - 03 [1080p BD][34F9EAB0].mkv
-!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatteiru - 04 [1080p BD][EAC072CC].mkv
-!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatteiru - 05 [1080p BD][D16CCE0F].mkv
-!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatteiru - 06 [1080p BD][C0A6DFD5].mkv
-!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatteiru - 07 [1080p BD][B5AEBC74].mkv
-!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatteiru - 08 [1080p BD][AD215557].mkv
-!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatteiru - 09 [1080p BD][7BDEBE8F].mkv
-!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatteiru - 10 [1080p BD][BBBC112C].mkv
-!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatteiru - 11 [1080p BD][D1C84A3F].mkv
-!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatteiru - 12 [End][1080p BD][CEEDFDAF].mkv
-!new/[ANE] Soredemo Machi wa Mawatte Iru [BDRip 1080p x264 FLAC]/[ANE] Soredemo Machi wa Mawatteiru - Ending (Clean) [1080p BD][D283DBBB].mkv
-!new/[ASL]_Lia_-_Daimajin_Kanon_ED_-_Ashita_Tenki_ni_Naare_[FLAC].rar
-!new/[ASL]_Rie_fu_-_For_You_[FLAC]_[w_Scans].rar
-!new/[ASL]_Shizuka_Ito_-_Amagami_SS_ED_Single_-_Kimi_no_Hitomi_ni_Koishiteru_[FLAC]_[w_Scans].rar
-!new/[Commie] Tiger & Bunny - 21 [95B5F661].mkv
-!new/[Doremi-CureCom].Suite.PreCure!.27.[1280x720].[09572C12].mkv
-!new/[HorribleSubs] Gintama - 222 [720p].mkv
-!new/[IB] Ikoku Meiro no Croisée - 08 [720p] [8F5FA1F9].mkv
-!new/[Over-Time]_Kamen_Rider_OOO_-_47_[CF968EF7].mkv
-!new/[Over-Time]_Pirate_Sentai_Gokaiger_-_26_[0A48AE88].mkv
-!new/[RyRo]_Inazuma_Eleven_GO_-_014_(720p)_[8FBA3215].mkv
-!new/[RyRo]_Inazuma_Eleven_GO_-_015_(720p)_[51CD6D08].mkv
+!new/[ASL]_Various_Artists_-_Amagami_SS_Character_Image_Songs_-_For_You_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_CR_Sengoku_Otome_Original_Sound_Track_[FLAC]_[w_Scans].rar
+!new/[Coalgirls]_Ookami_to_Koushinryou_01_(1280x720_Blu-Ray_FLAC)_[2E5F2817].mkv
+!new/[Coalgirls]_Ookami_to_Koushinryou_02_(1280x720_Blu-Ray_FLAC)_[952A89CA].mkv
+!new/[Coalgirls]_Ookami_to_Koushinryou_03_(1280x720_Blu-Ray_FLAC)_[9275044D].mkv
+!new/[Coalgirls]_Ookami_to_Koushinryou_04_(1280x720_Blu-Ray_FLAC)_[488903C9].mkv
+!new/[Coalgirls]_Ookami_to_Koushinryou_05_(1280x720_Blu-Ray_FLAC)_[4080120D].mkv
+!new/[Coalgirls]_Ookami_to_Koushinryou_06_(1280x720_Blu-Ray_FLAC)_[C15593AD].mkv
+!new/[Coalgirls]_Ookami_to_Koushinryou_07_(1280x720_Blu-Ray_FLAC)_[844D515C].mkv
+!new/[Coalgirls]_Ookami_to_Koushinryou_08_(1280x720_Blu-Ray_FLAC)_[7E75E94E].mkv
+!new/[Fail-15]_R-15_-_07_(1280x720 x264 AAC)_[E474C4CD].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -846,7 +864,30 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[WhyNot] Nurarihyon no Mago Sennen Makyou - 08 [249A4E6F].mkv
+!new/[moo-shi]_Desert_Punk_-_01[DVD][H264.AAC][17FC7F0C].mkv
+!new/[moo-shi]_Desert_Punk_-_02[DVD][H264.AAC][DF96AA36].mkv
+!new/[moo-shi]_Desert_Punk_-_03[DVD][H264.AAC][E9DCB937].mkv
+!new/[moo-shi]_Desert_Punk_-_04[DVD][H264.AAC][A83654F5].mkv
+!new/[moo-shi]_Desert_Punk_-_05[DVD][H264.AAC][4C94ECFB].mkv
+!new/[moo-shi]_Desert_Punk_-_06[DVD][H264.AAC][D7A450D3].mkv
+!new/[moo-shi]_Desert_Punk_-_07[DVD][H264.AAC][4839456F].mkv
+!new/[moo-shi]_Desert_Punk_-_08[DVD][H264.AAC][CA322169].mkv
+!new/[moo-shi]_Desert_Punk_-_09[DVD][H264.AAC][FF744850].mkv
+!new/[moo-shi]_Desert_Punk_-_10[DVD][H264.AAC][4F6B7E86].mkv
+!new/[moo-shi]_Desert_Punk_-_11[DVD][H264.AAC][DB37AB17].mkv
+!new/[moo-shi]_Desert_Punk_-_12[DVD][H264.AAC][2A64F441].mkv
+!new/[moo-shi]_Desert_Punk_-_13[DVD][H264.AAC][2200F569].mkv
+!new/[moo-shi]_Desert_Punk_-_14[DVD][H264.AAC][CB3FB808].mkv
+!new/[moo-shi]_Desert_Punk_-_15[DVD][H264.AAC][F8DBEB5B].mkv
+!new/[moo-shi]_Desert_Punk_-_16[DVD][H264.AAC][5122771B].mkv
+!new/[moo-shi]_Desert_Punk_-_17[DVD][H264.AAC][538685A3].mkv
+!new/[moo-shi]_Desert_Punk_-_18[DVD][H264.AAC][04B83F0E].mkv
+!new/[moo-shi]_Desert_Punk_-_19[DVD][H264.AAC][071BAA7A].mkv
+!new/[moo-shi]_Desert_Punk_-_20[DVD][H264.AAC][14476330].mkv
+!new/[moo-shi]_Desert_Punk_-_21[DVD][H264.AAC][49BF407F].mkv
+!new/[moo-shi]_Desert_Punk_-_22[DVD][H264.AAC][AEDC1F55].mkv
+!new/[moo-shi]_Desert_Punk_-_23[DVD][H264.AAC][0F4E9BA2].mkv
+!new/[moo-shi]_Desert_Punk_-_24[DVD][H264.AAC][426FF691].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -947,21 +988,21 @@
 !new/bla/zx.black.heaven.12.sub.rar
 !new/bla/zx.black.heaven.13.dub.avi
 !new/bla/zx.black.heaven.13.sub.rar
-!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Creditless Endings [BDRip 1080p x264 FLAC].mkv
-!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Creditless Opening [BDRip 1080p x264 FLAC].mkv
-!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Ep01 [BDRip 1080p x264 FLAC].mkv
-!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Ep02 [BDRip 1080p x264 FLAC].mkv
-!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Ep03 [BDRip 1080p x264 FLAC].mkv
-!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Ep04 [BDRip 1080p x264 FLAC].mkv
-!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Ep05 [BDRip 1080p x264 FLAC].mkv
-!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Ep06 [BDRip 1080p x264 FLAC].mkv
-!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Ep07 [BDRip 1080p x264 FLAC].mkv
-!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Ep08 [BDRip 1080p x264 FLAC].mkv
-!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Ep09 [BDRip 1080p x264 FLAC].mkv
-!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Ep10 [BDRip 1080p x264 FLAC].mkv
-!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Ep11 [BDRip 1080p x264 FLAC].mkv
-!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Ep12 Creditless Ending [BDRip 1080p x264 FLAC].mkv
-!new/fabd/[ANE] Fortune Arterial Akai Yakusoku - Ep12 [BDRip 1080p x264 FLAC].mkv
+!new/fabd/[ANE] Fortune Arterial - 01 [1080p BD][ECB14692].mkv
+!new/fabd/[ANE] Fortune Arterial - 02 [1080p BD][FB71F178].mkv
+!new/fabd/[ANE] Fortune Arterial - 03 [1080p BD][FBED8BB3].mkv
+!new/fabd/[ANE] Fortune Arterial - 04 [1080p BD][19AAA56F].mkv
+!new/fabd/[ANE] Fortune Arterial - 05 [1080p BD][3D57D95F].mkv
+!new/fabd/[ANE] Fortune Arterial - 06 [1080p BD][2DE98809].mkv
+!new/fabd/[ANE] Fortune Arterial - 07 [1080p BD][9EDE6546].mkv
+!new/fabd/[ANE] Fortune Arterial - 08 [1080p BD][AF7647B5].mkv
+!new/fabd/[ANE] Fortune Arterial - 09 [1080p BD][9BCAE845].mkv
+!new/fabd/[ANE] Fortune Arterial - 10 [1080p BD][91F76300].mkv
+!new/fabd/[ANE] Fortune Arterial - 11 [1080p BD][1331B493].mkv
+!new/fabd/[ANE] Fortune Arterial - 12 [End][1080p BD][35AA16A9].mkv
+!new/fabd/[ANE] Fortune Arterial - Ending 12 (Clean) [1080p BD][BBA36DD0].mkv
+!new/fabd/[ANE] Fortune Arterial - Endings (Clean) [1080p BD][FB3E3ABF].mkv
+!new/fabd/[ANE] Fortune Arterial - Opening (Clean) [1080p BD][A78887B8].mkv
 !new/ir-extra/cor.extras.infinite.ryvius.art.gallery.and.audio.drama1.[5DDE8FF6].mkv
 !new/ir-extra/cor.extras.infinite.ryvius.art.gallery.and.audio.drama2.[938F2EF9].mkv
 !new/ir-extra/cor.extras.infinite.ryvius.art.gallery.and.audio.drama3.[1270FFBB].mkv
