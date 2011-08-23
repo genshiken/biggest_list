@@ -4476,18 +4476,21 @@ complete/f/Flame of Recca/[SSP-Corp] Flame of Recca - 40 [v2][ABCF57C3].mkv
 complete/f/Flame of Recca/[SSP-Corp] Flame of Recca - 41 [v2][3F28CFB5].mkv
 complete/f/Flame of Recca/[SSP-Corp] Flame of Recca - 42 [End][v2][AC9B497D].mkv
 complete/f/Fortune Arterial OVA/[SS] Fortune Arterial OVA [46498EE5].mkv
-complete/f/Fortune Arterial/[SS] Fortune Arterial - 01 [B9350090].mkv
-complete/f/Fortune Arterial/[SS] Fortune Arterial - 02 [855C3F17].mkv
-complete/f/Fortune Arterial/[SS] Fortune Arterial - 03 [68310B3B].mkv
-complete/f/Fortune Arterial/[SS] Fortune Arterial - 04 [9BFBE36D].mkv
-complete/f/Fortune Arterial/[SS] Fortune Arterial - 05 [6DE1473D].mkv
-complete/f/Fortune Arterial/[SS] Fortune Arterial - 06 [B477B038].mkv
-complete/f/Fortune Arterial/[SS] Fortune Arterial - 07 [543A6A31].mkv
-complete/f/Fortune Arterial/[SS] Fortune Arterial - 08 [E5CA34D6].mkv
-complete/f/Fortune Arterial/[SS] Fortune Arterial - 09 [9E1E6E63].mkv
-complete/f/Fortune Arterial/[SS] Fortune Arterial - 10 [B123468F].mkv
-complete/f/Fortune Arterial/[SS] Fortune Arterial - 11 [E64C5006].mkv
-complete/f/Fortune Arterial/[SS] Fortune Arterial - 12 [End][68BCE900].mkv
+complete/f/Fortune Arterial/[ANE] Fortune Arterial - 01 [1080p BD][ECB14692].mkv
+complete/f/Fortune Arterial/[ANE] Fortune Arterial - 02 [1080p BD][FB71F178].mkv
+complete/f/Fortune Arterial/[ANE] Fortune Arterial - 03 [1080p BD][FBED8BB3].mkv
+complete/f/Fortune Arterial/[ANE] Fortune Arterial - 04 [1080p BD][19AAA56F].mkv
+complete/f/Fortune Arterial/[ANE] Fortune Arterial - 05 [1080p BD][3D57D95F].mkv
+complete/f/Fortune Arterial/[ANE] Fortune Arterial - 06 [1080p BD][2DE98809].mkv
+complete/f/Fortune Arterial/[ANE] Fortune Arterial - 07 [1080p BD][9EDE6546].mkv
+complete/f/Fortune Arterial/[ANE] Fortune Arterial - 08 [1080p BD][AF7647B5].mkv
+complete/f/Fortune Arterial/[ANE] Fortune Arterial - 09 [1080p BD][9BCAE845].mkv
+complete/f/Fortune Arterial/[ANE] Fortune Arterial - 10 [1080p BD][91F76300].mkv
+complete/f/Fortune Arterial/[ANE] Fortune Arterial - 11 [1080p BD][1331B493].mkv
+complete/f/Fortune Arterial/[ANE] Fortune Arterial - 12 [End][1080p BD][35AA16A9].mkv
+complete/f/Fortune Arterial/[ANE] Fortune Arterial - Ending 12 (Clean) [1080p BD][BBA36DD0].mkv
+complete/f/Fortune Arterial/[ANE] Fortune Arterial - Endings (Clean) [1080p BD][FB3E3ABF].mkv
+complete/f/Fortune Arterial/[ANE] Fortune Arterial - Opening (Clean) [1080p BD][A78887B8].mkv
 complete/f/Fractale/[Coalgirls] Fractale - 01 [1080p BD][E3E14555].mkv
 complete/f/Fractale/[Coalgirls] Fractale - 02 [1080p BD][C3E802B5].mkv
 complete/f/Fractale/[Coalgirls] Fractale - 03 [1080p BD][5076CC71].mkv
