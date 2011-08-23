@@ -53,17 +53,17 @@
 !new/.broken/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.mkv
 !new/.broken/[Chiki-Subs]_Mayo_Chiki_-_01v2_(1280x720_H.264.AAC)_[45704136].mkv
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
-!new/Azumaria Lessons/Lesson - 01 - Golden Age America.mkv
-!new/Azumaria Lessons/Lesson - 02 - The Magdalene Order.mkv
-!new/Azumaria Lessons/Lesson - 03 - Secret Weapons Of The Magdalene Order.mkv
-!new/Azumaria Lessons/Lesson - 04 - The Apostles.mkv
-!new/Azumaria Lessons/Lesson - 05 - Summoned Beasts.mkv
-!new/Azumaria Lessons/Lesson - 06 - Devil Worshipers.mkv
-!new/Azumaria Lessons/Lesson - 07 - The Sinners.mkv
-!new/Azumaria Lessons/Lesson - 08 - Mary Of Magdalene.mkv
-!new/Azumaria Lessons/Lesson - 09 - Stigmata.mkv
-!new/Azumaria Lessons/Lesson - 10 - The Ritual Of Atonement.mkv
-!new/Azumaria Lessons/Lesson - 11 - The Head Of Pandemonium.mkv
+!new/Azumaria Lessons/[DmonHiro] Chrono Crusade - Azmaria Lessons - 01 [D1F76554].mkv
+!new/Azumaria Lessons/[DmonHiro] Chrono Crusade - Azmaria Lessons - 02 [2B0CC29F].mkv
+!new/Azumaria Lessons/[DmonHiro] Chrono Crusade - Azmaria Lessons - 03 [46A9D1EE].mkv
+!new/Azumaria Lessons/[DmonHiro] Chrono Crusade - Azmaria Lessons - 04 [1B935D0B].mkv
+!new/Azumaria Lessons/[DmonHiro] Chrono Crusade - Azmaria Lessons - 05 [D84294E8].mkv
+!new/Azumaria Lessons/[DmonHiro] Chrono Crusade - Azmaria Lessons - 06 [E919BAAF].mkv
+!new/Azumaria Lessons/[DmonHiro] Chrono Crusade - Azmaria Lessons - 07 [CADCBD93].mkv
+!new/Azumaria Lessons/[DmonHiro] Chrono Crusade - Azmaria Lessons - 08 [8D7F3CD8].mkv
+!new/Azumaria Lessons/[DmonHiro] Chrono Crusade - Azmaria Lessons - 09 [009AA689].mkv
+!new/Azumaria Lessons/[DmonHiro] Chrono Crusade - Azmaria Lessons - 10 [447FB02A].mkv
+!new/Azumaria Lessons/[DmonHiro] Chrono Crusade - Azmaria Lessons - 11 [D12E3482].mkv
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
@@ -925,22 +925,15 @@
 !new/ir-extra/cor.extras.infinite.ryvius.textless.opening5.[42221716].mkv
 !new/ir-extra/cor.extras.infinite.ryvius.textless.opening6.[86B9B670].mkv
 !new/ir-extra/cor.extras.infinite.ryvius.textless.opening7.[0D26A832].mkv
-!new/knkbd/[ANE] Kara no Kyoukai - Cinema Intro 1 [BDRip 720p x264 AAC].mkv
-!new/knkbd/[ANE] Kara no Kyoukai - Cinema Intro 2 [BDRip 720p x264 AAC].mkv
-!new/knkbd/[ANE] Kara no Kyoukai - Cinema Intro 3 [BDRip 720p x264 AAC].mkv
-!new/knkbd/[ANE] Kara no Kyoukai - Cinema Intro 4v0 [BDRip 720p x264 AAC].mkv
-!new/knkbd/[ANE] Kara no Kyoukai - Cinema Intro 5v0 [BDRip 720p x264 AAC].mkv
-!new/knkbd/[ANE] Kara no Kyoukai - Cinema Intro 6 [BDRip 720p x264 AAC].mkv
-!new/knkbd/[ANE] Kara no Kyoukai - Cinema Intro 7v0 [BDRip 720p x264 AAC].mkv
-!new/knkbd/[ANE] Kara no Kyoukai - Epilogue [BDRip 720p x264 AAC].mkv
-!new/knkbd/[ANE] Kara no Kyoukai - Remix v0 - Gate of Seventh Heaven [BDRip 720p x264 AAC].mkv
-!new/knkbd/z/[ANE] Kara no Kyoukai - 1 [720p BD][48562552].mkv
-!new/knkbd/z/[ANE] Kara no Kyoukai - 2 [720p BD][8B65761D].mkv
-!new/knkbd/z/[ANE] Kara no Kyoukai - 3 [720p BD][D12A56D5].mkv
-!new/knkbd/z/[ANE] Kara no Kyoukai - 4 [720p BD][BAC4925A].mkv
-!new/knkbd/z/[ANE] Kara no Kyoukai - 5 [720p BD][63F8CA38].mkv
-!new/knkbd/z/[ANE] Kara no Kyoukai - 6 [720p BD][7FB44239].mkv
-!new/knkbd/z/[ANE] Kara no Kyoukai - 7 [720p BD].mkv
+!new/knkbd/[ANE] Kara no Kyoukai - Cinema Intro - 1 [720p BD].mkv
+!new/knkbd/[ANE] Kara no Kyoukai - Cinema Intro - 2 [720p BD].mkv
+!new/knkbd/[ANE] Kara no Kyoukai - Cinema Intro - 3 [720p BD].mkv
+!new/knkbd/[ANE] Kara no Kyoukai - Cinema Intro - 4 [v0][720p BD].mkv
+!new/knkbd/[ANE] Kara no Kyoukai - Cinema Intro - 5 [v0][720p BD].mkv
+!new/knkbd/[ANE] Kara no Kyoukai - Cinema Intro - 6 [720p BD].mkv
+!new/knkbd/[ANE] Kara no Kyoukai - Cinema Intro - 7 [v0][720p BD].mkv
+!new/knkbd/[ANE] Kara no Kyoukai - Epilogue [720p BD].mkv
+!new/knkbd/[ANE] Kara no Kyoukai - Remix v0 - Gate of Seventh Heaven [720p BD].mkv
 !new/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/lama/[Ayako] Wei� Survive R - 01 - H264 - E975A989.mkv
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
