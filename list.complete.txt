@@ -10145,6 +10145,7 @@ complete/l/Lime-Colored War Tales/[ReDone] Lime-Colored War Tales - 02 [DVD][1AF
 complete/l/Lime-Colored War Tales/[ReDone] Lime-Colored War Tales - 03 [DVD][06207B91].mkv
 complete/l/Lime-Colored War Tales/[ReDone] Lime-Colored War Tales - 04 [DVD][B5E6949B].mkv
 complete/l/Lime-Colored War Tales/[ReDone] Lime-Colored War Tales - 05 [DVD][574FCFB0].mkv
+complete/l/Lime-Colored War Tales/[ReDone] Lime-Colored War Tales - 06 [DVD][2B1D5663].mkv
 complete/l/Love Hina - Again/[a4e] Love Hina - Again - 1 [7E08D378].mkv
 complete/l/Love Hina - Again/[a4e] Love Hina - Again - 2 [14DB4571].mkv
 complete/l/Love Hina - Again/[a4e] Love Hina - Again - 3 [End][1C14ECC9].mkv
@@ -14576,6 +14577,7 @@ complete/r/Rizelmine/[ReDone] Rizelmine - 01 [DVD][1D5A9D5E].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 02 [DVD][5F3088B3].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 03 [DVD][C033034F].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 04 [DVD][EADE9A5B].mkv
+complete/r/Rizelmine/[ReDone] Rizelmine - 05 [DVD][C026B092].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - Ending 1 [DVD][59C1FE24].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - Opening [DVD][3AC69E00].mkv
 complete/r/Rizelmine/[h-b] Rizelmine - 13 [29B6C1E2].avi
@@ -15502,6 +15504,8 @@ complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 07 [DVD][EDCB39C9].mkv
 complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 08 [DVD][CF682C45].mkv
 complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 09 [DVD][90A995AC].mkv
 complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 10 [DVD][1DDC3C92].mkv
+complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 11 [DVD][D7EFDA12].mkv
+complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 12 [DVD][AD9AA1E2].mkv
 complete/s/Sayonara Zetsubou Sensei/[a.f.k.] Sayonara Zetsubou Sensei - 01 [FE83A1BD].avi
 complete/s/Sayonara Zetsubou Sensei/[a.f.k.] Sayonara Zetsubou Sensei - 02 [70C1ED5F].avi
 complete/s/Sayonara Zetsubou Sensei/[a.f.k.] Sayonara Zetsubou Sensei - 03 [C5F5E8C5].avi
