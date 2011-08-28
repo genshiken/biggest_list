@@ -752,6 +752,8 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
 !new/[A-Destiny] Toriko - 20 (1280x720 h264 AAC) [4FAD7C6F].mkv
 !new/[ASL]_Hana_-_Subarashiki_Hibi_Theme_Song_-_Kuukirikigaku_Shoujo_to_Shounen_no_Shi_[FLAC].rar
+!new/[ASL]_fripSide_Hayate_no_Gotoku_-_Heaven_is_a_Place_on_Earth_Main_Theme_Single_-_Heaven_is_a_Place_on_Earth_[FLAC]_[w_Scans].rar
+!new/[Aho-Taku] Ro-Kyu-Bu! - 08v2[720p][F13F9450].mkv
 !new/[AonE]_Daa!_Daa!_Daa!_-_01_[06C101CF].avi
 !new/[AonE]_Daa!_Daa!_Daa!_-_02_[ACAE89C2].avi
 !new/[AonE]_Daa!_Daa!_Daa!_-_03_[3E560DA1].avi
@@ -780,9 +782,16 @@
 !new/[AonE]_Daa!_Daa!_Daa!_-_26_[614862FF].avi
 !new/[Ayako]_Ikoku_Meiro_no_Croisée_-_08_[H264][720p][CBBA8DBF].mkv
 !new/[Coalgirls]_Yuru_Yuri_08_(1280x720_H.264_AAC)_[D3DD6163].mkv
+!new/[Commie] Dantalian no Shoka - 07 [90B768B4].mkv
 !new/[Commie] Natsume Yuujinchou San - 08 [27691D56].mkv
+!new/[Commie] Usagi Drop - 08 [537294BA].mkv
+!new/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_23_[43249836].avi
 !new/[Derp]_Itsuka_Tenma_no_Kuro_Usagi_-_07_[1280x720_x264_AAC][84342E98].mkv
+!new/[DmonHiro] Shin Koihime Musou - Otome Tairan OVA (Bluray, 720p, AAC) [F8B8D2B9].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.27.[1280x720].[09572C12].mkv
+!new/[HorribleSubs] Beelzebub - 31 [720p].mkv
+!new/[HorribleSubs] Cardfight!! Vanguard - 33 [720p].mkv
+!new/[HorribleSubs] Fairy Tail - 94 [720p].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
