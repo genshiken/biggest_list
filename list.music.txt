@@ -363,6 +363,7 @@ music/ASL/[ASL]_Fukuyama_Jun_-_WORKING!!_Character_Song_MENU_1_-_Souta_Takanashi
 music/ASL/[ASL]_Furuya_Shizuka_-_Nichijou_Character_Song_1_Shinonome Nano_-_Nano_no_Nejimawashi_Rhapsody_[FLAC].rar
 music/ASL/[ASL]_Galileo_Galilei_-_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_OP_-_Aoi_Shiori_[FLAC].rar
 music/ASL/[ASL]_Goto_Saori_-_STEINS;GATE_Laboratory_Member_005_Kiryu_Moeka_[FLAC].rar
+music/ASL/[ASL]_Hana_-_Subarashiki_Hibi_Theme_Song_-_Kuukirikigaku_Shoujo_to_Shounen_no_Shi_[FLAC].rar
 music/ASL/[ASL]_Hanazawa_Kana_-_Infinite_Stratos_Character_CD_Vol4_-_Charles_[FLAC].rar
 music/ASL/[ASL]_Hanazawa_Kana_-_STEINS;GATE_Laboratory_Member_002_Shiina_Mayuri_[FLAC].rar
 music/ASL/[ASL]_Harada_Hitomi_-_Itsuka_Tenma_no_Kuro_Usagi_OP_-_Once_[FLAC]_[w_Scans].rar
@@ -633,6 +634,7 @@ music/ASL/[ASL]_Various_Artists_-_Toaru_Majutsu_no_Index_II_ARCHIVES_1_[FLAC]_[w
 music/ASL/[ASL]_Various_Artists_-_Toaru_Majutsu_no_Index_II_ARCHIVES_2_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Toaru_Majutsu_no_Index_II_ARCHIVES_3_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Toaru_Majutsu_no_Index_II_ORIGINAL_SOUND_TRACK_2_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Toradora_Original_Soundtrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Touhou_Middonaito_MAXIMUM_TUNE_Gaiden_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Utatemeguri_Original_Sound_Track_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_VOCALO_LOVERS_feat._Hatsune_Miku_[FLAC]_[w_Scans].rar
@@ -654,6 +656,7 @@ music/ASL/[ASL]_Zephyr_Cradle_TAM_-_Zephyr_Violin_Duo_[FLAC].rar
 music/ASL/[ASL]_Zwei_-_Memories_Off_Yubikiri_no_Kioku_PSP_OP_Theme_-_Kaze_no_Uta_[FLAC].rar
 music/ASL/[ASL]_azusa_-_Yume_Note_[FLAC].rar
 music/ASL/[ASL]_eufonius_-_bezel_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_fripSide_Hayate_no_Gotoku_-_Heaven_is_a_Place_on_Earth_Main_Theme_Single_-_Heaven_is_a_Place_on_Earth_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_kanonxkanon_-_30-sai_no_Hoken_Taiiku_OP_-_Koi_no_Doutei_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_lovelive!_μ's_-_Printemps_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_lovelive!_μ’s_-_Bibi_[FLAC]_[w_Scans].rar
