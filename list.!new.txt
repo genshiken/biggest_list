@@ -841,43 +841,6 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[A-Destiny] Toriko - 20 (1280x720 h264 AAC) [4FAD7C6F].mkv
-!new/[A-Destiny] Toriko - 20v2 (1280x720 h264 AAC) [667B0FA7].mkv
-!new/[Aho-Taku] Ro-Kyu-Bu! - 08v2[720p][F13F9450].mkv
-!new/[AonE]_Daa!_Daa!_Daa!_-_01_[06C101CF].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_02_[ACAE89C2].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_03_[3E560DA1].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_04_[A73C63C5].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_05_[32F4AD59].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_06_[58C04C00].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_07_[34C567E0].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_08_[8B72D1C1].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_09_[2EB42AE8].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_10_[56F22CEB].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_11_[89907C13].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_12_[68D33F2E].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_13_[09C52348].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_14_[1D733928].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_15_[EEA5C672].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_16_[2973CB5F].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_17_[6AF7C441].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_18_[092CE96A].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_19_[0C591E7A].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_20_[6190FF7B].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_21_[4DCD902F].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_22_[3767DA88].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_23_[B9D09E29].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_24_[4BEE86A7].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_25_[8B8212ED].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_26_[614862FF].avi
-!new/[Ayako]_Ikoku_Meiro_no_Croisée_-_08_[H264][720p][CBBA8DBF].mkv
-!new/[Buny]_Ikoku_Meiro_no_Croisée_-_04.5v2_[x264][288p][CF4C65E7].mkv
-!new/[Coalgirls]_Yuru_Yuri_08_(1280x720_H.264_AAC)_[D3DD6163].mkv
-!new/[Commie] Dantalian no Shoka - 07 [90B768B4].mkv
-!new/[Commie] Natsume Yuujinchou San - 08 [27691D56].mkv
-!new/[Commie] Steins;Gate - 21 [51CBEFBE].mkv
-!new/[Commie] Usagi Drop - 08 [537294BA].mkv
-!new/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_23_[43249836].avi
 !new/[Derp]_Itsuka_Tenma_no_Kuro_Usagi_-_07_[1280x720_x264_AAC][84342E98].mkv
 !new/[DmonHiro] Shin Koihime Musou - Otome Tairan OVA (Bluray, 720p, AAC) [F8B8D2B9].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.27.[1280x720].[09572C12].mkv
@@ -890,9 +853,7 @@
 !new/[HorribleSubs] Nekogami Yaoyorozu - 07 [720p].mkv
 !new/[HorribleSubs] Nichijou - 22 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 21 [720p].mkv
-!new/[HorribleSubs] Steins;Gate - 21 [720p].mkv
 !new/[HorribleSubs] Twin Angel - Twinkle Paradise - 07 [720p].mkv
-!new/[HorribleSubs] Usagi Drop - 08 [720p].mkv
 !new/[HorribleSubs] YuruYuri - 08 [720p].mkv
 !new/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream - 09 [H264 1024x576] [B8521123].mkv
 !new/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 43 [H264 1280x720] [672EFF7C].mkv
@@ -900,14 +861,7 @@
 !new/[Licca] Happy Kappi Special Episode 01 (h.264) [206260A5].mkv
 !new/[Licca] Pollyanna Episode 35 (h.264) [CDCB8580].mkv
 !new/[Mamiko_SHiN] Kaibutsu Oujo OVA - 02 [DVD][720x480 AR h.264 AAC][1F5A2D99].mkv
-!new/[Nipponsei] Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shira nai. Original Soundtrack 3.zip
-!new/[Nipponsei] Ao no Exorcist OP2 Single - IN MY WORLD [ROOKiEZ is PUNK'D].zip
-!new/[Nipponsei] Dantalian no Shoka OP ED Single - yes, prisoner [maRIONnetTe & Yucca].zip
-!new/[Nipponsei] Hayate no Gotoku! Heaven is a Place on Earth Main Theme Single - Heaven is a Place on Earth [fripSide].zip
-!new/[Nipponsei] Ikoku Meiro no Croisee Original Soundtrack.zip
-!new/[Nipponsei] Kami-sama no Memo-chou ED Single - Asunaro [Suzumura Kenichi].zip
 !new/[Nutbladder]_Kaiji_S2_-_21_[827919EF].mkv
-!new/[Nutbladder]_Mawaru_Penguindrum_-_07v2_[08D72AD4].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
