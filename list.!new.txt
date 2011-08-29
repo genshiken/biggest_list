@@ -53,17 +53,6 @@
 !new/.broken/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.mkv
 !new/.broken/[Chiki-Subs]_Mayo_Chiki_-_01v2_(1280x720_H.264.AAC)_[45704136].mkv
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
-!new/Azumaria Lessons/[DmonHiro] Chrono Crusade - Azmaria Lessons - 01 [D1F76554].mkv
-!new/Azumaria Lessons/[DmonHiro] Chrono Crusade - Azmaria Lessons - 02 [2B0CC29F].mkv
-!new/Azumaria Lessons/[DmonHiro] Chrono Crusade - Azmaria Lessons - 03 [46A9D1EE].mkv
-!new/Azumaria Lessons/[DmonHiro] Chrono Crusade - Azmaria Lessons - 04 [1B935D0B].mkv
-!new/Azumaria Lessons/[DmonHiro] Chrono Crusade - Azmaria Lessons - 05 [D84294E8].mkv
-!new/Azumaria Lessons/[DmonHiro] Chrono Crusade - Azmaria Lessons - 06 [E919BAAF].mkv
-!new/Azumaria Lessons/[DmonHiro] Chrono Crusade - Azmaria Lessons - 07 [CADCBD93].mkv
-!new/Azumaria Lessons/[DmonHiro] Chrono Crusade - Azmaria Lessons - 08 [8D7F3CD8].mkv
-!new/Azumaria Lessons/[DmonHiro] Chrono Crusade - Azmaria Lessons - 09 [009AA689].mkv
-!new/Azumaria Lessons/[DmonHiro] Chrono Crusade - Azmaria Lessons - 10 [447FB02A].mkv
-!new/Azumaria Lessons/[DmonHiro] Chrono Crusade - Azmaria Lessons - 11 [D12E3482].mkv
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
@@ -778,25 +767,6 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[Ayako]_Mayo_Chiki_-_07_[H264][720p][C8A2B6DB].mkv
-!new/[Coalgirls]_Magical_Girl_Madoka_Magica_09_(1920x1080_Blu-Ray_FLAC)_[0FCDC302].mkv
-!new/[Coalgirls]_Magical_Girl_Madoka_Magica_10_(1920x1080_Blu-Ray_FLAC)_[457DD76E].mkv
-!new/[Doremi-CureCom].Suite.PreCure!.28.[1280x720].[3B4D0E22].mkv
-!new/[Fail-15]_R-15_-_08_(1280x720 x264 AAC)_[5ED1E87D].mkv
-!new/[HorribleSubs] Twin Angel - Twinkle Paradise - 07 [720p].mkv
-!new/[Midnight-Sons] Blade - 01v2 [C02BE69C].mkv
-!new/[Midnight-Sons] Blade - 02 [6AA594D9].mkv
-!new/[Midnight-Sons] Blade - 03 [6D267CA6].mkv
-!new/[Midnight-Sons] Blade - 04 [F4B828A9].mkv
-!new/[Midnight-Sons] Blade - 05 [8A9B72B1].mkv
-!new/[Midnight-Sons] Blade - 06 [2099AF70].mkv
-!new/[Midnight-Sons] Blade - 07 [65FC461E].mkv
-!new/[Midnight-Sons] Blade - 08 [64BDBBBA].mkv
-!new/[Midnight-Sons] Blade - 09 [FDFD925D].mkv
-!new/[Midnight-Sons] Blade - ED [EB576604].mkv
-!new/[Midnight-Sons] Blade - OP [0424A934].mkv
-!new/[Over-Time]_Pirate_Sentai_Gokaiger_-_27_[D41D181B].mkv
-!new/[PM]Pocket_Monsters_Best_Wishes_045_Nyagotiator_Nyarth!_Operation_Persuade_Zuruzukin!![H264_720P][5D70A36D].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
