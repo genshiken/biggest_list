@@ -57,6 +57,7 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - 627 [DCTP][720p][6C138F92].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -767,6 +768,30 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
+!new/[A-Destiny] Toriko - 21 (1280x720 h264 AAC) [41546921].mkv
+!new/[ASL]_Shikata_Akiko_-_Itsuka_Tenma_no_Kuro_Usagi_ED_-_Utsusemi_[FLAC]_[w_Scans].rar
+!new/[AonE]_Nyanpire_-_The_Animation_08_[0705D542].mkv
+!new/[Coalgirls]_Yuru_Yuri_09_(1280x720_H.264_AAC)_[DB55DFF0].mkv
+!new/[Doki] Seikon no Qwaser - 13 (1280x720 h264 BD FLAC) [A6E36E0F].mkv
+!new/[Doki] Seikon no Qwaser - 16 (1280x720 h264 BD FLAC) [7F9B653F].mkv
+!new/[Doki] Seikon no Qwaser - 17 (1280x720 h264 BD FLAC) [718375CF].mkv
+!new/[Doki] Seikon no Qwaser - 18 (1280x720 h264 BD FLAC) [7B9D9506].mkv
+!new/[Doki] Seikon no Qwaser - 19 (1280x720 h264 BD FLAC) [C838600A].mkv
+!new/[Doki] Seikon no Qwaser - 20 (1280x720 h264 BD FLAC) [81A83A60].mkv
+!new/[Doki] Seikon no Qwaser - 21 (1280x720 h264 BD FLAC) [1A7BDDC5].mkv
+!new/[HorribleSubs] Bleach - 316 [720p].mkv
+!new/[HorribleSubs] Nekogami Yaoyorozu - 08 [720p].mkv
+!new/[HorribleSubs] Twin Angel - Twinkle Paradise - 08 [720p].mkv
+!new/[HorribleSubs] YuruYuri - 09 [720p].mkv
+!new/[IB] Ikoku Meiro no Croisée - 09 [720p] [A621D866].mkv
+!new/[Nipponsei] Beelzebub ED3 Single - Nanairo Namida [Tomato n' Pine].zip
+!new/[Nipponsei] C Original Soundtrack.zip
+!new/[Nipponsei] Nichijou BGM & Radio Bangumi 3.zip
+!new/[Ryuumaru]_Hoshizora_e_Kakaru_Hashi_-_10_[720p][2C5F35AB].mkv
+!new/[SubDESU] Manyuu Hikenchou - 07 ~DC~ (1280x720) [9633788F].mkv
+!new/[SubDesu] Seikon no Qwaser II BD 01 (1280x720) [04404ABE].mkv
+!new/[SubDesu] Seikon no Qwaser II BD 02 (1280x720) [3CA49482].mkv
+!new/[SubDesu] Seikon no Qwaser II BD 03 (1280x720) [CDE3E075].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -782,6 +807,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[UTW]_Carnival_Phantasm_-_03_[BD][h264-1080p_FLAC][5B861A35].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
