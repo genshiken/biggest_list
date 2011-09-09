@@ -58,6 +58,7 @@
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
 !new/Detective Conan - 627 [DCTP][720p][6C138F92].mp4
+!new/Detective Conan - 628 [DCTP][720p][4B87B137].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -82,7 +83,35 @@
 !new/Dragon Ball/Movie - 06 - Return Of Cooler.rmvb
 !new/Dragon Ball/Movie - 08 - Broly The Legendary Super Saiyan.rmvb
 !new/Dragon Ball/Movie - 09 - Bojack Unbound.rmvb
+!new/Ga-Rei Zero/[Coalgirls] Ga-Rei Zero - 01 [720p BD][0F7BC43D].mkv
+!new/Ga-Rei Zero/[Coalgirls] Ga-Rei Zero - 02 [720p BD][2353BE86].mkv
+!new/Ga-Rei Zero/[Coalgirls] Ga-Rei Zero - 03 [720p BD][67553693].mkv
+!new/Ga-Rei Zero/[Coalgirls] Ga-Rei Zero - 04 [720p BD][357C3F44].mkv
+!new/Ga-Rei Zero/[Coalgirls] Ga-Rei Zero - 05 [720p BD][594C1AAF].mkv
+!new/Ga-Rei Zero/[Coalgirls] Ga-Rei Zero - 06 [720p BD][C0B9EAAF].mkv
+!new/Ga-Rei Zero/[Coalgirls] Ga-Rei Zero - 07 [720p BD][12DD82AC].mkv
+!new/Ga-Rei Zero/[Coalgirls] Ga-Rei Zero - 08 [720p BD][8AA522B5].mkv
 !new/Getter Robo Armageddon (Incomplete)/[ASS] Getter Robo Armageddon - 01 - From_beyond_the_grave_.avi
+!new/Ichiban_Ushiro_no_Daimaou_-_01_[BD_1080p][AtsA][088ECEBB].mkv
+!new/Ichiban_Ushiro_no_Daimaou_-_02_[BD_1080p][AtsA][50CE955C].mkv
+!new/Ichiban_Ushiro_no_Daimaou_-_03_[BD_1080p][AtsA][2C432561].mkv
+!new/Ichiban_Ushiro_no_Daimaou_-_04_[BD_1080p][AtsA][2E7C1C4E].mkv
+!new/Ichiban_Ushiro_no_Daimaou_-_05_[BD_1080p][AtsA][9DF65C18].mkv
+!new/Ichiban_Ushiro_no_Daimaou_-_06_[BD_1080p][AtsA][5A859E54].mkv
+!new/Ichiban_Ushiro_no_Daimaou_-_07_[BD_1080p][AtsA][E99A014C].mkv
+!new/Ichiban_Ushiro_no_Daimaou_-_08_[BD_1080p][AtsA][FDE1F75B].mkv
+!new/Ichiban_Ushiro_no_Daimaou_-_09_[BD_1080p][AtsA][95432BEE].mkv
+!new/Ichiban_Ushiro_no_Daimaou_-_10_[BD_1080p][AtsA][86D94D43].mkv
+!new/Ichiban_Ushiro_no_Daimaou_-_11_[BD_1080p][AtsA][F894D6AE].mkv
+!new/Ichiban_Ushiro_no_Daimaou_-_12_[BD_1080p][AtsA][3A3B4BF6].mkv
+!new/Ichiban_Ushiro_no_Daimaou_-_ED_Clean_[BD_1080p][AtsA][F68ADF97].mkv
+!new/Ichiban_Ushiro_no_Daimaou_-_OP_Clean_[BD_1080p][AtsA][8489E6FD].mkv
+!new/Ichiban_Ushiro_no_Daimaou_-_SP1_[BD_1080p][AtsA][064B431F].mkv
+!new/Ichiban_Ushiro_no_Daimaou_-_SP2_[BD_1080p][AtsA][660ADE7A].mkv
+!new/Ichiban_Ushiro_no_Daimaou_-_SP3_[BD_1080p][AtsA][66419BC8].mkv
+!new/Ichiban_Ushiro_no_Daimaou_-_SP4_[BD_1080p][AtsA][7AD28CDC].mkv
+!new/Ichiban_Ushiro_no_Daimaou_-_SP5_[BD_1080p][AtsA][249FCE10].mkv
+!new/Ichiban_Ushiro_no_Daimaou_-_SP6_[BD_1080p][AtsA][9C1C09E6].mkv
 !new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 001 [Anime-Empire Aoshi][4C61522D].avi
 !new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 002 [Anime-Empire Aoshi][CFA40ACD].avi
 !new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 003 [Anime-Empire Aoshi][192A196A].avi
@@ -504,6 +533,29 @@
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/List.txt
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/disc_8.jpg
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/mibox_cover.gif
+!new/Mayoi_Neko_Overrun!_01_[BD_1080p][AtsA][DAA4C6BC].mkv
+!new/Mayoi_Neko_Overrun!_02_[BD_1080p][AtsA][3734F49F].mkv
+!new/Mayoi_Neko_Overrun!_03_[BD_1080p][AtsA][892BBC3B].mkv
+!new/Mayoi_Neko_Overrun!_04_[BD_1080p][AtsA][782DB4E4].mkv
+!new/Mayoi_Neko_Overrun!_05_[BD_1080p][AtsA][9A64D8A7].mkv
+!new/Mayoi_Neko_Overrun!_06v2_[BD_1080p][AtsA][3A82B87C].mkv
+!new/Mayoi_Neko_Overrun!_07_[BD_1080p][AtsA][93CE6CB2].mkv
+!new/Mayoi_Neko_Overrun!_08_[BD_1080p][AtsA][177A23F1].mkv
+!new/Mayoi_Neko_Overrun!_09_[BD_1080p][AtsA][F7753B1B].mkv
+!new/Mayoi_Neko_Overrun!_10_[BD_1080p][AtsA][D3102548].mkv
+!new/Mayoi_Neko_Overrun!_11_[BD_1080p][AtsA][97083C34].mkv
+!new/Mayoi_Neko_Overrun!_12_[BD_1080p][AtsA][AF224297].mkv
+!new/Mayoi_Neko_Overrun!_13_[HDTV_720p][AtsA][0FC9EB0B].mkv
+!new/Mayoi_Neko_Overrun!_ED_Clean_[BD_1080p][AtsA][B424FD80].mkv
+!new/Mayoi_Neko_Overrun!_ED_Clean_[BD_720p][AtsA][CAABE05D].mkv
+!new/Mayoi_Neko_Overrun!_OP_Clean_[BD_1080p][AtsA][273D42D2].mkv
+!new/Mayoi_Neko_Overrun!_OP_Clean_[BD_720p][AtsA][C4AF66C9].mkv
+!new/Mayoi_Neko_Overrun!_Theater_1_[BD_1080p][AtsA][1782F05F].mkv
+!new/Mayoi_Neko_Overrun!_Theater_1_[BD_720p][AtsA][ECAA6537].mkv
+!new/Mayoi_Neko_Overrun!_Theater_2_[BD_1080p][AtsA][B8AD09F1].mkv
+!new/Mayoi_Neko_Overrun!_Theater_2_[BD_720p][AtsA][E1F27E1E].mkv
+!new/Mayoi_Neko_Overrun!_Theater_3v2_[BD_1080p][AtsA][AFB89811].mkv
+!new/Mayoi_Neko_Overrun!_Theater_3v2_[BD_720p][AtsA][75D40F92].mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
@@ -682,12 +734,16 @@
 !new/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x23_DVDRiP.rmvb
 !new/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x24_DVDRiP.rmvb
 !new/Ranma (Complete)/Ranma Season 07/[anime_fin]_Ranma_7x25_DVDRiP.rmvb
+!new/Rurouni_Kenshin_OVA_-_Reminiscence_01_[BD_1080p_Hi10P][AtsA][D0367F4C].mkv
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD1 [CiMG].avi
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD1 [CiMG].idx
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD1 [CiMG].sub
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].avi
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].idx
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].sub
+!new/School_Rumble_12.DVD(H264_AAC)[KAA-Mokkori][D4DB08CA].mkv
+!new/School_Rumble_13.DVD(H264_AAC)[KAA-Mokkori][28539091].mkv
+!new/School_Rumble_14.DVD(H264_AAC)[KAA-Mokkori][F85FB5BC].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_01v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_02v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_03v2[divx5.1.1].mkv
@@ -769,9 +825,42 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
 !new/[A-Destiny] Toriko - 21 (1280x720 h264 AAC) [41546921].mkv
+!new/[A-Destiny] Toriko - 22 (1280x720 h264 AAC) [3FA7DC1A].mkv
+!new/[ASL]_Clammbon_-_Hanasaku_Iroha_ED_5_-_Hanasaku_Iroha_[FLAC]_[w_Scans].rar
+!new/[ASL]_ELISA_-_Hayate_No_Gotoku_HEAVEN_IS_A_PLACE_ON_EARTH_Insert_Song_-_Invisible_Message_[FLAC].rar
+!new/[ASL]_Kawano_Marina_-_A_Channel_OP_-_Morning_Arch_[FLAC]_[w_Scans].rar
+!new/[ASL]_ROOKiEZ_is_PUNK_D_-_Ao_no_exorcist_OP_-_IN_MY_WORLD_[FLAC]_[w_Scans].rar
 !new/[ASL]_Shikata_Akiko_-_Itsuka_Tenma_no_Kuro_Usagi_ED_-_Utsusemi_[FLAC]_[w_Scans].rar
+!new/[ASL]_Suzumura_Kenichi_-_Kamisama_no_Memo_Chou_ED_-_Asunaro_[FLAC]_[w_Scans].rar
+!new/[ASL]_ULTRA-PRISM_with_Shiratama-Chuu_Soft_Tennis_Club_-_Softenni_OP_-_Rule_Book_wo_Wasurechae_[EXTRA].rar
+!new/[ASL]_ULTRA-PRISM_with_with_Shiratama-Chuu_Soft_Tennis_Club_-_Softenni_OP_-_Rule_Book_wo_Wasurechae_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_DOG_DAYS_2_Limited_Edition_Bonus_CD_[FLAC].rar
+!new/[ASL]_Various_Artists_-_Koiiro_Soramoyou_After_Happiness_and_Extra_Heart_s_[FLAC].rar
+!new/[ASL]_Various_Artists_-_Princess_Lover_Original_Sound_Track_[FLAC].rar
+!new/[ASL]_Various_Artists_-_Subarashiki_Hibi_Soundtrack_CD_[FLAC].rar
+!new/[ASL]_Various_Artists_-_TRIBAL_LINK_-_L_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_TRIBAL_LINK_-_R_[FLAC]_[w_Scans].rar
+!new/[ASL]_Yamazaki_Haruka_-_Hayate_No_Gotoku_HEAVEN_IS_A_PLACE_ON_EARTH_OP_-_Bokura,_Kakeyuku_Sora_e_[FLAC].rar
+!new/[ASL]_monet_-_Subarashiki_Hibi_Theme_Song_2_-_Naglfar_no_Senjou_nite_[FLAC].rar
+!new/[Aho-Taku] Ro-Kyu-Bu! - 09[720p][7DCEEA41].mkv
 !new/[AonE]_Nyanpire_-_The_Animation_08_[0705D542].mkv
+!new/[AonE]_Nyanpire_-_The_Animation_09_[9EF60C30].mkv
+!new/[Ayako-Himatsubushi]_Working`!!_-_01_[PREAIR][720p][6C8E1687].mkv
+!new/[Ayako]_Ikoku_Meiro_no_Croisée_-_04.5_[H264][400p][B8BCFBA2].mkv
+!new/[Ayako]_Ikoku_Meiro_no_Croisée_-_09_[H264][720p][BFC3533C].mkv
+!new/[Ayako]_Ikoku_Meiro_no_Croisée_-_10_[H264][720p][053542D5].mkv
+!new/[Ayako]_Mayo_Chiki_-_09_[H264][720p][E2D31030].mkv
+!new/[BitchSubs] Prism Ark 01v2 (DVD 704x480 H264 AC3) [88BACE2A].mkv
 !new/[Coalgirls]_Yuru_Yuri_09_(1280x720_H.264_AAC)_[DB55DFF0].mkv
+!new/[Coalgirls]_Yuru_Yuri_10_(1280x720_H.264_AAC)_[AABAB096].mkv
+!new/[Commie] Baka to Test to Shokanju Ni - 09 [3DC346CB].mkv
+!new/[Commie] Busou Shinki Moon Angel - 01 [058F61B2].mkv
+!new/[Commie] Natsume Yuujinchou San - 09 [23518C72].mkv
+!new/[Commie] Natsume Yuujinchou San - 10 [7C4FC232].mkv
+!new/[Commie] Steins;Gate - 22 [D7B3EE76].mkv
+!new/[Commie] Steins;Gate - 23 [024E9F10].mkv
+!new/[Commie] Usagi Drop - 09 [1B7E4943].mkv
+!new/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_24_[3a40bee9].avi
 !new/[Doki] Seikon no Qwaser - 13 (1280x720 h264 BD FLAC) [A6E36E0F].mkv
 !new/[Doki] Seikon no Qwaser - 16 (1280x720 h264 BD FLAC) [7F9B653F].mkv
 !new/[Doki] Seikon no Qwaser - 17 (1280x720 h264 BD FLAC) [718375CF].mkv
@@ -779,16 +868,68 @@
 !new/[Doki] Seikon no Qwaser - 19 (1280x720 h264 BD FLAC) [C838600A].mkv
 !new/[Doki] Seikon no Qwaser - 20 (1280x720 h264 BD FLAC) [81A83A60].mkv
 !new/[Doki] Seikon no Qwaser - 21 (1280x720 h264 BD FLAC) [1A7BDDC5].mkv
+!new/[Doki] Seikon no Qwaser Picture Drama - 01 (1280x720 h264 BD FLAC) [8D6DC56F].mkv
+!new/[Doki] Seikon no Qwaser Picture Drama - 02 (1280x720 h264 BD FLAC) [0DB3FA16].mkv
+!new/[Doki] Seikon no Qwaser Picture Drama - 03 (1280x720 h264 BD FLAC) [DBFDBFD7].mkv
+!new/[Doki] Seikon no Qwaser Picture Drama - 04 (1280x720 h264 BD FLAC) [E68796AD].mkv
+!new/[Doki] Seikon no Qwaser Picture Drama - 05 (1280x720 h264 BD FLAC) [A7240D57].mkv
+!new/[Doki] Seikon no Qwaser Picture Drama - 06 (1280x720 h264 BD FLAC) [8245A312].mkv
+!new/[Doki] Seikon no Qwaser Picture Drama - 07 (1280x720 h264 BD FLAC) [9AEDF0DA].mkv
+!new/[Doki] Seikon no Qwaser Picture Drama - 08 (1280x720 h264 BD FLAC) [BD5E25CB].mkv
+!new/[Doki] Seikon no Qwaser Picture Drama - 09 (1280x720 h264 BD FLAC) [2CC81E71].mkv
+!new/[Doki] Seikon no Qwaser Picture Drama - 10 (1280x720 h264 BD FLAC) [FE4D0704].mkv
+!new/[Doki] Seikon no Qwaser Picture Drama - 11 (1280x720 h264 BD FLAC) [D0735BA5].mkv
+!new/[Doki] Seikon no Qwaser Picture Drama - 12 (1280x720 h264 BD FLAC) [0A95A59C].mkv
+!new/[Doki] Seikon no Qwaser Picture Drama - 13 (1280x720 h264 BD FLAC) [BE3A23E0].mkv
+!new/[Doki] Seikon no Qwaser Picture Drama - 14 (1280x720 h264 BD FLAC) [62E5BC80].mkv
+!new/[Doki] Seikon no Qwaser Picture Drama - 15 (1280x720 h264 BD FLAC) [C6DBA283].mkv
+!new/[Doremi].Kaiji.S2.Episode.23.[78C5180F].mkv
+!new/[EAC] [110727] marble アニソンカバーミニアルバム「うた種」(flac+cue+jpg).rar
+!new/[EAC]TVアニメ「NO.6」OPテーマ 「Spell」／LAMA(wav+cue+jpg).zip
+!new/[EAC]TVアニメ「神様のメモ帳」EDテーマ 「あすなろ」／鈴村健一(ape+cue+jpg).rar
+!new/[EAC]TVアニメ「神様のメモ帳」EDテーマ 「あすなろ」／鈴村健一(ape+cue+jpg).zip
+!new/[Elysium]To.Aru.Kagaku.no.Railgun.OVA(BD.1080p.FLAC)[A583D950].mkv
+!new/[FBI] Baby Princess 3D Paradise Love 01v0 [BD][1080p-AAC][8EABB153].mkv
+!new/[Fail-15]_R-15_-_09_(1280x720 x264 AAC)_[503AE6EB].mkv
+!new/[GotWoot]_Onii-chan_no_Koto_..._-_13_[Uncut][BDrip_720p][509F759C].mkv
+!new/[HorribleSubs] A Dark Rabbit Has Seven Lives - 08 [720p].mkv
 !new/[HorribleSubs] Bleach - 316 [720p].mkv
+!new/[HorribleSubs] Bleach - 337 [720p].mkv
+!new/[HorribleSubs] Bleach - 338 [720p].mkv
+!new/[HorribleSubs] Cardfight!! Vanguard - 34 [720p].mkv
+!new/[HorribleSubs] Fairy Tail - 95 [720p].mkv
+!new/[HorribleSubs] Kamisama Dolls - 09 [720p].mkv
+!new/[HorribleSubs] Kamisama Dolls - 10 [720p].mkv
+!new/[HorribleSubs] Moritasan wa Mukuchi - 10 [720p].mkv
+!new/[HorribleSubs] Naruto Shippuuden - 227 [720p].mkv
 !new/[HorribleSubs] Nekogami Yaoyorozu - 08 [720p].mkv
+!new/[HorribleSubs] Nekogami Yaoyorozu - 09 [720p].mkv
+!new/[HorribleSubs] No. 6 - 09 [720p].mkv
+!new/[HorribleSubs] No. 6 - 10 [720p].mkv
+!new/[HorribleSubs] R-15 - 08 [720p].mkv
+!new/[HorribleSubs] SKET Dance - 23 [720p].mkv
+!new/[HorribleSubs] Steins;Gate - 22 [720p].mkv
 !new/[HorribleSubs] Twin Angel - Twinkle Paradise - 08 [720p].mkv
+!new/[HorribleSubs] Usagi Drop - 09 [720p].mkv
 !new/[HorribleSubs] YuruYuri - 09 [720p].mkv
 !new/[IB] Ikoku Meiro no Croisée - 09 [720p] [A621D866].mkv
+!new/[IB] Ikoku Meiro no Croisée - 10 [720p] [8bit] [1DEEE07B].mkv
+!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - OVA [1280x720 H264 OGG] [0CB98EEA].mkv
+!new/[Licca] Happy Kappi Episode 21 (h.264) [F7675D38].mkv
+!new/[Licca] Pollyanna Episode 38 (h.264) [39FCE375].mkv
+!new/[Live-eviL]_Captain_Harlock_SSX_(TV)_-_11_[BC86F75E].avi
+!new/[Live-eviL]_Captain_Harlock_SSX_(TV)_-_12_[4E4821F8].avi
+!new/[Midnight-Sons] Blade - 10 [04D087E6].mkv
 !new/[Nipponsei] Beelzebub ED3 Single - Nanairo Namida [Tomato n' Pine].zip
 !new/[Nipponsei] C Original Soundtrack.zip
+!new/[Nipponsei] Hayate no Gotoku! Heaven is a Place on Earth Insert Song Single - Invisible Message [ELISA].zip
+!new/[Nipponsei] Hayate no Gotoku! Heaven is a Place on Earth OP Single - Bokura, Kake Yuku Sora he [Suirenji Ruka].zip
 !new/[Nipponsei] Nichijou BGM & Radio Bangumi 3.zip
+!new/[Nipponsei] Nyanpire OP Single - Nyanpire Taisou [Asou Nyasuko & Nyadain].zip
 !new/[Ryuumaru]_Hoshizora_e_Kakaru_Hashi_-_10_[720p][2C5F35AB].mkv
+!new/[Ryuumaru]_Hoshizora_e_Kakaru_Hashi_-_11_[720p][C08E16B0].mkv
 !new/[SubDESU] Manyuu Hikenchou - 07 ~DC~ (1280x720) [9633788F].mkv
+!new/[SubDESU] Manyuu Hikenchou - 08 ~DC~ (1280x720) [4FF40F2D].mkv
 !new/[SubDesu] Seikon no Qwaser II BD 01 (1280x720) [04404ABE].mkv
 !new/[SubDesu] Seikon no Qwaser II BD 02 (1280x720) [3CA49482].mkv
 !new/[SubDesu] Seikon no Qwaser II BD 03 (1280x720) [CDE3E075].mkv
@@ -808,6 +949,7 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[UTW]_Carnival_Phantasm_-_03_[BD][h264-1080p_FLAC][5B861A35].mkv
+!new/[yibis]_One_Piece_512_[720p][2AC9BF21].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
