@@ -1606,11 +1606,103 @@
 !new/sync/Mnemosyne/[Elysium] Mnemosyne - 4 [720p BD][47ADB435].mkv
 !new/sync/Mnemosyne/[Elysium] Mnemosyne - 5 [720p BD][0E820227].mkv
 !new/sync/Mnemosyne/[Elysium] Mnemosyne - 6 [End][720p BD][9E1C25CE].mkv
-!new/sync/Ookami-san/.[ANE] Ookami-san - 05 [1080p BD][D497BFC9].mkv.vUXaCE
 !new/sync/Ookami-san/[ANE] Ookami-san - 01 [1080p BD][DCBDCFAA].mkv
 !new/sync/Ookami-san/[ANE] Ookami-san - 02 [1080p BD][87099FF2].mkv
 !new/sync/Ookami-san/[ANE] Ookami-san - 03 [1080p BD][A3360E0A].mkv
 !new/sync/Ookami-san/[ANE] Ookami-san - 04 [1080p BD][B385DD41].mkv
+!new/sync/Ookami-san/[ANE] Ookami-san - 05 [1080p BD][D497BFC9].mkv
+!new/sync/Ookami-san/[ANE] Ookami-san - 06 [1080p BD][F43DE36B].mkv
+!new/sync/Ookami-san/[ANE] Ookami-san - 07 [1080p BD][D7F4DB76].mkv
+!new/sync/Ookami-san/[ANE] Ookami-san - 08 [1080p BD][3F6CD98F].mkv
+!new/sync/Ookami-san/[ANE] Ookami-san - 09 [1080p BD][B6DA8DD0].mkv
+!new/sync/Ookami-san/[ANE] Ookami-san - 10 [1080p BD][46853347].mkv
+!new/sync/Ookami-san/[ANE] Ookami-san - 11 [1080p BD][634B5A73].mkv
+!new/sync/Ookami-san/[ANE] Ookami-san - 12 [End][1080p BD][B0E436DB].mkv
+!new/sync/Ookami-san/[ANE] Ookami-san - Ending (Clean) [1080p BD][E99EB16B].mkv
+!new/sync/Ookami-san/[ANE] Ookami-san - Opening (Clean) [1080p BD][DFE905A3].mkv
+!new/sync/Shukufuku no Campanella/.[Doki] Shukufuku no Campanella - 11 [1080p BD][80D2D80A].mkv.oyEHJe
+!new/sync/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - 01 [1080p BD][BA0FD409].mkv
+!new/sync/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - 02 [1080p BD][68B2489E].mkv
+!new/sync/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - 03 [1080p BD][0540623E].mkv
+!new/sync/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - 04 [1080p BD][546E9B30].mkv
+!new/sync/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - 05 [1080p BD][A20C9805].mkv
+!new/sync/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - 06 [1080p BD][1F9EFC87].mkv
+!new/sync/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - 07 [1080p BD][AA7EAB87].mkv
+!new/sync/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - 08 [1080p BD][EFBB4ACA].mkv
+!new/sync/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - 09 [1080p BD][82DEC860].mkv
+!new/sync/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - 10 [1080p BD][59217B51].mkv
+!new/sync/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - 11 [1080p BD][80D2D80A].mkv
+!new/sync/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - 12 [End][1080p BD][C9ABC020].mkv
+!new/sync/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - Ending (Clean) [1080p BD][D0876BB8].mkv
+!new/sync/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - Issho ni Bath Time - Agnes version 2D [1080p BD][9D1D73BD].mkv
+!new/sync/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - Issho ni Bath Time - Agnes version 3D [1080p BD][31442D8C].mkv
+!new/sync/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - Issho ni Bath Time - All together version 2D [1080p BD][F441AF23].mkv
+!new/sync/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - Issho ni Bath Time - All together version 3D [1080p BD][89732D5F].mkv
+!new/sync/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - Issho ni Bath Time - Carina version 2D [1080p BD][1561340F].mkv
+!new/sync/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - Issho ni Bath Time - Carina version 3D [1080p BD][F7E3FFDD].mkv
+!new/sync/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - Issho ni Bath Time - Chelsea version 2D [1080p BD][A7B1A841].mkv
+!new/sync/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - Issho ni Bath Time - Chelsea version 3D [1080p BD][88D6A19B].mkv
+!new/sync/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - Issho ni Bath Time - Minette version 2D [1080p BD][82B72082].mkv
+!new/sync/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - Issho ni Bath Time - Minette version 3D [1080p BD][D58A29C1].mkv
+!new/sync/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - Issho ni Bath Time - Ritos & Salsa version 2D [1080p BD][40E8B573].mkv
+!new/sync/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - Issho ni Bath Time - Ritos & Salsa version 3D [1080p BD][1D4BC2D2].mkv
+!new/sync/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - Opening 1 (Clean) [1080p BD][BE6E2265].mkv
+!new/sync/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - Opening 2 (Clean) [1080p BD][27DFC960].mkv
+!new/sync/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - Opening 3 (Clean) [1080p BD][E139AF88].mkv
+!new/sync/Strike Witches 2/[Coalgirls] Strike Witches 2 - 01 [1080p BD][E79D3DE2].mkv
+!new/sync/Strike Witches 2/[Coalgirls] Strike Witches 2 - 02 [1080p BD][205276B6].mkv
+!new/sync/Strike Witches 2/[Coalgirls] Strike Witches 2 - 03 [1080p BD][C8B9C18D].mkv
+!new/sync/Strike Witches 2/[Coalgirls] Strike Witches 2 - 04 [1080p BD][9EB538C7].mkv
+!new/sync/Strike Witches 2/[Coalgirls] Strike Witches 2 - 05 [1080p BD][64C7FC73].mkv
+!new/sync/Strike Witches 2/[Coalgirls] Strike Witches 2 - 06 [1080p BD][541932C3].mkv
+!new/sync/Strike Witches 2/[Coalgirls] Strike Witches 2 - 07 [1080p BD][775C11E3].mkv
+!new/sync/Strike Witches 2/[Coalgirls] Strike Witches 2 - 08 [1080p BD][0EF63AC4].mkv
+!new/sync/Strike Witches 2/[Coalgirls] Strike Witches 2 - 09 [1080p BD][B47BE7E5].mkv
+!new/sync/Strike Witches 2/[Coalgirls] Strike Witches 2 - 10 [1080p BD][E6BD82DF].mkv
+!new/sync/Strike Witches 2/[Coalgirls] Strike Witches 2 - 11 [1080p BD][F2C4D0BA].mkv
+!new/sync/Strike Witches 2/[Coalgirls] Strike Witches 2 - 12 [End][1080p BD][5968DE2B].mkv
+!new/sync/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 01 [1080p BD][7AE9D576].mkv
+!new/sync/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 02 [1080p BD][9B1D8762].mkv
+!new/sync/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 03 [1080p BD][8622D494].mkv
+!new/sync/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 04 [1080p BD][72397150].mkv
+!new/sync/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 05 [1080p BD][4C586C06].mkv
+!new/sync/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 06 [1080p BD][3C73CE48].mkv
+!new/sync/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 07 [1080p BD][4AE7A756].mkv
+!new/sync/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 08 [1080p BD][EDDD08AC].mkv
+!new/sync/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 09 [1080p BD][DE39EDD9].mkv
+!new/sync/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 10 [1080p BD][7758E8E5].mkv
+!new/sync/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 11 [1080p BD][46548C75].mkv
+!new/sync/Strike Witches 2/[Coalgirls] Strike Witches 2 - Ending 12 [1080p BD][F1799456].mkv
+!new/sync/Strike Witches 2/[Coalgirls] Strike Witches 2 - Opening 1 [1080p BD][CA1B61BB].mkv
+!new/sync/Strike Witches 2/[Coalgirls] Strike Witches 2 - Opening 2 [1080p BD][2AE1E893].mkv
+!new/sync/Today in Class 5-2 TV/[ANE] Today in Class 5-2 TV - 01 [576p DVD][73D15CA2].mkv
+!new/sync/Today in Class 5-2 TV/[ANE] Today in Class 5-2 TV - 02 [576p DVD][B266425C].mkv
+!new/sync/Today in Class 5-2 TV/[ANE] Today in Class 5-2 TV - 03 [576p DVD][4FEEB353].mkv
+!new/sync/Today in Class 5-2 TV/[ANE] Today in Class 5-2 TV - 04 [576p DVD][C6DD130B].mkv
+!new/sync/Today in Class 5-2 TV/[ANE] Today in Class 5-2 TV - 05 [576p DVD][73230EAB].mkv
+!new/sync/Today in Class 5-2 TV/[ANE] Today in Class 5-2 TV - 06 [576p DVD][73B5C3FD].mkv
+!new/sync/Today in Class 5-2 TV/[ANE] Today in Class 5-2 TV - 07 [576p DVD][F53D48D9].mkv
+!new/sync/Today in Class 5-2 TV/[ANE] Today in Class 5-2 TV - 08 [576p DVD][A0CB10BA].mkv
+!new/sync/Today in Class 5-2 TV/[ANE] Today in Class 5-2 TV - 09 [576p DVD][6B3B9588].mkv
+!new/sync/Today in Class 5-2 TV/[ANE] Today in Class 5-2 TV - 10 [576p DVD][BA38F542].mkv
+!new/sync/Today in Class 5-2 TV/[ANE] Today in Class 5-2 TV - 11 [576p DVD][AF47DED9].mkv
+!new/sync/Today in Class 5-2 TV/[ANE] Today in Class 5-2 TV - 12 [576p DVD][BC848869].mkv
+!new/sync/Today in Class 5-2 TV/[ANE] Today in Class 5-2 TV - 13 [End][576p DVD][3CFAADE4].mkv
+!new/sync/Today in Class 5-2 TV/[ANE] Today in Class 5-2 TV - Endings (Clean) [576p DVD][DCCD55F2].mkv
+!new/sync/Today in Class 5-2 TV/[ANE] Today in Class 5-2 TV - Opening (Clean) [576p DVD][64284E1B].mkv
+!new/sync/Toshokan Sensou/[Elysium] Toshokan Sensou - 01 [v3 720p BD][FE1BDD28].mkv
+!new/sync/Toshokan Sensou/[Elysium] Toshokan Sensou - 02 [v3 720p BD][ED4CF16C].mkv
+!new/sync/Toshokan Sensou/[Elysium] Toshokan Sensou - 03 [v3 720p BD][FC267519].mkv
+!new/sync/Toshokan Sensou/[Elysium] Toshokan Sensou - 04 [v3 720p BD][7959AEFF].mkv
+!new/sync/Toshokan Sensou/[Elysium] Toshokan Sensou - 05 [v3 720p BD][BD63D3B8].mkv
+!new/sync/Toshokan Sensou/[Elysium] Toshokan Sensou - 06 [v3 720p BD][942FBE5E].mkv
+!new/sync/Toshokan Sensou/[Elysium] Toshokan Sensou - 07 [v3 720p BD][0CE7A642].mkv
+!new/sync/Toshokan Sensou/[Elysium] Toshokan Sensou - 08 [v3 720p BD][D0443C2B].mkv
+!new/sync/Toshokan Sensou/[Elysium] Toshokan Sensou - 09 [v3 720p BD][2AD1B49A].mkv
+!new/sync/Toshokan Sensou/[Elysium] Toshokan Sensou - 10 [v3 720p BD][785DF1AC].mkv
+!new/sync/Toshokan Sensou/[Elysium] Toshokan Sensou - 11 [v3 720p BD][0BACF6BC].mkv
+!new/sync/Toshokan Sensou/[Elysium] Toshokan Sensou - 12 [End][v3 720p BD][66108B82].mkv
+!new/sync/Toshokan Sensou/[Elysium] Toshokan Sensou - Special 1 [v3 720p BD][6FC8E245].mkv
 !new/utena movie/cor.extras.revolutionary.girl.utena.the.adolescence.of.utena.behind.the.scenes.with.kunihiko.ikuhara.[339E76B5].mkv
 !new/utena movie/cor.extras.revolutionary.girl.utena.the.adolescence.of.utena.fan.tribute.contest.[D4A58C07].mkv
 !new/utena movie/cor.extras.revolutionary.girl.utena.the.adolescence.of.utena.hichiro.kobayashi's.art.sketches.[01370CF1].mkv
