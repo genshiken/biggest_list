@@ -210,6 +210,9 @@ extras/Hatsukoi Limited/[Yuurisan-Subs] Hatsukoi Limited - Limited Girl 04 (1280
 extras/Hatsukoi Limited/[Yuurisan-Subs] Hatsukoi Limited - Limited Girl 05 (1280x720) [BD][298D896D].mkv
 extras/Hatsukoi Limited/[Yuurisan-Subs] Hatsukoi Limited - Limited Girl 06 (1280x720) [End][BD][2883A791].mkv
 extras/Hayate no Gotoku - 2nd Season/[Unknown] Hayate no Gotoku - 2nd Season - Hinagiku Special PV [DVD][7AC7FC38].mkv
+extras/Heroman/[Harth] Heroman - EX1 [v2 1080p BD][B3A035D4].mkv
+extras/Heroman/[Harth] Heroman - EX2 [v3 1080p BD][1D79177C].mkv
+extras/Heroman/[Harth] Heroman - EX3 [v2 1080p BD][D0FBACBB].mkv
 extras/Heroman/[Harth] Heroman - Music Video - Boku no Te wa Kimi no Tame ni [1080p BD][56D2A24E].mkv
 extras/Heroman/[Harth] Heroman - Music Video - Calling [1080p BD][C61B60B8].mkv
 extras/Heroman/[Harth] Heroman - Music Video - Joey and Heroman [1080p BD][9ADD5436].mkv
@@ -219,8 +222,12 @@ extras/I''s Pure/[C1] I''S Pure Bonus - 2 [0123CDD8].avi
 extras/I''s Pure/[C1] I''S Pure Bonus - 3 [273E35A2].avi
 extras/I''s Pure/[C1] I''S Pure Bonus - 4 [745BD6A2].avi
 extras/I''s Pure/[C1] I''S Pure Bonus - 5 [CC706F7C].avi
-extras/Ichiban Ushiro no Daimaou/[Ryuumaru] Ichiban Ushiro no Daimaou - Special 1 (1280x720) [BD][3CFB75F8].mkv
-extras/Ichiban Ushiro no Daimaou/[Ryuumaru] Ichiban Ushiro no Daimaou - Special 2 (1280x720) [BD][EA6412DA].mkv
+extras/Ichiban Ushiro no Daimaou/[AtsA] Ichiban Ushiro no Daimaou - Special 1 [1080p BD][064B431F].mkv
+extras/Ichiban Ushiro no Daimaou/[AtsA] Ichiban Ushiro no Daimaou - Special 2 [1080p BD][660ADE7A].mkv
+extras/Ichiban Ushiro no Daimaou/[AtsA] Ichiban Ushiro no Daimaou - Special 3 [1080p BD][66419BC8].mkv
+extras/Ichiban Ushiro no Daimaou/[AtsA] Ichiban Ushiro no Daimaou - Special 4 [1080p BD][7AD28CDC].mkv
+extras/Ichiban Ushiro no Daimaou/[AtsA] Ichiban Ushiro no Daimaou - Special 5 [1080p BD][249FCE10].mkv
+extras/Ichiban Ushiro no Daimaou/[AtsA] Ichiban Ushiro no Daimaou - Special 6 [1080p BD][9C1C09E6].mkv
 extras/Ikkitousen Dragon Destiny/[PFSub] Ikkitousen Dragon Destiny - Special 1 [DVD][1E1F012A].mkv
 extras/Ikkitousen Dragon Destiny/[PFSub] Ikkitousen Dragon Destiny - Special 2 [DVD][DC7C969B].mkv
 extras/Ikkitousen Dragon Destiny/[PFSub] Ikkitousen Dragon Destiny - Special 3 [DVD][8BC26915].mkv
@@ -234,6 +241,45 @@ extras/Ikkitousen Great Guardians/[Chihiro] Ikkitousen Great Guardians - Special
 extras/Ikkitousen Great Guardians/[Chihiro] Ikkitousen Great Guardians - Special - 4 [0628AFE8].mkv
 extras/Ikkitousen Great Guardians/[Chihiro] Ikkitousen Great Guardians - Special - 5 [FBE50A6A].mkv
 extras/Ikkitousen Great Guardians/[Chihiro] Ikkitousen Great Guardians - Special - 6 [CBAAF339].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Extra Drama [7849068B].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Picture Drama 1 [5DDE8FF6].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Picture Drama 2 [938F2EF9].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Picture Drama 3 [1270FFBB].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Picture Drama 4 [95F9C964].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Picture Drama 5 [CA4517AA].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Picture Drama 6 [7F3E2763].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Picture Drama 7 [BA90D767].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Picture Drama 8 [5C89B685].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Picture Drama 9 [66B53238].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Promo Clip [E13B4ADD].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Ryvius Illusion 1 - Mini Episode 1 [40C5F4E9].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Ryvius Illusion 1 - Mini Episode 2 [6F1123CA].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Ryvius Illusion 1 - Mini Episode 3 [B38D230A].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Ryvius Illusion 1 - Mini Episode 4 [A492F92D].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Ryvius Illusion 2 - Mini Episode 1 [6B3E1E1B].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Ryvius Illusion 2 - Mini Episode 2 [DA571753].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Ryvius Illusion 2 - Mini Episode 3 [7A572A6D].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Ryvius Illusion 2 - Mini Episode 4 [89729BBB].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Ryvius Illusion 3 - Mini Episode 1 [10FB1D86].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Ryvius Illusion 3 - Mini Episode 2 [9A8D9599].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Ryvius Illusion 3 - Mini Episode 3 [3CFF9756].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Ryvius Illusion 3 - Mini Episode 4 [CC2E2339].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Ryvius Illusion 4 - Mini Episode 1 [5CC02B24].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Ryvius Illusion 4 - Mini Episode 2 [4EC50D59].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Ryvius Illusion 4 - Mini Episode 3 [7C97D2C3].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Ryvius Illusion 4 - Mini Episode 4 [382850B2].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Ryvius Illusion 5 - Mini Episode 1 [7503F103].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Ryvius Illusion 5 - Mini Episode 2 [91D9E592].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Ryvius Illusion 5 - Mini Episode 3 [97F2560B].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Ryvius Illusion 5 - Mini Episode 4 [8C39F95F].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Ryvius Illusion 6 - Mini Episode 1 [0789FC96].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Ryvius Illusion 6 - Mini Episode 2 [95A66A98].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Ryvius Illusion 6 - Mini Episode 3 [9E1A718C].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Ryvius Illusion 6 - Mini Episode 4 [1ECF8332].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Ryvius Illusion 6 - Mini Episode 5 [A93D334F].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Ryvius Illusion 6 - Mini Episode 6 [4832C61E].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Ryvius VJ Mix 1 [BCB2A860].mkv
+extras/Infinite Ryvius/[cor] Infinite Ryvius - Ryvius VJ Mix 2 [EDF9798E].mkv
 extras/Iriya no Sora UFO no Natsu/[Ayu] Iriya no Sora UFO no Natsu - Promo [A571992A].avi
 extras/Jubei-chan 2/[CitadelofTheRaven] Jubei-chan 2 - Alternate Trailer Endings [4B0A3A95].mkv
 extras/Jubei-chan 2/[CitadelofTheRaven] Jubei-chan 2 - Ending 1 [NC][C782745D].mkv
@@ -359,6 +405,9 @@ extras/Maria-sama ga Miteru/[Ayu] Maria-sama ga Miteru - Special 4 [6319F140].av
 extras/Maria-sama ga Miteru/[Ayu] Maria-sama ga Miteru - Special 5 [9D4DCA2D].avi
 extras/Maria-sama ga Miteru/[Ayu] Maria-sama ga Miteru - Special 6 [14CBE42F].avi
 extras/Maria-sama ga Miteru/[Ayu] Maria-sama ga Miteru - Special 7 [4118E412].avi
+extras/Mayoi Neko Overrun!/[AtsA] Mayoi Neko Overrun! - Theater 1 [1080p BD][1782F05F].mkv
+extras/Mayoi Neko Overrun!/[AtsA] Mayoi Neko Overrun! - Theater 2 [1080p BD][B8AD09F1].mkv
+extras/Mayoi Neko Overrun!/[AtsA] Mayoi Neko Overrun! - Theater 3 [v2 1080p BD][AFB89811].mkv
 extras/Memories Off #5/[yu] Memories Off #5 - Asuka PV [DVD][F086FDFA].mkv
 extras/Memories Off #5/[yu] Memories Off #5 - Haruto PV [DVD][8BAC8DCE].mkv
 extras/Memories Off #5/[yu] Memories Off #5 - Kazuki PV [DVD][6A585E0F].mkv
@@ -484,6 +533,21 @@ extras/Sailor Moon R/[SMC] Sailor Moon R - Trailers 30-34 [38190A73].mkv
 extras/Sailor Moon R/[SMC] Sailor Moon R - Trailers 35-39 [C348BB19].mkv
 extras/Sailor Moon R/[SMC] Sailor Moon R - Trailers 40-43 [E9773B72].mkv
 extras/School Rumble/[WF] School Rumble - 27 [83EC0104].avi
+extras/Seikon no Qwaser/[Doki] Seikon no Qwaser - Picture Drama 01 [720p BD][8D6DC56F].mkv
+extras/Seikon no Qwaser/[Doki] Seikon no Qwaser - Picture Drama 02 [720p BD][0DB3FA16].mkv
+extras/Seikon no Qwaser/[Doki] Seikon no Qwaser - Picture Drama 03 [720p BD][DBFDBFD7].mkv
+extras/Seikon no Qwaser/[Doki] Seikon no Qwaser - Picture Drama 04 [720p BD][E68796AD].mkv
+extras/Seikon no Qwaser/[Doki] Seikon no Qwaser - Picture Drama 05 [720p BD][A7240D57].mkv
+extras/Seikon no Qwaser/[Doki] Seikon no Qwaser - Picture Drama 06 [720p BD][8245A312].mkv
+extras/Seikon no Qwaser/[Doki] Seikon no Qwaser - Picture Drama 07 [720p BD][9AEDF0DA].mkv
+extras/Seikon no Qwaser/[Doki] Seikon no Qwaser - Picture Drama 08 [720p BD][BD5E25CB].mkv
+extras/Seikon no Qwaser/[Doki] Seikon no Qwaser - Picture Drama 09 [720p BD][2CC81E71].mkv
+extras/Seikon no Qwaser/[Doki] Seikon no Qwaser - Picture Drama 10 [720p BD][FE4D0704].mkv
+extras/Seikon no Qwaser/[Doki] Seikon no Qwaser - Picture Drama 11 [720p BD][D0735BA5].mkv
+extras/Seikon no Qwaser/[Doki] Seikon no Qwaser - Picture Drama 12 [720p BD][0A95A59C].mkv
+extras/Seikon no Qwaser/[Doki] Seikon no Qwaser - Picture Drama 13 [720p BD][BE3A23E0].mkv
+extras/Seikon no Qwaser/[Doki] Seikon no Qwaser - Picture Drama 14 [720p BD][62E5BC80].mkv
+extras/Seikon no Qwaser/[Doki] Seikon no Qwaser - Picture Drama 15 [720p BD][C6DBA283].mkv
 extras/Seikon no Qwaser/[Kira-Fansub] Seikon no Qwaser - EX Music Video [1080p BD][00354880].mkv
 extras/Shakugan no Shana S OVA/[SS-Eclipse] Shakugan no Shanatan Dos (1280x720) [CECF1CA0].mkv
 extras/Shakugan no Shana S OVA/[SS-Eclipse] Shakugan no Shanatan Frontier [720p][EBAB2391].mkv
@@ -494,6 +558,18 @@ extras/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shanatan Revenge [DVD][
 extras/Shakugan no Shana Second/[SS-Eclipse] Shanatan Begins [2420B6F1].mkv
 extras/Shakugan no Shana/[SS-Eclipse] Shakugan no Shanatan The Movie [49753C25].mkv
 extras/Shikabane Hime Kuro/[DmonHiro] Shikabane Hime Kuro - Omake [0033903B].mkv
+extras/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - Issho ni Bath Time - Agnes version 2D [1080p BD][9D1D73BD].mkv
+extras/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - Issho ni Bath Time - Agnes version 3D [1080p BD][31442D8C].mkv
+extras/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - Issho ni Bath Time - All together version 2D [1080p BD][F441AF23].mkv
+extras/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - Issho ni Bath Time - All together version 3D [1080p BD][89732D5F].mkv
+extras/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - Issho ni Bath Time - Carina version 2D [1080p BD][1561340F].mkv
+extras/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - Issho ni Bath Time - Carina version 3D [1080p BD][F7E3FFDD].mkv
+extras/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - Issho ni Bath Time - Chelsea version 2D [1080p BD][A7B1A841].mkv
+extras/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - Issho ni Bath Time - Chelsea version 3D [1080p BD][88D6A19B].mkv
+extras/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - Issho ni Bath Time - Minette version 2D [1080p BD][82B72082].mkv
+extras/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - Issho ni Bath Time - Minette version 3D [1080p BD][D58A29C1].mkv
+extras/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - Issho ni Bath Time - Ritos & Salsa version 2D [1080p BD][40E8B573].mkv
+extras/Shukufuku no Campanella/[Doki] Shukufuku no Campanella - Issho ni Bath Time - Ritos & Salsa version 3D [1080p BD][1D4BC2D2].mkv
 extras/Shukufuku no Campanella/[Kira-Fansub] Shukufuku no Campanella - Issho ni Bath Time - Chelsea version - 2D ver [1080p BD][FF5BFE01].mkv
 extras/Shukufuku no Campanella/[Kira-Fansub] Shukufuku no Campanella - Issho ni Bath Time - Chelsea version - 3D ver [1080p BD][5B162F33].mkv
 extras/Sky Girls/[Ayako] Sky Girls - DVD Special 1 [51F95476].mkv
@@ -592,9 +668,6 @@ extras/Yoku Wakaru Gendai Mahou/[DmonHiro] Yoku Wakaru Gendai Mahou - 00 [736ACF
 extras/Yu Yu Hakusho/[Mamiko] Yu Yu Hakusho - Picture Drama (1280x720) [C752F659].mkv
 extras/Zero no Tsukaima/[Harth] Zero no Tsukaima Character CD1 - Louise and Saito Mini-Drama - The Magical Collar [C01455D0].mkv
 extras/Zero no Tsukaima/[Harth] Zero no Tsukaima Character CD2 - Guiche and Montmorency Mini-Drama - The Forbidden Nostrum [713A947C].mkv
-extras/[Harth] Heroman - EX1 [v2 1080p BD][B3A035D4].mkv
-extras/[Harth] Heroman - EX2 [v3 1080p BD][1D79177C].mkv
-extras/[Harth] Heroman - EX3 [v2 1080p BD][D0FBACBB].mkv
 extras/ef - a tale of melodies/[AQS-Anime] ef - a tale of melodies - Prologue [8B8B0D39].mkv
 extras/ef - a tale of melodies/[Seto Otaku] ef - a tale of melodies - Blu-Ray Box Scan Disc - 01 [9690B558].zip
 extras/ef - a tale of memories/[niizk] ef - a tale of memories - Prologue [DVD][4C3CE81F].mkv
