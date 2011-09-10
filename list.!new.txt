@@ -57,8 +57,6 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
-!new/Detective Conan - 627 [DCTP][720p][6C138F92].mp4
-!new/Detective Conan - 628 [DCTP][720p][4B87B137].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -83,187 +81,7 @@
 !new/Dragon Ball/Movie - 06 - Return Of Cooler.rmvb
 !new/Dragon Ball/Movie - 08 - Broly The Legendary Super Saiyan.rmvb
 !new/Dragon Ball/Movie - 09 - Bojack Unbound.rmvb
-!new/Ga-Rei Zero/[Coalgirls] Ga-Rei Zero - 01 [720p BD][0F7BC43D].mkv
-!new/Ga-Rei Zero/[Coalgirls] Ga-Rei Zero - 02 [720p BD][2353BE86].mkv
-!new/Ga-Rei Zero/[Coalgirls] Ga-Rei Zero - 03 [720p BD][67553693].mkv
-!new/Ga-Rei Zero/[Coalgirls] Ga-Rei Zero - 04 [720p BD][357C3F44].mkv
-!new/Ga-Rei Zero/[Coalgirls] Ga-Rei Zero - 05 [720p BD][594C1AAF].mkv
-!new/Ga-Rei Zero/[Coalgirls] Ga-Rei Zero - 06 [720p BD][C0B9EAAF].mkv
-!new/Ga-Rei Zero/[Coalgirls] Ga-Rei Zero - 07 [720p BD][12DD82AC].mkv
-!new/Ga-Rei Zero/[Coalgirls] Ga-Rei Zero - 08 [720p BD][8AA522B5].mkv
 !new/Getter Robo Armageddon (Incomplete)/[ASS] Getter Robo Armageddon - 01 - From_beyond_the_grave_.avi
-!new/Ichiban_Ushiro_no_Daimaou_-_01_[BD_1080p][AtsA][088ECEBB].mkv
-!new/Ichiban_Ushiro_no_Daimaou_-_02_[BD_1080p][AtsA][50CE955C].mkv
-!new/Ichiban_Ushiro_no_Daimaou_-_03_[BD_1080p][AtsA][2C432561].mkv
-!new/Ichiban_Ushiro_no_Daimaou_-_04_[BD_1080p][AtsA][2E7C1C4E].mkv
-!new/Ichiban_Ushiro_no_Daimaou_-_05_[BD_1080p][AtsA][9DF65C18].mkv
-!new/Ichiban_Ushiro_no_Daimaou_-_06_[BD_1080p][AtsA][5A859E54].mkv
-!new/Ichiban_Ushiro_no_Daimaou_-_07_[BD_1080p][AtsA][E99A014C].mkv
-!new/Ichiban_Ushiro_no_Daimaou_-_08_[BD_1080p][AtsA][FDE1F75B].mkv
-!new/Ichiban_Ushiro_no_Daimaou_-_09_[BD_1080p][AtsA][95432BEE].mkv
-!new/Ichiban_Ushiro_no_Daimaou_-_10_[BD_1080p][AtsA][86D94D43].mkv
-!new/Ichiban_Ushiro_no_Daimaou_-_11_[BD_1080p][AtsA][F894D6AE].mkv
-!new/Ichiban_Ushiro_no_Daimaou_-_12_[BD_1080p][AtsA][3A3B4BF6].mkv
-!new/Ichiban_Ushiro_no_Daimaou_-_ED_Clean_[BD_1080p][AtsA][F68ADF97].mkv
-!new/Ichiban_Ushiro_no_Daimaou_-_OP_Clean_[BD_1080p][AtsA][8489E6FD].mkv
-!new/Ichiban_Ushiro_no_Daimaou_-_SP1_[BD_1080p][AtsA][064B431F].mkv
-!new/Ichiban_Ushiro_no_Daimaou_-_SP2_[BD_1080p][AtsA][660ADE7A].mkv
-!new/Ichiban_Ushiro_no_Daimaou_-_SP3_[BD_1080p][AtsA][66419BC8].mkv
-!new/Ichiban_Ushiro_no_Daimaou_-_SP4_[BD_1080p][AtsA][7AD28CDC].mkv
-!new/Ichiban_Ushiro_no_Daimaou_-_SP5_[BD_1080p][AtsA][249FCE10].mkv
-!new/Ichiban_Ushiro_no_Daimaou_-_SP6_[BD_1080p][AtsA][9C1C09E6].mkv
-!new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 001 [Anime-Empire Aoshi][4C61522D].avi
-!new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 002 [Anime-Empire Aoshi][CFA40ACD].avi
-!new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 003 [Anime-Empire Aoshi][192A196A].avi
-!new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 004 [Anime-Empire Aoshi][E9D6E628].avi
-!new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 005 [Anime-Empire Aoshi][BB4E426B].avi
-!new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 006 [Anime-Empire Aoshi][435BDD85].avi
-!new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 007 [Anime-Empire Aoshi][CE67733B].avi
-!new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 008 [Anime-Empire Aoshi][1E36272B].avi
-!new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 009 [Anime-Empire Aoshi][B0619A74].avi
-!new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 010 [Anime-Empire Aoshi][75CBCE9A].avi
-!new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 011 [Anime-Empire Aoshi][A8BF2B78].avi
-!new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 012 [Anime-Empire Aoshi][7A22ED0B].avi
-!new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 013 [Anime-Empire Aoshi][00484624].avi
-!new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 014 [Anime-Empire Aoshi][B06E5595].avi
-!new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 015 [Anime-Empire Aoshi][D718C876].avi
-!new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 016 [Anime-Empire Aoshi][E1FFFC62].avi
-!new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 017 [Anime-Empire Aoshi][3C28D1BD].avi
-!new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 018 [Anime-Empire][86909D91].avi
-!new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 019 [Anime-Empire][5D460C09].avi
-!new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 020 [Anime-Empire][865F9DE6].avi
-!new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 021 [Anime-Empire][92BCDF46].avi
-!new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 022 [Anime-Empire][765FFE33].avi
-!new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 023 [Anime-Empire][80342E6F].avi
-!new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 024 [Anime-Empire][798DE9D1].avi
-!new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 025 [Anime-Empire][96ADEB75].avi
-!new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 026 [Anime-Empire][5EF3816F].avi
-!new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 027 [Anime-Empire][67960B19].avi
-!new/Konjiki no Gash Bell/Konjiki no Gash Bell!! - 028 [Anime-Empire][78094EA3].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_01_[Anime-Empire_&_Aoshi].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_02_[Anime-Empire_&_Aoshi].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_03_[Anime-Empire_&_Aoshi].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_04_[Anime-Empire_&_Aoshi].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_05_[Anime-Empire_&_Aoshi].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_06_[Anime-Empire_&_Aoshi].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_07_[Anime-Empire_&_Aoshi].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_08_[Anime-Empire_&_Aoshi].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_09_[Anime-Empire_&_Aoshi].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_10_[Anime-Empire_&_Aoshi].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_11_[Anime-Empire_&_Aoshi].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_12_[Anime-Empire_&_Aoshi].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_13_[Anime-Empire_&_Aoshi].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_14_[Anime-Empire_&_Aoshi].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_15_[Anime-Empire_&_Aoshi].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_16_[Anime-Empire_&_Aoshi].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_17_[Anime-Empire_&_Aoshi].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_18_[Anime-Empire].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_19_[Anime-Empire].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_20_[Anime-Empire].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_21_[Anime-Empire].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_22_[Anime-Empire].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_23_[Anime-Empire].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_24_[Anime-Empire].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_25_[Anime-Empire].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_26_[Anime-Empire].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_27_[Anime-Empire].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_28_[Anime-Empire].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_29_[Anime-Empire].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_30_[Anime-Empire].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_31_[Anime-Empire].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_32_[Anime-Empire].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_33_[Anime-Empire].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_34_[Vulcan300].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_35_[Vulcan300].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_36_[Vulcan300].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_37_[Vulcan300].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_38_[Vulcan300].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_39_[Vulcan300].avi
-!new/Konjiki no Gash Bell/Konjiki_no_Gash_Bell!!_40_[Vulcan300].avi
-!new/Konjiki no Gash Bell/[A-Dest&V300]_Konjiki_no_Gash_Bell_-_41_[1343CAB3].avi
-!new/Konjiki no Gash Bell/[A-Dest&V300]_Konjiki_no_Gash_Bell_-_42_[1453EF8A].avi
-!new/Konjiki no Gash Bell/[A-Dest&V300]_Konjiki_no_Gash_Bell_-_43_[84B55479].avi
-!new/Konjiki no Gash Bell/[A-Dest&V300]_Konjiki_no_Gash_Bell_-_44_[5B378223].avi
-!new/Konjiki no Gash Bell/[A-Destiny&BZN]_Konjiki_no_Gash_Bell_-_85_[D52DA498].mp4
-!new/Konjiki no Gash Bell/[A-Destiny&BZN]_Konjiki_no_Gash_Bell_-_86_[7FFAB930].mp4
-!new/Konjiki no Gash Bell/[A-Destiny&BZN]_Konjiki_no_Gash_Bell_-_87_[97704F47].mp4
-!new/Konjiki no Gash Bell/[A-Destiny&BZN]_Konjiki_no_Gash_Bell_-_88_[90D21647].mp4
-!new/Konjiki no Gash Bell/[A-Destiny&BZN]_Konjiki_no_Gash_Bell_-_89_[71CD1F8B].mp4
-!new/Konjiki no Gash Bell/[A-Destiny&BZN]_Konjiki_no_Gash_Bell_-_90_[509A7632].mp4
-!new/Konjiki no Gash Bell/[A-Destiny&Jinchuuriki]_Konjiki_no_Gash_Bell_-_74_[8D285942].mp4
-!new/Konjiki no Gash Bell/[A-Destiny&Jinchuuriki]_Konjiki_no_Gash_Bell_-_75_[27D73257].mp4
-!new/Konjiki no Gash Bell/[A-Destiny&Jinchuuriki]_Konjiki_no_Gash_Bell_-_76_[A4468DDA].mp4
-!new/Konjiki no Gash Bell/[A-Destiny&Jinchuuriki]_Konjiki_no_Gash_Bell_-_77_[80C75B9D].mp4
-!new/Konjiki no Gash Bell/[A-Destiny&Jinchuuriki]_Konjiki_no_Gash_Bell_-_78_[DC6CFE2A].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_100_[0459E43C].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_101_[634DC5BD].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_102_[32EDF342].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_103_[92AD6906].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_104_[22F94431].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_105_[396A17AD].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_106_[4FC12CFE].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_107_[5E82BC83].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_108_[0951D906].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_109_[43537A2A].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_110_[60E34022].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_111_[F07DED75].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_112_[A670C33F].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_113_[08D7EDFA].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_114_[0AECA4CF].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_115_[B8E1E2A7].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_116_[7DD0881C].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_117_[073394C6].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_118_[04D421F9].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_119_[18CE48AF].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_120_[69BBC0E7].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_121_[44CC9F19].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_122_[C7DA5FD7].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_123_[B730DCD8].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_124_[16A6A689].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_125_[27D17A7B].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_126_[A036D50D].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_127_[85A03424].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_128_[CCB11958].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_129_[4AC6CE52].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_130_[AE25DDD3].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_131_[B4456F9A].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_132_[D9AB6CF7].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_133_[A5EE4559].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_134_[52F3ACA5].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_135_[164A62A5].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_136_[E2490301].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_137_[33A2A3E7].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_138_[559BFEED].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_139_[58C3B87F].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_140_[49FE32B9].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_141_[921B6C15].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_142_[3FF62A9C].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_143_[89EB68A7].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_144_[AC22C865].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_145_[ED6C1FEB].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_146_[E021CCF6].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_147_[BAB492BC].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_148_[33F188DC].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_149_[80A1924B].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_150_[664D03BC].mp4
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_45_[FB40595D].avi
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_46_[65FC044A].avi
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_47_[1847F21D].avi
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_48_[527FB14D].avi
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_49_[B19B9C18].avi
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_50_[EE6DC0C4].avi
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_51_[1C49F7A3].avi
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_52_[F64D294B].avi
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_53_[D0F90A96].avi
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_54_[F966E4E1].avi
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_55_[40D76295].avi
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_56_[8B3DCF16].avi
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_57_[B2988891].avi
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_58_[5F1C25E1].avi
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_59_[A0AD5985].avi
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_60_[4722F793].avi
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_61_[134FE65D].avi
-!new/Konjiki no Gash Bell/[A-Destiny]_Konjiki_no_Gash_Bell_-_62_[3269E048].mp4
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].ENG.srt
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].avi
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 01 KTCR-9010/1. kanashimi yo konnichiwa (Saitou Yuki)  [OP]  (Hello! Sadness).mp3
@@ -545,6 +363,7 @@
 !new/Mayoi Neko Overrun!/Mayoi_Neko_Overrun!_10_[BD_1080p][AtsA][D3102548].mkv
 !new/Mayoi Neko Overrun!/Mayoi_Neko_Overrun!_11_[BD_1080p][AtsA][97083C34].mkv
 !new/Mayoi Neko Overrun!/Mayoi_Neko_Overrun!_12_[BD_1080p][AtsA][AF224297].mkv
+!new/Mayoi Neko Overrun!/Mayoi_Neko_Overrun!_13_[HDTV_720p][AtsA][0FC9EB0B].mkv
 !new/Mayoi Neko Overrun!/Mayoi_Neko_Overrun!_ED_Clean_[BD_1080p][AtsA][B424FD80].mkv
 !new/Mayoi Neko Overrun!/Mayoi_Neko_Overrun!_OP_Clean_[BD_1080p][AtsA][273D42D2].mkv
 !new/Mayoi Neko Overrun!/Mayoi_Neko_Overrun!_Theater_1_[BD_1080p][AtsA][1782F05F].mkv
@@ -735,9 +554,6 @@
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].avi
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].idx
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].sub
-!new/School_Rumble_12.DVD(H264_AAC)[KAA-Mokkori][D4DB08CA].mkv
-!new/School_Rumble_13.DVD(H264_AAC)[KAA-Mokkori][28539091].mkv
-!new/School_Rumble_14.DVD(H264_AAC)[KAA-Mokkori][F85FB5BC].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_01v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_02v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_03v2[divx5.1.1].mkv
@@ -837,13 +653,6 @@
 !new/[ASL]_Yamazaki_Haruka_-_Hayate_No_Gotoku_HEAVEN_IS_A_PLACE_ON_EARTH_OP_-_Bokura,_Kakeyuku_Sora_e_[FLAC].rar
 !new/[ASL]_monet_-_Subarashiki_Hibi_Theme_Song_2_-_Naglfar_no_Senjou_nite_[FLAC].rar
 !new/[Aho-Taku] Ro-Kyu-Bu! - 09[720p][7DCEEA41].mkv
-!new/[AonE]_Nyanpire_-_The_Animation_08_[0705D542].mkv
-!new/[AonE]_Nyanpire_-_The_Animation_09_[9EF60C30].mkv
-!new/[Ayako-Himatsubushi]_Working`!!_-_01_[PREAIR][720p][6C8E1687].mkv
-!new/[Ayako]_Ikoku_Meiro_no_Croisée_-_04.5_[H264][400p][B8BCFBA2].mkv
-!new/[Ayako]_Ikoku_Meiro_no_Croisée_-_09_[H264][720p][BFC3533C].mkv
-!new/[Ayako]_Ikoku_Meiro_no_Croisée_-_10_[H264][720p][053542D5].mkv
-!new/[Ayako]_Mayo_Chiki_-_09_[H264][720p][E2D31030].mkv
 !new/[BitchSubs] Prism Ark 01v2 (DVD 704x480 H264 AC3) [88BACE2A].mkv
 !new/[BitchSubs] Prism Ark 02v2 (DVD 704x480 H264 AC3) [6B66B475].mkv
 !new/[BitchSubs] Prism Ark 03v2 (DVD 704x480 H264 AC3) [B4147B1F].mkv
@@ -856,28 +665,6 @@
 !new/[BitchSubs] Prism Ark 10v2 (DVD 704x480 H264 AC3) [60F92A94].mkv
 !new/[BitchSubs] Prism Ark 11 (DVD 704x480 H264 AC3) [FB6707C5].mkv
 !new/[BitchSubs] Prism Ark 12 (DVD 704x480 H264 AC3) [5D4004C2].mkv
-!new/[Coalgirls]_Denpa_Onna_to_Seishun_Otoko_01_(1920x1080_Blu-ray_FLAC)_[4D0C13DE].mkv
-!new/[Coalgirls]_Denpa_Onna_to_Seishun_Otoko_02_(1920x1080_Blu-ray_FLAC)_[F1D86A19].mkv
-!new/[Coalgirls]_Denpa_Onna_to_Seishun_Otoko_03_(1920x1080_Blu-ray_FLAC)_[30EE1516].mkv
-!new/[Coalgirls]_Denpa_Onna_to_Seishun_Otoko_04_(1920x1080_Blu-ray_FLAC)_[BABE111A].mkv
-!new/[Coalgirls]_Denpa_Onna_to_Seishun_Otoko_05_(1920x1080_Blu-ray_FLAC)_[DD786535].mkv
-!new/[Coalgirls]_Denpa_Onna_to_Seishun_Otoko_06_(1920x1080_Blu-ray_FLAC)_[BFD8E29B].mkv
-!new/[Coalgirls]_Denpa_Onna_to_Seishun_Otoko_NCED_(1920x1080_Blu-ray_FLAC)_[5EB340A1].mkv
-!new/[Coalgirls]_Denpa_Onna_to_Seishun_Otoko_NCOP_(1920x1080_Blu-ray_FLAC)_[ECF1F0D9].mkv
-!new/[Coalgirls]_Dragon_Crisis_11_(1280x720_Blu-Ray_FLAC)_[CAD55061].mkv
-!new/[Coalgirls]_Dragon_Crisis_12_(1280x720_Blu-Ray_FLAC)_[E96DC62A].mkv
-!new/[Coalgirls]_Yuru_Yuri_09_(1280x720_H.264_AAC)_[DB55DFF0].mkv
-!new/[Coalgirls]_Yuru_Yuri_10_(1280x720_H.264_AAC)_[AABAB096].mkv
-!new/[Commie] Baka to Test to Shokanju Ni - 09 [3DC346CB].mkv
-!new/[Commie] Busou Shinki Moon Angel - 01 [058F61B2].mkv
-!new/[Commie] Dantalian no Shoka - 08 [45677D6F].mkv
-!new/[Commie] Natsume Yuujinchou San - 09 [23518C72].mkv
-!new/[Commie] Natsume Yuujinchou San - 10 [7C4FC232].mkv
-!new/[Commie] Steins;Gate - 22 [D7B3EE76].mkv
-!new/[Commie] Steins;Gate - 23 [024E9F10].mkv
-!new/[Commie] Tiger & Bunny - 23 [F00BE6F3].mkv
-!new/[Commie] Usagi Drop - 09 [1B7E4943].mkv
-!new/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_24_[3a40bee9].avi
 !new/[Derp]_Itsuka_Tenma_no_Kuro_Usagi_-_08_[1280x720_x264_AAC][D6C786B0].mkv
 !new/[Derp]_Itsuka_Tenma_no_Kuro_Usagi_-_09_[1280x720_x264_AAC][FF4FCE8F].mkv
 !new/[Doki] Seikon no Qwaser - 13 (1280x720 h264 BD FLAC) [A6E36E0F].mkv
@@ -902,94 +689,16 @@
 !new/[Doki] Seikon no Qwaser Picture Drama - 13 (1280x720 h264 BD FLAC) [BE3A23E0].mkv
 !new/[Doki] Seikon no Qwaser Picture Drama - 14 (1280x720 h264 BD FLAC) [62E5BC80].mkv
 !new/[Doki] Seikon no Qwaser Picture Drama - 15 (1280x720 h264 BD FLAC) [C6DBA283].mkv
-!new/[Doremi].Kaiji.S2.Episode.23.[78C5180F].mkv
-!new/[EAC] [110727] marble アニソンカバーミニアルバム「うた種」(flac+cue+jpg).rar
-!new/[EAC]TVアニメ「NO.6」OPテーマ 「Spell」／LAMA(wav+cue+jpg).zip
-!new/[EAC]TVアニメ「神様のメモ帳」EDテーマ 「あすなろ」／鈴村健一(ape+cue+jpg).rar
-!new/[EAC]TVアニメ「神様のメモ帳」EDテーマ 「あすなろ」／鈴村健一(ape+cue+jpg).zip
 !new/[Elysium]To.Aru.Kagaku.no.Railgun.OVA(BD.1080p.FLAC)[A583D950].mkv
 !new/[FBI] Baby Princess 3D Paradise Love 01v0 [BD][1080p-AAC][8EABB153].mkv
-!new/[Fail-15]_R-15_-_09_(1280x720 x264 AAC)_[503AE6EB].mkv
 !new/[GotWoot]_Onii-chan_no_Koto_..._-_13_[Uncut][BDrip_720p][509F759C].mkv
 !new/[Hiryuu] Double-J 09 [1280x720 H264 AAC] [A1BFABAF].mkv
-!new/[HorribleSubs] A Dark Rabbit Has Seven Lives - 08 [720p].mkv
-!new/[HorribleSubs] Beelzebub - 32 [720p].mkv
-!new/[HorribleSubs] Bleach - 316 [720p].mkv
-!new/[HorribleSubs] Bleach - 337 [720p].mkv
-!new/[HorribleSubs] Bleach - 338 [720p].mkv
-!new/[HorribleSubs] Cardfight!! Vanguard - 34 [720p].mkv
-!new/[HorribleSubs] Fairy Tail - 95 [720p].mkv
-!new/[HorribleSubs] Gintama - 224 [720p].mkv
-!new/[HorribleSubs] Hanasaku Iroha - 23 [720p].mkv
-!new/[HorribleSubs] Kamisama Dolls - 09 [720p].mkv
-!new/[HorribleSubs] Kamisama Dolls - 10 [720p].mkv
-!new/[HorribleSubs] Moritasan wa Mukuchi - 10 [720p].mkv
-!new/[HorribleSubs] Naruto Shippuuden - 227 [720p].mkv
-!new/[HorribleSubs] Nekogami Yaoyorozu - 08 [720p].mkv
-!new/[HorribleSubs] Nekogami Yaoyorozu - 09 [720p].mkv
-!new/[HorribleSubs] Nichijou - 23 [720p].mkv
-!new/[HorribleSubs] No. 6 - 09 [720p].mkv
-!new/[HorribleSubs] No. 6 - 10 [720p].mkv
-!new/[HorribleSubs] R-15 - 08 [720p].mkv
-!new/[HorribleSubs] SKET Dance - 23 [720p].mkv
-!new/[HorribleSubs] Steins;Gate - 22 [720p].mkv
-!new/[HorribleSubs] Twin Angel - Twinkle Paradise - 08 [720p].mkv
-!new/[HorribleSubs] Twin Angel - Twinkle Paradise - 09 [720p].mkv
-!new/[HorribleSubs] Usagi Drop - 09 [720p].mkv
-!new/[HorribleSubs] YuruYuri - 09 [720p].mkv
-!new/[IB] Honto ni Atta! Reibai Sensei - 18 [720p] [DF718C16].mkv
-!new/[IB] Honto ni Atta! Reibai Sensei - 19 [720p] [B3182900].mkv
-!new/[IB] Ikoku Meiro no Croisée - 09 [720p] [A621D866].mkv
-!new/[IB] Ikoku Meiro no Croisée - 10 [720p] [8bit] [1DEEE07B].mkv
 !new/[Jumonji-Giri]_[A-Flux]_Tenshi_no_Shippo_Chu_Ep01-03_(865f86c4).mkv
-!new/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - OVA [1280x720 H264 OGG] [0CB98EEA].mkv
-!new/[Licca] Happy Kappi Episode 20 (h.264) [897CAF52].mkv
-!new/[Licca] Happy Kappi Episode 21 (h.264) [F7675D38].mkv
-!new/[Licca] Little Women II - Jo's Boys Episode 10 (h.264) [DF41652E].mkv
-!new/[Licca] Pollyanna Episode 37 (h.264) [5724FA3F].mkv
-!new/[Licca] Pollyanna Episode 38 (h.264) [39FCE375].mkv
-!new/[Live-eviL]_Captain_Harlock_SSX_(TV)_-_11_[BC86F75E].avi
-!new/[Live-eviL]_Captain_Harlock_SSX_(TV)_-_12_[4E4821F8].avi
-!new/[Midnight-Sons] Blade - 10 [04D087E6].mkv
 !new/[Monokage]_Towa_no_Quon_-_1_[15E79A45].mkv
-!new/[Nipponsei] A Channel Insert Songs 4.zip
-!new/[Nipponsei] Ao no Exorcist ED2 Single - Wired Life [Kuroki Meisa].zip
-!new/[Nipponsei] Beelzebub ED3 Single - Nanairo Namida [Tomato n' Pine].zip
-!new/[Nipponsei] Blood-C OP Single - spiral [DUSTZ].zip
-!new/[Nipponsei] C Original Soundtrack.zip
-!new/[Nipponsei] Hayate no Gotoku! Heaven is a Place on Earth Insert Song Single - Invisible Message [ELISA].zip
-!new/[Nipponsei] Hayate no Gotoku! Heaven is a Place on Earth OP Single - Bokura, Kake Yuku Sora he [Suirenji Ruka].zip
-!new/[Nipponsei] Mawaru Penguindrum ED Single - DEAR FUTURE [coaltar of the deepers].zip
-!new/[Nipponsei] Nichijou BGM & Radio Bangumi 3.zip
-!new/[Nipponsei] Nyanpire OP Single - Nyanpire Taisou [Asou Nyasuko & Nyadain].zip
-!new/[Nuke]_THE_iDOLM@STER_-_08_[1280x720][1A1A4325].mkv
-!new/[Nutbladder]_Kaiji_S2_-_22_[5F901A56].mkv
-!new/[Nutbladder]_Mawaru_Penguindrum_-_08v2_[2D1666E8].mkv
 !new/[Over-Time]_Kamen_Rider_Fourze_-_01_[7FCDEA0B].mkv
 !new/[Over-Time]_Pirate_Sentai_Gokaiger_-_28_[00B9FE81].mkv
 !new/[PM]Pocket_Monsters_AG_Movie_3_-_Mew_and_the_Hero_of_the_Wave_Lucario[SUB_720P_H264][BA579A83].mkv
 !new/[PM]Pocket_Monsters_Best_Wishes_046_Beware_of_Choroneko!_Nyarth_and_Mijumaru!![H264_720P][96FA12B9].mkv
-!new/[ReDone] Rizelmine - 06 (DVD) [9A2B0128].mkv
-!new/[Rizlim]_Softenni_Specials_-_1_[Hi10p]_[1920x1080_x264_FLAC]_[CC184C37].mkv
-!new/[RyRo]_Digimon_Xros_Wars_-_48_(1280x720_x264_AAC)_[88BAA5F1].mkv
-!new/[RyRo]_Digimon_Xros_Wars_-_49_(1280x720_x264_AAC)_[A44868E6].mkv
-!new/[RyRo]_Digimon_Xros_Wars_-_50_(1280x720_x264_AAC)_[B2FDD449].mkv
-!new/[RyRo]_Inazuma_Eleven_GO_-_016_(720p)_[CF5F6766].mkv
-!new/[RyRo]_Inazuma_Eleven_GO_-_017_(720p)_[E29C7FA0].mkv
-!new/[Ryuumaru]_Hoshizora_e_Kakaru_Hashi_-_10_[720p][2C5F35AB].mkv
-!new/[Ryuumaru]_Hoshizora_e_Kakaru_Hashi_-_11_[720p][C08E16B0].mkv
-!new/[SHiN-gx] Morita-san wa Mukuchi - 09 [720p][7EBF137A].mkv
-!new/[Saizen-HnG]_Ashita_no_Joe_-_25_[DVD][E0B7604F].mkv
-!new/[Saizen-HnG]_Ashita_no_Joe_-_26_[DVD][C5189325].mkv
-!new/[Shin-S] DOG DAYS Insert Song Single - Kitto Koi wo Shiteiru [Horie Yui & Mizuki Nana].zip
-!new/[Shin-S] Hidan no Aria Character Song & BGM CD Bullet.3 - Mine Riko [Ise Mariya].zip
-!new/[Shin-S] Nekogami Yaoyorozu Character Songs Vol.3 - Mayu & Sasana & Meiko [Various].zip
-!new/[Shin-S] RO-KYU-BU! Character Songs 01 - Minato Tomoka [Hanazawa Kana].zip
-!new/[SubDESU] Manyuu Hikenchou - 07 ~DC~ (1280x720) [9633788F].mkv
-!new/[SubDESU] Manyuu Hikenchou - 08 ~DC~ (1280x720) [4FF40F2D].mkv
-!new/[SubDesu] Seikon no Qwaser II BD 01 (1280x720) [04404ABE].mkv
-!new/[SubDesu] Seikon no Qwaser II BD 02 (1280x720) [3CA49482].mkv
-!new/[SubDesu] Seikon no Qwaser II BD 03 (1280x720) [CDE3E075].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -1005,17 +714,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[UTW]_Carnival_Phantasm_-_03_[BD][h264-1080p_FLAC][5B861A35].mkv
-!new/[UTW]_Carnival_Phantasm_-_04_[BD][h264-1080p_FLAC][F6095E80].mkv
-!new/[UTW]_Kamisama_no_Memochou_-_09_[h264-720p][4C067108].mkv
-!new/[WhyNot] Mayo Chiki - 09 [3C581B86].mkv
-!new/[WhyNot] Nurarihyon no Mago Sennen Makyou - 09 [A3AD6841].mkv
-!new/[WhyNot] Nurarihyon no Mago Sennen Makyou - 10 [E6717024].mkv
-!new/[gg]_Ao_no_Exorcist_-_21_[18D08A24].mkv
-!new/[gg]_Mawaru_Penguindrum_-_08_[8A88DF18].mkv
-!new/[gg]_Sacred_Seven_-_10_[1401BD29].mkv
-!new/[yibis]_One_Piece_511_[720p][AD3AB71B].mkv
-!new/[yibis]_One_Piece_512_[720p][2AC9BF21].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -1116,6 +814,26 @@
 !new/bla/zx.black.heaven.12.sub.rar
 !new/bla/zx.black.heaven.13.dub.avi
 !new/bla/zx.black.heaven.13.sub.rar
+!new/daimaou/Ichiban_Ushiro_no_Daimaou_-_01_[BD_1080p][AtsA][088ECEBB].mkv
+!new/daimaou/Ichiban_Ushiro_no_Daimaou_-_02_[BD_1080p][AtsA][50CE955C].mkv
+!new/daimaou/Ichiban_Ushiro_no_Daimaou_-_03_[BD_1080p][AtsA][2C432561].mkv
+!new/daimaou/Ichiban_Ushiro_no_Daimaou_-_04_[BD_1080p][AtsA][2E7C1C4E].mkv
+!new/daimaou/Ichiban_Ushiro_no_Daimaou_-_05_[BD_1080p][AtsA][9DF65C18].mkv
+!new/daimaou/Ichiban_Ushiro_no_Daimaou_-_06_[BD_1080p][AtsA][5A859E54].mkv
+!new/daimaou/Ichiban_Ushiro_no_Daimaou_-_07_[BD_1080p][AtsA][E99A014C].mkv
+!new/daimaou/Ichiban_Ushiro_no_Daimaou_-_08_[BD_1080p][AtsA][FDE1F75B].mkv
+!new/daimaou/Ichiban_Ushiro_no_Daimaou_-_09_[BD_1080p][AtsA][95432BEE].mkv
+!new/daimaou/Ichiban_Ushiro_no_Daimaou_-_10_[BD_1080p][AtsA][86D94D43].mkv
+!new/daimaou/Ichiban_Ushiro_no_Daimaou_-_11_[BD_1080p][AtsA][F894D6AE].mkv
+!new/daimaou/Ichiban_Ushiro_no_Daimaou_-_12_[BD_1080p][AtsA][3A3B4BF6].mkv
+!new/daimaou/Ichiban_Ushiro_no_Daimaou_-_ED_Clean_[BD_1080p][AtsA][F68ADF97].mkv
+!new/daimaou/Ichiban_Ushiro_no_Daimaou_-_OP_Clean_[BD_1080p][AtsA][8489E6FD].mkv
+!new/daimaou/Ichiban_Ushiro_no_Daimaou_-_SP1_[BD_1080p][AtsA][064B431F].mkv
+!new/daimaou/Ichiban_Ushiro_no_Daimaou_-_SP2_[BD_1080p][AtsA][660ADE7A].mkv
+!new/daimaou/Ichiban_Ushiro_no_Daimaou_-_SP3_[BD_1080p][AtsA][66419BC8].mkv
+!new/daimaou/Ichiban_Ushiro_no_Daimaou_-_SP4_[BD_1080p][AtsA][7AD28CDC].mkv
+!new/daimaou/Ichiban_Ushiro_no_Daimaou_-_SP5_[BD_1080p][AtsA][249FCE10].mkv
+!new/daimaou/Ichiban_Ushiro_no_Daimaou_-_SP6_[BD_1080p][AtsA][9C1C09E6].mkv
 !new/ir-extra/cor.extras.infinite.ryvius.art.gallery.and.audio.drama1.[5DDE8FF6].mkv
 !new/ir-extra/cor.extras.infinite.ryvius.art.gallery.and.audio.drama2.[938F2EF9].mkv
 !new/ir-extra/cor.extras.infinite.ryvius.art.gallery.and.audio.drama3.[1270FFBB].mkv
