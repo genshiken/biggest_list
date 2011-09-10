@@ -730,18 +730,6 @@
 !new/bla/zx.black.heaven.12.sub.rar
 !new/bla/zx.black.heaven.13.dub.avi
 !new/bla/zx.black.heaven.13.sub.rar
-!new/ir-extra/top/cor.extras.infinite.ryvius.ryvius.illusion1.ending.[AD21A054].mkv
-!new/ir-extra/top/cor.extras.infinite.ryvius.ryvius.illusion1.introduction.[2A3C8A5A].mkv
-!new/ir-extra/top/cor.extras.infinite.ryvius.ryvius.illusion2.ending.[26B436A0].mkv
-!new/ir-extra/top/cor.extras.infinite.ryvius.ryvius.illusion2.introduction.[412D6B78].mkv
-!new/ir-extra/top/cor.extras.infinite.ryvius.ryvius.illusion3.ending.[B4C4ACC9].mkv
-!new/ir-extra/top/cor.extras.infinite.ryvius.ryvius.illusion3.introduction.[065EBD4C].mkv
-!new/ir-extra/top/cor.extras.infinite.ryvius.ryvius.illusion4.ending.[B0DCF5E9].mkv
-!new/ir-extra/top/cor.extras.infinite.ryvius.ryvius.illusion4.introduction.[F76EC769].mkv
-!new/ir-extra/top/cor.extras.infinite.ryvius.ryvius.illusion5.ending.[3D7260E3].mkv
-!new/ir-extra/top/cor.extras.infinite.ryvius.ryvius.illusion5.introduction.[3C551B5C].mkv
-!new/ir-extra/top/cor.extras.infinite.ryvius.ryvius.illusion6.ending.[0B8D90B0].mkv
-!new/ir-extra/top/cor.extras.infinite.ryvius.ryvius.illusion6.introduction.[116B30AC].mkv
 !new/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/lama/[Ayako] Weiﬂ Survive R - 01 - H264 - E975A989.mkv
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
@@ -995,8 +983,3 @@
 !new/raw/natsunoarashi/[SomeBody-Raws][DVD]_Natsu_No_Arashi_-_13_RAW_(704x480_x264_Vorbis).mkv
 !new/raw/natsunoarashi/[SomeBody-Raws][DVD]_Natsu_No_Arashi_-_Clear_ED_(704x480_x264_Vorbis).mkv
 !new/raw/natsunoarashi/[SomeBody-Raws][DVD]_Natsu_No_Arashi_-_Clear_OP_(704x480_x264_Vorbis).mkv
-!new/utena movie/cor.extras.revolutionary.girl.utena.the.adolescence.of.utena.behind.the.scenes.with.kunihiko.ikuhara.[339E76B5].mkv
-!new/utena movie/cor.extras.revolutionary.girl.utena.the.adolescence.of.utena.fan.tribute.contest.[D4A58C07].mkv
-!new/utena movie/cor.extras.revolutionary.girl.utena.the.adolescence.of.utena.hichiro.kobayashi's.art.sketches.[01370CF1].mkv
-!new/utena movie/cor.extras.revolutionary.girl.utena.the.adolescence.of.utena.sketches.with.director's.notes.[5E6EC3A9].mkv
-!new/utena movie/cor.movie.revolutionary.girl.utena.the.adolescence.of.utena.[A72506FF].mkv
