@@ -53,6 +53,7 @@
 !new/.broken/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.mkv
 !new/.broken/[Chiki-Subs]_Mayo_Chiki_-_01v2_(1280x720_H.264.AAC)_[45704136].mkv
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
+!new/Boku wa Tomodachi ga Sukunai/[Commie] Boku wa Tomodachi ga Sukunai - 00 [6C477CD0].mkv
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
@@ -640,7 +641,6 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[A-Destiny] Toriko - 24 (1280x720 h264 AAC) [20840008].mkv
 !new/[ASL]_TAMUSIC_-_SPECTRUM_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Hoshizora_no_Memoria_Eternal_Heart_Vocal_Tracks_[FLAC].rar
 !new/[AonE]_Nyanpire_-_The_Animation_12_[9311CA61].mkv
@@ -648,7 +648,6 @@
 !new/[Ayako]_Mayo_Chiki_-_11_[H264][720p][DE66B21F].mkv
 !new/[Coalgirls]_Yuru_Yuri_04_(1280x720_H.264_AAC)_[47F83394].mkv
 !new/[Coalgirls]_Yuru_Yuri_12_(1280x720_H.264_AAC)_[561E8EE2].mkv
-!new/[Commie] Boku wa Tomodachi ga Sukunai - 00 [6C477CD0].mkv
 !new/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_25_[32e3e879].avi
 !new/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_26_[7a86752d].avi
 !new/[FTV-Wasurenai] 11eyes - 11 [1280x720 BD H264] [FF56638A].mkv
@@ -675,7 +674,6 @@
 !new/[ReDone] Rizelmine - 08 (DVD) [704B7E13].mkv
 !new/[RyRo]_Digimon_Xros_Wars_-_52_(1280x720_x264_AAC)_[12A92CF6].mkv
 !new/[Saizen-HnG]_Ashita_no_Joe_-_20_[DVD][544D7B17].mkv
-!new/[SubDESU]_Manyuu_Hikenchou_-_10_~DC~_(1280x720)_[69CDD28E].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -691,8 +689,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 06 [DVD H264 Hi10P 640x480] [4141F54E].mkv
-!new/[WhyNot] Nurarihyon no Mago Sennen Makyou - 12 [548DD4C9].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
