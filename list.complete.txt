@@ -12754,12 +12754,6 @@ complete/n/Natsume Yuujinchou/[BSS] Natsume Yuujinchou - 10 [41577B82].mkv
 complete/n/Natsume Yuujinchou/[BSS] Natsume Yuujinchou - 11 [BA42F76C].mkv
 complete/n/Natsume Yuujinchou/[BSS] Natsume Yuujinchou - 12 [B15C979D].mkv
 complete/n/Natsume Yuujinchou/[BSS] Natsume Yuujinchou - 13 [End][217FF831].mkv
-complete/n/Needless/[Ayako-Himatsubushi] Needless - 13 [720p][C2F82714].mkv
-complete/n/Needless/[Ayako-Himatsubushi] Needless - 14 [720p][7394A78F].mkv
-complete/n/Needless/[Ayako-Himatsubushi] Needless - 15 [720p][6209ECDB].mkv
-complete/n/Needless/[Ayako-Himatsubushi] Needless - 16 [720p][E3E7E7ED].mkv
-complete/n/Needless/[Ayako-Himatsubushi] Needless - 17 [720p][F5E5DBF3].mkv
-complete/n/Needless/[Ayako-Himatsubushi] Needless - 18 [720p][6A04B12E].mkv
 complete/n/Needless/[Ayako-Himatsubushi] Needless - 19 [720p][E88925B0].mkv
 complete/n/Needless/[Ayako-Himatsubushi] Needless - 20 [720p][6B3766B9].mkv
 complete/n/Needless/[Ayako-Himatsubushi] Needless - 21 [720p][768E10AC].mkv
@@ -12778,6 +12772,12 @@ complete/n/Needless/[DmonHiro] Needless - 09 [720p BD][E8D8BA83].mkv
 complete/n/Needless/[DmonHiro] Needless - 10 [720p BD][09D3512E].mkv
 complete/n/Needless/[DmonHiro] Needless - 11 [720p BD][5A351804].mkv
 complete/n/Needless/[DmonHiro] Needless - 12 [720p BD][1D495089].mkv
+complete/n/Needless/[DmonHiro] Needless - 13 [720p BD][FDB9DC0E].mkv
+complete/n/Needless/[DmonHiro] Needless - 14 [720p BD][7828F97D].mkv
+complete/n/Needless/[DmonHiro] Needless - 15 [720p BD][085DAF22].mkv
+complete/n/Needless/[DmonHiro] Needless - 16 [720p BD][4D016645].mkv
+complete/n/Needless/[DmonHiro] Needless - 17 [720p BD][F29D3453].mkv
+complete/n/Needless/[DmonHiro] Needless - 18 [720p BD][40745C94].mkv
 complete/n/Negima OVA/[AQS-Anime] Negima OVA - Haru [E02565D0].mkv
 complete/n/Negima OVA/[AQS-Anime] Negima OVA - Natsu [3A869559].mkv
 complete/n/Negima!/[Exiled-Destiny] Negima! - 01 [0A6A0F79].mkv
