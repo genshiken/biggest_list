@@ -355,6 +355,7 @@
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
+!new/Perfect_Blue_(1998)_[720p,BluRay,x264]_-_THORA.mkv
 !new/Ranma (Complete)/Ranma Movies and OVAs/Thumbs.db
 !new/Ranma (Complete)/Ranma Movies and OVAs/[anime_fin]_Ranma_Movie_1_DVDRiP_dualaudio.ogm
 !new/Ranma (Complete)/Ranma Movies and OVAs/[anime_fin]_Ranma_Movie_2_DVDRiP_dualaudio.ogm
@@ -561,6 +562,7 @@
 !new/Spiral/[OX-] Spiral - 23 [F0C087C7].mkv
 !new/Spiral/[OX-] Spiral - 24 [629E7645].mkv
 !new/Spiral/[OX-] Spiral - 25 [End][EC92212D].mkv
+!new/Tekkon_Kinkreet_(2006)_[720p,BluRay,x264]_-_THORA.mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_01v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_02v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_03v2[divx5.1.1].mkv
@@ -641,11 +643,16 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
+!new/[ASL]_Kalafina_-_After_Eden_[EXTRA].rar
+!new/[ASL]_Kalafina_-_After_Eden_[FLAC]_[w_Scans].rar
 !new/[ASL]_TAMUSIC_-_SPECTRUM_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Hoshizora_no_Memoria_Eternal_Heart_Vocal_Tracks_[FLAC].rar
 !new/[Ayako]_Mayo_Chiki_-_12_[H264][720p][AB55CF24].mkv
+!new/[Coalgirls]_Cardcaptor_Sakura_Movie_I_(1920x1080_Blu-Ray_FLAC)_[CDF7F555].mkv
 !new/[Coalgirls]_Yuru_Yuri_04_(1280x720_H.264_AAC)_[47F83394].mkv
 !new/[Coalgirls]_Yuru_Yuri_12_(1280x720_H.264_AAC)_[561E8EE2].mkv
+!new/[Commie] Baka to Test to Shokanju Ni - 12 [75C5189D].mkv
+!new/[Commie] Natsume Yuujinchou San - 12 [B8CDCA4F].mkv
 !new/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_25_[32e3e879].avi
 !new/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_26_[7a86752d].avi
 !new/[FTV-Wasurenai] 11eyes - 11 [1280x720 BD H264] [FF56638A].mkv
@@ -654,7 +661,10 @@
 !new/[Hiryuu] Double-J 10 [1280x720 H264 AAC] [83FF78F7].mkv
 !new/[Hiyono]_Fairy_Tail_OVA_-_01v2_(DVD)_[ED4EDF6B].mkv
 !new/[Hiyono]_Fairy_Tail_OVA_-_02_(DVD)_[439BDF1A].mkv
+!new/[HorribleSubs] A Dark Rabbit Has Seven Lives - 12 [720p].mkv
 !new/[HorribleSubs] Bleach - 340 [720p].mkv
+!new/[HorribleSubs] Cardfight!! Vanguard - 12 [720p].mkv
+!new/[HorribleSubs] Fairy Tail - 12 [720p].mkv
 !new/[HorribleSubs] Kamisama Dolls - 12 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 229 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 25 [720p].mkv
@@ -685,7 +695,11 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[UTW]_Fractale_-_01_[BD][h264-720p][FLAC][C479FE54].mkv
+!new/[UTW]_Fractale_-_02_[BD][h264-720p][FLAC][95FE483C].mkv
+!new/[UTW]_Fractale_-_03_[BD][h264-720p][FLAC][E2D14722].mkv
 !new/[Underwater-Commie] Nichijou - 25 (720p) [27B3EF99].mkv
+!new/[Underwater] Blood-C - 11 (720p) [A395988E].mkv
 !new/[WhyNot] Nurarihyon no Mago Sennen Makyou - 11 [F774D378].mkv
 !new/[gg]_Mawaru_Penguindrum_-_11v2_[B0407408].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
