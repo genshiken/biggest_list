@@ -102,6 +102,7 @@ incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 39 [
 incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 40 [720p][98892233].mkv
 incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 42 [720p][479F3F45].mkv
 incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 43 [720p][672EFF7C].mkv
+incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 44 [720p][3094C1CA].mkv
 incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 45 [720p][3EFFBCB5].mkv
 incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 01 [v3][F421D269].mkv
 incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 02 [v2][0CE31825].mkv
@@ -1926,6 +1927,7 @@ incomplete/Hyouge Mono/[Huzzah] Hyouge Mono - 01 [7EE66910].mkv
 incomplete/Hyouge Mono/[Huzzah] Hyouge Mono - 02 [92ABA684].mkv
 incomplete/Hyouge Mono/[Huzzah] Hyouge Mono - 03 [6A09E57E].mkv
 incomplete/Hyouge Mono/[Huzzah] Hyouge Mono - 04 [B02B342B].mkv
+incomplete/Hyouge Mono/[Huzzah] Hyouge Mono - 05 [AEFD43AB].mkv
 incomplete/Hyouge Mono/[Huzzah] Hyouge Mono - 06 [0F79B85D].mkv
 incomplete/Igano Kabamaru/[SD] Igano Kabamaru - 01 [DEADBEEF].mkv
 incomplete/Igano Kabamaru/[SD] Igano Kabamaru - 02 [DEADBEEF].mkv
@@ -1956,6 +1958,7 @@ incomplete/Ikoku Meiro no Kurowaaze/[IB] Ikoku Meiro no Kurowaaze - 07 [720p][15
 incomplete/Ikoku Meiro no Kurowaaze/[IB] Ikoku Meiro no Kurowaaze - 08 [720p][8F5FA1F9].mkv
 incomplete/Ikoku Meiro no Kurowaaze/[IB] Ikoku Meiro no Kurowaaze - 09 [720p][A621D866].mkv
 incomplete/Ikoku Meiro no Kurowaaze/[IB] Ikoku Meiro no Kurowaaze - 10 [720p][8bit][1DEEE07B].mkv
+incomplete/Ikoku Meiro no Kurowaaze/[IB] Ikoku Meiro no Kurowaaze - 12 [End][720p][BE9942B0].mkv
 incomplete/Inazuma Eleven GO/[RyRo] Inazuma Eleven GO - 001 [720p][2668855F].mkv
 incomplete/Inazuma Eleven GO/[RyRo] Inazuma Eleven GO - 002 [720p][04B18A67].mkv
 incomplete/Inazuma Eleven GO/[RyRo] Inazuma Eleven GO - 003 [720p][BB4495C8].mkv
@@ -4198,6 +4201,8 @@ incomplete/VS Knight Lamune & 40 fire/[DB L-E] VS Knight Lamune & 40 fire - 21 [
 incomplete/VS Knight Lamune & 40 fire/[DB L-E] VS Knight Lamune & 40 fire - 22 [0E1E0687].avi
 incomplete/VS Knight Lamune & 40 fire/[DB L-E] VS Knight Lamune & 40 fire - 23 [43249836].avi
 incomplete/VS Knight Lamune & 40 fire/[DB L-E] VS Knight Lamune & 40 fire - 24 [3A40BEE9].avi
+incomplete/VS Knight Lamune & 40 fire/[DB L-E] VS Knight Lamune & 40 fire - 25 [32E3E879].avi
+incomplete/VS Knight Lamune & 40 fire/[DB L-E] VS Knight Lamune & 40 fire - 26 [End][7A86752D].avi
 incomplete/VS Knight Lamune & 40 fire/[Live-eviL] VS Knight Lamune & 40 fire - 01 [89E7EFC0].avi
 incomplete/VS Knight Lamune & 40 fire/[Live-eviL] VS Knight Lamune & 40 fire - 02 [4317FA9E].avi
 incomplete/VS Knight Lamune & 40 fire/[Live-eviL] VS Knight Lamune & 40 fire - 03 [4C67226D].avi
