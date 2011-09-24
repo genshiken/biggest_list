@@ -643,6 +643,7 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
 !new/[ASL]_TAMUSIC_-_SPECTRUM_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Hoshizora_no_Memoria_Eternal_Heart_Vocal_Tracks_[FLAC].rar
+!new/[Ayako]_Mayo_Chiki_-_12_[H264][720p][AB55CF24].mkv
 !new/[Coalgirls]_Yuru_Yuri_04_(1280x720_H.264_AAC)_[47F83394].mkv
 !new/[Coalgirls]_Yuru_Yuri_12_(1280x720_H.264_AAC)_[561E8EE2].mkv
 !new/[DB&L-E]_VS_Knight_Lamune_&_40_fire_-_Ep_25_[32e3e879].avi
@@ -650,9 +651,13 @@
 !new/[FTV-Wasurenai] 11eyes - 11 [1280x720 BD H264] [FF56638A].mkv
 !new/[FTV-Wasurenai] 11eyes - 12 [1280x720 BD H264] [09E860E5].mkv
 !new/[FTV-Wasurenai] 11eyes - OVA [1280x720 BD H264] [1D277360].mkv
+!new/[Hiryuu] Double-J 10 [1280x720 H264 AAC] [83FF78F7].mkv
 !new/[Hiyono]_Fairy_Tail_OVA_-_01v2_(DVD)_[ED4EDF6B].mkv
 !new/[Hiyono]_Fairy_Tail_OVA_-_02_(DVD)_[439BDF1A].mkv
 !new/[HorribleSubs] Bleach - 340 [720p].mkv
+!new/[HorribleSubs] Kamisama Dolls - 12 [720p].mkv
+!new/[HorribleSubs] Naruto Shippuuden - 229 [720p].mkv
+!new/[HorribleSubs] SKET Dance - 25 [720p].mkv
 !new/[HorribleSubs] Twin Angel - Twinkle Paradise - 11 [720p].mkv
 !new/[HorribleSubs] YuruYuri - 12 [720p].mkv
 !new/[Huzzah]_Hyouge_Mono_05_[AEFD43AB].mkv
@@ -660,6 +665,7 @@
 !new/[KindaHorribleSubs] Naruto Shippuuden - 229 [720p].mkv
 !new/[KindaHorribleSubs] Sket Dance - 25 [720p].mkv
 !new/[KindaHorribleSubs]Kamisama Dolls - 12 [720p].mkv
+!new/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 44 [H264 1280x720] [AF44FDA1].mkv
 !new/[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_00_[858EBA34].mkv
 !new/[Monokage]_Towa_no_Quon_-_1_[Blu-Ray][Hi10P][A706A01D].mkv
 !new/[Nipponsei] Mayo Chiki! Character Song Album ~ Mayo Uta!.zip
@@ -679,6 +685,9 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[Underwater-Commie] Nichijou - 25 (720p) [27B3EF99].mkv
+!new/[WhyNot] Nurarihyon no Mago Sennen Makyou - 11 [F774D378].mkv
+!new/[gg]_Mawaru_Penguindrum_-_11v2_[B0407408].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -784,6 +793,7 @@
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
 !new/lama/[Kuroneko] Fullmetal Alchemist - Chibi Party OAV [DB1546EB].avi
 !new/lama/[TAC Studios] Hunter X Hunter - Requiem.avi
+!new/millennium_actress[h264.ac3][niizk][994D1450].mkv
 !new/narutoship/Naruto Shippuden 001-002.avi
 !new/narutoship/Naruto Shippuden 003.avi
 !new/narutoship/Naruto Shippuden 004.avi
