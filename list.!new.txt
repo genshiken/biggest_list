@@ -53,7 +53,6 @@
 !new/.broken/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.mkv
 !new/.broken/[Chiki-Subs]_Mayo_Chiki_-_01v2_(1280x720_H.264.AAC)_[45704136].mkv
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
-!new/Boku wa Tomodachi ga Sukunai/[Commie] Boku wa Tomodachi ga Sukunai - 00 [6C477CD0].mkv
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
@@ -644,7 +643,6 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[Commie] Dantalian no Shoka - 11 [3517464F].mkv
 !new/[Hiryuu] Double-J 10 [1280x720 H264 AAC] [83FF78F7].mkv
 !new/[Hiryuu] Freezing 08 [BD 1280x720 H264 AAC] [5B8234FA].mkv
 !new/[Hiyono]_Fairy_Tail_OVA_-_01v2_(DVD)_[ED4EDF6B].mkv
@@ -668,7 +666,6 @@
 !new/[KindaHorribleSubs] Naruto Shippuuden - 229 [720p].mkv
 !new/[KindaHorribleSubs] Sket Dance - 25 [720p].mkv
 !new/[KindaHorribleSubs]Kamisama Dolls - 12 [720p].mkv
-!new/[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_00_[858EBA34].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
