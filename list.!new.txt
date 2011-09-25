@@ -352,6 +352,7 @@
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/List.txt
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/disc_8.jpg
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/mibox_cover.gif
+!new/Millennium.Actress.2001.HDTV.RE.720p.DD5.1.x264-MDC.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
@@ -643,26 +644,38 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[ASL]_Kalafina_-_After_Eden_[EXTRA].rar
-!new/[ASL]_Kalafina_-_After_Eden_[FLAC]_[w_Scans].rar
-!new/[ASL]_TAMUSIC_-_SPECTRUM_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artists_-_Hoshizora_no_Memoria_Eternal_Heart_Vocal_Tracks_[FLAC].rar
+!new/[Aho-Taku] Ro-Kyu-Bu - 12 [720p][95409E49].mkv
+!new/[Ayako]_Ikoku_Meiro_no_Croisée_-_12_[H264][720p][748BADBF].mkv
+!new/[Commie] Dantalian no Shoka - 11 [3517464F].mkv
 !new/[Hiryuu] Double-J 10 [1280x720 H264 AAC] [83FF78F7].mkv
+!new/[Hiryuu] Freezing 08 [BD 1280x720 H264 AAC] [5B8234FA].mkv
 !new/[Hiyono]_Fairy_Tail_OVA_-_01v2_(DVD)_[ED4EDF6B].mkv
 !new/[Hiyono]_Fairy_Tail_OVA_-_02_(DVD)_[439BDF1A].mkv
+!new/[HorribleSubs] A Dark Rabbit Has Seven Lives - 11 [720p].mkv
 !new/[HorribleSubs] A Dark Rabbit Has Seven Lives - 12 [720p].mkv
 !new/[HorribleSubs] Bleach - 340 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 12 [720p].mkv
+!new/[HorribleSubs] Cardfight!! Vanguard - 37 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 12 [720p].mkv
+!new/[HorribleSubs] Fairy Tail - 98 [720p].mkv
 !new/[HorribleSubs] Kamisama Dolls - 12 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 229 [720p].mkv
+!new/[HorribleSubs] R-15 - 12 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 25 [720p].mkv
 !new/[HorribleSubs] Twin Angel - Twinkle Paradise - 11 [720p].mkv
 !new/[HorribleSubs] YuruYuri - 12 [720p].mkv
+!new/[IB] Ikoku Meiro no Croisée - 11 [720p] [8bit] [BA90E31E].mkv
 !new/[KindaHorribleSubs] Naruto Shippuuden - 229 [720p].mkv
 !new/[KindaHorribleSubs] Sket Dance - 25 [720p].mkv
 !new/[KindaHorribleSubs]Kamisama Dolls - 12 [720p].mkv
+!new/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 46 [H264 1280x720] [8AF1FBEB].mkv
 !new/[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_00_[858EBA34].mkv
+!new/[Nipponsei] A Channel Insert Songs 5.zip
+!new/[Nipponsei] Baka to Test to Shoukanjuu Ni! Akihisa Harem CD.zip
+!new/[Nipponsei] Baka to Test to Shoukanjuu Ni! Kikaku Single 1.zip
+!new/[Nipponsei] Carnival Phantasm OP Single - Super Affection [Various].zip
+!new/[Nipponsei] Higurashi no Naku Koro ni Kira OP Single - Happy! Lucky! Dochy! [Various].zip
+!new/[RyRo]_Digimon_Xros_Wars_-_53_(1280x720_x264_AAC)_[A40492B6].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -678,6 +691,8 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[mudabone] Arakawa Under the Bridge x2 - Episode 01 [BD 720p H264-AAC] [0893E2B8].mkv
+!new/[mudabone] Arakawa Under the Bridge x2 - Episode 02 [BD 720p H264-AAC] [D3CE5C86].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
