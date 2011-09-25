@@ -104,6 +104,7 @@ incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 42 [
 incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 43 [720p][672EFF7C].mkv
 incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 44 [720p][3094C1CA].mkv
 incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 45 [720p][3EFFBCB5].mkv
+incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 46 [720p][8AF1FBEB].mkv
 incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 01 [v3][F421D269].mkv
 incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 02 [v2][0CE31825].mkv
 incomplete/Ao no Exorcist/[gg] Ao no Exorcist - 03 [v2][87DA147D].mkv
@@ -1109,6 +1110,7 @@ incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 49 [720p][A44868E6].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 50 [720p][B2FDD449].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 51 [720p][7C248F87].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 52 [720p][12A92CF6].mkv
+incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 53 [720p][A40492B6].mkv
 incomplete/Dirty Pair TV/[FLF & L-E] Dirty Pair TV - 01 [9689517F].mkv
 incomplete/Dirty Pair TV/[FLF & L-E] Dirty Pair TV - 02 [793D547A].mkv
 incomplete/Dirty Pair TV/[FLF & L-E] Dirty Pair TV - 03 [AEF9424F].mkv
@@ -1948,6 +1950,7 @@ incomplete/Ikoku Meiro no Kurowaaze/[Ayako] Ikoku Meiro no Kurowaaze - 07 [720p]
 incomplete/Ikoku Meiro no Kurowaaze/[Ayako] Ikoku Meiro no Kurowaaze - 08 [720p][CBBA8DBF].mkv
 incomplete/Ikoku Meiro no Kurowaaze/[Ayako] Ikoku Meiro no Kurowaaze - 09 [720p][BFC3533C].mkv
 incomplete/Ikoku Meiro no Kurowaaze/[Ayako] Ikoku Meiro no Kurowaaze - 10 [720p][053542D5].mkv
+incomplete/Ikoku Meiro no Kurowaaze/[Ayako] Ikoku Meiro no Kurowaaze - 12 [End][720p][748BADBF].mkv
 incomplete/Ikoku Meiro no Kurowaaze/[Buny] Ikoku Meiro no Kurowaaze - 04.5 [v2 288p][CF4C65E7].mkv
 incomplete/Ikoku Meiro no Kurowaaze/[IB] Ikoku Meiro no Kurowaaze - 01 [v2][720p][C24590BF].mkv
 incomplete/Ikoku Meiro no Kurowaaze/[IB] Ikoku Meiro no Kurowaaze - 02 [720p][1F058505].mkv
@@ -1958,7 +1961,8 @@ incomplete/Ikoku Meiro no Kurowaaze/[IB] Ikoku Meiro no Kurowaaze - 06 [720p][1A
 incomplete/Ikoku Meiro no Kurowaaze/[IB] Ikoku Meiro no Kurowaaze - 07 [720p][152B79D2].mkv
 incomplete/Ikoku Meiro no Kurowaaze/[IB] Ikoku Meiro no Kurowaaze - 08 [720p][8F5FA1F9].mkv
 incomplete/Ikoku Meiro no Kurowaaze/[IB] Ikoku Meiro no Kurowaaze - 09 [720p][A621D866].mkv
-incomplete/Ikoku Meiro no Kurowaaze/[IB] Ikoku Meiro no Kurowaaze - 10 [720p][8bit][1DEEE07B].mkv
+incomplete/Ikoku Meiro no Kurowaaze/[IB] Ikoku Meiro no Kurowaaze - 10 [720p][1DEEE07B].mkv
+incomplete/Ikoku Meiro no Kurowaaze/[IB] Ikoku Meiro no Kurowaaze - 11 [720p][BA90E31E].mkv
 incomplete/Ikoku Meiro no Kurowaaze/[IB] Ikoku Meiro no Kurowaaze - 12 [End][720p][BE9942B0].mkv
 incomplete/Inazuma Eleven GO/[RyRo] Inazuma Eleven GO - 001 [720p][2668855F].mkv
 incomplete/Inazuma Eleven GO/[RyRo] Inazuma Eleven GO - 002 [720p][04B18A67].mkv
@@ -3625,17 +3629,6 @@ incomplete/R-15/[Fail-15] R-15 - 11 [720p][5F39251C].mkv
 incomplete/R-15/[HorribleSubs] R-15 - 08 [720p][545481C3].mkv
 incomplete/R-15/[HorribleSubs] R-15 - 09 [720p][B14B98C1].mkv
 incomplete/Reform Without Wasted Draws - The Legend of Koizumi/[gg] Reform Without Wasted Draws - The Legend of Koizumi - 01 [Webcast][61B04813].mkv
-incomplete/Ro-Kyu-Bu!/[Aho-Taku] Ro-Kyu-Bu! - 01 [v2 720p][246AE41D].mkv
-incomplete/Ro-Kyu-Bu!/[Aho-Taku] Ro-Kyu-Bu! - 02 [720p][F441FA5B].mkv
-incomplete/Ro-Kyu-Bu!/[Aho-Taku] Ro-Kyu-Bu! - 03 [720p][B08B49D0].mkv
-incomplete/Ro-Kyu-Bu!/[Aho-Taku] Ro-Kyu-Bu! - 04 [720p][A0137B05].mkv
-incomplete/Ro-Kyu-Bu!/[Aho-Taku] Ro-Kyu-Bu! - 05 [720p][DAAA5EFA].mkv
-incomplete/Ro-Kyu-Bu!/[Aho-Taku] Ro-Kyu-Bu! - 06 [720p][A4775738].mkv
-incomplete/Ro-Kyu-Bu!/[Aho-Taku] Ro-Kyu-Bu! - 07 [720p][26016B98].mkv
-incomplete/Ro-Kyu-Bu!/[Aho-Taku] Ro-Kyu-Bu! - 08 [v2 720p][F13F9450].mkv
-incomplete/Ro-Kyu-Bu!/[Aho-Taku] Ro-Kyu-Bu! - 09 [720p][7DCEEA41].mkv
-incomplete/Ro-Kyu-Bu!/[Aho-Taku] Ro-Kyu-Bu! - 10 [720p][5887F465].mkv
-incomplete/Ro-Kyu-Bu!/[Aho-Taku] Ro-Kyu-Bu! - 11 [720p][1F6A4EAE].mkv
 incomplete/Rockman EXE Beast/[WPP de Puku] Rockman EXE Beast - 17 [D12F8EC3].avi
 incomplete/Rockman.EXE Axess/[wpp] Rockman.EXE Axess - 01 [4BF2D92B].avi
 incomplete/Rockman.EXE Axess/[wpp] Rockman.EXE Axess - 02 [41B25E09].avi

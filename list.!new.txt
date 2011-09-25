@@ -644,8 +644,6 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[Aho-Taku] Ro-Kyu-Bu - 12 [720p][95409E49].mkv
-!new/[Ayako]_Ikoku_Meiro_no_Croisée_-_12_[H264][720p][748BADBF].mkv
 !new/[Commie] Dantalian no Shoka - 11 [3517464F].mkv
 !new/[Hiryuu] Double-J 10 [1280x720 H264 AAC] [83FF78F7].mkv
 !new/[Hiryuu] Freezing 08 [BD 1280x720 H264 AAC] [5B8234FA].mkv
@@ -653,6 +651,7 @@
 !new/[Hiyono]_Fairy_Tail_OVA_-_02_(DVD)_[439BDF1A].mkv
 !new/[HorribleSubs] A Dark Rabbit Has Seven Lives - 11 [720p].mkv
 !new/[HorribleSubs] A Dark Rabbit Has Seven Lives - 12 [720p].mkv
+!new/[HorribleSubs] Beelzebub - 35 [720p].mkv
 !new/[HorribleSubs] Bleach - 340 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 12 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 37 [720p].mkv
@@ -660,22 +659,16 @@
 !new/[HorribleSubs] Fairy Tail - 98 [720p].mkv
 !new/[HorribleSubs] Kamisama Dolls - 12 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 229 [720p].mkv
+!new/[HorribleSubs] Nichijou - 26 [720p].mkv
+!new/[HorribleSubs] R-15 - 11 [720p].mkv
 !new/[HorribleSubs] R-15 - 12 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 25 [720p].mkv
 !new/[HorribleSubs] Twin Angel - Twinkle Paradise - 11 [720p].mkv
 !new/[HorribleSubs] YuruYuri - 12 [720p].mkv
-!new/[IB] Ikoku Meiro no Croisée - 11 [720p] [8bit] [BA90E31E].mkv
 !new/[KindaHorribleSubs] Naruto Shippuuden - 229 [720p].mkv
 !new/[KindaHorribleSubs] Sket Dance - 25 [720p].mkv
 !new/[KindaHorribleSubs]Kamisama Dolls - 12 [720p].mkv
-!new/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 46 [H264 1280x720] [8AF1FBEB].mkv
 !new/[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_00_[858EBA34].mkv
-!new/[Nipponsei] A Channel Insert Songs 5.zip
-!new/[Nipponsei] Baka to Test to Shoukanjuu Ni! Akihisa Harem CD.zip
-!new/[Nipponsei] Baka to Test to Shoukanjuu Ni! Kikaku Single 1.zip
-!new/[Nipponsei] Carnival Phantasm OP Single - Super Affection [Various].zip
-!new/[Nipponsei] Higurashi no Naku Koro ni Kira OP Single - Happy! Lucky! Dochy! [Various].zip
-!new/[RyRo]_Digimon_Xros_Wars_-_53_(1280x720_x264_AAC)_[A40492B6].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -691,19 +684,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[mudabone] Arakawa Under the Bridge x2 - Episode 01 [BD 720p H264-AAC] [0893E2B8].mkv
-!new/[mudabone] Arakawa Under the Bridge x2 - Episode 02 [BD 720p H264-AAC] [D3CE5C86].mkv
-!new/[mudabone] Arakawa Under the Bridge x2 - Episode 03 [BD 720p H264-AAC] [CF08AB08].mkv
-!new/[mudabone] Arakawa Under the Bridge x2 - Episode 04 [BD 720p H264-AAC] [B1B1B626].mkv
-!new/[mudabone] Arakawa Under the Bridge x2 - Episode 05v2 [BD 720p H264-AAC] [3A3C123B].mkv
-!new/[mudabone] Arakawa Under the Bridge x2 - Episode 06 [BD 720p H264-AAC] [BAA6DA81].mkv
-!new/[mudabone] Arakawa Under the Bridge x2 - Episode 07 [BD 720p H264-AAC] [FF000BC3].mkv
-!new/[mudabone] Arakawa Under the Bridge x2 - Episode 08 [BD 720p H264-AAC] [D6FE9C82].mkv
-!new/[mudabone] Arakawa Under the Bridge x2 - Episode 09 [BD 720p H264-AAC] [A6B5F6E3].mkv
-!new/[mudabone] Arakawa Under the Bridge x2 - Episode 10 [BD 720p H264-AAC] [2E9D8A5B].mkv
-!new/[mudabone] Arakawa Under the Bridge x2 - Episode 11 [BD 720p H264-AAC] [6BED5441].mkv
-!new/[mudabone] Arakawa Under the Bridge x2 - Episode 12 [BD 720p H264-AAC] [EE78354E].mkv
-!new/[mudabone] Arakawa Under the Bridge x2 - Episode 13 [BD 720p H264-AAC] [EE0CBF82].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx

@@ -383,11 +383,13 @@ music/ASL/[ASL]_Hatsune_Miku_-_Curl_flavor_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Hayami_Saori_-_Kami_Nomi_zo_Shiru_Sekai_II_Character_CD_00_Haqua_starring_Hayami_Saori_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Hayashibara_Megumi_-_Hayashibara_Megumi_BEST_ALBUM_-_VINTAGE_White_[EXTRA].rar
 music/ASL/[ASL]_Hayashibara_Megumi_-_Hayashibara_Megumi_BEST_ALBUM_-_VINTAGE_White_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Hikasa_Youko_-_Ro-Kyu-Bu_Character_Songs_03_Nagatsuka_Saki_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Hirano_Aya_Best_Album_-_AYA_MUSEUM_[FLAC].rar
 music/ASL/[ASL]_Hirano_Yoshihisa_-_Break_Blade_Book_VI_Soundtrack_CD_[FLAC].rar
 music/ASL/[ASL]_Honda_Mariko_-_Nichijou_Character_Song_5_Aioi_Yuuko_-_Yukko_no_Selamat_Pagi_da_yo_Jinsei_wa_[FLAC].rar
 music/ASL/[ASL]_Hyadain_-_Nichijou_OP_2_-_Hyadain_no_Joujou_Yuujou_[FLAC].rar
 music/ASL/[ASL]_IKU_-_Robe_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Iguchi_Yuka_-_Ro-Kyu-Bu_Character_Songs_02_Misawa_Maho_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Imai_Asami_-_STEINS;GATE_Laboratory_Member_004_Makise_Kurisu_[FLAC].rar
 music/ASL/[ASL]_Isami_-_Trinity_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Ishikawa_Chiaki_-_Kamisama_Dolls_OP_ED_-_Fukanzen_Nenshou_Switch_ga_Ittara_[FLAC]_[w_Scans].rar
@@ -462,6 +464,7 @@ music/ASL/[ASL]_Naruke_Michiko_-_Nora_to_Toki_no_Koubou_OST_Arrange_Ver_[FLAC].r
 music/ASL/[ASL]_Nishizawa_Hagumi_-_Natsuyuki_~summer_snow~_Maxi_Single_-_Natsu_no_Hi_no_Refrain_[FLAC].rar
 music/ASL/[ASL]_ONE_OK_ROCK_-_BLACK_ROCK_SHOOTER_THE_GAME_Theme_Song_-_NO_SCARED_[FLAC].rar
 music/ASL/[ASL]_Ogura_Yui_-_Kamisama_no_Memochou_Chraracter_File_1_Alice_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Ogura_Yui_-_RO-KYU-BU_Character_Songs_04_Hakamada_Hinata_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Omigawa_Chiaki_-_Hanasaku_Iroha_Character_Song_Single_Minko_Tsurugi_-_Namida_de_sakuhana_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Ookuba_Rumi_-_Yuruyuri_Character_Disc_4_-_Marugoto_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Otsubo_Yuka_-_Yuruyuri_Character_Disc_3_-_Mirakuru_Yurukuru_1_2_3_[FLAC]_[w_Scans].rar
@@ -629,6 +632,7 @@ music/ASL/[ASL]_Various_Artists_-_Little_Busters!_-_Deejay_Busters!_[FLAC]_[w_Sc
 music/ASL/[ASL]_Various_Artists_-_Maria_Holic_-_Alive_OP_ED_-_runrun_riru_ranran_rara_._dounimo_tomaranai_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Maria_Holic_Alive_BD_1_Bonus_Special_CD_-_Ryouchou-sensei_no_Kayou_Hit_Channel_~Dai-ichi_no_Yoru~_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Mawaru_Penguindrum_ED_-_DEAR_FUTURE_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Mayo_Chiki_Character_Song_Album_-Mayo_Uta-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Mayo_Chiki_ED_-_Kimi_ni_Gohoushi_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Mitsudomoe_OST_-_Mitsudomo_Best_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_NEKO_KOI_Original_Sound_Tracks_-_NEKO_MIMI_Orchestra_[FLAC]_[w_Scans].rar
@@ -987,6 +991,7 @@ music/Nipponsei/[Nipponsei] A Channel ED & Insert Song Single - Humming Girl [Va
 music/Nipponsei/[Nipponsei] A Channel Insert Songs 2 [Yuuki Aoi & Fukuhara Kaori].zip
 music/Nipponsei/[Nipponsei] A Channel Insert Songs 3 [Kotobuki Minako & Uchiyama Yumi].zip
 music/Nipponsei/[Nipponsei] A Channel Insert Songs 4.zip
+music/Nipponsei/[Nipponsei] A Channel Insert Songs 5.zip
 music/Nipponsei/[Nipponsei] A Channel OP Single - Morning Arch [Kawano Marina].zip
 music/Nipponsei/[Nipponsei] AIKa R-16 OP ED Single - Sailing To The Future [Koshimizu Ami].zip
 music/Nipponsei/[Nipponsei] AIR Movie Soundtrack [320k CBR].zip
@@ -1133,6 +1138,8 @@ music/Nipponsei/[Nipponsei] Baka to Test to Shoukanjuu Matsuri ED Single - Getsu
 music/Nipponsei/[Nipponsei] Baka to Test to Shoukanjuu Matsuri OP Single - Renai Koujou committee [Asou Natsuko].zip
 music/Nipponsei/[Nipponsei] Baka to Test to Shoukanjuu Ni ED Single - Eureka Baby [Asou Natsuko].zip
 music/Nipponsei/[Nipponsei] Baka to Test to Shoukanjuu Ni OP Single - Kimi + Nazo + Watashi de JUMP!! [Larval Stage Planning].zip
+music/Nipponsei/[Nipponsei] Baka to Test to Shoukanjuu Ni! Akihisa Harem CD.zip
+music/Nipponsei/[Nipponsei] Baka to Test to Shoukanjuu Ni! Kikaku Single 1.zip
 music/Nipponsei/[Nipponsei] Bakugan BATTLE BRAWLERS ED - Air Drive [Elephant Girl].zip
 music/Nipponsei/[Nipponsei] Bakugan BATTLE BRAWLERS OP Single - Number One BATTLE BRAWLERS [Psychic Lover].zip
 music/Nipponsei/[Nipponsei] Bakuman OP Single - Blue Bird [Kobukuro].zip
@@ -1204,6 +1211,7 @@ music/Nipponsei/[Nipponsei] Canvas2 ~Nijiiro no Sketch~ OP Single - Plastic Smil
 music/Nipponsei/[Nipponsei] Capeta ED4 Single - My Star [Kikuchi Mika].zip
 music/Nipponsei/[Nipponsei] Cardfight!! Vanguard ED Single - Diamond Star [Asou Natsuko].zip
 music/Nipponsei/[Nipponsei] Cardfight!! Vanguard OP Single - Vanguard [JAM Project].zip
+music/Nipponsei/[Nipponsei] Carnival Phantasm OP Single - Super Affection [Various].zip
 music/Nipponsei/[Nipponsei] Chevalier OP Single - BORN [Okuda Miwako].zip
 music/Nipponsei/[Nipponsei] Chevalier Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Chocotto Sister Anchoko 1 Satsume - Under Chocottosister File.ONE.zip
@@ -1428,6 +1436,7 @@ music/Nipponsei/[Nipponsei] Highschool of the Dead ED Album - H.O.T.D. [Kurosaki
 music/Nipponsei/[Nipponsei] Highschool of the Dead OP Single - HIGHSCHOOL OF THE DEAD [Kishida Kyoudan & The Myoujou Rocket].zip
 music/Nipponsei/[Nipponsei] Highschool of the Dead Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Higurashi no Naku Koro ni ED Single - why, or why not [Oshima Hiroyuki feat. Katakiri Rekka].zip
+music/Nipponsei/[Nipponsei] Higurashi no Naku Koro ni Kira OP Single - Happy! Lucky! Dochy! [Various].zip
 music/Nipponsei/[Nipponsei] Higurashi no Naku Koro ni OP Single - Higurashi no Naku Koro ni [Shimamiya Eiko] (320 kbps).zip
 music/Nipponsei/[Nipponsei] Higurashi no Naku Koro ni Original Soundtrack Vol.2.zip
 music/Nipponsei/[Nipponsei] Higurashi no Naku Koro ni Original Soundtrack.zip
@@ -1463,8 +1472,10 @@ music/Nipponsei/[Nipponsei] Innocent Venus OP Single - Noble Roar [Yousei Teikok
 music/Nipponsei/[Nipponsei] Innocent Venus Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Iriya no Sora, UFO no Natsu OP ED Single - Forever Blue [Imai Chihiro] 320k CBR.zip
 music/Nipponsei/[Nipponsei] Itsuka Tenma no Kuro Usagi Character Song CD Vol.1.zip
+music/Nipponsei/[Nipponsei] Itsuka Tenma no Kuro Usagi Character Song CD Vol.2.zip
 music/Nipponsei/[Nipponsei] Itsuka Tenma no Kuro Usagi ED Single - Utsusemi [Shikata Akiko].zip
 music/Nipponsei/[Nipponsei] Itsuka Tenma no Kuro Usagi OP Single - Once [Harada Hitomi].zip
+music/Nipponsei/[Nipponsei] Itsuka Tenma no Kuro Usagi Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Jigoku Shoujo Drama Main Theme Album - Dream Catcher [OLIVIA].zip
 music/Nipponsei/[Nipponsei] Jigoku Shoujo Futakomori OP Single - NightmaRe [SNoW].zip
 music/Nipponsei/[Nipponsei] Jigoku Shoujo Futakomori Original Soundtrack.zip
