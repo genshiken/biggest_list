@@ -643,6 +643,12 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
+!new/[ASL]_Hanazawa_Kana_-_Ro-Kyu-Bu!_Character_Songs_01_Minato_Tomoka_[FLAC]_[w_Scans].rar
+!new/[Ayako]_Ikoku_Meiro_no_Croisée_-_11_[H264][720p][6672BF5A].mkv
+!new/[Hiryuu] Double-J 01 [1280x720 H264 AAC] [617397D6].mkv
+!new/[Hiryuu] Double-J 02 [1280x720 H264 AAC] [A8623262].mkv
+!new/[Hiryuu] Double-J 08 [1280x720 H264 AAC] [59B06EAA].mkv
+!new/[Hiryuu] Double-J 09 [1280x720 H264 AAC] [B64FC246].mkv
 !new/[Hiyono]_Fairy_Tail_OVA_-_01v2_(DVD)_[ED4EDF6B].mkv
 !new/[Hiyono]_Fairy_Tail_OVA_-_02_(DVD)_[439BDF1A].mkv
 !new/[HorribleSubs] A Dark Rabbit Has Seven Lives - 11 [720p].mkv
@@ -653,6 +659,7 @@
 !new/[HorribleSubs] Cardfight!! Vanguard - 37 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 12 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 98 [720p].mkv
+!new/[HorribleSubs] Hanasaku Iroha - 26 [720p].mkv
 !new/[HorribleSubs] Kamisama Dolls - 12 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 229 [720p].mkv
 !new/[HorribleSubs] Nichijou - 26 [720p].mkv
@@ -661,9 +668,12 @@
 !new/[HorribleSubs] SKET Dance - 25 [720p].mkv
 !new/[HorribleSubs] Twin Angel - Twinkle Paradise - 11 [720p].mkv
 !new/[HorribleSubs] YuruYuri - 12 [720p].mkv
+!new/[JNE-REMUX][HorribleSubs]_No._6_-_11_[720p].mkv
+!new/[Jumonji-Giri]_[A-Flux]_Tenshi_no_Shippo_Chu_Ep04-06_(bde0ba06).mkv
 !new/[KindaHorribleSubs] Naruto Shippuuden - 229 [720p].mkv
 !new/[KindaHorribleSubs] Sket Dance - 25 [720p].mkv
 !new/[KindaHorribleSubs]Kamisama Dolls - 12 [720p].mkv
+!new/[SHiN-gx] Morita-san wa Mukuchi - 12 [720p][65BDF97D].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -679,6 +689,8 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[gg]_Ao_no_Exorcist_-_24_[8DBDB579].mkv
+!new/[yibis]_One_Piece_514_[720p][31F7D279].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
