@@ -654,11 +654,27 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
+!new/[ASL]_Katou_Emiri_-_Yuruyuri_Character_Disc_5_-_Kirai_Janai_mon_[FLAC]_[w_Scans].rar
+!new/[ASL]_Mikami_Shiori_-_Yuruyuri_Character_Disc_1_-_Watashi_Shuyaku_no_Akaza_Akari_Desu_[FLAC]_[w_Scans].rar
+!new/[ASL]_Mimori_Suzuko_-_Yuruyuri_Character_Disc_6_-_Day_by_day_[FLAC]_[w_Scans].rar
 !new/[ASL]_ShibayanRecords_-_Kokoro_Vibration_[FLAC]_[w_Scans].rar
+!new/[ASL]_Tsuda_Minami_-_Yuruyuri_Character_Disc_2_-_Goyururi_World_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Puella_Magi_Madoka_Magica_Original_Soundtrack_Vol._3_[FLAC].rar
+!new/[AonE]_Daa!_Daa!_Daa!_-_53_[DVD][785BE3D6].avi
+!new/[AonE]_Daa!_Daa!_Daa!_-_54_[DVD][75CEC757].avi
+!new/[AonE]_Daa!_Daa!_Daa!_-_55_[DVD][51060809].avi
+!new/[AonE]_Daa!_Daa!_Daa!_-_56_[DVD][3F05BBE5].avi
+!new/[AonE]_Daa!_Daa!_Daa!_-_57_[DVD][19E907D8].avi
+!new/[AonE]_Daa!_Daa!_Daa!_-_58_[DVD][FFA52455].avi
+!new/[AonE]_Daa!_Daa!_Daa!_-_59_[DVD][560F05B3].avi
+!new/[AonE]_Daa!_Daa!_Daa!_-_60_[DVD][DECAE823].avi
+!new/[AonE]_Daa!_Daa!_Daa!_-_61_[DVD][36F57A49].avi
+!new/[AonE]_Daa!_Daa!_Daa!_-_62_[DVD][77A7AE82].avi
+!new/[AonE]_Daa!_Daa!_Daa!_-_63_[DVD][BA536F2F].avi
 !new/[Ayako]_Jewelpet_Sunshine_-_01_[H264][720p][F4ED98BD].mkv
 !new/[Ayako]_Jewelpet_Sunshine_-_02_[H264][720p][18CF77DD].mkv
 !new/[Chibiki]_THE_iDOLM@STER_-_12_[720p][71ADE7A0].mkv
+!new/[Chibiki]_THE_iDOLM@STER_-_13_[720p][6A9CED6A].mkv
 !new/[Commie] Natsume Yuujinchou San - 13 [C3517B84].mkv
 !new/[CureCom] Fresh Pretty Cure! - 37 [HD][3EAF85BD].mkv
 !new/[Derp]_Itsuka_Tenma_no_Kuro_Usagi_-_12_[1280x720_x264_AAC][1966CC3D].mkv
@@ -684,6 +700,7 @@
 !new/[HorribleSubs] Beelzebub - 35 [720p].mkv
 !new/[HorribleSubs] Bleach - 341 [720p].mkv
 !new/[HorribleSubs] Kamisama Dolls - 13 [720p].mkv
+!new/[HorribleSubs] Moritasan wa Mukuchi - 13 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 228 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 230 [720p].mkv
 !new/[HorribleSubs] Nekogami Yaoyorozu - 12 [720p].mkv
@@ -756,6 +773,7 @@
 !new/[RyRo]_Inazuma_Eleven_-_92_(1280x720_x264_AAC)_[2243B3D9].mkv
 !new/[RyRo]_Inazuma_Eleven_-_93_(1280x720_x264_AAC)_[CE8414F8].mkv
 !new/[RyRo]_Inazuma_Eleven_-_96_(1280x720_x264_AAC)_[D3D5FEBF].mkv
+!new/[SubDESU]_Manyuu_Hikenchou_-_11_~DC~_(1280x720)_[1F9981DD].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -772,12 +790,14 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[Underwater] Shinryaku! Ika Musume S2 - 01 (720p) [E93ADEE3].mkv
+!new/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 07 [DVD H264 640x480] [9F54E509].mkv
 !new/[WhyNot] Mayo Chiki - 13 [EEE11E87].mkv
 !new/[aarinfantasy]_Sekai-ichi_Hatsukoi_OVA2_[99360F90].avi
 !new/[gg]_Mawaru_Penguindrum_-_12_[8AE3776F].mkv
 !new/[iSiscon]_Kashii_Airi_(CV._Hidaka_Rina)_-_RO-KYU-BU!_Character_Songs_05_Kashii_Airi_(FLAC).rar
 !new/[iSiscon]_Kuribayashi_Minami,_Hashimoto_Miyuki,_Faylan,_Misato_Aki,_yozuca,_rino_-_OVA_Carnival_Phantasm_OP_Single_-_Super_Affection_(FLAC).rar
 !new/[iSiscon]_Touwa_Erio_(CV._Oogame_Asuka),_Mifune_Ryuuko_(CV._Katou_Emiri),_Maekawa-san_(CV._Fuchigami_Mai)_-_Denpa_Onna_to_Seishun_Otoko_Character_Song_Album_Vol.1_(FLAC).rar
+!new/[yibis]_One_Piece_515_[720p][F79DD1D6].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
