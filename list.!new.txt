@@ -53,6 +53,7 @@
 !new/.broken/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.mkv
 !new/.broken/[Chiki-Subs]_Mayo_Chiki_-_01v2_(1280x720_H.264.AAC)_[45704136].mkv
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
+!new/Bluray Gallery.zip
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
@@ -81,7 +82,20 @@
 !new/Dragon Ball/Movie - 06 - Return Of Cooler.rmvb
 !new/Dragon Ball/Movie - 08 - Broly The Legendary Super Saiyan.rmvb
 !new/Dragon Ball/Movie - 09 - Bojack Unbound.rmvb
-!new/Getter Robo Armageddon (Incomplete)/[ASS] Getter Robo Armageddon - 01 - From_beyond_the_grave_.avi
+!new/Getter Robo Armageddon (COMPLETE!!)/[ASS] Getter Robo Armageddon - 01 - From_beyond_the_grave_.avi
+!new/Getter Robo Armageddon (COMPLETE!!)/[ASS] Getter Robo Armageddon - 02 - Shin_Dragon._God_or_Devil._.avi
+!new/Getter Robo Armageddon (COMPLETE!!)/[ASS] Getter Robo Armageddon - 03 - Goodbye,_Getters_.avi
+!new/Getter Robo Armageddon (COMPLETE!!)/[ASS] Getter Robo Armageddon - 04 - After_The_Blast_.avi
+!new/Getter Robo Armageddon (COMPLETE!!)/[ASS] Getter Robo Armageddon - 05 - The_New_Generation_.avi
+!new/Getter Robo Armageddon (COMPLETE!!)/[ASS] Getter Robo Armageddon - 06 - The_Awful_Truth_.avi
+!new/Getter Robo Armageddon (COMPLETE!!)/[ASS] Getter Robo Armageddon - 07 - Into_the_Dragon_.avi
+!new/Getter Robo Armageddon (COMPLETE!!)/[ASS] Getter Robo Armageddon - 08 - Blood_and_Ice_.avi
+!new/Getter Robo Armageddon (COMPLETE!!)/[ASS] Getter Robo Armageddon - 09 - Battleground._Manhattan_.avi
+!new/Getter Robo Armageddon (COMPLETE!!)/[ASS] Getter Robo Armageddon - 10 - War_in_the_Pacific_.avi
+!new/Getter Robo Armageddon (COMPLETE!!)/[ASS] Getter Robo Armageddon - 11 - Overload_.avi
+!new/Getter Robo Armageddon (COMPLETE!!)/[ASS] Getter Robo Armageddon - 12 - Help_from_the_Stars_.avi
+!new/Getter Robo Armageddon (COMPLETE!!)/[ASS] Getter Robo Armageddon - 13 - Evolution`s_End_.avi
+!new/Inazuma Eleven 126 - Eyecatch [070A49DB].mp4
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].ENG.srt
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].avi
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 01 KTCR-9010/1. kanashimi yo konnichiwa (Saitou Yuki)  [OP]  (Hello! Sadness).mp3
@@ -351,11 +365,9 @@
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/List.txt
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/disc_8.jpg
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/mibox_cover.gif
-!new/Millennium.Actress.2001.HDTV.RE.720p.DD5.1.x264-MDC.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
-!new/Perfect_Blue_(1998)_[720p,BluRay,x264]_-_THORA.mkv
 !new/Ranma (Complete)/Ranma Movies and OVAs/Thumbs.db
 !new/Ranma (Complete)/Ranma Movies and OVAs/[anime_fin]_Ranma_Movie_1_DVDRiP_dualaudio.ogm
 !new/Ranma (Complete)/Ranma Movies and OVAs/[anime_fin]_Ranma_Movie_2_DVDRiP_dualaudio.ogm
@@ -562,7 +574,6 @@
 !new/Spiral/[OX-] Spiral - 23 [F0C087C7].mkv
 !new/Spiral/[OX-] Spiral - 24 [629E7645].mkv
 !new/Spiral/[OX-] Spiral - 25 [End][EC92212D].mkv
-!new/Tekkon_Kinkreet_(2006)_[720p,BluRay,x264]_-_THORA.mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_01v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_02v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_03v2[divx5.1.1].mkv
@@ -643,37 +654,105 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[ASL]_Hanazawa_Kana_-_Ro-Kyu-Bu!_Character_Songs_01_Minato_Tomoka_[FLAC]_[w_Scans].rar
-!new/[Ayako]_Ikoku_Meiro_no_Croisée_-_11_[H264][720p][6672BF5A].mkv
-!new/[Hiryuu] Double-J 01 [1280x720 H264 AAC] [617397D6].mkv
-!new/[Hiryuu] Double-J 02 [1280x720 H264 AAC] [A8623262].mkv
-!new/[Hiryuu] Double-J 08 [1280x720 H264 AAC] [59B06EAA].mkv
-!new/[Hiryuu] Double-J 09 [1280x720 H264 AAC] [B64FC246].mkv
-!new/[Hiyono]_Fairy_Tail_OVA_-_01v2_(DVD)_[ED4EDF6B].mkv
-!new/[Hiyono]_Fairy_Tail_OVA_-_02_(DVD)_[439BDF1A].mkv
+!new/[ASL]_ShibayanRecords_-_Kokoro_Vibration_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Puella_Magi_Madoka_Magica_Original_Soundtrack_Vol._3_[FLAC].rar
+!new/[Ayako]_Jewelpet_Sunshine_-_01_[H264][720p][F4ED98BD].mkv
+!new/[Ayako]_Jewelpet_Sunshine_-_02_[H264][720p][18CF77DD].mkv
+!new/[Chibiki]_THE_iDOLM@STER_-_12_[720p][71ADE7A0].mkv
+!new/[Commie] Natsume Yuujinchou San - 13 [C3517B84].mkv
+!new/[CureCom] Fresh Pretty Cure! - 37 [HD][3EAF85BD].mkv
+!new/[Derp]_Itsuka_Tenma_no_Kuro_Usagi_-_12_[1280x720_x264_AAC][1966CC3D].mkv
+!new/[DmonHiro] Needless NCED1 (BD, 720p, FLAC) [42552614].mkv
+!new/[DmonHiro] Needless NCED2 (BD, 720p, FLAC) [6EB31A1F].mkv
+!new/[DmonHiro] Needless NCOP1 (BD, 720p, FLAC) [F0332DA0].mkv
+!new/[DmonHiro] Needless NCOP2 (BD, 720p, FLAC) [9B7A3063].mkv
+!new/[DmonHiro] Needless+ 01 (BD, 720p, FLAC).mkv
+!new/[DmonHiro] Needless+ 02 (BD, 720p, FLAC).mkv
+!new/[DmonHiro] Needless+ 03 (BD, 720p, FLAC).mkv
+!new/[DmonHiro] Needless+ 04 (BD, 720p, FLAC).mkv
+!new/[DmonHiro] Needless+ 05 (BD, 720p, FLAC).mkv
+!new/[DmonHiro] Needless+ 06 (BD, 720p, FLAC).mkv
+!new/[DmonHiro] Needless+ 07 (BD, 720p, FLAC).mkv
+!new/[DmonHiro] Needless+ 08 (BD, 720p, FLAC).mkv
+!new/[DmonHiro] Needless+ 09 (BD, 720p, FLAC).mkv
+!new/[DmonHiro] Needless+ 10 (BD, 720p, FLAC).mkv
+!new/[DmonHiro] Needless+ 11 (BD, 720p, FLAC).mkv
+!new/[DmonHiro] Needless+ 12 (BD, 720p, FLAC).mkv
+!new/[Doremi-CureCom].Suite.PreCure!.32.[1280x720].[CCD1388E].mkv
+!new/[Doremi].Kaiji.S2.Episode.26.[BF5B5200].mkv
 !new/[HorribleSubs] A Dark Rabbit Has Seven Lives - 11 [720p].mkv
-!new/[HorribleSubs] A Dark Rabbit Has Seven Lives - 12 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 35 [720p].mkv
-!new/[HorribleSubs] Bleach - 340 [720p].mkv
-!new/[HorribleSubs] Cardfight!! Vanguard - 12 [720p].mkv
-!new/[HorribleSubs] Cardfight!! Vanguard - 37 [720p].mkv
-!new/[HorribleSubs] Fairy Tail - 12 [720p].mkv
-!new/[HorribleSubs] Fairy Tail - 98 [720p].mkv
-!new/[HorribleSubs] Hanasaku Iroha - 26 [720p].mkv
-!new/[HorribleSubs] Kamisama Dolls - 12 [720p].mkv
-!new/[HorribleSubs] Naruto Shippuuden - 229 [720p].mkv
-!new/[HorribleSubs] Nichijou - 26 [720p].mkv
-!new/[HorribleSubs] R-15 - 11 [720p].mkv
-!new/[HorribleSubs] R-15 - 12 [720p].mkv
-!new/[HorribleSubs] SKET Dance - 25 [720p].mkv
-!new/[HorribleSubs] Twin Angel - Twinkle Paradise - 11 [720p].mkv
-!new/[HorribleSubs] YuruYuri - 12 [720p].mkv
+!new/[HorribleSubs] Bleach - 341 [720p].mkv
+!new/[HorribleSubs] Kamisama Dolls - 13 [720p].mkv
+!new/[HorribleSubs] Naruto Shippuuden - 228 [720p].mkv
+!new/[HorribleSubs] Nekogami Yaoyorozu - 12 [720p].mkv
 !new/[JNE-REMUX][HorribleSubs]_No._6_-_11_[720p].mkv
-!new/[Jumonji-Giri]_[A-Flux]_Tenshi_no_Shippo_Chu_Ep04-06_(bde0ba06).mkv
-!new/[KindaHorribleSubs] Naruto Shippuuden - 229 [720p].mkv
-!new/[KindaHorribleSubs] Sket Dance - 25 [720p].mkv
-!new/[KindaHorribleSubs]Kamisama Dolls - 12 [720p].mkv
-!new/[SHiN-gx] Morita-san wa Mukuchi - 12 [720p][65BDF97D].mkv
+!new/[Jumonji-Giri]_[A-Flux]_Tenshi_no_Shippo_Chu_Ep07-09_(a40de556).mkv
+!new/[Licca] Happy Kappi Episode 24 (h.264) [40B91EA7].mkv
+!new/[LonE]_Tainaka_Sachi_-_Mariage_-tribute_to_Fate-_[w_scans]_(FLAC).rar
+!new/[Nipponsei] Astarotte no Omocha! Original Soundtrack.zip
+!new/[Nipponsei] BLEACH ED28 Single - Haruka Kanata [UNLIMITS].zip
+!new/[Nipponsei] Dog Days Original Soundtrack Vol.2.zip
+!new/[Nipponsei] Hanasaku Iroha Character Song Single - Matsumae Ohana [Itou Kanae].zip
+!new/[Nipponsei] Kami-sama no Memo-chou Original Soundtrack.zip
+!new/[Nutbladder]_Kaiji_S2_-_24_[AB9B9CD7].mkv
+!new/[Nutbladder]_Kaiji_S2_-_25_[D0C6FD16].mkv
+!new/[Nutbladder]_Kaiji_S2_-_26_[EB3BF433].mkv
+!new/[Okashii-RyRo]_Inazuma_Eleven_-_21_(1280x720_x264_AAC)_[57D241D8].mkv
+!new/[Okashii-RyRo]_Inazuma_Eleven_-_25_(1280x720_x264_AAC)_[2D852794].mkv
+!new/[Okashii-RyRo]_Inazuma_Eleven_-_26_(1280x720_x264_AAC)_[A174EC6A].mkv
+!new/[Okashii-RyRo]_Inazuma_Eleven_-_27_(1280x720_x264_AAC)_[1B8AA808].mkv
+!new/[Okashii-RyRo]_Inazuma_Eleven_-_28_(1280x720_x264_AAC)_[32E689A7].mkv
+!new/[Okashii-RyRo]_Inazuma_Eleven_-_29_(1280x720_x264_AAC)_[64603FF4].mkv
+!new/[Okashii-RyRo]_Inazuma_Eleven_-_30_(1280x720_x264_AAC)_[E32D7B8B].mkv
+!new/[Okashii-RyRo]_Inazuma_Eleven_-_31_(1280x720_x264_AAC)_[F079F07C].mkv
+!new/[Okashii-RyRo]_Inazuma_Eleven_-_32_(1280x720_x264_AAC)_[729D4756].mkv
+!new/[ReDone] Rizelmine - 09 (DVD) [18691AB9].mkv
+!new/[RyRo]_Digimon_Xros_Wars_-_54_(1280x720_x264_AAC)_[6B6DCAD5].mkv
+!new/[RyRo]_Inazuma_Eleven_-_103_(1280x720_x264_AAC)_[B1E034CB].mkv
+!new/[RyRo]_Inazuma_Eleven_-_104_(1280x720_x264_AAC)_[7DE9963B].mkv
+!new/[RyRo]_Inazuma_Eleven_-_117-120_Eyecatches_(704x396)_[5757C99D].mkv
+!new/[RyRo]_Inazuma_Eleven_-_121_(1280x720_x264_AAC)_[DE2EEBA8].mkv
+!new/[RyRo]_Inazuma_Eleven_-_125_(1280x720_x264_AAC)_[C47DD343].mkv
+!new/[RyRo]_Inazuma_Eleven_-_33_(1280x720_x264_AAC)_[982C22FD].mkv
+!new/[RyRo]_Inazuma_Eleven_-_34_(1280x720_x264_AAC)_[2B8BBD92].mkv
+!new/[RyRo]_Inazuma_Eleven_-_35_(1280x720_x264_AAC)_[042D4E11].mkv
+!new/[RyRo]_Inazuma_Eleven_-_36_(1280x720_x264_AAC)_[1283BDAB].mkv
+!new/[RyRo]_Inazuma_Eleven_-_37_(1280x720_x264_AAC)_[EAEA79C0].mkv
+!new/[RyRo]_Inazuma_Eleven_-_38_(1280x720_x264_AAC)_[63B276C6].mkv
+!new/[RyRo]_Inazuma_Eleven_-_39_(1280x720_x264_AAC)_[422EADA6].mkv
+!new/[RyRo]_Inazuma_Eleven_-_40_(1280x720_x264_AAC)_[A6849002].mkv
+!new/[RyRo]_Inazuma_Eleven_-_41_(1280x720_x264_AAC)_[E3828B16].mkv
+!new/[RyRo]_Inazuma_Eleven_-_42_(1280x720_x264_AAC)_[2F7EE710].mkv
+!new/[RyRo]_Inazuma_Eleven_-_43_(1280x720_x264_AAC)_[0EC14508].mkv
+!new/[RyRo]_Inazuma_Eleven_-_44_(1280x720_x264_AAC)_[57C920CB].mkv
+!new/[RyRo]_Inazuma_Eleven_-_45_(1280x720_x264_AAC)_[AB235A34].mkv
+!new/[RyRo]_Inazuma_Eleven_-_46_(1280x720_x264_AAC)_[478DE32C].mkv
+!new/[RyRo]_Inazuma_Eleven_-_47_(1280x720_x264_AAC)_[0941C309].mkv
+!new/[RyRo]_Inazuma_Eleven_-_48_(1280x720_x264_AAC)_[3ACADAE4].mkv
+!new/[RyRo]_Inazuma_Eleven_-_49_(1280x720_x264_AAC)_[58006507].mkv
+!new/[RyRo]_Inazuma_Eleven_-_50_(1280x720_x264_AAC)_[F5AE917B].mkv
+!new/[RyRo]_Inazuma_Eleven_-_51_(1280x720_x264_AAC)_[EE7CACA8].mkv
+!new/[RyRo]_Inazuma_Eleven_-_52_(1280x720_x264_AAC)_[CD64312B].mkv
+!new/[RyRo]_Inazuma_Eleven_-_53_(1280x720_x264_AAC)_[2B65227D].mkv
+!new/[RyRo]_Inazuma_Eleven_-_54_(1280x720_x264_AAC)_[AA616BA0].mkv
+!new/[RyRo]_Inazuma_Eleven_-_55_(1280x720_x264_AAC)_[4EE75221].mkv
+!new/[RyRo]_Inazuma_Eleven_-_56_(1280x720_x264_AAC)_[A333520C].mkv
+!new/[RyRo]_Inazuma_Eleven_-_57_(1280x720_x264_AAC)_[FD70AE4C].mkv
+!new/[RyRo]_Inazuma_Eleven_-_58_(1280x720_x264_AAC)_[7722E4B3].mkv
+!new/[RyRo]_Inazuma_Eleven_-_59_(1280x720_x264_AAC)_[7F85707A].mkv
+!new/[RyRo]_Inazuma_Eleven_-_60_(1280x720_x264_AAC)_[A36D4664].mkv
+!new/[RyRo]_Inazuma_Eleven_-_61_(1280x720_x264_AAC)_[6ACD46D9].mkv
+!new/[RyRo]_Inazuma_Eleven_-_62_(1280x720_x264_AAC)_[98FBD8EC].mkv
+!new/[RyRo]_Inazuma_Eleven_-_63_(1280x720_x264_AAC)_[25FC84AB].mkv
+!new/[RyRo]_Inazuma_Eleven_-_64_(1280x720_x264_AAC)_[EDB45E15].mkv
+!new/[RyRo]_Inazuma_Eleven_-_85_(1280x720_x264_AAC)_[E09B973F].mkv
+!new/[RyRo]_Inazuma_Eleven_-_86_(1280x720_x264_AAC)_[E2A2B04A].mkv
+!new/[RyRo]_Inazuma_Eleven_-_88-89_(1280x720_x264_AAC)_[5B04E505].mkv
+!new/[RyRo]_Inazuma_Eleven_-_91_(1280x720_x264_AAC)_[98C2FE33].mkv
+!new/[RyRo]_Inazuma_Eleven_-_92_(1280x720_x264_AAC)_[2243B3D9].mkv
+!new/[RyRo]_Inazuma_Eleven_-_93_(1280x720_x264_AAC)_[CE8414F8].mkv
+!new/[RyRo]_Inazuma_Eleven_-_96_(1280x720_x264_AAC)_[D3D5FEBF].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -689,8 +768,11 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[gg]_Ao_no_Exorcist_-_24_[8DBDB579].mkv
-!new/[yibis]_One_Piece_514_[720p][31F7D279].mkv
+!new/[Underwater] Shinryaku! Ika Musume S2 - 01 (720p) [E93ADEE3].mkv
+!new/[aarinfantasy]_Sekai-ichi_Hatsukoi_OVA2_[99360F90].avi
+!new/[iSiscon]_Kashii_Airi_(CV._Hidaka_Rina)_-_RO-KYU-BU!_Character_Songs_05_Kashii_Airi_(FLAC).rar
+!new/[iSiscon]_Kuribayashi_Minami,_Hashimoto_Miyuki,_Faylan,_Misato_Aki,_yozuca,_rino_-_OVA_Carnival_Phantasm_OP_Single_-_Super_Affection_(FLAC).rar
+!new/[iSiscon]_Touwa_Erio_(CV._Oogame_Asuka),_Mifune_Ryuuko_(CV._Katou_Emiri),_Maekawa-san_(CV._Fuchigami_Mai)_-_Denpa_Onna_to_Seishun_Otoko_Character_Song_Album_Vol.1_(FLAC).rar
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -796,7 +878,6 @@
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
 !new/lama/[Kuroneko] Fullmetal Alchemist - Chibi Party OAV [DB1546EB].avi
 !new/lama/[TAC Studios] Hunter X Hunter - Requiem.avi
-!new/millennium_actress[h264.ac3][niizk][994D1450].mkv
 !new/narutoship/Naruto Shippuden 001-002.avi
 !new/narutoship/Naruto Shippuden 003.avi
 !new/narutoship/Naruto Shippuden 004.avi
