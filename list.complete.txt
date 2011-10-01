@@ -8757,6 +8757,19 @@ complete/k/Kamichu!/[Blitz] Kamichu! - 13 [B3876C29].mkv
 complete/k/Kamichu!/[Blitz] Kamichu! - 14 [992A4EF1].mkv
 complete/k/Kamichu!/[Blitz] Kamichu! - 15 [E8A71F26].mkv
 complete/k/Kamichu!/[Blitz] Kamichu! - 16 [End][F48A7903].mkv
+complete/k/Kamisama Dolls/[HorribleSubs] Kamisama Dolls - 01 [720p][88425CFA].mkv
+complete/k/Kamisama Dolls/[HorribleSubs] Kamisama Dolls - 02 [720p][F741C7DE].mkv
+complete/k/Kamisama Dolls/[HorribleSubs] Kamisama Dolls - 03 [720p][551EE26F].mkv
+complete/k/Kamisama Dolls/[HorribleSubs] Kamisama Dolls - 04 [720p][0CBCEAF9].mkv
+complete/k/Kamisama Dolls/[HorribleSubs] Kamisama Dolls - 05 [720p][82B53BA5].mkv
+complete/k/Kamisama Dolls/[HorribleSubs] Kamisama Dolls - 06 [720p][C78B4F66].mkv
+complete/k/Kamisama Dolls/[HorribleSubs] Kamisama Dolls - 07 [720p][E0126964].mkv
+complete/k/Kamisama Dolls/[HorribleSubs] Kamisama Dolls - 08 [720p][4FA722EC].mkv
+complete/k/Kamisama Dolls/[HorribleSubs] Kamisama Dolls - 09 [720p][4880ABF3].mkv
+complete/k/Kamisama Dolls/[HorribleSubs] Kamisama Dolls - 10 [720p][238C2670].mkv
+complete/k/Kamisama Dolls/[HorribleSubs] Kamisama Dolls - 11 [720p][67922A8A].mkv
+complete/k/Kamisama Dolls/[HorribleSubs] Kamisama Dolls - 12 [720p][F76A2F74].mkv
+complete/k/Kamisama Dolls/[HorribleSubs] Kamisama Dolls - 13 [End][720p][D82CBF99].mkv
 complete/k/Kamisama Kazoku/[Rabbit-Force] Kamisama Kazoku - 01 [DVD][20308D51].mkv
 complete/k/Kamisama Kazoku/[Rabbit-Force] Kamisama Kazoku - 02 [DVD][789BAE98].mkv
 complete/k/Kamisama Kazoku/[Rabbit-Force] Kamisama Kazoku - 03 [DVD][39E5B124].mkv
@@ -12391,6 +12404,24 @@ complete/m/Moonlight Mile S2/[GotWoot] Moonlight Mile S2 - 12 [720p][F7F57767].m
 complete/m/Moonlight Mile S2/[GotWoot] Moonlight Mile S2 - 13 [720p][281CD854].mkv
 complete/m/Moonlight Mile S2/[GotWoot] Moonlight Mile S2 - 14 [End][720p][6D729F07].mkv
 complete/m/Morita-san wa Mukuchi OVA/[Kata-Subs] Morita-san wa Mukuchi OVA [DVD][3B62DCE4].mkv
+complete/m/Morita-san wa Mukuchi/[HorribleSubs] Morita-san wa Mukuchi - 01 [720p][CD6ED5C7].mkv
+complete/m/Morita-san wa Mukuchi/[HorribleSubs] Morita-san wa Mukuchi - 02 [720p][E3D4EC97].mkv
+complete/m/Morita-san wa Mukuchi/[HorribleSubs] Morita-san wa Mukuchi - 03 [720p][B5297473].mkv
+complete/m/Morita-san wa Mukuchi/[HorribleSubs] Morita-san wa Mukuchi - 10 [720p][A448169E].mkv
+complete/m/Morita-san wa Mukuchi/[HorribleSubs] Morita-san wa Mukuchi - 11 [35A69A6A].mkv
+complete/m/Morita-san wa Mukuchi/[HorribleSubs] Morita-san wa Mukuchi - 13 [End][720p][521FB241].mkv
+complete/m/Morita-san wa Mukuchi/[SHiN-gx] Morita-san wa Mukuchi - 01 [v2 720p][7B600570].mkv
+complete/m/Morita-san wa Mukuchi/[SHiN-gx] Morita-san wa Mukuchi - 02 [v2 720p][94E29DE6].mkv
+complete/m/Morita-san wa Mukuchi/[SHiN-gx] Morita-san wa Mukuchi - 03 [v2 720p][E7163B8C].mkv
+complete/m/Morita-san wa Mukuchi/[SHiN-gx] Morita-san wa Mukuchi - 04 [v2 720p][0EA737DB].mkv
+complete/m/Morita-san wa Mukuchi/[SHiN-gx] Morita-san wa Mukuchi - 05 [v2 720p][D2A30C09].mkv
+complete/m/Morita-san wa Mukuchi/[SHiN-gx] Morita-san wa Mukuchi - 06 [720p][FED455A1].mkv
+complete/m/Morita-san wa Mukuchi/[SHiN-gx] Morita-san wa Mukuchi - 07 [v2 720p][0BFEAC26].mkv
+complete/m/Morita-san wa Mukuchi/[SHiN-gx] Morita-san wa Mukuchi - 08 [720p][F29D16CA].mkv
+complete/m/Morita-san wa Mukuchi/[SHiN-gx] Morita-san wa Mukuchi - 09 [720p][7EBF137A].mkv
+complete/m/Morita-san wa Mukuchi/[SHiN-gx] Morita-san wa Mukuchi - 10 [720p][42A03A12].mkv
+complete/m/Morita-san wa Mukuchi/[SHiN-gx] Morita-san wa Mukuchi - 11 [720p][5083CDC5].mkv
+complete/m/Morita-san wa Mukuchi/[SHiN-gx] Morita-san wa Mukuchi - 12 [720p][65BDF97D].mkv
 complete/m/Moshidora/[gg] Moshidora - 01 [v3][28A999C1].mkv
 complete/m/Moshidora/[gg] Moshidora - 02 [v2][94831D8C].mkv
 complete/m/Moshidora/[gg] Moshidora - 03 [A883B7F4].mkv
@@ -12926,6 +12957,19 @@ complete/n/Naruto/Naruto - 219 [AonE][05170444].avi
 complete/n/Naruto/Naruto - 220 [AonE][End][E15847D3].avi
 complete/n/Natsuiro no Sunadokei/[SS] Natsuiro no Sunadokei - 1 [630A528E].avi
 complete/n/Natsuiro no Sunadokei/[SS] Natsuiro no Sunadokei - 2 [End][D078279F].avi
+complete/n/Natsume Yuujinchou San/[Commie] Natsume Yuujinchou San - 01 [CB15A29C].mkv
+complete/n/Natsume Yuujinchou San/[Commie] Natsume Yuujinchou San - 02 [70781DE4].mkv
+complete/n/Natsume Yuujinchou San/[Commie] Natsume Yuujinchou San - 03 [C668B807].mkv
+complete/n/Natsume Yuujinchou San/[Commie] Natsume Yuujinchou San - 04 [F1007595].mkv
+complete/n/Natsume Yuujinchou San/[Commie] Natsume Yuujinchou San - 05 [FFAFDEF4].mkv
+complete/n/Natsume Yuujinchou San/[Commie] Natsume Yuujinchou San - 06 [AB69FA4D].mkv
+complete/n/Natsume Yuujinchou San/[Commie] Natsume Yuujinchou San - 07 [3B549380].mkv
+complete/n/Natsume Yuujinchou San/[Commie] Natsume Yuujinchou San - 08 [27691D56].mkv
+complete/n/Natsume Yuujinchou San/[Commie] Natsume Yuujinchou San - 09 [23518C72].mkv
+complete/n/Natsume Yuujinchou San/[Commie] Natsume Yuujinchou San - 10 [7C4FC232].mkv
+complete/n/Natsume Yuujinchou San/[Commie] Natsume Yuujinchou San - 11 [F75E13A9].mkv
+complete/n/Natsume Yuujinchou San/[Commie] Natsume Yuujinchou San - 12 [B8CDCA4F].mkv
+complete/n/Natsume Yuujinchou San/[Commie] Natsume Yuujinchou San - 13 [End][C3517B84].mkv
 complete/n/Natsume Yuujinchou/[BSS] Natsume Yuujinchou - 01 [9398884E].mkv
 complete/n/Natsume Yuujinchou/[BSS] Natsume Yuujinchou - 02 [8FEC7AD1].mkv
 complete/n/Natsume Yuujinchou/[BSS] Natsume Yuujinchou - 03 [BA5348BB].mkv
@@ -12939,12 +12983,6 @@ complete/n/Natsume Yuujinchou/[BSS] Natsume Yuujinchou - 10 [41577B82].mkv
 complete/n/Natsume Yuujinchou/[BSS] Natsume Yuujinchou - 11 [BA42F76C].mkv
 complete/n/Natsume Yuujinchou/[BSS] Natsume Yuujinchou - 12 [B15C979D].mkv
 complete/n/Natsume Yuujinchou/[BSS] Natsume Yuujinchou - 13 [End][217FF831].mkv
-complete/n/Needless/[Ayako-Himatsubushi] Needless - 19 [720p][E88925B0].mkv
-complete/n/Needless/[Ayako-Himatsubushi] Needless - 20 [720p][6B3766B9].mkv
-complete/n/Needless/[Ayako-Himatsubushi] Needless - 21 [720p][768E10AC].mkv
-complete/n/Needless/[Ayako-Himatsubushi] Needless - 22 [720p][102B2984].mkv
-complete/n/Needless/[Ayako-Himatsubushi] Needless - 23 [720p][EB07E592].mkv
-complete/n/Needless/[Ayako-Himatsubushi] Needless - 24 [720p][End][BC46EDE6].mkv
 complete/n/Needless/[DmonHiro] Needless - 01 [720p BD][D5903F8B].mkv
 complete/n/Needless/[DmonHiro] Needless - 02 [720p BD][1FE15FE5].mkv
 complete/n/Needless/[DmonHiro] Needless - 03 [720p BD][B14A2084].mkv
@@ -12963,6 +13001,16 @@ complete/n/Needless/[DmonHiro] Needless - 15 [720p BD][085DAF22].mkv
 complete/n/Needless/[DmonHiro] Needless - 16 [720p BD][4D016645].mkv
 complete/n/Needless/[DmonHiro] Needless - 17 [720p BD][F29D3453].mkv
 complete/n/Needless/[DmonHiro] Needless - 18 [720p BD][40745C94].mkv
+complete/n/Needless/[DmonHiro] Needless - 19 [720p BD][42FF557E].mkv
+complete/n/Needless/[DmonHiro] Needless - 20 [720p BD][04F2D971].mkv
+complete/n/Needless/[DmonHiro] Needless - 21 [720p BD][D9FD29F9].mkv
+complete/n/Needless/[DmonHiro] Needless - 22 [720p BD][8F382AE6].mkv
+complete/n/Needless/[DmonHiro] Needless - 23 [720p BD][D0E3C2CD].mkv
+complete/n/Needless/[DmonHiro] Needless - 24 [End][720p BD][3F18AF79].mkv
+complete/n/Needless/[DmonHiro] Needless - Ending 1 (Clean) [720p BD][42552614].mkv
+complete/n/Needless/[DmonHiro] Needless - Ending 2 (Clean) [720p BD][6EB31A1F].mkv
+complete/n/Needless/[DmonHiro] Needless - Opening 1 (Clean) [720p BD][F0332DA0].mkv
+complete/n/Needless/[DmonHiro] Needless - Opening 2 (Clean) [720p BD][9B7A3063].mkv
 complete/n/Negima OVA/[AQS-Anime] Negima OVA - Haru [E02565D0].mkv
 complete/n/Negima OVA/[AQS-Anime] Negima OVA - Natsu [3A869559].mkv
 complete/n/Negima!/[Exiled-Destiny] Negima! - 01 [0A6A0F79].mkv
@@ -12991,6 +13039,18 @@ complete/n/Negima!/[Exiled-Destiny] Negima! - 23 [0B90E44C].mkv
 complete/n/Negima!/[Exiled-Destiny] Negima! - 24 [4FEFA70D].mkv
 complete/n/Negima!/[Exiled-Destiny] Negima! - 25 [BD36BC7E].mkv
 complete/n/Negima!/[Exiled-Destiny] Negima! - 26 [End][8A736668].mkv
+complete/n/Nekogami Yaoyorozu/[HorribleSubs] Nekogami Yaoyorozu - 01 [720p][692F3D41].mkv
+complete/n/Nekogami Yaoyorozu/[HorribleSubs] Nekogami Yaoyorozu - 02 [720p][9767CA21].mkv
+complete/n/Nekogami Yaoyorozu/[HorribleSubs] Nekogami Yaoyorozu - 03 [720p][6DFCB859].mkv
+complete/n/Nekogami Yaoyorozu/[HorribleSubs] Nekogami Yaoyorozu - 04 [720p][6F7AB157].mkv
+complete/n/Nekogami Yaoyorozu/[HorribleSubs] Nekogami Yaoyorozu - 05 [720p][2004D626].mkv
+complete/n/Nekogami Yaoyorozu/[HorribleSubs] Nekogami Yaoyorozu - 06 [720p][A935FDFD].mkv
+complete/n/Nekogami Yaoyorozu/[HorribleSubs] Nekogami Yaoyorozu - 07 [720p][C2D55C57].mkv
+complete/n/Nekogami Yaoyorozu/[HorribleSubs] Nekogami Yaoyorozu - 08 [720p][F5BCBE5D].mkv
+complete/n/Nekogami Yaoyorozu/[HorribleSubs] Nekogami Yaoyorozu - 09 [720p][088CEC5C].mkv
+complete/n/Nekogami Yaoyorozu/[HorribleSubs] Nekogami Yaoyorozu - 10 [720p][CAE6BCC2].mkv
+complete/n/Nekogami Yaoyorozu/[HorribleSubs] Nekogami Yaoyorozu - 11 [720p][2E0C37EA].mkv
+complete/n/Nekogami Yaoyorozu/[HorribleSubs] Nekogami Yaoyorozu - 12 [End][720p][8FE1FD0A].mkv
 complete/n/Neo Angelique - Abyss - Second Age/[SMS] Neo Angelique - Abyss - Second Age - 01 [B9171EFD].mkv
 complete/n/Neo Angelique - Abyss - Second Age/[SMS] Neo Angelique - Abyss - Second Age - 02 [BABA417C].mkv
 complete/n/Neo Angelique - Abyss - Second Age/[SMS] Neo Angelique - Abyss - Second Age - 03 [34957635].mkv
@@ -19726,22 +19786,6 @@ complete/v/Victorian Romance Emma/[iichan] Victorian Romance Emma - 09 [7ABF8C8C
 complete/v/Victorian Romance Emma/[iichan] Victorian Romance Emma - 10 [F93459F4].avi
 complete/v/Victorian Romance Emma/[iichan] Victorian Romance Emma - 11 [418A5A07].avi
 complete/v/Victorian Romance Emma/[iichan] Victorian Romance Emma - 12 [End][F739AD27].avi
-complete/v/Victory Gundam/[ASS] Victory Gundam - 01 [56AABC85].avi
-complete/v/Victory Gundam/[ASS] Victory Gundam - 02 [58113DCC].avi
-complete/v/Victory Gundam/[ASS] Victory Gundam - 03 [762E8709].avi
-complete/v/Victory Gundam/[ASS] Victory Gundam - 04 [B5798E2D].avi
-complete/v/Victory Gundam/[ASS] Victory Gundam - 05 [B08C413E].avi
-complete/v/Victory Gundam/[ASS] Victory Gundam - 06 [E97AF767].avi
-complete/v/Victory Gundam/[ASS] Victory Gundam - 07 [v2][7A892605].avi
-complete/v/Victory Gundam/[ASS] Victory Gundam - 08 [A94367C6].avi
-complete/v/Victory Gundam/[ASS] Victory Gundam - 09 [0023BB03].avi
-complete/v/Victory Gundam/[ASS] Victory Gundam - 10 [6F3D5962].avi
-complete/v/Victory Gundam/[ASS] Victory Gundam - 11 [9D0D1B9C].avi
-complete/v/Victory Gundam/[ASS] Victory Gundam - 12 [9BA8F329].avi
-complete/v/Victory Gundam/[ASS] Victory Gundam - 13 [C036B7F9].avi
-complete/v/Victory Gundam/[ASS] Victory Gundam - 14 [C39C5424].avi
-complete/v/Victory Gundam/[ASS] Victory Gundam - 15 [4F195DB1].avi
-complete/v/Victory Gundam/[ASS] Victory Gundam - 16 [56122963].avi
 complete/v/Victory Gundam/[ASS] Victory Gundam - 17 [BA532B80].avi
 complete/v/Victory Gundam/[ASS] Victory Gundam - 18 [9BA4F5EC].avi
 complete/v/Victory Gundam/[ASS] Victory Gundam - 19 [A809F1C9].avi
@@ -19777,6 +19821,24 @@ complete/v/Victory Gundam/[ASS] Victory Gundam - 48 [6D343D46].avi
 complete/v/Victory Gundam/[ASS] Victory Gundam - 49 [FBBE2EC3].avi
 complete/v/Victory Gundam/[ASS] Victory Gundam - 50 [7FEAF7B1].avi
 complete/v/Victory Gundam/[ASS] Victory Gundam - 51 [End][F7A46214].avi
+complete/v/Victory Gundam/[EG] Victory Gundam - 01 [DVD][CA6CD122].mkv
+complete/v/Victory Gundam/[EG] Victory Gundam - 02 [v2 DVD][56D588BF].mkv
+complete/v/Victory Gundam/[EG] Victory Gundam - 03 [DVD][30960B7D].mkv
+complete/v/Victory Gundam/[EG] Victory Gundam - 04 [DVD][9B6C8FB3].mkv
+complete/v/Victory Gundam/[EG] Victory Gundam - 05 [DVD][62A271EE].mkv
+complete/v/Victory Gundam/[EG] Victory Gundam - 06 [DVD][3DA6B433].mkv
+complete/v/Victory Gundam/[EG] Victory Gundam - 07 [DVD][6719DB3B].mkv
+complete/v/Victory Gundam/[EG] Victory Gundam - 08 [DVD][DDBA24C3].mkv
+complete/v/Victory Gundam/[EG] Victory Gundam - 09 [DVD][2F48B203].mkv
+complete/v/Victory Gundam/[EG] Victory Gundam - 10 [DVD][CBC866AE].mkv
+complete/v/Victory Gundam/[EG] Victory Gundam - 11 [DVD][D9C898EC].mkv
+complete/v/Victory Gundam/[EG] Victory Gundam - 12 [DVD][6983453F].mkv
+complete/v/Victory Gundam/[EG] Victory Gundam - 13 [DVD][774AFAF6].mkv
+complete/v/Victory Gundam/[EG] Victory Gundam - 14 [DVD][AA6013D3].mkv
+complete/v/Victory Gundam/[EG] Victory Gundam - 15 [DVD][3081DF7A].mkv
+complete/v/Victory Gundam/[EG] Victory Gundam - 16 [DVD][A675BBA5].mkv
+complete/v/Victory Gundam/[EG] Victory Gundam - Ending 1 [DVD][AC1921D6].mkv
+complete/v/Victory Gundam/[EG] Victory Gundam - Opening 1 [DVD][43000E86].mkv
 complete/v/Viper's Creed/[Huzzah] Viper's Creed - 01 (1280x720) [901AC781].mkv
 complete/v/Viper's Creed/[Huzzah] Viper's Creed - 02 (1280x720) [CA9031F3].mkv
 complete/v/Viper's Creed/[Huzzah] Viper's Creed - 03 (1280x720) [04C9C414].mkv
