@@ -592,6 +592,19 @@
 !new/Star_Driver_16v2_[BD_1080p_Hi10P][AtsA][345DE485].mkv
 !new/Star_Driver_17_[BD_1080p_Hi10P][AtsA][0088DECC].mkv
 !new/Star_Driver_18_[BD_1080p_Hi10P][AtsA][046AD310].mkv
+!new/Star_Driver_19_[BD_1080p_Hi10P][AtsA][6E67B371].mkv
+!new/Star_Driver_20v2_[BD_1080p_Hi10P][AtsA][51D398CF].mkv
+!new/Star_Driver_21_[BD_1080p_Hi10P][AtsA][95866165].mkv
+!new/Star_Driver_22v2_[BD_1080p_Hi10P][AtsA][562208C5].mkv
+!new/Star_Driver_23v2_[BD_1080p_Hi10P][AtsA][51370555].mkv
+!new/Star_Driver_24_[BD_1080p_Hi10P][AtsA][4A19546B].mkv
+!new/Star_Driver_25_[BD_1080p_Hi10P][AtsA][404370C5].mkv
+!new/Star_Driver_ED1a_Clean_[BD_1080p_Hi10P][AtsA][5A023D1A].mkv
+!new/Star_Driver_ED1b_Clean_[BD_1080p_Hi10P][AtsA][33AA8F2F].mkv
+!new/Star_Driver_ED2a_Clean_[BD_1080p_Hi10P][AtsA][745311D2].mkv
+!new/Star_Driver_ED2b_Clean_[BD_1080p_Hi10P][AtsA][7D49B083].mkv
+!new/Star_Driver_OP1_Clean_[BD_1080p_Hi10P][AtsA][B3D8CD5B].mkv
+!new/Star_Driver_OP2_Clean_[BD_1080p_Hi10P][AtsA][3964280C].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_01v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_02v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_03v2[divx5.1.1].mkv
@@ -789,6 +802,10 @@
 !new/[HorribleSubs] Hanasakeru Seishounen 17 [480p].mkv
 !new/[HorribleSubs] Hanasakeru Seishounen 18 [480p].mkv
 !new/[HorribleSubs] Hanasakeru Seishounen 19 [480p].mkv
+!new/[HorribleSubs] Hanasakeru Seishounen 20 [480p].mkv
+!new/[HorribleSubs] Hanasakeru Seishounen 21 [480p].mkv
+!new/[HorribleSubs] Hanasakeru Seishounen 22 [480p].mkv
+!new/[HorribleSubs] Hanasakeru Seishounen 23 [480p].mkv
 !new/[HorribleSubs] Kamisama Dolls - 13 [720p].mkv
 !new/[HorribleSubs] Moritasan wa Mukuchi - 13 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 228 [720p].mkv
@@ -893,6 +910,7 @@
 !new/[iSiscon]_Kashii_Airi_(CV._Hidaka_Rina)_-_RO-KYU-BU!_Character_Songs_05_Kashii_Airi_(FLAC).rar
 !new/[iSiscon]_Kuribayashi_Minami,_Hashimoto_Miyuki,_Faylan,_Misato_Aki,_yozuca,_rino_-_OVA_Carnival_Phantasm_OP_Single_-_Super_Affection_(FLAC).rar
 !new/[iSiscon]_Touwa_Erio_(CV._Oogame_Asuka),_Mifune_Ryuuko_(CV._Katou_Emiri),_Maekawa-san_(CV._Fuchigami_Mai)_-_Denpa_Onna_to_Seishun_Otoko_Character_Song_Album_Vol.1_(FLAC).rar
+!new/[m.3.3.w] Hanasakeru Seishounen 13 (H.264) [62CC500B].mkv
 !new/[m.3.3.w] Persona 3 Picture Drama - She Goes For A Walk 01 [0DEFC28B].mp4
 !new/[m.3.3.w] Persona 3 Picture Drama - She Goes For A Walk 02 [5588DD07].mp4
 !new/[m.3.3.w] Persona 3 Picture Drama - She Goes For A Walk 03 [0B7B0C33].mp4
