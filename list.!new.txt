@@ -575,6 +575,23 @@
 !new/Spiral/[OX-] Spiral - 24 [629E7645].mkv
 !new/Spiral/[OX-] Spiral - 25 [End][EC92212D].mkv
 !new/Star_Driver_01_[BD_1080p_Hi10P][AtsA][80A582A2].mkv
+!new/Star_Driver_02_[BD_1080p_Hi10P][AtsA][C5D31C47].mkv
+!new/Star_Driver_03_[BD_1080p_Hi10P][AtsA][40209A1D].mkv
+!new/Star_Driver_04_[BD_1080p_Hi10P][AtsA][8D0143C4].mkv
+!new/Star_Driver_05_[BD_1080p_Hi10P][AtsA][0DEFF363].mkv
+!new/Star_Driver_06_[BD_1080p_Hi10P][AtsA][DAA783AB].mkv
+!new/Star_Driver_07_[BD_1080p_Hi10P][AtsA][80C99EBA].mkv
+!new/Star_Driver_08_[BD_1080p_Hi10P][AtsA][951C7C8F].mkv
+!new/Star_Driver_09_[BD_1080p_Hi10P][AtsA][756C6152].mkv
+!new/Star_Driver_10_[BD_1080p_Hi10P][AtsA][4A720938].mkv
+!new/Star_Driver_11_[BD_1080p_Hi10P][AtsA][AF212167].mkv
+!new/Star_Driver_12_[BD_1080p_Hi10P][AtsA][ED5A9441].mkv
+!new/Star_Driver_13_[BD_1080p_Hi10P][AtsA][266A36F9].mkv
+!new/Star_Driver_14_[BD_1080p_Hi10P][AtsA][D489268E].mkv
+!new/Star_Driver_15v2_[BD_1080p_Hi10P][AtsA][1ED2EE97].mkv
+!new/Star_Driver_16v2_[BD_1080p_Hi10P][AtsA][345DE485].mkv
+!new/Star_Driver_17_[BD_1080p_Hi10P][AtsA][0088DECC].mkv
+!new/Star_Driver_18_[BD_1080p_Hi10P][AtsA][046AD310].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_01v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_02v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_03v2[divx5.1.1].mkv
@@ -656,6 +673,28 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
 !new/[A-Kraze]_Ergo_Proxy_-_01_[1280x720_H264_AAC_5.1][53CD18EA].mkv
+!new/[A-Kraze]_Ergo_Proxy_-_02_[1280x720_H264_AAC_5.1][EC912C0A].mkv
+!new/[A-Kraze]_Ergo_Proxy_-_03v2_[1280x720_H264_AAC_5.1][94009925].mkv
+!new/[A-Kraze]_Ergo_Proxy_-_04_[1280x720_H264_AAC_5.1][8D20F97F].mkv
+!new/[A-Kraze]_Ergo_Proxy_-_05_[1280x720_H264_AAC_5.1][65229921].mkv
+!new/[A-Kraze]_Ergo_Proxy_-_06_[1280x720_H264_AAC_5.1][BE1865F6].mkv
+!new/[A-Kraze]_Ergo_Proxy_-_07v2_[1280x720_H264_AAC_5.1][73203428].mkv
+!new/[A-Kraze]_Ergo_Proxy_-_08_[1280x720_H264_AAC_5.1][578E20A5].mkv
+!new/[A-Kraze]_Ergo_Proxy_-_09_[1280x720_H264_AAC_5.1][83B68B8A].mkv
+!new/[A-Kraze]_Ergo_Proxy_-_10_[1280x720_H264_AAC_5.1][2DB67938].mkv
+!new/[A-Kraze]_Ergo_Proxy_-_11_[1280x720_H264_AAC_5.1][281B1092].mkv
+!new/[A-Kraze]_Ergo_Proxy_-_12_[1280x720_H264_AAC_5.1][84B13C80].mkv
+!new/[A-Kraze]_Ergo_Proxy_-_13_[1280x720_H264_AAC_5.1][A4B18B05].mkv
+!new/[A-Kraze]_Ergo_Proxy_-_14_[1280x720_H264_AAC_5.1][8A1DCB59].mkv
+!new/[A-Kraze]_Ergo_Proxy_-_15_[1280x720_H264_AAC_5.1][BFEB921C].mkv
+!new/[A-Kraze]_Ergo_Proxy_-_16_[1280x720_H264_AAC_5.1][D37EEC13].mkv
+!new/[A-Kraze]_Ergo_Proxy_-_17_[1280x720_H264_AAC_5.1][1AC89305].mkv
+!new/[A-Kraze]_Ergo_Proxy_-_18_[1280x720_H264_AAC_5.1][11FFB0B2].mkv
+!new/[A-Kraze]_Ergo_Proxy_-_19_[1280x720_H264_AAC_5.1][B26075B1].mkv
+!new/[A-Kraze]_Ergo_Proxy_-_20_[1280x720_H264_AAC_5.1][E1418E58].mkv
+!new/[A-Kraze]_Ergo_Proxy_-_21_[1280x720_H264_AAC_5.1][03768C1D].mkv
+!new/[A-Kraze]_Ergo_Proxy_-_22_[1280x720_H264_AAC_5.1][6F52EBEA].mkv
+!new/[A-Kraze]_Ergo_Proxy_-_23_[FINAL]_[1280x720_H264_AAC_5.1][01C63936].mkv
 !new/[ASL]_Katou_Emiri_-_Yuruyuri_Character_Disc_5_-_Kirai_Janai_mon_[FLAC]_[w_Scans].rar
 !new/[ASL]_Mikami_Shiori_-_Yuruyuri_Character_Disc_1_-_Watashi_Shuyaku_no_Akaza_Akari_Desu_[FLAC]_[w_Scans].rar
 !new/[ASL]_Mimori_Suzuko_-_Yuruyuri_Character_Disc_6_-_Day_by_day_[FLAC]_[w_Scans].rar
@@ -681,6 +720,12 @@
 !new/[Commie] Natsume Yuujinchou San - 13 [C3517B84].mkv
 !new/[CureCom] Fresh Pretty Cure! - 37 [HD][3EAF85BD].mkv
 !new/[Derp]_Itsuka_Tenma_no_Kuro_Usagi_-_12_[1280x720_x264_AAC][1966CC3D].mkv
+!new/[DmonHiro] Needless 19 (BD, 720p, FLAC) [42FF557E].mkv
+!new/[DmonHiro] Needless 20 (BD, 720p, FLAC) [04F2D971].mkv
+!new/[DmonHiro] Needless 21 (BD, 720p, FLAC) [D9FD29F9].mkv
+!new/[DmonHiro] Needless 22 (BD, 720p, FLAC) [8F382AE6].mkv
+!new/[DmonHiro] Needless 23 (BD, 720p, FLAC) [D0E3C2CD].mkv
+!new/[DmonHiro] Needless 24 (BD, 720p, FLAC) [3F18AF79].mkv
 !new/[DmonHiro] Needless NCED1 (BD, 720p, FLAC) [42552614].mkv
 !new/[DmonHiro] Needless NCED2 (BD, 720p, FLAC) [6EB31A1F].mkv
 !new/[DmonHiro] Needless NCOP1 (BD, 720p, FLAC) [F0332DA0].mkv
@@ -700,9 +745,50 @@
 !new/[Doremi-CureCom].Suite.PreCure!.32.[1280x720].[CCD1388E].mkv
 !new/[Doremi].Kaiji.S2.Episode.26.[BF5B5200].mkv
 !new/[Doremi].Ojamajo.Doremi.Dokkaan!.04.[B193813D].avi
+!new/[EG]Victory_Gundam_01_DVD.mkv
+!new/[EG]Victory_Gundam_02_v2_DVD.mkv
+!new/[EG]Victory_Gundam_03_DVD.mkv
+!new/[EG]Victory_Gundam_04_DVD.mkv
+!new/[EG]Victory_Gundam_05_DVD.mkv
+!new/[EG]Victory_Gundam_06_DVD.mkv
+!new/[EG]Victory_Gundam_07_DVD.mkv
+!new/[EG]Victory_Gundam_08_DVD.mkv
+!new/[EG]Victory_Gundam_09_DVD.mkv
+!new/[EG]Victory_Gundam_10_DVD.mkv
+!new/[EG]Victory_Gundam_11_DVD.mkv
+!new/[EG]Victory_Gundam_12_DVD.mkv
+!new/[EG]Victory_Gundam_13_DVD.mkv
+!new/[EG]Victory_Gundam_14_DVD.mkv
+!new/[EG]Victory_Gundam_15_DVD.mkv
+!new/[EG]Victory_Gundam_16_DVD.mkv
+!new/[EG]Victory_Gundam_ED1_DVD.mkv
+!new/[EG]Victory_Gundam_OP1_DVD.mkv
 !new/[HorribleSubs] A Dark Rabbit Has Seven Lives - 11 [720p].mkv
+!new/[HorribleSubs] A Dark Rabbit Has Seven Lives - 12 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 35 [720p].mkv
 !new/[HorribleSubs] Bleach - 341 [720p].mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 24 [480p].mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 25 [480p].mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 26 [480p].mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 27 [480p].mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 28 [480p].mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 29 [480p].mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 30 [480p].mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 31 [480p].mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 32 [480p].mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 33 [480p].mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 34 [480p].mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 35 [480p].mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 36 [480p].mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 37 [480p].mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 38 [480p].mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 39 [480p].mkv
+!new/[HorribleSubs] Hanasakeru Seishounen 14 [480p].mkv
+!new/[HorribleSubs] Hanasakeru Seishounen 15 [480p].mkv
+!new/[HorribleSubs] Hanasakeru Seishounen 16 [480p].mkv
+!new/[HorribleSubs] Hanasakeru Seishounen 17 [480p].mkv
+!new/[HorribleSubs] Hanasakeru Seishounen 18 [480p].mkv
+!new/[HorribleSubs] Hanasakeru Seishounen 19 [480p].mkv
 !new/[HorribleSubs] Kamisama Dolls - 13 [720p].mkv
 !new/[HorribleSubs] Moritasan wa Mukuchi - 13 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 228 [720p].mkv
@@ -712,8 +798,11 @@
 !new/[Huzzah]_Hyouge_Mono_07_[6CBD5CC4].mkv
 !new/[JNE-REMUX][HorribleSubs]_No._6_-_11_[720p].mkv
 !new/[Jumonji-Giri]_[A-Flux]_Tenshi_no_Shippo_Chu_Ep07-09_(a40de556).mkv
+!new/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream - 09 [H264 1024x576] [1C03DEA8].mkv
 !new/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream - 10 [H264 1024x576] [0A5EEEA1].mkv
 !new/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream - 11 [H264 1024x576] [79036436].mkv
+!new/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream - 12 [H264 1024x576] [75E73DD6].mkv
+!new/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream - 13 [H264 1024x576] [546EC157].mkv
 !new/[Licca] Happy Kappi Episode 24 (h.264) [40B91EA7].mkv
 !new/[LonE]_Tainaka_Sachi_-_Mariage_-tribute_to_Fate-_[w_scans]_(FLAC).rar
 !new/[Nipponsei] Astarotte no Omocha! Original Soundtrack.zip
@@ -804,6 +893,13 @@
 !new/[iSiscon]_Kashii_Airi_(CV._Hidaka_Rina)_-_RO-KYU-BU!_Character_Songs_05_Kashii_Airi_(FLAC).rar
 !new/[iSiscon]_Kuribayashi_Minami,_Hashimoto_Miyuki,_Faylan,_Misato_Aki,_yozuca,_rino_-_OVA_Carnival_Phantasm_OP_Single_-_Super_Affection_(FLAC).rar
 !new/[iSiscon]_Touwa_Erio_(CV._Oogame_Asuka),_Mifune_Ryuuko_(CV._Katou_Emiri),_Maekawa-san_(CV._Fuchigami_Mai)_-_Denpa_Onna_to_Seishun_Otoko_Character_Song_Album_Vol.1_(FLAC).rar
+!new/[m.3.3.w] Persona 3 Picture Drama - She Goes For A Walk 01 [0DEFC28B].mp4
+!new/[m.3.3.w] Persona 3 Picture Drama - She Goes For A Walk 02 [5588DD07].mp4
+!new/[m.3.3.w] Persona 3 Picture Drama - She Goes For A Walk 03 [0B7B0C33].mp4
+!new/[m.3.3.w] Persona 3 Picture Drama - She Goes For A Walk 04 [9D467A8F].mp4
+!new/[m.3.3.w] Persona 3 Picture Drama - She Goes For A Walk 05 [68B46BBD].mp4
+!new/[m.3.3.w] Persona 3 Picture Drama - She Goes For A Walk 06 [9C8BC40B].mp4
+!new/[m.3.3.w] Persona 3 Picture Drama - She Goes For A Walk 07 [C8C96D0A].mp4
 !new/[yibis]_One_Piece_515_[720p][F79DD1D6].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
