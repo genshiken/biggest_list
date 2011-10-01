@@ -53,6 +53,7 @@
 !new/.broken/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.mkv
 !new/.broken/[Chiki-Subs]_Mayo_Chiki_-_01v2_(1280x720_H.264.AAC)_[45704136].mkv
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
+!new/Bleach - 341 [HorribleSubs][720p].mkv
 !new/Bluray Gallery.zip
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
@@ -95,7 +96,7 @@
 !new/Getter Robo Armageddon (COMPLETE!!)/[ASS] Getter Robo Armageddon - 11 - Overload_.avi
 !new/Getter Robo Armageddon (COMPLETE!!)/[ASS] Getter Robo Armageddon - 12 - Help_from_the_Stars_.avi
 !new/Getter Robo Armageddon (COMPLETE!!)/[ASS] Getter Robo Armageddon - 13 - Evolution`s_End_.avi
-!new/Inazuma Eleven 126 - Eyecatch [070A49DB].mp4
+!new/Inazuma Eleven - 126 - Eyecatch [070A49DB].mp4
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].ENG.srt
 !new/Lupin III - The Fuma Conspiracy/Lupin.III.The.Fuma.Conspiracy.1987.DVDRip.XviD.AC3-[gx].avi
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 01 KTCR-9010/1. kanashimi yo konnichiwa (Saitou Yuki)  [OP]  (Hello! Sadness).mp3
@@ -574,37 +575,37 @@
 !new/Spiral/[OX-] Spiral - 23 [F0C087C7].mkv
 !new/Spiral/[OX-] Spiral - 24 [629E7645].mkv
 !new/Spiral/[OX-] Spiral - 25 [End][EC92212D].mkv
-!new/Star_Driver_01_[BD_1080p_Hi10P][AtsA][80A582A2].mkv
-!new/Star_Driver_02_[BD_1080p_Hi10P][AtsA][C5D31C47].mkv
-!new/Star_Driver_03_[BD_1080p_Hi10P][AtsA][40209A1D].mkv
-!new/Star_Driver_04_[BD_1080p_Hi10P][AtsA][8D0143C4].mkv
-!new/Star_Driver_05_[BD_1080p_Hi10P][AtsA][0DEFF363].mkv
-!new/Star_Driver_06_[BD_1080p_Hi10P][AtsA][DAA783AB].mkv
-!new/Star_Driver_07_[BD_1080p_Hi10P][AtsA][80C99EBA].mkv
-!new/Star_Driver_08_[BD_1080p_Hi10P][AtsA][951C7C8F].mkv
-!new/Star_Driver_09_[BD_1080p_Hi10P][AtsA][756C6152].mkv
-!new/Star_Driver_10_[BD_1080p_Hi10P][AtsA][4A720938].mkv
-!new/Star_Driver_11_[BD_1080p_Hi10P][AtsA][AF212167].mkv
-!new/Star_Driver_12_[BD_1080p_Hi10P][AtsA][ED5A9441].mkv
-!new/Star_Driver_13_[BD_1080p_Hi10P][AtsA][266A36F9].mkv
-!new/Star_Driver_14_[BD_1080p_Hi10P][AtsA][D489268E].mkv
-!new/Star_Driver_15v2_[BD_1080p_Hi10P][AtsA][1ED2EE97].mkv
-!new/Star_Driver_16v2_[BD_1080p_Hi10P][AtsA][345DE485].mkv
-!new/Star_Driver_17_[BD_1080p_Hi10P][AtsA][0088DECC].mkv
-!new/Star_Driver_18_[BD_1080p_Hi10P][AtsA][046AD310].mkv
-!new/Star_Driver_19_[BD_1080p_Hi10P][AtsA][6E67B371].mkv
-!new/Star_Driver_20v2_[BD_1080p_Hi10P][AtsA][51D398CF].mkv
-!new/Star_Driver_21_[BD_1080p_Hi10P][AtsA][95866165].mkv
-!new/Star_Driver_22v2_[BD_1080p_Hi10P][AtsA][562208C5].mkv
-!new/Star_Driver_23v2_[BD_1080p_Hi10P][AtsA][51370555].mkv
-!new/Star_Driver_24_[BD_1080p_Hi10P][AtsA][4A19546B].mkv
-!new/Star_Driver_25_[BD_1080p_Hi10P][AtsA][404370C5].mkv
-!new/Star_Driver_ED1a_Clean_[BD_1080p_Hi10P][AtsA][5A023D1A].mkv
-!new/Star_Driver_ED1b_Clean_[BD_1080p_Hi10P][AtsA][33AA8F2F].mkv
-!new/Star_Driver_ED2a_Clean_[BD_1080p_Hi10P][AtsA][745311D2].mkv
-!new/Star_Driver_ED2b_Clean_[BD_1080p_Hi10P][AtsA][7D49B083].mkv
-!new/Star_Driver_OP1_Clean_[BD_1080p_Hi10P][AtsA][B3D8CD5B].mkv
-!new/Star_Driver_OP2_Clean_[BD_1080p_Hi10P][AtsA][3964280C].mkv
+!new/Star Driver - 01 [BD 1080p Hi10P][AtsA][80A582A2].mkv
+!new/Star Driver - 02 [BD 1080p Hi10P][AtsA][C5D31C47].mkv
+!new/Star Driver - 03 [BD 1080p Hi10P][AtsA][40209A1D].mkv
+!new/Star Driver - 04 [BD 1080p Hi10P][AtsA][8D0143C4].mkv
+!new/Star Driver - 05 [BD 1080p Hi10P][AtsA][0DEFF363].mkv
+!new/Star Driver - 06 [BD 1080p Hi10P][AtsA][DAA783AB].mkv
+!new/Star Driver - 07 [BD 1080p Hi10P][AtsA][80C99EBA].mkv
+!new/Star Driver - 08 [BD 1080p Hi10P][AtsA][951C7C8F].mkv
+!new/Star Driver - 09 [BD 1080p Hi10P][AtsA][756C6152].mkv
+!new/Star Driver - 10 [BD 1080p Hi10P][AtsA][4A720938].mkv
+!new/Star Driver - 11 [BD 1080p Hi10P][AtsA][AF212167].mkv
+!new/Star Driver - 12 [BD 1080p Hi10P][AtsA][ED5A9441].mkv
+!new/Star Driver - 13 [BD 1080p Hi10P][AtsA][266A36F9].mkv
+!new/Star Driver - 14 [BD 1080p Hi10P][AtsA][D489268E].mkv
+!new/Star Driver - 15 [v2][BD 1080p Hi10P][AtsA][1ED2EE97].mkv
+!new/Star Driver - 16 [v2][BD 1080p Hi10P][AtsA][345DE485].mkv
+!new/Star Driver - 17 [BD 1080p Hi10P][AtsA][0088DECC].mkv
+!new/Star Driver - 18 [BD 1080p Hi10P][AtsA][046AD310].mkv
+!new/Star Driver - 19 [BD 1080p Hi10P][AtsA][6E67B371].mkv
+!new/Star Driver - 20 [v2][BD 1080p Hi10P][AtsA][51D398CF].mkv
+!new/Star Driver - 21 [BD 1080p Hi10P][AtsA][95866165].mkv
+!new/Star Driver - 22 [v2][BD 1080p Hi10P][AtsA][562208C5].mkv
+!new/Star Driver - 23 [v2][BD 1080p Hi10P][AtsA][51370555].mkv
+!new/Star Driver - 24 [BD 1080p Hi10P][AtsA][4A19546B].mkv
+!new/Star Driver - 25 [BD 1080p Hi10P][AtsA][404370C5].mkv
+!new/Star Driver - Ending 1 a Clean [BD 1080p Hi10P][AtsA][5A023D1A].mkv
+!new/Star Driver - Ending 1 b Clean [BD 1080p Hi10P][AtsA][33AA8F2F].mkv
+!new/Star Driver - Ending 2 a Clean [BD 1080p Hi10P][AtsA][745311D2].mkv
+!new/Star Driver - Ending 2 b Clean [BD 1080p Hi10P][AtsA][7D49B083].mkv
+!new/Star Driver - Opening 1 Clean [BD 1080p Hi10P][AtsA][B3D8CD5B].mkv
+!new/Star Driver - Opening 2 Clean [BD 1080p Hi10P][AtsA][3964280C].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_01v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_02v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_03v2[divx5.1.1].mkv
@@ -685,208 +686,140 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[A-Kraze]_Ergo_Proxy_-_01_[1280x720_H264_AAC_5.1][53CD18EA].mkv
-!new/[A-Kraze]_Ergo_Proxy_-_02_[1280x720_H264_AAC_5.1][EC912C0A].mkv
-!new/[A-Kraze]_Ergo_Proxy_-_03v2_[1280x720_H264_AAC_5.1][94009925].mkv
-!new/[A-Kraze]_Ergo_Proxy_-_04_[1280x720_H264_AAC_5.1][8D20F97F].mkv
-!new/[A-Kraze]_Ergo_Proxy_-_05_[1280x720_H264_AAC_5.1][65229921].mkv
-!new/[A-Kraze]_Ergo_Proxy_-_06_[1280x720_H264_AAC_5.1][BE1865F6].mkv
-!new/[A-Kraze]_Ergo_Proxy_-_07v2_[1280x720_H264_AAC_5.1][73203428].mkv
-!new/[A-Kraze]_Ergo_Proxy_-_08_[1280x720_H264_AAC_5.1][578E20A5].mkv
-!new/[A-Kraze]_Ergo_Proxy_-_09_[1280x720_H264_AAC_5.1][83B68B8A].mkv
-!new/[A-Kraze]_Ergo_Proxy_-_10_[1280x720_H264_AAC_5.1][2DB67938].mkv
-!new/[A-Kraze]_Ergo_Proxy_-_11_[1280x720_H264_AAC_5.1][281B1092].mkv
-!new/[A-Kraze]_Ergo_Proxy_-_12_[1280x720_H264_AAC_5.1][84B13C80].mkv
-!new/[A-Kraze]_Ergo_Proxy_-_13_[1280x720_H264_AAC_5.1][A4B18B05].mkv
-!new/[A-Kraze]_Ergo_Proxy_-_14_[1280x720_H264_AAC_5.1][8A1DCB59].mkv
-!new/[A-Kraze]_Ergo_Proxy_-_15_[1280x720_H264_AAC_5.1][BFEB921C].mkv
-!new/[A-Kraze]_Ergo_Proxy_-_16_[1280x720_H264_AAC_5.1][D37EEC13].mkv
-!new/[A-Kraze]_Ergo_Proxy_-_17_[1280x720_H264_AAC_5.1][1AC89305].mkv
-!new/[A-Kraze]_Ergo_Proxy_-_18_[1280x720_H264_AAC_5.1][11FFB0B2].mkv
-!new/[A-Kraze]_Ergo_Proxy_-_19_[1280x720_H264_AAC_5.1][B26075B1].mkv
-!new/[A-Kraze]_Ergo_Proxy_-_20_[1280x720_H264_AAC_5.1][E1418E58].mkv
-!new/[A-Kraze]_Ergo_Proxy_-_21_[1280x720_H264_AAC_5.1][03768C1D].mkv
-!new/[A-Kraze]_Ergo_Proxy_-_22_[1280x720_H264_AAC_5.1][6F52EBEA].mkv
-!new/[A-Kraze]_Ergo_Proxy_-_23_[FINAL]_[1280x720_H264_AAC_5.1][01C63936].mkv
-!new/[ASL]_Katou_Emiri_-_Yuruyuri_Character_Disc_5_-_Kirai_Janai_mon_[FLAC]_[w_Scans].rar
-!new/[ASL]_Mikami_Shiori_-_Yuruyuri_Character_Disc_1_-_Watashi_Shuyaku_no_Akaza_Akari_Desu_[FLAC]_[w_Scans].rar
-!new/[ASL]_Mimori_Suzuko_-_Yuruyuri_Character_Disc_6_-_Day_by_day_[FLAC]_[w_Scans].rar
-!new/[ASL]_ShibayanRecords_-_Kokoro_Vibration_[FLAC]_[w_Scans].rar
-!new/[ASL]_Tsuda_Minami_-_Yuruyuri_Character_Disc_2_-_Goyururi_World_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artists_-_Puella_Magi_Madoka_Magica_Original_Soundtrack_Vol._3_[FLAC].rar
-!new/[AonE]_Daa!_Daa!_Daa!_-_53_[DVD][785BE3D6].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_54_[DVD][75CEC757].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_55_[DVD][51060809].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_56_[DVD][3F05BBE5].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_57_[DVD][19E907D8].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_58_[DVD][FFA52455].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_59_[DVD][560F05B3].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_60_[DVD][DECAE823].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_61_[DVD][36F57A49].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_62_[DVD][77A7AE82].avi
-!new/[AonE]_Daa!_Daa!_Daa!_-_63_[DVD][BA536F2F].avi
-!new/[Ayako]_Jewelpet_Sunshine_-_01_[H264][720p][F4ED98BD].mkv
-!new/[Ayako]_Jewelpet_Sunshine_-_02_[H264][720p][18CF77DD].mkv
-!new/[Chibiki]_THE_iDOLM@STER_-_12_[720p][71ADE7A0].mkv
-!new/[Chibiki]_THE_iDOLM@STER_-_13_[720p][6A9CED6A].mkv
-!new/[Commie] Maria†Holic Alive - 03 [49855788].mkv
+!new/[A-Kraze] Ergo Proxy - 01 [1280x720 5.1][53CD18EA].mkv
+!new/[A-Kraze] Ergo Proxy - 02 [1280x720 5.1][EC912C0A].mkv
+!new/[A-Kraze] Ergo Proxy - 03 [v2][1280x720 5.1][94009925].mkv
+!new/[A-Kraze] Ergo Proxy - 04 [1280x720 5.1][8D20F97F].mkv
+!new/[A-Kraze] Ergo Proxy - 05 [1280x720 5.1][65229921].mkv
+!new/[A-Kraze] Ergo Proxy - 06 [1280x720 5.1][BE1865F6].mkv
+!new/[A-Kraze] Ergo Proxy - 07 [v2][1280x720 5.1][73203428].mkv
+!new/[A-Kraze] Ergo Proxy - 08 [1280x720 5.1][578E20A5].mkv
+!new/[A-Kraze] Ergo Proxy - 09 [1280x720 5.1][83B68B8A].mkv
+!new/[A-Kraze] Ergo Proxy - 10 [1280x720 5.1][2DB67938].mkv
+!new/[A-Kraze] Ergo Proxy - 11 [1280x720 5.1][281B1092].mkv
+!new/[A-Kraze] Ergo Proxy - 12 [1280x720 5.1][84B13C80].mkv
+!new/[A-Kraze] Ergo Proxy - 13 [1280x720 5.1][A4B18B05].mkv
+!new/[A-Kraze] Ergo Proxy - 14 [1280x720 5.1][8A1DCB59].mkv
+!new/[A-Kraze] Ergo Proxy - 15 [1280x720 5.1][BFEB921C].mkv
+!new/[A-Kraze] Ergo Proxy - 16 [1280x720 5.1][D37EEC13].mkv
+!new/[A-Kraze] Ergo Proxy - 17 [1280x720 5.1][1AC89305].mkv
+!new/[A-Kraze] Ergo Proxy - 18 [1280x720 5.1][11FFB0B2].mkv
+!new/[A-Kraze] Ergo Proxy - 19 [1280x720 5.1][B26075B1].mkv
+!new/[A-Kraze] Ergo Proxy - 20 [1280x720 5.1][E1418E58].mkv
+!new/[A-Kraze] Ergo Proxy - 21 [1280x720 5.1][03768C1D].mkv
+!new/[A-Kraze] Ergo Proxy - 22 [1280x720 5.1][6F52EBEA].mkv
+!new/[A-Kraze] Ergo Proxy - 23 [1280x720 5.1][01C63936].mkv
+!new/[AonE] Daa! Daa! Daa! - 53 [DVD][785BE3D6].avi
+!new/[AonE] Daa! Daa! Daa! - 54 [DVD][75CEC757].avi
+!new/[AonE] Daa! Daa! Daa! - 55 [DVD][51060809].avi
+!new/[AonE] Daa! Daa! Daa! - 56 [DVD][3F05BBE5].avi
+!new/[AonE] Daa! Daa! Daa! - 57 [DVD][19E907D8].avi
+!new/[AonE] Daa! Daa! Daa! - 58 [DVD][FFA52455].avi
+!new/[AonE] Daa! Daa! Daa! - 59 [DVD][560F05B3].avi
+!new/[AonE] Daa! Daa! Daa! - 60 [DVD][DECAE823].avi
+!new/[AonE] Daa! Daa! Daa! - 61 [DVD][36F57A49].avi
+!new/[AonE] Daa! Daa! Daa! - 62 [DVD][77A7AE82].avi
+!new/[AonE] Daa! Daa! Daa! - 63 [DVD][BA536F2F].avi
+!new/[Ayako] Jewelpet Sunshine - 01 [720p][F4ED98BD].mkv
+!new/[Ayako] Jewelpet Sunshine - 02 [720p][18CF77DD].mkv
+!new/[Chibiki] The Idolm@ster - 12 [720p][71ADE7A0].mkv
+!new/[Chibiki] The Idolm@ster - 13 [720p][6A9CED6A].mkv
+!new/[Commie] Maria+Holic Alive - 03 [49855788].mkv
 !new/[Commie] Natsume Yuujinchou San - 13 [C3517B84].mkv
 !new/[CureCom] Fresh Pretty Cure! - 37 [HD][3EAF85BD].mkv
-!new/[Derp]_Itsuka_Tenma_no_Kuro_Usagi_-_12_[1280x720_x264_AAC][1966CC3D].mkv
-!new/[DmonHiro] Needless 19 (BD, 720p, FLAC) [42FF557E].mkv
-!new/[DmonHiro] Needless 20 (BD, 720p, FLAC) [04F2D971].mkv
-!new/[DmonHiro] Needless 21 (BD, 720p, FLAC) [D9FD29F9].mkv
-!new/[DmonHiro] Needless 22 (BD, 720p, FLAC) [8F382AE6].mkv
-!new/[DmonHiro] Needless 23 (BD, 720p, FLAC) [D0E3C2CD].mkv
-!new/[DmonHiro] Needless 24 (BD, 720p, FLAC) [3F18AF79].mkv
-!new/[DmonHiro] Needless NCED1 (BD, 720p, FLAC) [42552614].mkv
-!new/[DmonHiro] Needless NCED2 (BD, 720p, FLAC) [6EB31A1F].mkv
-!new/[DmonHiro] Needless NCOP1 (BD, 720p, FLAC) [F0332DA0].mkv
-!new/[DmonHiro] Needless NCOP2 (BD, 720p, FLAC) [9B7A3063].mkv
-!new/[DmonHiro] Needless+ 01 (BD, 720p, FLAC).mkv
-!new/[DmonHiro] Needless+ 02 (BD, 720p, FLAC).mkv
-!new/[DmonHiro] Needless+ 03 (BD, 720p, FLAC).mkv
-!new/[DmonHiro] Needless+ 04 (BD, 720p, FLAC).mkv
-!new/[DmonHiro] Needless+ 05 (BD, 720p, FLAC).mkv
-!new/[DmonHiro] Needless+ 06 (BD, 720p, FLAC).mkv
-!new/[DmonHiro] Needless+ 07 (BD, 720p, FLAC).mkv
-!new/[DmonHiro] Needless+ 08 (BD, 720p, FLAC).mkv
-!new/[DmonHiro] Needless+ 09 (BD, 720p, FLAC).mkv
-!new/[DmonHiro] Needless+ 10 (BD, 720p, FLAC).mkv
-!new/[DmonHiro] Needless+ 11 (BD, 720p, FLAC).mkv
-!new/[DmonHiro] Needless+ 12 (BD, 720p, FLAC).mkv
-!new/[Doremi-CureCom].Suite.PreCure!.32.[1280x720].[CCD1388E].mkv
-!new/[Doremi].Kaiji.S2.Episode.26.[BF5B5200].mkv
-!new/[Doremi].Ojamajo.Doremi.Dokkaan!.04.[B193813D].avi
-!new/[EG]Victory_Gundam_01_DVD.mkv
-!new/[EG]Victory_Gundam_02_v2_DVD.mkv
-!new/[EG]Victory_Gundam_03_DVD.mkv
-!new/[EG]Victory_Gundam_04_DVD.mkv
-!new/[EG]Victory_Gundam_05_DVD.mkv
-!new/[EG]Victory_Gundam_06_DVD.mkv
-!new/[EG]Victory_Gundam_07_DVD.mkv
-!new/[EG]Victory_Gundam_08_DVD.mkv
-!new/[EG]Victory_Gundam_09_DVD.mkv
-!new/[EG]Victory_Gundam_10_DVD.mkv
-!new/[EG]Victory_Gundam_11_DVD.mkv
-!new/[EG]Victory_Gundam_12_DVD.mkv
-!new/[EG]Victory_Gundam_13_DVD.mkv
-!new/[EG]Victory_Gundam_14_DVD.mkv
-!new/[EG]Victory_Gundam_15_DVD.mkv
-!new/[EG]Victory_Gundam_16_DVD.mkv
-!new/[EG]Victory_Gundam_ED1_DVD.mkv
-!new/[EG]Victory_Gundam_OP1_DVD.mkv
+!new/[Derp] Itsuka Tenma no Kuro Usagi - 12 [720p][1966CC3D].mkv
+!new/[DmonHiro] Needless - 19 [720p BD][42FF557E].mkv
+!new/[DmonHiro] Needless - 20 [720p BD][04F2D971].mkv
+!new/[DmonHiro] Needless - 21 [720p BD][D9FD29F9].mkv
+!new/[DmonHiro] Needless - 22 [720p BD][8F382AE6].mkv
+!new/[DmonHiro] Needless - 23 [720p BD][D0E3C2CD].mkv
+!new/[DmonHiro] Needless - 24 [720p BD][3F18AF79].mkv
+!new/[DmonHiro] Needless - Ending 1 (Clean) [720p BD][42552614].mkv
+!new/[DmonHiro] Needless - Ending 2 (Clean) [720p BD][6EB31A1F].mkv
+!new/[DmonHiro] Needless NCOP1 [720p BD][F0332DA0].mkv
+!new/[DmonHiro] Needless NCOP2 [720p BD][9B7A3063].mkv
+!new/[DmonHiro] Needless+ - 01 (BD, 720p,).mkv
+!new/[DmonHiro] Needless+ - 02 (BD, 720p,).mkv
+!new/[DmonHiro] Needless+ - 03 (BD, 720p,).mkv
+!new/[DmonHiro] Needless+ - 04 (BD, 720p,).mkv
+!new/[DmonHiro] Needless+ - 05 (BD, 720p,).mkv
+!new/[DmonHiro] Needless+ - 06 (BD, 720p,).mkv
+!new/[DmonHiro] Needless+ - 07 (BD, 720p,).mkv
+!new/[DmonHiro] Needless+ - 08 (BD, 720p,).mkv
+!new/[DmonHiro] Needless+ - 09 (BD, 720p,).mkv
+!new/[DmonHiro] Needless+ - 10 (BD, 720p,).mkv
+!new/[DmonHiro] Needless+ - 11 (BD, 720p,).mkv
+!new/[DmonHiro] Needless+ - 12 (BD, 720p,).mkv
+!new/[Doremi-CureCom] Suite PreCure! - 32 [720p][CCD1388E].mkv
+!new/[Doremi] .Kaiji.S2.Episode.26. [BF5B5200].mkv
+!new/[Doremi] Ojamajo Doremi Dokkaan! - 04 [B193813D].avi
+!new/[EG] Victory Gundam - 01 DVD.mkv
+!new/[EG] Victory Gundam - 02 [v2] DVD.mkv
+!new/[EG] Victory Gundam - 03 DVD.mkv
+!new/[EG] Victory Gundam - 04 DVD.mkv
+!new/[EG] Victory Gundam - 05 DVD.mkv
+!new/[EG] Victory Gundam - 06 DVD.mkv
+!new/[EG] Victory Gundam - 07 DVD.mkv
+!new/[EG] Victory Gundam - 08 DVD.mkv
+!new/[EG] Victory Gundam - 09 DVD.mkv
+!new/[EG] Victory Gundam - 10 DVD.mkv
+!new/[EG] Victory Gundam - 11 DVD.mkv
+!new/[EG] Victory Gundam - 12 DVD.mkv
+!new/[EG] Victory Gundam - 13 DVD.mkv
+!new/[EG] Victory Gundam - 14 DVD.mkv
+!new/[EG] Victory Gundam - 15 DVD.mkv
+!new/[EG] Victory Gundam - 16 DVD.mkv
+!new/[EG] Victory Gundam - Ending 1 DVD.mkv
+!new/[EG] Victory Gundam - Opening 1 DVD.mkv
 !new/[HorribleSubs] A Dark Rabbit Has Seven Lives - 11 [720p].mkv
 !new/[HorribleSubs] A Dark Rabbit Has Seven Lives - 12 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 35 [720p].mkv
-!new/[HorribleSubs] Bleach - 341 [720p].mkv
-!new/[HorribleSubs] Hanasakeru Seishonen - 24 [480p].mkv
-!new/[HorribleSubs] Hanasakeru Seishonen - 25 [480p].mkv
-!new/[HorribleSubs] Hanasakeru Seishonen - 26 [480p].mkv
-!new/[HorribleSubs] Hanasakeru Seishonen - 27 [480p].mkv
-!new/[HorribleSubs] Hanasakeru Seishonen - 28 [480p].mkv
-!new/[HorribleSubs] Hanasakeru Seishonen - 29 [480p].mkv
-!new/[HorribleSubs] Hanasakeru Seishonen - 30 [480p].mkv
-!new/[HorribleSubs] Hanasakeru Seishonen - 31 [480p].mkv
-!new/[HorribleSubs] Hanasakeru Seishonen - 32 [480p].mkv
-!new/[HorribleSubs] Hanasakeru Seishonen - 33 [480p].mkv
-!new/[HorribleSubs] Hanasakeru Seishonen - 34 [480p].mkv
-!new/[HorribleSubs] Hanasakeru Seishonen - 35 [480p].mkv
-!new/[HorribleSubs] Hanasakeru Seishonen - 36 [480p].mkv
-!new/[HorribleSubs] Hanasakeru Seishonen - 37 [480p].mkv
-!new/[HorribleSubs] Hanasakeru Seishonen - 38 [480p].mkv
-!new/[HorribleSubs] Hanasakeru Seishonen - 39 [480p].mkv
-!new/[HorribleSubs] Hanasakeru Seishounen 14 [480p].mkv
-!new/[HorribleSubs] Hanasakeru Seishounen 15 [480p].mkv
-!new/[HorribleSubs] Hanasakeru Seishounen 16 [480p].mkv
-!new/[HorribleSubs] Hanasakeru Seishounen 17 [480p].mkv
-!new/[HorribleSubs] Hanasakeru Seishounen 18 [480p].mkv
-!new/[HorribleSubs] Hanasakeru Seishounen 19 [480p].mkv
-!new/[HorribleSubs] Hanasakeru Seishounen 20 [480p].mkv
-!new/[HorribleSubs] Hanasakeru Seishounen 21 [480p].mkv
-!new/[HorribleSubs] Hanasakeru Seishounen 22 [480p].mkv
-!new/[HorribleSubs] Hanasakeru Seishounen 23 [480p].mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 24.mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 25.mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 26.mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 27.mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 28.mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 29.mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 30.mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 31.mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 32.mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 33.mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 34.mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 35.mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 36.mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 37.mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 38.mkv
+!new/[HorribleSubs] Hanasakeru Seishonen - 39.mkv
+!new/[HorribleSubs] Hanasakeru Seishounen - 14.mkv
+!new/[HorribleSubs] Hanasakeru Seishounen - 15.mkv
+!new/[HorribleSubs] Hanasakeru Seishounen - 16.mkv
+!new/[HorribleSubs] Hanasakeru Seishounen - 17.mkv
+!new/[HorribleSubs] Hanasakeru Seishounen - 18.mkv
+!new/[HorribleSubs] Hanasakeru Seishounen - 19.mkv
+!new/[HorribleSubs] Hanasakeru Seishounen - 20.mkv
+!new/[HorribleSubs] Hanasakeru Seishounen - 21.mkv
+!new/[HorribleSubs] Hanasakeru Seishounen - 22.mkv
+!new/[HorribleSubs] Hanasakeru Seishounen - 23.mkv
 !new/[HorribleSubs] Kamisama Dolls - 13 [720p].mkv
-!new/[HorribleSubs] Moritasan wa Mukuchi - 13 [720p].mkv
+!new/[HorribleSubs] Morita-san wa Mukuchi - 13 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 228 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 230 [720p].mkv
 !new/[HorribleSubs] Nekogami Yaoyorozu - 12 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 26 [720p].mkv
-!new/[Huzzah]_Hyouge_Mono_07_[6CBD5CC4].mkv
-!new/[JNE-REMUX][HorribleSubs]_No._6_-_11_[720p].mkv
-!new/[Jumonji-Giri]_[A-Flux]_Tenshi_no_Shippo_Chu_Ep07-09_(a40de556).mkv
-!new/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream - 09 [H264 1024x576] [1C03DEA8].mkv
-!new/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream - 10 [H264 1024x576] [0A5EEEA1].mkv
-!new/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream - 11 [H264 1024x576] [79036436].mkv
-!new/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream - 12 [H264 1024x576] [75E73DD6].mkv
-!new/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream - 13 [H264 1024x576] [546EC157].mkv
-!new/[Licca] Happy Kappi Episode 24 (h.264) [40B91EA7].mkv
-!new/[LonE]_Tainaka_Sachi_-_Mariage_-tribute_to_Fate-_[w_scans]_(FLAC).rar
+!new/[Huzzah] Hyouge Mono - 07 [6CBD5CC4].mkv
+!new/[JNE-REMUX][HorribleSubs] No. 6 - 11 [720p].mkv
+!new/[Jumonji-Giri][A-Flux] Tenshi no Shippo Chu Ep07-09 [A40DE556].mkv
+!new/[KiteSeekers-Wasurenai] Pretty Rhythm - Aurora Dream - 09 [576p][1C03DEA8].mkv
+!new/[KiteSeekers-Wasurenai] Pretty Rhythm - Aurora Dream - 10 [576p][0A5EEEA1].mkv
+!new/[KiteSeekers-Wasurenai] Pretty Rhythm - Aurora Dream - 11 [576p][79036436].mkv
+!new/[KiteSeekers-Wasurenai] Pretty Rhythm - Aurora Dream - 12 [576p][75E73DD6].mkv
+!new/[KiteSeekers-Wasurenai] Pretty Rhythm - Aurora Dream - 13 [576p][546EC157].mkv
+!new/[Licca] Happy Kappi - 24 [40B91EA7].mkv
 !new/[Nipponsei] Astarotte no Omocha! Original Soundtrack.zip
 !new/[Nipponsei] BLEACH ED28 Single - Haruka Kanata [UNLIMITS].zip
 !new/[Nipponsei] Dog Days Original Soundtrack Vol.2.zip
 !new/[Nipponsei] Hanasaku Iroha Character Song Single - Matsumae Ohana [Itou Kanae].zip
 !new/[Nipponsei] Kami-sama no Memo-chou Original Soundtrack.zip
-!new/[Nutbladder]_Kaiji_S2_-_24_[AB9B9CD7].mkv
-!new/[Nutbladder]_Kaiji_S2_-_25_[D0C6FD16].mkv
-!new/[Nutbladder]_Kaiji_S2_-_26_[EB3BF433].mkv
-!new/[Okashii-RyRo]_Inazuma_Eleven_-_21_(1280x720_x264_AAC)_[57D241D8].mkv
-!new/[Okashii-RyRo]_Inazuma_Eleven_-_25_(1280x720_x264_AAC)_[2D852794].mkv
-!new/[Okashii-RyRo]_Inazuma_Eleven_-_26_(1280x720_x264_AAC)_[A174EC6A].mkv
-!new/[Okashii-RyRo]_Inazuma_Eleven_-_27_(1280x720_x264_AAC)_[1B8AA808].mkv
-!new/[Okashii-RyRo]_Inazuma_Eleven_-_28_(1280x720_x264_AAC)_[32E689A7].mkv
-!new/[Okashii-RyRo]_Inazuma_Eleven_-_29_(1280x720_x264_AAC)_[64603FF4].mkv
-!new/[Okashii-RyRo]_Inazuma_Eleven_-_30_(1280x720_x264_AAC)_[E32D7B8B].mkv
-!new/[Okashii-RyRo]_Inazuma_Eleven_-_31_(1280x720_x264_AAC)_[F079F07C].mkv
-!new/[Okashii-RyRo]_Inazuma_Eleven_-_32_(1280x720_x264_AAC)_[729D4756].mkv
-!new/[ReDone] Lime-Colored War Tales - 10 (DVD) [BA3CB6EB].mkv
-!new/[ReDone] Rizelmine - 09 (DVD) [18691AB9].mkv
-!new/[RyRo]_Digimon_Xros_Wars_-_54_(1280x720_x264_AAC)_[6B6DCAD5].mkv
-!new/[RyRo]_Inazuma_Eleven_-_103_(1280x720_x264_AAC)_[B1E034CB].mkv
-!new/[RyRo]_Inazuma_Eleven_-_104_(1280x720_x264_AAC)_[7DE9963B].mkv
-!new/[RyRo]_Inazuma_Eleven_-_117-120_Eyecatches_(704x396)_[5757C99D].mkv
-!new/[RyRo]_Inazuma_Eleven_-_121_(1280x720_x264_AAC)_[DE2EEBA8].mkv
-!new/[RyRo]_Inazuma_Eleven_-_125_(1280x720_x264_AAC)_[C47DD343].mkv
-!new/[RyRo]_Inazuma_Eleven_-_33_(1280x720_x264_AAC)_[982C22FD].mkv
-!new/[RyRo]_Inazuma_Eleven_-_34_(1280x720_x264_AAC)_[2B8BBD92].mkv
-!new/[RyRo]_Inazuma_Eleven_-_35_(1280x720_x264_AAC)_[042D4E11].mkv
-!new/[RyRo]_Inazuma_Eleven_-_36_(1280x720_x264_AAC)_[1283BDAB].mkv
-!new/[RyRo]_Inazuma_Eleven_-_37_(1280x720_x264_AAC)_[EAEA79C0].mkv
-!new/[RyRo]_Inazuma_Eleven_-_38_(1280x720_x264_AAC)_[63B276C6].mkv
-!new/[RyRo]_Inazuma_Eleven_-_39_(1280x720_x264_AAC)_[422EADA6].mkv
-!new/[RyRo]_Inazuma_Eleven_-_40_(1280x720_x264_AAC)_[A6849002].mkv
-!new/[RyRo]_Inazuma_Eleven_-_41_(1280x720_x264_AAC)_[E3828B16].mkv
-!new/[RyRo]_Inazuma_Eleven_-_42_(1280x720_x264_AAC)_[2F7EE710].mkv
-!new/[RyRo]_Inazuma_Eleven_-_43_(1280x720_x264_AAC)_[0EC14508].mkv
-!new/[RyRo]_Inazuma_Eleven_-_44_(1280x720_x264_AAC)_[57C920CB].mkv
-!new/[RyRo]_Inazuma_Eleven_-_45_(1280x720_x264_AAC)_[AB235A34].mkv
-!new/[RyRo]_Inazuma_Eleven_-_46_(1280x720_x264_AAC)_[478DE32C].mkv
-!new/[RyRo]_Inazuma_Eleven_-_47_(1280x720_x264_AAC)_[0941C309].mkv
-!new/[RyRo]_Inazuma_Eleven_-_48_(1280x720_x264_AAC)_[3ACADAE4].mkv
-!new/[RyRo]_Inazuma_Eleven_-_49_(1280x720_x264_AAC)_[58006507].mkv
-!new/[RyRo]_Inazuma_Eleven_-_50_(1280x720_x264_AAC)_[F5AE917B].mkv
-!new/[RyRo]_Inazuma_Eleven_-_51_(1280x720_x264_AAC)_[EE7CACA8].mkv
-!new/[RyRo]_Inazuma_Eleven_-_52_(1280x720_x264_AAC)_[CD64312B].mkv
-!new/[RyRo]_Inazuma_Eleven_-_53_(1280x720_x264_AAC)_[2B65227D].mkv
-!new/[RyRo]_Inazuma_Eleven_-_54_(1280x720_x264_AAC)_[AA616BA0].mkv
-!new/[RyRo]_Inazuma_Eleven_-_55_(1280x720_x264_AAC)_[4EE75221].mkv
-!new/[RyRo]_Inazuma_Eleven_-_56_(1280x720_x264_AAC)_[A333520C].mkv
-!new/[RyRo]_Inazuma_Eleven_-_57_(1280x720_x264_AAC)_[FD70AE4C].mkv
-!new/[RyRo]_Inazuma_Eleven_-_58_(1280x720_x264_AAC)_[7722E4B3].mkv
-!new/[RyRo]_Inazuma_Eleven_-_59_(1280x720_x264_AAC)_[7F85707A].mkv
-!new/[RyRo]_Inazuma_Eleven_-_60_(1280x720_x264_AAC)_[A36D4664].mkv
-!new/[RyRo]_Inazuma_Eleven_-_61_(1280x720_x264_AAC)_[6ACD46D9].mkv
-!new/[RyRo]_Inazuma_Eleven_-_62_(1280x720_x264_AAC)_[98FBD8EC].mkv
-!new/[RyRo]_Inazuma_Eleven_-_63_(1280x720_x264_AAC)_[25FC84AB].mkv
-!new/[RyRo]_Inazuma_Eleven_-_64_(1280x720_x264_AAC)_[EDB45E15].mkv
-!new/[RyRo]_Inazuma_Eleven_-_85_(1280x720_x264_AAC)_[E09B973F].mkv
-!new/[RyRo]_Inazuma_Eleven_-_86_(1280x720_x264_AAC)_[E2A2B04A].mkv
-!new/[RyRo]_Inazuma_Eleven_-_88-89_(1280x720_x264_AAC)_[5B04E505].mkv
-!new/[RyRo]_Inazuma_Eleven_-_91_(1280x720_x264_AAC)_[98C2FE33].mkv
-!new/[RyRo]_Inazuma_Eleven_-_92_(1280x720_x264_AAC)_[2243B3D9].mkv
-!new/[RyRo]_Inazuma_Eleven_-_93_(1280x720_x264_AAC)_[CE8414F8].mkv
-!new/[RyRo]_Inazuma_Eleven_-_96_(1280x720_x264_AAC)_[D3D5FEBF].mkv
-!new/[SubDESU]_Manyuu_Hikenchou_-_11_~DC~_(1280x720)_[1F9981DD].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -902,23 +835,6 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
-!new/[Underwater] Shinryaku! Ika Musume S2 - 01 (720p) [E93ADEE3].mkv
-!new/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 07 [DVD H264 640x480] [9F54E509].mkv
-!new/[WhyNot] Mayo Chiki - 13 [EEE11E87].mkv
-!new/[aarinfantasy]_Sekai-ichi_Hatsukoi_OVA2_[99360F90].avi
-!new/[gg]_Mawaru_Penguindrum_-_12_[8AE3776F].mkv
-!new/[iSiscon]_Kashii_Airi_(CV._Hidaka_Rina)_-_RO-KYU-BU!_Character_Songs_05_Kashii_Airi_(FLAC).rar
-!new/[iSiscon]_Kuribayashi_Minami,_Hashimoto_Miyuki,_Faylan,_Misato_Aki,_yozuca,_rino_-_OVA_Carnival_Phantasm_OP_Single_-_Super_Affection_(FLAC).rar
-!new/[iSiscon]_Touwa_Erio_(CV._Oogame_Asuka),_Mifune_Ryuuko_(CV._Katou_Emiri),_Maekawa-san_(CV._Fuchigami_Mai)_-_Denpa_Onna_to_Seishun_Otoko_Character_Song_Album_Vol.1_(FLAC).rar
-!new/[m.3.3.w] Hanasakeru Seishounen 13 (H.264) [62CC500B].mkv
-!new/[m.3.3.w] Persona 3 Picture Drama - She Goes For A Walk 01 [0DEFC28B].mp4
-!new/[m.3.3.w] Persona 3 Picture Drama - She Goes For A Walk 02 [5588DD07].mp4
-!new/[m.3.3.w] Persona 3 Picture Drama - She Goes For A Walk 03 [0B7B0C33].mp4
-!new/[m.3.3.w] Persona 3 Picture Drama - She Goes For A Walk 04 [9D467A8F].mp4
-!new/[m.3.3.w] Persona 3 Picture Drama - She Goes For A Walk 05 [68B46BBD].mp4
-!new/[m.3.3.w] Persona 3 Picture Drama - She Goes For A Walk 06 [9C8BC40B].mp4
-!new/[m.3.3.w] Persona 3 Picture Drama - She Goes For A Walk 07 [C8C96D0A].mp4
-!new/[yibis]_One_Piece_515_[720p][F79DD1D6].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx

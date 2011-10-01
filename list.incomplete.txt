@@ -1116,6 +1116,7 @@ incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 50 [720p][B2FDD449].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 51 [720p][7C248F87].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 52 [720p][12A92CF6].mkv
 incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 53 [720p][A40492B6].mkv
+incomplete/Digimon Xros Wars/[RyRo] Digimon Xros Wars - 54 [720p][6B6DCAD5].mkv
 incomplete/Dirty Pair TV/[FLF & L-E] Dirty Pair TV - 01 [9689517F].mkv
 incomplete/Dirty Pair TV/[FLF & L-E] Dirty Pair TV - 02 [793D547A].mkv
 incomplete/Dirty Pair TV/[FLF & L-E] Dirty Pair TV - 03 [AEF9424F].mkv
@@ -1729,6 +1730,7 @@ incomplete/Hanasakeru Seishounen/[m.3.3.w] Hanasakeru Seishounen - 10 [96B46865]
 incomplete/Hanasakeru Seishounen/[m.3.3.w] Hanasakeru Seishounen - 11 [FD41BDAB].mkv
 incomplete/Hanasakeru Seishounen/[m.3.3.w] Hanasakeru Seishounen - 12 [6EECC837].mkv
 incomplete/Hanasakeru Seishounen/[m.3.3.w] Hanasakeru Seishounen - 12.5 [43281E55].mkv
+incomplete/Hanasakeru Seishounen/[m.3.3.w] Hanasakeru Seishounen - 13 [62CC500B].mkv
 incomplete/Happy Happy Clover/[Yoroshiku] Happy Happy Clover - 01 [E96A9A3F].mkv
 incomplete/Happy Happy Clover/[Yoroshiku] Happy Happy Clover - 02 [0D3C76FC].mkv
 incomplete/Happy Happy Clover/[Yoroshiku] Happy Happy Clover - 03 [95A5E181].mkv
@@ -1993,6 +1995,7 @@ incomplete/Juushin Enbu - Hero Tales/[Gekkostate] Juushin Enbu - Hero Tales - 01
 incomplete/Kaibutsu Oujo OVA/[Ayako] Kaibutsu Oujo OVA - 01 [DVD][58E20764].mkv
 incomplete/Kaibutsu Oujo OVA/[Mamiko SHiN] Kaibutsu Oujo OVA - 01 [DVD][EEE2827C].mkv
 incomplete/Kaibutsu Oujo OVA/[Mamiko SHiN] Kaibutsu Oujo OVA - 02 [DVD][1F5A2D99].mkv
+incomplete/Kaiji S2/.notes.txt.swp
 incomplete/Kaiji S2/[Doremi] Kaiji S2 - 23 [78C5180F].mkv
 incomplete/Kaiji S2/[Doremi] Kaiji S2 - 24 [0527D5F1].mkv
 incomplete/Kaiji S2/[Doremi] Kaiji S2 - 25 [31D6D948].mkv
@@ -2018,6 +2021,9 @@ incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 20 [D8709E2A].mkv
 incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 21 [827919EF].mkv
 incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 22 [5F901A56].mkv
 incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 23 [302F639F].mkv
+incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 24 [AB9B9CD7].mkv
+incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 25 [D0C6FD16].mkv
+incomplete/Kaiji S2/[Nutbladder] Kaiji S2 - 26 [End][EB3BF433].mkv
 incomplete/Kaiji S2/[Underwater-Commie] Kaiji S2 - 05 [720p][75CAF914].mkv
 incomplete/Kaiji S2/[Underwater-Commie] Kaiji S2 - 09 [720p][237119CB].mkv
 incomplete/Kaiji S2/[Underwater] Kaiji S2 - 16 [720p][1FCFDE46].mkv
@@ -2427,6 +2433,7 @@ incomplete/Manyuu Hikenchou/[SubDesu] Manyuu Hikenchou - 07 [Uncut][720p][963378
 incomplete/Manyuu Hikenchou/[SubDesu] Manyuu Hikenchou - 08 [Uncut][720p][4FF40F2D].mkv
 incomplete/Manyuu Hikenchou/[SubDesu] Manyuu Hikenchou - 09 [Uncut][720p][12770F97].mkv
 incomplete/Manyuu Hikenchou/[SubDesu] Manyuu Hikenchou - 10 [Uncut][720p][69CDD28E].mkv
+incomplete/Manyuu Hikenchou/[SubDesu] Manyuu Hikenchou - 11 [Uncut][720p][1F9981DD].mkv
 incomplete/Maple Story/[Ashes-WIW] Maple Story - 01 [5B1872E3].mkv
 incomplete/Mardock Scramble/[Coalgirls] Mardock Scramble - 01 [720p BD][AE4E623E].mkv
 incomplete/Marginal Prince/[aarinfantasy] Marginal Prince - 01 [73C8AA2E].avi
@@ -2480,29 +2487,14 @@ incomplete/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 08 [8A88DF18].mkv
 incomplete/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 09 [2182065F].mkv
 incomplete/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 10 [1E74EB5D].mkv
 incomplete/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 11 [v2][B0407408].mkv
-incomplete/Mayo Chiki/[Ayako] Mayo Chiki - 01 [720p][BAA60A16].mkv
-incomplete/Mayo Chiki/[Ayako] Mayo Chiki - 02 [720p][D9805400].mkv
-incomplete/Mayo Chiki/[Ayako] Mayo Chiki - 03 [720p][F88D5BE9].mkv
-incomplete/Mayo Chiki/[Ayako] Mayo Chiki - 04 [v2 720p][A5364C50].mkv
-incomplete/Mayo Chiki/[Ayako] Mayo Chiki - 05 [720p][A375C34C].mkv
-incomplete/Mayo Chiki/[Ayako] Mayo Chiki - 06 [720p][56BF524E].mkv
-incomplete/Mayo Chiki/[Ayako] Mayo Chiki - 07 [720p][C8A2B6DB].mkv
-incomplete/Mayo Chiki/[Ayako] Mayo Chiki - 08 [720p][981FA893].mkv
-incomplete/Mayo Chiki/[Ayako] Mayo Chiki - 09 [720p][E2D31030].mkv
-incomplete/Mayo Chiki/[Ayako] Mayo Chiki - 10 [720p][7FD0341C].mkv
-incomplete/Mayo Chiki/[Ayako] Mayo Chiki - 11 [720p][DE66B21F].mkv
-incomplete/Mayo Chiki/[Ayako] Mayo Chiki - 12 [720p][AB55CF24].mkv
-incomplete/Mayo Chiki/[WhyNot] Mayo Chiki - 07 [0B19E03E].mkv
-incomplete/Mayo Chiki/[WhyNot] Mayo Chiki - 08 [2BE59C75].mkv
-incomplete/Mayo Chiki/[WhyNot] Mayo Chiki - 09 [3C581B86].mkv
-incomplete/Mayo Chiki/[WhyNot] Mayo Chiki - 10 [D1DA2637].mkv
-incomplete/Mayo Chiki/[WhyNot] Mayo Chiki - 11 [C363A097].mkv
+incomplete/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 12 [8AE3776F].mkv
 incomplete/Mermaid Melody Pichi Pichi Pitch Pure/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 01 [v2 DVD][A829314C].mkv
 incomplete/Mermaid Melody Pichi Pichi Pitch Pure/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 02 [DVD][7396A7B7].mkv
 incomplete/Mermaid Melody Pichi Pichi Pitch Pure/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 03 [DVD][043A4645].mkv
 incomplete/Mermaid Melody Pichi Pichi Pitch Pure/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 04 [DVD][B55E1FE7].mkv
 incomplete/Mermaid Melody Pichi Pichi Pitch Pure/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 05 [DVD][4C50F0FD].mkv
 incomplete/Mermaid Melody Pichi Pichi Pitch Pure/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 06 [DVD][210674E2].mkv
+incomplete/Mermaid Melody Pichi Pichi Pitch Pure/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 07 [DVD][9F54E509].mkv
 incomplete/Might Gaine/[Nyoro~n Subs] Might Gaine - 01 [E4BED354].mkv
 incomplete/Minami-ke Drama CD/[BSS] Minami-ke Drama CD - 01 - Rolling Around [93DC7733].mkv
 incomplete/Minami-ke Drama CD/[BSS] Minami-ke Drama CD - 02 - I'm not a Mangaka [60092314].mkv
@@ -3348,6 +3340,7 @@ incomplete/One Piece/One Piece - 511 [yibis][720p][AD3AB71B].mkv
 incomplete/One Piece/One Piece - 512 [yibis][720p][2AC9BF21].mkv
 incomplete/One Piece/One Piece - 513 [yibis][720p][6470DA9E].mkv
 incomplete/One Piece/One Piece - 514 [yibis][720p][31F7D279].mkv
+incomplete/One Piece/One Piece - 515 [yibis][720p][F79DD1D6].mkv
 incomplete/One Piece/One Piece - Opening 7 [Vegapunk][720p][6B7F029D].mp4
 incomplete/One Piece/One Piece - Opening 8 [Vegapunk][720p][D45E5410].mp4
 incomplete/One Piece/One Piece - Special 1 [K-F][DVD][DF62ACA0].avi
@@ -3852,6 +3845,7 @@ incomplete/Spelunker is a teacher/[Nutbladder] Spelunker is a teacher - PV3 [EA1
 incomplete/Spelunker is a teacher/[Nutbladder] Spelunker is a teacher - PV4 [35316DF7].mkv
 incomplete/Spelunker is a teacher/[Nutbladder] Spelunker is a teacher - PV5 [C432FC45].mkv
 incomplete/Spelunker is a teacher/[Nutbladder] Spelunker is a teacher [00589591].mkv
+incomplete/Squid Girl S2/[Underwater] Squid Girl S2 - 01 [720p][E93ADEE3].mkv
 incomplete/Strong World/[yibis] Strong World - 0 [DVD][49C1A026].mkv
 incomplete/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 01 [720p][979152CB].mkv
 incomplete/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 02 [720p][B92C5AD5].mkv

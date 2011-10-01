@@ -420,6 +420,7 @@ music/ASL/[ASL]_Katakiri_Rekka_-_Verite_et_Mensoge_Usotsuki_Naret_no_Yasashii_An
 music/ASL/[ASL]_Katakiri_Rekka_-_Yakusoku_no_Sekai_Goddess_will_[FLAC].rar
 music/ASL/[ASL]_KatateSIZE_-_Nurarihyon_no_Mago_Sennen_Makyou_ED_-_Orange_Smile_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Katou_Emiri_-_Yuruyuri_Character_Disc_3_-_Mirakuru_Yurukuru_1_2_3_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Katou_Emiri_-_Yuruyuri_Character_Disc_5_-_Kirai_Janai_mon_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Kawano_Marina_-_A_Channel_OP_-_Morning_Arch_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Key_Sounds_Label_-_Rewrite_Original_Soundtrack_[FLAC].rar
 music/ASL/[ASL]_Kicco_-_Gateau_au_Chocolate_[FLAC]_[w_Scans].rar
@@ -447,6 +448,8 @@ music/ASL/[ASL]_Makino_Yui_-_Holography_[EXTRA].rar
 music/ASL/[ASL]_Makino_Yui_-_Holography_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Marie_-_GWAVE_SuperFeatures_vol5_THE-KATANA-ROCK_GEKKA_HOMURA_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Matsutani_Suguru_-_Usagi_Drop_Original_Soundtrack_[FLAC].rar
+music/ASL/[ASL]_Mikami_Shiori_-_Yuruyuri_Character_Disc_1_-_Watashi_Shuyaku_no_Akaza_Akari_Desu_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Mimori_Suzuko_-_Yuruyuri_Character_Disc_6_-_Day_by_day_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Misawa_Yasuhiro_-_Matsudomoe_Zouryouchuu_Limited_Edition_Bonus_CD_1_Honki_Sentai_Gachiranger_Original_Soundtrack_[FLAC].rar
 music/ASL/[ASL]_Miyano_Mamoru_-_STEINS;GATE_Laboratory_Member_001_Okabe_Rintarou_[FLAC].rar
 music/ASL/[ASL]_Miyano_Mamoru_-_Uta_no_Prince-sama_Maji_LOVE_1000_OP_-_Orpheus_[FLAC]_[w_Scans].rar
@@ -493,6 +496,7 @@ music/ASL/[ASL]_Sakakibara_Yui_-_Steins;Gate_Xbox_360_ED_Unmei_no_Farfalla_[FLAC
 music/ASL/[ASL]_Sakakibara_Yui_-_Toki_wo_Kanaderu_Waltz_OP_ED_-_Blue_mind_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Sayaka_Sasaki_-_Nichjou_ED_Single_Zzz_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Seki_Tomokazu_-_STEINS;GATE_Laboratory_Member_003_Hashida_Itaru_[FLAC].rar
+music/ASL/[ASL]_ShibayanRecords_-_Kokoro_Vibration_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Shikata_Akiko_-_Byakumu_no_Mayu_~Ricordando_il_passato~_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Shikata_Akiko_-_Itsuka_Tenma_no_Kuro_Usagi_ED_-_Utsusemi_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Shimamiya_Eiko_-_Shimamiya_Eiko_Best_Album_-_EPS_-Eiko_Primary_Selection-_[FLAC]_[w_Scans].rar
@@ -535,6 +539,7 @@ music/ASL/[ASL]_Toyama_Nao_-_Kami_nomi_zo_Shiru_Sekai_-_Yonin_to_Idol_-_Natsuiro
 music/ASL/[ASL]_Toyama_Nao_-_Kami_nomi_zo_Shiru_Sekai_-_Yonin_to_Idol_-_Natsuiro_Surprise_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Toyosaki_Aki_-_Kami_Nomi_zo_Shiru_Sekai_II_Character_CD_7_Nagase_Jun_starring_Toyosaki_Aki_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Toyosaki_Aki_-_love_your_life,_love_my_life_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Tsuda_Minami_-_Yuruyuri_Character_Disc_2_-_Goyururi_World_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_ULTRA-PRISM_with_Shiratama-Chuu_Soft_Tennis_Club_-_Softenni_OP_-_Rule_Book_wo_Wasurechae_[EXTRA].rar
 music/ASL/[ASL]_ULTRA-PRISM_with_with_Shiratama-Chuu_Soft_Tennis_Club_-_Softenni_OP_-_Rule_Book_wo_Wasurechae_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_UVERworld_-_Ao_No_Exorcist_Limited_Edition_OP_CORE_PRIDE_[w_Scans]_[FLAC].zip
@@ -655,6 +660,7 @@ music/ASL/[ASL]_Various_Artists_-_Otome_wa_Boku_ni_Koishiteru_Portable_Futari_no
 music/ASL/[ASL]_Various_Artists_-_Panty_Stocking_with_Garterbelt_THE_WORST_ALBUM_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Princess_Frontier_Portable_Vocal_Collection_CD_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Princess_Lover_Original_Sound_Track_[FLAC].rar
+music/ASL/[ASL]_Various_Artists_-_Puella_Magi_Madoka_Magica_Original_Soundtrack_Vol._3_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Rekishi_Hiwa_Historia_Original_Sound_Track_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Rewrite_-_Soil_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_STAR_DRIVER_Kagayaki_no_Takuto_BD_6_Limited_Edition_Bonus_CD_[FLAC].rar
@@ -2659,11 +2665,13 @@ music/iSiscon/[iSiscon]_Kalafina_-_Mahou_Shoujo_Madoka_Magica_ED_Single_-_Magia_
 music/iSiscon/[iSiscon]_Kami_no_Mizo_Shiri_Tai_-_The_World_God_Only_Knows_Ending_Theme_-_Koi_no_Shirushi_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Kamizaki_Risa_(CV._Kadowaki_Mai)_-_Amagami_SS_ED_Theme_7_Kamizaki_Risa_-_Koi_no_Yukue_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Kanemoto_Akari_(CV._Manaka_Umi)_-_Noble_Works_Character_Song_Vol.1_-_Koi_no_Bakudan_[w_scans]_(FLAC).rar
+music/iSiscon/[iSiscon]_Kashii_Airi_(CV._Hidaka_Rina)_-_RO-KYU-BU!_Character_Songs_05_Kashii_Airi_(FLAC).rar
 music/iSiscon/[iSiscon]_Katou_Emiri_-_Jump!_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Key_Sounds_Label_-_Kud_Wafter_Original_Soundtrack_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Kikuya_Tomoki,_Chihara_Minori_-_Asobi_ni_Iku_yo!_Original_Soundtrack_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Kotobuki_Minako_-_Shiny+_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Kousaka_Kirino_(CV._Taketatsu_Ayana),_Aragaki_Ayase_(CV._Hayami_Saori)_-_TV_Anime_Ore_no_Imouto_ga_Konna_ni_Kawaii_wake_ga_nai_ED3_ED4_Single_-_Horaism,_Shiroi_Kokoro_[w_scans]_(FLAC).rar
+music/iSiscon/[iSiscon]_Kuribayashi_Minami,_Hashimoto_Miyuki,_Faylan,_Misato_Aki,_yozuca,_rino_-_OVA_Carnival_Phantasm_OP_Single_-_Super_Affection_(FLAC).rar
 music/iSiscon/[iSiscon]_Kuribayashi_Minami_-_Infinite_Stratos_OP_Single_-_STRAIGHT_JET_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Kurosaki_Maon_-_TV_Anime_HIGH_SCHOOL_OF_THE_DEAD_ED_Theme_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Lia_-_TV_Anime_Fortune_Arterial_-Akai_Yakusoku-_OP_Single_-_KIZUNA-kizunairo-IRO_[w_scans]_(FLAC).rar
@@ -2727,6 +2735,7 @@ music/iSiscon/[iSiscon]_Tenshinranman_Original_Soundtrack_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Tokimeki_Memorial_4_Image_song_-_Tenohira_no_Yuuki_(FLAC).rar
 music/iSiscon/[iSiscon]_Tomatsu_Haruka_-_Asobi_ni_Iku_yo!_ED_Single_Kinjou_Manami_-_Omoide_ga_Jama_wo_Suru_(FLAC).rar
 music/iSiscon/[iSiscon]_Tomatsu_Haruka_-_TV_Anime_Motto_To_Love_Ru_ED_Single_-_Baby_Baby_Love_[w_scans]_(FLAC).rar
+music/iSiscon/[iSiscon]_Touwa_Erio_(CV._Oogame_Asuka),_Mifune_Ryuuko_(CV._Katou_Emiri),_Maekawa-san_(CV._Fuchigami_Mai)_-_Denpa_Onna_to_Seishun_Otoko_Character_Song_Album_Vol.1_(FLAC).rar
 music/iSiscon/[iSiscon]_Toyosaki_Aki,_Hikasa_Youko,_Satou_Satomi,_Kotobuki_Minako,_Taketatsu_Ayana_-_K-ON!!_ED2_Single_-_NO,Thank_You!_[w_scans]_(FLAC).rar
 music/iSiscon/[iSiscon]_Toyosaki_Aki,_Hikasa_Youko,_Satou_Satomi,_Kotobuki_Minako,_Taketatsu_Ayana_-_K-ON!!_OP2_Single_-_Utauyo!!_MIRACLE_(FLAC).rar
 music/iSiscon/[iSiscon]_Tropical_Kiss_OP_ED_Single_[w_scans]_(FLAC).rar
