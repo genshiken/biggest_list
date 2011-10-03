@@ -257,19 +257,6 @@ incomplete/Ayakashi Ayashi Inferno/[Shinsen-Subs] Ayakashi Ayashi Inferno - 01 [
 incomplete/Ayatsuri Sakon/[ASP] Ayatsuri Sakon - 22 [DVD][9817F861].mp4
 incomplete/Azuki-chan/[ARR] Azuki-chan - 001 [089B1C3B].mkv
 incomplete/Baby Princess 3D Paradise Love/[FBI] Baby Princess 3D Paradise Love - 01 [v0 1080p BD][8EABB153].mkv
-incomplete/Baka to Test to Shokanju Ni/[Commie] Baka to Test to Shokanju Ni - 01 [3084A5A6].mkv
-incomplete/Baka to Test to Shokanju Ni/[Commie] Baka to Test to Shokanju Ni - 02 [AEED8FF4].mkv
-incomplete/Baka to Test to Shokanju Ni/[Commie] Baka to Test to Shokanju Ni - 03 [D9F4A406].mkv
-incomplete/Baka to Test to Shokanju Ni/[Commie] Baka to Test to Shokanju Ni - 04 [2973E9BB].mkv
-incomplete/Baka to Test to Shokanju Ni/[Commie] Baka to Test to Shokanju Ni - 05 [03C3E561].mkv
-incomplete/Baka to Test to Shokanju Ni/[Commie] Baka to Test to Shokanju Ni - 06 [7E0E3C2F].mkv
-incomplete/Baka to Test to Shokanju Ni/[Commie] Baka to Test to Shokanju Ni - 07 [D29C4AE5].mkv
-incomplete/Baka to Test to Shokanju Ni/[Commie] Baka to Test to Shokanju Ni - 08 [C6BB974C].mkv
-incomplete/Baka to Test to Shokanju Ni/[Commie] Baka to Test to Shokanju Ni - 09 [3DC346CB].mkv
-incomplete/Baka to Test to Shokanju Ni/[Commie] Baka to Test to Shokanju Ni - 10 [D7F3B6E3].mkv
-incomplete/Baka to Test to Shokanju Ni/[Commie] Baka to Test to Shokanju Ni - 11 [9AAF5EEF].mkv
-incomplete/Baka to Test to Shokanju Ni/[Commie] Baka to Test to Shokanju Ni - 12 [75C5189D].mkv
-incomplete/Baka to Test to Shokanju Ni/[Commie] Baka to Test to Shokanju Ni - 13 [End][E57214FF].mkv
 incomplete/Bakegyamon/[DATS] Bakegyamon - 01 [B4442803].mkv
 incomplete/Beelzebub/[HorribleSubs] Beelzebub - 01 [720p][BF7ADF22].mkv
 incomplete/Beelzebub/[HorribleSubs] Beelzebub - 02 [720p][99C115A1].mkv
@@ -615,6 +602,7 @@ incomplete/Blood-C/[Underwater] Blood-C - 08 [720p][A6FB0AA1].mkv
 incomplete/Blood-C/[Underwater] Blood-C - 09 [720p][25A0BC0D].mkv
 incomplete/Blood-C/[Underwater] Blood-C - 10 [720p][7DA01400].mkv
 incomplete/Blood-C/[Underwater] Blood-C - 11 [720p][A395988E].mkv
+incomplete/Blood-C/[Underwater] Blood-C - 12 [End][720p][B200D489].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 01 [AFCE3665].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 02 [A90F670C].mkv
 incomplete/Blue Dragon/[ILA-Skewed] Blue Dragon - 03 [A47F2053].mkv

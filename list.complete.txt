@@ -1066,6 +1066,19 @@ complete/b/Baka to Test to Shokanju Matsuri/[FFFpeeps] Baka to Test to Shokanju 
 complete/b/Baka to Test to Shokanju Matsuri/[FFFpeeps] Baka to Test to Shokanju Matsuri - Opening (Clean) [1080p BD][905974EE].mkv
 complete/b/Baka to Test to Shokanju Matsuri/[FFFpeeps] Baka to Test to Shokanju Matsuri - Opening [v2 1080p BD][E67E78A1].mkv
 complete/b/Baka to Test to Shokanju Matsuri/[FFFpeeps] Baka to Test to Shokanju Matsuri - Special 1 [BD][1080p-AC3][F46C3DCF].mkv
+complete/b/Baka to Test to Shokanju Ni/[Commie] Baka to Test to Shokanju Ni - 01 [3084A5A6].mkv
+complete/b/Baka to Test to Shokanju Ni/[Commie] Baka to Test to Shokanju Ni - 02 [AEED8FF4].mkv
+complete/b/Baka to Test to Shokanju Ni/[Commie] Baka to Test to Shokanju Ni - 03 [D9F4A406].mkv
+complete/b/Baka to Test to Shokanju Ni/[Commie] Baka to Test to Shokanju Ni - 04 [2973E9BB].mkv
+complete/b/Baka to Test to Shokanju Ni/[Commie] Baka to Test to Shokanju Ni - 05 [03C3E561].mkv
+complete/b/Baka to Test to Shokanju Ni/[Commie] Baka to Test to Shokanju Ni - 06 [7E0E3C2F].mkv
+complete/b/Baka to Test to Shokanju Ni/[Commie] Baka to Test to Shokanju Ni - 07 [D29C4AE5].mkv
+complete/b/Baka to Test to Shokanju Ni/[Commie] Baka to Test to Shokanju Ni - 08 [C6BB974C].mkv
+complete/b/Baka to Test to Shokanju Ni/[Commie] Baka to Test to Shokanju Ni - 09 [3DC346CB].mkv
+complete/b/Baka to Test to Shokanju Ni/[Commie] Baka to Test to Shokanju Ni - 10 [D7F3B6E3].mkv
+complete/b/Baka to Test to Shokanju Ni/[Commie] Baka to Test to Shokanju Ni - 11 [9AAF5EEF].mkv
+complete/b/Baka to Test to Shokanju Ni/[Commie] Baka to Test to Shokanju Ni - 12 [75C5189D].mkv
+complete/b/Baka to Test to Shokanju Ni/[Commie] Baka to Test to Shokanju Ni - 13 [End][E57214FF].mkv
 complete/b/Baka to Test to Shokanju/[Elysium] Baka to Test to Shokanju - 01 [1080p BD][F512D5EC].mkv
 complete/b/Baka to Test to Shokanju/[Elysium] Baka to Test to Shokanju - 02 [1080p BD][A1A7FEB2].mkv
 complete/b/Baka to Test to Shokanju/[Elysium] Baka to Test to Shokanju - 03 [1080p BD][7C678B4F].mkv
@@ -13140,7 +13153,6 @@ complete/n/Neo Ranga/[AM] Neo Ranga - 45 [21622CD8].mkv
 complete/n/Neo Ranga/[AM] Neo Ranga - 46 [266518D4].mkv
 complete/n/Neo Ranga/[AM] Neo Ranga - 47 [7BD60EE4].mkv
 complete/n/Neo Ranga/[AM] Neo Ranga - 48 [End][1F63B650].mkv
-complete/n/Nichijou/[HorribleSubs] Nichijou - 26 [End][720p][9BF4EDE8].mkv
 complete/n/Nichijou/[UTW] Nichijou - 00 [LQ][5E9D0BF4].mkv
 complete/n/Nichijou/[Underwater-Commie] Nichijou - 01 [720p][99B70B42].mkv
 complete/n/Nichijou/[Underwater-Commie] Nichijou - 02 [720p][87E53446].mkv
@@ -13167,6 +13179,7 @@ complete/n/Nichijou/[Underwater-Commie] Nichijou - 22 [720p][FA11C1E9].mkv
 complete/n/Nichijou/[Underwater-Commie] Nichijou - 23 [720p][94B6B836].mkv
 complete/n/Nichijou/[Underwater-Commie] Nichijou - 24 [720p][2ED80A22].mkv
 complete/n/Nichijou/[Underwater-Commie] Nichijou - 25 [720p][27B3EF99].mkv
+complete/n/Nichijou/[Underwater-Commie] Nichijou - 26 [End][720p][E17C507E].mkv
 complete/n/Niea Under Seven/[AM] Niea Under Seven - 01 [4E02009D].mkv
 complete/n/Niea Under Seven/[AM] Niea Under Seven - 02 [CD4EC3A9].mkv
 complete/n/Niea Under Seven/[AM] Niea Under Seven - 03 [519B43C0].mkv
