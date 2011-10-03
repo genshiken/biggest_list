@@ -60,6 +60,7 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - 629 [DCTP][720p][1AD8331D].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -656,7 +657,9 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
 !new/[CMS] The World God Only Knows OVA [DVD][10bit][B47BCA05].mkv
+!new/[CureCom] Fresh Pretty Cure! - 35 [HD][442CE68D].mkv
 !new/[Doremi].Love.Live!.Natsuiro.Egao.1.2.Jump!.[77D133E3].mkv
+!new/[EveTaku] The World God Only Knows OVA - 4 Girls and an Idol (848x480 x264 AAC)[C47334BA].mkv
 !new/[Fail-15]_R-15_-_NCOP_(BD 1280x720 x264 AAC)_[35C1CBF6].mkv
 !new/[Fail-15]_R-15_-_NCOP_(BD 1920x1080 x264 AAC)_[905F981B].mkv
 !new/[HorribleSubs] A Dark Rabbit Has Seven Lives - 11 [720p].mkv
@@ -670,7 +673,10 @@
 !new/[Jumonji-Giri]_[A-Flux]_Tenshi_no_Shippo_Chu_NCOP_(695a54ad).mkv
 !new/[Jumonji-Giri]_[A-Flux]_Tenshi_no_Shippo_Chu_Special_(f25f389d).mkv
 !new/[Licca] Little Women II - Jo's Boys Episode 13 (h.264) [011AFB7F].mkv
+!new/[Over-Time]_Kamen_Rider_Fourze_-_05_[ACF3AAA0].mkv
 !new/[Rumbel-Nakama]_Gintama_-_150_[7D0F29D5].mkv
+!new/[RyRo]_Inazuma_Eleven_GO_-_021_(720p)_[F891D350].mkv
+!new/[TMD_A-Destiny]_Bakuman_II_-_01_[720p][D7FB0CA2].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
