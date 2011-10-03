@@ -61,6 +61,7 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - 630 [DCTP][720p][FDDFB063].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -656,8 +657,8 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
+!new/[Ahodomo] Maji de Watashi ni Koi Shinasai! - 01 [720p][819976DF].mkv
 !new/[CMS] The World God Only Knows OVA [DVD][10bit][B47BCA05].mkv
-!new/[Commie] Baka to Test to Shokanju Ni - 13 [End][E57214FF].mkv
 !new/[Commie] C3 - Cube x Cursed x Curious - 01 [8B4D09D8].mkv
 !new/[Commie] Fate-Zero - 01 [3A0CCD6B].mkv
 !new/[Commie] Maria+Holic Alive - 04 [A857AB5B].mkv
@@ -665,6 +666,8 @@
 !new/[CureCom] Fresh Pretty Cure! - 40 [HD][8A4F45D9].mkv
 !new/[CureCom] Fresh Pretty Cure! - 41 [HD][F0E8B4C1].mkv
 !new/[Doremi].Love.Live!.Natsuiro.Egao.1.2.Jump!.[77D133E3].mkv
+!new/[Fail-15]_R-15_-_NCOP_(BD 1280x720 x264 AAC)_[35C1CBF6].mkv
+!new/[Fail-15]_R-15_-_NCOP_(BD 1920x1080 x264 AAC)_[905F981B].mkv
 !new/[Hadena]_C3_ -_ 01_[1280x720_H264_AAC][38E04A82].mkv
 !new/[HorribleSubs] A Dark Rabbit Has Seven Lives - 11 [720p].mkv
 !new/[HorribleSubs] A Dark Rabbit Has Seven Lives - 12 [720p].mkv
@@ -674,8 +677,13 @@
 !new/[HorribleSubs] Hunter X Hunter - 01 [720p].mkv
 !new/[HorribleSubs] R-15 - 12 [720p].mkv
 !new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_4.5_[32980D3C].mkv
+!new/[Jumonji-Giri]_[A-Flux]_Tenshi_no_Shippo_Chu_NCED_(ca7e1d98).mkv
+!new/[Jumonji-Giri]_[A-Flux]_Tenshi_no_Shippo_Chu_NCOP_(695a54ad).mkv
+!new/[Jumonji-Giri]_[A-Flux]_Tenshi_no_Shippo_Chu_Special_(f25f389d).mkv
 !new/[Licca] Little Women II - Jo's Boys Episode 13 (h.264) [011AFB7F].mkv
+!new/[Over-Time]_Pirate_Sentai_Gokaiger_-_32_[379F7F34].mkv
 !new/[PM]Pocket_Monsters_Best_Wishes_049_A_Mad_Run!_The_Battle_Subway!!_Part_1_[H264_720P][905C385C].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_050_A_Mad_Run!_The_Battle_Subway!!_Part_2_[H264_720P][6D611CBE].mkv
 !new/[Rumbel-Nakama]_Gintama_-_150_[7D0F29D5].mkv
 !new/[RyRo]_Inazuma_Eleven_GO_-_020_(720p)_[12E19E58].mkv
 !new/[RyRo]_Inazuma_Eleven_GO_-_021_(720p)_[F891D350].mkv
@@ -695,11 +703,14 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/[UTW]_C3_Cube_x_Cursed_x_Curious_-_01_[h264-720p][AE9552F7].mkv
+!new/[UTW]_C3_Cube_x_Cursed_x_Curious_-_OP_[h264-720p][AE6140F8].mkv
 !new/[UTW]_Fate_Zero_-_01_[h264-720p][E2552AFF].mkv
 !new/[UTW]_Kamisama_no_Memochou_-_12_[h264-720p][47BF442A].mkv
-!new/[Underwater-Commie] Nichijou - 26 (720p) [E17C507E].mkv
-!new/[Underwater] Blood-C - 12 (720p) [B200D489].mkv
+!new/[Underwater-Commie] Nichijou - 26 [End][720p][E17C507E].mkv
+!new/[Underwater] Blood-C - 12 [End][720p][B200D489].mkv
 !new/[Whine-Subs]_Higurashi_no_Naku_Koro_ni_Kira_-_02_[BD][720p-AAC][B5EC718D].mkv
+!new/[WhyNot] Phi Brain - Kami no Puzzle - 01 [7105C87D].mkv
 !new/[gg]_Ao_no_Exorcist_-_25_[15A0DD7E].mkv
 !new/[gg]_Working'!!_-_01_[49948C2F].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
