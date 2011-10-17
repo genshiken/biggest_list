@@ -61,6 +61,9 @@
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
 !new/Detective Conan - 629 [DCTP][720p][1AD8331D].mp4
+!new/Detective Conan - 631 [DCTP][720p][E2CD9EDF].mp4
+!new/Detective Conan - 632 [DCTP][720p][B4EC6309].mp4
+!new/Detective Conan - 633 [DCTP][720p][BE0EF488].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -657,36 +660,218 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
 !new/[A-Destiny] Toriko - 26 (1280x720 h264 AAC) [C240EEEC].mkv
+!new/[A-Destiny] Toriko - 27 (1280x720 h264 AAC) [AEE9E29C].mkv
+!new/[ASL]_Daisuke_Ono_-_WORKING_Character_Song_MENU_6_[FLAC]_[w_Scans].rar
+!new/[ASL]_Hashimoto_Miyuki_-_Mirai_Nostalgia_Opening_Theme_[FLAC].rar
+!new/[ASL]_Itou_Kanae_-_Hanasaku_Iroha_Character_Song_-_Semi_Mist_[FLAC]_[w_Scans].rar
 !new/[ASL]_REMEDIOS_-_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_Original_Soundtrack_Vol3_[FLAC].rar
+!new/[ASL]_Tamura_Yukari_-_C3_OP_ED_-_Endless_Story_[FLAC].rar
+!new/[ASL]_Various_Artists_-_Barbarian_On_The_Groove_Works_Collection_2nd_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Barbarossa_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_CHAOS_HEAD_vocal_collection_[FLAC]_[w Scans].rar
 !new/[ASL]_Various_Artists_-_EXIT_TUNES_PRESENTS_GUMitive_from_megpoid_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Gwave_2010_2nd_Grace_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Hanafubuki_Kachou_Fuugetsu_Sound_Track_-_Inochi_Mijikashi_Koi_Seyo_Otome_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Ikoku_Meiro_no_Croisee_The_Animation_Original_Soundtrack_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Nekogami_Yaoyorozu_Character_Song_Vol._1_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Oretachi_ni_Tsubasa_wa_Nai_Character_Song_Compilation_3_-_Oretachi_ni_Tsubasa_wa_NIGHT_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Setsuei_Tsuki_to_Mahou_to_Taiyou_to_Soundtrack_-_Yuki_Tsuki_Soshite_Hana_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_WORKING_Character_Song_MENU_5_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_your_s_Sound_DiaryCD_[FLAC]_[w_Scans].rar
+!new/[ASL]_primenotes_-_Real_Fantasy_[FLAC]_[w_Scans].rar
+!new/[Ahodomo] Maji de Watashi ni Koi Shinasai! - 02 [720p][8BFC4E06].mkv
+!new/[AonE-AnY]_Ah_My_Goddess_-_Itsumo_Futari_de_-_02_[7698CADF].mkv
+!new/[AonE-dp]Shinshaku_Sanada_Juuyuushi_-_07[0435B01E].mkv
+!new/[AonE]_Phi_Brain_01_[94C59F8C].mkv
+!new/[Ayako]_Jewelpet_Sunshine_-_03_[H264][720p][2E9653F8].mkv
+!new/[Ayako]_Jewelpet_Sunshine_-_04_[H264][720p][2F4A90B7].mkv
 !new/[CMS] Senjou no Valkyria 3 - 01 [BD][1080p-FLAC][A9C5FDCF].mkv
 !new/[CMS] The World God Only Knows OVA [DVD][10bit][B47BCA05].mkv
+!new/[Chibiki]_THE_iDOLM@STER_-_14_[720p][132A89C6].mkv
+!new/[Chibiki]_THE_iDOLM@STER_-_15_[720p][A0382755].mkv
+!new/[Commie] Chihayafuru - 01 [832A1E9E].mkv
+!new/[Commie] Chihayafuru - 02 [92F57247].mkv
+!new/[Commie] Fate ⁄ Zero - 02 [F1693F31].mkv
+!new/[Commie] Fate ⁄ Zero - 03 [C1F222CD].mkv
+!new/[Commie] Guilty Crown - 01 [662BB1FD].mkv
+!new/[Commie] Kyoukai Senjou no Horizon - 01 [8B3132D6].mkv
+!new/[Commie] Kyoukai Senjou no Horizon - 01v2 [334CF812].mkv
+!new/[Commie] Kyoukai Senjou no Horizon - 02 [7715B328].mkv
+!new/[Commie] Nurarihyon no Mago Sennen Makyou - 13 [5AFC3211].mkv
+!new/[Commie] Persona 4 - 01 [14684F67].mkv
+!new/[Commie] Persona 4 - 02 [CAFCB598].mkv
+!new/[Commie] Shakugan no Shana III - 01 [6FA7779A].mkv
+!new/[Commie] Shakugan no Shana III - 02 [5C42AE34].mkv
 !new/[CureCom] Fresh Pretty Cure! - 35 [HD][442CE68D].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 01v2 [04DEF81F].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 02v2 [8302A0F9].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 03v2 [3A073261].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 04v2 [EAB8B658].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 05v2 [8F8B0A50].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 06v2 [95C532A3].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 07v2 [19080209].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 08v2 [6F4A4F6E].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 09v2 [96941D9C].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 10v2 [E02F6BD7].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 11v2 [8231AF4E].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 12v2 [58CAE09C].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 13v2 [C4311B00].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 14v2 [476B8D55].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 15v2 [C31ADC4E].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 16v2 [4B85CD1B].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 17v2 [27AE0BE1].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 18v2 [CF5337FB].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 19v2 [F9817582].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 20v2 [6C313E6B].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 21v2 [7BD0FE8A].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 22v2 [F1891488].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 23v2 [C1418B7F].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 24v2 [143875ED].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 25v2 [1EC2D7DA].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 26v2 [2930FA79].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 27v2 [22411D5F].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 28v2 [72BB3E88].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 29v2 [2CF725E3].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 30v2 [80F8282D].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 31v2 [9DA5209C].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 32v2 [F23CB7A8].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 33v2 [2C4CE5FF].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 34v2 [A612468C].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 35v2 [B839164B].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 36v2 [3AC64F09].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 37v2 [B6FF9B31].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 38v2 [71E7E617].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 39v2 [3EA9C0C1].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 40v2 [E9B666E2].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 41v2 [5DFAD08A].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 42v2 [D368859F].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 43v2 [003D6192].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 44v2 [37628552].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 45v2 [A5784E2A].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 46v2 [75D94DC9].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 47v2 [55D87856].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 48v2 [1BF4C6EE].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 49v2 [C99EAD2C].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 50v2 [8F86EEF8].mkv
+!new/[DmonHiro] Sei Juushi Bismarck 51v2 [B8FAFA59].mkv
+!new/[DmonHiro] Sei Juushi Bismark Clean Ending v2 [40EC8C44].mkv
+!new/[DmonHiro] Sei Juushi Bismark Clean Opening v2 [225389AF].mkv
+!new/[DmonHiro] Sei Juushi Bismark DVD Menus [FB3CE4F3].zip
+!new/[Doremi-CureCom].Suite.PreCure!.33.[1280x720].[7633F222].mkv
+!new/[Doremi-CureCom].Suite.PreCure!.34.[1280x720].[966DA995].mkv
 !new/[Doremi].Love.Live!.Natsuiro.Egao.1.2.Jump!.[77D133E3].mkv
+!new/[Doremi].Ojamajo.Doremi.Dokkaan!.05.[30F38034].avi
+!new/[EG]Turn-A_Gundam_Movie_I_720p(BD).mkv
+!new/[Eclipse] Kaichou wa Maid-sama - 23 (1280x720 Hi10P) [0FB43D51].mkv
 !new/[EveTaku] The World God Only Knows OVA - 4 Girls and an Idol (848x480 x264 AAC)[C47334BA].mkv
+!new/[FFFpeeps] Maken-ki - 01 [10bit][720p][F0993CE6].mkv
 !new/[Fail-15]_R-15_-_NCOP_(BD 1280x720 x264 AAC)_[35C1CBF6].mkv
 !new/[Fail-15]_R-15_-_NCOP_(BD 1920x1080 x264 AAC)_[905F981B].mkv
+!new/[Frostii]_Tetsuko_no_Tabi_-_04_[85BFAA97].mkv
+!new/[GotSpeed]_Mirai_Nikki_-_01v2_[B766A5A3].mkv
 !new/[GotWoot]_Bakuman_2_-_01_[10bit][57F487E4].mkv
+!new/[GotWoot]_Bakuman_2_-_02_[10bit-v2][D7C42D2D].mkv
+!new/[GotWoot]_Bakuman_2_-_02_[10bit][E0DA13BC].mkv
+!new/[GotWoot]_Deadman_Wonderland_OVA_[10bit_480p_H264][5013B725].mkv
+!new/[GotWoot]_Deadman_Wonderland_OVA_[480p_H264][E952A034].mkv
+!new/[GotWoot]_Mirai_Nikki_01_[10-bit][E5251623].mkv
+!new/[Hatsuyuki]_Maken-Ki!_-_01_[1280x720][3502BCC9].mkv
+!new/[HiNA-Wasurenai] Hen Zemi OAD - 02 [DVD H264 720x480 AAC] [8E1A38B9].mkv
+!new/[Hiryuu] Maji de Watashi ni Koi Shinasai!! 02 [1280x720 H264] [923E2F8B].mkv
+!new/[Hiryuu] Maken-Ki! 02 [Hi10P 1280x720 H264] [685B5017].mkv
 !new/[HorribleSubs] A Dark Rabbit Has Seven Lives - 11 [720p].mkv
 !new/[HorribleSubs] A Dark Rabbit Has Seven Lives - 12 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 36 [720p].mkv
+!new/[HorribleSubs] Beelzebub - 37 [720p].mkv
+!new/[HorribleSubs] Beelzebub - 38 [720p].mkv
 !new/[HorribleSubs] Bleach - 342 [720p].mkv
+!new/[HorribleSubs] Bleach - 343 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 38 [720p].mkv
+!new/[HorribleSubs] Cardfight!! Vanguard - 39 [720p].mkv
+!new/[HorribleSubs] Cardfight!! Vanguard - 40 [720p].mkv
+!new/[HorribleSubs] Chihayafuru - 01 [720p].mkv
+!new/[HorribleSubs] Chihayafuru - 02 [720p].mkv
+!new/[HorribleSubs] Fairy Tail - 100 [720p].mkv
+!new/[HorribleSubs] Fairy Tail - 101 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 99 [720p].mkv
+!new/[HorribleSubs] Gintama - 229 [720p].mkv
 !new/[HorribleSubs] Hunter X Hunter - 01 [720p].mkv
+!new/[HorribleSubs] Hunter X Hunter - 02 [720p].mkv
+!new/[HorribleSubs] Hunter X Hunter - 03 [720p].mkv
 !new/[HorribleSubs] Kimi to Boku - 01 [720p].mkv
+!new/[HorribleSubs] Majikoi~Oh! Samurai Girls - 01 [720p].mkv
+!new/[HorribleSubs] Majikoi~Oh! Samurai Girls - 02 [720p].mkv
+!new/[HorribleSubs] Moritasan wa Mukuchi - 14 [720p].mkv
+!new/[HorribleSubs] Moritasan wa Mukuchi - 15 [720p].mkv
+!new/[HorribleSubs] Naruto Shippuuden - 231 [720p].mkv
+!new/[HorribleSubs] Naruto Shippuuden - 232 [720p].mkv
+!new/[HorribleSubs] Persona 4 The Animation - 01 [720p].mkv
 !new/[HorribleSubs] R-15 - 12 [720p].mkv
+!new/[HorribleSubs] SKET Dance - 27 [720p].mkv
+!new/[HorribleSubs] SKET Dance - 28 [720p].mkv
+!new/[HorribleSubs] Sekai-Ichi Hatsukoi S2 - 13 [720p].mkv
+!new/[HorribleSubs] UN-GO - 01 [720p].mkv
+!new/[HorribleSubs] Wagnaria!! - 02 [720p].mkv
+!new/[HorribleSubs] Working'!! - 01 [720p].mkv
+!new/[Huzzah]_Hyouge_Mono_08_[2544F708].mkv
 !new/[Huzzah]_SD_Gundam_Legend_of_the_Three_Kingdoms_Brave_Battle_Warriors_50_[58854549].mkv
+!new/[IB] Honto ni Atta! Reibai Sensei - 20 [720p] [6BDEB29B].mkv
+!new/[IB] Honto ni Atta! Reibai Sensei - 21 [720p] [A955DFC1].mkv
+!new/[Josei-Shini] Maken-Ki - 01 (1280x720 h264 AAC) [AEE7A72C].mkv
 !new/[Jumonji-Giri]_[A-Flux]_Tenshi_no_Shippo_Chu_Ep10-11_(e8138b0c).mkv
 !new/[Jumonji-Giri]_[A-Flux]_Tenshi_no_Shippo_Chu_NCED_(ca7e1d98).mkv
 !new/[Jumonji-Giri]_[A-Flux]_Tenshi_no_Shippo_Chu_NCOP_(695a54ad).mkv
 !new/[Jumonji-Giri]_[A-Flux]_Tenshi_no_Shippo_Chu_Special_(f25f389d).mkv
+!new/[Keroro].154.[Xvid.mp3].[CFF47960].avi
+!new/[KiteSeekers-Kira] Lovely Complex - 10 [DVD H264 720x480] [B320F309].mkv
+!new/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream - 14 [H264 1024x576] [7314C745].mkv
+!new/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 47 [H264 1280x720] [42B9FB52].mkv
+!new/[Licca] Happy Kappi Episode 01v2 (h.264) [BAF1A6FE].mkv
+!new/[Licca] Happy Kappi Episode 25 (h.264) [D652C42A].mkv
 !new/[Licca] Little Women II - Jo's Boys Episode 13 (h.264) [011AFB7F].mkv
+!new/[Licca] Pollyanna Episode 46 (h.264) [47461610].mkv
+!new/[Licca] Pollyanna Episode 47 (h.264) [0BD622B4].mkv
+!new/[Licca] Pollyanna Episode 48 (h.264) [57899FC7].mkv
+!new/[Live-eviL]_The_Snow_Queen_-_Ep_25_[h264&MP3]_[13f240d3].mp4
+!new/[Live-eviL]_The_Snow_Queen_-_Ep_26_[h264&MP3]_[1877fa77].mp4
+!new/[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_01_[89288C3C].mkv
+!new/[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_02_[D4FFD0B0].mkv
+!new/[Myon] Mashiro-iro Symphony - 01 (720p) [4851E0D3].mkv
+!new/[Nipponsei] C3 OP Single - Endless Story [Tamura Yukari].zip
+!new/[Nipponsei] Kami-sama no Memo-chou Character Song Vol.2 - Ayaka [Kayano Ai].zip
+!new/[Nipponsei] Mawaru Penguindrum OP Single - Nornir [Yakushimaru Etsuko Metro Orchestra].zip
 !new/[Over-Time]_Kamen_Rider_Fourze_-_05_[ACF3AAA0].mkv
+!new/[Over-Time]_Kamen_Rider_Fourze_-_06_[E92C1C38].mkv
+!new/[Over-Time]_Pirate_Sentai_Gokaiger_-_33_[627A40B5].mkv
+!new/[Oyatsu] Mashiro Iro Symphony - 01 (1280x720 x264 AAC) [0F466446].mkv
+!new/[Oyatsu] Mashiro Iro Symphony - 02 (1280x720 x264 AAC) [CA4F13C3].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_051_The_Gym_Leader_is_a_Charismatic_Model!_Enter_Kamitsure!![H264_720P][E1443114].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_052_Raimon_Gym!_An_Electric_Shock_Battle_of_Splendor!![H264_720P][C810CE67].mkv
+!new/[ReDone] Lime-Colored War Tales - 11 (DVD) [3455CEE1].mkv
+!new/[ReDone] Rizelmine - 10 (DVD) [F1000194].mkv
 !new/[Rumbel-Nakama]_Gintama_-_150_[7D0F29D5].mkv
+!new/[Rumbel-Nakama]_Gintama_-_151_[H264][92F89FAB].mkv
+!new/[Rumbel-Nakama]_Gintama_-_152_[H264][D73B8BE1].mkv
 !new/[RyRo]_Inazuma_Eleven_GO_-_021_(720p)_[F891D350].mkv
+!new/[SFW-sage]_Bakuman_S2_-_02_[720p][Hi10P][FA7C0C58].mkv
+!new/[SFW-sage]_Bakuman_S2_-_03_[720p][Hi10P][886B6841].mkv
+!new/[SHiN-gx] Morita-san wa Mukuchi - 13 [END][720p][682C09C5].mkv
+!new/[SHiN-gx] Morita-san wa Mukuchi 2 - 01 [720p][4263F2C5].mkv
+!new/[SHiN-gx] Morita-san wa Mukuchi 2 - 02 [720p][A7DF6FCE].mkv
+!new/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 01 [Webrip][640x480 h.264 AAC][60EBED47].mkv
+!new/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 02 [Webrip][640x480 h.264 AAC][2B672DCA].mkv
+!new/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 03 [Webrip][640x480 h.264 AAC][F61427E4].mkv
+!new/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 04 [Webrip][640x480 h.264 AAC][4EC96427].mkv
+!new/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 05 [Webrip][v2][640x480 h.264 AAC][BC064EE7].mkv
+!new/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 06 [Webrip][640x480 h.264 AAC][v2][8E43CD93].mkv
+!new/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 07 [Webrip][640x480 h.264 AAC][6A64F22F].mkv
+!new/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 08 [Webrip][640x480 h.264 AAC][80302512].mkv
+!new/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 09 [Webrip][640x480 h.264 AAC][8936F54D].mkv
+!new/[SHiN-gx] Sono Hanabira ni Kuchizuke wo - Reo x Mai Diaries - 10 [Webrip][FINAL][640x480 h.264 AAC][AC447961].mkv
+!new/[SS-Eclipse] Shakugan no Shana Final - 01 (1280x720 Hi10P) [853CEC84].mkv
+!new/[SS-Eclipse] Shakugan no Shana Final - 02 (1280x720 Hi10P) [7A5CAC26].mkv
+!new/[Shin-S] C³ ~Cube x Cursed x Curious~ OP Single - Endless Story [Tamura Yukari].zip
+!new/[SubDESU]_Manyuu_Hikenchou_-_12_~DC~_(1280x720)_[46A31BA9].mkv
 !new/[TMD_A-Destiny]_Bakuman_II_-_01_[720p][D7FB0CA2].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
@@ -704,9 +889,38 @@
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[UTW-Mazui]_Tamayura_~hitotose~_-_01v0_[480p][1CF45750].mkv
+!new/[UTW]_C3_Cube_x_Cursed_x_Curious_-_02_[h264-720p][EDA5E247].mkv
+!new/[UTW]_C3_Cube_x_Cursed_x_Curious_-_OPv2_[h264-720p][D041EEF2].mkv
+!new/[UTW]_Fate_Zero_-_03_[h264-720p][EC04D328].mkv
+!new/[UTW_Mazui]_Tamayura_~hitotose~_-_01_[576p][EF561C40].mkv
 !new/[Underwater] Shinryaku! Ika Musume S2 - 02 (720p) [03B3C0E2].mkv
+!new/[Underwater] Shinryaku! Ika Musume S2 - 03 (720p) [A5A296F6].mkv
+!new/[Victorique]_Gosick_-_09_[BD][h264-720p][FLAC][7C6CC327].mkv
+!new/[Victorique]_Gosick_-_10_[BD][h264-720p][FLAC][87AF2C60].mkv
+!new/[Victorique]_Gosick_-_11_[BD][h264-720p][FLAC][65210C83].mkv
+!new/[Victorique]_Gosick_-_12_[BD][h264-720p][FLAC][990EAA86].mkv
 !new/[Whine-Subs]_Higurashi_no_Naku_Koro_ni_Kira_-_02_[BD][720p-AAC][B5EC718D].mkv
+!new/[WhyNot] Nurarihyon no Mago Sennen Makyou - 12.5 [B030594A].mkv
+!new/[WhyNot] Nurarihyon no Mago Sennen Makyou - 13 [CA17C037].mkv
+!new/[WhyNot] Nurarihyon no Mago Sennen Makyou - 14 [D1973ECD].mkv
+!new/[WhyNot] Phi Brain - Kami no Puzzle - 02 [16648815].mkv
+!new/[WildBunch]_Digimon_Xros_Wars_II_-_01_(1280x720_x264_AAC)_[DCCCA469].mkv
+!new/[WildBunch]_Digimon_Xros_Wars_II_-_02_(1280x720_x264_AAC)_[32E16226].mkv
+!new/[Zenyaku] Mashiro-Iro Symphony - 01v0 [720p h264 AAC] [09619A4E].mkv
+!new/[gg]_Ben-to_-_01_[FC85E1FD].mkv
+!new/[gg]_Ben-to_-_01v2_Patch_-_Extract_to_same_folder_as_v1.zip
+!new/[gg]_Ben-to_-_02_[79359314].mkv
+!new/[gg]_Mawaru_Penguindrum_-_13_[50CF070F].mkv
+!new/[gg]_Mawaru_Penguindrum_-_14_[CE846E4B].mkv
 !new/[sage]_Kimi_to_Boku_-_01_[720p][10bit][E6379F9E].mkv
+!new/[sage]_Kimi_to_Boku_-_02_[720p][10bit][E61E36CD].mkv
+!new/[sage]_Mobile_Suit_Gundam_AGE_-_01_[720p][10bit][E2B286B6].mkv
+!new/[sage]_Mobile_Suit_Gundam_AGE_-_01_[720p][EA3ADE6B].mkv
+!new/[sage]_Mobile_Suit_Gundam_AGE_-_02_[720p][10bit][26F41121].mkv
+!new/[sage]_Sekaiichi_no_Hatsukoi_2_-_01_[720p][10bit][417D8551].mkv
+!new/[sage]_Sekaiichi_no_Hatsukoi_2_-_02_[720p][10bit][E3596966].mkv
+!new/[yibis]_One_Piece_516_[720p][7885FE6B].mkv
+!new/[yibis]_One_Piece_517_[720p][43624E2F].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
