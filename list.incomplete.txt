@@ -235,6 +235,8 @@ incomplete/Ayatsuri Sakon/[ASP] Ayatsuri Sakon - 22 [DVD][9817F861].mp4
 incomplete/Azuki-chan/[ARR] Azuki-chan - 001 [089B1C3B].mkv
 incomplete/Baby Princess 3D Paradise Love/[FBI] Baby Princess 3D Paradise Love - 01 [v0 1080p BD][8EABB153].mkv
 incomplete/Bakegyamon/[DATS] Bakegyamon - 01 [B4442803].mkv
+incomplete/Bakuman S2/[GotWoot] Bakuman 2 - 01 [57F487E4].mkv
+incomplete/Bakuman S2/[GotWoot] Bakuman 2 - 02 [v2][D7C42D2D].mkv
 incomplete/Bakuman S2/[SFW-sage] Bakuman S2 - 02 [720p][FA7C0C58].mkv
 incomplete/Bakuman S2/[SFW-sage] Bakuman S2 - 03 [720p][886B6841].mkv
 incomplete/Bakuman S2/[SFW] Bakuman S2 - 01 [720p][42BBBEC3].mkv
@@ -1695,7 +1697,7 @@ incomplete/Hellsing Ultimate/[unknown] Hellsing Ultimate OVA - 1 [DVD][DB596250]
 incomplete/Hellsing Ultimate/[unknown] Hellsing Ultimate OVA - 2 [DVD][E83B78D7].mkv
 incomplete/Hellsing Ultimate/[unknown] Hellsing Ultimate OVA - 3 [DVD][0E76B4FB].mkv
 incomplete/Hellsing Ultimate/[unknown] Hellsing Ultimate OVA - 4 [DVD][D9F951E3].mkv
-incomplete/Hen Zemi OAD/[SubDesu] Hen Zemi OVA - 02 [DVD][B9E74923].mkv
+incomplete/Hen Zemi OAD/[HiNA-Wasurenai] Hen Zemi OAD - 02 [DVD][8E1A38B9].mkv
 incomplete/Hen Zemi OAD/[WhyNot] Hen Zemi OAD - 01 [DVD][EF191413].mkv
 incomplete/Hen Zemi OAD/[WhyNot] Hen Zemi OAD - 02 [DVD][317F2ADA].mkv
 incomplete/Hen Zemi OAD/[m.3.3.w-Doki] Hen Zemi OAD - 01 [0F4F17EF].mkv
@@ -2273,6 +2275,9 @@ incomplete/Mahoujin Guruguru/[A-Keep] Mahoujin Guruguru - 29 [F3515BBF].avi
 incomplete/Mahoujin Guruguru/[A-Keep] Mahoujin Guruguru - 30 [CCF9E58E].avi
 incomplete/Maiden Rose OVA/[aarinfantasy] Maiden Rose OVA - 1 [CF2A8F80].avi
 incomplete/Maji de Watashi ni Koi Shinasai!/[Ahodomo] Maji de Watashi ni Koi Shinasai! - 01 [720p][819976DF].mkv
+incomplete/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - 02 [720p][923E2F8B].mkv
+incomplete/Maken-ki/[FFFpeeps] Maken-ki - 01 [720p][F0993CE6].mkv
+incomplete/Maken-ki/[Hiryuu] Maken-Ki! - 02 [720p][685B5017].mkv
 incomplete/Maken-ki/[Josei-Shini] Maken-Ki - 01 [720p][AEE7A72C].mkv
 incomplete/Maple Story/[Ashes-WIW] Maple Story - 01 [5B1872E3].mkv
 incomplete/Mardock Scramble/[Coalgirls] Mardock Scramble - 01 [720p BD][AE4E623E].mkv
@@ -2357,6 +2362,9 @@ incomplete/Miracle Train/[Shinsen-Subs] Miracle Train - 10 [0D7CB938].mkv
 incomplete/Miracle Train/[Shinsen-Subs] Miracle Train - 11 [B71722D4].mkv
 incomplete/Miracle Train/[Shinsen-Subs] Miracle Train - 12 [4E9E078A].mkv
 incomplete/Miracle Train/[Shinsen-Subs] Miracle Train - 13 [D44BC1BB].mkv
+incomplete/Mirai Nikki/[GotSpeed] Mirai Nikki - 01 [v2][B766A5A3].mkv
+incomplete/Mirai Nikki/[GotSpeed] Mirai Nikki - 02 [199DC994].mkv
+incomplete/Mirai Nikki/[GotWoot] Mirai Nikki - 01 [E5251623].mkv
 incomplete/Mirai Nikki/[SS] Mirai Nikki - 01 [720p][59E9C445].mkv
 incomplete/Mitsudomoe 2/[Ayako-m.3.3.w] Mitsudomoe 2 - 01 [720p][E450D124].mkv
 incomplete/Mitsudomoe 2/[HorribleSubs] Mitsudomoe 2 - 01 [720p][875CAD50].mkv
@@ -3757,6 +3765,7 @@ incomplete/Tamayura ~hitotose~/[UTW-Mazui] Tamayura ~hitotose~ - 02 [576p][EE7F1
 incomplete/Tetsuko no Tabi/[Frostii] Tetsuko no Tabi - 01 [44A6DC45].mkv
 incomplete/Tetsuko no Tabi/[Frostii] Tetsuko no Tabi - 02 [2EDA9FAD].mkv
 incomplete/Tetsuko no Tabi/[Frostii] Tetsuko no Tabi - 03 [3244748C].mkv
+incomplete/Tetsuko no Tabi/[Frostii] Tetsuko no Tabi - 04 [85BFAA97].mkv
 incomplete/Tetsuko no Tabi/[m.3.3.w] Tetsuko no Tabi - 00 [EA60289E].mkv
 incomplete/The Idolm@ster/[Chibiki] The Idolm@ster - 01 [720p][812B948B].mkv
 incomplete/The Idolm@ster/[Chibiki] The Idolm@ster - 02 [720p][26D112FB].mkv
@@ -4012,10 +4021,11 @@ incomplete/Yawara/Yawara - 54-55 [F-B L-E][6014933C].avi
 incomplete/Yawara/Yawara - 56 [F-B L-E][8DE6BAAD].avi
 incomplete/Yawara/Yawara - 57 [F-B L-E][57997CC2].avi
 incomplete/Yawara/Yawara - 58 [F-B L-E][48B26B81].avi
-incomplete/Yawara/Yawara - 59 [FroZen][CC5D9F03].mkv
+incomplete/Yawara/Yawara - 59 [FroZen-EviL][DVD][F28A1E8F].mkv
 incomplete/Yawara/Yawara - 60 [FroZen][A577546A].mkv
 incomplete/Yawara/Yawara - 61 [FroZen-EviL][270EF1C8].mkv
 incomplete/Yawara/Yawara - 62 [FroZen-EviL][3E52FA24].mkv
+incomplete/Yawara/Yawara - 63 [FroZen-EviL][DVD][2AD59410].mkv
 incomplete/Yebisu Celebrities/[aarinfantasy] Yebisu Celebrities - 1 [B5BC8C8D].avi
 incomplete/Yes! PreCure 5/[PCSS] Yes! Pretty Cure 5 - 27 [DVD][B37C6BAF].mkv
 incomplete/Yes! PreCure 5/[PCSS] Yes! Pretty Cure 5 - 30 [DVD][F2C4D766].mkv

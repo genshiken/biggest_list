@@ -3115,6 +3115,7 @@ complete/d/Darker than Black/[CEB] Darker than Black - 24 [DC6FE8E8].mkv
 complete/d/Darker than Black/[CEB] Darker than Black - 25 [End][B12BEDF7].mkv
 complete/d/Darker than Black/[CEB] Darker than Black - 26 OVA [A8144EFB].mkv
 complete/d/Dead Girls OVA/[Animanda] Dead Girls OVA [92F7B042].mkv
+complete/d/Deadman Wonderland OVA/[GotWoot] Deadman Wonderland OVA [5013B725].mkv
 complete/d/Deadman Wonderland/[Commie] Deadman Wonderland - 01 [CB611109].mkv
 complete/d/Deadman Wonderland/[Commie] Deadman Wonderland - 02 [A331E718].mkv
 complete/d/Deadman Wonderland/[Commie] Deadman Wonderland - 03 [FA4E9753].mkv
@@ -14837,6 +14838,7 @@ complete/r/R-15/[Fail-15] R-15 - 09 [720p][503AE6EB].mkv
 complete/r/R-15/[Fail-15] R-15 - 10 [720p][622DC13B].mkv
 complete/r/R-15/[Fail-15] R-15 - 11 [720p][5F39251C].mkv
 complete/r/R-15/[Fail-15] R-15 - 12 [End][720p][CEBE1CD6].mkv
+complete/r/R-15/[Fail-15] R-15 - Opening (Clean) [1080p BD][905F981B].mkv
 complete/r/RAY The Animation/[Froth-Bite] RAY The Animation - 01 [2E31080C].mp4
 complete/r/RAY The Animation/[Froth-Bite] RAY The Animation - 02 [F12934CD].mp4
 complete/r/RAY The Animation/[Froth-Bite] RAY The Animation - 03 [8CC32622].mp4
@@ -18551,6 +18553,7 @@ complete/t/The Tower of Druaga - Sword of Uruk/[O-L] The Tower of Druaga - Sword
 complete/t/The Tower of Druaga - Sword of Uruk/[O-L] The Tower of Druaga - Sword of Uruk - 10 (1280x720) [272C8527].mkv
 complete/t/The Tower of Druaga - Sword of Uruk/[O-L] The Tower of Druaga - Sword of Uruk - 11 (1280x720) [5EB495A3].mkv
 complete/t/The Tower of Druaga - Sword of Uruk/[O-L] The Tower of Druaga - Sword of Uruk - 12 (1280x720) [End][E0CBD1FA].mkv
+complete/t/The World God Only Knows OVA - 4 Girls and an Idol/[EveTaku] The World God Only Knows OVA - 4 Girls and an Idol [C47334BA].mkv
 complete/t/The World God Only Knows S2/[Commie] The World God Only Knows S2 - 01 [FCC717B4].mkv
 complete/t/The World God Only Knows S2/[Commie] The World God Only Knows S2 - 02 [09DAD96D].mkv
 complete/t/The World God Only Knows S2/[Commie] The World God Only Knows S2 - 03 [720B00C3].mkv

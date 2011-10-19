@@ -772,6 +772,7 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
+!new/Turn-A Gundam Movie 1/[EG] Turn-A Gundam Movie 1 [720p BD][626BE99C].mkv
 !new/[A-Destiny] Toriko - 26 (1280x720 h264 AAC) [C240EEEC].mkv
 !new/[A-Destiny] Toriko - 27 (1280x720 h264 AAC) [AEE9E29C].mkv
 !new/[A-Destiny] Toriko - 28 (1280x720 h264 AAC) [B540B895].mkv
@@ -888,28 +889,6 @@
 !new/[DmonHiro] Sei Juushi Bismark Clean Ending v2 [40EC8C44].mkv
 !new/[DmonHiro] Sei Juushi Bismark Clean Opening v2 [225389AF].mkv
 !new/[DmonHiro] Sei Juushi Bismark DVD Menus [FB3CE4F3].zip
-!new/[EG]Turn-A_Gundam_Movie_I_720p(BD).mkv
-!new/[Eclipse] Kaichou wa Maid-sama - 23 (1280x720 Hi10P) [0FB43D51].mkv
-!new/[EveTaku] The World God Only Knows OVA - 4 Girls and an Idol (848x480 x264 AAC)[C47334BA].mkv
-!new/[FFFpeeps] Maken-ki - 01 [10bit][720p][F0993CE6].mkv
-!new/[Fail-15]_R-15_-_NCOP_(BD 1280x720 x264 AAC)_[35C1CBF6].mkv
-!new/[Fail-15]_R-15_-_NCOP_(BD 1920x1080 x264 AAC)_[905F981B].mkv
-!new/[Formula]_Tales_of_Symphonia_OVA_-_Tethe'alla_Bonus_4_[CE28C41C].mkv
-!new/[FroZen-EviL]_Yawara_-_59_[DVD][F28A1E8F].mkv
-!new/[FroZen-EviL]_Yawara_-_63_[DVD][2AD59410].mkv
-!new/[Frostii]_Tetsuko_no_Tabi_-_04_[85BFAA97].mkv
-!new/[GotSpeed]_Mirai_Nikki_-_01v2_[B766A5A3].mkv
-!new/[GotSpeed]_Mirai_Nikki_-_02_ [199DC994].mkv
-!new/[GotWoot]_Bakuman_2_-_01_[10bit][57F487E4].mkv
-!new/[GotWoot]_Bakuman_2_-_02_[10bit-v2][D7C42D2D].mkv
-!new/[GotWoot]_Bakuman_2_-_02_[10bit][E0DA13BC].mkv
-!new/[GotWoot]_Deadman_Wonderland_OVA_[10bit_480p_H264][5013B725].mkv
-!new/[GotWoot]_Deadman_Wonderland_OVA_[480p_H264][E952A034].mkv
-!new/[GotWoot]_Mirai_Nikki_01_[10-bit][E5251623].mkv
-!new/[Hatsuyuki]_Maken-Ki!_-_01_[1280x720][3502BCC9].mkv
-!new/[HiNA-Wasurenai] Hen Zemi OAD - 02 [DVD H264 720x480 AAC] [8E1A38B9].mkv
-!new/[Hiryuu] Maji de Watashi ni Koi Shinasai!! - 02 [1280x720][923E2F8B].mkv
-!new/[Hiryuu] Maken-Ki! - 02 [Hi10P 1280x720][685B5017].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
