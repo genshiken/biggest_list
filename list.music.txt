@@ -2774,6 +2774,9 @@ music/LosslessONE/[LonE]_yozuca_-_Morning_-_sugar_rays_[w_scans]_(FLAC).rar
 music/LosslessONE/[LonE]_yozuca_-_Princess_Lover!_ED_Single_-_S.S.D!_[w_scans]_(FLAC).rar
 music/LosslessONE/[LonE]_yozuca_-_yozuca_10th_Anniversary_Best_[enjoy]_[w_scans]_(FLAC).rar
 music/LosslessONE/[LonE]_yozuca_-_yozuca_10th_Anniversary_Best_[piece]_[w_scans]_(FLAC).rar
+music/Love Live!/[Doremi] Love Live! - Bokura no LIVE Kimi to no LIFE [DC2A205D].mkv
+music/Love Live!/[Doremi] Love Live! - Natsuiro Egao 1 2 Jump! [77D133E3].mkv
+music/Love Live!/[Doremi] Love Live! - Snow Halation [6C4D55B5].mkv
 music/Misc Distro/(Host~CmkC) [EAC][110420] Hana-Saku Iroha - Opening Hana no Iro [nano.RIPE] (flac+scan).rar
 music/Misc Distro/21EMON.zip
 music/Misc Distro/Aria.zip
@@ -4371,6 +4374,7 @@ music/Shin-S/[Shin-S] DOG DAYS Insert Song Single - Kitto Koi wo Shiteiru [Horie
 music/Shin-S/[Shin-S] Denpa Onna to Seishun Otoko ED Single - Ruru [Yakushimaru Etsuko].zip
 music/Shin-S/[Shin-S] Denpa Onna to Seishun Otoko OP Single - Os-Uchuujin [Erio wo Kamatte-chan].zip
 music/Shin-S/[Shin-S] Dragon Crisis! ED Single - Mirai Bowl [Momoiro Clover].zip
+music/Shin-S/[Shin-S] Fate Zero ED Single - MEMORIA [Aoi Eir].zip
 music/Shin-S/[Shin-S] Hanasaku Iroha OP Single - Hana no Iro [nano.RIPE].zip
 music/Shin-S/[Shin-S] Hidan no Aria Character Song & BGM CD Bullet.1 - Kanzaki H. Aria [Kugimiya Rie].zip
 music/Shin-S/[Shin-S] Hidan no Aria Character Song & BGM CD Bullet.2 - Hotogi Shirayuki [Takahashi Mikako].zip
@@ -4389,6 +4393,7 @@ music/Shin-S/[Shin-S] Kami Nomi zo Shiru Sekai II OP Single - A Whole New World 
 music/Shin-S/[Shin-S] Kami Nomi zo Shiru Sekai Insert Song Single - Koi, Yoroshiku Onegai Shimasu! [Citron].zip
 music/Shin-S/[Shin-S] Kamisama Dolls OP & ED Single - Fukanzen Nenshou [Ishikawa Chiaki].zip
 music/Shin-S/[Shin-S] Kampfer fur die Liebe OP & ED Single - Choose my love! [Various].zip
+music/Shin-S/[Shin-S] Kyoukai Senjou no Horizon OP Single - TERMINATED [Chihara Minori].zip
 music/Shin-S/[Shin-S] Mayo Chiki! ED Single - Kimi ni Gohoushi [Various].zip
 music/Shin-S/[Shin-S] Mayo Chiki! OP Single - Be Starters! [Kitamura Eri].zip
 music/Shin-S/[Shin-S] Moribito Kozorite PC Game OP Single - Moribito Kozorite [Nogawa Sakura].zip
