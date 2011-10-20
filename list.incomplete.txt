@@ -107,6 +107,8 @@ incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 44 [
 incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 45 [720p][3EFFBCB5].mkv
 incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 46 [720p][8AF1FBEB].mkv
 incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 47 [720p][42B9FB52].mkv
+incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 49 [720p][AE1136FB].mkv
+incomplete/Anyamal Tantei Kiruminzoo/[LSS-WSRN] Anyamal Tantei Kiruminzoo - 50 [End][720p][24650C89].mkv
 incomplete/Aoi Blink/[ARR] Aoi Blink - 01 [7CEA315B].mkv
 incomplete/Aoki Densetsu Shoot!/[Saizen] Aoki Densetsu Shoot! - 34 [DVD][5DE072D3].mkv
 incomplete/Aoki Densetsu Shoot!/[Saizen] Aoki Densetsu Shoot! - 35 [DVD][55E30867].mkv
@@ -1847,6 +1849,7 @@ incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 01 [5F1FCE3C].mkv
 incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 02 [CD5565DA].mkv
 incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 07 [v2][2B25B6F8].mkv
 incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 08 [E1DACAE0].mkv
+incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 09 [E1891C9A].mkv
 incomplete/Inazuma Eleven GO/[RyRo] Inazuma Eleven GO - 001 [720p][2668855F].mkv
 incomplete/Inazuma Eleven GO/[RyRo] Inazuma Eleven GO - 002 [720p][04B18A67].mkv
 incomplete/Inazuma Eleven GO/[RyRo] Inazuma Eleven GO - 003 [720p][BB4495C8].mkv
@@ -2295,6 +2298,7 @@ incomplete/Maji de Watashi ni Koi Shinasai!/[Ahodomo] Maji de Watashi ni Koi Shi
 incomplete/Maji de Watashi ni Koi Shinasai!/[Ahodomo] Maji de Watashi ni Koi Shinasai! - 02 [720p][8BFC4E06].mkv
 incomplete/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - 02 [720p][923E2F8B].mkv
 incomplete/Maken-ki/[FFFpeeps] Maken-ki - 01 [720p][F0993CE6].mkv
+incomplete/Maken-ki/[Hiryuu] Maken-Ki! - 01 [720p][A83B8CA5].mkv
 incomplete/Maken-ki/[Hiryuu] Maken-Ki! - 02 [720p][685B5017].mkv
 incomplete/Maken-ki/[Josei-Shini] Maken-Ki - 01 [720p][AEE7A72C].mkv
 incomplete/Maple Story/[Ashes-WIW] Maple Story - 01 [5B1872E3].mkv
