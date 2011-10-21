@@ -768,6 +768,7 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
+!new/[Commie] UN-GO - 01 [63CBB277].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -883,39 +884,11 @@
 !new/bla/zx.black.heaven.12.sub.rar
 !new/bla/zx.black.heaven.13.dub.avi
 !new/bla/zx.black.heaven.13.sub.rar
-!new/hs/[HorribleSubs] A Dark Rabbit Has Seven Lives - 11 [720p].mkv
-!new/hs/[HorribleSubs] A Dark Rabbit Has Seven Lives - 12 [720p].mkv
-!new/hs/[HorribleSubs] Beelzebub - 36 [720p].mkv
-!new/hs/[HorribleSubs] Beelzebub - 37 [720p].mkv
-!new/hs/[HorribleSubs] Beelzebub - 38 [720p].mkv
-!new/hs/[HorribleSubs] Bleach - 342 [720p].mkv
-!new/hs/[HorribleSubs] Bleach - 343 [720p].mkv
-!new/hs/[HorribleSubs] Bleach - 344 [720p].mkv
-!new/hs/[HorribleSubs] Cardfight!! Vanguard - 38 [720p].mkv
-!new/hs/[HorribleSubs] Cardfight!! Vanguard - 39 [720p].mkv
-!new/hs/[HorribleSubs] Cardfight!! Vanguard - 40 [720p].mkv
-!new/hs/[HorribleSubs] Chihayafuru - 01 [720p].mkv
-!new/hs/[HorribleSubs] Chihayafuru - 02 [720p].mkv
-!new/hs/[HorribleSubs] Chihayafuru - 03 [720p].mkv
-!new/hs/[HorribleSubs] Fairy Tail - 100 [720p].mkv
-!new/hs/[HorribleSubs] Fairy Tail - 101 [720p].mkv
-!new/hs/[HorribleSubs] Fairy Tail - 99 [720p].mkv
-!new/hs/[HorribleSubs] Gintama - 229 [720p].mkv
-!new/hs/[HorribleSubs] Gintama - 230 [720p].mkv
-!new/hs/[HorribleSubs] Hunter X Hunter - 01 [720p].mkv
-!new/hs/[HorribleSubs] Hunter X Hunter - 02 [720p].mkv
-!new/hs/[HorribleSubs] Hunter X Hunter - 03 [720p].mkv
-!new/hs/[HorribleSubs] Kimi to Boku - 01 [720p].mkv
-!new/hs/[HorribleSubs] Majikoi~Oh! Samurai Girls - 01 [720p].mkv
-!new/hs/[HorribleSubs] Majikoi~Oh! Samurai Girls - 02 [720p].mkv
-!new/hs/[HorribleSubs] Moritasan wa Mukuchi - 14 [720p].mkv
-!new/hs/[HorribleSubs] Moritasan wa Mukuchi - 15 [720p].mkv
-!new/hs/[HorribleSubs] Persona 4 The Animation - 01 [720p].mkv
-!new/hs/[HorribleSubs] R-15 - 12 [720p].mkv
-!new/hs/[HorribleSubs] Sekai-Ichi Hatsukoi S2 - 13 [720p].mkv
-!new/hs/[HorribleSubs] UN-GO - 01 [720p].mkv
-!new/hs/[HorribleSubs] Wagnaria!! - 02 [720p].mkv
-!new/hs/[HorribleSubs] Working'!! - 01 [720p].mkv
+!new/hs/[HorribleSubs] Hunter X Hunter - 01 [720p][A8C412A7].mkv
+!new/hs/[HorribleSubs] Hunter X Hunter - 02 [720p][D896D135].mkv
+!new/hs/[HorribleSubs] Hunter X Hunter - 03 [720p][6FCED1EF].mkv
+!new/hs/[HorribleSubs] Morita-san wa Mukuchi - 14 [720p][330C13D4].mkv
+!new/hs/[HorribleSubs] Morita-san wa Mukuchi - 15 [720p][9913F2E4].mkv
 !new/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/lama/[Ayako] Weiﬂ Survive R - 01 - H264 - E975A989.mkv
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
