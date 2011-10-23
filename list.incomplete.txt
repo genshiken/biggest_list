@@ -196,6 +196,7 @@ incomplete/Bakuman S2/[GotWoot] Bakuman 2 - 02 [v2][D7C42D2D].mkv
 incomplete/Bakuman S2/[GotWoot] Bakuman 2 - 03 [E6C5B9DC].mkv
 incomplete/Bakuman S2/[SFW-sage] Bakuman S2 - 02 [720p][FA7C0C58].mkv
 incomplete/Bakuman S2/[SFW-sage] Bakuman S2 - 03 [720p][886B6841].mkv
+incomplete/Bakuman S2/[SFW-sage] Bakuman S2 - 04 [720p][B64E58D3].mkv
 incomplete/Bakuman S2/[SFW] Bakuman S2 - 01 [720p][42BBBEC3].mkv
 incomplete/Beelzebub/[HorribleSubs] Beelzebub - 01 [720p][BF7ADF22].mkv
 incomplete/Beelzebub/[HorribleSubs] Beelzebub - 02 [720p][99C115A1].mkv
@@ -235,6 +236,7 @@ incomplete/Beelzebub/[HorribleSubs] Beelzebub - 35 [720p][E8D24423].mkv
 incomplete/Beelzebub/[HorribleSubs] Beelzebub - 36 [720p][C62A822D].mkv
 incomplete/Beelzebub/[HorribleSubs] Beelzebub - 37 [720p][CBF05969].mkv
 incomplete/Beelzebub/[HorribleSubs] Beelzebub - 38 [720p][507239AF].mkv
+incomplete/Beelzebub/[HorribleSubs] Beelzebub - 39 [720p][F356B135].mkv
 incomplete/Before Green Gables/[ray=out] Before Green Gables - 01 [HD][898B650B].mkv
 incomplete/Before Green Gables/[ray=out] Before Green Gables - 02 [HD][9FEE3EFF].mkv
 incomplete/Before Green Gables/[ray=out] Before Green Gables - 03 [HD][5F7CBFF3].mkv
@@ -256,6 +258,7 @@ incomplete/Before Green Gables/[ray=out] Before Green Gables - 18 [HD][31D7B598]
 incomplete/Belfi & Lilibit/[ARR] Belfi & Lilibit - 01 [D0752CB1].mkv
 incomplete/Ben-to/[gg] Ben-to - 01 [v2][1034E0B8].mkv
 incomplete/Ben-to/[gg] Ben-to - 02 [79359314].mkv
+incomplete/Ben-to/[gg] Ben-to - 03 [A7606FDB].mkv
 incomplete/Black God/[Batsumen] Black God - 01 (1280x720) [E01C0EC4].mkv
 incomplete/Black God/[Batsumen] Black God - 02 (1280x720) [F739092B].mkv
 incomplete/Black God/[Batsumen] Black God - 03 (1280x720) [FB36970F].mkv
@@ -659,6 +662,7 @@ incomplete/Cardfight!! Vanguard/[HorribleSubs] Cardfight!! Vanguard - 37 [720p][
 incomplete/Cardfight!! Vanguard/[HorribleSubs] Cardfight!! Vanguard - 38 [720p][BE4AADC9].mkv
 incomplete/Cardfight!! Vanguard/[HorribleSubs] Cardfight!! Vanguard - 39 [720p][53221FC4].mkv
 incomplete/Cardfight!! Vanguard/[HorribleSubs] Cardfight!! Vanguard - 40 [720p][BC598733].mkv
+incomplete/Cardfight!! Vanguard/[HorribleSubs] Cardfight!! Vanguard - 41 [720p][ACFAA579].mkv
 incomplete/Carnival Phantasm/[UTW] Carnival Phantasm - 01 [1080p BD][AD3F6682].mkv
 incomplete/Carnival Phantasm/[UTW] Carnival Phantasm - 02 [1080p BD][49E72296].mkv
 incomplete/Carnival Phantasm/[UTW] Carnival Phantasm - 03 [1080p BD][5B861A35].mkv
@@ -1205,6 +1209,7 @@ incomplete/Fairy Tail/Fairy Tail - 098 [HorribleSubs][720p][37E2B79F].mkv
 incomplete/Fairy Tail/Fairy Tail - 099 [HorribleSubs][720p][84614772].mkv
 incomplete/Fairy Tail/Fairy Tail - 100 [HorribleSubs][720p][CCE0F430].mkv
 incomplete/Fairy Tail/Fairy Tail - 101 [HorribleSubs][720p][251ABBCD].mkv
+incomplete/Fairy Tail/Fairy Tail - 102 [HorribleSubs][720p][AD56BA69].mkv
 incomplete/Fate-Zero/[Commie] Fate-Zero - 01 [3A0CCD6B].mkv
 incomplete/Fate-Zero/[Commie] Fate-Zero - 02 [F1693F31].mkv
 incomplete/Fate-Zero/[Commie] Fate-Zero - 03 [C1F222CD].mkv
@@ -1212,6 +1217,7 @@ incomplete/Fate-Zero/[Commie] Fate-Zero - 04 [92F5DEFA].mkv
 incomplete/Fate-Zero/[UTW] Fate-Zero - 01 [720p][E2552AFF].mkv
 incomplete/Fate-Zero/[UTW] Fate-Zero - 02 [720p][118AC4FA].mkv
 incomplete/Fate-Zero/[UTW] Fate-Zero - 03 [720p][EC04D328].mkv
+incomplete/Fate-Zero/[UTW] Fate-Zero - 04 [720p][3A05B4E1].mkv
 incomplete/Fighting Beauty Wulong/[m.3.3.w] Fighting Beauty Wulong - 01 [F2CA20BA].mkv
 incomplete/Fighting Beauty Wulong/[m.3.3.w] Fighting Beauty Wulong - 02 [1C5B8E2C].mkv
 incomplete/Fighting Beauty Wulong/[m.3.3.w] Fighting Beauty Wulong - 03 [37128981].mkv
@@ -1368,6 +1374,8 @@ incomplete/Gintama'/[HorribleSubs] Gintama' - 22 [720p][4BE92025].mkv
 incomplete/Gintama'/[HorribleSubs] Gintama' - 23 [720p][8F3CA16A].mkv
 incomplete/Gintama'/[HorribleSubs] Gintama' - 24 [720p][974DB7AB].mkv
 incomplete/Gintama'/[HorribleSubs] Gintama' - 25 [720p][E6F34424].mkv
+incomplete/Gintama'/[HorribleSubs] Gintama' - 26 [720p][1645B981].mkv
+incomplete/Gintama'/[HorribleSubs] Gintama' - 27 [720p][0A2B54B9].mkv
 incomplete/Gintama'/[HorribleSubs] Gintama' - 28 [720p][2708FE89].mkv
 incomplete/Gintama'/[HorribleSubs] Gintama' - 29 [720p][7DC296F1].mkv
 incomplete/Gintama'/[Rumbel] Gintama' - 02 [5D3C23D6].mkv
@@ -1810,6 +1818,7 @@ incomplete/Honto ni Atta! Reibai Sensei/[IB] Honto ni Atta! Reibai Sensei - 21 [
 incomplete/Hunter x Hunter (2011)/[HorribleSubs] Hunter x Hunter (2011) - 01 [720p][A8C412A7].mkv
 incomplete/Hunter x Hunter (2011)/[HorribleSubs] Hunter x Hunter (2011) - 02 [720p][D896D135].mkv
 incomplete/Hunter x Hunter (2011)/[HorribleSubs] Hunter x Hunter (2011) - 03 [720p][6FCED1EF].mkv
+incomplete/Hunter x Hunter (2011)/[HorribleSubs] Hunter x Hunter (2011) - 04 [720p][E520F9ED].mkv
 incomplete/Hyouge Mono/[Huzzah] Hyouge Mono - 01 [7EE66910].mkv
 incomplete/Hyouge Mono/[Huzzah] Hyouge Mono - 02 [92ABA684].mkv
 incomplete/Hyouge Mono/[Huzzah] Hyouge Mono - 03 [6A09E57E].mkv
@@ -2276,6 +2285,7 @@ incomplete/Maji de Watashi ni Koi Shinasai!/[Ahodomo] Maji de Watashi ni Koi Shi
 incomplete/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - 02 [720p][923E2F8B].mkv
 incomplete/Maji de Watashi ni Koi Shinasai!/[HorribleSubs] Majikoi~Oh! Samurai Girls - 01 [720p][B370118C].mkv
 incomplete/Maji de Watashi ni Koi Shinasai!/[HorribleSubs] Majikoi~Oh! Samurai Girls - 02 [720p][AC7970BF].mkv
+incomplete/Maji de Watashi ni Koi Shinasai!/[HorribleSubs] Majikoi~Oh! Samurai Girls - 03 [720p][239E5723].mkv
 incomplete/Maken-ki/[FFFpeeps] Maken-ki - 01 [720p][F0993CE6].mkv
 incomplete/Maken-ki/[Hiryuu] Maken-Ki! - 01 [720p][A83B8CA5].mkv
 incomplete/Maken-ki/[Hiryuu] Maken-Ki! - 02 [720p][685B5017].mkv
@@ -3608,6 +3618,7 @@ incomplete/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 02 [5C42AE
 incomplete/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 03 [4BFF8E7D].mkv
 incomplete/Shakugan no Shana Final/[SS-Eclipse] Shakugan no Shana Final - 01 [720p][853CEC84].mkv
 incomplete/Shakugan no Shana Final/[SS-Eclipse] Shakugan no Shana Final - 02 [720p][7A5CAC26].mkv
+incomplete/Shakugan no Shana Final/[SS-Eclipse] Shakugan no Shana Final - 03 [720p][6EE625F2].mkv
 incomplete/Shibawanko's Japanese Spirit/[DATS] Shibawanko's Japanese Spirit - 03-04 [71AD2201].mkv
 incomplete/Shinshaku Sanada Juuyuushi/[AonE-dp] Shinshaku Sanada Juuyuushi - 07 [0435B01E].mkv
 incomplete/Shugo Chara! Party!/[Fubuki] Shugo Chara! Party! - 01 (1280x720) [049EC961].mkv
