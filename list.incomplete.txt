@@ -193,6 +193,7 @@ incomplete/Baby Princess 3D Paradise Love/[FBI] Baby Princess 3D Paradise Love -
 incomplete/Bakegyamon/[DATS] Bakegyamon - 01 [B4442803].mkv
 incomplete/Bakuman S2/[GotWoot] Bakuman 2 - 01 [57F487E4].mkv
 incomplete/Bakuman S2/[GotWoot] Bakuman 2 - 02 [v2][D7C42D2D].mkv
+incomplete/Bakuman S2/[GotWoot] Bakuman 2 - 03 [E6C5B9DC].mkv
 incomplete/Bakuman S2/[SFW-sage] Bakuman S2 - 02 [720p][FA7C0C58].mkv
 incomplete/Bakuman S2/[SFW-sage] Bakuman S2 - 03 [720p][886B6841].mkv
 incomplete/Bakuman S2/[SFW] Bakuman S2 - 01 [720p][42BBBEC3].mkv
@@ -1207,6 +1208,7 @@ incomplete/Fairy Tail/Fairy Tail - 101 [HorribleSubs][720p][251ABBCD].mkv
 incomplete/Fate-Zero/[Commie] Fate-Zero - 01 [3A0CCD6B].mkv
 incomplete/Fate-Zero/[Commie] Fate-Zero - 02 [F1693F31].mkv
 incomplete/Fate-Zero/[Commie] Fate-Zero - 03 [C1F222CD].mkv
+incomplete/Fate-Zero/[Commie] Fate-Zero - 04 [92F5DEFA].mkv
 incomplete/Fate-Zero/[UTW] Fate-Zero - 01 [720p][E2552AFF].mkv
 incomplete/Fate-Zero/[UTW] Fate-Zero - 02 [720p][118AC4FA].mkv
 incomplete/Fate-Zero/[UTW] Fate-Zero - 03 [720p][EC04D328].mkv
@@ -3297,6 +3299,7 @@ incomplete/Persona 4/[Commie] Persona 4 - 01 [14684F67].mkv
 incomplete/Persona 4/[Commie] Persona 4 - 02 [CAFCB598].mkv
 incomplete/Persona 4/[Commie] Persona 4 - 03 [6408901D].mkv
 incomplete/Phi Brain - Kami no Puzzle/[AonE] Phi Brain - 01 [94C59F8C].mkv
+incomplete/Phi Brain - Kami no Puzzle/[AonE] Phi Brain - 02 [35C8170B].mkv
 incomplete/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 01 [7105C87D].mkv
 incomplete/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 02 [16648815].mkv
 incomplete/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 03 [DBF79342].mkv
@@ -3602,6 +3605,7 @@ incomplete/Senkou no Night Raid/[YAE-Pretentious] Senkou no Night Raid - 02 [542
 incomplete/Senkou no Night Raid/[YAE-Pretentious] Senkou no Night Raid - 03 [709C7334].mkv
 incomplete/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 01 [6FA7779A].mkv
 incomplete/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 02 [5C42AE34].mkv
+incomplete/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 03 [4BFF8E7D].mkv
 incomplete/Shakugan no Shana Final/[SS-Eclipse] Shakugan no Shana Final - 01 [720p][853CEC84].mkv
 incomplete/Shakugan no Shana Final/[SS-Eclipse] Shakugan no Shana Final - 02 [720p][7A5CAC26].mkv
 incomplete/Shibawanko's Japanese Spirit/[DATS] Shibawanko's Japanese Spirit - 03-04 [71AD2201].mkv
@@ -3938,7 +3942,8 @@ incomplete/Tsuyokiss/[Tsundere] Tsuyokiss - 05 [DVD][8E6F4836].mkv
 incomplete/Tsuyokiss/[Tsundere] Tsuyokiss - 06 [DVD][92E09349].mkv
 incomplete/Tsuyokiss/[Tsundere] Tsuyokiss - 07 [DVD][8EE4A5D2].mkv
 incomplete/Tsuyokiss/[Tsundere] Tsuyokiss - 08 [DVD][EB1660C9].mkv
-incomplete/UN-GO/[HorribleSubs] UN-GO - 02 [720p][859742BC].mkv
+incomplete/UN-GO/[Commie] UN-GO - 01 [63CBB277].mkv
+incomplete/UN-GO/[Commie] UN-GO - 02 [DE7B01FD].mkv
 incomplete/Ukkari Penelope (2009)/[BSS] Ukkari Penelope (2009) - 15 [3A2849A0].mkv
 incomplete/Ukkari Penelope (2009)/[BSS] Ukkari Penelope (2009) - 16 [EB8E980B].mkv
 incomplete/Ukkari Penelope (2009)/[BSS] Ukkari Penelope (2009) - 17 [A9FC438F].mkv
