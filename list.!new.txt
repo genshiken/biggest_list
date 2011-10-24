@@ -714,10 +714,6 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[HorribleSubs] Working!! - 04 [720p].mkv
-!new/[Nipponsei] Baka to Test to Shoukanjuu Ni! Original Soundtrack.zip
-!new/[Nipponsei] Dantalian no Shoka Original Soundtrack.zip
-!new/[Nipponsei] Tiger & Bunny Original Soundtrack.zip
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_01[14]_-_The_Four_Knights_vs._The_Evil_Knights_[640x480][VFS][30D79E77].avi
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_02[14]_-_The_Land_of_Love_and_Hate_[640x480][VFS][28DAD91C].avi
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_03[14]_-_Burning_Red_Flame!_[640x480][VFS][48A8AB76].avi
@@ -761,6 +757,41 @@
 !new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_11[39]_-_Pursuit_to_the_Ruined_Planet_[720x540][Shin-Getter][026446F5].avi
 !new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_12[39]_-_Breakthrough_the_Enemy_s_Front_[720x540][Shin-Getter][9E5B10EA].avi
 !new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_13[39]_-_Attack_on_the_Alien_[640x480][Shin-Getter][B69AFF6B].avi
+!new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_14[39]_-_Doku_s_Attack_Strategy_[640x480][Shin-Getter][C06C0A66].avi
+!new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_15[39]_-_Plan_for_Retrieving_Ideon_[640x480][DTV][Shin-Getter][F243B499].avi
+!new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_16[39]_-_Damido_s_Lethal_Strategy_[640x480][Shin-Getter][CE287031].avi
+!new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_17[39]_-_Battle_on_the_Ape_Planet_[640x480][Shin-Getter][5D872A54].avi
+!new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_18[39]_-_Betrayal_on_Ajian_[640x480][Shin-Getter][F51FF306].avi
+!new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_19[39]_-_Gyamose_s_Special_Command_[640x480][Shin-Getter][A1D9FD0F].avi
+!new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_20[39]_-_Battle_the_Devil_Twins_[640x480][Shin-Getter][9754194A].avi
+!new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_21[39]_-_Sink_the_Enemy_s_Battleship_[640x480][Shin-Getter][AED1BEF8].avi
+!new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_22[39]_-_The_Legend_Lives_Again_[640x480][Shin-Getter][B152716E].avi
+!new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_23[39]_-_The_Shocking_Decoy_Planet_[640x480][Shin-Getter][EBD80AD1].avi
+!new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_24[39]_-_Strike_the_Infiltrating_Guerillas_[640x480][Shin-Getter][DDC8E7AA].avi
+!new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_25[39]_-_Ideon_s_Counterattack_[720x540][DVD][Shin-Getter][CAC0BE53].avi
+!new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_26[39]_-_Deadly_Fight_-_Fear_of_Gel_[640x480][Shin-Getter][CCA2B7A0].avi
+!new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_27[39]_-_Infiltrate_the_Lunar_Base_[640x480][Shin-Getter][96A992BF].avi
+!new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_28[39]_-_Wrath_of_the_Wave_Gun_[640x480][Shin-Getter][230687AF].avi
+!new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_29[39]_-_Sparkling_Sword_[640x480][Shin-Getter][AD88B813].avi
+!new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_30[39]_-_Desperate_Sniper_[640x480][DVD][Shin-Getter][EA548485].avi
+!new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_31[39]_-_Home_Aflame_[640x480][Shin-Getter][D8099112].avi
+!new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_32[39]_-_Amidst_the_Flames_of_Fate_[640x480][DVD][Shin-Getter][F2E8314A].avi
+!new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_33[39]_-_Waft_Area_Gamble_[720x540][Shin-Getter][520B0C4D].avi
+!new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_34[39]_-_After_the_Meteor_s_Fall_[640x480][Shin-Getter][B40C9C17].avi
+!new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_35[39]_-_Surfacing_from_Darkness_[640x480][Shin-Getter][5ED30607].avi
+!new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_36[39]_-_Farewell_Solo_Ship_[640x480][Shin-Getter][E21D8AB0].avi
+!new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_37[39]_-_Colony_of_Hatred_[640x480][Shin-Getter][9CE1EC86].avi
+!new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_38[39]_-_The_Space_Runaway_[640x480][Shin-Getter][AE9CED88].avi
+!new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_39[39]_-_In_the_Cosmos_With_You_[640x480][Shin-Getter][5B599F47].avi
+!new/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_01v3[35]_-_Space-Time_Destruction_[624x480][DVD][ILA][8D03A921].ogm
+!new/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_02v3[35]_-_Lonely_Wolf_[624x480][DVD][ILA][59B986D2].ogm
+!new/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_03v3[35]_-_Pretty_Machine_[624x480][DVD][ILA][9BD697F9].ogm
+!new/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_04v3[35]_-_Caravan_[624x480][DVD][ILA][E89D63FF].ogm
+!new/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_05v3[35]_-_Lovers_[624x480][DVD][ILA][518DB09B].ogm
+!new/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_06v2[35]_-_Vanishing_Point_[624x480][DVD][ILA][30507017].ogm
+!new/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_07v3[35]_-_I_Love_You_[624x480][DVD][ILA][3AE31879].ogm
+!new/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_08v3[35]_-_Runaway_[624x480][DVD][ILA][FEA3E163].ogm
+!new/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_09v3[35]_-_Revolution_[624x480][DVD][ILA][0D17B6C2].ogm
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
