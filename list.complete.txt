@@ -15264,7 +15264,6 @@ complete/r/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 08 [C4190B5D].mkv
 complete/r/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 09 [F9349C3A].mkv
 complete/r/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 10 [9DA4144F].mkv
 complete/r/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 11 [End][1261D415].mkv
-complete/r/Rizelmine/[AC] Rizelmine - 11 [46CD57A2].avi
 complete/r/Rizelmine/[AC] Rizelmine - 12 [0F40B851].avi
 complete/r/Rizelmine/[ReDone] Rizelmine - 01 [DVD][1D5A9D5E].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 02 [DVD][5F3088B3].mkv
@@ -15276,6 +15275,7 @@ complete/r/Rizelmine/[ReDone] Rizelmine - 07 [DVD][D8DFBD65].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 08 [DVD][704B7E13].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 09 [DVD][18691AB9].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 10 [DVD][F1000194].mkv
+complete/r/Rizelmine/[ReDone] Rizelmine - 11 [DVD][07564CE3].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - Ending 1 [DVD][59C1FE24].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - Opening [DVD][3AC69E00].mkv
 complete/r/Rizelmine/[h-b] Rizelmine - 13 [29B6C1E2].avi

@@ -718,7 +718,6 @@
 !new/[ASL]_Sakamoto_Maaya_-_Last_Exile_-_Ginyoku_no_Famu_OP_-_Buddy_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Baka_to_Test_to_Shoukanjuu_Ni_-_Watashi_to_Uchi_to_Otomegokoro_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Hanasaku_Iroha_Original_Soundtrack_-_Yunosagi_Memories_[FLAC]_[w_Scans].rar
-!new/[Doremi].Ojamajo.Doremi.Dokkaan!.06.[78EEED4D].avi
 !new/[GotSpeed]_Mirai_Nikki_-_03_[D26FB1CA].mkv
 !new/[Hiryuu] Maji de Watashi ni Koi Shinasai!! 04 [Hi10P 1280x720 H264] [9DD8C522].mkv
 !new/[Hiryuu] Maken-Ki! 03 [Hi10P 1280x720 H264] [39D2CAFF].mkv
@@ -739,8 +738,6 @@
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_13[14]_-_Memories_of_the_Future!_[640x480][VFS][0658B392].avi
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_14[14]_-_A_Piece_of_the_Sun!_[640x480][VFS][056C0147].avi
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_T1[14]_-_Promo_[640x480][RAW][VFS][B7B1C567].avi
-!new/[Over-Time]_Kamen_Rider_Fourze_-_08_[F1701496].mkv
-!new/[ReDone] Rizelmine - 11 (DVD) [07564CE3].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -936,7 +933,16 @@
 !new/[TV_Series_1996]_Bakusou_Kyoudai_Let_s_&_Go/Bakusou_Kyoudai_Let_s_&_Go_WGP_-_50[51]_-_Episode_50_[640x480][DVD][RAW][Saiei][DC0771F1].mp4
 !new/[TV_Series_1996]_Bakusou_Kyoudai_Let_s_&_Go/Bakusou_Kyoudai_Let_s_&_Go_WGP_-_51[51]_-_Episode_51_[640x480][DVD][RAW][Saiei][0C02BB85].mp4
 !new/[TV_Series_1997]_Eat-Man/Eat-Man_-_01[12]_-_Wall_of_Glass_[640x464][DVD][ILA][A5862CCC].mkv
-!new/[WhyNot] Phi Brain - Kami no Puzzle - 04 [5708EE68].mkv
+!new/[TV_Series_1997]_Eat-Man/Eat-Man_-_02[12]_-_A_Person_Falling_to_Ruins_[640x464][DVD][ILA][FABF8864].mkv
+!new/[TV_Series_1997]_Eat-Man/Eat-Man_-_03[12]_-_The_Promised_Room_[640x464][DVD][ILA][4BFBCEEC].mkv
+!new/[TV_Series_1997]_Eat-Man/Eat-Man_-_04[12]_-_Trade_Friends_[640x464][DVD][ILA][15A3959B].mkv
+!new/[TV_Series_1997]_Eat-Man/Eat-Man_-_05[12]_-_Rain,_After_That_[640x464][DVD][ILA][52D1ECE4].mkv
+!new/[TV_Series_1997]_Eat-Man/Eat-Man_-_06[12]_-_The_Window_of_Genes_[640x464][DVD][ILA][D9681395].mkv
+!new/[TV_Series_1997]_Eat-Man/Eat-Man_-_07[12]_-_The_Graveyard_of_Temptation_[640x464][DVD][ILA][0F47D294].mkv
+!new/[TV_Series_1997]_Eat-Man/Eat-Man_-_08[12]_-_Silence_of_Icicle_[640x464][DVD][ILA][8CAC04C0].mkv
+!new/[TV_Series_1997]_Eat-Man/Eat-Man_-_09[12]_-_Aloof_Sky_[640x464][DVD][ILA][F80F9BC3].mkv
+!new/[TV_Series_1997]_Eat-Man/Eat-Man_-_10[12]_-_Fragment_of_Dreams_[640x464][DVD][ILA][F5DF4726].mkv
+!new/[TV_Series_1997]_Eat-Man/Eat-Man_-_11[12]_-_Paradise_[640x464][DVD][ILA][B0941F61].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
