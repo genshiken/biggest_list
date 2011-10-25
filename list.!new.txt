@@ -714,14 +714,6 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[A-Destiny] Toriko - 29 (1280x720 h264 AAC) [E8576B7D].mkv
-!new/[ASL]_Sakamoto_Maaya_-_Last_Exile_-_Ginyoku_no_Famu_OP_-_Buddy_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artists_-_Baka_to_Test_to_Shoukanjuu_Ni_-_Watashi_to_Uchi_to_Otomegokoro_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artists_-_Hanasaku_Iroha_Original_Soundtrack_-_Yunosagi_Memories_[FLAC]_[w_Scans].rar
-!new/[GotSpeed]_Mirai_Nikki_-_03_[D26FB1CA].mkv
-!new/[Hiryuu] Maji de Watashi ni Koi Shinasai!! 04 [Hi10P 1280x720 H264] [9DD8C522].mkv
-!new/[Hiryuu] Maken-Ki! 03 [Hi10P 1280x720 H264] [39D2CAFF].mkv
-!new/[HorribleSubs] Gintama - 231 [720p].mkv
 !new/[HorribleSubs] Kimi to Boku - 04 [720p].mkv
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_01[14]_-_The_Four_Knights_vs._The_Evil_Knights_[640x480][VFS][30D79E77].avi
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_02[14]_-_The_Land_of_Love_and_Hate_[640x480][VFS][28DAD91C].avi
@@ -932,6 +924,12 @@
 !new/[TV_Series_1996]_Bakusou_Kyoudai_Let_s_&_Go/Bakusou_Kyoudai_Let_s_&_Go_WGP_-_49[51]_-_Episode_49_[640x480][DVD][RAW][Saiei][C421848C].mp4
 !new/[TV_Series_1996]_Bakusou_Kyoudai_Let_s_&_Go/Bakusou_Kyoudai_Let_s_&_Go_WGP_-_50[51]_-_Episode_50_[640x480][DVD][RAW][Saiei][DC0771F1].mp4
 !new/[TV_Series_1996]_Bakusou_Kyoudai_Let_s_&_Go/Bakusou_Kyoudai_Let_s_&_Go_WGP_-_51[51]_-_Episode_51_[640x480][DVD][RAW][Saiei][0C02BB85].mp4
+!new/[TV_Series_1997-1998]_Chuuka_Ichiban/Chuuka_Ichiban_-_01v2[52]_-_Young_Cooking_Master_[640x432][DVD][CMBT][0A3301EC].mkv
+!new/[TV_Series_1997-1998]_Chuuka_Ichiban/Chuuka_Ichiban_-_02v2[52]_-_Fantastic_Mapo_Tofu_[640x432][DVD][CMBT][E5CB1C50].mkv
+!new/[TV_Series_1997-1998]_Chuuka_Ichiban/Chuuka_Ichiban_-_03v2[52]_-_Super_Chef_[640x432][DVD][CMBT][961E4CB2].mkv
+!new/[TV_Series_1997-1998]_Chuuka_Ichiban/Chuuka_Ichiban_-_04v2[52]_-_Merciless_Rules_[640x432][DVD][CMBT][8A6B7489].mkv
+!new/[TV_Series_1997-1998]_Chuuka_Ichiban/Chuuka_Ichiban_-_05v2[52]_-_Destroy_Old_Tradition_[640x432][DVD][CMBT][2491DA15].mkv
+!new/[TV_Series_1997-1998]_Chuuka_Ichiban/Chuuka_Ichiban_-_06v2[52]_-_Dumpling_Brothers_[640x432][DVD][CMBT][4E59FFD8].mkv
 !new/[TV_Series_1997]_Eat-Man/Eat-Man_-_01[12]_-_Wall_of_Glass_[640x464][DVD][ILA][A5862CCC].mkv
 !new/[TV_Series_1997]_Eat-Man/Eat-Man_-_02[12]_-_A_Person_Falling_to_Ruins_[640x464][DVD][ILA][FABF8864].mkv
 !new/[TV_Series_1997]_Eat-Man/Eat-Man_-_03[12]_-_The_Promised_Room_[640x464][DVD][ILA][4BFBCEEC].mkv
@@ -943,6 +941,7 @@
 !new/[TV_Series_1997]_Eat-Man/Eat-Man_-_09[12]_-_Aloof_Sky_[640x464][DVD][ILA][F80F9BC3].mkv
 !new/[TV_Series_1997]_Eat-Man/Eat-Man_-_10[12]_-_Fragment_of_Dreams_[640x464][DVD][ILA][F5DF4726].mkv
 !new/[TV_Series_1997]_Eat-Man/Eat-Man_-_11[12]_-_Paradise_[640x464][DVD][ILA][B0941F61].mkv
+!new/[TV_Series_1997]_Eat-Man/Eat-Man_-_12[12]_-_The_Endless_Tomorrow_[640x464][DVD][ILA][E87C0060].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
