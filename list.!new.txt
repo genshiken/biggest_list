@@ -715,12 +715,16 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
 !new/[ASL]_Various_Artists_-_Baka_to_Test_to_Shoukanjuu_Ni_Original_Soundtrack_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Science_Adventure_Dance_Remix_CHAOS_HEAD_STEINS_GATE_[FLAC]_[w_Scans].rar
+!new/[ASL]_Yakushimaru_Etsuko_Metro_Orchestra_-_Mawaru_Penguindrum_OP_-_nornir_Shounen_yo_Ware_ni_Kaere_[FLAC]_[w_Scans].rar
 !new/[Commie] Kyoukai Senjou no Horizon - 04 [D949AFB2].mkv
 !new/[Commie] Macross Frontier the Movie ~Itsuwari no Utahime~ [BD 1080p AAC] [20AB0DE4].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.36.[1280x720].[A14197B0].mkv
+!new/[GotWoot]_Mirai_Nikki_03_[10-bit][A66CDFD5].mkv
 !new/[Hatsuyuki]_Kaibutsu_Oujo_-_OAD_-_03_[DVD][720x480][04E0477D].mkv
 !new/[HorribleSubs] Bleach - 345 [720p].mkv
 !new/[HorribleSubs] Chihayafuru - 04 [720p].mkv
+!new/[HorribleSubs] Moritasan wa Mukuchi - 17 [720p].mkv
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_01[14]_-_The_Four_Knights_vs._The_Evil_Knights_[640x480][VFS][30D79E77].avi
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_02[14]_-_The_Land_of_Love_and_Hate_[640x480][VFS][28DAD91C].avi
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_03[14]_-_Burning_Red_Flame!_[640x480][VFS][48A8AB76].avi
@@ -737,6 +741,7 @@
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_14[14]_-_A_Piece_of_the_Sun!_[640x480][VFS][056C0147].avi
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_T1[14]_-_Promo_[640x480][RAW][VFS][B7B1C567].avi
 !new/[SS] Mirai Nikki - 02 (1280x720 h264) [85A51D06].mkv
+!new/[Shin-S] Boku wa Tomodachi ga Sukunai TV OP & OVA ED Single - Zannenkei Rinjin-Bu (Hoshi Futatsu Han) [Various].zip
 !new/[Shin-S] Mashiro-iro Symphony ~The color of lovers~ OP Single - Authentic symphony [Choucho].zip
 !new/[Shin-S] Mirai Nikki TV OP & OVA ED Single - Kuusou Merosogii [Yousei Teikoku].zip
 !new/[Shin-S] Shinryaku! Ika Musume S2 OP Single - HIGH POWERED [sphere].zip
@@ -1091,6 +1096,7 @@
 !new/[TV_Series_1998]_Eat-Man__98/Eat-Man__98_-_01[12]_-_Bye_Bye_Aimie_Part_1_[512x384][DVD][AM][A4CDBEBB].avi
 !new/[UTW-Mazui]_Tamayura_~hitotose~_-_03_[576p][25E02A96].mkv
 !new/[m.3.3.w]_Working'!!_-_04_[h264_720p]_[56FE4C23].mkv
+!new/[yibis]_One_Piece_519_[720p][2662EA1A].mkv
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
