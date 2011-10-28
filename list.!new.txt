@@ -6,6 +6,7 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - Movie 15 - Quarter of Silence [DCTP][H264][F49743F4].mkv
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -714,9 +715,12 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
+!new/[A-C_&_FLF_&_L-E]_Macross_Flashback_2012_[5DDD3CF8].mkv
 !new/[ASL]_Various_Artists_-_Baka_to_Test_to_Shoukanjuu_Ni_Original_Soundtrack_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Science_Adventure_Dance_Remix_CHAOS_HEAD_STEINS_GATE_[FLAC]_[w_Scans].rar
 !new/[ASL]_Yakushimaru_Etsuko_Metro_Orchestra_-_Mawaru_Penguindrum_OP_-_nornir_Shounen_yo_Ware_ni_Kaere_[FLAC]_[w_Scans].rar
+!new/[Ayako]_Mayo_Chiki_-_13_[H264][720p][1CE0B0FE].mkv
+!new/[Commie] Guilty Crown - 03 [5EF0B8DB].mkv
 !new/[Commie] Kyoukai Senjou no Horizon - 04 [D949AFB2].mkv
 !new/[Commie] Macross Frontier the Movie ~Itsuwari no Utahime~ [BD 1080p AAC] [20AB0DE4].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.36.[1280x720].[A14197B0].mkv
@@ -725,6 +729,10 @@
 !new/[HorribleSubs] Bleach - 345 [720p].mkv
 !new/[HorribleSubs] Chihayafuru - 04 [720p].mkv
 !new/[HorribleSubs] Moritasan wa Mukuchi - 17 [720p].mkv
+!new/[HorribleSubs] Naruto Shippuuden - 234 [720p].mkv
+!new/[HorribleSubs] SKET Dance - 30 [720p].mkv
+!new/[HorribleSubs] UN-GO - 03 [720p].mkv
+!new/[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_04_[56E72691].mkv
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_01[14]_-_The_Four_Knights_vs._The_Evil_Knights_[640x480][VFS][30D79E77].avi
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_02[14]_-_The_Land_of_Love_and_Hate_[640x480][VFS][28DAD91C].avi
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_03[14]_-_Burning_Red_Flame!_[640x480][VFS][48A8AB76].avi
@@ -740,6 +748,8 @@
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_13[14]_-_Memories_of_the_Future!_[640x480][VFS][0658B392].avi
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_14[14]_-_A_Piece_of_the_Sun!_[640x480][VFS][056C0147].avi
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_T1[14]_-_Promo_[640x480][RAW][VFS][B7B1C567].avi
+!new/[Oyatsu] Mashiro Iro Symphony - 04 (1280x720 x264 AAC) [051E4F83].mkv
+!new/[ReTouched] Kaichu! - 04 (640x360 H264 AAC) [072A59AE].mkv
 !new/[SS] Mirai Nikki - 02 (1280x720 h264) [85A51D06].mkv
 !new/[Shin-S] Boku wa Tomodachi ga Sukunai TV OP & OVA ED Single - Zannenkei Rinjin-Bu (Hoshi Futatsu Han) [Various].zip
 !new/[Shin-S] Mashiro-iro Symphony ~The color of lovers~ OP Single - Authentic symphony [Choucho].zip
@@ -1158,6 +1168,42 @@
 !new/[TV_Series_1999]_Di_Gi_Charat/Di_Gi_Charat_-_S13[16]_-_Natsuyasumi_Special_Episode_4_-_Isn_t_Anyone_Here-nyo__[320x240][VHS][CF][FA21131F].avi
 !new/[TV_Series_1999]_Di_Gi_Charat/Di_Gi_Charat_-_S14[16]_-_Fantasy_Opening_[352x240][RAW][96623512].mpg
 !new/[TV_Series_1999]_Di_Gi_Charat/Di_Gi_Charat_-_S1[16]_-_Summer_Special_2000_Episode_1_-_Here_comes_Pyoko-nyo!_[512x384][VHS][AC][E96775C6].avi
+!new/[TV_Series_1999]_Di_Gi_Charat/Di_Gi_Charat_-_S2[16]_-_Summer_Special_2000_Episode_2_-_It_s_the_Black_Gamers-nyo_[512x384][VHS][AC][103B1C30].avi
+!new/[TV_Series_1999]_Di_Gi_Charat/Di_Gi_Charat_-_S3[16]_-_Summer_Special_2000_Episode_3_-_The_Return_of_Abarenbou_[512x384][VHS][AC][B10C2F6A].avi
+!new/[TV_Series_1999]_Di_Gi_Charat/Di_Gi_Charat_-_S4[16]_-_Summer_Special_2000_Episode_4_-_Summer_Bug_[480x360][VHS][AC][73B99554].avi
+!new/[TV_Series_2000]_Ayashi_no_Ceres/Ayashi_no_Ceres_-_01[24]_-_The_Day_the_Moon_and_Sixteen_Stars_Align_[696x520][DVD][a4e][664CD906].mkv
+!new/[TV_Series_2000]_Ayashi_no_Ceres/Ayashi_no_Ceres_-_02[24]_-_The_Angel_s_First_Kiss_[696x520][DVD][a4e][829A71A3].mkv
+!new/[TV_Series_2000]_Ayashi_no_Ceres/Ayashi_no_Ceres_-_03[24]_-_The_One_Who_Fell_To_Earth_[696x520][DVD][a4e][7EC60B23].mkv
+!new/[TV_Series_2000]_Ayashi_no_Ceres/Ayashi_no_Ceres_-_04[24]_-_The_Stolen_Hagoromo_[696x520][DVD][a4e][7CA2CB88].mkv
+!new/[TV_Series_2000]_Ayashi_no_Ceres/Ayashi_no_Ceres_-_05[24]_-_Tooya_s_Destiny_[696x520][DVD][a4e][4FEA02DF].mkv
+!new/[TV_Series_2000]_Ayashi_no_Ceres/Ayashi_no_Ceres_-_06[24]_-_The_C_Project_[696x520][DVD][a4e][19733286].mkv
+!new/[TV_Series_2000]_Ayashi_no_Ceres/Ayashi_no_Ceres_-_07[24]_-_Celestial_Awakening_[696x520][DVD][a4e][D102466C].mkv
+!new/[TV_Series_2000]_Ayashi_no_Ceres/Ayashi_no_Ceres_-_08[24]_-_The_Mikage_Conspiracy_[696x520][DVD][a4e][508599A0].mkv
+!new/[TV_Series_2000]_Ayashi_no_Ceres/Ayashi_no_Ceres_-_09[24]_-_The_Angel_s_Promise_[696x520][DVD][a4e][73E3845F].mkv
+!new/[TV_Series_2000]_Ayashi_no_Ceres/Ayashi_no_Ceres_-_10[24]_-_Chidori_s_Flight_[700x528][DVD][a4e][E9410989].mkv
+!new/[TV_Series_2000]_Ayashi_no_Ceres/Ayashi_no_Ceres_-_11[24]_-_Stir_of_Emotions_[704x528][DVD][a4e][60E05AE4].mkv
+!new/[TV_Series_2000]_Ayashi_no_Ceres/Ayashi_no_Ceres_-_12[24]_-_The_Silver_Choker_[704x528][DVD][a4e][C56FC24E].mkv
+!new/[TV_Series_2000]_Ayashi_no_Ceres/Ayashi_no_Ceres_-_13[24]_-_Relic_of_the_Mikage_[704x528][DVD][a4e][2E626BC1].mkv
+!new/[TV_Series_2000]_Ayashi_no_Ceres/Ayashi_no_Ceres_-_14[24]_-_The_Return_of_the__First__[704x528][DVD][a4e][213DE97E].mkv
+!new/[TV_Series_2000]_Ayashi_no_Ceres/Ayashi_no_Ceres_-_15[24]_-_Tooya_s_Past_[704x528][DVD][a4e][219ED781].mkv
+!new/[TV_Series_2000]_Ayashi_no_Ceres/Ayashi_no_Ceres_-_16[24]_-_Another_Ceres_[704x528][DVD][a4e][2E439400].mkv
+!new/[TV_Series_2000]_Ayashi_no_Ceres/Ayashi_no_Ceres_-_17[24]_-_Bewitching_Affection_[704x528][DVD][a4e][8809B6D7].mkv
+!new/[TV_Series_2000]_Ayashi_no_Ceres/Ayashi_no_Ceres_-_18v3[24]_-_Fleeting_Happiness_[704x528][DVD][a4e][A8DD214E].mkv
+!new/[TV_Series_2000]_Ayashi_no_Ceres/Ayashi_no_Ceres_-_19[24]_-_Chidori_s_Confession_[704x528][DVD][a4e][26A0BE2B].mkv
+!new/[TV_Series_2000]_Ayashi_no_Ceres/Ayashi_no_Ceres_-_20[24]_-_Tooya_s_Death_[704x528][DVD][a4e][B2424105].mkv
+!new/[TV_Series_2000]_Ayashi_no_Ceres/Ayashi_no_Ceres_-_21[24]_-_The_Ancient_Tennyo_[704x528][DVD][a4e][1813CFC4].mkv
+!new/[TV_Series_2000]_Ayashi_no_Ceres/Ayashi_no_Ceres_-_22[24]_-_Song_of_Redemption_[704x528][DVD][a4e][822DC17D].mkv
+!new/[TV_Series_2000]_Ayashi_no_Ceres/Ayashi_no_Ceres_-_23[24]_-_Mikagi_Reborn_[704x528][DVD][a4e][A1E4B6E8].mkv
+!new/[TV_Series_2000]_Ayashi_no_Ceres/Ayashi_no_Ceres_-_24[24]_-_Denouement_[704x528][DVD][a4e][C0BFE7DB].mkv
+!new/[TV_Series_2001]_Chikyuu_Shoujo_Arjuna/Chikyuu_Shoujo_Arjuna_-_01[12]_-_The_Drop_of_Time_[640x368][DVD][zx][A17EB7A6].ogm
+!new/[TV_Series_2001]_Chikyuu_Shoujo_Arjuna/Chikyuu_Shoujo_Arjuna_-_02[12]_-_The_Blue_Light_[640x368][DVD][zx][D96BBE47].ogm
+!new/[TV_Series_2001]_Chikyuu_Shoujo_Arjuna/Chikyuu_Shoujo_Arjuna_-_03[12]_-_Tears_of_the_Forest_[640x368][DVD][zx][660FF144].ogm
+!new/[TV_Series_2001]_Chikyuu_Shoujo_Arjuna/Chikyuu_Shoujo_Arjuna_-_04[12]_-_Transmigration_[640x368][DVD][zx][7018C738].ogm
+!new/[TV_Series_2001]_Chikyuu_Shoujo_Arjuna/Chikyuu_Shoujo_Arjuna_-_05[12]_-_The_Small_Voices_[640x368][DVD][zx][228F7C08].ogm
+!new/[TV_Series_2001]_Chikyuu_Shoujo_Arjuna/Chikyuu_Shoujo_Arjuna_-_06[12]_-_The_First_One_[640x368][DVD][zx][9AFB0B55].ogm
+!new/[TV_Series_2001]_Chikyuu_Shoujo_Arjuna/Chikyuu_Shoujo_Arjuna_-_07[12]_-_The_Invisible_Words_[640x368][DVD][zx][5EE02AAE].ogm
+!new/[TV_Series_2001]_Chikyuu_Shoujo_Arjuna/Chikyuu_Shoujo_Arjuna_-_08[12]_-_The_Distant_Rain_[640x368][DVD][zx][E44FDACD].ogm
+!new/[TV_Series_2001]_Chikyuu_Shoujo_Arjuna/Chikyuu_Shoujo_Arjuna_-_09[12]_-_The_Flickering_Genes_[640x368][DVD][zx][6E4D1898].ogm
 !new/[UTW-Mazui]_Tamayura_~hitotose~_-_03_[576p][25E02A96].mkv
 !new/[m.3.3.w]_Working'!!_-_04_[h264_720p]_[56FE4C23].mkv
 !new/[yibis]_One_Piece_519_[720p][2662EA1A].mkv
