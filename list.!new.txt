@@ -716,7 +716,6 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
 !new/[Commie] Macross Frontier the Movie ~Itsuwari no Utahime~ [BD 1080p AAC] [20AB0DE4].mkv
-!new/[Hatsuyuki]_Kaibutsu_Oujo_-_OAD_-_03_[DVD][720x480][04E0477D].mkv
 !new/[HorribleSubs] Bleach - 345 [720p].mkv
 !new/[HorribleSubs] Chihayafuru - 04 [720p].mkv
 !new/[HorribleSubs] Moritasan wa Mukuchi - 17 [720p].mkv
@@ -1424,6 +1423,7 @@
 !new/bla/zx.black.heaven.12.sub.rar
 !new/bla/zx.black.heaven.13.dub.avi
 !new/bla/zx.black.heaven.13.sub.rar
+!new/haganai04patch.zip
 !new/hdp2/Princess Lover!/[polished] Princess Love! Maiden's Secret 01 [BD 1080][DDEF29F7].mkv
 !new/hdp2/Princess Lover!/[polished] Princess Love! Maiden's Secret 02 [BD 1080][EA90E7E1].mkv
 !new/hdp2/Princess Lover!/[polished] Princess Love! Maiden's Secret 03 [BD 1080][5E950AF0].mkv
