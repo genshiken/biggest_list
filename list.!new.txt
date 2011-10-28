@@ -1094,6 +1094,15 @@
 !new/[TV_Series_1998]_Brain_Powerd/Brain_Powerd_-_25[26]_-_Orphan_s_Hesitation_[640x480][DVD][zx][9829CADE].ogm
 !new/[TV_Series_1998]_Brain_Powerd/Brain_Powerd_-_26[26]_-_Flight_[640x480][DVD][zx][FCC0969A].ogm
 !new/[TV_Series_1998]_Eat-Man__98/Eat-Man__98_-_01[12]_-_Bye_Bye_Aimie_Part_1_[512x384][DVD][AM][A4CDBEBB].avi
+!new/[TV_Series_1998]_Eat-Man__98/Eat-Man__98_-_02[12]_-_Bye_Bye_Aimie_Part_2_[512x384][DVD][AM][058EC187].avi
+!new/[TV_Series_1998]_Eat-Man__98/Eat-Man__98_-_03[12]_-_World_s_Greatest_Mercenary_[512x384][DVD][AM][0B728F43].avi
+!new/[TV_Series_1998]_Eat-Man__98/Eat-Man__98_-_04[12]_-_Body_Guard_[512x384][DVD][AM][D9039254].avi
+!new/[TV_Series_1998]_Eat-Man__98/Eat-Man__98_-_05[12]_-_Ambrosian_Days_Part_1_[512x384][DVD][AM][3D04B90F].avi
+!new/[TV_Series_1998]_Eat-Man__98/Eat-Man__98_-_06[12]_-_Ambrosian_Days_Part_2_[512x384][DVD][AM][AA91CD34].avi
+!new/[TV_Series_1998]_Eat-Man__98/Eat-Man__98_-_07[12]_-_Ambrosian_Days_Part_3_[512x384][DVD][AM][165444D9].avi
+!new/[TV_Series_1998]_Eat-Man__98/Eat-Man__98_-_08[12]_-_Ambrosian_Days_Part_4_[512x384][DVD][AM][89C894A2].avi
+!new/[TV_Series_1998]_Eat-Man__98/Eat-Man__98_-_09[12]_-_Mega_Mix_Part_1_[512x384][DVD][AM][711E92E5].avi
+!new/[TV_Series_1998]_Eat-Man__98/Eat-Man__98_-_10[12]_-_Mega_Mix_Part_2_[512x384][DVD][AM][FF510402].avi
 !new/[UTW-Mazui]_Tamayura_~hitotose~_-_03_[576p][25E02A96].mkv
 !new/[m.3.3.w]_Working'!!_-_04_[h264_720p]_[56FE4C23].mkv
 !new/[yibis]_One_Piece_519_[720p][2662EA1A].mkv
