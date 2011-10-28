@@ -720,6 +720,8 @@
 !new/[Commie] Macross Frontier the Movie ~Itsuwari no Utahime~ [BD 1080p AAC] [20AB0DE4].mkv
 !new/[Commie] Persona 4 - 04 [133B8B70].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.35.[1280x720].v2.[2773BB68].mkv
+!new/[Doremi-CureCom].Suite.PreCure!.36.[1280x720].v2.[1560A5A2].mkv
+!new/[GotWoot]_Bakuman_2_-_04_[10bit][8816C4D7].mkv
 !new/[HorribleSubs] Bleach - 345 [720p].mkv
 !new/[HorribleSubs] Chihayafuru - 04 [720p].mkv
 !new/[HorribleSubs] Moritasan wa Mukuchi - 17 [720p].mkv
@@ -741,6 +743,7 @@
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_13[14]_-_Memories_of_the_Future!_[640x480][VFS][0658B392].avi
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_14[14]_-_A_Piece_of_the_Sun!_[640x480][VFS][056C0147].avi
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_T1[14]_-_Promo_[640x480][RAW][VFS][B7B1C567].avi
+!new/[SS] Mirai Nikki - 02v2 (1280x720 h264) [CF9FE1E2].mkv
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
@@ -1327,6 +1330,8 @@
 !new/[TV_Series_2008]_Crystal_Blaze/Crystal_Blaze_-_10[12]_-_Episode_10_[704x400][DTV][Hitode-AnimeSS][E629A061].mkv
 !new/[TV_Series_2008]_Crystal_Blaze/Crystal_Blaze_-_11[12]_-_Episode_11_[704x400][DTV][Hitode][B68BB3AC].mkv
 !new/[TV_Series_2008]_Crystal_Blaze/Crystal_Blaze_-_12[12]_-_Episode_12_[704x400][DTV][Hitode][34A70FB2].mkv
+!new/[gg]_Mawaru_Penguindrum_-_16_[49CA1079].mkv
+!new/[iSiscon]_Sphere_-_Shinryaku!_Ika_Musume_S2_OP_Single_-_HIGH_POWERED_[w_scans]_(FLAC).rar
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
