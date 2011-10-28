@@ -576,6 +576,7 @@ incomplete/Bobobo-Bo Bo-Bobo/[HnG-Hajike] Bobobo-Bo Bo-Bobo - 03 [DVD][36A022AF]
 incomplete/Boku wa Tomodachi ga Sukunai/[Mazui] Boku wa Tomodachi ga Sukunai - 01 [89288C3C].mkv
 incomplete/Boku wa Tomodachi ga Sukunai/[Mazui] Boku wa Tomodachi ga Sukunai - 02 [D4FFD0B0].mkv
 incomplete/Boku wa Tomodachi ga Sukunai/[Mazui] Boku wa Tomodachi ga Sukunai - 03 [6CB4BA8B].mkv
+incomplete/Boku wa Tomodachi ga Sukunai/[Mazui] Boku wa Tomodachi ga Sukunai - 04 [56E72691].mkv
 incomplete/Busou Shinki Moon Angel/[Commie] Busou Shinki Moon Angel - 01 [058F61B2].mkv
 incomplete/C The Money of Soul and Possibility Control/[gg] C The Money of Soul and Possibility Control - 01 [7B880013].mkv
 incomplete/C The Money of Soul and Possibility Control/[gg] C The Money of Soul and Possibility Control - 02 [D51046B2].mkv
@@ -1593,6 +1594,7 @@ incomplete/Good Witch of the West/[Anime-Keep] Good Witch of the West - 04 [A957
 incomplete/Guilty Crown/[CoalGuys] Guilty Crown - 02 [A986664D].mkv
 incomplete/Guilty Crown/[Commie] Guilty Crown - 01 [662BB1FD].mkv
 incomplete/Guilty Crown/[Commie] Guilty Crown - 02 [6D1930E8].mkv
+incomplete/Guilty Crown/[Commie] Guilty Crown - 03 [5EF0B8DB].mkv
 incomplete/Gun X Sword/[Shinsen-Subs] Gun X Sword - 10 [DE58BF1B].avi
 incomplete/Gun X Sword/[Shinsen-Subs] Gun X Sword - 11 [94BA7245].avi
 incomplete/Gun X Sword/[Shinsen-Subs] Gun X Sword - 12 [8C1B0A0B].avi
@@ -1903,6 +1905,7 @@ incomplete/Kaibutsu Oujo OVA/[Ayako] Kaibutsu Oujo OVA - 01 [DVD][58E20764].mkv
 incomplete/Kaibutsu Oujo OVA/[Mamiko SHiN] Kaibutsu Oujo OVA - 01 [DVD][EEE2827C].mkv
 incomplete/Kaibutsu Oujo OVA/[Mamiko SHiN] Kaibutsu Oujo OVA - 02 [DVD][1F5A2D99].mkv
 incomplete/Kaichu! S2/[ReTouched] Kaichu! S2 - 01 [48CEAADB].mkv
+incomplete/Kaichu! S2/[ReTouched] Kaichu! S2 - 02 [072A59AE].mkv
 incomplete/Kamichama Karin/[Kedex] Kamichama Karin - 01 [77A49DFF].avi
 incomplete/Kamichama Karin/[Kedex] Kamichama Karin - 02 [4D18F7AF].avi
 incomplete/Kamichama Karin/[Kedex] Kamichama Karin - 03 [40DD32D9].avi
@@ -2089,6 +2092,7 @@ incomplete/Kuttsukiboshi/[SHiN-gx] Kuttsukiboshi - 01 [DVD][v2][9DB79BA4].mkv
 incomplete/Kyoukai Senjou no Horizon/[Commie] Kyoukai Senjou no Horizon - 01 [v2][334CF812].mkv
 incomplete/Kyoukai Senjou no Horizon/[Commie] Kyoukai Senjou no Horizon - 02 [7715B328].mkv
 incomplete/Kyoukai Senjou no Horizon/[Commie] Kyoukai Senjou no Horizon - 03 [9C37855A].mkv
+incomplete/Kyoukai Senjou no Horizon/[Commie] Kyoukai Senjou no Horizon - 04 [D949AFB2].mkv
 incomplete/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 01 [80588F40].mkv
 incomplete/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 02 [23BDE85A].mkv
 incomplete/Last Exile ~Fam, The Silver Wing~/[SFWhine] Last Exile -Fam, The Silver Wing- 02 [720p][C2A43017].mkv
@@ -2344,6 +2348,7 @@ incomplete/Mashiro-iro Symphony/[Myon] Mashiro-iro Symphony - 01 [720p][4851E0D3
 incomplete/Mashiro-iro Symphony/[Oyatsu] Mashiro-iro Symphony - 01 [720p][0F466446].mkv
 incomplete/Mashiro-iro Symphony/[Oyatsu] Mashiro-iro Symphony - 02 [720p][CA4F13C3].mkv
 incomplete/Mashiro-iro Symphony/[Oyatsu] Mashiro-iro Symphony - 03 [720p][01C3915D].mkv
+incomplete/Mashiro-iro Symphony/[Oyatsu] Mashiro-iro Symphony - 04 [720p][051E4F83].mkv
 incomplete/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 01 [B8C345E7].mkv
 incomplete/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 02 [E0BE35C9].mkv
 incomplete/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 03 [6809F5F9].mkv
@@ -2388,7 +2393,9 @@ incomplete/Mirai Nikki/[GotSpeed] Mirai Nikki - 02 [199DC994].mkv
 incomplete/Mirai Nikki/[GotSpeed] Mirai Nikki - 03 [D26FB1CA].mkv
 incomplete/Mirai Nikki/[GotWoot] Mirai Nikki - 01 [E5251623].mkv
 incomplete/Mirai Nikki/[GotWoot] Mirai Nikki - 02 [006FE28D].mkv
+incomplete/Mirai Nikki/[GotWoot] Mirai Nikki - 03 [A66CDFD5].mkv
 incomplete/Mirai Nikki/[SS] Mirai Nikki - 01 [720p][59E9C445].mkv
+incomplete/Mirai Nikki/[SS] Mirai Nikki - 02 [720p][85A51D06].mkv
 incomplete/Mitsudomoe 2/[Ayako-m.3.3.w] Mitsudomoe 2 - 01 [720p][E450D124].mkv
 incomplete/Mitsudomoe 2/[HorribleSubs] Mitsudomoe 2 - 01 [720p][875CAD50].mkv
 incomplete/Mitsudomoe 2/[HorribleSubs] Mitsudomoe 2 - 02 [720p][899F8C53].mkv
@@ -3801,6 +3808,7 @@ incomplete/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 32 [720p][CCD1388E].
 incomplete/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 33 [720p][7633F222].mkv
 incomplete/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 34 [720p][966DA995].mkv
 incomplete/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 35 [720p][EDFE4142].mkv
+incomplete/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 36 [720p][A14197B0].mkv
 incomplete/Suite PreCure!/[Nutbladder] Suite Precure - 01 [3DA27245].mkv
 incomplete/Suite PreCure!/[Nutbladder] Suite Precure - 02 [819AAD27].mkv
 incomplete/Suite PreCure!/[Nutbladder] Suite Precure - 03 [600FA473].mkv

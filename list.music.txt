@@ -598,6 +598,7 @@ music/ASL/[ASL]_Various_Artists_-_Atelier_Rorona_Character_Song_Album_~Kanarien~
 music/ASL/[ASL]_Various_Artists_-_Axanael_Theme_Song_CD_-_Katsuo_Bushi_e_p_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Baby_Princess_OP_Theme_-_Gyutto_BABY_Ai_Nanda_BABY_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Baka_to_Test_to_Shoukanjuu_Ni_-_Watashi_to_Uchi_to_Otomegokoro_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Baka_to_Test_to_Shoukanjuu_Ni_Original_Soundtrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Barbarian_On_The_Groove_Works_Collection_2nd_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Barbarossa_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_CARTAGRA_Original_Sound_Track_-_Manie_[FLAC]_[w_Scans].rar
@@ -704,6 +705,7 @@ music/ASL/[ASL]_Various_Artists_-_STEINS;GATE_Future_Gadget_Compact_Disc_2_Sound
 music/ASL/[ASL]_Various_Artists_-_SUPER_SHOT2_-Bishoujo_Game_Remix_Collection-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_SUPER_SHOT3_-Bishoujo_Game_Remix_Collection-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_SUPER_SHOT_-Bishoujo_Game_Remix_Collection-_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Science_Adventure_Dance_Remix_CHAOS_HEAD_STEINS_GATE_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Secret_Game_CODE_Revise_Original_Sound_Track_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Sekigan_no_Eden_-AD2109-_Eden_the_One-eyed_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Sekiranun_Graffiti_-_Fallin'_Fallin'_Fallin'_[FLAC]_[w_Scans].rar
@@ -753,6 +755,7 @@ music/ASL/[ASL]_Various_Artitsts_-_Jewelpet_Sunshine_Theme_Song_-_GO_GO_Sunshine
 music/ASL/[ASL]_Various_Artsts_-_GWAVE_2005_1st_Impact_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Wakabayashi_Naomi_-_THE_IDOLM@STER_MASTER_ARTIST_2_-SECOND_SEASON-_04_Ritsuko_Akizuki_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Windmill_-_Hyper-Highspeed-Genius_Digital_Sound_Tracks_HHG!_[FLAC].rar
+music/ASL/[ASL]_Yakushimaru_Etsuko_Metro_Orchestra_-_Mawaru_Penguindrum_OP_-_nornir_Shounen_yo_Ware_ni_Kaere_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Yamazaki_Haruka_-_Hayate_No_Gotoku_HEAVEN_IS_A_PLACE_ON_EARTH_OP_-_Bokura,_Kakeyuku_Sora_e_[FLAC].rar
 music/ASL/[ASL]_YuNa_-_Utatemeguri_Special_Song_CD_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Yukana_-_IS_Character_Vol_Song_CD_Vol._2_- _Cecilia_[FLAC]_[w_Scans].rar
@@ -4423,6 +4426,7 @@ music/Shin-S/[Shin-S] Astarotte no Omocha! ED Single - Manatsu no Photograph [az
 music/Shin-S/[Shin-S] Astarotte no Omocha! OP Single - Tenshi no CLOVER [Aimi].zip
 music/Shin-S/[Shin-S] BLOOD-C ED Single - Junketsu Paradox [Mizuki Nana].zip
 music/Shin-S/[Shin-S] Baby Princess 3D Paradise 0 Love OVA OP Single - Gyutto BABY Ai Nanda BABY [Various].zip
+music/Shin-S/[Shin-S] Boku wa Tomodachi ga Sukunai TV OP & OVA ED Single - Zannenkei Rinjin-Bu (Hoshi Futatsu Han) [Various].zip
 music/Shin-S/[Shin-S] C³ ~Cube x Cursed x Curious~ OP Single - Endless Story [Tamura Yukari].zip
 music/Shin-S/[Shin-S] DOG DAYS ED Single - PRESENTER [Horie Yui].zip
 music/Shin-S/[Shin-S] DOG DAYS Insert Song Single - Kitto Koi wo Shiteiru [Horie Yui & Mizuki Nana].zip
@@ -4449,8 +4453,10 @@ music/Shin-S/[Shin-S] Kami Nomi zo Shiru Sekai Insert Song Single - Koi, Yoroshi
 music/Shin-S/[Shin-S] Kamisama Dolls OP & ED Single - Fukanzen Nenshou [Ishikawa Chiaki].zip
 music/Shin-S/[Shin-S] Kampfer fur die Liebe OP & ED Single - Choose my love! [Various].zip
 music/Shin-S/[Shin-S] Kyoukai Senjou no Horizon OP Single - TERMINATED [Chihara Minori].zip
+music/Shin-S/[Shin-S] Mashiro-iro Symphony ~The color of lovers~ OP Single - Authentic symphony [Choucho].zip
 music/Shin-S/[Shin-S] Mayo Chiki! ED Single - Kimi ni Gohoushi [Various].zip
 music/Shin-S/[Shin-S] Mayo Chiki! OP Single - Be Starters! [Kitamura Eri].zip
+music/Shin-S/[Shin-S] Mirai Nikki TV OP & OVA ED Single - Kuusou Merosogii [Yousei Teikoku].zip
 music/Shin-S/[Shin-S] Moribito Kozorite PC Game OP Single - Moribito Kozorite [Nogawa Sakura].zip
 music/Shin-S/[Shin-S] Moshidora ~Moshi Koukou Yakyuu no Joshi Manager ga Drucker no Management wo Yondara~ ED Single - Daisuki da yo [momo].zip
 music/Shin-S/[Shin-S] Moshidora ~Moshi Koukou Yakyuu no Joshi Manager ga Drucker no Management wo Yondara~ OP Single - Yume Note [azusa].zip
@@ -4469,10 +4475,12 @@ music/Shin-S/[Shin-S] STAR DRIVER ~Kagayaki no Takuto~ OP2 Single - SHINING STAR
 music/Shin-S/[Shin-S] Sacred Seven OP Single - stone cold [FictionJunction].zip
 music/Shin-S/[Shin-S] Seikon no Qwaser II ED Single - metaphor [Shoujo Byou].zip
 music/Shin-S/[Shin-S] Sengoku Otome ~Momoiro Paradox~ OP & ED Single - kagerou [Tenka Tori-tai].zip
+music/Shin-S/[Shin-S] Shinryaku! Ika Musume S2 OP Single - HIGH POWERED [sphere].zip
 music/Shin-S/[Shin-S] Softenni ED Single - Tsumasaki Dachi [Itou Kanae].zip
 music/Shin-S/[Shin-S] Softenni OP Single - Rulebook wo Wasurechae [ULTRA-PRISM with Hakuouchuu Soft Tennis Club].zip
 music/Shin-S/[Shin-S] Steins;Gate ED Single - Toki Tsukasadoru Juuni no Meiyaku [Sakakibara Yui].zip
 music/Shin-S/[Shin-S] THE iDOLM@STER ED Single - The world is all one!! [765PRO ALLSTARS].zip
+music/Shin-S/[Shin-S] Tamayura ~hitotose~ ED & Insert Song Single - Kami-sama no Itazura [Nakajima Megumi].zip
 music/Shin-S/[Shin-S] Usagi Drop OP Single - SWEET DROPS [PUFFY].zip
 music/Shin-S/[Shin-S] Uta no Prince-sama Maji LOVE 1000% OP Single - Orpheus [Miyano Mamoru].zip
 music/Shin-S/[Shin-S]_LiSA_-_Letters_to_U_(MP3_320kbps)_[DBBB7377].zip
