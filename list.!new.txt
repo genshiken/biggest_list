@@ -716,6 +716,7 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
 !new/[ASL]_Tomodachi_Tsukuritai_-_Boku_wa_Tomodachi_ga_Sukunai_OP_-_Zannenkei_Rinjinbu_[FLAC].rar
+!new/[Ayako]_Mayo_Chiki_-_13v2_[H264][720p]_[B11A83FE].mkv
 !new/[Chibiki]_THE_iDOLM@STER_-_17_[720p][4103F6C6].mkv
 !new/[Commie] Macross Frontier the Movie ~Itsuwari no Utahime~ [BD 1080p AAC] [20AB0DE4].mkv
 !new/[Commie] Macross Frontier the Movie ~Sayonara no Tsubasa~ [BD 1080p AAC] [66AE8F11].mkv
@@ -723,8 +724,11 @@
 !new/[Doremi-CureCom].Suite.PreCure!.35.[1280x720].v2.[2773BB68].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.36.[1280x720].v2.[1560A5A2].mkv
 !new/[GotWoot]_Bakuman_2_-_04_[10bit][8816C4D7].mkv
+!new/[Hiryuu] Maken-Ki! 04 [Hi10P 1280x720 H264] [D6466060].mkv
 !new/[HorribleSubs] Bleach - 345 [720p].mkv
+!new/[HorribleSubs] Cardfight!! Vanguard - 42 [720p].mkv
 !new/[HorribleSubs] Chihayafuru - 04 [720p].mkv
+!new/[HorribleSubs] Fairy Tail - 103 [720p].mkv
 !new/[HorribleSubs] Moritasan wa Mukuchi - 17 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 234 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 30 [720p].mkv
