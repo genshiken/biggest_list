@@ -259,6 +259,7 @@ incomplete/Belfi & Lilibit/[ARR] Belfi & Lilibit - 01 [D0752CB1].mkv
 incomplete/Ben-to/[gg] Ben-to - 01 [v2][1034E0B8].mkv
 incomplete/Ben-to/[gg] Ben-to - 02 [79359314].mkv
 incomplete/Ben-to/[gg] Ben-to - 03 [A7606FDB].mkv
+incomplete/Ben-to/[gg] Ben-to - 04 [107D4985].mkv
 incomplete/Black God/[Batsumen] Black God - 01 (1280x720) [E01C0EC4].mkv
 incomplete/Black God/[Batsumen] Black God - 02 (1280x720) [F739092B].mkv
 incomplete/Black God/[Batsumen] Black God - 03 (1280x720) [FB36970F].mkv
@@ -576,7 +577,7 @@ incomplete/Bobobo-Bo Bo-Bobo/[HnG-Hajike] Bobobo-Bo Bo-Bobo - 03 [DVD][36A022AF]
 incomplete/Boku wa Tomodachi ga Sukunai/[Mazui] Boku wa Tomodachi ga Sukunai - 01 [89288C3C].mkv
 incomplete/Boku wa Tomodachi ga Sukunai/[Mazui] Boku wa Tomodachi ga Sukunai - 02 [D4FFD0B0].mkv
 incomplete/Boku wa Tomodachi ga Sukunai/[Mazui] Boku wa Tomodachi ga Sukunai - 03 [6CB4BA8B].mkv
-incomplete/Boku wa Tomodachi ga Sukunai/[Mazui] Boku wa Tomodachi ga Sukunai - 04 [56E72691].mkv
+incomplete/Boku wa Tomodachi ga Sukunai/[Mazui] Boku wa Tomodachi ga Sukunai - 04 [v2][8F1C0D76].mkv
 incomplete/Busou Shinki Moon Angel/[Commie] Busou Shinki Moon Angel - 01 [058F61B2].mkv
 incomplete/C The Money of Soul and Possibility Control/[gg] C The Money of Soul and Possibility Control - 01 [7B880013].mkv
 incomplete/C The Money of Soul and Possibility Control/[gg] C The Money of Soul and Possibility Control - 02 [D51046B2].mkv
@@ -593,6 +594,7 @@ incomplete/C3 - Cube x Cursed x Curious/[UTW] C3 - Cube x Cursed x Curious - 01 
 incomplete/C3 - Cube x Cursed x Curious/[UTW] C3 - Cube x Cursed x Curious - 02 [720p][EDA5E247].mkv
 incomplete/C3 - Cube x Cursed x Curious/[UTW] C3 - Cube x Cursed x Curious - 03 [720p][6DD83E52].mkv
 incomplete/C3 - Cube x Cursed x Curious/[UTW] C3 - Cube x Cursed x Curious - 04 [720p][8ACB8555].mkv
+incomplete/C3 - Cube x Cursed x Curious/[UTW] C3 - Cube x Cursed x Curious - 05 [720p][80926A9C].mkv
 incomplete/C3 - Cube x Cursed x Curious/[UTW] C3 - Cube x Cursed x Curious - Opening [v2 720p][D041EEF2].mkv
 incomplete/Captain Harlock SSX (TV)/[Live-eviL] Captain Harlock SSX (TV) - 08 [439F92F8].avi
 incomplete/Captain Harlock SSX (TV)/[Live-eviL] Captain Harlock SSX (TV) - 09 [D9EF560D].avi
@@ -729,6 +731,18 @@ incomplete/Crystal Blaze (5-11)/[AniYoshi] Crystal Blaze - 02 [4F80BB82].mkv
 incomplete/Crystal Blaze (5-11)/[AniYoshi] Crystal Blaze - 03 [2A02C30E].mkv
 incomplete/Crystal Blaze (5-11)/[AniYoshi] Crystal Blaze - 04 [FAE91DF1].mkv
 incomplete/Crystal Blaze (5-11)/[Hitode] Crystal Blaze - 12 [End][34A70FB2].mkv
+incomplete/Crystal Blaze/Crystal Blaze - 01 [AniYoshi][C6D45AE8].mkv
+incomplete/Crystal Blaze/Crystal Blaze - 02 [AniYoshi][4F80BB82].mkv
+incomplete/Crystal Blaze/Crystal Blaze - 03 [AniYoshi][2A02C30E].mkv
+incomplete/Crystal Blaze/Crystal Blaze - 04 [AniYoshi][FAE91DF1].mkv
+incomplete/Crystal Blaze/Crystal Blaze - 05 [Hitode-AnimeSS][6834256E].mkv
+incomplete/Crystal Blaze/Crystal Blaze - 06 [Hitode-AnimeSS][A530619F].mkv
+incomplete/Crystal Blaze/Crystal Blaze - 07 [Hitode-AnimeSS][8171868C].mkv
+incomplete/Crystal Blaze/Crystal Blaze - 08 [Hitode-AnimeSS][227E4E3B].mkv
+incomplete/Crystal Blaze/Crystal Blaze - 09 [Hitode-AnimeSS][81CE819B].mkv
+incomplete/Crystal Blaze/Crystal Blaze - 10 [Hitode-AnimeSS][E629A061].mkv
+incomplete/Crystal Blaze/Crystal Blaze - 11 [Hitode][B68BB3AC].mkv
+incomplete/Crystal Blaze/Crystal Blaze - 12 [Hitode][34A70FB2].mkv
 incomplete/Daa! Daa! Daa!/[AonE Frostii] Daa! Daa! Daa! - 64 [DVD][E8D6C970].avi
 incomplete/Daa! Daa! Daa!/[AonE Frostii] Daa! Daa! Daa! - 65 [DVD][F7861FFB].mkv
 incomplete/Daa! Daa! Daa!/[AonE Frostii] Daa! Daa! Daa! - 66 [DVD][F1DFBA97].mkv
@@ -1220,6 +1234,7 @@ incomplete/Fate-Zero/[UTW] Fate-Zero - 01 [720p][E2552AFF].mkv
 incomplete/Fate-Zero/[UTW] Fate-Zero - 02 [720p][118AC4FA].mkv
 incomplete/Fate-Zero/[UTW] Fate-Zero - 03 [720p][EC04D328].mkv
 incomplete/Fate-Zero/[UTW] Fate-Zero - 04 [720p][3A05B4E1].mkv
+incomplete/Fate-Zero/[UTW] Fate-Zero - 05 [720p][0F358C5F].mkv
 incomplete/Fighting Beauty Wulong/[m.3.3.w] Fighting Beauty Wulong - 01 [F2CA20BA].mkv
 incomplete/Fighting Beauty Wulong/[m.3.3.w] Fighting Beauty Wulong - 02 [1C5B8E2C].mkv
 incomplete/Fighting Beauty Wulong/[m.3.3.w] Fighting Beauty Wulong - 03 [37128981].mkv
@@ -2365,6 +2380,7 @@ incomplete/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 12 [8AE3776F].mkv
 incomplete/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 13 [50CF070F].mkv
 incomplete/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 14 [CE846E4B].mkv
 incomplete/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 15 [76D04E3D].mkv
+incomplete/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 16 [49CA1079].mkv
 incomplete/Mermaid Melody Pichi Pichi Pitch Pure/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 01 [v2 DVD][A829314C].mkv
 incomplete/Mermaid Melody Pichi Pichi Pitch Pure/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 02 [DVD][7396A7B7].mkv
 incomplete/Mermaid Melody Pichi Pichi Pitch Pure/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 03 [DVD][043A4645].mkv

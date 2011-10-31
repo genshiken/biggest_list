@@ -793,21 +793,6 @@
 !new/[RyRo]_Inazuma_Eleven_GO_-_023_(720p)_[D1F1CF42].mkv
 !new/[RyRo]_Inazuma_Eleven_GO_-_024_(720p)_[B5213378].mkv
 !new/[SS] Mirai Nikki - 02v2 (1280x720 h264) [CF9FE1E2].mkv
-!new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
-!new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
-!new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
-!new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].avi
-!new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_03[13]_-_Episode_3_[704x396][DVD][RAW][53346896].avi
-!new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_04[13]_-_Episode_4_[704x396][DVD][RAW][785E18CA].avi
-!new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_05[13]_-_Episode_5_[704x396][DVD][RAW][211D0599].avi
-!new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_06[13]_-_Episode_6_[704x396][DVD][RAW][22EEE90C].avi
-!new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_07[13]_-_Episode_7_[704x396][DVD][RAW][7AB83928].avi
-!new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_08[13]_-_Episode_8_[704x396][DVD][RAW][DA425A81].avi
-!new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_09[13]_-_Episode_9_[704x396][DVD][RAW][D957A62C].avi
-!new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_10[13]_-_Episode_10_[704x396][DVD][RAW][AF92FE74].avi
-!new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
-!new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
-!new/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_01v2[39]_-_Resurrection_of_Ideon_[640x480][Shin-Getter][2ED009EF].avi
 !new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_02v2[39]_-_Destruction_of_New_Lopia_[720x540][Shin-Getter][C5062D30].avi
 !new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_03[39]_-_Bursting_Earth_[640x480][Shin-Getter][7F5481B8].avi
@@ -1276,114 +1261,21 @@
 !new/[TV_Series_2003]_Black_Jack_Special/Black_Jack_Special_-_2[4]_-_The_Disowned_Son_[640x480][DTV][F-B][D4F9FBDE].avi
 !new/[TV_Series_2003]_Black_Jack_Special/Black_Jack_Special_-_3[4]_-_U-18_Knew_It_[640x480][DTV][F-B][1FC34C04].avi
 !new/[TV_Series_2003]_Black_Jack_Special/Black_Jack_Special_-_4[4]_-_Just_Like_a_Pearl_[640x480][DTV][F-B][77A5467E].avi
-!new/[TV_Series_2003]_Cinderella_Boy/Cinderella_Boy_-_01[13]_-_A_Fable_Of_A_Never_Sleeping_Town_[640x480][DTV][Inf&AF-F][64274C97].avi
-!new/[TV_Series_2003]_Cinderella_Boy/Cinderella_Boy_-_02[13]_-_The_Fairy_In_The_Back_Alley_[640x480][DTV][Inf&AF-F][08CF8398].avi
-!new/[TV_Series_2003]_Cinderella_Boy/Cinderella_Boy_-_03[13]_-_A_Sweet_Trap_In_The_Toy_Country_[640x480][DTV][Inf&AF-F][123A2A53].avi
-!new/[TV_Series_2003]_Cinderella_Boy/Cinderella_Boy_-_04[13]_-_The_Sea_Where_The_Beauty_And_The_Beast_Play_[640x480][DTV][Inf&AF-F][FE8C295E].avi
-!new/[TV_Series_2003]_Cinderella_Boy/Cinderella_Boy_-_05[13]_-_Countdown_Of_The_Poisoned_Apple_[640x480][DTV][Inf&AF-F][304C5665].avi
-!new/[TV_Series_2003]_Cinderella_Boy/Cinderella_Boy_-_06[13]_-_How_To_Cook_Three_Little_Pigs_[640x480][DTV][Inf&AF-F][8485991E].avi
-!new/[TV_Series_2003]_Cinderella_Boy/Cinderella_Boy_-_07[13]_-_Once_Upon_A_Time,_In_A_Dirty_Town_[640x480][DTV][Inf&AF-F][C5B47D5A].avi
-!new/[TV_Series_2003]_Cinderella_Boy/Cinderella_Boy_-_08[13]_-_Angel_in_a_Golden_Country_[640x480][DTV][Inf&AF-F][55E55FB5].avi
-!new/[TV_Series_2003]_Cinderella_Boy/Cinderella_Boy_-_09[13]_-_A_Bouquet_for_the_Killer_Angel_[640x480][DTV][Inf&AF-F][D0BE2522].avi
-!new/[TV_Series_2003]_Cinderella_Boy/Cinderella_Boy_-_10[13]_-_A_Lying_Red_Riding_Hood_and_an_Honest_Wolf_[640x480][DTV][Inf&AF-F][C2A82C83].avi
-!new/[TV_Series_2003]_Cinderella_Boy/Cinderella_Boy_-_11[13]_-_The_Lost_Magician_[640x480][DTV][Inf&AF-F][E3E9F9FF].avi
-!new/[TV_Series_2003]_Cinderella_Boy/Cinderella_Boy_-_12[13]_-_Who_Has_The_Blue_Bird__[640x480][DTV][Inf&AF-F][F5C10542].avi
-!new/[TV_Series_2003]_Cinderella_Boy/Cinderella_Boy_-_13[13]_-_Cinderella_Does_Not_Sleep_[640x480][DTV][Inf&AF-F][CE484F01].avi
-!new/[TV_Series_2005]_Damekko_Doubutsu/Damekko_Doubutsu_-_01[26]_-_Uruno_Comes_to_the_Forest!_[640x480][DTV][RyRo][80A39A73].avi
-!new/[TV_Series_2005]_Damekko_Doubutsu/Damekko_Doubutsu_-_02[26]_-_The_Moon,_Dried_Squid_and_Unicorn_[640x480][DTV][RyRo][D67DB3FA].avi
-!new/[TV_Series_2005]_Damekko_Doubutsu/Damekko_Doubutsu_-_03[26]_-_The_Bear_Siblings_[640x480][DTV][RyRo][A172ED26].avi
-!new/[TV_Series_2005]_Damekko_Doubutsu/Damekko_Doubutsu_-_04[26]_-_Cornering,_Being_Cornered,_White_Clover_[640x480][DTV][RyRo][5FA7C0A1].avi
-!new/[TV_Series_2005]_Damekko_Doubutsu/Damekko_Doubutsu_-_05[26]_-_The_Black_Demon_at_the_Edge_of_the_Forest_[640x480][DTV][RyRo][D19798F2].avi
-!new/[TV_Series_2005]_Damekko_Doubutsu/Damekko_Doubutsu_-_06[26]_-_The_First_Friend_[640x480][DTV][RyRo][9EA77851].avi
-!new/[TV_Series_2005]_Damekko_Doubutsu/Damekko_Doubutsu_-_07[26]_-_The_Green_Tragedy_[640x480][DTV][RyRo][7BE49E60].avi
-!new/[TV_Series_2005]_Damekko_Doubutsu/Damekko_Doubutsu_-_08[26]_-_The_Talented_Youngster_and_the_Family_of_Cat_Girls_[640x480][DTV][RyRo][368B53B9].avi
-!new/[TV_Series_2005]_Damekko_Doubutsu/Damekko_Doubutsu_-_09[26]_-_A_Really_Small_Happiness_[640x480][DTV][RyRo][B9534BD6].avi
-!new/[TV_Series_2005]_Damekko_Doubutsu/Damekko_Doubutsu_-_10[26]_-_Useless_God,_Please!_[640x480][DTV][RyRo][BCE2211C].avi
-!new/[TV_Series_2005]_Damekko_Doubutsu/Damekko_Doubutsu_-_11[26]_-_Swim!_Sakamata-kun_[640x480][DTV][RyRo][4819A375].avi
-!new/[TV_Series_2005]_Damekko_Doubutsu/Damekko_Doubutsu_-_12[26]_-_The_Midsummer_Night_s_Dare_[640x480][DTV][RyRo][F1DB7969].avi
-!new/[TV_Series_2005]_Damekko_Doubutsu/Damekko_Doubutsu_-_13[26]_-_The_Useless_God_Gets_Angry!_[640x480][DTV][RyRo][9F66607B].avi
-!new/[TV_Series_2005]_Damekko_Doubutsu/Damekko_Doubutsu_-_14[26]_-_Indeed,_It_Really_Happened._A_Story_I_Made_up_Just_Now_[640x480][DTV][RyRo][F8AFBE45].avi
-!new/[TV_Series_2005]_Damekko_Doubutsu/Damekko_Doubutsu_-_15[26]_-_A_Change_Will_Come_One_Day..._Right__[640x480][DTV][RyRo][A06AAF00].avi
-!new/[TV_Series_2005]_Damekko_Doubutsu/Damekko_Doubutsu_-_16[26]_-_Caught_at_the_Susuki_Field_[640x480][DTV][RyRo][D962D28F].avi
-!new/[TV_Series_2005]_Damekko_Doubutsu/Damekko_Doubutsu_-_17[26]_-_Lovey_Dovey_Horse_Hotspring_[640x480][DTV][RyRo][5977EE61].avi
-!new/[TV_Series_2005]_Damekko_Doubutsu/Damekko_Doubutsu_-_18[26]_-_Usahara_s_Depression_[640x480][DTV][RyRo][04C1658B].avi
-!new/[TV_Series_2005]_Damekko_Doubutsu/Damekko_Doubutsu_-_19[26]_-_Let_Me_Join_Your_Group_Of_Friends_[640x480][DTV][RyRo][CD6C5B35].avi
-!new/[TV_Series_2005]_Damekko_Doubutsu/Damekko_Doubutsu_-_20[26]_-_Playing_alone_on_long_autumn_night_[640x480][DTV][RyRo][7EB4253D].avi
-!new/[TV_Series_2005]_Damekko_Doubutsu/Damekko_Doubutsu_-_21[26]_-_Useless_suspense_theater__who_is_a_criminal__[640x480][DTV][RyRo][A8227D7A].avi
-!new/[TV_Series_2005]_Damekko_Doubutsu/Damekko_Doubutsu_-_22[26]_-_Christmas__miracle_[640x480][DTV][RyRo][32EB4721].avi
-!new/[TV_Series_2005]_Damekko_Doubutsu/Damekko_Doubutsu_-_23[26]_-_The_Rolly_Polly_New_Year_[640x480][DTV][RyRo][46384CAF].avi
-!new/[TV_Series_2005]_Damekko_Doubutsu/Damekko_Doubutsu_-_24[26]_-_The_Flames_of_Jealousy_Are_Flaring_Up_[640x480][DTV][RyRo][723799FB].avi
-!new/[TV_Series_2005]_Damekko_Doubutsu/Damekko_Doubutsu_-_25[26]_-_Surprise!_Curer_of_Uselessness-sama_[640x480][DTV][RyRo][EE099D4A].avi
-!new/[TV_Series_2005]_Damekko_Doubutsu/Damekko_Doubutsu_-_26[26]_-_Good_bye,_Uruno-kun_[640x480][DTV][RyRo][08820CAA].avi
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_01[49]_-_A_surprising_Reunion!_We_are..._Who,_exactly!__[640x480][DVD][PCSS][012996D3].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_02[49]_-_The_Panpaka_Welcome_Wagon_is_a_Storm_of_Premonition!_[640x480][DVD][PCSS][DC881F1F].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_03[49]_-_Frontal_Victory!_You_re_the_Ace_for_sure!!_[640x480][DVD][PCSS][F2E1D739].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_04[49]_-_Lies!_The_Scenery_of_Spring_and_the_Sound_of_Locusts_[640x480][DVD][PCSS][F00AA2AE].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_05[49]_-_What_would_Kenta_do__Saki_and_her_Lovely_Brother_[640x480][DVD][PCSS][4BC7233A].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_06[49]_-_Simply_the_Best!_My_Sexy_Father!!_[640x480][DVD][PCSS][82D23CFA].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_07[49]_-_Oh,_Really!_The_Wrath_of_Currihan!_[640x480][DVD][PCSS][7E52E57A].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_08[49]_-_I_Love_You!_Minori_and_her_Two_Big_Sisters_[640x480][DVD][PCSS][AE0F9D35].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_09[49]_-_It_s_a_Hopeless_Mistake_to_Interfere_With_the_Recital!_[640x480][DVD][PCSS][E37EC1B0].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_10[49]_-_Occasional_Danger__On_Top_of_the_Sea_is_a_Great_Marsh!_[640x480][DVD][PCSS][A9E6FB74].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_11[49]_-_Flappy_s_Tottering_into_Big_Danger!_[640x480][DVD][PCSS][291106D2].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_12[49]_-_Is_Choppy__chopi_-ing_Homesick__[640x480][DVD][PCSS][663D3ECA].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_13[49]_-_I_Like_Hot!_Moerunba_Dance!_[640x480][DVD][PCSS][930DE4C8].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_14[49]_-_The_Riddle_of_the_Exchange_Student!_Michiru_and_Kaoru_s_Conversation_[640x480][DVD][PCSS][63A7185C].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_15[49]_-_Softball_is_the_Bond_between_Mother_and_Daughter_[640x480][DVD][PCSS][A6BB4F30].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_16[49]_-_Dreams,_Hope,_and_Kenta_s_Trouble_[640x480][DVD][PCSS][9338354B].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_17[49]_-_The_Broken_Haniwa!_What_can_Mai_and_Mom_Do_About_It_[640x480][DVD][PCSS][5FA4806F].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_18[49]_-_Today_s_Special_Sale!_Michiru_and_Kaoru_Help!__[640x480][DVD][PCSS][4A495122].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_19[49]_-_What_is_the_Most_Important_Thing__Saki_and_Mai_s_Desire_[640x480][DVD][PCSS][F9948638].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_20[49]_-_Singing_in_the_Rain_is_Dorodoron!_[640x480][DVD][PCSS][4CA53829].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_21[49]_-_Shine_in_the_Night_Sky!_A_Starlit_Circle_of_Friends_[640x480][DVD][PCSS][7C71D27F].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_22[49]_-_The_Big_Surprise!_Michiru_and_Kaoru_s_Shocking_Confession!!_[640x480][DVD][PCSS][3BF745F8].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_23[49]_-_Couples__Showdown!_The_Menace_of_the_Great_Evil_Kahn_[640x480][DVD][PCSS][4C8EBBC6].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_24[49]_-_Moop_and_Foop_Appear!_Who__[640x480][DVD][PCSS][49343682].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_25[49]_-_A_Rush_of_Business!_The_Maid_in_the_House_by_the_Sea_[640x480][DVD][PCSS][2BDBDDEF].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_26[49]_-_Saki_Holds_a_Secret!_Summer_Training_Camp_of_Heart-Pounding_Love!_[640x480][DVD][PCSS][BED132F0].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_27[49]_-_I_Love_Everyone!_Memories_of_the_Summer_Festival_[640x480][DVD][PCSS][E4D16C29].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_28[49]_-_It_s_a_Journey!_It_s_a_Railroad!_Our_Big_Adventure!_[640x480][DVD][PCSS][FEA6ECDA].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_29[49]_-_Flappy_and_Choppy_s_desperate_situation!_[640x480][DVD][PCSS][CAB63DC9].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_30[49]_-_Miraculous_Power!_Pretty_Cure_Super_Transformation!_[640x480][DVD][PCSS][604F1377].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_31[49]_-_A_Serious_Conclusion__Who_is_Kenta_s_Partner_!_[640x480][DVD][PCSS][6DBFBB39].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_32[49]_-_Too_difficult!_Ms._Shitatare_s_Homework_[640x480][DVD][PCSS][5A8C57C2].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_33[49]_-_Muscle_full_throttle_Kintresky_appears!_[640x480][DVD][PCSS][2AB0F19B].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_34[49]_-_Moon-viewing_meeting_is_the_smell_of_romance_[640x480][DVD][PCSS][29DF09FF].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_35[49]_-_Now_s_the_final_round!_Fight,_Nagichuu_sofball_club!_[640x480][DVD][PCSS][880FB7B2].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_36[49]_-_What_will_Mai_do__Mai_s_distress_and_culture_festival_[640x480][DVD][PCSS][F1702BE8].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_37[49]_-_Everyone_is_comrades!_Jump_to_tomorrow!_[640x480][DVD][PCSS][84CA2498].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_38[49]_-_Idol_has_born,_Hyuuga_Saki!_Really!__[640x480][DVD][PCSS][1456CA13].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_39[49]_-_The_great_rebellion_of_the_rare_animals,_Miminga!__[640x480][DVD][PCSS][FB6F35B8].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_40[49]_-_You_re_noisy!_Kintresky_and_birthday_[640x480][DVD][PCSS][E6BE1A30].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_41[49]_-_Princess_is_in_danger!_The_stolen_carafe!!_[640x480][DVD][PCSS][FC902ADB].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_42[49]_-_Welcome_back!_Michiru_and_Kaoru!!_[640x480][DVD][PCSS][E405A9BA].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_43[49]_-_It_s_not_a_dream!_One_day_that_has_everyone_[640x480][DVD][PCSS][F75F006C].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_44[49]_-_These_two_will_disappear__Painful_Michiru_and_Kaoru_[640x480][DVD][PCSS][D15D25EF].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_45[49]_-_Cake,_Kazuya_and_Christmas!_[640x480][DVD][PCSS][007F1103].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_46[49]_-_Counterattack!_Akudaikaan_s_menace_power!_[640x480][DVD][PCSS][CB1A1E7E].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_47[49]_-_Big_reversal!_The_black_curtain_is_who__[640x480][DVD][PCSS][2BB78045].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_48[49]_-_The_last_decisive_battle!_The_stolen_Land_of_Greenery!_[640x480][DVD][PCSS][9E4B5341].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_49[49]_-_Reach_to_the_top!_We_re_forever_friends_of_the_starry_sky!_[640x480][DVD][PCSS][59294F55].mkv
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_C1[49]_-_Opening_1_[640x480][DVD][RAW][PreCure][22711B64].avi
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_C2[49]_-_Ending_1_[640x480][DVD][RAW][PreCure][D49426C3].avi
-!new/[TV_Series_2006-2007]_Futari_wa_Precure__Splash_Star/Futari_wa_Precure__Splash_Star_-_C3[49]_-_Opening_2_[640x480][DVD][RAW][PreCure][F3B59AA3].avi
-!new/[TV_Series_2008]_Crystal_Blaze/Crystal_Blaze_-_01[12]_-_Episode_1_[704x400][DTV][AniYoshi][C6D45AE8].mkv
-!new/[TV_Series_2008]_Crystal_Blaze/Crystal_Blaze_-_02[12]_-_Episode_2_[704x400][DTV][AniYoshi][4F80BB82].mkv
-!new/[TV_Series_2008]_Crystal_Blaze/Crystal_Blaze_-_03[12]_-_Episode_3_[704x400][DTV][AniYoshi][2A02C30E].mkv
-!new/[TV_Series_2008]_Crystal_Blaze/Crystal_Blaze_-_04[12]_-_Episode_4_[704x400][DTV][AniYoshi][FAE91DF1].mkv
-!new/[TV_Series_2008]_Crystal_Blaze/Crystal_Blaze_-_05[12]_-_Episode_5_[704x400][DTV][Hitode-AnimeSS][6834256E].mkv
-!new/[TV_Series_2008]_Crystal_Blaze/Crystal_Blaze_-_06[12]_-_Episode_6_[704x400][DTV][Hitode-AnimeSS][A530619F].mkv
-!new/[TV_Series_2008]_Crystal_Blaze/Crystal_Blaze_-_07[12]_-_Episode_7_[704x400][DTV][Hitode-AnimeSS][8171868C].mkv
-!new/[TV_Series_2008]_Crystal_Blaze/Crystal_Blaze_-_08[12]_-_Episode_8_[704x400][DTV][Hitode-AnimeSS][227E4E3B].mkv
-!new/[TV_Series_2008]_Crystal_Blaze/Crystal_Blaze_-_09[12]_-_Episode_9_[704x400][DTV][Hitode-AnimeSS][81CE819B].mkv
-!new/[TV_Series_2008]_Crystal_Blaze/Crystal_Blaze_-_10[12]_-_Episode_10_[704x400][DTV][Hitode-AnimeSS][E629A061].mkv
-!new/[TV_Series_2008]_Crystal_Blaze/Crystal_Blaze_-_11[12]_-_Episode_11_[704x400][DTV][Hitode][B68BB3AC].mkv
-!new/[TV_Series_2008]_Crystal_Blaze/Crystal_Blaze_-_12[12]_-_Episode_12_[704x400][DTV][Hitode][34A70FB2].mkv
-!new/[UTW]_C3_Cube_x_Cursed_x_Curious_-_05_[h264-720p][80926A9C].mkv
-!new/[UTW]_Fate_Zero_-_05_[h264-720p][0F358C5F].mkv
-!new/[gg]_Ben-to_-_04_[107D4985].mkv
-!new/[gg]_Mawaru_Penguindrum_-_16_[49CA1079].mkv
-!new/[iSiscon]_Sphere_-_Shinryaku!_Ika_Musume_S2_OP_Single_-_HIGH_POWERED_[w_scans]_(FLAC).rar
+!new/bingung/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
+!new/bingung/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
+!new/bingung/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
+!new/bingung/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].avi
+!new/bingung/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_03[13]_-_Episode_3_[704x396][DVD][RAW][53346896].avi
+!new/bingung/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_04[13]_-_Episode_4_[704x396][DVD][RAW][785E18CA].avi
+!new/bingung/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_05[13]_-_Episode_5_[704x396][DVD][RAW][211D0599].avi
+!new/bingung/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_06[13]_-_Episode_6_[704x396][DVD][RAW][22EEE90C].avi
+!new/bingung/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_07[13]_-_Episode_7_[704x396][DVD][RAW][7AB83928].avi
+!new/bingung/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_08[13]_-_Episode_8_[704x396][DVD][RAW][DA425A81].avi
+!new/bingung/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_09[13]_-_Episode_9_[704x396][DVD][RAW][D957A62C].avi
+!new/bingung/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_10[13]_-_Episode_10_[704x396][DVD][RAW][AF92FE74].avi
+!new/bingung/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
+!new/bingung/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
+!new/bingung/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -1484,7 +1376,6 @@
 !new/bla/zx.black.heaven.12.sub.rar
 !new/bla/zx.black.heaven.13.dub.avi
 !new/bla/zx.black.heaven.13.sub.rar
-!new/haganai04patch.zip
 !new/hdp2/Princess Lover!/[polished] Princess Love! Maiden's Secret 01 [BD 1080][DDEF29F7].mkv
 !new/hdp2/Princess Lover!/[polished] Princess Love! Maiden's Secret 02 [BD 1080][EA90E7E1].mkv
 !new/hdp2/Princess Lover!/[polished] Princess Love! Maiden's Secret 03 [BD 1080][5E950AF0].mkv
