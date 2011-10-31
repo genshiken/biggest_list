@@ -714,7 +714,6 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[EG]Turn-A_Gundam_Movie_II_1080p(BD).mkv
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_01[14]_-_The_Four_Knights_vs._The_Evil_Knights_[640x480][VFS][30D79E77].avi
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_02[14]_-_The_Land_of_Love_and_Hate_[640x480][VFS][28DAD91C].avi
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_03[14]_-_Burning_Red_Flame!_[640x480][VFS][48A8AB76].avi
@@ -1282,29 +1281,6 @@
 !new/hdp2/[T-N] Kamen Rider Blade Movie DC [5AB2B2DA] Release 2000.avi
 !new/hdp2/[T-N] Kamen Rider Blade vs blade [56183A18].avi
 !new/hdp2/[T-N]Kamen_Rider_Blade_01DVDver2[C40869EC].avi
-!new/isp/ANE-IS-Endings-lyrics-patches.zip
-!new/isp/ANE-IS-Eps-endings-lyrics-patches.zip
-!new/isp/CLICK ME.bat
-!new/isp/[ANE]_IS_-_Ep01_lyrics_fix.delta
-!new/isp/[ANE]_IS_-_Ep02_lyrics_fix.delta
-!new/isp/[ANE]_IS_-_Ep03_lyrics_fix.delta
-!new/isp/[ANE]_IS_-_Ep04_lyrics_fix.delta
-!new/isp/[ANE]_IS_-_Ep05_lyrics_fix.delta
-!new/isp/[ANE]_IS_-_Ep06_lyrics_fix.delta
-!new/isp/[ANE]_IS_-_Ep07_lyrics_fix.delta
-!new/isp/[ANE]_IS_-_Ep08_lyrics_fix.delta
-!new/isp/[ANE]_IS_-_Ep09_lyrics_fix.delta
-!new/isp/[ANE]_IS_-_Ep10_lyrics_fix.delta
-!new/isp/[ANE]_IS_-_NCED_1_lyrics_fix.delta
-!new/isp/[ANE]_IS_-_NCED_2_lyrics_fix.delta
-!new/isp/[ANE]_IS_-_NCED_3_lyrics_fix.delta
-!new/isp/[ANE]_IS_-_NCED_4_lyrics_fix.delta
-!new/isp/[ANE]_IS_-_NCED_5_lyrics_fix.delta
-!new/isp/md5 of patched endings.md5
-!new/isp/md5 of patched episodes.md5
-!new/isp/md5 of unpatched endings.md5
-!new/isp/md5 of unpatched episodes.md5
-!new/isp/xdelta.exe
 !new/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/lama/[Ayako] Weiﬂ Survive R - 01 - H264 - E975A989.mkv
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
