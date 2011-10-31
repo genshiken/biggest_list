@@ -1,6 +1,8 @@
 !new/.broken/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.mkv
 !new/.broken/[Chiki-Subs]_Mayo_Chiki_-_01v2_(1280x720_H.264.AAC)_[45704136].mkv
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
+!new/ANE-IS-Endings-lyrics-patches.zip
+!new/ANE-IS-Eps-endings-lyrics-patches.zip
 !new/Bluray Gallery.zip
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
@@ -717,6 +719,7 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
 !new/[ASL]_Tomodachi_Tsukuritai_-_Boku_wa_Tomodachi_ga_Sukunai_OP_-_Zannenkei_Rinjinbu_[FLAC].rar
 !new/[Ayako]_Jewelpet_Sunshine_-_05_[H264][720p][9636F895].mkv
+!new/[Ayako]_Jewelpet_Sunshine_-_06_[H264][720p][E3357E7A].mkv
 !new/[Ayako]_Mayo_Chiki_-_13v2_[H264][720p]_[B11A83FE].mkv
 !new/[Chibiki]_THE_iDOLM@STER_-_17_[720p][4103F6C6].mkv
 !new/[Commie] Chihayafuru - 04 [27325CAD].mkv
@@ -725,16 +728,26 @@
 !new/[Commie] Macross Frontier the Movie ~Sayonara no Tsubasa~ [BD 1080p AAC] [66AE8F11].mkv
 !new/[Commie] Persona 4 - 04 [133B8B70].mkv
 !new/[Commie] Shakugan no Shana III - 04 [BCAD3D73].mkv
+!new/[DmonHiro] Rio - Rainbow Gate 07 (BD, 720p, AAC) [1DD7883E].mkv
+!new/[DmonHiro] Rio - Rainbow Gate 08 (BD, 720p, AAC) [0F034BEC].mkv
+!new/[DmonHiro] Rio - Rainbow Gate 09 (BD, 720p, AAC) [BBA20CF7].mkv
+!new/[DmonHiro] Rio - Rainbow Gate 10 (BD, 720p, AAC) [D054EFFA].mkv
+!new/[DmonHiro] Rio - Rainbow Gate 11 (BD, 720p, AAC) [ADDA8CA4].mkv
+!new/[DmonHiro] Rio - Rainbow Gate 12 (BD, 720p, AAC) [AE820BF1].mkv
+!new/[DmonHiro] Rio - Rainbow Gate 13 (BD, 720p, AAC) [638A8FF0].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.35.[1280x720].v2.[2773BB68].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.36.[1280x720].v2.[1560A5A2].mkv
 !new/[EG]Turn-A_Gundam_Movie_II_1080p(BD).mkv
 !new/[GotWoot]_Bakuman_2_-_04_[10bit][8816C4D7].mkv
+!new/[Hiryuu] Freezing 11 [BD 1920x1080 H264 FLAC] [14787537].mkv
 !new/[Hiryuu] Maken-Ki! 04 [Hi10P 1280x720 H264] [D6466060].mkv
 !new/[HorribleSubs] Beelzebub - 40 [720p].mkv
 !new/[HorribleSubs] Bleach - 345 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 42 [720p].mkv
 !new/[HorribleSubs] Chihayafuru - 04 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 103 [720p].mkv
+!new/[HorribleSubs] Hunter X Hunter - 05 [720p].mkv
+!new/[HorribleSubs] Majikoi~Oh! Samurai Girls - 04 [720p].mkv
 !new/[HorribleSubs] Moritasan wa Mukuchi - 17 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 234 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 30 [720p].mkv
@@ -743,7 +756,23 @@
 !new/[Jumonji-Giri]_[Avalon&AQS]_To_Heart_2_Ep13_(a18efe24).mkv
 !new/[Jumonji-Giri]_[Avalon&AQS]_To_Heart_2_NCED_(d429cdf4).mkv
 !new/[Jumonji-Giri]_[Avalon&AQS]_To_Heart_2_NCOP_(de07df14).mkv
+!new/[Nipponsei] Baka to Test to Shoukanjuu Ni! Kikaku Single 2.zip
+!new/[Nipponsei] Baka to Test to Shoukanjuu Ni! Kinoshita Hideyoshi Only Mini Album.zip
+!new/[Nipponsei] Bakuman 2 ED Single - monochrome rainbow [Tommy heavenly6].zip
+!new/[Nipponsei] Beelzebub OP4 Single - Baby U! [MBLAQ].zip
+!new/[Nipponsei] Boku wa Tomodachi ga Sukunai OP Single - Zannenkei Rijinbu Hoshi Futatsuhan [Tomodachi Tsukuri Tai].zip
+!new/[Nipponsei] Cardfight!! Vanguard ED4 Single - Starting Again [Sasaki Sayaka].zip
+!new/[Nipponsei] Denpa Onna to Seishun Otoko Original Soundtrack Vol.2.zip
+!new/[Nipponsei] Mashiroiro Symphony OP Single - Authentic symphony [Choucho].zip
+!new/[Nipponsei] Mirai Nikki OP Single - Kuusou Mesorogiwi [Yousei Teikoku].zip
+!new/[Nipponsei] Nichijou Character Song 7 - Sasahara Koujirou [Kawahara Yoshihisa].zip
+!new/[Nipponsei] Nichijou Character Song 8 - Tachibana Misato [Horikawa Chika].zip
+!new/[Nipponsei] Nichijou no Gasshou Kyoku.zip
+!new/[Nipponsei] Nurarihyon no Mago Sennen Makyou ED2 Single - Departure [Various].zip
+!new/[Nipponsei] Sacred Seven Original Soundtrack.zip
+!new/[Nipponsei] Sekaiichi Hatsukoi 2 OP Single - Sekai no Hate ni Kimi ga Ite mo [Kita Shuuhei].zip
 !new/[Nipponsei] Shinryaku! Ika Musume 2 OP Single - HIGH POWERED [Sphere].zip
+!new/[Nipponsei] Tamayura ~hitotose~ ED Single - Kami-sama no Itazura [Nakajima Megumi].zip
 !new/[Nipponsei] Tamayura ~hitotose~ OP Single - Okaerinasai [Sakamoto Maaya].zip
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_01[14]_-_The_Four_Knights_vs._The_Evil_Knights_[640x480][VFS][30D79E77].avi
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_02[14]_-_The_Land_of_Love_and_Hate_[640x480][VFS][28DAD91C].avi
@@ -1350,6 +1379,9 @@
 !new/[TV_Series_2008]_Crystal_Blaze/Crystal_Blaze_-_10[12]_-_Episode_10_[704x400][DTV][Hitode-AnimeSS][E629A061].mkv
 !new/[TV_Series_2008]_Crystal_Blaze/Crystal_Blaze_-_11[12]_-_Episode_11_[704x400][DTV][Hitode][B68BB3AC].mkv
 !new/[TV_Series_2008]_Crystal_Blaze/Crystal_Blaze_-_12[12]_-_Episode_12_[704x400][DTV][Hitode][34A70FB2].mkv
+!new/[UTW]_C3_Cube_x_Cursed_x_Curious_-_05_[h264-720p][80926A9C].mkv
+!new/[UTW]_Fate_Zero_-_05_[h264-720p][0F358C5F].mkv
+!new/[gg]_Ben-to_-_04_[107D4985].mkv
 !new/[gg]_Mawaru_Penguindrum_-_16_[49CA1079].mkv
 !new/[iSiscon]_Sphere_-_Shinryaku!_Ika_Musume_S2_OP_Single_-_HIGH_POWERED_[w_scans]_(FLAC).rar
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
