@@ -719,16 +719,25 @@
 !new/[ASL]_Rita_-_Oniuta_Bonus_CD_-_Onigoto_[FLAC]_[w_Scans].rar
 !new/[ASL]_Tainaka_Sachi_-_Fate_Stay_Night_OP_Single_-_disillusion_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Hitohira_OP_ED_Single_-_Yume_Hitohira_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Oniuta_Original_Soundtrack_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Pure2_-Ultimate_Cool_Japan_Jazz-_[FLAC]_[w_Scans].rar
 !new/[Ayako]_Kaibutsu_Oujo_-_Princess_Resurrection_-_OAV_-_03_[DVD][H264][E9271E7F].mkv
+!new/[Commie] Usagi Drop - 02.5 [BD 720p AAC] [81B18F97].mkv
 !new/[FroZen-EviL]_Yawara_-_60_[DVD][B4840306].mkv
 !new/[FroZen-EviL]_Yawara_-_61_[DVD][6B1A9801].mkv
 !new/[FroZen-EviL]_Yawara_-_62_[DVD][3D28BFE0].mkv
 !new/[FroZen-EviL]_Yawara_-_64_[DVD][98A38BC4].mkv
 !new/[FroZen-EviL]_Yawara_-_65_[DVD][3476C366].mkv
 !new/[GotSpeed]_Mirai_Nikki_-_04_[56837AE6].mkv
+!new/[Hiryuu] Freezing 09 [BD 1280x720 H264 AAC] [EEEA45F7].mkv
+!new/[Hiryuu] Freezing 10 [BD 1280x720 H264 AAC] [66F112D6].mkv
 !new/[Hiryuu] Freezing 11 [BD 1280x720 H264 AAC] [1A9AD739].mkv
 !new/[Hiryuu] Freezing SP06 [BD 1280x720 H264 AAC] [DB8F3E2D].MKV
 !new/[Hiryuu] Maji de Watashi ni Koi Shinasai!! 05 [Hi10P 1280x720 H264] [6AC9A59E].mkv
+!new/[HorribleSubs] Kimi to Boku - 05 [720p].mkv
+!new/[HorribleSubs] Shinryaku Ika Musume S2 - 05 [720p].mkv
+!new/[Licca] Little Women II - Jo's Boys Episode 14 (h.264) [A35A3332].mkv
+!new/[Nutbladder]_Hidamari_Sketch_SP_-_01_[D0C77CD2].mkv
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_01[14]_-_The_Four_Knights_vs._The_Evil_Knights_[640x480][VFS][30D79E77].avi
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_02[14]_-_The_Land_of_Love_and_Hate_[640x480][VFS][28DAD91C].avi
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_03[14]_-_Burning_Red_Flame!_[640x480][VFS][48A8AB76].avi
@@ -745,6 +754,7 @@
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_14[14]_-_A_Piece_of_the_Sun!_[640x480][VFS][056C0147].avi
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_T1[14]_-_Promo_[640x480][RAW][VFS][B7B1C567].avi
 !new/[Over-Time]_Kamen_Rider_Fourze_-_09_[436E6BC0].mkv
+!new/[Over-Time]_Pirate_Sentai_Gokaiger_-_36_[2AEB8FC1].mkv
 !new/[SS-Eclipse] Shakugan no Shana Final - 04 (1280x720 Hi10P) [649BCB56].mkv
 !new/[SS] Mirai Nikki - 03 (1280x720 h264) [AF8F4922].mkv
 !new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_01v2[39]_-_Resurrection_of_Ideon_[640x480][Shin-Getter][2ED009EF].avi
