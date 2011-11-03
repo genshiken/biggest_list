@@ -802,22 +802,27 @@
 !new/[ASL]_Mizuho_-_FORTUNE_ARTERIAL_Image_Theme_Maxi_Single_-_It_s_my_precious_time_[FLAC]_[w_Scans].rar
 !new/[ASL]_Rita_-_Oniuta_Bonus_CD_-_Onigoto_[FLAC]_[w_Scans].rar
 !new/[ASL]_Sphere_-_Shinryaku_Ika_Musume_S2_OP_-_HIGH_POWERED_[EXTRA].rar
+!new/[ASL]_Sphere_-_Shinryaku_Ika_Musume_S2_OP_-_HIGH_POWERED_[FLAC]_[w_Scans].rar
 !new/[ASL]_Tainaka_Sachi_-_Fate_Stay_Night_OP_Single_-_disillusion_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Flame_Homura_Ar_tonelico_II_Hymmnos_Concert_Side_Crimson_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Hitohira_OP_ED_Single_-_Yume_Hitohira_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Love-Bride_Eve_Original_Soundtrack_and_Original_dorama_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Mayo_Chiki_Original_Soundtrack_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Nekogami_Yaoyorozu_Character_Song_Vol2_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Nekogami_Yaoyorozu_Character_Song_Vol3_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Oniuta_Original_Soundtrack_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Pure2_-Ultimate_Cool_Japan_Jazz-_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_RO-KYU-BU_Interval_1_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_SuGirly_Wish_Original_Soundtrack_[FLAC].rar
 !new/[ASL]_Various_Artists_-_Waterway_Mio_Ar_tonelico_II_Hymmnos_Concert_Side_Blue_[FLAC]_[w_Scans].rar
 !new/[Ayako]_Kaibutsu_Oujo_-_Princess_Resurrection_-_OAV_-_03_[DVD][H264][E9271E7F].mkv
+!new/[Ayako]_Kore_wa_Zombie_desu_ka_-_12_[BD][720p][H264][88527494].mkv
 !new/[Commie] Last Exile ~Fam, The Silver Wing~ - 03 [CAD4323D].mkv
 !new/[Commie] Mirai Nikki - 01 [55466DF0].mkv
 !new/[Commie] Mirai Nikki - 02 [7B01B1F6].mkv
 !new/[Commie] UN-GO - 03 [7B35AB88].mkv
 !new/[Commie] Usagi Drop - 02.5 [BD 720p AAC] [81B18F97].mkv
+!new/[Doremi-CureCom].Suite.PreCure!.37.[1280x720].[94460B97].mkv
 !new/[FroZen-EviL]_Yawara_-_60_[DVD][B4840306].mkv
 !new/[FroZen-EviL]_Yawara_-_61_[DVD][6B1A9801].mkv
 !new/[FroZen-EviL]_Yawara_-_62_[DVD][3D28BFE0].mkv
@@ -832,7 +837,9 @@
 !new/[Hiryuu] Maji de Watashi ni Koi Shinasai!! 05 [Hi10P 1280x720 H264] [6AC9A59E].mkv
 !new/[HorribleSubs] Bleach - 346 [720p].mkv
 !new/[HorribleSubs] Chihayafuru - 05 [720p].mkv
+!new/[HorribleSubs] Gintama - 232 [720p].mkv
 !new/[HorribleSubs] Kimi to Boku - 05 [720p].mkv
+!new/[HorribleSubs] Moritasan wa Mukuchi - 18 [720p].mkv
 !new/[HorribleSubs] Shinryaku Ika Musume S2 - 05 [720p].mkv
 !new/[Licca] Little Women II - Jo's Boys Episode 14 (h.264) [A35A3332].mkv
 !new/[Nipponsei] A Channel Insert Songs 6.zip
