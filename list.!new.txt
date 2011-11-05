@@ -819,12 +819,14 @@
 !new/[ASL]_Various_Artists_-_midori_no_umi_ORIGINAL_SOUND_TRACK_[FLAC].rar
 !new/[Ayako]_Kaibutsu_Oujo_-_Princess_Resurrection_-_OAV_-_03_[DVD][H264][E9271E7F].mkv
 !new/[Ayako]_Kore_wa_Zombie_desu_ka_-_12_[BD][720p][H264][88527494].mkv
+!new/[Chibiki]_THE_iDOLM@STER_-_18_[720p][212D3F2A].mkv
 !new/[Commie] Guilty Crown - 04 [D917AC8F].mkv
 !new/[Commie] Kyoukai Senjou no Horizon - 05 [860BE294].mkv
 !new/[Commie] Last Exile ~Fam, The Silver Wing~ - 03 [CAD4323D].mkv
 !new/[Commie] Mirai Nikki - 01 [55466DF0].mkv
 !new/[Commie] Mirai Nikki - 02 [7B01B1F6].mkv
 !new/[Commie] Persona 4 - 05 [74B5FF2B].mkv
+!new/[Commie] Shakugan no Shana III - 05 [3AE17439].mkv
 !new/[Commie] UN-GO - 03 [7B35AB88].mkv
 !new/[Commie] Usagi Drop - 02.5 [BD 720p AAC] [81B18F97].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.37.[1280x720].[94460B97].mkv
@@ -842,6 +844,7 @@
 !new/[Hiryuu] Maji de Watashi ni Koi Shinasai!! 05 [Hi10P 1280x720 H264] [6AC9A59E].mkv
 !new/[Hiryuu] Maken-Ki! 05 [Hi10P 1280x720 H264] [BC547625].mkv
 !new/[HorribleSubs] Bleach - 346 [720p].mkv
+!new/[HorribleSubs] Cardfight!! Vanguard - 43 [720p].mkv
 !new/[HorribleSubs] Chihayafuru - 05 [720p].mkv
 !new/[HorribleSubs] Gintama - 232 [720p].mkv
 !new/[HorribleSubs] Kimi to Boku - 05 [720p].mkv
@@ -1331,6 +1334,7 @@
 !new/[UTW]_Carnival_Phantasm_-_05_[BD][h264-1080p_FLAC][078E60EB].mkv
 !new/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 08 [DVD H264 640x480] [77AE3300].mkv
 !new/[gg]_Mawaru_Penguindrum_-_17_[0ED4AFC8].mkv
+!new/[sage]_Sekaiichi_Hatsukoi_2_-_05_[720p][10bit][3FDB700C].mkv
 !new/bingung/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/bingung/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/bingung/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
