@@ -781,15 +781,19 @@
 !new/[ASL]_Tainaka_Sachi_-_Fate_Stay_Night_OP_Single_-_disillusion_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Flame_Homura_Ar_tonelico_II_Hymmnos_Concert_Side_Crimson_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Hitohira_OP_ED_Single_-_Yume_Hitohira_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Koiiro_Soramoyou_after_happiness_and_extra_hearts_SPECIAL_MAXI_CD_[FLAC].rar
 !new/[ASL]_Various_Artists_-_Love-Bride_Eve_Original_Soundtrack_and_Original_dorama_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Maji_de_Watashi_ni_Koishinasai_Character_Song_[FLAC].rar
 !new/[ASL]_Various_Artists_-_Mayo_Chiki_Original_Soundtrack_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Nekogami_Yaoyorozu_Character_Song_Vol2_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Nekogami_Yaoyorozu_Character_Song_Vol3_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Nekonade_Distortion_Original_Soundtrack_[FLAC].rar
 !new/[ASL]_Various_Artists_-_Oniuta_Original_Soundtrack_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Princess_X_Boku_no_linazuke_wa_Monsterkko_Original_Soundtrack_CD_[FLAC].rar
 !new/[ASL]_Various_Artists_-_Pure2_-Ultimate_Cool_Japan_Jazz-_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_RO-KYU-BU_Interval_1_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_SuGirly_Wish_Original_Soundtrack_[FLAC].rar
+!new/[ASL]_Various_Artists_-_ToHeart2_COMPLETE_SOUNDTRACK_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Waterway_Mio_Ar_tonelico_II_Hymmnos_Concert_Side_Blue_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_midori_no_umi_ORIGINAL_SOUND_TRACK_[FLAC].rar
 !new/[Ayako]_Kaibutsu_Oujo_-_Princess_Resurrection_-_OAV_-_03_[DVD][H264][E9271E7F].mkv
@@ -821,6 +825,7 @@
 !new/[HorribleSubs] Bleach - 346 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 43 [720p].mkv
 !new/[HorribleSubs] Chihayafuru - 05 [720p].mkv
+!new/[HorribleSubs] Fairy Tail - 104 [720p].mkv
 !new/[HorribleSubs] Gintama - 232 [720p].mkv
 !new/[HorribleSubs] Kimi to Boku - 05 [720p].mkv
 !new/[HorribleSubs] Moritasan wa Mukuchi - 18 [720p].mkv
@@ -828,6 +833,8 @@
 !new/[HorribleSubs] SKET Dance - 31 [720p].mkv
 !new/[HorribleSubs] Shinryaku Ika Musume S2 - 05 [720p].mkv
 !new/[HorribleSubs] UN-GO - 04 [720p].mkv
+!new/[HorribleSubs] Working!! - 06 [720p].mkv
+!new/[Licca] Little Women II - Jo's Boys Episode 15 (h.264) [C49B2591].mkv
 !new/[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_05_[D4D567A1].mkv
 !new/[Nipponsei] A Channel Insert Songs 6.zip
 !new/[Nipponsei] Dog Days Original Soundtrack Vol.3.zip
@@ -856,6 +863,7 @@
 !new/[Shin-S] Maji de Watashi ni Koi Shinasai!! OP Single - U-n-d-e-r--STANDING! [SV TRIBE].zip
 !new/[Shin-S] UN-GO ED Single - Fantasy [LAMA].zip
 !new/[Shin-S] WORKING'!! OP & ED Single - COOLISH WALK [Various].zip
+!new/[SubDESU]_Manyuu_Hikenchou_03_(BD_1080p_x264_AAC)_[03B4C817].mkv
 !new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_01v2[39]_-_Resurrection_of_Ideon_[640x480][Shin-Getter][2ED009EF].avi
 !new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_02v2[39]_-_Destruction_of_New_Lopia_[720x540][Shin-Getter][C5062D30].avi
 !new/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_03[39]_-_Bursting_Earth_[640x480][Shin-Getter][7F5481B8].avi
