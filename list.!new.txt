@@ -799,6 +799,7 @@
 !new/[Ayako]_Kaibutsu_Oujo_-_Princess_Resurrection_-_OAV_-_03_[DVD][H264][E9271E7F].mkv
 !new/[Ayako]_Kore_wa_Zombie_desu_ka_-_12_[BD][720p][H264][88527494].mkv
 !new/[Chibiki]_THE_iDOLM@STER_-_18_[720p][212D3F2A].mkv
+!new/[Commie] Fate ⁄ Zero - 06 [7622898E].mkv
 !new/[Commie] Guilty Crown - 04 [D917AC8F].mkv
 !new/[Commie] Kyoukai Senjou no Horizon - 05 [860BE294].mkv
 !new/[Commie] Last Exile ~Fam, The Silver Wing~ - 03 [CAD4323D].mkv
@@ -822,12 +823,15 @@
 !new/[Hiryuu] Freezing SP06 [BD 1280x720 H264 AAC] [DB8F3E2D].MKV
 !new/[Hiryuu] Maji de Watashi ni Koi Shinasai!! 05 [Hi10P 1280x720 H264] [6AC9A59E].mkv
 !new/[Hiryuu] Maken-Ki! 05 [Hi10P 1280x720 H264] [BC547625].mkv
+!new/[HorribleSubs] Beelzebub - 41 [720p].mkv
 !new/[HorribleSubs] Bleach - 346 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 43 [720p].mkv
 !new/[HorribleSubs] Chihayafuru - 05 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 104 [720p].mkv
 !new/[HorribleSubs] Gintama - 232 [720p].mkv
+!new/[HorribleSubs] Hunter X Hunter - 06 [720p].mkv
 !new/[HorribleSubs] Kimi to Boku - 05 [720p].mkv
+!new/[HorribleSubs] Majikoi~Oh! Samurai Girls - 05 [720p].mkv
 !new/[HorribleSubs] Moritasan wa Mukuchi - 18 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 235 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 31 [720p].mkv
@@ -836,6 +840,7 @@
 !new/[HorribleSubs] Working!! - 06 [720p].mkv
 !new/[Licca] Little Women II - Jo's Boys Episode 15 (h.264) [C49B2591].mkv
 !new/[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_05_[D4D567A1].mkv
+!new/[Monokage]_Towa_no_Quon_-_2_[Blu-Ray][Hi10P][D1C37926].mkv
 !new/[Nipponsei] A Channel Insert Songs 6.zip
 !new/[Nipponsei] Dog Days Original Soundtrack Vol.3.zip
 !new/[Nipponsei] Nichijou BGM & Radio Bangumi 5.zip
@@ -857,6 +862,8 @@
 !new/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_T1[14]_-_Promo_[640x480][RAW][VFS][B7B1C567].avi
 !new/[Oyatsu] Mashiro Iro Symphony - 05 (1280x720 x264 AAC) [9135902F].mkv
 !new/[PM]Pocket_Monsters_-_Diamond&Pearl_ANA_Special_4_-_Pikachu's_Really_Mysterious_Adventure[SUB_720P_H264][55BA3B37].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_055_Go_Over_the_Rainbow!_A_Maracacchi_Musical!![H264_720P][4F99016E].mkv
+!new/[SFW-sage]_Bakuman_S2_-_06_[720p][Hi10P][770C2235].mkv
 !new/[Saizen_&_Shinsen-Subs]_Captain_Tsubasa_Road_to_2002_-_33_[DVD][23A629D6].mkv
 !new/[Shin-S] Ben-To ED Single - Egao no Housoku [Ise Mariya].zip
 !new/[Shin-S] Ben-To OP Single - LIVE for LIFE ~Ookami-tachi no Yoru~ [Aimi].zip
@@ -1315,7 +1322,9 @@
 !new/[TV_Series_1999]_Di_Gi_Charat/Di_Gi_Charat_-_S3[16]_-_Summer_Special_2000_Episode_3_-_The_Return_of_Abarenbou_[512x384][VHS][AC][B10C2F6A].avi
 !new/[TV_Series_1999]_Di_Gi_Charat/Di_Gi_Charat_-_S4[16]_-_Summer_Special_2000_Episode_4_-_Summer_Bug_[480x360][VHS][AC][73B99554].avi
 !new/[UTW]_Carnival_Phantasm_-_05_[BD][h264-1080p_FLAC][078E60EB].mkv
+!new/[UTW]_Fate_Zero_-_06_[h264-720p][B5995405].mkv
 !new/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 08 [DVD H264 640x480] [77AE3300].mkv
+!new/[gg]_Ben-to_-_05_[88652E6F].mkv
 !new/[gg]_Mawaru_Penguindrum_-_17_[0ED4AFC8].mkv
 !new/bingung/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/bingung/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
