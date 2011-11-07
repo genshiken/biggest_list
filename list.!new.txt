@@ -609,31 +609,6 @@
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].avi
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].idx
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].sub
-!new/Spiral/[ACX] Spiral - 01 [21E5D316].mkv
-!new/Spiral/[ACX] Spiral - 02 [51D4D526].mkv
-!new/Spiral/[ACX] Spiral - 03 [C37B2095].mkv
-!new/Spiral/[ACX] Spiral - 04 [731C9A64].mkv
-!new/Spiral/[ACX] Spiral - 05 [702A943E].mkv
-!new/Spiral/[ACX] Spiral - 06 [F1097105].mkv
-!new/Spiral/[ACX] Spiral - 07 [A58D9358].mkv
-!new/Spiral/[ACX] Spiral - 08 [277255B1].mkv
-!new/Spiral/[ACX] Spiral - 09 [CAEA54BF].mkv
-!new/Spiral/[ACX] Spiral - 10 [EB9F9EA3].mkv
-!new/Spiral/[ACX] Spiral - 11 [68DB6707].mkv
-!new/Spiral/[ACX] Spiral - 12 [A0323E98].mkv
-!new/Spiral/[ACX] Spiral - 13 [0D16BF58].mkv
-!new/Spiral/[ACX] Spiral - 14 [B797BC81].mkv
-!new/Spiral/[ACX] Spiral - 15 [6F2F55D7].mkv
-!new/Spiral/[ACX] Spiral - 16 [B3DA7072].mkv
-!new/Spiral/[ACX] Spiral - 17 [9201392F].mkv
-!new/Spiral/[ACX] Spiral - 18 [5056B55C].mkv
-!new/Spiral/[ACX] Spiral - 19 [950FC7B1].mkv
-!new/Spiral/[ACX] Spiral - 20 [E139E80C].mkv
-!new/Spiral/[ACX] Spiral - 21 [51C92B90].mkv
-!new/Spiral/[ACX] Spiral - 22 [5038BA1F].mkv
-!new/Spiral/[ACX] Spiral - 23 [F8CBB22A].mkv
-!new/Spiral/[ACX] Spiral - 24 [09CDB7B0].mkv
-!new/Spiral/[ACX] Spiral - 25 [End][975B56BD].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_01v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_02v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_03v2[divx5.1.1].mkv
