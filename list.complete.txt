@@ -4848,10 +4848,9 @@ complete/f/Freezing/[Hiryuu] Freezing - 05 [720p BD][CE8E5D1D].mkv
 complete/f/Freezing/[Hiryuu] Freezing - 06 [720p BD][1CF20ECE].mkv
 complete/f/Freezing/[Hiryuu] Freezing - 07 [720p BD][B52F0321].mkv
 complete/f/Freezing/[Hiryuu] Freezing - 08 [720p BD][5B8234FA].mkv
-complete/f/Freezing/[Hiryuu] Freezing - 11 [1080p BD][14787537].mkv
-complete/f/Freezing/[WhyNot] Freezing - 09 [Uncensored][6036557C].mkv
-complete/f/Freezing/[WhyNot] Freezing - 10 [v2 Uncensored][49626438].mkv
-complete/f/Freezing/[WhyNot] Freezing - 11 [Uncensored][3D1342E5].mkv
+complete/f/Freezing/[Hiryuu] Freezing - 09 [720p BD][EEEA45F7].mkv
+complete/f/Freezing/[Hiryuu] Freezing - 10 [720p BD][66F112D6].mkv
+complete/f/Freezing/[Hiryuu] Freezing - 11 [720p BD][1A9AD739].mkv
 complete/f/Freezing/[WhyNot] Freezing - 12 [End][Uncensored][896B166F].mkv
 complete/f/Fruits Basket/[a4e] Fruits Basket - 01 [CB1D1967].ogm
 complete/f/Fruits Basket/[a4e] Fruits Basket - 02 [B1148235].ogm
@@ -7764,6 +7763,14 @@ complete/h/Hunter X Hunter/[Z-Z] Hunter X Hunter - 59 [DVD][BCEDA08C].mkv
 complete/h/Hunter X Hunter/[Z-Z] Hunter X Hunter - 60 [DVD][4C5C4B60].mkv
 complete/h/Hunter X Hunter/[Z-Z] Hunter X Hunter - 61 [DVD][11353164].mkv
 complete/h/Hunter X Hunter/[Z-Z] Hunter X Hunter - 62 [End][DVD][0A17FDAA].mkv
+complete/h/Hunter x Hunter OVA/[AKU] Hunter x Hunter OVA - 1 [965C08F9].avi
+complete/h/Hunter x Hunter OVA/[AKU] Hunter x Hunter OVA - 2 [AAA05C69].avi
+complete/h/Hunter x Hunter OVA/[AKU] Hunter x Hunter OVA - 3 [B0F7451E].avi
+complete/h/Hunter x Hunter OVA/[AKU] Hunter x Hunter OVA - 4 [5DF63CE7].avi
+complete/h/Hunter x Hunter OVA/[AKU] Hunter x Hunter OVA - 5 [9A2AFF2F].avi
+complete/h/Hunter x Hunter OVA/[AKU] Hunter x Hunter OVA - 6 [4E4C2C98].avi
+complete/h/Hunter x Hunter OVA/[AKU] Hunter x Hunter OVA - 7 [B9CB745D].avi
+complete/h/Hunter x Hunter OVA/[AKU] Hunter x Hunter OVA - 8 [End][525C22FC].avi
 complete/h/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls - 01 [1080p BD][F1943524].mkv
 complete/h/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls - 02 [1080p BD][25901518].mkv
 complete/h/Hyakka Ryouran Samurai Girls/[Ryuumaru] Hyakka Ryouran Samurai Girls - 03 [1080p BD][54ACEF0D].mkv
@@ -10126,6 +10133,7 @@ complete/k/Kono Minikuku mo Utsukushii Sekai/[Hitsuji] Kono Minikuku mo Utsukush
 complete/k/Kono Minikuku mo Utsukushii Sekai/[Hitsuji] Kono Minikuku mo Utsukushii Sekai - Metamorphose PV [76D2ED10].mkv
 complete/k/Kono Minikuku mo Utsukushii Sekai/[Hitsuji] Kono Minikuku mo Utsukushii Sekai - Opening 1 [NC][01F1A8FA].mkv
 complete/k/Kono Minikuku mo Utsukushii Sekai/[Hitsuji] Kono Minikuku mo Utsukushii Sekai - Promo [46A32E1E].mkv
+complete/k/Kore wa Zombie desu ka/[Ayako] Kore wa Zombie desu ka - 12 [End][720p BD][88527494].mkv
 complete/k/Kore wa Zombie desu ka/[Underwater-Commie] Kore wa Zombie desu ka - 01 [720p][6F738DAB].mkv
 complete/k/Kore wa Zombie desu ka/[Underwater-Commie] Kore wa Zombie desu ka - 02 [720p][9843D9CB].mkv
 complete/k/Kore wa Zombie desu ka/[Underwater-Commie] Kore wa Zombie desu ka - 03 [720p][645A4DB6].mkv
@@ -20004,6 +20012,7 @@ complete/u/Umisho/[Ayu] Umisho - 12 [6AF5C7DD].mkv
 complete/u/Umisho/[Ayu] Umisho - 13 [End][9257F2C5].mkv
 complete/u/Usagi Drop/[Commie] Usagi Drop - 01 [654EB35F].mkv
 complete/u/Usagi Drop/[Commie] Usagi Drop - 02 [C929F4A4].mkv
+complete/u/Usagi Drop/[Commie] Usagi Drop - 02.5 [BD 720p][81B18F97].mkv
 complete/u/Usagi Drop/[Commie] Usagi Drop - 03 [C2C6D8D4].mkv
 complete/u/Usagi Drop/[Commie] Usagi Drop - 04 [A8083F5D].mkv
 complete/u/Usagi Drop/[Commie] Usagi Drop - 05 [CA9B8995].mkv
