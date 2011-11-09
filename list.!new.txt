@@ -697,9 +697,9 @@
 !new/[DmonHiro] A+Channel 12 (BD, 720, 10bit, AAC).mkv
 !new/[HorribleSubs] Bleach - 347 [720p].mkv
 !new/[HorribleSubs] Kimi to Boku - 06 [720p].mkv
-!new/[Licca] Lucy-May of the Southern Rainbow Episode 01 (h.264-Hi10P) [6A54FF23].mkv
-!new/[Licca] Porphy no Nagai Tabi Episode 01 (h.264-Hi10P) [2177FA19].mkv
-!new/[Licca] The Alps Story - My Annette Episode 01 (h.264-Hi10P) [50E81206].mkv
+!new/[Licca] Lucy-May of the Southern Rainbow - 01 [6A54FF23].mkv
+!new/[Licca] Porphy no Nagai Tabi - 01 [2177FA19].mkv
+!new/[Licca] The Alps Story - My Annette - 01 [50E81206].mkv
 !new/[Nipponsei] Hourou Musuko Original Soundtrack.zip
 !new/[Nutbladder]_Hidamari_Sketch_SP_-_02_[BC86F084].mkv
 !new/[Over-Time]_Pirate_Sentai_Gokaiger_-_37_[F2FD905B].mkv
