@@ -680,7 +680,6 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[ASL]_Various_Artists_-_Songs_from_Walkure_Romanze_[FLAC].rar
 !new/[DmonHiro] A+Channel 01 (BD, 720, 10bit, AAC).mkv
 !new/[DmonHiro] A+Channel 02 (BD, 720, 10bit, AAC).mkv
 !new/[DmonHiro] A+Channel 03 (BD, 720, 10bit, AAC).mkv
@@ -697,13 +696,7 @@
 !new/[HorribleSubs] Chihayafuru - 06 [720p].mkv
 !new/[HorribleSubs] Kimi to Boku - 06 [720p].mkv
 !new/[HorribleSubs] Moritasan wa Mukuchi - 19 [720p].mkv
-!new/[Licca] Lucy-May of the Southern Rainbow - 01 [6A54FF23].mkv
-!new/[Licca] Porphy no Nagai Tabi - 01 [2177FA19].mkv
-!new/[Licca] The Alps Story - My Annette - 01 [50E81206].mkv
-!new/[Nipponsei] Hourou Musuko Original Soundtrack.zip
 !new/[Nutbladder]_Hidamari_Sketch_SP_-_02_[BC86F084].mkv
-!new/[ReDone] Lime-Colored War Tales - 12 (DVD) [EE293EC1].mkv
-!new/[SHiN-gx] Morita-san wa Mukuchi 2 - 05 [720p][6B56F15B].mkv
 !new/app/Combined-Community-Codec-Pack-2011-07-30.exe
 !new/app/VirtualBox-4.1.6-74713-Win.exe
 !new/app/Win7Vista_151718.exe
