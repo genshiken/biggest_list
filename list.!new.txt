@@ -680,6 +680,11 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
+!new/[ASL]_Lia_-_Kimi_wa_Hirori_Nanka_Jya_Naiyo_Song_of_Life_[FLAC].rar
+!new/[ASL]_SOUTH_OF_HEAVEN_-_KEEPER_OF_METAL_KEY_-AFTER-_[FLAC]_[w_Scans].rar
+!new/[ASL]_SOUTH_OF_HEAVEN_-_KEEPER_OF_METAL_KEY_-BEFORE-_[FLAC]_[w_Scans].rar
+!new/[ASL]_SOUTH_OF_HEAVEN_-_KEEPER_OF_METAL_KEY_LEGACY_[FLAC]_[w_Scans].rar
+!new/[CureCom] Fresh Pretty Cure! - 38 [HD][669774E3].mkv
 !new/[DmonHiro] A+Channel 01 (BD, 720, 10bit, AAC).mkv
 !new/[DmonHiro] A+Channel 02 (BD, 720, 10bit, AAC).mkv
 !new/[DmonHiro] A+Channel 03 (BD, 720, 10bit, AAC).mkv
@@ -696,7 +701,12 @@
 !new/[HorribleSubs] Chihayafuru - 06 [720p].mkv
 !new/[HorribleSubs] Kimi to Boku - 06 [720p].mkv
 !new/[HorribleSubs] Moritasan wa Mukuchi - 19 [720p].mkv
+!new/[HorribleSubs] Naruto Shippuuden - 236 [720p].mkv
+!new/[HorribleSubs] SKET Dance - 32 [720p].mkv
 !new/[Nutbladder]_Hidamari_Sketch_SP_-_02_[BC86F084].mkv
+!new/[Oyatsu] Mashiro Iro Symphony - 06 (1280x720 x264 AAC) [26ED793E].mkv
+!new/[RyRo]_Inazuma_Eleven_GO_-_025_(720p)_[3B7F76A6].mkv
+!new/[UTW]_Carnival_Phantasm_-_07_[BD][h264-1080p_FLAC][D4853209].mkv
 !new/app/Combined-Community-Codec-Pack-2011-07-30.exe
 !new/app/VirtualBox-4.1.6-74713-Win.exe
 !new/app/Win7Vista_151718.exe
