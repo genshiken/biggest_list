@@ -684,6 +684,7 @@
 !new/[ASL]_SOUTH_OF_HEAVEN_-_KEEPER_OF_METAL_KEY_-AFTER-_[FLAC]_[w_Scans].rar
 !new/[ASL]_SOUTH_OF_HEAVEN_-_KEEPER_OF_METAL_KEY_-BEFORE-_[FLAC]_[w_Scans].rar
 !new/[ASL]_SOUTH_OF_HEAVEN_-_KEEPER_OF_METAL_KEY_LEGACY_[FLAC]_[w_Scans].rar
+!new/[Commie] Guilty Crown - 05 [CEDCE7F8].mkv
 !new/[CureCom] Fresh Pretty Cure! - 38 [HD][669774E3].mkv
 !new/[DmonHiro] A+Channel 01 (BD, 720, 10bit, AAC).mkv
 !new/[DmonHiro] A+Channel 02 (BD, 720, 10bit, AAC).mkv
@@ -703,10 +704,14 @@
 !new/[HorribleSubs] Moritasan wa Mukuchi - 19 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 236 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 32 [720p].mkv
+!new/[HorribleSubs] UN-GO - 05 [720p].mkv
+!new/[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_06_[1A42C742].mkv
 !new/[Nutbladder]_Hidamari_Sketch_SP_-_02_[BC86F084].mkv
 !new/[Oyatsu] Mashiro Iro Symphony - 06 (1280x720 x264 AAC) [26ED793E].mkv
 !new/[RyRo]_Inazuma_Eleven_GO_-_025_(720p)_[3B7F76A6].mkv
+!new/[SS-Eclipse] Shakugan no Shana Final - 05 (1280x720 Hi10P) [A7CC8FDB].mkv
 !new/[UTW]_Carnival_Phantasm_-_07_[BD][h264-1080p_FLAC][D4853209].mkv
+!new/[gg]_Mawaru_Penguindrum_-_18_[866717AB].mkv
 !new/app/Combined-Community-Codec-Pack-2011-07-30.exe
 !new/app/VirtualBox-4.1.6-74713-Win.exe
 !new/app/Win7Vista_151718.exe
