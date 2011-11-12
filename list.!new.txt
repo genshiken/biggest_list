@@ -416,7 +416,6 @@
 !new/Mujin Wakusei Survive/[Raws-4U] Mujin Wakusei Survive - 51 HD (BS-hi 1024x768 H264 AAC).mp4
 !new/Mujin Wakusei Survive/[Raws-4U] Mujin Wakusei Survive - 52 END HD (BS-hi 1024x768 H264 AAC).ass
 !new/Mujin Wakusei Survive/[Raws-4U] Mujin Wakusei Survive - 52 END HD (BS-hi 1024x768 H264 AAC).mp4
-!new/PatchEden2v2.zip
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
@@ -681,10 +680,6 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[ASL]_Lia_-_Kimi_wa_Hirori_Nanka_Jya_Naiyo_Song_of_Life_[FLAC].rar
-!new/[ASL]_SOUTH_OF_HEAVEN_-_KEEPER_OF_METAL_KEY_-AFTER-_[FLAC]_[w_Scans].rar
-!new/[ASL]_SOUTH_OF_HEAVEN_-_KEEPER_OF_METAL_KEY_-BEFORE-_[FLAC]_[w_Scans].rar
-!new/[ASL]_SOUTH_OF_HEAVEN_-_KEEPER_OF_METAL_KEY_LEGACY_[FLAC]_[w_Scans].rar
 !new/[Coalgirls]_Eden_of_the_East_Movie_II_(1920x1080_Blu-Ray_FLAC)_[877D70F0].mkv
 !new/[DmonHiro] A+Channel 01 (BD, 720, 10bit, AAC).mkv
 !new/[DmonHiro] A+Channel 02 (BD, 720, 10bit, AAC).mkv
@@ -710,6 +705,18 @@
 !new/[Shin-S] Mashiro-iro Symphony ED Single - Suisai Candy [marble].zip
 !new/[polished] Mitsudomoe Zouryouchuu! 01 [BD 1080][D2736550].mkv
 !new/[polished] Mitsudomoe Zouryouchuu! 02 [BD 1080][1D036B53].mkv
+!new/[polished] Mitsudomoe Zouryouchuu! 03 [BD 1080][6DE67AAD].mkv
+!new/[polished] Mitsudomoe Zouryouchuu! 04 [BD 1080][9EF772EC].mkv
+!new/[polished] Mitsudomoe Zouryouchuu! 05 [BD 1080][A5D7FD34].mkv
+!new/[polished] Mitsudomoe Zouryouchuu! 06 [BD 1080][EA56A96F].mkv
+!new/[polished] Mitsudomoe Zouryouchuu! 07 [BD 1080][FFDC36BD].mkv
+!new/[polished] Mitsudomoe Zouryouchuu! 08 [FINAL][BD 1080][1815B794].mkv
+!new/[polished] Mitsudomoe Zouryouchuu! NCED 01 [BD 1080p][2026E01C].mkv
+!new/[polished] Mitsudomoe Zouryouchuu! NCED 02 [BD 1080p][BD5B2277].mkv
+!new/[polished] Mitsudomoe Zouryouchuu! NCED 03 [BD 1080p][5E365BAD].mkv
+!new/[polished] Mitsudomoe Zouryouchuu! NCED 04 [BD 1080p][D9810FF6].mkv
+!new/[polished] Mitsudomoe Zouryouchuu! NCOP 01 [BD 1080p][284AE0D0].mkv
+!new/[polished] Mitsudomoe Zouryouchuu! NCOP 02 [BD 1080p][5922C902].mkv
 !new/app/Combined-Community-Codec-Pack-2011-07-30.exe
 !new/app/VirtualBox-4.1.6-74713-Win.exe
 !new/app/Win7Vista_151718.exe
@@ -1372,6 +1379,10 @@
 !new/bmg/[ANE] Bakemonogatari - Ep15 [BDRip 1080p x264 FLAC].flac
 !new/bmg/[ANE] Bakemonogatari - Ep15 [BDRip 1080p x264 FLAC].mkv
 !new/bmg/[ANE] Bakemonogatari - Trailer [BDRip 1080p x264 FLAC].mkv
+!new/ep/PatchEden2v2.bat
+!new/ep/PatchEden2v2.xdelta
+!new/ep/PatchEden2v2.zip
+!new/ep/xdelta3.exe
 !new/hdp2/Princess Lover!/[polished] Princess Love! Maiden's Secret 01 [BD 1080][DDEF29F7].mkv
 !new/hdp2/Princess Lover!/[polished] Princess Love! Maiden's Secret 02 [BD 1080][EA90E7E1].mkv
 !new/hdp2/Princess Lover!/[polished] Princess Love! Maiden's Secret 03 [BD 1080][5E950AF0].mkv
