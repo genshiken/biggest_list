@@ -680,47 +680,6 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[DmonHiro] A+Channel 01 (BD, 720, 10bit, AAC).mkv
-!new/[DmonHiro] A+Channel 02 (BD, 720, 10bit, AAC).mkv
-!new/[DmonHiro] A+Channel 03 (BD, 720, 10bit, AAC).mkv
-!new/[DmonHiro] A+Channel 04 (BD, 720, 10bit, AAC).mkv
-!new/[DmonHiro] A+Channel 05 (BD, 720, 10bit, AAC).mkv
-!new/[DmonHiro] A+Channel 06 (BD, 720, 10bit, AAC).mkv
-!new/[DmonHiro] A+Channel 07 (BD, 720, 10bit, AAC).mkv
-!new/[DmonHiro] A+Channel 08 (BD, 720, 10bit, AAC).mkv
-!new/[DmonHiro] A+Channel 09 (BD, 720, 10bit, AAC).mkv
-!new/[DmonHiro] A+Channel 10 (BD, 720, 10bit, AAC).mkv
-!new/[DmonHiro] A+Channel 11 (BD, 720, 10bit, AAC).mkv
-!new/[DmonHiro] A+Channel 12 (BD, 720, 10bit, AAC).mkv
-!new/[HorribleSubs] Bleach - 347 [720p].mkv
-!new/[HorribleSubs] Cardfight!! Vanguard - 44 [720p].mkv
-!new/[HorribleSubs] Chihayafuru - 06 [720p].mkv
-!new/[HorribleSubs] Fairy Tail - 105 [720p].mkv
-!new/[HorribleSubs] Hunter X Hunter - 07 [720p].mkv
-!new/[HorribleSubs] Kimi to Boku - 06 [720p].mkv
-!new/[HorribleSubs] Majikoi~Oh! Samurai Girls - 06 [720p].mkv
-!new/[HorribleSubs] Moritasan wa Mukuchi - 19 [720p].mkv
-!new/[HorribleSubs] Naruto Shippuuden - 236 [720p].mkv
-!new/[HorribleSubs] SKET Dance - 32 [720p].mkv
-!new/[HorribleSubs] UN-GO - 05 [720p].mkv
-!new/[HorribleSubs] Working!! - 07 [720p].mkv
-!new/[ReDone] Rizelmine - 12 (DVD) [5A60F7F2].mkv
-!new/[SFW-sage]_Bakuman_S2_-_07_[720p][Hi10P][8E55AA95].mkv
-!new/[gg]_Ben-to_-_06_[B722DC7A].mkv
-!new/[polished] Mitsudomoe Zouryouchuu! - 01 [BD 1080][D2736550].mkv
-!new/[polished] Mitsudomoe Zouryouchuu! - 02 [BD 1080][1D036B53].mkv
-!new/[polished] Mitsudomoe Zouryouchuu! - 03 [BD 1080][6DE67AAD].mkv
-!new/[polished] Mitsudomoe Zouryouchuu! - 04 [BD 1080][9EF772EC].mkv
-!new/[polished] Mitsudomoe Zouryouchuu! - 05 [BD 1080][A5D7FD34].mkv
-!new/[polished] Mitsudomoe Zouryouchuu! - 06 [BD 1080][EA56A96F].mkv
-!new/[polished] Mitsudomoe Zouryouchuu! - 07 [BD 1080][FFDC36BD].mkv
-!new/[polished] Mitsudomoe Zouryouchuu! - 08 [BD 1080][1815B794].mkv
-!new/[polished] Mitsudomoe Zouryouchuu! - Ending (Clean) - 01 [1080p BD][2026E01C].mkv
-!new/[polished] Mitsudomoe Zouryouchuu! - Ending (Clean) - 02 [1080p BD][BD5B2277].mkv
-!new/[polished] Mitsudomoe Zouryouchuu! - Ending (Clean) - 03 [1080p BD][5E365BAD].mkv
-!new/[polished] Mitsudomoe Zouryouchuu! - Ending (Clean) - 04 [1080p BD][D9810FF6].mkv
-!new/[polished] Mitsudomoe Zouryouchuu! - Opening (Clean)01 [1080p BD][284AE0D0].mkv
-!new/[polished] Mitsudomoe Zouryouchuu! - Opening (Clean)02 [1080p BD][5922C902].mkv
 !new/app/Combined-Community-Codec-Pack-2011-07-30.exe
 !new/app/VirtualBox-4.1.6-74713-Win.exe
 !new/app/Win7Vista_151718.exe

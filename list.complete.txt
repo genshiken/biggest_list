@@ -12568,6 +12568,20 @@ complete/m/Mitsudomoe Picture Drama/[m.3.3.w] Mitsudomoe Picture Drama - 3 [7545
 complete/m/Mitsudomoe Picture Drama/[m.3.3.w] Mitsudomoe Picture Drama - 4 [8F4EC242].mkv
 complete/m/Mitsudomoe Picture Drama/[m.3.3.w] Mitsudomoe Picture Drama - 5 [0A8EEB54].mkv
 complete/m/Mitsudomoe Picture Drama/[m.3.3.w] Mitsudomoe Picture Drama - 6 [End][9675C519].mkv
+complete/m/Mitsudomoe Zouryouchuu!/[polished] Mitsudomoe Zouryouchuu! - 1 [1080p BD][D2736550].mkv
+complete/m/Mitsudomoe Zouryouchuu!/[polished] Mitsudomoe Zouryouchuu! - 2 [1080p BD][1D036B53].mkv
+complete/m/Mitsudomoe Zouryouchuu!/[polished] Mitsudomoe Zouryouchuu! - 3 [1080p BD][6DE67AAD].mkv
+complete/m/Mitsudomoe Zouryouchuu!/[polished] Mitsudomoe Zouryouchuu! - 4 [1080p BD][9EF772EC].mkv
+complete/m/Mitsudomoe Zouryouchuu!/[polished] Mitsudomoe Zouryouchuu! - 5 [1080p BD][A5D7FD34].mkv
+complete/m/Mitsudomoe Zouryouchuu!/[polished] Mitsudomoe Zouryouchuu! - 6 [1080p BD][EA56A96F].mkv
+complete/m/Mitsudomoe Zouryouchuu!/[polished] Mitsudomoe Zouryouchuu! - 7 [1080p BD][FFDC36BD].mkv
+complete/m/Mitsudomoe Zouryouchuu!/[polished] Mitsudomoe Zouryouchuu! - 8 [End][1080p BD][1815B794].mkv
+complete/m/Mitsudomoe Zouryouchuu!/[polished] Mitsudomoe Zouryouchuu! - Ending 1 (Clean) [1080p BD][2026E01C].mkv
+complete/m/Mitsudomoe Zouryouchuu!/[polished] Mitsudomoe Zouryouchuu! - Ending 2 (Clean) [1080p BD][BD5B2277].mkv
+complete/m/Mitsudomoe Zouryouchuu!/[polished] Mitsudomoe Zouryouchuu! - Ending 3 (Clean) [1080p BD][5E365BAD].mkv
+complete/m/Mitsudomoe Zouryouchuu!/[polished] Mitsudomoe Zouryouchuu! - Ending 4 (Clean) [1080p BD][D9810FF6].mkv
+complete/m/Mitsudomoe Zouryouchuu!/[polished] Mitsudomoe Zouryouchuu! - Opening 1 (Clean) [1080p BD][284AE0D0].mkv
+complete/m/Mitsudomoe Zouryouchuu!/[polished] Mitsudomoe Zouryouchuu! - Opening 2 (Clean) [1080p BD][5922C902].mkv
 complete/m/Mitsudomoe/[polished] Mitsudomoe - 01 [v2 1080p BD][F05BD8B1].mkv
 complete/m/Mitsudomoe/[polished] Mitsudomoe - 02 [v2 1080p BD][D90EE8FE].mkv
 complete/m/Mitsudomoe/[polished] Mitsudomoe - 03 [1080p BD][B94932B4].mkv
@@ -15387,7 +15401,6 @@ complete/r/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 08 [C4190B5D].mkv
 complete/r/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 09 [F9349C3A].mkv
 complete/r/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 10 [9DA4144F].mkv
 complete/r/Ristorante Paradiso/[Shinji] Ristorante Paradiso - 11 [End][1261D415].mkv
-complete/r/Rizelmine/[AC] Rizelmine - 12 [0F40B851].avi
 complete/r/Rizelmine/[ReDone] Rizelmine - 01 [DVD][1D5A9D5E].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 02 [DVD][5F3088B3].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 03 [DVD][C033034F].mkv
@@ -15399,6 +15412,7 @@ complete/r/Rizelmine/[ReDone] Rizelmine - 08 [DVD][704B7E13].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 09 [DVD][18691AB9].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 10 [DVD][F1000194].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 11 [DVD][07564CE3].mkv
+complete/r/Rizelmine/[ReDone] Rizelmine - 12 [DVD][5A60F7F2].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - Ending 1 [DVD][59C1FE24].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - Opening [DVD][3AC69E00].mkv
 complete/r/Rizelmine/[h-b] Rizelmine - 13 [29B6C1E2].avi
