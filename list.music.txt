@@ -3183,6 +3183,7 @@ music/Nipponsei/[Nipponsei] Busou Renkin Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] C ED Single - RPG [School Food Punishment].zip
 music/Nipponsei/[Nipponsei] C OP Album - Matryoshka [NICO Touches the Walls].zip
 music/Nipponsei/[Nipponsei] C Original Soundtrack.zip
+music/Nipponsei/[Nipponsei] C3 OP ED Single - Shirushi [Kitamura Eri].zip
 music/Nipponsei/[Nipponsei] C3 OP Single - Endless Story [Tamura Yukari].zip
 music/Nipponsei/[Nipponsei] CLAMP IN WONDERLAND 1 2 Collection - PRECIOUS SONGS.zip
 music/Nipponsei/[Nipponsei] Canvas2 ~Nijiiro no Sketch~ OP Single - Plastic Smile [Honey Bee].zip
@@ -3372,6 +3373,7 @@ music/Nipponsei/[Nipponsei] Gosick Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Gundam 00 A wakening of the Trailblazer Insert Song Single - Mou Nani mo Kowaku nai, Kowaku wa nai [Ishikawa Chiaki].zip
 music/Nipponsei/[Nipponsei] Gundam 00 ED Single - Wana [THE BACK HORN].zip
 music/Nipponsei/[Nipponsei] Gundam 00 OP1 Single - DAYBREAK S BELL [L Arc en Ciel].zip
+music/Nipponsei/[Nipponsei] Gundam AGE ED Single - Kimi no Naka no Eiyuu [Kuribayashi Minami].zip
 music/Nipponsei/[Nipponsei] Gundam SEED DESTINY Suit CD Vol. 6 - Shin Asuka x Destiny Gundam.zip
 music/Nipponsei/[Nipponsei] Gundam SEED DESTINY Suit CD Vol. 7 - Auel x Sting.zip
 music/Nipponsei/[Nipponsei] Gundam SEED~SEED DESTINY BEST 'THE BRIDGE' Across the Songs from GUNDAM SEED & SEED DESTINY.zip
@@ -3450,7 +3452,9 @@ music/Nipponsei/[Nipponsei] Ikkitousen Dragon Destiny OP ED Single - HEART SOUL 
 music/Nipponsei/[Nipponsei] Ikoku Meiro no Croisee OP ED Single - Sekai wa Odoru yo, Kimi to. [Youmou to Ohana & Touyama Nao].zip
 music/Nipponsei/[Nipponsei] Ikoku Meiro no Croisee Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Inazuma Eleven GO ED Single - Yappa Seishun [Kitahara Sayaka].zip
+music/Nipponsei/[Nipponsei] Inazuma Eleven GO ED2 Single - Kanari Junjou [Kitahara Sayaka].zip
 music/Nipponsei/[Nipponsei] Inazuma Eleven GO OP Single - Ten Made Todoke! [T-Pistonz+KMC].zip
+music/Nipponsei/[Nipponsei] Inazuma Eleven GO OP2 Single - Naseba Naru no sa Nanairo Tamago [T-Pistonz+KMC].zip
 music/Nipponsei/[Nipponsei] Infinite Stratos ED Single - SUPER STREAM [Various].zip
 music/Nipponsei/[Nipponsei] Infinite Stratos OP Single - STRAIGHT JET [Kuribayashi Minami].zip
 music/Nipponsei/[Nipponsei] Infinite Stratos Original Soundtrack.zip
@@ -3573,6 +3577,8 @@ music/Nipponsei/[Nipponsei] Kuroshitsuji II ED Single - Bird [Matsushita Yuuya].
 music/Nipponsei/[Nipponsei] Kuroshitsuji II OP Single - SHIVER [the GazettE].zip
 music/Nipponsei/[Nipponsei] Kuroshitsuji II Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Kyou, Koi wo Hajimemasu - Ending Single - Ijiwaru na Koi [Itou Kanae].zip
+music/Nipponsei/[Nipponsei] Kyoukai Senjou no Horizon ED Single -Side Horizon- - Stardust Melodia [Ceui].zip
+music/Nipponsei/[Nipponsei] Kyoukai Senjou no Horizon ED Single -side Ariadust- - Pieces [AiRI].zip
 music/Nipponsei/[Nipponsei] Kyoukai Senjou no Horizon OP Single - TERMINATED [Chihara Minori].zip
 music/Nipponsei/[Nipponsei] Kyoushirou to Towa no Sora OP Single - Cross Heart [CooRie].zip
 music/Nipponsei/[Nipponsei] La Corda d'Oro ~primo passo~ OP Single - Brand New Breeze [Kanon].zip
@@ -3629,6 +3635,7 @@ music/Nipponsei/[Nipponsei] Mai-Otome BEST COLLECTION.zip
 music/Nipponsei/[Nipponsei] Mai-Otome OP2 Single - Crystal Energy [Kuribayashi Minami] (320 kbps).zip
 music/Nipponsei/[Nipponsei] Mai-Otome Original Soundtrack Vol.2 - Otome no Inori (320 kbps).zip
 music/Nipponsei/[Nipponsei] Mai-Otome PS2 OP ED Single - Valkyrja [Yousei Teikoku].zip
+music/Nipponsei/[Nipponsei] Maji de Watashi ni Koi Shinasai!! ED Single - Kimi no Shinken wo Choudai [Various].zip
 music/Nipponsei/[Nipponsei] Maji de Watashi ni Koi Shinasai!! OP Single - U-n-d-e-r--STANDING! [Various].zip
 music/Nipponsei/[Nipponsei] Majin Tantei Nougami Neuro ED Single - Kodoku no Hikari [Kagami Seira].zip
 music/Nipponsei/[Nipponsei] Majin Tantei Nougami Neuro OP Single - DIRTY [Nightmare].zip
@@ -3643,6 +3650,7 @@ music/Nipponsei/[Nipponsei] Manyuu Hikenchou OP ED Single - Unmei [AiRI].zip
 music/Nipponsei/[Nipponsei] Manyuu Hikenchou Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Maria Holic Alive OP ED Single - Runrunriru Ranranrara [Various].zip
 music/Nipponsei/[Nipponsei] Maria-sama ga Miteru OVA ED Single - Chercher [KOTOKO].zip
+music/Nipponsei/[Nipponsei] Mashiroiro Symphony ED Single - Suisai Candy [marble].zip
 music/Nipponsei/[Nipponsei] Mashiroiro Symphony OP Single - Authentic symphony [Choucho].zip
 music/Nipponsei/[Nipponsei] Master of Epic OP Single - Miracle Episode I [Clover].zip
 music/Nipponsei/[Nipponsei] Mawaru Penguindrum ED Single - DEAR FUTURE [coaltar of the deepers].zip
@@ -3653,6 +3661,7 @@ music/Nipponsei/[Nipponsei] Mayo Chiki! OP Single - Be Starters! [Kitamura Eri].
 music/Nipponsei/[Nipponsei] Mayo Chiki! Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Minami-ke ED Single - Colourful DAYS [Various].zip
 music/Nipponsei/[Nipponsei] Minami-ke OP Single - Keikenchi Joushouchuu [Various].zip
+music/Nipponsei/[Nipponsei] Mirai Nikki ED Single - Blood teller [Faylan].zip
 music/Nipponsei/[Nipponsei] Mirai Nikki OP Single - Kuusou Mesorogiwi [Yousei Teikoku].zip
 music/Nipponsei/[Nipponsei] Mitsudomoe Character Song 1 - Mitsuba [Takagaki Ayahi].zip
 music/Nipponsei/[Nipponsei] Mitsudomoe Character Song 2 - Futaba [Akesaka Satomi].zip
@@ -4075,6 +4084,7 @@ music/Nipponsei/[Nipponsei] Strike Witches 2 OP Single - STRIKE WITCHES 2 ~Egao 
 music/Nipponsei/[Nipponsei] Strike Witches 2 Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Suara - Amane Uta (320 kbps).zip
 music/Nipponsei/[Nipponsei] Sugar Sugar Rune OP ED Single - Chocola ni Muuchu [Nomoto Karia] 320k.zip
+music/Nipponsei/[Nipponsei] Suite Precure Movie Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Suite Precure OP ED Single - La La La Suite Precure ~UNLIMITED ver.~ [Various].zip
 music/Nipponsei/[Nipponsei] Sukisyo ED Single - Daydreamin [Taniyama Kishou].zip
 music/Nipponsei/[Nipponsei] Sukisyo OP Single - Just a Survivor [Tatsuhisa Suzuki] 192k CBR.zip

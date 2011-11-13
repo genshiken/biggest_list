@@ -680,7 +680,7 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[Coalgirls]_Eden_of_the_East_Movie_II_(1920x1080_Blu-Ray_FLAC)_[877D70F0].mkv
+!new/[Commie] Fate ⁄ Zero - 07 [4E77421F].mkv
 !new/[DmonHiro] A+Channel 01 (BD, 720, 10bit, AAC).mkv
 !new/[DmonHiro] A+Channel 02 (BD, 720, 10bit, AAC).mkv
 !new/[DmonHiro] A+Channel 03 (BD, 720, 10bit, AAC).mkv
@@ -698,11 +698,17 @@
 !new/[HorribleSubs] Chihayafuru - 06 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 105 [720p].mkv
 !new/[HorribleSubs] Kimi to Boku - 06 [720p].mkv
+!new/[HorribleSubs] Majikoi~Oh! Samurai Girls - 06 [720p].mkv
 !new/[HorribleSubs] Moritasan wa Mukuchi - 19 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 236 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 32 [720p].mkv
 !new/[HorribleSubs] UN-GO - 05 [720p].mkv
+!new/[HorribleSubs] Working!! - 07 [720p].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_056_Mebukijika!_A_Four_Season_Line-up!![H264_720P][31DF74B6].mkv
+!new/[SS-Eclipse] Shakugan no Shana Final - 06 (1280x720 Hi10P) [15C18942].mkv
 !new/[Shin-S] Mashiro-iro Symphony ED Single - Suisai Candy [marble].zip
+!new/[WhyNot] Nurarihyon no Mago Sennen Makyou - 17 [B24577F3].mkv
+!new/[m.3.3.w]_Working'!!_-_06_[h264_720p]_[E004E38F].mkv
 !new/[polished] Mitsudomoe Zouryouchuu! 01 [BD 1080][D2736550].mkv
 !new/[polished] Mitsudomoe Zouryouchuu! 02 [BD 1080][1D036B53].mkv
 !new/[polished] Mitsudomoe Zouryouchuu! 03 [BD 1080][6DE67AAD].mkv
@@ -1379,10 +1385,6 @@
 !new/bmg/[ANE] Bakemonogatari - Ep15 [BDRip 1080p x264 FLAC].flac
 !new/bmg/[ANE] Bakemonogatari - Ep15 [BDRip 1080p x264 FLAC].mkv
 !new/bmg/[ANE] Bakemonogatari - Trailer [BDRip 1080p x264 FLAC].mkv
-!new/ep/PatchEden2v2.bat
-!new/ep/PatchEden2v2.xdelta
-!new/ep/PatchEden2v2.zip
-!new/ep/xdelta3.exe
 !new/hdp2/Princess Lover!/[polished] Princess Love! Maiden's Secret 01 [BD 1080][DDEF29F7].mkv
 !new/hdp2/Princess Lover!/[polished] Princess Love! Maiden's Secret 02 [BD 1080][EA90E7E1].mkv
 !new/hdp2/Princess Lover!/[polished] Princess Love! Maiden's Secret 03 [BD 1080][5E950AF0].mkv
