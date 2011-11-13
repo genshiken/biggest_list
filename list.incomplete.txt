@@ -1247,6 +1247,7 @@ incomplete/Fate-Zero/[Commie] Fate-Zero - 03 [C1F222CD].mkv
 incomplete/Fate-Zero/[Commie] Fate-Zero - 04 [92F5DEFA].mkv
 incomplete/Fate-Zero/[Commie] Fate-Zero - 05 [D49DC44D].mkv
 incomplete/Fate-Zero/[Commie] Fate-Zero - 06 [7622898E].mkv
+incomplete/Fate-Zero/[Commie] Fate-Zero - 07 [4E77421F].mkv
 incomplete/Fate-Zero/[UTW] Fate-Zero - 01 [720p][E2552AFF].mkv
 incomplete/Fate-Zero/[UTW] Fate-Zero - 02 [720p][118AC4FA].mkv
 incomplete/Fate-Zero/[UTW] Fate-Zero - 03 [720p][EC04D328].mkv
@@ -2781,6 +2782,7 @@ incomplete/Nurarihyon no Mago Sennen Makyou/[WhyNot] Nurarihyon no Mago Sennen M
 incomplete/Nurarihyon no Mago Sennen Makyou/[WhyNot] Nurarihyon no Mago Sennen Makyou - 14 [D1973ECD].mkv
 incomplete/Nurarihyon no Mago Sennen Makyou/[WhyNot] Nurarihyon no Mago Sennen Makyou - 15 [489781D8].mkv
 incomplete/Nurarihyon no Mago Sennen Makyou/[WhyNot] Nurarihyon no Mago Sennen Makyou - 16 [168ADA35].mkv
+incomplete/Nurarihyon no Mago Sennen Makyou/[WhyNot] Nurarihyon no Mago Sennen Makyou - 17 [B24577F3].mkv
 incomplete/Nurarihyon no Mago Sennen Makyou/[WhyNot] Nurarihyon no Mago Sennen Makyou - 18 [DC4162D9].mkv
 incomplete/Nyanpire/[AonE] Nyanpire - The Animation - 01 [3A652460].mkv
 incomplete/Nyanpire/[AonE] Nyanpire - The Animation - 02 [38BC71A8].mkv
@@ -3490,6 +3492,7 @@ incomplete/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 052 [720p][C810CE67].m
 incomplete/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 053 [720p][5DEF9D50].mkv
 incomplete/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 054 [720p][0431991D].mkv
 incomplete/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 055 [720p][4F99016E].mkv
+incomplete/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 056 [720p][31DF74B6].mkv
 incomplete/Pokemon/[PM] Pokemon - 027 [031A8848].mkv
 incomplete/Pokemon/[PM] Pokemon - 029 [ACDF21AF].mkv
 incomplete/Pokemon/[PM] Pokemon - 030 [3BB9D029].mkv
@@ -3754,6 +3757,7 @@ incomplete/Shakugan no Shana Final/[SS-Eclipse] Shakugan no Shana Final - 02 [72
 incomplete/Shakugan no Shana Final/[SS-Eclipse] Shakugan no Shana Final - 03 [720p][6EE625F2].mkv
 incomplete/Shakugan no Shana Final/[SS-Eclipse] Shakugan no Shana Final - 04 [720p][B3552EAF].mkv
 incomplete/Shakugan no Shana Final/[SS-Eclipse] Shakugan no Shana Final - 05 [720p][A7CC8FDB].mkv
+incomplete/Shakugan no Shana Final/[SS-Eclipse] Shakugan no Shana Final - 06 [720p][15C18942].mkv
 incomplete/Shibawanko's Japanese Spirit/[DATS] Shibawanko's Japanese Spirit - 03-04 [71AD2201].mkv
 incomplete/Shinshaku Sanada Juuyuushi/[AonE-dp] Shinshaku Sanada Juuyuushi - 07 [0435B01E].mkv
 incomplete/Shugo Chara! Party!/[Fubuki] Shugo Chara! Party! - 01 (1280x720) [049EC961].mkv
@@ -4194,6 +4198,7 @@ incomplete/Working'!!/[m.3.3.w] Working'!! - 02 [720p][A6F33EE9].mkv
 incomplete/Working'!!/[m.3.3.w] Working'!! - 03 [720p][A6790E7C].mkv
 incomplete/Working'!!/[m.3.3.w] Working'!! - 04 [720p][56FE4C23].mkv
 incomplete/Working'!!/[m.3.3.w] Working'!! - 05 [720p][1C464EAD].mkv
+incomplete/Working'!!/[m.3.3.w] Working'!! - 06 [720p][E004E38F].mkv
 incomplete/X-Men/[Commie] X-Men - 01 [43164D05].mkv
 incomplete/X-Men/[Commie] X-Men - 02 [v2][B0419D64].mkv
 incomplete/X-Men/[Commie] X-Men - 03 [AB8918AD].mkv
