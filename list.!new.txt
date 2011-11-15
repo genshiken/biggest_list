@@ -679,35 +679,6 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[ASL]_AiRI_-_Kyoukaisen-jou_no_Horizon_ED_Side_Ariadust_-_Pieces_[FLAC]_[w_Scans].rar
-!new/[ASL]_Ceui_-_Kyoukaisen-jou_no_Horizon_ED_Side_Horizon_-_Stardust_Melodia_[FLAC]_[w_Scans].rar
-!new/[ASL]_Kuribayashi_Minami_-_Mobile_Suit_Gundam_Age _Ed_Theme_-_Kimi_no_Naka_no_Eiyuu_[FLAC]_[w_Scans].rar
-!new/[ASL]_LiSA_-_Letters_to_U_[FLAC].rar
-!new/[Ahodomo] Maji de Watashi ni Koi Shinasai! - 07 [720p][A619F1F8].mkv
-!new/[Ahodomo] Saki Picture Drama - 01 [480p h264 AAC][543A7CA7].mkv
-!new/[Ahodomo] Saki Picture Drama - 02 [480p h264 AAC][3DB366AA].mkv
-!new/[Ahodomo] Saki Picture Drama - 03 [480p h264 AAC][1EBF7356].mkv
-!new/[Ahodomo] Saki Picture Drama - 04 [480p h264 AAC][90340526].mkv
-!new/[Ahodomo] Saki Picture Drama - 05 [480p h264 AAC][A9B3FB93].mkv
-!new/[Ahodomo] Saki Picture Drama - 06 [480p h264 AAC][7B42CE12].mkv
-!new/[Ahodomo] Saki Picture Drama - 07 [480p h264 AAC][CFF7BD49].mkv
-!new/[Doremi].Hatsune.Miku.Project.Diva.Extend.Opening.[787DBEC4].mkv
-!new/[EveTaku] Ad Lib Anime Kenkyuujo - 01 (1280x720 x264 AAC)[A0C5A779].mkv
-!new/[Fail-15] R-15 - 03 (BD 1920x1080 x264 FLAC) [B42ECA67].mkv
-!new/[Fail-15] R-15 - 04 (BD 1920x1080 x264 FLAC) [7E98290C].mkv
-!new/[GotSpeed]_Mirai_Nikki_-_06_[8FEF271B].mkv
-!new/[HorribleSubs] Gintama - 234 [720p].mkv
-!new/[HorribleSubs] Kimi to Boku - 07 [720p].mkv
-!new/[Nipponsei] THE iDOLM@STER OP2 Single - CHANGE!!!! [765PRO ALLSTARS].zip
-!new/[Over-Time]_Kamen_Rider_Fourze_-_10_[98DD04FA].mkv
-!new/[Over-Time]_Pirate_Sentai_Gokaiger_-_38_[D02060D0].mkv
-!new/[Rumbel]_Gintama_-_154_[H264][B842C74D].mkv
-!new/[SS] Mirai Nikki - 05 (1280x720 h264) [732E5FFE].mkv
-!new/[Shin-S] C³ ~Cube x Cursed x Curious~ OP2 & ED Single - Shirushi [Kitamura Eri].rar
-!new/[Shin-S] Shakugan no Shana III -Final- OP Single - Light My Fire [KOTOKO].zip
-!new/[UTW]_Fate_Zero_-_07_[h264-720p][5A4D9A54].mkv
-!new/[WhyNot] Nurarihyon no Mago Sennen Makyou - 19 [86BAC551].mkv
-!new/[sage]_Mobile_Suit_Gundam_AGE_-_06_[720p][10bit][D0E52C94].mkv
 !new/app/Combined-Community-Codec-Pack-2011-07-30.exe
 !new/app/VirtualBox-4.1.6-74713-Win.exe
 !new/app/Win7Vista_151718.exe
@@ -736,60 +707,6 @@
 !new/app/utorrent.exe
 !new/app/vlc-1.1.11.exe
 !new/app/vmware-player-4.0.0.exe
-!new/belum/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_01[14]_-_The_Four_Knights_vs._The_Evil_Knights_[640x480][VFS][30D79E77].avi
-!new/belum/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_02[14]_-_The_Land_of_Love_and_Hate_[640x480][VFS][28DAD91C].avi
-!new/belum/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_03[14]_-_Burning_Red_Flame!_[640x480][VFS][48A8AB76].avi
-!new/belum/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_04[14]_-_Miracles_of_the_Blood_[640x480][VFS][E4983F72].avi
-!new/belum/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_05[14]_-_Fear_of_the_Illusions_[640x480][VFS][9656817F].avi
-!new/belum/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_06[14]_-_A_Streak_of_Light_[640x480][VFS][7227F412].avi
-!new/belum/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_07[14]_-_Mehr_Licht_(more_light)_[640x480][VFS][C47416C1].avi
-!new/belum/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_08[14]_-_Confessions_of_a_Mask_[640x480][VFS][8DFB0ECF].avi
-!new/belum/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_09[14]_-_Blood_Bonds_[640x480][VFS][66015893].avi
-!new/belum/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_10[14]_-_The_Lair_of_the_Beast_[640x480][VFS][22334976].avi
-!new/belum/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_11[14]_-_Search_for_a_Lost_Era!_[640x480][VFS][FCCBC5C4].avi
-!new/belum/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_12[14]_-_One_for_All_[640x480][VFS][BA482F90].avi
-!new/belum/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_13[14]_-_Memories_of_the_Future!_[640x480][VFS][0658B392].avi
-!new/belum/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_14[14]_-_A_Piece_of_the_Sun!_[640x480][VFS][056C0147].avi
-!new/belum/[OVA_1997-1998]_B_t_X_Neo/B_t_X_Neo_-_T1[14]_-_Promo_[640x480][RAW][VFS][B7B1C567].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_01v2[39]_-_Resurrection_of_Ideon_[640x480][Shin-Getter][2ED009EF].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_02v2[39]_-_Destruction_of_New_Lopia_[720x540][Shin-Getter][C5062D30].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_03[39]_-_Bursting_Earth_[640x480][Shin-Getter][7F5481B8].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_04[39]_-_Escape_from_Planet_Solo_[640x480][Shin-Getter][2C06E891].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_05[39]_-_Infinite_Power__Legendary_Id_[640x480][Shin-Getter][6A2576AD].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_06[39]_-_White_Flag_of_Betrayal_[720x540][Shin-Getter][01938212].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_07[39]_-_Escape_from_Null_Space_[720x540][Shin-Getter][8D9D76BB].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_08[39]_-_Battle_in_the_Sandstorm_[640x480][Shin-Getter][8958C598].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_09[39]_-_Burning_Null_Space_[720x540][Shin-Getter][0C97A1D5].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_10[39]_-_Surpise_Bajin_Attack_[720x540][Shin-Getter][595160E6].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_11[39]_-_Pursuit_to_the_Ruined_Planet_[720x540][Shin-Getter][026446F5].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_12[39]_-_Breakthrough_the_Enemy_s_Front_[720x540][Shin-Getter][9E5B10EA].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_13[39]_-_Attack_on_the_Alien_[640x480][Shin-Getter][B69AFF6B].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_14[39]_-_Doku_s_Attack_Strategy_[640x480][Shin-Getter][C06C0A66].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_15[39]_-_Plan_for_Retrieving_Ideon_[640x480][DTV][Shin-Getter][F243B499].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_16[39]_-_Damido_s_Lethal_Strategy_[640x480][Shin-Getter][CE287031].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_17[39]_-_Battle_on_the_Ape_Planet_[640x480][Shin-Getter][5D872A54].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_18[39]_-_Betrayal_on_Ajian_[640x480][Shin-Getter][F51FF306].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_19[39]_-_Gyamose_s_Special_Command_[640x480][Shin-Getter][A1D9FD0F].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_20[39]_-_Battle_the_Devil_Twins_[640x480][Shin-Getter][9754194A].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_21[39]_-_Sink_the_Enemy_s_Battleship_[640x480][Shin-Getter][AED1BEF8].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_22[39]_-_The_Legend_Lives_Again_[640x480][Shin-Getter][B152716E].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_23[39]_-_The_Shocking_Decoy_Planet_[640x480][Shin-Getter][EBD80AD1].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_24[39]_-_Strike_the_Infiltrating_Guerillas_[640x480][Shin-Getter][DDC8E7AA].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_25[39]_-_Ideon_s_Counterattack_[720x540][DVD][Shin-Getter][CAC0BE53].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_26[39]_-_Deadly_Fight_-_Fear_of_Gel_[640x480][Shin-Getter][CCA2B7A0].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_27[39]_-_Infiltrate_the_Lunar_Base_[640x480][Shin-Getter][96A992BF].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_28[39]_-_Wrath_of_the_Wave_Gun_[640x480][Shin-Getter][230687AF].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_29[39]_-_Sparkling_Sword_[640x480][Shin-Getter][AD88B813].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_30[39]_-_Desperate_Sniper_[640x480][DVD][Shin-Getter][EA548485].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_31[39]_-_Home_Aflame_[640x480][Shin-Getter][D8099112].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_32[39]_-_Amidst_the_Flames_of_Fate_[640x480][DVD][Shin-Getter][F2E8314A].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_33[39]_-_Waft_Area_Gamble_[720x540][Shin-Getter][520B0C4D].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_34[39]_-_After_the_Meteor_s_Fall_[640x480][Shin-Getter][B40C9C17].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_35[39]_-_Surfacing_from_Darkness_[640x480][Shin-Getter][5ED30607].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_36[39]_-_Farewell_Solo_Ship_[640x480][Shin-Getter][E21D8AB0].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_37[39]_-_Colony_of_Hatred_[640x480][Shin-Getter][9CE1EC86].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_38[39]_-_The_Space_Runaway_[640x480][Shin-Getter][AE9CED88].avi
-!new/belum/[TV_Series_1980-1981]_Densetsu_Kyojin_Ideon/Densetsu_Kyojin_Ideon_-_39[39]_-_In_the_Cosmos_With_You_[640x480][Shin-Getter][5B599F47].avi
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_01v3[35]_-_Space-Time_Destruction_[624x480][DVD][ILA][8D03A921].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_02v3[35]_-_Lonely_Wolf_[624x480][DVD][ILA][59B986D2].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_03v3[35]_-_Pretty_Machine_[624x480][DVD][ILA][9BD697F9].ogm
