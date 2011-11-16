@@ -679,11 +679,21 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
+!new/[A-Destiny] Toriko - 32 (1280x720 h264 AAC) [A19E3492].mkv
+!new/[Ayako-Himatsubushi] Seitokai Yakuindomo OVA - 01 [DVD][480p][7916343B].mkv
+!new/[Commie] Kyoukai Senjou no Horizon - 07 [E71A6C45].mkv
+!new/[Commie] Last Exile ~Fam, The Silver Wing~ - 05 [AC8302BB].mkv
 !new/[Fail-15] R-15 - 03 (BD 1920x1080 x264 FLAC) [A2E8BD15].mkv
 !new/[Fail-15] R-15 - 04 (BD 1920x1080 x264 FLAC) [7E98290C].mkv
+!new/[FroZen-EviL]_Yawara_-_68_[DVD][F0D5F26B].mkv
+!new/[GotWoot]_Mirai_Nikki_06_[10-bit][846DAB73].mkv
 !new/[HorribleSubs] Bleach - 348 [720p].mkv
+!new/[HorribleSubs] Chihayafuru - 07 [720p].mkv
 !new/[HorribleSubs] Shinryaku Ika Musume S2 - 06 [720p].mkv
+!new/[OD]_Digimon_Xros_Wars_II_-_06_[720p]_[0AA6BEC1].mkv
 !new/[Over-Time]_Gokaiger_Goseiger_-_Super_Sentai_199_Hero_Grand_Battle_[2D7F70D9].mkv
+!new/[Rumbel-Nakama]_Gintama_-_149_[H264][20DC52C4].mkv
+!new/[UTW]_Carnival_Phantasm_-_08_[BD][h264-1080p_FLAC][9AD4509C].mkv
 !new/[WildBunch]_Digimon_Xros_Wars_II_-_07_(1280x720_x264_AAC)_[287A119E].mkv
 !new/app/Combined-Community-Codec-Pack-2011-07-30.exe
 !new/app/VirtualBox-4.1.6-74713-Win.exe
