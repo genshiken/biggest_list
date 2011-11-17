@@ -679,6 +679,21 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
+!new/[Coalgirls]_Haibane_Renmei_01_(1280x720_Blu-Ray_FLAC)_[8AA17B0E].mkv
+!new/[Coalgirls]_Haibane_Renmei_02_(1280x720_Blu-Ray_FLAC)_[8C1C1F8E].mkv
+!new/[Coalgirls]_Haibane_Renmei_03_(1280x720_Blu-Ray_FLAC)_[DC8513B5].mkv
+!new/[Coalgirls]_Haibane_Renmei_04_(1280x720_Blu-Ray_FLAC)_[D8C371E7].mkv
+!new/[Coalgirls]_Haibane_Renmei_05_(1280x720_Blu-Ray_FLAC)_[8051245C].mkv
+!new/[Coalgirls]_Haibane_Renmei_06_(1280x720_Blu-Ray_FLAC)_[B2ECE850].mkv
+!new/[Coalgirls]_Haibane_Renmei_07_(1280x720_Blu-Ray_FLAC)_[DE8DF393].mkv
+!new/[Coalgirls]_Haibane_Renmei_08_(1280x720_Blu-Ray_FLAC)_[DF7B8F3E].mkv
+!new/[Coalgirls]_Haibane_Renmei_09_(1280x720_Blu-Ray_FLAC)_[FFF8CA7D].mkv
+!new/[Coalgirls]_Haibane_Renmei_10_(1280x720_Blu-Ray_FLAC)_[9E6C0B47].mkv
+!new/[Coalgirls]_Haibane_Renmei_11_(1280x720_Blu-Ray_FLAC)_[723D5D0E].mkv
+!new/[Coalgirls]_Haibane_Renmei_12_(1280x720_Blu-Ray_FLAC)_[9BE6D7C0].mkv
+!new/[Coalgirls]_Haibane_Renmei_13_(1280x720_Blu-Ray_FLAC)_[2A1D805E].mkv
+!new/[Coalgirls]_Haibane_Renmei_ED_(1280x720_Blu-Ray_FLAC)_[5956A19F].mkv
+!new/[Coalgirls]_Haibane_Renmei_OP_(1280x720_Blu-Ray_FLAC)_[72771472].mkv
 !new/app/Combined-Community-Codec-Pack-2011-07-30.exe
 !new/app/VirtualBox-4.1.6-74713-Win.exe
 !new/app/Win7Vista_151718.exe
