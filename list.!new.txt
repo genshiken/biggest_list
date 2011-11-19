@@ -681,6 +681,37 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
+!new/Wolf's Rain 01.mkv
+!new/Wolf's Rain 02.mkv
+!new/Wolf's Rain 03.mkv
+!new/Wolf's Rain 04.mkv
+!new/Wolf's Rain 05.mkv
+!new/Wolf's Rain 06.mkv
+!new/Wolf's Rain 07.mkv
+!new/Wolf's Rain 08.mkv
+!new/Wolf's Rain 09.mkv
+!new/Wolf's Rain 10.mkv
+!new/Wolf's Rain 11.mkv
+!new/Wolf's Rain 12.mkv
+!new/Wolf's Rain 13.mkv
+!new/Wolf's Rain 14.mkv
+!new/Wolf's Rain 15.mkv
+!new/Wolf's Rain 16.mkv
+!new/Wolf's Rain 17.mkv
+!new/Wolf's Rain 18.mkv
+!new/Wolf's Rain 19.mkv
+!new/Wolf's Rain 20.mkv
+!new/Wolf's Rain 21.mkv
+!new/Wolf's Rain 22.mkv
+!new/Wolf's Rain 23.mkv
+!new/Wolf's Rain 24.mkv
+!new/Wolf's Rain 25.mkv
+!new/Wolf's Rain 26.mkv
+!new/Wolf's Rain 27.mkv
+!new/Wolf's Rain 28.mkv
+!new/Wolf's Rain 29.mkv
+!new/Wolf's Rain 30.mkv
+!new/Wolf's Rain Opening.mkv
 !new/[ASL]_Aimi_-_Bento_OP_-_LIVE_FOR_LIFE_Ookami_Tachi_no_Yoru_[FLAC].rar
 !new/[ASL]_Kitamura_Eri_-_C3_Theme_Song_-_Shirushi_[EXTRA].rar
 !new/[ASL]_Kitamura_Eri_-_C3_Theme_Song_-_Shirushi_[FLAC].rar
@@ -692,13 +723,16 @@
 !new/[Chibiki]_THE_iDOLM@STER_-_20_[720p][EA4ECCC9].mkv
 !new/[Commie] Guilty Crown - 06 [88FE8145].mkv
 !new/[Commie] Persona 4 - 07 [21C6C7FD].mkv
+!new/[Commie] Shakugan no Shana III - 07 [8E05796A].mkv
 !new/[Commie] UN-GO - 04 [0EAFA820].mkv
 !new/[Commie] UN-GO - 05 [C98642CE].mkv
 !new/[DATS] Robin with his 100 Friends - 04 [B465F131].mkv
 !new/[Doremi].Ojamajo.Doremi.Dokkaan!.08.[2CA9591C].avi
 !new/[HorribleSubs] Cardfight!! Vanguard - 45 [720p].mkv
+!new/[HorribleSubs] Fairy Tail - 106 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 33 [720p].mkv
 !new/[HorribleSubs] UN-GO - 06 [720p].mkv
+!new/[Licca] Porphy no Nagai Tabi Episode 02 (h.264) [698D4387].mkv
 !new/[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_07_[D314B974].mkv
 !new/[Oyatsu] Mashiro Iro Symphony - 07 (1280x720 x264 AAC) [82088EDB].mkv
 !new/[RyRo]_Inazuma_Eleven_GO_-_027_(720p)_[43B4BB31].mkv
@@ -709,8 +743,44 @@
 !new/[Underwater] Shinryaku! Ika Musume S2 - 06 (720p) [61DC59F7].mkv
 !new/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 09 [DVD H264 Hi10P 640x480] [C47D2566].mkv
 !new/[gg]_Mawaru_Penguindrum_-_19_[E0AC7FEC].mkv
+!new/[ray=out]_Umi_Kara_no_Shisha_[DVD][47B74977].mkv
 !new/[sage]_Monster_Farm_-Secret_of_the_Stone_Disks-_ 01_[H.264-AC3][1170064B].mkv
+!new/[sage]_Sekaiichi_Hatsukoi_2_-_07_[720p][10bit][E5CC0581].mkv
 !new/[yibis]_One_Piece_521_[720p][3AD2C387].mkv
+!new/a-l.rahxephon.01.xvid.ogm
+!new/a-l.rahxephon.02.xvid.ogm
+!new/a-l.rahxephon.03.xvid.ogm
+!new/a-l.rahxephon.04.xvid.ogm
+!new/a-l.rahxephon.05.xvid.ogm
+!new/a-l.rahxephon.06.xvid.ogm
+!new/a-l.rahxephon.07.xvid.ogm
+!new/a-l.rahxephon.08.xvid.ogm
+!new/a-l.rahxephon.09.xvid.ogm
+!new/a-l.rahxephon.10.xvid.ogm
+!new/a-l.rahxephon.11.xvid.ogm
+!new/a-l.rahxephon.12.xvid.ogm
+!new/a-l.rahxephon.13.xvid.mkv
+!new/a-l.rahxephon.14.xvid.mkv
+!new/a-l.rahxephon.15.xvid.mkv
+!new/a-l.rahxephon.16.xvid.mkv
+!new/a-l.rahxephon.17.xvid.mkv
+!new/a-l.rahxephon.18.xvid.mkv
+!new/a-l.rahxephon.19.xvid.mkv
+!new/a-l.rahxephon.20.xvid.mkv
+!new/a-l.rahxephon.21.xvid.mkv
+!new/a-l.rahxephon.22.xvid.mkv
+!new/a-l.rahxephon.23.xvid.mkv
+!new/a-l.rahxephon.24.xvid.mkv
+!new/a-l.rahxephon.25.xvid.mkv
+!new/a-l.rahxephon.26.xvid.mkv
+!new/a-l.rahxephon.extra.clean-ending.xvid.mkv
+!new/a-l.rahxephon.extra.clean-opening.01.xvid.mkv
+!new/a-l.rahxephon.extra.clean-opening.02.xvid.mkv
+!new/a-l.rahxephon.extra.fate-of-katun.xvid.mkv
+!new/a-l.rahxephon.extra.interview-hiroki-kanno.xvid.mkv
+!new/a-l.rahxephon.extra.interview-japanese-cast.xvid.mkv
+!new/a-l.rahxephon.extra.japanese-cover-art.xvid.mkv
+!new/a-l.rahxephon.extra.special-promo.xvid.mkv
 !new/app/Combined-Community-Codec-Pack-2011-07-30.exe
 !new/app/VirtualBox-4.1.6-74713-Win.exe
 !new/app/Win7Vista_151718.exe
