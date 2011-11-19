@@ -1553,6 +1553,19 @@
 !new/narutoship/y/Naruto Shippuden 098.mkv
 !new/narutoship/y/Naruto Shippuden 099-HD.mkv
 !new/narutoship/y/Naruto Shippuden 099.mkv
+!new/nuu/To Heart 2/[Jumonji-Giri] To Heart 2 - 01 [44A88C4E].mkv
+!new/nuu/To Heart 2/[Jumonji-Giri] To Heart 2 - 02 [27332FCC].mkv
+!new/nuu/To Heart 2/[Jumonji-Giri] To Heart 2 - 03 [E6A2BE0F].mkv
+!new/nuu/To Heart 2/[Jumonji-Giri] To Heart 2 - 04 [21862C62].mkv
+!new/nuu/To Heart 2/[Jumonji-Giri] To Heart 2 - 05 [9B3B1CC8].mkv
+!new/nuu/To Heart 2/[Jumonji-Giri] To Heart 2 - 06 [C979D070].mkv
+!new/nuu/To Heart 2/[Jumonji-Giri] To Heart 2 - 07 [349C1322].mkv
+!new/nuu/To Heart 2/[Jumonji-Giri] To Heart 2 - 08 [D534D59C].mkv
+!new/nuu/To Heart 2/[Jumonji-Giri] To Heart 2 - 09 [064BE4BC].mkv
+!new/nuu/To Heart 2/[Jumonji-Giri] To Heart 2 - 10 [BEC2FA88].mkv
+!new/nuu/To Heart 2/[Jumonji-Giri] To Heart 2 - 11 [180CC119].mkv
+!new/nuu/To Heart 2/[Jumonji-Giri] To Heart 2 - 11.5 [8BC765EA].mkv
+!new/nuu/To Heart 2/[Jumonji-Giri] To Heart 2 - 12 [81DDF9D5].mkv
 !new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover - 55midori unaired version (DVD 1024x576 x264 FLAC).mkv
 !new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover - CM TV-SPOT (DVD 720x480 x264 AC-3).mkv
 !new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover - CM for shops (DVD 720x480 x264 AC-3).mkv
@@ -1631,12 +1644,43 @@
 !new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/[ANE] Honey & Clover II 12 (DVD 1024x576 x264 FLAC).mkv
 !new/nuu/[ANE] Shinryaku! Ika Musume - Mini Squid Girl Short Stories [BDRip 720p x264 FLAC]/[ANE] Shinryaku! Ika Musume - Mini Squid Girl Short Story 1 [BDRip 720p x264 FLAC].mkv
 !new/nuu/[ANE] Shinryaku! Ika Musume - Mini Squid Girl Short Stories [BDRip 720p x264 FLAC]/[ANE] Shinryaku! Ika Musume - Mini Squid Girl Short Story 2 [BDRip 720p x264 FLAC].mkv
+!new/nuu/[ANE] Yosuga no Sora [BDRip 1080p x264 FLAC]/Bonus/[ANE] Yosuga no Sora - Amatsume Akira Digest Video [BDRip 1080p x264 FLAC].mkv
+!new/nuu/[ANE] Yosuga no Sora [BDRip 1080p x264 FLAC]/Bonus/[ANE] Yosuga no Sora - Animation Production [BDRip 1080p x264 FLAC].mkv
+!new/nuu/[ANE] Yosuga no Sora [BDRip 1080p x264 FLAC]/Bonus/[ANE] Yosuga no Sora - Creditless Ending [BDRip 1080p x264 FLAC].mkv
+!new/nuu/[ANE] Yosuga no Sora [BDRip 1080p x264 FLAC]/Bonus/[ANE] Yosuga no Sora - Creditless Opening [BDRip 1080p x264 FLAC].mkv
+!new/nuu/[ANE] Yosuga no Sora [BDRip 1080p x264 FLAC]/Bonus/[ANE] Yosuga no Sora - Ep01 Preview (Yorihime ver) [BDRip 1080p x264 FLAC].mkv
+!new/nuu/[ANE] Yosuga no Sora [BDRip 1080p x264 FLAC]/Bonus/[ANE] Yosuga no Sora - Ep02 Preview (Amatsume ver) [BDRip 1080p x264 FLAC].mkv
+!new/nuu/[ANE] Yosuga no Sora [BDRip 1080p x264 FLAC]/Bonus/[ANE] Yosuga no Sora - Ep07 Preview (Sora ver) [BDRip 1080p x264 FLAC].mkv
+!new/nuu/[ANE] Yosuga no Sora [BDRip 1080p x264 FLAC]/Bonus/[ANE] Yosuga no Sora - Insert Song [BDRip 1080p x264 FLAC].mkv
+!new/nuu/[ANE] Yosuga no Sora [BDRip 1080p x264 FLAC]/Bonus/[ANE] Yosuga no Sora - Kasugano Sora Digest Video [BDRip 1080p x264 FLAC].mkv
+!new/nuu/[ANE] Yosuga no Sora [BDRip 1080p x264 FLAC]/Bonus/[ANE] Yosuga no Sora - Migiwa Kazuha Digest Video [BDRip 1080p x264 FLAC].mkv
+!new/nuu/[ANE] Yosuga no Sora [BDRip 1080p x264 FLAC]/Bonus/[ANE] Yosuga no Sora - Yorihime Nao Digest Video [BDRip 1080p x264 FLAC].mkv
 !new/nuu/[ANE] Yosuga no Sora [BDRip 1080p x264 FLAC]/[ANE] Yosuga no Sora - Ep01 [BDRip 1080p x264 FLAC].mkv
 !new/nuu/[ANE] Yosuga no Sora [BDRip 1080p x264 FLAC]/[ANE] Yosuga no Sora - Ep02 [BDRip 1080p x264 FLAC].mkv
 !new/nuu/[ANE] Yosuga no Sora [BDRip 1080p x264 FLAC]/[ANE] Yosuga no Sora - Ep03 [BDRip 1080p x264 FLAC].mkv
 !new/nuu/[ANE] Yosuga no Sora [BDRip 1080p x264 FLAC]/[ANE] Yosuga no Sora - Ep04 [BDRip 1080p x264 FLAC].mkv
 !new/nuu/[ANE] Yosuga no Sora [BDRip 1080p x264 FLAC]/[ANE] Yosuga no Sora - Ep05 [BDRip 1080p x264 FLAC].mkv
 !new/nuu/[ANE] Yosuga no Sora [BDRip 1080p x264 FLAC]/[ANE] Yosuga no Sora - Ep06 [BDRip 1080p x264 FLAC].mkv
+!new/nuu/[ANE] Yosuga no Sora [BDRip 1080p x264 FLAC]/[ANE] Yosuga no Sora - Ep07 [BDRip 1080p x264 FLAC].mkv
+!new/nuu/[ANE] Yosuga no Sora [BDRip 1080p x264 FLAC]/[ANE] Yosuga no Sora - Ep08 [BDRip 1080p x264 FLAC].mkv
+!new/nuu/[ANE] Yosuga no Sora [BDRip 1080p x264 FLAC]/[ANE] Yosuga no Sora - Ep09 [BDRip 1080p x264 FLAC].mkv
+!new/nuu/[ANE] Yosuga no Sora [BDRip 1080p x264 FLAC]/[ANE] Yosuga no Sora - Ep10 [BDRip 1080p x264 FLAC].mkv
+!new/nuu/[ANE] Yosuga no Sora [BDRip 1080p x264 FLAC]/[ANE] Yosuga no Sora - Ep11 [BDRip 1080p x264 FLAC].mkv
+!new/nuu/[ANE] Yosuga no Sora [BDRip 1080p x264 FLAC]/[ANE] Yosuga no Sora - Ep12 [BDRip 1080p x264 FLAC].mkv
+!new/nuu/[Elysium]Kore.wa.Zombie.Desu.Ka(BD.1080p.Hi10P.AAC)/OP-ED/[Elysium]Kore.wa.Zombie.Desu.Ka.ED(BD.1080p.FLAC)[80B750C2].mkv
+!new/nuu/[Elysium]Kore.wa.Zombie.Desu.Ka(BD.1080p.Hi10P.AAC)/OP-ED/[Elysium]Kore.wa.Zombie.Desu.Ka.OP(BD.1080p.FLAC)[6C1B3A38].mkv
+!new/nuu/[Elysium]Kore.wa.Zombie.Desu.Ka(BD.1080p.Hi10P.AAC)/[Elysium]Kore.wa.Zombie.Desu.Ka.EP01(BD.1080p.Hi10P.AAC)[A000F86D].mkv
+!new/nuu/[Elysium]Kore.wa.Zombie.Desu.Ka(BD.1080p.Hi10P.AAC)/[Elysium]Kore.wa.Zombie.Desu.Ka.EP02(BD.1080p.Hi10P.AAC)[5A03EC5A].mkv
+!new/nuu/[Elysium]Kore.wa.Zombie.Desu.Ka(BD.1080p.Hi10P.AAC)/[Elysium]Kore.wa.Zombie.Desu.Ka.EP03(BD.1080p.Hi10P.AAC)[9A41F287].mkv
+!new/nuu/[Elysium]Kore.wa.Zombie.Desu.Ka(BD.1080p.Hi10P.AAC)/[Elysium]Kore.wa.Zombie.Desu.Ka.EP04(BD.1080p.Hi10P.AAC)[D19BF1B3].mkv
+!new/nuu/[Elysium]Kore.wa.Zombie.Desu.Ka(BD.1080p.Hi10P.AAC)/[Elysium]Kore.wa.Zombie.Desu.Ka.EP05(BD.1080p.Hi10P.AAC)[3514E795].mkv
+!new/nuu/[Elysium]Kore.wa.Zombie.Desu.Ka(BD.1080p.Hi10P.AAC)/[Elysium]Kore.wa.Zombie.Desu.Ka.EP06(BD.1080p.Hi10P.AAC)[CE007FA7].mkv
+!new/nuu/[Elysium]Kore.wa.Zombie.Desu.Ka(BD.1080p.Hi10P.AAC)/[Elysium]Kore.wa.Zombie.Desu.Ka.EP07(BD.1080p.Hi10P.AAC)[84AB5155].mkv
+!new/nuu/[Elysium]Kore.wa.Zombie.Desu.Ka(BD.1080p.Hi10P.AAC)/[Elysium]Kore.wa.Zombie.Desu.Ka.EP08(BD.1080p.Hi10P.AAC)[4E97E7A0].mkv
+!new/nuu/[Elysium]Kore.wa.Zombie.Desu.Ka(BD.1080p.Hi10P.AAC)/[Elysium]Kore.wa.Zombie.Desu.Ka.EP09(BD.1080p.Hi10P.AAC)[955B55EE].mkv
+!new/nuu/[Elysium]Kore.wa.Zombie.Desu.Ka(BD.1080p.Hi10P.AAC)/[Elysium]Kore.wa.Zombie.Desu.Ka.EP10(BD.1080p.Hi10P.AAC)[8F5C7489].mkv
+!new/nuu/[Elysium]Kore.wa.Zombie.Desu.Ka(BD.1080p.Hi10P.AAC)/[Elysium]Kore.wa.Zombie.Desu.Ka.EP11(BD.1080p.Hi10P.AAC)[5BCE80AA].mkv
+!new/nuu/[Elysium]Kore.wa.Zombie.Desu.Ka(BD.1080p.Hi10P.AAC)/[Elysium]Kore.wa.Zombie.Desu.Ka.EP12(BD.1080p.Hi10P.AAC)[DF73CDF7].mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス OVA 「青空が描きたい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 映像特典 「The たんかい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 第01話 「えがいてあそぼ」.mkv
