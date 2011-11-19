@@ -5,6 +5,8 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - 634 [DCTP][720p][6311D063].mp4
+!new/Detective Conan - 635 [DCTP][720p][AC7FD1F6].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -682,18 +684,32 @@
 !new/[ASL]_Aimi_-_Bento_OP_-_LIVE_FOR_LIFE_Ookami_Tachi_no_Yoru_[FLAC].rar
 !new/[ASL]_Kitamura_Eri_-_C3_Theme_Song_-_Shirushi_[EXTRA].rar
 !new/[ASL]_Kitamura_Eri_-_C3_Theme_Song_-_Shirushi_[FLAC].rar
+!new/[ASL]_TAMUSIC_-_Suzumiya_Haruhi_no_Kyouen_[FLAC].rar
+!new/[ASL]_Various_Artists_-_Kasou_Shoujo_~Lip-Aura~_Gensou_Kakyoku-shuu_[FLAC].rar
 !new/[ASL]_Various_Artists_-_Luminous_Symphony_[FLAC].rar
 !new/[ASL]_Various_Artists_-_RO-KYU-BU_pure_elements_[FLAC]_[w_Scans].rar
 !new/[Ayako]_Jewelpet_Sunshine_-_07_[H264][720p][D612573E].mkv
+!new/[Chibiki]_THE_iDOLM@STER_-_20_[720p][EA4ECCC9].mkv
 !new/[Commie] Guilty Crown - 06 [88FE8145].mkv
 !new/[Commie] Persona 4 - 07 [21C6C7FD].mkv
+!new/[Commie] UN-GO - 04 [0EAFA820].mkv
+!new/[Commie] UN-GO - 05 [C98642CE].mkv
+!new/[DATS] Robin with his 100 Friends - 04 [B465F131].mkv
+!new/[Doremi].Ojamajo.Doremi.Dokkaan!.08.[2CA9591C].avi
 !new/[HorribleSubs] SKET Dance - 33 [720p].mkv
 !new/[HorribleSubs] UN-GO - 06 [720p].mkv
 !new/[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_07_[D314B974].mkv
+!new/[Oyatsu] Mashiro Iro Symphony - 07 (1280x720 x264 AAC) [82088EDB].mkv
+!new/[RyRo]_Inazuma_Eleven_GO_-_027_(720p)_[43B4BB31].mkv
 !new/[Shin-S] Ben-To Character Songs & Etc. - Treasure! [Various].zip
+!new/[Shin-S] Choucho - Authentic symphony PV [720p][B4EAF97F].mkv
 !new/[Shin-S] Nurarihyon no Mago ~Sennen Makyou~ OP2 Single - The LOVE SONG [LM.C].zip
+!new/[Shin-S] Shinryaku! Ika Musume S2 ED Single - Kimi wo Shiru Koto [Kanemoto Hisako].zip
 !new/[Underwater] Shinryaku! Ika Musume S2 - 06 (720p) [61DC59F7].mkv
 !new/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 09 [DVD H264 Hi10P 640x480] [C47D2566].mkv
+!new/[gg]_Mawaru_Penguindrum_-_19_[E0AC7FEC].mkv
+!new/[sage]_Monster_Farm_-Secret_of_the_Stone_Disks-_ 01_[H.264-AC3][1170064B].mkv
+!new/[yibis]_One_Piece_521_[720p][3AD2C387].mkv
 !new/app/Combined-Community-Codec-Pack-2011-07-30.exe
 !new/app/VirtualBox-4.1.6-74713-Win.exe
 !new/app/Win7Vista_151718.exe
