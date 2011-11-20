@@ -716,13 +716,16 @@
 !new/[ASL]_Kitamura_Eri_-_C3_Theme_Song_-_Shirushi_[EXTRA].rar
 !new/[ASL]_Kitamura_Eri_-_C3_Theme_Song_-_Shirushi_[FLAC].rar
 !new/[ASL]_TAMUSIC_-_Suzumiya_Haruhi_no_Kyouen_[FLAC].rar
+!new/[ASL]_Various_Artists_-_Aiyoku_no_Eustia_Original_Sound_Track_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Kasou_Shoujo_~Lip-Aura~_Gensou_Kakyoku-shuu_[FLAC].rar
 !new/[ASL]_Various_Artists_-_Luminous_Symphony_[FLAC].rar
 !new/[ASL]_Various_Artists_-_RO-KYU-BU_pure_elements_[FLAC]_[w_Scans].rar
 !new/[Ayako]_Jewelpet_Sunshine_-_07_[H264][720p][D612573E].mkv
 !new/[Chibiki]_THE_iDOLM@STER_-_20_[720p][EA4ECCC9].mkv
+!new/[Commie] Chihayafuru - 07 [31E98B35].mkv
 !new/[Commie] Fate ⁄ Zero - 08 [949CDCEE].mkv
 !new/[Commie] Guilty Crown - 06 [88FE8145].mkv
+!new/[Commie] Last Exile ~Fam, The Silver Wing~ - 06 [A187D6F6].mkv
 !new/[Commie] Persona 4 - 07 [21C6C7FD].mkv
 !new/[Commie] Shakugan no Shana III - 07 [8E05796A].mkv
 !new/[Commie] UN-GO - 04 [0EAFA820].mkv
@@ -730,21 +733,31 @@
 !new/[DATS] Robin with his 100 Friends - 04 [B465F131].mkv
 !new/[Doremi].Ojamajo.Doremi.Dokkaan!.08.[2CA9591C].avi
 !new/[Hadena] C3 - 08 [1280x720 x264 AAC][63BB7377].mkv
+!new/[Hiryuu] Maji de Watashi ni Koi Shinasai!! 07 [Hi10P 1280x720 H264] [031E1062].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 45 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 106 [720p].mkv
+!new/[HorribleSubs] Hunter X Hunter - 08 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 33 [720p].mkv
 !new/[HorribleSubs] UN-GO - 06 [720p].mkv
+!new/[HorribleSubs] Working!! - 08 [720p].mkv
 !new/[Licca] Porphy no Nagai Tabi Episode 02 (h.264) [698D4387].mkv
 !new/[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_07_[D314B974].mkv
 !new/[Oyatsu] Mashiro Iro Symphony - 07 (1280x720 x264 AAC) [82088EDB].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_057_Zuruggu_and_the_Selfish_Gothimu![H264_720P][D70AB201].mkv
 !new/[RyRo]_Inazuma_Eleven_GO_-_027_(720p)_[43B4BB31].mkv
+!new/[SFW-sage]_Bakuman_S2_-_08_[720p][Hi10P][45404A3A].mkv
+!new/[SS-Eclipse] Shakugan no Shana Final - 07 (1280x720 Hi10P) [8C6DCFCD].mkv
 !new/[Shin-S] Ben-To Character Songs & Etc. - Treasure! [Various].zip
 !new/[Shin-S] Choucho - Authentic symphony PV [720p][B4EAF97F].mkv
 !new/[Shin-S] Nurarihyon no Mago ~Sennen Makyou~ OP2 Single - The LOVE SONG [LM.C].zip
 !new/[Shin-S] Shinryaku! Ika Musume S2 ED Single - Kimi wo Shiru Koto [Kanemoto Hisako].zip
+!new/[UTW]_Fate_Zero_-_08_[h264-720p][5B1BCAC4].mkv
 !new/[Underwater] Shinryaku! Ika Musume S2 - 06 (720p) [61DC59F7].mkv
 !new/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 09 [DVD H264 Hi10P 640x480] [C47D2566].mkv
+!new/[gg]_Ben-to_-_07_[4E85D4EE].mkv
 !new/[gg]_Mawaru_Penguindrum_-_19_[E0AC7FEC].mkv
+!new/[iSiscon]_KOTOKO_-_Shakugan_no_Shana_III_OP_Single_-_Light_My_Fire_[w_scans]_(FLAC).rar
+!new/[ray=out]_Happiness!_-_01_[DVD][C4BCBD93].mkv
 !new/[ray=out]_Umi_Kara_no_Shisha_[DVD][47B74977].mkv
 !new/[sage]_Monster_Farm_-Secret_of_the_Stone_Disks-_ 01_[H.264-AC3][1170064B].mkv
 !new/[sage]_Sekaiichi_Hatsukoi_2_-_07_[720p][10bit][E5CC0581].mkv
