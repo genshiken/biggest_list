@@ -420,40 +420,6 @@
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
-!new/RahXephon/a-l.rahxephon.01.xvid.ogm
-!new/RahXephon/a-l.rahxephon.02.xvid.ogm
-!new/RahXephon/a-l.rahxephon.03.xvid.ogm
-!new/RahXephon/a-l.rahxephon.04.xvid.ogm
-!new/RahXephon/a-l.rahxephon.05.xvid.ogm
-!new/RahXephon/a-l.rahxephon.06.xvid.ogm
-!new/RahXephon/a-l.rahxephon.07.xvid.ogm
-!new/RahXephon/a-l.rahxephon.08.xvid.ogm
-!new/RahXephon/a-l.rahxephon.09.xvid.ogm
-!new/RahXephon/a-l.rahxephon.10.xvid.ogm
-!new/RahXephon/a-l.rahxephon.11.xvid.ogm
-!new/RahXephon/a-l.rahxephon.12.xvid.ogm
-!new/RahXephon/a-l.rahxephon.13.xvid.mkv
-!new/RahXephon/a-l.rahxephon.14.xvid.mkv
-!new/RahXephon/a-l.rahxephon.15.xvid.mkv
-!new/RahXephon/a-l.rahxephon.16.xvid.mkv
-!new/RahXephon/a-l.rahxephon.17.xvid.mkv
-!new/RahXephon/a-l.rahxephon.18.xvid.mkv
-!new/RahXephon/a-l.rahxephon.19.xvid.mkv
-!new/RahXephon/a-l.rahxephon.20.xvid.mkv
-!new/RahXephon/a-l.rahxephon.21.xvid.mkv
-!new/RahXephon/a-l.rahxephon.22.xvid.mkv
-!new/RahXephon/a-l.rahxephon.23.xvid.mkv
-!new/RahXephon/a-l.rahxephon.24.xvid.mkv
-!new/RahXephon/a-l.rahxephon.25.xvid.mkv
-!new/RahXephon/a-l.rahxephon.26.xvid.mkv
-!new/RahXephon/a-l.rahxephon.extra.clean-ending.xvid.mkv
-!new/RahXephon/a-l.rahxephon.extra.clean-opening.01.xvid.mkv
-!new/RahXephon/a-l.rahxephon.extra.clean-opening.02.xvid.mkv
-!new/RahXephon/a-l.rahxephon.extra.fate-of-katun.xvid.mkv
-!new/RahXephon/a-l.rahxephon.extra.interview-hiroki-kanno.xvid.mkv
-!new/RahXephon/a-l.rahxephon.extra.interview-japanese-cast.xvid.mkv
-!new/RahXephon/a-l.rahxephon.extra.japanese-cover-art.xvid.mkv
-!new/RahXephon/a-l.rahxephon.extra.special-promo.xvid.mkv
 !new/Ranma (Complete)/Ranma Movies and OVAs/Thumbs.db
 !new/Ranma (Complete)/Ranma Movies and OVAs/[anime_fin]_Ranma_Movie_1_DVDRiP_dualaudio.ogm
 !new/Ranma (Complete)/Ranma Movies and OVAs/[anime_fin]_Ranma_Movie_2_DVDRiP_dualaudio.ogm
@@ -791,13 +757,6 @@
 !new/[Licca] Porphy no Nagai Tabi Episode 02 (h.264) [698D4387].mkv
 !new/[Licca] The Alps Story - My Annette Episode 02 (h.264) [02CC0FE0].mkv
 !new/[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_07_[D314B974].mkv
-!new/[Nipponsei] Carnival Phantasm ED Single - Fellows [Endou Masaaki].zip
-!new/[Nipponsei] Fate Zero OP Single - oath sign [LiSA].zip
-!new/[Nipponsei] Gundam UC Original Soundtrack 2.zip
-!new/[Nipponsei] Kimi to Boku. ED Single - Nakimushi. [Sawai Miku].zip
-!new/[Nipponsei] Nurarihyon no Mago Sennen Makyou OP2 Single - The LOVE SONG [LM.C].zip
-!new/[Nipponsei] Shakugan no Shana III OP Single - Light My Fire [KOTOKO].zip
-!new/[Nipponsei] Shinryaku! Ika Musume 2 ED Single - Kimi wo Shiru Koto [Kanemoto Hisako].zip
 !new/[Oyatsu] Mashiro Iro Symphony - 07 (1280x720 x264 AAC) [82088EDB].mkv
 !new/[PM]Pocket_Monsters_Best_Wishes_057_Zuruggu_and_the_Selfish_Gothimu![H264_720P][D70AB201].mkv
 !new/[RyRo]_Inazuma_Eleven_GO_-_027_(720p)_[43B4BB31].mkv
@@ -816,11 +775,14 @@
 !new/[gg]_Mawaru_Penguindrum_-_19_[E0AC7FEC].mkv
 !new/[iSiscon]_KOTOKO_-_Shakugan_no_Shana_III_OP_Single_-_Light_My_Fire_[w_scans]_(FLAC).rar
 !new/[iSiscon]_LiSA_-_TV_Anime_Fate_Zero_OP_Single_-_oath_sign_[w_scans]_(FLAC).rar
-!new/[m.3.3.w]_Working'!!_-_07_[h264_720p]_[B9AF8EBE].mkv
-!new/[sage]_Mobile_Suit_Gundam_AGE_-_07_[720p][10bit][1827C4FB].mkv
-!new/[sage]_Monster_Farm_-Secret_of_the_Stone_Disks-_ 01_[H.264-AC3][1170064B].mkv
-!new/[sage]_Sekaiichi_Hatsukoi_2_-_07_[720p][10bit][E5CC0581].mkv
-!new/[yibis]_One_Piece_521_[720p][3AD2C387].mkv
+!new/a-l.rahxephon.extra.clean-ending.xvid.mkv
+!new/a-l.rahxephon.extra.clean-opening.01.xvid.mkv
+!new/a-l.rahxephon.extra.clean-opening.02.xvid.mkv
+!new/a-l.rahxephon.extra.fate-of-katun.xvid.mkv
+!new/a-l.rahxephon.extra.interview-hiroki-kanno.xvid.mkv
+!new/a-l.rahxephon.extra.interview-japanese-cast.xvid.mkv
+!new/a-l.rahxephon.extra.japanese-cover-art.xvid.mkv
+!new/a-l.rahxephon.extra.special-promo.xvid.mkv
 !new/app/Combined-Community-Codec-Pack-2011-07-30.exe
 !new/app/VirtualBox-4.1.6-74713-Win.exe
 !new/app/Win7Vista_151718.exe
