@@ -1251,32 +1251,44 @@ complete/b/Baka to Test to Shokanju/[gg] Baka to Test to Shokanju - 10 [6CF6277F
 complete/b/Baka to Test to Shokanju/[gg] Baka to Test to Shokanju - 11 [81981E3E].mkv
 complete/b/Baka to Test to Shokanju/[gg] Baka to Test to Shokanju - 12 [FCC670E6].mkv
 complete/b/Baka to Test to Shokanju/[gg] Baka to Test to Shokanju - 13 [End][6DA585EF].mkv
-complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 01 [1080p BD][CB8C0798].mkv
-complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 02 [1080p BD][A9C08B88].mkv
-complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 03 [1080p BD][BEE27A09].mkv
-complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 04 [1080p BD][D817C8BC].mkv
-complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 05 [1080p BD][BDA67DFD].mkv
-complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 06 [1080p BD][C5E11F8B].mkv
-complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 07 [1080p BD][9BA87313].mkv
-complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 08 [1080p BD][37496ED6].mkv
-complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 09 [1080p BD][F5A7FB10].mkv
-complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 10 [1080p BD][0638979B].mkv
-complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 11 [1080p BD][D3A601EE].mkv
-complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 12 [1080p BD][95BB247A].mkv
-complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 13 [1080p BD][96E896D7].mkv
-complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 14 [1080p BD][69AF9DB4].mkv
-complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - 15 [End][1080p BD][91C6A3EF].mkv
-complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - Ending 1 [1080p BD][CAE34AE3].mkv
-complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - Ending 3 [1080p BD][48203556].mkv
-complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - Ending 4 [1080p BD][3741B457].mkv
-complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - Opening 2 [1080p BD][16AFEF2F].mkv
-complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - Opening 3 [1080p BD][CE88BB8E].mkv
-complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - Opening 4a [1080p BD][F4B6CA3A].mkv
-complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - Opening 4b [1080p BD][D36ED5B9].mkv
-complete/b/Bakemonogatari/[Coalgirls] Bakemonogatari - Opening 5b [1080p BD][C23AA6BB].mkv
-complete/b/Bakemonogatari/[Koharubi] Bakemonogatari - 01 [1080p BD][54941B4A].mkv
-complete/b/Bakemonogatari/[Koharubi] Bakemonogatari - 02 [1080p BD][012B4B3C].mkv
-complete/b/Bakemonogatari/[Koharubi] Bakemonogatari - Hitagi Crab Notes [D6C5C5D0].pdf
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - 01 [1080p BD][6C4ADF9A].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - 02 [1080p BD][347EB840].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - 03 [1080p BD][E652B4B8].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - 04 [1080p BD][3527E314].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - 05 [1080p BD][83B5A130].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - 06 [1080p BD][F736DE8E].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - 07 [1080p BD][CA621CF2].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - 08 [1080p BD][DDF8F2AF].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - 09 [1080p BD][F1FBCC15].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - 10 [1080p BD][62CDB663].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - 11 [1080p BD][628634E4].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - 12 [1080p BD][59D7EA2E].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - 13 [1080p BD][3A714798].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - 14 [1080p BD][96278ACF].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - 15 [End][1080p BD][6871AA40].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - Ending 1 (Clean) [1080p BD][D7D0CDD3].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - Ending 2 [1080p BD][B816C2BC].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - Ending 3 (Clean) [1080p BD][23660879].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - Ending 4 (Clean) [1080p BD][795B084C].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - Ending 5 (Clean) [1080p BD][AF1D3FF9].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - Ending 6 (Clean) [1080p BD][905C4D2C].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - Opening 2 (Clean) [1080p BD][1E877DF2].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - Opening 3 (Clean) [1080p BD][35B15CF4].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - Opening 4a (Clean) [1080p BD][1AA90A09].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - Opening 4b (Clean) [1080p BD][46295AEF].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - Opening 5b (Clean) [1080p BD][E427D119].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - TV Preview 01 [1080p BD][02C15652].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - TV Preview 02 [1080p BD][585A4FBA].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - TV Preview 03 [1080p BD][96416592].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - TV Preview 04 [1080p BD][D2AC1D16].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - TV Preview 05 [1080p BD][B2924C78].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - TV Preview 06 [1080p BD][AFF09C89].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - TV Preview 07 [1080p BD][2EEAD70F].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - TV Preview 08 [1080p BD][09876BF5].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - TV Preview 09 [1080p BD][7F1382E3].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - TV Preview 10 [1080p BD][DE4C18ED].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - TV Preview 11 [1080p BD][85890847].mkv
+complete/b/Bakemonogatari/[ANE] Bakemonogatari - TV Preview 12 [1080p BD][452D31B5].mkv
 complete/b/Bakuman/[TMD A-Destiny] Bakuman - 13 [720p][DD87C902].mkv
 complete/b/Bakuman/[TMD A-Destiny] Bakuman - 14 [720p][C021C6A5].mkv
 complete/b/Bakuman/[TMD A-Destiny] Bakuman - 15 [720p][906CFF37].mkv
@@ -19044,32 +19056,22 @@ complete/t/To Heart 2 adnext/[AQS-Anime] To Heart 2 adnext - 1 [1080p][79068F4D]
 complete/t/To Heart 2 adnext/[AQS-Anime] To Heart 2 adnext - 2 [End][1080p][5583F545].mkv
 complete/t/To Heart 2 adplus/[AQS-Anime] To Heart 2 adplus - 1 [6E1AB59C].mkv
 complete/t/To Heart 2 adplus/[AQS-Anime] To Heart 2 adplus - 2 [End][37BD9EC5].mkv
-complete/t/To Heart 2/[Avalon-AQS] To Heart 2 - 01 [39479F09].avi
-complete/t/To Heart 2/[Avalon-AQS] To Heart 2 - 02 [9F34AEC4].avi
-complete/t/To Heart 2/[Avalon-AQS] To Heart 2 - 03 [7A21696F].avi
-complete/t/To Heart 2/[Avalon-AQS] To Heart 2 - 04 [ED4BBFD6].avi
-complete/t/To Heart 2/[Avalon-AQS] To Heart 2 - 05 [F9C4E525].avi
-complete/t/To Heart 2/[Avalon-AQS] To Heart 2 - 06 [EC14B9DA].avi
-complete/t/To Heart 2/[Avalon-AQS] To Heart 2 - 07 [ADFDAF2C].avi
-complete/t/To Heart 2/[Avalon-AQS] To Heart 2 - 08 [56434964].avi
-complete/t/To Heart 2/[Avalon-AQS] To Heart 2 - 09 [A1CDD885].avi
-complete/t/To Heart 2/[Avalon-AQS] To Heart 2 - 10 [2C23EDB5].avi
-complete/t/To Heart 2/[Avalon-AQS] To Heart 2 - 12 [2FE37E00].avi
-complete/t/To Heart 2/[Avalon-AQS] To Heart 2 - 13 [End][2C63DE43].avi
+complete/t/To Heart 2/[Jumonji-Giri] To Heart 2 - 01 [44A88C4E].mkv
+complete/t/To Heart 2/[Jumonji-Giri] To Heart 2 - 02 [27332FCC].mkv
+complete/t/To Heart 2/[Jumonji-Giri] To Heart 2 - 03 [E6A2BE0F].mkv
+complete/t/To Heart 2/[Jumonji-Giri] To Heart 2 - 04 [21862C62].mkv
+complete/t/To Heart 2/[Jumonji-Giri] To Heart 2 - 05 [9B3B1CC8].mkv
+complete/t/To Heart 2/[Jumonji-Giri] To Heart 2 - 06 [C979D070].mkv
+complete/t/To Heart 2/[Jumonji-Giri] To Heart 2 - 07 [349C1322].mkv
+complete/t/To Heart 2/[Jumonji-Giri] To Heart 2 - 08 [D534D59C].mkv
+complete/t/To Heart 2/[Jumonji-Giri] To Heart 2 - 09 [064BE4BC].mkv
+complete/t/To Heart 2/[Jumonji-Giri] To Heart 2 - 10 [BEC2FA88].mkv
+complete/t/To Heart 2/[Jumonji-Giri] To Heart 2 - 11 [180CC119].mkv
+complete/t/To Heart 2/[Jumonji-Giri] To Heart 2 - 11.5 [8BC765EA].mkv
+complete/t/To Heart 2/[Jumonji-Giri] To Heart 2 - 12 [81DDF9D5].mkv
 complete/t/To Heart 2/[Jumonji-Giri] To Heart 2 - 13 [End][A18EFE24].mkv
 complete/t/To Heart 2/[Jumonji-Giri] To Heart 2 - Ending (Clean) [D429CDF4].mkv
 complete/t/To Heart 2/[Jumonji-Giri] To Heart 2 - Opening (Clean) [DE07DF14].mkv
-complete/t/To Heart 2/[Shinsen-Subs] To Heart 2 - 01 [v2][58E30881].avi
-complete/t/To Heart 2/[Shinsen-Subs] To Heart 2 - 02 [F76FE52A].avi
-complete/t/To Heart 2/[Shinsen-Subs] To Heart 2 - 03 [0D2B22D9].avi
-complete/t/To Heart 2/[Shinsen-Subs] To Heart 2 - 04 [0B119DB6].avi
-complete/t/To Heart 2/[Shinsen-Subs] To Heart 2 - 05 [76441598].avi
-complete/t/To Heart 2/[Shinsen-Subs] To Heart 2 - 06 [E98C81CE].avi
-complete/t/To Heart 2/[Shinsen-Subs] To Heart 2 - 07 [E73C9C55].avi
-complete/t/To Heart 2/[Shinsen-Subs] To Heart 2 - 08 [v2][C89BEA88].avi
-complete/t/To Heart 2/[Shinsen-Subs] To Heart 2 - 09 [F294B1D5].avi
-complete/t/To Heart 2/[Shinsen-Subs] To Heart 2 - 10 [2412A756].avi
-complete/t/To Heart 2/[Shinsen-Subs] To Heart 2 - 11 [D6961DE6].avi
 complete/t/To Heart/[Exiled-Destiny] To Heart - 01 [5328882B].mkv
 complete/t/To Heart/[Exiled-Destiny] To Heart - 02 [48C763E4].mkv
 complete/t/To Heart/[Exiled-Destiny] To Heart - 03 [4D740245].mkv

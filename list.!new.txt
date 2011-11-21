@@ -688,7 +688,6 @@
 !new/[HorribleSubs] UN-GO - 06 [720p].mkv
 !new/[HorribleSubs] Working!! - 08 [720p].mkv
 !new/[SubDESU]_Yozakura_Quartet_Hoshi_no_Umi_-_03_[D2D6A779].mkv
-!new/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 09 [DVD H264 Hi10P 640x480] [C47D2566].mkv
 !new/a-l.rahxephon.extra.clean-ending.xvid.mkv
 !new/a-l.rahxephon.extra.clean-opening.01.xvid.mkv
 !new/a-l.rahxephon.extra.clean-opening.02.xvid.mkv
@@ -1251,60 +1250,6 @@
 !new/bla/zx.black.heaven.12.sub.rar
 !new/bla/zx.black.heaven.13.dub.avi
 !new/bla/zx.black.heaven.13.sub.rar
-!new/bmg/[ANE] Bakemonogatari - Ep01 Creditless Ending [BDRip 1080p x264 FLAC].mkv
-!new/bmg/[ANE] Bakemonogatari - Ep01 TV Preview [BDRip 1080p x264 FLAC].mkv
-!new/bmg/[ANE] Bakemonogatari - Ep01 [BDRip 1080p x264 FLAC].flac
-!new/bmg/[ANE] Bakemonogatari - Ep02 On Air version Ending [BDRip 1080p x264 FLAC].mkv
-!new/bmg/[ANE] Bakemonogatari - Ep02 TV Preview [BDRip 1080p x264 FLAC].mkv
-!new/bmg/[ANE] Bakemonogatari - Ep02 [BDRip 1080p x264 FLAC].flac
-!new/bmg/[ANE] Bakemonogatari - Ep03 Creditless Opening [BDRip 1080p x264 FLAC].mkv
-!new/bmg/[ANE] Bakemonogatari - Ep03 TV Preview [BDRip 1080p x264 FLAC].mkv
-!new/bmg/[ANE] Bakemonogatari - Ep03 [BDRip 1080p x264 FLAC].flac
-!new/bmg/[ANE] Bakemonogatari - Ep04 TV Preview [BDRip 1080p x264 FLAC].mkv
-!new/bmg/[ANE] Bakemonogatari - Ep04 [BDRip 1080p x264 FLAC].flac
-!new/bmg/[ANE] Bakemonogatari - Ep05 Creditless Ending [BDRip 1080p x264 FLAC].mkv
-!new/bmg/[ANE] Bakemonogatari - Ep05 TV Preview [BDRip 1080p x264 FLAC].mkv
-!new/bmg/[ANE] Bakemonogatari - Ep05 [BDRip 1080p x264 FLAC].flac
-!new/bmg/[ANE] Bakemonogatari - Ep06 Creditless Opening [BDRip 1080p x264 FLAC].mkv
-!new/bmg/[ANE] Bakemonogatari - Ep06 TV Preview [BDRip 1080p x264 FLAC].mkv
-!new/bmg/[ANE] Bakemonogatari - Ep06 [BDRip 1080p x264 FLAC].flac
-!new/bmg/[ANE] Bakemonogatari - Ep07 TV Preview [BDRip 1080p x264 FLAC].mkv
-!new/bmg/[ANE] Bakemonogatari - Ep07 [BDRip 1080p x264 FLAC].flac
-!new/bmg/[ANE] Bakemonogatari - Ep08 Creditless Ending [BDRip 1080p x264 FLAC].mkv
-!new/bmg/[ANE] Bakemonogatari - Ep08 TV Preview [BDRip 1080p x264 FLAC].mkv
-!new/bmg/[ANE] Bakemonogatari - Ep08 [BDRip 1080p x264 FLAC].flac
-!new/bmg/[ANE] Bakemonogatari - Ep09 Creditless Opening [BDRip 1080p x264 FLAC].mkv
-!new/bmg/[ANE] Bakemonogatari - Ep09 TV Preview [BDRip 1080p x264 FLAC].mkv
-!new/bmg/[ANE] Bakemonogatari - Ep09 [BDRip 1080p x264 FLAC].flac
-!new/bmg/[ANE] Bakemonogatari - Ep10 Creditless Opening [BDRip 1080p x264 FLAC].mkv
-!new/bmg/[ANE] Bakemonogatari - Ep10 TV Preview [BDRip 1080p x264 FLAC].mkv
-!new/bmg/[ANE] Bakemonogatari - Ep10 [BDRip 1080p x264 FLAC].flac
-!new/bmg/[ANE] Bakemonogatari - Ep11 Creditless Ending [BDRip 1080p x264 FLAC].mkv
-!new/bmg/[ANE] Bakemonogatari - Ep11 TV Preview [BDRip 1080p x264 FLAC].mkv
-!new/bmg/[ANE] Bakemonogatari - Ep11 [BDRip 1080p x264 FLAC].flac
-!new/bmg/[ANE] Bakemonogatari - Ep12 TV Preview [BDRip 1080p x264 FLAC].mkv
-!new/bmg/[ANE] Bakemonogatari - Ep12 [BDRip 1080p x264 FLAC].flac
-!new/bmg/[ANE] Bakemonogatari - Ep13 [BDRip 1080p x264 FLAC].flac
-!new/bmg/[ANE] Bakemonogatari - Ep14 Creditless Opening [BDRip 1080p x264 FLAC].mkv
-!new/bmg/[ANE] Bakemonogatari - Ep14 [BDRip 1080p x264 FLAC].flac
-!new/bmg/[ANE] Bakemonogatari - Ep15 Creditless Ending [BDRip 1080p x264 FLAC].mkv
-!new/bmg/[ANE] Bakemonogatari - Ep15 [BDRip 1080p x264 FLAC].flac
-!new/bmg/[ANE] Bakemonogatari - Trailer [BDRip 1080p x264 FLAC].mkv
-!new/bmg/welp/[ANE] Bakemonogatari - 01 [1080p BD][6C4ADF9A].mkv
-!new/bmg/welp/[ANE] Bakemonogatari - 02 [1080p BD][347EB840].mkv
-!new/bmg/welp/[ANE] Bakemonogatari - 03 [1080p BD][E652B4B8].mkv
-!new/bmg/welp/[ANE] Bakemonogatari - 04 [1080p BD][3527E314].mkv
-!new/bmg/welp/[ANE] Bakemonogatari - 05 [1080p BD][83B5A130].mkv
-!new/bmg/welp/[ANE] Bakemonogatari - 06 [1080p BD][F736DE8E].mkv
-!new/bmg/welp/[ANE] Bakemonogatari - 07 [1080p BD][CA621CF2].mkv
-!new/bmg/welp/[ANE] Bakemonogatari - 08 [1080p BD][DDF8F2AF].mkv
-!new/bmg/welp/[ANE] Bakemonogatari - 09 [1080p BD][F1FBCC15].mkv
-!new/bmg/welp/[ANE] Bakemonogatari - 10 [1080p BD][62CDB663].mkv
-!new/bmg/welp/[ANE] Bakemonogatari - 11 [1080p BD].mkv
-!new/bmg/welp/[ANE] Bakemonogatari - 12 [1080p BD].mkv
-!new/bmg/welp/[ANE] Bakemonogatari - 13 [1080p BD].mkv
-!new/bmg/welp/[ANE] Bakemonogatari - 14 [1080p BD].mkv
-!new/bmg/welp/[ANE] Bakemonogatari - 15 [End][1080p BD].mkv
 !new/hdp2/Princess Lover!/[polished] Princess Love! Maiden's Secret 01 [BD 1080][DDEF29F7].mkv
 !new/hdp2/Princess Lover!/[polished] Princess Love! Maiden's Secret 02 [BD 1080][EA90E7E1].mkv
 !new/hdp2/Princess Lover!/[polished] Princess Love! Maiden's Secret 03 [BD 1080][5E950AF0].mkv
@@ -1469,19 +1414,6 @@
 !new/narutoship/y/Naruto Shippuden 098.mkv
 !new/narutoship/y/Naruto Shippuden 099-HD.mkv
 !new/narutoship/y/Naruto Shippuden 099.mkv
-!new/nuu/To Heart 2/[Jumonji-Giri] To Heart 2 - 01 [44A88C4E].mkv
-!new/nuu/To Heart 2/[Jumonji-Giri] To Heart 2 - 02 [27332FCC].mkv
-!new/nuu/To Heart 2/[Jumonji-Giri] To Heart 2 - 03 [E6A2BE0F].mkv
-!new/nuu/To Heart 2/[Jumonji-Giri] To Heart 2 - 04 [21862C62].mkv
-!new/nuu/To Heart 2/[Jumonji-Giri] To Heart 2 - 05 [9B3B1CC8].mkv
-!new/nuu/To Heart 2/[Jumonji-Giri] To Heart 2 - 06 [C979D070].mkv
-!new/nuu/To Heart 2/[Jumonji-Giri] To Heart 2 - 07 [349C1322].mkv
-!new/nuu/To Heart 2/[Jumonji-Giri] To Heart 2 - 08 [D534D59C].mkv
-!new/nuu/To Heart 2/[Jumonji-Giri] To Heart 2 - 09 [064BE4BC].mkv
-!new/nuu/To Heart 2/[Jumonji-Giri] To Heart 2 - 10 [BEC2FA88].mkv
-!new/nuu/To Heart 2/[Jumonji-Giri] To Heart 2 - 11 [180CC119].mkv
-!new/nuu/To Heart 2/[Jumonji-Giri] To Heart 2 - 11.5 [8BC765EA].mkv
-!new/nuu/To Heart 2/[Jumonji-Giri] To Heart 2 - 12 [81DDF9D5].mkv
 !new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover - 55midori unaired version (DVD 1024x576 x264 FLAC).mkv
 !new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover - CM TV-SPOT (DVD 720x480 x264 AC-3).mkv
 !new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover - CM for shops (DVD 720x480 x264 AC-3).mkv
