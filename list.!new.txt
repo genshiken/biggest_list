@@ -420,6 +420,40 @@
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.mkv
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.srt
 !new/Patlabor Movie 2/Patlabor.the.Movie.2.1993.mHD.x264-z07.txt
+!new/RahXephon/a-l.rahxephon.01.xvid.ogm
+!new/RahXephon/a-l.rahxephon.02.xvid.ogm
+!new/RahXephon/a-l.rahxephon.03.xvid.ogm
+!new/RahXephon/a-l.rahxephon.04.xvid.ogm
+!new/RahXephon/a-l.rahxephon.05.xvid.ogm
+!new/RahXephon/a-l.rahxephon.06.xvid.ogm
+!new/RahXephon/a-l.rahxephon.07.xvid.ogm
+!new/RahXephon/a-l.rahxephon.08.xvid.ogm
+!new/RahXephon/a-l.rahxephon.09.xvid.ogm
+!new/RahXephon/a-l.rahxephon.10.xvid.ogm
+!new/RahXephon/a-l.rahxephon.11.xvid.ogm
+!new/RahXephon/a-l.rahxephon.12.xvid.ogm
+!new/RahXephon/a-l.rahxephon.13.xvid.mkv
+!new/RahXephon/a-l.rahxephon.14.xvid.mkv
+!new/RahXephon/a-l.rahxephon.15.xvid.mkv
+!new/RahXephon/a-l.rahxephon.16.xvid.mkv
+!new/RahXephon/a-l.rahxephon.17.xvid.mkv
+!new/RahXephon/a-l.rahxephon.18.xvid.mkv
+!new/RahXephon/a-l.rahxephon.19.xvid.mkv
+!new/RahXephon/a-l.rahxephon.20.xvid.mkv
+!new/RahXephon/a-l.rahxephon.21.xvid.mkv
+!new/RahXephon/a-l.rahxephon.22.xvid.mkv
+!new/RahXephon/a-l.rahxephon.23.xvid.mkv
+!new/RahXephon/a-l.rahxephon.24.xvid.mkv
+!new/RahXephon/a-l.rahxephon.25.xvid.mkv
+!new/RahXephon/a-l.rahxephon.26.xvid.mkv
+!new/RahXephon/a-l.rahxephon.extra.clean-ending.xvid.mkv
+!new/RahXephon/a-l.rahxephon.extra.clean-opening.01.xvid.mkv
+!new/RahXephon/a-l.rahxephon.extra.clean-opening.02.xvid.mkv
+!new/RahXephon/a-l.rahxephon.extra.fate-of-katun.xvid.mkv
+!new/RahXephon/a-l.rahxephon.extra.interview-hiroki-kanno.xvid.mkv
+!new/RahXephon/a-l.rahxephon.extra.interview-japanese-cast.xvid.mkv
+!new/RahXephon/a-l.rahxephon.extra.japanese-cover-art.xvid.mkv
+!new/RahXephon/a-l.rahxephon.extra.special-promo.xvid.mkv
 !new/Ranma (Complete)/Ranma Movies and OVAs/Thumbs.db
 !new/Ranma (Complete)/Ranma Movies and OVAs/[anime_fin]_Ranma_Movie_1_DVDRiP_dualaudio.ogm
 !new/Ranma (Complete)/Ranma Movies and OVAs/[anime_fin]_Ranma_Movie_2_DVDRiP_dualaudio.ogm
@@ -783,55 +817,10 @@
 !new/[iSiscon]_KOTOKO_-_Shakugan_no_Shana_III_OP_Single_-_Light_My_Fire_[w_scans]_(FLAC).rar
 !new/[iSiscon]_LiSA_-_TV_Anime_Fate_Zero_OP_Single_-_oath_sign_[w_scans]_(FLAC).rar
 !new/[m.3.3.w]_Working'!!_-_07_[h264_720p]_[B9AF8EBE].mkv
-!new/[ray=out]_Happiness!_-_01_[DVD][C4BCBD93].mkv
-!new/[ray=out]_Happiness!_-_02_[DVD][81505B76].mkv
-!new/[ray=out]_Happiness!_-_03_[DVD][592DC4F2].mkv
-!new/[ray=out]_Happiness!_-_04_[DVD][6F6B2439].mkv
-!new/[ray=out]_Happiness!_-_05_[DVD][53541792].mkv
-!new/[ray=out]_Happiness!_-_06_[DVD][25784C20].mkv
-!new/[ray=out]_Happiness!_-_07_[DVD][DBE08A0F].mkv
-!new/[ray=out]_Happiness!_-_08_[DVD][2AAAED34].mkv
-!new/[ray=out]_Happiness!_-_Ending_[DVD][75622632].mkv
-!new/[ray=out]_Happiness!_-_Opening_[DVD][FB8F105E].mkv
-!new/[ray=out]_Umi_Kara_no_Shisha_[DVD][47B74977].mkv
 !new/[sage]_Mobile_Suit_Gundam_AGE_-_07_[720p][10bit][1827C4FB].mkv
 !new/[sage]_Monster_Farm_-Secret_of_the_Stone_Disks-_ 01_[H.264-AC3][1170064B].mkv
 !new/[sage]_Sekaiichi_Hatsukoi_2_-_07_[720p][10bit][E5CC0581].mkv
 !new/[yibis]_One_Piece_521_[720p][3AD2C387].mkv
-!new/a-l.rahxephon.01.xvid.ogm
-!new/a-l.rahxephon.02.xvid.ogm
-!new/a-l.rahxephon.03.xvid.ogm
-!new/a-l.rahxephon.04.xvid.ogm
-!new/a-l.rahxephon.05.xvid.ogm
-!new/a-l.rahxephon.06.xvid.ogm
-!new/a-l.rahxephon.07.xvid.ogm
-!new/a-l.rahxephon.08.xvid.ogm
-!new/a-l.rahxephon.09.xvid.ogm
-!new/a-l.rahxephon.10.xvid.ogm
-!new/a-l.rahxephon.11.xvid.ogm
-!new/a-l.rahxephon.12.xvid.ogm
-!new/a-l.rahxephon.13.xvid.mkv
-!new/a-l.rahxephon.14.xvid.mkv
-!new/a-l.rahxephon.15.xvid.mkv
-!new/a-l.rahxephon.16.xvid.mkv
-!new/a-l.rahxephon.17.xvid.mkv
-!new/a-l.rahxephon.18.xvid.mkv
-!new/a-l.rahxephon.19.xvid.mkv
-!new/a-l.rahxephon.20.xvid.mkv
-!new/a-l.rahxephon.21.xvid.mkv
-!new/a-l.rahxephon.22.xvid.mkv
-!new/a-l.rahxephon.23.xvid.mkv
-!new/a-l.rahxephon.24.xvid.mkv
-!new/a-l.rahxephon.25.xvid.mkv
-!new/a-l.rahxephon.26.xvid.mkv
-!new/a-l.rahxephon.extra.clean-ending.xvid.mkv
-!new/a-l.rahxephon.extra.clean-opening.01.xvid.mkv
-!new/a-l.rahxephon.extra.clean-opening.02.xvid.mkv
-!new/a-l.rahxephon.extra.fate-of-katun.xvid.mkv
-!new/a-l.rahxephon.extra.interview-hiroki-kanno.xvid.mkv
-!new/a-l.rahxephon.extra.interview-japanese-cast.xvid.mkv
-!new/a-l.rahxephon.extra.japanese-cover-art.xvid.mkv
-!new/a-l.rahxephon.extra.special-promo.xvid.mkv
 !new/app/Combined-Community-Codec-Pack-2011-07-30.exe
 !new/app/VirtualBox-4.1.6-74713-Win.exe
 !new/app/Win7Vista_151718.exe
