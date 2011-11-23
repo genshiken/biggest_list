@@ -681,6 +681,11 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
 !new/[A-Destiny] Toriko - 33 (1280x720 h264 AAC) [A638F71A].mkv
 !new/[ASL]_Various_Artists_-_Atelier_Series_Mana_Khemia_Vocal_Collection_-_VOLKSLIED_2_[FLAC]_[w_Scans].rar
+!new/[Commie] Kyoukai Senjou no Horizon - 08 [1846FE1C].mkv
+!new/[HorribleSubs] Bleach - 349 [720p].mkv
+!new/[HorribleSubs] Chihayafuru - 08 [720p].mkv
+!new/[sage]_Daily_Lives_of_High_School_Boys_PV1_[E5DEE26C].mkv
+!new/[sage]_Daily_Lives_of_High_School_Boys_PV2_[83CE8CD1].mkv
 !new/app/Combined-Community-Codec-Pack-2011-07-30.exe
 !new/app/VirtualBox-4.1.6-74713-Win.exe
 !new/app/Win7Vista_151718.exe
