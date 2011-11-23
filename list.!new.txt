@@ -679,6 +679,7 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
+!new/[ASL]_Mizuki_Nana_-_THE_MUSEUM_II_[FLAC]_[w_Scans].rar
 !new/[ASL]_Supercell_-_Guilty_Crown_OP_-_My_Dearest_[EXTRA].rar
 !new/[ASL]_Supercell_-_Guilty_Crown_OP_-_My_Dearest_[FLAC]_[w_Scans].rar
 !new/[ASL]_TAMUSIC_-_Madoka_Magica_Classic_[FLAC]_[w_Scans].rar
@@ -686,7 +687,13 @@
 !new/[ASL]_Various_Artists_-_Atelier_Series_Mana_Khemia_Vocal_Collection_-_VOLKSLIED_2_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Atelier_Series_Vocal_Collection_-_VOLKSLIED_3_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Atelier_Series_Vocal_Collection_-_VOLKSLIED_[FLAC].rar
+!new/[ASL]_Various_Artists_-_Comyu_-Kuroi_Ryuu_to_Yasashii_Oukoku-_ORIGINAL_SOUND_TRACK_[EXTRA].rar
+!new/[ASL]_Various_Artists_-_Comyu_-Kuroi_Ryuu_to_Yasashii_Oukoku-_ORIGINAL_SOUND_TRACK_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Ra-ra-ra_Suite_Precure_~UNLIMITED_ver.~_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_SkyFish_vocal_collection_volume_1_[FLAC].rar
+!new/[ASL]_Various_Artists_-_Tapestry_-you_will_meet_your_self-_Original_sound_track_[FLAC]_[w_Scans].rar
+!new/[ASL]_Yousei_Teikoku_-_Mirai_Nikki_OP_-_Kuusou_Mesologie_[FLAC]_[w_Scans].rar
+!new/[ASL]_aiko_-_Baby_[FLAC].rar
 !new/[ASL]_marble_-_Mashiro_Iro_Symphony_-The_color_of_lovers-_ED_-_Suisai_Candy_[FLAC].rar
 !new/[Ahodomo] Maji de Watashi ni Koi Shinasai! - 08 [720p][A3E0F8A8].mkv
 !new/[Ayako]_Jewelpet_Sunshine_-_08_[H264][720p][6FBF6289].mkv
@@ -709,8 +716,11 @@
 !new/[Over-Time]_Pirate_Sentai_Gokaiger_-_39_[E2BB9E97].mkv
 !new/[RyRo]_Inazuma_Eleven_GO_-_028_(720p)_[A5F0E1A6].mkv
 !new/[SS] Mirai Nikki - 06 (1280x720 h264) [F5C33DF4].mkv
+!new/[Shin-S] Eiyuu Densetsu ~Sora no Kiseki~ OVA ED Single - Harmonia [Choucho] v2.zip
 !new/[Shin-S] Guilty Crown OP Single - My Dearest [supercell].zip
+!new/[Shin-S] Phi Brain ~Kami no Puzzle~ ED Single - Hologram [Kiyoura Natsumi].zip
 !new/[SubDESU]_Yozakura_Quartet_Hoshi_no_Umi_-_03_[D2D6A779].mkv
+!new/[UTW]_C3_Cube_x_Cursed_x_Curious_-_08_[h264-720p][B508D198].mkv
 !new/[Underwater] Shinryaku! Ika Musume S2 - 05 (720p) [9A4B4B8A].mkv
 !new/[Underwater] Shinryaku! Ika Musume S2 - 07 (720p) [29EE93D7].mkv
 !new/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 09 [DVD H264 Hi10P 640x480] [C47D2566].mkv
