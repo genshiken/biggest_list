@@ -484,6 +484,7 @@ music/ASL/[ASL]_Miyano_Mamoru_-_STEINS;GATE_Laboratory_Member_001_Okabe_Rintarou
 music/ASL/[ASL]_Miyano_Mamoru_-_Uta_no_Prince-sama_Maji_LOVE_1000_OP_-_Orpheus_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Mizuho_-_FORTUNE_ARTERIAL_Image_Theme_Maxi_Single_-_It_s_my_precious_time_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Mizuki_Nana_-_BLOOD-C_ED_-_Junketsu_Paradox_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Mizuki_Nana_-_THE_MUSEUM_II_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Momoi_Halko_-_STEINS;GATE_Laboratory_Member_007_Feyris_Nyannyan_[FLAC].rar
 music/ASL/[ASL]_Morinaga_Mayumi_-_EXTRA_Whipping_Cream_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_NOVELS_-_TIGER_BUNNY_OP_2_-_Missing_Link_[FLAC]_[w_Scans].rar
@@ -553,6 +554,8 @@ music/ASL/[ASL]_Sound_Horizon_-_Marchen_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Sphere_-_Shinryaku_Ika_Musume_S2_OP_-_HIGH_POWERED_[EXTRA].rar
 music/ASL/[ASL]_Sphere_-_Shinryaku_Ika_Musume_S2_OP_-_HIGH_POWERED_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Suara_-_Karin_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Supercell_-_Guilty_Crown_OP_-_My_Dearest_[EXTRA].rar
+music/ASL/[ASL]_Supercell_-_Guilty_Crown_OP_-_My_Dearest_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Suzumura_Kenichi_-_Kamisama_no_Memo_Chou_ED_-_Asunaro_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_TAMUSIC_-_5th_TAMUSIC_Concert_Key_Compilation_[FLAC].rar
 music/ASL/[ASL]_TAMUSIC_-_AIR_Collab_CD_Shoki_Sakuhinshuu_[FLAC].rar
@@ -560,6 +563,7 @@ music/ASL/[ASL]_TAMUSIC_-_Angel_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_TAMUSIC_-_CLANNAD_VIOLIN_[FLAC].rar
 music/ASL/[ASL]_TAMUSIC_-_Kanon_Violin_[FLAC].rar
 music/ASL/[ASL]_TAMUSIC_-_Macross_Finale_[FLAC].rar
+music/ASL/[ASL]_TAMUSIC_-_Madoka_Magica_Classic_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_TAMUSIC_-_Puella_Musica_[FLAC].rar
 music/ASL/[ASL]_TAMUSIC_-_SPECTRUM_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_TAMUSIC_-_Suzumiya_Haruhi_no_Kyouen_[FLAC].rar
@@ -567,6 +571,7 @@ music/ASL/[ASL]_TAMUSIC_-_TAM_PICO_Collab_CD_Shoki_Sakuhinshuu_[FLAC]_[w_Scans].
 music/ASL/[ASL]_TAMUSIC_-_TAM___PICO_key_Arrange_CD_[FLAC].rar
 music/ASL/[ASL]_TAMUSIC_-_TAM_no_Fukubukuro_[FLAC].rar
 music/ASL/[ASL]_TAMUSIC_-_key_classics_KANON_version_[FLAC].rar
+music/ASL/[ASL]_TAMUSIC_LC_AZE_-_LC_VIOLY_II_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_TAMUSIC_LC_AZE_-_LC_VIOLY_[FLAC].rar
 music/ASL/[ASL]_TAMUSIC_Re_Volte_-_scenic_-key_classical_collect-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Tainaka_Sachi_-_Fate_Stay_Night_OP_Single_-_disillusion_[FLAC]_[w_Scans].rar
@@ -634,6 +639,9 @@ music/ASL/[ASL]_Various_Artists_-_Astarotte_no_Omocha!_Character_Song_CD_Vol.4_I
 music/ASL/[ASL]_Various_Artists_-_Astarotte_no_Omocha_Character_Song_CD_Vol5_Siguro_Sveinnsson_Svarthaeo_Isadora_Finnsdottir_x_Mercelida_Ygvar_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Atelier_Meruru_Original_Soundtrack_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Atelier_Rorona_Character_Song_Album_~Kanarien~_[FLAC].rar
+music/ASL/[ASL]_Various_Artists_-_Atelier_Series_Mana_Khemia_Vocal_Collection_-_VOLKSLIED_2_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Atelier_Series_Vocal_Collection_-_VOLKSLIED_3_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Atelier_Series_Vocal_Collection_-_VOLKSLIED_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Axanael_Theme_Song_CD_-_Katsuo_Bushi_e_p_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Baby_Princess_OP_Theme_-_Gyutto_BABY_Ai_Nanda_BABY_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Baka_to_Test_to_Shoukanjuu_Ni_-_Watashi_to_Uchi_to_Otomegokoro_[FLAC]_[w_Scans].rar
@@ -648,6 +656,8 @@ music/ASL/[ASL]_Various_Artists_-_CUFFS_SONGS_BEST_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_CURE_GIRL_Original_Sound_Track_II_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_CURE_GIRL_Original_Sound_Track_I_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Chaos_and_LAW_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Comyu_-Kuroi_Ryuu_to_Yasashii_Oukoku-_ORIGINAL_SOUND_TRACK_[EXTRA].rar
+music/ASL/[ASL]_Various_Artists_-_Comyu_-Kuroi_Ryuu_to_Yasashii_Oukoku-_ORIGINAL_SOUND_TRACK_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_DOG_DAYS_2_Limited_Edition_Bonus_CD_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Dantalian_no_Shoka_OP_ED_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Delivara!_-deliverance_of_strays-_Original_Soundtrack_[FLAC]_[w_Scans].rar
@@ -754,6 +764,7 @@ music/ASL/[ASL]_Various_Artists_-_Puella_Magi_Madoka_Magica_Original_Soundtrack_
 music/ASL/[ASL]_Various_Artists_-_Pure2_-Ultimate_Cool_Japan_Jazz-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_RO-KYU-BU_Interval_1_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_RO-KYU-BU_pure_elements_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Ra-ra-ra_Suite_Precure_~UNLIMITED_ver.~_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Real_Imouto_ga_Iru_Ooizumi-kun_Baai_-_Complete_Soundtrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Rekishi_Hiwa_Historia_Original_Sound_Track_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Renai_Kateikyoushi_Rurumi_Coordinate_Original_Soundtrack_CD_[FLAC].rar
@@ -772,6 +783,7 @@ music/ASL/[ASL]_Various_Artists_-_Sengoku_Otome_-_SENGOKU_GROOVE_[FLAC]_[w_Scans
 music/ASL/[ASL]_Various_Artists_-_Sengoku_Otome_Utage_Takenawa_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Setsuei_Tsuki_to_Mahou_to_Taiyou_to_Soundtrack_-_Yuki_Tsuki_Soshite_Hana_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Shukufuku_no_Campanella_Theme_-_Shukufuku_no_Campanella_Takaramono_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_SkyFish_vocal_collection_volume_1_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Solfege_Vocal_Collection_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Songs_from_Walkure_Romanze_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_SuGirly_Wish_Original_Soundtrack_[FLAC].rar
@@ -790,6 +802,7 @@ music/ASL/[ASL]_Various_Artists_-_TRIBAL_LINK_-_L_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_TRIBAL_LINK_-_R_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Taiyou_no_Promia_Theme_Song_Maxi_Single_CD_-_~Song_for_Milsant~_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Tantei_Opera_Milky_Holmes_Vocal_mini_Album_-_To-gather_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Tapestry_-you_will_meet_your_self-_Original_sound_track_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Tenshi_no_Hane_wo_Fumanaide_Soundtrack_-Tenshi_no_Utagoe-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Tinkerbell_BEST_BGM_SELECTION_YAKOUCHU_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_ToHeart2_COMPLETE_SOUNDTRACK_[FLAC]_[w_Scans].rar
@@ -824,11 +837,13 @@ music/ASL/[ASL]_Windmill_-_Hyper-Highspeed-Genius_Digital_Sound_Tracks_HHG!_[FLA
 music/ASL/[ASL]_Yakushimaru_Etsuko_Metro_Orchestra_-_Mawaru_Penguindrum_OP_-_nornir_Shounen_yo_Ware_ni_Kaere_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Yamazaki_Haruka_-_Hayate_No_Gotoku_HEAVEN_IS_A_PLACE_ON_EARTH_OP_-_Bokura,_Kakeyuku_Sora_e_[FLAC].rar
 music/ASL/[ASL]_Yarizui_Sen_(cv_Ise_Mariya)_-_Bento_ED_-_Egao_no_Housoku_[FLAC].rar
+music/ASL/[ASL]_Yousei_Teikoku_-_Mirai_Nikki_OP_-_Kuusou_Mesologie_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Yousei_Teikoku_-_gothic_lolita_agitator_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_YuNa_-_Utatemeguri_Special_Song_CD_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Yukana_-_IS_Character_Vol_Song_CD_Vol._2_- _Cecilia_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Zephyr_Cradle_TAM_-_Zephyr_Violin_Duo_[FLAC].rar
 music/ASL/[ASL]_Zwei_-_Memories_Off_Yubikiri_no_Kioku_PSP_OP_Theme_-_Kaze_no_Uta_[FLAC].rar
+music/ASL/[ASL]_aiko_-_Baby_[FLAC].rar
 music/ASL/[ASL]_azusa_-_Yume_Note_[FLAC].rar
 music/ASL/[ASL]_azusa_-_azusa_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_eufonius_-_bezel_[FLAC]_[w_Scans].rar
@@ -837,6 +852,7 @@ music/ASL/[ASL]_kanonxkanon_-_30-sai_no_Hoken_Taiiku_OP_-_Koi_no_Doutei_[FLAC]_[
 music/ASL/[ASL]_lovelive!_μ's_-_Printemps_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_lovelive!_μ’s_-_Bibi_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_lovelive!_μ’s_Lily_White_-_Shiranai_Love_Oshiete_Love_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_marble_-_Mashiro_Iro_Symphony_-The_color_of_lovers-_ED_-_Suisai_Candy_[FLAC].rar
 music/ASL/[ASL]_miwa_-_441_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_monet_-_Subarashiki_Hibi_Theme_Song_2_-_Naglfar_no_Senjou_nite_[FLAC].rar
 music/ASL/[ASL]_nano.RIPE_-_Hanasaku_Iroha_-_Saibou_Kioku_[FLAC]_[w_Scans].rar
@@ -4560,8 +4576,10 @@ music/Shin-S/[Shin-S] DOG DAYS Insert Song Single - Kitto Koi wo Shiteiru [Horie
 music/Shin-S/[Shin-S] Denpa Onna to Seishun Otoko ED Single - Ruru [Yakushimaru Etsuko].zip
 music/Shin-S/[Shin-S] Denpa Onna to Seishun Otoko OP Single - Os-Uchuujin [Erio wo Kamatte-chan].zip
 music/Shin-S/[Shin-S] Dragon Crisis! ED Single - Mirai Bowl [Momoiro Clover].zip
+music/Shin-S/[Shin-S] Eiyuu Densetsu ~Sora no Kiseki~ OVA ED Single - Harmonia [Choucho] v2.zip
 music/Shin-S/[Shin-S] Fate Zero ED Single - MEMORIA [Aoi Eir].zip
 music/Shin-S/[Shin-S] Fate Zero OP Single - oath sign [LiSA].zip
+music/Shin-S/[Shin-S] Guilty Crown OP Single - My Dearest [supercell].zip
 music/Shin-S/[Shin-S] Hanasaku Iroha OP Single - Hana no Iro [nano.RIPE].zip
 music/Shin-S/[Shin-S] Hidan no Aria Character Song & BGM CD Bullet.1 - Kanzaki H. Aria [Kugimiya Rie].zip
 music/Shin-S/[Shin-S] Hidan no Aria Character Song & BGM CD Bullet.2 - Hotogi Shirayuki [Takahashi Mikako].zip
@@ -4602,6 +4620,7 @@ music/Shin-S/[Shin-S] Nurarihyon no Mago ~Sennen Makyou~ OP2 Single - The LOVE S
 music/Shin-S/[Shin-S] Ore no Imouto ga Konna ni Kawaii Wake ga Nai ED Single 4 - Masquerade! [Hanazawa Kana & Nabatame Hitomi].zip
 music/Shin-S/[Shin-S] Ore no Imouto ga Konna ni Kawaii Wake ga Nai ED Single 5 - Suki Nandamon! [Taketatsu Ayana & Tamura Yukari].zip
 music/Shin-S/[Shin-S] Ore-tachi ni Tsubasa wa Nai OP & ED Single - Spread Wings. [Misato Aki].zip
+music/Shin-S/[Shin-S] Phi Brain ~Kami no Puzzle~ ED Single - Hologram [Kiyoura Natsumi].zip
 music/Shin-S/[Shin-S] RO-KYU-BU! Character Songs 01 - Minato Tomoka [Hanazawa Kana].zip
 music/Shin-S/[Shin-S] RO-KYU-BU! OP & ED Single - SHOOT! [RO-KYU-BU!].zip
 music/Shin-S/[Shin-S] STAR DRIVER ~Kagayaki no Takuto~ OP2 Single - SHINING STAR [9nine].zip
