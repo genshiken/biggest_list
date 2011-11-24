@@ -691,6 +691,7 @@
 !new/[ASL]_Various_Artists_-_Yuruyuri_Tokuten_Special-Sound_CD_vol3_[FLAC]_[w_Scans].rar
 !new/[ASL]_aiko_-_Zutto_[FLAC].rar
 !new/[Commie] Kyoukai Senjou no Horizon - 08 [1846FE1C].mkv
+!new/[Exiled-Destiny]_Overman_King_Gainer_Ep01v2_(C4C5D3C7).mkv
 !new/[HorribleSubs] Bleach - 349 [720p].mkv
 !new/[HorribleSubs] Chihayafuru - 08 [720p].mkv
 !new/[WhyNot] Nurarihyon no Mago Sennen Makyou - 20 [EE921F67].mkv
@@ -1556,6 +1557,7 @@
 !new/raw/Tetsuko no Tabi/[S_M]_Tetsuko_no_Tabi_10_RAW.avi
 !new/raw/Tetsuko no Tabi/[S_M]_Tetsuko_no_Tabi_11_RAW.avi
 !new/raw/Tetsuko no Tabi/[S_M]_Tetsuko_no_Tabi_12_RAW.avi
+!new/raw/[RST-Raws]_Doraemon_The_Movie_2011_-_Nobita_and_the_New_Steel_Troops_~Angel_Wings~_(DVDRip_848x480_x264_AAC).mp4
 !new/raw/natsunoarashi/[SomeBody-Raws][DVD]_Natsu_No_Arashi_-_01_RAW_(704x480_x264_Vorbis).mkv
 !new/raw/natsunoarashi/[SomeBody-Raws][DVD]_Natsu_No_Arashi_-_02_RAW_(704x480_x264_Vorbis).mkv
 !new/raw/natsunoarashi/[SomeBody-Raws][DVD]_Natsu_No_Arashi_-_03_RAW_(704x480_x264_Vorbis).mkv
