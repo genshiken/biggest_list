@@ -9,6 +9,7 @@ movie/Appleseed Ex Machina/[THORA] Appleseed Ex Machina [1080p][F5195BE1].mkv
 movie/Aquarion The Movie/[3xR] Aquarion The Movie [720p BD][D4A11BBE].mkv
 movie/Armored Trooper Votoms - Pailsen Files Movie/[Shinsen-Subs] Armored Trooper Votoms - Pailsen Files Movie [5.1][940DC029].dts
 movie/Armored Trooper Votoms - Pailsen Files Movie/[Shinsen-Subs] Armored Trooper Votoms - Pailsen Files Movie [DVD][086EE55C].mkv
+movie/Bleach Movie 3/[RaX] Bleach Movie 3 [1080p BD][CC1A0410].mkv
 movie/Bleach/[B-G] Bleach - Movie 1 [720p][8FFF47AB].mkv
 movie/Bleach/[B-G] Bleach - Movie 2 [720p][19B0E1DC].mkv
 movie/Bleach/[B-G] Bleach - Movie 3 [DVD][ED737D49].mkv
@@ -193,6 +194,7 @@ movie/Perfect Blue (1998)/[Thora] Perfect Blue (1998) [720p BD][A643D585].mkv
 movie/Piano no Mori/[Live-eviL] Piano no Mori [9932815F].mkv
 movie/Planzet/[ANBU] Planzet [12EF5EDB].mkv
 movie/Pokemon AG/[PM] Pokemon AG - Movie 3 [720p][BA579A83].mkv
+movie/Pokemon Diamond & Pearl Movie/[PM] Pokemon Diamond & Pearl Movie [B60285BB].mkv
 movie/Pokemon/[PM] Pokemon - Movie 13 Extra [720p][55BA3B37].mkv
 movie/Pokemon/[RG-RyRo] Pokemon - AG Movie 3 [DVD][E4AF749A].mkv
 movie/Pom Poko/[KirA] Pom Poko [DVD][DFBEA5A9].mp4
