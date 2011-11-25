@@ -1664,6 +1664,7 @@ incomplete/Guilty Crown/[Commie] Guilty Crown - 03 [5EF0B8DB].mkv
 incomplete/Guilty Crown/[Commie] Guilty Crown - 04 [D917AC8F].mkv
 incomplete/Guilty Crown/[Commie] Guilty Crown - 05 [CEDCE7F8].mkv
 incomplete/Guilty Crown/[Commie] Guilty Crown - 06 [88FE8145].mkv
+incomplete/Guilty Crown/[Commie] Guilty Crown - 07 [EF5FB5F1].mkv
 incomplete/Gun X Sword/[Shinsen-Subs] Gun X Sword - 10 [DE58BF1B].avi
 incomplete/Gun X Sword/[Shinsen-Subs] Gun X Sword - 11 [94BA7245].avi
 incomplete/Gun X Sword/[Shinsen-Subs] Gun X Sword - 12 [8C1B0A0B].avi
@@ -2193,6 +2194,7 @@ incomplete/Kyoukai Senjou no Horizon/[Commie] Kyoukai Senjou no Horizon - 04 [D9
 incomplete/Kyoukai Senjou no Horizon/[Commie] Kyoukai Senjou no Horizon - 05 [860BE294].mkv
 incomplete/Kyoukai Senjou no Horizon/[Commie] Kyoukai Senjou no Horizon - 06 [B01D4366].mkv
 incomplete/Kyoukai Senjou no Horizon/[Commie] Kyoukai Senjou no Horizon - 07 [E71A6C45].mkv
+incomplete/Kyoukai Senjou no Horizon/[Commie] Kyoukai Senjou no Horizon - 08 [1846FE1C].mkv
 incomplete/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 01 [80588F40].mkv
 incomplete/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 02 [23BDE85A].mkv
 incomplete/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 03 [CAD4323D].mkv
@@ -2476,6 +2478,7 @@ incomplete/Mashiro-iro Symphony/[Oyatsu] Mashiro-iro Symphony - 04 [720p][051E4F
 incomplete/Mashiro-iro Symphony/[Oyatsu] Mashiro-iro Symphony - 05 [720p][9135902F].mkv
 incomplete/Mashiro-iro Symphony/[Oyatsu] Mashiro-iro Symphony - 06 [720p][26ED793E].mkv
 incomplete/Mashiro-iro Symphony/[Oyatsu] Mashiro-iro Symphony - 07 [720p][82088EDB].mkv
+incomplete/Mashiro-iro Symphony/[Oyatsu] Mashiro-iro Symphony - 08 [720p][828A0D1D].mkv
 incomplete/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 01 [B8C345E7].mkv
 incomplete/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 02 [E0BE35C9].mkv
 incomplete/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 03 [6809F5F9].mkv
@@ -2840,6 +2843,7 @@ incomplete/Nurarihyon no Mago Sennen Makyou/[WhyNot] Nurarihyon no Mago Sennen M
 incomplete/Nurarihyon no Mago Sennen Makyou/[WhyNot] Nurarihyon no Mago Sennen Makyou - 17 [B24577F3].mkv
 incomplete/Nurarihyon no Mago Sennen Makyou/[WhyNot] Nurarihyon no Mago Sennen Makyou - 18 [DC4162D9].mkv
 incomplete/Nurarihyon no Mago Sennen Makyou/[WhyNot] Nurarihyon no Mago Sennen Makyou - 19 [86BAC551].mkv
+incomplete/Nurarihyon no Mago Sennen Makyou/[WhyNot] Nurarihyon no Mago Sennen Makyou - 20 [EE921F67].mkv
 incomplete/Nyanpire/[AonE] Nyanpire - The Animation - 01 [3A652460].mkv
 incomplete/Nyanpire/[AonE] Nyanpire - The Animation - 02 [38BC71A8].mkv
 incomplete/Nyanpire/[AonE] Nyanpire - The Animation - 03 [06A8D5B8].mkv
@@ -3498,6 +3502,7 @@ incomplete/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 04 [
 incomplete/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 05 [B09D4793].mkv
 incomplete/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 06 [92697374].mkv
 incomplete/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 07 [28AB77FB].mkv
+incomplete/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 08 [76B82FD3].mkv
 incomplete/Pokemon - Advanced Generation/[PM] Pokemon - Advanced Generation - 190 [DVD][BB062A1D].mkv
 incomplete/Pokemon - Advanced Generation/[PM] Pokemon - Advanced Generation - 191 [DVD][8A5BDABC].mkv
 incomplete/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 001 [720p][93A4D8AD].mkv
@@ -4171,6 +4176,7 @@ incomplete/Toriko/[A-Destiny] Toriko - 29 [720p][E8576B7D].mkv
 incomplete/Toriko/[A-Destiny] Toriko - 30 [720p][201A1AD3].mkv
 incomplete/Toriko/[A-Destiny] Toriko - 31 [720p][1E970C2A].mkv
 incomplete/Toriko/[A-Destiny] Toriko - 32 [720p][A19E3492].mkv
+incomplete/Toriko/[A-Destiny] Toriko - 33 [720p][A638F71A].mkv
 incomplete/Touhou Gensou Mangekyou/[EveTaku] Touhou Gensou Mangekyou - 1 [720p][9B8370E8].mkv
 incomplete/Touhou Unofficial Doujin Anime/[StrikeS-Ayako] Touhou Unofficial Doujin Anime - 01 [v2][3164C789].mkv
 incomplete/Tsuyokiss/[Tsundere] Tsuyokiss - 01 [DVD][5C9EE4CC].mkv

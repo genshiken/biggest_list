@@ -6901,13 +6901,6 @@ complete/h/Hanasakeru Seishounen/[m.3.3.w] Hanasakeru Seishounen - 11 [FD41BDAB]
 complete/h/Hanasakeru Seishounen/[m.3.3.w] Hanasakeru Seishounen - 12 [6EECC837].mkv
 complete/h/Hanasakeru Seishounen/[m.3.3.w] Hanasakeru Seishounen - 12.5 [43281E55].mkv
 complete/h/Hanasakeru Seishounen/[m.3.3.w] Hanasakeru Seishounen - 13 [62CC500B].mkv
-complete/h/Hanasaku Iroha/[HorribleSubs] Hanasaku Iroha - 20 [720p][4B300B42].mkv
-complete/h/Hanasaku Iroha/[HorribleSubs] Hanasaku Iroha - 21 [720p][6227481C].mkv
-complete/h/Hanasaku Iroha/[HorribleSubs] Hanasaku Iroha - 22 [720p][1ABD0179].mkv
-complete/h/Hanasaku Iroha/[HorribleSubs] Hanasaku Iroha - 23 [720p][98402BEF].mkv
-complete/h/Hanasaku Iroha/[HorribleSubs] Hanasaku Iroha - 24 [720p][BED76414].mkv
-complete/h/Hanasaku Iroha/[HorribleSubs] Hanasaku Iroha - 25 [720p][437C9FC0].mkv
-complete/h/Hanasaku Iroha/[HorribleSubs] Hanasaku Iroha - 26 [End][720p][BA0A2176].mkv
 complete/h/Hanasaku Iroha/[Underwater-Commie] Hanasaku Iroha - 01 [720p][CC2E52C9].mkv
 complete/h/Hanasaku Iroha/[Underwater-Commie] Hanasaku Iroha - 02 [720p][F3363342].mkv
 complete/h/Hanasaku Iroha/[Underwater-Commie] Hanasaku Iroha - 03 [720p][A043409B].mkv
@@ -6927,6 +6920,13 @@ complete/h/Hanasaku Iroha/[Underwater-Commie] Hanasaku Iroha - 16 [720p][AC18FF9
 complete/h/Hanasaku Iroha/[Underwater-Commie] Hanasaku Iroha - 17 [720p][8D1C1FF1].mkv
 complete/h/Hanasaku Iroha/[Underwater-Commie] Hanasaku Iroha - 18 [720p][CA0EA735].mkv
 complete/h/Hanasaku Iroha/[Underwater-Commie] Hanasaku Iroha - 19 [720p][4B1220C1].mkv
+complete/h/Hanasaku Iroha/[Underwater] Hanasaku Iroha - 20 [720p][24FFBC2F].mkv
+complete/h/Hanasaku Iroha/[Underwater] Hanasaku Iroha - 21 [720p][FF1B44AE].mkv
+complete/h/Hanasaku Iroha/[Underwater] Hanasaku Iroha - 22 [720p][A10DCBF9].mkv
+complete/h/Hanasaku Iroha/[Underwater] Hanasaku Iroha - 23 [720p][07A2F3D4].mkv
+complete/h/Hanasaku Iroha/[Underwater] Hanasaku Iroha - 24 [720p][CCF81BBA].mkv
+complete/h/Hanasaku Iroha/[Underwater] Hanasaku Iroha - 25 [720p][1258AA0F].mkv
+complete/h/Hanasaku Iroha/[Underwater] Hanasaku Iroha - 26 [End][720p][1671C996].mkv
 complete/h/HaniHani ~Operation Sanctuary~/[SS] HaniHani ~Operation Sanctuary~ - 01 [v3][C2A43366].avi
 complete/h/HaniHani ~Operation Sanctuary~/[SS] HaniHani ~Operation Sanctuary~ - 02 [v2][CE179E3F].avi
 complete/h/HaniHani ~Operation Sanctuary~/[SS] HaniHani ~Operation Sanctuary~ - 03 [v2][F06CFE7C].avi
