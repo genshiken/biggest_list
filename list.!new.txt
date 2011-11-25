@@ -679,22 +679,29 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
+!new/[ASL]_DaisyxDaisy_-_DaisyxDaisy_[FLAC].rar
+!new/[ASL]_Faylan_-_Mirai_Nikki_ED_-_Blood_teller_[FLAC]_[w_Scans].rar
 !new/[ASL]_Misawa_Yasuhiro_-_Yuruyuri_no_Ongaku~_YURUYURI_ORIGINAL_SOUNDTRACK_[FLAC]_[w_Scans].rar
 !new/[ASL]_SOUTH_OF_HEAVEN_-_KEEPER_OF_METAL_KEY_[FLAC]_[w_Scans].rar
 !new/[ASL]_Stereopony_-_Tengoku_Kara_no_Yell_Theme_Song_-_Arigatou_[FLAC].rar
+!new/[ASL]_Stereopony_x_Kariyushi58_-_Tatoeba_Utaenakunattara_[FLAC].rar
 !new/[ASL]_Tommy_heavenly6_-_Bakuman_S2_ED_-_monochrome_rainbow_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Atelier_Series_Mana_Khemia_Vocal_Collection_-_VOLKSLIED_2_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Baka_to_Test_to_Shokanju_2_-_Kikaku_Single_2_-_FancyxFunky_Otomedan_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Hare_Tokidoki_Otenki_Ame_Soundtrack_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Hitohira_Original_Drama_&_BGM_Album_Vol1_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Hitohira_Original_Drama_&_BGM_Album_Vol2_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Maria_Holic_Alive_BD2_Bonus_Special_CD_-_Ryouchou-sensei_no_Kayou_Hit_Channel_~Dai-ni_no_Yoru~_[FLAC].rar
 !new/[ASL]_Various_Artists_-_SkyFish_vocal_collection_volume_1_[FLAC].rar
+!new/[ASL]_Various_Artists_-_Strawberry_Nauts_Arrange_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Tapestry_-you_will_meet_your_self-_Original_sound_track_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Yuruyuri_Tokuten_Special-Sound_CD_vol1_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Yuruyuri_Tokuten_Special-Sound_CD_vol2_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Yuruyuri_Tokuten_Special-Sound_CD_vol3_[FLAC]_[w_Scans].rar
 !new/[ASL]_aiko_-_Zutto_[FLAC].rar
+!new/[Commie] Persona 4 - 08 [BE0D6EBF].mkv
 !new/[Exiled-Destiny]_Overman_King_Gainer_Ep01v2_(C4C5D3C7).mkv
+!new/[GotWoot]_Mirai_Nikki_07_[10-bit][03DE875C].mkv
 !new/[HorribleSubs] Bleach - 349 [720p].mkv
 !new/[HorribleSubs] Chihayafuru - 08 [720p].mkv
 !new/[HorribleSubs] Moritasan wa Mukuchi - 21 [720p].mkv
@@ -705,6 +712,7 @@
 !new/[Licca] Porphy no Nagai Tabi Episode 06 (h.264-Hi10P) [32087DDB].mkv
 !new/[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_08_[FA45ECF1].mkv
 !new/[PM]Pocket_Monsters_DPPt_Movie_4_-_The_Ruler_of_Illusions_Zoroark[SUB_H264][B60285BB].mkv
+!new/[RaX]Bleach_The_Movie_-_03_-_Fade_to_Black_[BD.1080p_x264_aac]_[CC1A0410].mkv
 !new/[sage]_Daily_Lives_of_High_School_Boys_PV1_[E5DEE26C].mkv
 !new/[sage]_Daily_Lives_of_High_School_Boys_PV2_[83CE8CD1].mkv
 !new/app/Combined-Community-Codec-Pack-2011-07-30.exe
