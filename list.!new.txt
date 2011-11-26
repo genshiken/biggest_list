@@ -599,6 +599,9 @@
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].avi
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].idx
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].sub
+!new/Tales_from_Earthsea_(2006)_[1080p,BluRay,flac,dts,x264]_-_THORA.md5
+!new/Tales_from_Earthsea_(2006)_[1080p,BluRay,flac,dts,x264]_-_THORA.mkv
+!new/Tales_from_Earthsea_(2006)_[1080p,BluRay,flac,dts,x264]_-_THORA.nfo
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_01v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_02v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_03v2[divx5.1.1].mkv
@@ -679,9 +682,28 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
+!new/[ASL]_Horikawa_Chika_-_Nichijou_Character_Song_8_Tachibana_Misato_-_Misato_no_Gakkou_Seikatsu_wa_Bakuhatsu_da_[FLAC]_[w_Scans].rar
+!new/[ASL]_Kawahara_Yoshihisa_-_Nichijou_Character_Song_7_Sasahara_Koujirou_-_Sasahara_no_Koujirou_POLKA_[FLAC]_[w_Scans].rar
+!new/[ASL]_U_-_GWAVE_Super_Feature_s_U_2nd_Full_Album_-_ULTRA_U_-GALAXY-_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Astarotte_no_omocha_EX_Bonus_Special_CD_[FLAC].rar
+!new/[ASL]_Various_Artists_-_Boku_no_Te_no_Naka_no_Rakuen_Original_Soundtrack_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Boku_wa_Tomodachi_ga_Sukunai_ED_-_Watashi_no_Ki-Mo-Chi_[FLAC].rar
+!new/[ASL]_Various_Artists_-_Sekai_Seifuku_Kanojo_Opening_Theme_guru_guru_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_THE_IDOLMASTER_ANIMATION_MASTER_04_CHANGE_[FLAC]_[w_Scans].rar
+!new/[ASL]_eufonius_-_Phonon_[FLAC]_[w_Scans].rar
+!new/[Commie] Shakugan no Shana III - 08 [9E5147E7].mkv
+!new/[EveTaku] A-Channel Special - 07 (1920x1080 x264 FLAC)[].mkv
+!new/[EveTaku] A-Channel Special - 08 (1920x1080 x264 AAC)[].mkv
+!new/[EveTaku] A-Channel Special - 09 (1920x1080 x264 FLAC)[].mkv
+!new/[EveTaku] A-Channel Special - 10 (1920x1080 x264 FLAC)[].mkv
+!new/[EveTaku] A-Channel Special - 11 (1920x1080 x264 FLAC)[].mkv
 !new/[Exiled-Destiny]_Overman_King_Gainer_Ep01v2_(C4C5D3C7).mkv
+!new/[Fail-15] R-15 - NCED (BD 1920x1080 x264 FLAC) [A74B5600].mkv
+!new/[Hiryuu] Maken-Ki! 08 [Hi10P 1280x720 H264] [A8893A19].mkv
 !new/[HorribleSubs] Bleach - 349 [720p].mkv
+!new/[HorribleSubs] Cardfight!! Vanguard - 46 [720p].mkv
 !new/[HorribleSubs] Chihayafuru - 08 [720p].mkv
+!new/[HorribleSubs] Fairy Tail - 107 [720p].mkv
 !new/[HorribleSubs] Moritasan wa Mukuchi - 21 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 237 [720p].mkv
 !new/[HorribleSubs] UN-GO - 07 [720p].mkv
