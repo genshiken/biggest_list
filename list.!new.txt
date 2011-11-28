@@ -5,6 +5,7 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Credits.txt
 !new/Detective Conan - 636 [DCTP][720p][5224894A].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
@@ -598,6 +599,9 @@
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].avi
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].idx
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].sub
+!new/SuperS Back Cover Vol.2.jpg
+!new/SuperS DVD Cover Vol.2.jpg
+!new/SuperS Disc 2.jpg
 !new/Tales_from_Earthsea_(2006)_[1080p,BluRay,flac,dts,x264]_-_THORA.md5
 !new/Tales_from_Earthsea_(2006)_[1080p,BluRay,flac,dts,x264]_-_THORA.nfo
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_01v2[divx5.1.1].mkv
@@ -701,9 +705,24 @@
 !new/[HorribleSubs] Saint Seiya The Lost Canvas - 21 [720p].mkv
 !new/[HorribleSubs] Saint Seiya The Lost Canvas - 22 [720p].mkv
 !new/[HorribleSubs] Saint Seiya The Lost Canvas - 23 [720p].mkv
+!new/[HorribleSubs] Saint Seiya The Lost Canvas - 24 [720p].mkv
+!new/[HorribleSubs] Saint Seiya The Lost Canvas - 25 [720p].mkv
+!new/[HorribleSubs] Saint Seiya The Lost Canvas - 26 [720p].mkv
 !new/[HorribleSubs] UN-GO - 07 [720p].mkv
 !new/[HorribleSubs] Working!! - 09 [720p].mkv
 !new/[Huzzah]_Hyouge_Mono_10_[2EB089CB].mkv
+!new/[Oyatsu] Love Get Chu - 21 (640x480 DivX511 mp3) [70B22D59].mkv
+!new/[SFW-sage]_Bakuman_S2_-_09_[720p][Hi10P][742A21DC].mkv
+!new/[SMC] Sailor Moon SuperS 132 (R2 DVD.H264.AC3) [A8885B41].mkv
+!new/[SMC] Sailor Moon SuperS 133 (R2 DVD.H264.AC3) [32B4A420].mkv
+!new/[SMC] Sailor Moon SuperS 134 (R2 DVD.H264.AC3) [4F80D72C].mkv
+!new/[SMC] Sailor Moon SuperS 135 (R2 DVD.H264.AC3) [78CB9312].mkv
+!new/[SMC] Sailor Moon SuperS 136 (R2 DVD.H264.AC3) [12E08BF9].mkv
+!new/[SMC] Sailor Moon SuperS 137 (R2 DVD.H264.AC3) [283248B2].mkv
+!new/[SMC] Sailor Moon SuperS Creditless Ending 1 (R1 DVD.H264.AC3) [20580B49].mkv
+!new/[SMC] Sailor Moon SuperS Creditless Ending 1 (R2 DVD.H264.AC3) [0167CAD4].mkv
+!new/[SMC] Sailor Moon SuperS Creditless Opening 2 (R1 DVD.H264.AC3) [B99AB2D7].mkv
+!new/[SS-Eclipse] Shakugan no Shana Final - 08 (1280x720 Hi10P) [0AE54B9B].mkv
 !new/[UTW]_Fate_Zero_-_09_[h264-720p][AD8AA9B3].mkv
 !new/[gg]_Ben-to_-_08_[F3FD8D1E].mkv
 !new/[sage]_Daily_Lives_of_High_School_Boys_PV1_[E5DEE26C].mkv
