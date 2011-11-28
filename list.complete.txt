@@ -10920,7 +10920,7 @@ complete/l/Letter Bee/[Commie] Letter Bee - Opening 1 (Clean) [50856500].mkv
 complete/l/Letter Bee/[Commie] Letter Bee - Opening 1 (Karaoke) [B69B6FFA].mkv
 complete/l/Letter Bee/[Commie] Letter Bee - Opening 2 (Clean) [9E5ABCD6].mkv
 complete/l/Lime-Colored War Tales/[ReDone] Lime-Colored War Tales - 01 [DVD][1D73946C].mkv
-complete/l/Lime-Colored War Tales/[ReDone] Lime-Colored War Tales - 02 [DVD][1AF059ED].mkv
+complete/l/Lime-Colored War Tales/[ReDone] Lime-Colored War Tales - 02 [v2 DVD][819603B3].mkv
 complete/l/Lime-Colored War Tales/[ReDone] Lime-Colored War Tales - 03 [DVD][06207B91].mkv
 complete/l/Lime-Colored War Tales/[ReDone] Lime-Colored War Tales - 04 [DVD][B5E6949B].mkv
 complete/l/Lime-Colored War Tales/[ReDone] Lime-Colored War Tales - 05 [DVD][574FCFB0].mkv
@@ -16094,6 +16094,18 @@ complete/s/Sailor Moon/[avatar] Sailor Moon - 43 [D1B2603E].avi
 complete/s/Sailor Moon/[avatar] Sailor Moon - 44 [5DE8191E].avi
 complete/s/Sailor Moon/[avatar] Sailor Moon - 45 [E40E5FB7].avi
 complete/s/Sailor Moon/[avatar] Sailor Moon - 46 [End][703A18BD].avi
+complete/s/Saint Seiya - The Lost Canvas/[HorribleSubs] Saint Seiya - The Lost Canvas - 14 [720p][CABCF585].mkv
+complete/s/Saint Seiya - The Lost Canvas/[HorribleSubs] Saint Seiya - The Lost Canvas - 15 [720p][138ED869].mkv
+complete/s/Saint Seiya - The Lost Canvas/[HorribleSubs] Saint Seiya - The Lost Canvas - 16 [720p][AE8E177A].mkv
+complete/s/Saint Seiya - The Lost Canvas/[HorribleSubs] Saint Seiya - The Lost Canvas - 17 [720p][841CFE07].mkv
+complete/s/Saint Seiya - The Lost Canvas/[HorribleSubs] Saint Seiya - The Lost Canvas - 18 [720p][7E8B1790].mkv
+complete/s/Saint Seiya - The Lost Canvas/[HorribleSubs] Saint Seiya - The Lost Canvas - 19 [720p][23732C89].mkv
+complete/s/Saint Seiya - The Lost Canvas/[HorribleSubs] Saint Seiya - The Lost Canvas - 21 [720p][D681E9A9].mkv
+complete/s/Saint Seiya - The Lost Canvas/[HorribleSubs] Saint Seiya - The Lost Canvas - 22 [720p][1255A39B].mkv
+complete/s/Saint Seiya - The Lost Canvas/[HorribleSubs] Saint Seiya - The Lost Canvas - 23 [720p][BEC2D430].mkv
+complete/s/Saint Seiya - The Lost Canvas/[HorribleSubs] Saint Seiya - The Lost Canvas - 24 [720p][F7D27EF0].mkv
+complete/s/Saint Seiya - The Lost Canvas/[HorribleSubs] Saint Seiya - The Lost Canvas - 25 [720p][9B570DE1].mkv
+complete/s/Saint Seiya - The Lost Canvas/[HorribleSubs] Saint Seiya - The Lost Canvas - 26 [End][720p][6CADA646].mkv
 complete/s/Saint Seiya - The Lost Canvas/[gleam] Saint Seiya - The Lost Canvas - 01 [720p][1FD9C05F].mkv
 complete/s/Saint Seiya - The Lost Canvas/[gleam] Saint Seiya - The Lost Canvas - 02 [720p][3C72FEFE].mkv
 complete/s/Saint Seiya - The Lost Canvas/[gleam] Saint Seiya - The Lost Canvas - 03 [720p BD][9A7219EE].mkv
@@ -16106,7 +16118,7 @@ complete/s/Saint Seiya - The Lost Canvas/[gleam] Saint Seiya - The Lost Canvas -
 complete/s/Saint Seiya - The Lost Canvas/[gleam] Saint Seiya - The Lost Canvas - 10 [720p BD][3A26BEE3].mkv
 complete/s/Saint Seiya - The Lost Canvas/[gleam] Saint Seiya - The Lost Canvas - 11 [720p BD][E0C2B78C].mkv
 complete/s/Saint Seiya - The Lost Canvas/[gleam] Saint Seiya - The Lost Canvas - 12 [720p BD][FA536382].mkv
-complete/s/Saint Seiya - The Lost Canvas/[gleam] Saint Seiya - The Lost Canvas - 13 [End][720p BD][3D5B737E].mkv
+complete/s/Saint Seiya - The Lost Canvas/[gleam] Saint Seiya - The Lost Canvas - 13 [720p BD][3D5B737E].mkv
 complete/s/Saint Seiya Hades Chapter - Elysion/[NankH-TMD] Saint Seiya Hades Chapter - Elysion - 4 [v2][DVD][40D5147A].mkv
 complete/s/Saint Seiya Hades Chapter - Elysion/[NankH-TMD] Saint Seiya Hades Chapter - Elysion - 5 [v2][DVD][E1FD392C].mkv
 complete/s/Saint Seiya Hades Chapter - Elysion/[NankH-TMD] Saint Seiya Hades Chapter - Elysion - 6 [End][v2][DVD][82AD6FEE].mkv

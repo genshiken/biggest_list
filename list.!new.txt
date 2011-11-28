@@ -685,8 +685,6 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
 !new/[Exiled-Destiny]_Overman_King_Gainer_Ep01v2_(C4C5D3C7).mkv
-!new/[Hiryuu] Maken-Ki! 08 [Hi10P 1280x720 H264] [A8893A19].mkv
-!new/[HorribleSubsXtreme] UN-GO - 07 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 44 [720p].mkv
 !new/[HorribleSubs] Bleach - 349 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 46 [720p].mkv
@@ -696,23 +694,8 @@
 !new/[HorribleSubs] Majikoi~Oh! Samurai Girls - 08 [720p].mkv
 !new/[HorribleSubs] Moritasan wa Mukuchi - 21 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 237 [720p].mkv
-!new/[HorribleSubs] Saint Seiya The Lost Canvas - 14 [720p].mkv
-!new/[HorribleSubs] Saint Seiya The Lost Canvas - 15 [720p].mkv
-!new/[HorribleSubs] Saint Seiya The Lost Canvas - 16 [720p].mkv
-!new/[HorribleSubs] Saint Seiya The Lost Canvas - 17 [720p].mkv
-!new/[HorribleSubs] Saint Seiya The Lost Canvas - 18 [720p].mkv
-!new/[HorribleSubs] Saint Seiya The Lost Canvas - 19 [720p].mkv
-!new/[HorribleSubs] Saint Seiya The Lost Canvas - 21 [720p].mkv
-!new/[HorribleSubs] Saint Seiya The Lost Canvas - 22 [720p].mkv
-!new/[HorribleSubs] Saint Seiya The Lost Canvas - 23 [720p].mkv
-!new/[HorribleSubs] Saint Seiya The Lost Canvas - 24 [720p].mkv
-!new/[HorribleSubs] Saint Seiya The Lost Canvas - 25 [720p].mkv
-!new/[HorribleSubs] Saint Seiya The Lost Canvas - 26 [720p].mkv
 !new/[HorribleSubs] UN-GO - 07 [720p].mkv
 !new/[HorribleSubs] Working!! - 09 [720p].mkv
-!new/[Huzzah]_Hyouge_Mono_10_[2EB089CB].mkv
-!new/[Oyatsu] Love Get Chu - 21 (640x480 DivX511 mp3) [70B22D59].mkv
-!new/[SFW-sage]_Bakuman_S2_-_09_[720p][Hi10P][742A21DC].mkv
 !new/[SMC] Sailor Moon SuperS 132 (R2 DVD.H264.AC3) [A8885B41].mkv
 !new/[SMC] Sailor Moon SuperS 133 (R2 DVD.H264.AC3) [32B4A420].mkv
 !new/[SMC] Sailor Moon SuperS 134 (R2 DVD.H264.AC3) [4F80D72C].mkv
@@ -722,9 +705,6 @@
 !new/[SMC] Sailor Moon SuperS Creditless Ending 1 (R1 DVD.H264.AC3) [20580B49].mkv
 !new/[SMC] Sailor Moon SuperS Creditless Ending 1 (R2 DVD.H264.AC3) [0167CAD4].mkv
 !new/[SMC] Sailor Moon SuperS Creditless Opening 2 (R1 DVD.H264.AC3) [B99AB2D7].mkv
-!new/[SS-Eclipse] Shakugan no Shana Final - 08 (1280x720 Hi10P) [0AE54B9B].mkv
-!new/[UTW]_Fate_Zero_-_09_[h264-720p][AD8AA9B3].mkv
-!new/[gg]_Ben-to_-_08_[F3FD8D1E].mkv
 !new/[sage]_Daily_Lives_of_High_School_Boys_PV1_[E5DEE26C].mkv
 !new/[sage]_Daily_Lives_of_High_School_Boys_PV2_[83CE8CD1].mkv
 !new/app/Combined-Community-Codec-Pack-2011-07-30.exe
@@ -1509,18 +1489,18 @@
 !new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/Scans/vol3 jacket.jpg
 !new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/Scans/vol4 disc.jpg
 !new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/Scans/vol4 jacket.jpg
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/[ANE] Honey & Clover II 01 (DVD 1024x576 x264 FLAC).mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/[ANE] Honey & Clover II 02 (DVD 1024x576 x264 FLAC).mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/[ANE] Honey & Clover II 03 (DVD 1024x576 x264 FLAC).mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/[ANE] Honey & Clover II 04 (DVD 1024x576 x264 FLAC).mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/[ANE] Honey & Clover II 05 (DVD 1024x576 x264 FLAC).mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/[ANE] Honey & Clover II 06 (DVD 1024x576 x264 FLAC).mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/[ANE] Honey & Clover II 07 (DVD 1024x576 x264 FLAC).mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/[ANE] Honey & Clover II 08 (DVD 1024x576 x264 FLAC).mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/[ANE] Honey & Clover II 09 (DVD 1024x576 x264 FLAC).mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/[ANE] Honey & Clover II 10 (DVD 1024x576 x264 FLAC).mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/[ANE] Honey & Clover II 11 (DVD 1024x576 x264 FLAC).mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/[ANE] Honey & Clover II 12 (DVD 1024x576 x264 FLAC).mkv
+!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/ep/[ANE] Honey & Clover II 01 (DVD 1024x576 x264 FLAC).mkv
+!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/ep/[ANE] Honey & Clover II 02 (DVD 1024x576 x264 FLAC).mkv
+!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/ep/[ANE] Honey & Clover II 03 (DVD 1024x576 x264 FLAC).mkv
+!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/ep/[ANE] Honey & Clover II 04 (DVD 1024x576 x264 FLAC).mkv
+!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/ep/[ANE] Honey & Clover II 05 (DVD 1024x576 x264 FLAC).mkv
+!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/ep/[ANE] Honey & Clover II 06 (DVD 1024x576 x264 FLAC).mkv
+!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/ep/[ANE] Honey & Clover II 07 (DVD 1024x576 x264 FLAC).mkv
+!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/ep/[ANE] Honey & Clover II 08 (DVD 1024x576 x264 FLAC).mkv
+!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/ep/[ANE] Honey & Clover II 09 (DVD 1024x576 x264 FLAC).mkv
+!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/ep/[ANE] Honey & Clover II 10 (DVD 1024x576 x264 FLAC).mkv
+!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/ep/[ANE] Honey & Clover II 11 (DVD 1024x576 x264 FLAC).mkv
+!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/ep/[ANE] Honey & Clover II 12 (DVD 1024x576 x264 FLAC).mkv
 !new/nuu/[ANE] Shinryaku! Ika Musume - Mini Squid Girl Short Stories [BDRip 720p x264 FLAC]/[ANE] Shinryaku! Ika Musume - Mini Squid Girl Short Story 1 [BDRip 720p x264 FLAC].mkv
 !new/nuu/[ANE] Shinryaku! Ika Musume - Mini Squid Girl Short Stories [BDRip 720p x264 FLAC]/[ANE] Shinryaku! Ika Musume - Mini Squid Girl Short Story 2 [BDRip 720p x264 FLAC].mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス OVA 「青空が描きたい」.mkv
