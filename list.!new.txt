@@ -7,6 +7,8 @@
 !new/Carol/[raw] Carol OVA.avi
 !new/Credits.txt
 !new/Detective Conan - 636 [DCTP][720p][5224894A].mp4
+!new/Detective Conan - 636v2 [DCTP][720p][0958A9F9].mp4
+!new/Detective Conan - 638 [DCTP][720p][0294AC7F].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -687,20 +689,39 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
+!new/[ASL]_ClariS_-_DROP_[FLAC]_[w_Scans].rar
+!new/[ASL]_ClariS_-_Kimi_no_Yume_wo_Miyou_[FLAC]_[w_Scans].rar
+!new/[ASL]_Noto_Mamiko_-_Ao_no_Kiseki_[FLAC]_[w_Scans].rar
+!new/[ASL]_SV_TRIBE_-_Maji_de_Watashi_ni_Koishinasai_OP_-_U-n-d-e-r--STANDING!_-_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_BEN-TO_Character_Songs_and_Etc_Treasure_and_Other_Assorted_BEN-TO_Songs_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_EXIT_TRANCE_PRESENTS_SPEED_ANIME_TRANCE_BEST_14_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_LEGEND_SEVEN_Shirayuki_Hime_to_Shichinin_no_Eiyuu_SOUNDTRACK_[FLAC].rar
+!new/[ASL]_doriko_feat_Hatsune_Miku_-_unformed_[FLAC].rar
+!new/[CrunchySubs] Saint Seiya - The Lost Canvas - 20 [720p].mkv
 !new/[Exiled-Destiny]_Overman_King_Gainer_Ep01v2_(C4C5D3C7).mkv
+!new/[GotSpeed]_Mirai_Nikki_-_08_[317126D2].mkv
+!new/[Hiryuu] Maji de Watashi ni Koi Shinasai!! 09 [Hi10P 1280x720 H264] [34D239A4].mkv
 !new/[HorribleSubs] Beelzebub - 44 [720p].mkv
 !new/[HorribleSubs] Bleach - 349 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 46 [720p].mkv
 !new/[HorribleSubs] Chihayafuru - 08 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 107 [720p].mkv
+!new/[HorribleSubs] Gintama - 236 [720p].mkv
 !new/[HorribleSubs] Hunter X Hunter - 09 [720p].mkv
+!new/[HorribleSubs] Kimi to Boku - 09 [720p].mkv
 !new/[HorribleSubs] Majikoi~Oh! Samurai Girls - 08 [720p].mkv
 !new/[HorribleSubs] Moritasan wa Mukuchi - 21 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 237 [720p].mkv
 !new/[HorribleSubs] UN-GO - 07 [720p].mkv
 !new/[HorribleSubs] Working!! - 09 [720p].mkv
+!new/[Licca] The Alps Story - My Annette Episode 03 (h.264) [69E53990].mkv
+!new/[Monokage]_Towa_no_Quon_-_3_[Blu-Ray][Hi10P][44EC3769].mkv
+!new/[Over-Time]_Kamen_Rider_Fourze_-_12_[E3F54B49].mkv
+!new/[Over-Time]_Pirate_Sentai_Gokaiger_-_40_[17EF31FB].mkv
 !new/[sage]_Daily_Lives_of_High_School_Boys_PV1_[E5DEE26C].mkv
 !new/[sage]_Daily_Lives_of_High_School_Boys_PV2_[83CE8CD1].mkv
+!new/[sage]_Mobile_Suit_Gundam_AGE_-_08_[720p][10bit][4C356CD0].mkv
+!new/[yibis]_One_Piece_523_[720p][C350C471].mkv
 !new/app/Combined-Community-Codec-Pack-2011-07-30.exe
 !new/app/VirtualBox-4.1.6-74713-Win.exe
 !new/app/Win7Vista_151718.exe
