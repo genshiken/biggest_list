@@ -697,6 +697,7 @@
 !new/[ASL]_Various_Artists_-_EXIT_TRANCE_PRESENTS_SPEED_ANIME_TRANCE_BEST_14_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_LEGEND_SEVEN_Shirayuki_Hime_to_Shichinin_no_Eiyuu_SOUNDTRACK_[FLAC].rar
 !new/[ASL]_doriko_feat_Hatsune_Miku_-_unformed_[FLAC].rar
+!new/[Ayako-Himatsubushi] Seitokai Yakuindomo OVA - 01v2 [DVD][480p][EF82D238].mkv
 !new/[CrunchySubs] Saint Seiya - The Lost Canvas - 20 [720p].mkv
 !new/[Exiled-Destiny]_Overman_King_Gainer_Ep01v2_(C4C5D3C7).mkv
 !new/[GotSpeed]_Mirai_Nikki_-_08_[317126D2].mkv
@@ -715,9 +716,12 @@
 !new/[HorribleSubs] UN-GO - 07 [720p].mkv
 !new/[HorribleSubs] Working!! - 09 [720p].mkv
 !new/[Licca] The Alps Story - My Annette Episode 03 (h.264) [69E53990].mkv
+!new/[Licca] The Alps Story - My Annette Episode 03 (h.264-Hi10P) [D594A40F].mkv
 !new/[Monokage]_Towa_no_Quon_-_3_[Blu-Ray][Hi10P][44EC3769].mkv
+!new/[Over-Time]_Kamen_Rider_Fourze_-_11_[CEE0ED2D].mkv
 !new/[Over-Time]_Kamen_Rider_Fourze_-_12_[E3F54B49].mkv
 !new/[Over-Time]_Pirate_Sentai_Gokaiger_-_40_[17EF31FB].mkv
+!new/[Underwater] Shinryaku! Ika Musume S2 - 08 (720p) [D83197BF].mkv
 !new/[sage]_Daily_Lives_of_High_School_Boys_PV1_[E5DEE26C].mkv
 !new/[sage]_Daily_Lives_of_High_School_Boys_PV2_[83CE8CD1].mkv
 !new/[sage]_Mobile_Suit_Gundam_AGE_-_08_[720p][10bit][4C356CD0].mkv
@@ -1487,15 +1491,13 @@
 !new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/[ANE] Honey & Clover 22 (DVD 1024x576 x264 FLAC).mkv
 !new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/[ANE] Honey & Clover 23 (DVD 1024x576 x264 FLAC).mkv
 !new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/[ANE] Honey & Clover 24 (DVD 1024x576 x264 FLAC).mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover II - Narikiri! Studio postrecording vol.1 - Takemoto & Hagumi (DVD 720x480 x264 AC-3).mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover II - Narikiri! Studio postrecording vol.2 - Morita & Takemoto (DVD 720x480 x264 AC-3).mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover II - Narikiri! Studio postrecording vol.3 - Mayama & Yamada (DVD 720x480 x264 AC-3).mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover II - Narikiri! Studio postrecording vol.4 - various challenges (DVD 720x480 x264 AC-3).mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover II - Promo (DVD 716x360 x264 AC-3).mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover II - TVSpot1 (DVD 712x480 x264 AC-3).mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover II - TVSpot2 (DVD 712x480 x264 AC-3).mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/OP-ED/[ANE] Honey & Clover II NC-ED (DVD 1024x576 x264 FLAC).mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/OP-ED/[ANE] Honey & Clover II NC-OP (DVD 1024x576 x264 FLAC).mkv
+!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover II - Narikiri! Studio postrecording vol.1 - Takemoto & Hagumi [DVD][B5DE68FC].mkv
+!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover II - Narikiri! Studio postrecording vol.2 - Morita & Takemoto [DVD][3B24FC8F].mkv
+!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover II - Narikiri! Studio postrecording vol.3 - Mayama & Yamada [DVD][57E9CA01].mkv
+!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover II - Narikiri! Studio postrecording vol.4 - various challenges [DVD][AE3460C7].mkv
+!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover II - Promo [DVD][821125EE].mkv
+!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover II - TVSpot1 [DVD][0FE43FA1].mkv
+!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover II - TVSpot2 [DVD][368910F9].mkv
 !new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/Scans/vol1 disc.jpg
 !new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/Scans/vol1 jacket.jpg
 !new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/Scans/vol2 disc.jpg
@@ -1504,18 +1506,6 @@
 !new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/Scans/vol3 jacket.jpg
 !new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/Scans/vol4 disc.jpg
 !new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/Scans/vol4 jacket.jpg
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/ep/[ANE] Honey & Clover II - 01 [DVD][E93AE318].mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/ep/[ANE] Honey & Clover II - 02 [DVD][9C49B372].mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/ep/[ANE] Honey & Clover II - 03 [DVD][D35F276B].mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/ep/[ANE] Honey & Clover II - 04 [DVD][9BFA7660].mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/ep/[ANE] Honey & Clover II - 05 [DVD][999E6FF2].mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/ep/[ANE] Honey & Clover II - 06 [DVD][FDBD6B16].mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/ep/[ANE] Honey & Clover II - 07 [DVD][B922E895].mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/ep/[ANE] Honey & Clover II - 08 [DVD][2EC2950D].mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/ep/[ANE] Honey & Clover II - 09 [DVD][A45DDCC4].mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/ep/[ANE] Honey & Clover II - 10 [DVD][6BF8B730].mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/ep/[ANE] Honey & Clover II - 11 [DVD][BAB273B5].mkv
-!new/nuu/[ANE] Honey & Clover II (DVD 1024x576 x264 FLAC)/ep/[ANE] Honey & Clover II - 12 [DVD][45BAE5AE].mkv
 !new/nuu/[ANE] Shinryaku! Ika Musume - Mini Squid Girl Short Stories [BDRip 720p x264 FLAC]/[ANE] Shinryaku! Ika Musume - Mini Squid Girl Short Story 1 [BDRip 720p x264 FLAC].mkv
 !new/nuu/[ANE] Shinryaku! Ika Musume - Mini Squid Girl Short Stories [BDRip 720p x264 FLAC]/[ANE] Shinryaku! Ika Musume - Mini Squid Girl Short Story 2 [BDRip 720p x264 FLAC].mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス OVA 「青空が描きたい」.mkv
