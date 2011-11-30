@@ -689,21 +689,39 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
+!new/[A-Destiny] Toriko - 34 (1280x720 Hi10p AAC) [6870C12A].mkv
 !new/[ASL]_ClariS_-_DROP_[FLAC]_[w_Scans].rar
 !new/[ASL]_ClariS_-_Kimi_no_Yume_wo_Miyou_[FLAC]_[w_Scans].rar
 !new/[ASL]_Noto_Mamiko_-_Ao_no_Kiseki_[FLAC]_[w_Scans].rar
 !new/[ASL]_SV_TRIBE_-_Maji_de_Watashi_ni_Koishinasai_OP_-_U-n-d-e-r--STANDING!_-_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_BEN-TO_Character_Songs_and_Etc_Treasure_and_Other_Assorted_BEN-TO_Songs_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_EXIT_TRANCE_PRESENTS_SPEED_ANIME_TRANCE_BEST_14_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Eien_Shinken_Series_Vocal_Collection_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_LEGEND_SEVEN_Shirayuki_Hime_to_Shichinin_no_Eiyuu_SOUNDTRACK_[FLAC].rar
+!new/[ASL]_Various_Artists_-_PrismRhythm_ED.Vocal_Collection_-Belltina-_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_growing_-ALcot_Vocal_Arrange_Album-_[FLAC].rar
 !new/[ASL]_doriko_feat_Hatsune_Miku_-_unformed_[FLAC].rar
 !new/[Ayako-Himatsubushi] Seitokai Yakuindomo OVA - 01v2 [DVD][480p][EF82D238].mkv
+!new/[Coalgirls]_Mai_Hime_01_(960x720_Blu-Ray_FLAC)_[7B38612F].mkv
+!new/[Coalgirls]_Mai_Hime_02_(960x720_Blu-Ray_FLAC)_[C5AAB311].mkv
+!new/[Coalgirls]_Mai_Hime_03_(960x720_Blu-Ray_FLAC)_[3A4F75E9].mkv
+!new/[Coalgirls]_Mai_Hime_04_(960x720_Blu-Ray_FLAC)_[49C6E1FF].mkv
+!new/[Coalgirls]_Mai_Hime_05_(960x720_Blu-Ray_FLAC)_[66027132].mkv
+!new/[Coalgirls]_Mai_Hime_06_(960x720_Blu-Ray_FLAC)_[F4D1B0A5].mkv
+!new/[Coalgirls]_Mai_Hime_07_(960x720_Blu-Ray_FLAC)_[655B7598].mkv
+!new/[Coalgirls]_Mai_Hime_08_(960x720_Blu-Ray_FLAC)_[039C3C1F].mkv
+!new/[Coalgirls]_Mai_Hime_09_(960x720_Blu-Ray_FLAC)_[3865CD89].mkv
+!new/[Coalgirls]_Mai_Hime_10_(960x720_Blu-Ray_FLAC)_[0C37E4A9].mkv
+!new/[Coalgirls]_Mai_Hime_11_(960x720_Blu-Ray_FLAC)_[1E8B6567].mkv
+!new/[Coalgirls]_Mai_Hime_12_(960x720_Blu-Ray_FLAC)_[52033F47].mkv
+!new/[Coalgirls]_Mai_Hime_13_(960x720_Blu-Ray_FLAC)_[06DBA66F].mkv
 !new/[CrunchySubs] Saint Seiya - The Lost Canvas - 20 [720p].mkv
 !new/[Exiled-Destiny]_Overman_King_Gainer_Ep01v2_(C4C5D3C7).mkv
 !new/[GotSpeed]_Mirai_Nikki_-_08_[317126D2].mkv
 !new/[Hiryuu] Maji de Watashi ni Koi Shinasai!! 09 [Hi10P 1280x720 H264] [34D239A4].mkv
 !new/[HorribleSubs] Beelzebub - 44 [720p].mkv
 !new/[HorribleSubs] Bleach - 349 [720p].mkv
+!new/[HorribleSubs] Bleach - 350 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 46 [720p].mkv
 !new/[HorribleSubs] Chihayafuru - 08 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 107 [720p].mkv
@@ -724,6 +742,7 @@
 !new/[Underwater] Shinryaku! Ika Musume S2 - 08 (720p) [D83197BF].mkv
 !new/[sage]_Daily_Lives_of_High_School_Boys_PV1_[E5DEE26C].mkv
 !new/[sage]_Daily_Lives_of_High_School_Boys_PV2_[83CE8CD1].mkv
+!new/[sage]_Kimi_to_Boku_-_09_[720p][10bit][34F2E0FA].mkv
 !new/[sage]_Mobile_Suit_Gundam_AGE_-_08_[720p][10bit][4C356CD0].mkv
 !new/[yibis]_One_Piece_523_[720p][C350C471].mkv
 !new/app/Combined-Community-Codec-Pack-2011-07-30.exe
