@@ -702,6 +702,7 @@
 !new/[ASL]_Various_Artists_-_growing_-ALcot_Vocal_Arrange_Album-_[FLAC].rar
 !new/[ASL]_doriko_feat_Hatsune_Miku_-_unformed_[FLAC].rar
 !new/[Ayako-Himatsubushi] Seitokai Yakuindomo OVA - 01v2 [DVD][480p][EF82D238].mkv
+!new/[Chibiki]_THE_iDOLM@STER_-_21_[720p][90C46970].mkv
 !new/[Coalgirls]_Mai_Hime_01_(960x720_Blu-Ray_FLAC)_[7B38612F].mkv
 !new/[Coalgirls]_Mai_Hime_02_(960x720_Blu-Ray_FLAC)_[C5AAB311].mkv
 !new/[Coalgirls]_Mai_Hime_03_(960x720_Blu-Ray_FLAC)_[3A4F75E9].mkv
@@ -759,7 +760,14 @@
 !new/[Coalgirls]_Mai_Hime_SP26_(960x720_Blu-Ray_FLAC)_[8B70EB0A].mkv
 !new/[Coalgirls]_Mai_Hime_SP27_(960x720_Blu-Ray_FLAC)_[E68F77D9].mkv
 !new/[Coalgirls]_Mai_Hime_SP28_(1280x720_Blu-Ray_FLAC)_[5AC7EC79].mkv
+!new/[Commie] Chihayafuru - 08 [624BA877].mkv
+!new/[Commie] Kyoukai Senjou no Horizon - 09 [BEA26014].mkv
+!new/[Commie] UN-GO - 06 [6ED16DB2].mkv
+!new/[Commie] UN-GO - 07 [17C817D0].mkv
 !new/[CrunchySubs] Saint Seiya - The Lost Canvas - 20 [720p].mkv
+!new/[Doremi-CureCom].Suite.PreCure!.39.[1280x720].[AFD28DE9].mkv
+!new/[Doremi-CureCom].Suite.PreCure!.40.[1280x720].[A6F245B1].mkv
+!new/[Doutei] KissDum - 01 [720p][018e8046].mkv
 !new/[Exiled-Destiny]_Overman_King_Gainer_Ep01v2_(C4C5D3C7).mkv
 !new/[GotSpeed]_Mirai_Nikki_-_08_[317126D2].mkv
 !new/[Hiryuu] Maji de Watashi ni Koi Shinasai!! 09 [Hi10P 1280x720 H264] [34D239A4].mkv
@@ -768,6 +776,7 @@
 !new/[HorribleSubs] Bleach - 350 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 46 [720p].mkv
 !new/[HorribleSubs] Chihayafuru - 08 [720p].mkv
+!new/[HorribleSubs] Chihayafuru - 09 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 107 [720p].mkv
 !new/[HorribleSubs] Gintama - 236 [720p].mkv
 !new/[HorribleSubs] Hunter X Hunter - 09 [720p].mkv
@@ -777,13 +786,18 @@
 !new/[HorribleSubs] Naruto Shippuuden - 237 [720p].mkv
 !new/[HorribleSubs] UN-GO - 07 [720p].mkv
 !new/[HorribleSubs] Working!! - 09 [720p].mkv
+!new/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream - 16 [H264 1024x576] [3CBCC6B2].mkv
+!new/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream - 17 [H264 1024x576] [89AC0BA5].mkv
 !new/[Licca] The Alps Story - My Annette Episode 03 (h.264) [69E53990].mkv
 !new/[Licca] The Alps Story - My Annette Episode 03 (h.264-Hi10P) [D594A40F].mkv
+!new/[Live-eviL]_The_Snow_Queen_-_Ep_27_[h264&MP3]_[f5da34cb].mp4
 !new/[Monokage]_Towa_no_Quon_-_3_[Blu-Ray][Hi10P][44EC3769].mkv
 !new/[Over-Time]_Kamen_Rider_Fourze_-_11_[CEE0ED2D].mkv
 !new/[Over-Time]_Kamen_Rider_Fourze_-_12_[E3F54B49].mkv
 !new/[Over-Time]_Pirate_Sentai_Gokaiger_-_40_[17EF31FB].mkv
 !new/[Underwater] Shinryaku! Ika Musume S2 - 08 (720p) [D83197BF].mkv
+!new/[WhyNot] Nurarihyon no Mago Sennen Makyou - 21 [61B832DE].mkv
+!new/[WhyNot] Phi Brain - Kami no Puzzle - 09 [BD60C576].mkv
 !new/[sage]_Daily_Lives_of_High_School_Boys_PV1_[E5DEE26C].mkv
 !new/[sage]_Daily_Lives_of_High_School_Boys_PV2_[83CE8CD1].mkv
 !new/[sage]_Kimi_to_Boku_-_09_[720p][10bit][34F2E0FA].mkv
