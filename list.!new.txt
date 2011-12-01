@@ -702,6 +702,7 @@
 !new/[ASL]_Various_Artists_-_growing_-ALcot_Vocal_Arrange_Album-_[FLAC].rar
 !new/[ASL]_doriko_feat_Hatsune_Miku_-_unformed_[FLAC].rar
 !new/[Ayako-Himatsubushi] Seitokai Yakuindomo OVA - 01v2 [DVD][480p][EF82D238].mkv
+!new/[Ayako]_Jewelpet_Sunshine_-_09_[H264][720p][450FE1AE].mkv
 !new/[Chibiki]_THE_iDOLM@STER_-_21_[720p][90C46970].mkv
 !new/[Coalgirls]_Mai_Hime_01_(960x720_Blu-Ray_FLAC)_[7B38612F].mkv
 !new/[Coalgirls]_Mai_Hime_02_(960x720_Blu-Ray_FLAC)_[C5AAB311].mkv
@@ -767,6 +768,7 @@
 !new/[CrunchySubs] Saint Seiya - The Lost Canvas - 20 [720p].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.39.[1280x720].[AFD28DE9].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.40.[1280x720].[A6F245B1].mkv
+!new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1280x720].[6BC22CBA].v2.mkv
 !new/[Doutei] KissDum - 01 [720p][018e8046].mkv
 !new/[Exiled-Destiny]_Overman_King_Gainer_Ep01v2_(C4C5D3C7).mkv
 !new/[GotSpeed]_Mirai_Nikki_-_08_[317126D2].mkv
@@ -795,6 +797,8 @@
 !new/[Over-Time]_Kamen_Rider_Fourze_-_11_[CEE0ED2D].mkv
 !new/[Over-Time]_Kamen_Rider_Fourze_-_12_[E3F54B49].mkv
 !new/[Over-Time]_Pirate_Sentai_Gokaiger_-_40_[17EF31FB].mkv
+!new/[UTW]_C3_Cube_x_Cursed_x_Curious_-_09_[h264-720p][24F897C0].mkv
+!new/[UTW]_C3_Cube_x_Cursed_x_Curious_-_OP2_[h264-720p][241F7B1B].mkv
 !new/[Underwater] Shinryaku! Ika Musume S2 - 08 (720p) [D83197BF].mkv
 !new/[WhyNot] Nurarihyon no Mago Sennen Makyou - 21 [61B832DE].mkv
 !new/[WhyNot] Phi Brain - Kami no Puzzle - 09 [BD60C576].mkv
