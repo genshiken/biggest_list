@@ -689,23 +689,9 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[CrunchySubs] Saint Seiya - The Lost Canvas - 20 [720p][B9D1920D].mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1280x720].[6BC22CBA].v2.mkv
 !new/[Doutei] KissDum - 01 [720p][018e8046].mkv
 !new/[Exiled-Destiny]_Overman_King_Gainer_Ep01v2_(C4C5D3C7).mkv
-!new/[HorribleSubs] Beelzebub - 44 [720p].mkv
-!new/[HorribleSubs] Bleach - 349 [720p].mkv
-!new/[HorribleSubs] Bleach - 350 [720p].mkv
-!new/[HorribleSubs] Cardfight!! Vanguard - 46 [720p].mkv
-!new/[HorribleSubs] Chihayafuru - 09 [720p].mkv
-!new/[HorribleSubs] Fairy Tail - 107 [720p].mkv
-!new/[HorribleSubs] Gintama - 236 [720p].mkv
-!new/[HorribleSubs] Hunter X Hunter - 09 [720p].mkv
-!new/[HorribleSubs] Majikoi~Oh! Samurai Girls - 08 [720p].mkv
-!new/[HorribleSubs] Moritasan wa Mukuchi - 21 [720p].mkv
-!new/[HorribleSubs] Moritasan wa Mukuchi - 22 [720p].mkv
-!new/[HorribleSubs] Naruto Shippuuden - 237 [720p].mkv
-!new/[HorribleSubs] Working!! - 09 [720p].mkv
 !new/app/Combined-Community-Codec-Pack-2011-07-30.exe
 !new/app/VirtualBox-4.1.6-74713-Win.exe
 !new/app/Win7Vista_151718.exe
@@ -1297,6 +1283,19 @@
 !new/hdp2/[T-N] Kamen Rider Blade Movie DC [5AB2B2DA] Release 2000.avi
 !new/hdp2/[T-N] Kamen Rider Blade vs blade [56183A18].avi
 !new/hdp2/[T-N]Kamen_Rider_Blade_01DVDver2[C40869EC].avi
+!new/hs/[HorribleSubs] Beelzebub - 44 [720p][D8EEB0DE].mkv
+!new/hs/[HorribleSubs] Bleach - 349 [720p][3F83400C].mkv
+!new/hs/[HorribleSubs] Bleach - 350 [720p][859BD3B7].mkv
+!new/hs/[HorribleSubs] Cardfight!! Vanguard - 46 [720p][5FEA6195].mkv
+!new/hs/[HorribleSubs] Chihayafuru - 09 [720p][E4C51C3E].mkv
+!new/hs/[HorribleSubs] Fairy Tail - 107 [720p][F44F87C2].mkv
+!new/hs/[HorribleSubs] Gintama - 236 [720p][A530BACB].mkv
+!new/hs/[HorribleSubs] Hunter X Hunter - 09 [720p][0F5B446A].mkv
+!new/hs/[HorribleSubs] Majikoi~Oh! Samurai Girls - 08 [720p][2E56CE8A].mkv
+!new/hs/[HorribleSubs] Moritasan wa Mukuchi - 21 [720p][1981C504].mkv
+!new/hs/[HorribleSubs] Moritasan wa Mukuchi - 22 [720p][4CDE700F].mkv
+!new/hs/[HorribleSubs] Naruto Shippuuden - 237 [720p][98020711].mkv
+!new/hs/[HorribleSubs] Working!! - 09 [720p][AF5DD5CB].mkv
 !new/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/lama/[Ayako] Weiﬂ Survive R - 01 - H264 - E975A989.mkv
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
