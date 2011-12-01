@@ -692,34 +692,6 @@
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1280x720].[6BC22CBA].v2.mkv
 !new/[Doutei] KissDum - 01 [720p][018e8046].mkv
 !new/[Exiled-Destiny]_Overman_King_Gainer_Ep01v2_(C4C5D3C7).mkv
-!new/app/Combined-Community-Codec-Pack-2011-07-30.exe
-!new/app/VirtualBox-4.1.6-74713-Win.exe
-!new/app/Win7Vista_151718.exe
-!new/app/Win7Vista_64_151718.exe
-!new/app/ati-catalyst-11.10-vista.exe
-!new/app/ati-catalyst-11.10-vista64.exe
-!new/app/flash-player-11.0.1.152.exe
-!new/app/flash-player-ax-11.0.1.152.exe
-!new/app/foobar2000_v1.1.9.exe
-!new/app/gimp-2.6.11.exe
-!new/app/ie9-win7-x64.exe
-!new/app/ie9-win7.exe
-!new/app/infinst_autol.exe
-!new/app/libreoffice-3.4.3.exe
-!new/app/notepad++-5.9.6.exe
-!new/app/nvidia-forceware-285.62-vista64.exe
-!new/app/office2007sp3-kb2526086-fullfile-en-us.exe
-!new/app/openbsd-5.0-amd64.iso
-!new/app/openbsd-5.0-i386.iso
-!new/app/openbsd-5.0.txt
-!new/app/ports.tar.gz
-!new/app/skype-5.5.0.123.exe
-!new/app/transmission-remote-dotnet-3.24.2-installer.exe
-!new/app/ultradefrag-4.4.0-x64.exe
-!new/app/ultradefrag-4.4.0.exe
-!new/app/utorrent.exe
-!new/app/vlc-1.1.11.exe
-!new/app/vmware-player-4.0.0.exe
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_01v3[35]_-_Space-Time_Destruction_[624x480][DVD][ILA][8D03A921].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_02v3[35]_-_Lonely_Wolf_[624x480][DVD][ILA][59B986D2].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_03v3[35]_-_Pretty_Machine_[624x480][DVD][ILA][9BD697F9].ogm
@@ -1283,17 +1255,17 @@
 !new/hdp2/[T-N] Kamen Rider Blade Movie DC [5AB2B2DA] Release 2000.avi
 !new/hdp2/[T-N] Kamen Rider Blade vs blade [56183A18].avi
 !new/hdp2/[T-N]Kamen_Rider_Blade_01DVDver2[C40869EC].avi
+!new/hs/Bleach - 349 [HorribleSubs][720p][3F83400C].mkv
+!new/hs/Bleach - 350 [HorribleSubs][720p][859BD3B7].mkv
+!new/hs/Fairy Tail - 107 [HorribleSubs][720p][F44F87C2].mkv
+!new/hs/Gintama - 236 [HorribleSubs][720p][A530BACB].mkv
 !new/hs/[HorribleSubs] Beelzebub - 44 [720p][D8EEB0DE].mkv
-!new/hs/[HorribleSubs] Bleach - 349 [720p][3F83400C].mkv
-!new/hs/[HorribleSubs] Bleach - 350 [720p][859BD3B7].mkv
 !new/hs/[HorribleSubs] Cardfight!! Vanguard - 46 [720p][5FEA6195].mkv
 !new/hs/[HorribleSubs] Chihayafuru - 09 [720p][E4C51C3E].mkv
-!new/hs/[HorribleSubs] Fairy Tail - 107 [720p][F44F87C2].mkv
-!new/hs/[HorribleSubs] Gintama - 236 [720p][A530BACB].mkv
-!new/hs/[HorribleSubs] Hunter X Hunter - 09 [720p][0F5B446A].mkv
+!new/hs/[HorribleSubs] Hunter x Hunter (2011) - 09 [720p][0F5B446A].mkv
 !new/hs/[HorribleSubs] Majikoi~Oh! Samurai Girls - 08 [720p][2E56CE8A].mkv
-!new/hs/[HorribleSubs] Moritasan wa Mukuchi - 21 [720p][1981C504].mkv
-!new/hs/[HorribleSubs] Moritasan wa Mukuchi - 22 [720p][4CDE700F].mkv
+!new/hs/[HorribleSubs] Morita-san wa Mukuchi - 21 [720p][1981C504].mkv
+!new/hs/[HorribleSubs] Morita-san wa Mukuchi - 22 [720p][4CDE700F].mkv
 !new/hs/[HorribleSubs] Naruto Shippuuden - 237 [720p][98020711].mkv
 !new/hs/[HorribleSubs] Working!! - 09 [720p][AF5DD5CB].mkv
 !new/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
