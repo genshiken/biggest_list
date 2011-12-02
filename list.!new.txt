@@ -690,6 +690,8 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
 !new/[Ahodomo] Maji de Watashi ni Koi Shinasai! - 09 [720p][3CA2E278].mkv
+!new/[Commie] Guilty Crown - 08 [B171C9BB].mkv
+!new/[Commie] Persona 4 - 09 [A416084A].mkv
 !new/[DmonHiro] +A-Channel 01 (BD, 720p, 10bit, AAC) [C02AC2A8].mkv
 !new/[DmonHiro] +A-Channel 02 (BD, 720p, 10bit, AAC) [AD44AA68].mkv
 !new/[DmonHiro] +A-Channel 03 (BD, 720p, 10bit, AAC) [5EF6EEE6].mkv
@@ -706,9 +708,13 @@
 !new/[Exiled-Destiny]_Overman_King_Gainer_Ep01v2_(C4C5D3C7).mkv
 !new/[HorribleSubs] Naruto Shippuuden - 238 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 35 [720p].mkv
+!new/[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_09_[D8813B74].mkv
 !new/[PCSS] Yes! Pretty Cure 5 - 35 (DVD) [B6A8D0C7].mkv
 !new/[SS] Mirai Nikki - 07 (1280x720 h264) [3DE326ED].mkv
 !new/[Shin-S] DOG DAYS Insert Song Single 2 - Promised Love ~Daisuki x 100~ [Horie Yui].zip
+!new/[gg]_Mawaru_Penguindrum_-_21_[BCFFBD7D].mkv
+!new/[sage]_Daily_Lives_of_High_School_Boys_Preview_3_[E62C4AB6].mkv
+!new/[sage]_Daily_Lives_of_High_School_Boys_Preview_4_[2B6E1F1A].mkv
 !new/[sage]_Sekaiichi_Hatsukoi_2_-_08_[720p][10bit][4607E023].mkv
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_01v3[35]_-_Space-Time_Destruction_[624x480][DVD][ILA][8D03A921].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_02v3[35]_-_Lonely_Wolf_[624x480][DVD][ILA][59B986D2].ogm
