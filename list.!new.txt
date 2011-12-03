@@ -694,7 +694,15 @@
 !new/[ASL]_Hi-Fi_CAMP_-_Fairy_Tail_ED_-_Kono_Te_Nobashite-Kazoekirenai_Kiss_[FLAC].rar
 !new/[ASL]_Makise_Kurisu_-_STEINS;GATE_BD_Vol.6_Tokuten_CD_-_Mirai_Gadget_Compact_Disc_Rokugou_[FLAC].rar
 !new/[ASL]_Various_Artists_-_Chocolat_-_Parfait_-_Kono_Aozora_ni_Yakusoku_wo_-_Soundtrack_Complete_CD-Box_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_DOG_DAYS_4_Limited_Edtition_Bonus_CD_[FLAC].rar
+!new/[ASL]_Various_Artists_-_Nekogami_Yaoyorozu_Original_Soundtrack_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_THE_PRESIDENTS_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Tamayura_~hitotose~_Original_Soundtrack_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_recollections_-_ALcot_Vocal_collection_Vol.1_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_relations_-_ALcot_Vocal_Collection_Vol.2_[FLAC]_[w_Scans].rar
+!new/[ASL]_Veil_-_assorted_voices_[FLAC].rar
 !new/[Ahodomo] Maji de Watashi ni Koi Shinasai! - 09 [720p][3CA2E278].mkv
+!new/[Chibiki]_THE_iDOLM@STER_-_22_[720p][79227718].mkv
 !new/[Commie] Guilty Crown - 08 [B171C9BB].mkv
 !new/[Commie] Persona 4 - 09 [A416084A].mkv
 !new/[DmonHiro] +A-Channel 01 (BD, 720p, 10bit, AAC) [C02AC2A8].mkv
@@ -708,16 +716,21 @@
 !new/[DmonHiro] +A-Channel 09 (BD, 720p, 10bit, AAC) [1D7A6E37].mkv
 !new/[DmonHiro] +A-Channel 10 (BD, 720p, 10bit, AAC) [04E70086].mkv
 !new/[DmonHiro] +A-Channel 11 (BD, 720p, 10bit, AAC) [BB30037A].mkv
+!new/[DmonHiro] Rio - Rainbow Gate 14 (BD, 720p, AAC) [AEB07A31].mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1280x720].[6BC22CBA].v2.mkv
 !new/[Doutei] KissDum - 01 [720p][018e8046].mkv
 !new/[Exiled-Destiny]_Overman_King_Gainer_Ep01v2_(C4C5D3C7).mkv
+!new/[Hiryuu] Freezing 12 [BD 1280x720 H264 AAC] [4332AB56].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 238 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 35 [720p].mkv
 !new/[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_09_[D8813B74].mkv
 !new/[PCSS] Yes! Pretty Cure 5 - 35 (DVD) [B6A8D0C7].mkv
+!new/[SHiN-gx] Morita-san wa Mukuchi 2 - 08 [720p][D182B21C].mkv
 !new/[SS] Mirai Nikki - 07 (1280x720 h264) [3DE326ED].mkv
+!new/[Shin-S] Chihayafuru OP Single - YOUTHFUL [99RadioService].zip
 !new/[Shin-S] DOG DAYS Insert Song Single 2 - Promised Love ~Daisuki x 100~ [Horie Yui].zip
 !new/[gg]_Mawaru_Penguindrum_-_21_[BCFFBD7D].mkv
+!new/[m.3.3.w]_Working'!!_-_08_[h264_720p]_[D8E4A57A].mkv
 !new/[sage]_Daily_Lives_of_High_School_Boys_Preview_3_[E62C4AB6].mkv
 !new/[sage]_Daily_Lives_of_High_School_Boys_Preview_4_[2B6E1F1A].mkv
 !new/[sage]_Sekaiichi_Hatsukoi_2_-_08_[720p][10bit][4607E023].mkv
