@@ -693,6 +693,7 @@
 !new/[ASL]_Gackt_-_SKET_DANCE_OP_-_Graffiti_[FLAC].rar
 !new/[ASL]_Hi-Fi_CAMP_-_Fairy_Tail_ED_-_Kono_Te_Nobashite-Kazoekirenai_Kiss_[FLAC].rar
 !new/[ASL]_Makise_Kurisu_-_STEINS;GATE_BD_Vol.6_Tokuten_CD_-_Mirai_Gadget_Compact_Disc_Rokugou_[FLAC].rar
+!new/[ASL]_Sakamoto_Maaya_-_Tamayura_~hitotose~_OP_-_Okaerinasai_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Chocolat_-_Parfait_-_Kono_Aozora_ni_Yakusoku_wo_-_Soundtrack_Complete_CD-Box_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_DOG_DAYS_4_Limited_Edtition_Bonus_CD_[FLAC].rar
 !new/[ASL]_Various_Artists_-_Nekogami_Yaoyorozu_Original_Soundtrack_[FLAC]_[w_Scans].rar
@@ -704,7 +705,12 @@
 !new/[Ahodomo] Maji de Watashi ni Koi Shinasai! - 09 [720p][3CA2E278].mkv
 !new/[Chibiki]_THE_iDOLM@STER_-_22_[720p][79227718].mkv
 !new/[Commie] Guilty Crown - 08 [B171C9BB].mkv
+!new/[Commie] Mirai Nikki - 05 [8D0E79B9].mkv
+!new/[Commie] Mirai Nikki - 06 [880C4407].mkv
+!new/[Commie] Mirai Nikki - 07 [AE467BBD].mkv
+!new/[Commie] Mirai Nikki - 08 [092077AD].mkv
 !new/[Commie] Persona 4 - 09 [A416084A].mkv
+!new/[Commie] Shakugan no Shana III - 09 [91C48870].mkv
 !new/[DmonHiro] +A-Channel 01 (BD, 720p, 10bit, AAC) [C02AC2A8].mkv
 !new/[DmonHiro] +A-Channel 02 (BD, 720p, 10bit, AAC) [AD44AA68].mkv
 !new/[DmonHiro] +A-Channel 03 (BD, 720p, 10bit, AAC) [5EF6EEE6].mkv
@@ -718,12 +724,16 @@
 !new/[DmonHiro] +A-Channel 11 (BD, 720p, 10bit, AAC) [BB30037A].mkv
 !new/[DmonHiro] Rio - Rainbow Gate 14 (BD, 720p, AAC) [AEB07A31].mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1280x720].[6BC22CBA].v2.mkv
+!new/[Doremi].Ojamajo.Doremi.Dokkaan!.09.[BDE0A9FD].avi
 !new/[Doutei] KissDum - 01 [720p][018e8046].mkv
 !new/[Exiled-Destiny]_Overman_King_Gainer_Ep01v2_(C4C5D3C7).mkv
 !new/[Hiryuu] Freezing 12 [BD 1280x720 H264 AAC] [4332AB56].mkv
+!new/[HorribleSubs] Cardfight!! Vanguard - 47 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 238 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 35 [720p].mkv
 !new/[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_09_[D8813B74].mkv
+!new/[Nishishi-subs] Kiss x Sis OVA - 06 [DVD 848x480 x264 AAC][B64CFD74].mkv
+!new/[Oyatsu] Mashiro Iro Symphony - 09 (1280x720 x264 AAC) [021741D8].mkv
 !new/[PCSS] Yes! Pretty Cure 5 - 35 (DVD) [B6A8D0C7].mkv
 !new/[SHiN-gx] Morita-san wa Mukuchi 2 - 08 [720p][D182B21C].mkv
 !new/[SS] Mirai Nikki - 07 (1280x720 h264) [3DE326ED].mkv
@@ -734,6 +744,7 @@
 !new/[sage]_Daily_Lives_of_High_School_Boys_Preview_3_[E62C4AB6].mkv
 !new/[sage]_Daily_Lives_of_High_School_Boys_Preview_4_[2B6E1F1A].mkv
 !new/[sage]_Sekaiichi_Hatsukoi_2_-_08_[720p][10bit][4607E023].mkv
+!new/[sage]_Sekaiichi_Hatsukoi_2_-_09_[720p][10bit][654F8D23].mkv
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_01v3[35]_-_Space-Time_Destruction_[624x480][DVD][ILA][8D03A921].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_02v3[35]_-_Lonely_Wolf_[624x480][DVD][ILA][59B986D2].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_03v3[35]_-_Pretty_Machine_[624x480][DVD][ILA][9BD697F9].ogm
