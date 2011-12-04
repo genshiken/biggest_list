@@ -6,11 +6,6 @@
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
 !new/Credits.txt
-!new/Detective Conan - 636 [DCTP][720p][5224894A].mp4
-!new/Detective Conan - 636v2 [DCTP][720p][0958A9F9].mp4
-!new/Detective Conan - 637 [DCTP][720p][D46C5408].mp4
-!new/Detective Conan - 638 [DCTP][720p][0294AC7F].mp4
-!new/Detective Conan - 639 [DCTP][720p][CF948D30].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -691,20 +686,6 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[Ahodomo] Maji de Watashi ni Koi Shinasai! - 09 [720p][3CA2E278].mkv
-!new/[Ahodomo] Maji de Watashi ni Koi Shinasai! - 10 [720p][BB32E6CA].mkv
-!new/[Chibiki]_THE_iDOLM@STER_-_22_[720p][79227718].mkv
-!new/[Commie] Chihayafuru - 09 [97FCDB9A].mkv
-!new/[Commie] Fate ⁄ Zero - 10 [33EB3A4E].mkv
-!new/[Commie] Guilty Crown - 08 [B171C9BB].mkv
-!new/[Commie] Last Exile ~Fam, The Silver Wing~ - 08 [3E384061].mkv
-!new/[Commie] Mirai Nikki - 05 [8D0E79B9].mkv
-!new/[Commie] Mirai Nikki - 06 [880C4407].mkv
-!new/[Commie] Mirai Nikki - 07 [AE467BBD].mkv
-!new/[Commie] Mirai Nikki - 08 [092077AD].mkv
-!new/[Commie] Persona 4 - 09 [A416084A].mkv
-!new/[Commie] Shakugan no Shana III - 09 [91C48870].mkv
-!new/[CureCom] Fresh Pretty Cure! - 39 [HD][D4F04B1E].mkv
 !new/[DmonHiro] +A-Channel 01 (BD, 720p, 10bit, AAC) [C02AC2A8].mkv
 !new/[DmonHiro] +A-Channel 02 (BD, 720p, 10bit, AAC) [AD44AA68].mkv
 !new/[DmonHiro] +A-Channel 03 (BD, 720p, 10bit, AAC) [5EF6EEE6].mkv
@@ -720,9 +701,7 @@
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1280x720].[6BC22CBA].v2.mkv
 !new/[Doremi].Ojamajo.Doremi.Dokkaan!.09.[BDE0A9FD].avi
 !new/[Doutei] KissDum - 01 [720p][018e8046].mkv
-!new/[EveTaku] Ben-To - 09 (1280x720 x264-Hi10P AAC)[477D88B7].mkv
 !new/[Exiled-Destiny]_Overman_King_Gainer_Ep01v2_(C4C5D3C7).mkv
-!new/[Hiryuu] Freezing 12 [BD 1280x720 H264 AAC] [4332AB56].mkv
 !new/[HorribleSubs] Beelzebub - 45 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 47 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 108 [720p].mkv
@@ -731,26 +710,8 @@
 !new/[HorribleSubs] Naruto Shippuuden - 238 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 35 [720p].mkv
 !new/[HorribleSubs] Working!! - 10 [720p].mkv
-!new/[Live-eviL]_Queen_Millennia_(TV)_-_11_[28E7C533].mkv
-!new/[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_09_[D8813B74].mkv
 !new/[Nishishi-subs] Kiss x Sis OVA - 06 [DVD 848x480 x264 AAC][B64CFD74].mkv
-!new/[Oyatsu] Mashiro Iro Symphony - 09 (1280x720 x264 AAC) [021741D8].mkv
-!new/[PCSS] Yes! Pretty Cure 5 - 35 (DVD) [B6A8D0C7].mkv
-!new/[SFW-sage]_Bakuman_S2_-_10_[720p][Hi10P][20343140].mkv
-!new/[SHiN-gx] Morita-san wa Mukuchi 2 - 08 [720p][D182B21C].mkv
-!new/[SS-Eclipse] Shakugan no Shana Final - 09 (1280x720 Hi10P) [3D73200C].mkv
-!new/[SS] Mirai Nikki - 07 (1280x720 h264) [3DE326ED].mkv
-!new/[UTW]_Carnival_Phantasm_-_Ilya_Castle_Special_[BD][h264-1080p_FLAC][63FA6A47].mkv
-!new/[UTW]_Fate_Zero_-_10_[h264-720p][62B3B6F2].mkv
 !new/[Underwater-Commie] Nichijou 720p v2 patch.rar
-!new/[gg]_Mawaru_Penguindrum_-_21_[BCFFBD7D].mkv
-!new/[m.3.3.w]_Working'!!_-_08_[h264_720p]_[D8E4A57A].mkv
-!new/[sage]_Daily_Lives_of_High_School_Boys_Preview_3_[E62C4AB6].mkv
-!new/[sage]_Daily_Lives_of_High_School_Boys_Preview_4_[2B6E1F1A].mkv
-!new/[sage]_Sekaiichi_Hatsukoi_2_-_08_[720p][10bit][4607E023].mkv
-!new/[sage]_Sekaiichi_Hatsukoi_2_-_09_[720p][10bit][654F8D23].mkv
-!new/[sage]_Sekaiichi_Hatsukoi_2_-_09v2_[720p][10bit][E48F564C].mkv
-!new/[yibis]_One_Piece_524_[720p][FABBEE6B].mkv
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_01v3[35]_-_Space-Time_Destruction_[624x480][DVD][ILA][8D03A921].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_02v3[35]_-_Lonely_Wolf_[624x480][DVD][ILA][59B986D2].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_03v3[35]_-_Pretty_Machine_[624x480][DVD][ILA][9BD697F9].ogm
@@ -1314,13 +1275,9 @@
 !new/hdp2/[T-N] Kamen Rider Blade Movie DC [5AB2B2DA] Release 2000.avi
 !new/hdp2/[T-N] Kamen Rider Blade vs blade [56183A18].avi
 !new/hdp2/[T-N]Kamen_Rider_Blade_01DVDver2[C40869EC].avi
-!new/hs/Bleach - 349 [HorribleSubs][720p][3F83400C].mkv
-!new/hs/Bleach - 350 [HorribleSubs][720p][859BD3B7].mkv
-!new/hs/Fairy Tail - 107 [HorribleSubs][720p][F44F87C2].mkv
 !new/hs/Gintama - 236 [HorribleSubs][720p][A530BACB].mkv
 !new/hs/[HorribleSubs] Beelzebub - 44 [720p][D8EEB0DE].mkv
 !new/hs/[HorribleSubs] Cardfight!! Vanguard - 46 [720p][5FEA6195].mkv
-!new/hs/[HorribleSubs] Chihayafuru - 09 [720p][E4C51C3E].mkv
 !new/hs/[HorribleSubs] Hunter x Hunter (2011) - 09 [720p][0F5B446A].mkv
 !new/hs/[HorribleSubs] Majikoi~Oh! Samurai Girls - 08 [720p][2E56CE8A].mkv
 !new/hs/[HorribleSubs] Morita-san wa Mukuchi - 21 [720p][1981C504].mkv
