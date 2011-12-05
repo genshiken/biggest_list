@@ -686,6 +686,10 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
+!new/[ASL]_HOUKAGO_TEA_TIME_-_K-On!_Movie_Theme_Song_&_OP_-_Unmei_wa_Endless!_[FLAC].rar
+!new/[ASL]_Various_Artists_-_AQUAPLUS_Vocal_Collection_Vol.2_[FLAC].rar
+!new/[ASL]_Various_Artists_-_AQUAPLUS_Vocal_Collection_Vol.3_[FLAC].rar
+!new/[ASL]_Various_Artists_-_Nitro_Best_-_Nitroplus_Best_Songs_Collection_[FLAC]_[w_Scans].rar
 !new/[DmonHiro] +A-Channel 01 (BD, 720p, 10bit, AAC) [C02AC2A8].mkv
 !new/[DmonHiro] +A-Channel 02 (BD, 720p, 10bit, AAC) [AD44AA68].mkv
 !new/[DmonHiro] +A-Channel 03 (BD, 720p, 10bit, AAC) [5EF6EEE6].mkv
@@ -699,6 +703,7 @@
 !new/[DmonHiro] +A-Channel 11 (BD, 720p, 10bit, AAC) [BB30037A].mkv
 !new/[DmonHiro] Rio - Rainbow Gate 14 (BD, 720p, AAC) [AEB07A31].mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1280x720].[6BC22CBA].v2.mkv
+!new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1920x1080].[257C55D8].mkv
 !new/[Doremi].Ojamajo.Doremi.Dokkaan!.09.[BDE0A9FD].avi
 !new/[Doutei] KissDum - 01 [720p][018e8046].mkv
 !new/[Exiled-Destiny]_Overman_King_Gainer_Ep01v2_(C4C5D3C7).mkv
@@ -711,7 +716,9 @@
 !new/[HorribleSubs] SKET Dance - 35 [720p].mkv
 !new/[HorribleSubs] Working!! - 10 [720p].mkv
 !new/[Nishishi-subs] Kiss x Sis OVA - 06 [DVD 848x480 x264 AAC][B64CFD74].mkv
+!new/[SHiN-gx] Morita-san wa Mukuchi 2 - 07 [720p][75D86D16].mkv
 !new/[Underwater-Commie] Nichijou 720p v2 patch.rar
+!new/[gg]_Ben-to_-_09_[A8F1EDF5].mkv
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_01v3[35]_-_Space-Time_Destruction_[624x480][DVD][ILA][8D03A921].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_02v3[35]_-_Lonely_Wolf_[624x480][DVD][ILA][59B986D2].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_03v3[35]_-_Pretty_Machine_[624x480][DVD][ILA][9BD697F9].ogm
