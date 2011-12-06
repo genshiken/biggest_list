@@ -5,7 +5,6 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
-!new/Credits.txt
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -601,11 +600,6 @@
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].avi
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].idx
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].sub
-!new/SuperS Back Cover Vol.2.jpg
-!new/SuperS DVD Cover Vol.2.jpg
-!new/SuperS Disc 2.jpg
-!new/Tales_from_Earthsea_(2006)_[1080p,BluRay,flac,dts,x264]_-_THORA.md5
-!new/Tales_from_Earthsea_(2006)_[1080p,BluRay,flac,dts,x264]_-_THORA.nfo
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_01v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_02v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_03v2[divx5.1.1].mkv
@@ -686,56 +680,8 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[ASL]_HOUKAGO_TEA_TIME_-_K-On!_Movie_Theme_Song_&_OP_-_Unmei_wa_Endless!_[FLAC].rar
-!new/[ASL]_Ko-Ko-Ya_-_Ikoku_Meiro_no_Croisee_The_ANIMATION_Dai_3-kan_Tokuten_Assorted_CD_3_[FLAC].rar
-!new/[ASL]_Takanashi_Sora_-_Papa_no_Iu_Koto_wo_Kikinasai!_Character_Song_CD_-_Sorairo_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artists_-_AQUAPLUS_Vocal_Collection_Vol.2_[FLAC].rar
-!new/[ASL]_Various_Artists_-_AQUAPLUS_Vocal_Collection_Vol.3_[FLAC].rar
-!new/[ASL]_Various_Artists_-_AQUAPLUS_Vocal_Collection_Vol.4_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artists_-_Nitro_Best_-_Nitroplus_Best_Songs_Collection_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artists_-_Senjou_no_Valkyria_-Gallian_Chronicles-_Original_Soundtrack_[FLAC]_[w_Scans].rar
-!new/[DmonHiro] +A-Channel 01 (BD, 720p, 10bit, AAC) [C02AC2A8].mkv
-!new/[DmonHiro] +A-Channel 02 (BD, 720p, 10bit, AAC) [AD44AA68].mkv
-!new/[DmonHiro] +A-Channel 03 (BD, 720p, 10bit, AAC) [5EF6EEE6].mkv
-!new/[DmonHiro] +A-Channel 04 (BD, 720p, 10bit, AAC) [2F27F9ED].mkv
-!new/[DmonHiro] +A-Channel 05 (BD, 720p, 10bit, AAC) [AE53520D].mkv
-!new/[DmonHiro] +A-Channel 06 (BD, 720p, 10bit, AAC) [C5F52B29].mkv
-!new/[DmonHiro] +A-Channel 07 (BD, 720p, 10bit, AAC) [09D9D8D8].mkv
-!new/[DmonHiro] +A-Channel 08 (BD, 720p, 10bit, AAC) [C59280A2].mkv
-!new/[DmonHiro] +A-Channel 09 (BD, 720p, 10bit, AAC) [1D7A6E37].mkv
-!new/[DmonHiro] +A-Channel 10 (BD, 720p, 10bit, AAC) [04E70086].mkv
-!new/[DmonHiro] +A-Channel 11 (BD, 720p, 10bit, AAC) [BB30037A].mkv
-!new/[DmonHiro] Rio - Rainbow Gate 14 (BD, 720p, AAC) [AEB07A31].mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1280x720].[6BC22CBA].v2.mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1920x1080].[257C55D8].mkv
-!new/[Doremi].Ojamajo.Doremi.Dokkaan!.09.[BDE0A9FD].avi
-!new/[Doutei] KissDum - 01 [720p][018e8046].mkv
-!new/[Doutei] Rurouni Kenshin - Requiem For The Restoration Patriots [BD,1080p,Dual DTS][6690dca9].mkv
-!new/[Exiled-Destiny]_Overman_King_Gainer_Ep01v2_(C4C5D3C7).mkv
-!new/[GotSpeed]_Mirai_Nikki_-_09_[E386B859].mkv
-!new/[Hiryuu] Maji de Watashi ni Koi Shinasai!! 10 [Hi10P 1280x720 H264] [CDE2A555].mkv
-!new/[Hiryuu] Maken-Ki! 09 [Hi10P 1280x720 H264] [EE47C947].mkv
-!new/[HorribleSubs] Beelzebub - 45 [720p].mkv
-!new/[HorribleSubs] Cardfight!! Vanguard - 47 [720p].mkv
-!new/[HorribleSubs] Fairy Tail - 108 [720p].mkv
-!new/[HorribleSubs] Gintama - 237 [720p].mkv
-!new/[HorribleSubs] Hunter X Hunter - 10 [720p].mkv
-!new/[HorribleSubs] Majikoi~Oh! Samurai Girls - 09 [720p].mkv
-!new/[HorribleSubs] Naruto Shippuuden - 238 [720p].mkv
-!new/[HorribleSubs] SKET Dance - 35 [720p].mkv
-!new/[HorribleSubs] Working!! - 10 [720p].mkv
-!new/[Nishishi-subs] Kiss x Sis OVA - 06 [DVD 848x480 x264 AAC][B64CFD74].mkv
-!new/[Over-Time]_Kamen_Rider_Fourze_-_13_[D7412CAF].mkv
-!new/[Over-Time]_Pirate_Sentai_Gokaiger_-_41_[01B75D4A].mkv
-!new/[PCSS] Yes! Pretty Cure 5 - 36 (DVD) [E4208953].mkv
-!new/[ReDone] Rizelmine - 13 (DVD) [6F24ABCA].mkv
-!new/[ReDone] Rizelmine - ED2 (DVD) [C89C1581].mkv
-!new/[SHiN-gx] Morita-san wa Mukuchi 2 - 07 [720p][75D86D16].mkv
-!new/[Shin-S] Papa no Iu Koto wo Kikinasai! Character Song CD - Takanashi Miu [Kitamura Eri].zip
-!new/[Shin-S] Papa no Iu Koto wo Kikinasai! Character Song CD - Takanashi Sora [Uesaka Sumire].zip
-!new/[Underwater-Commie] Nichijou 720p v2 patch.rar
-!new/[gg]_Ben-to_-_09_[A8F1EDF5].mkv
-!new/[sage]_Mobile_Suit_Gundam_AGE_-_09_[720p][10bit][8D68705F].mkv
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_01v3[35]_-_Space-Time_Destruction_[624x480][DVD][ILA][8D03A921].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_02v3[35]_-_Lonely_Wolf_[624x480][DVD][ILA][59B986D2].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_03v3[35]_-_Pretty_Machine_[624x480][DVD][ILA][9BD697F9].ogm
@@ -1162,6 +1108,7 @@
 !new/bingung/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_11[13]_-_Episode_11_[704x396][DVD][RAW][C0DB163D].avi
 !new/bingung/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_12[13]_-_Episode_12_[704x396][DVD][RAW][3F9EB4EA].avi
 !new/bingung/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_13[13]_-_Episode_13_[704x396][DVD][RAW][11B5A96F].avi
+!new/bingung/[Underwater-Commie] Nichijou 720p v2 patch.rar
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.jap.mp3
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.avi
 !new/bla/e-zx.black.heaven.01.sub.rar/zx.black.heaven.01.sub.idx
@@ -1299,15 +1246,6 @@
 !new/hdp2/[T-N] Kamen Rider Blade Movie DC [5AB2B2DA] Release 2000.avi
 !new/hdp2/[T-N] Kamen Rider Blade vs blade [56183A18].avi
 !new/hdp2/[T-N]Kamen_Rider_Blade_01DVDver2[C40869EC].avi
-!new/hs/Gintama - 236 [HorribleSubs][720p][A530BACB].mkv
-!new/hs/[HorribleSubs] Beelzebub - 44 [720p][D8EEB0DE].mkv
-!new/hs/[HorribleSubs] Cardfight!! Vanguard - 46 [720p][5FEA6195].mkv
-!new/hs/[HorribleSubs] Hunter x Hunter (2011) - 09 [720p][0F5B446A].mkv
-!new/hs/[HorribleSubs] Majikoi~Oh! Samurai Girls - 08 [720p][2E56CE8A].mkv
-!new/hs/[HorribleSubs] Morita-san wa Mukuchi - 21 [720p][1981C504].mkv
-!new/hs/[HorribleSubs] Morita-san wa Mukuchi - 22 [720p][4CDE700F].mkv
-!new/hs/[HorribleSubs] Naruto Shippuuden - 237 [720p][98020711].mkv
-!new/hs/[HorribleSubs] Working!! - 09 [720p][AF5DD5CB].mkv
 !new/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/lama/[Ayako] Wei� Survive R - 01 - H264 - E975A989.mkv
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
