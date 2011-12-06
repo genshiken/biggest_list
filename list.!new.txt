@@ -688,9 +688,12 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
 !new/[ASL]_HOUKAGO_TEA_TIME_-_K-On!_Movie_Theme_Song_&_OP_-_Unmei_wa_Endless!_[FLAC].rar
 !new/[ASL]_Ko-Ko-Ya_-_Ikoku_Meiro_no_Croisee_The_ANIMATION_Dai_3-kan_Tokuten_Assorted_CD_3_[FLAC].rar
+!new/[ASL]_Takanashi_Sora_-_Papa_no_Iu_Koto_wo_Kikinasai!_Character_Song_CD_-_Sorairo_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_AQUAPLUS_Vocal_Collection_Vol.2_[FLAC].rar
 !new/[ASL]_Various_Artists_-_AQUAPLUS_Vocal_Collection_Vol.3_[FLAC].rar
+!new/[ASL]_Various_Artists_-_AQUAPLUS_Vocal_Collection_Vol.4_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Nitro_Best_-_Nitroplus_Best_Songs_Collection_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Senjou_no_Valkyria_-Gallian_Chronicles-_Original_Soundtrack_[FLAC]_[w_Scans].rar
 !new/[DmonHiro] +A-Channel 01 (BD, 720p, 10bit, AAC) [C02AC2A8].mkv
 !new/[DmonHiro] +A-Channel 02 (BD, 720p, 10bit, AAC) [AD44AA68].mkv
 !new/[DmonHiro] +A-Channel 03 (BD, 720p, 10bit, AAC) [5EF6EEE6].mkv
@@ -711,9 +714,11 @@
 !new/[Exiled-Destiny]_Overman_King_Gainer_Ep01v2_(C4C5D3C7).mkv
 !new/[GotSpeed]_Mirai_Nikki_-_09_[E386B859].mkv
 !new/[Hiryuu] Maji de Watashi ni Koi Shinasai!! 10 [Hi10P 1280x720 H264] [CDE2A555].mkv
+!new/[Hiryuu] Maken-Ki! 09 [Hi10P 1280x720 H264] [EE47C947].mkv
 !new/[HorribleSubs] Beelzebub - 45 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 47 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 108 [720p].mkv
+!new/[HorribleSubs] Gintama - 237 [720p].mkv
 !new/[HorribleSubs] Hunter X Hunter - 10 [720p].mkv
 !new/[HorribleSubs] Majikoi~Oh! Samurai Girls - 09 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 238 [720p].mkv
@@ -722,6 +727,9 @@
 !new/[Nishishi-subs] Kiss x Sis OVA - 06 [DVD 848x480 x264 AAC][B64CFD74].mkv
 !new/[Over-Time]_Kamen_Rider_Fourze_-_13_[D7412CAF].mkv
 !new/[Over-Time]_Pirate_Sentai_Gokaiger_-_41_[01B75D4A].mkv
+!new/[PCSS] Yes! Pretty Cure 5 - 36 (DVD) [E4208953].mkv
+!new/[ReDone] Rizelmine - 13 (DVD) [6F24ABCA].mkv
+!new/[ReDone] Rizelmine - ED2 (DVD) [C89C1581].mkv
 !new/[SHiN-gx] Morita-san wa Mukuchi 2 - 07 [720p][75D86D16].mkv
 !new/[Shin-S] Papa no Iu Koto wo Kikinasai! Character Song CD - Takanashi Miu [Kitamura Eri].zip
 !new/[Shin-S] Papa no Iu Koto wo Kikinasai! Character Song CD - Takanashi Sora [Uesaka Sumire].zip
