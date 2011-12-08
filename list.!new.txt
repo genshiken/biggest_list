@@ -691,6 +691,7 @@
 !new/[ASL]_Various_Artists_-_Hoshizora_no_Memoria_Sound_Collection_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Macross_Frontier_~Sayonara_no_Tsubasa~_netabare_album_the_end_of_triangle_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Oboromuramasa_Ongakushuu_Onban_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Project_DIVA_Arcade_Original_Song_Collection_Vol_2_[FLAC]_[w_Scans].rar
 !new/[ASL]_Veil_Aoi_-_Negai_ga_Kanau_Basho_~Vocal_Harmony_version~_[FLAC].rar
 !new/[Ayako]_Jewelpet_Sunshine_-_11_[H264][720p][3FA50BC3].mkv
 !new/[Commie] Kyoukai Senjou no Horizon - 10 [010191CA].mkv
@@ -700,6 +701,8 @@
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1920x1080].[257C55D8].mkv
 !new/[Doutei] KissDum - 02 [720p][aba7952c].mkv
 !new/[FroZen-EviL]_Yawara_-_70_[DVD][B78CEE03].mkv
+!new/[Hiryuu] Dog Days 03 [BD Hi10P 1280x720 AAC] [4AB21BD6].mkv
+!new/[Hiryuu] Dog Days 04 [BD Hi10P 1280x720 AAC] [06735A06].mkv
 !new/[Hiryuu] Maken-Ki! 06 [Hi10P 1280x720 H264] [9C8C5895].mkv
 !new/[Hiryuu] Maken-Ki! 07 [Hi10P 1280x720 H264]  [DF6B28DD].mkv
 !new/[HorribleSubs] Beelzebub - 43 [720p].mkv
@@ -710,6 +713,7 @@
 !new/[KindaHorribleSubs] Beelzebub - 42 [720p].mkv
 !new/[Licca] Porphy no Nagai Tabi Episode 08 (h.264-Hi10P) [FC9534A6].mkv
 !new/[Licca] Porphy no Nagai Tabi Episode 09 (h.264-Hi10P) [92D0728A].mkv
+!new/[Live-eviL]_Future_Boy_Conan_01_[BD-h264-10bit-1080p]_[6cb576da].mkv
 !new/[ReDone] Lime-Colored War Tales OVA - 01 (DVD) [E0D38798].mkv
 !new/[RyRo]_Inazuma_Eleven_GO_-_029_(720p)_[B357EC5A].mkv
 !new/[RyRo]_Inazuma_Eleven_GO_-_030_(720p)_[C08B0B39].mkv
