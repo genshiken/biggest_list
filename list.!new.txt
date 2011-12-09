@@ -680,7 +680,6 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[A-Destiny] Toriko - 35 (1280x720 Hi10p AAC) [FF43B499].mkv
 !new/[ASL]_ Various_Artists_-_Kamisama_Dolls_Original_Soundtrack_[FLAC]_[w_Scans].rar
 !new/[ASL]_765PRO_ALLSTARS_-_THE_IDOLMASTER_ANIMATION_MASTER_05_[FLAC]_[w_Scans].rar
 !new/[ASL]_EastNewSound_-_Split_Theory_[FLAC]_[w_Scans].rar
@@ -706,9 +705,6 @@
 !new/[Ayako]_Infinite_Stratos_-_IS_OVA_-_[H264][480p][D2186381].mkv
 !new/[Ayako]_Jewelpet_Sunshine_-_11_[H264][720p][3FA50BC3].mkv
 !new/[Ayako]_Jewelpet_Sunshine_-_12v0_[H264][720p][DA533BE2].mkv
-!new/[Commie] Guilty Crown - 09 [52C0456D].mkv
-!new/[Commie] Kyoukai Senjou no Horizon - 10 [010191CA].mkv
-!new/[Commie] Kyousogiga - OVA [3AB612F0].mkv
 !new/[DB]_Bleach_Movie_4_[AB9FA762].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.41.[1280x720].[72FC60F2].mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1280x720].[6BC22CBA].v2.mkv
@@ -716,16 +712,9 @@
 !new/[Doutei] KissDum - 02 [720p][aba7952c].mkv
 !new/[FroZen-EviL]_Yawara_-_70_[DVD][B78CEE03].mkv
 !new/[GotWoot]_Mirai_Nikki_09_[10-bit][7C2455BD].mkv
-!new/[Hiryuu] Dog Days 01 [BD Hi10P 1280x720 AAC] [09F1CF94].mkv
-!new/[Hiryuu] Dog Days 02 [BD Hi10P 1280x720 AAC] [403720DF].mkv
-!new/[Hiryuu] Dog Days 03 [BD Hi10P 1280x720 AAC] [4AB21BD6].mkv
-!new/[Hiryuu] Dog Days 04 [BD Hi10P 1280x720 AAC] [06735A06].mkv
-!new/[Hiryuu] Maken-Ki! 06 [Hi10P 1280x720 H264] [9C8C5895].mkv
-!new/[Hiryuu] Maken-Ki! 07 [Hi10P 1280x720 H264]  [DF6B28DD].mkv
 !new/[HorribleSubs] Beelzebub - 43 [720p].mkv
 !new/[HorribleSubs] Bleach - 351 [720p].mkv
 !new/[HorribleSubs] Chihayafuru - 10 [720p].mkv
-!new/[HorribleSubs] Kimi to Boku - 10 [720p].mkv
 !new/[HorribleSubs] Moritasan wa Mukuchi - 23 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 239 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 34 [720p].mkv
@@ -736,18 +725,7 @@
 !new/[Licca] Porphy no Nagai Tabi Episode 09 (h.264-Hi10P) [92D0728A].mkv
 !new/[Licca] The Alps Story - My Annette Episode 04 (h.264-Hi10P) [AD57287C].mkv
 !new/[Live-eviL]_Future_Boy_Conan_01_[BD-h264-10bit-1080p]_[6cb576da].mkv
-!new/[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_10_[83147F8C].mkv
-!new/[PM]Pocket_Monsters_Best_Wishes_058_Iris_and_Monozu!_Training_at_the_Day_Care!![H264_720P][3A78FB66].mkv
 !new/[ReDone] Lime-Colored War Tales OVA - 01 (DVD) [E0D38798].mkv
-!new/[RyRo]_Inazuma_Eleven_GO_-_029_(720p)_[B357EC5A].mkv
-!new/[RyRo]_Inazuma_Eleven_GO_-_030_(720p)_[C08B0B39].mkv
-!new/[SHiN-gx] Morita-san wa Mukuchi 2 - 09 [720p][97331A29].mkv
-!new/[UTW]_C3_Cube_x_Cursed_x_Curious_-_10_[h264-720p][C8F61D16].mkv
-!new/[Underwater] Shinryaku! Ika Musume S2 - 09 (720p) [B55BADF5].mkv
-!new/[WhyNot] Nurarihyon no Mago Sennen Makyou - 22 [6FCDFF8D].mkv
-!new/[WhyNot] Phi Brain - Kami no Puzzle - 10 [01E7064E].mkv
-!new/[WildBunch]_Digimon_Xros_Wars_II_-_10_(1280x720_x264_AAC)_[03B4351A].mkv
-!new/[sage]_Kimi_to_Boku_-_10_[720p][10bit][B2555ADF].mkv
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_01v3[35]_-_Space-Time_Destruction_[624x480][DVD][ILA][8D03A921].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_02v3[35]_-_Lonely_Wolf_[624x480][DVD][ILA][59B986D2].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_03v3[35]_-_Pretty_Machine_[624x480][DVD][ILA][9BD697F9].ogm
