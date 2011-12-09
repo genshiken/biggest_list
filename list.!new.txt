@@ -687,6 +687,7 @@
 !new/[ASL]_Furukawa_Honpo_feat.Hatsune_Miku,_630,_Chibita_-_alta_mugs_E.P_[FLAC].rar
 !new/[ASL]_HO-KAGO_TEA_TIME_-_K-On_Movie_ED_-_Singing_[FLAC].rar
 !new/[ASL]_Hashimoto_Miyuki_-_Murasaki-Ban_Vocal_Selection_[FLAC]_[w_Scans].rar
+!new/[ASL]_Lama_-_Un-Go_ED_-_Fantasy_[FLAC]_[w_Scans].rar
 !new/[ASL]_Takanashi_Miu_-_Papa_no_Iu_Koto_wo_Kikinasai!_Character_Song_CD_-_Brilliant_Days_[FLAC]_[w_Scans].rar
 !new/[ASL]_TokuP_feat.Hatsune_Miku_-_Headphone-Tokyo_1st_EP_-_SPiCa_[FLAC].rar
 !new/[ASL]_Various_Artists_-_AQUAPLUS_Vocal_Collection_Vol.5_[FLAC]_[w_Scans].rar
@@ -704,6 +705,7 @@
 !new/[ASL]_Yukizakurasou_-_planetarian_~Chiisana_Hoshi_no_Uta~_[FLAC]_[w_Scans].rar
 !new/[Ayako]_Infinite_Stratos_-_IS_OVA_-_[H264][480p][D2186381].mkv
 !new/[Ayako]_Jewelpet_Sunshine_-_11_[H264][720p][3FA50BC3].mkv
+!new/[Ayako]_Jewelpet_Sunshine_-_12v0_[H264][720p][DA533BE2].mkv
 !new/[Commie] Guilty Crown - 09 [52C0456D].mkv
 !new/[Commie] Kyoukai Senjou no Horizon - 10 [010191CA].mkv
 !new/[Commie] Kyousogiga - OVA [3AB612F0].mkv
@@ -728,11 +730,14 @@
 !new/[HorribleSubs] Naruto Shippuuden - 239 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 34 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 36 [720p].mkv
+!new/[HorribleSubs] UN-GO - 09 [720p].mkv
 !new/[KindaHorribleSubs] Beelzebub - 42 [720p].mkv
 !new/[Licca] Porphy no Nagai Tabi Episode 08 (h.264-Hi10P) [FC9534A6].mkv
 !new/[Licca] Porphy no Nagai Tabi Episode 09 (h.264-Hi10P) [92D0728A].mkv
 !new/[Licca] The Alps Story - My Annette Episode 04 (h.264-Hi10P) [AD57287C].mkv
 !new/[Live-eviL]_Future_Boy_Conan_01_[BD-h264-10bit-1080p]_[6cb576da].mkv
+!new/[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_10_[83147F8C].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_058_Iris_and_Monozu!_Training_at_the_Day_Care!![H264_720P][3A78FB66].mkv
 !new/[ReDone] Lime-Colored War Tales OVA - 01 (DVD) [E0D38798].mkv
 !new/[RyRo]_Inazuma_Eleven_GO_-_029_(720p)_[B357EC5A].mkv
 !new/[RyRo]_Inazuma_Eleven_GO_-_030_(720p)_[C08B0B39].mkv
