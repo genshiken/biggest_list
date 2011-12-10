@@ -682,12 +682,14 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
 !new/[ASL]_ Various_Artists_-_Kamisama_Dolls_Original_Soundtrack_[FLAC]_[w_Scans].rar
 !new/[ASL]_765PRO_ALLSTARS_-_THE_IDOLMASTER_ANIMATION_MASTER_05_[FLAC]_[w_Scans].rar
+!new/[ASL]_ALTIMA_-_I'll_believe_[FLAC]_[w_scans].rar
 !new/[ASL]_EastNewSound_-_Split_Theory_[FLAC]_[w_Scans].rar
 !new/[ASL]_Furukawa_Honpo_feat.Hatsune_Miku,_630,_Chibita_-_alta_mugs_E.P_[FLAC].rar
 !new/[ASL]_HO-KAGO_TEA_TIME_-_K-On_Movie_ED_-_Singing_[FLAC].rar
 !new/[ASL]_Hashimoto_Miyuki_-_Murasaki-Ban_Vocal_Selection_[FLAC]_[w_Scans].rar
 !new/[ASL]_Lama_-_Un-Go_ED_-_Fantasy_[FLAC]_[w_Scans].rar
 !new/[ASL]_Takanashi_Miu_-_Papa_no_Iu_Koto_wo_Kikinasai!_Character_Song_CD_-_Brilliant_Days_[FLAC]_[w_Scans].rar
+!new/[ASL]_Teshima_Aoi_-_Collection_Blue_[FLAC].rar
 !new/[ASL]_TokuP_feat.Hatsune_Miku_-_Headphone-Tokyo_1st_EP_-_SPiCa_[FLAC].rar
 !new/[ASL]_Various_Artists_-_AQUAPLUS_Vocal_Collection_Vol.5_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_AQUAPLUS_Vocal_Collection_Vol.6_[FLAC]_[w_Scans].rar
@@ -699,12 +701,15 @@
 !new/[ASL]_Various_Artists_-_Macross_Frontier_~Sayonara_no_Tsubasa~_netabare_album_the_end_of_triangle_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Murasaki-Ban_Vocal_Selection_II_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Oboromuramasa_Ongakushuu_Onban_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_PULLTOP_VOCAL_COLLECTION_2_-_Uta_no_Kanzume_2_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Project_DIVA_Arcade_Original_Song_Collection_Vol_2_[FLAC]_[w_Scans].rar
 !new/[ASL]_Veil_Aoi_-_Negai_ga_Kanau_Basho_~Vocal_Harmony_version~_[FLAC].rar
 !new/[ASL]_Yukizakurasou_-_planetarian_~Chiisana_Hoshi_no_Uta~_[FLAC]_[w_Scans].rar
+!new/[ASL]_school_food_punishment_-_UN-GO_OP_-_How_to_go_[FLAC]_[w_Scans].rar
 !new/[Ayako]_Infinite_Stratos_-_IS_OVA_-_[H264][480p][D2186381].mkv
 !new/[Ayako]_Jewelpet_Sunshine_-_11_[H264][720p][3FA50BC3].mkv
 !new/[Ayako]_Jewelpet_Sunshine_-_12v0_[H264][720p][DA533BE2].mkv
+!new/[Chibiki]_THE_iDOLM@STER_-_23_[720p][C02ABDE5].mkv
 !new/[Coalgirls]_Infinite_Stratos_OVA-NCED_(1280x720_Blu-Ray_FLAC)_[C55FC097].mkv
 !new/[Coalgirls]_Infinite_Stratos_OVA_(1280x720_Blu-Ray_FLAC)_[3D0F7CB7].mkv
 !new/[Commie] Shakugan no Shana III - 10 [6BFE3707].mkv
@@ -728,14 +733,28 @@
 !new/[Licca] Porphy no Nagai Tabi Episode 08 (h.264-Hi10P) [FC9534A6].mkv
 !new/[Licca] Porphy no Nagai Tabi Episode 09 (h.264-Hi10P) [92D0728A].mkv
 !new/[Licca] The Alps Story - My Annette Episode 04 (h.264-Hi10P) [AD57287C].mkv
+!new/[Live-eviL]_Captain_Harlock_SSX_(TV)_-_13_[95035CA9].mkv
+!new/[Live-eviL]_Captain_Harlock_SSX_(TV)_-_14_[CC7142FA].mkv
+!new/[Live-eviL]_Captain_Harlock_SSX_(TV)_-_15_[4181FC23].mkv
 !new/[Live-eviL]_Future_Boy_Conan_01_[BD-h264-10bit-1080p]_[6cb576da].mkv
 !new/[Live-eviL]_Future_Boy_Conan_02_[BD-h264-10bit-1080p]_[bc991e84].mkv
+!new/[Oyatsu] Mashiro Iro Symphony - 10 (1280x720 x264 AAC) [726978BA].mkv
 !new/[ReDone] Lime-Colored War Tales OVA - 01 (DVD) [E0D38798].mkv
 !new/[SHiN-gx] Morita-san wa Mukuchi OVA [DVD][E2D17EAE].mkv
+!new/[SMC] Sailor Moon SuperS 138 (R2 DVD.H264.AC3) [9F8E86BB].mkv
+!new/[SMC] Sailor Moon SuperS 139 (R2 DVD.H264.AC3) [AB40F6C6].mkv
+!new/[SMC] Sailor Moon SuperS 140 (R2 DVD.H264.AC3) [C9460A3B].mkv
+!new/[SMC] Sailor Moon SuperS 141 (R2 DVD.H264.AC3) [18D00656].mkv
+!new/[SMC] Sailor Moon SuperS 142 (R2 DVD.H264.AC3) [737FBF5C].mkv
+!new/[SMC] Sailor Moon SuperS 143 (R2 DVD.H264.AC3) [9A30F894].mkv
 !new/[Saizen]_Igano_Kabamaru_-_10_[FE75D995].mkv
 !new/[Shin-S] Shakugan no Shana III -Final- ED Single - I'll believe [ALTIMA].zip
 !new/[SlumpSubs]_Dr.Slump_Arale-chan_-_001_[c4d076c4].mkv
 !new/[UTW]_Appleseed_XIII_-_03_[BD][h264-1080p_FLAC][0BA750D7].mkv
+!new/[Victorique]_Gosick_-_13_[BD][h264-720p][FLAC][30B9BA95].mkv
+!new/[Victorique]_Gosick_-_14_[BD][h264-720p][FLAC][7E6038E1].mkv
+!new/[Victorique]_Gosick_-_15_[BD][h264-720p][FLAC][36E8BC79].mkv
+!new/[Victorique]_Gosick_-_16_[BD][h264-720p][FLAC][DA4A7BE0].mkv
 !new/[WildBunch]_Digimon_Xros_Wars_II_-_09_(1280x720_x264_AAC)_[068F71D8].mkv
 !new/[gg]_Mawaru_Penguindrum_-_22_[B86DD0DC].mkv
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_01v3[35]_-_Space-Time_Destruction_[624x480][DVD][ILA][8D03A921].ogm
