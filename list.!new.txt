@@ -705,6 +705,8 @@
 !new/[Ayako]_Infinite_Stratos_-_IS_OVA_-_[H264][480p][D2186381].mkv
 !new/[Ayako]_Jewelpet_Sunshine_-_11_[H264][720p][3FA50BC3].mkv
 !new/[Ayako]_Jewelpet_Sunshine_-_12v0_[H264][720p][DA533BE2].mkv
+!new/[Coalgirls]_Infinite_Stratos_OVA-NCED_(1280x720_Blu-Ray_FLAC)_[C55FC097].mkv
+!new/[Coalgirls]_Infinite_Stratos_OVA_(1280x720_Blu-Ray_FLAC)_[3D0F7CB7].mkv
 !new/[DB]_Bleach_Movie_4_[AB9FA762].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.41.[1280x720].[72FC60F2].mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1280x720].[6BC22CBA].v2.mkv
@@ -725,7 +727,15 @@
 !new/[Licca] Porphy no Nagai Tabi Episode 09 (h.264-Hi10P) [92D0728A].mkv
 !new/[Licca] The Alps Story - My Annette Episode 04 (h.264-Hi10P) [AD57287C].mkv
 !new/[Live-eviL]_Future_Boy_Conan_01_[BD-h264-10bit-1080p]_[6cb576da].mkv
+!new/[Live-eviL]_Future_Boy_Conan_02_[BD-h264-10bit-1080p]_[bc991e84].mkv
 !new/[ReDone] Lime-Colored War Tales OVA - 01 (DVD) [E0D38798].mkv
+!new/[SHiN-gx] Morita-san wa Mukuchi OVA [DVD][E2D17EAE].mkv
+!new/[Saizen]_Igano_Kabamaru_-_10_[FE75D995].mkv
+!new/[Shin-S] Shakugan no Shana III -Final- ED Single - I'll believe [ALTIMA].zip
+!new/[SlumpSubs]_Dr.Slump_Arale-chan_-_001_[c4d076c4].mkv
+!new/[UTW]_Appleseed_XIII_-_03_[BD][h264-1080p_FLAC][0BA750D7].mkv
+!new/[WildBunch]_Digimon_Xros_Wars_II_-_09_(1280x720_x264_AAC)_[068F71D8].mkv
+!new/[gg]_Mawaru_Penguindrum_-_22_[B86DD0DC].mkv
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_01v3[35]_-_Space-Time_Destruction_[624x480][DVD][ILA][8D03A921].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_02v3[35]_-_Lonely_Wolf_[624x480][DVD][ILA][59B986D2].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_03v3[35]_-_Pretty_Machine_[624x480][DVD][ILA][9BD697F9].ogm
