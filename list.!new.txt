@@ -683,14 +683,20 @@
 !new/[ASL]_ Various_Artists_-_Kamisama_Dolls_Original_Soundtrack_[FLAC]_[w_Scans].rar
 !new/[ASL]_765PRO_ALLSTARS_-_THE_IDOLMASTER_ANIMATION_MASTER_05_[FLAC]_[w_Scans].rar
 !new/[ASL]_ALTIMA_-_I'll_believe_[FLAC]_[w_scans].rar
+!new/[ASL]_Chata_-_Suiheisen_made_Nan_Mile_[FLAC]_[w_Scans].rar
 !new/[ASL]_EastNewSound_-_Split_Theory_[FLAC]_[w_Scans].rar
+!new/[ASL]_Fujita_Mai_-_Soukoku_no_Kusabi_-_Hiiro_no_Kakera_3_DS_OP&ED_-_Naitemo_Naitemo,_Hanabi_[FLAC].rar
 !new/[ASL]_Furukawa_Honpo_feat.Hatsune_Miku,_630,_Chibita_-_alta_mugs_E.P_[FLAC].rar
+!new/[ASL]_HIMEKA_-_himekanvas_[FLAC].rar
 !new/[ASL]_HO-KAGO_TEA_TIME_-_K-On_Movie_ED_-_Singing_[FLAC].rar
 !new/[ASL]_Hashimoto_Miyuki_-_Murasaki-Ban_Vocal_Selection_[FLAC]_[w_Scans].rar
+!new/[ASL]_Kiyoura_Natsumi_-_Phi_Brain_-Kami_no_Puzzle-_ED_Theme_-_Hologram_[FLAC]_[w_Scans].rar
 !new/[ASL]_Lama_-_Un-Go_ED_-_Fantasy_[FLAC]_[w_Scans].rar
 !new/[ASL]_Takanashi_Miu_-_Papa_no_Iu_Koto_wo_Kikinasai!_Character_Song_CD_-_Brilliant_Days_[FLAC]_[w_Scans].rar
 !new/[ASL]_Teshima_Aoi_-_Collection_Blue_[FLAC].rar
 !new/[ASL]_TokuP_feat.Hatsune_Miku_-_Headphone-Tokyo_1st_EP_-_SPiCa_[FLAC].rar
+!new/[ASL]_Tomatsu_Haruka_-_Hanasaku_Iroha_Character_Song_Single_-_Wakura_Yuina_[FLAC]_[w_Scans].rar
+!new/[ASL]_Toyosaki_Aki_-_Hanasaku_Iroha_Character_Song_Single_-_Oshimizu_Nako_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_AQUAPLUS_Vocal_Collection_Vol.5_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_AQUAPLUS_Vocal_Collection_Vol.6_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_CAMPANARIO_-_Shukufuku_no_Campanella_Original_Soundtrack_[FLAC].rar
@@ -699,12 +705,15 @@
 !new/[ASL]_Various_Artists_-_FORTUNE_ARTERIAL_Original_Soundtrack_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Hoshizora_no_Memoria_Sound_Collection_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Macross_Frontier_~Sayonara_no_Tsubasa~_netabare_album_the_end_of_triangle_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Mashiro-iro_Symphony_Character_Songs_-_Character_Palette_Vol.1_[FLAC].rar
+!new/[ASL]_Various_Artists_-_Mayo_Chiki_3_Limited_Edition_Bonus_DISC_-_Web_Radio_Shucchou-ban_3_[FLAC].rar
 !new/[ASL]_Various_Artists_-_Murasaki-Ban_Vocal_Selection_II_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Oboromuramasa_Ongakushuu_Onban_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_PULLTOP_VOCAL_COLLECTION_2_-_Uta_no_Kanzume_2_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Project_DIVA_Arcade_Original_Song_Collection_Vol_2_[FLAC]_[w_Scans].rar
 !new/[ASL]_Veil_Aoi_-_Negai_ga_Kanau_Basho_~Vocal_Harmony_version~_[FLAC].rar
 !new/[ASL]_Yukizakurasou_-_planetarian_~Chiisana_Hoshi_no_Uta~_[FLAC]_[w_Scans].rar
+!new/[ASL]_school_food_punishment_-_UN-GO_OP_-_How_to_go_[EXTRA].rar
 !new/[ASL]_school_food_punishment_-_UN-GO_OP_-_How_to_go_[FLAC]_[w_Scans].rar
 !new/[Ayako]_Infinite_Stratos_-_IS_OVA_-_[H264][480p][D2186381].mkv
 !new/[Ayako]_Jewelpet_Sunshine_-_11_[H264][720p][3FA50BC3].mkv
@@ -723,12 +732,15 @@
 !new/[GotWoot]_Mirai_Nikki_09_[10-bit][7C2455BD].mkv
 !new/[HorribleSubs] Beelzebub - 43 [720p].mkv
 !new/[HorribleSubs] Bleach - 351 [720p].mkv
+!new/[HorribleSubs] Cardfight!! Vanguard - 48 [720p].mkv
 !new/[HorribleSubs] Chihayafuru - 10 [720p].mkv
+!new/[HorribleSubs] Fairy Tail - 109 [720p].mkv
 !new/[HorribleSubs] Moritasan wa Mukuchi - 23 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 239 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 34 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 36 [720p].mkv
 !new/[HorribleSubs] UN-GO - 09 [720p].mkv
+!new/[HorribleSubs] Working!! - 11 [720p].mkv
 !new/[KindaHorribleSubs] Beelzebub - 42 [720p].mkv
 !new/[Licca] Porphy no Nagai Tabi Episode 08 (h.264-Hi10P) [FC9534A6].mkv
 !new/[Licca] Porphy no Nagai Tabi Episode 09 (h.264-Hi10P) [92D0728A].mkv
@@ -748,7 +760,12 @@
 !new/[SMC] Sailor Moon SuperS 142 (R2 DVD.H264.AC3) [737FBF5C].mkv
 !new/[SMC] Sailor Moon SuperS 143 (R2 DVD.H264.AC3) [9A30F894].mkv
 !new/[SMC] Sailor Moon SuperS Creditless Ending 2 (R1 DVD.H264.AC3) [6467AE27].mkv
+!new/[SS] Mirai Nikki - 08 (1280x720 h264) [A2D821D8].mkv
 !new/[Saizen]_Igano_Kabamaru_-_10_[FE75D995].mkv
+!new/[Saizen_&_Shinsen-Subs]_Captain_Tsubasa_Road_to_2002_-_34_[DVD][78928AD2].mkv
+!new/[Shin-S] Hanasaku Iroha Character Song Single - Oshimizu Nako [Toyosaki Aki].zip
+!new/[Shin-S] Hanasaku Iroha Character Song Single - Wakura Yuina [Tomatsu Haruka].zip
+!new/[Shin-S] Mashiro-iro Symphony Character Palette Vol.1 - Sena Airi & Uryuu Sakuno [Various].zip
 !new/[Shin-S] Shakugan no Shana III -Final- ED Single - I'll believe [ALTIMA].zip
 !new/[SlumpSubs]_Dr.Slump_Arale-chan_-_001_[c4d076c4].mkv
 !new/[UTW]_Appleseed_XIII_-_03_[BD][h264-1080p_FLAC][0BA750D7].mkv
