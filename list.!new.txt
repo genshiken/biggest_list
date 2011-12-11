@@ -95,6 +95,7 @@
 !new/Kigurumikku V3/[HorribleSubs] Kigurumikku - 01 [480p].mkv
 !new/Kigurumikku V3/[HorribleSubs] Kigurumikku - 02 [480p].mkv
 !new/Kigurumikku V3/[KusoSubs] Kigurumikku - 03 [WebRip].mkv
+!new/Mahou Sensei Negima_345_RHS.zip
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 01 KTCR-9010/1. kanashimi yo konnichiwa (Saitou Yuki)  [OP]  (Hello! Sadness).mp3
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 01 KTCR-9010/10. ame yadori  (Take shelter from rain).mp3
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 01 KTCR-9010/11. ame yadori sono 2.mp3
@@ -734,6 +735,7 @@
 !new/[ASL]_765PRO_ALLSTARS_-_THE_IDOLMASTER_ANIMATION_MASTER_05_[FLAC]_[w_Scans].rar
 !new/[ASL]_ALTIMA_-_I'll_believe_[FLAC]_[w_scans].rar
 !new/[ASL]_Chata_-_Suiheisen_made_Nan_Mile_[FLAC]_[w_Scans].rar
+!new/[ASL]_Choucho_-_Eiyuu_Densetsu_-_Sora_no_Kiseki_OVA_ED_Theme_-_Harmonia_[FLAC]_[w_Scans].rar
 !new/[ASL]_EastNewSound_-_Split_Theory_[FLAC]_[w_Scans].rar
 !new/[ASL]_Fujita_Mai_-_Soukoku_no_Kusabi_-_Hiiro_no_Kakera_3_DS_OP&ED_-_Naitemo_Naitemo,_Hanabi_[FLAC].rar
 !new/[ASL]_Furukawa_Honpo_feat.Hatsune_Miku,_630,_Chibita_-_alta_mugs_E.P_[FLAC].rar
@@ -761,8 +763,10 @@
 !new/[ASL]_Various_Artists_-_Oboromuramasa_Ongakushuu_Onban_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_PULLTOP_VOCAL_COLLECTION_2_-_Uta_no_Kanzume_2_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Project_DIVA_Arcade_Original_Song_Collection_Vol_2_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Sakaagari_Hurricane_Soundtrack_[FLAC]_[w_Scans].rar
 !new/[ASL]_Veil_Aoi_-_Negai_ga_Kanau_Basho_~Vocal_Harmony_version~_[FLAC].rar
 !new/[ASL]_Yukizakurasou_-_planetarian_~Chiisana_Hoshi_no_Uta~_[FLAC]_[w_Scans].rar
+!new/[ASL]_fripSide_-_Toaru_Kagaku_no_Railgun_PSP_OP_Theme_-_way_to_answer_[FLAC].rar
 !new/[ASL]_school_food_punishment_-_UN-GO_OP_-_How_to_go_[EXTRA].rar
 !new/[ASL]_school_food_punishment_-_UN-GO_OP_-_How_to_go_[FLAC]_[w_Scans].rar
 !new/[Ayako]_Infinite_Stratos_-_IS_OVA_-_[H264][480p][D2186381].mkv
@@ -773,6 +777,7 @@
 !new/[Coalgirls]_Infinite_Stratos_OVA_(1280x720_Blu-Ray_FLAC)_[3D0F7CB7].mkv
 !new/[Commie] Chihayafuru - 10 [6FB1EE02].mkv
 !new/[Commie] Fate ⁄ Zero - 11 [0084A074].mkv
+!new/[Commie] Persona 4 - 10 [32EC3418].mkv
 !new/[Commie] Shakugan no Shana III - 10 [FF705D7E].mkv
 !new/[Commie] UN-GO - 08 [156BE415].mkv
 !new/[DB]_Bleach_Movie_4_[AB9FA762].mkv
@@ -807,6 +812,14 @@
 !new/[Live-eviL]_Future_Boy_Conan_01_[BD-h264-10bit-1080p]_[6cb576da].mkv
 !new/[Live-eviL]_Future_Boy_Conan_02_[BD-h264-10bit-1080p]_[bc991e84].mkv
 !new/[Mizui Kaou]  Little By Little Ch.01-13 [ENG] (Hayama_Kotono).zip
+!new/[Nipponsei] Hanasaku Iroha Character Song Single - Oshimizu Nako [Toyosaki Aki].zip
+!new/[Nipponsei] Hanasaku Iroha Character Song Single - Wakura Yuina [Tomatsu Haruka].zip
+!new/[Nipponsei] K-ON! Movie ED Single - Singing! [Houkago Tea Time].zip
+!new/[Nipponsei] K-ON! Movie OP Single - Unmei wa Endless! [Houkago Tea Time].zip
+!new/[Nipponsei] Mashiroiro Symphony Character Song Vol.1 - Sena Airi & Uryuu Sakuno.zip
+!new/[Nipponsei] Shakugan no Shana III ED Single - I'll believe [ALTIMA].zip
+!new/[Nipponsei] UN-GO OP Single - How to go [School Food Punishment].zip
+!new/[OS] To Aru Kagaku No Railgun Chapter 45.rar
 !new/[Oyatsu] Mashiro Iro Symphony - 10 (1280x720 x264 AAC) [726978BA].mkv
 !new/[ReDone] Lime-Colored War Tales OVA - 01 (DVD) [E0D38798].mkv
 !new/[SHiN-gx] Morita-san wa Mukuchi OVA [DVD][E2D17EAE].mkv
@@ -833,8 +846,10 @@
 !new/[Victorique]_Gosick_-_15_[BD][h264-720p][FLAC][36E8BC79].mkv
 !new/[Victorique]_Gosick_-_16_[BD][h264-720p][FLAC][DA4A7BE0].mkv
 !new/[WildBunch]_Digimon_Xros_Wars_II_-_09_(1280x720_x264_AAC)_[068F71D8].mkv
+!new/[gg]_Ben-to_-_10_[B2DE2A2C].mkv
 !new/[gg]_Mawaru_Penguindrum_-_22_[B86DD0DC].mkv
 !new/[m.3.3.w]_Working'!!_-_09_[h264_720p]_[C2421746].mkv
+!new/[sage]_Lupin_III_-_Blood_Seal_~Eternal_Mermaid~_[720p][10bit][66D1EF97].mkv
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_01v3[35]_-_Space-Time_Destruction_[624x480][DVD][ILA][8D03A921].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_02v3[35]_-_Lonely_Wolf_[624x480][DVD][ILA][59B986D2].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_03v3[35]_-_Pretty_Machine_[624x480][DVD][ILA][9BD697F9].ogm
