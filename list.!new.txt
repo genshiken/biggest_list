@@ -684,7 +684,6 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[A-Destiny] Toriko - 36 (1280x720 Hi10p) [F7683326].mkv
 !new/[Ahodomo] Maji de Watashi ni Koi Shinasai! - 11 [720p][4C9A5F09].mkv
 !new/[Ayako]_Infinite_Stratos_-_IS_OVA_-_[H264][480p][D2186381].mkv
 !new/[Ayako]_Jewelpet_Sunshine_-_11_[H264][720p][3FA50BC3].mkv
@@ -697,12 +696,8 @@
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1280x720].[6BC22CBA].v2.mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1920x1080].[257C55D8].mkv
 !new/[Doutei] KissDum - 02 [720p][aba7952c].mkv
-!new/[FroZen-EviL]_Yawara_-_70_[DVD][B78CEE03].mkv
-!new/[FroZen-EviL]_Yawara_-_71_[DVD][D522A209].mkv
 !new/[GotSpeed]_Mirai_Nikki_-_10v2_[A6BAEA55].mkv
 !new/[GotWoot]_Mirai_Nikki_09_[10-bit][7C2455BD].mkv
-!new/[Hiryuu] Maji de Watashi ni Koi Shinasai!! 11 [Hi10P 1280x720 H264] [177A98C5].mkv
-!new/[Hiryuu] Maken-Ki! 10 [Hi10P 1280x720 H264]  [62B370B1].mkv
 !new/[HorribleSubs] Beelzebub - 42 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 43 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 46 [720p].mkv
@@ -748,9 +743,6 @@
 !new/[SMC] Sailor Moon SuperS Creditless Ending 2 (R1 DVD.H264.AC3) [6467AE27].mkv
 !new/[SS-Eclipse] Shakugan no Shana Final - 10 (1280x720 Hi10P) [03107BBE].mkv
 !new/[SS] Mirai Nikki - 08 (1280x720 h264) [A2D821D8].mkv
-!new/[Saizen]_Igano_Kabamaru_-_10_[FE75D995].mkv
-!new/[Saizen]_Igano_Kabamaru_-_11_[581C6FB4].mkv
-!new/[Saizen_&_Shinsen-Subs]_Captain_Tsubasa_Road_to_2002_-_34_[DVD][78928AD2].mkv
 !new/[SlumpSubs]_Dr.Slump_Arale-chan_-_001_[c4d076c4].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_04_(BD_1080p_x264_FLAC)_[584855CC].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_05_(BD_1080p_x264_FLAC)_[7C022BA].mkv
