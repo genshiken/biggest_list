@@ -701,6 +701,7 @@
 !new/[Doutei] KissDum - 02 [720p][aba7952c].mkv
 !new/[GotSpeed]_Mirai_Nikki_-_10v2_[A6BAEA55].mkv
 !new/[GotWoot]_Mirai_Nikki_09_[10-bit][7C2455BD].mkv
+!new/[GotWoot]_Mirai_Nikki_10_[10-bit][19655BEA].mkv
 !new/[HorribleSubs] Beelzebub - 42 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 43 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 46 [720p].mkv
@@ -756,6 +757,7 @@
 !new/[SubDESU]_Manyuu_Hikenchou_06_(BD_1080p_x264_FLAC)_[F6B8CB40].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_Special_03_(BD_1080p_x264_FLAC)_[CCD0655].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_Special_04_(BD_1080p_x264_FLAC)_[5C4125B2].mkv
+!new/[sage]_Kimi_to_Boku_-_11_[720p][10bit][B23CE75F].mkv
 !new/[sage]_Lupin_III_-_Blood_Seal_~Eternal_Mermaid~_[720p][10bit][66D1EF97].mkv
 !new/[sage]_Mobile_Suit_Gundam_AGE_-_10_[720p][10bit][8718E427].mkv
 !new/[sage]_Sekaiichi_Hatsukoi_2_-_10_[720p][10bit][04A8D3CB].mkv
