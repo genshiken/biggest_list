@@ -710,6 +710,7 @@
 !new/[HorribleSubs] Bleach - 352 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 48 [720p].mkv
 !new/[HorribleSubs] Chihayafuru - 10 [720p].mkv
+!new/[HorribleSubs] Chihayafuru - 11 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 109 [720p].mkv
 !new/[HorribleSubs] Gintama - 238 [720p].mkv
 !new/[HorribleSubs] Hunter X Hunter - 10 [720p].mkv
@@ -725,6 +726,7 @@
 !new/[Licca] Little Women II - Jo's Boys Episode 17 (h.264-Hi10P) [F9796198].mkv
 !new/[Licca] Porphy no Nagai Tabi Episode 08 (h.264-Hi10P) [FC9534A6].mkv
 !new/[Licca] Porphy no Nagai Tabi Episode 09 (h.264-Hi10P) [92D0728A].mkv
+!new/[Licca] Porphy no Nagai Tabi Episode 10 (h.264-Hi10P) [9E53B7D7].mkv
 !new/[Licca] The Alps Story - My Annette Episode 04 (h.264-Hi10P) [AD57287C].mkv
 !new/[Live-eviL]_Captain_Harlock_SSX_(TV)_-_13_[95035CA9].mkv
 !new/[Live-eviL]_Captain_Harlock_SSX_(TV)_-_14_[CC7142FA].mkv
@@ -737,6 +739,7 @@
 !new/[Oyatsu] Mashiro Iro Symphony - 10 (1280x720 x264 AAC) [726978BA].mkv
 !new/[ReDone] Lime-Colored War Tales OVA - 01 (DVD) [E0D38798].mkv
 !new/[ReinForce] Seto no Hanayome - NCED_1.mkv
+!new/[RyRo]_Inazuma_Eleven_GO_-_031_(720p)_[F11319DF].mkv
 !new/[SHiN-gx] Morita-san wa Mukuchi 2 - 10 [720p][E87546A2].mkv
 !new/[SHiN-gx] Morita-san wa Mukuchi OVA [DVD][E2D17EAE].mkv
 !new/[SMC] Sailor Moon SuperS 138 (R2 DVD.H264.AC3) [9F8E86BB].mkv
