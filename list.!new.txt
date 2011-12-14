@@ -684,6 +684,9 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
+!new/[ASL]_Various_Artists_-_Asu_no_Kimi_to_Au_Tame_ni_ORIGINAL_SOUNDTRACK_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Kimi_no_Iru_Keshiki_[FLAC].rar
+!new/[ASL]_Various_Artists_-_Smile_Cubic_Original_Soundtrack_[FLAC].rar
 !new/[Ahodomo] Maji de Watashi ni Koi Shinasai! - 11 [720p][4C9A5F09].mkv
 !new/[Ayako]_Infinite_Stratos_-_IS_OVA_-_[H264][480p][D2186381].mkv
 !new/[Ayako]_Jewelpet_Sunshine_-_11_[H264][720p][3FA50BC3].mkv
@@ -743,6 +746,10 @@
 !new/[SMC] Sailor Moon SuperS Creditless Ending 2 (R1 DVD.H264.AC3) [6467AE27].mkv
 !new/[SS-Eclipse] Shakugan no Shana Final - 10 (1280x720 Hi10P) [03107BBE].mkv
 !new/[SS] Mirai Nikki - 08 (1280x720 h264) [A2D821D8].mkv
+!new/[Saizen]_Igano_Kabamaru_-_03_[A25D2159].mkv
+!new/[Saizen]_Igano_Kabamaru_-_04_[5BE0D30C].mkv
+!new/[Saizen]_Igano_Kabamaru_-_05_[D4971590].mkv
+!new/[Saizen]_Igano_Kabamaru_-_06_[0BD9714C].mkv
 !new/[SlumpSubs]_Dr.Slump_Arale-chan_-_001_[c4d076c4].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_04_(BD_1080p_x264_FLAC)_[584855CC].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_05_(BD_1080p_x264_FLAC)_[7C022BA].mkv
@@ -751,6 +758,7 @@
 !new/[SubDESU]_Manyuu_Hikenchou_Special_04_(BD_1080p_x264_FLAC)_[5C4125B2].mkv
 !new/[sage]_Lupin_III_-_Blood_Seal_~Eternal_Mermaid~_[720p][10bit][66D1EF97].mkv
 !new/[sage]_Mobile_Suit_Gundam_AGE_-_10_[720p][10bit][8718E427].mkv
+!new/[sage]_Sekaiichi_Hatsukoi_2_-_10_[720p][10bit][04A8D3CB].mkv
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_01v3[35]_-_Space-Time_Destruction_[624x480][DVD][ILA][8D03A921].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_02v3[35]_-_Lonely_Wolf_[624x480][DVD][ILA][59B986D2].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_03v3[35]_-_Pretty_Machine_[624x480][DVD][ILA][9BD697F9].ogm
