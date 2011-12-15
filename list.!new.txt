@@ -45,6 +45,8 @@
 !new/Howl's_Moving_Castle_(2004)_[1080p,BluRay,flac,dts,x264]_-_THORA v2.md5
 !new/Howl's_Moving_Castle_(2004)_[1080p,BluRay,flac,dts,x264]_-_THORA v2.mkv
 !new/Howl's_Moving_Castle_(2004)_[1080p,BluRay,flac,dts,x264]_-_THORA v2.nfo
+!new/Jin-Roh_The_Wolf_Brigade_(2000)_[1080p,BluRay,x264]_-_THORA.md5
+!new/Jin-Roh_The_Wolf_Brigade_(2000)_[1080p,BluRay,x264]_-_THORA.mkv
 !new/Kigurumikku V3/[HorribleSubs] Kigurumikku - 01 [480p].mkv
 !new/Kigurumikku V3/[HorribleSubs] Kigurumikku - 02 [480p].mkv
 !new/Kigurumikku V3/[KusoSubs] Kigurumikku - 03 [WebRip].mkv
@@ -685,6 +687,7 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
 !new/[ASL]_IOSYS_-_Greatest_Hits_-Yotei-_[FLAC]_[w_Scans].rar
+!new/[ASL]_Itou_Shouhei_-_Bakuman_S2_OP_-_Dream_of_Life_[FLAC]_[w_Scans].rar
 !new/[ASL]_Stereopony_-_OVER_THE_BORDER_[FLAC].rar
 !new/[ASL]_Various_Artists_-_Asu_no_Kimi_to_Au_Tame_ni_ORIGINAL_SOUNDTRACK_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Kimi_no_Iru_Keshiki_[FLAC].rar
