@@ -687,23 +687,6 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[ASL]_IOSYS_-_Greatest_Hits_-Yotei-_[FLAC]_[w_Scans].rar
-!new/[ASL]_Itou_Shouhei_-_Bakuman_S2_OP_-_Dream_of_Life_[FLAC]_[w_Scans].rar
-!new/[ASL]_Kanemoto_Hisako_-_Shinryaku_Ika_Musume_S2_ED_-_Kimi_wo_Shiru_Koto_[FLAC].rar
-!new/[ASL]_Stereopony_-_OVER_THE_BORDER_[FLAC].rar
-!new/[ASL]_Various_Artists_-_Aoishiro_Original_Soundtrack_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artists_-_Asu_no_Kimi_to_Au_Tame_ni_ORIGINAL_SOUNDTRACK_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artists_-_Carnival_Phantasm_Original_Soundtrack_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artists_-_EXIT_TUNES_PRESENTS_Vocalocluster_feat._Hatsune_Miku_[FLAC]_[w_Scans].rar
-!new/[ASL]_Various_Artists_-_Kimi_no_Iru_Keshiki_[FLAC].rar
-!new/[ASL]_Various_Artists_-_Smile_Cubic_Original_Soundtrack_[FLAC].rar
-!new/[ASL]_mintea_-_Labradrite_[FLAC]_[w_Scans].rar
-!new/[ASL]_supercell_feat.Hatsune_Miku_-_supercell_tribute_-Stowaways-_[FLAC]_[w_Scans].rar
-!new/[Ahodomo] Maji de Watashi ni Koi Shinasai! - 11 [720p][4C9A5F09].mkv
-!new/[Ayako]_Infinite_Stratos_-_IS_OVA_-_[H264][480p][D2186381].mkv
-!new/[Ayako]_Jewelpet_Sunshine_-_11_[H264][720p][3FA50BC3].mkv
-!new/[Ayako]_Jewelpet_Sunshine_-_12v0_[H264][720p][DA533BE2].mkv
-!new/[Ayako]_Jewelpet_Sunshine_-_13v0_[H264][720p][3B8FC706].mkv
 !new/[Coalgirls]_Infinite_Stratos_OVA-NCED_(1280x720_Blu-Ray_FLAC)_[C55FC097].mkv
 !new/[Coalgirls]_Infinite_Stratos_OVA_(1280x720_Blu-Ray_FLAC)_[3D0F7CB7].mkv
 !new/[DB]_Bleach_Movie_4_[AB9FA762].mkv
@@ -740,12 +723,8 @@
 !new/[Live-eviL]_Future_Boy_Conan_02_[BD-h264-10bit-1080p]_[bc991e84].mkv
 !new/[Live-eviL]_Future_Boy_Conan_03_[BD-h264-10bit-1080p]_[8934984b].mkv
 !new/[OS] To Aru Kagaku No Railgun Chapter 45.rar
-!new/[Oyatsu] Love Get Chu - 22 (640x480 DivX511 mp3) [24A6C0CD].mkv
-!new/[Oyatsu] Love Get Chu - 23 (640x480 DivX511 mp3) [33A2A144].mkv
-!new/[Oyatsu] Mashiro Iro Symphony - 10 (1280x720 x264 AAC) [726978BA].mkv
 !new/[ReDone] Lime-Colored War Tales OVA - 01 (DVD) [E0D38798].mkv
 !new/[ReinForce] Seto no Hanayome - NCED_1.mkv
-!new/[RyRo]_Inazuma_Eleven_GO_-_031_(720p)_[F11319DF].mkv
 !new/[SHiN-gx] Morita-san wa Mukuchi 2 - 10 [720p][E87546A2].mkv
 !new/[SHiN-gx] Morita-san wa Mukuchi OVA [DVD][E2D17EAE].mkv
 !new/[SMC] Sailor Moon SuperS 138 (R2 DVD.H264.AC3) [9F8E86BB].mkv
@@ -760,11 +739,10 @@
 !new/[SubDESU]_Manyuu_Hikenchou_05_(BD_1080p_x264_FLAC)_[7C022BA].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_06_(BD_1080p_x264_FLAC)_[F6B8CB40].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_Special_03_(BD_1080p_x264_FLAC)_[CCD0655].mkv
+!new/[SubDESU]_Manyuu_Hikenchou_Special_03v2_(BD_1080p_x264_FLAC)_[DB36B0B9].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_Special_04_(BD_1080p_x264_FLAC)_[5C4125B2].mkv
-!new/[sage]_Kimi_to_Boku_-_11_[720p][10bit][B23CE75F].mkv
+!new/[SubDESU]_Manyuu_Hikenchou_Special_04v2_(BD_1080p_x264_FLAC)_[F7F9608C].mkv
 !new/[sage]_Lupin_III_-_Blood_Seal_~Eternal_Mermaid~_[720p][10bit][66D1EF97].mkv
-!new/[sage]_Mobile_Suit_Gundam_AGE_-_10_[720p][10bit][8718E427].mkv
-!new/[sage]_Sekaiichi_Hatsukoi_2_-_10_[720p][10bit][04A8D3CB].mkv
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_01v3[35]_-_Space-Time_Destruction_[624x480][DVD][ILA][8D03A921].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_02v3[35]_-_Lonely_Wolf_[624x480][DVD][ILA][59B986D2].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_03v3[35]_-_Pretty_Machine_[624x480][DVD][ILA][9BD697F9].ogm
@@ -1340,6 +1318,7 @@
 !new/hdp3/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_(1920x1080_Blu-Ray_FLAC)/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_08_(1920x1080_Blu-Ray_FLAC)_[9B9D33BA].mkv
 !new/hdp3/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_(1920x1080_Blu-Ray_FLAC)/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_09_(1920x1080_Blu-Ray_FLAC)_[CD04DE6D].mkv
 !new/hdp3/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_(1920x1080_Blu-Ray_FLAC)/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_10_(1920x1080_Blu-Ray_FLAC)_[FCAB6F94].mkv
+!new/hdp3/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_(1920x1080_Blu-Ray_FLAC)/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_11_(1920x1080_Blu-Ray_FLAC)_[DBCCF957].mkv
 !new/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/lama/[Ayako] Weiﬂ Survive R - 01 - H264 - E975A989.mkv
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
