@@ -689,8 +689,6 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
 !new/[Coalgirls]_Infinite_Stratos_OVA-NCED_(1280x720_Blu-Ray_FLAC)_[C55FC097].mkv
 !new/[Coalgirls]_Infinite_Stratos_OVA_(1280x720_Blu-Ray_FLAC)_[3D0F7CB7].mkv
-!new/[DB]_Bleach_Movie_4_[AB9FA762].mkv
-!new/[Doremi-CureCom].Suite.PreCure!.41.[1280x720].[72FC60F2].mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1280x720].[6BC22CBA].v2.mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1920x1080].[257C55D8].mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Tokyo.2011.[1920x1080].[1D26A2EB].mkv
@@ -1270,7 +1268,6 @@
 !new/bla/zx.black.heaven.12.sub.rar
 !new/bla/zx.black.heaven.13.dub.avi
 !new/bla/zx.black.heaven.13.sub.rar
-!new/coba/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1920x1080].[257C55D8].mkv
 !new/hdp2/Princess Lover!/[polished] Princess Love! Maiden's Secret 01 [BD 1080][DDEF29F7].mkv
 !new/hdp2/Princess Lover!/[polished] Princess Love! Maiden's Secret 02 [BD 1080][EA90E7E1].mkv
 !new/hdp2/Princess Lover!/[polished] Princess Love! Maiden's Secret 03 [BD 1080][5E950AF0].mkv
@@ -1308,17 +1305,6 @@
 !new/hdp2/[T-N] Kamen Rider Blade Movie DC [5AB2B2DA] Release 2000.avi
 !new/hdp2/[T-N] Kamen Rider Blade vs blade [56183A18].avi
 !new/hdp2/[T-N]Kamen_Rider_Blade_01DVDver2[C40869EC].avi
-!new/hdp3/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_(1920x1080_Blu-Ray_FLAC)/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_01_(1920x1080_Blu-Ray_FLAC)_[DD42C728].mkv
-!new/hdp3/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_(1920x1080_Blu-Ray_FLAC)/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_02_(1920x1080_Blu-Ray_FLAC)_[DB6236B4].mkv
-!new/hdp3/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_(1920x1080_Blu-Ray_FLAC)/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_03_(1920x1080_Blu-Ray_FLAC)_[4A24CA85].mkv
-!new/hdp3/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_(1920x1080_Blu-Ray_FLAC)/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_04_(1920x1080_Blu-Ray_FLAC)_[9E627B68].mkv
-!new/hdp3/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_(1920x1080_Blu-Ray_FLAC)/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_05_(1920x1080_Blu-Ray_FLAC)_[33C2C213].mkv
-!new/hdp3/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_(1920x1080_Blu-Ray_FLAC)/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_06_(1920x1080_Blu-Ray_FLAC)_[BCFECFAE].mkv
-!new/hdp3/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_(1920x1080_Blu-Ray_FLAC)/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_07_(1920x1080_Blu-Ray_FLAC)_[7A7B7C0F].mkv
-!new/hdp3/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_(1920x1080_Blu-Ray_FLAC)/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_08_(1920x1080_Blu-Ray_FLAC)_[9B9D33BA].mkv
-!new/hdp3/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_(1920x1080_Blu-Ray_FLAC)/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_09_(1920x1080_Blu-Ray_FLAC)_[CD04DE6D].mkv
-!new/hdp3/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_(1920x1080_Blu-Ray_FLAC)/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_10_(1920x1080_Blu-Ray_FLAC)_[FCAB6F94].mkv
-!new/hdp3/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_(1920x1080_Blu-Ray_FLAC)/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_11_(1920x1080_Blu-Ray_FLAC)_[DBCCF957].mkv
 !new/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/lama/[Ayako] Weiﬂ Survive R - 01 - H264 - E975A989.mkv
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
@@ -1355,34 +1341,34 @@
 !new/myhime/[Coalgirls]_Mai_Hime_26_Director's_Cut_(960x720_Blu-Ray_FLAC)_[067995A3].mkv
 !new/myhime/[Coalgirls]_Mai_Hime_ED_(960x720_Blu-Ray_FLAC)_[C0E84827].mkv
 !new/myhime/[Coalgirls]_Mai_Hime_OP_(960x720_Blu-Ray_FLAC)_[D8A0EBCE].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_SP01_(960x720_Blu-Ray_FLAC)_[C619D900].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_SP02_(960x720_Blu-Ray_FLAC)_[A7960792].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_SP03_(960x720_Blu-Ray_FLAC)_[59576C48].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_SP04_(960x720_Blu-Ray_FLAC)_[E2F93529].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_SP05_(960x720_Blu-Ray_FLAC)_[91A702BC].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_SP06_(960x720_Blu-Ray_FLAC)_[0AC80809].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_SP07_(960x720_Blu-Ray_FLAC)_[51EB76CB].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_SP08_(960x720_Blu-Ray_FLAC)_[A5430BFC].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_SP09_(960x720_Blu-Ray_FLAC)_[9F687974].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_SP10_(960x720_Blu-Ray_FLAC)_[21AD0DF3].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_SP11_(960x720_Blu-Ray_FLAC)_[BEE2E864].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_SP12_(960x720_Blu-Ray_FLAC)_[1A2A1FD6].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_SP13_(960x720_Blu-Ray_FLAC)_[A4296927].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_SP14_(960x720_Blu-Ray_FLAC)_[90C92AEB].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_SP15_(960x720_Blu-Ray_FLAC)_[42BC330C].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_SP16_(960x720_Blu-Ray_FLAC)_[AD95C6D1].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_SP17_(960x720_Blu-Ray_FLAC)_[1755C10E].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_SP18_(960x720_Blu-Ray_FLAC)_[D7754DAB].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_SP19_(960x720_Blu-Ray_FLAC)_[99066037].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_SP20_(960x720_Blu-Ray_FLAC)_[FAA1F144].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_SP21_(960x720_Blu-Ray_FLAC)_[3F47B8E0].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_SP22_(960x720_Blu-Ray_FLAC)_[70C235AA].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_SP23_(960x720_Blu-Ray_FLAC)_[4B7D69C6].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_SP24_(960x720_Blu-Ray_FLAC)_[83E46FF5].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_SP25_(960x720_Blu-Ray_FLAC)_[BE0E8A80].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_SP26_(960x720_Blu-Ray_FLAC)_[8B70EB0A].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_SP27_(960x720_Blu-Ray_FLAC)_[E68F77D9].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_SP28_(1280x720_Blu-Ray_FLAC)_[5AC7EC79].mkv
+!new/myhime/sp/[Coalgirls] Mai Hime - Special 01 [720p BD][C619D900].mkv
+!new/myhime/sp/[Coalgirls] Mai Hime - Special 02 [720p BD][A7960792].mkv
+!new/myhime/sp/[Coalgirls] Mai Hime - Special 03 [720p BD][59576C48].mkv
+!new/myhime/sp/[Coalgirls] Mai Hime - Special 04 [720p BD][E2F93529].mkv
+!new/myhime/sp/[Coalgirls] Mai Hime - Special 05 [720p BD][91A702BC].mkv
+!new/myhime/sp/[Coalgirls] Mai Hime - Special 06 [720p BD][0AC80809].mkv
+!new/myhime/sp/[Coalgirls] Mai Hime - Special 07 [720p BD][51EB76CB].mkv
+!new/myhime/sp/[Coalgirls] Mai Hime - Special 08 [720p BD][A5430BFC].mkv
+!new/myhime/sp/[Coalgirls] Mai Hime - Special 09 [720p BD][9F687974].mkv
+!new/myhime/sp/[Coalgirls] Mai Hime - Special 10 [720p BD][21AD0DF3].mkv
+!new/myhime/sp/[Coalgirls] Mai Hime - Special 11 [720p BD][BEE2E864].mkv
+!new/myhime/sp/[Coalgirls] Mai Hime - Special 12 [720p BD][1A2A1FD6].mkv
+!new/myhime/sp/[Coalgirls] Mai Hime - Special 13 [720p BD][A4296927].mkv
+!new/myhime/sp/[Coalgirls] Mai Hime - Special 14 [720p BD][90C92AEB].mkv
+!new/myhime/sp/[Coalgirls] Mai Hime - Special 15 [720p BD][42BC330C].mkv
+!new/myhime/sp/[Coalgirls] Mai Hime - Special 16 [720p BD][AD95C6D1].mkv
+!new/myhime/sp/[Coalgirls] Mai Hime - Special 17 [720p BD][1755C10E].mkv
+!new/myhime/sp/[Coalgirls] Mai Hime - Special 18 [720p BD][D7754DAB].mkv
+!new/myhime/sp/[Coalgirls] Mai Hime - Special 19 [720p BD][99066037].mkv
+!new/myhime/sp/[Coalgirls] Mai Hime - Special 20 [720p BD][FAA1F144].mkv
+!new/myhime/sp/[Coalgirls] Mai Hime - Special 21 [720p BD][3F47B8E0].mkv
+!new/myhime/sp/[Coalgirls] Mai Hime - Special 22 [720p BD][70C235AA].mkv
+!new/myhime/sp/[Coalgirls] Mai Hime - Special 23 [720p BD][4B7D69C6].mkv
+!new/myhime/sp/[Coalgirls] Mai Hime - Special 24 [720p BD][83E46FF5].mkv
+!new/myhime/sp/[Coalgirls] Mai Hime - Special 25 [720p BD][BE0E8A80].mkv
+!new/myhime/sp/[Coalgirls] Mai Hime - Special 26 [720p BD][8B70EB0A].mkv
+!new/myhime/sp/[Coalgirls] Mai Hime - Special 27 [720p BD][E68F77D9].mkv
+!new/myhime/sp/[Coalgirls] Mai Hime - Special 28 [720p BD][5AC7EC79].mkv
 !new/narutoship/Naruto Shippuden 100.mkv
 !new/narutoship/Naruto Shippuden 101v2-HD.mkv
 !new/narutoship/Naruto Shippuden 101v2.mkv
