@@ -706,16 +706,12 @@
 !new/[Ayako]_Jewelpet_Sunshine_-_13v0_[H264][720p][3B8FC706].mkv
 !new/[Coalgirls]_Infinite_Stratos_OVA-NCED_(1280x720_Blu-Ray_FLAC)_[C55FC097].mkv
 !new/[Coalgirls]_Infinite_Stratos_OVA_(1280x720_Blu-Ray_FLAC)_[3D0F7CB7].mkv
-!new/[Commie] Kyoukai Senjou no Horizon - 11 [A45CACCF].mkv
 !new/[DB]_Bleach_Movie_4_[AB9FA762].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.41.[1280x720].[72FC60F2].mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1280x720].[6BC22CBA].v2.mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1920x1080].[257C55D8].mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Tokyo.2011.[1920x1080].[1D26A2EB].mkv
 !new/[Doutei] KissDum - 02 [720p][aba7952c].mkv
-!new/[GotSpeed]_Mirai_Nikki_-_10v2_[A6BAEA55].mkv
-!new/[GotWoot]_Mirai_Nikki_09_[10-bit][7C2455BD].mkv
-!new/[GotWoot]_Mirai_Nikki_10_[10-bit][19655BEA].mkv
 !new/[HorribleSubs] Beelzebub - 42 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 43 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 46 [720p].mkv
@@ -737,11 +733,6 @@
 !new/[HorribleSubs] SKET Dance - 36 [720p].mkv
 !new/[HorribleSubs] Working!! - 11 [720p].mkv
 !new/[KindaHorribleSubs] Beelzebub - 42 [720p].mkv
-!new/[Licca] Little Women II - Jo's Boys Episode 17 (h.264-Hi10P) [F9796198].mkv
-!new/[Licca] Porphy no Nagai Tabi Episode 08 (h.264-Hi10P) [FC9534A6].mkv
-!new/[Licca] Porphy no Nagai Tabi Episode 09 (h.264-Hi10P) [92D0728A].mkv
-!new/[Licca] Porphy no Nagai Tabi Episode 10 (h.264-Hi10P) [9E53B7D7].mkv
-!new/[Licca] The Alps Story - My Annette Episode 04 (h.264-Hi10P) [AD57287C].mkv
 !new/[Live-eviL]_Captain_Harlock_SSX_(TV)_-_13_[95035CA9].mkv
 !new/[Live-eviL]_Captain_Harlock_SSX_(TV)_-_14_[CC7142FA].mkv
 !new/[Live-eviL]_Captain_Harlock_SSX_(TV)_-_15_[4181FC23].mkv
@@ -764,24 +755,16 @@
 !new/[SMC] Sailor Moon SuperS 142 (R2 DVD.H264.AC3) [737FBF5C].mkv
 !new/[SMC] Sailor Moon SuperS 143 (R2 DVD.H264.AC3) [9A30F894].mkv
 !new/[SMC] Sailor Moon SuperS Creditless Ending 2 (R1 DVD.H264.AC3) [6467AE27].mkv
-!new/[SS-Eclipse] Shakugan no Shana Final - 10 (1280x720 Hi10P) [03107BBE].mkv
-!new/[SS] Mirai Nikki - 08 (1280x720 h264) [A2D821D8].mkv
-!new/[Saizen]_Igano_Kabamaru_-_03_[A25D2159].mkv
-!new/[Saizen]_Igano_Kabamaru_-_04_[5BE0D30C].mkv
-!new/[Saizen]_Igano_Kabamaru_-_05_[D4971590].mkv
-!new/[Saizen]_Igano_Kabamaru_-_06_[0BD9714C].mkv
 !new/[SlumpSubs]_Dr.Slump_Arale-chan_-_001_[c4d076c4].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_04_(BD_1080p_x264_FLAC)_[584855CC].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_05_(BD_1080p_x264_FLAC)_[7C022BA].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_06_(BD_1080p_x264_FLAC)_[F6B8CB40].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_Special_03_(BD_1080p_x264_FLAC)_[CCD0655].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_Special_04_(BD_1080p_x264_FLAC)_[5C4125B2].mkv
-!new/[WildBunch]_Digimon_Xros_Wars_II_-_11_(1280x720_x264_AAC)_[889C40B1].mkv
 !new/[sage]_Kimi_to_Boku_-_11_[720p][10bit][B23CE75F].mkv
 !new/[sage]_Lupin_III_-_Blood_Seal_~Eternal_Mermaid~_[720p][10bit][66D1EF97].mkv
 !new/[sage]_Mobile_Suit_Gundam_AGE_-_10_[720p][10bit][8718E427].mkv
 !new/[sage]_Sekaiichi_Hatsukoi_2_-_10_[720p][10bit][04A8D3CB].mkv
-!new/[yibis]_One_Piece_525_[720p][AFFDBDE4].mkv
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_01v3[35]_-_Space-Time_Destruction_[624x480][DVD][ILA][8D03A921].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_02v3[35]_-_Lonely_Wolf_[624x480][DVD][ILA][59B986D2].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_03v3[35]_-_Pretty_Machine_[624x480][DVD][ILA][9BD697F9].ogm
@@ -1353,6 +1336,10 @@
 !new/hdp3/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_(1920x1080_Blu-Ray_FLAC)/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_04_(1920x1080_Blu-Ray_FLAC)_[9E627B68].mkv
 !new/hdp3/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_(1920x1080_Blu-Ray_FLAC)/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_05_(1920x1080_Blu-Ray_FLAC)_[33C2C213].mkv
 !new/hdp3/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_(1920x1080_Blu-Ray_FLAC)/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_06_(1920x1080_Blu-Ray_FLAC)_[BCFECFAE].mkv
+!new/hdp3/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_(1920x1080_Blu-Ray_FLAC)/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_07_(1920x1080_Blu-Ray_FLAC)_[7A7B7C0F].mkv
+!new/hdp3/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_(1920x1080_Blu-Ray_FLAC)/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_08_(1920x1080_Blu-Ray_FLAC)_[9B9D33BA].mkv
+!new/hdp3/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_(1920x1080_Blu-Ray_FLAC)/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_09_(1920x1080_Blu-Ray_FLAC)_[CD04DE6D].mkv
+!new/hdp3/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_(1920x1080_Blu-Ray_FLAC)/[Coalgirls]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_10_(1920x1080_Blu-Ray_FLAC)_[FCAB6F94].mkv
 !new/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/lama/[Ayako] Weiﬂ Survive R - 01 - H264 - E975A989.mkv
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi

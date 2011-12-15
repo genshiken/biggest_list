@@ -935,6 +935,10 @@ incomplete/Igano Kabamaru/[SD] Igano Kabamaru - 02 [DEADBEEF].mkv
 incomplete/Igano Kabamaru/[SD] Igano Kabamaru - 03 [DEADBEEF].mkv
 incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 01 [5F1FCE3C].mkv
 incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 02 [CD5565DA].mkv
+incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 03 [A25D2159].mkv
+incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 04 [5BE0D30C].mkv
+incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 05 [D4971590].mkv
+incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 06 [0BD9714C].mkv
 incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 07 [v2][2B25B6F8].mkv
 incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 08 [E1DACAE0].mkv
 incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 09 [E1891C9A].mkv
@@ -1245,6 +1249,7 @@ incomplete/Little Women II - Jo's Boys/[Licca] Little Women II - Jo's Boys - 13 
 incomplete/Little Women II - Jo's Boys/[Licca] Little Women II - Jo's Boys - 14 [A35A3332].mkv
 incomplete/Little Women II - Jo's Boys/[Licca] Little Women II - Jo's Boys - 15 [C49B2591].mkv
 incomplete/Little Women II - Jo's Boys/[Licca] Little Women II - Jo's Boys - 16 [2211057E].mkv
+incomplete/Little Women II - Jo's Boys/[Licca] Little Women II - Jo's Boys - 17 [F9796198].mkv
 incomplete/Little Women/[ARR] Little Women - 01 [5DDDCEA4].mkv
 incomplete/Lord of Lords Ryu Knight/[Triad] Lord of Lords Ryu Knight - 26 [412CF08F].avi
 incomplete/Lord of Lords Ryu Knight/[Triad] Lord of Lords Ryu Knight - 27 [D33DBA59].avi
@@ -1743,6 +1748,9 @@ incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 03 [C063E86F].mkv
 incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 04 [11B0B0A8].mkv
 incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 05 [15B25EC1].mkv
 incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 06 [32087DDB].mkv
+incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 08 [FC9534A6].mkv
+incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 09 [92D0728A].mkv
+incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 10 [9E53B7D7].mkv
 incomplete/Prince of Tennis - Another Story OVA/[IP] Prince of Tennis - Another Story OVA - 1 [E77F84B8].avi
 incomplete/Prince of Tennis - Another Story/[Ryugan-Saizen] Prince of Tennis - Another Story - 01 [DVD][82CC2A3F].mkv
 incomplete/Prince of Tennis - Another Story/[Ryugan-Saizen] Prince of Tennis - Another Story - 02 [DVD][F12C2210].mkv
@@ -2023,6 +2031,7 @@ incomplete/Tetsuko no Tabi/[m.3.3.w] Tetsuko no Tabi - 00 [EA60289E].mkv
 incomplete/The Alps Story - My Annette/[Licca] The Alps Story - My Annette - 01 [50E81206].mkv
 incomplete/The Alps Story - My Annette/[Licca] The Alps Story - My Annette - 02 [02CC0FE0].mkv
 incomplete/The Alps Story - My Annette/[Licca] The Alps Story - My Annette - 03 [D594A40F].mkv
+incomplete/The Alps Story - My Annette/[Licca] The Alps Story - My Annette - 04 [AD57287C].mkv
 incomplete/The Legend of Koizumi/[Monokage] The Legend of Koizumi - 01 [CAE5A5FE].mkv
 incomplete/The Legend of Koizumi/[Triad] The Legend of Koizumi - 01 [18EE398A].mkv
 incomplete/The Melancholy of Haruhi-chan/[Shamisen] Nyoron Churuya-san - 01 [73A3CBFD].mkv
