@@ -5,6 +5,7 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - 640 [DCTP][720p][4306DFF4].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -687,8 +688,10 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
+!new/[Ayako]_Jewelpet_Sunshine_-_10_[H264][720p][CDCFD5BD].mkv
 !new/[Coalgirls]_Infinite_Stratos_OVA-NCED_(1280x720_Blu-Ray_FLAC)_[C55FC097].mkv
 !new/[Coalgirls]_Infinite_Stratos_OVA_(1280x720_Blu-Ray_FLAC)_[3D0F7CB7].mkv
+!new/[Commie] Guilty Crown - 10 [6094511C].mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1280x720].[6BC22CBA].v2.mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1920x1080].[257C55D8].mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Tokyo.2011.[1920x1080].[1D26A2EB].mkv
@@ -712,17 +715,24 @@
 !new/[HorribleSubs] Naruto Shippuuden - 239 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 34 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 36 [720p].mkv
+!new/[HorribleSubs] SKET Dance - 37 [720p].mkv
+!new/[HorribleSubs] UN-GO - 10 [720p].mkv
 !new/[HorribleSubs] Working!! - 11 [720p].mkv
 !new/[KindaHorribleSubs] Beelzebub - 42 [720p].mkv
+!new/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream - 18 [H264 1024x576] [5AD90138].mkv
+!new/[Licca] Porphy no Nagai Tabi Episode 07 (h.264-Hi10P) [E90B9678].mkv
 !new/[Live-eviL]_Captain_Harlock_SSX_(TV)_-_13_[95035CA9].mkv
 !new/[Live-eviL]_Captain_Harlock_SSX_(TV)_-_14_[CC7142FA].mkv
 !new/[Live-eviL]_Captain_Harlock_SSX_(TV)_-_15_[4181FC23].mkv
 !new/[Live-eviL]_Future_Boy_Conan_01_[BD-h264-10bit-1080p]_[6cb576da].mkv
 !new/[Live-eviL]_Future_Boy_Conan_02_[BD-h264-10bit-1080p]_[bc991e84].mkv
 !new/[Live-eviL]_Future_Boy_Conan_03_[BD-h264-10bit-1080p]_[8934984b].mkv
+!new/[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_11_[4F3444DF].mkv
 !new/[OS] To Aru Kagaku No Railgun Chapter 45.rar
 !new/[ReDone] Lime-Colored War Tales OVA - 01 (DVD) [E0D38798].mkv
 !new/[ReinForce] Seto no Hanayome - NCED_1.mkv
+!new/[SFW] Full Moon wo Sagashite - 01 [DVD][7FA43218].mkv
+!new/[SFW] Full Moon wo Sagashite - 02 [DVD][8257B60D].mkv
 !new/[SHiN-gx] Morita-san wa Mukuchi 2 - 10 [720p][E87546A2].mkv
 !new/[SHiN-gx] Morita-san wa Mukuchi OVA [DVD][E2D17EAE].mkv
 !new/[SMC] Sailor Moon SuperS 138 (R2 DVD.H264.AC3) [9F8E86BB].mkv
@@ -732,6 +742,7 @@
 !new/[SMC] Sailor Moon SuperS 142 (R2 DVD.H264.AC3) [737FBF5C].mkv
 !new/[SMC] Sailor Moon SuperS 143 (R2 DVD.H264.AC3) [9A30F894].mkv
 !new/[SMC] Sailor Moon SuperS Creditless Ending 2 (R1 DVD.H264.AC3) [6467AE27].mkv
+!new/[SS] Mirai Nikki - 09 (1280x720 h264) [C6FD2282].mkv
 !new/[SlumpSubs]_Dr.Slump_Arale-chan_-_001_[c4d076c4].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_04_(BD_1080p_x264_FLAC)_[584855CC].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_05_(BD_1080p_x264_FLAC)_[7C022BA].mkv
