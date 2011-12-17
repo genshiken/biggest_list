@@ -56,6 +56,8 @@
 !new/HnK etc/[HnG] DD Hokuto no Ken 11 (TV) [16C03548].avi
 !new/HnK etc/[HnG] DD Hokuto no Ken 12 (TV) [END] [15BDD9B6].avi
 !new/HnK etc/[HnG] Shin Kyuseishu Densetsu Hokuto no Ken Raoh Den - Gekito no Sho (DVD) [E7BDC007].mkv
+!new/HnK etc/[HnG] Shin Kyuseishu Densetsu Hokuto no Ken Yuria Den (DVD) [CB900818].mkv
+!new/HnK etc/[HnG] Shin Kyuseishu Densetsu Hokuto no Ken ZERO Kenshiro Den (DVD_x264_AC3).mkv
 !new/Howl's_Moving_Castle_(2004)_[1080p,BluRay,flac,dts,x264]_-_THORA v2.md5
 !new/Howl's_Moving_Castle_(2004)_[1080p,BluRay,flac,dts,x264]_-_THORA v2.mkv
 !new/Howl's_Moving_Castle_(2004)_[1080p,BluRay,flac,dts,x264]_-_THORA v2.nfo
