@@ -765,7 +765,9 @@
 !new/[Commie] Chihayafuru - 11 [A9A04231].mkv
 !new/[Commie] Fate ⁄ Zero - 12 [9A8A06EE].mkv
 !new/[Commie] Guilty Crown - 10 [6094511C].mkv
+!new/[Commie] Hayate no Gotoku! Heaven is a Place on Earth [DVD 480p AAC] [1B433DE8].mkv
 !new/[Commie] Persona 4 - 11 [A50CD66B].mkv
+!new/[Commie] Shakugan no Shana III - 11 [0F01C7B8].mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1280x720].[6BC22CBA].v2.mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1920x1080].[257C55D8].mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Tokyo.2011.[1920x1080].[1D26A2EB].mkv
@@ -773,6 +775,7 @@
 !new/[HorribleSubs] Beelzebub - 42 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 43 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 46 [720p].mkv
+!new/[HorribleSubs] Beelzebub - 47 [720p].mkv
 !new/[HorribleSubs] Bleach - 351 [720p].mkv
 !new/[HorribleSubs] Bleach - 352 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 48 [720p].mkv
@@ -784,6 +787,7 @@
 !new/[HorribleSubs] Gintama - 238 [720p].mkv
 !new/[HorribleSubs] Hunter X Hunter - 10 [720p].mkv
 !new/[HorribleSubs] Hunter X Hunter - 11 [720p].mkv
+!new/[HorribleSubs] Hunter X Hunter - 12 [720p].mkv
 !new/[HorribleSubs] Kimi to Boku - 11 [720p].mkv
 !new/[HorribleSubs] Majikoi~Oh! Samurai Girls - 10 [720p].mkv
 !new/[HorribleSubs] Majikoi~Oh! Samurai Girls - 11 [720p].mkv
@@ -817,6 +821,7 @@
 !new/[PM]Pocket_Monsters_Best_Wishes_059_Swift_Hero_A-Gilder_VS_Mr_Freege![H264_720P][3C26F10F].mkv
 !new/[ReDone] Lime-Colored War Tales OVA - 01 (DVD) [E0D38798].mkv
 !new/[ReinForce] Seto no Hanayome - NCED_1.mkv
+!new/[SFW-sage]_Bakuman_S2_-_12_[720p][Hi10P][CB5FEE25].mkv
 !new/[SFW] Full Moon wo Sagashite - 01 [DVD][7FA43218].mkv
 !new/[SFW] Full Moon wo Sagashite - 02 [DVD][8257B60D].mkv
 !new/[SHiN-gx] Morita-san wa Mukuchi 2 - 10 [720p][E87546A2].mkv
@@ -828,6 +833,7 @@
 !new/[SMC] Sailor Moon SuperS 142 (R2 DVD.H264.AC3) [737FBF5C].mkv
 !new/[SMC] Sailor Moon SuperS 143 (R2 DVD.H264.AC3) [9A30F894].mkv
 !new/[SMC] Sailor Moon SuperS Creditless Ending 2 (R1 DVD.H264.AC3) [6467AE27].mkv
+!new/[SS-Eclipse] Shakugan no Shana Final - 11 (1280x720 Hi10P) [76215EE5].mkv
 !new/[SS] Mirai Nikki - 09 (1280x720 h264) [C6FD2282].mkv
 !new/[SlumpSubs]_Dr.Slump_Arale-chan_-_001_[c4d076c4].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_04_(BD_1080p_x264_FLAC)_[584855CC].mkv
@@ -837,11 +843,14 @@
 !new/[SubDESU]_Manyuu_Hikenchou_Special_03v2_(BD_1080p_x264_FLAC)_[DB36B0B9].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_Special_04_(BD_1080p_x264_FLAC)_[5C4125B2].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_Special_04v2_(BD_1080p_x264_FLAC)_[F7F9608C].mkv
+!new/[TSuNDeRe]Tsuyokiss.10.[DVDRip.Xvid.864x480.Vorbis][2BEB1119].mkv
+!new/[UTW]_Fate_Zero_-_12_[h264-720p][6E06166B].mkv
 !new/[gg]_Mawaru_Penguindrum_-_23_[F7D94B28].mkv
 !new/[sage]_Daily_Lives_of_High_School_Boys_Preview_5_[630DF4E7].mkv
 !new/[sage]_Daily_Lives_of_High_School_Boys_Preview_6_[63E9B9A6].mkv
 !new/[sage]_Lupin_III_-_Blood_Seal_~Eternal_Mermaid~_[720p][10bit][66D1EF97].mkv
 !new/[sage]_Sekaiichi_Hatsukoi_2_-_11_[720p][10bit][3E4B5B4A].mkv
+!new/[yibis]_One_Piece_526_[720p][C488974E].mkv
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_01v3[35]_-_Space-Time_Destruction_[624x480][DVD][ILA][8D03A921].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_02v3[35]_-_Lonely_Wolf_[624x480][DVD][ILA][59B986D2].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_03v3[35]_-_Pretty_Machine_[624x480][DVD][ILA][9BD697F9].ogm
