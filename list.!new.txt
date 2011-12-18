@@ -763,7 +763,9 @@
 !new/[Coalgirls]_Infinite_Stratos_OVA-NCED_(1280x720_Blu-Ray_FLAC)_[C55FC097].mkv
 !new/[Coalgirls]_Infinite_Stratos_OVA_(1280x720_Blu-Ray_FLAC)_[3D0F7CB7].mkv
 !new/[Commie] Chihayafuru - 11 [A9A04231].mkv
+!new/[Commie] Fate ⁄ Zero - 12 [9A8A06EE].mkv
 !new/[Commie] Guilty Crown - 10 [6094511C].mkv
+!new/[Commie] Persona 4 - 11 [A50CD66B].mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1280x720].[6BC22CBA].v2.mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1920x1080].[257C55D8].mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Tokyo.2011.[1920x1080].[1D26A2EB].mkv
@@ -774,14 +776,17 @@
 !new/[HorribleSubs] Bleach - 351 [720p].mkv
 !new/[HorribleSubs] Bleach - 352 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 48 [720p].mkv
+!new/[HorribleSubs] Cardfight!! Vanguard - 49 [720p].mkv
 !new/[HorribleSubs] Chihayafuru - 10 [720p].mkv
 !new/[HorribleSubs] Chihayafuru - 11 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 109 [720p].mkv
+!new/[HorribleSubs] Fairy Tail - 110 [720p].mkv
 !new/[HorribleSubs] Gintama - 238 [720p].mkv
 !new/[HorribleSubs] Hunter X Hunter - 10 [720p].mkv
 !new/[HorribleSubs] Hunter X Hunter - 11 [720p].mkv
 !new/[HorribleSubs] Kimi to Boku - 11 [720p].mkv
 !new/[HorribleSubs] Majikoi~Oh! Samurai Girls - 10 [720p].mkv
+!new/[HorribleSubs] Majikoi~Oh! Samurai Girls - 11 [720p].mkv
 !new/[HorribleSubs] Moritasan wa Mukuchi - 23 [720p].mkv
 !new/[HorribleSubs] Moritasan wa Mukuchi - 24 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 239 [720p].mkv
@@ -791,6 +796,7 @@
 !new/[HorribleSubs] SKET Dance - 37 [720p].mkv
 !new/[HorribleSubs] UN-GO - 10 [720p].mkv
 !new/[HorribleSubs] Working!! - 11 [720p].mkv
+!new/[HorribleSubs] Working!! - 12 [720p].mkv
 !new/[KindaHorribleSubs] Beelzebub - 42 [720p].mkv
 !new/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream - 18 [H264 1024x576] [5AD90138].mkv
 !new/[Licca] Porphy no Nagai Tabi Episode 07 (h.264-Hi10P) [E90B9678].mkv
@@ -801,8 +807,14 @@
 !new/[Live-eviL]_Future_Boy_Conan_02_[BD-h264-10bit-1080p]_[bc991e84].mkv
 !new/[Live-eviL]_Future_Boy_Conan_03_[BD-h264-10bit-1080p]_[8934984b].mkv
 !new/[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_11_[4F3444DF].mkv
+!new/[Nipponsei] Bakuman 2 OP Single - Dream of Life [Itou Shouhei].zip
+!new/[Nipponsei] Carnival Phantasm Original Soundtrack.zip
+!new/[Nipponsei] Gundam AGE OP Single - Asu he [Galileo Galilei].zip
+!new/[Nipponsei] Hayate no Gotoku! Heaven is a Place on Earth Original Soundtrack.zip
+!new/[Nipponsei] Shinryaku! Ika Musume Image Song Album - IKA LOVE.zip
 !new/[OS] To Aru Kagaku No Railgun Chapter 45.rar
 !new/[Oyatsu] Love Get Chu - 24 (640x480 DivX511 120fps mp3) [A50D52C3].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_059_Swift_Hero_A-Gilder_VS_Mr_Freege![H264_720P][3C26F10F].mkv
 !new/[ReDone] Lime-Colored War Tales OVA - 01 (DVD) [E0D38798].mkv
 !new/[ReinForce] Seto no Hanayome - NCED_1.mkv
 !new/[SFW] Full Moon wo Sagashite - 01 [DVD][7FA43218].mkv
@@ -829,6 +841,7 @@
 !new/[sage]_Daily_Lives_of_High_School_Boys_Preview_5_[630DF4E7].mkv
 !new/[sage]_Daily_Lives_of_High_School_Boys_Preview_6_[63E9B9A6].mkv
 !new/[sage]_Lupin_III_-_Blood_Seal_~Eternal_Mermaid~_[720p][10bit][66D1EF97].mkv
+!new/[sage]_Sekaiichi_Hatsukoi_2_-_11_[720p][10bit][3E4B5B4A].mkv
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_01v3[35]_-_Space-Time_Destruction_[624x480][DVD][ILA][8D03A921].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_02v3[35]_-_Lonely_Wolf_[624x480][DVD][ILA][59B986D2].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_03v3[35]_-_Pretty_Machine_[624x480][DVD][ILA][9BD697F9].ogm
