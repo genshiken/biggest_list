@@ -821,6 +821,7 @@
 !new/[Nipponsei] Hayate no Gotoku! Heaven is a Place on Earth Original Soundtrack.zip
 !new/[Nipponsei] Shinryaku! Ika Musume Image Song Album - IKA LOVE.zip
 !new/[OS] To Aru Kagaku No Railgun Chapter 45.rar
+!new/[Over-Time]_Kamen_Rider_Fourze_-_15_[A38C04B2].mkv
 !new/[Oyatsu] Love Get Chu - 24 (640x480 DivX511 120fps mp3) [A50D52C3].mkv
 !new/[PM]Pocket_Monsters_Best_Wishes_059_Swift_Hero_A-Gilder_VS_Mr_Freege![H264_720P][3C26F10F].mkv
 !new/[ReDone] Lime-Colored War Tales OVA - 01 (DVD) [E0D38798].mkv
@@ -854,6 +855,7 @@
 !new/[sage]_Daily_Lives_of_High_School_Boys_Preview_5_[630DF4E7].mkv
 !new/[sage]_Daily_Lives_of_High_School_Boys_Preview_6_[63E9B9A6].mkv
 !new/[sage]_Lupin_III_-_Blood_Seal_~Eternal_Mermaid~_[720p][10bit][66D1EF97].mkv
+!new/[sage]_Mobile_Suit_Gundam_AGE_-_11_[720p][10bit][E4F18F5F].mkv
 !new/[sage]_Sekaiichi_Hatsukoi_2_-_11_[720p][10bit][3E4B5B4A].mkv
 !new/[yibis]_One_Piece_526_[720p][C488974E].mkv
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_01v3[35]_-_Space-Time_Destruction_[624x480][DVD][ILA][8D03A921].ogm
@@ -1655,8 +1657,8 @@
 !new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/b/[ANE] Honey & Clover 18.5 Chapter F [DVD].mkv
 !new/nuu/[ANE] Shinryaku! Ika Musume - Mini Squid Girl Short Stories [BDRip 720p x264 FLAC]/[ANE] Shinryaku! Ika Musume - Mini Squid Girl Short Story 1 [BDRip 720p x264 FLAC].mkv
 !new/nuu/[ANE] Shinryaku! Ika Musume - Mini Squid Girl Short Stories [BDRip 720p x264 FLAC]/[ANE] Shinryaku! Ika Musume - Mini Squid Girl Short Story 2 [BDRip 720p x264 FLAC].mkv
-!new/pt2/Byousoku 5cm [niizk]/5_centimeters_per_second[1904x1072.h264.flac][niizk].mkv
 !new/pt2/Byousoku 5cm [niizk]/One_more_time_One_more_chance [720p,BluRay,x264]_-_THORA.mkv
+!new/pt2/Byousoku 5cm [niizk]/[niizk] 5 Centimeters per Second [1080p BD][D40C09FA].mkv
 !new/pt2/Oretachi ni Tsubasa wa Nai - Vol. 06 [Howard] BD 720p Vorbis/Oretachi ni Tsubasa wa Nai - 11 [Howard] BD 720p Vorbis [77CD30FE].mkv
 !new/pt2/Oretachi ni Tsubasa wa Nai - Vol. 06 [Howard] BD 720p Vorbis/Oretachi ni Tsubasa wa Nai - 12 [Howard] BD 720p Vorbis [4ADFC2A7].mkv
 !new/pt2/ot/[Howard] Oretachi ni Tsubasa wa Nai - 01 [1080p BD][5B21A2AB].mkv
