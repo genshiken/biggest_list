@@ -755,12 +755,16 @@
 !new/[ASL]_Various_Artists_-_AXL_Vocal_Collection_-Fullthrottole-_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_AXL_Vocal_Collection_2_-Shift_Up-_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Alice_Vocal_Collection_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_CLANNAD_Original_Soundtrack_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Circus_10th_Collect_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Full_Moon_wo_Sagashite_Original_Soundtrack_Vol_1_[FLAC].rar
 !new/[ASL]_Various_Artists_-_Full_Moon_wo_Sagashite_Original_Soundtrack_Vol_2_[FLAC].rar
 !new/[ASL]_Various_Artists_-_Leaf_Piano_Collection_2005_[FLAC].rar
 !new/[ASL]_Various_Artists_-_Mesu_Hime_no_Toriko_Haikousha_no_Seifuku_Shoujo_SOUND_TRACK_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Shion_no_Ketsuzoku_~Kono_Futashika_na_Sekai_to_Tenshitachi_no_Rondo~_Yoyaku_Tokuten_FULL_Soundtrack_CD_[FLAC].rar
 !new/[ASL]_Various_Artists_-_THE_IDOLMASTER_MASTER_SPECIAL_WINTER_[FLAC]_[w_Scans].rar
 !new/[ASL]_doriko_Feat._Hatsune_Miku_-_Romeo_to_Cinderella_[FLAC]_[w_Scans].rar
+!new/[Ahodomo] Maji de Watashi ni Koi Shinasai! - 12 FINAL [720p][A05814E9].mkv
 !new/[Ayako]_Jewelpet_Sunshine_-_10_[H264][720p][CDCFD5BD].mkv
 !new/[Ayako]_Jewelpet_Sunshine_-_14v0_[H264][720p][C25760A5].mkv
 !new/[Chibiki]_THE_iDOLM@STER_-_24_[720p][1C43D090].mkv
@@ -770,12 +774,14 @@
 !new/[Commie] Fate ⁄ Zero - 12 [9A8A06EE].mkv
 !new/[Commie] Guilty Crown - 10 [6094511C].mkv
 !new/[Commie] Hayate no Gotoku! Heaven is a Place on Earth [DVD 480p AAC] [1B433DE8].mkv
+!new/[Commie] Last Exile ~Fam, The Silver Wing~ - 10 [CD813E7B].mkv
 !new/[Commie] Persona 4 - 11 [A50CD66B].mkv
 !new/[Commie] Shakugan no Shana III - 11 [0F01C7B8].mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1280x720].[6BC22CBA].v2.mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1920x1080].[257C55D8].mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Tokyo.2011.[1920x1080].[1D26A2EB].mkv
 !new/[Doutei] KissDum - 02 [720p][aba7952c].mkv
+!new/[GotSpeed]_Mirai_Nikki_-_11_[FB25AE3A].mkv
 !new/[HorribleSubs] Beelzebub - 42 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 43 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 46 [720p].mkv
@@ -789,6 +795,7 @@
 !new/[HorribleSubs] Fairy Tail - 109 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 110 [720p].mkv
 !new/[HorribleSubs] Gintama - 238 [720p].mkv
+!new/[HorribleSubs] Gintama - 239 [720p].mkv
 !new/[HorribleSubs] Hunter X Hunter - 10 [720p].mkv
 !new/[HorribleSubs] Hunter X Hunter - 11 [720p].mkv
 !new/[HorribleSubs] Hunter X Hunter - 12 [720p].mkv
@@ -814,6 +821,7 @@
 !new/[Live-eviL]_Future_Boy_Conan_01_[BD-h264-10bit-1080p]_[6cb576da].mkv
 !new/[Live-eviL]_Future_Boy_Conan_02_[BD-h264-10bit-1080p]_[bc991e84].mkv
 !new/[Live-eviL]_Future_Boy_Conan_03_[BD-h264-10bit-1080p]_[8934984b].mkv
+!new/[Live-eviL]_Future_Boy_Conan_04_[BD-h264-10bit-1080p]_[f2fd031e].mkv
 !new/[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_11_[4F3444DF].mkv
 !new/[Nipponsei] Bakuman 2 OP Single - Dream of Life [Itou Shouhei].zip
 !new/[Nipponsei] Carnival Phantasm Original Soundtrack.zip
@@ -822,6 +830,7 @@
 !new/[Nipponsei] Shinryaku! Ika Musume Image Song Album - IKA LOVE.zip
 !new/[OS] To Aru Kagaku No Railgun Chapter 45.rar
 !new/[Over-Time]_Kamen_Rider_Fourze_-_15_[A38C04B2].mkv
+!new/[Over-Time]_Pirate_Sentai_Gokaiger_-_43_[9CD65790].mkv
 !new/[Oyatsu] Love Get Chu - 24 (640x480 DivX511 120fps mp3) [A50D52C3].mkv
 !new/[PM]Pocket_Monsters_Best_Wishes_059_Swift_Hero_A-Gilder_VS_Mr_Freege![H264_720P][3C26F10F].mkv
 !new/[ReDone] Lime-Colored War Tales OVA - 01 (DVD) [E0D38798].mkv
@@ -849,6 +858,7 @@
 !new/[SubDESU]_Manyuu_Hikenchou_Special_04_(BD_1080p_x264_FLAC)_[5C4125B2].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_Special_04v2_(BD_1080p_x264_FLAC)_[F7F9608C].mkv
 !new/[TSuNDeRe]Tsuyokiss.10.[DVDRip.Xvid.864x480.Vorbis][2BEB1119].mkv
+!new/[m.3.3.w]_Working'!!_-_10_[h264_720p]_[4C9B9DF0].mkv
 !new/[sage]_Daily_Lives_of_High_School_Boys_Preview_5_[630DF4E7].mkv
 !new/[sage]_Daily_Lives_of_High_School_Boys_Preview_6_[63E9B9A6].mkv
 !new/[sage]_Lupin_III_-_Blood_Seal_~Eternal_Mermaid~_[720p][10bit][66D1EF97].mkv
