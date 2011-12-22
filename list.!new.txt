@@ -773,15 +773,6 @@
 !new/[Chibiki]_THE_iDOLM@STER_-_24_[720p][1C43D090].mkv
 !new/[Coalgirls]_Infinite_Stratos_OVA-NCED_(1280x720_Blu-Ray_FLAC)_[C55FC097].mkv
 !new/[Coalgirls]_Infinite_Stratos_OVA_(1280x720_Blu-Ray_FLAC)_[3D0F7CB7].mkv
-!new/[Commie] Chihayafuru - 11 [A9A04231].mkv
-!new/[Commie] Fate ⁄ Zero - 12 [9A8A06EE].mkv
-!new/[Commie] Guilty Crown - 10 [6094511C].mkv
-!new/[Commie] Hayate no Gotoku! Heaven is a Place on Earth [DVD 480p AAC] [1B433DE8].mkv
-!new/[Commie] Kyoukai Senjou no Horizon - 12 [D3CD5AFA].mkv
-!new/[Commie] Last Exile ~Fam, The Silver Wing~ - 10 [CD813E7B].mkv
-!new/[Commie] Persona 4 - 11 [A50CD66B].mkv
-!new/[Commie] Shakugan no Shana III - 11 [0F01C7B8].mkv
-!new/[Commie] UN-GO - 10 [D34808C1].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.42.[1280x720].[17CBF57B].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.43.[1280x720].[AE4D03A4].mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1280x720].[6BC22CBA].v2.mkv
@@ -801,8 +792,6 @@
 !new/[HorribleSubs] Bleach - 353 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 48 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 49 [720p].mkv
-!new/[HorribleSubs] Chihayafuru - 10 [720p].mkv
-!new/[HorribleSubs] Chihayafuru - 11 [720p].mkv
 !new/[HorribleSubs] Chihayafuru - 12 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 109 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 110 [720p].mkv
@@ -821,8 +810,6 @@
 !new/[HorribleSubs] SKET Dance - 34 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 36 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 37 [720p].mkv
-!new/[HorribleSubs] Shinryaku Ika Musume S2 - 11 [720p].mkv
-!new/[HorribleSubs] UN-GO - 10 [720p].mkv
 !new/[HorribleSubs] Working!! - 11 [720p].mkv
 !new/[HorribleSubs] Working!! - 12 [720p].mkv
 !new/[KindaHorribleSubs] Beelzebub - 42 [720p].mkv
@@ -874,8 +861,6 @@
 !new/[SubDESU]_Manyuu_Hikenchou_Special_03v2_(BD_1080p_x264_FLAC)_[DB36B0B9].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_Special_04_(BD_1080p_x264_FLAC)_[5C4125B2].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_Special_04v2_(BD_1080p_x264_FLAC)_[F7F9608C].mkv
-!new/[TSuNDeRe]Tsuyokiss.10.[DVDRip.Xvid.864x480.Vorbis][2BEB1119].mkv
-!new/[Underwater] Shinryaku! Ika Musume S2 - 11 (720p) [94DA44E7].mkv
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_01v3[35]_-_Space-Time_Destruction_[624x480][DVD][ILA][8D03A921].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_02v3[35]_-_Lonely_Wolf_[624x480][DVD][ILA][59B986D2].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_03v3[35]_-_Pretty_Machine_[624x480][DVD][ILA][9BD697F9].ogm
