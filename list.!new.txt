@@ -781,6 +781,7 @@
 !new/[Commie] Last Exile ~Fam, The Silver Wing~ - 10 [CD813E7B].mkv
 !new/[Commie] Persona 4 - 11 [A50CD66B].mkv
 !new/[Commie] Shakugan no Shana III - 11 [0F01C7B8].mkv
+!new/[Commie] UN-GO - 10 [D34808C1].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.42.[1280x720].[17CBF57B].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.43.[1280x720].[AE4D03A4].mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1280x720].[6BC22CBA].v2.mkv
@@ -789,6 +790,7 @@
 !new/[Doremi].Ojamajo.Doremi.Dokkaan!.10.[F6F24808].avi
 !new/[Doutei] KissDum - 02 [720p][aba7952c].mkv
 !new/[GotSpeed]_Mirai_Nikki_-_11_[FB25AE3A].mkv
+!new/[GotWoot]_Mirai_Nikki_11_[10-bit][2BE3CBA1].mkv
 !new/[Hiryuu] Maken-Ki! 11 [Hi10P 1280x720 H264]  [6D1C52D5].mkv
 !new/[HorribleSubs] Beelzebub - 42 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 43 [720p].mkv
@@ -813,6 +815,7 @@
 !new/[HorribleSubs] Majikoi~Oh! Samurai Girls - 11 [720p].mkv
 !new/[HorribleSubs] Moritasan wa Mukuchi - 23 [720p].mkv
 !new/[HorribleSubs] Moritasan wa Mukuchi - 24 [720p].mkv
+!new/[HorribleSubs] Moritasan wa Mukuchi - 25 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 239 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 240 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 34 [720p].mkv
@@ -851,6 +854,7 @@
 !new/[SFW] Full Moon wo Sagashite - 01 [DVD][7FA43218].mkv
 !new/[SFW] Full Moon wo Sagashite - 02 [DVD][8257B60D].mkv
 !new/[SHiN-gx] Morita-san wa Mukuchi 2 - 10 [720p][E87546A2].mkv
+!new/[SHiN-gx] Morita-san wa Mukuchi 2 - 11 [720p][49C23B7D].mkv
 !new/[SHiN-gx] Morita-san wa Mukuchi OVA [DVD][E2D17EAE].mkv
 !new/[SMC] Sailor Moon SuperS 138 (R2 DVD.H264.AC3) [9F8E86BB].mkv
 !new/[SMC] Sailor Moon SuperS 139 (R2 DVD.H264.AC3) [AB40F6C6].mkv
@@ -873,13 +877,6 @@
 !new/[TSuNDeRe]Tsuyokiss.10.[DVDRip.Xvid.864x480.Vorbis][2BEB1119].mkv
 !new/[Underwater] Shinryaku! Ika Musume S2 - 11 (720p) [94DA44E7].mkv
 !new/[WhyNot] Nurarihyon no Mago Sennen Makyou - 24 [D33D15E0].mkv
-!new/[m.3.3.w]_Working'!!_-_10_[h264_720p]_[4C9B9DF0].mkv
-!new/[sage]_Daily_Lives_of_High_School_Boys_Preview_5_[630DF4E7].mkv
-!new/[sage]_Daily_Lives_of_High_School_Boys_Preview_6_[63E9B9A6].mkv
-!new/[sage]_Kimi_to_Boku_-_12_[720p][10bit][C36C4ACB].mkv
-!new/[sage]_Lupin_III_-_Blood_Seal_~Eternal_Mermaid~_[720p][10bit][66D1EF97].mkv
-!new/[sage]_Mobile_Suit_Gundam_AGE_-_11_[720p][10bit][E4F18F5F].mkv
-!new/[sage]_Sekaiichi_Hatsukoi_2_-_11_[720p][10bit][3E4B5B4A].mkv
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_01v3[35]_-_Space-Time_Destruction_[624x480][DVD][ILA][8D03A921].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_02v3[35]_-_Lonely_Wolf_[624x480][DVD][ILA][59B986D2].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_03v3[35]_-_Pretty_Machine_[624x480][DVD][ILA][9BD697F9].ogm
