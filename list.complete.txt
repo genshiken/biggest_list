@@ -4999,6 +4999,8 @@ complete/f/Full Metal Panic!/[OZC] Full Metal Panic! - 22 [BC532D8F].mkv
 complete/f/Full Metal Panic!/[OZC] Full Metal Panic! - 23 [7A185116].mkv
 complete/f/Full Metal Panic!/[OZC] Full Metal Panic! - 24 [End][23CEA436].mkv
 complete/f/Full Moon wo Sagashite Special/[a.f.k.] Full Moon wo Sagashite - Special [88504767].avi
+complete/f/Full Moon wo Sagashite/[SFW] Full Moon wo Sagashite - 01 [DVD][7FA43218].mkv
+complete/f/Full Moon wo Sagashite/[SFW] Full Moon wo Sagashite - 02 [DVD][8257B60D].mkv
 complete/f/Full Moon wo Sagashite/[SHiN-gx] Full Moon wo Sagashite - 01 [DVD][F4CBF36A].mkv
 complete/f/Full Moon wo Sagashite/[a.f.k.] Full Moon wo Sagashite - 01 [D2658E09].avi
 complete/f/Full Moon wo Sagashite/[a.f.k.] Full Moon wo Sagashite - 02 [5B08C4D7].avi
@@ -9186,7 +9188,18 @@ complete/k/Kamisama Kazoku/[Rabbit-Force] Kamisama Kazoku - 12 [DVD][000093EF].m
 complete/k/Kamisama Kazoku/[Rabbit-Force] Kamisama Kazoku - 13 [End][DVD][2434847E].mkv
 complete/k/Kamisama Kazoku/[Rabbit-Force] Kamisama Kazoku - Ending (Clean) [DVD][B4895B7A].mkv
 complete/k/Kamisama Kazoku/[Rabbit-Force] Kamisama Kazoku - Opening (Clean) [DVD][70CC93A0].mkv
+complete/k/Kamisama no Memochou/[UTW] Kamisama no Memochou - 01 [720p][06B4249D].mkv
+complete/k/Kamisama no Memochou/[UTW] Kamisama no Memochou - 02 [720p][E5229BA6].mkv
+complete/k/Kamisama no Memochou/[UTW] Kamisama no Memochou - 03 [720p][5E085ECB].mkv
+complete/k/Kamisama no Memochou/[UTW] Kamisama no Memochou - 04 [720p][81BC5EA7].mkv
+complete/k/Kamisama no Memochou/[UTW] Kamisama no Memochou - 05 [720p][8C10A59C].mkv
+complete/k/Kamisama no Memochou/[UTW] Kamisama no Memochou - 06 [720p][0BC3B457].mkv
+complete/k/Kamisama no Memochou/[UTW] Kamisama no Memochou - 07 [720p][417B36F1].mkv
+complete/k/Kamisama no Memochou/[UTW] Kamisama no Memochou - 08 [720p][9030581F].mkv
+complete/k/Kamisama no Memochou/[UTW] Kamisama no Memochou - 09 [720p][F558FF98].mkv
+complete/k/Kamisama no Memochou/[UTW] Kamisama no Memochou - 10 [720p][C3AE1484].mkv
 complete/k/Kamisama no Memochou/[UTW] Kamisama no Memochou - 11 [720p][325AB2F9].mkv
+complete/k/Kamisama no Memochou/[UTW] Kamisama no Memochou - 12 [End][720p][B603D6A5].mkv
 complete/k/Kampfer fur die Liebe/[UTW] Kampfer fur die Liebe - 1 [1080p BD][77A25B43].mkv
 complete/k/Kampfer fur die Liebe/[UTW] Kampfer fur die Liebe - 2 [End][1080p BD][A7BD35FD].mkv
 complete/k/Kampfer fur die Liebe/[UTW] Kampfer fur die Liebe - Ending (Clean) [1080p BD][A2657087].mkv
@@ -12844,6 +12857,7 @@ complete/m/Moonlight Mile S2/[GotWoot] Moonlight Mile S2 - 12 [720p][F7F57767].m
 complete/m/Moonlight Mile S2/[GotWoot] Moonlight Mile S2 - 13 [720p][281CD854].mkv
 complete/m/Moonlight Mile S2/[GotWoot] Moonlight Mile S2 - 14 [End][720p][6D729F07].mkv
 complete/m/Morita-san wa Mukuchi OVA/[Kata-Subs] Morita-san wa Mukuchi OVA [DVD][3B62DCE4].mkv
+complete/m/Morita-san wa Mukuchi OVA/[SHiN-gx] Morita-san wa Mukuchi OVA [DVD][E2D17EAE].mkv
 complete/m/Morita-san wa Mukuchi/[SHiN-gx] Morita-san wa Mukuchi - 01 [v2 720p][7B600570].mkv
 complete/m/Morita-san wa Mukuchi/[SHiN-gx] Morita-san wa Mukuchi - 02 [v2 720p][94E29DE6].mkv
 complete/m/Morita-san wa Mukuchi/[SHiN-gx] Morita-san wa Mukuchi - 03 [v2 720p][E7163B8C].mkv
