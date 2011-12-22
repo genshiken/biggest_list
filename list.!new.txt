@@ -830,8 +830,6 @@
 !new/[Nipponsei] Hayate no Gotoku! Heaven is a Place on Earth Original Soundtrack.zip
 !new/[Nipponsei] Shinryaku! Ika Musume Image Song Album - IKA LOVE.zip
 !new/[OS] To Aru Kagaku No Railgun Chapter 45.rar
-!new/[Over-Time]_Kamen_Rider_Fourze_-_15_[A38C04B2].mkv
-!new/[Over-Time]_Pirate_Sentai_Gokaiger_-_43_[9CD65790].mkv
 !new/[Oyatsu] Love Get Chu - 24 (640x480 DivX511 120fps mp3) [A50D52C3].mkv
 !new/[Oyatsu] Mashiro Iro Symphony - 11 (1280x720 x264 AAC) [945201F0].mkv
 !new/[PM]Pocket_Monsters_Best_Wishes_059_Swift_Hero_A-Gilder_VS_Mr_Freege![H264_720P][3C26F10F].mkv
@@ -1660,6 +1658,40 @@
 !new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/b/[ANE] Honey & Clover 18.5 Chapter F [DVD].mkv
 !new/nuu/[ANE] Shinryaku! Ika Musume - Mini Squid Girl Short Stories [BDRip 720p x264 FLAC]/[ANE] Shinryaku! Ika Musume - Mini Squid Girl Short Story 1 [BDRip 720p x264 FLAC].mkv
 !new/nuu/[ANE] Shinryaku! Ika Musume - Mini Squid Girl Short Stories [BDRip 720p x264 FLAC]/[ANE] Shinryaku! Ika Musume - Mini Squid Girl Short Story 2 [BDRip 720p x264 FLAC].mkv
+!new/p/01v2.xdelta
+!new/p/02v2.xdelta
+!new/p/03v2.xdelta
+!new/p/04v2.xdelta
+!new/p/05v3.xdelta
+!new/p/06v2.xdelta
+!new/p/07v2.xdelta
+!new/p/08v2.xdelta
+!new/p/09v2.xdelta
+!new/p/10v2.xdelta
+!new/p/12v2.xdelta
+!new/p/[UTW] Kamisama no Memochou - 01 [720p][C2C005FF].mkv
+!new/p/[UTW] Kamisama no Memochou - 02 [720p][10294B66].mkv
+!new/p/[UTW] Kamisama no Memochou - 03 [720p][D0D118ED].mkv
+!new/p/[UTW] Kamisama no Memochou - 04 [720p][204E5F71].mkv
+!new/p/[UTW] Kamisama no Memochou - 05 [v2 720p][FE3A0B12].mkv
+!new/p/[UTW] Kamisama no Memochou - 06 [720p][0BAA4636].mkv
+!new/p/[UTW] Kamisama no Memochou - 07 [720p][5456F069].mkv
+!new/p/[UTW] Kamisama no Memochou - 08 [720p][A066DD14].mkv
+!new/p/[UTW] Kamisama no Memochou - 09 [720p][4C067108].mkv
+!new/p/[UTW] Kamisama no Memochou - 10 [720p][68BAE546].mkv
+!new/p/[UTW] Kamisama no Memochou - 12 [End][720p][47BF442A].mkv
+!new/p/[UTW]_Kamisama_no_Memochou_[h264-720p]_patches.zip
+!new/p/patched/[UTW]_Kamisama_no_Memochou_-_01_[h264-720p][06B4249D].mkv
+!new/p/patched/[UTW]_Kamisama_no_Memochou_-_02_[h264-720p][E5229BA6].mkv
+!new/p/patched/[UTW]_Kamisama_no_Memochou_-_03_[h264-720p][5E085ECB].mkv
+!new/p/patched/[UTW]_Kamisama_no_Memochou_-_04_[h264-720p][81BC5EA7].mkv
+!new/p/patched/[UTW]_Kamisama_no_Memochou_-_05_[h264-720p][8C10A59C].mkv
+!new/p/patched/[UTW]_Kamisama_no_Memochou_-_06_[h264-720p][0BC3B457].mkv
+!new/p/patched/[UTW]_Kamisama_no_Memochou_-_07_[h264-720p][417B36F1].mkv
+!new/p/patched/[UTW]_Kamisama_no_Memochou_-_08_[h264-720p][9030581F].mkv
+!new/p/patched/[UTW]_Kamisama_no_Memochou_-_09_[h264-720p][F558FF98].mkv
+!new/p/patched/[UTW]_Kamisama_no_Memochou_-_10_[h264-720p][C3AE1484].mkv
+!new/p/patched/[UTW]_Kamisama_no_Memochou_-_12_[h264-720p][B603D6A5].mkv
 !new/pt2/Byousoku 5cm [niizk]/One_more_time_One_more_chance [720p,BluRay,x264]_-_THORA.mkv
 !new/pt2/Byousoku 5cm [niizk]/[niizk] 5 Centimeters per Second [1080p BD][D40C09FA].mkv
 !new/pt2/Oretachi ni Tsubasa wa Nai - Vol. 06 [Howard] BD 720p Vorbis/Oretachi ni Tsubasa wa Nai - 11 [Howard] BD 720p Vorbis [77CD30FE].mkv
