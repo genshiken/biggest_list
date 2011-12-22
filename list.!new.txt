@@ -746,10 +746,12 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
+!new/[A-Destiny] Toriko - 37 (1280x720 h264 AAC) [2D96B7A5].mkv
 !new/[ASL]_Caramell_-_U-U-UmaUma_[FLAC]_[w_Scans].rar
 !new/[ASL]_Fukui_Mai_-_Beautiful_Days_[FLAC].rar
 !new/[ASL]_Key_Sounds_Label_-_planetarian_original_soundtrack_[FLAC]_[w_Scans].rar
 !new/[ASL]_Koshiro_Yuzo_-_Wangan_MIDNIGHT_MAXIMUM_TUNE_3_ORIGINAL_SOUNDTRACKS_[FLAC].rar
+!new/[ASL]_Kuribayashi_Minami_10th_Anniversary_Best_Album_-_stories_[FLAC].rar
 !new/[ASL]_Various_Artists_-_11eyes_-PERFECT_VOCAL_ALBUM-_[FLAC].rar
 !new/[ASL]_Various_Artists_-_ARIA_Piano_Collection_-_Stagione_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_ARIA_The_ORIGINATION_PIANO_COLLECTION_II_DIPARTENZA_~Tabidachi~_[FLAC]_[w_Scans].rar
@@ -775,24 +777,31 @@
 !new/[Commie] Fate ⁄ Zero - 12 [9A8A06EE].mkv
 !new/[Commie] Guilty Crown - 10 [6094511C].mkv
 !new/[Commie] Hayate no Gotoku! Heaven is a Place on Earth [DVD 480p AAC] [1B433DE8].mkv
+!new/[Commie] Kyoukai Senjou no Horizon - 12 [D3CD5AFA].mkv
 !new/[Commie] Last Exile ~Fam, The Silver Wing~ - 10 [CD813E7B].mkv
 !new/[Commie] Persona 4 - 11 [A50CD66B].mkv
 !new/[Commie] Shakugan no Shana III - 11 [0F01C7B8].mkv
+!new/[Doremi-CureCom].Suite.PreCure!.42.[1280x720].[17CBF57B].mkv
+!new/[Doremi-CureCom].Suite.PreCure!.43.[1280x720].[AE4D03A4].mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1280x720].[6BC22CBA].v2.mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1920x1080].[257C55D8].mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Tokyo.2011.[1920x1080].[1D26A2EB].mkv
+!new/[Doremi].Ojamajo.Doremi.Dokkaan!.10.[F6F24808].avi
 !new/[Doutei] KissDum - 02 [720p][aba7952c].mkv
 !new/[GotSpeed]_Mirai_Nikki_-_11_[FB25AE3A].mkv
+!new/[Hiryuu] Maken-Ki! 11 [Hi10P 1280x720 H264]  [6D1C52D5].mkv
 !new/[HorribleSubs] Beelzebub - 42 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 43 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 46 [720p].mkv
 !new/[HorribleSubs] Beelzebub - 47 [720p].mkv
 !new/[HorribleSubs] Bleach - 351 [720p].mkv
 !new/[HorribleSubs] Bleach - 352 [720p].mkv
+!new/[HorribleSubs] Bleach - 353 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 48 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 49 [720p].mkv
 !new/[HorribleSubs] Chihayafuru - 10 [720p].mkv
 !new/[HorribleSubs] Chihayafuru - 11 [720p].mkv
+!new/[HorribleSubs] Chihayafuru - 12 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 109 [720p].mkv
 !new/[HorribleSubs] Fairy Tail - 110 [720p].mkv
 !new/[HorribleSubs] Gintama - 238 [720p].mkv
@@ -810,6 +819,7 @@
 !new/[HorribleSubs] SKET Dance - 34 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 36 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 37 [720p].mkv
+!new/[HorribleSubs] Shinryaku Ika Musume S2 - 11 [720p].mkv
 !new/[HorribleSubs] UN-GO - 10 [720p].mkv
 !new/[HorribleSubs] Working!! - 11 [720p].mkv
 !new/[HorribleSubs] Working!! - 12 [720p].mkv
@@ -823,6 +833,7 @@
 !new/[Live-eviL]_Future_Boy_Conan_02_[BD-h264-10bit-1080p]_[bc991e84].mkv
 !new/[Live-eviL]_Future_Boy_Conan_03_[BD-h264-10bit-1080p]_[8934984b].mkv
 !new/[Live-eviL]_Future_Boy_Conan_04_[BD-h264-10bit-1080p]_[f2fd031e].mkv
+!new/[Live-eviL]_Mahou_no_Star_Magical_Emi_05_[h264&MP3]_[4020b345].mkv
 !new/[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_11_[4F3444DF].mkv
 !new/[Nipponsei] Bakuman 2 OP Single - Dream of Life [Itou Shouhei].zip
 !new/[Nipponsei] Carnival Phantasm Original Soundtrack.zip
@@ -833,6 +844,7 @@
 !new/[Over-Time]_Kamen_Rider_Fourze_-_15_[A38C04B2].mkv
 !new/[Over-Time]_Pirate_Sentai_Gokaiger_-_43_[9CD65790].mkv
 !new/[Oyatsu] Love Get Chu - 24 (640x480 DivX511 120fps mp3) [A50D52C3].mkv
+!new/[Oyatsu] Mashiro Iro Symphony - 11 (1280x720 x264 AAC) [945201F0].mkv
 !new/[PM]Pocket_Monsters_Best_Wishes_059_Swift_Hero_A-Gilder_VS_Mr_Freege![H264_720P][3C26F10F].mkv
 !new/[ReDone] Lime-Colored War Tales OVA - 01 (DVD) [E0D38798].mkv
 !new/[ReinForce] Seto no Hanayome - NCED_1.mkv
@@ -851,6 +863,7 @@
 !new/[SS-Eclipse] Shakugan no Shana Final - 11 (1280x720 Hi10P) [76215EE5].mkv
 !new/[SS] Mirai Nikki - 09 (1280x720 h264) [C6FD2282].mkv
 !new/[SlumpSubs]_Dr.Slump_Arale-chan_-_001_[c4d076c4].mkv
+!new/[SlumpSubs]_Dr.Slump_Arale-chan_-_002_[61ef9145].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_04_(BD_1080p_x264_FLAC)_[584855CC].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_05_(BD_1080p_x264_FLAC)_[7C022BA].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_06_(BD_1080p_x264_FLAC)_[F6B8CB40].mkv
@@ -859,9 +872,12 @@
 !new/[SubDESU]_Manyuu_Hikenchou_Special_04_(BD_1080p_x264_FLAC)_[5C4125B2].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_Special_04v2_(BD_1080p_x264_FLAC)_[F7F9608C].mkv
 !new/[TSuNDeRe]Tsuyokiss.10.[DVDRip.Xvid.864x480.Vorbis][2BEB1119].mkv
+!new/[Underwater] Shinryaku! Ika Musume S2 - 11 (720p) [94DA44E7].mkv
+!new/[WhyNot] Nurarihyon no Mago Sennen Makyou - 24 [D33D15E0].mkv
 !new/[m.3.3.w]_Working'!!_-_10_[h264_720p]_[4C9B9DF0].mkv
 !new/[sage]_Daily_Lives_of_High_School_Boys_Preview_5_[630DF4E7].mkv
 !new/[sage]_Daily_Lives_of_High_School_Boys_Preview_6_[63E9B9A6].mkv
+!new/[sage]_Kimi_to_Boku_-_12_[720p][10bit][C36C4ACB].mkv
 !new/[sage]_Lupin_III_-_Blood_Seal_~Eternal_Mermaid~_[720p][10bit][66D1EF97].mkv
 !new/[sage]_Mobile_Suit_Gundam_AGE_-_11_[720p][10bit][E4F18F5F].mkv
 !new/[sage]_Sekaiichi_Hatsukoi_2_-_11_[720p][10bit][3E4B5B4A].mkv
