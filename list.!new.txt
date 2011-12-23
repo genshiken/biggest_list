@@ -761,7 +761,11 @@
 !new/[Doremi].Ojamajo.Doremi.Dokkaan!.10.[F6F24808].avi
 !new/[Doutei] KissDum - 02 [720p][aba7952c].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 241 [720p].mkv
+!new/[HorribleSubs] SKET Dance - 38 [720p].mkv
+!new/[HorribleSubs] UN-GO - 11 [720p].mkv
 !new/[KindaHorribleSubs] Beelzebub - 42 [720p].mkv
+!new/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream Special - 01 [H264 704x400] [C0FA7491].mkv
+!new/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream Special - 02 [H264 704x400] [780A1B35].mkv
 !new/[Live-eviL]_Captain_Harlock_SSX_(TV)_-_13_[95035CA9].mkv
 !new/[Live-eviL]_Captain_Harlock_SSX_(TV)_-_14_[CC7142FA].mkv
 !new/[Live-eviL]_Captain_Harlock_SSX_(TV)_-_15_[4181FC23].mkv
@@ -770,9 +774,19 @@
 !new/[Live-eviL]_Future_Boy_Conan_03_[BD-h264-10bit-1080p]_[8934984b].mkv
 !new/[Live-eviL]_Future_Boy_Conan_04_[BD-h264-10bit-1080p]_[f2fd031e].mkv
 !new/[Live-eviL]_Mahou_no_Star_Magical_Emi_05_[h264&MP3]_[4020b345].mkv
+!new/[LonE]_Katakiri_Rekka_-_PSP_Sangokuhime_-Sangoku_Ranse,_Haten_no_Saihai-_OP_Single_-_Shinmei_no_Jingi_[w_scans]_(FLAC).rar
+!new/[LonE]_Sakakibara_Yui_-_AngelGuard_Theme_Song_Maxi_Single_[w_scans]_(FLAC).rar
 !new/[OS] To Aru Kagaku No Railgun Chapter 45.rar
+!new/[Oyatsu] Love Get Chu - 18 (640x480 DivX511 mp3) [E0BEFCA1].mkv
+!new/[Oyatsu] Love Get Chu - 19 (640x480 DivX511 mp3) [56F70E20].mkv
+!new/[Oyatsu] Love Get Chu - 20 (640x480 DivX511 mp3) [E5CBD776].mkv
+!new/[Oyatsu] Love Get Chu 16 (640x480 DivX511 mp3) [40B63CEF].mkv
+!new/[Oyatsu] Love Get Chu 17 (640x480 DivX511 mp3) [80922539].mkv
+!new/[PracticeSubs]Love​_GetChu​_14v2​_[Xvid].mkv
+!new/[PracticeSubs]Love​_GetChu​_15​_[Xvid].mkv
 !new/[ReDone] Lime-Colored War Tales OVA - 01 (DVD) [E0D38798].mkv
 !new/[ReinForce] Seto no Hanayome - NCED_1.mkv
+!new/[SubDESU]_Manyuu_Hikenchou_-_08_(1920x1080_x264_FLAC)_[A33C29A3].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_04_(BD_1080p_x264_FLAC)_[584855CC].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_05_(BD_1080p_x264_FLAC)_[7C022BA].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_06_(BD_1080p_x264_FLAC)_[F6B8CB40].mkv
