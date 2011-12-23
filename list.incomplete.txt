@@ -1280,19 +1280,19 @@ incomplete/Lord of Lords Ryu Knight/[Triad] Lord of Lords Ryu Knight - 49 [67089
 incomplete/Lord of Lords Ryu Knight/[Triad] Lord of Lords Ryu Knight - 50 [656E16AD].avi
 incomplete/Lord of Lords Ryu Knight/[Triad] Lord of Lords Ryu Knight - 51 [DF15CBA2].avi
 incomplete/Lord of Lords Ryu Knight/[Triad] Lord of Lords Ryu Knight - 52 [End][D8D22925].avi
-incomplete/Love GetChu/[Ayu-C1] Love GetChu - 01 [1ADA2B0E].mp4
-incomplete/Love GetChu/[Ayu-C1] Love GetChu - 02 [C5611712].mp4
-incomplete/Love GetChu/[Ayu-C1] Love GetChu - 03 [E081D7AA].mp4
-incomplete/Love GetChu/[Ayu-C1] Love GetChu - 04 [D8619093].mp4
-incomplete/Love GetChu/[Ayu-C1] Love GetChu - 05 [A322E28C].mp4
-incomplete/Love GetChu/[Ayu-C1] Love GetChu - 06 [9EF2902D].mp4
-incomplete/Love GetChu/[Ayu-C1] Love GetChu - 07 [E7914A99].mp4
-incomplete/Love GetChu/[Ayu-C1] Love GetChu - 08 [B9B052AB].mp4
-incomplete/Love GetChu/[Ayu-C1] Love GetChu - 09 [59379503].mp4
-incomplete/Love GetChu/[C1] Love GetChu - 10 [6F89B64B].mp4
-incomplete/Love GetChu/[C1] Love GetChu - 11 [63A0B9CB].mp4
-incomplete/Love GetChu/[C1] Love GetChu - 12 [E5B66B29].mp4
-incomplete/Love GetChu/[C1] Love GetChu - 13 [ED9A47E0].mp4
+incomplete/Love GetChu/[Ayu-C1] Love Get Chu - 01 [1ADA2B0E].mp4
+incomplete/Love GetChu/[Ayu-C1] Love Get Chu - 02 [C5611712].mp4
+incomplete/Love GetChu/[Ayu-C1] Love Get Chu - 03 [E081D7AA].mp4
+incomplete/Love GetChu/[Ayu-C1] Love Get Chu - 04 [D8619093].mp4
+incomplete/Love GetChu/[Ayu-C1] Love Get Chu - 05 [A322E28C].mp4
+incomplete/Love GetChu/[Ayu-C1] Love Get Chu - 06 [9EF2902D].mp4
+incomplete/Love GetChu/[Ayu-C1] Love Get Chu - 07 [E7914A99].mp4
+incomplete/Love GetChu/[Ayu-C1] Love Get Chu - 08 [B9B052AB].mp4
+incomplete/Love GetChu/[Ayu-C1] Love Get Chu - 09 [59379503].mp4
+incomplete/Love GetChu/[C1] Love Get Chu - 10 [6F89B64B].mp4
+incomplete/Love GetChu/[C1] Love Get Chu - 11 [63A0B9CB].mp4
+incomplete/Love GetChu/[C1] Love Get Chu - 12 [E5B66B29].mp4
+incomplete/Love GetChu/[C1] Love Get Chu - 13 [ED9A47E0].mp4
 incomplete/Love GetChu/[Oyatsu] Love Get Chu - 16 [40B63CEF].mkv
 incomplete/Love GetChu/[Oyatsu] Love Get Chu - 17 [80922539].mkv
 incomplete/Love GetChu/[Oyatsu] Love Get Chu - 18 [E0BEFCA1].mkv
@@ -1302,6 +1302,8 @@ incomplete/Love GetChu/[Oyatsu] Love Get Chu - 21 [70B22D59].mkv
 incomplete/Love GetChu/[Oyatsu] Love Get Chu - 22 [24A6C0CD].mkv
 incomplete/Love GetChu/[Oyatsu] Love Get Chu - 23 [33A2A144].mkv
 incomplete/Love GetChu/[Oyatsu] Love Get Chu - 24 [End][A50D52C3].mkv
+incomplete/Love GetChu/[PracticeSubs] Love Get Chu - 14 [v2][C0B9866B].mkv
+incomplete/Love GetChu/[PracticeSubs] Love Get Chu - 15 [88661A92].mkv
 incomplete/Lucy-May of the Southern Rainbow/[Licca] Lucy-May of the Southern Rainbow - 01 [6A54FF23].mkv
 incomplete/Maburaho/[Anime-Keep] Maburaho - 01 [F5BA0680].avi
 incomplete/Maburaho/[Anime-Keep] Maburaho - 02 [BFE818CB].avi
