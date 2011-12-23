@@ -1952,6 +1952,18 @@ complete/b/Blue Submarine/[zx] Blue Submarine - 4 [End][784D3582].mkv
 complete/b/Boku Otaryman/[Frostii] Boku Otaryman [v2][D3A91CE7].mkv
 complete/b/Boku wa Tomodachi ga Sukunai - 00 OVA/[Commie] Boku wa Tomodachi ga Sukunai - 00 OVA [6C477CD0].mkv
 complete/b/Boku wa Tomodachi ga Sukunai - 00 OVA/[Mazui] Boku wa Tomodachi ga Sukunai - 00 OVA [858EBA34].mkv
+complete/b/Boku wa Tomodachi ga Sukunai/[Mazui] Boku wa Tomodachi ga Sukunai - 01 [89288C3C].mkv
+complete/b/Boku wa Tomodachi ga Sukunai/[Mazui] Boku wa Tomodachi ga Sukunai - 02 [D4FFD0B0].mkv
+complete/b/Boku wa Tomodachi ga Sukunai/[Mazui] Boku wa Tomodachi ga Sukunai - 03 [6CB4BA8B].mkv
+complete/b/Boku wa Tomodachi ga Sukunai/[Mazui] Boku wa Tomodachi ga Sukunai - 04 [v2][8F1C0D76].mkv
+complete/b/Boku wa Tomodachi ga Sukunai/[Mazui] Boku wa Tomodachi ga Sukunai - 05 [D4D567A1].mkv
+complete/b/Boku wa Tomodachi ga Sukunai/[Mazui] Boku wa Tomodachi ga Sukunai - 06 [1A42C742].mkv
+complete/b/Boku wa Tomodachi ga Sukunai/[Mazui] Boku wa Tomodachi ga Sukunai - 07 [D314B974].mkv
+complete/b/Boku wa Tomodachi ga Sukunai/[Mazui] Boku wa Tomodachi ga Sukunai - 08 [FA45ECF1].mkv
+complete/b/Boku wa Tomodachi ga Sukunai/[Mazui] Boku wa Tomodachi ga Sukunai - 09 [D8813B74].mkv
+complete/b/Boku wa Tomodachi ga Sukunai/[Mazui] Boku wa Tomodachi ga Sukunai - 10 [83147F8C].mkv
+complete/b/Boku wa Tomodachi ga Sukunai/[Mazui] Boku wa Tomodachi ga Sukunai - 11 [4F3444DF].mkv
+complete/b/Boku wa Tomodachi ga Sukunai/[Mazui] Boku wa Tomodachi ga Sukunai - 12 [End][8E1BF68D].mkv
 complete/b/Bokura ga Ita/[Urusai] Bokura ga Ita - 01 [DVD][2AEFBE85].mkv
 complete/b/Bokura ga Ita/[Urusai] Bokura ga Ita - 02 [DVD][4FB3CDBC].mkv
 complete/b/Bokura ga Ita/[Urusai] Bokura ga Ita - 03 [DVD][169D685A].mkv
@@ -14245,18 +14257,22 @@ complete/o/Ore no Imouto/[ANE] Ore no Imouto - Opening 15 (Clean) [720p BD][87AE
 complete/o/Ore no Imouto/[ANE] Ore no Imouto - Opening 16 (Clean) [720p BD][BB21DDDE].mkv
 complete/o/Ore no Imouto/[ANE] Ore no Imouto - Stardust Witch Meruru Opening [720p BD][41918EA0].mkv
 complete/o/Oretachi ni Tsubasa wa Nai OVA/[Shikkaku] Oretachi ni Tsubasa wa Nai OVA [LQ 720p][838D5725].mkv
-complete/o/Oretachi ni Tsubasa wa Nai/[HorribleSubs] Oretachi ni Tsubasa wa Nai - 01 [720p][9F767893].mkv
-complete/o/Oretachi ni Tsubasa wa Nai/[HorribleSubs] Oretachi ni Tsubasa wa Nai - 02 [720p][B664F1D5].mkv
-complete/o/Oretachi ni Tsubasa wa Nai/[HorribleSubs] Oretachi ni Tsubasa wa Nai - 03 [720p][ACF29016].mkv
-complete/o/Oretachi ni Tsubasa wa Nai/[HorribleSubs] Oretachi ni Tsubasa wa Nai - 04 [v2 720p][834D3C7B].mkv
-complete/o/Oretachi ni Tsubasa wa Nai/[HorribleSubs] Oretachi ni Tsubasa wa Nai - 05 [v2 720p][B8882BD7].mkv
-complete/o/Oretachi ni Tsubasa wa Nai/[HorribleSubs] Oretachi ni Tsubasa wa Nai - 06 [720p][2E017806].mkv
-complete/o/Oretachi ni Tsubasa wa Nai/[HorribleSubs] Oretachi ni Tsubasa wa Nai - 07 [720p][A34842F7].mkv
-complete/o/Oretachi ni Tsubasa wa Nai/[HorribleSubs] Oretachi ni Tsubasa wa Nai - 08 [720p][1508853D].mkv
-complete/o/Oretachi ni Tsubasa wa Nai/[HorribleSubs] Oretachi ni Tsubasa wa Nai - 09 [720p][3E589776].mkv
-complete/o/Oretachi ni Tsubasa wa Nai/[HorribleSubs] Oretachi ni Tsubasa wa Nai - 10 [720p][2D0E655F].mkv
-complete/o/Oretachi ni Tsubasa wa Nai/[HorribleSubs] Oretachi ni Tsubasa wa Nai - 11 [720p][3EB8797B].mkv
-complete/o/Oretachi ni Tsubasa wa Nai/[HorribleSubs] Oretachi ni Tsubasa wa Nai - 12 [End][720p][67144314].mkv
+complete/o/Oretachi ni Tsubasa wa Nai/[Howard] Oretachi ni Tsubasa wa Nai - 01 [1080p BD][5B21A2AB].mkv
+complete/o/Oretachi ni Tsubasa wa Nai/[Howard] Oretachi ni Tsubasa wa Nai - 02 [1080p BD][5CC480AA].mkv
+complete/o/Oretachi ni Tsubasa wa Nai/[Howard] Oretachi ni Tsubasa wa Nai - 03 [1080p BD][3A33CCA4].mkv
+complete/o/Oretachi ni Tsubasa wa Nai/[Howard] Oretachi ni Tsubasa wa Nai - 04 [1080p BD][A701B709].mkv
+complete/o/Oretachi ni Tsubasa wa Nai/[Howard] Oretachi ni Tsubasa wa Nai - 05 [1080p BD][17941112].mkv
+complete/o/Oretachi ni Tsubasa wa Nai/[Howard] Oretachi ni Tsubasa wa Nai - 06 [1080p BD][BA82AD4A].mkv
+complete/o/Oretachi ni Tsubasa wa Nai/[Howard] Oretachi ni Tsubasa wa Nai - 07 [1080p BD][C1C38861].mkv
+complete/o/Oretachi ni Tsubasa wa Nai/[Howard] Oretachi ni Tsubasa wa Nai - 08 [1080p BD][150D046F].mkv
+complete/o/Oretachi ni Tsubasa wa Nai/[Howard] Oretachi ni Tsubasa wa Nai - 09 [1080p BD][0CDA89A0].mkv
+complete/o/Oretachi ni Tsubasa wa Nai/[Howard] Oretachi ni Tsubasa wa Nai - 10 [1080p BD][35FA6B1B].mkv
+complete/o/Oretachi ni Tsubasa wa Nai/[Howard] Oretachi ni Tsubasa wa Nai - 11 [1080p BD][9A62BC1C].mkv
+complete/o/Oretachi ni Tsubasa wa Nai/[Howard] Oretachi ni Tsubasa wa Nai - 12 [End][1080p BD][2906FF0B].mkv
+complete/o/Oretachi ni Tsubasa wa Nai/[Howard] Oretachi ni Tsubasa wa Nai - Ending 1 (Clean) [1080p BD][7D340526].mkv
+complete/o/Oretachi ni Tsubasa wa Nai/[Howard] Oretachi ni Tsubasa wa Nai - Ending 2 (Clean) [1080p BD][6F0E400B].mkv
+complete/o/Oretachi ni Tsubasa wa Nai/[Howard] Oretachi ni Tsubasa wa Nai - Ending 3 (Clean) [1080p BD][0249F196].mkv
+complete/o/Oretachi ni Tsubasa wa Nai/[Howard] Oretachi ni Tsubasa wa Nai - Opening (Clean) [1080p BD][C1F1F86B].mkv
 complete/o/Otogi Zoshi/[SSP-Corp] Otogi Zoshi - 01 [4699E48D].mkv
 complete/o/Otogi Zoshi/[SSP-Corp] Otogi Zoshi - 02 [C0AA506F].mkv
 complete/o/Otogi Zoshi/[SSP-Corp] Otogi Zoshi - 03 [12A5018E].mkv
@@ -19450,6 +19466,7 @@ complete/t/Top wo Nerae! 2/[ETB] Top wo Nerae! 2 - 3 [EC90C9E7].mkv
 complete/t/Top wo Nerae! 2/[ETB] Top wo Nerae! 2 - 4 [8C664113].mkv
 complete/t/Top wo Nerae! 2/[ETB] Top wo Nerae! 2 - 5 [FE5F8D21].mkv
 complete/t/Top wo Nerae! 2/[ETB] Top wo Nerae! 2 - 6 [End][32DE14DD].mkv
+complete/t/Toradora! OVA/[CoalGuys] Toradora! OVA [1B6B6AC1].mkv
 complete/t/Toradora!/[Coalgirls] Toradora! - 01 [DVD][36993AC6].mkv
 complete/t/Toradora!/[Coalgirls] Toradora! - 02 [DVD][3FF2C9A7].mkv
 complete/t/Toradora!/[Coalgirls] Toradora! - 03 [DVD][9EC38000].mkv
