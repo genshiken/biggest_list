@@ -746,10 +746,12 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
 !new/[ASL]_Itou_Kanae_-_Nagatsuki_Sanae_Idol_Debut_Single_-_A-B-C-Dynamite_girl!_[FLAC].rar
+!new/[ASL]_Katakiri_Rekka_-_Sangokuhime_-Sangoku_Ransei-Haten_no_Saihai-_OP_-_Shinmei_no_Jingi-Tsuwamonogatari_[FLAC]_[w_Scans].rar
 !new/[ASL]_Triple_H_-_Mawaru_Penguindrum_Character_Song_Album_-_HHH_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_Bonus_CD_Vol._5_[FLAC].rar
 !new/[ASL]_Various_Artists_-_Mashiro-iro_Symphony_Character_Songs_-_Character_Palette_Vol.2_[FLAC].rar
 !new/[ASL]_Various_Artists_-_Suiheisen_Made_Nan_Mile_Sound_Track_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Yuruyuri_Tokuten_Special-Sound_CD_vol.4_[FLAC]_[w_Scans].rar
 !new/[CoalGuys] Toradora! - OVA [1B6B6AC1].mkv
 !new/[Coalgirls]_Infinite_Stratos_OVA-NCED_(1280x720_Blu-Ray_FLAC)_[C55FC097].mkv
 !new/[Coalgirls]_Infinite_Stratos_OVA_(1280x720_Blu-Ray_FLAC)_[3D0F7CB7].mkv
@@ -760,6 +762,8 @@
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Tokyo.2011.[1920x1080].[1D26A2EB].mkv
 !new/[Doremi].Ojamajo.Doremi.Dokkaan!.10.[F6F24808].avi
 !new/[Doutei] KissDum - 02 [720p][aba7952c].mkv
+!new/[Doutei] KissDum - 03 [720p][3af456db].mkv
+!new/[Doutei] KissDum - 3.5 [720p][a59ab4f1].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 241 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 38 [720p].mkv
 !new/[HorribleSubs] UN-GO - 11 [720p].mkv
@@ -776,6 +780,11 @@
 !new/[Live-eviL]_Future_Boy_Conan_04_[BD-h264-10bit-1080p]_[f2fd031e].mkv
 !new/[Live-eviL]_Mahou_no_Star_Magical_Emi_05_[h264&MP3]_[4020b345].mkv
 !new/[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_12_[8E1BF68D].mkv
+!new/[Nipponsei] Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shira nai. Original Soundtrack.zip
+!new/[Nipponsei] Final Fantasy XIII-2 Original Soundtrack.zip
+!new/[Nipponsei] Last Exile Ginyoku no Fam Original Soundtrack.zip
+!new/[Nipponsei] Mashiroiro Symphony Character Song Vol.2 - Amaha Miu & Sena Airi & Angelina Nanatsu Sewell.zip
+!new/[Nipponsei] Mawaru Penguindrum Character Song Album - HHH.zip
 !new/[OS] To Aru Kagaku No Railgun Chapter 45.rar
 !new/[ReDone] Lime-Colored War Tales OVA - 01 (DVD) [E0D38798].mkv
 !new/[ReinForce] Seto no Hanayome - NCED_1.mkv
@@ -791,6 +800,7 @@
 !new/[SubDESU]_Manyuu_Hikenchou_Special_03v2_(BD_1080p_x264_FLAC)_[DB36B0B9].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_Special_04_(BD_1080p_x264_FLAC)_[5C4125B2].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_Special_04v2_(BD_1080p_x264_FLAC)_[F7F9608C].mkv
+!new/[UTW]_C3_Cube_x_Cursed_x_Curious_-_12_[h264-720p][6B2F1A7A].mkv
 !new/[WhyNot] Uta no Prince-sama Maji Love 1000% - 01 [DE8BF57C].mkv
 !new/[WhyNot] Uta no Prince-sama Maji Love 1000% - 02 [756EAC49].mkv
 !new/[WhyNot] Uta no Prince-sama Maji Love 1000% - 03 [DD16E27A].mkv
