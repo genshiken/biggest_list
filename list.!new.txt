@@ -105,6 +105,7 @@
 !new/Jin-Roh_The_Wolf_Brigade_(2000)_[1080p,BluRay,x264]_-_THORA.md5
 !new/Jin-Roh_The_Wolf_Brigade_(2000)_[1080p,BluRay,x264]_-_THORA.mkv
 !new/Jin-Roh_The_Wolf_Brigade_(2000)_[1080p,BluRay,x264]_-_THORA.nfo
+!new/Kid the Phantom Thief (Magic Kaito) - 06 [DCTP][720p][B537DB71].mp4
 !new/Kigurumikku V3/[HorribleSubs] Kigurumikku - 01 [480p].mkv
 !new/Kigurumikku V3/[HorribleSubs] Kigurumikku - 02 [480p].mkv
 !new/Kigurumikku V3/[KusoSubs] Kigurumikku - 03 [WebRip].mkv
@@ -758,10 +759,6 @@
 !new/[CoalGuys] Toradora! - OVA [1B6B6AC1].mkv
 !new/[Coalgirls]_Infinite_Stratos_OVA-NCED_(1280x720_Blu-Ray_FLAC)_[C55FC097].mkv
 !new/[Coalgirls]_Infinite_Stratos_OVA_(1280x720_Blu-Ray_FLAC)_[3D0F7CB7].mkv
-!new/[Commie] Chihayafuru - 12 [00C23DF2].mkv
-!new/[Commie] Fate ⁄ Zero - 13 [E2464C40].mkv
-!new/[Commie] Guilty Crown - 11 [8C27E959].mkv
-!new/[Commie] Persona 4 - 12 [49083C60].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.43.[1280x720].[1866FC55].v2.mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1280x720].[6BC22CBA].v2.mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1920x1080].[257C55D8].mkv
@@ -771,15 +768,9 @@
 !new/[Doutei] KissDum - 03 [720p][3af456db].mkv
 !new/[Doutei] KissDum - 3.5 [720p][a59ab4f1].mkv
 !new/[Hiryuu] Maji de Watashi ni Koi Shinasai!! 12 [Hi10P 1280x720 H264] [5661D1D5].mkv
-!new/[HorribleSubs] Cardfight!! Vanguard - 50 [720p].mkv
-!new/[HorribleSubs] Fairy Tail - 111 [720p].mkv
-!new/[HorribleSubs] Naruto Shippuuden - 241 [720p].mkv
-!new/[HorribleSubs] SKET Dance - 38 [720p].mkv
-!new/[HorribleSubs] UN-GO - 11 [720p].mkv
 !new/[KindaHorribleSubs] Beelzebub - 42 [720p].mkv
 !new/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream Special - 01 [H264 704x400] [C0FA7491].mkv
 !new/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream Special - 02 [H264 704x400] [780A1B35].mkv
-!new/[Licca] Porphy no Nagai Tabi Episode 11 (h.264-Hi10P) [4C317A7B].mkv
 !new/[Live-eviL]_Captain_Harlock_SSX_(TV)_-_13_[95035CA9].mkv
 !new/[Live-eviL]_Captain_Harlock_SSX_(TV)_-_14_[CC7142FA].mkv
 !new/[Live-eviL]_Captain_Harlock_SSX_(TV)_-_15_[4181FC23].mkv
@@ -788,17 +779,17 @@
 !new/[Live-eviL]_Future_Boy_Conan_03_[BD-h264-10bit-1080p]_[8934984b].mkv
 !new/[Live-eviL]_Future_Boy_Conan_04_[BD-h264-10bit-1080p]_[f2fd031e].mkv
 !new/[Live-eviL]_Mahou_no_Star_Magical_Emi_05_[h264&MP3]_[4020b345].mkv
-!new/[Mazui]_Boku_Ha_Tomodachi_Ga_Sukunai_-_12_[8E1BF68D].mkv
 !new/[Nipponsei] Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shira nai. Original Soundtrack.zip
 !new/[Nipponsei] Final Fantasy XIII-2 Original Soundtrack.zip
 !new/[Nipponsei] Last Exile Ginyoku no Fam Original Soundtrack.zip
 !new/[Nipponsei] Mashiroiro Symphony Character Song Vol.2 - Amaha Miu & Sena Airi & Angelina Nanatsu Sewell.zip
 !new/[Nipponsei] Mawaru Penguindrum Character Song Album - HHH.zip
 !new/[OS] To Aru Kagaku No Railgun Chapter 45.rar
-!new/[Oyatsu] Mashiro Iro Symphony - 12 END (1280x720 x264 AAC) [1032CC4D].mkv
+!new/[PM]Pocket_Monsters_OVA_1_-_Pikachu's_Winter_Vacation[H264 DVDSUB][CDC187D3].mkv
 !new/[ReDone] Lime-Colored War Tales OVA - 01 (DVD) [E0D38798].mkv
 !new/[ReDone] Rizelmine - 14 (DVD) [606DBCCD].mkv
 !new/[ReinForce] Seto no Hanayome - NCED_1.mkv
+!new/[SHiN-gx] Morita-san wa Mukuchi 2 - 12 [720p][2BBD2377].mkv
 !new/[Shin-S] Mashiro-iro Symphony Character Palette Vol.2 - Miu, Sana & Angelina [Various].zip
 !new/[Shin-S] Shinryaku! Ika Musume S2 Character Song Single - Nagatsuki Sanae [Itou Kanae].zip
 !new/[SubDESU]_Manyuu_Hikenchou_-_07_(1920x1080_x264_FLAC)_[EA1AD48A].mkv
@@ -811,21 +802,8 @@
 !new/[SubDESU]_Manyuu_Hikenchou_Special_03v2_(BD_1080p_x264_FLAC)_[DB36B0B9].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_Special_04_(BD_1080p_x264_FLAC)_[5C4125B2].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_Special_04v2_(BD_1080p_x264_FLAC)_[F7F9608C].mkv
-!new/[UTW]_C3_Cube_x_Cursed_x_Curious_-_12_[h264-720p][6B2F1A7A].mkv
-!new/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 10 [DVD H264 Hi10P 640x480] [9AAF9AC1].mkv
-!new/[WhyNot] Uta no Prince-sama Maji Love 1000% - 01 [DE8BF57C].mkv
-!new/[WhyNot] Uta no Prince-sama Maji Love 1000% - 02 [756EAC49].mkv
-!new/[WhyNot] Uta no Prince-sama Maji Love 1000% - 03 [DD16E27A].mkv
-!new/[WhyNot] Uta no Prince-sama Maji Love 1000% - 04 [7DB14C96].mkv
-!new/[WhyNot] Uta no Prince-sama Maji Love 1000% - 05 [6173F00B].mkv
-!new/[WhyNot] Uta no Prince-sama Maji Love 1000% - 06 [CA762DF5].mkv
-!new/[WhyNot] Uta no Prince-sama Maji Love 1000% - 07 [B8C8BCBB].mkv
-!new/[WhyNot] Uta no Prince-sama Maji Love 1000% - 08 [4CA02D1B].mkv
-!new/[WhyNot] Uta no Prince-sama Maji Love 1000% - 09 [25552B51].mkv
-!new/[WhyNot] Uta no Prince-sama Maji Love 1000% - 10 [75865DE5].mkv
-!new/[WhyNot] Uta no Prince-sama Maji Love 1000% - 11 [2EC9B133].mkv
-!new/[WhyNot] Uta no Prince-sama Maji Love 1000% - 12 [BD3D0886].mkv
-!new/[WhyNot] Uta no Prince-sama Maji Love 1000% - 13 [38BF4668].mkv
+!new/[UTW] C3 - Cube x Cursed x Curious - 12 [720p][6B2F1A7A].mkv
+!new/[UTW] Fate-Zero - 13 [720p][9538170C].mkv
 !new/[WildBunch]_Digimon_Xros_Wars_II_-_12_(1280x720_x264_AAC)_[84189F1E].mkv
 !new/[gg]_Sengoku_Basara_The_Last_Party_[1080p][FC6BEE44].mkv
 !new/[gg]​_Mawaru​_Penguindrum​_-​_24​_[E51B0C58].mkv
