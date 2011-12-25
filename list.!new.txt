@@ -752,10 +752,15 @@
 !new/[ASL]_Various_Artists_-_Mashiro-iro_Symphony_Character_Songs_-_Character_Palette_Vol.2_[FLAC].rar
 !new/[ASL]_Various_Artists_-_Suiheisen_Made_Nan_Mile_Sound_Track_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Yuruyuri_Tokuten_Special-Sound_CD_vol.4_[FLAC]_[w_Scans].rar
+!new/[Ayako-Himatsubushi] Seitokai Yakuindomo OVA - 02 [DVD][480p][84FDC487].mkv
+!new/[CMS] Senjou no Valkyria 3 - 02v0 [720p-AAC][83E8FDD6].mkv
 !new/[CoalGuys] Toradora! - OVA [1B6B6AC1].mkv
 !new/[Coalgirls]_Infinite_Stratos_OVA-NCED_(1280x720_Blu-Ray_FLAC)_[C55FC097].mkv
 !new/[Coalgirls]_Infinite_Stratos_OVA_(1280x720_Blu-Ray_FLAC)_[3D0F7CB7].mkv
+!new/[Commie] Chihayafuru - 12 [00C23DF2].mkv
+!new/[Commie] Fate ⁄ Zero - 13 [E2464C40].mkv
 !new/[Commie] Guilty Crown - 11 [8C27E959].mkv
+!new/[Commie] Persona 4 - 12 [49083C60].mkv
 !new/[Doremi-CureCom].Suite.PreCure!.43.[1280x720].[1866FC55].v2.mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1280x720].[6BC22CBA].v2.mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1920x1080].[257C55D8].mkv
@@ -764,6 +769,8 @@
 !new/[Doutei] KissDum - 02 [720p][aba7952c].mkv
 !new/[Doutei] KissDum - 03 [720p][3af456db].mkv
 !new/[Doutei] KissDum - 3.5 [720p][a59ab4f1].mkv
+!new/[HorribleSubs] Cardfight!! Vanguard - 50 [720p].mkv
+!new/[HorribleSubs] Fairy Tail - 111 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 241 [720p].mkv
 !new/[HorribleSubs] SKET Dance - 38 [720p].mkv
 !new/[HorribleSubs] UN-GO - 11 [720p].mkv
@@ -786,7 +793,9 @@
 !new/[Nipponsei] Mashiroiro Symphony Character Song Vol.2 - Amaha Miu & Sena Airi & Angelina Nanatsu Sewell.zip
 !new/[Nipponsei] Mawaru Penguindrum Character Song Album - HHH.zip
 !new/[OS] To Aru Kagaku No Railgun Chapter 45.rar
+!new/[Oyatsu] Mashiro Iro Symphony - 12 END (1280x720 x264 AAC) [1032CC4D].mkv
 !new/[ReDone] Lime-Colored War Tales OVA - 01 (DVD) [E0D38798].mkv
+!new/[ReDone] Rizelmine - 14 (DVD) [606DBCCD].mkv
 !new/[ReinForce] Seto no Hanayome - NCED_1.mkv
 !new/[Shin-S] Mashiro-iro Symphony Character Palette Vol.2 - Miu, Sana & Angelina [Various].zip
 !new/[Shin-S] Shinryaku! Ika Musume S2 Character Song Single - Nagatsuki Sanae [Itou Kanae].zip
@@ -801,6 +810,7 @@
 !new/[SubDESU]_Manyuu_Hikenchou_Special_04_(BD_1080p_x264_FLAC)_[5C4125B2].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_Special_04v2_(BD_1080p_x264_FLAC)_[F7F9608C].mkv
 !new/[UTW]_C3_Cube_x_Cursed_x_Curious_-_12_[h264-720p][6B2F1A7A].mkv
+!new/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 10 [DVD H264 Hi10P 640x480] [9AAF9AC1].mkv
 !new/[WhyNot] Uta no Prince-sama Maji Love 1000% - 01 [DE8BF57C].mkv
 !new/[WhyNot] Uta no Prince-sama Maji Love 1000% - 02 [756EAC49].mkv
 !new/[WhyNot] Uta no Prince-sama Maji Love 1000% - 03 [DD16E27A].mkv
@@ -815,6 +825,7 @@
 !new/[WhyNot] Uta no Prince-sama Maji Love 1000% - 12 [BD3D0886].mkv
 !new/[WhyNot] Uta no Prince-sama Maji Love 1000% - 13 [38BF4668].mkv
 !new/[WildBunch]_Digimon_Xros_Wars_II_-_12_(1280x720_x264_AAC)_[84189F1E].mkv
+!new/[gg]_Sengoku_Basara_The_Last_Party_[1080p][FC6BEE44].mkv
 !new/[gg]​_Mawaru​_Penguindrum​_-​_24​_[E51B0C58].mkv
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_01v3[35]_-_Space-Time_Destruction_[624x480][DVD][ILA][8D03A921].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_02v3[35]_-_Lonely_Wolf_[624x480][DVD][ILA][59B986D2].ogm
