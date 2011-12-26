@@ -5,6 +5,7 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - 445 [DCTP][AE8FDC0E].avi
 !new/Detective Conan - 641 [DCTP][720p][F29BB203].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
@@ -754,10 +755,12 @@
 !new/[ASL]_Various_Artists_-_Princess_Witches_Original_sound_Tracks_[FLAC].rar
 !new/[ASL]_nano.RIPE_-_Hoshi_no_Yoru_no_Myaku_no_Oto_no_[FLAC]_[w_Scans].rar
 !new/[Ayako-Himatsubushi] Seitokai Yakuindomo OVA - 02 [DVD][480p][84FDC487].mkv
+!new/[Ayako]_Jewelpet_Sunshine_-_15v0_[H264][720p][969D6842].mkv
 !new/[CMS] Senjou no Valkyria 3 - 02v0 [720p-AAC][83E8FDD6].mkv
 !new/[CoalGuys] Toradora! - OVA [1B6B6AC1].mkv
 !new/[Coalgirls]_Infinite_Stratos_OVA-NCED_(1280x720_Blu-Ray_FLAC)_[C55FC097].mkv
 !new/[Coalgirls]_Infinite_Stratos_OVA_(1280x720_Blu-Ray_FLAC)_[3D0F7CB7].mkv
+!new/[Commie] Last Exile ~Fam, The Silver Wing~ - 11 [BF853045].mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1280x720].[6BC22CBA].v2.mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1920x1080].[257C55D8].mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Tokyo.2011.[1920x1080].[1D26A2EB].mkv
@@ -788,6 +791,7 @@
 !new/[ReDone] Rizelmine - 14 (DVD) [606DBCCD].mkv
 !new/[ReinForce] Seto no Hanayome - NCED_1.mkv
 !new/[SHiN-gx] Morita-san wa Mukuchi 2 - 12 [720p][2BBD2377].mkv
+!new/[SS-Eclipse] Shakugan no Shana Final - 12 (1280x720 Hi10P) [9D2F5C7B].mkv
 !new/[Shin-S] Mashiro-iro Symphony Character Palette Vol.2 - Miu, Sana & Angelina [Various].zip
 !new/[Shin-S] Shinryaku! Ika Musume S2 Character Song Single - Nagatsuki Sanae [Itou Kanae].zip
 !new/[SubDESU]_Manyuu_Hikenchou_05_(BD_1080p_x264_FLAC)_[1EC3B677].mkv
