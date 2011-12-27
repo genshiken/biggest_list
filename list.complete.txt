@@ -8333,6 +8333,8 @@ complete/i/Infinite Ryvius/[cor] Infinite Ryvius - Opening 4 (Clean) [B67C4C5D].
 complete/i/Infinite Ryvius/[cor] Infinite Ryvius - Opening 5 (Clean) [42221716].mkv
 complete/i/Infinite Ryvius/[cor] Infinite Ryvius - Opening 6 (Clean) [86B9B670].mkv
 complete/i/Infinite Ryvius/[cor] Infinite Ryvius - Opening 7 (Clean) [0D26A832].mkv
+complete/i/Infinite Stratos OVA/[Coalgirls] Infinite Stratos OVA - Ending (Clean) [720p BD][C55FC097].mkv
+complete/i/Infinite Stratos OVA/[Coalgirls] Infinite Stratos OVA [720p BD][3D0F7CB7].mkv
 complete/i/Infinite Stratos/[ANE] Infinite Stratos - 01 [1080p BD][E0E7CC5C].mkv
 complete/i/Infinite Stratos/[ANE] Infinite Stratos - 02 [1080p BD][96F8FE98].mkv
 complete/i/Infinite Stratos/[ANE] Infinite Stratos - 03 [1080p BD][15F3013E].mkv
@@ -11068,7 +11070,6 @@ complete/l/Lovedol - Lovely Idol/[WinD] Lovedol ~Lovely Idol~ - 09 [D9548693].mk
 complete/l/Lovedol - Lovely Idol/[WinD] Lovedol ~Lovely Idol~ - 10 [0D06CD0D].mkv
 complete/l/Lovedol - Lovely Idol/[WinD] Lovedol ~Lovely Idol~ - 11 [FC1F5151].mkv
 complete/l/Lovedol - Lovely Idol/[WinD] Lovedol ~Lovely Idol~ - 12 [End][F7A18CDB].mkv
-complete/l/Lovely Complex/[KissSub] Lovely Complex - 11 [AC0E100B].avi
 complete/l/Lovely Complex/[KissSub] Lovely Complex - 12 [5FA1BB54].avi
 complete/l/Lovely Complex/[KissSub] Lovely Complex - 13 [4E63182A].avi
 complete/l/Lovely Complex/[KissSub] Lovely Complex - 14 [EF5DE95A].avi
@@ -11092,6 +11093,7 @@ complete/l/Lovely Complex/[KiteSeekers-Kira] Lovely Complex - 07 [DVD][2404C986]
 complete/l/Lovely Complex/[KiteSeekers-Kira] Lovely Complex - 08 [DVD][29460100].mkv
 complete/l/Lovely Complex/[KiteSeekers-Kira] Lovely Complex - 09 [DVD][075EC755].mkv
 complete/l/Lovely Complex/[KiteSeekers-Kira] Lovely Complex - 10 [DVD][B320F309].mkv
+complete/l/Lovely Complex/[KiteSeekers-Kira] Lovely Complex - 11 [DVD][414F2BB7].mkv
 complete/l/Lucky Star - OVA/[EnA] Lucky Star - OVA [DVD][5F74AE07].mkv
 complete/l/Lucky Star/[Exiled-Destiny] Lucky Star - 01 [4A25C979].mkv
 complete/l/Lucky Star/[Exiled-Destiny] Lucky Star - 02 [26DAE191].mkv
@@ -12344,7 +12346,7 @@ complete/m/Manyuu Hikenchou/[SubDesu] Manyuu Hikenchou - 01 [1080p BD][456BEF1E]
 complete/m/Manyuu Hikenchou/[SubDesu] Manyuu Hikenchou - 02 [1080p BD][A275EFD9].mkv
 complete/m/Manyuu Hikenchou/[SubDesu] Manyuu Hikenchou - 03 [1080p BD][03B4C817].mkv
 complete/m/Manyuu Hikenchou/[SubDesu] Manyuu Hikenchou - 04 [1080p BD][584855CC].mkv
-complete/m/Manyuu Hikenchou/[SubDesu] Manyuu Hikenchou - 05 [Uncut][720p][233A67DC].mkv
+complete/m/Manyuu Hikenchou/[SubDesu] Manyuu Hikenchou - 05 [1080p BD][1EC3B677].mkv
 complete/m/Manyuu Hikenchou/[SubDesu] Manyuu Hikenchou - 06 [1080p BD][F6B8CB40].mkv
 complete/m/Manyuu Hikenchou/[SubDesu] Manyuu Hikenchou - 07 [1080p BD][EA1AD48A].mkv
 complete/m/Manyuu Hikenchou/[SubDesu] Manyuu Hikenchou - 08 [1080p BD][A33C29A3].mkv
@@ -15673,10 +15675,10 @@ complete/r/Rizelmine/[ReDone] Rizelmine - 10 [DVD][F1000194].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 11 [DVD][07564CE3].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 12 [DVD][5A60F7F2].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 13 [DVD][6F24ABCA].mkv
+complete/r/Rizelmine/[ReDone] Rizelmine - 14 [DVD][606DBCCD].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - Ending 1 [DVD][59C1FE24].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - Ending 2 [DVD][C89C1581].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - Opening [DVD][3AC69E00].mkv
-complete/r/Rizelmine/[h-b] Rizelmine - 14 [BDAE5588].avi
 complete/r/Rizelmine/[h-b] Rizelmine - 15 [10347B2F].avi
 complete/r/Rizelmine/[h-b] Rizelmine - 16 [F9EDDBF2].avi
 complete/r/Rizelmine/[h-b] Rizelmine - 17 [938E0129].avi
@@ -17009,6 +17011,7 @@ complete/s/Seto no Hanayome OVA/[Seto Otaku] Seto no Hanayome OVA - 1 [v2][DVD][
 complete/s/Seto no Hanayome OVA/[Seto Otaku] Seto no Hanayome OVA - 2 [End][DVD][38603DCD].mkv
 complete/s/Seto no Hanayome OVA/[Seto Otaku] Seto no Hanayome OVA - Ending (Clean) [DVD][A85BA652].mp4
 complete/s/Seto no Hanayome OVA/[Seto Otaku] Seto no Hanayome OVA - Ending 2 (Clean) [DVD][F12D298A].mp4
+complete/s/Seto no Hanayome/[ReinForce] Seto no Hanayome - Ending 1 (Clean) [CF2EB42B].mkv
 complete/s/Seto no Hanayome/[Seto Otaku] Seto no Hanayome - 04 [720p][BD][662EEE8C].mkv
 complete/s/Seto no Hanayome/[Yabai] Seto no Hanayome - 01 [v2 DVD][E3DA8881].mkv
 complete/s/Seto no Hanayome/[Yabai] Seto no Hanayome - 02 [DVD][0C95E439].mkv
@@ -20287,7 +20290,7 @@ complete/u/UN-GO/[Commie] UN-GO - 07 [17C817D0].mkv
 complete/u/UN-GO/[Commie] UN-GO - 08 [156BE415].mkv
 complete/u/UN-GO/[Commie] UN-GO - 09 [A118633E].mkv
 complete/u/UN-GO/[Commie] UN-GO - 10 [D34808C1].mkv
-complete/u/UN-GO/[HorribleSubs] UN-GO - 11 [End][720p][5DC187FA].mkv
+complete/u/UN-GO/[Commie] UN-GO - 11 [End][287891DE].mkv
 complete/u/Ultraviolet Code 044/Ultraviolet Code 044 - 01 [RMN-KSN][720p][0A102021].mp4
 complete/u/Ultraviolet Code 044/Ultraviolet Code 044 - 02 [RMN-KSN][720p][D41C9BE8].mp4
 complete/u/Ultraviolet Code 044/Ultraviolet Code 044 - 03 [RMN-KSN][720p][EA5A471F].mp4
@@ -20355,7 +20358,7 @@ complete/u/Umisho/[Ayu] Umisho - 12 [6AF5C7DD].mkv
 complete/u/Umisho/[Ayu] Umisho - 13 [End][9257F2C5].mkv
 complete/u/Usagi Drop/[Commie] Usagi Drop - 01 [654EB35F].mkv
 complete/u/Usagi Drop/[Commie] Usagi Drop - 02 [C929F4A4].mkv
-complete/u/Usagi Drop/[Commie] Usagi Drop - 02.5 [BD 720p][81B18F97].mkv
+complete/u/Usagi Drop/[Commie] Usagi Drop - 02.5 [720p BD][81B18F97].mkv
 complete/u/Usagi Drop/[Commie] Usagi Drop - 03 [C2C6D8D4].mkv
 complete/u/Usagi Drop/[Commie] Usagi Drop - 04 [A8083F5D].mkv
 complete/u/Usagi Drop/[Commie] Usagi Drop - 05 [CA9B8995].mkv
@@ -20365,6 +20368,7 @@ complete/u/Usagi Drop/[Commie] Usagi Drop - 08 [537294BA].mkv
 complete/u/Usagi Drop/[Commie] Usagi Drop - 09 [1B7E4943].mkv
 complete/u/Usagi Drop/[Commie] Usagi Drop - 10 [1C64D9DF].mkv
 complete/u/Usagi Drop/[Commie] Usagi Drop - 11 [End][CB268AB7].mkv
+complete/u/Usagi Drop/[Oyatsu] Usagi Drop - 06.5 [1080p BD][741610CB].mkv
 complete/u/Usagichan de Cue!/[C1] Usagi-chan de Cue! - 1 [1C006987].mkv
 complete/u/Usagichan de Cue!/[C1] Usagi-chan de Cue! - 2 [8703E0FE].mkv
 complete/u/Usagichan de Cue!/[C1] Usagi-chan de Cue! - 3 [End][D47CEB12].mkv

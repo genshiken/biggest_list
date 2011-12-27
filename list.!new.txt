@@ -5,9 +5,6 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
-!new/Credits.txt
-!new/Detective Conan - 445 [DCTP][AE8FDC0E].avi
-!new/Detective Conan - 641 [DCTP][720p][F29BB203].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -102,18 +99,9 @@
 !new/HnK etc/[HnG] Shin Kyuseishu Densetsu Hokuto no Ken Raoh Den - Gekito no Sho (DVD) [E7BDC007].mkv
 !new/HnK etc/[HnG] Shin Kyuseishu Densetsu Hokuto no Ken Yuria Den (DVD) [CB900818].mkv
 !new/HnK etc/[HnG] Shin Kyuseishu Densetsu Hokuto no Ken ZERO Kenshiro Den (DVD_x264_AC3).mkv
-!new/Howl's_Moving_Castle_(2004)_[1080p,BluRay,flac,dts,x264]_-_THORA v2.md5
-!new/Howl's_Moving_Castle_(2004)_[1080p,BluRay,flac,dts,x264]_-_THORA v2.mkv
-!new/Howl's_Moving_Castle_(2004)_[1080p,BluRay,flac,dts,x264]_-_THORA v2.nfo
-!new/Infinite Stratos OVA/[Coalgirls] Infinite Stratos OVA [720p BD][3D0F7CB7].mkv
-!new/Infinite Stratos OVA/[Coalgirls] Infinite Stratos OVA-NCED [720p BD][C55FC097].mkv
-!new/Jin-Roh_The_Wolf_Brigade_(2000)_[1080p,BluRay,x264]_-_THORA.md5
-!new/Jin-Roh_The_Wolf_Brigade_(2000)_[1080p,BluRay,x264]_-_THORA.mkv
-!new/Jin-Roh_The_Wolf_Brigade_(2000)_[1080p,BluRay,x264]_-_THORA.nfo
 !new/Kigurumikku V3/[HorribleSubs] Kigurumikku - 01 [480p].mkv
 !new/Kigurumikku V3/[HorribleSubs] Kigurumikku - 02 [480p].mkv
 !new/Kigurumikku V3/[KusoSubs] Kigurumikku - 03 [WebRip].mkv
-!new/Mahou Sensei Negima_345_RHS.zip
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 01 KTCR-9010/1. kanashimi yo konnichiwa (Saitou Yuki)  [OP]  (Hello! Sadness).mp3
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 01 KTCR-9010/10. ame yadori  (Take shelter from rain).mp3
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 01 KTCR-9010/11. ame yadori sono 2.mp3
@@ -381,7 +369,6 @@
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/List.txt
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/disc_8.jpg
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/mibox_cover.gif
-!new/Mobile_Suit_Gundam_Unicorn_Ep4_At_the_Bottom_of_the_Gravity_Well_[720p,BluRay,x264,DTS]_-_THORA.mkv
 !new/Mujin Wakusei Survive/[Raws-4U] Mujin Wakusei Survive - 01 HD (BS-hi 1024x768 H264 AAC).ass
 !new/Mujin Wakusei Survive/[Raws-4U] Mujin Wakusei Survive - 01 HD (BS-hi 1024x768 H264 AAC).mp4
 !new/Mujin Wakusei Survive/[Raws-4U] Mujin Wakusei Survive - 02 HD (BS-hi 1024x768 H264 AAC).ass
@@ -753,44 +740,9 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[Ayako-Himatsubushi] Seitokai Yakuindomo OVA - 02 [DVD][480p][84FDC487].mkv
-!new/[Ayako]_Jewelpet_Sunshine_-_15v0_[H264][720p][969D6842].mkv
 !new/[CMS] Senjou no Valkyria 3 - 02v0 [720p-AAC][83E8FDD6].mkv
-!new/[Commie] Last Exile ~Fam, The Silver Wing~ - 11 [BF853045].mkv
-!new/[Commie] Shakugan no Shana III - 12 [A2FF8F2F].mkv
-!new/[Commie] UN-GO - 11 [287891DE].mkv
-!new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1280x720].[6BC22CBA].v2.mkv
-!new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1920x1080].[257C55D8].mkv
-!new/[Doremi].Hatsune.Miku.Live.Party.in.Tokyo.2011.[1920x1080].[1D26A2EB].mkv
-!new/[Doremi].Ojamajo.Doremi.Dokkaan!.10.[F6F24808].avi
-!new/[Doutei] KissDum - 02 [720p][aba7952c].mkv
-!new/[Doutei] KissDum - 03 [720p][3af456db].mkv
-!new/[Doutei] KissDum - 3.5 [720p][a59ab4f1].mkv
-!new/[HorribleSubs] Beelzebub - 48 [720p].mkv
-!new/[HorribleSubs] Gintama - 240 [720p].mkv
-!new/[HorribleSubs] Hunter X Hunter - 13 [720p].mkv
-!new/[HorribleSubs] Kimi to Boku - 13 [720p].mkv
-!new/[HorribleSubs] Shinryaku Ika Musume S2 - 12 [720p].mkv
-!new/[HorribleSubs] Working!! - 13 [720p].mkv
 !new/[KindaHorribleSubs] Beelzebub - 42 [720p].mkv
-!new/[KiteSeekers-Kira] Lovely Complex - 11 [DVD H264 720x480] [414F2BB7].mkv
-!new/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream Special - 01 [H264 704x400] [C0FA7491].mkv
-!new/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream Special - 02 [H264 704x400] [780A1B35].mkv
-!new/[Live-eviL]_Captain_Harlock_SSX_(TV)_-_13_[95035CA9].mkv
-!new/[Live-eviL]_Captain_Harlock_SSX_(TV)_-_14_[CC7142FA].mkv
-!new/[Live-eviL]_Captain_Harlock_SSX_(TV)_-_15_[4181FC23].mkv
-!new/[Live-eviL]_Future_Boy_Conan_01_[BD-h264-10bit-1080p]_[6cb576da].mkv
-!new/[Live-eviL]_Future_Boy_Conan_02_[BD-h264-10bit-1080p]_[bc991e84].mkv
-!new/[Live-eviL]_Future_Boy_Conan_03_[BD-h264-10bit-1080p]_[8934984b].mkv
-!new/[Live-eviL]_Future_Boy_Conan_04_[BD-h264-10bit-1080p]_[f2fd031e].mkv
-!new/[Live-eviL]_Mahou_no_Star_Magical_Emi_05_[h264&MP3]_[4020b345].mkv
-!new/[OS] To Aru Kagaku No Railgun Chapter 45.rar
-!new/[Oyatsu] Usagi Drop 6.5 (1920x1080 BD AAC) [741610CB].mkv
 !new/[PM]Pocket_Monsters_OVA_1_-_Pikachu's_Winter_Vacation[H264 DVDSUB][CDC187D3].mkv
-!new/[ReDone] Lime-Colored War Tales OVA - 01 (DVD) [E0D38798].mkv
-!new/[ReDone] Rizelmine - 14 (DVD) [606DBCCD].mkv
-!new/[ReinForce] Seto no Hanayome - NCED_1.mkv
-!new/[SHiN-gx] Morita-san wa Mukuchi 2 - 12 [720p][2BBD2377].mkv
 !new/[SMC] Sailor Moon SuperS 144 (R2 DVD.H264.AC3) [3E0E14A5].mkv
 !new/[SMC] Sailor Moon SuperS 145 (R2 DVD.H264.AC3) [DCE67B0F].mkv
 !new/[SMC] Sailor Moon SuperS 146 (R2 DVD.H264.AC3) [57DDA402].mkv
@@ -798,14 +750,6 @@
 !new/[SMC] Sailor Moon SuperS 148 (R2 DVD.H264.AC3) [D74641A3].mkv
 !new/[SMC] Sailor Moon SuperS 149 (R2 DVD.H264.AC3) [A60BFAE4].mkv
 !new/[SMC] Sailor Moon SuperS Opening 1 With Credits (R2 DVD.H264.AC3) [6BFF6BD5].mkv
-!new/[Shin-S] Mashiro-iro Symphony Character Palette Vol.2 - Miu, Sana & Angelina [Various].zip
-!new/[Shin-S] Shinryaku! Ika Musume S2 Character Song Single - Nagatsuki Sanae [Itou Kanae].zip
-!new/[SubDESU]_Manyuu_Hikenchou_05_(BD_1080p_x264_FLAC)_[1EC3B677].mkv
-!new/[SubDESU]_Manyuu_Hikenchou_Special_-_05_(1920x1080_x264_FLAC)_[0D8748C3].mkv
-!new/[SubDESU]_Manyuu_Hikenchou_Special_-_06_(1920x1080_x264_FLAC)_[0A2787AB].mkv
-!new/[gg]_Sengoku_Basara_The_Last_Party_[1080p][FC6BEE44].mkv
-!new/[wpp]rockman_exe_axess_-_38_[953D4EE2].mkv
-!new/[wpp]rockman_exe_axess_-_39_[02404922].mkv
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_01v3[35]_-_Space-Time_Destruction_[624x480][DVD][ILA][8D03A921].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_02v3[35]_-_Lonely_Wolf_[624x480][DVD][ILA][59B986D2].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_03v3[35]_-_Pretty_Machine_[624x480][DVD][ILA][9BD697F9].ogm
@@ -1370,6 +1314,8 @@
 !new/hdp2/[T-N] Kamen Rider Blade Movie DC [5AB2B2DA] Release 2000.avi
 !new/hdp2/[T-N] Kamen Rider Blade vs blade [56183A18].avi
 !new/hdp2/[T-N]Kamen_Rider_Blade_01DVDver2[C40869EC].avi
+!new/hs/[HorribleSubs] Hunter x Hunter (2011) - 13 [720p][B6EB3CF7].mkv
+!new/hs/[HorribleSubs] Shinryaku Ika Musume S2 - 12 [720p][A059CA71].mkv
 !new/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/lama/[Ayako] Wei� Survive R - 01 - H264 - E975A989.mkv
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi

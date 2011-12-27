@@ -96,7 +96,7 @@ movie/HeartCatch Movie/[Doremi] HeartCatch Movie [DVD][1FAFA9BF].mkv
 movie/Hoshi no Koe - Voices of a Distant Star/[niizk] Hoshi no Koe - Voices of a Distant Star [54929BA5].mkv
 movie/Hoshi no Koe/[KAA] Hoshi no Koe [3E86A406].mkv
 movie/Hoshi o Ou Kodomo/[BSS] Hoshi o Ou Kodomo [1080p][9B65AF05].mkv
-movie/Howl's Moving Castle (2004)/[Thora] Howl's Moving Castle (2004) [1080p BD][55834227].mkv
+movie/Howl's Moving Castle (2004)/[Thora] Howl's Moving Castle (2004) [v2 1080p BD][4DEB2B80].mkv
 movie/Ice the Movie/[HQR] Ice the Movie [DVD][20869DF2].mkv
 movie/Inazuma Eleven the Movie - Saikyou Gundan Ogre Shuurai/[RyRo] Inazuma Eleven the Movie - Saikyou Gundan Ogre Shuurai [720p BD][747AB3D0].mkv
 movie/Initial D 3rd Stage/[Unknown] Initial D 3rd Stage [572D2FAC].avi
@@ -105,6 +105,7 @@ movie/Inuyasha/[BluDragon] Inuyasha - Movie 1 [DVD][56EF2069].mkv
 movie/Inuyasha/[BluDragon] Inuyasha - Movie 2 [DVD][5BE86486].mkv
 movie/Inuyasha/[BluDragon] Inuyasha - Movie 3 [DVD][729CFBDD].mkv
 movie/Inuyasha/[BluDragon] Inuyasha - Movie 4 [DVD][ED7FAAFB].mkv
+movie/Jin-Roh The Wolf Brigade (2000)/[Thora] Jin-Roh The Wolf Brigade (2000) [1080p BD][9845C08C].mkv
 movie/Jungle Emperor Leo - Special 2009 Yuuki ga Mirai wo Kaeru/[RyRo] Jungle Emperor Leo - Special 2009 Yuuki ga Mirai wo Kaeru [720p][ED7CFFA4].mkv
 movie/Junkers Come Here/[niizk] Junkers Come Here [DBAC403C].mkv
 movie/Kaiketsu Zorori/[Alopex] Kaiketsu Zorori [6C93DF0F].mkv
@@ -223,6 +224,7 @@ movie/Rockman.EXE Movie - Hikari to Yami no PROGRAM/[WPP] Rockman.EXE Movie - Hi
 movie/Rurouni Kenshin - Requiem For The Restoration Patriots/[Doutei] Rurouni Kenshin - Requiem For The Restoration Patriots [1080p BD][6690DCA9].mkv
 movie/Sailor Moon R The Movie/[SMC] Sailor Moon R - The Movie [DVD][68A6CC04].mkv
 movie/Sailor Moon SuperS The Movie/[SMC] Sailor Moon SuperS - The Movie [DVD][56FEEB41].mkv
+movie/Sengoku Basara The Last Party/[gg] Sengoku Basara The Last Party [1080p][FC6BEE44].mkv
 movie/Shakugan no Shana Movie/[Coalgirls] Shakugan no Shana Movie [720p BD][9D1DEEBC].mkv
 movie/Shakugan no Shana Movie/[SS-Eclipse] Shakugan no Shana Movie [35FADF8B].mkv
 movie/Slam Dunk/[-ANF-] Slam Dunk - Movie 3 [DVD][D20B56CA].mkv
