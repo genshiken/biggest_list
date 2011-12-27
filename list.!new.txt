@@ -5,6 +5,7 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Credits.txt
 !new/Detective Conan - 445 [DCTP][AE8FDC0E].avi
 !new/Detective Conan - 641 [DCTP][720p][F29BB203].mp4
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
@@ -667,6 +668,9 @@
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].avi
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].idx
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].sub
+!new/SuperS Back Cover Vol.4.jpg
+!new/SuperS DVD Cover Vol.4.jpg
+!new/SuperS Disc 4.jpg
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_01v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_02v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_03v2[divx5.1.1].mkv
@@ -749,10 +753,15 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
 !new/[ASL]_Horie_Yui_-_DOG_DAYS_Insert_Song_-_Promised_Love_~daisuki_x_100~_[FLAC].rar
 !new/[ASL]_Kitamura_Eri_-_REALIZE_[FLAC]_[w_Scans].rar
+!new/[ASL]_REMEDIOS_-_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_Original_Soundtrack_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Bakemonogatari_Complete_Music_Works_Songs_Soundtracks_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Denpa_Onna_to_Seishun_Otoko_Character_Song_Album_Vol.1_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Escu-de_vocal_collection_vol.1_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_GWAVE_2007_1st_Drivers_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Kyoukai_Senjou_no_Horizon_Special_CD_1_[FLAC].rar
+!new/[ASL]_Various_Artists_-_Mashiro_Summer_Vocal_Collection_[FLAC].rar
 !new/[ASL]_Various_Artists_-_Princess_Witches_Original_sound_Tracks_[FLAC].rar
+!new/[ASL]_Various_Artists_-_Taisetsu_na_Kimi_no_Tame_ni,_Boku_ni_Dekiru_Ichiban_no_Koto_OP-ED_[FLAC]_[w_Scans].rar
 !new/[ASL]_nano.RIPE_-_Hoshi_no_Yoru_no_Myaku_no_Oto_no_[FLAC]_[w_Scans].rar
 !new/[Ayako-Himatsubushi] Seitokai Yakuindomo OVA - 02 [DVD][480p][84FDC487].mkv
 !new/[Ayako]_Jewelpet_Sunshine_-_15v0_[H264][720p][969D6842].mkv
@@ -761,6 +770,8 @@
 !new/[Coalgirls]_Infinite_Stratos_OVA-NCED_(1280x720_Blu-Ray_FLAC)_[C55FC097].mkv
 !new/[Coalgirls]_Infinite_Stratos_OVA_(1280x720_Blu-Ray_FLAC)_[3D0F7CB7].mkv
 !new/[Commie] Last Exile ~Fam, The Silver Wing~ - 11 [BF853045].mkv
+!new/[Commie] Shakugan no Shana III - 12 [A2FF8F2F].mkv
+!new/[Commie] UN-GO - 11 [287891DE].mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1280x720].[6BC22CBA].v2.mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Sapporo.2011.[1920x1080].[257C55D8].mkv
 !new/[Doremi].Hatsune.Miku.Live.Party.in.Tokyo.2011.[1920x1080].[1D26A2EB].mkv
@@ -769,8 +780,12 @@
 !new/[Doutei] KissDum - 03 [720p][3af456db].mkv
 !new/[Doutei] KissDum - 3.5 [720p][a59ab4f1].mkv
 !new/[EveTaku] Ben-To - 12 END (1280x720 x264-Hi10P AAC)[4D024326].mkv
+!new/[GotSpeed]_Mirai_Nikki_-_12_[FB7FFF51].mkv
 !new/[HorribleSubs] Beelzebub - 48 [720p].mkv
+!new/[HorribleSubs] Gintama - 240 [720p].mkv
 !new/[HorribleSubs] Hunter X Hunter - 13 [720p].mkv
+!new/[HorribleSubs] Kimi to Boku - 13 [720p].mkv
+!new/[HorribleSubs] Shinryaku Ika Musume S2 - 12 [720p].mkv
 !new/[HorribleSubs] Working!! - 13 [720p].mkv
 !new/[KindaHorribleSubs] Beelzebub - 42 [720p].mkv
 !new/[KiteSeekers-Kira] Lovely Complex - 11 [DVD H264 720x480] [414F2BB7].mkv
@@ -785,18 +800,27 @@
 !new/[Live-eviL]_Future_Boy_Conan_04_[BD-h264-10bit-1080p]_[f2fd031e].mkv
 !new/[Live-eviL]_Mahou_no_Star_Magical_Emi_05_[h264&MP3]_[4020b345].mkv
 !new/[OS] To Aru Kagaku No Railgun Chapter 45.rar
+!new/[Over-Time]_Kamen_Rider_Fourze_-_16_[70200FF2].mkv
 !new/[Oyatsu] Usagi Drop 6.5 (1920x1080 BD AAC) [741610CB].mkv
 !new/[PM]Pocket_Monsters_OVA_1_-_Pikachu's_Winter_Vacation[H264 DVDSUB][CDC187D3].mkv
 !new/[ReDone] Lime-Colored War Tales OVA - 01 (DVD) [E0D38798].mkv
 !new/[ReDone] Rizelmine - 14 (DVD) [606DBCCD].mkv
 !new/[ReinForce] Seto no Hanayome - NCED_1.mkv
 !new/[SHiN-gx] Morita-san wa Mukuchi 2 - 12 [720p][2BBD2377].mkv
+!new/[SMC] Sailor Moon SuperS 144 (R2 DVD.H264.AC3) [3E0E14A5].mkv
+!new/[SMC] Sailor Moon SuperS 145 (R2 DVD.H264.AC3) [DCE67B0F].mkv
+!new/[SMC] Sailor Moon SuperS 146 (R2 DVD.H264.AC3) [57DDA402].mkv
+!new/[SMC] Sailor Moon SuperS 147 (R2 DVD.H264.AC3) [23F244CC].mkv
+!new/[SMC] Sailor Moon SuperS 148 (R2 DVD.H264.AC3) [D74641A3].mkv
+!new/[SMC] Sailor Moon SuperS 149 (R2 DVD.H264.AC3) [A60BFAE4].mkv
+!new/[SMC] Sailor Moon SuperS Opening 1 With Credits (R2 DVD.H264.AC3) [6BFF6BD5].mkv
 !new/[SS-Eclipse] Shakugan no Shana Final - 12 (1280x720 Hi10P) [9D2F5C7B].mkv
 !new/[Shin-S] Mashiro-iro Symphony Character Palette Vol.2 - Miu, Sana & Angelina [Various].zip
 !new/[Shin-S] Shinryaku! Ika Musume S2 Character Song Single - Nagatsuki Sanae [Itou Kanae].zip
 !new/[SubDESU]_Manyuu_Hikenchou_05_(BD_1080p_x264_FLAC)_[1EC3B677].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_Special_-_05_(1920x1080_x264_FLAC)_[0D8748C3].mkv
 !new/[SubDESU]_Manyuu_Hikenchou_Special_-_06_(1920x1080_x264_FLAC)_[0A2787AB].mkv
+!new/[gg]_Ben-to_-_12_[33993A13].mkv
 !new/[gg]_Sengoku_Basara_The_Last_Party_[1080p][FC6BEE44].mkv
 !new/[wpp]rockman_exe_axess_-_38_[953D4EE2].mkv
 !new/[wpp]rockman_exe_axess_-_39_[02404922].mkv
