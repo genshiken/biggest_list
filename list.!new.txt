@@ -657,9 +657,6 @@
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].avi
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].idx
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].sub
-!new/SuperS Back Cover Vol.4.jpg
-!new/SuperS DVD Cover Vol.4.jpg
-!new/SuperS Disc 4.jpg
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_01v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_02v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_03v2[divx5.1.1].mkv
@@ -740,16 +737,6 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[CMS] Senjou no Valkyria 3 - 02v0 [720p-AAC][83E8FDD6].mkv
-!new/[KindaHorribleSubs] Beelzebub - 42 [720p].mkv
-!new/[PM]Pocket_Monsters_OVA_1_-_Pikachu's_Winter_Vacation[H264 DVDSUB][CDC187D3].mkv
-!new/[SMC] Sailor Moon SuperS 144 (R2 DVD.H264.AC3) [3E0E14A5].mkv
-!new/[SMC] Sailor Moon SuperS 145 (R2 DVD.H264.AC3) [DCE67B0F].mkv
-!new/[SMC] Sailor Moon SuperS 146 (R2 DVD.H264.AC3) [57DDA402].mkv
-!new/[SMC] Sailor Moon SuperS 147 (R2 DVD.H264.AC3) [23F244CC].mkv
-!new/[SMC] Sailor Moon SuperS 148 (R2 DVD.H264.AC3) [D74641A3].mkv
-!new/[SMC] Sailor Moon SuperS 149 (R2 DVD.H264.AC3) [A60BFAE4].mkv
-!new/[SMC] Sailor Moon SuperS Opening 1 With Credits (R2 DVD.H264.AC3) [6BFF6BD5].mkv
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_01v3[35]_-_Space-Time_Destruction_[624x480][DVD][ILA][8D03A921].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_02v3[35]_-_Lonely_Wolf_[624x480][DVD][ILA][59B986D2].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_03v3[35]_-_Pretty_Machine_[624x480][DVD][ILA][9BD697F9].ogm
@@ -1551,8 +1538,6 @@
 !new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/b/[ANE] Honey & Clover 18.5 Chapter F [DVD].mkv
 !new/nuu/[ANE] Shinryaku! Ika Musume - Mini Squid Girl Short Stories [BDRip 720p x264 FLAC]/[ANE] Shinryaku! Ika Musume - Mini Squid Girl Short Story 1 [BDRip 720p x264 FLAC].mkv
 !new/nuu/[ANE] Shinryaku! Ika Musume - Mini Squid Girl Short Stories [BDRip 720p x264 FLAC]/[ANE] Shinryaku! Ika Musume - Mini Squid Girl Short Story 2 [BDRip 720p x264 FLAC].mkv
-!new/pt2/Byousoku 5cm [niizk]/One_more_time_One_more_chance [720p,BluRay,x264]_-_THORA.mkv
-!new/pt2/Byousoku 5cm [niizk]/[niizk] 5 Centimeters per Second [1080p BD][D40C09FA].mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス OVA 「青空が描きたい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 映像特典 「The たんかい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 第01話 「えがいてあそぼ」.mkv
@@ -1609,15 +1594,6 @@
 !new/raw/natsunoarashi/[SomeBody-Raws][DVD]_Natsu_No_Arashi_-_13_RAW_(704x480_x264_Vorbis).mkv
 !new/raw/natsunoarashi/[SomeBody-Raws][DVD]_Natsu_No_Arashi_-_Clear_ED_(704x480_x264_Vorbis).mkv
 !new/raw/natsunoarashi/[SomeBody-Raws][DVD]_Natsu_No_Arashi_-_Clear_OP_(704x480_x264_Vorbis).mkv
-!new/smss/[SMC] Sailor Moon SuperS - 132 [DVD][A8885B41].mkv
-!new/smss/[SMC] Sailor Moon SuperS - 133 [DVD][32B4A420].mkv
-!new/smss/[SMC] Sailor Moon SuperS - 134 [DVD][4F80D72C].mkv
-!new/smss/[SMC] Sailor Moon SuperS - 135 [DVD][78CB9312].mkv
-!new/smss/[SMC] Sailor Moon SuperS - 136 [DVD][12E08BF9].mkv
-!new/smss/[SMC] Sailor Moon SuperS - 137 [DVD][283248B2].mkv
-!new/smss/[SMC] Sailor Moon SuperS - Ending 1 (Clean) [0167CAD4].mkv
-!new/smss/[SMC] Sailor Moon SuperS - Ending 1 [20580B49].mkv
-!new/smss/[SMC] Sailor Moon SuperS - Opening 2 (Clean) [B99AB2D7].mkv
 !new/snq/[Doki] Seikon no Qwaser - 01v2 (1280x720 h264 BD FLAC) [E430A212].mkv
 !new/snq/[Doki] Seikon no Qwaser - 02 (1280x720 h264 BD FLAC) [3808D311].mkv
 !new/snq/[Doki] Seikon no Qwaser - 03 (1280x720 h264 BD FLAC) [919F7357].mkv
