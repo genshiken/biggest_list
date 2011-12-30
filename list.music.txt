@@ -398,6 +398,7 @@ music/ASL/[ASL]_Furuya_Shizuka_-_Nichijou_Character_Song_1_Shinonome Nano_-_Nano
 music/ASL/[ASL]_Gackt_-_SKET_DANCE_OP_-_Graffiti_[FLAC].rar
 music/ASL/[ASL]_Galileo_Galilei_-_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_OP_-_Aoi_Shiori_[FLAC].rar
 music/ASL/[ASL]_Goto_Saori_-_STEINS;GATE_Laboratory_Member_005_Kiryu_Moeka_[FLAC].rar
+music/ASL/[ASL]_Gotou_Yuko_-_Maji_de_Watashi_ni_Koi_Shinasai_2nd_Bonus_CD_-_Mayucchi_wo_Hitorijime_[FLAC].rar
 music/ASL/[ASL]_HIMEKA_-_himekanvas_[FLAC].rar
 music/ASL/[ASL]_HO-KAGO_TEA_TIME_-_K-On_Movie_ED_-_Singing_[FLAC].rar
 music/ASL/[ASL]_HOUKAGO_TEA_TIME_-_K-On!_Movie_Theme_Song_&_OP_-_Unmei_wa_Endless!_[FLAC].rar
@@ -787,6 +788,7 @@ music/ASL/[ASL]_Various_Artists_-_GWAVE_2006_2nd_Strike_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_GWAVE_2007_1st_Drivers_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_GWAVE_2008_1st_Experience_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_GWAVE_2008_2nd_Experience_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_GWAVE_LOVE_BULLETSxTIE-UPPERS!_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_GWAVE_SuperFeatures_vol.3_Mermaid_Kiss _[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_GWAVE_SuperFeatures_vol3_Mermaid_Kiss_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_GWAVE_SuperFeatures_vol4_PR_Mighty_Love_[FLAC]_[w_Scans].rar
@@ -827,6 +829,7 @@ music/ASL/[ASL]_Various_Artists_-_Kiss_to_Maou_to_Darjeeling_Original_Soundtrack
 music/ASL/[ASL]_Various_Artists_-_Koi_to_Senkyo_to_Chocolate_Ending_Theme_Collection_-_CHOCOLATE_SONGS_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Koiiro_Soramoyou_After_Happiness_and_Extra_Heart_s_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Koiiro_Soramoyou_after_happiness_and_extra_hearts_SPECIAL_MAXI_CD_[FLAC].rar
+music/ASL/[ASL]_Various_Artists_-_Koisuru_Koto_to_Mitsuketari_Koikoto_Original_Soundtrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Kyoukai_Senjou_no_Horizon_Special_CD_1_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_LEGEND_SEVEN_Shirayuki_Hime_to_Shichinin_no_Eiyuu_SOUNDTRACK_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_LOVE_2_QUAD_ORIGINAL_SOUNDTRACK_[FLAC]_[w_Scans].rar
@@ -847,6 +850,7 @@ music/ASL/[ASL]_Various_Artists_-_Mashiro-iro_Symphony_Character_Songs_-_Charact
 music/ASL/[ASL]_Various_Artists_-_Mashiro_Summer_Vocal_Collection_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Mawaru_Penguindrum_ED_-_DEAR_FUTURE_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Mayo_Chiki_3_Limited_Edition_Bonus_DISC_-_Web_Radio_Shucchou-ban_3_[FLAC].rar
+music/ASL/[ASL]_Various_Artists_-_Mayo_Chiki_4_Bonus_Disc_-_Mousou_Drama_CD_1_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Mayo_Chiki_Character_Song_Album_-Mayo_Uta-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Mayo_Chiki_ED_-_Kimi_ni_Gohoushi_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Mayo_Chiki_Original_Soundtrack_[FLAC]_[w_Scans].rar
@@ -893,6 +897,7 @@ music/ASL/[ASL]_Various_Artists_-_PrismRhythm_ED.Vocal_Collection_-Belltina-_[FL
 music/ASL/[ASL]_Various_Artists_-_Project_DIVA_Arcade_Original_Song_Collection_Vol_2_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Puella_Magi_Madoka_Magica_Original_Soundtrack_Vol._3_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Pure2_-Ultimate_Cool_Japan_Jazz-_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Purple_Software_Sound_Chronicle_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_RO-KYU-BU_Interval_1_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_RO-KYU-BU_pure_elements_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Ra-ra-ra_Suite_Precure_~UNLIMITED_ver.~_[FLAC]_[w_Scans].rar
@@ -4756,6 +4761,8 @@ music/Shin-S/[Shin - S] Mahou Shoujo Madoka Magica ED Single - Magia.rar
 music/Shin-S/[Shin-S] A Channel ED & Insert Song Single - Humming Girl [Various].zip
 music/Shin-S/[Shin-S] A Channel Insert Song Single 2 - Mermaid Sisters [Kotobuki Minako & Uchiyama Yumi].zip
 music/Shin-S/[Shin-S] A Channel OP Single - Morning Arch [Kawano Marina].zip
+music/Shin-S/[Shin-S] Angel Beats! OP & ED Single - My Soul, Your Beats! [Lia & Tada Aoi].zip
+music/Shin-S/[Shin-S] Angel Beats! OP2 & Insert Song Album - Keep The Beats! [Girls Dead Monster].zip
 music/Shin-S/[Shin-S] Ano Hi Mita Hana no Namae wo Boku-tachi wa Mada Shiranai. ED Single - secret base ~Kimi ga Kureta Mono~ [Various].zip
 music/Shin-S/[Shin-S] Ano Hi Mita Hana no Namae wo Boku-tachi wa Mada Shiranai. OP Single - Aoi Shiori [Galileo Galilei].zip
 music/Shin-S/[Shin-S] Astarotte no Omocha! ED Single - Manatsu no Photograph [azusa].zip
