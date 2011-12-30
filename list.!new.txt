@@ -5,6 +5,8 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - 398 [Kienai][A845A009].mp4
+!new/Detective Conan - 399 [Kienai][A88D83B5].mp4
 !new/Detective Conan - 438 [DCTP][95AEFF19].avi
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
@@ -370,6 +372,7 @@
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/List.txt
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/disc_8.jpg
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/mibox_cover.gif
+!new/Mobile_Suit_Gundam_Unicorn_Ep3_The_Ghost_of_Laplace_[720p,BluRay,x264,DTS]_-_THORA.mkv
 !new/Mujin Wakusei Survive/[Raws-4U] Mujin Wakusei Survive - 01 HD (BS-hi 1024x768 H264 AAC).ass
 !new/Mujin Wakusei Survive/[Raws-4U] Mujin Wakusei Survive - 01 HD (BS-hi 1024x768 H264 AAC).mp4
 !new/Mujin Wakusei Survive/[Raws-4U] Mujin Wakusei Survive - 02 HD (BS-hi 1024x768 H264 AAC).ass
@@ -739,12 +742,19 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
 !new/[A-Destiny] Toriko - 38 (1280x720 Hi10p AAC) [C8DE71F1].mkv
+!new/[ASL]_Gotou_Yuko_-_Maji_de_Watashi_ni_Koi_Shinasai_2nd_Bonus_CD_-_Mayucchi_wo_Hitorijime_[FLAC].rar
 !new/[ASL]_Various_Artists_-_GWAVE_LOVE_BULLETSxTIE-UPPERS!_[FLAC]_[w_Scans].rar
 !new/[ASL]_Various_Artists_-_Koisuru_Koto_to_Mitsuketari_Koikoto_Original_Soundtrack_[FLAC]_[w_Scans].rar
+!new/[ASL]_Various_Artists_-_Mayo_Chiki_4_Bonus_Disc_-_Mousou_Drama_CD_1_[FLAC].rar
+!new/[ASL]_Various_Artists_-_Purple_Software_Sound_Chronicle_[FLAC].rar
 !new/[Hiryuu] Maken-Ki! 12 [Hi10P 1280x720 H264] [CF37FB60].mkv
 !new/[HorribleSubs] Bleach - 354 [720p].mkv
+!new/[HorribleSubs] Moritasan wa Mukuchi - 26 [720p].mkv
 !new/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream - 20 [H264 1024x576] [CBAC18C2].mkv
+!new/[Live-eviL]_Future_Boy_Conan_05_[BD-h264-10bit-1080p]_[35fbd4ad].mkv
 !new/[Over-Time]_Gokaiger_Goseiger_-_Super_Sentai_199_Hero_Grand_Battle_[1080_WV][0C571540].mkv
+!new/[PM]Pocket_Monsters_Best_Wishes_060_A_Battle_Between_the_Brothers_Dent_and_Pod!_Baoppu_VS_Yanappu[H264 720P][FDDC0494].mkv
+!new/[SFW-sage]_Bakuman_S2_-_13_[720p][Hi10P][D743C009].mkv
 !new/[Shin-S] Angel Beats! OP & ED Single - My Soul, Your Beats! [Lia & Tada Aoi].zip
 !new/[Shin-S] Angel Beats! OP2 & Insert Song Album - Keep The Beats! [Girls Dead Monster].zip
 !new/[Underwater] Shinryaku! Ika Musume S2 - 12 (720p) [4D935DF3].mkv
@@ -752,6 +762,8 @@
 !new/[Zurako]_Kamisama_Dolls_SP_01_(BD_1080p_FLAC)_[ED815F6E].mkv
 !new/[Zurako]_Kamisama_Dolls_SP_02_(BD_1080p_FLAC)_[83F027B1].mkv
 !new/[Zurako]_Kamisama_Dolls_SP_03_(BD_1080p_FLAC)_[EAD287AF].mkv
+!new/[sage]_Kimi_to_Boku_-_13_[720p][10bit][4A0FD239].mkv
+!new/[sage]_Sekaiichi_Hatsukoi_2_-_12_[720p][10bit][B6502764].mkv
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_01v3[35]_-_Space-Time_Destruction_[624x480][DVD][ILA][8D03A921].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_02v3[35]_-_Lonely_Wolf_[624x480][DVD][ILA][59B986D2].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_03v3[35]_-_Pretty_Machine_[624x480][DVD][ILA][9BD697F9].ogm
@@ -1620,3 +1632,7 @@
 !new/snq/[Doki] Seikon no Qwaser Picture Drama - 14 (1280x720 h264 BD FLAC) [62E5BC80].mkv
 !new/snq/[Doki] Seikon no Qwaser Picture Drama - 15 (1280x720 h264 BD FLAC) [C6DBA283].mkv
 !new/snq/[Doki] Seikon no Qwaser Picture Drama - 16 (1280x720 h264 BD FLAC) [16F49A34].mkv
+!new/umineko8/[WH]_Umineko_EP8_English_v4.1.exe
+!new/umineko8/part1.rar
+!new/umineko8/part2.rar
+!new/umineko8/part3.rar
