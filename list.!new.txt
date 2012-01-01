@@ -5,7 +5,9 @@
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
 !new/Carol/[raw] Carol OVA.avi
+!new/Detective Conan - 118 [DCTP][625ECB04].avi
 !new/Detective Conan - 443-444 [DCTP][5E943965].avi
+!new/Detective Conan - Movie 12 - Full Score of Fear [DCTP][1080p][H264][890BB070].mkv
 !new/Dragon Ball/DBZ Special - The History Of Trunks.rmvb
 !new/Dragon Ball/DBZ.Movie.04.Lord.Slug.mkv
 !new/Dragon Ball/DBZ.Movie.05.Coolers.Revenge.mkv
@@ -370,6 +372,8 @@
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/List.txt
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/disc_8.jpg
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/mibox_cover.gif
+!new/Mobile_Suit_Gundam_Unicorn_Ep1_Day_of_the_Unicorn_[720p,BluRay,x264,DTS]_-_THORA v2.mkv
+!new/Mobile_Suit_Gundam_Unicorn_Ep2_The_Second_Coming_of_Char_[720p,BluRay,x264,DTS]_-_THORA v2.mkv
 !new/Mujin Wakusei Survive/[Raws-4U] Mujin Wakusei Survive - 01 HD (BS-hi 1024x768 H264 AAC).ass
 !new/Mujin Wakusei Survive/[Raws-4U] Mujin Wakusei Survive - 01 HD (BS-hi 1024x768 H264 AAC).mp4
 !new/Mujin Wakusei Survive/[Raws-4U] Mujin Wakusei Survive - 02 HD (BS-hi 1024x768 H264 AAC).ass
@@ -741,12 +745,44 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
+!new/Whisper_of_the_Heart_(1995)_[1080p,BluRay,flac,dts,x264]_-_THORA.md5
+!new/Whisper_of_the_Heart_(1995)_[1080p,BluRay,flac,dts,x264]_-_THORA.mkv
+!new/Whisper_of_the_Heart_(1995)_[1080p,BluRay,flac,dts,x264]_-_THORA.nfo
 !new/[ADHOC] Kikou Shoujo ha Kizutsukanai Drama CD Side A.zip
 !new/[ADHOC] Kikou Shoujo ha Kizutsukanai Drama CD Side B.zip
+!new/[ANE] Ef - A Fairy Tale of the Two - Creditless Opening 1 [BDRip 1080p x264 FLAC].mkv
+!new/[ANE] Ef - A Fairy Tale of the Two - Creditless Opening 2 [BDRip 1080p x264 FLAC].mkv
+!new/[ANE] Ef - A Fairy Tale of the Two - Ending [BDRip 1080p x264 FLAC].mkv
+!new/[ANE] Ef - A Fairy Tale of the Two - Opening 1 [BDRip 1080p x264 FLAC].mkv
+!new/[ANE] Ef - A Fairy Tale of the Two - Opening 2 [BDRip 1080p x264 FLAC].mkv
 !new/[ASL]_Various_Artists_-_WORKING_3_Bonus_Drama_CD_-_Working_Holiday_[FLAC].rar
 !new/[ASL]_fripSide_-_Toaru_Kagaku_no_Railgun_PSP_OP_Theme_-_way_to_answer_[EXTRA].rar
 !new/[Ayako]_Jewelpet_Sunshine_-_16v0_[H264][720p][A1AACC59].mkv
 !new/[Commie] Kyoukai Senjou no Horizon - 13 [36284B9D].mkv
+!new/[DmonHiro] Hen Zemi 01 (BD 720p) [5C2A168B].mkv
+!new/[DmonHiro] Hen Zemi 02 (BD 720p) [67953E5F].mkv
+!new/[DmonHiro] Hen Zemi 03 (BD 720p) [B02CF96A].mkv
+!new/[DmonHiro] Hen Zemi 04 (BD 720p) [B0DF7D85].mkv
+!new/[DmonHiro] Hen Zemi 05 (BD 720p) [786D0FBB].mkv
+!new/[DmonHiro] Hen Zemi 06 (BD 720p) [4CD8EF18].mkv
+!new/[DmonHiro] Hen Zemi 07 (BD 720p) [8150E894].mkv
+!new/[DmonHiro] Hen Zemi 08 (BD 720p) [A3E785B6].mkv
+!new/[DmonHiro] Hen Zemi 09 (BD 720p) [D152C4FF].mkv
+!new/[DmonHiro] Hen Zemi 10 (BD 720p) [52008CB9].mkv
+!new/[DmonHiro] Hen Zemi 11 (BD 720p) [D51A9DAF].mkv
+!new/[DmonHiro] Hen Zemi 12 (BD 720p) [E847B447].mkv
+!new/[DmonHiro] Hen Zemi 13 (BD 720p) [1D70F399].mkv
+!new/[DmonHiro] Ikoku Meiro No Croisee 01 (BD 720p) [5A45957C].mkv
+!new/[DmonHiro] Ikoku Meiro No Croisee 02 (BD 720p) [B5681723].mkv
+!new/[DmonHiro] Ikoku Meiro No Croisee 03 (BD 720p) [E614F7F8].mkv
+!new/[DmonHiro] Ikoku Meiro No Croisee 04 (BD 720p) [4E795AEE].mkv
+!new/[DmonHiro] Ikoku Meiro No Croisee 04,5 (BD 720p) [32EAC09D].mkv
+!new/[DmonHiro] Ikoku Meiro No Croisee 05 (BD 720p) [D9B12AC9].mkv
+!new/[DmonHiro] Ikoku Meiro No Croisee 06 (BD 720p) [AEE1F414].mkv
+!new/[Fail-15] R-15 - 05 (BD 1920x1080 x264 Hi10P FLAC) [0B38E626].mkv
+!new/[Fail-15] R-15 - 06 (BD 1920x1080 x264 Hi10P FLAC) [E60157D5].mkv
+!new/[GotWoot]_Mirai_Nikki_12_[10-bit][5E2D5CAC].mkv
+!new/[HorribleSubs] Cardfight!! Vanguard - 51 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 242 [720p].mkv
 !new/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream - 19 [H264 1024x576] [41672CCA].mkv
 !new/[PCSS] Yes! Pretty Cure 5 - 37 (DVD) [D838321D].mkv
@@ -758,6 +794,10 @@
 !new/[SMC] Sailor Moon SuperS Creditless Opening 2 (R2 DVD.H264.AC3) [B38FBA95].mkv
 !new/[SMC] Sailor Moon SuperS Opening 1 With Credits (R1 DVD.H264.AC3) [29524F71].mkv
 !new/[SMC] Sailor Moon SuperS Special (R2 DVD.H264.AC3) [A61604DE].mkv
+!new/[SS] Mirai Nikki - 11 (1280x720 h264) [8AA1A2D6].mkv
+!new/[ray=out]_Je_t'aime_[DVD_H.264_AC3_5.1][35DC54F1].mkv
+!new/[sage]_Daily_Lives_of_High_School_Boys_Preview_7_[4943106B].mkv
+!new/[sage]_Daily_Lives_of_High_School_Boys_Preview_8_[AD9B4E3F].mkv
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_01v3[35]_-_Space-Time_Destruction_[624x480][DVD][ILA][8D03A921].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_02v3[35]_-_Lonely_Wolf_[624x480][DVD][ILA][59B986D2].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_03v3[35]_-_Pretty_Machine_[624x480][DVD][ILA][9BD697F9].ogm
