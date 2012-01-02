@@ -755,10 +755,13 @@
 !new/[ANE] Ef - A Fairy Tale of the Two - Ending [BDRip 1080p x264 FLAC].mkv
 !new/[ANE] Ef - A Fairy Tale of the Two - Opening 1 [BDRip 1080p x264 FLAC].mkv
 !new/[ANE] Ef - A Fairy Tale of the Two - Opening 2 [BDRip 1080p x264 FLAC].mkv
+!new/[ASL]_Various_Artists_-_Persona_4_the_ANIMATION_VOLUME_2_BONUS_CD_[FLAC].rar
 !new/[ASL]_Various_Artists_-_WORKING_3_Bonus_Drama_CD_-_Working_Holiday_[FLAC].rar
+!new/[ASL]_Yui_Kaori_-_Futari_[FLAC]_[w_Scans].rar
 !new/[ASL]_fripSide_-_Toaru_Kagaku_no_Railgun_PSP_OP_Theme_-_way_to_answer_[EXTRA].rar
 !new/[Ayako]_Jewelpet_Sunshine_-_16v0_[H264][720p][A1AACC59].mkv
 !new/[Commie] Kyoukai Senjou no Horizon - 13 [36284B9D].mkv
+!new/[Commie] Rinne no Lagrange - 01 [PREAIR] [CA0EB283].mkv
 !new/[DmonHiro] Hen Zemi 01 (BD 720p) [5C2A168B].mkv
 !new/[DmonHiro] Hen Zemi 02 (BD 720p) [67953E5F].mkv
 !new/[DmonHiro] Hen Zemi 03 (BD 720p) [B02CF96A].mkv
@@ -779,13 +782,23 @@
 !new/[DmonHiro] Ikoku Meiro No Croisee 04,5 (BD 720p) [32EAC09D].mkv
 !new/[DmonHiro] Ikoku Meiro No Croisee 05 (BD 720p) [D9B12AC9].mkv
 !new/[DmonHiro] Ikoku Meiro No Croisee 06 (BD 720p) [AEE1F414].mkv
+!new/[Doremi-CureCom].Suite.PreCure!.44.[1280x720].[94A9066C].mkv
 !new/[Fail-15] R-15 - 05 (BD 1920x1080 x264 Hi10P FLAC) [0B38E626].mkv
 !new/[Fail-15] R-15 - 06 (BD 1920x1080 x264 Hi10P FLAC) [E60157D5].mkv
+!new/[FroZen-EviL]_Yawara_-_72_[DVD][D2E5DA21].mkv
 !new/[GotWoot]_Mirai_Nikki_12_[10-bit][5E2D5CAC].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard - 51 [720p].mkv
 !new/[HorribleSubs] Naruto Shippuuden - 242 [720p].mkv
+!new/[Jumonji-Giri]_[F-B][SS]_Final_Approach_Ep12_(256886c5).mkv
+!new/[Jumonji-Giri]_[SS][Ayu]_HaniHani_Operation_Sanctuary_Ep01_(778f3760).mkv
 !new/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream - 19 [H264 1024x576] [41672CCA].mkv
+!new/[Licca] Porphy no Nagai Tabi Episode 12 (h.264-Hi10P) [CE2D1682].mkv
+!new/[Licca] Porphy no Nagai Tabi Episode 13 (h.264-Hi10P) [2AC7C2CF].mkv
+!new/[Licca] The Alps Story - My Annette Episode 04v2 (h.264-Hi10P) [FF627EBA].mkv
+!new/[Licca] The Alps Story - My Annette Episode 05 (h.264-Hi10P) [C35FCE75].mkv
 !new/[PCSS] Yes! Pretty Cure 5 - 37 (DVD) [D838321D].mkv
+!new/[Rumbel]_Gintama_-_155_[H264][1839C6F4].mkv
+!new/[Rumbel]_Gintama_-_156_[H264][D9B6FBC3].mkv
 !new/[SMC] Sailor Moon SuperS 128 (R2 DVD.H264.AC3) [F2B03E00].mkv
 !new/[SMC] Sailor Moon SuperS 129 (R2 DVD.H264.AC3) [28553FAE].mkv
 !new/[SMC] Sailor Moon SuperS 130 (R2 DVD.H264.AC3) [11644B97].mkv
@@ -798,6 +811,9 @@
 !new/[ray=out]_Je_t'aime_[DVD_H.264_AC3_5.1][35DC54F1].mkv
 !new/[sage]_Daily_Lives_of_High_School_Boys_Preview_7_[4943106B].mkv
 !new/[sage]_Daily_Lives_of_High_School_Boys_Preview_8_[AD9B4E3F].mkv
+!new/[sage]_Mobile_Suit_Gundam_AGE_-_12_[720p][10bit][8F15D800].mkv
+!new/[sage]_Mobile_Suit_Gundam_SEED_HD_Remaster_-_01_[720p][10bit][1C4BC88D].mkv
+!new/[wpp]rockman_exe_axess_-_40_[31FE3B9C].mkv
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_01v3[35]_-_Space-Time_Destruction_[624x480][DVD][ILA][8D03A921].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_02v3[35]_-_Lonely_Wolf_[624x480][DVD][ILA][59B986D2].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_03v3[35]_-_Pretty_Machine_[624x480][DVD][ILA][9BD697F9].ogm
