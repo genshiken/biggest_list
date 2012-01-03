@@ -15327,18 +15327,16 @@ complete/q/Quiz Magic Academy OVA/[StrikeS] Quiz Magic Academy OVA - 1 [DVD][7BB
 complete/r/R-15/[Fail-15] R-15 - 01 [1080p BD][7A2B2908].mkv
 complete/r/R-15/[Fail-15] R-15 - 02 [1080p BD][206C6401].mkv
 complete/r/R-15/[Fail-15] R-15 - 03 [1080p BD][A2E8BD15].mkv
-complete/r/R-15/[Fail-15] R-15 - 03 [720p][53E7EA50].mkv
 complete/r/R-15/[Fail-15] R-15 - 04 [1080p BD][7E98290C].mkv
-complete/r/R-15/[Fail-15] R-15 - 04 [720p][0F0DEB8D].mkv
-complete/r/R-15/[Fail-15] R-15 - 05 [720p][74A6AC4B].mkv
-complete/r/R-15/[Fail-15] R-15 - 06 [720p][CAFF8957].mkv
+complete/r/R-15/[Fail-15] R-15 - 05 [1080p BD][0B38E626].mkv
+complete/r/R-15/[Fail-15] R-15 - 06 [1080p BD][E60157D5].mkv
 complete/r/R-15/[Fail-15] R-15 - 07 [720p][E474C4CD].mkv
 complete/r/R-15/[Fail-15] R-15 - 08 [720p][5ED1E87D].mkv
 complete/r/R-15/[Fail-15] R-15 - 09 [720p][503AE6EB].mkv
 complete/r/R-15/[Fail-15] R-15 - 10 [720p][622DC13B].mkv
 complete/r/R-15/[Fail-15] R-15 - 11 [720p][5F39251C].mkv
 complete/r/R-15/[Fail-15] R-15 - 12 [End][720p][CEBE1CD6].mkv
-complete/r/R-15/[Fail-15] R-15 - Ending (Clean) (BD 1920x1080) [A74B5600].mkv
+complete/r/R-15/[Fail-15] R-15 - Ending (Clean) [1080p BD][A74B5600].mkv
 complete/r/R-15/[Fail-15] R-15 - Opening (Clean) [1080p BD][905F981B].mkv
 complete/r/RAY The Animation/[Froth-Bite] RAY The Animation - 01 [2E31080C].mp4
 complete/r/RAY The Animation/[Froth-Bite] RAY The Animation - 02 [F12934CD].mp4
