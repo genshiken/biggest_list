@@ -4724,32 +4724,19 @@ complete/f/Fantastic Children/[ACX] Fantastic Children - 23 [171E9C9C].mkv
 complete/f/Fantastic Children/[ACX] Fantastic Children - 24 [8E427694].mkv
 complete/f/Fantastic Children/[ACX] Fantastic Children - 25 [A6092025].mkv
 complete/f/Fantastic Children/[ACX] Fantastic Children - 26 [End][0E6A0A89].mkv
-complete/f/Fate-Zero/[Commie] Fate-Zero - 01 [3A0CCD6B].mkv
-complete/f/Fate-Zero/[Commie] Fate-Zero - 02 [F1693F31].mkv
-complete/f/Fate-Zero/[Commie] Fate-Zero - 03 [C1F222CD].mkv
-complete/f/Fate-Zero/[Commie] Fate-Zero - 04 [92F5DEFA].mkv
-complete/f/Fate-Zero/[Commie] Fate-Zero - 05 [D49DC44D].mkv
-complete/f/Fate-Zero/[Commie] Fate-Zero - 06 [7622898E].mkv
-complete/f/Fate-Zero/[Commie] Fate-Zero - 07 [4E77421F].mkv
-complete/f/Fate-Zero/[Commie] Fate-Zero - 08 [949CDCEE].mkv
-complete/f/Fate-Zero/[Commie] Fate-Zero - 09 [59174840].mkv
-complete/f/Fate-Zero/[Commie] Fate-Zero - 10 [33EB3A4E].mkv
-complete/f/Fate-Zero/[Commie] Fate-Zero - 11 [0084A074].mkv
-complete/f/Fate-Zero/[Commie] Fate-Zero - 12 [9A8A06EE].mkv
-complete/f/Fate-Zero/[Commie] Fate-Zero - 13 [End][E2464C40].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 01 [720p][E2552AFF].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 02 [720p][118AC4FA].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 01 [720p][D770ECA6].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 02 [720p][79B8EBEB].mkv
 complete/f/Fate-Zero/[UTW] Fate-Zero - 03 [720p][EC04D328].mkv
 complete/f/Fate-Zero/[UTW] Fate-Zero - 04 [720p][3A05B4E1].mkv
 complete/f/Fate-Zero/[UTW] Fate-Zero - 05 [720p][0F358C5F].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 06 [720p][B5995405].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 07 [720p][5A4D9A54].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 08 [720p][5B1BCAC4].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 09 [720p][AD8AA9B3].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 06 [720p][A60AB23E].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 07 [720p][69FCAE19].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 08 [720p][7E69E99B].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 09 [720p][B5FE3AE1].mkv
 complete/f/Fate-Zero/[UTW] Fate-Zero - 10 [720p][62B3B6F2].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 11 [720p][FAD88B78].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 11 [Uncut][720p][3E3D54D7].mkv
 complete/f/Fate-Zero/[UTW] Fate-Zero - 12 [720p][6E06166B].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 13 [End][720p][9538170C].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 13 [End][720p][03D313F7].mkv
 complete/f/Fate-stay night - TV Reproduction/[3xR-FLsnow] Fate-stay night - TV Reproduction - 1 [1080p BD][96AF6C65].mkv
 complete/f/Fate-stay night - TV Reproduction/[3xR-FLsnow] Fate-stay night - TV Reproduction - 2 [End][1080p BD][63B375B6].mkv
 complete/f/Fate-stay night/[THORA] Fate-stay night - 01 (1280x720) [v2][BD][19652C3A].mkv
@@ -6999,6 +6986,7 @@ complete/h/Hanasaku Iroha/[Underwater] Hanasaku Iroha - 25 [720p][1258AA0F].mkv
 complete/h/Hanasaku Iroha/[Underwater] Hanasaku Iroha - 26 [End][720p][1671C996].mkv
 complete/h/HaniHani ~Operation Sanctuary~/[Jumonji-Giri] HaniHani Operation Sanctuary - 01 [778F3760].mkv
 complete/h/HaniHani ~Operation Sanctuary~/[Jumonji-Giri] HaniHani Operation Sanctuary - 02 [4669BA93].mkv
+complete/h/HaniHani ~Operation Sanctuary~/[Jumonji-Giri] HaniHani Operation Sanctuary - 03 [11AF8490].mkv
 complete/h/HaniHani ~Operation Sanctuary~/[SS] HaniHani ~Operation Sanctuary~ - 01 [v3][C2A43366].avi
 complete/h/HaniHani ~Operation Sanctuary~/[SS] HaniHani ~Operation Sanctuary~ - 02 [v2][CE179E3F].avi
 complete/h/HaniHani ~Operation Sanctuary~/[SS] HaniHani ~Operation Sanctuary~ - 03 [v2][F06CFE7C].avi
@@ -20976,7 +20964,6 @@ complete/w/Working'!!/[HorribleSubs] Working'!! - 10 [720p][9B6B94BC].mkv
 complete/w/Working'!!/[HorribleSubs] Working'!! - 11 [720p][F3D10567].mkv
 complete/w/Working'!!/[HorribleSubs] Working'!! - 12 [720p][3C6EC2AE].mkv
 complete/w/Working'!!/[HorribleSubs] Working'!! - 13 [End][720p][9D38CDCC].mkv
-complete/w/Working'!!/[gg] Working'!! - 01 [49948C2F].mkv
 complete/w/Working'!!/[m.3.3.w] Working'!! - 01 [720p][356D4BDA].mkv
 complete/w/Working'!!/[m.3.3.w] Working'!! - 02 [720p][A6F33EE9].mkv
 complete/w/Working'!!/[m.3.3.w] Working'!! - 03 [720p][A6790E7C].mkv
@@ -20987,6 +20974,7 @@ complete/w/Working'!!/[m.3.3.w] Working'!! - 07 [720p][B9AF8EBE].mkv
 complete/w/Working'!!/[m.3.3.w] Working'!! - 08 [720p][D8E4A57A].mkv
 complete/w/Working'!!/[m.3.3.w] Working'!! - 09 [720p][C2421746].mkv
 complete/w/Working'!!/[m.3.3.w] Working'!! - 10 [720p][4C9B9DF0].mkv
+complete/w/Working'!!/[m.3.3.w] Working'!! - 11 [720p][62432A17].mkv
 complete/w/World Destruction/[Osu!] World Destruction - 01 (1280x720) [84AF69E2].mkv
 complete/w/World Destruction/[Osu!] World Destruction - 02 (1280x720) [BFFE1AF9].mkv
 complete/w/World Destruction/[Osu!] World Destruction - 03 [EEEB75A8].mkv
