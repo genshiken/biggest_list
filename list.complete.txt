@@ -3271,6 +3271,7 @@ complete/d/Damekko Doubutsu/[RyRo] Damekko Doubutsu - 25 [EE099D4A].avi
 complete/d/Damekko Doubutsu/[RyRo] Damekko Doubutsu - 26 [End][08820CAA].avi
 complete/d/Dance in the Vampire Bund/[Coalgirls] Dance in the Vampire Bund - 01 (1280x720) [BD][107BDACE].mkv
 complete/d/Dance in the Vampire Bund/[Coalgirls] Dance in the Vampire Bund - 02 (1280x720) [BD][95A6BFF7].mkv
+complete/d/Dance in the Vampire Bund/[DmonHiro] Dance in the Vampire Bund - Intermissions [720p BD][4EFC238E].mkv
 complete/d/Dance in the Vampire Bund/[Koharubi] Dance in the Vampire Bund - 03 [C5B7848E].mkv
 complete/d/Dance in the Vampire Bund/[Koharubi] Dance in the Vampire Bund - 04 [E240281C].mkv
 complete/d/Dance in the Vampire Bund/[Koharubi] Dance in the Vampire Bund - 05 [F3D9DE43].mkv
@@ -12100,8 +12101,8 @@ complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 93 [7DF0B3E8].mkv
 complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 94 [F2761629].mkv
 complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 95 [03F8410C].mkv
 complete/m/Maison Ikkoku/[avatar] Maison Ikkoku - 96 [End][BCB63725].mkv
-complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - 01 [720p][103D3322].mkv
-complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - 02 [720p][923E2F8B].mkv
+complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - 01 [1080p BD][F261CACD].mkv
+complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - 02 [1080p BD][87D19CB1].mkv
 complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - 03 [720p][039313FC].mkv
 complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - 04 [720p][9DD8C522].mkv
 complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - 05 [720p][6AC9A59E].mkv
@@ -12112,6 +12113,9 @@ complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shin
 complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - 10 [720p][CDE2A555].mkv
 complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - 11 [720p][177A98C5].mkv
 complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - 12 [End][720p][5661D1D5].mkv
+complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - Ending 1 (Clean) [1080p BD][160F11EC].mkv
+complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - Opening 1 (Clean) [1080p BD][91423154].mkv
+complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - PV [1080p BD][7AD83A00].mkv
 complete/m/Majin Tantei Nougami Neuro/[ainex] Majin Tantei Nougami Neuro - 08 (1280x720) [3A12C880].mkv
 complete/m/Majin Tantei Nougami Neuro/[ainex] Majin Tantei Nougami Neuro - 09 (1280x720) [D0A8C25C].mkv
 complete/m/Majin Tantei Nougami Neuro/[ainex] Majin Tantei Nougami Neuro - 10 (1280x720) [v2][2009F120].mkv
@@ -13008,6 +13012,19 @@ complete/m/Moonlight Mile S2/[GotWoot] Moonlight Mile S2 - 11 [720p][E1435452].m
 complete/m/Moonlight Mile S2/[GotWoot] Moonlight Mile S2 - 12 [720p][F7F57767].mkv
 complete/m/Moonlight Mile S2/[GotWoot] Moonlight Mile S2 - 13 [720p][281CD854].mkv
 complete/m/Moonlight Mile S2/[GotWoot] Moonlight Mile S2 - 14 [End][720p][6D729F07].mkv
+complete/m/Morita-san wa Mukuchi 2/[SHiN-gx] Morita-san wa Mukuchi 2 - 01 [720p][4263F2C5].mkv
+complete/m/Morita-san wa Mukuchi 2/[SHiN-gx] Morita-san wa Mukuchi 2 - 02 [720p][A7DF6FCE].mkv
+complete/m/Morita-san wa Mukuchi 2/[SHiN-gx] Morita-san wa Mukuchi 2 - 03 [720p][FB5D0644].mkv
+complete/m/Morita-san wa Mukuchi 2/[SHiN-gx] Morita-san wa Mukuchi 2 - 04 [720p][12E13832].mkv
+complete/m/Morita-san wa Mukuchi 2/[SHiN-gx] Morita-san wa Mukuchi 2 - 05 [720p][6B56F15B].mkv
+complete/m/Morita-san wa Mukuchi 2/[SHiN-gx] Morita-san wa Mukuchi 2 - 06 [720p][57508F0A].mkv
+complete/m/Morita-san wa Mukuchi 2/[SHiN-gx] Morita-san wa Mukuchi 2 - 07 [720p][75D86D16].mkv
+complete/m/Morita-san wa Mukuchi 2/[SHiN-gx] Morita-san wa Mukuchi 2 - 08 [720p][D182B21C].mkv
+complete/m/Morita-san wa Mukuchi 2/[SHiN-gx] Morita-san wa Mukuchi 2 - 09 [720p][97331A29].mkv
+complete/m/Morita-san wa Mukuchi 2/[SHiN-gx] Morita-san wa Mukuchi 2 - 10 [720p][E87546A2].mkv
+complete/m/Morita-san wa Mukuchi 2/[SHiN-gx] Morita-san wa Mukuchi 2 - 11 [720p][49C23B7D].mkv
+complete/m/Morita-san wa Mukuchi 2/[SHiN-gx] Morita-san wa Mukuchi 2 - 12 [720p][2BBD2377].mkv
+complete/m/Morita-san wa Mukuchi 2/[SHiN-gx] Morita-san wa Mukuchi 2 - 13 [End][720p][56668E61].mkv
 complete/m/Morita-san wa Mukuchi OVA/[Kata-Subs] Morita-san wa Mukuchi OVA [DVD][3B62DCE4].mkv
 complete/m/Morita-san wa Mukuchi OVA/[SHiN-gx] Morita-san wa Mukuchi OVA [DVD][E2D17EAE].mkv
 complete/m/Morita-san wa Mukuchi/[SHiN-gx] Morita-san wa Mukuchi - 01 [v2 720p][7B600570].mkv
@@ -21329,20 +21346,22 @@ complete/y/Yondemasu yo, Azazel-san/[FFFpeeps] Yondemasu yo, Azazel-san - 09 [72
 complete/y/Yondemasu yo, Azazel-san/[FFFpeeps] Yondemasu yo, Azazel-san - 10 [720p][2AFBE000].mkv
 complete/y/Yondemasu yo, Azazel-san/[FFFpeeps] Yondemasu yo, Azazel-san - 11 [720p][0EAD8C9C].mkv
 complete/y/Yondemasu yo, Azazel-san/[FFFpeeps] Yondemasu yo, Azazel-san - 12 [720p][50E0B30A].mkv
-complete/y/Yondemasu yo, Azazel-san/[FFFpeeps] Yondemasu yo, Azazel-san - 13 [720p][58017544].mkv
-complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 01 [8FE8AA81].mkv
-complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 02 [AE71AEE3].mkv
-complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 03 [FE53BB5B].mkv
-complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 04 [E7CD4F01].mkv
-complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 05 [A7FBAF51].mkv
-complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 06 [C9099842].mkv
-complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 07 [1F59AA55].mkv
-complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 08 [3B803570].mkv
-complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 09 [8B5EC42F].mkv
-complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 10 [AC0BB516].mkv
-complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 11 [EBA40923].mkv
-complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 12 [073A775D].mkv
-complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 13 [End][83FC778F].mkv
+complete/y/Yondemasu yo, Azazel-san/[FFFpeeps] Yondemasu yo, Azazel-san - 13 [End][720p][58017544].mkv
+complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 01 [1080p BD][C2E63E83].mkv
+complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 02 [1080p BD][91519DE4].mkv
+complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 03 [1080p BD][704DC556].mkv
+complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 04 [1080p BD][80395E70].mkv
+complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 05 [1080p BD][6A47AAD4].mkv
+complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 06 [1080p BD][E9C552A9].mkv
+complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 07 [1080p BD][912E74DE].mkv
+complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 08 [1080p BD][CF76C1CA].mkv
+complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 09 [1080p BD][B37D060C].mkv
+complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 10 [1080p BD][C36304BC].mkv
+complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 11 [1080p BD][872A21D4].mkv
+complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 12 [v2 1080p BD][3FEAD4C7].mkv
+complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - 13 [End][1080p BD][20B26E8E].mkv
+complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - Ending (Clean) [1080p BD][999BB8BF].mkv
+complete/y/Yondemasu yo, Azazel-san/[WhyNot] Yondemasu yo, Azazel-san - Opening (Clean) [1080p BD][A8DFB955].mkv
 complete/y/Yotsunoha/[Formula] Yotsunoha - 1 [D5B2C988].mkv
 complete/y/Yotsunoha/[Formula] Yotsunoha - 2 [End][895C3DA8].mkv
 complete/y/You're Under Arrest! Full Throttle OVA/[Live-eviL] You're Under Arrest! Full Throttle - 24 OVA [DVD][1CB69633].mkv
