@@ -365,6 +365,7 @@ music/ASL/[ASL]_Chariot_-_Shojo_to_Maou_to_Tactics_Original_Soundtrack_[FLAC].ra
 music/ASL/[ASL]_Chata_-_Suiheisen_made_Nan_Mile_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Chihara_Minori_-_Kyoukaisen-jou_no_Horizon_OP_-_TERMINATED_[FLAC]_[w Scans].rar
 music/ASL/[ASL]_Chihara_Minori_-_Planet_Patrol_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_ChocoLE_-_SKET_DANCE_ED_-_Milk_to_Chocolate_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Choucho_-_Eiyuu_Densetsu_-_Sora_no_Kiseki_OVA_ED_Theme_-_Harmonia_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Choucho_-_Mashiro_Iro_Symphony_OP_-_Authentic_Symphony_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Clammbon_-_Hanasaku_Iroha_ED_5_-_Hanasaku_Iroha_[FLAC]_[w_Scans].rar
@@ -384,6 +385,7 @@ music/ASL/[ASL]_EGOIST_-_Guilty_Crown_ED_-_Departures_-Anata_ni_Okuru_Ai_no_Uta-
 music/ASL/[ASL]_ELISA_-_Hayate_No_Gotoku_HEAVEN_IS_A_PLACE_ON_EARTH_Insert_Song_-_Invisible_Message_[FLAC].rar
 music/ASL/[ASL]_EXIT_TUNES_PRESENTS_Mayumi_Morinaga_-_Exp._[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_EastNewSound_-_Split_Theory_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Electromuster_-_The_Personalizer_[FLAC].rar
 music/ASL/[ASL]_Elements_Garden_-_Taiyou_no_Promia_Complete_Soundtrack_CD_~Music_for_Milsant~_[FLAC].rar
 music/ASL/[ASL]_Faylan_-_Mirai_Nikki_ED_-_Blood_teller_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Faylan_-_Senjou_no_Valkyria_3_Ta_ga_Tame_no_Juusou_OP_-_Tomoshibi_[MP3]_[w_Scans].rar
@@ -555,6 +557,7 @@ music/ASL/[ASL]_ONE_OK_ROCK_-_BLACK_ROCK_SHOOTER_THE_GAME_Theme_Song_-_NO_SCARED
 music/ASL/[ASL]_Ogura_Yui_-_Kamisama_no_Memochou_Chraracter_File_1_Alice_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Ogura_Yui_-_RO-KYU-BU_Character_Songs_04_Hakamada_Hinata_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Omigawa_Chiaki_-_Hanasaku_Iroha_Character_Song_Single_Minko_Tsurugi_-_Namida_de_sakuhana_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Ono_Masatoshi_-_Hunter_x_Hunter_OP_-_departure_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Ookuba_Rumi_-_Yuruyuri_Character_Disc_4_-_Marugoto_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Otsubo_Yuka_-_Yuruyuri_Character_Disc_3_-_Mirakuru_Yurukuru_1_2_3_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_PSYCHIC_LOVER_-_Rewrite_2nd_OP_Theme_-_Rewrite_[FLAC].rar
@@ -573,6 +576,7 @@ music/ASL/[ASL]_ROOKiEZ_is_PUNK_D_-_Ao_no_exorcist_OP_-_IN_MY_WORLD_[FLAC]_[w_Sc
 music/ASL/[ASL]_Rie_Kugimiya_-_THE_IDOLM@STER_MASTER_ARTIST_2_-SECOND_SEASON-_01_Iori_Minase_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Rie_fu_-_For_You_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Riryka_-_Gakuen_Taima!_Holy_x_Moly_Original_Soundtrack_[FLAC].rar
+music/ASL/[ASL]_Rita_-_Kagayaki_no_Mirai_Every_my_Dear_[FLAC].rar
 music/ASL/[ASL]_Rita_-_Oniuta_Bonus_CD_-_Onigoto_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Ryuuguu_Rena_(Nakahara_Mai)_-_Higurashi_no_Naku_Koro_ni_Kira_file_01_Bonus_CD_[FLAC].rar
 music/ASL/[ASL]_SMEE_-_~Lover_Able~_IcyaLove_Memorial_Sound_Collection_[FLAC].rar
@@ -4875,6 +4879,7 @@ music/Shin-S/[Shin-S] STAR DRIVER ~Kagayaki no Takuto~ OP2 Single - SHINING STAR
 music/Shin-S/[Shin-S] Sacred Seven OP Single - stone cold [FictionJunction].zip
 music/Shin-S/[Shin-S] Seikon no Qwaser II ED Single - metaphor [Shoujo Byou].zip
 music/Shin-S/[Shin-S] Sengoku Otome ~Momoiro Paradox~ OP & ED Single - kagerou [Tenka Tori-tai].zip
+music/Shin-S/[Shin-S] Senki Zesshou Symphogear OP Single - Synchrogazer [Mizuki Nana].zip
 music/Shin-S/[Shin-S] Shakugan no Shana III -Final- ED Single - I'll believe [ALTIMA].zip
 music/Shin-S/[Shin-S] Shakugan no Shana III -Final- OP Single - Light My Fire [KOTOKO].zip
 music/Shin-S/[Shin-S] Shinryaku! Ika Musume S2 Character Song Single - Nagatsuki Sanae [Itou Kanae].zip

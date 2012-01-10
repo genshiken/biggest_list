@@ -102,6 +102,7 @@
 !new/Kigurumikku V3/[HorribleSubs] Kigurumikku - 01 [480p].mkv
 !new/Kigurumikku V3/[HorribleSubs] Kigurumikku - 02 [480p].mkv
 !new/Kigurumikku V3/[KusoSubs] Kigurumikku - 03 [WebRip].mkv
+!new/Maiku Upload/[Commie]_Last_Exile__Fam__The_Silver_Wing__-_12_[2E97F5F5].mkv
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 01 KTCR-9010/1. kanashimi yo konnichiwa (Saitou Yuki)  [OP]  (Hello! Sadness).mp3
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 01 KTCR-9010/10. ame yadori  (Take shelter from rain).mp3
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 01 KTCR-9010/11. ame yadori sono 2.mp3
@@ -657,9 +658,6 @@
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].avi
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].idx
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].sub
-!new/SuperS Back Cover Vol.1.jpg
-!new/SuperS DVD Cover Vol.1.jpg
-!new/SuperS Disc 1.jpg
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_01v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_02v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_03v2[divx5.1.1].mkv
@@ -740,9 +738,6 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/Whisper_of_the_Heart_(1995)_[1080p,BluRay,flac,dts,x264]_-_THORA [56B08E55].mkv
-!new/Whisper_of_the_Heart_(1995)_[1080p,BluRay,flac,dts,x264]_-_THORA.md5
-!new/Whisper_of_the_Heart_(1995)_[1080p,BluRay,flac,dts,x264]_-_THORA.nfo
 !new/[Zero-Raws] Aquarion Evol - 01v3 (TX 1280x720 x264 AAC).mp4
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_01v3[35]_-_Space-Time_Destruction_[624x480][DVD][ILA][8D03A921].ogm
 !new/belum/[TV_Series_1983-1984]_Choujikuu_Seiki_Orguss/Choujikuu_Seiki_Orguss_-_02v3[35]_-_Lonely_Wolf_[624x480][DVD][ILA][59B986D2].ogm
@@ -1317,63 +1312,6 @@
 !new/lama/[TAC Studios] Hunter X Hunter - Requiem.avi
 !new/mutsu no hana/MashiroIroSymphony.part1.rar
 !new/mutsu no hana/MashiroIroSymphony.part2.rar
-!new/myhime/[Coalgirls]_Mai_Hime_01_(960x720_Blu-Ray_FLAC)_[7B38612F].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_02_(960x720_Blu-Ray_FLAC)_[C5AAB311].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_03_(960x720_Blu-Ray_FLAC)_[3A4F75E9].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_04_(960x720_Blu-Ray_FLAC)_[49C6E1FF].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_05_(960x720_Blu-Ray_FLAC)_[66027132].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_06_(960x720_Blu-Ray_FLAC)_[F4D1B0A5].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_07_(960x720_Blu-Ray_FLAC)_[655B7598].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_08_(960x720_Blu-Ray_FLAC)_[039C3C1F].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_09_(960x720_Blu-Ray_FLAC)_[3865CD89].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_10_(960x720_Blu-Ray_FLAC)_[0C37E4A9].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_11_(960x720_Blu-Ray_FLAC)_[1E8B6567].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_12_(960x720_Blu-Ray_FLAC)_[52033F47].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_13_(960x720_Blu-Ray_FLAC)_[06DBA66F].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_14_(960x720_Blu-Ray_FLAC)_[6507817E].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_15_(960x720_Blu-Ray_FLAC)_[607AA48E].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_16_(960x720_Blu-Ray_FLAC)_[482F4A4C].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_17_(960x720_Blu-Ray_FLAC)_[99492A5F].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_18_(960x720_Blu-Ray_FLAC)_[3A7F43FA].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_19_(960x720_Blu-Ray_FLAC)_[22FF15F5].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_20_(960x720_Blu-Ray_FLAC)_[4C1B3D04].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_21_(960x720_Blu-Ray_FLAC)_[817AB192].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_22_(960x720_Blu-Ray_FLAC)_[EEFD939E].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_23_(960x720_Blu-Ray_FLAC)_[A43F2302].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_24_(960x720_Blu-Ray_FLAC)_[CB0A7C31].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_25_(960x720_Blu-Ray_FLAC)_[A4B72C78].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_26_(960x720_Blu-Ray_FLAC)_[6DF13DEA].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_26_Director's_Cut_(960x720_Blu-Ray_FLAC)_[067995A3].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_ED_(960x720_Blu-Ray_FLAC)_[C0E84827].mkv
-!new/myhime/[Coalgirls]_Mai_Hime_OP_(960x720_Blu-Ray_FLAC)_[D8A0EBCE].mkv
-!new/myhime/sp/[Coalgirls] Mai Hime - Special 01 [720p BD][C619D900].mkv
-!new/myhime/sp/[Coalgirls] Mai Hime - Special 02 [720p BD][A7960792].mkv
-!new/myhime/sp/[Coalgirls] Mai Hime - Special 03 [720p BD][59576C48].mkv
-!new/myhime/sp/[Coalgirls] Mai Hime - Special 04 [720p BD][E2F93529].mkv
-!new/myhime/sp/[Coalgirls] Mai Hime - Special 05 [720p BD][91A702BC].mkv
-!new/myhime/sp/[Coalgirls] Mai Hime - Special 06 [720p BD][0AC80809].mkv
-!new/myhime/sp/[Coalgirls] Mai Hime - Special 07 [720p BD][51EB76CB].mkv
-!new/myhime/sp/[Coalgirls] Mai Hime - Special 08 [720p BD][A5430BFC].mkv
-!new/myhime/sp/[Coalgirls] Mai Hime - Special 09 [720p BD][9F687974].mkv
-!new/myhime/sp/[Coalgirls] Mai Hime - Special 10 [720p BD][21AD0DF3].mkv
-!new/myhime/sp/[Coalgirls] Mai Hime - Special 11 [720p BD][BEE2E864].mkv
-!new/myhime/sp/[Coalgirls] Mai Hime - Special 12 [720p BD][1A2A1FD6].mkv
-!new/myhime/sp/[Coalgirls] Mai Hime - Special 13 [720p BD][A4296927].mkv
-!new/myhime/sp/[Coalgirls] Mai Hime - Special 14 [720p BD][90C92AEB].mkv
-!new/myhime/sp/[Coalgirls] Mai Hime - Special 15 [720p BD][42BC330C].mkv
-!new/myhime/sp/[Coalgirls] Mai Hime - Special 16 [720p BD][AD95C6D1].mkv
-!new/myhime/sp/[Coalgirls] Mai Hime - Special 17 [720p BD][1755C10E].mkv
-!new/myhime/sp/[Coalgirls] Mai Hime - Special 18 [720p BD][D7754DAB].mkv
-!new/myhime/sp/[Coalgirls] Mai Hime - Special 19 [720p BD][99066037].mkv
-!new/myhime/sp/[Coalgirls] Mai Hime - Special 20 [720p BD][FAA1F144].mkv
-!new/myhime/sp/[Coalgirls] Mai Hime - Special 21 [720p BD][3F47B8E0].mkv
-!new/myhime/sp/[Coalgirls] Mai Hime - Special 22 [720p BD][70C235AA].mkv
-!new/myhime/sp/[Coalgirls] Mai Hime - Special 23 [720p BD][4B7D69C6].mkv
-!new/myhime/sp/[Coalgirls] Mai Hime - Special 24 [720p BD][83E46FF5].mkv
-!new/myhime/sp/[Coalgirls] Mai Hime - Special 25 [720p BD][BE0E8A80].mkv
-!new/myhime/sp/[Coalgirls] Mai Hime - Special 26 [720p BD][8B70EB0A].mkv
-!new/myhime/sp/[Coalgirls] Mai Hime - Special 27 [720p BD][E68F77D9].mkv
-!new/myhime/sp/[Coalgirls] Mai Hime - Special 28 [720p BD][5AC7EC79].mkv
 !new/narutoship/Naruto Shippuden 100.mkv
 !new/narutoship/Naruto Shippuden 101v2-HD.mkv
 !new/narutoship/Naruto Shippuden 101v2.mkv
@@ -1496,25 +1434,6 @@
 !new/narutoship/y/Naruto Shippuden 098.mkv
 !new/narutoship/y/Naruto Shippuden 099-HD.mkv
 !new/narutoship/y/Naruto Shippuden 099.mkv
-!new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover - 55midori unaired version (DVD 1024x576 x264 FLAC).mkv
-!new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover - CM TV-SPOT (DVD 720x480 x264 AC-3).mkv
-!new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover - CM for shops (DVD 720x480 x264 AC-3).mkv
-!new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover - CM video 30sec  (DVD 720x480 x264 AC-3).mkv
-!new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover - CM video 90sec (DVD 720x480 x264 AC-3).mkv
-!new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover - DVDmenu sketch gallery.zip
-!new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover - Kaba-chan's seiyuu challenge (DVD 720x480 x264 AC-3).mkv
-!new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover - Making of OP (DVD 720x480 x264 AC-3).mkv
-!new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover - Model's job - Kudo Haruka (DVD 720x480 x264 AC-3).mkv
-!new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover - Omake (DVD 720x480 x264 AC-3).mkv
-!new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover - Promotion & talkshow at Tokyo IAF 2005 (DVD 720x480 x264 AC-3).mkv
-!new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover - Promotional Tea Party (DVD 720x480 x264 AC-3).mkv
-!new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover - Sincere talk with cast - epic 1 (DVD 720x480 x264 AC-3).mkv
-!new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover - Sincere talk with cast - epic 2 (DVD 720x480 x264 AC-3).mkv
-!new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover - Sincere talk with cast - epic 3 (DVD 720x480 x264 AC-3).mkv
-!new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover - Sincere talk with cast - epic 5 (no 4th on DVD) (DVD 720x480 x264 AC-3).mkv
-!new/nuu/[ANE] Honey & Clover (DVD 1024x576 x264 FLAC)/Bonus/[ANE] Honey & Clover - Suga Shikao's comments @ FujiTV Noitamina anniversary (DVD 720x480 x264 AC-3).mkv
-!new/nuu/[ANE] Shinryaku! Ika Musume - Mini Squid Girl Short Stories [BDRip 720p x264 FLAC]/[ANE] Shinryaku! Ika Musume - Mini Squid Girl Short Story 1 [BDRip 720p x264 FLAC].mkv
-!new/nuu/[ANE] Shinryaku! Ika Musume - Mini Squid Girl Short Stories [BDRip 720p x264 FLAC]/[ANE] Shinryaku! Ika Musume - Mini Squid Girl Short Story 2 [BDRip 720p x264 FLAC].mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス OVA 「青空が描きたい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 映像特典 「The たんかい」.mkv
 !new/raw/GA/[アニメ DVD] GA 芸術科アートデザインクラス 第01話 「えがいてあそぼ」.mkv
