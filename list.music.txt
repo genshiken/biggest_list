@@ -362,6 +362,8 @@ music/ASL/[ASL]_Caramell_-_U-U-UmaUma_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Cecile_Corbel_-_Arriettys_Song_Single_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Ceui_-_Kyoukaisen-jou_no_Horizon_ED_Side_Horizon_-_Stardust_Melodia_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Chariot_-_Shojo_to_Maou_to_Tactics_Original_Soundtrack_[FLAC].rar
+music/ASL/[ASL]_Chata_-_Chata_Works_Best_II_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Chata_-_Chata_Works_Best_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Chata_-_Suiheisen_made_Nan_Mile_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Chihara_Minori_-_Kyoukaisen-jou_no_Horizon_OP_-_TERMINATED_[FLAC]_[w Scans].rar
 music/ASL/[ASL]_Chihara_Minori_-_Planet_Patrol_[FLAC]_[w_Scans].rar
@@ -720,6 +722,7 @@ music/ASL/[ASL]_Various_Artists_-_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada
 music/ASL/[ASL]_Various_Artists_-_Ao_no_Exorcist_Original_Soundtrack_1_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Aoishiro_Original_Soundtrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Artemis_Blue_Music_Selection_[FLAC].rar
+music/ASL/[ASL]_Various_Artists_-_Ashita_no_Kimi_to_Au_Tame_ni_Character_song_CD_They_will_be_born_TOMORROW_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Astarotte_no_Omocha!_BD_DVD_1_Limited_Edition_Bonus_Special_CD_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Astarotte_no_Omocha!_BD_DVD_2_Limited_Edition_Bonus_Special_CD_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Astarotte_no_Omocha!_Character_Song_CD_Vol.1_Astarotte_Ygval_x_Judit_Snorrevik_[FLAC].rar
@@ -801,10 +804,12 @@ music/ASL/[ASL]_Various_Artists_-_GWAVE_2006_2nd_Strike_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_GWAVE_2007_1st_Drivers_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_GWAVE_2008_1st_Experience_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_GWAVE_2008_2nd_Experience_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_GWAVE_2011_1st_Chronicle_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_GWAVE_LOVE_BULLETSxTIE-UPPERS!_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_GWAVE_SuperFeatures_vol.3_Mermaid_Kiss _[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_GWAVE_SuperFeatures_vol3_Mermaid_Kiss_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_GWAVE_SuperFeatures_vol4_PR_Mighty_Love_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_GWAVE_WOM_-orginization-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Gekijouban_Sora_no_Otoshimono_Tokei_Jikake_no_Angeloid_OST_Tokei_Jikake_no_Ongakushuu_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Gwave_2010_2nd_Grace_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Hanafubuki_Kachou_Fuugetsu_Sound_Track_-_Inochi_Mijikashi_Koi_Seyo_Otome_[FLAC]_[w_Scans].rar
@@ -985,6 +990,7 @@ music/ASL/[ASL]_Various_Artists_-_Touhou_Middonaito_MAXIMUM_TUNE_Gaiden_[FLAC]_[
 music/ASL/[ASL]_Various_Artists_-_Utatemeguri_Original_Sound_Track_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_VOCALO_LOVERS_feat._Hatsune_Miku_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Vocal_CD_PERFECT_IDOL 01_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Vocal_CD_PERFECT_IDOL_02_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Vocaloid_Laboratory_[EXTRA].rar
 music/ASL/[ASL]_Various_Artists_-_Vocaloid_Laboratory_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_WORKING_3_Bonus_Drama_CD_-_Working_Holiday_[FLAC].rar

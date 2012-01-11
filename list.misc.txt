@@ -227,6 +227,7 @@ misc/tokusatsu/Kamen Rider Fourze/[Over-Time] Kamen Rider Fourze - 13 [D7412CAF]
 misc/tokusatsu/Kamen Rider Fourze/[Over-Time] Kamen Rider Fourze - 14 [527C11D8].mkv
 misc/tokusatsu/Kamen Rider Fourze/[Over-Time] Kamen Rider Fourze - 15 [A38C04B2].mkv
 misc/tokusatsu/Kamen Rider Fourze/[Over-Time] Kamen Rider Fourze - 16 [70200FF2].mkv
+misc/tokusatsu/Kamen Rider Fourze/[Over-Time] Kamen Rider Fourze - 17 [7B64BBF2].mkv
 misc/tokusatsu/Kamen Rider OOO/[Over-Time] Kamen Rider OOO - 01 [v2][F85F0293].mkv
 misc/tokusatsu/Kamen Rider OOO/[Over-Time] Kamen Rider OOO - 02 [2FF75641].mkv
 misc/tokusatsu/Kamen Rider OOO/[Over-Time] Kamen Rider OOO - 03 [8F2CA5D7].mkv
@@ -377,6 +378,7 @@ misc/tokusatsu/Pirate Sentai Gokaiger/[Over-Time] Pirate Sentai Gokaiger - 40 [1
 misc/tokusatsu/Pirate Sentai Gokaiger/[Over-Time] Pirate Sentai Gokaiger - 41 [01B75D4A].mkv
 misc/tokusatsu/Pirate Sentai Gokaiger/[Over-Time] Pirate Sentai Gokaiger - 42 [AB3228F1].mkv
 misc/tokusatsu/Pirate Sentai Gokaiger/[Over-Time] Pirate Sentai Gokaiger - 43 [9CD65790].mkv
+misc/tokusatsu/Pirate Sentai Gokaiger/[Over-Time] Pirate Sentai Gokaiger - 45 [334B84E2].mkv
 misc/webcomics/xkcd/0001 barrel_cropped_(1).jpg
 misc/webcomics/xkcd/0001 barrel_cropped_(1).txt
 misc/webcomics/xkcd/0002 tree_cropped_(1).jpg

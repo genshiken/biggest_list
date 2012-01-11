@@ -1853,6 +1853,7 @@ ongoing/One Piece/One Piece - Special 1 [K-F][DVD][DF62ACA0].avi
 ongoing/One Piece/One Piece - Special 2 [K-F][v2 DVD][03CFFEF6].avi
 ongoing/One Piece/One Piece - Special 3 [K-F][DVD][6F259023].mp4
 ongoing/One Piece/One Piece - Special 4 [K-F][DVD][0BE160AB].mp4
+ongoing/Papa no Iu Koto wo Kikinasai!/[CrunchySubs] Papa no Iu Koto wo Kikinasai! - 01 [720p][B9BA960F].mkv
 ongoing/Persona 4/[Commie] Persona 4 - 01 [14684F67].mkv
 ongoing/Persona 4/[Commie] Persona 4 - 02 [CAFCB598].mkv
 ongoing/Persona 4/[Commie] Persona 4 - 03 [6408901D].mkv
@@ -1940,6 +1941,9 @@ ongoing/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 057 [720p][D70AB201].mkv
 ongoing/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 058 [720p][3A78FB66].mkv
 ongoing/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 059 [720p][3C26F10F].mkv
 ongoing/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 060 [720p][FDDC0494].mkv
+ongoing/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 061 [720p][E7041346].mkv
+ongoing/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 062 [720p][E4077FCF].mkv
+ongoing/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 063 [720p][683A5B1F].mkv
 ongoing/Pretty Rhythm - Aurora Dream/[FFFpeeps] Pretty Rhythm - Aurora Dream - 01 [BCF75565].mkv
 ongoing/Pretty Rhythm - Aurora Dream/[FFFpeeps] Pretty Rhythm - Aurora Dream - 02 [81C60B42].mkv
 ongoing/Pretty Rhythm - Aurora Dream/[FFFpeeps] Pretty Rhythm - Aurora Dream - 03 [407459E9].mkv
@@ -2094,6 +2098,7 @@ ongoing/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 41 [720p][72FC60F2].mkv
 ongoing/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 42 [720p][17CBF57B].mkv
 ongoing/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 43 [v2 720p][1866FC55].mkv
 ongoing/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 44 [720p][94A9066C].mkv
+ongoing/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 45 [720p][0C1927F9].mkv
 ongoing/Suite PreCure!/[Nutbladder] Suite Precure - 01 [3DA27245].mkv
 ongoing/Suite PreCure!/[Nutbladder] Suite Precure - 02 [819AAD27].mkv
 ongoing/Suite PreCure!/[Nutbladder] Suite Precure - 03 [600FA473].mkv
