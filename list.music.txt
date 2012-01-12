@@ -539,6 +539,7 @@ music/ASL/[ASL]_Miyano_Mamoru_-_STEINS;GATE_Laboratory_Member_001_Okabe_Rintarou
 music/ASL/[ASL]_Miyano_Mamoru_-_Uta_no_Prince-sama_Maji_LOVE_1000_OP_-_Orpheus_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Mizuho_-_FORTUNE_ARTERIAL_Image_Theme_Maxi_Single_-_It_s_my_precious_time_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Mizuki_Nana_-_BLOOD-C_ED_-_Junketsu_Paradox_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Mizuki_Nana_-_Senhime_Zesshou_Symphogear_OP_-_Synchrogazer_[FLAC].rar
 music/ASL/[ASL]_Mizuki_Nana_-_THE_MUSEUM_II_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Momoi_Halko_-_STEINS;GATE_Laboratory_Member_007_Feyris_Nyannyan_[FLAC].rar
 music/ASL/[ASL]_Morinaga_Mayumi_-_EXTRA_Whipping_Cream_[FLAC]_[w_Scans].rar
@@ -880,6 +881,7 @@ music/ASL/[ASL]_Various_Artists_-_Mitsudomoe_OST_-_Mitsudomo_Best_[FLAC]_[w_Scan
 music/ASL/[ASL]_Various_Artists_-_Murasaki-Ban_Vocal_Selection_II_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_NEKO_KOI_Original_Sound_Tracks_-_NEKO_MIMI_Orchestra_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_NEKO_KOI_Original_Vocal_Maxi_Single_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Nanatsu_no_Fushigi_no_Owaru_Toki_ORIGINAL_SOUNDTRACK_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Nekogami_OP_-_Kami-sama_to_issho_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Nekogami_Yaoyorozu_Character_Song_Vol._1_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Nekogami_Yaoyorozu_Character_Song_Vol2_[FLAC]_[w_Scans].rar
