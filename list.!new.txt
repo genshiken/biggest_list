@@ -657,6 +657,11 @@
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].avi
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].idx
 !new/Sakigake Cromartie High Movie/Sakigake Cromartie High - The Movie CD2 [CiMG].sub
+!new/Seto no Hanayome OVA/[Doki] Seto no Hanayome OVA - 01 (720x480 h264 DVD AAC) [032D22A4].mkv
+!new/Seto no Hanayome OVA/[Doki] Seto no Hanayome OVA - 01 (720x480 h264 DVD AAC) [032D22A4].mkv.sfv
+!new/Seto no Hanayome OVA/[Doki] Seto no Hanayome OVA - 02 (720x480 h264 DVD AAC) [F2874F32].mkv
+!new/Seto no Hanayome OVA/[Doki] Seto no Hanayome OVA - 02 (720x480 h264 DVD AAC) [F2874F32].mkv.sfv
+!new/Seto no Hanayome OVA/remux 16x9.txt
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_01v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_02v2[divx5.1.1].mkv
 !new/Tenchi Muyo/Seina Yamada/[a4e]Tenchi_Muyo_GXP_03v2[divx5.1.1].mkv
