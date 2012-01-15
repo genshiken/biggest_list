@@ -779,7 +779,6 @@
 !new/[HTMSD-Release] 2011.12.21 - Hunter x Hunter 2011 Opening (Masatoshi Ono - departure) [320 MP3+SCANS].rar
 !new/[Hadena]_High_School_DxD_-_02_[Director_s_Cut][848x480_x264_AAC][89180616].mkv
 !new/[Hiryuu]_High_School_DxD_01_[AT-X_1280x720_H264]_[8A80D1B3].mkv
-!new/[UTW] Amagami SS Plus - 02 [h264-720p][1037320D].mkv
 !new/[Zero-Raws] Aquarion Evol - 01v3 (TX 1280x720 x264 AAC).mp4
 !new/[mike_92-IDWS] Fear, and Loathing in Las Vegas - Just Awake [320 MP3].rar
 !new/[utaJP] ecosystem_-_Dillema [128 MP3+SCANS].rar
@@ -1310,6 +1309,41 @@
 !new/bla/zx.black.heaven.12.sub.rar
 !new/bla/zx.black.heaven.13.dub.avi
 !new/bla/zx.black.heaven.13.sub.rar
+!new/ccs/Readme.txt
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_01_(960x720_Blu-ray_FLAC)_[E82CBAC4].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_02_(960x720_Blu-ray_FLAC)_[59081256].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_03_(960x720_Blu-ray_FLAC)_[DFC3013E].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_04_(960x720_Blu-ray_FLAC)_[D0FD7130].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_05_(960x720_Blu-ray_FLAC)_[A60249AA].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_06_(960x720_Blu-ray_FLAC)_[F093E65F].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_07_(960x720_Blu-ray_FLAC)_[7C7133CC].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_08_(960x720_Blu-ray_FLAC)_[694DF414].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_09_(960x720_Blu-ray_FLAC)_[30330F8A].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_10_(960x720_Blu-ray_FLAC)_[60780B4B].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_11_(960x720_Blu-ray_FLAC)_[C8AEDF1C].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_12_(960x720_Blu-ray_FLAC)_[5661E15B].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_13_(960x720_Blu-ray_FLAC)_[3A154A13].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_14_(960x720_Blu-ray_FLAC)_[29AA0C5F].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_15_(960x720_Blu-ray_FLAC)_[B9CEB2AF].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_16_(960x720_Blu-ray_FLAC)_[C646EF60].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_17_(960x720_Blu-ray_FLAC)_[E985D879].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_18_(960x720_Blu-ray_FLAC)_[F055FE35].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_19_(960x720_Blu-ray_FLAC)_[9AC410B8].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_20_(960x720_Blu-ray_FLAC)_[5A451554].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_21_(960x720_Blu-ray_FLAC)_[71B05BD6].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_22_(960x720_Blu-ray_FLAC)_[106AEDA7].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_23_(960x720_Blu-ray_FLAC)_[095AD586].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_24_(960x720_Blu-ray_FLAC)_[54A1335A].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_25_(960x720_Blu-ray_FLAC)_[43B3BEB7].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_26_(960x720_Blu-ray_FLAC)_[889E15D3].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_27_(960x720_Blu-ray_FLAC)_[9CA8E233].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_28_(960x720_Blu-ray_FLAC)_[A7C914F2].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_29_(960x720_Blu-ray_FLAC)_[75692EC3].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_30_(960x720_Blu-ray_FLAC)_[7C4A6332].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_31_(960x720_Blu-ray_FLAC)_[782DFCD2].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_32_(960x720_Blu-ray_FLAC)_[8211BC64].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_33_(960x720_Blu-ray_FLAC)_[BC5C29A0].mkv
+!new/ccs/[Coalgirls]_Cardcaptor_Sakura_34_(960x720_Blu-ray_FLAC)_[58FD463E].mkv
 !new/hdp2/Princess Lover!/[polished] Princess Love! Maiden's Secret 01 [BD 1080][DDEF29F7].mkv
 !new/hdp2/Princess Lover!/[polished] Princess Love! Maiden's Secret 02 [BD 1080][EA90E7E1].mkv
 !new/hdp2/Princess Lover!/[polished] Princess Love! Maiden's Secret 03 [BD 1080][5E950AF0].mkv
@@ -1347,8 +1381,6 @@
 !new/hdp2/[T-N] Kamen Rider Blade Movie DC [5AB2B2DA] Release 2000.avi
 !new/hdp2/[T-N] Kamen Rider Blade vs blade [56183A18].avi
 !new/hdp2/[T-N]Kamen_Rider_Blade_01DVDver2[C40869EC].avi
-!new/hs/[HorribleSubs] Hunter x Hunter (2011) - 13 [720p][B6EB3CF7].mkv
-!new/hs/[HorribleSubs] Shinryaku Ika Musume S2 - 12 [720p][A059CA71].mkv
 !new/lama/[Arabdreamers] Detective Conan - Movie 09.mkv
 !new/lama/[Ayako] Weiﬂ Survive R - 01 - H264 - E975A989.mkv
 !new/lama/[KnKF] Detective Conan - Kudo Shinichi's Written Challenge - 00 [1F51E9B8].avi
