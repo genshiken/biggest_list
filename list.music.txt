@@ -436,6 +436,7 @@ music/ASL/[ASL]_Hyadain_-_Nichijou_OP_2_-_Hyadain_no_Joujou_Yuujou_[FLAC].rar
 music/ASL/[ASL]_Hyakkoku_Hajime_-_K-ON_MOVIE_ORIGINAL_SOUND_TRACK_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_IKU_-_Robe_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_IOSYS_-_Greatest_Hits_-Yotei-_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Ichikawa_Jun_-_C3_C_Cube-Cube_x_Cursed_x_Curious_Original_Soundtrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Igarashi_Hiromi_-_Papa_no_Iukoto_o_Kikinasai_Takanashi_Hina_Character_Song_CD_-_Shararararunra_[EXTRA].rar
 music/ASL/[ASL]_Igarashi_Hiromi_-_Papa_no_Iukoto_o_Kikinasai_Takanashi_Hina_Character_Song_CD_-_Shararararunra_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Iguchi_Yuka_-_Ro-Kyu-Bu_Character_Songs_02_Misawa_Maho_[FLAC]_[w_Scans].rar
@@ -482,6 +483,7 @@ music/ASL/[ASL]_KatateSIZE_-_Nurarihyon_no_Mago_Sennen_Makyou_ED_-_Orange_Smile_
 music/ASL/[ASL]_Katou_Emiri_-_Yuruyuri_Character_Disc_3_-_Mirakuru_Yurukuru_1_2_3_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Katou_Emiri_-_Yuruyuri_Character_Disc_5_-_Kirai_Janai_mon_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Katsura_Hinagiku_-_HiNA2_Spring_has_come!!_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Kawada_Mami_-_Nanatsu_no_Fushigi_no_Owaru_Toki_VOCAL_COLLECTION_[FLAC].rar
 music/ASL/[ASL]_Kawahara_Yoshihisa_-_Nichijou_Character_Song_7_Sasahara_Koujirou_-_Sasahara_no_Koujirou_POLKA_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Kawano_Marina_-_A_Channel_OP_-_Morning_Arch_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Key_Sounds_Label_-_Rewrite_Original_Soundtrack_[FLAC].rar
@@ -937,6 +939,7 @@ music/ASL/[ASL]_Various_Artists_-_SUPER_SHOT2_-Bishoujo_Game_Remix_Collection-_[
 music/ASL/[ASL]_Various_Artists_-_SUPER_SHOT3_-Bishoujo_Game_Remix_Collection-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_SUPER_SHOT_-Bishoujo_Game_Remix_Collection-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Sakaagari_Hurricane_Soundtrack_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Sakura_Taisen_Zenkyokushu_COMPLETE_SONG_BOX_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Science_Adventure_Dance_Remix_CHAOS_HEAD_STEINS_GATE_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Secret_Game_CODE_Revise_Original_Sound_Track_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Sekai_Seifuku_Kanojo_Opening_Theme_guru_guru_[FLAC]_[w_Scans].rar
@@ -1047,6 +1050,7 @@ music/ASL/[ASL]_doriko_Feat._Hatsune_Miku_-_Romeo_to_Cinderella_[FLAC]_[w_Scans]
 music/ASL/[ASL]_doriko_feat_Hatsune_Miku_-_unformed_[FLAC].rar
 music/ASL/[ASL]_eufonius_-_Phonon_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_eufonius_-_bezel_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_fripSide_-_PC_game_compilation_vol_1_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_fripSide_-_Toaru_Kagaku_no_Railgun_PSP_OP_Theme_-_way_to_answer_[EXTRA].rar
 music/ASL/[ASL]_fripSide_-_Toaru_Kagaku_no_Railgun_PSP_OP_Theme_-_way_to_answer_[FLAC].rar
 music/ASL/[ASL]_fripSide_Hayate_no_Gotoku_-_Heaven_is_a_Place_on_Earth_Main_Theme_Single_-_Heaven_is_a_Place_on_Earth_[FLAC]_[w_Scans].rar

@@ -5013,6 +5013,20 @@ complete/f/Fruits Basket/[a4e] Fruits Basket - 23 [4345AF6D].ogm
 complete/f/Fruits Basket/[a4e] Fruits Basket - 24 [ECCBF18A].ogm
 complete/f/Fruits Basket/[a4e] Fruits Basket - 25 [DBD8A352].ogm
 complete/f/Fruits Basket/[a4e] Fruits Basket - 26 [End][D05BB02E].ogm
+complete/f/Full Metal Panic Fumoffu/[Tormaid] Full Metal Panic Fumoffu - 01 [720p BD][2554E5A7].mkv
+complete/f/Full Metal Panic Fumoffu/[Tormaid] Full Metal Panic Fumoffu - 02 [720p BD][2590ABA5].mkv
+complete/f/Full Metal Panic Fumoffu/[Tormaid] Full Metal Panic Fumoffu - 03 [720p BD][D6F561B2].mkv
+complete/f/Full Metal Panic Fumoffu/[Tormaid] Full Metal Panic Fumoffu - 04 [720p BD][F60AC776].mkv
+complete/f/Full Metal Panic Fumoffu/[Tormaid] Full Metal Panic Fumoffu - 05 [720p BD][9B40B8AF].mkv
+complete/f/Full Metal Panic Fumoffu/[Tormaid] Full Metal Panic Fumoffu - 06 [720p BD][9C999F2E].mkv
+complete/f/Full Metal Panic Fumoffu/[Tormaid] Full Metal Panic Fumoffu - 07 [720p BD][8D13D839].mkv
+complete/f/Full Metal Panic Fumoffu/[Tormaid] Full Metal Panic Fumoffu - 08 [720p BD][8FB4F62F].mkv
+complete/f/Full Metal Panic Fumoffu/[Tormaid] Full Metal Panic Fumoffu - 09 [720p BD][7C6C1024].mkv
+complete/f/Full Metal Panic Fumoffu/[Tormaid] Full Metal Panic Fumoffu - 10 [720p BD][DB4C66F0].mkv
+complete/f/Full Metal Panic Fumoffu/[Tormaid] Full Metal Panic Fumoffu - 11 [720p BD][D6A41C1E].mkv
+complete/f/Full Metal Panic Fumoffu/[Tormaid] Full Metal Panic Fumoffu - 12 [End][720p BD][7092FACE].mkv
+complete/f/Full Metal Panic Fumoffu/[Tormaid] Full Metal Panic Fumoffu - Ending (Clean) [720p BD][19907FEC].mkv
+complete/f/Full Metal Panic Fumoffu/[Tormaid] Full Metal Panic Fumoffu - Opening (Clean) [720p BD][3A1982D4].mkv
 complete/f/Full Metal Panic! The Second Raid OVA/[KAA] Full Metal Panic! The Second Raid OVA [41C8617A].mkv
 complete/f/Full Metal Panic! The Second Raid/[KAA] Full Metal Panic! The Second Raid - 01 [18A707F4].mkv
 complete/f/Full Metal Panic! The Second Raid/[KAA] Full Metal Panic! The Second Raid - 02 [F76D3DDF].mkv
@@ -6990,6 +7004,9 @@ complete/h/HaniHani ~Operation Sanctuary~/[Jumonji-Giri] HaniHani Operation Sanc
 complete/h/HaniHani ~Operation Sanctuary~/[Jumonji-Giri] HaniHani Operation Sanctuary - 03 [11AF8490].mkv
 complete/h/HaniHani ~Operation Sanctuary~/[Jumonji-Giri] HaniHani Operation Sanctuary - 04 [E060EC20].mkv
 complete/h/HaniHani ~Operation Sanctuary~/[Jumonji-Giri] HaniHani Operation Sanctuary - 05 [D07FCCA8].mkv
+complete/h/HaniHani ~Operation Sanctuary~/[Jumonji-Giri] HaniHani Operation Sanctuary - 06 [1F5F8BE2].mkv
+complete/h/HaniHani ~Operation Sanctuary~/[Jumonji-Giri] HaniHani Operation Sanctuary - 07 [01A4E9AA].mkv
+complete/h/HaniHani ~Operation Sanctuary~/[Jumonji-Giri] HaniHani Operation Sanctuary - 08 [E72ABAB7].mkv
 complete/h/HaniHani ~Operation Sanctuary~/[SS] HaniHani ~Operation Sanctuary~ - 01 [v3][C2A43366].avi
 complete/h/HaniHani ~Operation Sanctuary~/[SS] HaniHani ~Operation Sanctuary~ - 02 [v2][CE179E3F].avi
 complete/h/HaniHani ~Operation Sanctuary~/[SS] HaniHani ~Operation Sanctuary~ - 03 [v2][F06CFE7C].avi
@@ -12626,30 +12643,30 @@ complete/m/Matantei Loki Ragnarok/[B-A] Matantei Loki Ragnarok - 23 [EF94DD8D].m
 complete/m/Matantei Loki Ragnarok/[B-A] Matantei Loki Ragnarok - 24 [0FBF912D].mkv
 complete/m/Matantei Loki Ragnarok/[B-A] Matantei Loki Ragnarok - 25 [B51233B5].mkv
 complete/m/Matantei Loki Ragnarok/[B-A] Matantei Loki Ragnarok - 26 [End][A6CD2512].mkv
-complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 01 [B8C345E7].mkv
-complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 02 [E0BE35C9].mkv
-complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 03 [6809F5F9].mkv
-complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 04 [685D0E68].mkv
-complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 05 [86845EF7].mkv
-complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 06 [E941B2D1].mkv
-complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 07 [2611B13C].mkv
-complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 08 [8A88DF18].mkv
-complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 09 [2182065F].mkv
-complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 10 [1E74EB5D].mkv
-complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 11 [v2][B0407408].mkv
-complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 12 [8AE3776F].mkv
-complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 13 [50CF070F].mkv
-complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 14 [CE846E4B].mkv
-complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 15 [76D04E3D].mkv
-complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 16 [49CA1079].mkv
-complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 17 [0ED4AFC8].mkv
-complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 18 [866717AB].mkv
-complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 19 [E0AC7FEC].mkv
-complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 20 [1D55D144].mkv
-complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 21 [BCFFBD7D].mkv
-complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 22 [B86DD0DC].mkv
-complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 23 [F7D94B28].mkv
-complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 24 [End][E51B0C58].mkv
+complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 01 [v2][59E3CAF4].mkv
+complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 02 [v2][93F022D9].mkv
+complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 03 [v2][EC498C9C].mkv
+complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 04 [v2][C4ECBE05].mkv
+complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 05 [v2][F99CDFA8].mkv
+complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 06 [v2][6297C1C9].mkv
+complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 07 [v2][F2189E1A].mkv
+complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 08 [v2][26C515DB].mkv
+complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 09 [v2][5D9F2E63].mkv
+complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 10 [v2][1D063D0A].mkv
+complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 11 [v2][8461E890].mkv
+complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 12 [v2][E9A8B987].mkv
+complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 13 [v2][3D9B2C18].mkv
+complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 14 [v2][9388D507].mkv
+complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 15 [v2][BB2F708D].mkv
+complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 16 [v2][2CA8277C].mkv
+complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 17 [v2][6805925C].mkv
+complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 18 [v2][C5290C00].mkv
+complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 19 [v2][747B0064].mkv
+complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 20 [v2][7F7D2B04].mkv
+complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 21 [v2][F4C218D9].mkv
+complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 22 [v2][FE644DE4].mkv
+complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 23 [v2][545EEC9D].mkv
+complete/m/Mawaru Penguindrum/[gg] Mawaru Penguindrum - 24 [End][v2][E5972315].mkv
 complete/m/Mayo Chiki!/[Ayako] Mayo Chiki! - 01 [720p][BAA60A16].mkv
 complete/m/Mayo Chiki!/[Ayako] Mayo Chiki! - 02 [720p][D9805400].mkv
 complete/m/Mayo Chiki!/[Ayako] Mayo Chiki! - 03 [720p][F88D5BE9].mkv
@@ -15374,8 +15391,8 @@ complete/r/R-15/[Fail-15] R-15 - 09 [720p][503AE6EB].mkv
 complete/r/R-15/[Fail-15] R-15 - 10 [720p][622DC13B].mkv
 complete/r/R-15/[Fail-15] R-15 - 11 [720p][5F39251C].mkv
 complete/r/R-15/[Fail-15] R-15 - 12 [End][720p][CEBE1CD6].mkv
-complete/r/R-15/[Fail-15] R-15 - Ending (Clean) [1080p BD][A74B5600].mkv
-complete/r/R-15/[Fail-15] R-15 - Opening (Clean) [1080p BD][905F981B].mkv
+complete/r/R-15/[Fail-15] R-15 - Ending (Clean) [1080p BD][092318B9].mkv
+complete/r/R-15/[Fail-15] R-15 - Opening (Clean) [1080p BD][9A841FF0].mkv
 complete/r/RAY The Animation/[Froth-Bite] RAY The Animation - 01 [2E31080C].mp4
 complete/r/RAY The Animation/[Froth-Bite] RAY The Animation - 02 [F12934CD].mp4
 complete/r/RAY The Animation/[Froth-Bite] RAY The Animation - 03 [8CC32622].mp4
@@ -16265,14 +16282,22 @@ complete/s/Sailor Moon Super S/[SMC] Sailor Moon SuperS - 25 [DVD][1C81C552].mkv
 complete/s/Sailor Moon Super S/[SMC] Sailor Moon SuperS - 26 [DVD][6F7DC893].mkv
 complete/s/Sailor Moon Super S/[SMC] Sailor Moon SuperS - 27 [DVD][83E1E93A].mkv
 complete/s/Sailor Moon Super S/[SMC] Sailor Moon SuperS - 28 [DVD][508C2A09].mkv
+complete/s/Sailor Moon Super S/[SMC] Sailor Moon SuperS - 29 [DVD][5ED749CF].mkv
+complete/s/Sailor Moon Super S/[SMC] Sailor Moon SuperS - 30 [DVD][EF7598EF].mkv
+complete/s/Sailor Moon Super S/[SMC] Sailor Moon SuperS - 31 [DVD][3725E7FF].mkv
+complete/s/Sailor Moon Super S/[SMC] Sailor Moon SuperS - 32 [DVD][557BBAFD].mkv
+complete/s/Sailor Moon Super S/[SMC] Sailor Moon SuperS - 33 [DVD][B56705A3].mkv
+complete/s/Sailor Moon Super S/[SMC] Sailor Moon SuperS - 34 [DVD][F324EA4C].mkv
 complete/s/Sailor Moon Super S/[SMC] Sailor Moon SuperS - Ending 1 (Clean) [0167CAD4].mkv
 complete/s/Sailor Moon Super S/[SMC] Sailor Moon SuperS - Ending 1 [20580B49].mkv
 complete/s/Sailor Moon Super S/[SMC] Sailor Moon SuperS - Ending 2 (Clean) [DVD][0C8D5AF6].mkv
+complete/s/Sailor Moon Super S/[SMC] Sailor Moon SuperS - Ending 2 (Clean) [LD][1FBAB98F].mkv
 complete/s/Sailor Moon Super S/[SMC] Sailor Moon SuperS - Ending 2 (Clean) [R1 DVD][6467AE27].mkv
 complete/s/Sailor Moon Super S/[SMC] Sailor Moon SuperS - Opening 1 [DVD][29524F71].mkv
 complete/s/Sailor Moon Super S/[SMC] Sailor Moon SuperS - Opening 1 [DVD][6BFF6BD5].mkv
 complete/s/Sailor Moon Super S/[SMC] Sailor Moon SuperS - Opening 2 (Clean) [B99AB2D7].mkv
 complete/s/Sailor Moon Super S/[SMC] Sailor Moon SuperS - Opening 2 (Clean) [DVD][B38FBA95].mkv
+complete/s/Sailor Moon Super S/[SMC] Sailor Moon SuperS - Opening 2 (Clean) [LD][26A6E1CF].mkv
 complete/s/Sailor Moon Super S/[SMC] Sailor Moon SuperS - Opening 2 [DVD][9BAD7305].mkv
 complete/s/Sailor Moon Super S/[SMC] Sailor Moon SuperS - Opening 2 [R1 DVD][C054ABDB].mkv
 complete/s/Sailor Moon Super S/[SMC] Sailor Moon SuperS - Special [DVD][A61604DE].mkv
