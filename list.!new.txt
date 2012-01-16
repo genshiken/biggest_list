@@ -746,6 +746,7 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
 !new/[AnimeUltima]_Moretsu_Pirates_-_1_[1080p].mkv
+!new/[AnimeUltima]_Moretsu_Pirates_-_2_[1080p].mkv
 !new/[Blu-ray] Seto no Hanayome/1) Seto no Hanayome [BD][completed]/[Doki] Seto no Hanayome (1280x720 h264 BD FLAC).sfv
 !new/[Blu-ray] Seto no Hanayome/1) Seto no Hanayome [BD][completed]/[Doki] Seto no Hanayome - 01v2 (1280x720 h264 BD FLAC) [84D94E2D].mkv
 !new/[Blu-ray] Seto no Hanayome/1) Seto no Hanayome [BD][completed]/[Doki] Seto no Hanayome - 02v2 (1280x720 h264 BD FLAC) [1B2FBFE7].mkv
@@ -783,6 +784,8 @@
 !new/[Coalgirls]_Persona_4_The_Animation_04_(1280x720_Blu-ray_FLAC)_[17A429EC].mkv
 !new/[Commie] Ano Natsu de Matteru - 01 [9857720E].mkv
 !new/[Commie] Nisemonogatari - 01 [FD2DD7A5].mkv
+!new/[Commie] Nisemonogatari - 02 [0BD2EE1E].mkv
+!new/[Commie] Senki Zesshou Symphogear - 01 [E6264EDD].mkv
 !new/[Commie] Zero no Tsukaima F - 01 [1849A1EB].mkv
 !new/[HTMSD-Release] 2011.12.21 - Hunter x Hunter 2011 Opening (Masatoshi Ono - departure) [320 MP3+SCANS].rar
 !new/[Hadena]_High_School_DxD_-_02_[Director_s_Cut][848x480_x264_AAC][89180616].mkv
