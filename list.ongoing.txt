@@ -423,6 +423,7 @@ ongoing/Chihayafuru/[Commie] Chihayafuru - 10 [6FB1EE02].mkv
 ongoing/Chihayafuru/[Commie] Chihayafuru - 11 [A9A04231].mkv
 ongoing/Chihayafuru/[Commie] Chihayafuru - 12 [00C23DF2].mkv
 ongoing/Chihayafuru/[Commie] Chihayafuru - 13 [9A38F2BE].mkv
+ongoing/Chihayafuru/[Commie] Chihayafuru - 14 [2B16503C].mkv
 ongoing/Daily Lives of High School Boys/[sage] Daily Lives of High School Boys - 01 [720p][7488D677].mkv
 ongoing/Detective Conan/Detective Conan - 001 [FBI][Remastered][8548B1E5].mkv
 ongoing/Detective Conan/Detective Conan - 018 [FBI][788EEAAC].mkv
@@ -971,7 +972,6 @@ ongoing/Gintama/Gintama - 198 [HorribleSubs][28B4496D].mkv
 ongoing/Gintama/Gintama - 199 [HorribleSubs][930FDE84].mkv
 ongoing/Gintama/Gintama - 200 [HorribleSubs][1E4A31F3].mkv
 ongoing/Gintama/Gintama - 201 [HorribleSubs][End][07ADB6F6].mkv
-ongoing/Guilty Crown/[CoalGuys] Guilty Crown - 02 [A986664D].mkv
 ongoing/Guilty Crown/[Commie] Guilty Crown - 01 [662BB1FD].mkv
 ongoing/Guilty Crown/[Commie] Guilty Crown - 02 [6D1930E8].mkv
 ongoing/Guilty Crown/[Commie] Guilty Crown - 03 [5EF0B8DB].mkv
@@ -983,6 +983,7 @@ ongoing/Guilty Crown/[Commie] Guilty Crown - 08 [B171C9BB].mkv
 ongoing/Guilty Crown/[Commie] Guilty Crown - 09 [52C0456D].mkv
 ongoing/Guilty Crown/[Commie] Guilty Crown - 10 [6094511C].mkv
 ongoing/Guilty Crown/[Commie] Guilty Crown - 11 [8C27E959].mkv
+ongoing/Guilty Crown/[Commie] Guilty Crown - 12 [243140FE].mkv
 ongoing/Gundam AGE/[sage] Gundam AGE - 01 [720p][E2B286B6].mkv
 ongoing/Gundam AGE/[sage] Gundam AGE - 02 [720p][26F41121].mkv
 ongoing/Gundam AGE/[sage] Gundam AGE - 03 [720p][CA6F22B7].mkv
@@ -1101,7 +1102,7 @@ ongoing/Kaibutsu Oujo OVA/[Hatsuyuki] Kaibutsu Oujo OVA - 03 [DVD][04E0477D].mkv
 ongoing/Kaibutsu Oujo OVA/[Mamiko SHiN] Kaibutsu Oujo OVA - 01 [DVD][EEE2827C].mkv
 ongoing/Kaibutsu Oujo OVA/[Mamiko SHiN] Kaibutsu Oujo OVA - 02 [DVD][1F5A2D99].mkv
 ongoing/Kill Me Baby/[UTW-Mazui] Kill Me Baby - 01 [720p][99001B5A].mkv
-ongoing/Kill Me Baby/[UTW-Mazui] Kill Me Baby - 02 [720p][3580DEEE].mkv
+ongoing/Kill Me Baby/[UTW-Mazui] Kill Me Baby - 02 [v2 720p][D257EB05].mkv
 ongoing/Kimi to Boku/[sage] Kimi to Boku - 01 [720p][E6379F9E].mkv
 ongoing/Kimi to Boku/[sage] Kimi to Boku - 02 [720p][E61E36CD].mkv
 ongoing/Kimi to Boku/[sage] Kimi to Boku - 03 [720p][054626F0].mkv
@@ -1897,6 +1898,7 @@ ongoing/Persona 4/[Commie] Persona 4 - 10 [32EC3418].mkv
 ongoing/Persona 4/[Commie] Persona 4 - 11 [A50CD66B].mkv
 ongoing/Persona 4/[Commie] Persona 4 - 12 [49083C60].mkv
 ongoing/Persona 4/[Commie] Persona 4 - 13 [0A5EB6D7].mkv
+ongoing/Persona 4/[Commie] Persona 4 - 14 [79B0E68D].mkv
 ongoing/Phi Brain - Kami no Puzzle/[AonE] Phi Brain - 01 [94C59F8C].mkv
 ongoing/Phi Brain - Kami no Puzzle/[AonE] Phi Brain - 02 [35C8170B].mkv
 ongoing/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 01 [7105C87D].mkv
@@ -2077,6 +2079,7 @@ ongoing/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 10 [FF705D7E]
 ongoing/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 11 [0F01C7B8].mkv
 ongoing/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 12 [A2FF8F2F].mkv
 ongoing/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 13 [CA37799C].mkv
+ongoing/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 14 [38C7AAE8].mkv
 ongoing/Shakugan no Shana Final/[SS-Eclipse] Shakugan no Shana Final - 01 [720p][853CEC84].mkv
 ongoing/Shakugan no Shana Final/[SS-Eclipse] Shakugan no Shana Final - 02 [720p][7A5CAC26].mkv
 ongoing/Shakugan no Shana Final/[SS-Eclipse] Shakugan no Shana Final - 03 [720p][6EE625F2].mkv
@@ -2182,4 +2185,5 @@ ongoing/Toriko/[A-Destiny] Toriko - 35 [720p][FF43B499].mkv
 ongoing/Toriko/[A-Destiny] Toriko - 36 [720p][F7683326].mkv
 ongoing/Toriko/[A-Destiny] Toriko - 37 [720p][2D96B7A5].mkv
 ongoing/Toriko/[A-Destiny] Toriko - 38 [720p][C8DE71F1].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 39 (1280x720 Hi10p) [08B9716A].mkv
 ongoing/Zero no Tsukaima F/[Commie] Zero no Tsukaima F - 01 [1849A1EB].mkv
