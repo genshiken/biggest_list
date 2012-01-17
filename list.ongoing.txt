@@ -5,6 +5,7 @@ ongoing/Ano Natsu de Matteru/[Commie] Ano Natsu de Matteru - 01 [9857720E].mkv
 ongoing/Ano Natsu de Matteru/[Zenyaku] Ano Natsu de Matteru - PV [9F74F7EC].mkv
 ongoing/Another/[Underwater] Another - 01 [720p][3AD80981].mkv
 ongoing/Area no Kishi/[Oyatsu] Area no Kishi - 01 [720p][8652D215].mkv
+ongoing/Area no Kishi/[Oyatsu] Area no Kishi - 02 [720p][D0B2639C].mkv
 ongoing/Bakuman S2/[GotWoot] Bakuman 2 - 01 [57F487E4].mkv
 ongoing/Bakuman S2/[GotWoot] Bakuman 2 - 02 [v2][D7C42D2D].mkv
 ongoing/Bakuman S2/[GotWoot] Bakuman 2 - 03 [E6C5B9DC].mkv
@@ -997,8 +998,10 @@ ongoing/Gundam AGE/[sage] Gundam AGE - 10 [720p][8718E427].mkv
 ongoing/Gundam AGE/[sage] Gundam AGE - 11 [720p][E4F18F5F].mkv
 ongoing/Gundam AGE/[sage] Gundam AGE - 12 [720p][8F15D800].mkv
 ongoing/Gundam AGE/[sage] Gundam AGE - 13 [720p][79485DAF].mkv
+ongoing/Gundam AGE/[sage] Gundam AGE - 14 [720p][13C7D174].mkv
 ongoing/Gundam SEED (Remaster)/[sage] Gundam SEED (Remaster) - 01 [720p][1C4BC88D].mkv
 ongoing/Gundam SEED (Remaster)/[sage] Gundam SEED (Remaster) - 02 [720p][E7E07180].mkv
+ongoing/Gundam SEED (Remaster)/[sage] Gundam SEED (Remaster) - 03 [720p][F66AD78F].mkv
 ongoing/High School DxD/[Hiryuu] High School DxD - 01 [720p][8A80D1B3].mkv
 ongoing/High School DxD/[Hiryuu] High School DxD - 02 [v2 720p][7B730F7C].mkv
 ongoing/Honto ni Atta! Reibai Sensei/[IB] Honto ni Atta! Reibai Sensei - 01 [720p][724D62CE].mkv
@@ -1160,6 +1163,7 @@ ongoing/Mirai Nikki/[GotSpeed] Mirai Nikki - 10 [v2][A6BAEA55].mkv
 ongoing/Mirai Nikki/[GotSpeed] Mirai Nikki - 11 [FB25AE3A].mkv
 ongoing/Mirai Nikki/[GotSpeed] Mirai Nikki - 12 [FB7FFF51].mkv
 ongoing/Mirai Nikki/[GotSpeed] Mirai Nikki - 13 [B6832D15].mkv
+ongoing/Mirai Nikki/[GotSpeed] Mirai Nikki - 14 [CC02DEC1].mkv
 ongoing/Mirai Nikki/[GotWoot] Mirai Nikki - 01 [E5251623].mkv
 ongoing/Mirai Nikki/[GotWoot] Mirai Nikki - 02 [006FE28D].mkv
 ongoing/Mirai Nikki/[GotWoot] Mirai Nikki - 03 [A66CDFD5].mkv
@@ -1873,6 +1877,7 @@ ongoing/One Piece/One Piece - 524 [yibis][720p][FABBEE6B].mkv
 ongoing/One Piece/One Piece - 525 [yibis][720p][AFFDBDE4].mkv
 ongoing/One Piece/One Piece - 526 [yibis][720p][C488974E].mkv
 ongoing/One Piece/One Piece - 527 [yibis][720p][89A1F62C].mkv
+ongoing/One Piece/One Piece - 528 [yibis][720p][4898B86D].mkv
 ongoing/One Piece/One Piece - 529 [yibis][720p][41AE4CE4].mkv
 ongoing/One Piece/One Piece - Opening 7 [Vegapunk][720p][6B7F029D].mp4
 ongoing/One Piece/One Piece - Opening 8 [Vegapunk][720p][D45E5410].mp4
@@ -1915,6 +1920,7 @@ ongoing/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 11 [7D5
 ongoing/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 12 [72EDBBF8].mkv
 ongoing/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 13 [E142EBB2].mkv
 ongoing/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 14 [E3C3968C].mkv
+ongoing/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 15 [BB3F5670].mkv
 ongoing/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 001 [720p][93A4D8AD].mkv
 ongoing/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 002 [720p][9CDACBD7].mkv
 ongoing/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 003 [720p][A35935CB].mkv
@@ -2143,6 +2149,7 @@ ongoing/Suite PreCure!/[Nutbladder] Suite Precure - 03 [600FA473].mkv
 ongoing/Suite PreCure!/[Nutbladder] Suite Precure - 04 [17C143C9].mkv
 ongoing/Suite PreCure!/[Nutbladder] Suite Precure - 05 [EC3166A3].mkv
 ongoing/Suite PreCure!/[Nutbladder] Suite Precure - 06 [E391D5CD].mkv
+ongoing/Tales of Symphonia OVA - The United World/[Formula] Tales of Symphonia OVA - The United World - 1 [AB66507E].mkv
 ongoing/The New Prince of Tennis/[HorribleSubs] The New Prince of Tennis - 01 [720p][B2334982].mkv
 ongoing/The New Prince of Tennis/[HorribleSubs] The New Prince of Tennis - 02 [720p][B4758B11].mkv
 ongoing/Thermae Romae/[gg] Thermae Romae - 1 [FFFC1EA8].mkv
