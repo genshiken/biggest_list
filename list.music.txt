@@ -376,6 +376,7 @@ music/ASL/[ASL]_ClariS_-_Kimi_no_Yume_wo_Miyou_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_ClariS_-_Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai_Theme_Song_-_nexus_[EXTRA].rar
 music/ASL/[ASL]_ClariS_-_Ore_no_Imouto_ga_Konnani_Kawaii_Wake_ga_Nai_Theme_Song_-_nexus_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_DECO-27_Feat.GUMI_-_Parallel_World_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_DECO27_-_Egomama_Koi_Kyori_Tooi_ai_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_DJ_Lily_-_SUPER_VOCALOID_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_DWB_feat.MINATSUKI_-_Deadman_Wonderland_Character_Song_-Takami_Minatsuki_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_DWB_feat.fade_-_Deadman_Wonderland_OP_-_One_Reason_[FLAC]_[w_Scans].rar
@@ -402,6 +403,8 @@ music/ASL/[ASL]_Furukawa_Honpo_feat.Hatsune_Miku,_630,_Chibita_-_alta_mugs_E.P_[
 music/ASL/[ASL]_Furuya_Shizuka_-_Nichijou_Character_Song_1_Shinonome Nano_-_Nano_no_Nejimawashi_Rhapsody_[FLAC].rar
 music/ASL/[ASL]_Gackt_-_SKET_DANCE_OP_-_Graffiti_[FLAC].rar
 music/ASL/[ASL]_Galileo_Galilei_-_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_OP_-_Aoi_Shiori_[FLAC].rar
+music/ASL/[ASL]_Golden_City_Factory_-_Negai_no_Hikari_Tsudou_Basho_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Good_Taste_-_-SETSUGETSUKA-_with_NYO_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Goto_Saori_-_STEINS;GATE_Laboratory_Member_005_Kiryu_Moeka_[FLAC].rar
 music/ASL/[ASL]_Gotou_Yuko_-_Maji_de_Watashi_ni_Koi_Shinasai_2nd_Bonus_CD_-_Mayucchi_wo_Hitorijime_[FLAC].rar
 music/ASL/[ASL]_HIMEKA_-_himekanvas_[FLAC].rar
@@ -728,6 +731,7 @@ music/ASL/[ASL]_Various_Artists_-_Artemis_Blue_Music_Selection_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Ashita_no_Kimi_to_Au_Tame_ni_Character_song_CD_They_will_be_born_TOMORROW_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Astarotte_no_Omocha!_BD_DVD_1_Limited_Edition_Bonus_Special_CD_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Astarotte_no_Omocha!_BD_DVD_2_Limited_Edition_Bonus_Special_CD_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Astarotte_no_Omocha!_BD_DVD_3_Limited_Edition_Bonus_Special_CD_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Astarotte_no_Omocha!_Character_Song_CD_Vol.1_Astarotte_Ygval_x_Judit_Snorrevik_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Astarotte_no_Omocha!_Character_Song_CD_Vol.2_Naoya_Tohara_x_Asuha_Tohara_[FLAC]_[w Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Astarotte_no_Omocha!_Character_Song_CD_Vol.3_[FLAC]_[w_Scans].rar
@@ -1046,6 +1050,7 @@ music/ASL/[ASL]_aiko_-_Zutto_[FLAC].rar
 music/ASL/[ASL]_azusa_-_Amagami_SS_OP2_-_Kimi_no_Mama_de_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_azusa_-_Yume_Note_[FLAC].rar
 music/ASL/[ASL]_azusa_-_azusa_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_colis_-_Air_of_Life_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_doriko_Feat._Hatsune_Miku_-_Romeo_to_Cinderella_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_doriko_feat_Hatsune_Miku_-_unformed_[FLAC].rar
 music/ASL/[ASL]_eufonius_-_Phonon_[FLAC]_[w_Scans].rar
@@ -4860,6 +4865,7 @@ music/Shin-S/[Shin-S] Ikoku Meiro no Croisée OP & ED Single - Sekai wa Odoru yo
 music/Shin-S/[Shin-S] Itsuka Tenma no Kuro Usagi Character Song CD Vol.1 - Himea, Taito & Haruka [Various].zip
 music/Shin-S/[Shin-S] Itsuka Tenma no Kuro Usagi OP Single - Once [Harada Hitomi].zip
 music/Shin-S/[Shin-S] K-ON! Movie ED Single - Singing! [Houkago Tea Time].zip
+music/Shin-S/[Shin-S] K-ON! Movie Insert Song Album - Houkago Tea Time in MOVIE [Various].zip
 music/Shin-S/[Shin-S] K-ON! Movie OP & Insert Song Single - Unmei wa Endless! [Houkago Tea Time].zip
 music/Shin-S/[Shin-S] Kami Nomi zo Shiru Sekai Character CD 5 - Kasuga Kusunoki [Koshimizu Ami].zip
 music/Shin-S/[Shin-S] Kami Nomi zo Shiru Sekai II Character CD 7 - Nagase Jun [Toyosaki Aki].zip
@@ -4868,6 +4874,7 @@ music/Shin-S/[Shin-S] Kami Nomi zo Shiru Sekai II OP Single - A Whole New World 
 music/Shin-S/[Shin-S] Kami Nomi zo Shiru Sekai Insert Song Single - Koi, Yoroshiku Onegai Shimasu! [Citron].zip
 music/Shin-S/[Shin-S] Kamisama Dolls OP & ED Single - Fukanzen Nenshou [Ishikawa Chiaki].zip
 music/Shin-S/[Shin-S] Kampfer fur die Liebe OP & ED Single - Choose my love! [Various].zip
+music/Shin-S/[Shin-S] Kill Me Baby! OP & ED Single - Kill Me no Baby! [Tamura Mutsumi & Akasaki Chinatsu].zip
 music/Shin-S/[Shin-S] Kyoukai Senjou no Horizon - Special CD 1 [Saitou Chiwa & Chihara Minori].zip
 music/Shin-S/[Shin-S] Kyoukai Senjou no Horizon OP Single - TERMINATED [Chihara Minori].zip
 music/Shin-S/[Shin-S] Maji de Watashi ni Koi Shinasai!! ED Single - Kimi no Maji wo Choudai [Various].zip
@@ -4897,6 +4904,7 @@ music/Shin-S/[Shin-S] Ore-tachi ni Tsubasa wa Nai OP & ED Single - Spread Wings.
 music/Shin-S/[Shin-S] Papa no Iu Koto wo Kikinasai! Character Song CD - Takanashi Hina [Igarashi Hiromi].zip
 music/Shin-S/[Shin-S] Papa no Iu Koto wo Kikinasai! Character Song CD - Takanashi Miu [Kitamura Eri].zip
 music/Shin-S/[Shin-S] Papa no Iu Koto wo Kikinasai! Character Song CD - Takanashi Sora [Uesaka Sumire].zip
+music/Shin-S/[Shin-S] Papa no Iu Koto wo Kikinasai! ED Single - Coloring [Horie Yui].zip
 music/Shin-S/[Shin-S] Phi Brain ~Kami no Puzzle~ ED Single - Hologram [Kiyoura Natsumi].zip
 music/Shin-S/[Shin-S] RO-KYU-BU! Character Songs 01 - Minato Tomoka [Hanazawa Kana].zip
 music/Shin-S/[Shin-S] RO-KYU-BU! OP & ED Single - SHOOT! [RO-KYU-BU!].zip
