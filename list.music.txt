@@ -520,6 +520,7 @@ music/ASL/[ASL]_LM.C_-_Nurarihyon_no_Mago_~Sennen_Makyou~_OP_-_Hoshi_no_Arika._[
 music/ASL/[ASL]_Lama_-_Un-Go_ED_-_Fantasy_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Larval_Stage_Planning_-_Baka_to_Test_to_Shoukanjuu_Ni_OP_-_Kimi___Nazo___Watashi_de_JUMP_[EXTRA].rar
 music/ASL/[ASL]_Larval_Stage_Planning_-_Baka_to_Test_to_Shoukanjuu_Ni_OP_-_Kimi___Nazo___Watashi_de_JUMP_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_LiLAc_Records_-_Heavenly_Beats_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_LiSA_-_Fate_Zero_OP_Single_-_oath_sign_[EXTRA].rar
 music/ASL/[ASL]_LiSA_-_Fate_Zero_OP_Single_-_oath_sign_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_LiSA_-_Letters_to_U_[FLAC].rar
@@ -3351,6 +3352,7 @@ music/Nipponsei/[Nipponsei] BLEACH ED25 Single - Last Moment [SPYAIR].zip
 music/Nipponsei/[Nipponsei] BLEACH ED27 Single - Aoi Tori [Fumika].zip
 music/Nipponsei/[Nipponsei] BLEACH ED27 Single - Song for... [ROOKiEZ is PUNK'D].zip
 music/Nipponsei/[Nipponsei] BLEACH ED28 Single - Haruka Kanata [UNLIMITS].zip
+music/Nipponsei/[Nipponsei] BLEACH ED29 Single - Re-pray [Aimer].zip
 music/Nipponsei/[Nipponsei] BLEACH Movie - MEMORIES OF NOBODY Main Theme Single - Sen no Yoru wo Koete [Aqua Timez].zip
 music/Nipponsei/[Nipponsei] BLEACH Movie - MEMORIES OF NOBODY Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] BLEACH Movie 4 Main Theme Single - Save The One, Save The All [T.M. Revolution].zip
@@ -3472,6 +3474,7 @@ music/Nipponsei/[Nipponsei] Carnival Phantasm Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Chevalier OP Single - BORN [Okuda Miwako].zip
 music/Nipponsei/[Nipponsei] Chevalier Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Chihayafuru OP Single - YOUTHFUL [99RadioService].zip
+music/Nipponsei/[Nipponsei] Chihayafuru Original Soundtrack & Character Song 1.zip
 music/Nipponsei/[Nipponsei] Chocotto Sister Anchoko 1 Satsume - Under Chocottosister File.ONE.zip
 music/Nipponsei/[Nipponsei] Chocotto Sister Anchoko 2 Satsume - Under Chocottosister File.TWO.zip
 music/Nipponsei/[Nipponsei] Chocotto Sister Anchoko 3 Satsume - Under Chocottosister File.THREE.zip
@@ -3735,6 +3738,7 @@ music/Nipponsei/[Nipponsei] Hoshizora he Kakaru Hashi Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Hourou Musuko ED Single - For You [Rie fu].zip
 music/Nipponsei/[Nipponsei] Hourou Musuko OP Single - Itsudatte. [Daisuke].zip
 music/Nipponsei/[Nipponsei] Hourou Musuko Original Soundtrack.zip
+music/Nipponsei/[Nipponsei] Hunter x Hunter 2011 ED Single - Just Awake [Fear,and Loathing in Las Vegas].zip
 music/Nipponsei/[Nipponsei] Hunter x Hunter 2011 OP Single - departure! [Ono Masatoshi].zip
 music/Nipponsei/[Nipponsei] Hyakka Ryouran Samurai Girls ED Single - Koi ni Sesse Tooryanse [Various].zip
 music/Nipponsei/[Nipponsei] Hyakka Ryouran Samurai Girls OP Single - Last vision for last [Faylan].zip
@@ -3768,6 +3772,7 @@ music/Nipponsei/[Nipponsei] Juuousei OP - Deep in Your Heart [Doumoto Kouichi].z
 music/Nipponsei/[Nipponsei] Juuousei Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Juushin Enbu ED Single - Kakegae no Nai Hito he [Hoshimura Mai].zip
 music/Nipponsei/[Nipponsei] Jyukai - Wild Flower (320 kbps).zip
+music/Nipponsei/[Nipponsei] K-ON! Movie Album - Houkago Tea Time in MOVIE.zip
 music/Nipponsei/[Nipponsei] K-ON! Movie ED Single - Singing! [Houkago Tea Time].zip
 music/Nipponsei/[Nipponsei] K-ON! Movie OP Single - Unmei wa Endless! [Houkago Tea Time].zip
 music/Nipponsei/[Nipponsei] K-ON! Movie Original Soundtrack.zip
@@ -3845,6 +3850,7 @@ music/Nipponsei/[Nipponsei] Kaze no Stigma OP ED Single - blast of wind [Kiuji S
 music/Nipponsei/[Nipponsei] Keroro Gunsou ED9 Single - Kurutto Mawatte Ikkaiten [Kigurumi].zip
 music/Nipponsei/[Nipponsei] Keroro Gunsou OP7 Single - Fundari Kettari [Dylan Catherine].zip
 music/Nipponsei/[Nipponsei] Kidou Senshi Gundam SEED DESTINY Special Edition III Unmei no Gouka ED - Enrai ~Tooku ni Aru Akari~ [HIGH and MIGHTY COLOR].zip
+music/Nipponsei/[Nipponsei] Kill Me Baby OP ED Single - Kill Me no Baby! [Akasaki Chinatsu & Tamura Mutsumi].zip
 music/Nipponsei/[Nipponsei] Kimi ni Todoke 2nd Season OP Single - Sawakaze [Tanizawa Tomofumi].zip
 music/Nipponsei/[Nipponsei] Kimi ni Todoke 2nd Season Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Kimi ni Todoke 2nd Seasons ED Single - Kimi ni Todoke... [MAY'S].zip
@@ -4024,10 +4030,12 @@ music/Nipponsei/[Nipponsei] NARUTO Shippuuden ED15 Single - U can do it! [DOMINO
 music/Nipponsei/[Nipponsei] NARUTO Shippuuden ED16 Single - Mayonaka no Orchestra [Aqua Timez].zip
 music/Nipponsei/[Nipponsei] NARUTO Shippuuden ED17 Single - FREEDOM [HOME MADE Kazoku].zip
 music/Nipponsei/[Nipponsei] NARUTO Shippuuden ED18 Single - Yokubou wo Sakebe!!!! [OKAMOTO'S].zip
+music/Nipponsei/[Nipponsei] NARUTO Shippuuden ED19 Single - Place to Try [TOTALFAT].zip
 music/Nipponsei/[Nipponsei] NARUTO Shippuuden Movie - Blood Prison Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] NARUTO Shippuuden OP07 Single - Toumei Datta Sekai [Hata Motohiro].zip
 music/Nipponsei/[Nipponsei] NARUTO Shippuuden OP08 Single - Diver [NICO Touches the Walls].zip
 music/Nipponsei/[Nipponsei] NARUTO Shippuuden OP09 Single - Lovers [7!!].zip
+music/Nipponsei/[Nipponsei] NARUTO Shippuuden OP10 single - newsong [tacica].zip
 music/Nipponsei/[Nipponsei] NIGHT HEAD GENESIS ED - Nemutteita Kimochi Nemutteita Kokoro [Aya Kamiki].zip
 music/Nipponsei/[Nipponsei] Nagasarete Airantou Character Image Album Soundtrack.zip
 music/Nipponsei/[Nipponsei] Nanatsuiro Drops Original Soundtrack.zip
@@ -4146,6 +4154,7 @@ music/Nipponsei/[Nipponsei] Pani Poni Dash! OP Single - Kiiro Vacances [Momodzuk
 music/Nipponsei/[Nipponsei] Pani Poni Dash! OP2 Single - Roulette Roulette [Momotsuki Gakuen Ichinen C gumi] 320k.zip
 music/Nipponsei/[Nipponsei] Panty & Stocking With Garterbelt Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Panty & Stocking with Garterbelt - The WORST ALBUM.zip
+music/Nipponsei/[Nipponsei] Papa no Iu Koto wa Kikinasai! ED Single - Coloring [Horie Yui].zip
 music/Nipponsei/[Nipponsei] Paprika Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Peach Girl Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Persona 4 OP ED Single - sky's the limit [Hirata Shihoko].zip
@@ -4836,6 +4845,7 @@ music/Shin-S/[Shin-S] Ben-To ED Single - Egao no Housoku [Ise Mariya].zip
 music/Shin-S/[Shin-S] Ben-To OP Single - LIVE for LIFE ~Ookami-tachi no Yoru~ [Aimi].zip
 music/Shin-S/[Shin-S] Boku wa Tomodachi ga Sukunai ED Single - Watashi no Ki-mo-chi [Inoue Marina & Itou Kanae].zip
 music/Shin-S/[Shin-S] Boku wa Tomodachi ga Sukunai TV OP & OVA ED Single - Zannenkei Rinjin-Bu (Hoshi Futatsu Han) [Various].zip
+music/Shin-S/[Shin-S] Boku wa Tomodachi ga Sukunai Vol.1 Bonus CD [Various].zip
 music/Shin-S/[Shin-S] Chihayafuru OP Single - YOUTHFUL [99RadioService].zip
 music/Shin-S/[Shin-S] C³ ~Cube x Cursed x Curious~ OP Single - Endless Story [Tamura Yukari].zip
 music/Shin-S/[Shin-S] C³ ~Cube x Cursed x Curious~ OP2 & ED Single - Shirushi [Kitamura Eri].rar
