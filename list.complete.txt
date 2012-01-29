@@ -7018,6 +7018,9 @@ complete/h/HaniHani ~Operation Sanctuary~/[Jumonji-Giri] HaniHani Operation Sanc
 complete/h/HaniHani ~Operation Sanctuary~/[Jumonji-Giri] HaniHani Operation Sanctuary - 14 [80CEA16E].mkv
 complete/h/HaniHani ~Operation Sanctuary~/[Jumonji-Giri] HaniHani Operation Sanctuary - 15 [574BAC99].mkv
 complete/h/HaniHani ~Operation Sanctuary~/[Jumonji-Giri] HaniHani Operation Sanctuary - 16 [3E4A0C2C].mkv
+complete/h/HaniHani ~Operation Sanctuary~/[Jumonji-Giri] HaniHani Operation Sanctuary - Ending 1 (Clean) [A32C835C].mkv
+complete/h/HaniHani ~Operation Sanctuary~/[Jumonji-Giri] HaniHani Operation Sanctuary - Ending 2 (Clean) [72BC6636].mkv
+complete/h/HaniHani ~Operation Sanctuary~/[Jumonji-Giri] HaniHani Operation Sanctuary - Opening (Clean) [6E2BF034].mkv
 complete/h/HaniHani ~Operation Sanctuary~/[SS] HaniHani ~Operation Sanctuary~ - 01 [v3][C2A43366].avi
 complete/h/HaniHani ~Operation Sanctuary~/[SS] HaniHani ~Operation Sanctuary~ - 02 [v2][CE179E3F].avi
 complete/h/HaniHani ~Operation Sanctuary~/[SS] HaniHani ~Operation Sanctuary~ - 03 [v2][F06CFE7C].avi
@@ -17159,6 +17162,8 @@ complete/s/Serial Experiments Lain/[KAA] Serial Experiments Lain - 10 [DVD][75FE
 complete/s/Serial Experiments Lain/[KAA] Serial Experiments Lain - 11 [DVD][6437FD7E].avi
 complete/s/Serial Experiments Lain/[KAA] Serial Experiments Lain - 12 [DVD][95723591].avi
 complete/s/Serial Experiments Lain/[KAA] Serial Experiments Lain - 13 [End][DVD][43F2135E].avi
+complete/s/Seto no Hanayome OVA/[Doki] Seto no Hanayome OVA - 1 [DVD][032D22A4].mkv
+complete/s/Seto no Hanayome OVA/[Doki] Seto no Hanayome OVA - 2 [End][DVD][F2874F32].mkv
 complete/s/Seto no Hanayome OVA/[Seto Otaku] Seto no Hanayome OVA - 1 [v2][DVD][4EB08EF7].mkv
 complete/s/Seto no Hanayome OVA/[Seto Otaku] Seto no Hanayome OVA - 2 [End][DVD][38603DCD].mkv
 complete/s/Seto no Hanayome OVA/[Seto Otaku] Seto no Hanayome OVA - Ending (Clean) [DVD][A85BA652].mp4
@@ -19357,6 +19362,12 @@ complete/t/The World God Only Knows/[Commie] The World God Only Knows - 09 [v2][
 complete/t/The World God Only Knows/[Commie] The World God Only Knows - 10 [v2][6A5EE772].mkv
 complete/t/The World God Only Knows/[Commie] The World God Only Knows - 11 [v2][9874C283].mkv
 complete/t/The World God Only Knows/[Commie] The World God Only Knows - 12 [End][v2][AEA0437C].mkv
+complete/t/Thermae Romae/[gg] Thermae Romae - 1 [FFFC1EA8].mkv
+complete/t/Thermae Romae/[gg] Thermae Romae - 2 [1F78299C].mkv
+complete/t/Thermae Romae/[gg] Thermae Romae - 3 [B5E3A8EE].mkv
+complete/t/Thermae Romae/[gg] Thermae Romae - 4 [A8E1B315].mkv
+complete/t/Thermae Romae/[gg] Thermae Romae - 5 [975DA244].mkv
+complete/t/Thermae Romae/[gg] Thermae Romae - 6 [End][FAC5BA70].mkv
 complete/t/They Are My Noble Masters/[AniYoshi] They Are My Noble Masters - 01 [859986ED].mkv
 complete/t/They Are My Noble Masters/[AniYoshi] They Are My Noble Masters - 02 [B9CA208D].mkv
 complete/t/They Are My Noble Masters/[AniYoshi] They Are My Noble Masters - 03 [v2][C5AFEA99].mkv
