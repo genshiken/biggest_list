@@ -7014,6 +7014,10 @@ complete/h/HaniHani ~Operation Sanctuary~/[Jumonji-Giri] HaniHani Operation Sanc
 complete/h/HaniHani ~Operation Sanctuary~/[Jumonji-Giri] HaniHani Operation Sanctuary - 10 [34B5F635].mkv
 complete/h/HaniHani ~Operation Sanctuary~/[Jumonji-Giri] HaniHani Operation Sanctuary - 11 [D3F1A5C4].mkv
 complete/h/HaniHani ~Operation Sanctuary~/[Jumonji-Giri] HaniHani Operation Sanctuary - 12 [7774FFBD].mkv
+complete/h/HaniHani ~Operation Sanctuary~/[Jumonji-Giri] HaniHani Operation Sanctuary - 13 [C229F27E].mkv
+complete/h/HaniHani ~Operation Sanctuary~/[Jumonji-Giri] HaniHani Operation Sanctuary - 14 [80CEA16E].mkv
+complete/h/HaniHani ~Operation Sanctuary~/[Jumonji-Giri] HaniHani Operation Sanctuary - 15 [574BAC99].mkv
+complete/h/HaniHani ~Operation Sanctuary~/[Jumonji-Giri] HaniHani Operation Sanctuary - 16 [3E4A0C2C].mkv
 complete/h/HaniHani ~Operation Sanctuary~/[SS] HaniHani ~Operation Sanctuary~ - 01 [v3][C2A43366].avi
 complete/h/HaniHani ~Operation Sanctuary~/[SS] HaniHani ~Operation Sanctuary~ - 02 [v2][CE179E3F].avi
 complete/h/HaniHani ~Operation Sanctuary~/[SS] HaniHani ~Operation Sanctuary~ - 03 [v2][F06CFE7C].avi
@@ -15817,6 +15821,7 @@ complete/r/Rizelmine/[ReDone] Rizelmine - 11 [DVD][07564CE3].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 12 [DVD][5A60F7F2].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 13 [DVD][6F24ABCA].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 14 [DVD][606DBCCD].mkv
+complete/r/Rizelmine/[ReDone] Rizelmine - 15 [DVD][7EDDAF53].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - Ending 1 [DVD][59C1FE24].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - Ending 2 [DVD][C89C1581].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - Opening [DVD][3AC69E00].mkv
