@@ -3488,6 +3488,7 @@ complete/d/Denpa Onna to Seishun Otoko/[Underwater-Commie] Denpa Onna to Seishun
 complete/d/Denpa Onna to Seishun Otoko/[Underwater-Commie] Denpa Onna to Seishun Otoko - 12 [End][720p][EB5B7447].mkv
 complete/d/Denpa Teki na Kanojo/[Ayako] Denpa Teki na Kanojo - 1 [DVD][549F83BE].mkv
 complete/d/Denpa Teki na Kanojo/[Ayako] Denpa Teki na Kanojo - 2 [End][DVD][EEA3AB90].mkv
+complete/d/Denpa Teki na Kanojo/[WhyNot] Denpa Teki na Kanojo - 2 [End][720p BD][97BACDCC].mkv
 complete/d/Densetsu Kyojin Ideon/[Shin-Getter] Densetsu Kyojin Ideon - 01 [v2][2ED009EF].avi
 complete/d/Densetsu Kyojin Ideon/[Shin-Getter] Densetsu Kyojin Ideon - 02 [v2][C5062D30].avi
 complete/d/Densetsu Kyojin Ideon/[Shin-Getter] Densetsu Kyojin Ideon - 03 [7F5481B8].avi
@@ -21122,16 +21123,6 @@ complete/w/Working!!/[SHiN-gx] Working!! - 10 [DVD][F1F96D88].mkv
 complete/w/Working!!/[SHiN-gx] Working!! - 11 [DVD][C14367B1].mkv
 complete/w/Working!!/[SHiN-gx] Working!! - 12 [DVD][7D9AC9FB].mkv
 complete/w/Working!!/[SHiN-gx] Working!! - 13 [End][DVD][F9C968BE].mkv
-complete/w/Working'!!/[HorribleSubs] Working'!! - 04 [720p][BD9FEC14].mkv
-complete/w/Working'!!/[HorribleSubs] Working'!! - 05 [720p][8A533284].mkv
-complete/w/Working'!!/[HorribleSubs] Working'!! - 06 [720p][D3B719B7].mkv
-complete/w/Working'!!/[HorribleSubs] Working'!! - 07 [720p][57E92328].mkv
-complete/w/Working'!!/[HorribleSubs] Working'!! - 08 [720p][181B0AA2].mkv
-complete/w/Working'!!/[HorribleSubs] Working'!! - 09 [720p][AF5DD5CB].mkv
-complete/w/Working'!!/[HorribleSubs] Working'!! - 10 [720p][9B6B94BC].mkv
-complete/w/Working'!!/[HorribleSubs] Working'!! - 11 [720p][F3D10567].mkv
-complete/w/Working'!!/[HorribleSubs] Working'!! - 12 [720p][3C6EC2AE].mkv
-complete/w/Working'!!/[HorribleSubs] Working'!! - 13 [End][720p][9D38CDCC].mkv
 complete/w/Working'!!/[m.3.3.w] Working'!! - 01 [720p][356D4BDA].mkv
 complete/w/Working'!!/[m.3.3.w] Working'!! - 02 [720p][A6F33EE9].mkv
 complete/w/Working'!!/[m.3.3.w] Working'!! - 03 [720p][A6790E7C].mkv
@@ -21143,6 +21134,8 @@ complete/w/Working'!!/[m.3.3.w] Working'!! - 08 [720p][D8E4A57A].mkv
 complete/w/Working'!!/[m.3.3.w] Working'!! - 09 [720p][C2421746].mkv
 complete/w/Working'!!/[m.3.3.w] Working'!! - 10 [720p][4C9B9DF0].mkv
 complete/w/Working'!!/[m.3.3.w] Working'!! - 11 [720p][62432A17].mkv
+complete/w/Working'!!/[m.3.3.w] Working'!! - 12 [720p][0F1C37F4].mkv
+complete/w/Working'!!/[m.3.3.w] Working'!! - 13 [End][720p][34033EF3].mkv
 complete/w/World Destruction/[Osu!] World Destruction - 01 (1280x720) [84AF69E2].mkv
 complete/w/World Destruction/[Osu!] World Destruction - 02 (1280x720) [BFFE1AF9].mkv
 complete/w/World Destruction/[Osu!] World Destruction - 03 [EEEB75A8].mkv
