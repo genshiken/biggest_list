@@ -27,6 +27,7 @@ movie/Cencoroll/[Formula] Cencoroll [BFDBFD3D].mkv
 movie/Cencoroll/[Koharubi] Cencoroll [HQ][EEE806D5].mkv
 movie/Clannad - The Motion Picture/[SS-Eclipse] Clannad - The Motion Picture [DVD][FDB42A85].mkv
 movie/Colorful/[Doki] Colorful [1080p BD][90BAC5BD].mkv
+movie/Cowboy Bebob - Knockin' on Heaven's Door/[Thora] Cowboy Bebob - Knockin' on Heaven's Door [1080p BD][97CC8F7F].mkv
 movie/Cowboy Bebob - Knockin' on Heaven's Door/[niizk] Cowboy Bebob - Knockin' on Heaven's Door [BE3625D7].mkv
 movie/Crayon Shin-chan/[Unknown] Crayon Shin-chan - Movie 8 (Part 1) [5A830C46].avi
 movie/Crayon Shin-chan/[Unknown] Crayon Shin-chan - Movie 8 (Part 2) [200522E2].avi
@@ -95,6 +96,7 @@ movie/Gundam 00 - A wakening of the Trailblazer/[gSS] Gundam 00 - A wakening of 
 movie/Gundam F91/[OZC] Gundam F91 (2011 release) [8BDFE061].mkv
 movie/Gundam SEED CE73 Stargazer/[Mendoi] Gundam SEED CE73 Stargazer [DVD][DE19D759].mp4
 movie/Gundam Wing Endless Waltz/[EG] Gundam Wing Endless Waltz Remastered [v2][49A7A358].mkv
+movie/Gundam Wing Endless Waltz/[EG] Gundam Wing Endless Waltz Special Edition [1080p][7E457CAE].mkv
 movie/Haruka Naru Toki no Naka de - Maihitoyo/[C1] Haruka Naru Toki no Naka de - Maihitoyo [97889F2C].mkv
 movie/Hayate no Gotoku! Heaven is a Place on Earth/[Commie] Hayate no Gotoku! Heaven is a Place on Earth [DVD][1B433DE8].mkv
 movie/HeartCatch Movie/[Doremi] HeartCatch Movie [1080p BD][0CC99389].mkv
@@ -202,8 +204,8 @@ movie/One Piece/[yibis] One Piece - Movie 10 [720p][C927DDF1].mkv
 movie/One Piece/[yibis] One Piece - Movie 9 (1280x720) [780350D8].mkv
 movie/Pale Cocoon/[Doremi-HF-Shakugan] Pale Cocoon [BAEE1167].avi
 movie/Paprika/[THORA] Paprika (2006) (1280x720) [BD][29C190A5].mkv
-movie/Patlabor Movie/[THORA] Patlabor Movie (1920x1040) [BD][5F02E5DE].mkv
 movie/Patlabor Movie/[Thora] Patlabor the Movie (1989) [1080p BD][5F02E5DE].mkv
+movie/Patlabor Movie/[Thora] Patlabor the Movie 2 (1993) [1080p BD][5C616341].mkv
 movie/Patlabor WXIII/[THORA] Patlabor WXIII [BD][5B5DB50F].mkv
 movie/Perfect Blue (1998)/[Thora] Perfect Blue (1998) [720p BD][A643D585].mkv
 movie/Piano no Mori/[Live-eviL] Piano no Mori [9932815F].mkv
