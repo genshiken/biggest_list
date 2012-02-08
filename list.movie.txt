@@ -36,6 +36,7 @@ movie/Detective Conan Movie/Detective Conan - Movie 08 [DCTP][1080p][D1E15E30].m
 movie/Detective Conan Movie/Detective Conan - Movie 14 [DCTP][1080p][1E6E4D68].mkv
 movie/Detective Conan Movie/[B-Org] Detective Conan - Movie 11 (Part 1) [6CF1697E].mkv
 movie/Detective Conan Movie/[B-Org] Detective Conan - Movie 11 (Part 2) [B8C270F7].mkv
+movie/Detective Conan Movie/[DCTP] Detective Conan - Movie 08 [1080p][D1E15E30].mkv
 movie/Detective Conan Movie/[DCTP] Detective Conan - Movie 12 [1080p][890BB070].mkv
 movie/Detective Conan Movie/[DCTP] Detective Conan - Movie 12 [BA79F197].mkv
 movie/Detective Conan Movie/[DCTP] Detective Conan - Movie 13 [EFC07D98].mkv
@@ -273,7 +274,7 @@ movie/Turn-A Gundam Movie 2/[EG] Turn-A Gundam Movie 2 [1080p BD][56E5859C].mkv
 movie/Welcome to the Space Show/[Lambda-Delta] Welcome to the Space Show [720p][D040A850].mkv
 movie/Whisper of the Heart/Whisper of the Heart [niizk][v2][2D11DBE2].mkv
 movie/Whisper of the Heart/[Thora] Whisper of the Heart (1995) [1080p BD][56B08E55].mkv
-movie/Yurumates wa/[Frostii] Yurumates wa [11019653].mkv
+movie/Yurumates wa/[Frostii] Yurumates wa [v2][85452C31].mkv
 movie/Zeta Gundam/[T-N] Zeta Gundam - Movie 1 [8F112ECE].avi
 movie/Zeta Gundam/[T-N] Zeta Gundam - Movie 2 [906E55BD].avi
 movie/Zeta Gundam/[T-N] Zeta Gundam - Movie 3 [D906DC63].avi

@@ -588,6 +588,7 @@ incomplete/Dragon Quest/[ANBU] Dragon Quest - 05 [E96E6779].mkv
 incomplete/Dragon Quest/[ANBU] Dragon Quest - 06 [2E1F0C2F].mkv
 incomplete/Dragon Quest/[ANBU] Dragon Quest - 07 [B40D5451].mkv
 incomplete/Dragon Quest/[ANBU] Dragon Quest - 08 [CD8F72A3].mkv
+incomplete/Dragon Quest/[ANBU] Dragon Quest - 09 [BD00C397].mkv
 incomplete/Fairy Tail OVA/[Hiyono] Fairy Tail OVA - 1 [v2 DVD][ED4EDF6B].mkv
 incomplete/Fairy Tail OVA/[Hiyono] Fairy Tail OVA - 2 [DVD][439BDF1A].mkv
 incomplete/Fighting Beauty Wulong/[m.3.3.w] Fighting Beauty Wulong - 01 [F2CA20BA].mkv
@@ -673,8 +674,7 @@ incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 06 [1080p BD][F90FC7C
 incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 07 [1080p BD][AD916BDC].mkv
 incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 08 [1080p BD][34D99723].mkv
 incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 09 [1080p BD][F078643B].mkv
-incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 09 [7D022495].mp4
-incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 10 [137DF714].mp4
+incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 10 [1080p BD][F972DA8F].mkv
 incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 11 [00DCD67B].mp4
 incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 12 [0B914ABE].mp4
 incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 13 [C82C433F].mp4
@@ -1135,6 +1135,7 @@ incomplete/Kiss Dum - Engage Planet/[Doutei] KissDum - 03.5 [720p][A59AB4F1].mkv
 incomplete/Kiss Dum - Engage Planet/[Doutei] KissDum - 04 [720p][68AE9D75].mkv
 incomplete/Kiss Dum - Engage Planet/[Doutei] KissDum - 05 [720p][DAF7A03F].mkv
 incomplete/Kiss Dum - Engage Planet/[Doutei] KissDum - 06 [720p][AD05C62A].mkv
+incomplete/Kiss Dum - Engage Planet/[Doutei] KissDum - 07 [720p][0B73357A].mkv
 incomplete/Kiss Dum - Engage Planet/[Mendoi] Kiss Dum - Engage Planet - 01 [127FA4DC].mkv
 incomplete/Kiss Dum - Engage Planet/[Mendoi] Kiss Dum - Engage Planet - 02 [F6F096C7].mkv
 incomplete/Kiss Dum - Engage Planet/[Mendoi] Kiss Dum - Engage Planet - 03 [D76015BB].mkv
@@ -2267,6 +2268,7 @@ incomplete/Yawara/Yawara - 76 [FroZen-EviL][DVD][99AF9DF3].mkv
 incomplete/Yawara/Yawara - 77 [FroZen-EviL][DVD][81F2A99E].mkv
 incomplete/Yawara/Yawara - 78 [FroZen-EviL][DVD][A5662B8D].mkv
 incomplete/Yawara/Yawara - 79 [FroZen-EviL][DVD][C5C7959F].mkv
+incomplete/Yawara/Yawara - 80 [FroZen-EviL][DVD][889F0B98].mkv
 incomplete/Yebisu Celebrities/[aarinfantasy] Yebisu Celebrities - 1 [B5BC8C8D].avi
 incomplete/Yes! PreCure 5/[PCSS] Yes! Pretty Cure 5 - 27 [DVD][B37C6BAF].mkv
 incomplete/Yes! PreCure 5/[PCSS] Yes! Pretty Cure 5 - 30 [DVD][F2C4D766].mkv
