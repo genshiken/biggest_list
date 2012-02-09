@@ -346,6 +346,7 @@ music/ASL/[ASL]_Aimer_-_No_6_ED_Theme_-_Roku_Tousei_no_Yoru_[FLAC].rar
 music/ASL/[ASL]_Aimi_-_Bento_OP_-_LIVE_FOR_LIFE_Ookami_Tachi_no_Yoru_[FLAC].rar
 music/ASL/[ASL]_Airi_-_30-sai_no_Hoken_Taiiku_ED_-_Learn together_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Aizawa_Mai_-_Nichijou_Character_Song_4_Naganohara_Mio_-_Mio_no_Kaputte_Kaputte_Moechigire_[FLAC].rar
+music/ASL/[ASL]_Annabel_-_Another_ED_-_anamnesis_[FLAC].rar
 music/ASL/[ASL]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_Original_Soundtrack_Vol2_[FLAC].rar
 music/ASL/[ASL]_Aoba_Ringo_-_Fault!!_Ace_Vocal_Maxi_Single_[FLAC].rar
 music/ASL/[ASL]_Aoi_Eir_-_LisAni!_Vol6_Enclosed_CD_-_Avalon_Blue_[FLAC]_[w_Scans].rar
@@ -596,6 +597,7 @@ music/ASL/[ASL]_REMEDIOS_-_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiran
 music/ASL/[ASL]_RO-KYU-BU_-_Ro-Kyu-Bu_OP_ED_Theme_-_SHOOT_[EXTRA].rar
 music/ASL/[ASL]_RO-KYU-BU_-_Ro-Kyu-Bu_OP_ED_Theme_-_SHOOT_[FLAC].rar
 music/ASL/[ASL]_ROOKiEZ_is_PUNK_D_-_Ao_no_exorcist_OP_-_IN_MY_WORLD_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Ray_-_Ano_Natsu_de_Matteru_OP_-_Sign_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Rie_Kugimiya_-_THE_IDOLM@STER_MASTER_ARTIST_2_-SECOND_SEASON-_01_Iori_Minase_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Rie_fu_-_For_You_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Riryka_-_Gakuen_Taima!_Holy_x_Moly_Original_Soundtrack_[FLAC].rar
@@ -1069,6 +1071,8 @@ music/ASL/[ASL]_Yui_Kaori_-_Our_Steady_Boy_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Yui_Kaori_-_Puppy_[EXTRA].rar
 music/ASL/[ASL]_Yui_Kaori_-_Puppy_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Yukana_-_IS_Character_Vol_Song_CD_Vol._2_- _Cecilia_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Yukizakurasou_-_KeySoundsLabel_ArrangeCD_vol.1_[FLAC].rar
+music/ASL/[ASL]_Yukizakurasou_-_KeySoundsLabel_ArrangeCD_vol.2_[FLAC].rar
 music/ASL/[ASL]_Yukizakurasou_-_planetarian_~Chiisana_Hoshi_no_Uta~_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Yuzuki_Tina_-_Dousei_LoverAble_Theme_Song_-_Egaiteta_Yume_[FLAC].rar
 music/ASL/[ASL]_Zephyr_Cradle_TAM_-_Zephyr_Violin_Duo_[FLAC].rar
