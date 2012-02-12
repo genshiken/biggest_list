@@ -37,6 +37,20 @@ to-remove/[Coalgirls] Bakemonogatari - Opening 3 [1080p BD][CE88BB8E].mkv
 to-remove/[Coalgirls] Bakemonogatari - Opening 4a [1080p BD][F4B6CA3A].mkv
 to-remove/[Coalgirls] Bakemonogatari - Opening 4b [1080p BD][D36ED5B9].mkv
 to-remove/[Coalgirls] Bakemonogatari - Opening 5b [1080p BD][C23AA6BB].mkv
+to-remove/[EveTaku] A Channel - 01 [1080p BD][C621FC83].mkv
+to-remove/[EveTaku] A Channel - 01 [v3 720p][791A7887].mkv
+to-remove/[EveTaku] A Channel - 02 [1080p BD][817E1F19].mkv
+to-remove/[EveTaku] A Channel - 02 [v2 720p][5C837577].mkv
+to-remove/[EveTaku] A Channel - 03 [v2 720p][87049F2F].mkv
+to-remove/[EveTaku] A Channel - 04 [v2 720p][5935FBCC].mkv
+to-remove/[EveTaku] A Channel - 05 [v2 720p][4C63E9C9].mkv
+to-remove/[EveTaku] A Channel - 06 [v2 720p][15D17E74].mkv
+to-remove/[EveTaku] A Channel - 07 [v2 720p][031D68A2].mkv
+to-remove/[EveTaku] A Channel - 08 [v2 720p][24A4081F].mkv
+to-remove/[EveTaku] A Channel - 09 [v2 720p][FE44AE32].mkv
+to-remove/[EveTaku] A Channel - 10 [v2 720p][F0D0FD93].mkv
+to-remove/[EveTaku] A Channel - 11 [v2 720p][171BBDD2].mkv
+to-remove/[EveTaku] A Channel - 12 [End][v2 720p][61A92287].mkv
 to-remove/[FFFpeeps] Maken-ki - 01 [720p][F0993CE6].mkv
 to-remove/[HorribleSubs] Oretachi ni Tsubasa wa Nai - 01 [720p][9F767893].mkv
 to-remove/[HorribleSubs] Oretachi ni Tsubasa wa Nai - 02 [720p][B664F1D5].mkv
@@ -70,3 +84,10 @@ to-remove/[Shinsen-Subs] To Heart 2 - 08 [v2][C89BEA88].avi
 to-remove/[Shinsen-Subs] To Heart 2 - 09 [F294B1D5].avi
 to-remove/[Shinsen-Subs] To Heart 2 - 10 [2412A756].avi
 to-remove/[Shinsen-Subs] To Heart 2 - 11 [D6961DE6].avi
+to-remove/[gaijin] A Channel - 01 [1080p BD][315F1171].mkv
+to-remove/[gaijin] A Channel - 01 [720p BD][4A1F7AAB].mkv
+to-remove/[gaijin] A Channel - 02 [1080p BD][29E85FD2].mkv
+to-remove/[gaijin] A Channel - 02 [720p BD][A19ACB2E].mkv
+to-remove/[gaijin] A Channel - 03 [1080p BD][7271C22E].mkv
+to-remove/[gaijin] A Channel - 04 [1080p BD][60A6CB7C].mkv
+to-remove/[gaijin] A Channel - Ending (Clean) [1080p BD][0A92E96B].mkv
