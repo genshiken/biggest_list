@@ -394,6 +394,7 @@ music/ASL/[ASL]_EXIT_TUNES_PRESENTS_Mayumi_Morinaga_-_Exp._[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_EastNewSound_-_Split_Theory_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Electromuster_-_The_Personalizer_[FLAC].rar
 music/ASL/[ASL]_Elements_Garden_-_Taiyou_no_Promia_Complete_Soundtrack_CD_~Music_for_Milsant~_[FLAC].rar
+music/ASL/[ASL]_Eustia_Astraea_(CV._Nanjou_Yoshino)_-_Aiyoku_no_Eustia_Original_Character_Song_Series_-_EUSTIA_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Faylan_-_Mirai_Nikki_ED_-_Blood_teller_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Faylan_-_Mirai_Nikki_OP_-_Dead_END_Soukyuu_no_Hikari_[FLAC].rar
 music/ASL/[ASL]_Faylan_-_Senjou_no_Valkyria_3_Ta_ga_Tame_no_Juusou_OP_-_Tomoshibi_[MP3]_[w_Scans].rar
@@ -568,6 +569,8 @@ music/ASL/[ASL]_Morinaga_Mayumi_-_EXTRA_Whipping_Cream_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_NOVELS_-_TIGER_BUNNY_OP_2_-_Missing_Link_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Nakagawa_Shoko_-_Beelzebub_ED_2_-_Tsuyogari_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Nakajima_Megumi_-_Moshidora_-_If_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Nakajima_Megumi_-_Rinne_no_Lagrange_OP_-_TRY_UNITE_Hello_[EXTRA].rar
+music/ASL/[ASL]_Nakajima_Megumi_-_Rinne_no_Lagrange_OP_-_TRY_UNITE_Hello_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Nakajima_Megumi_-_Tamayura_hitotose_ED_-_Kamisama_no_itazura_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Nanamorichuu_Gorakubu_-_Yuruyuri_ED_-_My_Pace_de_Ikimashou_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Nanamorichuu_Gorakubu_-_Yuruyuri_OP_-_Yuriyurarararayuruyuri_Daijiken_[FLAC]_[w_Scans].rar
@@ -904,6 +907,7 @@ music/ASL/[ASL]_Various_Artists_-_Maria_Holic_Alive_BD6_Bonus_Special_CD_–_Ryo
 music/ASL/[ASL]_Various_Artists_-_Maria_Holic_Alive_BD_1_Bonus_Special_CD_-_Ryouchou-sensei_no_Kayou_Hit_Channel_~Dai-ichi_no_Yoru~_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Mashiro-iro_Symphony_Character_Songs_-_Character_Palette_Vol.1_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Mashiro-iro_Symphony_Character_Songs_-_Character_Palette_Vol.2_[FLAC].rar
+music/ASL/[ASL]_Various_Artists_-_Mashiro-iro_Symphony_Original_Soundtrack_-_Mashiro-iro_no_Senritsu_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Mashiro_Summer_Vocal_Collection_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Mawaru_Penguindrum_ED_-_DEAR_FUTURE_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Mayo_Chiki_3_Limited_Edition_Bonus_DISC_-_Web_Radio_Shucchou-ban_3_[FLAC].rar
