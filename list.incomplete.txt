@@ -937,9 +937,6 @@ incomplete/Hipira-kun/[DATS] Hipira-kun - 08 [CB84416D].mkv
 incomplete/Hipira-kun/[DATS] Hipira-kun - 09 [7189C1EC].mkv
 incomplete/Hipira-kun/[DATS] Hipira-kun - 10 [60B43670].mkv
 incomplete/Honey x Honey Drops/[KissFans] Honey x Honey Drops - 02 [39EF70B7].mkv
-incomplete/Igano Kabamaru/[SD] Igano Kabamaru - 01 [DEADBEEF].mkv
-incomplete/Igano Kabamaru/[SD] Igano Kabamaru - 02 [DEADBEEF].mkv
-incomplete/Igano Kabamaru/[SD] Igano Kabamaru - 03 [DEADBEEF].mkv
 incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 01 [5F1FCE3C].mkv
 incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 02 [CD5565DA].mkv
 incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 03 [A25D2159].mkv
@@ -949,8 +946,10 @@ incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 06 [0BD9714C].mkv
 incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 07 [v2][2B25B6F8].mkv
 incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 08 [E1DACAE0].mkv
 incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 09 [E1891C9A].mkv
-incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 10 [FE75D995].mkv
-incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 11 [581C6FB4].mkv
+incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 10 [v2][0FF78FCB].mkv
+incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 11 [v2][75D7ADA3].mkv
+incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 12 [B2DE556B].mkv
+incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 13 [30CBC861].mkv
 incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 14 [48CCDAFF].mkv
 incomplete/Initial D Battle Stage/[Shinsen-Subs] Initial D Battle Stage - 2 [End][B54855AA].mkv
 incomplete/Iron Man/[Force-Works] Iron Man - 01 [A66813DB].mkv
@@ -1345,6 +1344,7 @@ incomplete/Mahou no Star Magical Emi/[Live-eviL] Mahou no Star Magical Emi - 02 
 incomplete/Mahou no Star Magical Emi/[Live-eviL] Mahou no Star Magical Emi - 03 [067644AC].mkv
 incomplete/Mahou no Star Magical Emi/[Live-eviL] Mahou no Star Magical Emi - 04 [D83925FA].mkv
 incomplete/Mahou no Star Magical Emi/[Live-eviL] Mahou no Star Magical Emi - 05 [4020B345].mkv
+incomplete/Mahou no Star Magical Emi/[Live-eviL] Mahou no Star Magical Emi - 06 [4BE55F6A].mkv
 incomplete/Maiden Rose OVA/[aarinfantasy] Maiden Rose OVA - 1 [CF2A8F80].avi
 incomplete/Maple Story/[Ashes-WIW] Maple Story - 01 [5B1872E3].mkv
 incomplete/Mardock Scramble/[Coalgirls] Mardock Scramble - 01 [720p BD][AE4E623E].mkv
@@ -2289,26 +2289,6 @@ incomplete/Yes! Pretty Cure 5 Go Go!/[CureCom] Yes! Pretty Cure 5 Go Go! - 04 [D
 incomplete/Yes! Pretty Cure 5 Go Go!/[CureCom] Yes! Pretty Cure 5 Go Go! - 05 [DVD][FD687CB7].mkv
 incomplete/Yes! Pretty Cure 5 Go Go!/[CureCom] Yes! Pretty Cure 5 Go Go! - 06 [DVD][DC2C8AF8].mkv
 incomplete/Yes! Pretty Cure 5 Go Go!/[CureCom] Yes! Pretty Cure 5 Go Go! - 07 [DVD][8CEA54AE].mkv
-incomplete/Yoiko/[anime-rg ray=out] Yoiko - 01 [BB2B9435].mkv
-incomplete/Yoiko/[anime-rg ray=out] Yoiko - 02 [F71D9C5E].mkv
-incomplete/Yoiko/[anime-rg ray=out] Yoiko - 03 [9CE1FC0C].mkv
-incomplete/Yoiko/[anime-rg ray=out] Yoiko - 04 [CAFF3B9F].mkv
-incomplete/Yoiko/[anime-rg ray=out] Yoiko - 05 [46822E59].mkv
-incomplete/Yoiko/[anime-rg ray=out] Yoiko - 06 [293225D7].mkv
-incomplete/Yoiko/[anime-rg ray=out] Yoiko - 07 [93A05851].mkv
-incomplete/Yoiko/[anime-rg ray=out] Yoiko - 08 [695A148D].mkv
-incomplete/Yoiko/[anime-rg ray=out] Yoiko - 09 [8F2FD84E].mkv
-incomplete/Yoiko/[anime-rg ray=out] Yoiko - 10 [D34CECA1].mkv
-incomplete/Yoiko/[anime-rg ray=out] Yoiko - 11 [5235DBE9].mkv
-incomplete/Yoiko/[anime-rg ray=out] Yoiko - 12 [6903A862].mkv
-incomplete/Yoiko/[anime-rg ray=out] Yoiko - 13 [58F92426].mkv
-incomplete/Yoiko/[anime-rg ray=out] Yoiko - 14 [46BB6B7C].mkv
-incomplete/Yoiko/[anime-rg ray=out] Yoiko - 15 [BB96AE65].mkv
-incomplete/Yoiko/[anime-rg ray=out] Yoiko - 16 [D4CAAA7C].mkv
-incomplete/Yoiko/[anime-rg ray=out] Yoiko - 17 [F1643B84].mkv
-incomplete/Yoiko/[anime-rg ray=out] Yoiko - 18 [DB43BE63].mkv
-incomplete/Yoiko/[anime-rg ray=out] Yoiko - 19 [CCBB4647].mkv
-incomplete/Yoiko/[anime-rg ray=out] Yoiko - 20 [9CF3BE4F].mkv
 incomplete/Yoshimune/[F-B & Scramble!] Yoshimune - 01 [D6661800].mp4
 incomplete/Yoshimune/[F-B & Scramble!] Yoshimune - 02 [B6EA56DA].mp4
 incomplete/Yoshimune/[F-B & Scramble!] Yoshimune - 03 [244BD028].mp4
