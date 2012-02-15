@@ -8724,6 +8724,7 @@ complete/i/Itazura na Kiss/[m.3.3.w] Itazura na Kiss - 22 [0FCB456A].mkv
 complete/i/Itazura na Kiss/[m.3.3.w] Itazura na Kiss - 23 [81DB1DDB].mkv
 complete/i/Itazura na Kiss/[m.3.3.w] Itazura na Kiss - 24 [2C8BED60].mkv
 complete/i/Itazura na Kiss/[m.3.3.w] Itazura na Kiss - 25 [End][D362D101].mkv
+complete/i/Itsuka Tenma no Kuro Usagi OVA/[Derp] Itsuka Tenma no Kuro Usagi OVA [DVD][96C8A866].mkv
 complete/i/Itsuka Tenma no Kuro Usagi/[Chiki-Subs] Itsuka Tenma no Kurousagi - 03 [720p][B983C3D7].mkv
 complete/i/Itsuka Tenma no Kuro Usagi/[Derp] Itsuka Tenma no Kuro Usagi - 01 [v2 720p][F1C5BF4D].mkv
 complete/i/Itsuka Tenma no Kuro Usagi/[Derp] Itsuka Tenma no Kuro Usagi - 02 [720p][2FEF0330].mkv
@@ -12236,22 +12237,20 @@ complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shin
 complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - 03 [1080p BD][2E9FEABB].mkv
 complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - 04 [1080p BD][CC378CA5].mkv
 complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - 05 [1080p BD][AA4E932C].mkv
-complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - 05 [720p][6AC9A59E].mkv
 complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - 06 [1080p BD][8627F052].mkv
-complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - 06 [720p][7642D7A8].mkv
 complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - 07 [720p][031E1062].mkv
 complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - 08 [720p][57608CBC].mkv
 complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - 09 [720p][34D239A4].mkv
 complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - 10 [720p][CDE2A555].mkv
 complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - 11 [720p][177A98C5].mkv
 complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - 12 [End][720p][5661D1D5].mkv
+complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - Ending 01 (Clean) [1080p BD][160F11EC].mkv
 complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - Ending 03 (Clean) [1080p BD][164A3BA3].mkv
 complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - Ending 04 (Clean) [1080p BD][9CA7EF03].mkv
 complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - Ending 05 (Clean) [1080p BD][5D52E1BA].mkv
 complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - Ending 06 (Clean) [1080p BD][F0DB3808].mkv
-complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - Ending 1 (Clean) [1080p BD][160F11EC].mkv
-complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - Opening 02 (Clean) [1080p BD][61690496].mkv
 complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - Opening 1 (Clean) [1080p BD][91423154].mkv
+complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - Opening 2 (Clean) [1080p BD][61690496].mkv
 complete/m/Maji de Watashi ni Koi Shinasai!/[Hiryuu] Maji de Watashi ni Koi Shinasai! - PV [1080p BD][7AD83A00].mkv
 complete/m/Majin Tantei Nougami Neuro/[ainex] Majin Tantei Nougami Neuro - 08 (1280x720) [3A12C880].mkv
 complete/m/Majin Tantei Nougami Neuro/[ainex] Majin Tantei Nougami Neuro - 09 (1280x720) [D0A8C25C].mkv
