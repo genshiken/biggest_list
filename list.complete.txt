@@ -4605,19 +4605,6 @@ complete/e/Eyeshield 21/[Saizen] Eyeshield 21 - 065 [DVD][5DAFE4AB].mp4
 complete/e/Eyeshield 21/[Saizen] Eyeshield 21 - 066 [DVD][3DF0C028].mp4
 complete/e/Eyeshield 21/[Saizen] Eyeshield 21 - 067 [DVD][905CC0DA].mp4
 complete/e/Eyeshield 21/[Saizen] Eyeshield 21 - 068 [DVD][5A74C232].mp4
-complete/e/Level E/[Commie] Level E - 01 [D82DB09D].mkv
-complete/e/Level E/[Commie] Level E - 02 [7C6BFFDE].mkv
-complete/e/Level E/[Commie] Level E - 03 [4C8BB730].mkv
-complete/e/Level E/[Commie] Level E - 04 [34CDC87A].mkv
-complete/e/Level E/[Commie] Level E - 05 [F18D788C].mkv
-complete/e/Level E/[Commie] Level E - 06 [6014C042].mkv
-complete/e/Level E/[Commie] Level E - 07 [5A093547].mkv
-complete/e/Level E/[Commie] Level E - 08 [AE62E870].mkv
-complete/e/Level E/[Commie] Level E - 09 [7EC7E326].mkv
-complete/e/Level E/[Commie] Level E - 10 [A6985717].mkv
-complete/e/Level E/[Commie] Level E - 11 [BC651F92].mkv
-complete/e/Level E/[Commie] Level E - 12 [4D9B03A7].mkv
-complete/e/Level E/[Commie] Level E - 13 [End][9CD38191].mkv
 complete/e/ef - a tale of melodies/[ANE] ef - a tale of melodies - 01 [1080p BD][1F5032E0].mkv
 complete/e/ef - a tale of melodies/[ANE] ef - a tale of melodies - 02 [1080p BD][FCD17854].mkv
 complete/e/ef - a tale of melodies/[ANE] ef - a tale of melodies - 03 [1080p BD][EEC38E86].mkv
@@ -11216,6 +11203,19 @@ complete/l/Letter Bee/[Commie] Letter Bee - Ending 1 (Karaoke) [4DF6C527].mkv
 complete/l/Letter Bee/[Commie] Letter Bee - Opening 1 (Clean) [50856500].mkv
 complete/l/Letter Bee/[Commie] Letter Bee - Opening 1 (Karaoke) [B69B6FFA].mkv
 complete/l/Letter Bee/[Commie] Letter Bee - Opening 2 (Clean) [9E5ABCD6].mkv
+complete/l/Level E/[Commie] Level E - 01 [D82DB09D].mkv
+complete/l/Level E/[Commie] Level E - 02 [7C6BFFDE].mkv
+complete/l/Level E/[Commie] Level E - 03 [4C8BB730].mkv
+complete/l/Level E/[Commie] Level E - 04 [34CDC87A].mkv
+complete/l/Level E/[Commie] Level E - 05 [F18D788C].mkv
+complete/l/Level E/[Commie] Level E - 06 [6014C042].mkv
+complete/l/Level E/[Commie] Level E - 07 [5A093547].mkv
+complete/l/Level E/[Commie] Level E - 08 [AE62E870].mkv
+complete/l/Level E/[Commie] Level E - 09 [7EC7E326].mkv
+complete/l/Level E/[Commie] Level E - 10 [A6985717].mkv
+complete/l/Level E/[Commie] Level E - 11 [BC651F92].mkv
+complete/l/Level E/[Commie] Level E - 12 [4D9B03A7].mkv
+complete/l/Level E/[Commie] Level E - 13 [End][9CD38191].mkv
 complete/l/Lime-Colored War Tales OVA/[ReDone] Lime-Colored War Tales OVA - 1 [v2 DVD][8F0FFA13].mkv
 complete/l/Lime-Colored War Tales OVA/[ReDone] Lime-Colored War Tales OVA - 2 [End][DVD][EFDC44FC].mkv
 complete/l/Lime-Colored War Tales/[ReDone] Lime-Colored War Tales - 01 [DVD][1D73946C].mkv
