@@ -504,6 +504,8 @@ music/ASL/[ASL]_Kawada_Mami_-_Nanatsu_no_Fushigi_no_Owaru_Toki_VOCAL_COLLECTION_
 music/ASL/[ASL]_Kawada_Mami_-_Shakugan_no_Shana_III_OP&ED_-_Serment_[FLAC].rar
 music/ASL/[ASL]_Kawahara_Yoshihisa_-_Nichijou_Character_Song_7_Sasahara_Koujirou_-_Sasahara_no_Koujirou_POLKA_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Kawano_Marina_-_A_Channel_OP_-_Morning_Arch_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Kawano_Marina_-_Natsume_Yuujinchou_Shi_ED_-_Takaramono_[EXTRA].rar
+music/ASL/[ASL]_Kawano_Marina_-_Natsume_Yuujinchou_Shi_ED_-_Takaramono_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Key_Sounds_Label_-_Rewrite_Original_Soundtrack_[FLAC].rar
 music/ASL/[ASL]_Key_Sounds_Label_-_planetarian_original_soundtrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Kicco_-_Gateau_au_Chocolate_[FLAC]_[w_Scans].rar
@@ -591,6 +593,7 @@ music/ASL/[ASL]_Ogura_Yui_-_RO-KYU-BU_Character_Songs_04_Hakamada_Hinata_[FLAC]_
 music/ASL/[ASL]_Omigawa_Chiaki_-_Hanasaku_Iroha_Character_Song_Single_Minko_Tsurugi_-_Namida_de_sakuhana_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Ono_Masatoshi_-_Hunter_x_Hunter_OP_-_departure_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Ookuba_Rumi_-_Yuruyuri_Character_Disc_4_-_Marugoto_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Oribe_Yasuna_(CV_Akasaki_Chinatsu)_-_Kill_Me_Baby_Character_Song_CD_Yasuna_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Otsubo_Yuka_-_Yuruyuri_Character_Disc_3_-_Mirakuru_Yurukuru_1_2_3_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_PSYCHIC_LOVER_-_Rewrite_2nd_OP_Theme_-_Rewrite_[FLAC].rar
 music/ASL/[ASL]_PUFFY_-_Usagi_Drop_-_SWEET_DROPS_[FLAC].rar
@@ -646,6 +649,7 @@ music/ASL/[ASL]_Shimotsuki_Haruka_-_melodies_memories_[w_Scans]_[FLAC].rar
 music/ASL/[ASL]_Shiraishi_Minoru_-_Nichijou_Character_Song_3_Sakamoto-san_-_Sakamoto-san_no_nyaa_to_Iu_to_demo_Omotta_ka_[FLAC].rar
 music/ASL/[ASL]_Shizuka_Ito_-_Amagami_SS_ED_Single_-_Kimi_no_Hitomi_ni_Koishiteru_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Softenni_The_Animation_-_Character_Song_Drama_CD_Gasshuku_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Sonya_(CV_Tamura_Mutsumi)_-_Kill_Me_Baby_Character_Song_CD_Sonya_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Sound_Horizon_-_Marchen_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Sphere_-_Shinryaku_Ika_Musume_S2_OP_-_HIGH_POWERED_[EXTRA].rar
 music/ASL/[ASL]_Sphere_-_Shinryaku_Ika_Musume_S2_OP_-_HIGH_POWERED_[FLAC]_[w_Scans].rar
@@ -4953,6 +4957,7 @@ music/Shin-S/[Shin-S] Aquarion EVOL OP & ED Single - Kimi no Shinwa ~Aquarion Da
 music/Shin-S/[Shin-S] Astarotte no Omocha! ED Single - Manatsu no Photograph [azusa].zip
 music/Shin-S/[Shin-S] Astarotte no Omocha! OP Single - Tenshi no CLOVER [Aimi].zip
 music/Shin-S/[Shin-S] BLOOD-C ED Single - Junketsu Paradox [Mizuki Nana].zip
+music/Shin-S/[Shin-S] BRAVE 10 OP Single - Seirei Hirai [Ono Daisuke & Kakihara Tetsuya].zip
 music/Shin-S/[Shin-S] Baby Princess 3D Paradise 0 Love OVA OP Single - Gyutto BABY Ai Nanda BABY [Various].zip
 music/Shin-S/[Shin-S] Ben-To Character Songs & Etc. - Treasure! [Various].zip
 music/Shin-S/[Shin-S] Ben-To ED Single - Egao no Housoku [Ise Mariya].zip
@@ -4969,12 +4974,14 @@ music/Shin-S/[Shin-S] DOG DAYS ED Single - PRESENTER [Horie Yui].zip
 music/Shin-S/[Shin-S] DOG DAYS ED2 Single - Miracle Colors [Horie Yui].zip
 music/Shin-S/[Shin-S] DOG DAYS Insert Song Single - Kitto Koi wo Shiteiru [Horie Yui & Mizuki Nana].zip
 music/Shin-S/[Shin-S] DOG DAYS Insert Song Single 2 - Promised Love ~Daisuki x 100~ [Horie Yui].zip
+music/Shin-S/[Shin-S] Danshi Koukousei no Nichijou OP & Insert Song Single - Shiny tale [Mix Speaker's,Inc.].zip
 music/Shin-S/[Shin-S] Denpa Onna to Seishun Otoko ED Single - Ruru [Yakushimaru Etsuko].zip
 music/Shin-S/[Shin-S] Denpa Onna to Seishun Otoko OP Single - Os-Uchuujin [Erio wo Kamatte-chan].zip
 music/Shin-S/[Shin-S] Dragon Crisis! ED Single - Mirai Bowl [Momoiro Clover].zip
 music/Shin-S/[Shin-S] Eiyuu Densetsu ~Sora no Kiseki~ OVA ED Single - Harmonia [Choucho] v2.zip
 music/Shin-S/[Shin-S] Fate Zero ED Single - MEMORIA [Aoi Eir].zip
 music/Shin-S/[Shin-S] Fate Zero OP Single - oath sign [LiSA].zip
+music/Shin-S/[Shin-S] Gokujo. ~Gokurakuin Joshi Kouryou Monogatari~ OP & ED Single - Gokujo. no Joken [Various].zip
 music/Shin-S/[Shin-S] Guilty Crown OP Single - My Dearest [supercell].zip
 music/Shin-S/[Shin-S] Hanasaku Iroha Character Song Single - Oshimizu Nako [Toyosaki Aki].zip
 music/Shin-S/[Shin-S] Hanasaku Iroha Character Song Single - Wakura Yuina [Tomatsu Haruka].zip
