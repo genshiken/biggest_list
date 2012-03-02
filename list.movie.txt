@@ -30,18 +30,18 @@ movie/Cowboy Bebob - Knockin' on Heaven's Door/[niizk] Cowboy Bebob - Knockin' o
 movie/Crayon Shin-chan/[Unknown] Crayon Shin-chan - Movie 8 (Part 1) [5A830C46].avi
 movie/Crayon Shin-chan/[Unknown] Crayon Shin-chan - Movie 8 (Part 2) [200522E2].avi
 movie/Crest of the Stars Movie/[a4f] Crest of the Stars - Movie [09760676].avi
-movie/Detective Conan Movie (2011) - Quarter of Silence/[DCTP] Detective Conan Movie - Quarter of Silence [F49743F4].mkv
-movie/Detective Conan Movie/Detective Conan - Movie 08 [DCTP][1080p][D1E15E30].mkv
-movie/Detective Conan Movie/Detective Conan - Movie 14 [DCTP][1080p][1E6E4D68].mkv
-movie/Detective Conan Movie/[B-Org] Detective Conan - Movie 11 (Part 1) [6CF1697E].mkv
-movie/Detective Conan Movie/[B-Org] Detective Conan - Movie 11 (Part 2) [B8C270F7].mkv
-movie/Detective Conan Movie/[DCTP] Detective Conan - Movie 08 [1080p][D1E15E30].mkv
-movie/Detective Conan Movie/[DCTP] Detective Conan - Movie 12 [1080p][890BB070].mkv
-movie/Detective Conan Movie/[DCTP] Detective Conan - Movie 12 [BA79F197].mkv
-movie/Detective Conan Movie/[DCTP] Detective Conan - Movie 13 [EFC07D98].mkv
-movie/Detective Conan Movie/[DCTP] Detective Conan - Movie 14 [DA6EB844].mkv
-movie/Detective Conan Movie/[KnKF] Detective Conan - Movie 10 (Part 1) [AD7851FC].avi
-movie/Detective Conan Movie/[KnKF] Detective Conan - Movie 10 (Part 2) [7AA97A53].avi
+movie/Detective Conan Movie (2001) - Countdown to Heaven/[Neg] Detective Conan Movie (2001) - Countdown to Heaven (Part 1) [24196F62].avi
+movie/Detective Conan Movie (2001) - Countdown to Heaven/[Neg] Detective Conan Movie (2001) - Countdown to Heaven (Part 2) [4F6780C7].avi
+movie/Detective Conan Movie (2003) - Crossroad in the Ancient Capital/[Double-U] Detective Conan Movie (2003) - Crossroad in the Ancient Capital [19714E1D].ogm
+movie/Detective Conan Movie (2004) - Magician of the Silver Sky/[DCTP] Detective Conan Movie (2004) - Magician of the Silver Sky [1080p][D1E15E30].mkv
+movie/Detective Conan Movie (2006) - The Private Eyes' Requiem/[KnKF] Detective Conan Movie (2006) - The Private Eyes' Requiem (Part 1) [AD7851FC].avi
+movie/Detective Conan Movie (2006) - The Private Eyes' Requiem/[KnKF] Detective Conan Movie (2006) - The Private Eyes' Requiem (Part 2) [7AA97A53].avi
+movie/Detective Conan Movie (2007) - Jolly Roger in the Deep Azure/[B-Org] Detective Conan Movie (2007) - Jolly Roger in the Deep Azure (Part 1) [6CF1697E].mkv
+movie/Detective Conan Movie (2007) - Jolly Roger in the Deep Azure/[B-Org] Detective Conan Movie (2007) - Jolly Roger in the Deep Azure (Part 2) [B8C270F7].mkv
+movie/Detective Conan Movie (2008) - Full Score of Fear/[DCTP] Detective Conan Movie (2008) - Full Score of Fear [1080p][890BB070].mkv
+movie/Detective Conan Movie (2009) - The Raven Chaser/[DCTP] Detective Conan Movie (2009) - The Raven Chaser [EFC07D98].mkv
+movie/Detective Conan Movie (2010) - The Lost Ship in the Sky/[DCTP] Detective Conan Movie (2010) - The Lost Ship in the Sky [1080p][1E6E4D68].mkv
+movie/Detective Conan Movie (2011) - Quarter of Silence/[DCTP] Detective Conan Movie (2011) - Quarter of Silence [F49743F4].mkv
 movie/Diebuster Movie (2006)/[THORA] Diebuster Movie (2006) [720p,BD][B82B5C95].mkv
 movie/Digimon Adventure 3D - Digimon Grand Prix!/[RyRo] Digimon Adventure 3D - Digimon Grand Prix! [DVD][AC48BC2B].mkv
 movie/Digimon Movie/[wpp] Digimon - Movie 5 [C4C94880].avi
@@ -171,7 +171,6 @@ movie/Macross Frontier the Movie ~Itsuwari no Utahime~ (2009)/[Commie] Macross F
 movie/Macross Frontier the Movie ~Sayonara no Tsubasa~ (2011)/[Commie] Macross Frontier the Movie ~Sayonara no Tsubasa~ [1080p BD][66AE8F11].mkv
 movie/Magical Girl Lyrical Nanoha The Movie 1st/[BSS] Magical Girl Lyrical Nanoha The Movie 1st [1080p][5B2483DA].mkv
 movie/Mahou Sensei Negima! Anime Final/[UTW] Mahou Sensei Negima! Anime Final [DVD][3E13B222].mkv
-movie/Mahou Shoujo Lyrical Nanoha - The Movie 1st/[BSS] Mahou Shoujo Lyrical Nanoha - The Movie 1st [LQ][B3B89A9D].mkv
 movie/Mahoujin Guruguru Movie/[Anime-Keep] Mahoujin Guruguru Movie [0F189EAD].avi
 movie/Mai Mai Miracle (2009)/[Thora] Mai Mai Miracle (2009) [1080p BD][D4E75127].mkv
 movie/Mai Mai Shinko to Sennen no Mahou/[anime-rg ray=out] Mai Mai Shinko to Sennen no Mahou [1080p BD][B347D336].mkv
@@ -307,7 +306,6 @@ movie/[SSP-Corp] Vampire Hunter D - Bloodlust [350C4155].mkv
 movie/[Saizen] The Strange Story of a Dream Sphere Dealer [527630E0].mkv
 movie/[Shinsen-Subs] Tsubasa Chronicle - Torikago no Kuni no Himegimi [D289B588].avi
 movie/[SkewedS] Flame of Recca - Funal Burning [EC48D09D].mp4
-movie/[V-F] Inukami! The Movie [83BA78FF].avi
 movie/[WPP] Rockman EXE the Movie - Hikari to Yami no PROGRAM [0D3AC681].avi
 movie/[WinD] Higurashi no naku koro ni Special - Nekogoroshi [4C77CC76].mkv
 movie/[YGO] Tsubasa Chronicle Movie - The Princess from the Land of the Birdcage [866D7371].mkv
