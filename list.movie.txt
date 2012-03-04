@@ -30,6 +30,8 @@ movie/Cowboy Bebob - Knockin' on Heaven's Door/[niizk] Cowboy Bebob - Knockin' o
 movie/Crayon Shin-chan/[Unknown] Crayon Shin-chan - Movie 8 (Part 1) [5A830C46].avi
 movie/Crayon Shin-chan/[Unknown] Crayon Shin-chan - Movie 8 (Part 2) [200522E2].avi
 movie/Crest of the Stars Movie/[a4f] Crest of the Stars - Movie [09760676].avi
+movie/Detective Conan Movie (1997) - The Time Bombed Skyscraper/[AConan] Detective Conan Movie (1997) - The Time Bombed Skyscraper [231C23E1].avi
+movie/Detective Conan Movie (1998) - The Fourteenth Target/[AConan] Detective Conan Movie (1998) - The Fourteenth Target [4CF3FD87].avi
 movie/Detective Conan Movie (1999) - The Last Wizard of the Century/[Neg] Detective Conan Movie (1999) - The Last Wizard of the Century [A9501AF8].avi
 movie/Detective Conan Movie (2000) - Captured in Her Eyes/[Neg] Detective Conan Movie (2000) - Captured in Her Eyes (Part 1) [40561A83].avi
 movie/Detective Conan Movie (2000) - Captured in Her Eyes/[Neg] Detective Conan Movie (2000) - Captured in Her Eyes (Part 2) [EE49972B].avi
@@ -71,6 +73,7 @@ movie/Eden of the East Movie/[Commie] Eden of the East - Movie II - Opening (192
 movie/Eden of the East Movie/[Commie] Eden of the East - The Movie I - King of Eden (1920x1080) [D4CDF725].mkv
 movie/Eden of the East Movie/[DB-gg] Eden of the East - The Movie I - King of Eden [0747D19A].avi
 movie/Eden of the East Movie/[Translatorgasm] Eden of the East - The Movie II - Paradise Lost [39B3205B].mkv
+movie/Escaflowne Movie/[niizk] Escaflowne Movie [1080p][84C997A8].mkv
 movie/Eureka Seven The Movie/[Nanashi] Eureka Seven - Pocketful of Rainbows [8B68BF48].mkv
 movie/Evangelion - Death (True)^2/[zx] Evangelion - Death (True)^2 [58BC4921].mkv
 movie/Evangelion - End of Evangelion/[zx] Evangelion - End of Evangelion [v3][19DB2A42].mkv
