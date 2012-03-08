@@ -447,6 +447,7 @@ music/ASL/[ASL]_Hirano_Yoshihisa_-_Break_Blade_Book_VI_Soundtrack_CD_[FLAC].rar
 music/ASL/[ASL]_Honda_Mariko_-_Nichijou_Character_Song_5_Aioi_Yuuko_-_Yukko_no_Selamat_Pagi_da_yo_Jinsei_wa_[FLAC].rar
 music/ASL/[ASL]_Honma_Meiko_-_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_Bonus_CD_Vol._6_[FLAC].rar
 music/ASL/[ASL]_Horie_Yui_-_DOG_DAYS_Insert_Song_-_Promised_Love_~daisuki_x_100~_[FLAC].rar
+music/ASL/[ASL]_Horie_Yui_-_Himitsu_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Horie_Yui_-_Papa_no_Iu_Koto_wo_Kikinasai_ED_-_Coloring_[FLAC].rar
 music/ASL/[ASL]_Horikawa_Chika_-_Nichijou_Character_Song_8_Tachibana_Misato_-_Misato_no_Gakkou_Seikatsu_wa_Bakuhatsu_da_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Hyadain_-_Nichijou_OP_2_-_Hyadain_no_Joujou_Yuujou_[FLAC].rar
@@ -893,6 +894,7 @@ music/ASL/[ASL]_Various_Artists_-_Hoshizora_no_Memoria_Sound_Collection_[FLAC]_[
 music/ASL/[ASL]_Various_Artists_-_Hotchkiss_Original_Soundtrack_Sweet_Kiss_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Hunter_x_Hunter_Original_Soundtrack_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Hyper-Highspeed-Genius_Reservation_Privilege_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_IdolMaster_-_Perfect_Idol_3_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Ikoku_Meiro_no_Croisee_OP_ED_Single_-_Sekai_wa_Odoru_yo_Kimi_to_Koko_kara_Hajimaru_Monogatari_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Ikoku_Meiro_no_Croisee_The_Animation_Original_Soundtrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Imouto_Style_Original_Soundtrack_[FLAC].rar
@@ -1058,6 +1060,7 @@ music/ASL/[ASL]_Various_Artists_-_Tapestry_-you_will_meet_your_self-_Original_so
 music/ASL/[ASL]_Various_Artists_-_Tenshi_no_Hane_wo_Fumanaide_Soundtrack_-Tenshi_no_Utagoe-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Tinkerbell_BEST_BGM_SELECTION_YAKOUCHU_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_ToHeart2_COMPLETE_SOUNDTRACK_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_ToHeart2_DUNGEON_TRAVELERS_-_Nanairo_no_Hikari_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Toaru_Majutsu_no_Index_II _-_ARCHIVES_4_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Toaru_Majutsu_no_Index_II_ARCHIVES_1_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Toaru_Majutsu_no_Index_II_ARCHIVES_2_[FLAC]_[w_Scans].rar
@@ -1106,6 +1109,7 @@ music/ASL/[ASL]_Windmill_-_Hyper-Highspeed-Genius_Digital_Sound_Tracks_HHG!_[FLA
 music/ASL/[ASL]_YURiCa_-_Flower_Drops_[FLAC].rar
 music/ASL/[ASL]_Yakushimaru_Etsuko_Metro_Orchestra_-_Mawaru_Penguindrum_OP_-_nornir_Shounen_yo_Ware_ni_Kaere_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Yamazaki_Haruka_-_Hayate_No_Gotoku_HEAVEN_IS_A_PLACE_ON_EARTH_OP_-_Bokura,_Kakeyuku_Sora_e_[FLAC].rar
+music/ASL/[ASL]_Yanagi_Nagi_-_Ano_Natsu_de_Matteru_ED_-_Vidro_Moyou_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Yarai_Miu_(CV_Natsuno_Koori)_-_DRACU-RIOT_Character_Song_Vol_1_-_Love_Incident_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Yarizui_Sen_(cv_Ise_Mariya)_-_Bento_ED_-_Egao_no_Housoku_[FLAC].rar
 music/ASL/[ASL]_Yousei_Teikoku_-_Mirai_Nikki_OP_-_Kuusou_Mesologie_[FLAC]_[w_Scans].rar
@@ -4997,6 +5001,7 @@ music/Shin-S/[Shin-S] Aquarion EVOL OP & ED Single - Kimi no Shinwa ~Aquarion Da
 music/Shin-S/[Shin-S] Astarotte no Omocha! ED Single - Manatsu no Photograph [azusa].zip
 music/Shin-S/[Shin-S] Astarotte no Omocha! OP Single - Tenshi no CLOVER [Aimi].zip
 music/Shin-S/[Shin-S] BLOOD-C ED Single - Junketsu Paradox [Mizuki Nana].zip
+music/Shin-S/[Shin-S] BRAVE 10 ED Single - Adeosu. [ADAPTER].zip
 music/Shin-S/[Shin-S] BRAVE 10 OP Single - Seirei Hirai [Ono Daisuke & Kakihara Tetsuya].zip
 music/Shin-S/[Shin-S] Baby Princess 3D Paradise 0 Love OVA OP Single - Gyutto BABY Ai Nanda BABY [Various].zip
 music/Shin-S/[Shin-S] Ben-To Character Songs & Etc. - Treasure! [Various].zip
@@ -5024,6 +5029,7 @@ music/Shin-S/[Shin-S] Fate Zero OP Single - oath sign [LiSA].zip
 music/Shin-S/[Shin-S] Gokujo. ~Gokurakuin Joshi Kouryou Monogatari~ OP & ED Single - Gokujo. no Joken [Various].zip
 music/Shin-S/[Shin-S] Guilty Crown ED2 & Black Rock Shooter ED Single - Kokuhaku [supercell].zip
 music/Shin-S/[Shin-S] Guilty Crown OP Single - My Dearest [supercell].zip
+music/Shin-S/[Shin-S] Guilty Crown OP2 Single - The Everlasting Guilty Crown [EGOIST].zip
 music/Shin-S/[Shin-S] Hanasaku Iroha Character Song Single - Oshimizu Nako [Toyosaki Aki].zip
 music/Shin-S/[Shin-S] Hanasaku Iroha Character Song Single - Wakura Yuina [Tomatsu Haruka].zip
 music/Shin-S/[Shin-S] Hanasaku Iroha OP Single - Hana no Iro [nano.RIPE].zip
