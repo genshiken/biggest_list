@@ -8779,15 +8779,12 @@ complete/i/Inuyasha/Inuyasha - 163 [a-S][6F8589FC].mkv
 complete/i/Inuyasha/Inuyasha - 164 [a-S][E8E0B834].mkv
 complete/i/Inuyasha/Inuyasha - 165 [a-S][4EE2A925].mkv
 complete/i/Inuyasha/Inuyasha - 166-167 [a-S][End][6D234EF1].mkv
-complete/i/Iriya no Sora UFO no Natsu/[Ayu] Iriya no Sora UFO no Natsu - 1 [00CD82D6].avi
-complete/i/Iriya no Sora UFO no Natsu/[Ayu] Iriya no Sora UFO no Natsu - 2 [319A3440].avi
-complete/i/Iriya no Sora UFO no Natsu/[Ayu] Iriya no Sora UFO no Natsu - 3 [79086585].avi
-complete/i/Iriya no Sora UFO no Natsu/[Ayu] Iriya no Sora UFO no Natsu - 4 [9E92CE0F].avi
 complete/i/Iriya no Sora UFO no Natsu/[Ayu] Iriya no Sora UFO no Natsu - 5 [40F9CC82].avi
 complete/i/Iriya no Sora UFO no Natsu/[Ayu] Iriya no Sora UFO no Natsu - 6 [End][7EC2780F].avi
-complete/i/Iriya no Sora UFO no Natsu/[ReDone] Iriya's Sky, Summer of UFOs - 01 [DVD][36EEF693].mkv
-complete/i/Iriya no Sora UFO no Natsu/[ReDone] Iriya's Sky, Summer of UFOs - 02 [DVD][E39B7D89].mkv
-complete/i/Iriya no Sora UFO no Natsu/[ReDone] Iriya's Sky, Summer of UFOs - 03 [DVD][7A528A4D].mkv
+complete/i/Iriya no Sora UFO no Natsu/[ReDone] Iriya's Sky, Summer of UFOs - 1 [DVD][36EEF693].mkv
+complete/i/Iriya no Sora UFO no Natsu/[ReDone] Iriya's Sky, Summer of UFOs - 2 [DVD][E39B7D89].mkv
+complete/i/Iriya no Sora UFO no Natsu/[ReDone] Iriya's Sky, Summer of UFOs - 3 [DVD][7A528A4D].mkv
+complete/i/Iriya no Sora UFO no Natsu/[ReDone] Iriya's Sky, Summer of UFOs - 4 [DVD][F159EE2D].mkv
 complete/i/Itazura na Kiss/[BakaWolf-m.3.3.w] Itazura na Kiss - 01 [1A141A3E].mkv
 complete/i/Itazura na Kiss/[BakaWolf-m.3.3.w] Itazura na Kiss - 02 [v2][ECC19631].mkv
 complete/i/Itazura na Kiss/[BakaWolf-m.3.3.w] Itazura na Kiss - 03 [E02862C4].mkv
@@ -15252,6 +15249,10 @@ complete/p/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 46 [DVD][CB1
 complete/p/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 47 [DVD][2BB78045].mkv
 complete/p/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 48 [DVD][9E4B5341].mkv
 complete/p/Pretty Cure Splash Star/[PCSS] Pretty Cure Splash Star - 49 [End][DVD][59294F55].mkv
+complete/p/Prince of Tennis - Another Story/[Ryugan-Saizen] Prince of Tennis - Another Story - 1 [DVD][82CC2A3F].mkv
+complete/p/Prince of Tennis - Another Story/[Ryugan-Saizen] Prince of Tennis - Another Story - 2 [v2 DVD][541706C9].mkv
+complete/p/Prince of Tennis - Another Story/[Ryugan-Saizen] Prince of Tennis - Another Story - 3 [v2 DVD][6D0C3F37].mkv
+complete/p/Prince of Tennis - Another Story/[Ryugan-Saizen] Prince of Tennis - Another Story - 4 [End][DVD][A7736572].mkv
 complete/p/Prince of Tennis - Atobe's Gift/[Saizen] Prince of Tennis - Atobe's Gift [DVD][CDDE3D3B].mkv
 complete/p/Prince of Tennis - National Championship Chapter Finals/[Ryugan-Saizen] Prince of Tennis - National Championship Chapter Finals - 0 [v2][195CCDD0].mkv
 complete/p/Prince of Tennis - National Championship Chapter Finals/[Ryugan-Saizen] Prince of Tennis - National Championship Chapter Finals - 1 [DVD][120E8F2C].mkv

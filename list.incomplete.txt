@@ -683,8 +683,8 @@ incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 11 [1080p BD][8205F93
 incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 12 [1080p BD][4226F12B].mkv
 incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 13 [1080p BD][7BE9CBF9].mkv
 incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 14 [1080p BD][4858278E].mkv
-incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 15 [14D2E222].mp4
-incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 16 [1AD242E6].mp4
+incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 15 [1080p BD][2F43C5B2].mkv
+incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 16 [1080p BD][FA58DE06].mkv
 incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 17 [9DB6741E].mp4
 incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 18 [FB42DA82].mp4
 incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 19 [5136277D].mp4
@@ -1353,6 +1353,7 @@ incomplete/Mahou no Star Magical Emi/[Live-eviL] Mahou no Star Magical Emi - 03 
 incomplete/Mahou no Star Magical Emi/[Live-eviL] Mahou no Star Magical Emi - 04 [D83925FA].mkv
 incomplete/Mahou no Star Magical Emi/[Live-eviL] Mahou no Star Magical Emi - 05 [4020B345].mkv
 incomplete/Mahou no Star Magical Emi/[Live-eviL] Mahou no Star Magical Emi - 06 [4BE55F6A].mkv
+incomplete/Mahou no Star Magical Emi/[Live-eviL] Mahou no Star Magical Emi - 07 [FF6CE368].mkv
 incomplete/Maiden Rose OVA/[aarinfantasy] Maiden Rose OVA - 1 [CF2A8F80].avi
 incomplete/Maple Story/[Ashes-WIW] Maple Story - 01 [5B1872E3].mkv
 incomplete/Mardock Scramble/[Coalgirls] Mardock Scramble - 01 [720p BD][AE4E623E].mkv
@@ -1672,6 +1673,8 @@ incomplete/Perrine/[C1] Perrine - 31 [5669D8CF].avi
 incomplete/Perrine/[C1] Perrine - 32 [51DBDC1F].avi
 incomplete/Perrine/[C1] Perrine - 33 [028AD159].avi
 incomplete/Perrine/[C1] Perrine - 34 [C813D86D].avi
+incomplete/Perrine/[KiteSeekers-Wasurenai-Licca] The Story of Perrine - 35 [DVD][D6C27BDE].mkv
+incomplete/Perrine/[KiteSeekers-Wasurenai-Licca] The Story of Perrine - 36 [DVD][A6141323].mkv
 incomplete/Pokemon - Advanced Generation/[PM] Pokemon - Advanced Generation - 190 [DVD][BB062A1D].mkv
 incomplete/Pokemon - Advanced Generation/[PM] Pokemon - Advanced Generation - 191 [DVD][8A5BDABC].mkv
 incomplete/Pokemon OVA/[PM] Pokemon OVA - 1 [DVD][CDC187D3].mkv
@@ -1756,10 +1759,7 @@ incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 20 [4DDCBAA6].mkv
 incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 21 [BE5D7425].mkv
 incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 22 [5773D446].mkv
 incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 23 [EA26ED12].mkv
-incomplete/Prince of Tennis - Another Story OVA/[IP] Prince of Tennis - Another Story OVA - 1 [E77F84B8].avi
-incomplete/Prince of Tennis - Another Story/[Ryugan-Saizen] Prince of Tennis - Another Story - 01 [DVD][82CC2A3F].mkv
-incomplete/Prince of Tennis - Another Story/[Ryugan-Saizen] Prince of Tennis - Another Story - 02 [DVD][F12C2210].mkv
-incomplete/Prince of Tennis - Another Story/[Ryugan-Saizen] Prince of Tennis - Another Story - 03 [DVD][78542C34].mkv
+incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 24 [AAB87FEB].mkv
 incomplete/Princess Resurrection OVA/Princess Resurrection OVA - 1 [Mamiko SHiN][DVD][EEE2827C].mkv
 incomplete/Princess Resurrection OVA/Princess Resurrection OVA - 2 [Ayako][DVD][20B0A8BD].mkv
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 05 [1B8BEC0C].mkv
