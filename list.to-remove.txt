@@ -1,9 +1,3 @@
-to-remove/Detective Conan Movie 01.avi
-to-remove/Detective Conan Movie 02.ogm
-to-remove/Detective Conan Movie 03.avi
-to-remove/Detective Conan Movie 03.srt
-to-remove/Detective Conan Movie 04.avi
-to-remove/Detective Conan Movie 06 Part 2.avi
 to-remove/[Coalgirls] Toradora! - 01 [DVD][36993AC6].mkv
 to-remove/[Coalgirls] Toradora! - 02 [DVD][3FF2C9A7].mkv
 to-remove/[Coalgirls] Toradora! - 03 [DVD][9EC38000].mkv
@@ -40,18 +34,6 @@ to-remove/[GetWet] Senki Zesshou Symphogear - 04 [6CC5D4EA].mkv
 to-remove/[GetWet] Senki Zesshou Symphogear - 05 [765D59A4].mkv
 to-remove/[GetWet] Senki Zesshou Symphogear - 07 [656AC9FF].mkv
 to-remove/[HiNA] Time Paladin Sakura - 01 [720p][AA4507AB].mkv
-to-remove/[HorribleSubs] Twin Angel - Twinkle Paradise - 01 [720p][BA937697].mkv
-to-remove/[HorribleSubs] Twin Angel - Twinkle Paradise - 02 [720p][B9AA2B18].mkv
-to-remove/[HorribleSubs] Twin Angel - Twinkle Paradise - 03 [720p][BA179555].mkv
-to-remove/[HorribleSubs] Twin Angel - Twinkle Paradise - 04 [720p][A5E5E893].mkv
-to-remove/[HorribleSubs] Twin Angel - Twinkle Paradise - 05 [720p][83E84BEC].mkv
-to-remove/[HorribleSubs] Twin Angel - Twinkle Paradise - 06 [720p][CC0476B4].mkv
-to-remove/[HorribleSubs] Twin Angel - Twinkle Paradise - 07 [720p][EF600182].mkv
-to-remove/[HorribleSubs] Twin Angel - Twinkle Paradise - 08 [720p][BA1145DC].mkv
-to-remove/[HorribleSubs] Twin Angel - Twinkle Paradise - 09 [720p][41A778A2].mkv
-to-remove/[HorribleSubs] Twin Angel - Twinkle Paradise - 10 [720p][4802BC11].mkv
-to-remove/[HorribleSubs] Twin Angel - Twinkle Paradise - 11 [720p][0C7FEBC1].mkv
-to-remove/[HorribleSubs] Twin Angel - Twinkle Paradise - 12 [End][720p][1E1928E3].mkv
 to-remove/[KnKF] Detective Conan - Live Action - 01 [6C34F857].avi
 to-remove/[SFW] Ozuma - 01 [720p][1080ABDF].mkv
 to-remove/[SS] Mirai Nikki - 01 [720p][59E9C445].mkv
@@ -74,9 +56,3 @@ to-remove/[SS] Mirai Nikki - 19 [720p][A6362F49].mkv
 to-remove/[THORA] Macross Frontier - Movie 1 [1080p BD][8925AEFC].mkv
 to-remove/[TimeLesSub] Detective Conan - Live Action - 02.avi
 to-remove/[Zenyaku] Ano Natsu de Matteru - PV [9F74F7EC].mkv
-to-remove/[ray=out] Happiness! - 07 [83A5D442].mkv
-to-remove/[ray=out] Happiness! - 08 [26BB87BF].mkv
-to-remove/[ray=out] Happiness! - 09 [213F7EBC].mkv
-to-remove/[ray=out] Happiness! - 10 [31561931].mkv
-to-remove/[ray=out] Happiness! - 11 [ECAA007D].mkv
-to-remove/[ray=out] Happiness! - 12 [End][34F181F3].mkv
