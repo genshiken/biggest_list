@@ -5335,6 +5335,7 @@ complete/f/Futakoi/[Jumonji-Giri] Futakoi - 12 [5E5311A7].mkv
 complete/f/Futakoi/[Jumonji-Giri] Futakoi - 13 [End][55E489B7].mkv
 complete/f/Futakoi/[Jumonji-Giri] Futakoi - Ending (Clean) [51C6E4BC].mkv
 complete/f/Futakoi/[Jumonji-Giri] Futakoi - Opening (Clean) [7578371C].mkv
+complete/g/G-9/[ray=out] G-9 [DVD][791A90E8].mkv
 complete/g/GA - Geijutsuka Art Design Class OVA/[Ayako] GA - Geijutsuka Art Design Class OVA [C120861F].mkv
 complete/g/GA - Geijutsuka Art Design Class/[Ayako] GA - Geijutsuka Art Design Class - 01 [4791B47B].mkv
 complete/g/GA - Geijutsuka Art Design Class/[Ayako] GA - Geijutsuka Art Design Class - 02 [v2][1B4259D0].mkv
@@ -7131,14 +7132,12 @@ complete/h/Happiness!/[ray=out] Happiness! - 03 [DVD][592DC4F2].mkv
 complete/h/Happiness!/[ray=out] Happiness! - 04 [DVD][6F6B2439].mkv
 complete/h/Happiness!/[ray=out] Happiness! - 05 [DVD][53541792].mkv
 complete/h/Happiness!/[ray=out] Happiness! - 06 [DVD][25784C20].mkv
-complete/h/Happiness!/[ray=out] Happiness! - 07 [83A5D442].mkv
 complete/h/Happiness!/[ray=out] Happiness! - 07 [DVD][DBE08A0F].mkv
-complete/h/Happiness!/[ray=out] Happiness! - 08 [26BB87BF].mkv
 complete/h/Happiness!/[ray=out] Happiness! - 08 [DVD][2AAAED34].mkv
-complete/h/Happiness!/[ray=out] Happiness! - 09 [213F7EBC].mkv
-complete/h/Happiness!/[ray=out] Happiness! - 10 [31561931].mkv
-complete/h/Happiness!/[ray=out] Happiness! - 11 [ECAA007D].mkv
-complete/h/Happiness!/[ray=out] Happiness! - 12 [End][34F181F3].mkv
+complete/h/Happiness!/[ray=out] Happiness! - 09 [DVD][6F8F490D].mkv
+complete/h/Happiness!/[ray=out] Happiness! - 10 [DVD][E41E3928].mkv
+complete/h/Happiness!/[ray=out] Happiness! - 11 [DVD][D57EC32D].mkv
+complete/h/Happiness!/[ray=out] Happiness! - 12 [End][DVD][65230E2E].mkv
 complete/h/Happiness!/[ray=out] Happiness! - Ending [DVD][75622632].mkv
 complete/h/Happiness!/[ray=out] Happiness! - Opening [DVD][FB8F105E].mkv
 complete/h/Happy Lesson - Advance/[Anime-Keep] Happy Lesson - Advance - 01 [1F39EBD1].avi
@@ -14072,6 +14071,17 @@ complete/n/Ninja Scroll/[SSP-Corp] Ninja Scroll - 10 [CB068A04].mkv
 complete/n/Ninja Scroll/[SSP-Corp] Ninja Scroll - 11 [795132C6].mkv
 complete/n/Ninja Scroll/[SSP-Corp] Ninja Scroll - 12 [CFC47921].mkv
 complete/n/Ninja Scroll/[SSP-Corp] Ninja Scroll - 13 [End][FD6457EB].mkv
+complete/n/Nisemonogatari/[Commie] Nisemonogatari - 01 [FD2DD7A5].mkv
+complete/n/Nisemonogatari/[Commie] Nisemonogatari - 02 [0BD2EE1E].mkv
+complete/n/Nisemonogatari/[Commie] Nisemonogatari - 03 [6C744F1C].mkv
+complete/n/Nisemonogatari/[Commie] Nisemonogatari - 04 [96EFE730].mkv
+complete/n/Nisemonogatari/[Commie] Nisemonogatari - 05 [2FC34921].mkv
+complete/n/Nisemonogatari/[Commie] Nisemonogatari - 06 [7A02B0A3].mkv
+complete/n/Nisemonogatari/[Commie] Nisemonogatari - 07 [FB7549DD].mkv
+complete/n/Nisemonogatari/[Commie] Nisemonogatari - 08 [35A68D8A].mkv
+complete/n/Nisemonogatari/[Commie] Nisemonogatari - 09 [D0AF7EB4].mkv
+complete/n/Nisemonogatari/[Commie] Nisemonogatari - 10 [D003ED1D].mkv
+complete/n/Nisemonogatari/[Commie] Nisemonogatari - 11 [End][AA706941].mkv
 complete/n/Nishi no Yoki Majo/[ureshii] Nishi no Yoki Majo - 01 [88DB42AF].avi
 complete/n/Nishi no Yoki Majo/[ureshii] Nishi no Yoki Majo - 02 [81241682].avi
 complete/n/Nishi no Yoki Majo/[ureshii] Nishi no Yoki Majo - 03 [599462C9].avi
@@ -20908,18 +20918,19 @@ complete/u/Umisho/[Ayu] Umisho - 12 [6AF5C7DD].mkv
 complete/u/Umisho/[Ayu] Umisho - 13 [End][9257F2C5].mkv
 complete/u/Usagi Drop/[Commie] Usagi Drop - 01 [654EB35F].mkv
 complete/u/Usagi Drop/[Commie] Usagi Drop - 02 [C929F4A4].mkv
-complete/u/Usagi Drop/[Commie] Usagi Drop - 02.5 [720p BD][81B18F97].mkv
+complete/u/Usagi Drop/[Commie] Usagi Drop - 02.5 [BD 720p][68D206F3].mkv
 complete/u/Usagi Drop/[Commie] Usagi Drop - 03 [C2C6D8D4].mkv
+complete/u/Usagi Drop/[Commie] Usagi Drop - 03.5 [BD 720p][C645687D].mkv
 complete/u/Usagi Drop/[Commie] Usagi Drop - 04 [A8083F5D].mkv
 complete/u/Usagi Drop/[Commie] Usagi Drop - 05 [CA9B8995].mkv
 complete/u/Usagi Drop/[Commie] Usagi Drop - 06 [549D4C84].mkv
+complete/u/Usagi Drop/[Commie] Usagi Drop - 06.5 [BD 720p][A3F014FF].mkv
 complete/u/Usagi Drop/[Commie] Usagi Drop - 07 [2F9020DB].mkv
 complete/u/Usagi Drop/[Commie] Usagi Drop - 08 [537294BA].mkv
+complete/u/Usagi Drop/[Commie] Usagi Drop - 08.5 [BD 720p][B4EDC826].mkv
 complete/u/Usagi Drop/[Commie] Usagi Drop - 09 [1B7E4943].mkv
 complete/u/Usagi Drop/[Commie] Usagi Drop - 10 [1C64D9DF].mkv
 complete/u/Usagi Drop/[Commie] Usagi Drop - 11 [End][CB268AB7].mkv
-complete/u/Usagi Drop/[Oyatsu] Usagi Drop - 06.5 [1080p BD][741610CB].mkv
-complete/u/Usagi Drop/[Oyatsu] Usagi Drop - 08.5 [1080p BD][1A9F9688].mkv
 complete/u/Usagichan de Cue!/[C1] Usagi-chan de Cue! - 1 [1C006987].mkv
 complete/u/Usagichan de Cue!/[C1] Usagi-chan de Cue! - 2 [8703E0FE].mkv
 complete/u/Usagichan de Cue!/[C1] Usagi-chan de Cue! - 3 [End][D47CEB12].mkv

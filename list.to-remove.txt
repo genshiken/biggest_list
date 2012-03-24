@@ -53,6 +53,7 @@ to-remove/[HorribleSubs] Twin Angel - Twinkle Paradise - 10 [720p][4802BC11].mkv
 to-remove/[HorribleSubs] Twin Angel - Twinkle Paradise - 11 [720p][0C7FEBC1].mkv
 to-remove/[HorribleSubs] Twin Angel - Twinkle Paradise - 12 [End][720p][1E1928E3].mkv
 to-remove/[KnKF] Detective Conan - Live Action - 01 [6C34F857].avi
+to-remove/[SFW] Ozuma - 01 [720p][1080ABDF].mkv
 to-remove/[SS] Mirai Nikki - 01 [720p][59E9C445].mkv
 to-remove/[SS] Mirai Nikki - 02 [v2 720p][CF9FE1E2].mkv
 to-remove/[SS] Mirai Nikki - 03 [720p][AF8F4922].mkv
@@ -73,3 +74,9 @@ to-remove/[SS] Mirai Nikki - 19 [720p][A6362F49].mkv
 to-remove/[THORA] Macross Frontier - Movie 1 [1080p BD][8925AEFC].mkv
 to-remove/[TimeLesSub] Detective Conan - Live Action - 02.avi
 to-remove/[Zenyaku] Ano Natsu de Matteru - PV [9F74F7EC].mkv
+to-remove/[ray=out] Happiness! - 07 [83A5D442].mkv
+to-remove/[ray=out] Happiness! - 08 [26BB87BF].mkv
+to-remove/[ray=out] Happiness! - 09 [213F7EBC].mkv
+to-remove/[ray=out] Happiness! - 10 [31561931].mkv
+to-remove/[ray=out] Happiness! - 11 [ECAA007D].mkv
+to-remove/[ray=out] Happiness! - 12 [End][34F181F3].mkv
