@@ -760,6 +760,7 @@ music/ASL/[ASL]_Various_Artists_-_ARIA_Piano_Collection_-_Stagione_[FLAC]_[w_Sca
 music/ASL/[ASL]_Various_Artists_-_ARIA_The_ORIGINATION_PIANO_COLLECTION_II_DIPARTENZA_~Tabidachi~_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_AXL_Vocal_Collection_-Fullthrottole-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_AXL_Vocal_Collection_2_-Shift_Up-_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_AXL_Vocal_Collection_3_-Flat_out-_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_A_Channel_2_Limited_Edition_Bonus_CD_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Aiyoku_no_Eustia_Original_Sound_Track_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Akai_Ito_Originalsoundtrack_[FLAC].rar
@@ -4985,6 +4986,7 @@ music/PV/Mai Kuraki - Winter Bells [v2][ARW][B271703B].mkv
 music/PV/Mami Kawada - Get my way!.avi
 music/PV/Mami Kawada - Seed.avi
 music/PV/May'n - Kimi Shinita Mou Koto Nakare (M-ON!) [0CA344FF].mpg
+music/PV/Mitsuru Matsuoka - W PV [W-Time][1EBA22EF].mkv
 music/PV/Nami Tamaki - Brightdown.avi
 music/PV/Nana Mizuki - MASSIVE WONDERS.avi
 music/PV/Noriko Sakai - Sekaiju no Dare yori Kitto.avi

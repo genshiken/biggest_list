@@ -1833,6 +1833,14 @@ complete/b/Black Lagoon/[Shinsen-Subs] Black Lagoon - 23 [81A371C0].avi
 complete/b/Black Lagoon/[Shinsen-Subs] Black Lagoon - 24 [End][CC4D0823].avi
 complete/b/Black Rock Shooter OVA/[Coalgirls] Black Rock Shooter [1080p BD][73BF3D55].mkv
 complete/b/Black Rock Shooter OVA/[Mazui] Black Rock Shooter OVA [2022D8AE].mkv
+complete/b/Black Rock Shooter/[Commie] Black Rock Shooter - 1 [EEE53EFC].mkv
+complete/b/Black Rock Shooter/[Commie] Black Rock Shooter - 2 [FCBA1486].mkv
+complete/b/Black Rock Shooter/[Commie] Black Rock Shooter - 3 [35EDD254].mkv
+complete/b/Black Rock Shooter/[Commie] Black Rock Shooter - 4 [9689F22A].mkv
+complete/b/Black Rock Shooter/[Commie] Black Rock Shooter - 5 [017B1517].mkv
+complete/b/Black Rock Shooter/[Commie] Black Rock Shooter - 6 [6101E600].mkv
+complete/b/Black Rock Shooter/[Commie] Black Rock Shooter - 7 [03EAB99C].mkv
+complete/b/Black Rock Shooter/[Commie] Black Rock Shooter - 8 [End][678191C2].mkv
 complete/b/Blade of the Immortal/[Arigatou] Blade of the Immortal - 01 [078A24B1].mkv
 complete/b/Blade of the Immortal/[Arigatou] Blade of the Immortal - 02 [B6C36316].mkv
 complete/b/Blade of the Immortal/[Arigatou] Blade of the Immortal - 03 [8333A174].mkv
@@ -4777,9 +4785,9 @@ complete/f/Fantastic Children/[ACX] Fantastic Children - 24 [8E427694].mkv
 complete/f/Fantastic Children/[ACX] Fantastic Children - 25 [A6092025].mkv
 complete/f/Fantastic Children/[ACX] Fantastic Children - 26 [End][0E6A0A89].mkv
 complete/f/Fate-Prototype OVA/[Fast-Sub] Fate-Prototype OVA [1080p BD][ABE2A185].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 01 [720p][D770ECA6].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 02 [720p][79B8EBEB].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 03 [720p][EC04D328].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 01 [720p BD][02A0491D].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 02 [720p BD][8AB2BF54].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 03 [720p BD][C9AEDDFB].mkv
 complete/f/Fate-Zero/[UTW] Fate-Zero - 04 [720p][3A05B4E1].mkv
 complete/f/Fate-Zero/[UTW] Fate-Zero - 05 [720p][0F358C5F].mkv
 complete/f/Fate-Zero/[UTW] Fate-Zero - 06 [720p][A60AB23E].mkv
@@ -6878,6 +6886,7 @@ complete/g/Guyver - The Bioboosted Armor/[G-F] Guyver - The Bioboosted Armor - 2
 complete/g/Guyver - The Bioboosted Armor/[G-F] Guyver - The Bioboosted Armor - 24 [31B80DBB].mp4
 complete/g/Guyver - The Bioboosted Armor/[G-F] Guyver - The Bioboosted Armor - 25 [3394766D].mp4
 complete/g/Guyver - The Bioboosted Armor/[G-F] Guyver - The Bioboosted Armor - 26 [End][3EA97B39].mp4
+complete/g/Gyo OVA/[GotWoot] Gyo [C549FBB8].mkv
 complete/g/Gyo OVA/[WhyNot] Gyo OVA [v0 720p BD][E2F6B2AA].mkv
 complete/h/H2 - Specials/[ILA] H2 - Special 1 [81D42307].ogm
 complete/h/H2 - Specials/[ILA] H2 - Special 2 [B7721DC8].ogm
@@ -7548,10 +7557,10 @@ complete/h/Hidamari Sketch Hoshi Mittsu/[mudabone] Hidamari Sketch Hoshi Mittsu 
 complete/h/Hidamari Sketch Hoshi Mittsu/[mudabone] Hidamari Sketch Hoshi Mittsu - 10 [720p BD][AB5E0FCC].mkv
 complete/h/Hidamari Sketch Hoshi Mittsu/[mudabone] Hidamari Sketch Hoshi Mittsu - 11 [720p BD][30DC605D].mkv
 complete/h/Hidamari Sketch Hoshi Mittsu/[mudabone] Hidamari Sketch Hoshi Mittsu - 12 [End][720p BD][C0D435B4].mkv
-complete/h/Hidamari Sketch SP/[Nutbladder] Hidamari Sketch SP - 1 [D0C77CD2].mkv
-complete/h/Hidamari Sketch SP/[Nutbladder] Hidamari Sketch SP - 2 [End][BC86F084].mkv
 complete/h/Hidamari Sketch Special/[SpoonSubs] Hidamari Sketch - Special 1 [8EC053A1].mkv
 complete/h/Hidamari Sketch Special/[SpoonSubs] Hidamari Sketch - Special 2 [End][1DFE384A].mkv
+complete/h/Hidamari Sketch x SP/[AonE] Hidamari Sketch x SP - 01 [EFE45A6A].mkv
+complete/h/Hidamari Sketch x SP/[AonE] Hidamari Sketch x SP - 02 [D3CBE79F].mkv
 complete/h/Hidamari Sketch x365 Special/[Nutbladder] Hidamari Sketch x365 - SP 1 [DVD][246C3958].mkv
 complete/h/Hidamari Sketch x365 Special/[Nutbladder] Hidamari Sketch x365 - SP 2 [End][DVD][4BE17F79].mkv
 complete/h/Hidamari Sketch x365 Special/[SpoonSubs] Hidamari Sketch x365 - EX [DVD][08E21DE7].mkv
@@ -17165,9 +17174,9 @@ complete/s/School Rumble/[KAA-Mokkori] School Rumble - 11 [DVD][DEDC7143].mkv
 complete/s/School Rumble/[KAA-Mokkori] School Rumble - 12 [DVD][D4DB08CA].mkv
 complete/s/School Rumble/[KAA-Mokkori] School Rumble - 13 [DVD][28539091].mkv
 complete/s/School Rumble/[KAA-Mokkori] School Rumble - 14 [DVD][F85FB5BC].mkv
-complete/s/School Rumble/[WF] School Rumble - 15 [6E0E43D7].avi
-complete/s/School Rumble/[WF] School Rumble - 16 [A89B2EBB].avi
-complete/s/School Rumble/[WF] School Rumble - 17 [23880F52].avi
+complete/s/School Rumble/[KAA-Mokkori] School Rumble - 15 [DVD][C35C38A8].mkv
+complete/s/School Rumble/[KAA-Mokkori] School Rumble - 16 [DVD][1AC11469].mkv
+complete/s/School Rumble/[KAA-Mokkori] School Rumble - 17 [DVD][FE4C39AE].mkv
 complete/s/School Rumble/[WF] School Rumble - 18 [67399B31].avi
 complete/s/School Rumble/[WF] School Rumble - 19 [3D0F58D0].avi
 complete/s/School Rumble/[WF] School Rumble - 20 [6EF54D2B].avi
