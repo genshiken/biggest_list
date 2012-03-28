@@ -88,6 +88,7 @@ tokusatsu/Kamen Rider Fourze/[Over-Time] Kamen Rider Fourze - 24 [7115BA37].mkv
 tokusatsu/Kamen Rider Fourze/[Over-Time] Kamen Rider Fourze - 25 [06B77B4A].mkv
 tokusatsu/Kamen Rider Fourze/[Over-Time] Kamen Rider Fourze - 26 [AD0FFA0D].mkv
 tokusatsu/Kamen Rider Fourze/[Over-Time] Kamen Rider Fourze - 27 [41F06543].mkv
+tokusatsu/Kamen Rider Fourze/[Over-Time] Kamen Rider Fourze - 28 [81275718].mkv
 tokusatsu/Kamen Rider OOO Final Episode/[Over-Time] Kamen Rider OOO Final Episode [720p][A8FCC72C].mkv
 tokusatsu/Kamen Rider OOO Wonderful The Movie - The Shogun and the 21 Core Medals/[Over-Time] Kamen Rider OOO Wonderful The Movie - The Shogun and the 21 Core Medals [720p][37AD6653].mkv
 tokusatsu/Kamen Rider OOO/[Over-Time] Kamen Rider OOO - 01 [v2][F85F0293].mkv
@@ -254,3 +255,4 @@ tokusatsu/Spec-Ops Cell Go-Busters/[Over-Time] Spec-Ops Cell Go-Busters - 01 [27
 tokusatsu/Spec-Ops Cell Go-Busters/[Over-Time] Spec-Ops Cell Go-Busters - 02 [5AEC5529].mkv
 tokusatsu/Spec-Ops Cell Go-Busters/[Over-Time] Spec-Ops Cell Go-Busters - 03 [AED54055].mkv
 tokusatsu/Spec-Ops Cell Go-Busters/[Over-Time] Spec-Ops Cell Go-Busters - 04 [E8AFE846].mkv
+tokusatsu/Spec-Ops Cell Go-Busters/[Over-Time] Spec-Ops Cell Go-Busters - 05 [888B7003].mkv
