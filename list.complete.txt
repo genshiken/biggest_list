@@ -1282,6 +1282,33 @@ complete/b/B't X Neo/[VFS] B't X Neo - 12 [BA482F90].avi
 complete/b/B't X Neo/[VFS] B't X Neo - 13 [0658B392].avi
 complete/b/B't X Neo/[VFS] B't X Neo - 14 [End][056C0147].avi
 complete/b/B't X Neo/[VFS] B't X Neo - Promo [B7B1C567].avi
+complete/b/B't X/[VFS] B't X - 01 [47241871].avi
+complete/b/B't X/[VFS] B't X - 02 [8EFAA975].avi
+complete/b/B't X/[VFS] B't X - 03 [FE60373C].avi
+complete/b/B't X/[VFS] B't X - 04 [E4DB6ED6].avi
+complete/b/B't X/[VFS] B't X - 05 [A466DC47].avi
+complete/b/B't X/[VFS] B't X - 06 [85C81381].avi
+complete/b/B't X/[VFS] B't X - 07 [8F17D1A0].avi
+complete/b/B't X/[VFS] B't X - 08 [252760ED].avi
+complete/b/B't X/[VFS] B't X - 09 [40FA16DB].avi
+complete/b/B't X/[VFS] B't X - 10 [12D2A2F9].avi
+complete/b/B't X/[VFS] B't X - 11 [4A4134C3].avi
+complete/b/B't X/[VFS] B't X - 12 [1336B0CD].avi
+complete/b/B't X/[VFS] B't X - 13 [FF4C91D2].avi
+complete/b/B't X/[VFS] B't X - 14 [8339B21C].avi
+complete/b/B't X/[VFS] B't X - 15 [1206F2FA].avi
+complete/b/B't X/[VFS] B't X - 16 [E7C4C081].avi
+complete/b/B't X/[VFS] B't X - 17 [0D95642D].avi
+complete/b/B't X/[VFS] B't X - 18 [75ED29D9].avi
+complete/b/B't X/[VFS] B't X - 19 [947C5941].avi
+complete/b/B't X/[VFS] B't X - 20 [C6E177E3].avi
+complete/b/B't X/[VFS] B't X - 21 [6137CE29].avi
+complete/b/B't X/[VFS] B't X - 22 [6978A6EC].avi
+complete/b/B't X/[VFS] B't X - 23 [5AD5AC9B].avi
+complete/b/B't X/[VFS] B't X - 24 [12B8DEFA].avi
+complete/b/B't X/[VFS] B't X - 25 [End][B2F5D690].avi
+complete/b/B't X/[VFS] B't X - Ending [4A9B47D7].avi
+complete/b/B't X/[VFS] B't X - Opening [DE394788].avi
 complete/b/BALDR FORCE EXE Resolution/[Megami] BALDR FORCE EXE Resolution - 1 [08D4A401].mkv
 complete/b/BALDR FORCE EXE Resolution/[Megami] BALDR FORCE EXE Resolution - 2 [BE5489D0].mkv
 complete/b/BALDR FORCE EXE Resolution/[Megami] BALDR FORCE EXE Resolution - 3 [6E07E289].mkv
@@ -2758,6 +2785,31 @@ complete/c/Chi's Sweet Home/[Yoroshiku] Chi's Sweet Home - 96 [627F3FBB].mkv
 complete/c/Chi's Sweet Home/[Yoroshiku] Chi's Sweet Home - 97 [58A5A9F2].mkv
 complete/c/Chi's Sweet Home/[Yoroshiku] Chi's Sweet Home - 98 [D81D2A7A].mkv
 complete/c/Chi's Sweet Home/[Yoroshiku] Chi's Sweet Home - 99 [9FBA1CCE].mkv
+complete/c/Chihayafuru/[Commie] Chihayafuru - 01 [832A1E9E].mkv
+complete/c/Chihayafuru/[Commie] Chihayafuru - 02 [92F57247].mkv
+complete/c/Chihayafuru/[Commie] Chihayafuru - 03 [57500199].mkv
+complete/c/Chihayafuru/[Commie] Chihayafuru - 04 [27325CAD].mkv
+complete/c/Chihayafuru/[Commie] Chihayafuru - 05 [CE2CA177].mkv
+complete/c/Chihayafuru/[Commie] Chihayafuru - 06 [349DA4FD].mkv
+complete/c/Chihayafuru/[Commie] Chihayafuru - 07 [31E98B35].mkv
+complete/c/Chihayafuru/[Commie] Chihayafuru - 08 [624BA877].mkv
+complete/c/Chihayafuru/[Commie] Chihayafuru - 09 [97FCDB9A].mkv
+complete/c/Chihayafuru/[Commie] Chihayafuru - 10 [6FB1EE02].mkv
+complete/c/Chihayafuru/[Commie] Chihayafuru - 11 [A9A04231].mkv
+complete/c/Chihayafuru/[Commie] Chihayafuru - 12 [00C23DF2].mkv
+complete/c/Chihayafuru/[Commie] Chihayafuru - 13 [9A38F2BE].mkv
+complete/c/Chihayafuru/[Commie] Chihayafuru - 14 [2B16503C].mkv
+complete/c/Chihayafuru/[Commie] Chihayafuru - 15 [B6CCADC6].mkv
+complete/c/Chihayafuru/[Commie] Chihayafuru - 16 [C917CA02].mkv
+complete/c/Chihayafuru/[Commie] Chihayafuru - 17 [6983C30C].mkv
+complete/c/Chihayafuru/[Commie] Chihayafuru - 18 [D73EC0D5].mkv
+complete/c/Chihayafuru/[Commie] Chihayafuru - 19 [9AA69563].mkv
+complete/c/Chihayafuru/[Commie] Chihayafuru - 20 [D2A17401].mkv
+complete/c/Chihayafuru/[Commie] Chihayafuru - 21 [006EB26D].mkv
+complete/c/Chihayafuru/[Commie] Chihayafuru - 22 [3D590B67].mkv
+complete/c/Chihayafuru/[Commie] Chihayafuru - 23 [445B3364].mkv
+complete/c/Chihayafuru/[Commie] Chihayafuru - 24 [C168F61E].mkv
+complete/c/Chihayafuru/[HorribleSubs] Chihayafuru - 25 [End][720p][D8EB6833].mkv
 complete/c/Chikyuu Shoujo Arjuna/[zx] Chikyuu Shoujo Arjuna - 01 [DVD][A17EB7A6].ogm
 complete/c/Chikyuu Shoujo Arjuna/[zx] Chikyuu Shoujo Arjuna - 02 [DVD][D96BBE47].ogm
 complete/c/Chikyuu Shoujo Arjuna/[zx] Chikyuu Shoujo Arjuna - 03 [DVD][660FF144].ogm
@@ -3072,6 +3124,24 @@ complete/c/Code-E/[SubsAnon] Code-E - 09 [94158D5E].avi
 complete/c/Code-E/[SubsAnon] Code-E - 10 [F279D3DC].avi
 complete/c/Code-E/[SubsAnon] Code-E - 11 [E749EA1C].avi
 complete/c/Code-E/[SubsAnon] Code-E - 12 [End][F10847C1].avi
+complete/c/Colorful/[anime.fin] Colorful - 01 [DVD][18446410].ogm
+complete/c/Colorful/[anime.fin] Colorful - 02 [DVD][7CC0C831].ogm
+complete/c/Colorful/[anime.fin] Colorful - 03 [DVD][0DC12F3E].ogm
+complete/c/Colorful/[anime.fin] Colorful - 04 [DVD][ABA08DF1].ogm
+complete/c/Colorful/[anime.fin] Colorful - 05 [DVD][AFB8C49B].ogm
+complete/c/Colorful/[anime.fin] Colorful - 06 [DVD][FB97F392].ogm
+complete/c/Colorful/[anime.fin] Colorful - 07 [DVD][F77608E1].ogm
+complete/c/Colorful/[anime.fin] Colorful - 08 [DVD][E3E96010].ogm
+complete/c/Colorful/[anime.fin] Colorful - 09 [DVD][F8F8F1DE].ogm
+complete/c/Colorful/[anime.fin] Colorful - 10 [DVD][668C7DE0].ogm
+complete/c/Colorful/[anime.fin] Colorful - 11 [DVD][037DC3EC].ogm
+complete/c/Colorful/[anime.fin] Colorful - 12 [DVD][69FF9DD3].ogm
+complete/c/Colorful/[anime.fin] Colorful - 13 [DVD][BCD8C192].ogm
+complete/c/Colorful/[anime.fin] Colorful - 14 [DVD][4C4D0798].ogm
+complete/c/Colorful/[anime.fin] Colorful - 15 [DVD][706CCEE0].ogm
+complete/c/Colorful/[anime.fin] Colorful - 16 [End][DVD][81918FA4].ogm
+complete/c/Colorful/[anime.fin] Colorful - Credits Episodes 1-8 [DVD][C8A8FBBA].ogm
+complete/c/Colorful/[anime.fin] Colorful - Credits Episodes 9-16 [DVD][8DBB3927].ogm
 complete/c/Cosprayers DVD/[Triad] Cosprayers DVD - 1 [68A8B179].avi
 complete/c/Cosprayers DVD/[Triad] Cosprayers DVD - 2 [0D374E93].avi
 complete/c/Cosprayers DVD/[Triad] Cosprayers DVD - 3 [End][8C0C5C19].avi
@@ -3808,6 +3878,31 @@ complete/d/Devil May Cry/[AonE-Conclave] Devil May Cry - 09 (1280x720) [BC838E0D
 complete/d/Devil May Cry/[AonE-Conclave] Devil May Cry - 10 (1280x720) [462E3D72].mp4
 complete/d/Devil May Cry/[AonE-Conclave] Devil May Cry - 11 (1280x720) [76919F57].mp4
 complete/d/Devil May Cry/[AonE-Conclave] Devil May Cry - 12 (1280x720) [End][7F436CA4].mp4
+complete/d/Di Gi Charat/[AC] Di Gi Charat Summer Special 2000 - 1 [E96775C6].avi
+complete/d/Di Gi Charat/[AC] Di Gi Charat Summer Special 2000 - 2 [103B1C30].avi
+complete/d/Di Gi Charat/[AC] Di Gi Charat Summer Special 2000 - 3 [B10C2F6A].avi
+complete/d/Di Gi Charat/[AC] Di Gi Charat Summer Special 2000 - 4 [73B99554].avi
+complete/d/Di Gi Charat/[CF] Di Gi Charat Natsuyasumi Special - 1 [C43878AC].avi
+complete/d/Di Gi Charat/[CF] Di Gi Charat Natsuyasumi Special - 2 [94E9C9EA].avi
+complete/d/Di Gi Charat/[CF] Di Gi Charat Natsuyasumi Special - 3 [A2C26DB4].avi
+complete/d/Di Gi Charat/[CF] Di Gi Charat Natsuyasumi Special - 4 [FA21131F].avi
+complete/d/Di Gi Charat/[DBNL] Di Gi Charat - 01 [DVD][A8143947].mkv
+complete/d/Di Gi Charat/[DBNL] Di Gi Charat - 02 [DVD][7D72D89E].mkv
+complete/d/Di Gi Charat/[DBNL] Di Gi Charat - 03 [DVD][E29DB699].mkv
+complete/d/Di Gi Charat/[DBNL] Di Gi Charat - 04 [DVD][BF7FE047].mkv
+complete/d/Di Gi Charat/[DBNL] Di Gi Charat - 05 [DVD][3E7A898D].mkv
+complete/d/Di Gi Charat/[DBNL] Di Gi Charat - 06 [DVD][4D750084].mkv
+complete/d/Di Gi Charat/[DBNL] Di Gi Charat - 07 [DVD][209A9859].mkv
+complete/d/Di Gi Charat/[DBNL] Di Gi Charat - 08 [DVD][F3734ED1].mkv
+complete/d/Di Gi Charat/[DBNL] Di Gi Charat - 09 [DVD][43471A5B].mkv
+complete/d/Di Gi Charat/[DBNL] Di Gi Charat - 10 [DVD][29497E34].mkv
+complete/d/Di Gi Charat/[DBNL] Di Gi Charat - 11 [DVD][6098B2B1].mkv
+complete/d/Di Gi Charat/[DBNL] Di Gi Charat - 12 [DVD][CE88D064].mkv
+complete/d/Di Gi Charat/[DBNL] Di Gi Charat - 13 [DVD][C071CB72].mkv
+complete/d/Di Gi Charat/[DBNL] Di Gi Charat - 14 [DVD][7C0A68EC].mkv
+complete/d/Di Gi Charat/[DBNL] Di Gi Charat - 15 [DVD][5926A2BB].mkv
+complete/d/Di Gi Charat/[DBNL] Di Gi Charat - 16 [End][DVD][00417386].mkv
+complete/d/Di Gi Charat/[RAW] Di Gi Charat - Fantasy Opening [96623512].mpg
 complete/d/Diebuster/[KAA] Diebuster - 1 [v3][DVD][48ECC48D].mkv
 complete/d/Diebuster/[KAA] Diebuster - 2 [DVD][E41C5177].mkv
 complete/d/Diebuster/[KAA] Diebuster - 3 [DVD][8E604446].mkv
@@ -15225,6 +15320,28 @@ complete/p/Panty & Stocking with Garterbelt/[Underwater] Panty & Stocking with G
 complete/p/Panty & Stocking with Garterbelt/[Underwater] Panty & Stocking with Garterbelt - 11 [920FDF8C].mkv
 complete/p/Panty & Stocking with Garterbelt/[Underwater] Panty & Stocking with Garterbelt - 12 [A548D681].mkv
 complete/p/Panty & Stocking with Garterbelt/[Underwater] Panty & Stocking with Garterbelt - 13 [End][B9414978].mkv
+complete/p/Papa no Iu Koto wo Kikinasai!/[HorribleSubs] Papa no Iu Koto wo Kikinasai! - 01 [720p][F389A473].mkv
+complete/p/Papa no Iu Koto wo Kikinasai!/[HorribleSubs] Papa no Iu Koto wo Kikinasai! - 02 [720p][E5BCB308].mkv
+complete/p/Papa no Iu Koto wo Kikinasai!/[HorribleSubs] Papa no Iu Koto wo Kikinasai! - 03 [720p][4700B89B].mkv
+complete/p/Papa no Iu Koto wo Kikinasai!/[HorribleSubs] Papa no Iu Koto wo Kikinasai! - 04 [720p][8FCC6D09].mkv
+complete/p/Papa no Iu Koto wo Kikinasai!/[HorribleSubs] Papa no Iu Koto wo Kikinasai! - 05 [720p][F4102050].mkv
+complete/p/Papa no Iu Koto wo Kikinasai!/[HorribleSubs] Papa no Iu Koto wo Kikinasai! - 06 [720p][4FDAB69C].mkv
+complete/p/Papa no Iu Koto wo Kikinasai!/[HorribleSubs] Papa no Iu Koto wo Kikinasai! - 07 [720p][73401667].mkv
+complete/p/Papa no Iu Koto wo Kikinasai!/[HorribleSubs] Papa no Iu Koto wo Kikinasai! - 08 [720p][A7646336].mkv
+complete/p/Papa no Iu Koto wo Kikinasai!/[HorribleSubs] Papa no Iu Koto wo Kikinasai! - 09 [720p][2E647BC9].mkv
+complete/p/Papa no Iu Koto wo Kikinasai!/[HorribleSubs] Papa no Iu Koto wo Kikinasai! - 10 [720p][A886FC08].mkv
+complete/p/Papa no Iu Koto wo Kikinasai!/[HorribleSubs] Papa no Iu Koto wo Kikinasai! - 11 [720p][E1BCD86D].mkv
+complete/p/Papa no Iu Koto wo Kikinasai!/[HorribleSubs] Papa no Iu Koto wo Kikinasai! - 12 [End][720p][D02AAD15].mkv
+complete/p/Papa no Iu Koto wo Kikinasai!/[Oyatsu] Papa no Iu Koto wo Kikinasai! - 01 [720p][084D383E].mkv
+complete/p/Papa no Iu Koto wo Kikinasai!/[Oyatsu] Papa no Iu Koto wo Kikinasai! - 02 [720p][42D5C033].mkv
+complete/p/Papa no Iu Koto wo Kikinasai!/[Oyatsu] Papa no Iu Koto wo Kikinasai! - 03 [720p][6DC43B30].mkv
+complete/p/Papa no Iu Koto wo Kikinasai!/[Oyatsu] Papa no Iu Koto wo Kikinasai! - 04 [720p][7077F85A].mkv
+complete/p/Papa no Iu Koto wo Kikinasai!/[Oyatsu] Papa no Iu Koto wo Kikinasai! - 05 [v2 720p][CF7EB3C8].mkv
+complete/p/Papa no Iu Koto wo Kikinasai!/[Oyatsu] Papa no Iu Koto wo Kikinasai! - 06 [720p][FEE30059].mkv
+complete/p/Papa no Iu Koto wo Kikinasai!/[Oyatsu] Papa no Iu Koto wo Kikinasai! - 07 [720p][FAF39B5F].mkv
+complete/p/Papa no Iu Koto wo Kikinasai!/[Oyatsu] Papa no Iu Koto wo Kikinasai! - 08 [720p][5D5B95FD].mkv
+complete/p/Papa no Iu Koto wo Kikinasai!/[Oyatsu] Papa no Iu Koto wo Kikinasai! - 09 [720p][3745DDD8].mkv
+complete/p/Papa no Iu Koto wo Kikinasai!/[Oyatsu] Papa no Iu Koto wo Kikinasai! - 10 [720p][06FA303E].mkv
 complete/p/Patlabor (1989)/[AM] Patlabor (1989) - 01 [DVD][v2][1A60A3A0].ogm
 complete/p/Patlabor (1989)/[AM] Patlabor (1989) - 02 [DVD][v2][ECE1DC5A].ogm
 complete/p/Patlabor (1989)/[AM] Patlabor (1989) - 03 [DVD][v2][673126E9].ogm
@@ -17859,30 +17976,6 @@ complete/s/Seto no Hanayome/[m.3.3.w-BakaWolf] Seto no Hanayome - 18 [720p][4C4A
 complete/s/Seto no Hanayome/[m.3.3.w] Seto no Hanayome - 19 [0914875A].mkv
 complete/s/Seto no Hanayome/[m.3.3.w] Seto no Hanayome - 20 [DVD][205C7935].mkv
 complete/s/Seto no Hanayome/[m.3.3.w] Seto no Hanayome - 21 [DVD][C3CF0E30].mkv
-complete/s/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 01 [6FA7779A].mkv
-complete/s/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 02 [5C42AE34].mkv
-complete/s/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 03 [4BFF8E7D].mkv
-complete/s/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 04 [BCAD3D73].mkv
-complete/s/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 05 [3AE17439].mkv
-complete/s/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 06 [84FB446C].mkv
-complete/s/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 07 [8E05796A].mkv
-complete/s/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 08 [9E5147E7].mkv
-complete/s/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 09 [91C48870].mkv
-complete/s/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 10 [FF705D7E].mkv
-complete/s/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 11 [0F01C7B8].mkv
-complete/s/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 12 [A2FF8F2F].mkv
-complete/s/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 13 [CA37799C].mkv
-complete/s/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 14 [38C7AAE8].mkv
-complete/s/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 15 [40DEF44F].mkv
-complete/s/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 16 [7CBCB4BA].mkv
-complete/s/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 17 [CD948D22].mkv
-complete/s/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 18 [DF3F5B71].mkv
-complete/s/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 19 [88FF7BEF].mkv
-complete/s/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 20 [1128078D].mkv
-complete/s/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 21 [CCF4904A].mkv
-complete/s/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 22 [4386AD6A].mkv
-complete/s/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 23 [0C9311A7].mkv
-complete/s/Shakugan no Shana Final/[Commie] Shakugan no Shana Final - 24 [End][9D13BEF4].mkv
 complete/s/Shakugan no Shana Final/[SS-Eclipse] Shakugan no Shana Final - 01 [720p][853CEC84].mkv
 complete/s/Shakugan no Shana Final/[SS-Eclipse] Shakugan no Shana Final - 02 [720p][7A5CAC26].mkv
 complete/s/Shakugan no Shana Final/[SS-Eclipse] Shakugan no Shana Final - 03 [720p][6EE625F2].mkv
@@ -17911,30 +18004,30 @@ complete/s/Shakugan no Shana S OVA/[SS-Eclipse] Shakugan no Shana S OVA - 1 [720
 complete/s/Shakugan no Shana S OVA/[SS-Eclipse] Shakugan no Shana S OVA - 2 [720p][29745873].mkv
 complete/s/Shakugan no Shana S OVA/[SS-Eclipse] Shakugan no Shana S OVA - 3 [720p][DA0E37C2].mkv
 complete/s/Shakugan no Shana S OVA/[SS-Eclipse] Shakugan no Shana S OVA - 4 [End][720p][C47036F2].mkv
-complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 01 (1280x720) [BC008F80].mkv
-complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 02 (1280x720) [B248BDF5].mkv
-complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 03 (1280x720) [0F03B68A].mkv
-complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 04 (1280x720) [76998BE7].mkv
-complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 05 (1280x720) [7F018A15].mkv
-complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 06 (1280x720) [CF4EE57B].mkv
-complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 07 (1280x720) [F451BCF6].mkv
-complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 08 (1280x720) [98AA3DE5].mkv
-complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 09 (1280x720) [70773909].mkv
-complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 10 (1280x720) [B0C441AE].mkv
-complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 11 (1280x720) [F8817EA8].mkv
-complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 12 (1280x720) [B054A228].mkv
-complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 13 (1280x720) [84F6D425].mkv
-complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 14 (1280x720) [8D4F2D22].mkv
-complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 15 (1280x720) [7C65626B].mkv
-complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 16 (1280x720) [46D22FC1].mkv
-complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 17 (1280x720) [BD667D3D].mkv
-complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 18 (1280x720) [4C26055C].mkv
-complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 19 (1280x720) [B374B629].mkv
-complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 20 (1280x720) [62A53EA6].mkv
-complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 21 (1280x720) [BE0AB4A1].mkv
-complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 22 (1280x720) [4CF2AF97].mkv
-complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 23 (1280x720) [1BB74F9B].mkv
-complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 24 (1280x720) [End][630F7CA0].mkv
+complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 01 [720p][BC008F80].mkv
+complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 02 [720p][B248BDF5].mkv
+complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 03 [720p][0F03B68A].mkv
+complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 04 [720p][76998BE7].mkv
+complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 05 [720p][7F018A15].mkv
+complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 06 [720p][CF4EE57B].mkv
+complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 07 [720p][F451BCF6].mkv
+complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 08 [720p][98AA3DE5].mkv
+complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 09 [720p][70773909].mkv
+complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 10 [720p][B0C441AE].mkv
+complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 11 [720p][F8817EA8].mkv
+complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 12 [720p][B054A228].mkv
+complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 13 [720p][84F6D425].mkv
+complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 14 [720p][8D4F2D22].mkv
+complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 15 [720p][7C65626B].mkv
+complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 16 [720p][46D22FC1].mkv
+complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 17 [720p][BD667D3D].mkv
+complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 18 [720p][4C26055C].mkv
+complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 19 [720p][B374B629].mkv
+complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 20 [720p][62A53EA6].mkv
+complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 21 [720p][BE0AB4A1].mkv
+complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 22 [720p][4CF2AF97].mkv
+complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 23 [720p][1BB74F9B].mkv
+complete/s/Shakugan no Shana Second/[SS-Eclipse] Shakugan no Shana Second - 24 [End][720p][630F7CA0].mkv
 complete/s/Shakugan no Shana/[moo-shi] Shakugan no Shana - 01 [DVD][CC23A708].mkv
 complete/s/Shakugan no Shana/[moo-shi] Shakugan no Shana - 02 [DVD][738226BB].mkv
 complete/s/Shakugan no Shana/[moo-shi] Shakugan no Shana - 03 [DVD][2762946D].mkv
