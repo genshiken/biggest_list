@@ -41,10 +41,6 @@ ongoing/Area no Kishi/[Oyatsu] Area no Kishi - 03 [v2 720p][E3B1245E].mkv
 ongoing/Area no Kishi/[Oyatsu] Area no Kishi - 04 [720p][E64DFD73].mkv
 ongoing/Area no Kishi/[Oyatsu] Area no Kishi - 05 [720p][AFC0C595].mkv
 ongoing/Area no Kishi/[Oyatsu] Area no Kishi - 06 [720p][62905ADD].mkv
-ongoing/Bakuman S2/[GotWoot] Bakuman 2 - 01 [57F487E4].mkv
-ongoing/Bakuman S2/[GotWoot] Bakuman 2 - 02 [v2][D7C42D2D].mkv
-ongoing/Bakuman S2/[GotWoot] Bakuman 2 - 03 [E6C5B9DC].mkv
-ongoing/Bakuman S2/[GotWoot] Bakuman 2 - 04 [8816C4D7].mkv
 ongoing/Bakuman S2/[SFW-sage] Bakuman S2 - 02 [720p][FA7C0C58].mkv
 ongoing/Bakuman S2/[SFW-sage] Bakuman S2 - 03 [720p][886B6841].mkv
 ongoing/Bakuman S2/[SFW-sage] Bakuman S2 - 04 [720p][B64E58D3].mkv
@@ -69,6 +65,7 @@ ongoing/Bakuman S2/[SFW-sage] Bakuman S2 - 22 [720p][834A1FD2].mkv
 ongoing/Bakuman S2/[SFW-sage] Bakuman S2 - 23 [720p][EC9C0085].mkv
 ongoing/Bakuman S2/[SFW-sage] Bakuman S2 - 24 [720p][14DAE0CA].mkv
 ongoing/Bakuman S2/[SFW] Bakuman S2 - 01 [720p][42BBBEC3].mkv
+ongoing/Bakuman S2/[SFW] Bakuman S2 - 25 [720p][D2C2B753].mkv
 ongoing/Beelzebub/[HorribleSubs] Beelzebub - 01 [720p][BF7ADF22].mkv
 ongoing/Beelzebub/[HorribleSubs] Beelzebub - 02 [720p][99C115A1].mkv
 ongoing/Beelzebub/[HorribleSubs] Beelzebub - 03 [720p][B7BB039D].mkv
@@ -732,6 +729,7 @@ ongoing/Digimon Xros Wars II/[WildBunch] Digimon Xros Wars II - 21 [720p][A414B4
 ongoing/Digimon Xros Wars II/[WildBunch] Digimon Xros Wars II - 22 [720p][6CE72255].mkv
 ongoing/Digimon Xros Wars II/[WildBunch] Digimon Xros Wars II - 23 [720p][324AAB8A].mkv
 ongoing/Digimon Xros Wars II/[WildBunch] Digimon Xros Wars II - 24 [720p][4939F4DB].mkv
+ongoing/Digimon Xros Wars II/[WildBunch] Digimon Xros Wars II - 25 [720p][4809B670].mkv
 ongoing/Fairy Tail/Fairy Tail - 001 [Mamiko][0307DF54].mkv
 ongoing/Fairy Tail/Fairy Tail - 002 [Mamiko][531F9793].mkv
 ongoing/Fairy Tail/Fairy Tail - 003 [Mamiko][C7677EC8].mkv
@@ -1138,6 +1136,7 @@ ongoing/Gundam SEED (Remaster)/[sage] Gundam SEED (Remaster) - 07 [720p][3BD5A6A
 ongoing/Gundam SEED (Remaster)/[sage] Gundam SEED (Remaster) - 08 [720p][F287ACF1].mkv
 ongoing/Gundam SEED (Remaster)/[sage] Gundam SEED (Remaster) - 09 [720p][71AB4A03].mkv
 ongoing/Gundam SEED (Remaster)/[sage] Gundam SEED (Remaster) - 10 [720p][ED9B039A].mkv
+ongoing/Gundam SEED (Remaster)/[sage] Gundam SEED (Remaster) - 11 [720p][F48F0076].mkv
 ongoing/Gundam Unicorn/[Thora] Gundam Unicorn - 1 [v2 720p BD][3474BCB6].mkv
 ongoing/Gundam Unicorn/[Thora] Gundam Unicorn - 2 [v2 720p BD][63313E42].mkv
 ongoing/Gundam Unicorn/[Thora] Gundam Unicorn - 3 [720p BD][294FFCB9].mkv
@@ -1355,7 +1354,6 @@ ongoing/Mirai Nikki/[Commie] Mirai Nikki - 19 [3AE87D95].mkv
 ongoing/Mirai Nikki/[Commie] Mirai Nikki - 20 [0B39D483].mkv
 ongoing/Mirai Nikki/[Commie] Mirai Nikki - 21 [48BE282B].mkv
 ongoing/Mirai Nikki/[Commie] Mirai Nikki - 22 [5EBB83B7].mkv
-ongoing/Mirai Nikki/[GotSpeed] Mirai Nikki - 23 [8BEF4292].mkv
 ongoing/Mirai Nikki/[GotWoot] Mirai Nikki - 01 [E5251623].mkv
 ongoing/Mirai Nikki/[GotWoot] Mirai Nikki - 02 [006FE28D].mkv
 ongoing/Mirai Nikki/[GotWoot] Mirai Nikki - 03 [A66CDFD5].mkv
@@ -1378,6 +1376,7 @@ ongoing/Mirai Nikki/[GotWoot] Mirai Nikki - 19 [853D0F31].mkv
 ongoing/Mirai Nikki/[GotWoot] Mirai Nikki - 20 [F0FFF5F7].mkv
 ongoing/Mirai Nikki/[GotWoot] Mirai Nikki - 21 [FC1342B2].mkv
 ongoing/Mirai Nikki/[GotWoot] Mirai Nikki - 22 [EABE7C80].mkv
+ongoing/Mirai Nikki/[GotWoot] Mirai Nikki - 23 [v2][32682077].mkv
 ongoing/Monster Farm -Secret of the Stone Disks-/[sage] Monster Farm -Secret of the Stone Disks- - 01 [1170064B].mkv
 ongoing/Mouretsu Pirates/[Commie] Mouretsu Pirates - 01 [D051076F].mkv
 ongoing/Mouretsu Pirates/[Commie] Mouretsu Pirates - 02 [7B85B430].mkv

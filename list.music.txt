@@ -3633,6 +3633,7 @@ music/Nipponsei/[Nipponsei] Chevalier OP Single - BORN [Okuda Miwako].zip
 music/Nipponsei/[Nipponsei] Chevalier Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Chihayafuru OP Single - YOUTHFUL [99RadioService].zip
 music/Nipponsei/[Nipponsei] Chihayafuru Original Soundtrack & Character Song 1.zip
+music/Nipponsei/[Nipponsei] Chihayafuru Original Soundtrack & Character Song 2.zip
 music/Nipponsei/[Nipponsei] Chocotto Sister Anchoko 1 Satsume - Under Chocottosister File.ONE.zip
 music/Nipponsei/[Nipponsei] Chocotto Sister Anchoko 2 Satsume - Under Chocottosister File.TWO.zip
 music/Nipponsei/[Nipponsei] Chocotto Sister Anchoko 3 Satsume - Under Chocottosister File.THREE.zip
@@ -3826,6 +3827,7 @@ music/Nipponsei/[Nipponsei] Gundam 00 A wakening of the Trailblazer Insert Song 
 music/Nipponsei/[Nipponsei] Gundam 00 ED Single - Wana [THE BACK HORN].zip
 music/Nipponsei/[Nipponsei] Gundam 00 OP1 Single - DAYBREAK S BELL [L Arc en Ciel].zip
 music/Nipponsei/[Nipponsei] Gundam AGE ED Single - Kimi no Naka no Eiyuu [Kuribayashi Minami].zip
+music/Nipponsei/[Nipponsei] Gundam AGE ED2 Single - My World [SPYAIR].zip
 music/Nipponsei/[Nipponsei] Gundam AGE Insert Song Single - Memorial days [KOKIA].zip
 music/Nipponsei/[Nipponsei] Gundam AGE OP Single - Asu he [Galileo Galilei].zip
 music/Nipponsei/[Nipponsei] Gundam SEED DESTINY Suit CD Vol. 6 - Shin Asuka x Destiny Gundam.zip
@@ -3881,6 +3883,7 @@ music/Nipponsei/[Nipponsei] Hidan no Aria OP Single - Scarlet Ballet [May'n].zip
 music/Nipponsei/[Nipponsei] Hidan no Aria Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] High School DxD ED Single - STUDY x STUDY [StylipS].zip
 music/Nipponsei/[Nipponsei] High School DxD OP Single - Trip -innocent of D- [Larval Stage Planning].zip
+music/Nipponsei/[Nipponsei] High School DxD Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Highschool of the Dead ED Album - H.O.T.D. [Kurosaki Maon].zip
 music/Nipponsei/[Nipponsei] Highschool of the Dead OP Single - HIGHSCHOOL OF THE DEAD [Kishida Kyoudan & The Myoujou Rocket].zip
 music/Nipponsei/[Nipponsei] Highschool of the Dead Original Soundtrack.zip
@@ -4063,6 +4066,7 @@ music/Nipponsei/[Nipponsei] La Corda d'Oro ~primo passo~ OP Single - Brand New B
 music/Nipponsei/[Nipponsei] Lamune Characters Collection Vol.5 - Ayukawa Misora [Shintani Ryoko].zip
 music/Nipponsei/[Nipponsei] Lamune Characters Collection Vol.6 - Taguchi Hiroko [Sakura Hiromi].zip
 music/Nipponsei/[Nipponsei] Last Exile Ginyoku no Fam OP Single - Buddy [Sakamoto Maaya].zip
+music/Nipponsei/[Nipponsei] Last Exile Ginyoku no Fam Original Soundtrack 2.zip
 music/Nipponsei/[Nipponsei] Last Exile Ginyoku no Fam Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Les Miserables Shoujo Cosette OP ED Single - Kaze no Mukou [Saitou Yuki].zip
 music/Nipponsei/[Nipponsei] Level E ED Single - Yume ~Mugen no Kanata~ [ViViD].zip
@@ -4385,6 +4389,7 @@ music/Nipponsei/[Nipponsei] Ragnarok the Animation OP ED Single - We are the Sta
 music/Nipponsei/[Nipponsei] Rakugo Tennyo Oyui ED Single - Hana Fubuki Koi Fubuki [Kashima Hiromi].zip
 music/Nipponsei/[Nipponsei] Rakugo Tennyo Oyui OP Single - Sakura Saku [Little Non].zip
 music/Nipponsei/[Nipponsei] Rebuild of Evangelion - EVANGELION 1.0 YOU ARE (NOT) ALONE.zip
+music/Nipponsei/[Nipponsei] Recorder to Randsell Do Main Theme Album - Glitter [Tada Aoi feat. Sister 773].zip
 music/Nipponsei/[Nipponsei] Red Garden ED2 Single - OH MY JULIET [LM.C].zip
 music/Nipponsei/[Nipponsei] Red Garden OP Single - Jolly Jolly [JiLL-Decoy association].zip
 music/Nipponsei/[Nipponsei] Red Garden Original Soundtrack.zip
@@ -4474,6 +4479,7 @@ music/Nipponsei/[Nipponsei] Sengoku Otome ~Momoiro Paradox~ OP ED Single - Kager
 music/Nipponsei/[Nipponsei] Senki Zesshou Symphogear Character Song Series 1 - Zwei Wing.zip
 music/Nipponsei/[Nipponsei] Senki Zesshou Symphogear Character Song Series 2 - Tachibana Hibiki.zip
 music/Nipponsei/[Nipponsei] Senki Zesshou Symphogear Character Song Series 3 - Kazanari Tsubasa [Mizuki Nana].zip
+music/Nipponsei/[Nipponsei] Senki Zesshou Symphogear Character Song Series 4 - Yukine Chris [Takagaki Ayahi].zip
 music/Nipponsei/[Nipponsei] Senki Zesshou Symphogear ED Single - Meteor Light [Takagaki Ayahi].zip
 music/Nipponsei/[Nipponsei] Senki Zesshou Symphogear OP Single - Synchrograzer [Mizuki Nana].zip
 music/Nipponsei/[Nipponsei] Senkou no Night Raid Original Soundtrack.zip
@@ -5131,6 +5137,7 @@ music/Shin-S/[Shin-S] Mirai Nikki ED Single - Blood teller [Faylan].zip
 music/Shin-S/[Shin-S] Mirai Nikki ED2 Single - filament [Yousei Teikoku].zip
 music/Shin-S/[Shin-S] Mirai Nikki OP2 Single - Dead END [Faylan].zip
 music/Shin-S/[Shin-S] Mirai Nikki TV OP & OVA ED Single - Kuusou Merosogii [Yousei Teikoku].zip
+music/Shin-S/[Shin-S] Mobile Suit Gundam AGE ED2 Single - My World [SPYAIR].zip
 music/Shin-S/[Shin-S] Moribito Kozorite PC Game OP Single - Moribito Kozorite [Nogawa Sakura].zip
 music/Shin-S/[Shin-S] Moshidora ~Moshi Koukou Yakyuu no Joshi Manager ga Drucker no Management wo Yondara~ ED Single - Daisuki da yo [momo].zip
 music/Shin-S/[Shin-S] Moshidora ~Moshi Koukou Yakyuu no Joshi Manager ga Drucker no Management wo Yondara~ OP Single - Yume Note [azusa].zip
@@ -5138,6 +5145,8 @@ music/Shin-S/[Shin-S] Mouretsu Uchuu Kaizoku OP & ED Single - Mouretsu Uchuu Kou
 music/Shin-S/[Shin-S] Nekogami Yaoyorozu Character Songs Vol.1 - Yuzu & Gonta [Horie Yui & Sanpei Yuuko].zip
 music/Shin-S/[Shin-S] Nekogami Yaoyorozu Character Songs Vol.3 - Mayu & Sasana & Meiko [Various].zip
 music/Shin-S/[Shin-S] Nekogami Yaoyorozu ED Single - Oh My God [Tomatsu Haruka].zip
+music/Shin-S/[Shin-S] New Prince of Tennis ED Single - ENJOY [Amikyuu Danji].zip
+music/Shin-S/[Shin-S] New Prince of Tennis OP Single - Mirai no Bokura e [Fujisawa Norimasa].zip
 music/Shin-S/[Shin-S] Nichijou Character Song Single - Sakamoto-san no Nyaa to Iu to Demo Omotta ka [Shiraishi Minoru].zip
 music/Shin-S/[Shin-S] Nichijou ED Single - Zzz [Sasaki Sayaka].zip
 music/Shin-S/[Shin-S] Nichijou OP Single - Hyadain no Kakakata Kataomoi-C [Hyadain].zip
@@ -5157,6 +5166,7 @@ music/Shin-S/[Shin-S] Persona 4 The Animation OP3 Single - True Story [Kugimiya 
 music/Shin-S/[Shin-S] Phi Brain ~Kami no Puzzle~ ED Single - Hologram [Kiyoura Natsumi].zip
 music/Shin-S/[Shin-S] RO-KYU-BU! Character Songs 01 - Minato Tomoka [Hanazawa Kana].zip
 music/Shin-S/[Shin-S] RO-KYU-BU! OP & ED Single - SHOOT! [RO-KYU-BU!].zip
+music/Shin-S/[Shin-S] Recorder to Randsell Theme Song Album - Glitter [Tada Aoi feat. Sister 773].zip
 music/Shin-S/[Shin-S] Rinne no Lagrange OP & ED Single - TRY UNITE! [Nakajima Megumi].zip
 music/Shin-S/[Shin-S] STAR DRIVER ~Kagayaki no Takuto~ OP2 Single - SHINING STAR [9nine].zip
 music/Shin-S/[Shin-S] Sacred Seven OP Single - stone cold [FictionJunction].zip
