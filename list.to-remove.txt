@@ -44,6 +44,7 @@ to-remove/[Coalgirls] Toradora! - Ending [DVD][5F5BF1C3].mkv
 to-remove/[Coalgirls] Toradora! - Opening 2 [DVD][6B9FC6DF].mkv
 to-remove/[Coalgirls] Toradora! - Opening [DVD][CA478170].mkv
 to-remove/[Commie] Denpa Onna to Seishun Otoko - 13 [1080p BD][4C840558].mkv
+to-remove/[Commie] Hayate no Gotoku! Heaven is a Place on Earth [DVD][1B433DE8].mkv
 to-remove/[GetWet] Senki Zesshou Symphogear - 01 [56B4567E].mkv
 to-remove/[GetWet] Senki Zesshou Symphogear - 02 [CFC7AC4F].mkv
 to-remove/[GetWet] Senki Zesshou Symphogear - 03 [0B9AF94B].mkv
@@ -92,6 +93,7 @@ to-remove/[SS] Mirai Nikki - 17 [720p][F1BE98C6].mkv
 to-remove/[SS] Mirai Nikki - 18 [720p][7D340785].mkv
 to-remove/[SS] Mirai Nikki - 19 [720p][A6362F49].mkv
 to-remove/[THORA] Macross Frontier - Movie 1 [1080p BD][8925AEFC].mkv
+to-remove/[Taco] Literature Girl OVA - 01 [2276F216].mkv
 to-remove/[TimeLesSub] Detective Conan - Live Action - 02.avi
 to-remove/[Underwater-Commie] Denpa Onna to Seishun Otoko - 01 [720p][8A3C0C90].mkv
 to-remove/[Underwater-Commie] Denpa Onna to Seishun Otoko - 02 [720p][991EC2B9].mkv
@@ -119,3 +121,4 @@ to-remove/[gg] Kimi ni Todoke 2nd Season - 09 [1C7D99DF].mkv
 to-remove/[gg] Kimi ni Todoke 2nd Season - 10 [v2][246E6BD5].mkv
 to-remove/[gg] Kimi ni Todoke 2nd Season - 11 [8A953257].mkv
 to-remove/[gg] Kimi ni Todoke 2nd Season - 12 [End][v2][FF09BC14].mkv
+to-remove/[gg] Literature Girl - Preview [4C732EF8].mkv
