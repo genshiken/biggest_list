@@ -11,6 +11,7 @@ ongoing/Aquarion EVOL/[gg] Aquarion EVOL - 10 [4504121E].mkv
 ongoing/Aquarion EVOL/[gg] Aquarion EVOL - 11 [7948FB44].mkv
 ongoing/Aquarion EVOL/[gg] Aquarion EVOL - 12 [ABB4D5A9].mkv
 ongoing/Aquarion EVOL/[gg] Aquarion EVOL - 13 [E2818A09].mkv
+ongoing/Aquarion EVOL/[gg] Aquarion EVOL - 14 [2CB137D1].mkv
 ongoing/Area no Kishi/[HorribleSubs] The Knight in the Area - 01 [720p][2F8BD386].mkv
 ongoing/Area no Kishi/[HorribleSubs] The Knight in the Area - 02 [720p][58C41FF6].mkv
 ongoing/Area no Kishi/[HorribleSubs] The Knight in the Area - 03 [720p][8555B40B].mkv
@@ -1128,6 +1129,7 @@ ongoing/Hyouge Mono/[Huzzah] Hyouge Mono - 10 [2EB089CB].mkv
 ongoing/Hyouge Mono/[Huzzah] Hyouge Mono - 11 [10CE194C].mkv
 ongoing/Hyouge Mono/[Huzzah] Hyouge Mono - 12 [10D01102].mkv
 ongoing/Hyouge Mono/[Huzzah] Hyouge Mono - 13 [8D6ABFB2].mkv
+ongoing/Hyouge Mono/[Huzzah] Hyouge Mono - 14 [522A80AF].mkv
 ongoing/Ikkitousen Shuugaku Toushi Keppuu-roku/[SubDesu] Ikkitousen Shuugaku Toushi Keppuu-roku - 1 [720p][B99F6896].mkv
 ongoing/Inazuma Eleven GO/[RyRo] Inazuma Eleven GO - 001 [720p][CE6F73BC].mkv
 ongoing/Inazuma Eleven GO/[RyRo] Inazuma Eleven GO - 002 [720p][F14E0334].mkv
@@ -1251,6 +1253,7 @@ ongoing/Mirai Nikki/[Commie] Mirai Nikki - 20 [0B39D483].mkv
 ongoing/Mirai Nikki/[Commie] Mirai Nikki - 21 [48BE282B].mkv
 ongoing/Mirai Nikki/[Commie] Mirai Nikki - 22 [5EBB83B7].mkv
 ongoing/Mirai Nikki/[Commie] Mirai Nikki - 23 [061CDE11].mkv
+ongoing/Mirai Nikki/[GotSpeed] Mirai Nikki - 24 [DC824EAA].mkv
 ongoing/Mirai Nikki/[GotWoot] Mirai Nikki - 01 [E5251623].mkv
 ongoing/Mirai Nikki/[GotWoot] Mirai Nikki - 02 [006FE28D].mkv
 ongoing/Mirai Nikki/[GotWoot] Mirai Nikki - 03 [A66CDFD5].mkv
@@ -2007,6 +2010,8 @@ ongoing/One Piece/One Piece - Special 2 [K-F][v2 DVD][03CFFEF6].avi
 ongoing/One Piece/One Piece - Special 3 [K-F][DVD][6F259023].mp4
 ongoing/One Piece/One Piece - Special 4 [K-F][DVD][0BE160AB].mp4
 ongoing/Ozma/[Underwater] Ozma - 01 [720p][1B699B08].mkv
+ongoing/Ozma/[Underwater] Ozma - 02 [720p][D4EC7E3B].mkv
+ongoing/Ozma/[Underwater] Ozma - 03 [720p][DEBE605F].mkv
 ongoing/Phi Brain - Kami no Puzzle/[AonE] Phi Brain - 01 [94C59F8C].mkv
 ongoing/Phi Brain - Kami no Puzzle/[AonE] Phi Brain - 02 [35C8170B].mkv
 ongoing/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 01 [7105C87D].mkv
@@ -2255,6 +2260,7 @@ ongoing/Smile Precure!/[Doremi] Smile Precure! - 05 [720p][A685CB81].mkv
 ongoing/Smile Precure!/[Doremi] Smile Precure! - 06 [720p][6DEAEB6A].mkv
 ongoing/Smile Precure!/[Doremi] Smile Precure! - 07 [720p][C5D58E25].mkv
 ongoing/Smile Precure!/[Doremi] Smile Precure! - 08 [720p][353919DA].mkv
+ongoing/Smile Precure!/[Doremi] Smile Precure! - 09 [720p][456A2D81].mkv
 ongoing/Tales of Symphonia OVA - The United World/[Formula] Tales of Symphonia OVA - The United World - 1 [AB66507E].mkv
 ongoing/Tantei Opera Milky Holmes II/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes II - 01 [720p][45B5EDD5].mkv
 ongoing/Tantei Opera Milky Holmes II/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes II - 02 [720p][A80EAE15].mkv
@@ -2323,3 +2329,4 @@ ongoing/Toriko/[A-Destiny] Toriko - 46 [720p][6995A12A].mkv
 ongoing/Toriko/[A-Destiny] Toriko - 47 [720p][C4AACDEA].mkv
 ongoing/Toriko/[A-Destiny] Toriko - 48 [720p][5E613373].mkv
 ongoing/Toriko/[A-Destiny] Toriko - 49 [720p][8930EB8B].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 50 [720p][29029C02].mkv

@@ -794,18 +794,18 @@ complete/a/Ano Natsu de Matteru/[Commie] Ano Natsu de Matteru - 09 [EAA3A20A].mk
 complete/a/Ano Natsu de Matteru/[Commie] Ano Natsu de Matteru - 10 [E8CA69BF].mkv
 complete/a/Ano Natsu de Matteru/[Commie] Ano Natsu de Matteru - 11 [v2][5BF1772A].mkv
 complete/a/Ano Natsu de Matteru/[Commie] Ano Natsu de Matteru - 12 [End][E3A9CBDA].mkv
-complete/a/Another/[Commie] Another - 01 [E2D3C3A8].mkv
-complete/a/Another/[Commie] Another - 02 [70EB7DE8].mkv
-complete/a/Another/[Commie] Another - 03 [A3862426].mkv
-complete/a/Another/[Commie] Another - 04 [8A298363].mkv
-complete/a/Another/[Commie] Another - 05 [73521FB7].mkv
-complete/a/Another/[Commie] Another - 06 [E598A78B].mkv
-complete/a/Another/[Commie] Another - 07 [33A0FCBA].mkv
-complete/a/Another/[Commie] Another - 08 [0C1429E5].mkv
-complete/a/Another/[Commie] Another - 09 [194B3BED].mkv
-complete/a/Another/[Commie] Another - 10 [AC08059D].mkv
-complete/a/Another/[Commie] Another - 11 [326943F8].mkv
-complete/a/Another/[Commie] Another - 12 [End][A4DFEEE7].mkv
+complete/a/Another/[Commie] Another - 01 [v2][F53B9FDC].mkv
+complete/a/Another/[Commie] Another - 02 [v2][A8707EC1].mkv
+complete/a/Another/[Commie] Another - 03 [v2][240511DB].mkv
+complete/a/Another/[Commie] Another - 04 [v2][962508D0].mkv
+complete/a/Another/[Commie] Another - 05 [v2][B5E4501C].mkv
+complete/a/Another/[Commie] Another - 06 [v2][125D7703].mkv
+complete/a/Another/[Commie] Another - 07 [v2][ACAE0D5A].mkv
+complete/a/Another/[Commie] Another - 08 [v2][521F0A18].mkv
+complete/a/Another/[Commie] Another - 09 [v2][ABFC1D15].mkv
+complete/a/Another/[Commie] Another - 10 [v2][3A3238C1].mkv
+complete/a/Another/[Commie] Another - 11 [v2][70C6AEDD].mkv
+complete/a/Another/[Commie] Another - 12 [End][v2][3330AC2E].mkv
 complete/a/Another/[Underwater] Another - 01 [720p][78634826].mkv
 complete/a/Another/[Underwater] Another - 02 [720p][10583F33].mkv
 complete/a/Another/[Underwater] Another - 03 [720p][9F361EC6].mkv
@@ -6566,14 +6566,13 @@ complete/g/Gosick/[Victorique] Gosick - 06 [720p BD][83DC9AB1].mkv
 complete/g/Gosick/[Victorique] Gosick - 07 [720p BD][9E83E506].mkv
 complete/g/Gosick/[Victorique] Gosick - 08 [720p BD][59D72CB7].mkv
 complete/g/Gosick/[Victorique] Gosick - 09 [720p BD][7C6CC327].mkv
-complete/g/Gosick/[Victorique] Gosick - 10 [720p BD][87AF2C60].mkv
+complete/g/Gosick/[Victorique] Gosick - 10 [v2 720p BD][DDBBE2F7].mkv
 complete/g/Gosick/[Victorique] Gosick - 11 [720p BD][65210C83].mkv
 complete/g/Gosick/[Victorique] Gosick - 12 [720p BD][990EAA86].mkv
 complete/g/Gosick/[Victorique] Gosick - 13 [720p BD][30B9BA95].mkv
 complete/g/Gosick/[Victorique] Gosick - 14 [720p BD][7E6038E1].mkv
 complete/g/Gosick/[Victorique] Gosick - 15 [720p BD][36E8BC79].mkv
 complete/g/Gosick/[Victorique] Gosick - 16 [720p BD][DA4A7BE0].mkv
-complete/g/Gosick/[Victorique] Gosick - 17 [720p BD][F0C53297].mkv
 complete/g/Gosick/[Victorique] Gosick - 18 [720p BD][95BE20DA].mkv
 complete/g/Gosick/[Victorique] Gosick - 19 [720p BD][00A4DC73].mkv
 complete/g/Gosick/[Victorique] Gosick - 20 [720p BD][B360488C].mkv
