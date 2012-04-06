@@ -2809,7 +2809,7 @@ complete/c/Chihayafuru/[Commie] Chihayafuru - 21 [006EB26D].mkv
 complete/c/Chihayafuru/[Commie] Chihayafuru - 22 [3D590B67].mkv
 complete/c/Chihayafuru/[Commie] Chihayafuru - 23 [445B3364].mkv
 complete/c/Chihayafuru/[Commie] Chihayafuru - 24 [C168F61E].mkv
-complete/c/Chihayafuru/[HorribleSubs] Chihayafuru - 25 [End][720p][D8EB6833].mkv
+complete/c/Chihayafuru/[Commie] Chihayafuru - 25 [End][05B3D094].mkv
 complete/c/Chikyuu Shoujo Arjuna/[zx] Chikyuu Shoujo Arjuna - 01 [DVD][A17EB7A6].ogm
 complete/c/Chikyuu Shoujo Arjuna/[zx] Chikyuu Shoujo Arjuna - 02 [DVD][D96BBE47].ogm
 complete/c/Chikyuu Shoujo Arjuna/[zx] Chikyuu Shoujo Arjuna - 03 [DVD][660FF144].ogm
@@ -3496,7 +3496,7 @@ complete/d/Da Capo/[Jumonji-Giri] Da Capo - 23 [B01F4188].mkv
 complete/d/Da Capo/[Jumonji-Giri] Da Capo - 24 [926BC5B9].mkv
 complete/d/Da Capo/[Jumonji-Giri] Da Capo - 25 [C19FD7FF].mkv
 complete/d/Da Capo/[Jumonji-Giri] Da Capo - 26 [End][38069084].mkv
-complete/d/Daily Lives of High School Boys/[sage] Daily Lives of High School Boys - 01 [720p][7488D677].mkv
+complete/d/Daily Lives of High School Boys/[sage] Daily Lives of High School Boys - 01 [v2 720p][67D7D770].mkv
 complete/d/Daily Lives of High School Boys/[sage] Daily Lives of High School Boys - 02 [720p][2030E489].mkv
 complete/d/Daily Lives of High School Boys/[sage] Daily Lives of High School Boys - 03 [720p][4DD89617].mkv
 complete/d/Daily Lives of High School Boys/[sage] Daily Lives of High School Boys - 04 [720p][E524ED37].mkv
@@ -6573,6 +6573,7 @@ complete/g/Gosick/[Victorique] Gosick - 13 [720p BD][30B9BA95].mkv
 complete/g/Gosick/[Victorique] Gosick - 14 [720p BD][7E6038E1].mkv
 complete/g/Gosick/[Victorique] Gosick - 15 [720p BD][36E8BC79].mkv
 complete/g/Gosick/[Victorique] Gosick - 16 [720p BD][DA4A7BE0].mkv
+complete/g/Gosick/[Victorique] Gosick - 17 [v2 720p BD][E37054E8].mkv
 complete/g/Gosick/[Victorique] Gosick - 18 [720p BD][95BE20DA].mkv
 complete/g/Gosick/[Victorique] Gosick - 19 [720p BD][00A4DC73].mkv
 complete/g/Gosick/[Victorique] Gosick - 20 [720p BD][B360488C].mkv
@@ -9554,6 +9555,10 @@ complete/k/Kagihime Eikyuu Alice Rondo/[Froth-Bite] Kagihime Eikyuu Alice Rondo 
 complete/k/Kagihime Eikyuu Alice Rondo/[Froth-Bite] Kagihime Eikyuu Alice Rondo - 11 [47D4DAB1].mp4
 complete/k/Kagihime Eikyuu Alice Rondo/[Froth-Bite] Kagihime Eikyuu Alice Rondo - 12 [7F969F36].mp4
 complete/k/Kagihime Eikyuu Alice Rondo/[Froth-Bite] Kagihime Eikyuu Alice Rondo - 13 [End][93D4499C].mp4
+complete/k/Kagihime Eikyuu Alice Rondo/[Jumonji-Giri] Kagihime Monogatari Eikyuu Alice Rondo - 01 [C4D44385].mkv
+complete/k/Kagihime Eikyuu Alice Rondo/[Jumonji-Giri] Kagihime Monogatari Eikyuu Alice Rondo - 02 [F5224E8A].mkv
+complete/k/Kagihime Eikyuu Alice Rondo/[Jumonji-Giri] Kagihime Monogatari Eikyuu Alice Rondo - Ending (Clean) [36D1E229].mkv
+complete/k/Kagihime Eikyuu Alice Rondo/[Jumonji-Giri] Kagihime Monogatari Eikyuu Alice Rondo - Opening (Clean)[A65B4B7A].mkv
 complete/k/Kaiba/[F-B & Ureshii] Kaiba - 01 (1280x720) [E99F0B13].mkv
 complete/k/Kaiba/[F-B & Ureshii] Kaiba - 02 (1280x720) [118ADC15].mkv
 complete/k/Kaiba/[F-B & Ureshii] Kaiba - 03 (1280x720) [A32D4BA4].mkv
@@ -11694,6 +11699,31 @@ complete/l/Literature Girl - Today's Snack - First Love/[Monokage] Literature Gi
 complete/l/Literature Girl Memoir/[Monokage] Literature Girl Memoir - 1 [0B3A1FCC].mkv
 complete/l/Literature Girl Memoir/[Monokage] Literature Girl Memoir - 2 [143BCFD8].mkv
 complete/l/Literature Girl Memoir/[Monokage] Literature Girl Memoir - 3 [End][C886F1F9].mkv
+complete/l/Love Get Chu/Love Get Chu - 01 [Ayu-C1][1ADA2B0E].mp4
+complete/l/Love Get Chu/Love Get Chu - 02 [Ayu-C1][C5611712].mp4
+complete/l/Love Get Chu/Love Get Chu - 03 [Ayu-C1][E081D7AA].mp4
+complete/l/Love Get Chu/Love Get Chu - 04 [Ayu-C1][D8619093].mp4
+complete/l/Love Get Chu/Love Get Chu - 05 [Ayu-C1][A322E28C].mp4
+complete/l/Love Get Chu/Love Get Chu - 06 [Ayu-C1][9EF2902D].mp4
+complete/l/Love Get Chu/Love Get Chu - 07 [Ayu-C1][E7914A99].mp4
+complete/l/Love Get Chu/Love Get Chu - 08 [Ayu-C1][B9B052AB].mp4
+complete/l/Love Get Chu/Love Get Chu - 09 [Ayu-C1][59379503].mp4
+complete/l/Love Get Chu/Love Get Chu - 10 [C1][6F89B64B].mp4
+complete/l/Love Get Chu/Love Get Chu - 11 [C1][63A0B9CB].mp4
+complete/l/Love Get Chu/Love Get Chu - 12 [C1][E5B66B29].mp4
+complete/l/Love Get Chu/Love Get Chu - 13 [C1][ED9A47E0].mp4
+complete/l/Love Get Chu/Love Get Chu - 14 [Yoroshiku][A45F8539].mkv
+complete/l/Love Get Chu/Love Get Chu - 15 [Yoroshiku][FC8BB012].mkv
+complete/l/Love Get Chu/Love Get Chu - 16 [Oyatsu][40B63CEF].mkv
+complete/l/Love Get Chu/Love Get Chu - 17 [Oyatsu][80922539].mkv
+complete/l/Love Get Chu/Love Get Chu - 18 [Oyatsu][E0BEFCA1].mkv
+complete/l/Love Get Chu/Love Get Chu - 19 [Oyatsu][56F70E20].mkv
+complete/l/Love Get Chu/Love Get Chu - 20 [Oyatsu][E5CBD776].mkv
+complete/l/Love Get Chu/Love Get Chu - 21 [Oyatsu][70B22D59].mkv
+complete/l/Love Get Chu/Love Get Chu - 22 [Oyatsu][24A6C0CD].mkv
+complete/l/Love Get Chu/Love Get Chu - 23 [Oyatsu][33A2A144].mkv
+complete/l/Love Get Chu/Love Get Chu - 24 [Oyatsu][A50D52C3].mkv
+complete/l/Love Get Chu/Love Get Chu - 25 [Yoroshiku][End][D42FA598].mkv
 complete/l/Love Hina - Again/[a4e] Love Hina - Again - 1 [7E08D378].mkv
 complete/l/Love Hina - Again/[a4e] Love Hina - Again - 2 [14DB4571].mkv
 complete/l/Love Hina - Again/[a4e] Love Hina - Again - 3 [End][1C14ECC9].mkv
@@ -15341,6 +15371,7 @@ complete/p/Papa no Iu Koto wo Kikinasai!/[Oyatsu] Papa no Iu Koto wo Kikinasai! 
 complete/p/Papa no Iu Koto wo Kikinasai!/[Oyatsu] Papa no Iu Koto wo Kikinasai! - 08 [720p][5D5B95FD].mkv
 complete/p/Papa no Iu Koto wo Kikinasai!/[Oyatsu] Papa no Iu Koto wo Kikinasai! - 09 [720p][3745DDD8].mkv
 complete/p/Papa no Iu Koto wo Kikinasai!/[Oyatsu] Papa no Iu Koto wo Kikinasai! - 10 [720p][06FA303E].mkv
+complete/p/Papa no Iu Koto wo Kikinasai!/[Oyatsu] Papa no Iu Koto wo Kikinasai! - 11 [720p][B71F8133].mkv
 complete/p/Patlabor (1989)/[AM] Patlabor (1989) - 01 [DVD][v2][1A60A3A0].ogm
 complete/p/Patlabor (1989)/[AM] Patlabor (1989) - 02 [DVD][v2][ECE1DC5A].ogm
 complete/p/Patlabor (1989)/[AM] Patlabor (1989) - 03 [DVD][v2][673126E9].ogm
@@ -15526,18 +15557,18 @@ complete/p/Persona 4/[Commie] Persona 4 - 10 [32EC3418].mkv
 complete/p/Persona 4/[Commie] Persona 4 - 11 [A50CD66B].mkv
 complete/p/Persona 4/[Commie] Persona 4 - 12 [49083C60].mkv
 complete/p/Persona 4/[Commie] Persona 4 - 13 [0A5EB6D7].mkv
-complete/p/Persona 4/[Commie] Persona 4 - 14 [79B0E68D].mkv
-complete/p/Persona 4/[Commie] Persona 4 - 15 [AAE8B770].mkv
-complete/p/Persona 4/[Commie] Persona 4 - 16 [A83BAE49].mkv
-complete/p/Persona 4/[Commie] Persona 4 - 17 [118F7E2A].mkv
-complete/p/Persona 4/[Commie] Persona 4 - 18 [EA2DA7BB].mkv
-complete/p/Persona 4/[Commie] Persona 4 - 19 [F41DA709].mkv
-complete/p/Persona 4/[Commie] Persona 4 - 20 [83D6D923].mkv
-complete/p/Persona 4/[Commie] Persona 4 - 21 [6DA60908].mkv
-complete/p/Persona 4/[Commie] Persona 4 - 22 [CE667BB4].mkv
-complete/p/Persona 4/[Commie] Persona 4 - 23 [E7F55519].mkv
-complete/p/Persona 4/[Commie] Persona 4 - 24 [B82671BA].mkv
-complete/p/Persona 4/[Commie] Persona 4 - 25 [End][B87F03D9].mkv
+complete/p/Persona 4/[Commie] Persona 4 - 14 [v2][4DBF9172].mkv
+complete/p/Persona 4/[Commie] Persona 4 - 15 [v2][ADF5B583].mkv
+complete/p/Persona 4/[Commie] Persona 4 - 16 [v2][42B3C77B].mkv
+complete/p/Persona 4/[Commie] Persona 4 - 17 [v2][479A46A2].mkv
+complete/p/Persona 4/[Commie] Persona 4 - 18 [v2][342F3408].mkv
+complete/p/Persona 4/[Commie] Persona 4 - 19 [v2][D400A5E4].mkv
+complete/p/Persona 4/[Commie] Persona 4 - 20 [v2][C271B41A].mkv
+complete/p/Persona 4/[Commie] Persona 4 - 21 [v2][66494B49].mkv
+complete/p/Persona 4/[Commie] Persona 4 - 22 [v2][59DF8F40].mkv
+complete/p/Persona 4/[Commie] Persona 4 - 23 [v2][F3C11A62].mkv
+complete/p/Persona 4/[Commie] Persona 4 - 24 [v2][B92C07F0].mkv
+complete/p/Persona 4/[Commie] Persona 4 - 25 [End][v2][B0271645].mkv
 complete/p/Petit Cossette/[AF-F] Petit Cossette - 1 [91878FA5].avi
 complete/p/Petit Cossette/[AF-F] Petit Cossette - 2 [320FFC2F].avi
 complete/p/Petit Cossette/[AF-F] Petit Cossette - 3 [End][16818DF3].avi
@@ -15570,6 +15601,31 @@ complete/p/Phantom - Requiem for the Phantom/[Inferno] Phantom - Requiem for the
 complete/p/Phantom OVA/[Exiled-Destiny] Phantom OVA - 1 [C2D54846].mkv
 complete/p/Phantom OVA/[Exiled-Destiny] Phantom OVA - 2 [5E099DBF].mkv
 complete/p/Phantom OVA/[Exiled-Destiny] Phantom OVA - 3 [End][A0CE8EFE].mkv
+complete/p/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 01 [7105C87D].mkv
+complete/p/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 02 [16648815].mkv
+complete/p/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 03 [DBF79342].mkv
+complete/p/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 04 [5708EE68].mkv
+complete/p/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 05 [B09D4793].mkv
+complete/p/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 06 [92697374].mkv
+complete/p/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 07 [28AB77FB].mkv
+complete/p/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 08 [76B82FD3].mkv
+complete/p/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 09 [BD60C576].mkv
+complete/p/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 10 [01E7064E].mkv
+complete/p/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 11 [7D505A9A].mkv
+complete/p/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 12 [72EDBBF8].mkv
+complete/p/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 13 [E142EBB2].mkv
+complete/p/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 14 [E3C3968C].mkv
+complete/p/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 15 [BB3F5670].mkv
+complete/p/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 16 [D2638E91].mkv
+complete/p/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 17 [968A53A4].mkv
+complete/p/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 18 [07B64599].mkv
+complete/p/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 19 [771DF6FE].mkv
+complete/p/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 20 [F9FDB840].mkv
+complete/p/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 21 [53809616].mkv
+complete/p/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 22 [06D26DA3].mkv
+complete/p/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 23 [B38004BD].mkv
+complete/p/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 24 [16333E25].mkv
+complete/p/Phi Brain - Kami no Puzzle/[WhyNot] Phi Brain - Kami no Puzzle - 25 [End][8323650A].mkv
 complete/p/Pita Ten/[HnK] Pita Ten - 01 [160EDA9E].avi
 complete/p/Pita Ten/[HnK] Pita Ten - 02 [94F9956A].avi
 complete/p/Pita Ten/[HnK] Pita Ten - 03 [AF7FBF07].avi
@@ -16563,12 +16619,10 @@ complete/r/Rizelmine/[ReDone] Rizelmine - 15 [DVD][7EDDAF53].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 16 [DVD][A28127DA].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 17 [DVD][98B320E8].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 18 [DVD][AD591D0E].mkv
+complete/r/Rizelmine/[ReDone] Rizelmine - 19 [DVD][2B7745E6].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - Ending 1 [DVD][59C1FE24].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - Ending 2 [DVD][C89C1581].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - Opening [DVD][3AC69E00].mkv
-complete/r/Rizelmine/[h-b] Rizelmine - 17 [938E0129].avi
-complete/r/Rizelmine/[h-b] Rizelmine - 18 [AB39C416].avi
-complete/r/Rizelmine/[h-b] Rizelmine - 19 [60A21275].avi
 complete/r/Rizelmine/[h-b] Rizelmine - 20 [65409B96].avi
 complete/r/Rizelmine/[h-b] Rizelmine - 21 [B8E88F44].avi
 complete/r/Rizelmine/[h-b] Rizelmine - 22 [7A7DB133].avi
@@ -17137,6 +17191,7 @@ complete/s/Sailor Moon/[KAA] Sailor Moon - 38 [51163A1F].mkv
 complete/s/Sailor Moon/[KAA] Sailor Moon - 39 [EFEBB0A8].mkv
 complete/s/Sailor Moon/[KAA] Sailor Moon - 40 [45C1DDA7].mkv
 complete/s/Sailor Moon/[KAA] Sailor Moon - 41 [8FF3A08C].mkv
+complete/s/Sailor Moon/[Live-eviL] Sailor Moon - 01 [37A4FA24].mkv
 complete/s/Sailor Moon/[avatar] Sailor Moon - 36 [5DCE4C22].avi
 complete/s/Sailor Moon/[avatar] Sailor Moon - 37 [B594E126].avi
 complete/s/Sailor Moon/[avatar] Sailor Moon - 38 [4125DA1A].avi
@@ -17882,6 +17937,19 @@ complete/s/Sengoku Basara/[gSS] Sengoku Basara - 09 [7303DB0A].mkv
 complete/s/Sengoku Basara/[gSS] Sengoku Basara - 10 [FFAEFE7D].mkv
 complete/s/Sengoku Basara/[gg] Sengoku Basara - 11 [1790506A].mkv
 complete/s/Sengoku Basara/[gg] Sengoku Basara - 12 [62BACAD4].mkv
+complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - 01 [E6264EDD].mkv
+complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - 02 [299D8361].mkv
+complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - 03 [5AFE6337].mkv
+complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - 04 [0EBAA899].mkv
+complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - 05 [1F6598DE].mkv
+complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - 06 [769E643A].mkv
+complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - 07 [8367C06A].mkv
+complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - 08 [330D9D2F].mkv
+complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - 09 [5E45CC81].mkv
+complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - 10 [945EE87C].mkv
+complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - 11 [65F220B4].mkv
+complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - 12 [350D0B60].mkv
+complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - 13 [End][AD8672BC].mkv
 complete/s/Sentou Yousei Tasukete! Mave-chan/[dp] Sentou Yousei Tasukete! Mave-chan [A31B4444].avi
 complete/s/Serial Experiments Lain/[Coalgirls] Serial Experiments Lain - 01 [1080p BD][573CDDD6].mkv
 complete/s/Serial Experiments Lain/[Coalgirls] Serial Experiments Lain - 02 [1080p BD][19F59BAF].mkv
@@ -22883,8 +22951,8 @@ complete/z/Zero no Tsukaima F/[Commie] Zero no Tsukaima F - 07 [9CB08005].mkv
 complete/z/Zero no Tsukaima F/[Commie] Zero no Tsukaima F - 08 [9F558165].mkv
 complete/z/Zero no Tsukaima F/[Commie] Zero no Tsukaima F - 09 [06804FA2].mkv
 complete/z/Zero no Tsukaima F/[Commie] Zero no Tsukaima F - 10 [14A8BE62].mkv
-complete/z/Zero no Tsukaima F/[HorribleSubs] Zero no Tsukaima F - 11 [720p][63386551].mkv
-complete/z/Zero no Tsukaima F/[HorribleSubs] Zero no Tsukaima F - 12 [End][720p][3B21C71B].mkv
+complete/z/Zero no Tsukaima F/[Commie] Zero no Tsukaima F - 11 [C60FBAC8].mkv
+complete/z/Zero no Tsukaima F/[Commie] Zero no Tsukaima F - 12 [End][25152BC4].mkv
 complete/z/Zero no Tsukaima F/[SS] Zero no Tsukaima F - 01 [720p][B2598FB2].mkv
 complete/z/Zero no Tsukaima F/[SS] Zero no Tsukaima F - 02 [720p][130CFB75].mkv
 complete/z/Zero no Tsukaima II/[SS-Ayu] Zero no Tsukaima II - 01 (1280x720) [CAB36470].mp4
