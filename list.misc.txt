@@ -54,8 +54,6 @@ misc/dorama-liveaction/20th Century Boys/[randomfaggots] 20th Century Boys - DVD
 misc/dorama-liveaction/20th Century Boys/[randomfaggots] 20th Century Boys - DVD 2 Extra Trailers 2 [14BE8798].mkv
 misc/dorama-liveaction/Ashita no Joe (2011)/[8thSin] Ashita no Joe (2011) [DVD][4917C896].mkv
 misc/dorama-liveaction/Brother/[niizk] Brother [CC9BE397].mkv
-misc/dorama-liveaction/Death Note - Movie/[Mishicorp-SARS] Death Note - Movie 1 [6DCF4027].avi
-misc/dorama-liveaction/Death Note - Movie/[Mishicorp-SARS] Death Note - Movie 2 [DVD][29B3B233].mkv
 misc/dorama-liveaction/Death Note Movie/[Mishicorp-SARS] Death Note Movie - 1 [DVD][6DCF4027].avi
 misc/dorama-liveaction/Death Note Movie/[Mishicorp-SARS] Death Note Movie - 2 [DVD][29B3B233].mkv
 misc/dorama-liveaction/Densha Otoko Deluxe/Densha Otoko Deluxe (SP) (2006.09.23 704x396 DivX625).avi
@@ -73,6 +71,7 @@ misc/dorama-liveaction/Futatsu no Spica/Futatsu no Spica - 5 (1280x720).avi
 misc/dorama-liveaction/Futatsu no Spica/Futatsu no Spica - 6 (1280x720).avi
 misc/dorama-liveaction/Futatsu no Spica/Futatsu no Spica - 7 [End].avi
 misc/dorama-liveaction/Futatsu no Spica/Futatsu no Spica - 7 [End].srt
+misc/dorama-liveaction/Gundam G-Saviour/Gundam G-Saviour [00503A5C].avi
 misc/dorama-liveaction/Hantsuki Live Action/[SkewedS-SaiMin] Hantsuki Live Action - 02 [03A30D95].mp4
 misc/dorama-liveaction/Hantsuki Live Action/[SkewedS-SaiMin] Hantsuki Live Action - 03 [777D4411].mp4
 misc/dorama-liveaction/Higurashi no Naku Koro ni Live Action/[Piggymoo] Higurashi no Naku Koro ni Live Movie [AC1E4FC2].mkv

@@ -25,7 +25,6 @@ movie/Cencoroll/[Formula] Cencoroll [BFDBFD3D].mkv
 movie/Cencoroll/[Koharubi] Cencoroll [HQ][EEE806D5].mkv
 movie/Clannad - The Motion Picture/[SS-Eclipse] Clannad - The Motion Picture [DVD][FDB42A85].mkv
 movie/Colorful (2010)/[Doki] Colorful (2010) [1080p BD][90BAC5BD].mkv
-movie/Cowboy Bebob - Knockin' on Heaven's Door/[Thora] Cowboy Bebob - Knockin' on Heaven's Door [1080p BD][97CC8F7F].mkv
 movie/Cowboy Bebob - Knockin' on Heaven's Door/[niizk] Cowboy Bebob - Knockin' on Heaven's Door [BE3625D7].mkv
 movie/Crayon Shin-chan/[Unknown] Crayon Shin-chan - Movie 8 (Part 1) [5A830C46].avi
 movie/Crayon Shin-chan/[Unknown] Crayon Shin-chan - Movie 8 (Part 2) [200522E2].avi
@@ -48,7 +47,7 @@ movie/Detective Conan Movie (2006) - The Private Eyes' Requiem/[KnKF] Detective 
 movie/Detective Conan Movie (2007) - Jolly Roger in the Deep Azure/[B-Org] Detective Conan Movie (2007) - Jolly Roger in the Deep Azure (Part 1) [6CF1697E].mkv
 movie/Detective Conan Movie (2007) - Jolly Roger in the Deep Azure/[B-Org] Detective Conan Movie (2007) - Jolly Roger in the Deep Azure (Part 2) [B8C270F7].mkv
 movie/Detective Conan Movie (2008) - Full Score of Fear/[DCTP] Detective Conan Movie (2008) - Full Score of Fear [1080p][890BB070].mkv
-movie/Detective Conan Movie (2009) - The Raven Chaser/[DCTP] Detective Conan Movie (2009) - The Raven Chaser [EFC07D98].mkv
+movie/Detective Conan Movie (2009) - The Raven Chaser/[DCTP] Detective Conan Movie (2009) - The Raven Chaser [1080p][375616FC].mkv
 movie/Detective Conan Movie (2010) - The Lost Ship in the Sky/[DCTP] Detective Conan Movie (2010) - The Lost Ship in the Sky [1080p][1E6E4D68].mkv
 movie/Detective Conan Movie (2011) - Quarter of Silence/[DCTP] Detective Conan Movie (2011) - Quarter of Silence [F49743F4].mkv
 movie/Diebuster Movie (2006)/[THORA] Diebuster Movie (2006) [720p,BD][B82B5C95].mkv
@@ -69,18 +68,13 @@ movie/Doraemon Movie/[Doremi] Doraemon (2009) - The New Record of Nobita Spacebl
 movie/Doraemon Movie/[Nobita] Nobita no Kekkon Zenya [FC36662B].mkv
 movie/Eden of the East Movie/[Coalgirls] Eden of the East - Movie I [1080p BD][68AB2703].mkv
 movie/Eden of the East Movie/[Coalgirls] Eden of the East - Movie II [1080p BD][7CADC1C5].mkv
-movie/Eden of the East Movie/[Commie] Eden of the East - Movie II - Opening (1920x1080) [BD][E76EF0FF].mkv
-movie/Eden of the East Movie/[Commie] Eden of the East - The Movie I - King of Eden (1920x1080) [D4CDF725].mkv
-movie/Eden of the East Movie/[DB-gg] Eden of the East - The Movie I - King of Eden [0747D19A].avi
-movie/Eden of the East Movie/[Translatorgasm] Eden of the East - The Movie II - Paradise Lost [39B3205B].mkv
 movie/Escaflowne Movie/[niizk] Escaflowne Movie [1080p][84C997A8].mkv
 movie/Eureka Seven The Movie/[Nanashi] Eureka Seven - Pocketful of Rainbows [8B68BF48].mkv
 movie/Evangelion - Death (True)^2/[zx] Evangelion - Death (True)^2 [58BC4921].mkv
 movie/Evangelion - End of Evangelion/[zx] Evangelion - End of Evangelion [v3][19DB2A42].mkv
 movie/Evangelion 1.11/[THORA] Evangelion 1.11 (1920x1080) [BD][77790EE2].mkv
-movie/Evangelion 2.22/[UTW-THORA] Evangelion 2.22 (1920x1080) [v2][BD][13434436].mkv
+movie/Evangelion 2.22/[UTW-Thora] Evangelion 2.22 [v2 1080p BD][13434436].mkv
 movie/Fate-stay night - Unlimited Blade Works/[Commie] Fate-stay night - Unlimited Blade Works [1080p BD][CC258DD6].mkv
-movie/Fate-stay night - Unlimited Blade Works/[UTW] Fate-stay night - Unlimited Blade Works (1280x720) [BD][70764BA9].mkv
 movie/Final Fintasy Advent Children Complete (2009)/[THORA] Final Fintasy Advent Children Complete (2009) (1280x720) [BD][B724543F].mkv
 movie/Final Fintasy Advent Children Complete (2009)/[niizk] Final Fantasy Advent Children (Director's Cut) [1080p BD][882FFB52].mkv
 movie/Floral Magician Mary Bell - The Phoenix Key/[ARR] Floral Magician Mary Bell - The Phoenix Key [AVC][9024DA00].mkv
@@ -104,7 +98,6 @@ movie/Gundam - Char's Counterattack/[OZC] Gundam - Char's Counterattack (1280x72
 movie/Gundam 00 - A wakening of the Trailblazer/[gSS] Gundam 00 - A wakening of the Trailblazer [v2 1080p BD][1B0B2AF3].mkv
 movie/Gundam F91/[OZC] Gundam F91 (2011 release) [8BDFE061].mkv
 movie/Gundam SEED CE73 Stargazer/[Mendoi] Gundam SEED CE73 Stargazer [DVD][DE19D759].mp4
-movie/Gundam Wing Endless Waltz/[EG] Gundam Wing Endless Waltz Remastered [v2][49A7A358].mkv
 movie/Gundam Wing Endless Waltz/[EG] Gundam Wing Endless Waltz Special Edition [1080p][7E457CAE].mkv
 movie/Haruka Naru Toki no Naka de - Maihitoyo/[C1] Haruka Naru Toki no Naka de - Maihitoyo [97889F2C].mkv
 movie/Hayate no Gotoku! Heaven is a Place on Earth/[Commie] Hayate no Gotoku! Heaven is a Place on Earth [1080p BD][5AB3EFDF].mkv
@@ -194,6 +187,7 @@ movie/Meguriau Sekai/[ANBU] Meguriau Sekai [AF23178A].mkv
 movie/Metropolis/[THORA] Metropolis [BD][323F7DC7].mkv
 movie/Millennium Actress/[MDC] Millennium Actress [720p][5EB9C5D1].mkv
 movie/Millennium Actress/[niizk] Millennium Actress [994D1450].mkv
+movie/Minori Scramble!/[Monokage] Minori Scramble! [BD][9AF08A79].mkv
 movie/Miyori no Mori/[F-B Ureshii] Miyori no Mori [1080p][47951675].mkv
 movie/Mononoke Hime/[niizk] Mononoke Hime [DVD][C677AF24].mkv
 movie/Munto Movie/[Exiled-Destiny] Munto - Movie 1 [52343279].mkv
@@ -212,7 +206,6 @@ movie/Nasu - Summer in Andalusia/[Saizen] Nasu - Summer in Andalusia [1080p][768
 movie/Nausicaa of the Valley of the Wind (1984)/[THORA] Nausicaa of the Valley of the Wind (1984) [BD][6D0CA03D].mkv
 movie/Ninja Scroll Movie/[zx] Ninja Scroll [74B259BD].ogm
 movie/Ojamajo Doremi Sharp Movie/[Doremi] Ojamajo Doremi Sharp Movie [27E34A4E].avi
-movie/One Piece Movie/[INP] One Piece - Movie 10 (1920x1080) [116926DE].mkv
 movie/One Piece Movie/[yibis] One Piece - Movie 10 [720p][C927DDF1].mkv
 movie/One Piece Movie/[yibis] One Piece - Movie 9 (1280x720) [780350D8].mkv
 movie/Pale Cocoon/[Doremi-HF-Shakugan] Pale Cocoon [BAEE1167].avi
@@ -262,7 +255,7 @@ movie/Slam Dunk Movie/[txxz] Slam Dunk - Movie 1 [DVD][1627A9FD].mkv
 movie/Slam Dunk Movie/[txxz] Slam Dunk - Movie 2 [DVD][7F5D63D3].mkv
 movie/Space Battleship Yamato Revival/[ANBU] Space Battleship Yamato Revival [1080p][EFAFC227].mkv
 movie/Spirited Away/[niizk] Spirited Away [0827A6C3].mkv
-movie/Suite PreCure! Movie/[Doremi] Suite PreCure! Movie [DVD][F75EADA0].mkv
+movie/Suite PreCure! Movie/[Doremi] Suite PreCure! Movie [1080p BD][1DF4A5F9].mkv
 movie/Summer Wars/[Frostii] Summer Wars (1280x720) [BD][9B12BBFA].mkv
 movie/Super Doll Licca-chan - The Movie/[Licca] Super Doll Licca-chan - The Movie [A0B3FB18].mkv
 movie/Super Mario Anime Pack/[m.3.3.w] Super Mario Anime Pack [4FA346BC].mkv
@@ -296,37 +289,36 @@ movie/Turn-A Gundam Movie 1/[EG] Turn-A Gundam Movie 1 [720p BD][626BE99C].mkv
 movie/Turn-A Gundam Movie 2/[EG] Turn-A Gundam Movie 2 [1080p BD][56E5859C].mkv
 movie/Umi Kara no Shisha/[ray=out] Umi Kara no Shisha [DVD][8D677EE5].mkv
 movie/Welcome to the Space Show/[Lambda-Delta] Welcome to the Space Show [720p][D040A850].mkv
-movie/Whisper of the Heart/Whisper of the Heart [niizk][v2][2D11DBE2].mkv
-movie/Whisper of the Heart/[Thora] Whisper of the Heart (1995) [1080p BD][56B08E55].mkv
+movie/Whisper of the Heart (1995)/[Thora] Whisper of the Heart (1995) [1080p BD][56B08E55].mkv
 movie/Yurumates wa/[Frostii] Yurumates wa [v2][85452C31].mkv
 movie/Zeta Gundam Movie/[T-N] Zeta Gundam - Movie 1 [8F112ECE].avi
 movie/Zeta Gundam Movie/[T-N] Zeta Gundam - Movie 2 [906E55BD].avi
 movie/Zeta Gundam Movie/[T-N] Zeta Gundam - Movie 3 [D906DC63].avi
-movie/[A-Destiny] Konjiki no Gash Bell - Movie 01 [8D4A387A].mp4
-movie/[AM] Gundam F91 [F4D0E776].mkv
-movie/[AQS-Sprocket-TWH] Clannad - Motion Picture [674E95B8].mkv
-movie/[AonE] Final Fantasy VII - Dirge of the Cerberus CG Movies [94988310].mp4
-movie/[Arienai] Pretty Cure Max Heart Movie - 2 [CB8EB36E].mp4
-movie/[At0m5k] G-9 - OVA [92980238].mkv
-movie/[Ayu] Bakuretsu Tenshi - Infinity [74EAB946].mkv
-movie/[C1] Hotori - Tada Saiwai wo Koinegau [5E61851F].avi
-movie/[DATS] Digimon Savers - The Movie [C250CC7E].avi
-movie/[DB] Bleach Movie [D382C035].avi
-movie/[Doremi-KGNE] Kimi ga Nozomu Eien Ayu-Mayu Theater [23D0ADB6].avi
-movie/[Doremi-Spork] Uber Keroro Gunsou Movie [20121B3B].avi
-movie/[KAA] Cowboy Bebop Movie [DVD][DCB9E280].avi
-movie/[Kuro-Hana] Death Note - Special (1280x720) [651E84B9].mkv
-movie/[Live-eviL] Windaria [47D12022].avi
-movie/[MW] Lensman - 1 - Complete Movie [BD0F5A4C].mkv
-movie/[NERV] Evangelion Rebuild 1.0 You Are Not Alone [DVD][28D45F5F].mkv
-movie/[No-Subs] Mizu no Kotoba [94835474].mkv
-movie/[OMFG] Initial D - Battle Stage [79E236FF].avi
-movie/[OMNi] Clover The Animation Remastered [61FC22D6].mkv
-movie/[SSP-Corp] Vampire Hunter D - Bloodlust [350C4155].mkv
-movie/[Saizen] The Strange Story of a Dream Sphere Dealer [527630E0].mkv
-movie/[Shinsen-Subs] Tsubasa Chronicle - Torikago no Kuni no Himegimi [D289B588].avi
-movie/[SkewedS] Flame of Recca - Funal Burning [EC48D09D].mp4
-movie/[WPP] Rockman EXE the Movie - Hikari to Yami no PROGRAM [0D3AC681].avi
-movie/[WinD] Higurashi no naku koro ni Special - Nekogoroshi [4C77CC76].mkv
-movie/[YGO] Tsubasa Chronicle Movie - The Princess from the Land of the Birdcage [866D7371].mkv
-movie/[h-b] Minky Momo - The Bridge over Dreams [DVD][0705E2C5].mkv
+movie/_other/[A-Destiny] Konjiki no Gash Bell - Movie 01 [8D4A387A].mp4
+movie/_other/[AM] Gundam F91 [F4D0E776].mkv
+movie/_other/[AQS-Sprocket-TWH] Clannad - Motion Picture [674E95B8].mkv
+movie/_other/[AonE] Final Fantasy VII - Dirge of the Cerberus CG Movies [94988310].mp4
+movie/_other/[Arienai] Pretty Cure Max Heart Movie - 2 [CB8EB36E].mp4
+movie/_other/[At0m5k] G-9 - OVA [92980238].mkv
+movie/_other/[Ayu] Bakuretsu Tenshi - Infinity [74EAB946].mkv
+movie/_other/[C1] Hotori - Tada Saiwai wo Koinegau [5E61851F].avi
+movie/_other/[DATS] Digimon Savers - The Movie [C250CC7E].avi
+movie/_other/[DB] Bleach Movie [D382C035].avi
+movie/_other/[Doremi-KGNE] Kimi ga Nozomu Eien Ayu-Mayu Theater [23D0ADB6].avi
+movie/_other/[Doremi-Spork] Uber Keroro Gunsou Movie [20121B3B].avi
+movie/_other/[KAA] Cowboy Bebop Movie [DVD][DCB9E280].avi
+movie/_other/[Kuro-Hana] Death Note - Special (1280x720) [651E84B9].mkv
+movie/_other/[Live-eviL] Windaria [47D12022].avi
+movie/_other/[MW] Lensman - 1 - Complete Movie [BD0F5A4C].mkv
+movie/_other/[NERV] Evangelion Rebuild 1.0 You Are Not Alone [DVD][28D45F5F].mkv
+movie/_other/[No-Subs] Mizu no Kotoba [94835474].mkv
+movie/_other/[OMFG] Initial D - Battle Stage [79E236FF].avi
+movie/_other/[OMNi] Clover The Animation Remastered [61FC22D6].mkv
+movie/_other/[SSP-Corp] Vampire Hunter D - Bloodlust [350C4155].mkv
+movie/_other/[Saizen] The Strange Story of a Dream Sphere Dealer [527630E0].mkv
+movie/_other/[Shinsen-Subs] Tsubasa Chronicle - Torikago no Kuni no Himegimi [D289B588].avi
+movie/_other/[SkewedS] Flame of Recca - Funal Burning [EC48D09D].mp4
+movie/_other/[WPP] Rockman EXE the Movie - Hikari to Yami no PROGRAM [0D3AC681].avi
+movie/_other/[WinD] Higurashi no naku koro ni Special - Nekogoroshi [4C77CC76].mkv
+movie/_other/[YGO] Tsubasa Chronicle Movie - The Princess from the Land of the Birdcage [866D7371].mkv
+movie/_other/[h-b] Minky Momo - The Bridge over Dreams [DVD][0705E2C5].mkv
