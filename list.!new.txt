@@ -2,19 +2,6 @@
 !new/.broken/[Chiki-Subs]_Mayo_Chiki_-_01v2_(1280x720_H.264.AAC)_[45704136].mkv
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
 !new/.ec/[A-Destiny] Toriko - 53 (1280x720 Hi10p AAC) [57E8ECD6].mkv
-!new/.ec/[ASL]_Fukuhara_Ayaka_-_THE_iDOLMASTER_CINDERELLA_MASTER_001_Shibuya_Rin_[FLAC].rar
-!new/.ec/[ASL]_Hayami_Saori_-_THE_iDOLMASTER_CINDERELLA_MASTER_004_Takagaki_Kaede_[FLAC].rar
-!new/.ec/[ASL]_Igarashi_Hiromi_-_THE_iDOLMASTER_CINDERELLA_MASTER_002_Futaba_Anzu_[FLAC].rar
-!new/.ec/[ASL]_Kitamura_Eri_-_Nisemonogatari_OP2_-_Marshmallow_Justice_[FLAC]_[w_Scans].rar
-!new/.ec/[ASL]_Nomizu_Iori_-_Koreha_Zombie_Desuka_OF_THE_DEAD_OP_-_Passionato_[FLAC].rar
-!new/.ec/[ASL]_Ootsubo_Yuka_-_THE_iDOLMASTER_CINDERELLA_MASTER_003_Mimura_Kanako_[FLAC].rar
-!new/.ec/[ASL]_Uesugi_Hiroshi_-_Papa_no_Iukoto_wo_Kikinasai_Original_Soundtrack_vol_2_[FLAC].rar
-!new/.ec/[ASL]_Various_Artists_-_High_School_DxD_Original_Soundtrack_[FLAC].rar
-!new/.ec/[ASL]_Various_Artists_-_Sousouki_Reginald_Soundtrack_[FLAC].rar
-!new/.ec/[ASL]_Various_Artists_-_Strike_Witches_The_Movie_Original_Soundtrack_[FLAC]_[w_Scans].rar
-!new/.ec/[ASL]_Various_Artists_-_Tears_To_Tiara_Original_Sound_Track_II_[FLAC].rar
-!new/.ec/[ASL]_Various_Artists_-_Tears_to_Tiara_Original_Sound_Track_I_[FLAC].rar
-!new/.ec/[ASL]_Yamamoto_Nozomi_-_THE_iDOLMASTER_CINDERELLA_MASTER_005_Jougasaki_Rika_[FLAC].rar
 !new/.ec/[Commie-Commie] Sakamichi no Apollon - 03 [ED12728C].mkv
 !new/.ec/[Commie-Fishing] Tsuritama - 03 [39121A7E].mkv
 !new/.ec/[Commie] Haiyoru! Nyaruani - 00 [6FDE5DD5].mkv
@@ -29,7 +16,6 @@
 !new/.ec/[Commie] Kore wa Zombie Desu ka？ of the Dead - 04 [9C71F893].mkv
 !new/.ec/[Commie] Lupin the Third - Mine Fujiko to Iu Onna - 04 [A573D04B].mkv
 !new/.ec/[Commie] Sankarea - 04 [108B653A].mkv
-!new/.ec/[CureCom] Fresh Pretty Cure! - 46 [HD][E0187DA1].mkv
 !new/.ec/[DmonHiro] Senki Zesshou Symphogear - Episode 01 - Beat Of Awakening (BD, 720p) [4170F866].mkv
 !new/.ec/[DmonHiro]Yes! Pretty Cure 5 GoGo! 01 (1280x720) [2F9A86AB].mkv
 !new/.ec/[DmonHiro]Yes! Pretty Cure 5 GoGo! 02 (1280x720) [5FEB8AB5].mkv
@@ -37,7 +23,6 @@
 !new/.ec/[Doremi-Anonymous].Yes.Pretty.Cure.5.Go.Go!.08.[1280x720].[E2BE5686].mkv
 !new/.ec/[Doremi-Anonymous].Yes.Pretty.Cure.5.Go.Go!.09.[1280x720].[E7D25244].mkv
 !new/.ec/[Doremi].Yes.Pretty.Cure.5.Go.Go!.10.[1280x720].[76634A64].mkv
-!new/.ec/[Hiryuu] Shining Hearts 02 [Hi10P 1280x720 H264] [2B81F8FC].mkv
 !new/.ec/[HorribleSubs] Medaka Box - 04 [720p].mkv
 !new/.ec/[HorribleSubs] Naruto Shippuuden - 260 [720p].mkv
 !new/.ec/[HorribleSubs] Polar Bear Cafe - 03 [720p].mkv
@@ -49,26 +34,9 @@
 !new/.ec/[HorribleSubs] Sengoku Collection - 04 [720p].mkv
 !new/.ec/[Live-eviL]_Future_Boy_Conan_22_[BD-h264-10bit-1080p]_[1D516E2C].mkv
 !new/.ec/[Over-Time] Unofficial Sentai Akibaranger - 03 [F832F1E3].mkv
-!new/.ec/[PM]Pocket_Monsters_Best_Wishes_075_The_Decisive_Donamite_Battle!_Nageki_VS_Dageki!![H264_720P][836CF3D0].mkv
-!new/.ec/[PM]Pocket_Monsters_Best_Wishes_076_The_Rescue_of_Kibago!_An_Aiant_Nest!![H264_720P][A4B3B7B9].mkv
 !new/.ec/[ReDone] Iriya's Sky, Summer of UFOs - 06 (DVD) [END] [6A766FAD].mkv
-!new/.ec/[Shin-S] Kimi to Boku. 2 ED Single - Kimi to Boku no Bankai [Sakai Yuu].zip
-!new/.ec/[Shin-S] Kore wa Zombie Desu ka OF THE DEAD ED Single - Koi no Beginner Nan Desu (T_T) [Yamaguchi Rie].rar
-!new/.ec/[Shin-S] Sankarea OP Single - Esoragoto [nano.RIPE].zip
-!new/.ec/[Shin-S] Tasogare Otome x Amnesia OP Single - CHOIR JAIL [Suzuki Konomi].zip
-!new/.ec/[UTW-Underwater]_Tasogare_Otome_x_Amnesia_-_03_[720p][942B35DC].mkv
-!new/.ec/[Underwater-rori] Haiyore! Nyarlko-san - 03 [D0DFF808].mkv
-!new/.ec/[Wasurenai] Marie & Gali - 34 [H264 1280x720] [C2C82144].mkv
-!new/.ec/[Wasurenai] Marie & Gali - 35 [H264 1280x720] [0BF8C553].mkv
-!new/.ec/[Wasurenai] Marie & Gali - 36 [H264 1280x720] [E0A25729].mkv
-!new/.ec/[Wasurenai] Marie & Gali - 37 [H264 1280x720] [FFD18745].mkv
 !new/.ec/[WhyNot] Medaka Box - 04 [3568B0A1].mkv
 !new/.ec/[WhyNot] Zetman - 04 [7F844723].mkv
-!new/.ec/[gg]_EUREKA_SEVEN_AO_-_03_[EFC5CD18].mkv
-!new/.ec/[rori] Natsuiro Kiseki - 04 [D0402D5E].mkv
-!new/.ec/[sage]_Kimi_to_Boku_2_-_04_[720p][10bit][462B9114].mkv
-!new/.ec/[sage]_Lupin_the_Third_-_Mine_Fujiko_to_Iu_Onna_-_04_[720p][10bit][9D80ADD4].mkv
-!new/.ec/[yibis]_One_Piece_544_[720p][A3AAF13A].mkv
 !new/1eMda7u8.png
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
