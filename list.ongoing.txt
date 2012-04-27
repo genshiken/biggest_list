@@ -1293,6 +1293,7 @@ ongoing/Medaka Box/[HorribleSubs] Medaka Box - 03 [720p][4D3CC5B8].mkv
 ongoing/Medaka Box/[WhyNot] Medaka Box - 01 [720F54E9].mkv
 ongoing/Medaka Box/[WhyNot] Medaka Box - 02 [8096D239].mkv
 ongoing/Medaka Box/[WhyNot] Medaka Box - 03 [B42B4E14].mkv
+ongoing/Medaka Box/[WhyNot] Medaka Box - 04 [3568B0A1].mkv
 ongoing/Mermaid Melody Pichi Pichi Pitch Pure/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 01 [v2 DVD][A829314C].mkv
 ongoing/Mermaid Melody Pichi Pichi Pitch Pure/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 02 [DVD][7396A7B7].mkv
 ongoing/Mermaid Melody Pichi Pichi Pitch Pure/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 03 [DVD][043A4645].mkv
@@ -2378,6 +2379,7 @@ ongoing/Toriko/[A-Destiny] Toriko - 49 [720p][8930EB8B].mkv
 ongoing/Toriko/[A-Destiny] Toriko - 50 [720p][29029C02].mkv
 ongoing/Toriko/[A-Destiny] Toriko - 51 [720p][BB161D38].mkv
 ongoing/Toriko/[A-Destiny] Toriko - 52 [720p][F2E22F63].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 53 [720p][57E8ECD6].mkv
 ongoing/Tsuritama/[Commie-Fishing] Tsuritama - 01 [CBCB10F1].mkv
 ongoing/Tsuritama/[Commie-Fishing] Tsuritama - 02 [EB127B12].mkv
 ongoing/Upotte!!/[Commie] Upotte!! - 01 [B5B9A517].mkv
@@ -2391,3 +2393,4 @@ ongoing/Zetman/[SFW] Zetman - 02 [720p][936E7496].mkv
 ongoing/Zetman/[WhyNot] Zetman - 01 [88A8164D].mkv
 ongoing/Zetman/[WhyNot] Zetman - 02 [C65405BA].mkv
 ongoing/Zetman/[WhyNot] Zetman - 03 [B0A5213C].mkv
+ongoing/Zetman/[WhyNot] Zetman - 04 [7F844723].mkv
