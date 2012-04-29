@@ -1043,6 +1043,7 @@ music/ASL/[ASL]_Various_Artists_-_Otome_wa_Boku_ni_Koishiteru_Portable_Futari_no
 music/ASL/[ASL]_Various_Artists_-_PULLTOP_VOCAL_COLLECTION_2_-_Uta_no_Kanzume_2_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Panty_Stocking_with_Garterbelt_THE_WORST_ALBUM_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Persona_4_Anime_OP_ED_-_Skys_the_Limit_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Persona_4_Anime_OP_ED_2_-_Key_plus_Words_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Persona_4_the_ANIMATION_VOLUME_2_BONUS_CD_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Persona_4_the_ANIMATION_VOLUME_4_BONUS_CD_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Persona_4_the_ANIMATION_VOLUME_5_BONUS_CD_[FLAC].rar
@@ -4093,6 +4094,7 @@ music/Nipponsei/[Nipponsei] Kill Me Baby OP ED Single - Kill Me no Baby! [Akasak
 music/Nipponsei/[Nipponsei] Kimi ni Todoke 2nd Season OP Single - Sawakaze [Tanizawa Tomofumi].zip
 music/Nipponsei/[Nipponsei] Kimi ni Todoke 2nd Season Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Kimi ni Todoke 2nd Seasons ED Single - Kimi ni Todoke... [MAY'S].zip
+music/Nipponsei/[Nipponsei] Kimi to Boku. 2 ED Single - Kimi to Boku no Banka [Sakai Yuu].zip
 music/Nipponsei/[Nipponsei] Kimi to Boku. ED Single - Nakimushi. [Sawai Miku].zip
 music/Nipponsei/[Nipponsei] Kimi to Boku. OP Single - Bye Bye [7!!].zip
 music/Nipponsei/[Nipponsei] Kiss Dum -ENGAGE planet- ED Single - Kimi ga iru Kagiri [Stephanie].zip
@@ -4106,6 +4108,8 @@ music/Nipponsei/[Nipponsei] Kono Aozora ni Yakusoku wo Character Song Vol.1 [Saw
 music/Nipponsei/[Nipponsei] Kono Aozora ni Yakusoku wo Character Song Vol.2 [Hayama Umi].zip
 music/Nipponsei/[Nipponsei] Kore wa Zombie Desu ka Mecha Sounyuuka & Mecha Soundtrack Bangai Hen.zip
 music/Nipponsei/[Nipponsei] Kore wa Zombie desu ka ED Single - Kizuite Zombie-sama, Watashi wa Classmate desu [Yamaguchi Rie with manzo].zip
+music/Nipponsei/[Nipponsei] Kore wa Zombie desu ka OF THE DEAD ED Single - Koi no Beginner nan desu (T_T) [Yamaguchi Rie].zip
+music/Nipponsei/[Nipponsei] Kore wa Zombie desu ka OF THE DEAD OP Single - Passionate [Nomizu Iori].zip
 music/Nipponsei/[Nipponsei] Kore wa Zombie desu ka OP Single - Makasete Tonight [Nomizu Iori].zip
 music/Nipponsei/[Nipponsei] Kore wa Zombie desu ka Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Koutetsu Sangokushi ED Single - Kuon [Miyano Mamoru].zip
@@ -4208,6 +4212,7 @@ music/Nipponsei/[Nipponsei] Mayo Chiki! Character Song Album ~ Mayo Uta!.zip
 music/Nipponsei/[Nipponsei] Mayo Chiki! ED Single - Kimi ni Gohoushi [Various].zip
 music/Nipponsei/[Nipponsei] Mayo Chiki! OP Single - Be Starters! [Kitamura Eri].zip
 music/Nipponsei/[Nipponsei] Mayo Chiki! Original Soundtrack.zip
+music/Nipponsei/[Nipponsei] Medaka Box OP Single - HAPPY CRAZY BOX [Kuribayashi Minami].zip
 music/Nipponsei/[Nipponsei] Minami-ke ED Single - Colourful DAYS [Various].zip
 music/Nipponsei/[Nipponsei] Minami-ke OP Single - Keikenchi Joushouchuu [Various].zip
 music/Nipponsei/[Nipponsei] Mirai Nikki ED Single - Blood teller [Faylan].zip
@@ -4239,6 +4244,7 @@ music/Nipponsei/[Nipponsei] Motto ToLOVEru Character CD4 - Yui & Oshizu [Nazuka 
 music/Nipponsei/[Nipponsei] Motto ToLoveRu ED Single - Baby Baby Love [Tomatsu Haruka].zip
 music/Nipponsei/[Nipponsei] Motto ToLoveRu OP Single - Loop-the-Loop [KOTOKO].zip
 music/Nipponsei/[Nipponsei] Mourestu Pirates OP ED Single - Mouretsu Uchuu Koukyou Kyoku Dai Nana Gakushou 'Mugen no Ai' [Momoiro Clover Z].zip
+music/Nipponsei/[Nipponsei] Mouretsu Pirates Image Song Single - Black Holy [Komatsu Mikako].zip
 music/Nipponsei/[Nipponsei] Moyashimon ED Single - Rocket [POLYSICS].zip
 music/Nipponsei/[Nipponsei] Mushishi Soundtrack 2.zip
 music/Nipponsei/[Nipponsei] Muteki Kanban Musume ED Single - Muteki na smile [Takahashi Naozumi].zip
@@ -4286,6 +4292,7 @@ music/Nipponsei/[Nipponsei] NARUTO Shippuuden OP10 single - newsong [tacica].zip
 music/Nipponsei/[Nipponsei] NIGHT HEAD GENESIS ED - Nemutteita Kimochi Nemutteita Kokoro [Aya Kamiki].zip
 music/Nipponsei/[Nipponsei] Nagasarete Airantou Character Image Album Soundtrack.zip
 music/Nipponsei/[Nipponsei] Nanatsuiro Drops Original Soundtrack.zip
+music/Nipponsei/[Nipponsei] Natsuiro Kiseki OP ED Single - Non stop road [Sphere].zip
 music/Nipponsei/[Nipponsei] Natsume Yuujinchou Shi ED Single - Takaramono [Kawano Marina].zip
 music/Nipponsei/[Nipponsei] Natsume Yuujinchou Shi OP Single - Ima, Kono Toki. [Hiiragi].zip
 music/Nipponsei/[Nipponsei] Negima - 1000% SPARKING! [Hazuki & Minagawa Junko & Horie Yui].zip
@@ -4406,6 +4413,7 @@ music/Nipponsei/[Nipponsei] Panty & Stocking With Garterbelt Original Soundtrack
 music/Nipponsei/[Nipponsei] Panty & Stocking with Garterbelt - The WORST ALBUM.zip
 music/Nipponsei/[Nipponsei] Papa no Iu Koto wa Kikinasai! ED Single - Coloring [Horie Yui].zip
 music/Nipponsei/[Nipponsei] Papa no Iu Koto wo Kikinasai! OP Single - Happy Girl [Kitamura Eri].zip
+music/Nipponsei/[Nipponsei] Papa no Iu Koto wo Kikinasai! Original Soundtrack Vol.2.zip
 music/Nipponsei/[Nipponsei] Paprika Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Peach Girl Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Persona 4 OP ED Single - sky's the limit [Hirata Shihoko].zip
@@ -4507,7 +4515,9 @@ music/Nipponsei/[Nipponsei] Saiunkoku Monogatari ED Single - Saikou no Kataomoi 
 music/Nipponsei/[Nipponsei] Saiunkoku Monogatari Original Soundtrack 1.zip
 music/Nipponsei/[Nipponsei] Saiunkoku Monogatari Original Soundtrack 2.zip
 music/Nipponsei/[Nipponsei] Saiyuki Gaiden OP ED Single - Sakura no Ki no Shita [KOKIA].zip
+music/Nipponsei/[Nipponsei] Saki Achiga-hen episode of side-A ED Single - SquarePanicSerenade [Various].zip
 music/Nipponsei/[Nipponsei] Samurai7 ED Album - Niji Musubi [Rin'].zip
+music/Nipponsei/[Nipponsei] Sankarea OP Single - Esoragoto [nano.RIPE].zip
 music/Nipponsei/[Nipponsei] Saraiya Goyou ED Single - Sign of Love [immi].zip
 music/Nipponsei/[Nipponsei] Saraiya Goyou Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Sayonara Zetsubou Sensei Character Song Album.zip
@@ -4545,6 +4555,7 @@ music/Nipponsei/[Nipponsei] Senki Zesshou Symphogear Character Song Series 4 - Y
 music/Nipponsei/[Nipponsei] Senki Zesshou Symphogear Character Song Series 5 - Amou Kanade [Takayama Minami].zip
 music/Nipponsei/[Nipponsei] Senki Zesshou Symphogear ED Single - Meteor Light [Takagaki Ayahi].zip
 music/Nipponsei/[Nipponsei] Senki Zesshou Symphogear OP Single - Synchrograzer [Mizuki Nana].zip
+music/Nipponsei/[Nipponsei] Senki Zesshou Symphogear Original Soundtrack 1.zip
 music/Nipponsei/[Nipponsei] Senkou no Night Raid Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Sensei no Ojikan - Furare Kibun de Rock n Roll [DROPS].zip
 music/Nipponsei/[Nipponsei] Sensei no Ojikan - Oshieteageru [can-goo].zip
@@ -4716,6 +4727,7 @@ music/Nipponsei/[Nipponsei] Tantei Opera Milky Holmes 2 ED Single - Lovely Girls
 music/Nipponsei/[Nipponsei] Tantei Opera Milky Holmes 2 OP Single - Nazo! Nazo Happiness!! [Milky Holmes].zip
 music/Nipponsei/[Nipponsei] Tantei Opera Milky Holmes ED Single - Honnou no DOUBT [Faylan].zip
 music/Nipponsei/[Nipponsei] Tantei Opera Milky Holmes OP Single - Seikai wa Hitotsu! Ja nai!! [Various].zip
+music/Nipponsei/[Nipponsei] Tasogare Otome x Amnesia OP Single - CHOIR JAIL [Suzuki Konomi].zip
 music/Nipponsei/[Nipponsei] Tekkon Kinkreet Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Tengen Toppa Gurren Lagann BEST SOUND.zip
 music/Nipponsei/[Nipponsei] Tengen Toppa Gurren Lagann Character Song [Various].zip
