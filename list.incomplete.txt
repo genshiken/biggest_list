@@ -680,7 +680,15 @@ incomplete/Haiyoru! Nyaruani/[AonE] Haiyoru! Nyaruani TV - 09 [6A857CAD].mkv
 incomplete/Haiyoru! Nyaruani/[AonE] Haiyoru! Nyaruani TV - 10 [88434ECB].mkv
 incomplete/Haiyoru! Nyaruani/[AonE] Haiyoru! Nyaruani TV - 11 [09440DCF].mkv
 incomplete/Haiyoru! Nyaruani/[AonE] Haiyoru! Nyaruani TV - 12 [0987FAD9].mkv
-incomplete/Haiyoru! Nyaruani/[Underwater-Commie] Haiyoru! Nyaruani - 01 [720p][D2F5B3EC].mkv
+incomplete/Haiyoru! Nyaruani/[Commie] Haiyoru! Nyaruani - 00 [6FDE5DD5].mkv
+incomplete/Haiyoru! Nyaruani/[Commie] Haiyoru! Nyaruani - 01 [6FA0188E].mkv
+incomplete/Haiyoru! Nyaruani/[Commie] Haiyoru! Nyaruani - 02 [13920B21].mkv
+incomplete/Haiyoru! Nyaruani/[Commie] Haiyoru! Nyaruani - 03 [1F8A7C0B].mkv
+incomplete/Haiyoru! Nyaruani/[Commie] Haiyoru! Nyaruani - 04 [1EECBC16].mkv
+incomplete/Haiyoru! Nyaruani/[Commie] Haiyoru! Nyaruani - 05 [C0B6642B].mkv
+incomplete/Haiyoru! Nyaruani/[Commie] Haiyoru! Nyaruani - 06 [89590CA9].mkv
+incomplete/Haiyoru! Nyaruani/[Commie] Haiyoru! Nyaruani - 07 [9DBB0219].mkv
+incomplete/Haiyoru! Nyaruani/[Commie] Haiyoru! Nyaruani - 08 [480E7D34].mkv
 incomplete/Hakaba Kitarou/[umai-dp] Hakaba Kitarou - 07 [EE23EB3F].mkv
 incomplete/Hakaba Kitarou/[umai-dp] Hakaba Kitarou - 08 [C990A36B].mkv
 incomplete/Hakaba Kitarou/[umai-dp] Hakaba Kitarou - 09 [AC6AD31B].mkv
@@ -2401,6 +2409,7 @@ incomplete/Yes! PreCure 5/[PCSS] Yes! Pretty Cure 5 - 38 [DVD][BD35804C].mkv
 incomplete/Yes! PreCure 5/[PCSS] Yes! Pretty Cure 5 - 39 [DVD][8E71DD65].mkv
 incomplete/Yes! PreCure 5/[PCSS] Yes! Pretty Cure 5 - 40 [DVD][C2D2E992].mkv
 incomplete/Yes! PreCure 5/[PCSS] Yes! Pretty Cure 5 - 41 [DVD][7E070EE0].mkv
+incomplete/Yes! PreCure 5/[PCSS] Yes! Pretty Cure 5 - 42 [DVD][BE41327D].mkv
 incomplete/Yes! PreCure 5/[T-N twrev] Yes! PreCure 5 - 01 [8D7A1CCD].avi
 incomplete/Yes! Pretty Cure 5 Go Go!/[CureCom] Yes! Pretty Cure 5 Go Go! - 01 [DVD][A326C6D2].mkv
 incomplete/Yes! Pretty Cure 5 Go Go!/[CureCom] Yes! Pretty Cure 5 Go Go! - 02 [DVD][38FD4183].mkv
@@ -2408,6 +2417,13 @@ incomplete/Yes! Pretty Cure 5 Go Go!/[CureCom] Yes! Pretty Cure 5 Go Go! - 04 [D
 incomplete/Yes! Pretty Cure 5 Go Go!/[CureCom] Yes! Pretty Cure 5 Go Go! - 05 [DVD][FD687CB7].mkv
 incomplete/Yes! Pretty Cure 5 Go Go!/[CureCom] Yes! Pretty Cure 5 Go Go! - 06 [DVD][DC2C8AF8].mkv
 incomplete/Yes! Pretty Cure 5 Go Go!/[CureCom] Yes! Pretty Cure 5 Go Go! - 07 [DVD][8CEA54AE].mkv
+incomplete/Yes! Pretty Cure 5 Go Go!/[DmonHiro] Yes! Pretty Cure 5 Go Go! - 01 [720p][2F9A86AB].mkv
+incomplete/Yes! Pretty Cure 5 Go Go!/[DmonHiro] Yes! Pretty Cure 5 Go Go! - 02 [720p][5FEB8AB5].mkv
+incomplete/Yes! Pretty Cure 5 Go Go!/[DmonHiro] Yes! Pretty Cure 5 Go Go! - 03 [720p][25620FA4].mkv
+incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi-Anonymous] Yes! Pretty Cure 5 Go Go! - 08 [720p][E2BE5686].mkv
+incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi-Anonymous] Yes! Pretty Cure 5 Go Go! - 09 [720p][E7D25244].mkv
+incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 10 [720p][76634A64].mkv
+incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 11 [720p][B863018F].mkv
 incomplete/Yoshimune/[F-B & Scramble!] Yoshimune - 01 [D6661800].mp4
 incomplete/Yoshimune/[F-B & Scramble!] Yoshimune - 02 [B6EA56DA].mp4
 incomplete/Yoshimune/[F-B & Scramble!] Yoshimune - 03 [244BD028].mp4
