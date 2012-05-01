@@ -1137,13 +1137,16 @@ ongoing/Gundam Unicorn/[Thora] Gundam Unicorn - 4 [720p BD][0ECE1F39].mkv
 ongoing/Haiyore! Nyarlko/[Commie] Haiyore! Nyarlko - 01 [9BCF9CCC].mkv
 ongoing/Haiyore! Nyarlko/[Commie] Haiyore! Nyarlko - 02 [E6247E97].mkv
 ongoing/Haiyore! Nyarlko/[Commie] Haiyore! Nyarlko - 03 [939BCC09].mkv
+ongoing/Haiyore! Nyarlko/[Commie] Haiyore! Nyarlko - 04 [9746819A].mkv
 ongoing/Haiyore! Nyarlko/[Underwater-rori] Haiyore! Nyarlko - 01 [2F4D073C].mkv
 ongoing/Haiyore! Nyarlko/[Underwater-rori] Haiyore! Nyarlko - 02 [7AE9CF95].mkv
 ongoing/Haiyore! Nyarlko/[Underwater-rori] Haiyore! Nyarlko - 03 [D0DFF808].mkv
+ongoing/Haiyore! Nyarlko/[Underwater-rori] Haiyore! Nyarlko - 04 [23E4EC17].mkv
 ongoing/Hiiro no Kakera/[HorribleSubs] Hiiro no Kakera - 01 [720p][9647AF8A].mkv
 ongoing/Hiiro no Kakera/[HorribleSubs] Hiiro no Kakera - 02 [720p][5AD0EFBE].mkv
 ongoing/Hiiro no Kakera/[HorribleSubs] Hiiro no Kakera - 03 [720p][8C88E3AF].mkv
 ongoing/Hiiro no Kakera/[HorribleSubs] Hiiro no Kakera - 04 [720p][1B60BE97].mkv
+ongoing/Hiiro no Kakera/[HorribleSubs] Hiiro no Kakera - 05 [720p][5EAB4EBA].mkv
 ongoing/Honto ni Atta! Reibai Sensei/[IB] Honto ni Atta! Reibai Sensei - 01 [720p][724D62CE].mkv
 ongoing/Honto ni Atta! Reibai Sensei/[IB] Honto ni Atta! Reibai Sensei - 02 [720p][9A831B0B].mkv
 ongoing/Honto ni Atta! Reibai Sensei/[IB] Honto ni Atta! Reibai Sensei - 03 [720p][63D9A241].mkv
@@ -1194,6 +1197,7 @@ ongoing/Hunter x Hunter (2011)/[HorribleSubs] Hunter x Hunter (2011) - 25 [720p]
 ongoing/Hunter x Hunter (2011)/[HorribleSubs] Hunter x Hunter (2011) - 26 [720p][79DC86C8].mkv
 ongoing/Hunter x Hunter (2011)/[HorribleSubs] Hunter x Hunter (2011) - 27 [720p][E7470D83].mkv
 ongoing/Hunter x Hunter (2011)/[HorribleSubs] Hunter x Hunter (2011) - 28 [720p][167AAB04].mkv
+ongoing/Hunter x Hunter (2011)/[HorribleSubs] Hunter x Hunter (2011) - 29 [720p][C392045F].mkv
 ongoing/Hyouge Mono/[Huzzah] Hyouge Mono - 01 [7EE66910].mkv
 ongoing/Hyouge Mono/[Huzzah] Hyouge Mono - 02 [92ABA684].mkv
 ongoing/Hyouge Mono/[Huzzah] Hyouge Mono - 03 [6A09E57E].mkv
@@ -1209,7 +1213,7 @@ ongoing/Hyouge Mono/[Huzzah] Hyouge Mono - 12 [10D01102].mkv
 ongoing/Hyouge Mono/[Huzzah] Hyouge Mono - 13 [8D6ABFB2].mkv
 ongoing/Hyouge Mono/[Huzzah] Hyouge Mono - 14 [522A80AF].mkv
 ongoing/Hyouka/[Commie] Hyouka - 01 [7CBD29BC].mkv
-ongoing/Hyouka/[Mazui] Hyouka - 01 [8529356F].mkv
+ongoing/Hyouka/[Commie] Hyouka - 02 [v2][82AF6EF7].mkv
 ongoing/Hyouka/[gg] Hyouka - 02 [41D2B48B].mkv
 ongoing/Ikkitousen Shuugaku Toushi Keppuu-roku/[SubDesu] Ikkitousen Shuugaku Toushi Keppuu-roku - 1 [720p][B99F6896].mkv
 ongoing/Inazuma Eleven GO Chrono Stone/[RyRo] Inazuma Eleven GO Chrono Stone - 001 [720p][A356EF65].mkv
@@ -1278,6 +1282,7 @@ ongoing/Jewelpet Sunshine/[Ayako] Jewelpet Sunshine - 15 [v0 720p][969D6842].mkv
 ongoing/Jewelpet Sunshine/[Ayako] Jewelpet Sunshine - 16 [v0 720p][A1AACC59].mkv
 ongoing/Jormungand/[gg] Jormungand - 01 [382A285D].mkv
 ongoing/Jormungand/[gg] Jormungand - 02 [D48EDE54].mkv
+ongoing/Jormungand/[gg] Jormungand - 03 [v2][9AAE8987].mkv
 ongoing/Kaibutsu Oujo OVA/[Ayako] Kaibutsu Oujo OVA - 01 [DVD][58E20764].mkv
 ongoing/Kaibutsu Oujo OVA/[Ayako] Kaibutsu Oujo OVA - 03 [DVD][E9271E7F].mkv
 ongoing/Kaibutsu Oujo OVA/[Hatsuyuki] Kaibutsu Oujo OVA - 03 [DVD][04E0477D].mkv
@@ -1288,6 +1293,7 @@ ongoing/Kimi to Boku 2/[sage] Kimi to Boku 2 - 01 [720p][7993B6FD].mkv
 ongoing/Kimi to Boku 2/[sage] Kimi to Boku 2 - 02 [720p][DE52C021].mkv
 ongoing/Kimi to Boku 2/[sage] Kimi to Boku 2 - 03 [720p][3BACE1B4].mkv
 ongoing/Kimi to Boku 2/[sage] Kimi to Boku 2 - 04 [720p][462B9114].mkv
+ongoing/Kimi to Boku 2/[sage] Kimi to Boku 2 - 05 [720p][AA94437C].mkv
 ongoing/Kore wa Zombie desu ka - of the Dead/[Commie] Kore wa Zombie desu ka - of the Dead - 01 [CBFA1695].mkv
 ongoing/Kore wa Zombie desu ka - of the Dead/[Commie] Kore wa Zombie desu ka - of the Dead - 02 [33C0C551].mkv
 ongoing/Kore wa Zombie desu ka - of the Dead/[Commie] Kore wa Zombie desu ka - of the Dead - 03 [725E4A04].mkv
@@ -1349,7 +1355,6 @@ ongoing/Mysterious Girlfriend X/[GotSpeed] Mysterious Girlfriend X - 04 [7813020
 ongoing/Mysterious Girlfriend X/[HorribleSubs] Mysterious Girlfriend X - 01 [720p][50865B4C].mkv
 ongoing/Mysterious Girlfriend X/[HorribleSubs] Mysterious Girlfriend X - 02 [720p][D3F3681A].mkv
 ongoing/Mysterious Girlfriend X/[HorribleSubs] Mysterious Girlfriend X - 03 [720p][02EFE00D].mkv
-ongoing/Naruto SD - Rock Lee no Seishun Full-Power Ninden/[HorribleSubs] Naruto SD - Rock Lee no Seishun Full-Power Ninden - 01 [720p][184E7A85].mkv
 ongoing/Naruto Shippuuden Special/[Rising Sun] Naruto Shippuuden Special - Uchiha Madara vs Shodaime Hokage Senju Hashirama and Kyuubi [720p][3C839B67].mkv
 ongoing/Naruto Shippuuden/[DB] Naruto Shippuden - 050 [E0CD2BF4].avi
 ongoing/Naruto Shippuuden/[DB] Naruto Shippuden - 051-052 [5083E20D].avi
@@ -2349,6 +2354,7 @@ ongoing/Space Brothers/[Commie] Space Brothers - 01 [v2][710D9F8C].mkv
 ongoing/Space Brothers/[Commie] Space Brothers - 02 [0755C430].mkv
 ongoing/Space Brothers/[Commie] Space Brothers - 03 [A5FC3964].mkv
 ongoing/Space Brothers/[Commie] Space Brothers - 04 [0429C3EA].mkv
+ongoing/Space Brothers/[Commie] Space Brothers - 05 [ED918598].mkv
 ongoing/Tales of Symphonia OVA - The United World/[Formula] Tales of Symphonia OVA - The United World - 1 [AB66507E].mkv
 ongoing/Tantei Opera Milky Holmes II/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes II - 01 [720p][45B5EDD5].mkv
 ongoing/Tantei Opera Milky Holmes II/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes II - 02 [720p][A80EAE15].mkv
@@ -2359,6 +2365,7 @@ ongoing/Tantei Opera Milky Holmes II/[KiteSeekers-Wasurenai] Tantei Opera Milky 
 ongoing/Tasogare Otome x Amnesia/[Commie] Tasogare Otome x Amnesia - 01 [1A5B2C81].mkv
 ongoing/Tasogare Otome x Amnesia/[Commie] Tasogare Otome x Amnesia - 02 [386ED436].mkv
 ongoing/Tasogare Otome x Amnesia/[Commie] Tasogare Otome x Amnesia - 03 [086102D7].mkv
+ongoing/Tasogare Otome x Amnesia/[Commie] Tasogare Otome x Amnesia - 04 [DD67AFC3].mkv
 ongoing/Tasogare Otome x Amnesia/[UTW-Underwater] Tasogare Otome x Amnesia - 01 [720p][900E8404].mkv
 ongoing/Tasogare Otome x Amnesia/[UTW-Underwater] Tasogare Otome x Amnesia - 02 [720p][3996A1DF].mkv
 ongoing/Tasogare Otome x Amnesia/[UTW-Underwater] Tasogare Otome x Amnesia - 03 [720p][942B35DC].mkv
@@ -2417,12 +2424,14 @@ ongoing/Toriko/[A-Destiny] Toriko - 50 [720p][29029C02].mkv
 ongoing/Toriko/[A-Destiny] Toriko - 51 [720p][BB161D38].mkv
 ongoing/Toriko/[A-Destiny] Toriko - 52 [720p][F2E22F63].mkv
 ongoing/Toriko/[A-Destiny] Toriko - 53 [720p][57E8ECD6].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 54 [720p][0231C5F8].mkv
 ongoing/Tsuritama/[Commie-Fishing] Tsuritama - 01 [CBCB10F1].mkv
 ongoing/Tsuritama/[Commie-Fishing] Tsuritama - 02 [EB127B12].mkv
 ongoing/Tsuritama/[Commie-Fishing] Tsuritama - 03 [39121A7E].mkv
 ongoing/Upotte!!/[Commie] Upotte!! - 01 [B5B9A517].mkv
 ongoing/Upotte!!/[Commie] Upotte!! - 02 [7B26126D].mkv
 ongoing/Upotte!!/[Commie] Upotte!! - 03 [EA1E7B94].mkv
+ongoing/Upotte!!/[Commie] Upotte!! - 04 [A373D132].mkv
 ongoing/Yurumate3Dei/[HorribleSubs] Yurumate3Dei - 01 [720p][15DFA0FE].mkv
 ongoing/Yurumate3Dei/[HorribleSubs] Yurumate3Dei - 02 [720p][027E77DC].mkv
 ongoing/Yurumate3Dei/[HorribleSubs] Yurumate3Dei - 03 [720p][E7FB130B].mkv
