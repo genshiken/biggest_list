@@ -570,7 +570,7 @@ incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 33 [HD][4A5A28A4].m
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 34 [HD][FDDA9130].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 35 [HD][442CE68D].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 36 [HD][7511A57D].mkv
-incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 37 [HD][3EAF85BD].mkv
+incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 37 [v2 HD][18A87000].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 38 [HD][669774E3].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 39 [HD][D4F04B1E].mkv
 incomplete/Fresh Pretty Cure!/[CureCom] Fresh Pretty Cure! - 40 [HD][8A4F45D9].mkv
@@ -609,7 +609,7 @@ incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 19 [1080p BD][9781AA2
 incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 20 [1080p BD][BE08AC95].mkv
 incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 21 [1080p BD][856C94E6].mkv
 incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 22 [1080p BD][1D516E2C].mkv
-incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 23 [B1C7762F].mp4
+incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 23 [1080p BD][B4CD8FA0].mkv
 incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 24 [6B772F8B].mp4
 incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 25 [0C58EC62].mp4
 incomplete/Future Boy Conan/[Live-eviL] Future Boy Conan - 26 [27E5F6A8].mp4
@@ -2428,6 +2428,7 @@ incomplete/Yes! Pretty Cure 5 Go Go!/[DmonHiro] Yes! Pretty Cure 5 Go Go! - 03 [
 incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi-Anonymous] Yes! Pretty Cure 5 Go Go! - 08 [720p][E2BE5686].mkv
 incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi-Anonymous] Yes! Pretty Cure 5 Go Go! - 09 [720p][E7D25244].mkv
 incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes Pretty Cure - 5 Go Go! 12 [720p][AC54520C].mkv
+incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes Pretty Cure - 5 Go Go! 13 [720p][EACE16F1].mkv
 incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 10 [720p][76634A64].mkv
 incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 11 [720p][B863018F].mkv
 incomplete/Yoshimune/[F-B & Scramble!] Yoshimune - 01 [D6661800].mp4

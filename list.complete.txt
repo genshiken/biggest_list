@@ -4282,12 +4282,21 @@ complete/d/Dirty Pair/Dirty Pair - 21 [DVD][Unknown][72337FAB].mkv
 complete/d/Dirty Pair/Dirty Pair - 22 [DVD][Unknown][1D32BFC4].mkv
 complete/d/Dirty Pair/Dirty Pair - 23 [DVD][Unknown][AA4951C2].mkv
 complete/d/Dirty Pair/Dirty Pair - 24 [End][DVD][Unknown][A1151E55].mkv
-complete/d/Dog Days/[Hiryuu-HiNA] Dog Days - 08 [720p][268C466E].mkv
-complete/d/Dog Days/[Hiryuu-HiNA] Dog Days - 09 [720p][D095F00D].mkv
-complete/d/Dog Days/[Hiryuu-HiNA] Dog Days - 10 [720p][D1A36484].mkv
-complete/d/Dog Days/[Hiryuu-HiNA] Dog Days - 11 [720p][B19EA51F].mkv
-complete/d/Dog Days/[Hiryuu-HiNA] Dog Days - 12 [720p][2EFB6576].mkv
-complete/d/Dog Days/[Hiryuu-HiNA] Dog Days - 13 [End][720p][C81AD324].mkv
+complete/d/Dog Days/[FFFpeeps] Dog Days - 01 [720p BD][85ADBAFF].mkv
+complete/d/Dog Days/[FFFpeeps] Dog Days - 02 [720p BD][D1F15872].mkv
+complete/d/Dog Days/[FFFpeeps] Dog Days - 03 [720p BD][0D7AB61D].mkv
+complete/d/Dog Days/[FFFpeeps] Dog Days - 04 [720p BD][14608CA4].mkv
+complete/d/Dog Days/[FFFpeeps] Dog Days - 05 [720p BD][17E44462].mkv
+complete/d/Dog Days/[FFFpeeps] Dog Days - 06 [720p BD][31B4F285].mkv
+complete/d/Dog Days/[FFFpeeps] Dog Days - 07 [720p BD][D4728ECA].mkv
+complete/d/Dog Days/[FFFpeeps] Dog Days - 08 [720p BD][F5DC974D].mkv
+complete/d/Dog Days/[FFFpeeps] Dog Days - 09 [720p BD][7245D03B].mkv
+complete/d/Dog Days/[FFFpeeps] Dog Days - 10 [720p BD][560E55CD].mkv
+complete/d/Dog Days/[FFFpeeps] Dog Days - 11 [720p BD][54F39E64].mkv
+complete/d/Dog Days/[FFFpeeps] Dog Days - 12 [720p BD][43725211].mkv
+complete/d/Dog Days/[FFFpeeps] Dog Days - 13 [End][720p BD][9057BA89].mkv
+complete/d/Dog Days/[FFFpeeps] Dog Days - Ending [720p BD][B0FC940F].mkv
+complete/d/Dog Days/[FFFpeeps] Dog Days - Opening [720p BD][91AD5D3A].mkv
 complete/d/Dog Days/[Hiryuu] Dog Days - 01 [720p BD][09F1CF94].mkv
 complete/d/Dog Days/[Hiryuu] Dog Days - 02 [720p BD][403720DF].mkv
 complete/d/Dog Days/[Hiryuu] Dog Days - 03 [720p BD][4AB21BD6].mkv
