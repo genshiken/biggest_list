@@ -42,48 +42,6 @@
 !new/.ec/[Doutei] KissDum - 11 [720p][326c6cb8].mkv
 !new/.ec/[EveTaku] AKB0048 - 02 (1280x720 x264-Hi10P AAC)[3BD30138].mkv
 !new/.ec/[FFF] Medaka Box - 05 [10bit][E81691F6].mkv
-!new/.ec/[GotSpeed]_Nazo_no_Kanojo_X_-_05_[10bit][C04C9D48].mkv
-!new/.ec/[GotWoot]_Showa_Monogatari_-_06_[CEB7A37E].mkv
-!new/.ec/[Hitode]_Princess_Lover!_Uncensored_-_03_[31BA7682].mkv
-!new/.ec/[HorribleSubs] Fairy Tail - 129 [720p].mkv
-!new/.ec/[HorribleSubs] Hiiro no Kakera - 06 [720p].mkv
-!new/.ec/[HorribleSubs] Hunter X Hunter - 30 [720p].mkv
-!new/.ec/[HorribleSubs] Kuroko's Basketball - 05 [720p].mkv
-!new/.ec/[HorribleSubs] Polar Bear Cafe - 05 [720p].mkv
-!new/.ec/[HorribleSubs] Poyopoyo - 18 [720p].mkv
-!new/.ec/[HorribleSubs] Queen's Blade Rebellion - 04 [720p].mkv
-!new/.ec/[HorribleSubs] Recorder to Randoseru - 18 [480p].mkv
-!new/.ec/[HorribleSubs] SKET Dance - 56 [720p].mkv
-!new/.ec/[HorribleSubs] Saint Seiya Omega - 05 [720p].mkv
-!new/.ec/[HorribleSubs] Sengoku Collection - 05 [720p].mkv
-!new/.ec/[HorribleSubs] The Knight in the Area - 18 [720p].mkv
-!new/.ec/[HorribleSubs] Yurumate3Dei - 05 [720p].mkv
-!new/.ec/[Licca] Porphy no Nagai Tabi Episode 35 (h.264-Hi10P) [0F1A03BC].mkv
-!new/.ec/[Licca] Porphy no Nagai Tabi Episode 36 (h.264-Hi10P) [DDAA6A7B].mkv
-!new/.ec/[Licca] Porphy no Nagai Tabi Episode 37 (h.264-Hi10P) [A355B929].mkv
-!new/.ec/[Monokage]_Towa_no_Quon_-_5_[Blu-Ray][Hi10P][7F7EB5E3].mkv
-!new/.ec/[Nipponsei] Cardfight!! Vanguard Asia Circuit Hen OP Single - LIMIT BREAK [JAM Project].zip
-!new/.ec/[Nipponsei] Fate Zero ED2 Single - Sora wa Tataku Kaze wa Utau [Haruna Luna].zip
-!new/.ec/[Nipponsei] Hyouka OP Single - Yasashisa no Riyuu [ChouCho].zip
-!new/.ec/[Nipponsei] Inu x Boku Secret Service Original Soundtrack Vol.1.zip
-!new/.ec/[Nipponsei] Kannagi Nagioto + Nagiuta Kanzen Ban.zip
-!new/.ec/[Nipponsei] Kill Me Baby Original Soundtrack.zip
-!new/.ec/[Nipponsei] Queen's Blade Rebellion ED Single - future is serious [Kobayashi Aika].zip
-!new/.ec/[Nipponsei] Queen's Blade Rebellion OP Single - Inochi no Uta ga Kikoeru [Tamura Naomi].zip
-!new/.ec/[Over-Time]_Kamen_Rider_Fourze_-_34_[B01668D5].mkv
-!new/.ec/[Shin-S] Accel World OP Single - Chase the world [May'n].zip
-!new/.ec/[Shin-S] Fate Zero ED2 Single - Sora wa Takaku Kaze wa Utau (FLAC) [Haruna Luna].zip
-!new/.ec/[Shin-S] Fate Zero ED2 Single - Sora wa Takaku Kaze wa Utau [Haruna Luna].zip
-!new/.ec/[Shin-S] Freezing OP & ED Single - COLOR (FLAC) [MARiA & Kobayashi Aika].zip
-!new/.ec/[Shin-S] Hyouka OP Single - Yasashisa no Riyuu (FLAC) [ChouCho].zip
-!new/.ec/[Shin-S] Hyouka OP Single - Yasashisa no Riyuu [ChouCho].zip
-!new/.ec/[Shin-S] Tayutama -Kiss on my Deity- OP Single - The fine every day (FLAC) [Kicco].zip
-!new/.ec/[Shin-S] Tayutama -Kiss on my Deity- OP Single - The fine every day (MP3) [Kicco].zip
-!new/.ec/[UTW]_Accel_World_-_05_[h264-720p][40681175].mkv
-!new/.ec/[UTW]_Fate_Zero_-_18_[h264-720p][CFAB3675].mkv
-!new/.ec/[Wasurenai] Isekai no Seikishi Monogatari - 12 [BD H264 OGG 720p] [DE6B80BA].mkv
-!new/.ec/[WhyNot] Phi Brain - Kami no Puzzle S2 - 05 [B7BFF296].mkv
-!new/.ec/[WhyNot] Shining Hearts - Shiawase no Pan - 04 [9329C209].mkv
 !new/.ec/[gg]_Aquarion_EVOL_-_01+02v3_[E30F16B7].mkv
 !new/.ec/[gg]_Aquarion_EVOL_-_01-13_Patches.zip
 !new/.ec/[gg]_Aquarion_EVOL_-_03v2_[F6CD53FB].mkv
@@ -102,8 +60,21 @@
 !new/.ec/[gg]_Hyouka_-_01v2_[A63EB43A].mkv
 !new/.ec/[gg]_Hyouka_-_03_[86EE2BA4].mkv
 !new/.ec/[gg]_Jormungand_-_04_[7A0F8945].mkv
-!new/.ec/[sage]_Mobile_Suit_Gundam_AGE_-_30_[720p][10bit][ED65A908].mkv
 !new/.ec/amaplus-720p-ep11v2-framefix-patch.zip
+!new/.ec/hs/[HorribleSubs] Fairy Tail - 129 [720p].mkv
+!new/.ec/hs/[HorribleSubs] Hiiro no Kakera - 06 [720p].mkv
+!new/.ec/hs/[HorribleSubs] Hunter X Hunter - 30 [720p].mkv
+!new/.ec/hs/[HorribleSubs] Kuroko's Basketball - 05 [720p].mkv
+!new/.ec/hs/[HorribleSubs] Polar Bear Cafe - 05 [720p].mkv
+!new/.ec/hs/[HorribleSubs] Poyopoyo - 18 [720p].mkv
+!new/.ec/hs/[HorribleSubs] Queen's Blade Rebellion - 04 [720p].mkv
+!new/.ec/hs/[HorribleSubs] Recorder to Randoseru - 18 [480p].mkv
+!new/.ec/hs/[HorribleSubs] SKET Dance - 56 [720p].mkv
+!new/.ec/hs/[HorribleSubs] Saint Seiya Omega - 05 [720p].mkv
+!new/.ec/hs/[HorribleSubs] Sengoku Collection - 05 [720p].mkv
+!new/.ec/hs/[HorribleSubs] The Knight in the Area - 18 [720p].mkv
+!new/.ec/hs/[HorribleSubs] Yurumate3Dei - 05 [720p].mkv
+!new/.ec/unused/[Hitode] Princess Lover! Uncensored - 03 [31BA7682].mkv
 !new/1eMda7u8.png
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
