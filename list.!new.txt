@@ -2,6 +2,7 @@
 !new/.broken/[Chiki-Subs]_Mayo_Chiki_-_01v2_(1280x720_H.264.AAC)_[45704136].mkv
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
 !new/.ec/AmagamiSSPlusPatch1-7.9.zip
+!new/.ec/Detective Conan - 653 [DCTP][720p][E21F23AE].mp4
 !new/.ec/[ASL]_ChouCho_-_Hyouka_OP_-_Yasashisa_no_Riyuu_[EXTRA].rar
 !new/.ec/[ASL]_ChouCho_-_Hyouka_OP_-_Yasashisa_no_Riyuu_[FLAC]_[w_Scans].rar
 !new/.ec/[ASL]_Haruna_Luna_-_Fate_Zero_ED2_-_Sora_wa_Takaku_Kaze_wa_Utau_[EXTRA].rar
@@ -35,13 +36,21 @@
 !new/.ec/[Commie] Mouretsu Pirates - 18 [49B0A069].mkv
 !new/.ec/[Commie] Sankarea - 05 [F81E3D11].mkv
 !new/.ec/[Commie] Space Brothers - 06 [3D2AE705].mkv
+!new/.ec/[Commie] Tasogare Otome × Amnesia - 05 [14E65388].mkv
 !new/.ec/[Commie] Upotte!! - 05 [75748EEB].mkv
+!new/.ec/[CureCom] Fresh Pretty Cure! - 48 [HD][6499C549].mkv
 !new/.ec/[Doremi-Oyatsu] Ginga e Kickoff!! - 04 (1280x720 x264 AAC) [FD57BABB].mkv
 !new/.ec/[Doremi].Smile.Precure!.14.[1280x720].[62CA2462].mkv
 !new/.ec/[Doremi].Yes.Pretty.Cure.5.Go.Go!.14.[1280x720].[C3533ECE].mkv
+!new/.ec/[Doremi].Yes.Pretty.Cure.5.Go.Go!.15.[1280x720].[FA9C89E6].mkv
 !new/.ec/[Doutei] KissDum - 11 [720p][326c6cb8].mkv
 !new/.ec/[EveTaku] AKB0048 - 02 (1280x720 x264-Hi10P AAC)[3BD30138].mkv
 !new/.ec/[FFF] Medaka Box - 05 [10bit][E81691F6].mkv
+!new/.ec/[Keroro].156.[Xvid.mp3].[9A452FFC].mkv
+!new/.ec/[Over-Time]_Spec-Ops_Cell_Go-Busters_-_11_[32477145].mkv
+!new/.ec/[ReDone] Rizelmine - 21 (DVD) [3885A866].mkv
+!new/.ec/[UTW-Underwater]_Tasogare_Otome_x_Amnesia_-_05_[720p][886C4653].mkv
+!new/.ec/[Underwater-rori] Haiyore! Nyarlko-san - 05 [C7A3308A].mkv
 !new/.ec/[gg]_Aquarion_EVOL_-_01+02v3_[E30F16B7].mkv
 !new/.ec/[gg]_Aquarion_EVOL_-_01-13_Patches.zip
 !new/.ec/[gg]_Aquarion_EVOL_-_03v2_[F6CD53FB].mkv
