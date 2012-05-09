@@ -576,14 +576,14 @@ complete/a/Amagami - Character Monologue/[UTW] Amagami - Character Monologue - 4
 complete/a/Amagami - Character Monologue/[UTW] Amagami - Character Monologue - 5 - Sakurai Rihoko [720p][27ECE0CB].mkv
 complete/a/Amagami - Character Monologue/[UTW] Amagami - Character Monologue - 6 - Ayatsuji Tsukasa [720p][33C0E77B].mkv
 complete/a/Amagami SS Plus/[UTW] Amagami SS Plus - 01 [720p][333C09E0].mkv
-complete/a/Amagami SS Plus/[UTW] Amagami SS Plus - 02 [720p][1037320D].mkv
-complete/a/Amagami SS Plus/[UTW] Amagami SS Plus - 03 [720p][8F1647EC].mkv
-complete/a/Amagami SS Plus/[UTW] Amagami SS Plus - 04 [720p][55BB0441].mkv
-complete/a/Amagami SS Plus/[UTW] Amagami SS Plus - 05 [720p][1C5928F2].mkv
-complete/a/Amagami SS Plus/[UTW] Amagami SS Plus - 06 [720p][2C3FE952].mkv
-complete/a/Amagami SS Plus/[UTW] Amagami SS Plus - 07 [720p][A691C671].mkv
+complete/a/Amagami SS Plus/[UTW] Amagami SS Plus - 02 [v2 720p][E068FE74].mkv
+complete/a/Amagami SS Plus/[UTW] Amagami SS Plus - 03 [v2 720p][71E57163].mkv
+complete/a/Amagami SS Plus/[UTW] Amagami SS Plus - 04 [v2 720p][5C47ADBA].mkv
+complete/a/Amagami SS Plus/[UTW] Amagami SS Plus - 05 [v2 720p][2CA1C178].mkv
+complete/a/Amagami SS Plus/[UTW] Amagami SS Plus - 06 [v2 720p][DCA31224].mkv
+complete/a/Amagami SS Plus/[UTW] Amagami SS Plus - 07 [v2 720p][653EB087].mkv
 complete/a/Amagami SS Plus/[UTW] Amagami SS Plus - 08 [720p][D2782D93].mkv
-complete/a/Amagami SS Plus/[UTW] Amagami SS Plus - 09 [720p][C9990DF9].mkv
+complete/a/Amagami SS Plus/[UTW] Amagami SS Plus - 09 [v2 720p][B58C35E1].mkv
 complete/a/Amagami SS Plus/[UTW] Amagami SS Plus - 10 [720p][CCD2E833].mkv
 complete/a/Amagami SS Plus/[UTW] Amagami SS Plus - 11 [720p][53CAFE21].mkv
 complete/a/Amagami SS Plus/[UTW] Amagami SS Plus - 12 [720p][43B587C3].mkv
@@ -11355,7 +11355,9 @@ complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silve
 complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 18 [A5822656].mkv
 complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 19 [4A21D18D].mkv
 complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 20 [8CF68283].mkv
-complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 21 [End][85168E2E].mkv
+complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 21 [85168E2E].mkv
+complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 22 [69A1E95A].mkv
+complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 23 [End][3B6AD37D].mkv
 complete/l/Last Exile/[Anime-Takeover] Last Exile - 01 [E054129C].ogm
 complete/l/Last Exile/[Anime-Takeover] Last Exile - 02 [B960C792].ogm
 complete/l/Last Exile/[Anime-Takeover] Last Exile - 03 [E5E24511].ogm
@@ -16691,10 +16693,10 @@ complete/r/Rizelmine/[ReDone] Rizelmine - 17 [DVD][98B320E8].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 18 [DVD][AD591D0E].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 19 [DVD][2B7745E6].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 20 [DVD][E3EB7939].mkv
+complete/r/Rizelmine/[ReDone] Rizelmine - 21 [DVD][3885A866].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - Ending 1 [DVD][59C1FE24].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - Ending 2 [DVD][C89C1581].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - Opening [DVD][3AC69E00].mkv
-complete/r/Rizelmine/[h-b] Rizelmine - 21 [B8E88F44].avi
 complete/r/Rizelmine/[h-b] Rizelmine - 22 [7A7DB133].avi
 complete/r/Rizelmine/[h-b] Rizelmine - 23 [B4475A6E].avi
 complete/r/Rizelmine/[h-b] Rizelmine - 24 [End][EAA7BE6A].avi
