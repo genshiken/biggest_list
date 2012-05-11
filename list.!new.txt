@@ -1,9 +1,15 @@
 !new/.broken/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.mkv
 !new/.broken/[Chiki-Subs]_Mayo_Chiki_-_01v2_(1280x720_H.264.AAC)_[45704136].mkv
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
+!new/.ec/[A-Destiny] Toriko - 55 (1280x720 Hi10p AAC) [C1334418].mkv
 !new/.ec/[ASL]_May'n_-_Accel_World_OP_-_Chase_the_world_[FLAC].rar
 !new/.ec/[ASL]_Various_Artists_-_IA_01_-BIRTH-_[FLAC]_[w_Scans].rar
 !new/.ec/[ASL]_Various_Artists_-_Nurarihyon_no_Mago_ED_Theme_Collection_-_Brilliant_Message_[FLAC].rar
+!new/.ec/[Commie-Commie] Sakamichi no Apollon - 05 [CDEA649F].mkv
+!new/.ec/[Commie-Fishing] Tsuritama - 05 [7796D4FC].mkv
+!new/.ec/[Commie] Lupin the Third - Mine Fujiko to Iu Onna - 06 [74C27D47].mkv
+!new/.ec/[Commie] Sankarea - 06 [7D057758].mkv
+!new/.ec/[Doremi-Oyatsu] Ginga e Kickoff!! - 05 (1280x720 x264 AAC) [66497593].mkv
 !new/.ec/[FFF] Medaka Box - 01 [10bit][9C9A8CC0].mkv
 !new/.ec/[FFF] Medaka Box - 02 [10bit][882B9AEF].mkv
 !new/.ec/[FFF] Medaka Box - 03 [10bit][AA86152E].mkv
@@ -13,11 +19,18 @@
 !new/.ec/[Hiryuu] Maji de Watashi ni Koi Shinasai!! NCED11 [BD Hi10P 1920x1080 H264 FLAC] [6DBD1A52].mkv
 !new/.ec/[Hiryuu] Maji de Watashi ni Koi Shinasai!! NCED12 [BD Hi10P 1920x1080 H264 FLAC] [62FA930B].mkv
 !new/.ec/[Hiryuu] Shining Hearts 04 [1280x720 H264] [6F9FD920].mkv
+!new/.ec/[HorribleSubs] Naruto Shippuuden - 262 [720p].mkv
 !new/.ec/[HorribleSubs] SKET Dance - 55 [720p].mkv
+!new/.ec/[HorribleSubs] Saint Seiya Omega - 06 [720p].mkv
+!new/.ec/[HorribleSubs] Sengoku Collection - 06 [720p].mkv
 !new/.ec/[Keroro].157.[Xvid.mp3].[832F3165].mkv
+!new/.ec/[Over-Time] Unofficial Sentai Akibaranger - 05 [F874A59A].mkv
 !new/.ec/[RyRo]_Inazuma_Eleven_GO_Chrono_Stone_-_003_(720p)_[2744ED7A].mkv
 !new/.ec/[UTW]_Amagami_SS_Plus_-_01_[h264-720p][8F14225A].mkv
+!new/.ec/[gg]_EUREKA_SEVEN_AO_-_05_[AA3B11FE].mkv
 !new/.ec/[gg]_Jormungand_-_05_[955CBA04].mkv
+!new/.ec/[gg]_Jormungand_-_05v2_[105A7A12].mkv
+!new/.ec/[gg]_Young_Animator_Training_Project_2011_-_Wasurenagumo_[F73D699B].mkv
 !new/.ec/unused/[Hitode] Princess Lover! Uncensored - 03 [31BA7682].mkv
 !new/1eMda7u8.png
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
@@ -750,6 +763,23 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
 !new/Texhnolyze/Texhnolyze_DVD_KAA_-_01.mkv
 !new/Texhnolyze/Texhnolyze_DVD_KAA_-_02.mkv
+!new/Texhnolyze/Texhnolyze_DVD_KAA_-_03.mkv
+!new/Texhnolyze/Texhnolyze_DVD_KAA_-_04.mkv
+!new/Texhnolyze/Texhnolyze_DVD_KAA_-_05.mkv
+!new/Texhnolyze/Texhnolyze_DVD_KAA_-_07.mkv
+!new/Texhnolyze/Texhnolyze_DVD_KAA_-_08.mkv
+!new/Texhnolyze/Texhnolyze_DVD_KAA_-_09.mkv
+!new/Texhnolyze/Texhnolyze_DVD_KAA_-_10.mkv
+!new/Texhnolyze/Texhnolyze_DVD_KAA_-_11.mkv
+!new/Texhnolyze/Texhnolyze_DVD_KAA_-_12.mkv
+!new/Texhnolyze/Texhnolyze_DVD_KAA_-_13.mkv
+!new/Texhnolyze/Texhnolyze_DVD_KAA_-_14.mkv
+!new/Texhnolyze/Texhnolyze_DVD_KAA_-_15.mkv
+!new/Texhnolyze/Texhnolyze_DVD_KAA_-_16.mkv
+!new/Texhnolyze/Texhnolyze_DVD_KAA_-_17.mkv
+!new/Texhnolyze/Texhnolyze_DVD_KAA_-_18.mkv
+!new/Texhnolyze/Texhnolyze_DVD_KAA_-_19.mkv
+!new/Texhnolyze/Texhnolyze_DVD_KAA_-_20.mkv
 !new/[UTW-Underwater]_Tasogare_Otome_x_Amnesia_-_03_[720p][942B35DC].mkv
 !new/[commie] hyouka - 03 [ced1d963].mkv
 !new/[commie] kore wa zombie desu ka？ of the dead - 05 [50caee23].mkv
