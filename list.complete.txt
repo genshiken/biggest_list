@@ -59,8 +59,11 @@ complete/9/9 Love Stories/[dp] 9 Love Stories - 1 [3D611C85].mkv
 complete/9/9 Love Stories/[dp] 9 Love Stories - 2 [End][92ABB219].mkv
 complete/_/_summer/[Shinsen-Subs] _summer - 1 [47AD4022].avi
 complete/_/_summer/[Shinsen-Subs] _summer - 2 [End][75FE1F3D].avi
-complete/a/A Channel +smile OVA/[Mamiko] A Channel +smile OVA - 1 [v2][F6B3DCFE].mkv
-complete/a/A Channel +smile OVA/[Mamiko] A Channel +smile OVA - 2 [End][v2][1FCEE28B].mkv
+complete/a/A Channel +smile/[EveTaku] A Channel +smile - 1 [720p BD][23C33AF3].mkv
+complete/a/A Channel +smile/[EveTaku] A Channel +smile - 2 [End][720p BD][C5C1FC2F].mkv
+complete/a/A Channel +smile/[EveTaku] A Channel +smile - Ending (Clean) [720p BD][1A334877].mkv
+complete/a/A Channel +smile/[EveTaku] A Channel +smile - Opening (Clean)[720p BD][43241468].mkv
+complete/a/A Channel +smile/[EveTaku] A Channel +smile - PV [720p BD][E55F87D8].mkv
 complete/a/A Channel/[DmonHiro] A Channel - 01 [720p BD][E7730F59].mkv
 complete/a/A Channel/[DmonHiro] A Channel - 02 [720p BD][B6684B76].mkv
 complete/a/A Channel/[DmonHiro] A Channel - 03 [720p BD][4027A32F].mkv
@@ -787,7 +790,7 @@ complete/a/Ano Natsu de Matteru/[Commie] Ano Natsu de Matteru - 09 [EAA3A20A].mk
 complete/a/Ano Natsu de Matteru/[Commie] Ano Natsu de Matteru - 10 [E8CA69BF].mkv
 complete/a/Ano Natsu de Matteru/[Commie] Ano Natsu de Matteru - 11 [v2][5BF1772A].mkv
 complete/a/Ano Natsu de Matteru/[Commie] Ano Natsu de Matteru - 12 [End][E3A9CBDA].mkv
-complete/a/Another OVA/[Commie] Another - 00 [AF235C34].mkv
+complete/a/Another/[Commie] Another - 00 OVA [AF235C34].mkv
 complete/a/Another/[Commie] Another - 01 [v2][F53B9FDC].mkv
 complete/a/Another/[Commie] Another - 02 [v2][A8707EC1].mkv
 complete/a/Another/[Commie] Another - 03 [v2][240511DB].mkv
@@ -4375,6 +4378,9 @@ complete/d/Dog Days/[Hiryuu] Dog Days - 04 [720p BD][06735A06].mkv
 complete/d/Dog Days/[Hiryuu] Dog Days - 05 [720p BD][0F4F74AA].mkv
 complete/d/Dog Days/[Hiryuu] Dog Days - 06 [720p BD][5D31BA84].mkv
 complete/d/Dog Days/[Hiryuu] Dog Days - 07 [720p BD][32B9202C].mkv
+complete/d/Dog Days/[Hiryuu] Dog Days - 08 [720p BD][CF0F01AC].mkv
+complete/d/Dog Days/[Hiryuu] Dog Days - 09 [720p BD][7FA40CFD].mkv
+complete/d/Dog Days/[Hiryuu] Dog Days - 10 [720p BD][EA693BBB].mkv
 complete/d/Dogtato-kun/[Triad] Dogtato-kun - 1 [DVD][AB88242D].avi
 complete/d/Dogtato-kun/[Triad] Dogtato-kun - 2 [End][DVD][32DBDCAC].avi
 complete/d/Dokuro-chan 2/[Exiled-Destiny] Dokuro-chan 2 - 1 [6329647E].mkv
@@ -9966,6 +9972,33 @@ complete/k/Kanamemo/[Coalgirls] Kanamemo - 13 [End][DVD][541EA041].mkv
 complete/k/Kanamemo/[Coalgirls] Kanamemo - Ending [DVD][526882F6].mkv
 complete/k/Kanamemo/[Coalgirls] Kanamemo - Opening [DVD][DDDD0111].mkv
 complete/k/Kannagi - OVA/[SHiN-gx & Genjo] Kannagi - OVA [DVD][BAB4D3A6].mkv
+complete/k/Kannagi/[Coalgirls] Kannagi - 01 [720p BD][4DF6A563].mkv
+complete/k/Kannagi/[Coalgirls] Kannagi - 02 [720p BD][D75E7F2C].mkv
+complete/k/Kannagi/[Coalgirls] Kannagi - 03 [720p BD][CEDE4A97].mkv
+complete/k/Kannagi/[Coalgirls] Kannagi - 04 [720p BD][96C229C4].mkv
+complete/k/Kannagi/[Coalgirls] Kannagi - 05 [720p BD][562DBE63].mkv
+complete/k/Kannagi/[Coalgirls] Kannagi - 06 [720p BD][F7D1764D].mkv
+complete/k/Kannagi/[Coalgirls] Kannagi - 07 [720p BD][CA3704AE].mkv
+complete/k/Kannagi/[Coalgirls] Kannagi - 08 [720p BD][F7B0B604].mkv
+complete/k/Kannagi/[Coalgirls] Kannagi - 09 [720p BD][1E9E0B46].mkv
+complete/k/Kannagi/[Coalgirls] Kannagi - 10 [720p BD][01102516].mkv
+complete/k/Kannagi/[Coalgirls] Kannagi - 11 [720p BD][F0D97739].mkv
+complete/k/Kannagi/[Coalgirls] Kannagi - 12 [720p BD][2B54B98F].mkv
+complete/k/Kannagi/[Coalgirls] Kannagi - 13 [End][720p BD][54703869].mkv
+complete/k/Kannagi/[Coalgirls] Kannagi - 14 OVA [720p BD][308B4631].mkv
+complete/k/Kannagi/[Coalgirls] Kannagi - Ending 01 [720p BD][E44A4B14].mkv
+complete/k/Kannagi/[Coalgirls] Kannagi - Ending 02 [720p BD][1F5609E5].mkv
+complete/k/Kannagi/[Coalgirls] Kannagi - Ending 03 [720p BD][0A6B762B].mkv
+complete/k/Kannagi/[Coalgirls] Kannagi - Ending 04 [720p BD][FCA61CCF].mkv
+complete/k/Kannagi/[Coalgirls] Kannagi - Ending 05 [720p BD][1A9CABA3].mkv
+complete/k/Kannagi/[Coalgirls] Kannagi - Ending 06 [720p BD][1F3AA3A7].mkv
+complete/k/Kannagi/[Coalgirls] Kannagi - Ending 08 [720p BD][BEDA52D8].mkv
+complete/k/Kannagi/[Coalgirls] Kannagi - Ending 09 [720p BD][67A7AF8A].mkv
+complete/k/Kannagi/[Coalgirls] Kannagi - Ending 10 [720p BD][2D6203AB].mkv
+complete/k/Kannagi/[Coalgirls] Kannagi - Ending 11 [720p BD][7FD78B3A].mkv
+complete/k/Kannagi/[Coalgirls] Kannagi - Ending 12 [720p BD][268C0CA6].mkv
+complete/k/Kannagi/[Coalgirls] Kannagi - Ending 14 [720p BD][43CE2840].mkv
+complete/k/Kannagi/[Coalgirls] Kannagi - Opening [720p BD][47A347D1].mkv
 complete/k/Kannagi/[SHiN-gx & Genjo] Kannagi - 01 [v2][DVD][5AEE8505].mkv
 complete/k/Kannagi/[SHiN-gx & Genjo] Kannagi - 02 [v2][DVD][5AE8B55C].mkv
 complete/k/Kannagi/[SHiN-gx & Genjo] Kannagi - 03 [DVD][6CAAB46A].mkv
@@ -18154,6 +18187,8 @@ complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - 12 [350D
 complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - 13 [End][AD8672BC].mkv
 complete/s/Senki Zesshou Symphogear/[DmonHiro] Senki Zesshou Symphogear - 01 [720p BD][4170F866].mkv
 complete/s/Senki Zesshou Symphogear/[DmonHiro] Senki Zesshou Symphogear - 02 [720p BD][41AA4B72].mkv
+complete/s/Senki Zesshou Symphogear/[DmonHiro] Senki Zesshou Symphogear - 03 [720p BD][B17A000B].mkv
+complete/s/Senki Zesshou Symphogear/[DmonHiro] Senki Zesshou Symphogear - 04 [720p BD][251F12C6].mkv
 complete/s/Sentou Yousei Tasukete! Mave-chan/[dp] Sentou Yousei Tasukete! Mave-chan [A31B4444].avi
 complete/s/Serial Experiments Lain/[Coalgirls] Serial Experiments Lain - 01 [1080p BD][573CDDD6].mkv
 complete/s/Serial Experiments Lain/[Coalgirls] Serial Experiments Lain - 02 [1080p BD][19F59BAF].mkv
@@ -19030,6 +19065,7 @@ complete/s/Sora no Manimani/[AonE] Sora no Manimani - 09 [6A54BC1A].mkv
 complete/s/Sora no Manimani/[AonE] Sora no Manimani - 10 [5670A9C1].mkv
 complete/s/Sora no Manimani/[AonE] Sora no Manimani - 11 [EBF825C8].mkv
 complete/s/Sora no Manimani/[AonE] Sora no Manimani - 12 [End][01C0170E].mkv
+complete/s/Sora no Otoshimono Forte/[DmonHiro] Sora no Otoshimono Forte - 01 [720p BD][5A458EF1].mkv
 complete/s/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 01 [720p][0ADD4784].mkv
 complete/s/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 02 [720p][296FF30E].mkv
 complete/s/Sora no Otoshimono Forte/[HorribleSubs] Sora no Otoshimono Forte - 03 [720p][9B754405].mkv
