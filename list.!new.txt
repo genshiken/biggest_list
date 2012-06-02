@@ -15,6 +15,7 @@
 !new/.ec/[Commie] Mirai Nikki - 26 [C42A8550].mkv
 !new/.ec/[Commie] Sankarea - 09 [271E6703].mkv
 !new/.ec/[Commie] Space Brothers - 09 [B8D2D07E].mkv
+!new/.ec/[CureCom] Fresh Pretty Cure! - 49 [HD][59C57DD8].mkv
 !new/.ec/[Doremi].Ojamajo.Doremi.Dokkaan!.18.[8DA1F746].avi
 !new/.ec/[Doremi].Smile.Precure!.17.[1280x720].[14FC3BFB].mkv
 !new/.ec/[Doremi].Yes.Pretty.Cure.5.Go.Go!.18.[1280x720].[84CB7217].mkv
@@ -22,19 +23,26 @@
 !new/.ec/[Hiryuu] Dog Days 11 [BD Hi10P 1280x720 H264 AAC] [C8BDFC6D].mkv
 !new/.ec/[Hiryuu] Dog Days 12 [BD Hi10P 1280x720 H264 AAC] [D7DC38A2].mkv
 !new/.ec/[Hiryuu] Dog Days 13 [BD Hi10P 1280x720 H264 AAC] [B3CADE68].mkv
+!new/.ec/[HorribleSubs] Naruto Shippuuden - 265 [720p].mkv
 !new/.ec/[HorribleSubs] Polar Bear Cafe - 09 [720p].mkv
 !new/.ec/[HorribleSubs] Queen's Blade Rebellion - 08 [720p].mkv
 !new/.ec/[HorribleSubs] Recorder to Randoseru - 20 [480p].mkv
 !new/.ec/[HorribleSubs] SKET Dance - 60 [720p].mkv
 !new/.ec/[HorribleSubs] Saint Seiya Omega - 09 [720p].mkv
+!new/.ec/[HorribleSubs] Sengoku Collection - 09 [720p].mkv
 !new/.ec/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream - 28 [H264 1024x576] [CFFF2B7E].mkv
+!new/.ec/[KiteSeekers] Mizu Iro Jidai - 29 [H264 640x480] [C61B844F].mkv
+!new/.ec/[KiteSeekers] Mizu Iro Jidai - 30 [H264 640x480] [73039107].mkv
 !new/.ec/[Licca] Porphy no Nagai Tabi Episode 40 (h.264-Hi10P) [2B8E4E90].mkv
 !new/.ec/[Over-Time]_Kamen_Rider_Fourze_-_37_[61F65EEE].mkv
 !new/.ec/[Over-Time]_Spec-Ops_Cell_Go-Busters_-_14_[56F12659].mkv
 !new/.ec/[PCSS] Yes! Pretty Cure 5 - 44 (DVD) [3C31977D].mkv
 !new/.ec/[PM]Pocket_Monsters_Best_Wishes_081_Sekka_Gym_Match!_A_Battlefield_of_Ice!![H264_720P][1DEF35DC].mkv
 !new/.ec/[RyRo]_Inazuma_Eleven_GO_Chrono_Stone_-_005_(720p)_[EB04E25C].mkv
+!new/.ec/[Saizen_&_Shinsen-Subs]_Captain_Tsubasa_Road_to_2002_-_40_[DVD][774549B9].mkv
+!new/.ec/[Saizen_&_Shinsen-Subs]_Captain_Tsubasa_Road_to_2002_-_43_[DVD][A2EB313D].mkv
 !new/.ec/[TSuNDeRe] Zero no Tsukaima F - 01 [BDRip h264 1920x1080 FLAC][3F1FA8DF].mkv
+!new/.ec/[TSuNDeRe] Zero no Tsukaima F - 02 [BDRip h264 1920x1080 FLAC][967A7314].mkv
 !new/.ec/[Underwater-rori] Haiyore! Nyarlko-san - 08 [5BDD3E66].mkv
 !new/.ec/[WhyNot-Hadena] Gintama - Shinyaku Benizakura-Hen [DVD 480p AAC][F681C4FB].mkv
 !new/.ec/[WhyNot] Zetman - 09 [CDA96D5D].mkv
