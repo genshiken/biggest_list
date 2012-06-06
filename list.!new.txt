@@ -1,7 +1,10 @@
 !new/.broken/Appleseed.Ex.Machina.2007.720p.BluRay.AC3.x264-THORA.mkv
 !new/.broken/[Chiki-Subs]_Mayo_Chiki_-_01v2_(1280x720_H.264.AAC)_[45704136].mkv
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
+!new/.ec/Detective Conan - 656 [DCTP][720p][E40BE9E7].mp4
+!new/.ec/Detective Conan - 657 [DCTP][720p][5AFEDF84].mp4
 !new/.ec/[A-Destiny] Toriko - 58 (1280x720 Hi10p AAC) [2430B288].mkv
+!new/.ec/[A-Destiny] Toriko - 59 (1280x720 Hi10p AAC) [C8B8F3A1].mkv
 !new/.ec/[ASL]_Annabel_-_Sankarea_ED_-_Above_your_hand_[FLAC]_[w_Scans].rar
 !new/.ec/[ASL]_Kanno_Yokou_-_Sakamichi_no_Apollon_Original_Soundtrack_[FLAC]_[w_Scans].rar
 !new/.ec/[ASL]_Machico_-_Supipara_Main_Theme_Song_-_Magical_Happy_Show_[FLAC]_[w_Scans].rar
@@ -27,11 +30,14 @@
 !new/.ec/[Commie] Mirai Nikki - 26 [C42A8550].mkv
 !new/.ec/[Commie] Sankarea - 09 [271E6703].mkv
 !new/.ec/[Commie] Space Brothers - 09 [B8D2D07E].mkv
+!new/.ec/[Commie] Tasogare Otome × Amnesia - 09 [D713B701].mkv
 !new/.ec/[Commie] Upotte!! - 09 [725B92D8].mkv
 !new/.ec/[CureCom] Fresh Pretty Cure! - 49 [HD][59C57DD8].mkv
+!new/.ec/[Doremi-Oyatsu] Ginga e Kickoff!! - 09 (1280x720 x264 AAC) [B94F5FD2].mkv
 !new/.ec/[Doremi].Ojamajo.Doremi.Dokkaan!.18.[8DA1F746].avi
 !new/.ec/[Doremi].Ojamajo.Doremi.Dokkaan!.19.[FFD49642].avi
 !new/.ec/[Doremi].Smile.Precure!.17.[1280x720].[14FC3BFB].mkv
+!new/.ec/[Doremi].Smile.Precure!.18.[1280x720].[84431ADB].mkv
 !new/.ec/[Doremi].Yes.Pretty.Cure.5.Go.Go!.18.[1280x720].[84CB7217].mkv
 !new/.ec/[Doremi].Yes.Pretty.Cure.5.Go.Go!.19.[1280x720].[07D45CFC].mkv
 !new/.ec/[EveTaku] AKB0048 - 06 (1280x720 x264-Hi10P AAC)[CD6A10DA].mkv
