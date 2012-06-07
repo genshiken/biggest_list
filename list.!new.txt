@@ -29,11 +29,15 @@
 !new/.ec/[Commie] Lupin the Third - Mine Fujiko to Iu Onna - 09 [6AC06F77].mkv
 !new/.ec/[Commie] Mirai Nikki - 25 [F0AD2E37].mkv
 !new/.ec/[Commie] Mirai Nikki - 26 [C42A8550].mkv
+!new/.ec/[Commie] Mouretsu Pirates - 21 [AAAEAE65].mkv
+!new/.ec/[Commie] Mouretsu Pirates - 22 [0F5F8C9C].mkv
 !new/.ec/[Commie] Sankarea - 09 [271E6703].mkv
 !new/.ec/[Commie] Space Brothers - 09 [B8D2D07E].mkv
+!new/.ec/[Commie] Space Brothers - 10 [EBD5BF1E].mkv
 !new/.ec/[Commie] Tasogare Otome × Amnesia - 09 [D713B701].mkv
 !new/.ec/[Commie] Upotte!! - 09 [725B92D8].mkv
 !new/.ec/[CureCom] Fresh Pretty Cure! - 49 [HD][59C57DD8].mkv
+!new/.ec/[CureCom] Fresh Pretty Cure! - 50 [END][HD][5AC0D7F2].mkv
 !new/.ec/[Doremi-Oyatsu] Ginga e Kickoff!! - 09 (1280x720 x264 AAC) [B94F5FD2].mkv
 !new/.ec/[Doremi].Ojamajo.Doremi.Dokkaan!.18.[8DA1F746].avi
 !new/.ec/[Doremi].Ojamajo.Doremi.Dokkaan!.19.[FFD49642].avi
@@ -56,9 +60,11 @@
 !new/.ec/[HorribleSubs] Polar Bear Cafe - 09 [720p].mkv
 !new/.ec/[HorribleSubs] Poyopoyo - 22 [720p].mkv
 !new/.ec/[HorribleSubs] Queen's Blade Rebellion - 08 [720p].mkv
+!new/.ec/[HorribleSubs] Queen's Blade Rebellion - 09 [720p].mkv
 !new/.ec/[HorribleSubs] Recorder to Randoseru - 20 [480p].mkv
 !new/.ec/[HorribleSubs] SKET Dance - 60 [720p].mkv
 !new/.ec/[HorribleSubs] Saint Seiya Omega - 09 [720p].mkv
+!new/.ec/[HorribleSubs] Saint Seiya Omega - 10 [720p].mkv
 !new/.ec/[HorribleSubs] Sengoku Collection - 09 [720p].mkv
 !new/.ec/[HorribleSubs] The Knight in the Area - 22 [720p].mkv
 !new/.ec/[HorribleSubs] Yurumate3Dei - 09 [720p].mkv
