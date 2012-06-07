@@ -907,6 +907,19 @@
 !new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 016 [AVC][C5F5C700].mkv
 !new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 017-032 [AVC][2A787FEC].mkv
 !new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 033-048 [AVC][9B0135D8].mkv
+!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 049-064 [AVC][18A83CD2].mkv
+!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 065-080 [AVC][15E95C0D].mkv
+!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 081-096 [AVC][55F8A55E].mkv
+!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 097-112 [AVC][2AE9C500].mkv
+!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 113-128 [AVC][D31ECE40].mkv
+!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 129-144 [AVC][0FDE537A].mkv
+!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 145-160 [AVC][32884F82].mkv
+!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 161-176 [AVC][390E5B24].mkv
+!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 177-192 [AVC][A85538E5].mkv
+!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - Autumn Specials [AVC][6209DA3D].mkv
+!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - Spring Specials [AVC][1DC86D4A].mkv
+!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - Summer Specials [AVC][CD176B01].mkv
+!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - Winter Specials [AVC][2D234649].mkv
 !new/[HorribleSubs] Fairy Tail - 131 [720p].mkv
 !new/[Mazui] Hyouka - 05 [B4982783].mkv
 !new/[commie-commie] sakamichi no apollon - 08 [683b67bf].mkv
