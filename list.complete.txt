@@ -20906,6 +20906,19 @@ complete/t/Tokyo Magnitude 8.0/[BSS] Tokyo Magnitude 8.0 - 08 [57405AAE].mkv
 complete/t/Tokyo Magnitude 8.0/[BSS] Tokyo Magnitude 8.0 - 09 [C6BD25BF].mkv
 complete/t/Tokyo Magnitude 8.0/[BSS] Tokyo Magnitude 8.0 - 10 [252592DA].mkv
 complete/t/Tokyo Magnitude 8.0/[BSS] Tokyo Magnitude 8.0 - 11 [End][A04F36BE].mkv
+complete/t/Tokyo Magnitude 8.0/[Elysium] Tokyo Magnitude 8.0 - 01 [720p BD][EEBC67D3].mkv
+complete/t/Tokyo Magnitude 8.0/[Elysium] Tokyo Magnitude 8.0 - 02 [720p BD][E6765D83].mkv
+complete/t/Tokyo Magnitude 8.0/[Elysium] Tokyo Magnitude 8.0 - 03 [720p BD][D3454BAF].mkv
+complete/t/Tokyo Magnitude 8.0/[Elysium] Tokyo Magnitude 8.0 - 04 [720p BD][6366B219].mkv
+complete/t/Tokyo Magnitude 8.0/[Elysium] Tokyo Magnitude 8.0 - 05 [720p BD][5C304B4E].mkv
+complete/t/Tokyo Magnitude 8.0/[Elysium] Tokyo Magnitude 8.0 - 06 [720p BD][DC372A71].mkv
+complete/t/Tokyo Magnitude 8.0/[Elysium] Tokyo Magnitude 8.0 - 07 [720p BD][49CE525A].mkv
+complete/t/Tokyo Magnitude 8.0/[Elysium] Tokyo Magnitude 8.0 - 08 [720p BD][C23AEB1F].mkv
+complete/t/Tokyo Magnitude 8.0/[Elysium] Tokyo Magnitude 8.0 - 09 [720p BD][AA4DD929].mkv
+complete/t/Tokyo Magnitude 8.0/[Elysium] Tokyo Magnitude 8.0 - 10 [720p BD][2CA14C93].mkv
+complete/t/Tokyo Magnitude 8.0/[Elysium] Tokyo Magnitude 8.0 - 11 [End][720p BD][4449CB7E].mkv
+complete/t/Tokyo Magnitude 8.0/[Elysium] Tokyo Magnitude 8.0 - Ending [720p BD][03963641].mkv
+complete/t/Tokyo Magnitude 8.0/[Elysium] Tokyo Magnitude 8.0 - Opening [720p BD][7F9D9717].mkv
 complete/t/Tokyo Majin/[Arigatou] Tokyo Majin - 01 [8B980588].mkv
 complete/t/Tokyo Majin/[Arigatou] Tokyo Majin - 02 [32942F0F].mkv
 complete/t/Tokyo Majin/[Arigatou] Tokyo Majin - 03 [2A2AC886].mkv
@@ -21815,6 +21828,16 @@ complete/u/Umisho/[Ayu] Umisho - 10 [88414277].mkv
 complete/u/Umisho/[Ayu] Umisho - 11 [8A382EC2].mkv
 complete/u/Umisho/[Ayu] Umisho - 12 [6AF5C7DD].mkv
 complete/u/Umisho/[Ayu] Umisho - 13 [End][9257F2C5].mkv
+complete/u/Upotte!!/[Commie] Upotte!! - 01 [B5B9A517].mkv
+complete/u/Upotte!!/[Commie] Upotte!! - 02 [7B26126D].mkv
+complete/u/Upotte!!/[Commie] Upotte!! - 03 [EA1E7B94].mkv
+complete/u/Upotte!!/[Commie] Upotte!! - 04 [A373D132].mkv
+complete/u/Upotte!!/[Commie] Upotte!! - 05 [75748EEB].mkv
+complete/u/Upotte!!/[Commie] Upotte!! - 06 [378DC240].mkv
+complete/u/Upotte!!/[Commie] Upotte!! - 07 [AE8588EF].mkv
+complete/u/Upotte!!/[Commie] Upotte!! - 08 [B4A4B3E6].mkv
+complete/u/Upotte!!/[Commie] Upotte!! - 09 [725B92D8].mkv
+complete/u/Upotte!!/[Commie] Upotte!! - 10 [End][94AB906A].mkv
 complete/u/Usagi Drop/[Commie] Usagi Drop - 01 [654EB35F].mkv
 complete/u/Usagi Drop/[Commie] Usagi Drop - 02 [C929F4A4].mkv
 complete/u/Usagi Drop/[Commie] Usagi Drop - 02.5 [BD 720p][68D206F3].mkv

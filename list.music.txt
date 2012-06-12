@@ -351,6 +351,7 @@ music/ASL/[ASL]_Aimer_-_No_6_ED_Theme_-_Roku_Tousei_no_Yoru_[FLAC].rar
 music/ASL/[ASL]_Aimi_-_Bento_OP_-_LIVE_FOR_LIFE_Ookami_Tachi_no_Yoru_[FLAC].rar
 music/ASL/[ASL]_Airi_-_30-sai_no_Hoken_Taiiku_ED_-_Learn together_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Aizawa_Mai_-_Nichijou_Character_Song_4_Naganohara_Mio_-_Mio_no_Kaputte_Kaputte_Moechigire_[FLAC].rar
+music/ASL/[ASL]_Amuro_Namie_-_Go_Round_YEAH-OH_[FLAC].rar
 music/ASL/[ASL]_Annabel_-_Another_ED_-_anamnesis_[FLAC].rar
 music/ASL/[ASL]_Annabel_-_Sankarea_ED_-_Above_your_hand_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_Original_Soundtrack_Vol2_[FLAC].rar
@@ -369,6 +370,7 @@ music/ASL/[ASL]_BINAL_CORD_-_Spirituality_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Binal_Cord_-_Cloister_of_Memories_[FLAC].rar
 music/ASL/[ASL]_Binal_Cord_-_Re_alize_[FLAC].rar
 music/ASL/[ASL]_Blue_Drops_-_Sora_no_Otoshimono_Tokei-jikake_no_Angeloid_Theme_Song_Single_-_SECOND_[FLAC].rar
+music/ASL/[ASL]_CAPCOM_-_ROCKMANZERO_The_Complete_Works_of_GAME_MUSIC_-Rockman_Zero_1~3-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_CUFFS_-_CAFE_SOURIRE_SOUNDTRACK_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Caramell_-_U-U-UmaUma_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Cecile_Corbel_-_Arriettys_Song_Single_[FLAC]_[w_Scans].rar
@@ -632,6 +634,7 @@ music/ASL/[ASL]_Nakajima_Megumi_-_Moshidora_-_If_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Nakajima_Megumi_-_Rinne_no_Lagrange_OP_-_TRY_UNITE_Hello_[EXTRA].rar
 music/ASL/[ASL]_Nakajima_Megumi_-_Rinne_no_Lagrange_OP_-_TRY_UNITE_Hello_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Nakajima_Megumi_-_Tamayura_hitotose_ED_-_Kamisama_no_itazura_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Nanamorichuu_Goraku-bu_-_Yuru_Yuri_no_Uta_Comiket_81_Gentei_CD_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Nanamorichuu_Gorakubu_-_Yuruyuri_ED_-_My_Pace_de_Ikimashou_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Nanamorichuu_Gorakubu_-_Yuruyuri_OP_-_Yuriyurarararayuruyuri_Daijiken_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Nanjo_Yoshino_-_Hidamari_Basket_Vocal_CD_[FLAC].rar
@@ -795,6 +798,7 @@ music/ASL/[ASL]_U_-_GWAVE_SuperFeatures_vol4_U_TOPIA_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_U_-_GWAVE_Super_Feature_s_U_2nd_Full_Album_-_ULTRA_U_-GALAXY-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Uesugi_Hiroshi_-_Papa_no_Iukoto_wo_Kikinasai!_Original_Soundtrack_vol.1_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Uesugi_Hiroshi_-_Papa_no_Iukoto_wo_Kikinasai_Original_Soundtrack_vol_2_[FLAC].rar
+music/ASL/[ASL]_Usui_Yoshiyuki_-_Fireball_Charming_Chikuwabu_Box_Tokuten_Soundtrack_CD_[FLAC].rar
 music/ASL/[ASL]_VALSHE_-_jester_[FLAC].rar
 music/ASL/[ASL]_Various_Arists_-_Infinite_Stratos_ORIGINAL_SOUNDTRACK_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artist_-_Irotoridori_no_Sekai_Original_Soundtrack_[FLAC]_[w_Scans].rar
@@ -995,6 +999,7 @@ music/ASL/[ASL]_Various_Artists_-_InuxBoku_SS_Bluray_Vol.1_Special_CD_-_InuxBoku
 music/ASL/[ASL]_Various_Artists_-_Itsuka,_Todoku,_Ano_Sora_ni._ ~Precious_Selection~_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_KSL_Live_World_2010_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Kami_Nomi_zo_Shiru_Sekai_Character_Cover_Album_[FLAC].rar
+music/ASL/[ASL]_Various_Artists_-_Kami_nomi_zo_Shiru_Sekai_Character_CD_-_Katsuragi_Keima_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Kamidori_Alchemy_Meister_Sound_Collection_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Kamikaze_Explorer_Soundtrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Kamisama_no_Memochou_Original_Soundtrack_[FLAC]_[w_Scans].rar
@@ -1215,7 +1220,9 @@ music/ASL/[ASL]_Various_Artists_-_Worlds_and_World's_end_Original_Soundtrack_-_S
 music/ASL/[ASL]_Various_Artists_-_Yomehapi_～You_make_happy!～_yomehapi_Disc_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Yukiiro_Sora_ni_Rokka_no_Sumu_Machi_Original_Maxi_CD_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Yumekui_Merry_Original_Soundtrack_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Yuruyuri_Live_Event_Tokuten_Yume_no_Kyouen_Bonus_CD_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Yuruyuri_Tokuten_Special-Sound_CD_vol.4_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Yuruyuri_Tokuten_Special-Sound_CD_vol.5_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Yuruyuri_Tokuten_Special-Sound_CD_vol1_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Yuruyuri_Tokuten_Special-Sound_CD_vol2_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Yuruyuri_Tokuten_Special-Sound_CD_vol3_[FLAC]_[w_Scans].rar
