@@ -12,6 +12,7 @@
 !new/.ec/[Commie-Fishing] Tsuritama - 08 [1D4DA339].mkv
 !new/.ec/[Commie-Fishing] Tsuritama - 10 [2A295EC7].mkv
 !new/.ec/[Commie] Accel World - 10 [67D41612].mkv
+!new/.ec/[Commie] Fate ⁄ Zero - 24 [0F813FE3].mkv
 !new/.ec/[Commie] Haiyore! Nyarlko - 10 [2B56B967].mkv
 !new/.ec/[Commie] Space Brothers - 11 [D9AD6727].mkv
 !new/.ec/[Commie] Tasogare Otome × Amnesia - 10 [0594ECFA].mkv
@@ -20,10 +21,15 @@
 !new/.ec/[Doremi].Smile.Precure!.19.[1280x720].[47149D9B].mkv
 !new/.ec/[Doremi].Yes.Pretty.Cure.5.Go.Go!.20.[1280x720].[B638F7B5].mkv
 !new/.ec/[Doremi].Yes.Pretty.Cure.5.Go.Go!.21.[1280x720].[1724CD7A].mkv
+!new/.ec/[Eveyuu] Sankarea 00 [DVD Hi10P 480p H264] [4219AF02].mkv
 !new/.ec/[FFF] Medaka Box - 11 [10bit][8AADC0A8].mkv
 !new/.ec/[FroZen-EviL]_Yawara_-_92_[DVD][E4FBB5BA].mkv
+!new/.ec/[FroZen-EviL]_Yawara_-_93_[DVD][67F8B887].mkv
 !new/.ec/[GotSpeed]_Nazo_no_Kanojo_X_-_09_[10bit][7D9C4D8E].mkv
+!new/.ec/[GotSpeed]_Nazo_no_Kanojo_X_-_11_[10bit][F300536D].mkv
 !new/.ec/[HorribleSubs] Fairy Tail - 135 [720p].mkv
+!new/.ec/[HorribleSubs] Hunter X Hunter - 35 [720p].mkv
+!new/.ec/[HorribleSubs] Kuroko's Basketball - 11 [720p].mkv
 !new/.ec/[HorribleSubs] Polar Bear Cafe - 11 [720p].mkv
 !new/.ec/[HorribleSubs] Poyopoyo - 24 [720p].mkv
 !new/.ec/[HorribleSubs] Queen's Blade Rebellion - 10 [720p].mkv
@@ -34,11 +40,18 @@
 !new/.ec/[Licca] Porphy no Nagai Tabi Episode 41 (h.264-Hi10P) [47BA9E25].mkv
 !new/.ec/[Licca] Porphy no Nagai Tabi Episode 42 (h.264-Hi10P) [D6706575].mkv
 !new/.ec/[Licca] Porphy no Nagai Tabi Episode 44 (h.264-Hi10P) [704E5473].mkv
+!new/.ec/[Nipponsei] Blood-C The Last Dark Main Theme Single - METRO BAROQUE [Mizuki Nana].zip
+!new/.ec/[Nipponsei] Danshi Koukousei no Nichijou Original Soundtrack.zip
+!new/.ec/[Nipponsei] Ginga he Kickoff!! OP Single - Across my world [knotlamp].zip
+!new/.ec/[Nipponsei] Sengoku Collection Character Song Collection Vol.1.zip
+!new/.ec/[Nipponsei] Tsuritama ED Single - Sora mo Toberu Hazu [Sayonara Ponytail].zip
+!new/.ec/[Nipponsei] Tsuritama OP Single - Tsurezure Monochrome [Fuji Fabric].zip
 !new/.ec/[Over-Time] Unofficial Sentai Akibaranger - 09 [C24BBE2C].mkv
 !new/.ec/[Over-Time] Unofficial Sentai Akibaranger - 10 [EC04CC4C].mkv
 !new/.ec/[Over-Time]_Kamen_Rider_Fourze_-_39_[F950D4FA].mkv
 !new/.ec/[Over-Time]_Spec-Ops_Cell_Go-Busters_-_16_[1CAE948F].mkv
 !new/.ec/[PM]Pocket_Monsters_Best_Wishes_083_The_Tesseed_Laboratories!_Iris_and_Baivanilla!![H264_720P][9C806141].mkv
+!new/.ec/[PM]Pocket_Monsters_Best_Wishes_084_Movie_Showdown!_The_Isshu_Defense_Force_Goes_into_Action!![H264_720P][6E8BD3FB].mkv
 !new/.ec/[ReDone] Rizelmine - 22 (DVD) [3793AC7D].mkv
 !new/.ec/[RyRo]_Inazuma_Eleven_GO_Chrono_Stone_-_007_(720p)_[E6B079A5].mkv
 !new/.ec/[Shin-S] Jormungand ED Single - Ambivalentidea [Yanagi Nagi].zip
@@ -49,6 +62,7 @@
 !new/.ec/[Shin-S] Sengoku Collection ED Single - UNLUCKY GIRL!! (FLAC) [Sweety].zip
 !new/.ec/[Shin-S] Sengoku Collection ED Single - UNLUCKY GIRL!! (MP3) [Sweety].zip
 !new/.ec/[UTW]_Accel_World_-_10_[h264-720p][B385423A].mkv
+!new/.ec/[UTW]_Fate_Zero_-_24_[h264-720p][583D3DBB].mkv
 !new/.ec/[Underwater-rori] Haiyore! Nyarlko-san - 10 [30606460].mkv
 !new/.ec/[WhyNot] Zetman - 11 [6C345234].mkv
 !new/.ec/[gg]_Jormungand_-_10_[939FF9C9].mkv
