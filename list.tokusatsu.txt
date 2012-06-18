@@ -99,6 +99,7 @@ tokusatsu/Kamen Rider Fourze/[Over-Time] Kamen Rider Fourze - 35 [6A765C08].mkv
 tokusatsu/Kamen Rider Fourze/[Over-Time] Kamen Rider Fourze - 36 [522D38D3].mkv
 tokusatsu/Kamen Rider Fourze/[Over-Time] Kamen Rider Fourze - 37 [61F65EEE].mkv
 tokusatsu/Kamen Rider Fourze/[Over-Time] Kamen Rider Fourze - 38 [9EAB6D98].mkv
+tokusatsu/Kamen Rider Fourze/[Over-Time] Kamen Rider Fourze - 39 [F950D4FA].mkv
 tokusatsu/Kamen Rider OOO Final Episode/[Over-Time] Kamen Rider OOO Final Episode [720p][A8FCC72C].mkv
 tokusatsu/Kamen Rider OOO Wonderful The Movie - The Shogun and the 21 Core Medals/[Over-Time] Kamen Rider OOO Wonderful The Movie - The Shogun and the 21 Core Medals [720p][37AD6653].mkv
 tokusatsu/Kamen Rider OOO/[Over-Time] Kamen Rider OOO - 01 [v2][F85F0293].mkv
@@ -277,6 +278,7 @@ tokusatsu/Spec-Ops Cell Go-Busters/[Over-Time] Spec-Ops Cell Go-Busters - 12 [EB
 tokusatsu/Spec-Ops Cell Go-Busters/[Over-Time] Spec-Ops Cell Go-Busters - 13 [D0CBE174].mkv
 tokusatsu/Spec-Ops Cell Go-Busters/[Over-Time] Spec-Ops Cell Go-Busters - 14 [56F12659].mkv
 tokusatsu/Spec-Ops Cell Go-Busters/[Over-Time] Spec-Ops Cell Go-Busters - 15 [44EDC267].mkv
+tokusatsu/Spec-Ops Cell Go-Busters/[Over-Time] Spec-Ops Cell Go-Busters - 16 [1CAE948F].mkv
 tokusatsu/Unofficial Sentai Akibaranger/[Over-Time] Unofficial Sentai Akibaranger - 01 [24D0375C].mkv
 tokusatsu/Unofficial Sentai Akibaranger/[Over-Time] Unofficial Sentai Akibaranger - 02 [4B0EC4A2].mkv
 tokusatsu/Unofficial Sentai Akibaranger/[Over-Time] Unofficial Sentai Akibaranger - 03 [F832F1E3].mkv
@@ -285,3 +287,5 @@ tokusatsu/Unofficial Sentai Akibaranger/[Over-Time] Unofficial Sentai Akibarange
 tokusatsu/Unofficial Sentai Akibaranger/[Over-Time] Unofficial Sentai Akibaranger - 06 [0BB686C2].mkv
 tokusatsu/Unofficial Sentai Akibaranger/[Over-Time] Unofficial Sentai Akibaranger - 07 [18D815A6].mkv
 tokusatsu/Unofficial Sentai Akibaranger/[Over-Time] Unofficial Sentai Akibaranger - 08 [DE179759].mkv
+tokusatsu/Unofficial Sentai Akibaranger/[Over-Time] Unofficial Sentai Akibaranger - 09 [C24BBE2C].mkv
+tokusatsu/Unofficial Sentai Akibaranger/[Over-Time] Unofficial Sentai Akibaranger - 10 [EC04CC4C].mkv
