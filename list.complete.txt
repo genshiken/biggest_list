@@ -8061,7 +8061,7 @@ complete/h/Heroman/[Commie] Heroman - 18 [D60C1940].mkv
 complete/h/Heroman/[Commie] Heroman - 19 [279C6B7A].mkv
 complete/h/Heroman/[Commie] Heroman - 20 [DDD141DD].mkv
 complete/h/Heroman/[Commie] Heroman - 21 [A59ADDE6].mkv
-complete/h/Heroman/[Commie] Heroman - 22 [3DF77485].mkv
+complete/h/Heroman/[Commie] Heroman - 22 [v2][83DC5255].mkv
 complete/h/Heroman/[Commie] Heroman - 23 [A6587E1A].mkv
 complete/h/Heroman/[Commie] Heroman - 24 [CB7500F7].mkv
 complete/h/Heroman/[Commie] Heroman - 25 [5979B9CA].mkv
@@ -17290,6 +17290,18 @@ complete/s/SRWOG - Divine Wars/[SoS-dp] SRWOG - Divine Wars - 23 [AC78EA06].mkv
 complete/s/SRWOG - Divine Wars/[SoS-dp] SRWOG - Divine Wars - 24 [A4931E7E].mkv
 complete/s/SRWOG - Divine Wars/[SoS-dp] SRWOG - Divine Wars - 25 [A9A7054F].mkv
 complete/s/SRWOG - Divine Wars/[SoS-dp] SRWOG - Divine Wars - 26 [End][A72A9070].mkv
+complete/s/Sacred Seven/[DmonHiro] Sacred Seven - 01 [v2 720p BD][7481007A].mkv
+complete/s/Sacred Seven/[DmonHiro] Sacred Seven - 02 [v2 720p BD][38E7674E].mkv
+complete/s/Sacred Seven/[DmonHiro] Sacred Seven - 03 [720p BD][3EE3ACC5].mkv
+complete/s/Sacred Seven/[DmonHiro] Sacred Seven - 04 [720p BD][3D19ACA2].mkv
+complete/s/Sacred Seven/[DmonHiro] Sacred Seven - 05 [720p BD][E5FE3B46].mkv
+complete/s/Sacred Seven/[DmonHiro] Sacred Seven - 06 [720p BD][9AE32AF3].mkv
+complete/s/Sacred Seven/[DmonHiro] Sacred Seven - 07 [720p BD][879F7075].mkv
+complete/s/Sacred Seven/[DmonHiro] Sacred Seven - 08 [720p BD][DC5BCCC2].mkv
+complete/s/Sacred Seven/[DmonHiro] Sacred Seven - 09 [720p BD][47F694E8].mkv
+complete/s/Sacred Seven/[DmonHiro] Sacred Seven - 10 [720p BD][78EC5DEA].mkv
+complete/s/Sacred Seven/[DmonHiro] Sacred Seven - 11 [720p BD][B2788A9C].mkv
+complete/s/Sacred Seven/[DmonHiro] Sacred Seven - 12 [End][720p BD][2175858D].mkv
 complete/s/Sacred Seven/[DmonHiro] Sacred Seven - Bluray Gallery [7FCE42E9].rar
 complete/s/Sacred Seven/[DmonHiro] Sacred Seven - Ending 1 (Clean) [720p BD][25871C79].mkv
 complete/s/Sacred Seven/[DmonHiro] Sacred Seven - Ending 2 (Clean) [720p BD][95DB79C0].mkv
@@ -18287,6 +18299,8 @@ complete/s/Senki Zesshou Symphogear/[DmonHiro] Senki Zesshou Symphogear - 01 [72
 complete/s/Senki Zesshou Symphogear/[DmonHiro] Senki Zesshou Symphogear - 02 [720p BD][41AA4B72].mkv
 complete/s/Senki Zesshou Symphogear/[DmonHiro] Senki Zesshou Symphogear - 03 [720p BD][B17A000B].mkv
 complete/s/Senki Zesshou Symphogear/[DmonHiro] Senki Zesshou Symphogear - 04 [720p BD][251F12C6].mkv
+complete/s/Senki Zesshou Symphogear/[DmonHiro] Senki Zesshou Symphogear - 05 [720p BD][A8142DCC].mkv
+complete/s/Senki Zesshou Symphogear/[DmonHiro] Senki Zesshou Symphogear - 06 [720p BD][DDE10797].mkv
 complete/s/Sentou Yousei Tasukete! Mave-chan/[dp] Sentou Yousei Tasukete! Mave-chan [A31B4444].avi
 complete/s/Serial Experiments Lain/[Coalgirls] Serial Experiments Lain - 01 [1080p BD][573CDDD6].mkv
 complete/s/Serial Experiments Lain/[Coalgirls] Serial Experiments Lain - 02 [1080p BD][19F59BAF].mkv
@@ -19040,7 +19054,7 @@ complete/s/Skip Beat/[Ureshii-Yoroshiku] Skip Beat - 09 (1280x720) [F68E5357].mk
 complete/s/Skip Beat/[Ureshii-Yoroshiku] Skip Beat - 10 (1280x720) [854EDFCB].mkv
 complete/s/Skip Beat/[Ureshii-Yoroshiku] Skip Beat - 11 (1280x720) [B4B4AD1F].mkv
 complete/s/Skip Beat/[Ureshii-Yoroshiku] Skip Beat - 12 (1280x720) [211CB393].mkv
-complete/s/Sky Girls OVA/[Froth-Bite] Sky Girls OVA [135583CB].mp4
+complete/s/Sky Girls OVA/[ReDone] Sky Girls OVA [DVD][14BBBE9E].mkv
 complete/s/Sky Girls/[Taedium] Sky Girls - 01 [DVD][14599D85].mkv
 complete/s/Sky Girls/[Taedium] Sky Girls - 02 [DVD][A9E9E0CD].mkv
 complete/s/Sky Girls/[Taedium] Sky Girls - 03 [DVD][897ED235].mkv
@@ -22599,6 +22613,7 @@ complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 04 [32A02254].mkv
 complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 05 [41DFE8E7].mkv
 complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 06 [7E7A949D].mkv
 complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 08 [1B3FF057].mkv
+complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 09 [2B15692C].mkv
 complete/y/Yakushiji Ryoko no Kaiki Jikenbo/[AonE-AnY] Yakushiji Ryoko no Kaiki Jikenbo - 01 [ED975900].mkv
 complete/y/Yakushiji Ryoko no Kaiki Jikenbo/[AonE-AnY] Yakushiji Ryoko no Kaiki Jikenbo - 02 [C50AFECA].mkv
 complete/y/Yakushiji Ryoko no Kaiki Jikenbo/[AonE-AnY] Yakushiji Ryoko no Kaiki Jikenbo - 03 [556F1904].mkv

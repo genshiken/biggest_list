@@ -1824,6 +1824,8 @@ incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 41 [47BA9E25].mkv
 incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 42 [D6706575].mkv
 incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 43 [B0CCBBE5].mkv
 incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 44 [704E5473].mkv
+incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 45 [AD01FD0E].mkv
+incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 46 [5250B9E4].mkv
 incomplete/Prince of Tennis - Another Story II/[Ryugan-Saizen] Prince of Tennis - Another Story II - 01 [DVD][7ECE7D25].mkv
 incomplete/Prince of Tennis - Another Story II/[Ryugan-Saizen] Prince of Tennis - Another Story II - 02 [DVD][4B55406A].mkv
 incomplete/Princess Resurrection OVA/Princess Resurrection OVA - 1 [Mamiko SHiN][DVD][EEE2827C].mkv
@@ -1931,6 +1933,7 @@ incomplete/Sekai-ichi Hatsukoi/[Ryuumaru] Sekaiichi Hatsukoi - 02 [720p][3D43EFD
 incomplete/Sekai-ichi Hatsukoi/[Ryuumaru] Sekaiichi Hatsukoi - 03 [720p][F82A1A6E].mkv
 incomplete/Senjou no Valkyria 3/[CMS] Senjou no Valkyria 3 - 01 [1080p BD][A9C5FDCF].mkv
 incomplete/Senjou no Valkyria 3/[CMS] Senjou no Valkyria 3 - 02 [v0 720p][83E8FDD6].mkv
+incomplete/Senjou no Valkyria 3/[SHiN-gx] Valkyria Chronicles 3 OVA - 01 [720p][BD][B19C57E4].mkv
 incomplete/Senkou no Night Raid/[Animanda] Senkou no Night Raid - 07 [Special][7EBC8D18].mkv
 incomplete/Senkou no Night Raid/[Animanda] Senkou no Night Raid - 08 [4658BE3A].mkv
 incomplete/Senkou no Night Raid/[Animanda] Senkou no Night Raid - 09 [437EDA40].mkv
@@ -2367,6 +2370,7 @@ incomplete/Yawara/Yawara - 90 [FroZen-EviL][DVD][8031516A].mkv
 incomplete/Yawara/Yawara - 91 [FroZen-EviL][DVD][495EB318].mkv
 incomplete/Yawara/Yawara - 92 [FroZen-EviL][DVD][E4FBB5BA].mkv
 incomplete/Yawara/Yawara - 93 [FroZen-EviL][DVD][67F8B887].mkv
+incomplete/Yawara/Yawara - 94 [FroZen-EviL][DVD][1EF388F4].mkv
 incomplete/Yebisu Celebrities/[aarinfantasy] Yebisu Celebrities - 1 [B5BC8C8D].avi
 incomplete/Yes! PreCure 5/[PCSS] Yes! Pretty Cure 5 - 27 [DVD][B37C6BAF].mkv
 incomplete/Yes! PreCure 5/[PCSS] Yes! Pretty Cure 5 - 30 [DVD][F2C4D766].mkv
