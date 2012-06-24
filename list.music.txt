@@ -458,6 +458,7 @@ music/ASL/[ASL]_Hasegawa_Akiko_-_Bullet_Soul_(Xbox_360)_OP_Theme_-_Sourin_no_Pen
 music/ASL/[ASL]_Hashimoto_Miyuki_-_Mashiroiro_Symphony_mutsu_no_hana_Maxi_Single_CD_-_Yumemiru_Mama_ni_Koi_wo_Shite_[FLAC].rar
 music/ASL/[ASL]_Hashimoto_Miyuki_-_Mirai_Nostalgia_Opening_Theme_[FLAC].rar
 music/ASL/[ASL]_Hashimoto_Miyuki_-_Murasaki-Ban_Vocal_Selection_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Hata_Motohiro_-_Sakamachi_no_Apollon_ED_-_Altair_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Hatsune_Miku_-_Curl_flavor_[EXTRA].rar
 music/ASL/[ASL]_Hatsune_Miku_-_Curl_flavor_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Hayami_Saori_-_Kami_Nomi_zo_Shiru_Sekai_II_Character_CD_00_Haqua_starring_Hayami_Saori_[FLAC]_[w_Scans].rar
@@ -486,6 +487,7 @@ music/ASL/[ASL]_Igarashi_Hiromi_-_THE_iDOLMASTER_CINDERELLA_MASTER_002_Futaba_An
 music/ASL/[ASL]_Iguchi_Yuka_-_Ro-Kyu-Bu_Character_Songs_02_Misawa_Maho_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Imai_Asami_-_STEINS;GATE_Laboratory_Member_004_Makise_Kurisu_[FLAC].rar
 music/ASL/[ASL]_Inamura_Rio_(CV_Ayukawa_Hinata)_-_DRACU-RIOT_Character_Song_Vol_3_-_Kitto_Daijoubu_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Inoue_Marina_-_Kyoukaisen-Jou_no_Horizon_Special_CD_4_[FLAC].rar
 music/ASL/[ASL]_Isami_-_Trinity_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Ishikawa_Chiaki_-_Kamisama_Dolls_OP_ED_-_Fukanzen_Nenshou_Switch_ga_Ittara_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Isshiki_Yui_-_DOG_DAYS_1_Limited_Edition_Bonus_CD_-_Original_Soundtrack_Vol1_[FLAC].rar
@@ -1021,6 +1023,7 @@ music/ASL/[ASL]_Various_Artists_-_Kouyoku_no_Soleil_viis_World_Original_Soundtra
 music/ASL/[ASL]_Various_Artists_-_Kud_Wafter_Original_SoundTrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Kyoukai_Senjou_no_Horizon_Special_CD_1_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Kyoukai_Senjou_no_Horizon_Special_CD_2_[FLAC].rar
+music/ASL/[ASL]_Various_Artists_-_Kyoukaisen-Jou_no_Horizon_Special_CD_3_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_LAST_EXILE_-Fam_The_Silver_Wing-_OST_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_LEGEND_SEVEN_Shirayuki_Hime_to_Shichinin_no_Eiyuu_SOUNDTRACK_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_LOVE_2_QUAD_ORIGINAL_SOUNDTRACK_[FLAC]_[w_Scans].rar
@@ -1146,6 +1149,8 @@ music/ASL/[ASL]_Various_Artists_-_Setsuei_Tsuki_to_Mahou_to_Taiyou_to_Soundtrack
 music/ASL/[ASL]_Various_Artists_-_Shinigami_no_Testament_menuet_of_epistula_Original_Soundtrack_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Shining_Hearts_Shiawase_no_Pan_OP_ED_-_Tokisekai_Fuwaffuwa_no_Mahou_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Shion_no_Ketsuzoku_~Kono_Futashika_na_Sekai_to_Tenshitachi_no_Rondo~_Yoyaku_Tokuten_FULL_Soundtrack_CD_[FLAC].rar
+music/ASL/[ASL]_Various_Artists_-_Shuffle_On_The_Stage_Character_Album_[FLAC].rar
+music/ASL/[ASL]_Various_Artists_-_Shuffle_Original_Soundtrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Shukufuku_no_Campanella_Theme_-_Shukufuku_no_Campanella_Takaramono_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_SkyFish_vocal_collection_volume_1_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Smile_Cubic_Original_Soundtrack_[FLAC].rar

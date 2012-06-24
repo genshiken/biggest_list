@@ -17,6 +17,7 @@ ongoing/Accel World/[Commie] Accel World - 07 [7A23166C].mkv
 ongoing/Accel World/[Commie] Accel World - 08 [EDFD4441].mkv
 ongoing/Accel World/[Commie] Accel World - 09 [14222343].mkv
 ongoing/Accel World/[Commie] Accel World - 10 [67D41612].mkv
+ongoing/Accel World/[Commie] Accel World - 11 [BF752E7E].mkv
 ongoing/Accel World/[UTW] Accel World - 01 [720p][F574698F].mkv
 ongoing/Accel World/[UTW] Accel World - 02 [720p][FE38D8F7].mkv
 ongoing/Accel World/[UTW] Accel World - 03 [720p][F2385A07].mkv
@@ -27,6 +28,7 @@ ongoing/Accel World/[UTW] Accel World - 07 [720p][34F53483].mkv
 ongoing/Accel World/[UTW] Accel World - 08 [720p][B22DA8EC].mkv
 ongoing/Accel World/[UTW] Accel World - 09 [720p][C16BFEEA].mkv
 ongoing/Accel World/[UTW] Accel World - 10 [720p][B385423A].mkv
+ongoing/Accel World/[UTW] Accel World - 11 [720p][7D3851F8].mkv
 ongoing/Acchi Kocchi/[Commie] Acchi Kocchi - 01 [E4F3D287].mkv
 ongoing/Acchi Kocchi/[Commie] Acchi Kocchi - 02 [AEA3ECF7].mkv
 ongoing/Acchi Kocchi/[Commie] Acchi Kocchi - 03 [A2BD6284].mkv
@@ -61,7 +63,7 @@ ongoing/Aquarion EVOL/[gg] Aquarion EVOL - 21 [57A5BD0D].mkv
 ongoing/Aquarion EVOL/[gg] Aquarion EVOL - 22 [96AA9AF5].mkv
 ongoing/Aquarion EVOL/[gg] Aquarion EVOL - 23 [BAC9F15C].mkv
 ongoing/Aquarion EVOL/[gg] Aquarion EVOL - 24 [7BBBB082].mkv
-ongoing/Aquarion EVOL/[gg] Aquarion EVOL - 25 [BFAD0969].mkv
+ongoing/Aquarion EVOL/[gg] Aquarion EVOL - 25 [v2][4CF34C3E].mkv
 ongoing/Area no Kishi/[HorribleSubs] The Knight in the Area - 01 [720p][2F8BD386].mkv
 ongoing/Area no Kishi/[HorribleSubs] The Knight in the Area - 02 [720p][58C41FF6].mkv
 ongoing/Area no Kishi/[HorribleSubs] The Knight in the Area - 03 [720p][8555B40B].mkv
@@ -85,6 +87,7 @@ ongoing/Area no Kishi/[HorribleSubs] The Knight in the Area - 20 [720p][B0A2AA5F
 ongoing/Area no Kishi/[HorribleSubs] The Knight in the Area - 21 [720p][CE253022].mkv
 ongoing/Area no Kishi/[HorribleSubs] The Knight in the Area - 22 [720p][C0BB6E43].mkv
 ongoing/Area no Kishi/[HorribleSubs] The Knight in the Area - 23 [720p][F7EBF766].mkv
+ongoing/Area no Kishi/[HorribleSubs] The Knight in the Area - 24 [720p][C0FA7D1D].mkv
 ongoing/Area no Kishi/[Oyatsu] Area no Kishi - 01 [720p][8652D215].mkv
 ongoing/Area no Kishi/[Oyatsu] Area no Kishi - 02 [v2 720p][0D672E76].mkv
 ongoing/Area no Kishi/[Oyatsu] Area no Kishi - 03 [v2 720p][E3B1245E].mkv
@@ -736,6 +739,7 @@ ongoing/Eureka Seven AO/[gg] Eureka Seven AO - 06 [FE670FD0].mkv
 ongoing/Eureka Seven AO/[gg] Eureka Seven AO - 07 [68D14AE3].mkv
 ongoing/Eureka Seven AO/[gg] Eureka Seven AO - 08 [3D3D2DB8].mkv
 ongoing/Eureka Seven AO/[gg] Eureka Seven AO - 09 [B9FC3230].mkv
+ongoing/Eureka Seven AO/[gg] Eureka Seven AO - 10 [480E519B].mkv
 ongoing/Fairy Tail/Fairy Tail - 001 [Mamiko][0307DF54].mkv
 ongoing/Fairy Tail/Fairy Tail - 002 [Mamiko][531F9793].mkv
 ongoing/Fairy Tail/Fairy Tail - 003 [Mamiko][C7677EC8].mkv
@@ -855,6 +859,7 @@ ongoing/Fairy Tail/Fairy Tail - 132 [HorribleSubs][720p][B187FD4A].mkv
 ongoing/Fairy Tail/Fairy Tail - 133 [HorribleSubs][720p][F6D4B11C].mkv
 ongoing/Fairy Tail/Fairy Tail - 134 [HorribleSubs][720p][534A54C7].mkv
 ongoing/Fairy Tail/Fairy Tail - 135 [HorribleSubs][720p][A9505E3A].mkv
+ongoing/Fairy Tail/Fairy Tail - 136 [HorribleSubs][720p][84140A97].mkv
 ongoing/Fate-Zero/[Commie] Fate-Zero - 14 [1AA40CC4].mkv
 ongoing/Fate-Zero/[Commie] Fate-Zero - 15 [4265B333].mkv
 ongoing/Fate-Zero/[Commie] Fate-Zero - 16 [7385C970].mkv
@@ -1395,6 +1400,8 @@ ongoing/Kimi to Boku 2/[sage] Kimi to Boku 2 - 10 [720p][8D0B79F4].mkv
 ongoing/Kimi to Boku 2/[sage] Kimi to Boku 2 - 11 [720p][94B47D5F].mkv
 ongoing/Kimi to Boku 2/[sage] Kimi to Boku 2 - 12 [720p][8C8E628F].mkv
 ongoing/Kingdom/[A-Destiny] Kingdom - 01 [720p][264FD4B3].mkv
+ongoing/Kingdom/[A-Destiny] Kingdom - 02 [v2 720p][41AA78DA].mkv
+ongoing/Kingdom/[A-Destiny] Kingdom - 03 [720p][E29AABEE].mkv
 ongoing/Kore wa Zombie desu ka - of the Dead/[Commie] Kore wa Zombie desu ka - of the Dead - 01 [CBFA1695].mkv
 ongoing/Kore wa Zombie desu ka - of the Dead/[Commie] Kore wa Zombie desu ka - of the Dead - 02 [33C0C551].mkv
 ongoing/Kore wa Zombie desu ka - of the Dead/[Commie] Kore wa Zombie desu ka - of the Dead - 03 [725E4A04].mkv
@@ -1427,6 +1434,7 @@ ongoing/Lupin the Third - Mine Fujiko to Iu Onna/[Commie] Lupin the Third - Mine
 ongoing/Lupin the Third - Mine Fujiko to Iu Onna/[Commie] Lupin the Third - Mine Fujiko to Iu Onna - 09 [6AC06F77].mkv
 ongoing/Lupin the Third - Mine Fujiko to Iu Onna/[Commie] Lupin the Third - Mine Fujiko to Iu Onna - 10 [B78B2EFC].mkv
 ongoing/Lupin the Third - Mine Fujiko to Iu Onna/[Commie] Lupin the Third - Mine Fujiko to Iu Onna - 11 [35243BE7].mkv
+ongoing/Lupin the Third - Mine Fujiko to Iu Onna/[Commie] Lupin the Third - Mine Fujiko to Iu Onna - 12 [4BE89C84].mkv
 ongoing/Lupin the Third - Mine Fujiko to Iu Onna/[sage] Lupin the Third - Mine Fujiko to Iu Onna - 01 [720p][53E61CD8].mkv
 ongoing/Lupin the Third - Mine Fujiko to Iu Onna/[sage] Lupin the Third - Mine Fujiko to Iu Onna - 02 [720p][CE3F3607].mkv
 ongoing/Lupin the Third - Mine Fujiko to Iu Onna/[sage] Lupin the Third - Mine Fujiko to Iu Onna - 03 [720p][B65CE9E7].mkv
@@ -1439,17 +1447,6 @@ ongoing/Lupin the Third - Mine Fujiko to Iu Onna/[sage] Lupin the Third - Mine F
 ongoing/Lupin the Third - Mine Fujiko to Iu Onna/[sage] Lupin the Third - Mine Fujiko to Iu Onna - 10 [720p][D7978FC3].mkv
 ongoing/Lupin the Third - Mine Fujiko to Iu Onna/[sage] Lupin the Third - Mine Fujiko to Iu Onna - 11 [720p][E1210509].mkv
 ongoing/Lupin the Third - Mine Fujiko to Iu Onna/[sage] Lupin the Third - Mine Fujiko to Iu Onna - 12 [720p][5AAE2436].mkv
-ongoing/Medaka Box/[FFF] Medaka Box - 01 [9C9A8CC0].mkv
-ongoing/Medaka Box/[FFF] Medaka Box - 02 [882B9AEF].mkv
-ongoing/Medaka Box/[FFF] Medaka Box - 03 [AA86152E].mkv
-ongoing/Medaka Box/[FFF] Medaka Box - 04 [90FCFE04].mkv
-ongoing/Medaka Box/[FFF] Medaka Box - 05 [E81691F6].mkv
-ongoing/Medaka Box/[FFF] Medaka Box - 06 [07471725].mkv
-ongoing/Medaka Box/[FFF] Medaka Box - 07 [v2][E743CC21].mkv
-ongoing/Medaka Box/[FFF] Medaka Box - 08 [FBF21010].mkv
-ongoing/Medaka Box/[FFF] Medaka Box - 09 [2FD7FFD9].mkv
-ongoing/Medaka Box/[FFF] Medaka Box - 10 [8D943EF1].mkv
-ongoing/Medaka Box/[FFF] Medaka Box - 11 [8AADC0A8].mkv
 ongoing/Mermaid Melody Pichi Pichi Pitch Pure/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 01 [v2 DVD][A829314C].mkv
 ongoing/Mermaid Melody Pichi Pichi Pitch Pure/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 02 [DVD][7396A7B7].mkv
 ongoing/Mermaid Melody Pichi Pichi Pitch Pure/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 03 [DVD][043A4645].mkv
@@ -1670,6 +1667,7 @@ ongoing/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 07 [A10E9E87].mkv
 ongoing/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 08 [152F73C3].mkv
 ongoing/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 09 [16DF7072].mkv
 ongoing/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 10 [76183975].mkv
+ongoing/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 11 [F533CA86].mkv
 ongoing/Nurarihyon no Mago Sennen Makyou/[Commie] Nurarihyon no Mago Sennen Makyou - 01 [D9136303].mkv
 ongoing/Nurarihyon no Mago Sennen Makyou/[Commie] Nurarihyon no Mago Sennen Makyou - 02 [CAB043AE].mkv
 ongoing/Nurarihyon no Mago Sennen Makyou/[Commie] Nurarihyon no Mago Sennen Makyou - 03 [603B0C78].mkv
@@ -2544,6 +2542,7 @@ ongoing/Sakamichi no Apollon/[Commie-Commie] Sakamichi no Apollon - 07 [66C79557
 ongoing/Sakamichi no Apollon/[Commie-Commie] Sakamichi no Apollon - 08 [683B67BF].mkv
 ongoing/Sakamichi no Apollon/[Commie-Commie] Sakamichi no Apollon - 09 [CD4879D6].mkv
 ongoing/Sakamichi no Apollon/[Commie-Commie] Sakamichi no Apollon - 10 [51E187E9].mkv
+ongoing/Sakamichi no Apollon/[Commie-Commie] Sakamichi no Apollon - 11 [B0ACB08F].mkv
 ongoing/Saki Achiga-hen - Episode of Side-A/[Underwater-Mahjong] Saki Achiga-hen - Episode of Side-A - 01 [720p][B7CCC6DF].mkv
 ongoing/Saki Achiga-hen - Episode of Side-A/[Underwater-Mahjong] Saki Achiga-hen - Episode of Side-A - 02 [720p][649CC122].mkv
 ongoing/Saki Achiga-hen - Episode of Side-A/[Underwater-Mahjong] Saki Achiga-hen - Episode of Side-A - 03 [720p][F16E4C0F].mkv
@@ -2562,6 +2561,7 @@ ongoing/Sankarea/[Commie] Sankarea - 07 [5A95DBAF].mkv
 ongoing/Sankarea/[Commie] Sankarea - 08 [6628F960].mkv
 ongoing/Sankarea/[Commie] Sankarea - 09 [271E6703].mkv
 ongoing/Sankarea/[Commie] Sankarea - 10 [54845F38].mkv
+ongoing/Sankarea/[Commie] Sankarea - 11 [5A95B00F].mkv
 ongoing/Seitokai Yakuindomo OVA/[Ayako-Himatsubushi] Seitokai Yakuindomo OVA - 01 [v2 DVD][EF82D238].mkv
 ongoing/Seitokai Yakuindomo OVA/[Ayako-Himatsubushi] Seitokai Yakuindomo OVA - 02 [DVD][84FDC487].mkv
 ongoing/Seitokai Yakuindomo OVA/[Ayako-Himatsubushi] Seitokai Yakuindomo OVA - 03 [720p BD][9F2ABDF5].mkv
@@ -2589,6 +2589,7 @@ ongoing/Sengoku Collection/[HorribleSubs] Sengoku Collection - 08 [720p][7862D6C
 ongoing/Sengoku Collection/[HorribleSubs] Sengoku Collection - 09 [720p][7B71EDCE].mkv
 ongoing/Sengoku Collection/[HorribleSubs] Sengoku Collection - 10 [720p][4434A4A7].mkv
 ongoing/Sengoku Collection/[HorribleSubs] Sengoku Collection - 11 [720p][54A72A1A].mkv
+ongoing/Shining Hearts - Shiawase no Pan/[Hiryuu] Shining Hearts - 01 [720p][DAB83BA4].mkv
 ongoing/Shining Hearts - Shiawase no Pan/[Hiryuu] Shining Hearts - 02 [720p][2B81F8FC].mkv
 ongoing/Shining Hearts - Shiawase no Pan/[Hiryuu] Shining Hearts - 03 [720p][FD413457].mkv
 ongoing/Shining Hearts - Shiawase no Pan/[Hiryuu] Shining Hearts - 04 [720p][6F9FD920].mkv
@@ -2597,7 +2598,7 @@ ongoing/Shining Hearts - Shiawase no Pan/[Hiryuu] Shining Hearts - 06 [720p][874
 ongoing/Shining Hearts - Shiawase no Pan/[Hiryuu] Shining Hearts - 07 [720p][726D743E].mkv
 ongoing/Shining Hearts - Shiawase no Pan/[Hiryuu] Shining Hearts - 08 [720p][5095CE57].mkv
 ongoing/Shining Hearts - Shiawase no Pan/[Hiryuu] Shining Hearts - 09 [720p][DECB01A1].mkv
-ongoing/Shining Hearts - Shiawase no Pan/[Hiryuu] Shining Hearts - Shiawase no Pan - 01 [720p][DAB83BA4].mkv
+ongoing/Shining Hearts - Shiawase no Pan/[Hiryuu] Shining Hearts - 10 [720p][8621DBB9].mkv
 ongoing/Shining Hearts - Shiawase no Pan/[WhyNot] Shining Hearts - Shiawase no Pan - 01 [v2][C39DA418].mkv
 ongoing/Shining Hearts - Shiawase no Pan/[WhyNot] Shining Hearts - Shiawase no Pan - 02 [53DC1798].mkv
 ongoing/Shining Hearts - Shiawase no Pan/[WhyNot] Shining Hearts - Shiawase no Pan - 03 [1B5E2B37].mkv
@@ -2737,6 +2738,7 @@ ongoing/Tsuritama/[Commie-Fishing] Tsuritama - 07 [B59B03B4].mkv
 ongoing/Tsuritama/[Commie-Fishing] Tsuritama - 08 [1D4DA339].mkv
 ongoing/Tsuritama/[Commie-Fishing] Tsuritama - 09 [BDC5AD6F].mkv
 ongoing/Tsuritama/[Commie-Fishing] Tsuritama - 10 [2A295EC7].mkv
+ongoing/Tsuritama/[Commie-Fishing] Tsuritama - 11 [AC9D7FD7].mkv
 ongoing/Young Animator Training Project 2011/[gg] Young Animator Training Project 2011 - Wasurenagumo [F73D699B].mkv
 ongoing/Yurumate3Dei/[HorribleSubs] Yurumate3Dei - 01 [720p][15DFA0FE].mkv
 ongoing/Yurumate3Dei/[HorribleSubs] Yurumate3Dei - 02 [720p][027E77DC].mkv
@@ -2749,6 +2751,7 @@ ongoing/Yurumate3Dei/[HorribleSubs] Yurumate3Dei - 08 [720p][425313CB].mkv
 ongoing/Yurumate3Dei/[HorribleSubs] Yurumate3Dei - 09 [720p][D967F517].mkv
 ongoing/Yurumate3Dei/[HorribleSubs] Yurumate3Dei - 10 [720p][026B4938].mkv
 ongoing/Yurumate3Dei/[HorribleSubs] Yurumate3Dei - 11 [720p][7E959EA1].mkv
+ongoing/Yurumate3Dei/[HorribleSubs] Yurumate3Dei - 12 [720p][CEEC090F].mkv
 ongoing/Zetman/[SFW] Zetman - 01 [720p][2609B35C].mkv
 ongoing/Zetman/[SFW] Zetman - 02 [720p][936E7496].mkv
 ongoing/Zetman/[WhyNot] Zetman - 01 [88A8164D].mkv

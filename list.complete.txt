@@ -13602,6 +13602,18 @@ complete/m/Mayoi Neko Overrun!/[AtsA] Mayoi Neko Overrun! - 12 [1080p BD][AF2242
 complete/m/Mayoi Neko Overrun!/[AtsA] Mayoi Neko Overrun! - 13 [End][1080p BD][0FC9EB0B].mkv
 complete/m/Mayoi Neko Overrun!/[AtsA] Mayoi Neko Overrun! - Ending (Clean) [1080p BD][B424FD80].mkv
 complete/m/Mayoi Neko Overrun!/[AtsA] Mayoi Neko Overrun! - Opening (Clean) [1080p BD][273D42D2].mkv
+complete/m/Medaka Box/[FFF] Medaka Box - 01 [9C9A8CC0].mkv
+complete/m/Medaka Box/[FFF] Medaka Box - 02 [882B9AEF].mkv
+complete/m/Medaka Box/[FFF] Medaka Box - 03 [AA86152E].mkv
+complete/m/Medaka Box/[FFF] Medaka Box - 04 [90FCFE04].mkv
+complete/m/Medaka Box/[FFF] Medaka Box - 05 [E81691F6].mkv
+complete/m/Medaka Box/[FFF] Medaka Box - 06 [07471725].mkv
+complete/m/Medaka Box/[FFF] Medaka Box - 07 [v2][E743CC21].mkv
+complete/m/Medaka Box/[FFF] Medaka Box - 08 [FBF21010].mkv
+complete/m/Medaka Box/[FFF] Medaka Box - 09 [2FD7FFD9].mkv
+complete/m/Medaka Box/[FFF] Medaka Box - 10 [8D943EF1].mkv
+complete/m/Medaka Box/[FFF] Medaka Box - 11 [8AADC0A8].mkv
+complete/m/Medaka Box/[FFF] Medaka Box - 12 [End][C63C2400].mkv
 complete/m/Megane na Kanojo/[UTW] Megane na Kanojo OVA - 1 [DVD][5DB546F1].mkv
 complete/m/Megane na Kanojo/[UTW] Megane na Kanojo OVA - 2 [DVD][D0998172].mkv
 complete/m/Megane na Kanojo/[UTW] Megane na Kanojo OVA - 3 [DVD][ACAC6CD1].mkv
@@ -16973,10 +16985,10 @@ complete/r/Rizelmine/[ReDone] Rizelmine - 19 [DVD][2B7745E6].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 20 [DVD][E3EB7939].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 21 [DVD][3885A866].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 22 [DVD][3793AC7D].mkv
+complete/r/Rizelmine/[ReDone] Rizelmine - 23 [DVD][BA0C1AFF].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - Ending 1 [DVD][59C1FE24].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - Ending 2 [DVD][C89C1581].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - Opening [DVD][3AC69E00].mkv
-complete/r/Rizelmine/[h-b] Rizelmine - 23 [B4475A6E].avi
 complete/r/Rizelmine/[h-b] Rizelmine - 24 [End][EAA7BE6A].avi
 complete/r/Ro-Kyu-Bu!/[Coalgirls] Ro-Kyu-Bu! - 01 [720p BD][90045B70].mkv
 complete/r/Ro-Kyu-Bu!/[Coalgirls] Ro-Kyu-Bu! - 02 [720p BD][5D280A68].mkv
@@ -22612,6 +22624,7 @@ complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 03 [69F9B7E5].mkv
 complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 04 [32A02254].mkv
 complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 05 [41DFE8E7].mkv
 complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 06 [7E7A949D].mkv
+complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 07 [F3F9AF7F].mkv
 complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 08 [1B3FF057].mkv
 complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 09 [2B15692C].mkv
 complete/y/Yakushiji Ryoko no Kaiki Jikenbo/[AonE-AnY] Yakushiji Ryoko no Kaiki Jikenbo - 01 [ED975900].mkv
