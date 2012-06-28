@@ -4,6 +4,7 @@
 !new/.ec/From_Up_On_Poppy_Hill_(2011)_[1080p,BluRay,flac,x264]_-_THORA.md5
 !new/.ec/From_Up_On_Poppy_Hill_(2011)_[1080p,BluRay,flac,x264]_-_THORA.mkv
 !new/.ec/From_Up_On_Poppy_Hill_(2011)_[1080p,BluRay,flac,x264]_-_THORA.nfo
+!new/.ec/[A-Destiny] Kingdom - 04 (1280x720 Hi10p AAC) [4B9A195F].mkv
 !new/.ec/[A-Destiny] Toriko - 62 (1280x720 Hi10p AAC) [566B656A].mkv
 !new/.ec/[ASL]_Various_Artists_-_Aquaplus_Vocal_Collection_Vol_8_[FLAC]_[w_Scans].rar
 !new/.ec/[ASL]_Various_Artists_-_Ore_ga_Shujinkou_Naka_ni_Haitte_Ore_ga_Dasu_OST_[FLAC]_[w_Scans].rar
@@ -32,7 +33,12 @@
 !new/.ec/[HorribleSubs] Hiiro no Kakera - 13 [720p].mkv
 !new/.ec/[HorribleSubs] Hunter X Hunter - 36 [720p].mkv
 !new/.ec/[HorribleSubs] Kuroko's Basketball - 12 [720p].mkv
+!new/.ec/[HorribleSubs] Naruto Shippuuden - 268 [720p].mkv
+!new/.ec/[HorribleSubs] Polar Bear Cafe - 13 [720p].mkv
 !new/.ec/[HorribleSubs] Poyopoyo - 25 [720p].mkv
+!new/.ec/[HorribleSubs] Queen's Blade Rebellion - 12 [720p].mkv
+!new/.ec/[HorribleSubs] SKET Dance - 64 [720p].mkv
+!new/.ec/[HorribleSubs] Saint Seiya Omega - 13 [720p].mkv
 !new/.ec/[KiteSeekers-Wasurenai-Licca] The Story of Perrine - 44 [DVD H264 Hi10P 640x480] [F30AE58E].mkv
 !new/.ec/[KiteSeekers-Wasurenai-Licca] The Story of Perrine - 45 [DVD H264 Hi10P 640x480] [52077D8F].mkv
 !new/.ec/[KiteSeekers-Wasurenai-Licca] The Story of Perrine - 46 [DVD H264 Hi10P 640x480] [ABD81E8C].mkv
@@ -59,6 +65,7 @@
 !new/.ec/[gg]_Aquarion_EVOL_-_26_[71A8D710].mkv
 !new/.ec/[gg]_Jormungand_-_12_[3DF82AFC].mkv
 !new/.ec/[sage]_Kimi_to_Boku_2_-_13_[720p][10bit][7B3DAC2F].mkv
+!new/.ec/[sage]_Lupin_the_Third_-_Mine_Fujiko_to_Iu_Onna_-_13_[720p][10bit][6F9CAF8C].mkv
 !new/.ec/[sage]_Mobile_Suit_Gundam_AGE_-_37_[720p][10bit][3A51C6FD] .mkv
 !new/.ec/[sage]_Mobile_Suit_Gundam_SEED_HD_Remaster_-_18_[720p][10bit][FA8A3501].mkv
 !new/.ec/[sage]_Mobile_Suit_Gundam_SEED_HD_Remaster_-_19_[720p][10bit][4C7AEBBA].mkv
