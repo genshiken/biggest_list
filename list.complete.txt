@@ -223,6 +223,7 @@ complete/a/Ah My Goddess/[AonE-AnY] Ah My Goddess - 21 [83B8085B].avi
 complete/a/Ah My Goddess/[AonE-AnY] Ah My Goddess - 22 [F0AED01C].avi
 complete/a/Ah My Goddess/[AonE-AnY] Ah My Goddess - 23 [6F661999].avi
 complete/a/Ah My Goddess/[AonE-AnY] Ah My Goddess - 24 [End][7EADC927].avi
+complete/a/Ai Mai! Moe Can Change! OVA/[CMS] Ai Mai! Moe Can Change! OVA [DVD][C763C3D5].mkv
 complete/a/Ai Yori Aoshi - Special/[KAA] Ai Yori Aoshi - Dream Story [DVD][CEBADCA7].mkv
 complete/a/Ai Yori Aoshi Enishi/[Exiled-Destiny] Ai Yori Aoshi Enishi - 00 [B86C85A7].mkv
 complete/a/Ai Yori Aoshi Enishi/[Exiled-Destiny] Ai Yori Aoshi Enishi - 01 [9F1F79E8].mkv
@@ -5237,6 +5238,43 @@ complete/f/Fantastic Children/[ACX] Fantastic Children - 24 [8E427694].mkv
 complete/f/Fantastic Children/[ACX] Fantastic Children - 25 [A6092025].mkv
 complete/f/Fantastic Children/[ACX] Fantastic Children - 26 [End][0E6A0A89].mkv
 complete/f/Fate-Prototype OVA/[Fast-Sub] Fate-Prototype OVA [1080p BD][ABE2A185].mkv
+complete/f/Fate-Zero/[Commie] Fate-Zero - 14 [1AA40CC4].mkv
+complete/f/Fate-Zero/[Commie] Fate-Zero - 15 [4265B333].mkv
+complete/f/Fate-Zero/[Commie] Fate-Zero - 16 [7385C970].mkv
+complete/f/Fate-Zero/[Commie] Fate-Zero - 17 [8894A250].mkv
+complete/f/Fate-Zero/[Commie] Fate-Zero - 18 [4DF11E49].mkv
+complete/f/Fate-Zero/[Commie] Fate-Zero - 19 [EEC4D378].mkv
+complete/f/Fate-Zero/[Commie] Fate-Zero - 20 [1E26094E].mkv
+complete/f/Fate-Zero/[Commie] Fate-Zero - 21 [9CF47580].mkv
+complete/f/Fate-Zero/[Commie] Fate-Zero - 22 [1D7B886C].mkv
+complete/f/Fate-Zero/[Commie] Fate-Zero - 23 [16AFFC47].mkv
+complete/f/Fate-Zero/[Commie] Fate-Zero - 24 [0F813FE3].mkv
+complete/f/Fate-Zero/[Commie] Fate-Zero - 25 [End][76AFDE9C].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 01 [720p BD][02A0491D].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 02 [720p BD][8AB2BF54].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 03 [720p BD][C9AEDDFB].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 04 [720p][3A05B4E1].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 05 [720p][0F358C5F].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 06 [720p][A60AB23E].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 07 [720p][69FCAE19].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 08 [720p][7E69E99B].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 09 [720p][B5FE3AE1].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 10 [720p][62B3B6F2].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 11 [Uncut][720p][3E3D54D7].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 12 [720p][6E06166B].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 13 [720p][03D313F7].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 14 [720p][4D1CAEDB].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 15 [720p][422C8FDD].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 16 [720p][02A33212].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 17 [720p][F058E092].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 18 [720p][CFAB3675].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 19 [720p][EE7D8586].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 20 [720p][AF35659F].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 21 [720p][BCB5C808].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 22 [720p][6F59864F].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 23 [720p][9AD1A48A].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 24 [720p][583D3DBB].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 25 [End][720p][DEBA6F45].mkv
 complete/f/Fate-stay night - TV Reproduction/[3xR-FLsnow] Fate-stay night - TV Reproduction - 1 [1080p BD][96AF6C65].mkv
 complete/f/Fate-stay night - TV Reproduction/[3xR-FLsnow] Fate-stay night - TV Reproduction - 2 [End][1080p BD][63B375B6].mkv
 complete/f/Fate-stay night/[Thora] Fate-stay night - 01 [v2 720p BD][19652C3A].mkv
@@ -7586,6 +7624,29 @@ complete/h/Haibane Renmei/[Coalgirls] Haibane Renmei - 12 [720p BD][9BE6D7C0].mk
 complete/h/Haibane Renmei/[Coalgirls] Haibane Renmei - 13 [End][720p BD][2A1D805E].mkv
 complete/h/Haibane Renmei/[Coalgirls] Haibane Renmei - Ending [720p BD][5956A19F].mkv
 complete/h/Haibane Renmei/[Coalgirls] Haibane Renmei - Opening [720p BD][72771472].mkv
+complete/h/Haiyore! Nyarlko/[Commie] Haiyore! Nyarlko - 01 [9BCF9CCC].mkv
+complete/h/Haiyore! Nyarlko/[Commie] Haiyore! Nyarlko - 02 [E6247E97].mkv
+complete/h/Haiyore! Nyarlko/[Commie] Haiyore! Nyarlko - 03 [939BCC09].mkv
+complete/h/Haiyore! Nyarlko/[Commie] Haiyore! Nyarlko - 04 [9746819A].mkv
+complete/h/Haiyore! Nyarlko/[Commie] Haiyore! Nyarlko - 05 [824E2BB4].mkv
+complete/h/Haiyore! Nyarlko/[Commie] Haiyore! Nyarlko - 06 [584054EE].mkv
+complete/h/Haiyore! Nyarlko/[Commie] Haiyore! Nyarlko - 07 [0284B938].mkv
+complete/h/Haiyore! Nyarlko/[Commie] Haiyore! Nyarlko - 08 [C10016B9].mkv
+complete/h/Haiyore! Nyarlko/[Commie] Haiyore! Nyarlko - 09 [84EDFA79].mkv
+complete/h/Haiyore! Nyarlko/[Commie] Haiyore! Nyarlko - 10 [2B56B967].mkv
+complete/h/Haiyore! Nyarlko/[Commie] Haiyore! Nyarlko - 11 [BDA8785C].mkv
+complete/h/Haiyore! Nyarlko/[Commie] Haiyore! Nyarlko - 12 [End][F0E9773B].mkv
+complete/h/Haiyore! Nyarlko/[Underwater-rori] Haiyore! Nyarlko - 01 [2F4D073C].mkv
+complete/h/Haiyore! Nyarlko/[Underwater-rori] Haiyore! Nyarlko - 02 [7AE9CF95].mkv
+complete/h/Haiyore! Nyarlko/[Underwater-rori] Haiyore! Nyarlko - 03 [D0DFF808].mkv
+complete/h/Haiyore! Nyarlko/[Underwater-rori] Haiyore! Nyarlko - 04 [23E4EC17].mkv
+complete/h/Haiyore! Nyarlko/[Underwater-rori] Haiyore! Nyarlko - 05 [C7A3308A].mkv
+complete/h/Haiyore! Nyarlko/[Underwater-rori] Haiyore! Nyarlko - 06 [A52B4F07].mkv
+complete/h/Haiyore! Nyarlko/[Underwater-rori] Haiyore! Nyarlko - 07 [5629011B].mkv
+complete/h/Haiyore! Nyarlko/[Underwater-rori] Haiyore! Nyarlko - 08 [5BDD3E66].mkv
+complete/h/Haiyore! Nyarlko/[Underwater-rori] Haiyore! Nyarlko - 09 [0A30248E].mkv
+complete/h/Haiyore! Nyarlko/[Underwater-rori] Haiyore! Nyarlko - 10 [30606460].mkv
+complete/h/Haiyore! Nyarlko/[Underwater-rori] Haiyore! Nyarlko - 11 [170016C1].mkv
 complete/h/Haiyoru! Nyaru-Ani/[ANBU-umai] Haiyoru! Nyaru-Ani [596DD8E6].mkv
 complete/h/Hajime no Ippo - New Challenger/[Frostii] Hajime no Ippo - New Challenger - 01 (1280x720) [9B53928E].mkv
 complete/h/Hajime no Ippo - New Challenger/[Frostii] Hajime no Ippo - New Challenger - 02 (1280x720) [96DF4025].mkv
@@ -8265,6 +8326,19 @@ complete/h/Higurashi no Naku Koro ni/[Ayu] Higurashi no Naku Koro ni - 23 [DVD][
 complete/h/Higurashi no Naku Koro ni/[Ayu] Higurashi no Naku Koro ni - 24 [DVD][3BC95E12].mp4
 complete/h/Higurashi no Naku Koro ni/[Ayu] Higurashi no Naku Koro ni - 25 [DVD][9E84716A].mp4
 complete/h/Higurashi no Naku Koro ni/[Ayu] Higurashi no Naku Koro ni - 26 [End][DVD][5D5A3368].mp4
+complete/h/Hiiro no Kakera/[HorribleSubs] Hiiro no Kakera - 01 [720p][9647AF8A].mkv
+complete/h/Hiiro no Kakera/[HorribleSubs] Hiiro no Kakera - 02 [720p][5AD0EFBE].mkv
+complete/h/Hiiro no Kakera/[HorribleSubs] Hiiro no Kakera - 03 [720p][8C88E3AF].mkv
+complete/h/Hiiro no Kakera/[HorribleSubs] Hiiro no Kakera - 04 [720p][1B60BE97].mkv
+complete/h/Hiiro no Kakera/[HorribleSubs] Hiiro no Kakera - 05 [720p][5EAB4EBA].mkv
+complete/h/Hiiro no Kakera/[HorribleSubs] Hiiro no Kakera - 06 [720p][95B7E64D].mkv
+complete/h/Hiiro no Kakera/[HorribleSubs] Hiiro no Kakera - 07 [720p][CF1456AE].mkv
+complete/h/Hiiro no Kakera/[HorribleSubs] Hiiro no Kakera - 08 [720p][762D28CC].mkv
+complete/h/Hiiro no Kakera/[HorribleSubs] Hiiro no Kakera - 09 [720p][BA9B7134].mkv
+complete/h/Hiiro no Kakera/[HorribleSubs] Hiiro no Kakera - 10 [720p][74143A4A].mkv
+complete/h/Hiiro no Kakera/[HorribleSubs] Hiiro no Kakera - 11 [720p][4970049C].mkv
+complete/h/Hiiro no Kakera/[HorribleSubs] Hiiro no Kakera - 12 [720p][C138E3B6].mkv
+complete/h/Hiiro no Kakera/[HorribleSubs] Hiiro no Kakera - 13 [End][720p][1DEF521A].mkv
 complete/h/Hikaru no Go - Specials/[AonE] Hikaru no Go - Special 1 [EEF4092A].avi
 complete/h/Hikaru no Go - Specials/[AznA] Hikaru no Go - Special 2 [782F9C25].avi
 complete/h/Hikaru no Go - Specials/[E-F] Hikaru no Go - Special 3 [CF814ED1].avi
@@ -20202,6 +20276,30 @@ complete/t/Tantei Opera Milky Holmes/[KiteSeekers-Wasurenai] Tantei Opera Milky 
 complete/t/Tantei Opera Milky Holmes/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 10 [720p][DDB03694].mkv
 complete/t/Tantei Opera Milky Holmes/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 11 [720p][DC9E867B].mkv
 complete/t/Tantei Opera Milky Holmes/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes - 12 [End][720p][58B99B8F].mkv
+complete/t/Tasogare Otome x Amnesia/[Commie] Tasogare Otome x Amnesia - 01 [1A5B2C81].mkv
+complete/t/Tasogare Otome x Amnesia/[Commie] Tasogare Otome x Amnesia - 02 [386ED436].mkv
+complete/t/Tasogare Otome x Amnesia/[Commie] Tasogare Otome x Amnesia - 03 [086102D7].mkv
+complete/t/Tasogare Otome x Amnesia/[Commie] Tasogare Otome x Amnesia - 04 [DD67AFC3].mkv
+complete/t/Tasogare Otome x Amnesia/[Commie] Tasogare Otome x Amnesia - 05 [14E65388].mkv
+complete/t/Tasogare Otome x Amnesia/[Commie] Tasogare Otome x Amnesia - 06 [435F2CAE].mkv
+complete/t/Tasogare Otome x Amnesia/[Commie] Tasogare Otome x Amnesia - 07 [CF2F80C5].mkv
+complete/t/Tasogare Otome x Amnesia/[Commie] Tasogare Otome x Amnesia - 08 [C76B657E].mkv
+complete/t/Tasogare Otome x Amnesia/[Commie] Tasogare Otome x Amnesia - 09 [D713B701].mkv
+complete/t/Tasogare Otome x Amnesia/[Commie] Tasogare Otome x Amnesia - 10 [0594ECFA].mkv
+complete/t/Tasogare Otome x Amnesia/[Commie] Tasogare Otome x Amnesia - 11 [63462A4C].mkv
+complete/t/Tasogare Otome x Amnesia/[Commie] Tasogare Otome x Amnesia - 12 [End][B0ACA728].mkv
+complete/t/Tasogare Otome x Amnesia/[UTW-Underwater] Tasogare Otome x Amnesia - 01 [720p][900E8404].mkv
+complete/t/Tasogare Otome x Amnesia/[UTW-Underwater] Tasogare Otome x Amnesia - 02 [720p][3996A1DF].mkv
+complete/t/Tasogare Otome x Amnesia/[UTW-Underwater] Tasogare Otome x Amnesia - 03 [720p][942B35DC].mkv
+complete/t/Tasogare Otome x Amnesia/[UTW-Underwater] Tasogare Otome x Amnesia - 04 [720p][1A7ECC20].mkv
+complete/t/Tasogare Otome x Amnesia/[UTW-Underwater] Tasogare Otome x Amnesia - 05 [720p][886C4653].mkv
+complete/t/Tasogare Otome x Amnesia/[UTW-Underwater] Tasogare Otome x Amnesia - 06 [720p][CD450656].mkv
+complete/t/Tasogare Otome x Amnesia/[UTW-Underwater] Tasogare Otome x Amnesia - 07 [720p][D2403038].mkv
+complete/t/Tasogare Otome x Amnesia/[UTW-Underwater] Tasogare Otome x Amnesia - 08 [720p][23E4B85A].mkv
+complete/t/Tasogare Otome x Amnesia/[UTW-Underwater] Tasogare Otome x Amnesia - 09 [720p][5CBCD0CD].mkv
+complete/t/Tasogare Otome x Amnesia/[UTW-Underwater] Tasogare Otome x Amnesia - 10 [720p][47BBE00A].mkv
+complete/t/Tasogare Otome x Amnesia/[UTW-Underwater] Tasogare Otome x Amnesia - 11 [720p][50D118C3].mkv
+complete/t/Tasogare Otome x Amnesia/[UTW-Underwater] Tasogare Otome x Amnesia - 12 [End][720p][3AA25CFB].mkv
 complete/t/Tatakau Shisho - The Book of Bantorra/[Commie] Tatakau Shisho - The Book of Bantorra - 01 [BD][4CCA1E52].mkv
 complete/t/Tatakau Shisho - The Book of Bantorra/[Commie] Tatakau Shisho - The Book of Bantorra - 02 [BD][B9F39904].mkv
 complete/t/Tatakau Shisho - The Book of Bantorra/[Commie] Tatakau Shisho - The Book of Bantorra - 03 [BD][ED338DB7].mkv
