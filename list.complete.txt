@@ -7647,6 +7647,7 @@ complete/h/Haiyore! Nyarlko/[Underwater-rori] Haiyore! Nyarlko - 08 [5BDD3E66].m
 complete/h/Haiyore! Nyarlko/[Underwater-rori] Haiyore! Nyarlko - 09 [0A30248E].mkv
 complete/h/Haiyore! Nyarlko/[Underwater-rori] Haiyore! Nyarlko - 10 [30606460].mkv
 complete/h/Haiyore! Nyarlko/[Underwater-rori] Haiyore! Nyarlko - 11 [170016C1].mkv
+complete/h/Haiyore! Nyarlko/[Underwater-rori] Haiyore! Nyarlko - 12 [End][9DFD9853].mkv
 complete/h/Haiyoru! Nyaru-Ani/[ANBU-umai] Haiyoru! Nyaru-Ani [596DD8E6].mkv
 complete/h/Hajime no Ippo - New Challenger/[Frostii] Hajime no Ippo - New Challenger - 01 (1280x720) [9B53928E].mkv
 complete/h/Hajime no Ippo - New Challenger/[Frostii] Hajime no Ippo - New Challenger - 02 (1280x720) [96DF4025].mkv
@@ -12438,6 +12439,7 @@ complete/l/Lupin the Third - Mine Fujiko to Iu Onna/[Commie] Lupin the Third - M
 complete/l/Lupin the Third - Mine Fujiko to Iu Onna/[Commie] Lupin the Third - Mine Fujiko to Iu Onna - 10 [B78B2EFC].mkv
 complete/l/Lupin the Third - Mine Fujiko to Iu Onna/[Commie] Lupin the Third - Mine Fujiko to Iu Onna - 11 [35243BE7].mkv
 complete/l/Lupin the Third - Mine Fujiko to Iu Onna/[Commie] Lupin the Third - Mine Fujiko to Iu Onna - 12 [4BE89C84].mkv
+complete/l/Lupin the Third - Mine Fujiko to Iu Onna/[Commie] Lupin the Third - Mine Fujiko to Iu Onna - 13 [End][45C4FEA3].mkv
 complete/l/Lupin the Third - Mine Fujiko to Iu Onna/[sage] Lupin the Third - Mine Fujiko to Iu Onna - 01 [720p][53E61CD8].mkv
 complete/l/Lupin the Third - Mine Fujiko to Iu Onna/[sage] Lupin the Third - Mine Fujiko to Iu Onna - 02 [720p][CE3F3607].mkv
 complete/l/Lupin the Third - Mine Fujiko to Iu Onna/[sage] Lupin the Third - Mine Fujiko to Iu Onna - 03 [720p][B65CE9E7].mkv
@@ -13775,11 +13777,9 @@ complete/m/Memories Off 3.5/[Faith-Flux] Memories Off 3.5 - 1 [73782733].avi
 complete/m/Memories Off 3.5/[Faith-Flux] Memories Off 3.5 - 2 [DB7EE251].avi
 complete/m/Memories Off 3.5/[Faith-Flux] Memories Off 3.5 - 3 [19E6FFFF].avi
 complete/m/Memories Off 3.5/[Faith-Flux] Memories Off 3.5 - 4 [End][7DC112A6].avi
-complete/m/Memories Off/[Anime-Keep] Memories Off - 1 [389249FD].avi
-complete/m/Memories Off/[Anime-Keep] Memories Off - 2 [6F43B632].avi
-complete/m/Memories Off/[Anime-Keep] Memories Off - 3 [End][217036DC].avi
-complete/m/Memories Off/[ReDone] Memories Off - 01 [DVD][7ADE0CE2].mkv
-complete/m/Memories Off/[ReDone] Memories Off - 02 [DVD][93F9A8F4].mkv
+complete/m/Memories Off/[ReDone] Memories Off - 1 [DVD][7ADE0CE2].mkv
+complete/m/Memories Off/[ReDone] Memories Off - 2 [DVD][93F9A8F4].mkv
+complete/m/Memories Off/[ReDone] Memories Off - 3 [End][DVD][376BF1CC].mkv
 complete/m/Mermaid Melody Pichi Pichi Pitch/[A-Flux Lunar] Mermaid Melody Pichi Pichi Pitch - 01 [B17F4CC5].avi
 complete/m/Mermaid Melody Pichi Pichi Pitch/[A-Flux Lunar] Mermaid Melody Pichi Pichi Pitch - 02 [54F7F0EF].avi
 complete/m/Mermaid Melody Pichi Pichi Pitch/[A-Flux Lunar] Mermaid Melody Pichi Pichi Pitch - 03 [BF61ADDE].avi
@@ -14789,6 +14789,18 @@ complete/n/Naruto/Naruto - 217 [AonE][22A5F189].avi
 complete/n/Naruto/Naruto - 218 [AonE][D3BC9A2D].avi
 complete/n/Naruto/Naruto - 219 [AonE][05170444].avi
 complete/n/Naruto/Naruto - 220 [AonE][End][E15847D3].avi
+complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 01 [26AFFF70].mkv
+complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 02 [721DBE9E].mkv
+complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 03 [5EBA9404].mkv
+complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 04 [D0402D5E].mkv
+complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 05 [DD70944A].mkv
+complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 06 [4576631C].mkv
+complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 07 [A10E9E87].mkv
+complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 08 [152F73C3].mkv
+complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 09 [16DF7072].mkv
+complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 10 [76183975].mkv
+complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 11 [F533CA86].mkv
+complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 12 [End][C2A0E9E2].mkv
 complete/n/Natsuiro no Sunadokei/[SS] Natsuiro no Sunadokei - 1 [630A528E].avi
 complete/n/Natsuiro no Sunadokei/[SS] Natsuiro no Sunadokei - 2 [End][D078279F].avi
 complete/n/Natsume Yuujinchou San/[Commie] Natsume Yuujinchou San - 01 [CB15A29C].mkv
@@ -16222,6 +16234,91 @@ complete/p/Planetes/[PSNR] Planetes - 24 (1280x720) [4C665D60].mkv
 complete/p/Planetes/[PSNR] Planetes - 25 (1280x720) [93C5E290].mkv
 complete/p/Planetes/[PSNR] Planetes - 26 (1280x720) [End][721D285B].mkv
 complete/p/Planetes/[PSNR] Planetes - Ending [C36E80FE].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 00 Special [720p][511A2695].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 01 [720p][93A4D8AD].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 02 [720p][9CDACBD7].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 03 [720p][A35935CB].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 04 [720p][41729873].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 05 [720p][0CC995B6].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 06 [720p][E73C19E5].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 07 [720p][58A8B4B5].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 08 [720p][EF4D8B00].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 09 [720p][97CA0CDF].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 10 [720p][071BE9C5].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 11 [720p][485AA7F2].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 12 [720p][DC28C1EA].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 13 [720p][E254C5BD].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 14 [720p][9CBD5B63].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 15 [720p][E45DF0BC].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 16 [720p][AB2ACD4C].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 17 [720p][080A1C9C].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 18 [720p][86583F2D].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 19 [720p][7AF939E9].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 20 [720p][40DF32A0].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 21 [720p][92707FB9].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 22 [720p][37A043F4].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 25 [720p][0BF8D06E].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 26 [720p][B3FF8F7F].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 27 [720p][06EE95CE].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 28 [720p][031B3E32].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 29 [720p][D5CECFA3].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 30 [720p][080F0D5F].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 31 [720p][9119D3DD].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 32 [720p][AA928AE3].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 33 [720p][D571CDEF].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 34 [720p][2C346FCA].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 35 [720p][6AD53513].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 36 [720p][1E01BAA4].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 37 [720p][B1B1FD7C].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 38 [720p][F4E41C9B].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 39 [720p][828CB617].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 40 [720p][E23346D9].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 41 [720p][10EEF379].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 42 [720p][7835B7FC].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 43 [720p][25D144B2].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 44 [720p][615DC3F1].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 45 [720p][5D70A36D].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 46 [720p][96FA12B9].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 47 [720p][2392192B].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 48 [720p][71A67808].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 49 [720p][905C385C].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 50 [720p][6D611CBE].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 51 [720p][E1443114].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 52 [720p][C810CE67].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 53 [720p][5DEF9D50].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 54 [720p][0431991D].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 55 [720p][4F99016E].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 56 [720p][31DF74B6].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 57 [720p][D70AB201].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 58 [720p][3A78FB66].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 59 [720p][3C26F10F].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 60 [720p][FDDC0494].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 61 [720p][E7041346].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 62 [720p][E4077FCF].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 63 [720p][683A5B1F].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 64 [720p][A4700330].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 65 [720p][C437C5F3].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 66 [720p][0406964E].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 67 [720p][760D0582].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 68 [720p][7ECF7426].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 69 [720p][3D82934A].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 70 [720p][3F9234C9].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 71 [720p][BD1E8C60].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 72 [720p][1C9DE932].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 73 [720p][E2184810].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 74 [720p][260AE4B7].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 75 [720p][836CF3D0].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 76 [720p][A4B3B7B9].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 77 [720p][7398F2C0].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 78 [720p][D4C66CBA].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 79 [720p][243E52AF].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 80 [720p][B1F4BDA5].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 81 [720p][1DEF35DC].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 82 [720p][6EAF5C46].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 83 [720p][9C806141].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 84 [720p][6E8BD3FB].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 85 [720p][4B755C91].mkv
+complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 86 [End][720p][B70D40DA].mkv
 complete/p/PopoloCrois (1998)/[A-BT Pakapuka] PopoloCrois (1998) - 01 [v3][CF8B0BDA].avi
 complete/p/PopoloCrois (1998)/[A-BT Pakapuka] PopoloCrois (1998) - 02 [80B1BB4D].avi
 complete/p/PopoloCrois (1998)/[A-BT Pakapuka] PopoloCrois (1998) - 03 [4092060D].avi
@@ -17088,6 +17185,9 @@ complete/r/Rinne no Lagrange/[Commie] Rinne no Lagrange - 09 [C1864503].mkv
 complete/r/Rinne no Lagrange/[Commie] Rinne no Lagrange - 10 [5871E392].mkv
 complete/r/Rinne no Lagrange/[Commie] Rinne no Lagrange - 11 [00DB9687].mkv
 complete/r/Rinne no Lagrange/[Commie] Rinne no Lagrange - 12 [End][BA2972AE].mkv
+complete/r/Rinne no Lagrange/[DmonHiro] Rinne no Lagrange - Special 1 [720p BD][9EE34C21].mkv
+complete/r/Rinne no Lagrange/[DmonHiro] Rinne no Lagrange - Special 2 [720p BD][7423548E].mkv
+complete/r/Rinne no Lagrange/[DmonHiro] Rinne no Lagrange - Special 3 [720p BD][00EC0AB3].mkv
 complete/r/Rio - Rainbow Gate/[DmonHiro] Rio - Rainbow Gate - 01 [720p BD][39D1032F].mkv
 complete/r/Rio - Rainbow Gate/[DmonHiro] Rio - Rainbow Gate - 02 [720p BD][994B0BF5].mkv
 complete/r/Rio - Rainbow Gate/[DmonHiro] Rio - Rainbow Gate - 03 [720p BD][156A0901].mkv
@@ -17136,10 +17236,10 @@ complete/r/Rizelmine/[ReDone] Rizelmine - 20 [DVD][E3EB7939].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 21 [DVD][3885A866].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 22 [DVD][3793AC7D].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - 23 [DVD][BA0C1AFF].mkv
+complete/r/Rizelmine/[ReDone] Rizelmine - 24 [End][DVD][7893C2BD].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - Ending 1 [DVD][59C1FE24].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - Ending 2 [DVD][C89C1581].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - Opening [DVD][3AC69E00].mkv
-complete/r/Rizelmine/[h-b] Rizelmine - 24 [End][EAA7BE6A].avi
 complete/r/Ro-Kyu-Bu!/[Coalgirls] Ro-Kyu-Bu! - 01 [720p BD][90045B70].mkv
 complete/r/Ro-Kyu-Bu!/[Coalgirls] Ro-Kyu-Bu! - 02 [720p BD][5D280A68].mkv
 complete/r/Ro-Kyu-Bu!/[Coalgirls] Ro-Kyu-Bu! - 03 [720p BD][31B9F0FF].mkv
@@ -18023,6 +18123,18 @@ complete/s/Saiyuki/[a-s] Saiyuki - 47 [808BEADE].mkv
 complete/s/Saiyuki/[a-s] Saiyuki - 48 [0A824046].mkv
 complete/s/Saiyuki/[a-s] Saiyuki - 49 [2EAB5147].mkv
 complete/s/Saiyuki/[a-s] Saiyuki - 50 [End][92A8E840].mkv
+complete/s/Sakamichi no Apollon/[Commie-Commie] Sakamichi no Apollon - 01 [C251B0F1].mkv
+complete/s/Sakamichi no Apollon/[Commie-Commie] Sakamichi no Apollon - 02 [A5422D71].mkv
+complete/s/Sakamichi no Apollon/[Commie-Commie] Sakamichi no Apollon - 03 [ED12728C].mkv
+complete/s/Sakamichi no Apollon/[Commie-Commie] Sakamichi no Apollon - 04 [C88B2AB6].mkv
+complete/s/Sakamichi no Apollon/[Commie-Commie] Sakamichi no Apollon - 05 [CDEA649F].mkv
+complete/s/Sakamichi no Apollon/[Commie-Commie] Sakamichi no Apollon - 06 [C9A26135].mkv
+complete/s/Sakamichi no Apollon/[Commie-Commie] Sakamichi no Apollon - 07 [66C79557].mkv
+complete/s/Sakamichi no Apollon/[Commie-Commie] Sakamichi no Apollon - 08 [683B67BF].mkv
+complete/s/Sakamichi no Apollon/[Commie-Commie] Sakamichi no Apollon - 09 [CD4879D6].mkv
+complete/s/Sakamichi no Apollon/[Commie-Commie] Sakamichi no Apollon - 10 [51E187E9].mkv
+complete/s/Sakamichi no Apollon/[Commie-Commie] Sakamichi no Apollon - 11 [B0ACB08F].mkv
+complete/s/Sakamichi no Apollon/[Commie-Commie] Sakamichi no Apollon - 12 [End][DEF1C795].mkv
 complete/s/Saki/[Underwater-Mahjong] Saki - 01 [v2][CB375B6F].mkv
 complete/s/Saki/[Underwater-Mahjong] Saki - 02 [4482BF52].mkv
 complete/s/Saki/[Underwater-Mahjong] Saki - 03 [5BCE854F].mkv
@@ -18152,6 +18264,18 @@ complete/s/Samurai Champloo/[NPC] Samurai Champloo - 24 [5B5EADF6].mkv
 complete/s/Samurai Champloo/[NPC] Samurai Champloo - 25 [64DCB054].mkv
 complete/s/Samurai Champloo/[NPC] Samurai Champloo - 26 [End][4E169422].mkv
 complete/s/Sankarea OVA/[Eveyuu] Sankarea - 00 OVA [DVD][4219AF02].mkv
+complete/s/Sankarea/[Commie] Sankarea - 01 [261B2905].mkv
+complete/s/Sankarea/[Commie] Sankarea - 02 [08DD7C48].mkv
+complete/s/Sankarea/[Commie] Sankarea - 03 [BDBFA66E].mkv
+complete/s/Sankarea/[Commie] Sankarea - 04 [108B653A].mkv
+complete/s/Sankarea/[Commie] Sankarea - 05 [F81E3D11].mkv
+complete/s/Sankarea/[Commie] Sankarea - 06 [7D057758].mkv
+complete/s/Sankarea/[Commie] Sankarea - 07 [5A95DBAF].mkv
+complete/s/Sankarea/[Commie] Sankarea - 08 [6628F960].mkv
+complete/s/Sankarea/[Commie] Sankarea - 09 [271E6703].mkv
+complete/s/Sankarea/[Commie] Sankarea - 10 [54845F38].mkv
+complete/s/Sankarea/[Commie] Sankarea - 11 [5A95B00F].mkv
+complete/s/Sankarea/[Commie] Sankarea - 12 [End][95BD1F2E].mkv
 complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 01 [v2 DVD][D0DC52CD].mkv
 complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 02 [v2 DVD][84DFC61C].mkv
 complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 03 [v2 DVD][DC99430D].mkv
@@ -21855,6 +21979,18 @@ complete/t/Tsukuyomi Moon Phase/[mahou] Tsukuyomi Moon Phase - 23 [DDE2C60A].avi
 complete/t/Tsukuyomi Moon Phase/[mahou] Tsukuyomi Moon Phase - 24 [0E8E3AB7].avi
 complete/t/Tsukuyomi Moon Phase/[mahou] Tsukuyomi Moon Phase - 25 [58F56F03].avi
 complete/t/Tsukuyomi Moon Phase/[mahou] Tsukuyomi Moon Phase - 26 [End][DVD][8F749B20].avi
+complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 01 [CBCB10F1].mkv
+complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 02 [EB127B12].mkv
+complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 03 [39121A7E].mkv
+complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 04 [C172C68E].mkv
+complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 05 [7796D4FC].mkv
+complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 06 [4230293F].mkv
+complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 07 [B59B03B4].mkv
+complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 08 [1D4DA339].mkv
+complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 09 [BDC5AD6F].mkv
+complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 10 [2A295EC7].mkv
+complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 11 [AC9D7FD7].mkv
+complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 12 [End][E8D0E586].mkv
 complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 01 [v2][E8F575A6].mkv
 complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 02 [v2][EC3C89DA].mkv
 complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 03 [v2][37DE7104].mkv
