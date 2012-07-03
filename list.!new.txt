@@ -6,6 +6,12 @@
 !new/.ec/Doraemon The Movie 2011 - v2 Auto Detecting Patch [Yojigen].zip
 !new/.ec/[ASL]_Takagaki_Ayahi_-_Tsuki_no_Namida_[FLAC]_[w_Scans].rar
 !new/.ec/[ASL]_Various_Artists_-_Hatsuyuki_Sakura_Complete_Soundtrack_[FLAC].rar
+!new/.ec/[Commie] Arcana✴Famiglia - 01 [7DA0CA0B].mkv
+!new/.ec/[Commie] Jinrui wa Suitai Shimashita - 01 [436D4699].mkv
+!new/.ec/[Commie] Muv-Luv Alternative - Total Eclipse - 01 [8EA15F90].mkv
+!new/.ec/[Commie] Tari Tari - 01 [482C6985].mkv
+!new/.ec/[Commie] Yuru Yuri♪♪ - 01 [9CC9C5D0].mkv
+!new/.ec/[EveTaku] AKB0048 - 10 (1280x720 x264-Hi10P AAC)[990627AF].mkv
 !new/.ec/[FFF] Asa Made Jugyou Chu! - 01 [BD][1080p-FLAC][5AEDFD79].mkv
 !new/.ec/[FFF] Sengoku Collection - 05 [10bit][71E2FD88].mkv
 !new/.ec/[FFFpeeps] Sengoku Collection - 01v2 [10bit][A7C01D95].mkv
@@ -21,10 +27,12 @@
 !new/.ec/[FFFpeeps] Sengoku Collection - 12 [10bit][64232EE5].mkv
 !new/.ec/[FFFpeeps] Sengoku Collection - 13 [10bit][E748BEA5].mkv
 !new/.ec/[GotSpeed]_Nazo_no_Kanojo_X_-_13_[10bit][8BC7C4B5].mkv
+!new/.ec/[HorribleSubs] Cardfight!! Vanguard (Asia Circuit) - 66 [720p].mkv
 !new/.ec/[HorribleSubs] Hunter X Hunter - 37 [720p].mkv
 !new/.ec/[HorribleSubs] Poyopoyo - 26 [720p].mkv
 !new/.ec/[HorribleSubs] Recorder to Randoseru - 26 [480p].mkv
 !new/.ec/[HorribleSubs] The Knight in the Area - 25 [720p].mkv
+!new/.ec/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream - 30 [H264 1024x576] [02CA3805].mkv
 !new/.ec/[LonE]_Rita,_Miduki_Anmi,_et_al._-_Katahane_Original_Soundtrack_[w_scans]_(FLAC).rar
 !new/.ec/[Nipponsei] Acchi Kocchi Original Soundtrack.zip
 !new/.ec/[Nipponsei] Jormungand Original Soundtrack.zip
@@ -33,6 +41,8 @@
 !new/.ec/[Nipponsei] Sengoku Collection Character Song Collection Vol.2.zip
 !new/.ec/[Nipponsei] Shirokuma Cafe ED Single - Bamboo Scramble [Fukuyama Jun].zip
 !new/.ec/[Nipponsei] Shirokuma Cafe OP Single - Boku ni Invitation [JP].zip
+!new/.ec/[Over-Time]_Kamen_Rider_Fourze_-_41_[FB3ADAF9].mkv
+!new/.ec/[Over-Time]_Spec-Ops_Cell_Go-Busters_-_19_[FEDBF629].mkv
 !new/.ec/[UTW]_Fate_Zero_-_14_[h264-720p][AB516053].mkv
 !new/.ec/[UTW]_Fate_Zero_-_15_[h264-720p][51AC7CBC].mkv
 !new/.ec/[UTW]_Fate_Zero_-_17_[h264-720p][E8DF551F].mkv
@@ -886,6 +896,8 @@
 !new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - Spring Specials [AVC][1DC86D4A].mkv
 !new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - Summer Specials [AVC][CD176B01].mkv
 !new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - Winter Specials [AVC][2D234649].mkv
+!new/[Commie] Jinrui wa Suitai Shimashita - 01 [436D4699].mkv
+!new/[Commie] Muv-Luv Alternative - Total Eclipse - 01 [5CB57BE4].mkv
 !new/[QTS] Kokuriko-zaka Kara (BD H264 1280x720 24fps AAC 5.0ch).mkv
 !new/[hadena] kore wa zombie desu ka - of the dead - 00 [720p] [e94ea620].mkv
 !new/belum/[TV_Series_1996]_Bakusou_Kyoudai_Let_s_&_Go/Bakusou_Kyoudai_Let_s_&_Go_-_01[51]_-_Episode_1_[640x480][DVD][RAW][Saiei][B67AAA56].mp4
