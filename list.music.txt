@@ -2658,6 +2658,7 @@ music/LosslessONE/[LonE]_Riryka_-_Prima_Stella_Theme_Song_Maxi_Single_-_PrimeSta
 music/LosslessONE/[LonE]_Riryka_-_Venus_Versus_Virus_OP_Single_-_Bravin__Bad_Brew_[w_scans]_(FLAC).rar
 music/LosslessONE/[LonE]_Rita,_Chata,_Lia,_Tamiyasu_Tomoe_-_KSL_Live_World_2008_-Way_to_the_Little_Busters!_EX-_[w_scans]_(FLAC).rar
 music/LosslessONE/[LonE]_Rita,_Katakiri_Rekka,_Shimotsuki_Haruka_-_Sakura_no_Sora_to,_Kimi_no_Koto_-Sweet_Petals_For_My_Dear-_Special_Disk_[w_scans]_(FLAC).rar
+music/LosslessONE/[LonE]_Rita,_Miduki_Anmi,_et_al._-_Katahane_Original_Soundtrack_[w_scans]_(FLAC).rar
 music/LosslessONE/[LonE]_Rita,_Shimotsuki_Haruka,_Mitose_Noriko,_MANYO_-_Aoishiro_Original_Soundtrack_[w_scans]_(FLAC).rar
 music/LosslessONE/[LonE]_Rita_-_LIAR-SOFT_VOCAL_COLLECTION_[SALUTE!]_[w_scans]_(FLAC).rar
 music/LosslessONE/[LonE]_Rita_-_Little_Busters_OP_Single_-_Little_Busters_[w_scans]_(FLAC).rar
@@ -3518,6 +3519,7 @@ music/Nipponsei/[Nipponsei] Accel World ED Single - unfinished [KOTOKO].zip
 music/Nipponsei/[Nipponsei] Accel World OP Single - Chase the world [May'n].zip
 music/Nipponsei/[Nipponsei] Acchi Kocchi ED Single - Te wo Gyu Shite ne [Ookubo Rumi].zip
 music/Nipponsei/[Nipponsei] Acchi Kocchi OP Single - Acchi de Kocchi de [Various].zip
+music/Nipponsei/[Nipponsei] Acchi Kocchi Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Agatha Christie Great Detectives Poirot and Marple ED Single - Wasurenaide [Yamashita Tatsurou].zip
 music/Nipponsei/[Nipponsei] Ah My Goddess Sorezore no Tsubasa ED2 Single - Koibito Doushi [Jukai].zip
 music/Nipponsei/[Nipponsei] Ah My Goddess Sorezore no Tsubasa OP ED Single - Shiawase no Iro [Ishida Yoko].zip
@@ -4099,6 +4101,7 @@ music/Nipponsei/[Nipponsei] Jigoku Shoujo Drama Main Theme Album - Dream Catcher
 music/Nipponsei/[Nipponsei] Jigoku Shoujo Futakomori OP Single - NightmaRe [SNoW].zip
 music/Nipponsei/[Nipponsei] Jigoku Shoujo Futakomori Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Jormungand ED Single - Ambivalentidea [Yanagi Nagi].zip
+music/Nipponsei/[Nipponsei] Jormungand Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Joshi Koushi GIRLS-HIGH ED Single - incl. [meg rock].zip
 music/Nipponsei/[Nipponsei] Joshi Koushi GIRLS-HIGH OP Single - Kirameku [yozuca].zip
 music/Nipponsei/[Nipponsei] Juuousei ED Single - Te wo Tsunaide [Younha] 320k.zip
@@ -4625,6 +4628,8 @@ music/Nipponsei/[Nipponsei] Saiunkoku Monogatari Original Soundtrack 2.zip
 music/Nipponsei/[Nipponsei] Saiyuki Gaiden OP ED Single - Sakura no Ki no Shita [KOKIA].zip
 music/Nipponsei/[Nipponsei] Sakamichi no Apollon OP Single - Play Ball [YUKI].zip
 music/Nipponsei/[Nipponsei] Sakamichi no Apollon Original Soundtrack.zip
+music/Nipponsei/[Nipponsei] Saki Achiga-hen episode of side-A Character Song Vol.1 - Takakamo Shizuno [Yuuki Aoi].zip
+music/Nipponsei/[Nipponsei] Saki Achiga-hen episode of side-A Character Song Vol.2 - Atarashi Ako [Touyama Nao].zip
 music/Nipponsei/[Nipponsei] Saki Achiga-hen episode of side-A ED Single - SquarePanicSerenade [Various].zip
 music/Nipponsei/[Nipponsei] Saki Achiga-hen episode of side-A OP Single - MIRACLE RUSH [StylipS].zip
 music/Nipponsei/[Nipponsei] Samurai7 ED Album - Niji Musubi [Rin'].zip
@@ -4660,6 +4665,7 @@ music/Nipponsei/[Nipponsei] Sekaiju no Maikyuu Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Sekimatsu Occult Gakuin OP Single - Flying Humanoid [Nakagawa Shouko].zip
 music/Nipponsei/[Nipponsei] Sekirei Sound Complete.zip
 music/Nipponsei/[Nipponsei] Sengoku Collection Character Song Collection Vol.1.zip
+music/Nipponsei/[Nipponsei] Sengoku Collection Character Song Collection Vol.2.zip
 music/Nipponsei/[Nipponsei] Sengoku Collection OP Single - Me wo Tojite Gyusshi yo [ABCHO].zip
 music/Nipponsei/[Nipponsei] Sengoku Otome ~Momoiro Paradox~ OP ED Single - Kagerou [Various].zip
 music/Nipponsei/[Nipponsei] Senki Zesshou Symphogear Character Song Series 1 - Zwei Wing.zip
@@ -4730,6 +4736,8 @@ music/Nipponsei/[Nipponsei] Shinryaku! Ika Musume OP Single - Shinryaku no Susum
 music/Nipponsei/[Nipponsei] Shinryaku! Ika Musume Original Soundtrack 2.zip
 music/Nipponsei/[Nipponsei] Shinryaku! Ika Musume Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Shion no Ou OP Single - LADY LOVE [RIZE].zip
+music/Nipponsei/[Nipponsei] Shirokuma Cafe ED Single - Bamboo Scramble [Fukuyama Jun].zip
+music/Nipponsei/[Nipponsei] Shirokuma Cafe OP Single - Boku ni Invitation [JP].zip
 music/Nipponsei/[Nipponsei] Shoujo Jang Geum no Yume OP Single - Ima ga Daisuki [Younha].zip
 music/Nipponsei/[Nipponsei] Shounen Onmyouji ED Single - Yakusoku [Kiuji Saori].zip
 music/Nipponsei/[Nipponsei] Shounen Onmyouji OP - Egao no Wake [Hikita Kaori].zip
@@ -5315,6 +5323,7 @@ music/Shin-S/[Shin-S] Hyouka OP Single - Yasashisa no Riyuu (FLAC) [ChouCho].zip
 music/Shin-S/[Shin-S] Hyouka OP Single - Yasashisa no Riyuu [ChouCho].zip
 music/Shin-S/[Shin-S] Hyperdimension Neptunia Character Song Duet Vol.1 - Neptune & Nepgear [Tanaka Rie & Horie Yui].zip
 music/Shin-S/[Shin-S] Hyperdimension Neptunia Character Song Duet Vol.2 - Noir & Uni [Imai Asami & Kitamura Eri].zip
+music/Shin-S/[Shin-S] Hyperdimension Neptunia Character Song Duet Vol.3 - Rom & Ram [Ogura Yui & Ishihara Kaori].zip
 music/Shin-S/[Shin-S] IS ~Infinite Stratos~ Character Song CD Vol.2 - Cecilia [Yukana].zip
 music/Shin-S/[Shin-S] Ikoku Meiro no Croisée OP & ED Single - Sekai wa Odoru yo, Kimi to. [Various].zip
 music/Shin-S/[Shin-S] Inu x Boku SS ED Single 1 - Rakuen no Photograph [Nakamura Yuuichi & Hidaka Rina].zip
@@ -5425,6 +5434,7 @@ music/Shin-S/[Shin-S] THE iDOLM@STER OP2 Single - CHANGE!!!! [765PRO ALLSTARS].z
 music/Shin-S/[Shin-S] Tamayura ~hitotose~ ED & Insert Song Single - Kami-sama no Itazura [Nakajima Megumi].zip
 music/Shin-S/[Shin-S] Tantei Opera Milky Holmes 2 ED Single - Lovely Girls Anthem [Asou Natsuko].zip
 music/Shin-S/[Shin-S] Tantei Opera Milky Holmes 2 OP Single - Nazo! Nazo Happiness!! [Milky Holmes].zip
+music/Shin-S/[Shin-S] Tasogare Otome x Amnesia ED2 Single - Calendrier -Yuuko- (FLAC) [Hara Yumi].zip
 music/Shin-S/[Shin-S] Tasogare Otome x Amnesia OP Single - CHOIR JAIL [Suzuki Konomi].zip
 music/Shin-S/[Shin-S] Tayutama -Kiss on my Deity- OP Single - The fine every day (FLAC) [Kicco].zip
 music/Shin-S/[Shin-S] Tayutama -Kiss on my Deity- OP Single - The fine every day (MP3) [Kicco].zip
