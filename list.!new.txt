@@ -2,6 +2,7 @@
 !new/.broken/[Chiki-Subs]_Mayo_Chiki_-_01v2_(1280x720_H.264.AAC)_[45704136].mkv
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
 !new/.ec/[A-Destiny] Kingdom - 05 (1280x720 Hi10p AAC) [F75430DD].mkv
+!new/.ec/[CMS] Nagareboshi Lens OVA [DVD][668F3777].mkv
 !new/.ec/[Commie] Accel World - 13 [E5D4378A].mkv
 !new/.ec/[Commie] Acchi Kocchi - 12 [28520597].mkv
 !new/.ec/[Commie] Campione! - 01 [D6E04935].mkv
@@ -58,6 +59,14 @@
 !new/.ec/[Licca] Porphy no Nagai Tabi Episode 50 (h.264-Hi10P) [FF448BE2].mkv
 !new/.ec/[Licca] Porphy no Nagai Tabi Episode 51 (h.264-Hi10P) [87A43F94].mkv
 !new/.ec/[Licca] Porphy no Nagai Tabi Episode 52 (h.264-Hi10P) [5DA896F6].mkv
+!new/.ec/[Nipponsei] Nazo no Kanojo X OP Single - Koi no Orchestra [Yoshitani Ayako].zip
+!new/.ec/[Nipponsei] Saki Achiga-hen episode of side-A Character Song Vol.3 - Matsumi Kuro [Hanazawa Kana].zip
+!new/.ec/[Nipponsei] Saki Achiga-hen episode of side-A Character Song Vol.4 - Matsumi Yuu [MAKO].zip
+!new/.ec/[Nipponsei] Senki Zesshou Symphogear Character Song Series 6 - Kohinata Miku [Iguchi Yuka].zip
+!new/.ec/[Nipponsei] Upotte!! ED Single - Himekuri [Sadohara Kaori].zip
+!new/.ec/[Nipponsei] Upotte!! OP Single - I.N.G. [sweet ARMS].zip
+!new/.ec/[Nipponsei] Yuru Yuri 2 ED Single - 100% Chuugakusei [Nanamorichu Goraku Bu].zip
+!new/.ec/[Nipponsei] Yuru Yuri 2 OP Single - Yes! Yuyuyu Yuru Yuri [Nanamorichu Goraku Bu].zip
 !new/.ec/[Pomf] Koi to Senkyo to Chocolate - 01 [7612CA8D].mkv
 !new/.ec/[RyRo]_Inazuma_Eleven_GO_Chrono_Stone_-_010_(720p)_[8F84752B].mkv
 !new/.ec/[Saizen-HnG]_Ashita_no_Joe_-_36_[DVD][ECEED0EA].mkv
@@ -66,6 +75,8 @@
 !new/.ec/[Shin-S] Hyouka Net Radio OP & ED Single - Update Go Issho ni (FLAC) [Satou Satomi & Sakaguchi Daisuke].zip
 !new/.ec/[Shin-S] Hyouka Net Radio OP & ED Single - Update Go Issho ni [Satou Satomi & Sakaguchi Daisuke].zip
 !new/.ec/[Shin-S] Hyperdimension Neptunia Character Song Duet Vol.3 - Rom & Ram (FLAC) [Ogura Yui & Ishihara Kaori].zip
+!new/.ec/[Shin-S] Nazo no Kanojo X OP Single - Koi no Orchestra (FLAC) [Yoshitani Ayako].zip
+!new/.ec/[Shin-S] Nazo no Kanojo X OP Single - Koi no Orchestra [Yoshitani Ayako].zip
 !new/.ec/[Shin-S] Senki Zesshou Symphogear Character Song 6 - Kohinata Miku [Iguchi Yuka].zip
 !new/.ec/[Shin-S] Upotte!! ED Single - Himekuri [Sadohara Kaori].zip
 !new/.ec/[Shin-S] Upotte!! OP Single - I.N.G [sweet ARMS].zip
