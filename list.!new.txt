@@ -224,6 +224,8 @@
 !new/HnK etc/[HnG] Shin Kyuseishu Densetsu Hokuto no Ken Raoh Den - Gekito no Sho (DVD) [E7BDC007].mkv
 !new/HnK etc/[HnG] Shin Kyuseishu Densetsu Hokuto no Ken Yuria Den (DVD) [CB900818].mkv
 !new/HnK etc/[HnG] Shin Kyuseishu Densetsu Hokuto no Ken ZERO Kenshiro Den (DVD_x264_AC3).mkv
+!new/Initex.Software.Proxifier.v3.0.Standard.Edition.Incl.Keymaker-ZWT/setup.exe
+!new/Initex.Software.Proxifier.v3.0.Standard.Edition.Incl.Keymaker-ZWT/zwt.nfo
 !new/Isekai no Seikishi Monogatari - 13 [End].mkv
 !new/Kigurumikku V3/[HorribleSubs] Kigurumikku - 01 [480p].mkv
 !new/Kigurumikku V3/[HorribleSubs] Kigurumikku - 02 [480p].mkv
@@ -942,6 +944,11 @@
 !new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - Winter Specials [AVC][2D234649].mkv
 !new/[Commie] Jinrui wa Suitai Shimashita - 01 [436D4699].mkv
 !new/[Commie] Muv-Luv Alternative - Total Eclipse - 01 [5CB57BE4].mkv
+!new/[HorribleSubs] Cardfight!! Vanguard (Asia Circuit) - 66 [720p].mkv
+!new/[HorribleSubs] Cardfight!! Vanguard (Asia Circuit) - 67 [720p].mkv
+!new/[HorribleSubs] Cardfight!! Vanguard (Asia Circuit) - 68 [720p].mkv
+!new/[HorribleSubs] Cardfight!! Vanguard (Asia Circuit) - 69 [720p].mkv
+!new/[HorribleSubs] Cardfight!! Vanguard (Asia Circuit) - 70 [720p].mkv
 !new/[QTS] Kokuriko-zaka Kara (BD H264 1280x720 24fps AAC 5.0ch).mkv
 !new/[UTWoots]_Sword_Art_Online_-_01_[720p][E986EDE5].mkv
 !new/[hadena] kore wa zombie desu ka - of the dead - 00 [720p] [e94ea620].mkv
