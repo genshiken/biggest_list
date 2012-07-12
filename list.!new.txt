@@ -37,6 +37,8 @@
 !new/.ec/[FroZen-EviL]_Yawara_-_97_[DVD][0F2946D8].mkv
 !new/.ec/[Gotyuu] Dakara Boku wa, H ga Dekinai 01 [Hi10P 1280x720 H264] [43C1054E].mkv
 !new/.ec/[Gotyuu] Dakara Boku wa, H ga Dekinai 01v2 [Hi10P 1280x720 H264] [00AA595C].mkv
+!new/.ec/[HorribleSubs] Cardfight!! Vanguard (Asia Circuit) - 79 [720p].mkv
+!new/.ec/[HorribleSubs] Hakuoki Reimeiroku - 01 [720p].mkv
 !new/.ec/[HorribleSubs] Utakoi - 02 [720p].mkv
 !new/.ec/[KiteSeekers-Wasurenai-Licca] The Story of Perrine - 47 [DVD H264 Hi10P 640x480] [81DDAD73].mkv
 !new/.ec/[KiteSeekers-Wasurenai-Licca] The Story of Perrine - 48 [DVD H264 Hi10P 640x480] [A0E96F49].mkv
@@ -45,6 +47,7 @@
 !new/.ec/[Over-Time]_Spec-Ops_Cell_Go-Busters_-_20_[AB50C327].mkv
 !new/.ec/[Shin-S] Kyoukai Senjou no Horizon II OP Single - ZONE ALONE [Chihara Minori].zip
 !new/.ec/[Underwater] Rinne no Lagrange - 13 (720p) [D935DE0D].mkv
+!new/.ec/[WhyNot] Phi Brain - Kami no Puzzle S2 - 14 [D70F7CE8].mkv
 !new/.ec/[gg]_Joshiraku_-_01_[51DDCEF5].mkv
 !new/.ec/[sage]_Mobile_Suit_Gundam_AGE_-_39_[720p][10bit][425DB276].mkv
 !new/.ec/dakara01v2patch.rar
