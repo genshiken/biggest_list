@@ -86,8 +86,11 @@
 !new/.ec/[HorribleSubs] Hunter X Hunter - 39 [720p].mkv
 !new/.ec/[HorribleSubs] Kuroko's Basketball - 15 [720p].mkv
 !new/.ec/[HorribleSubs] Polar Bear Cafe - 15 [720p].mkv
+!new/.ec/[HorribleSubs] Poyopoyo - 28 [720p].mkv
 !new/.ec/[HorribleSubs] SKET Dance - 66 [720p].mkv
+!new/.ec/[HorribleSubs] The Knight in the Area - 26 [720p].mkv
 !new/.ec/[HorribleSubs] Utakoi - 02 [720p].mkv
+!new/.ec/[HorribleSubs] Yurumate3Dei - 15 [720p].mkv
 !new/.ec/[KiteSeekers-Wasurenai-Licca] The Story of Perrine - 47 [DVD H264 Hi10P 640x480] [81DDAD73].mkv
 !new/.ec/[KiteSeekers-Wasurenai-Licca] The Story of Perrine - 48 [DVD H264 Hi10P 640x480] [A0E96F49].mkv
 !new/.ec/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream - 31 [H264 1024x576] [7EB4996D].mkv
@@ -98,8 +101,13 @@
 !new/.ec/[ReDone] Lovedol ~ Lovely Idol - 01 (DVD) [34AF30FB].mkv
 !new/.ec/[Shin-S] Kyoukai Senjou no Horizon II OP Single - ZONE ALONE [Chihara Minori].zip
 !new/.ec/[SubDESU] Hagure Yuusha no Estetica - 01 (1280x720 x264 AAC) [AD2EB721].mkv
+!new/.ec/[SubDESU] Hagure Yuusha no Estetica - 02 (1280x720 x264 AAC) [B38E1F4D].mkv
+!new/.ec/[UTW]_Accel_World_-_14_[h264-720p][80310C3D].mkv
+!new/.ec/[UTW]_Kono_Naka_ni_Hitori_Imouto_ga_Iru_-_02_[h264-720p][4333146D].mkv
 !new/.ec/[Underwater] Rinne no Lagrange - 13 (720p) [D935DE0D].mkv
 !new/.ec/[WhyNot] Phi Brain - Kami no Puzzle S2 - 14 [D70F7CE8].mkv
+!new/.ec/[gg]_Binbougami_ga!_-_02_[1AF9E512].mkv
+!new/.ec/[gg]_EUREKA_SEVEN_AO_-_13_[3A595BE2].mkv
 !new/.ec/[gg]_Joshiraku_-_01_[51DDCEF5].mkv
 !new/.ec/[sage]_Mobile_Suit_Gundam_AGE_-_39_[720p][10bit][425DB276].mkv
 !new/.ec/dakara01v2patch.rar
