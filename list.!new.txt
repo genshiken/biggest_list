@@ -75,9 +75,13 @@
 !new/.ec/[DmonHiro] Itsuka Tenma No Kuro Usagi P1 - Let's Just Do It Radio! (DVD, 480p) [97E60007].mkv
 !new/.ec/[DmonHiro] Rinne No Lagrange S4 - Kamogawa Ghost (BD, 720p, AAC) [4174BADE].mkv
 !new/.ec/[Doremi-Oyatsu] Ginga e Kickoff!! - 14 (1280x720 8bit h264 AAC) [E40D5B40].mkv
+!new/.ec/[Doremi].Precure.All-Stars.New.Stage.Movie.DVD.[848x480].[07AC1CC0].mkv
 !new/.ec/[Doremi].Smile.Precure!.22.[1280x720].[F7D2960C].mkv
 !new/.ec/[Doremi].Smile.Precure!.23.[1280x720].[12DA45B2].mkv
+!new/.ec/[Doremi].Yes.Pretty.Cure.5.Go.Go!.24.[1280x720].[7231CD57].mkv
+!new/.ec/[Doutei] KissDum - 15 [720p][d874eba4].mkv
 !new/.ec/[EveTaku] AKB0048 - 11 (1280x720 x264-Hi10P AAC)[C25A8BCE].mkv
+!new/.ec/[EveTaku] AKB0048 - 12 (1280x720 x264 AAC)[477CE69B].mkv
 !new/.ec/[EveTaku] Chitose Get You! - 02 (1280x720 x264-Hi10p AAC)[1A796DB4].mkv
 !new/.ec/[FBI] Dog Days S2 - 02 [720p] [10bit] [59A7E822].mkv
 !new/.ec/[FFFpeeps] Nekogami Yaoyorozu 06 [720p][669456AA].mkv
@@ -87,6 +91,7 @@
 !new/.ec/[GotWoot]_Showa_Monogatari_-_10_[19B0814D].mkv
 !new/.ec/[Gotyuu] Dakara Boku wa, H ga Dekinai 01 [Hi10P 1280x720 H264] [43C1054E].mkv
 !new/.ec/[Gotyuu] Dakara Boku wa, H ga Dekinai 01v2 [Hi10P 1280x720 H264] [00AA595C].mkv
+!new/.ec/[Gotyuu] Dakara Boku wa, H ga Dekinai 02 [Hi10P 1280x720 H264] [C4B3BF0A].mkv
 !new/.ec/[Hiryuu] Shining Hearts 12 [Hi10P 1280x720 H264] [25FD3C1D].mkv
 !new/.ec/[HorribleSubs] Cardfight!! Vanguard (Asia Circuit) - 79 [720p].mkv
 !new/.ec/[HorribleSubs] Cardfight!! Vanguard (Asia Circuit) - 80 [720p].mkv
@@ -121,6 +126,7 @@
 !new/.ec/[gg]_Joshiraku_-_01_[51DDCEF5].mkv
 !new/.ec/[gg]_Joshiraku_-_02_[296B7AA8].mkv
 !new/.ec/[gg]_Moyashimon_Returns_-_02_[14721466].mkv
+!new/.ec/[gg]_Young_Animator_Training_Project_2011_-_Dudu_the_Floatie_[85849EE3].mkv
 !new/.ec/[ray=out]_Hiatari_Ryoukou_-_01_[DVD][0EC3B858].mkv
 !new/.ec/[ray=out]_Hiatari_Ryoukou_-_02_[DVD][93F059D2].mkv
 !new/.ec/[ray=out]_Hiatari_Ryoukou_-_03_[DVD][D1555813].mkv
