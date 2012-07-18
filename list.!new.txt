@@ -17,6 +17,7 @@
 !new/.ec/[ASL]_mao_-_FOReST_[FLAC]_[w_Scans].rar
 !new/.ec/[CMS] Marimo no Hana OVA [DVD][95047E20].mkv
 !new/.ec/[COOL]_Computer_Kakumei_[720p][85465E0F].mkv
+!new/.ec/[COOL]_Tamayura_~hitotose~_-_5.5_[BD][720p][97B7C6FB].mkv
 !new/.ec/[Coalgirls]_Rinne_no_Lagrange_07_(1280x720_Blu-Ray_FLAC)_[94471746].mkv
 !new/.ec/[Coalgirls]_Rinne_no_Lagrange_08_(1280x720_Blu-Ray_FLAC)_[BAC2B060].mkv
 !new/.ec/[Coalgirls]_Rinne_no_Lagrange_SP1_(1280x720_Blu-Ray_FLAC)_[8FEFC8AC].mkv
@@ -36,13 +37,16 @@
 !new/.ec/[Commie] Muv-Luv Alternative - Total Eclipse - 03 [4B90ADD5].mkv
 !new/.ec/[Commie] Natsuyuki Rendezvous - 02 [D2B42ED0].mkv
 !new/.ec/[Commie] Oda Nobuna no Yabou - 01 [5190EA77].mkv
+!new/.ec/[Commie] Oda Nobuna no Yabou - 02 [A9876C34].mkv
 !new/.ec/[Commie] Rinne no Lagrange - 13 [D6282E61].mkv
 !new/.ec/[Commie] Rinne no Lagrange - 14 [571A83BE].mkv
 !new/.ec/[Commie] Space Brothers - 15 [AE565187].mkv
 !new/.ec/[Commie] Space Brothers - 16 [8F283047].mkv
 !new/.ec/[Commie] Sword Art Online - 02 [B64E2359].mkv
 !new/.ec/[Commie] Tari Tari - 02 [F90F246D].mkv
+!new/.ec/[Commie] Tari Tari - 03 [51DC79FE].mkv
 !new/.ec/[Commie] Yuru Yuri♪♪ - 02 [9420278F].mkv
+!new/.ec/[Commie] Yuru Yuri♪♪ - 03 [4190558D].mkv
 !new/.ec/[DmonHiro] Itsuka Tenma No Kuro Usagi - Bluray Menu I (BD, 720p) [98ADEE6B].mkv
 !new/.ec/[DmonHiro] Itsuka Tenma No Kuro Usagi - Bluray Menu II (BD, 720p) [2F58ED52].mkv
 !new/.ec/[DmonHiro] Itsuka Tenma No Kuro Usagi - Bluray Menu III (BD, 720p) [1EFC3B18].mkv
@@ -76,10 +80,12 @@
 !new/.ec/[DmonHiro] Itsuka Tenma No Kuro Usagi P1 - Let's Just Do It Radio! (DVD, 480p) [97E60007].mkv
 !new/.ec/[DmonHiro] Rinne No Lagrange S4 - Kamogawa Ghost (BD, 720p, AAC) [4174BADE].mkv
 !new/.ec/[Doremi-Oyatsu] Ginga e Kickoff!! - 14 (1280x720 8bit h264 AAC) [E40D5B40].mkv
+!new/.ec/[Doremi-Oyatsu] Ginga e Kickoff!! - 15 (1280x720 8bit h264 AAC) [FA42A21E].mkv
 !new/.ec/[Doremi].Precure.All-Stars.New.Stage.Movie.DVD.[848x480].[07AC1CC0].mkv
 !new/.ec/[Doremi].Smile.Precure!.22.[1280x720].[F7D2960C].mkv
 !new/.ec/[Doremi].Smile.Precure!.23.[1280x720].[12DA45B2].mkv
 !new/.ec/[Doremi].Yes.Pretty.Cure.5.Go.Go!.24.[1280x720].[7231CD57].mkv
+!new/.ec/[Doremi].Yes.Pretty.Cure.5.Go.Go!.25.[1280x720].[97D0ECCC].mkv
 !new/.ec/[Doutei] KissDum - 15 [720p][d874eba4].mkv
 !new/.ec/[EveTaku] AKB0048 - 11 (1280x720 x264-Hi10P AAC)[C25A8BCE].mkv
 !new/.ec/[EveTaku] AKB0048 - 12 (1280x720 x264 AAC)[477CE69B].mkv
