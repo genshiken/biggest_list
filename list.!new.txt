@@ -90,6 +90,7 @@
 !new/.ec/[EveTaku] AKB0048 - 11 (1280x720 x264-Hi10P AAC)[C25A8BCE].mkv
 !new/.ec/[EveTaku] AKB0048 - 12 (1280x720 x264 AAC)[477CE69B].mkv
 !new/.ec/[EveTaku] Chitose Get You! - 02 (1280x720 x264-Hi10p AAC)[1A796DB4].mkv
+!new/.ec/[EveTaku] Chitose Get You! - 03 (1280x720 x264-Hi10p AAC)[AE09AFB8].mkv
 !new/.ec/[FBI] Dog Days S2 - 02 [720p] [10bit] [59A7E822].mkv
 !new/.ec/[FFFpeeps] Nekogami Yaoyorozu 06 [720p][669456AA].mkv
 !new/.ec/[FFFpeeps] Sengoku Collection - 15 [10bit][E5A24D8F].mkv
@@ -115,17 +116,22 @@
 !new/.ec/[KiteSeekers-Wasurenai-Licca] The Story of Perrine - 47 [DVD H264 Hi10P 640x480] [81DDAD73].mkv
 !new/.ec/[KiteSeekers-Wasurenai-Licca] The Story of Perrine - 48 [DVD H264 Hi10P 640x480] [A0E96F49].mkv
 !new/.ec/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream - 31 [H264 1024x576] [7EB4996D].mkv
+!new/.ec/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream - 32 [H264 1024x576] [04D665C9].mkv
 !new/.ec/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes II - 07 [1280x720 H264 OGG] [8DC7599C].mkv
 !new/.ec/[Over-Time]_Kamen_Rider_Fourze_-_42_[CF0CCD86].mkv
 !new/.ec/[Over-Time]_Spec-Ops_Cell_Go-Busters_-_20_[AB50C327].mkv
+!new/.ec/[Over-Time]_Spec-Ops_Cell_Go-Busters_-_21_[FF4985EE].mkv
 !new/.ec/[Pomf] Koi to Senkyo to Chocolate - 02 [97981753].mkv
+!new/.ec/[RandomRemux] Hagure Yuusha no Estetica - 01 [1280x720][4411ADF4].mkv
 !new/.ec/[ReDone] Lovedol ~ Lovely Idol - 01 (DVD) [34AF30FB].mkv
 !new/.ec/[Shin-S] Kyoukai Senjou no Horizon II OP Single - ZONE ALONE [Chihara Minori].zip
 !new/.ec/[SubDESU] Hagure Yuusha no Estetica - 01 (1280x720 x264 AAC) [AD2EB721].mkv
 !new/.ec/[SubDESU] Hagure Yuusha no Estetica - 02 (1280x720 x264 AAC) [B38E1F4D].mkv
+!new/.ec/[UTW-Mazui]_Kill_Me_Baby_-_01v2_[h264-720p][D277F47D].mkv
 !new/.ec/[UTW]_Accel_World_-_14_[h264-720p][80310C3D].mkv
 !new/.ec/[UTW]_Kono_Naka_ni_Hitori_Imouto_ga_Iru_-_02_[h264-720p][4333146D].mkv
 !new/.ec/[Underwater] Rinne no Lagrange - 13 (720p) [D935DE0D].mkv
+!new/.ec/[Underwater] Rinne no Lagrange - 14 (720p) [C1A91CB5].mkv
 !new/.ec/[WhyNot] Phi Brain - Kami no Puzzle S2 - 14 [D70F7CE8].mkv
 !new/.ec/[WhyNot] Utakoi - 01 [3BC0434C].mkv
 !new/.ec/[gg]_Binbougami_ga!_-_02_[1AF9E512].mkv
