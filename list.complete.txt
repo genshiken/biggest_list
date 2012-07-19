@@ -3338,6 +3338,7 @@ complete/c/Colorful/[anime.fin] Colorful - 15 [DVD][706CCEE0].ogm
 complete/c/Colorful/[anime.fin] Colorful - 16 [End][DVD][81918FA4].ogm
 complete/c/Colorful/[anime.fin] Colorful - Credits Episodes 1-8 [DVD][C8A8FBBA].ogm
 complete/c/Colorful/[anime.fin] Colorful - Credits Episodes 9-16 [DVD][8DBB3927].ogm
+complete/c/Computer Kakumei/[COOL] Computer Kakumei [720p][85465E0F].mkv
 complete/c/Cosprayers DVD/[Triad] Cosprayers DVD - 1 [68A8B179].avi
 complete/c/Cosprayers DVD/[Triad] Cosprayers DVD - 2 [0D374E93].avi
 complete/c/Cosprayers DVD/[Triad] Cosprayers DVD - 3 [End][8C0C5C19].avi
@@ -5267,27 +5268,17 @@ complete/f/Fate-Zero/[UTW] Fate-Zero - 01 [720p BD][02A0491D].mkv
 complete/f/Fate-Zero/[UTW] Fate-Zero - 02 [720p BD][8AB2BF54].mkv
 complete/f/Fate-Zero/[UTW] Fate-Zero - 03 [720p BD][C9AEDDFB].mkv
 complete/f/Fate-Zero/[UTW] Fate-Zero - 04 [720p][3A05B4E1].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 05 [720p][0F358C5F].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 05 [720p BD][F82B7255].mkv
 complete/f/Fate-Zero/[UTW] Fate-Zero - 06 [720p][A60AB23E].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 07 [720p][69FCAE19].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 08 [720p][7E69E99B].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 09 [720p][B5FE3AE1].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 07 [720p BD][2382A6D6].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 08 [720p BD][CC730259].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 09 [720p BD][FFD3A087].mkv
 complete/f/Fate-Zero/[UTW] Fate-Zero - 10 [720p][62B3B6F2].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 11 [Uncut][720p][3E3D54D7].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 12 [720p][6E06166B].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 13 [720p][03D313F7].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 14 [720p][AB516053].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 15 [720p][51AC7CBC].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 16 [720p][02A33212].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 17 [720p][E8DF551F].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 18 [720p][3901FC95].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 19 [720p][EE7D8586].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 20 [720p][AF35659F].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 21 [720p][BCB5C808].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 22 [720p][6F59864F].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 23 [720p][9D61C8BD].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 24 [720p][583D3DBB].mkv
-complete/f/Fate-Zero/[UTW] Fate-Zero - 25 [End][720p][DEBA6F45].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 11 [720p BD][5D482629].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 12 [720p BD][BE2243F3].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - 13 [720p BD][6B89F389].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - Special 01 [720p BD][6A781142].mkv
+complete/f/Fate-Zero/[UTW] Fate-Zero - Special 02 [720p BD][950E179C].mkv
 complete/f/Fate-stay night - TV Reproduction/[3xR-FLsnow] Fate-stay night - TV Reproduction - 1 [1080p BD][96AF6C65].mkv
 complete/f/Fate-stay night - TV Reproduction/[3xR-FLsnow] Fate-stay night - TV Reproduction - 2 [End][1080p BD][63B375B6].mkv
 complete/f/Fate-stay night/[Thora] Fate-stay night - 01 [v2 720p BD][19652C3A].mkv
@@ -9494,6 +9485,19 @@ complete/i/Iriya's Sky, Summer of UFOs/[ReDone] Iriya's Sky, Summer of UFOs - 3 
 complete/i/Iriya's Sky, Summer of UFOs/[ReDone] Iriya's Sky, Summer of UFOs - 4 [DVD][F159EE2D].mkv
 complete/i/Iriya's Sky, Summer of UFOs/[ReDone] Iriya's Sky, Summer of UFOs - 5 [DVD][B222B3F6].mkv
 complete/i/Iriya's Sky, Summer of UFOs/[ReDone] Iriya's Sky, Summer of UFOs - 6 [End][DVD][6A766FAD].mkv
+complete/i/Isekai no Seikishi Monogatari/[Hakubi] Isekai no Seikishi Monogatari - 13 [End][282A227A].mkv
+complete/i/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 01 [720p BD][13658A69].mkv
+complete/i/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 02 [720p BD][50F35264].mkv
+complete/i/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 03 [720p BD][081AF9DD].mkv
+complete/i/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 04 [720p BD][BA70CF68].mkv
+complete/i/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 05 [720p BD][ECA143D6].mkv
+complete/i/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 06 [720p BD][515CB4BC].mkv
+complete/i/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 07 [720p BD][9B0AB523].mkv
+complete/i/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 08 [720p BD][02656E90].mkv
+complete/i/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 09 [720p BD][7DB91636].mkv
+complete/i/Isekai no Seikishi Monogatari/[Wasurenai] Isekai no Seikishi Monogatari - 10 [720p BD][21AF365C].mkv
+complete/i/Isekai no Seikishi Monogatari/[Wasurenai] Isekai no Seikishi Monogatari - 11 [720p BD][5AE211C7].mkv
+complete/i/Isekai no Seikishi Monogatari/[Wasurenai] Isekai no Seikishi Monogatari - 12 [720p BD][DE6B80BA].mkv
 complete/i/Itazura na Kiss/[BakaWolf-m.3.3.w] Itazura na Kiss - 01 [1A141A3E].mkv
 complete/i/Itazura na Kiss/[BakaWolf-m.3.3.w] Itazura na Kiss - 02 [v2][ECC19631].mkv
 complete/i/Itazura na Kiss/[BakaWolf-m.3.3.w] Itazura na Kiss - 03 [E02862C4].mkv
@@ -9517,6 +9521,7 @@ complete/i/Itazura na Kiss/[Jumonji-Giri] Itazura na Kiss - 04 [9D62F57D].mkv
 complete/i/Itazura na Kiss/[Jumonji-Giri] Itazura na Kiss - 05 [9FBD21A4].mkv
 complete/i/Itazura na Kiss/[Jumonji-Giri] Itazura na Kiss - 06 [3056B225].mkv
 complete/i/Itazura na Kiss/[Jumonji-Giri] Itazura na Kiss - 07 [D9434ED7].mkv
+complete/i/Itazura na Kiss/[Jumonji-Giri] Itazura na Kiss - 08 [111004B5].mkv
 complete/i/Itazura na Kiss/[m.3.3.w] Itazura na Kiss - 17 [63D41529].mkv
 complete/i/Itazura na Kiss/[m.3.3.w] Itazura na Kiss - 18 [F3094E87].mkv
 complete/i/Itazura na Kiss/[m.3.3.w] Itazura na Kiss - 19 [95BA164C].mkv
@@ -9526,19 +9531,14 @@ complete/i/Itazura na Kiss/[m.3.3.w] Itazura na Kiss - 22 [0FCB456A].mkv
 complete/i/Itazura na Kiss/[m.3.3.w] Itazura na Kiss - 23 [81DB1DDB].mkv
 complete/i/Itazura na Kiss/[m.3.3.w] Itazura na Kiss - 24 [2C8BED60].mkv
 complete/i/Itazura na Kiss/[m.3.3.w] Itazura na Kiss - 25 [End][D362D101].mkv
-complete/i/Itsuka Tenma no Kuro Usagi OVA/[Derp] Itsuka Tenma no Kuro Usagi OVA [DVD][96C8A866].mkv
-complete/i/Itsuka Tenma no Kuro Usagi/[Derp] Itsuka Tenma no Kuro Usagi - 01 [v2 720p][F1C5BF4D].mkv
-complete/i/Itsuka Tenma no Kuro Usagi/[Derp] Itsuka Tenma no Kuro Usagi - 02 [720p][2FEF0330].mkv
-complete/i/Itsuka Tenma no Kuro Usagi/[Derp] Itsuka Tenma no Kuro Usagi - 03 [720p][B9490AAE].mkv
-complete/i/Itsuka Tenma no Kuro Usagi/[Derp] Itsuka Tenma no Kuro Usagi - 04 [720p][8CBC0E14].mkv
-complete/i/Itsuka Tenma no Kuro Usagi/[Derp] Itsuka Tenma no Kuro Usagi - 05 [720p][471E2E2E].mkv
-complete/i/Itsuka Tenma no Kuro Usagi/[Derp] Itsuka Tenma no Kuro Usagi - 06 [720p][DB747610].mkv
-complete/i/Itsuka Tenma no Kuro Usagi/[Derp] Itsuka Tenma no Kuro Usagi - 07 [720p][84342E98].mkv
-complete/i/Itsuka Tenma no Kuro Usagi/[Derp] Itsuka Tenma no Kuro Usagi - 08 [720p][D6C786B0].mkv
-complete/i/Itsuka Tenma no Kuro Usagi/[Derp] Itsuka Tenma no Kuro Usagi - 09 [720p][FF4FCE8F].mkv
-complete/i/Itsuka Tenma no Kuro Usagi/[Derp] Itsuka Tenma no Kuro Usagi - 10 [720p][48E0FA8D].mkv
-complete/i/Itsuka Tenma no Kuro Usagi/[Derp] Itsuka Tenma no Kuro Usagi - 11 [720p][7259D2B5].mkv
-complete/i/Itsuka Tenma no Kuro Usagi/[Derp] Itsuka Tenma no Kuro Usagi - 12 [End][720p][1966CC3D].mkv
+complete/i/Itsuka Tenma no Kuro Usagi/[DmonHiro] Itsuka Tenma No Kuro Usagi - 06 [720p BD][E8335968].mkv
+complete/i/Itsuka Tenma no Kuro Usagi/[DmonHiro] Itsuka Tenma No Kuro Usagi - 07 [720p BD][FE78F966].mkv
+complete/i/Itsuka Tenma no Kuro Usagi/[DmonHiro] Itsuka Tenma No Kuro Usagi - 08 [720p BD][D34E6C5C].mkv
+complete/i/Itsuka Tenma no Kuro Usagi/[DmonHiro] Itsuka Tenma No Kuro Usagi - 09 [720p BD][C46067E2].mkv
+complete/i/Itsuka Tenma no Kuro Usagi/[DmonHiro] Itsuka Tenma No Kuro Usagi - 10 [720p BD][65D11282].mkv
+complete/i/Itsuka Tenma no Kuro Usagi/[DmonHiro] Itsuka Tenma No Kuro Usagi - 11 [720p BD][E9F96770].mkv
+complete/i/Itsuka Tenma no Kuro Usagi/[DmonHiro] Itsuka Tenma No Kuro Usagi - 12 [End][720p BD][156B2BC7].mkv
+complete/i/Itsuka Tenma no Kuro Usagi/[DmonHiro] Itsuka Tenma No Kuro Usagi - 13 OVA [DVD][E13E109B].mkv
 complete/i/Itsuka Tenma no Kuro Usagi/[DmonHiro] Itsuka Tenma No Kuro Usagi - Ending 1 (Clean) [720p BD][27BF274D].mkv
 complete/i/Itsuka Tenma no Kuro Usagi/[DmonHiro] Itsuka Tenma No Kuro Usagi - Ending 2 (Clean) [720p BD][AEFA2160].mkv
 complete/i/Itsuka Tenma no Kuro Usagi/[DmonHiro] Itsuka Tenma No Kuro Usagi - Ending 3 (Clean) [720p BD][BBE0CB37].mkv
@@ -9561,7 +9561,6 @@ complete/i/Izumo/[AnA] Izumo - 09 [99C7B790].avi
 complete/i/Izumo/[AnA] Izumo - 10 [5E4D4081].avi
 complete/i/Izumo/[AnA] Izumo - 11 [D8FED1F9].avi
 complete/i/Izumo/[AnA] Izumo - 12 [End][1639E895].avi
-complete/i/[Jumonji-Giri] Itazura na Kiss - 08 [111004B5].mkv
 complete/i/iDOLM@STER Xenoglossia/[B-G & BakaWolf] iDOLM@STER Xenoglossia - 18 [DVD][3AA5B094].mkv
 complete/i/iDOLM@STER Xenoglossia/[B-G & BakaWolf] iDOLM@STER Xenoglossia - 19 [DVD][7B2F7CF7].mkv
 complete/i/iDOLM@STER Xenoglossia/[B-G & BakaWolf] iDOLM@STER Xenoglossia - 20 [DVD][0A17C54D].mkv
@@ -12078,6 +12077,23 @@ complete/l/Literature Girl - Today's Snack - First Love/[Monokage] Literature Gi
 complete/l/Literature Girl Memoir/[Monokage] Literature Girl Memoir - 1 [0B3A1FCC].mkv
 complete/l/Literature Girl Memoir/[Monokage] Literature Girl Memoir - 2 [143BCFD8].mkv
 complete/l/Literature Girl Memoir/[Monokage] Literature Girl Memoir - 3 [End][C886F1F9].mkv
+complete/l/Lord of Lords Ryu Knight - Adeu's Legend 2/[AW] Lord of Lords Ryu Knight - Adeu's Legend 2 - 1 [933DE267].avi
+complete/l/Lord of Lords Ryu Knight - Adeu's Legend 2/[AW] Lord of Lords Ryu Knight - Adeu's Legend 2 - 2 [43ECD8FA].avi
+complete/l/Lord of Lords Ryu Knight - Adeu's Legend 2/[AW] Lord of Lords Ryu Knight - Adeu's Legend 2 - 3 [End][A1FD2161].avi
+complete/l/Lord of Lords Ryu Knight - Adeu's Legend Final/[AW] Lord of Lords Ryu Knight - Adeu's Legend Final [7FDE8F01].avi
+complete/l/Lord of Lords Ryu Knight - Adeu's Legend/[AW] Lord of Lords Ryu Knight - Adeu's Legend - 01 [4E1991E0].avi
+complete/l/Lord of Lords Ryu Knight - Adeu's Legend/[AW] Lord of Lords Ryu Knight - Adeu's Legend - 02 [EAE9880B].avi
+complete/l/Lord of Lords Ryu Knight - Adeu's Legend/[AW] Lord of Lords Ryu Knight - Adeu's Legend - 03 [DFA9A18A].avi
+complete/l/Lord of Lords Ryu Knight - Adeu's Legend/[AW] Lord of Lords Ryu Knight - Adeu's Legend - 04 [5C2EA818].avi
+complete/l/Lord of Lords Ryu Knight - Adeu's Legend/[AW] Lord of Lords Ryu Knight - Adeu's Legend - 05 [DCC80A26].avi
+complete/l/Lord of Lords Ryu Knight - Adeu's Legend/[AW] Lord of Lords Ryu Knight - Adeu's Legend - 06 [7367B8A1].avi
+complete/l/Lord of Lords Ryu Knight - Adeu's Legend/[AW] Lord of Lords Ryu Knight - Adeu's Legend - 07 [87F55EBE].avi
+complete/l/Lord of Lords Ryu Knight - Adeu's Legend/[AW] Lord of Lords Ryu Knight - Adeu's Legend - 08 [BA1B6E75].avi
+complete/l/Lord of Lords Ryu Knight - Adeu's Legend/[AW] Lord of Lords Ryu Knight - Adeu's Legend - 09 [ECBB8249].avi
+complete/l/Lord of Lords Ryu Knight - Adeu's Legend/[AW] Lord of Lords Ryu Knight - Adeu's Legend - 10 [3DD73739].avi
+complete/l/Lord of Lords Ryu Knight - Adeu's Legend/[AW] Lord of Lords Ryu Knight - Adeu's Legend - 11 [61B01DBA].avi
+complete/l/Lord of Lords Ryu Knight - Adeu's Legend/[AW] Lord of Lords Ryu Knight - Adeu's Legend - 12 [734DA027].avi
+complete/l/Lord of Lords Ryu Knight - Adeu's Legend/[AW] Lord of Lords Ryu Knight - Adeu's Legend - 13 [End][0F03BA3D].avi
 complete/l/Lord of Lords Ryu Knight/[Triad] Lord of Lords Ryu Knight - 01 [750B547A].avi
 complete/l/Lord of Lords Ryu Knight/[Triad] Lord of Lords Ryu Knight - 02 [06FFB46D].avi
 complete/l/Lord of Lords Ryu Knight/[Triad] Lord of Lords Ryu Knight - 03 [3ACF5677].avi
@@ -13627,6 +13643,7 @@ complete/m/Maria-sama ga miteru OVA/[Yamayuri] Maria-sama ga miteru OVA - 2 [E39
 complete/m/Maria-sama ga miteru OVA/[Yamayuri] Maria-sama ga miteru OVA - 3 [ADF8E8D6].mkv
 complete/m/Maria-sama ga miteru OVA/[Yamayuri] Maria-sama ga miteru OVA - 4 [591F6D9D].mkv
 complete/m/Maria-sama ga miteru OVA/[Yamayuri] Maria-sama ga miteru OVA - 5 [End][A6142C7F].mkv
+complete/m/Marimo no Hana OVA/[CMS] Marimo no Hana OVA [DVD][95047E20].mkv
 complete/m/Mars Daybreak/[V-A] Mars Daybreak - 01 [CC383E33].mkv
 complete/m/Mars Daybreak/[V-A] Mars Daybreak - 02 [A4822E32].mkv
 complete/m/Mars Daybreak/[V-A] Mars Daybreak - 03 [6A048608].mkv
@@ -17114,6 +17131,9 @@ complete/r/Red Garden/[gg] Red Garden - 19 [AFFAB943].mkv
 complete/r/Red Garden/[gg] Red Garden - 20 [90F36903].mkv
 complete/r/Red Garden/[gg] Red Garden - 21 [994CB7B1].mkv
 complete/r/Red Garden/[gg] Red Garden - 22 [End][982CF2BF].mkv
+complete/r/Refrain Blue OVA/[Tsundere] Refrain Blue OVA - 1 [DVD][97A050CA].mkv
+complete/r/Refrain Blue OVA/[Tsundere] Refrain Blue OVA - 2 [DVD][17454BE5].mkv
+complete/r/Refrain Blue OVA/[Tsundere] Refrain Blue OVA - 3 [End][DVD][D7B5B98F].mkv
 complete/r/Regios/[Yuurisan-Subs] Regios - 01 [v2][DVD][C2A88895].mkv
 complete/r/Regios/[Yuurisan-Subs] Regios - 02 [v2][DVD][846F6C7D].mkv
 complete/r/Regios/[Yuurisan-Subs] Regios - 03 [v2][DVD][D2723917].mkv

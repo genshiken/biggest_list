@@ -861,6 +861,7 @@ ongoing/Fairy Tail/Fairy Tail - 135 [HorribleSubs][720p][A9505E3A].mkv
 ongoing/Fairy Tail/Fairy Tail - 136 [HorribleSubs][720p][84140A97].mkv
 ongoing/Fairy Tail/Fairy Tail - 137 [HorribleSubs][720p][886E30EB].mkv
 ongoing/Fairy Tail/Fairy Tail - 138 [HorribleSubs][720p][1F5C692E].mkv
+ongoing/Fairy Tail/Fairy Tail - 139 [HorribleSubs][720p][BA266FFF].mkv
 ongoing/Ginga e Kickoff!!/[Doremi-Oyatsu] Ginga e Kickoff!! - 01 [720p][E2CFBEEA].mkv
 ongoing/Ginga e Kickoff!!/[Doremi-Oyatsu] Ginga e Kickoff!! - 02 [720p][D3D54DF4].mkv
 ongoing/Ginga e Kickoff!!/[Doremi-Oyatsu] Ginga e Kickoff!! - 03 [720p][2CA51A40].mkv
@@ -2315,8 +2316,11 @@ ongoing/Rinne no Lagrange/[Coalgirls] Rinne no Lagrange - 03 [720p BD][E44615F7]
 ongoing/Rinne no Lagrange/[Coalgirls] Rinne no Lagrange - 04 [720p BD][5254645B].mkv
 ongoing/Rinne no Lagrange/[Coalgirls] Rinne no Lagrange - 05 [720p BD][8B7ADEB5].mkv
 ongoing/Rinne no Lagrange/[Coalgirls] Rinne no Lagrange - 06 [720p BD][C1BC72C5].mkv
-ongoing/Rinne no Lagrange/[Commie] Rinne no Lagrange - 07 [D5359E9B].mkv
-ongoing/Rinne no Lagrange/[Commie] Rinne no Lagrange - 08 [17683D78].mkv
+ongoing/Rinne no Lagrange/[Coalgirls] Rinne no Lagrange - 07 [720p BD][94471746].mkv
+ongoing/Rinne no Lagrange/[Coalgirls] Rinne no Lagrange - 08 [720p BD][BAC2B060].mkv
+ongoing/Rinne no Lagrange/[Coalgirls] Rinne no Lagrange - Special 1 [720p BD][8FEFC8AC].mkv
+ongoing/Rinne no Lagrange/[Coalgirls] Rinne no Lagrange - Special 2 [720p BD][0C559386].mkv
+ongoing/Rinne no Lagrange/[Coalgirls] Rinne no Lagrange - Special 3 [720p BD][1E4841C9].mkv
 ongoing/Rinne no Lagrange/[Commie] Rinne no Lagrange - 09 [C1864503].mkv
 ongoing/Rinne no Lagrange/[Commie] Rinne no Lagrange - 10 [5871E392].mkv
 ongoing/Rinne no Lagrange/[Commie] Rinne no Lagrange - 11 [00DB9687].mkv
@@ -2563,6 +2567,8 @@ ongoing/Toriko/[A-Destiny] Toriko - 60 [720p][DAFF3ABE].mkv
 ongoing/Toriko/[A-Destiny] Toriko - 61 [720p][0D5A095F].mkv
 ongoing/Toriko/[A-Destiny] Toriko - 62 [720p][566B656A].mkv
 ongoing/Toriko/[A-Destiny] Toriko - 63 [720p][8DD7078E].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 64 [720p][448E0201].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 65 [720p][A4873633].mkv
 ongoing/Utakoi/[HorribleSubs] Utakoi - 02 [720p][F4BF5588].mkv
 ongoing/Utakoi/[WhyNot] Utakoi - 01 [3BC0434C].mkv
 ongoing/Young Animator Training Project 2011/[gg] Young Animator Training Project 2011 - Dudu the Floatie [85849EE3].mkv

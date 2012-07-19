@@ -775,6 +775,7 @@ incomplete/Hiatari Ryoukou/[ray=out] Hiatari Ryoukou - 09 [DVD][635E750D].mkv
 incomplete/Hiatari Ryoukou/[ray=out] Hiatari Ryoukou - 10 [DVD][8979516E].mkv
 incomplete/Hiatari Ryoukou/[ray=out] Hiatari Ryoukou - 11 [DVD][9960F0DC].mkv
 incomplete/Hiatari Ryoukou/[ray=out] Hiatari Ryoukou - 12 [DVD][665F3F23].mkv
+incomplete/Higurashi no Naku Koro ni Kira OVA/[CMS] Higurashi no Naku Koro ni Kira - 4 [End][720p BD][D74DAAD2].mkv
 incomplete/Higurashi no Naku Koro ni Kira OVA/[Derp] Higurashi no Naku Koro ni Kira OVA - 01 [1080p BD][4F647F76].mkv
 incomplete/Higurashi no Naku Koro ni Kira OVA/[Whine-Subs] Higurashi no Naku Koro ni Kira OVA - 02 [720p BD][B5EC718D].mkv
 incomplete/Hime-chan's Ribbon/[h-b] Hime-chan's Ribbon - 01 [E3FEC3B1].avi
@@ -838,18 +839,6 @@ incomplete/Iron Man/[Force-Works] Iron Man - 09 [F222DA32].mkv
 incomplete/Iron Man/[Force-Works] Iron Man - 10 [5B1A228E].mkv
 incomplete/Iron Man/[Force-Works] Iron Man - 11 [6392CE13].mkv
 incomplete/Iron Man/[Force-Works] Iron Man - 12 [9B1A4339].mkv
-incomplete/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 01 [720p BD][13658A69].mkv
-incomplete/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 02 [720p BD][50F35264].mkv
-incomplete/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 03 [720p BD][081AF9DD].mkv
-incomplete/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 04 [720p BD][BA70CF68].mkv
-incomplete/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 05 [720p BD][ECA143D6].mkv
-incomplete/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 06 [720p BD][515CB4BC].mkv
-incomplete/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 07 [720p BD][9B0AB523].mkv
-incomplete/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 08 [720p BD][02656E90].mkv
-incomplete/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 09 [720p BD][7DB91636].mkv
-incomplete/Isekai no Seikishi Monogatari/[Wasurenai] Isekai no Seikishi Monogatari - 10 [720p BD][21AF365C].mkv
-incomplete/Isekai no Seikishi Monogatari/[Wasurenai] Isekai no Seikishi Monogatari - 11 [720p BD][5AE211C7].mkv
-incomplete/Isekai no Seikishi Monogatari/[Wasurenai] Isekai no Seikishi Monogatari - 12 [720p BD][DE6B80BA].mkv
 incomplete/Jewelpet/[mSubs] Jewelpet - 01 [720p][AA1D364B].mkv
 incomplete/Jigoku Shoujo Mitsuganae/[SS-Ayu] Jigoku Shoujo Mitsuganae - 01 [329008CE].mkv
 incomplete/Jigoku Shoujo Mitsuganae/[SS-Ayu] Jigoku Shoujo Mitsuganae - 02 [38A1851A].mkv
@@ -2105,6 +2094,7 @@ incomplete/Tales of Symphonia - OVA - Tethe'alla/[Formula] Tales of Symphonia - 
 incomplete/Tales of Symphonia - OVA - Tethe'alla/[Formula] Tales of Symphonia - OVA - Tethe'alla - 2 [037B522F].mkv
 incomplete/Tales of Symphonia - OVA - Tethe'alla/[Formula] Tales of Symphonia - OVA - Tethe'alla - 3 [3B1A7724].mkv
 incomplete/Tales of Symphonia - OVA - Tethe'alla/[Formula] Tales of Symphonia OVA - Tethe'alla - 4 [8F8027E6].mkv
+incomplete/Tamayura ~hitotose~/[COOL] Tamayura ~hitotose~ - 05.5 [720p BD][97B7C6FB].mkv
 incomplete/Tamayura ~hitotose~/[UTW-Mazui] Tamayura ~hitotose~ - 01 [576p][EF561C40].mkv
 incomplete/Tamayura ~hitotose~/[UTW-Mazui] Tamayura ~hitotose~ - 02 [576p][EE7F1D22].mkv
 incomplete/Tamayura ~hitotose~/[UTW-Mazui] Tamayura ~hitotose~ - 03 [576p][25E02A96].mkv
@@ -2369,6 +2359,8 @@ incomplete/Yawara/Yawara - 92 [FroZen-EviL][DVD][E4FBB5BA].mkv
 incomplete/Yawara/Yawara - 93 [FroZen-EviL][DVD][67F8B887].mkv
 incomplete/Yawara/Yawara - 94 [FroZen-EviL][DVD][1EF388F4].mkv
 incomplete/Yawara/Yawara - 95 [FroZen-EviL][DVD][4910574C].mkv
+incomplete/Yawara/Yawara - 96 [FroZen-EviL][DVD][C651DF65].mkv
+incomplete/Yawara/Yawara - 97 [FroZen-EviL][DVD][0F2946D8].mkv
 incomplete/Yebisu Celebrities/[aarinfantasy] Yebisu Celebrities - 1 [B5BC8C8D].avi
 incomplete/Yes! PreCure 5/[PCSS] Yes! Pretty Cure 5 - 27 [DVD][B37C6BAF].mkv
 incomplete/Yes! PreCure 5/[PCSS] Yes! Pretty Cure 5 - 30 [DVD][F2C4D766].mkv
