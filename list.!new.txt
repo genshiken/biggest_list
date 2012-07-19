@@ -123,6 +123,7 @@
 !new/.ec/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream - 32 [H264 1024x576] [04D665C9].mkv
 !new/.ec/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes II - 07 [1280x720 H264 OGG] [8DC7599C].mkv
 !new/.ec/[Over-Time]_Kamen_Rider_Fourze_-_42_[CF0CCD86].mkv
+!new/.ec/[Over-Time]_Kamen_Rider_Fourze_-_43_[3CB042F9].mkv
 !new/.ec/[Over-Time]_Spec-Ops_Cell_Go-Busters_-_20_[AB50C327].mkv
 !new/.ec/[Over-Time]_Spec-Ops_Cell_Go-Busters_-_21_[FF4985EE].mkv
 !new/.ec/[Pomf] Koi to Senkyo to Chocolate - 02 [97981753].mkv
@@ -200,6 +201,7 @@
 !new/.ec/musik/[Shin-S] Yuru Yuri 2 OP Single - Yes! Yuyuyu Yuru Yuri (FLAC) [Various].zip
 !new/.ec/musik/[Shin-S] Yuru Yuri 2 OP Single - Yes! Yuyuyu Yuru Yuri [Various].zip
 !new/.ec/ok/Fairy Tail - 138 [HorribleSubs][720p][1F5C692E].mkv
+!new/.ec/ok/Tanken Driland/[sage] Tanken Driland - 01 [720p][3E3EA170].mkv
 !new/.ec/ok/[A-Destiny] Kingdom - 05 [720p][F75430DD].mkv
 !new/.ec/ok/[CMS] Nagareboshi Lens OVA [DVD][668F3777].mkv
 !new/.ec/ok/[Commie] Accel World - 13 [E5D4378A].mkv
@@ -218,8 +220,6 @@
 !new/.ec/ok/[Doremi] Smile Precure! - 21 [720p][1CF99205].mkv
 !new/.ec/ok/[Doremi] Yes! Pretty Cure 5 Go Go! - 23 [720p][530496E7].mkv
 !new/.ec/ok/[EveTaku] Chitose Get You! - 01 [720p][AF3650C2].mkv
-!new/.ec/ok/[FBI] Dog Days S2 - 01 [v2 720p][73E358D2].mkv
-!new/.ec/ok/[FFF] Campione! - 01 [8EAC25EE].mkv
 !new/.ec/ok/[FFFpeeps] Nekogami Yaoyorozu - 01 [v2 720p][2EAE48CE].mkv
 !new/.ec/ok/[FFFpeeps] Nekogami Yaoyorozu - 02 [720p][A267AF2E].mkv
 !new/.ec/ok/[FFFpeeps] Nekogami Yaoyorozu - 03 [720p][1E12EE3A].mkv
@@ -231,13 +231,7 @@
 !new/.ec/ok/[FFFpeeps] Nekogami Yaoyorozu - 10 [720p][D9586845].mkv
 !new/.ec/ok/[FFFpeeps] Nekogami Yaoyorozu - 11 [720p][C87C0022].mkv
 !new/.ec/ok/[FFFpeeps] Nekogami Yaoyorozu - 12 [End][720p][2387817E].mkv
-!new/.ec/ok/[FFFpeeps] Sengoku Collection - 14 [92E3285B].mkv
 !new/.ec/ok/[Hiryuu] Shining Hearts - 11 [720p][6956CC2A].mkv
-!new/.ec/ok/[HorribleSubs] Cardfight!! Vanguard (Asia Circuit) - 70 [720p][00C3E8B8].mkv
-!new/.ec/ok/[HorribleSubs] Cardfight!! Vanguard (Asia Circuit) - 71 [720p][AC73885F].mkv
-!new/.ec/ok/[HorribleSubs] Cardfight!! Vanguard (Asia Circuit) - 72 [720p][3F80CBE7].mkv
-!new/.ec/ok/[HorribleSubs] Cardfight!! Vanguard (Asia Circuit) - 77 [720p][CDCC1AF4].mkv
-!new/.ec/ok/[HorribleSubs] Cardfight!! Vanguard (Asia Circuit) - 78 [720p][51B0B67F].mkv
 !new/.ec/ok/[HorribleSubs] Hunter x Hunter (2011) - 38 [720p][F03CF08E].mkv
 !new/.ec/ok/[HorribleSubs] Kuroko's Basketball - 14 [720p][44AE473D].mkv
 !new/.ec/ok/[HorribleSubs] Naruto Shippuuden - 269 [720p][2EBFFBA7].mkv
@@ -266,9 +260,6 @@
 !new/.ec/ok/[gg] Eureka Seven AO - 11 [EEBAAF88].mkv
 !new/.ec/ok/[gg] Eureka Seven AO - 12 [9561C42C].mkv
 !new/.ec/ok/[gg] Moyashimon Returns - 01 [B7ED21AC].mkv
-!new/.ec/ok/[sage] Daily Lives of High School Boys - Special 03 [720p BD][39718A95].mkv
-!new/.ec/ok/[sage] Gundam AGE - 38 [720p][95997EDF].mkv
-!new/.ec/ok/[sage] Tanken Driland - 01 [720p][3E3EA170].mkv
 !new/.ec/v9001.xdelta
 !new/.ec/v9002.xdelta
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
@@ -1139,25 +1130,7 @@
 !new/[HorribleSubs] Cardfight!! Vanguard (Asia Circuit) - 75 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard (Asia Circuit) - 76 [720p].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard (Asia Circuit) - 77 [720p].mkv
-!new/[HorribleSubs] Cardfight!! Vanguard (Asia Circuit) - 78 [720p].mkv
 !new/[QTS] Kokuriko-zaka Kara (BD H264 1280x720 24fps AAC 5.0ch).mkv
-!new/[Triad]_Lord_Of_Lords_Ryu_Knight_-_09.avi
-!new/[Triad]_Lord_Of_Lords_Ryu_Knight_-_10.avi
-!new/[Triad]_Lord_Of_Lords_Ryu_Knight_-_11.avi
-!new/[Triad]_Lord_Of_Lords_Ryu_Knight_-_12.avi
-!new/[Triad]_Lord_Of_Lords_Ryu_Knight_-_13.avi
-!new/[Triad]_Lord_Of_Lords_Ryu_Knight_-_14.avi
-!new/[Triad]_Lord_Of_Lords_Ryu_Knight_-_15.avi
-!new/[Triad]_Lord_Of_Lords_Ryu_Knight_-_16.avi
-!new/[Triad]_Lord_Of_Lords_Ryu_Knight_-_17.avi
-!new/[Triad]_Lord_Of_Lords_Ryu_Knight_-_18.avi
-!new/[Triad]_Lord_Of_Lords_Ryu_Knight_-_19.avi
-!new/[Triad]_Lord_Of_Lords_Ryu_Knight_-_20.avi
-!new/[Triad]_Lord_Of_Lords_Ryu_Knight_-_21.avi
-!new/[Triad]_Lord_Of_Lords_Ryu_Knight_-_22.avi
-!new/[Triad]_Lord_Of_Lords_Ryu_Knight_-_23.avi
-!new/[Triad]_Lord_Of_Lords_Ryu_Knight_-_24.avi
-!new/[Triad]_Lord_Of_Lords_Ryu_Knight_-_25.avi
 !new/[UTW]_Accel_World_-_13_[h264-720p][041CB93E].mkv
 !new/[UTWoots]_Sword_Art_Online_-_01_[720p][E986EDE5].mkv
 !new/[Underwater] Rinne no Lagrange - 13 (720p) [D935DE0D].mkv
