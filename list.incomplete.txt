@@ -78,6 +78,7 @@ incomplete/Ashita no Joe/[Saizen-HnG] Ashita no Joe - 32 [DVD][2DC0F5AB].mkv
 incomplete/Ashita no Joe/[Saizen-HnG] Ashita no Joe - 33 [DVD][6592829F].mkv
 incomplete/Ashita no Joe/[Saizen-HnG] Ashita no Joe - 34 [DVD][B38D6554].mkv
 incomplete/Ashita no Joe/[Saizen-HnG] Ashita no Joe - 35 [DVD][5F2D8E92].mkv
+incomplete/Ashita no Joe/[Saizen-HnG] Ashita no Joe - 36 [DVD][ECEED0EA].mkv
 incomplete/Ashita no Joe/[Saizen] Ashita no Joe - 01 [DVD][69BCAC10].mkv
 incomplete/Ashita no Joe/[Saizen] Ashita no Joe - 02 [DVD][3ABA8A8C].mkv
 incomplete/Ashita no Joe/[Saizen] Ashita no Joe - 03 [DVD][D162E486].mkv
@@ -762,12 +763,18 @@ incomplete/Hetalia World Series/[Rumbel] Hetalia World Series - 13 [F2CAE29C].mk
 incomplete/Hetalia World Series/[Rumbel] Hetalia World Series - 14 [847303AB].mkv
 incomplete/Hetalia World Series/[Rumbel] Hetalia World Series - 15 [EAA6A88E].mkv
 incomplete/Hetalia World Series/[Rumbel] Hetalia World Series - 16 [36618177].mkv
-incomplete/Hiatari Ryoukou/[ray=out] Hiatari Ryoukou - 01 [DVD][477E841B].mkv
-incomplete/Hiatari Ryoukou/[ray=out] Hiatari Ryoukou - 02 [DVD][F6EF23CA].mkv
-incomplete/Hiatari Ryoukou/[ray=out] Hiatari Ryoukou - 03 [DVD][018B9618].mkv
-incomplete/Hiatari Ryoukou/[ray=out] Hiatari Ryoukou - 04 [DVD][EF80EFA5].mkv
-incomplete/Hiatari Ryoukou/[ray=out] Hiatari Ryoukou - 05 [DVD][F74060C2].mkv
-incomplete/Hiatari Ryoukou/[ray=out] Hiatari Ryoukou - 06 [DVD][1256CAB9].mkv
+incomplete/Hiatari Ryoukou/[ray=out] Hiatari Ryoukou - 01 [DVD][0EC3B858].mkv
+incomplete/Hiatari Ryoukou/[ray=out] Hiatari Ryoukou - 02 [DVD][93F059D2].mkv
+incomplete/Hiatari Ryoukou/[ray=out] Hiatari Ryoukou - 03 [DVD][D1555813].mkv
+incomplete/Hiatari Ryoukou/[ray=out] Hiatari Ryoukou - 04 [DVD][610F03B4].mkv
+incomplete/Hiatari Ryoukou/[ray=out] Hiatari Ryoukou - 05 [DVD][CE8EB813].mkv
+incomplete/Hiatari Ryoukou/[ray=out] Hiatari Ryoukou - 06 [DVD][B0B8B5CE].mkv
+incomplete/Hiatari Ryoukou/[ray=out] Hiatari Ryoukou - 07 [DVD][6E05CFFC].mkv
+incomplete/Hiatari Ryoukou/[ray=out] Hiatari Ryoukou - 08 [DVD][4A7BD478].mkv
+incomplete/Hiatari Ryoukou/[ray=out] Hiatari Ryoukou - 09 [DVD][635E750D].mkv
+incomplete/Hiatari Ryoukou/[ray=out] Hiatari Ryoukou - 10 [DVD][8979516E].mkv
+incomplete/Hiatari Ryoukou/[ray=out] Hiatari Ryoukou - 11 [DVD][9960F0DC].mkv
+incomplete/Hiatari Ryoukou/[ray=out] Hiatari Ryoukou - 12 [DVD][665F3F23].mkv
 incomplete/Higurashi no Naku Koro ni Kira OVA/[Derp] Higurashi no Naku Koro ni Kira OVA - 01 [1080p BD][4F647F76].mkv
 incomplete/Higurashi no Naku Koro ni Kira OVA/[Whine-Subs] Higurashi no Naku Koro ni Kira OVA - 02 [720p BD][B5EC718D].mkv
 incomplete/Hime-chan's Ribbon/[h-b] Hime-chan's Ribbon - 01 [E3FEC3B1].avi
@@ -1007,6 +1014,7 @@ incomplete/Kiss Dum - Engage Planet/[Doutei] KissDum - 10 [720p][D41A3899].mkv
 incomplete/Kiss Dum - Engage Planet/[Doutei] KissDum - 11 [720p][326C6CB8].mkv
 incomplete/Kiss Dum - Engage Planet/[Doutei] KissDum - 12 [720p][28DD4F25].mkv
 incomplete/Kiss Dum - Engage Planet/[Doutei] KissDum - 13 [720p][EC75ECDB].mkv
+incomplete/Kiss Dum - Engage Planet/[Doutei] KissDum - 15 [720p][D874EBA4].mkv
 incomplete/Kiss x Sis OAD/[Ayako] Kiss x Sis OAD - 03 [D9F3BBFC].mkv
 incomplete/Kiss x Sis OAD/[Nishishi-subs] Kiss x Sis OAD - 06 [DVD][B64CFD74].mkv
 incomplete/Kiss x Sis OAD/[SS-BBS] Kiss x Sis OAD - 00 [BBA87044].mkv
@@ -1087,6 +1095,7 @@ incomplete/Little Women II - Jo's Boys/[Licca] Little Women II - Jo's Boys - 21 
 incomplete/Little Women II - Jo's Boys/[Licca] Little Women II - Jo's Boys - 22 [2FC41DBE].mkv
 incomplete/Little Women II - Jo's Boys/[Licca] Little Women II - Jo's Boys - 23 [AD9DA594].mkv
 incomplete/Little Women II - Jo's Boys/[Licca] Little Women II - Jo's Boys - 24 [E09DDB75].mkv
+incomplete/Little Women II - Jo's Boys/[Licca] Little Women II - Jo's Boys - 25 [F12D8B57].mkv
 incomplete/Little Women/[ARR] Little Women - 01 [5DDDCEA4].mkv
 incomplete/Lucy-May of the Southern Rainbow/[Licca] Lucy-May of the Southern Rainbow - 01 [6A54FF23].mkv
 incomplete/Maburaho/[Anime-Keep] Maburaho - 01 [F5BA0680].avi
@@ -1146,6 +1155,7 @@ incomplete/Maria+Holic Alive/[Commie] Maria+Holic Alive - 02 [2205191C].mkv
 incomplete/Maria+Holic Alive/[Commie] Maria+Holic Alive - 03 [49855788].mkv
 incomplete/Maria+Holic Alive/[Commie] Maria+Holic Alive - 04 [A857AB5B].mkv
 incomplete/Maria+Holic Alive/[Commie] Maria+Holic Alive - 05 [079C1AE5].mkv
+incomplete/Maria+Holic Alive/[Commie] Maria+Holic Alive - 06 [DA70BC6B].mkv
 incomplete/Marie & Gali/[DATS] Marie & Gali - 00 [24A6C3DA].mkv
 incomplete/Marie & Gali/[DATS] Marie & Gali - 01 [720p][D5DCBCFE].mkv
 incomplete/Marie & Gali/[DATS] Marie & Gali - 02 [720p][7C333DA7].mkv
@@ -1377,6 +1387,8 @@ incomplete/Perrine/[KiteSeekers-Wasurenai-Licca] The Story of Perrine - 43 [DVD]
 incomplete/Perrine/[KiteSeekers-Wasurenai-Licca] The Story of Perrine - 44 [DVD][F30AE58E].mkv
 incomplete/Perrine/[KiteSeekers-Wasurenai-Licca] The Story of Perrine - 45 [DVD][52077D8F].mkv
 incomplete/Perrine/[KiteSeekers-Wasurenai-Licca] The Story of Perrine - 46 [DVD][ABD81E8C].mkv
+incomplete/Perrine/[KiteSeekers-Wasurenai-Licca] The Story of Perrine - 47 [DVD][81DDAD73].mkv
+incomplete/Perrine/[KiteSeekers-Wasurenai-Licca] The Story of Perrine - 48 [DVD][A0E96F49].mkv
 incomplete/Pokemon - Advanced Generation/[PM] Pokemon - Advanced Generation - 190 [DVD][BB062A1D].mkv
 incomplete/Pokemon - Advanced Generation/[PM] Pokemon - Advanced Generation - 191 [DVD][8A5BDABC].mkv
 incomplete/Pokemon AG/Pokemon AG - 001 [v2][JDS][BD8E5B17].avi
@@ -1805,6 +1817,10 @@ incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 44 [704E5473].mkv
 incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 45 [AD01FD0E].mkv
 incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 46 [5250B9E4].mkv
 incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 47 [9DE4B303].mkv
+incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 48 [AAF8BCC1].mkv
+incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 50 [FF448BE2].mkv
+incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 51 [87A43F94].mkv
+incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 52 [5DA896F6].mkv
 incomplete/Prince of Tennis - Another Story II/[Ryugan-Saizen] Prince of Tennis - Another Story II - 01 [DVD][7ECE7D25].mkv
 incomplete/Prince of Tennis - Another Story II/[Ryugan-Saizen] Prince of Tennis - Another Story II - 02 [DVD][4B55406A].mkv
 incomplete/Princess Resurrection OVA/Princess Resurrection OVA - 1 [Mamiko SHiN][DVD][EEE2827C].mkv
@@ -1952,6 +1968,7 @@ incomplete/Showa Monogatari/[GotWoot] Showa Monogatari - 06 [CEB7A37E].mkv
 incomplete/Showa Monogatari/[GotWoot] Showa Monogatari - 07 [1CA28CA1].mkv
 incomplete/Showa Monogatari/[GotWoot] Showa Monogatari - 08 [8651683A].mkv
 incomplete/Showa Monogatari/[GotWoot] Showa Monogatari - 09 [B68D24BD].mkv
+incomplete/Showa Monogatari/[GotWoot] Showa Monogatari - 10 [19B0814D].mkv
 incomplete/Shugo Chara! Party!/[Fubuki] Shugo Chara! Party! - 01 (1280x720) [049EC961].mkv
 incomplete/Shugo Chara! Party!/[Fubuki] Shugo Chara! Party! - 02 (1280x720) [B6E53932].mkv
 incomplete/Shugo Chara! Party!/[Fubuki] Shugo Chara! Party! - 03 (1280x720) [1BDF2EED].mkv
@@ -2390,6 +2407,9 @@ incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 19 [72
 incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 20 [720p][B638F7B5].mkv
 incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 21 [720p][1724CD7A].mkv
 incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 22 [720p][960F1EAE].mkv
+incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 23 [720p][530496E7].mkv
+incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 24 [720p][7231CD57].mkv
+incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 25 [720p][97D0ECCC].mkv
 incomplete/Yoshimune/[F-B & Scramble!] Yoshimune - 01 [D6661800].mp4
 incomplete/Yoshimune/[F-B & Scramble!] Yoshimune - 02 [B6EA56DA].mp4
 incomplete/Yoshimune/[F-B & Scramble!] Yoshimune - 03 [244BD028].mp4
