@@ -28,11 +28,15 @@
 !new/.ec/[Commie] Arcana✴Famiglia - 03 [4C5E410E].mkv
 !new/.ec/[Commie] Campione! - 02 [00E73AB4].mkv
 !new/.ec/[Commie] Horizon in the Middle of Nowhere - 14 [ED0436F8].mkv
+!new/.ec/[Commie] Horizon in the Middle of Nowhere - 15 [8F320DDD].mkv
 !new/.ec/[Commie] Hyouka - 12 [792BB444].mkv
 !new/.ec/[Commie] Hyouka - 13 [E75E264A].mkv
+!new/.ec/[Commie] Jinrui wa Suitai Shimashita - 01v2 [2B499BB9].mkv
 !new/.ec/[Commie] Jinrui wa Suitai Shimashita - 02 [75BBCD84].mkv
+!new/.ec/[Commie] Jinrui wa Suitai Shimashita - 02v2 [7DEA5800].mkv
 !new/.ec/[Commie] Jinrui wa Suitai Shimashita - 03 [C2E1C969].mkv
 !new/.ec/[Commie] Kokoro Connect - 02 [D8E33489].mkv
+!new/.ec/[Commie] Maria†Holic Alive - 06 [DA70BC6B].mkv
 !new/.ec/[Commie] Muv-Luv Alternative - Total Eclipse - 02 [1E949A2E].mkv
 !new/.ec/[Commie] Muv-Luv Alternative - Total Eclipse - 03 [4B90ADD5].mkv
 !new/.ec/[Commie] Natsuyuki Rendezvous - 02 [D2B42ED0].mkv
@@ -1118,6 +1122,7 @@
 !new/[AnimeWorld]Lord of Lords Ryu Knight - Adeus Legend OVAs 1-3/Lord_of_Lords_Ryu_Knight_-_Adeu's_Legend_II_-_OAV_02_[AW].avi
 !new/[AnimeWorld]Lord of Lords Ryu Knight - Adeus Legend OVAs 1-3/Lord_of_Lords_Ryu_Knight_-_Adeu's_Legend_II_-_OAV_03_[AW].avi
 !new/[AnimeWorld]Lord of Lords Ryu Knight - Adeus Legend OVAs 1-3/Lord_of_Lords_Ryu_Knight_-_Adeus_Legend_FINAL_LQ_[AW].avi
+!new/[CMS] Higurashi no Naku Koro ni Kira 04 [BD][720p-FLAC][D74DAAD2].mkv
 !new/[Commie] Jinrui wa Suitai Shimashita - 01 [436D4699].mkv
 !new/[Commie] Muv-Luv Alternative - Total Eclipse - 01 [5CB57BE4].mkv
 !new/[Commie] Muv-Luv Alternative - Total Eclipse - 02 [1E949A2E].mkv
@@ -1158,6 +1163,7 @@
 !new/[Underwater] Rinne no Lagrange - 13 (720p) [D935DE0D].mkv
 !new/[commie] hyouka - 11 [557b3cfb].mkv
 !new/[commie] hyouka - 12 [792bb444].mkv
+!new/[gg]_Young_Animator_Training_Project_2011_-_Dudu_the_Floatie_[85849EE3].mkv
 !new/[hadena] kore wa zombie desu ka - of the dead - 00 [720p] [e94ea620].mkv
 !new/[mazui]_hyouka_-_11.5_[lq][ebacbacc].mkv
 !new/belum/[TV_Series_1996]_Bakusou_Kyoudai_Let_s_&_Go/Bakusou_Kyoudai_Let_s_&_Go_-_01[51]_-_Episode_1_[640x480][DVD][RAW][Saiei][B67AAA56].mp4
@@ -1769,4 +1775,5 @@
 !new/snq/[Doki] Seikon no Qwaser - Picture Drama 14 [720p BD][62E5BC80].mkv
 !new/snq/[Doki] Seikon no Qwaser - Picture Drama 15 [720p BD][C6DBA283].mkv
 !new/snq/[Doki] Seikon no Qwaser - Picture Drama 16 [720p BD][16F49A34].mkv
+!new/tanken driland/[sage]_Tanken_Driland_-_01_[720p][10bit][3E3EA170].mkv
 !new/unused/[Hitode] Princess Lover! Uncensored - 03 [31BA7682].mkv
