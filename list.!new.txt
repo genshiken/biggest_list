@@ -3,8 +3,11 @@
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
 !new/.ec/Detective Conan - 658 - The Hot Chocolate Trap [M-L][720p-10bit][579E2E33].mkv
 !new/.ec/[A-Destiny] Kingdom - 07 (1280x720 Hi10p AAC) [F94BFE1D].mkv
+!new/.ec/[CMS] Higurashi no Naku Koro ni Kira 03 [BD][720p-FLAC][8FEFD7EF].mkv
 !new/.ec/[DmomHiro] Digimon Adventure 02 - Movie I - Digimon Hurricane Touchdown!! (DVD, 396p) [A6DC976D].mkv
+!new/.ec/[Doremi].Smile.Precure!.23.[1280x720].[CBC44F22].v2.mkv
 !new/.ec/[Doutei] Papa no Iukoto wo Kikinasai - 13 [BD Special][720p][adc956ab].mkv
+!new/.ec/[HorribleSubs] Kuroko's Basketball - 13 [720p].mkv
 !new/.ec/[HorribleSubs] Naruto Shippuuden - 270 [720p].mkv
 !new/.ec/[HorribleSubs] SKET Dance - 67 [720p].mkv
 !new/.ec/[Licca] The Alps Story - My Annette Episode 13 (h.264-Hi10P) [E193CB17].mkv
@@ -799,6 +802,7 @@
 !new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - Winter Specials [AVC][2D234649].mkv
 !new/[hadena] kore wa zombie desu ka - of the dead - 00 [720p] [e94ea620].mkv
 !new/[mazui]_hyouka_-_11.5_[lq][ebacbacc].mkv
+!new/[sage]_Tanken_Driland_-_02_[720p][10bit][F22E80BC].mkv
 !new/belum/[TV_Series_1996]_Bakusou_Kyoudai_Let_s_&_Go/Bakusou_Kyoudai_Let_s_&_Go_-_01[51]_-_Episode_1_[640x480][DVD][RAW][Saiei][B67AAA56].mp4
 !new/belum/[TV_Series_1996]_Bakusou_Kyoudai_Let_s_&_Go/Bakusou_Kyoudai_Let_s_&_Go_-_02[51]_-_Episode_2_[640x480][DVD][RAW][Saiei][3C83C08C].mp4
 !new/belum/[TV_Series_1996]_Bakusou_Kyoudai_Let_s_&_Go/Bakusou_Kyoudai_Let_s_&_Go_-_03[51]_-_Episode_3_[640x480][DVD][RAW][Saiei][DA1E2AD9].mp4
