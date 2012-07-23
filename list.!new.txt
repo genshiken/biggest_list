@@ -30,6 +30,8 @@
 !new/.ec/[Final8]Isekai no Seikishi Monogatari - 09v2(BD 10-bit 1280x720 x264 AAC)[B0CD5E79].mkv
 !new/.ec/[Final8]Isekai no Seikishi Monogatari - 10v2(BD 10-bit 1280x720 x264 AAC)[C51AAF01].mkv
 !new/.ec/[Final8]Isekai no Seikishi Monogatari - 11v2(BD 10-bit 1280x720 x264 AAC)[218C4391].mkv
+!new/.ec/[Final8]Isekai no Seikishi Monogatari - 12(BD 10-bit 1280x720 x264 AAC)[DAC7FAB4].mkv
+!new/.ec/[Final8]Isekai no Seikishi Monogatari - 13(BD 10-bit 1280x720 x264 AAC)[5969BC5B].mkv
 !new/.ec/[HorribleSubs] Kuroko's Basketball - 13 [720p].mkv
 !new/.ec/[HorribleSubs] Naruto Shippuuden - 270 [720p].mkv
 !new/.ec/[HorribleSubs] SKET Dance - 67 [720p].mkv
@@ -827,6 +829,7 @@
 !new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - Spring Specials [AVC][1DC86D4A].mkv
 !new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - Summer Specials [AVC][CD176B01].mkv
 !new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - Winter Specials [AVC][2D234649].mkv
+!new/[HorribleSubs] Cardfight!! Vanguard (Asia Circuit) - 81 [720p].mkv
 !new/[hadena] kore wa zombie desu ka - of the dead - 00 [720p] [e94ea620].mkv
 !new/[mazui]_hyouka_-_11.5_[lq][ebacbacc].mkv
 !new/[sage]_Tanken_Driland_-_02_[720p][10bit][F22E80BC].mkv
