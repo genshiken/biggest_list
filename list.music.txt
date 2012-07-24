@@ -3773,6 +3773,7 @@ music/Nipponsei/[Nipponsei] C3 OP ED Single - Shirushi [Kitamura Eri].zip
 music/Nipponsei/[Nipponsei] C3 OP Single - Endless Story [Tamura Yukari].zip
 music/Nipponsei/[Nipponsei] C3 Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] CLAMP IN WONDERLAND 1 2 Collection - PRECIOUS SONGS.zip
+music/Nipponsei/[Nipponsei] Campione! Matsurowanu Kamigami to Kamigoroshi no Maou ED Single - Raise [Ogura Yui].zip
 music/Nipponsei/[Nipponsei] Canvas2 ~Nijiiro no Sketch~ OP Single - Plastic Smile [Honey Bee].zip
 music/Nipponsei/[Nipponsei] Capeta ED4 Single - My Star [Kikuchi Mika].zip
 music/Nipponsei/[Nipponsei] Cardfight!! Vanguard Asia Circuit Hen OP Single - LIMIT BREAK [JAM Project].zip
@@ -4222,6 +4223,7 @@ music/Nipponsei/[Nipponsei] Koe de Oshigoto! ED Single - Kuchihiru Chuck [Variou
 music/Nipponsei/[Nipponsei] Koe de Oshigoto! OP Single - Koi no Mahou [Various].zip
 music/Nipponsei/[Nipponsei] Koharu Biyori Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Koi Suru Tenshi Angelique ~Kagayaki no Ashita~ OP Single - Doukoku no Ame [GRANRODEO].zip
+music/Nipponsei/[Nipponsei] Kokoro Connect OP Single - Paradigm [eufonius].zip
 music/Nipponsei/[Nipponsei] Kono Aozora ni Yakusoku wo Character Song Vol.1 [Sawaki Rinna].zip
 music/Nipponsei/[Nipponsei] Kono Aozora ni Yakusoku wo Character Song Vol.2 [Hayama Umi].zip
 music/Nipponsei/[Nipponsei] Kore wa Zombie Desu ka Mecha Sounyuuka & Mecha Soundtrack Bangai Hen.zip
@@ -4238,6 +4240,7 @@ music/Nipponsei/[Nipponsei] Kujibiki Unbalance OP Single - Ai [Atsumi Saori].zip
 music/Nipponsei/[Nipponsei] Kujibiki Unbalance Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Kuroko no Basket ED Single - Start it right away [Hyadain].zip
 music/Nipponsei/[Nipponsei] Kuroko no Basket OP Single - Can Do [GRANRODEO].zip
+music/Nipponsei/[Nipponsei] Kuroko no Basket OP2 Single - RIMFIRE [GRANRODEO].zip
 music/Nipponsei/[Nipponsei] Kuroshitsuji II ED Single - Bird [Matsushita Yuuya].zip
 music/Nipponsei/[Nipponsei] Kuroshitsuji II OP Single - SHIVER [the GazettE].zip
 music/Nipponsei/[Nipponsei] Kuroshitsuji II Original Soundtrack.zip
@@ -4479,6 +4482,8 @@ music/Nipponsei/[Nipponsei] OVA Gunbuster 2 OP - Groovin Magic [Round Table feat
 music/Nipponsei/[Nipponsei] OVA Natsuiro no Sunadokei Sound Collection.zip
 music/Nipponsei/[Nipponsei] OVER DRIVE ED Single - Saihate no Parade [Merry].zip
 music/Nipponsei/[Nipponsei] OVER DRIVE OP Single - WINDER Boku wa Koko ni iru [Shounen Kamikaze].zip
+music/Nipponsei/[Nipponsei] Oda Nobuna no Yabou ED Single - Hikari [Mizuta Makino].zip
+music/Nipponsei/[Nipponsei] Oda Nobuna no Yabou OP Single - Link [Aimi].zip
 music/Nipponsei/[Nipponsei] Odin Sphere Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Oh Edo Rocket Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] One Piece OP9 Single - Jungle P [5050].zip

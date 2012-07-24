@@ -1807,9 +1807,10 @@ incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 45 [AD01FD0E].mkv
 incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 46 [5250B9E4].mkv
 incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 47 [9DE4B303].mkv
 incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 48 [AAF8BCC1].mkv
+incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 49 [8EC06B27].mkv
 incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 50 [FF448BE2].mkv
 incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 51 [87A43F94].mkv
-incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 52 [5DA896F6].mkv
+incomplete/Porphy no Nagai Tabi/[Licca] Porphy no Nagai Tabi - 52 [End][5DA896F6].mkv
 incomplete/Prince of Tennis - Another Story II/[Ryugan-Saizen] Prince of Tennis - Another Story II - 01 [DVD][7ECE7D25].mkv
 incomplete/Prince of Tennis - Another Story II/[Ryugan-Saizen] Prince of Tennis - Another Story II - 02 [DVD][4B55406A].mkv
 incomplete/Princess Resurrection OVA/Princess Resurrection OVA - 1 [Mamiko SHiN][DVD][EEE2827C].mkv
@@ -2115,6 +2116,7 @@ incomplete/The Alps Story - My Annette/[Licca] The Alps Story - My Annette - 09 
 incomplete/The Alps Story - My Annette/[Licca] The Alps Story - My Annette - 10 [39F06613].mkv
 incomplete/The Alps Story - My Annette/[Licca] The Alps Story - My Annette - 11 [661D3FC5].mkv
 incomplete/The Alps Story - My Annette/[Licca] The Alps Story - My Annette - 12 [CABB547C].mkv
+incomplete/The Alps Story - My Annette/[Licca] The Alps Story - My Annette - 13 [E193CB17].mkv
 incomplete/The Legend of Koizumi/[Monokage] The Legend of Koizumi - 01 [CAE5A5FE].mkv
 incomplete/The Legend of Koizumi/[Triad] The Legend of Koizumi - 01 [18EE398A].mkv
 incomplete/The Melancholy of Haruhi-chan/[Shamisen] Nyoron Churuya-san - 01 [73A3CBFD].mkv
