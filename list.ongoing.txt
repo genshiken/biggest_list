@@ -124,6 +124,7 @@ ongoing/Beelzebub/[HorribleSubs] Beelzebub - 59 [720p][61A40CED].mkv
 ongoing/Beelzebub/[HorribleSubs] Beelzebub - 60 [720p][FD6AF770].mkv
 ongoing/Binbougami ga!/[gg] Binbougami ga! - 01 [D909F54C].mkv
 ongoing/Binbougami ga!/[gg] Binbougami ga! - 02 [1AF9E512].mkv
+ongoing/Binbougami ga!/[gg] Binbougami ga! - 03 [043DB898].mkv
 ongoing/Bleach/Bleach - 001 [Arigatou][C8B4B3CE].mkv
 ongoing/Bleach/Bleach - 002 [Arigatou][9B837618].mkv
 ongoing/Bleach/Bleach - 003 [Arigatou][D7FE093C].mkv
@@ -739,6 +740,7 @@ ongoing/Eureka Seven AO/[gg] Eureka Seven AO - 10 [480E519B].mkv
 ongoing/Eureka Seven AO/[gg] Eureka Seven AO - 11 [EEBAAF88].mkv
 ongoing/Eureka Seven AO/[gg] Eureka Seven AO - 12 [9561C42C].mkv
 ongoing/Eureka Seven AO/[gg] Eureka Seven AO - 13 [3A595BE2].mkv
+ongoing/Eureka Seven AO/[gg] Eureka Seven AO - 14 [CC946B7C].mkv
 ongoing/Fairy Tail/Fairy Tail - 001 [Mamiko][0307DF54].mkv
 ongoing/Fairy Tail/Fairy Tail - 002 [Mamiko][531F9793].mkv
 ongoing/Fairy Tail/Fairy Tail - 003 [Mamiko][C7677EC8].mkv
@@ -1183,6 +1185,7 @@ ongoing/Gundam AGE/[sage] Gundam AGE - 37 [720p][3A51C6FD].mkv
 ongoing/Gundam AGE/[sage] Gundam AGE - 38 [720p][95997EDF].mkv
 ongoing/Gundam AGE/[sage] Gundam AGE - 39 [720p][425DB276].mkv
 ongoing/Gundam AGE/[sage] Gundam AGE - 40 [720p][1267A1CF].mkv
+ongoing/Gundam AGE/[sage] Gundam AGE - 41 [720p][9169E16B].mkv
 ongoing/Gundam SEED (Remaster)/[sage] Gundam SEED (Remaster) - 01 [720p][1C4BC88D].mkv
 ongoing/Gundam SEED (Remaster)/[sage] Gundam SEED (Remaster) - 02 [720p][E7E07180].mkv
 ongoing/Gundam SEED (Remaster)/[sage] Gundam SEED (Remaster) - 03 [720p][F66AD78F].mkv
@@ -1203,6 +1206,7 @@ ongoing/Gundam SEED (Remaster)/[sage] Gundam SEED (Remaster) - 17 [720p][4570D1C
 ongoing/Gundam SEED (Remaster)/[sage] Gundam SEED (Remaster) - 18 [720p][FA8A3501].mkv
 ongoing/Gundam SEED (Remaster)/[sage] Gundam SEED (Remaster) - 19 [720p][4C7AEBBA].mkv
 ongoing/Gundam SEED (Remaster)/[sage] Gundam SEED (Remaster) - 20 [720p][C603A721].mkv
+ongoing/Gundam SEED (Remaster)/[sage] Gundam SEED (Remaster) - 21 [720p][2708116A].mkv
 ongoing/Gundam Unicorn/[Thora] Gundam Unicorn - 1 [v2 720p BD][3474BCB6].mkv
 ongoing/Gundam Unicorn/[Thora] Gundam Unicorn - 2 [v2 720p BD][63313E42].mkv
 ongoing/Gundam Unicorn/[Thora] Gundam Unicorn - 3 [720p BD][294FFCB9].mkv
@@ -1211,6 +1215,7 @@ ongoing/Gundam Unicorn/[Thora] Gundam Unicorn - 5 [720p BD][1CFE6D31].mkv
 ongoing/Hagure Yuusha no Estetica/[RandomRemux] Hagure Yuusha no Estetica - 01 [720p][4411ADF4].mkv
 ongoing/Hagure Yuusha no Estetica/[SubDesu] Hagure Yuusha no Estetica - 01 [720p][AD2EB721].mkv
 ongoing/Hagure Yuusha no Estetica/[SubDesu] Hagure Yuusha no Estetica - 02 [720p][B38E1F4D].mkv
+ongoing/Hagure Yuusha no Estetica/[SubDesu] Hagure Yuusha no Estetica - 03 [720p][6A5876B6].mkv
 ongoing/Hakuoki Reimeiroku/[HorribleSubs] Hakuoki Reimeiroku - 01 [720p][5936354E].mkv
 ongoing/Holy Knight OVA/[CMS] Holy Knight OVA - 01 [720p BD][FACD3E52].mkv
 ongoing/Honto ni Atta! Reibai Sensei/[IB] Honto ni Atta! Reibai Sensei - 01 [720p][724D62CE].mkv
@@ -1327,6 +1332,8 @@ ongoing/Inazuma Eleven GO Chrono Stone/[RyRo] Inazuma Eleven GO Chrono Stone - 0
 ongoing/Inazuma Eleven GO Chrono Stone/[RyRo] Inazuma Eleven GO Chrono Stone - 008 [720p][2A4A6AF8].mkv
 ongoing/Inazuma Eleven GO Chrono Stone/[RyRo] Inazuma Eleven GO Chrono Stone - 009 [720p][53FC6545].mkv
 ongoing/Inazuma Eleven GO Chrono Stone/[RyRo] Inazuma Eleven GO Chrono Stone - 010 [720p][8F84752B].mkv
+ongoing/Inazuma Eleven GO Chrono Stone/[RyRo] Inazuma Eleven GO Chrono Stone - 011 [720p][71AB42D8].mkv
+ongoing/Inazuma Eleven GO Chrono Stone/[RyRo] Inazuma Eleven GO Chrono Stone - 012 [720p][417EE6B8].mkv
 ongoing/Jewelpet Sunshine/[Ayako] Jewelpet Sunshine - 01 [720p][F4ED98BD].mkv
 ongoing/Jewelpet Sunshine/[Ayako] Jewelpet Sunshine - 02 [720p][18CF77DD].mkv
 ongoing/Jewelpet Sunshine/[Ayako] Jewelpet Sunshine - 03 [720p][2E9653F8].mkv
@@ -1362,10 +1369,12 @@ ongoing/Kingdom/[A-Destiny] Kingdom - 04 [720p][4B9A195F].mkv
 ongoing/Kingdom/[A-Destiny] Kingdom - 05 [720p][F75430DD].mkv
 ongoing/Koi to Senkyo to Chocolate/[Pomf] Koi to Senkyo to Chocolate - 01 [7612CA8D].mkv
 ongoing/Koi to Senkyo to Chocolate/[Pomf] Koi to Senkyo to Chocolate - 02 [97981753].mkv
+ongoing/Koi to Senkyo to Chocolate/[Pomf] Koi to Senkyo to Chocolate - 03 [21F853B1].mkv
 ongoing/Kokoro Connect/[Commie] Kokoro Connect - 01 [9F4D9C67].mkv
 ongoing/Kokoro Connect/[Commie] Kokoro Connect - 02 [D8E33489].mkv
 ongoing/Kono Naka ni Hitori Imouto ga Iru/[UTW] Kono Naka ni Hitori Imouto ga Iru - 01 [720p][33E59083].mkv
 ongoing/Kono Naka ni Hitori Imouto ga Iru/[UTW] Kono Naka ni Hitori Imouto ga Iru - 02 [720p][4333146D].mkv
+ongoing/Kono Naka ni Hitori Imouto ga Iru/[UTW] Kono Naka ni Hitori Imouto ga Iru - 03 [720p][D180A449].mkv
 ongoing/Kore wa Zombie desu ka - of the Dead/[Commie] Kore wa Zombie desu ka - of the Dead - 01 [CBFA1695].mkv
 ongoing/Kore wa Zombie desu ka - of the Dead/[Commie] Kore wa Zombie desu ka - of the Dead - 02 [33C0C551].mkv
 ongoing/Kore wa Zombie desu ka - of the Dead/[Commie] Kore wa Zombie desu ka - of the Dead - 03 [725E4A04].mkv
@@ -2160,6 +2169,7 @@ ongoing/One Piece/One Piece - 552 [yibis][720p][0E06CA2D].mkv
 ongoing/One Piece/One Piece - 553 [yibis][720p][1DB456FA].mkv
 ongoing/One Piece/One Piece - 554 [yibis][720p][D1C97672].mkv
 ongoing/One Piece/One Piece - 555 [yibis][720p][7F5CF3B0].mkv
+ongoing/One Piece/One Piece - 556 [yibis][720p][B9BAED74].mkv
 ongoing/One Piece/One Piece - Opening 7 [Vegapunk][720p][6B7F029D].mp4
 ongoing/One Piece/One Piece - Opening 8 [Vegapunk][720p][D45E5410].mp4
 ongoing/One Piece/One Piece - Special 1 [K-F][DVD][DF62ACA0].avi
@@ -2180,6 +2190,7 @@ ongoing/Phi Brain - Kami no Puzzle S2/[WhyNot] Phi Brain - Kami no Puzzle S2 - 1
 ongoing/Phi Brain - Kami no Puzzle S2/[WhyNot] Phi Brain - Kami no Puzzle S2 - 12 [F844BB8A].mkv
 ongoing/Phi Brain - Kami no Puzzle S2/[WhyNot] Phi Brain - Kami no Puzzle S2 - 13 [1ED5F495].mkv
 ongoing/Phi Brain - Kami no Puzzle S2/[WhyNot] Phi Brain - Kami no Puzzle S2 - 14 [D70F7CE8].mkv
+ongoing/Phi Brain - Kami no Puzzle S2/[WhyNot] Phi Brain - Kami no Puzzle S2 - 15 [809567B5].mkv
 ongoing/Pokemon Best Wishes 2/[PM] Pokemon Best Wishes 2 - 001 [720p][BDF9A12A].mkv
 ongoing/Polar Bear Cafe/[HorribleSubs] Polar Bear Cafe - 01 [720p][432DC865].mkv
 ongoing/Polar Bear Cafe/[HorribleSubs] Polar Bear Cafe - 02 [720p][9586937B].mkv
@@ -2495,6 +2506,8 @@ ongoing/Sword Art Online/[Commie] Sword Art Online - 01 [B3876555].mkv
 ongoing/Sword Art Online/[Commie] Sword Art Online - 02 [B64E2359].mkv
 ongoing/Tales of Symphonia OVA - The United World/[Formula] Tales of Symphonia OVA - The United World - 1 [AB66507E].mkv
 ongoing/Tanken Driland/[sage] Tanken Driland - 01 [720p][3E3EA170].mkv
+ongoing/Tanken Driland/[sage] Tanken Driland - 02 [720p][F22E80BC].mkv
+ongoing/Tanken Driland/[sage] Tanken Driland - 03 [720p][BE2288D7].mkv
 ongoing/Tantei Opera Milky Holmes II/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes II - 01 [720p][45B5EDD5].mkv
 ongoing/Tantei Opera Milky Holmes II/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes II - 02 [720p][A80EAE15].mkv
 ongoing/Tantei Opera Milky Holmes II/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes II - 03 [720p][66486EC2].mkv
