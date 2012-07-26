@@ -3,6 +3,7 @@
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
 !new/.ec/Detective Conan - 658 - The Hot Chocolate Trap [M-L][720p-10bit][579E2E33].mkv
 !new/.ec/[A-Destiny] Kingdom - 07 (1280x720 Hi10p AAC) [F94BFE1D].mkv
+!new/.ec/[A-Destiny] Kingdom - 08 (1280x720 Hi10p AAC) [F0C1C54C].mkv
 !new/.ec/[CMS] Higurashi no Naku Koro ni Kira 01v2 [BD][720p-FLAC][9BC362B8].mkv
 !new/.ec/[CMS] Higurashi no Naku Koro ni Kira 02 [BD][720p-FLAC][45C1F259].mkv
 !new/.ec/[CMS] Higurashi no Naku Koro ni Kira 03 [BD][720p-FLAC][8FEFD7EF].mkv
@@ -25,6 +26,7 @@
 !new/.ec/[Commie] Tari Tari - 04 [AE9A3ABE].mkv
 !new/.ec/[Commie] Yuru Yuri♪♪ - 04 [4F3E0F75].mkv
 !new/.ec/[DmomHiro] Digimon Adventure 02 - Movie I - Digimon Hurricane Touchdown!! (DVD, 396p) [A6DC976D].mkv
+!new/.ec/[DmonHiro] Shinkyoku Soukai Polyphonica Crimson S - 01st Performance - Encounter - misterioso (DVD, 480p) [B31656FD].mkv
 !new/.ec/[Doremi].Smile.Precure!.23.[1280x720].[CBC44F22].v2.mkv
 !new/.ec/[Doremi].Smile.Precure!.24.[1280x720].[BB4392D7].mkv
 !new/.ec/[Doutei] KissDum - 15 [720p][d874eba4].mkv
@@ -57,14 +59,19 @@
 !new/.ec/[HorribleSubs] Naruto Shippuuden - 270 [720p].mkv
 !new/.ec/[HorribleSubs] Poyopoyo - 29 [720p].mkv
 !new/.ec/[HorribleSubs] SKET Dance - 67 [720p].mkv
+!new/.ec/[HorribleSubs] Saint Seiya Omega - 16 [720p].mkv
 !new/.ec/[HorribleSubs] The Knight in the Area - 27 [720p].mkv
 !new/.ec/[KiteSeekers-Wasurenai-Licca] The Story of Perrine - 49 [DVD H264 Hi10P 640x480] [FC9CC936].mkv
 !new/.ec/[KiteSeekers-Wasurenai] Pretty Rhythm Aurora Dream - 32 [H264 1024x576] [04D665C9].mkv
 !new/.ec/[KiteSeekers-Wasurenai] Tantei Opera Milky Holmes II - 07 [1280x720 H264 OGG] [8DC7599C].mkv
 !new/.ec/[Over-Time]_Spec-Ops_Cell_Go-Busters_-_22v2_[251EA69C].mkv
 !new/.ec/[PM]Pocket_Monsters_Best_Wishes_Season_2_002_Pochama_VS_Yanappu!_A_Battle_of_Splendor!![H264_720P][8154B081].mkv
+!new/.ec/[Shin-S] Accel World OP2 Single - Burst The Gravity (FLAC) [ALTIMA].zip
+!new/.ec/[Shin-S] Accel World OP2 Single - Burst The Gravity [ALTIMA].zip
+!new/.ec/[Shin-S] DOG DAYS' ED Single - Natsu no Yakusoku [Horie Yui].zip
 !new/.ec/[UTW] Fate-Zero - Drama CD - 1 Scripts.zip
 !new/.ec/[UTW] Fate-Zero - Drama CD - 1 [73F79A10].mka
+!new/.ec/[gg]_Young_Animator_Training_Project_2011_-_Minding_My_Own_Business_[F7326F1F].mkv
 !new/.ec/[rori] Papa no Iukoto wo Kikinasai! - 13 [1A37AE99].mkv
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
