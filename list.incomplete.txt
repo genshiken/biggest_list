@@ -775,9 +775,6 @@ incomplete/Hiatari Ryoukou/[ray=out] Hiatari Ryoukou - 09 [DVD][635E750D].mkv
 incomplete/Hiatari Ryoukou/[ray=out] Hiatari Ryoukou - 10 [DVD][8979516E].mkv
 incomplete/Hiatari Ryoukou/[ray=out] Hiatari Ryoukou - 11 [DVD][9960F0DC].mkv
 incomplete/Hiatari Ryoukou/[ray=out] Hiatari Ryoukou - 12 [DVD][665F3F23].mkv
-incomplete/Higurashi no Naku Koro ni Kira OVA/[CMS] Higurashi no Naku Koro ni Kira - 4 [End][720p BD][D74DAAD2].mkv
-incomplete/Higurashi no Naku Koro ni Kira OVA/[Derp] Higurashi no Naku Koro ni Kira OVA - 01 [1080p BD][4F647F76].mkv
-incomplete/Higurashi no Naku Koro ni Kira OVA/[Whine-Subs] Higurashi no Naku Koro ni Kira OVA - 02 [720p BD][B5EC718D].mkv
 incomplete/Hime-chan's Ribbon/[h-b] Hime-chan's Ribbon - 01 [E3FEC3B1].avi
 incomplete/Hime-chan's Ribbon/[h-b] Hime-chan's Ribbon - 02 [014FF00B].avi
 incomplete/Hime-chan's Ribbon/[h-b] Hime-chan's Ribbon - 03 [3AE2FFE4].avi
@@ -1004,6 +1001,7 @@ incomplete/Kiss Dum - Engage Planet/[Doutei] KissDum - 11 [720p][326C6CB8].mkv
 incomplete/Kiss Dum - Engage Planet/[Doutei] KissDum - 12 [720p][28DD4F25].mkv
 incomplete/Kiss Dum - Engage Planet/[Doutei] KissDum - 13 [720p][EC75ECDB].mkv
 incomplete/Kiss Dum - Engage Planet/[Doutei] KissDum - 15 [720p][D874EBA4].mkv
+incomplete/Kiss Dum - Engage Planet/[Doutei] KissDum - 16 [720p][751C9AFF].mkv
 incomplete/Kiss x Sis OAD/[Ayako] Kiss x Sis OAD - 03 [D9F3BBFC].mkv
 incomplete/Kiss x Sis OAD/[Nishishi-subs] Kiss x Sis OAD - 06 [DVD][B64CFD74].mkv
 incomplete/Kiss x Sis OAD/[SS-BBS] Kiss x Sis OAD - 00 [BBA87044].mkv
@@ -1286,20 +1284,6 @@ incomplete/Ninku/[DB] Ninku - 19 [B2826BA2].avi
 incomplete/Ninku/[DB] Ninku - 20 [A0E0D5EA].avi
 incomplete/Ninku/[DB] Ninku - 21 [26F63F20].avi
 incomplete/Ninku/[DB] Ninku - 22 [3E44A7B0].avi
-incomplete/Nyanpire/[AonE] Nyanpire - The Animation - 01 [3A652460].mkv
-incomplete/Nyanpire/[AonE] Nyanpire - The Animation - 02 [38BC71A8].mkv
-incomplete/Nyanpire/[AonE] Nyanpire - The Animation - 03 [06A8D5B8].mkv
-incomplete/Nyanpire/[AonE] Nyanpire - The Animation - 04 [1BAA5B99].mkv
-incomplete/Nyanpire/[AonE] Nyanpire - The Animation - 05 [1D5B12ED].mkv
-incomplete/Nyanpire/[AonE] Nyanpire - The Animation - 06 [932E3BE0].mkv
-incomplete/Nyanpire/[AonE] Nyanpire - The Animation - 07 [EE33FE3B].mkv
-incomplete/Nyanpire/[AonE] Nyanpire - The Animation - 08 [0705D542].mkv
-incomplete/Nyanpire/[AonE] Nyanpire - The Animation - 09 [9EF60C30].mkv
-incomplete/Nyanpire/[AonE] Nyanpire - The Animation - 10 [A154CB86].mkv
-incomplete/Nyanpire/[AonE] Nyanpire - The Animation - 11 [752736E3].mkv
-incomplete/Nyanpire/[AonE] Nyanpire - The Animation - 12 [9311CA61].mkv
-incomplete/Nyanpire/[Nutbladder] Nyanpire - 01 [3E6E26D3].mkv
-incomplete/Nyanpire/[Nutbladder] Nyanpire - 03 [311E0936].mkv
 incomplete/Okane ga Nai/[aarinfantasy] Okane ga Nai - OVA 3 [BF0E4291].avi
 incomplete/One Outs/[B2E] One Outs - 02 [1661AFD5].mkv
 incomplete/One Outs/[B2E] One Outs - 03 [D6D6C87E].mkv
