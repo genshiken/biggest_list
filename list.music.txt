@@ -5282,6 +5282,8 @@ music/Shin-S/[Shin-S] A Channel ED & Insert Song Single - Humming Girl [Various]
 music/Shin-S/[Shin-S] A Channel Insert Song Single 2 - Mermaid Sisters [Kotobuki Minako & Uchiyama Yumi].zip
 music/Shin-S/[Shin-S] A Channel OP Single - Morning Arch [Kawano Marina].zip
 music/Shin-S/[Shin-S] Accel World OP Single - Chase the world [May'n].zip
+music/Shin-S/[Shin-S] Accel World OP2 Single - Burst The Gravity (FLAC) [ALTIMA].zip
+music/Shin-S/[Shin-S] Accel World OP2 Single - Burst The Gravity [ALTIMA].zip
 music/Shin-S/[Shin-S] Adlib Anime Kenkyuujo ED Single - WONDERFULER [Katou Emiri & Fukuhara Kaori].zip
 music/Shin-S/[Shin-S] Adlib Anime Kenkyuujo OP Single - Appare! Shunkan Sekkyoku Zai [Katou Emiri & Fukuhara Kaori].zip
 music/Shin-S/[Shin-S] Amagami SS+ OP Single - Check my soul [azusa].zip
@@ -5319,6 +5321,7 @@ music/Shin-S/[Shin-S] DOG DAYS ED Single - PRESENTER [Horie Yui].zip
 music/Shin-S/[Shin-S] DOG DAYS ED2 Single - Miracle Colors [Horie Yui].zip
 music/Shin-S/[Shin-S] DOG DAYS Insert Song Single - Kitto Koi wo Shiteiru [Horie Yui & Mizuki Nana].zip
 music/Shin-S/[Shin-S] DOG DAYS Insert Song Single 2 - Promised Love ~Daisuki x 100~ [Horie Yui].zip
+music/Shin-S/[Shin-S] DOG DAYS' ED Single - Natsu no Yakusoku [Horie Yui].zip
 music/Shin-S/[Shin-S] Danshi Koukousei no Nichijou OP & Insert Song Single - Shiny tale [Mix Speaker's,Inc.].zip
 music/Shin-S/[Shin-S] Denpa Onna to Seishun Otoko ED Single - Ruru [Yakushimaru Etsuko].zip
 music/Shin-S/[Shin-S] Denpa Onna to Seishun Otoko OP Single - Os-Uchuujin [Erio wo Kamatte-chan].zip
