@@ -980,6 +980,7 @@ music/ASL/[ASL]_Various_Artists_-_Haiyore_Nyaruko-san_OP_-_Taiyou_Iwaku_Moeyo_Ch
 music/ASL/[ASL]_Various_Artists_-_Hanafubuki_Kachou_Fuugetsu_Sound_Track_-_Inochi_Mijikashi_Koi_Seyo_Otome_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Hanasaku_Iroha_Original_Soundtrack_-_Yunosagi_Memories_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Hare_Tokidoki_Otenki_Ame_Soundtrack_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Hatsukoi_1_1_Original_Soundtrack_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Hatsune_Miku_GT_Project_Theme_Song_Collection_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Hatsuyuki_Sakura_Complete_Soundtrack_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Hidan_no_Aria _-_Bullet_4_Bonus_Character_CD_Reki_&_BGM_[FLAC].rar
@@ -5310,6 +5311,7 @@ music/Shin-S/[Shin-S] Ben-To OP Single - LIVE for LIFE ~Ookami-tachi no Yoru~ [A
 music/Shin-S/[Shin-S] Boku wa Tomodachi ga Sukunai ED Single - Watashi no Ki-mo-chi [Inoue Marina & Itou Kanae].zip
 music/Shin-S/[Shin-S] Boku wa Tomodachi ga Sukunai TV OP & OVA ED Single - Zannenkei Rinjin-Bu (Hoshi Futatsu Han) [Various].zip
 music/Shin-S/[Shin-S] Boku wa Tomodachi ga Sukunai Vol.1 Bonus CD [Various].zip
+music/Shin-S/[Shin-S] Campione! OP Single - BRAVE BLADE! [Sakuragawa Megu].zip
 music/Shin-S/[Shin-S] Chicchana Yukitsukai Sugar OP & ED Single - Sugar Baby Love [Ishida Youko & Yamamoto Maria].zip
 music/Shin-S/[Shin-S] Chihayafuru OP Single - YOUTHFUL [99RadioService].zip
 music/Shin-S/[Shin-S] ClariS - BIRTHDAY.zip
@@ -5322,6 +5324,7 @@ music/Shin-S/[Shin-S] DOG DAYS ED2 Single - Miracle Colors [Horie Yui].zip
 music/Shin-S/[Shin-S] DOG DAYS Insert Song Single - Kitto Koi wo Shiteiru [Horie Yui & Mizuki Nana].zip
 music/Shin-S/[Shin-S] DOG DAYS Insert Song Single 2 - Promised Love ~Daisuki x 100~ [Horie Yui].zip
 music/Shin-S/[Shin-S] DOG DAYS' ED Single - Natsu no Yakusoku [Horie Yui].zip
+music/Shin-S/[Shin-S] Dakara Boku wa, H ga Dekinai. OP Single - Reason why XXX [Sasaki Sayaka].zip
 music/Shin-S/[Shin-S] Danshi Koukousei no Nichijou OP & Insert Song Single - Shiny tale [Mix Speaker's,Inc.].zip
 music/Shin-S/[Shin-S] Denpa Onna to Seishun Otoko ED Single - Ruru [Yakushimaru Etsuko].zip
 music/Shin-S/[Shin-S] Denpa Onna to Seishun Otoko OP Single - Os-Uchuujin [Erio wo Kamatte-chan].zip
@@ -5371,6 +5374,7 @@ music/Shin-S/[Shin-S] Inu x Boku SS ED Single 1 - Rakuen no Photograph [Nakamura
 music/Shin-S/[Shin-S] Inu x Boku SS OP Single - Nirvana [MUCC].zip
 music/Shin-S/[Shin-S] Itsuka Tenma no Kuro Usagi Character Song CD Vol.1 - Himea, Taito & Haruka [Various].zip
 music/Shin-S/[Shin-S] Itsuka Tenma no Kuro Usagi OP Single - Once [Harada Hitomi].zip
+music/Shin-S/[Shin-S] Jinrui wa Suitai Shitamashita OP Single - Real World [nano.RIPE].zip
 music/Shin-S/[Shin-S] Jormungand ED Single - Ambivalentidea [Yanagi Nagi].zip
 music/Shin-S/[Shin-S] Jormungand OP Single - Borderland [Kawada Mami].zip
 music/Shin-S/[Shin-S] K-ON! Movie ED Single - Singing! [Houkago Tea Time].zip
@@ -5389,6 +5393,7 @@ music/Shin-S/[Shin-S] Kill Me Baby! OP & ED Single - Kill Me no Baby! [Tamura Mu
 music/Shin-S/[Shin-S] Kimi to Boku. 2 ED Single - Kimi to Boku no Bankai [Sakai Yuu].zip
 music/Shin-S/[Shin-S] Kimi to Boku. 2 OP Single - Zutto [Sakou Tomohisa].zip
 music/Shin-S/[Shin-S] Koi to Senkyo to Chocolate OP Single - Signal Graph [Annabel].zip
+music/Shin-S/[Shin-S] Kono Naka ni Hitori, Imouto ga Iru! ED Single - Heavenly Lover [Various].zip
 music/Shin-S/[Shin-S] Kono Oozora ni, Tsubasa wo Hirogete PC Game Maxi Single - Perfect Sky [Shimotsuki Haruka & Chata].zip
 music/Shin-S/[Shin-S] Kore wa Zombie Desu ka OF THE DEAD ED Single - Koi no Beginner Nan Desu (T_T) [Yamaguchi Rie].rar
 music/Shin-S/[Shin-S] Kyoukai Senjou no Horizon - Special CD 1 [Saitou Chiwa & Chihara Minori].zip
@@ -5427,6 +5432,7 @@ music/Shin-S/[Shin-S] Nichijou ED Single - Zzz [Sasaki Sayaka].zip
 music/Shin-S/[Shin-S] Nichijou OP Single - Hyadain no Kakakata Kataomoi-C [Hyadain].zip
 music/Shin-S/[Shin-S] Nisemonogatari ED Single - Naisho no Hanashi [ClariS].zip
 music/Shin-S/[Shin-S] Nisemonogatari OP & Music Collection I - Futakotome [Saitou Chiwa & Kousaki Satoru].zip
+music/Shin-S/[Shin-S] Nisemonogatari OP3 & Music Collection III - Hakkin Disco [Iguchi Yuka & Kousaki Satoru].zip
 music/Shin-S/[Shin-S] Nurarihyon no Mago ~Sennen Makyou~ OP2 Single - The LOVE SONG [LM.C].zip
 music/Shin-S/[Shin-S] Oda Nobuna no Yabou ED Single - Hikari [Mizuta Makino].zip
 music/Shin-S/[Shin-S] Oda Nobuna no Yabou OP Single - Link [Aimi].zip
@@ -5476,6 +5482,7 @@ music/Shin-S/[Shin-S] Softenni ED Single - Tsumasaki Dachi [Itou Kanae].zip
 music/Shin-S/[Shin-S] Softenni OP Single - Rulebook wo Wasurechae [ULTRA-PRISM with Hakuouchuu Soft Tennis Club].zip
 music/Shin-S/[Shin-S] Steins;Gate ED Single - Toki Tsukasadoru Juuni no Meiyaku [Sakakibara Yui].zip
 music/Shin-S/[Shin-S] Steins;Gate Vol.9 Bonus CD - Rabomen Spirits [Miyano Mamoru & Seki Tomokazu].zip
+music/Shin-S/[Shin-S] Sword Art Online ED Single - Yume Sekai [Tomatsu Haruka].zip
 music/Shin-S/[Shin-S] THE iDOLM@STER CINDERELLA MASTER 003 - Mimura Kanako [Ootsubo Yuka].zip
 music/Shin-S/[Shin-S] THE iDOLM@STER ED Single - The world is all one!! [765PRO ALLSTARS].zip
 music/Shin-S/[Shin-S] THE iDOLM@STER OP2 Single - CHANGE!!!! [765PRO ALLSTARS].zip
