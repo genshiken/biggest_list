@@ -8,10 +8,13 @@
 !new/.ec/[ASL]_Various_Artists_-_Aquarion_EVOL_-_LOVE_New_Dimension_[FLAC]_[w_Scans].rar
 !new/.ec/[CTSS] Hagure Yuusha no Estetica - 01v2 [1280x720 Hi10P AAC][a28a91d6].mkv
 !new/.ec/[Commie] Accel World - 16 [F6F9F5D9].mkv
+!new/.ec/[Commie] Arcana✴Famiglia - 05 [BE17A10B].mkv
 !new/.ec/[Commie] Campione! - 04 [BEF5816E].mkv
 !new/.ec/[Commie] Dog Days' - 04 [4B20333D].mkv
+!new/.ec/[Commie] Jinrui wa Suitai Shimashita - 05 [828BADF1].mkv
 !new/.ec/[Commie] Kokoro Connect - 04 [10FF2449].mkv
 !new/.ec/[Commie] Natsuyuki Rendezvous - 04 [05734DE4].mkv
+!new/.ec/[Commie] Space Brothers - 18 [672C42BC].mkv
 !new/.ec/[Commie] Sword Art Online - 04 [EF0D41D8].mkv
 !new/.ec/[DmomHiro] Digimon Adventure 02 - Movie II - Supreme Evolution!! The Golden Digimentals (DVD, 396p) [A5647314].mkv
 !new/.ec/[DmonHiro] Digimon Tamers - Movie II - The Digimon Runaway Express (DVD, 384p) [E896EAA9].mkv
@@ -54,6 +57,7 @@
 !new/.ec/[UTW] Fate-Zero - Drama CD - 1 Scripts.zip
 !new/.ec/[UTW] Fate-Zero - Drama CD - 1 [73F79A10].mka
 !new/.ec/[UTW]_Kono_Naka_ni_Hitori_Imouto_ga_Iru_-_04_[h264-720p][416DF054].mkv
+!new/.ec/[Underwater] Rinne no Lagrange - 15 (720p) [5B8C164F].mkv
 !new/.ec/[WhyNot] Phi Brain - Kami no Puzzle S2 - 16 [51FB85C4].mkv
 !new/.ec/[gg]_EUREKA_SEVEN_AO_-_15_[8389E9E6].mkv
 !new/.ec/err/[HorribleSubs] Naruto Shippuuden - 271 [720p].mkv
@@ -848,6 +852,7 @@
 !new/[Commie] Hyouka - 14 [17745CCD].mkv
 !new/[HorribleSubs] Cardfight!! Vanguard (Asia Circuit) - 81 [720p].mkv
 !new/[gg]_Binbougami_ga!_-_03_[043DB898].mkv
+!new/[gg]_Joshiraku_-_03_[ED67B490].mkv
 !new/[hadena] kore wa zombie desu ka - of the dead - 00 [720p] [e94ea620].mkv
 !new/[mazui]_hyouka_-_11.5_[lq][ebacbacc].mkv
 !new/[sage]_Tanken_Driland_-_02_[720p][10bit][F22E80BC].mkv
