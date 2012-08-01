@@ -1218,10 +1218,12 @@ ongoing/Gundam Unicorn/[Thora] Gundam Unicorn - 2 [v2 720p BD][63313E42].mkv
 ongoing/Gundam Unicorn/[Thora] Gundam Unicorn - 3 [720p BD][294FFCB9].mkv
 ongoing/Gundam Unicorn/[Thora] Gundam Unicorn - 4 [720p BD][0ECE1F39].mkv
 ongoing/Gundam Unicorn/[Thora] Gundam Unicorn - 5 [720p BD][1CFE6D31].mkv
+ongoing/Hagure Yuusha no Estetica/[CTSS] Hagure Yuusha no Estetica - 01 [v2 720p][A28A91D6].mkv
 ongoing/Hagure Yuusha no Estetica/[RandomRemux] Hagure Yuusha no Estetica - 01 [720p][4411ADF4].mkv
 ongoing/Hagure Yuusha no Estetica/[SubDesu] Hagure Yuusha no Estetica - 01 [720p][AD2EB721].mkv
 ongoing/Hagure Yuusha no Estetica/[SubDesu] Hagure Yuusha no Estetica - 02 [720p][B38E1F4D].mkv
 ongoing/Hagure Yuusha no Estetica/[SubDesu] Hagure Yuusha no Estetica - 03 [720p][6A5876B6].mkv
+ongoing/Hagure Yuusha no Estetica/[SubDesu] Hagure Yuusha no Estetica - 04 [720p][736CD402].mkv
 ongoing/Hakuoki Reimeiroku/[HorribleSubs] Hakuoki Reimeiroku - 01 [720p][5936354E].mkv
 ongoing/Hakuoki Reimeiroku/[HorribleSubs] Hakuoki Reimeiroku - 02 [1080p][E43518D2].mkv
 ongoing/Hakuoki Reimeiroku/[HorribleSubs] Hakuoki Reimeiroku - 03 [720p][5E23612D].mkv
@@ -1377,6 +1379,7 @@ ongoing/Kaibutsu Oujo OVA/[Ayako] Kaibutsu Oujo OVA - 03 [DVD][E9271E7F].mkv
 ongoing/Kaibutsu Oujo OVA/[Hatsuyuki] Kaibutsu Oujo OVA - 03 [DVD][04E0477D].mkv
 ongoing/Kaibutsu Oujo OVA/[Mamiko SHiN] Kaibutsu Oujo OVA - 01 [DVD][EEE2827C].mkv
 ongoing/Kaibutsu Oujo OVA/[Mamiko SHiN] Kaibutsu Oujo OVA - 02 [DVD][1F5A2D99].mkv
+ongoing/Kaibutsu Oujo OVA/[Mamiko SHiN] Kaibutsu Oujo OVA - 03 [DVD][9B4DAF38].mkv
 ongoing/Kimi no Iru Machi OVA/[Commie] Kimi no Iru Machi OVA - 01 [5070FF62].mkv
 ongoing/Kimi no Iru Machi OVA/[Commie] Kimi no Iru Machi OVA - 02 [8810984F].mkv
 ongoing/Kingdom/[A-Destiny] Kingdom - 01 [720p][264FD4B3].mkv
@@ -2337,6 +2340,8 @@ ongoing/Queen's Blade Rebellion/[HorribleSubs] Queen's Blade Rebellion - 09 [720
 ongoing/Queen's Blade Rebellion/[HorribleSubs] Queen's Blade Rebellion - 10 [720p][B9D19C30].mkv
 ongoing/Queen's Blade Rebellion/[HorribleSubs] Queen's Blade Rebellion - 11 [720p][1AEE9184].mkv
 ongoing/Queen's Blade Rebellion/[HorribleSubs] Queen's Blade Rebellion - 12 [720p][AC528449].mkv
+ongoing/Recorder to Randoseru OVA/[CMS] Recorder to Randoseru OVA - 01 [DVD][77732C1B].mkv
+ongoing/Recorder to Randoseru OVA/[CMS] Recorder to Randoseru OVA - 02 [DVD][FA7B3528].mkv
 ongoing/Recorder to Randoseru/[HorribleSubs] Recorder to Randoseru - 01 [720p][1A2ED7D1].mkv
 ongoing/Recorder to Randoseru/[HorribleSubs] Recorder to Randoseru - 02 [720p][B7630C40].mkv
 ongoing/Recorder to Randoseru/[HorribleSubs] Recorder to Randoseru - 03 [720p][F7A5D5DC].mkv
