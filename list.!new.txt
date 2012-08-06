@@ -13,8 +13,11 @@
 !new/.ec/[Commie] Campione! - 05 [48C02460].mkv
 !new/.ec/[Commie] Horizon in the Middle of Nowhere - 17 [0C550F11].mkv
 !new/.ec/[Commie] Hyouka - 15 [46AD9250].mkv
+!new/.ec/[Commie] Natsuyuki Rendezvous - 05 [F33F3CDA].mkv
+!new/.ec/[Commie] Sword Art Online - 05 [54B2317C].mkv
 !new/.ec/[Commie] Yuru Yuri♪♪ - 05 [267AD712].mkv
 !new/.ec/[Doki] Oda Nobuna no Yabou ED Single - Hikari [Mizuta Makino] (FLAC) [1C49FA1C].zip
+!new/.ec/[Doki] Tari Tari - 06 (1280x720 Hi10P AAC) [022D7457].mkv
 !new/.ec/[EveTaku] AKB0048 - 01 (BDRip 720p H.264 AACx2)[452860EA].mkv
 !new/.ec/[EveTaku] AKB0048 Vol.01 - CV Selection Results (BDRip 720i H.264 AAC)[E7E55074].mkv
 !new/.ec/[EveTaku] AKB0048 Vol.01 - Character Introduction (BDRip 720p H.264 AAC)[6C1492A6].mkv
@@ -29,13 +32,42 @@
 !new/.ec/[EveTaku] AKB0048 Vol.01 - PV03 (BDRip 720p H.264 AAC)[A7BAB905].mkv
 !new/.ec/[EveTaku] AKB0048 Vol.01 - TVCM (BDRip 720p H.264 AAC)[412324E9].mkv
 !new/.ec/[EveTaku] Chitose Get You! - 05 (1280x720 x264-Hi10p AAC)[99A0B022].mkv
+!new/.ec/[FFFpeeps] Sengoku Collection - 18 [10bit][DDCEC2E0].mkv
+!new/.ec/[Hiryuu] Dog Days_ 05 [Hi10P 1280x720 H264] [48915361].mkv
 !new/.ec/[HorribleSubs] Cardfight!! Vanguard (Asia Circuit) - 82 [720p].mkv
 !new/.ec/[HorribleSubs] Fairy Tail - 140 [720p].mkv
+!new/.ec/[HorribleSubs] Naruto Shippuuden - 271 [720p].mkv
+!new/.ec/[HorribleSubs] Polar Bear Cafe - 18 [720p].mkv
+!new/.ec/[HorribleSubs] SKET Dance - 69 [720p].mkv
+!new/.ec/[HorribleSubs] Saint Seiya Omega - 17 [720p].mkv
+!new/.ec/[HorribleSubs] Utakoi - 02 [720p].mkv
+!new/.ec/[HorribleSubs] Utakoi - 03 [720p].mkv
+!new/.ec/[HorribleSubs] Utakoi - 04 [720p].mkv
+!new/.ec/[HorribleSubs] Yurumate3Dei - 16 [720p].mkv
 !new/.ec/[Mazui]_Hyouka_-_15_[1F3EB982].mkv
+!new/.ec/[Mazui]_Hyouka_-_16_[0D8901A5].mkv
+!new/.ec/[ReDone] Lovedol ~ Lovely Idol - 02 (DVD) [92FE89A6].mkv
+!new/.ec/[ReDone] Saint October - 01 (DVD) [48297F24].mkv
+!new/.ec/[ReDone] Saint October - 02 (DVD) [9EE26C0C].mkv
+!new/.ec/[ReDone] Shinigami's Ballad - 01 (DVD) [43BB3778].mkv.part
+!new/.ec/[ReDone] Shinigami's Ballad - 02 (DVD) [4B94AA3D].mkv.part
+!new/.ec/[ReDone] Shinigami's Ballad - 03 (DVD) [8BD343A1].mkv.part
+!new/.ec/[Shin-S] Dakara Boku wa, H ga Dekinai. OP Single - Reason why XXX (FLAC) [Sasaki Sayaka].zip
+!new/.ec/[Shin-S] Jinrui wa Suitai Shimashita OP Single - Real World (FLAC) [nano.RIPE].zip
+!new/.ec/[Shin-S] Koi to Senkyo to Chocolate OP Single - Signal Graph (FLAC) [Annabel].zip
+!new/.ec/[Shin-S] Kono Naka ni Hitori, Imouto ga Iru! ED Single - Heavenly Lover (FLAC) [Various].zip
+!new/.ec/[Shin-S] Nazo no Kanojo X ED Single - Houkago no Yakusoku (FLAC) [Yoshitani Ayako].zip
+!new/.ec/[Shin-S] Rinne no Lagrange S2 OP & ED2 Single - Marble [Nakajima Megumi].zip
 !new/.ec/[SubDESU] Dakara Boku wa H ga Dekinai. - 05 (1280x720 x264 AAC) [AAD94672].mkv
 !new/.ec/[SubDESU] Hagure Yuusha no Estetica - 05 (1280x720 x264 AAC) [5B6F385D].mkv
 !new/.ec/[UTW] Fate-Zero - Drama CD - 1 Scripts.zip
 !new/.ec/[UTW] Fate-Zero - Drama CD - 1 [73F79A10].mka
+!new/.ec/[WhyNot] Phi Brain - Kami no Puzzle S2 - 17 [6B45A920].mkv
+!new/.ec/[gg]_Binbougami_ga!_-_05_[F2701080].mkv
+!new/.ec/[iSiscon]_Araragi_Tsukihi_(CV._Iguchi_Yuka),_Kousaki_Satoru_-_Platinum_Disco_&_Nisemonogatari_Gekiban_Ongakushuu_Sono_San_(FLAC).rar
+!new/.ec/[rori] Kokoro Connect - 05 [830BE267].mkv
+!new/.ec/[sage]_Mobile_Suit_Gundam_AGE_-_42_[720p][10bit][F4CC3E20].mkv
+!new/.ec/[yibis]_One_Piece_557_[720p][9B619209].mkv
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
@@ -824,6 +856,7 @@
 !new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - Summer Specials [AVC][CD176B01].mkv
 !new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - Winter Specials [AVC][2D234649].mkv
 !new/[CoalGuys] K-ON! Movie (720p) [D09FC86B].mkv
+!new/[Commie] Sword Art Online - 05 [54B2317C].mkv
 !new/[Deadfish] Rurouni Kenshin - Meiji Kenkaku Romantan - Shin Kyoto Hen - Act 01 [BD][MP4][AAC].mp4
 !new/[commie] hyouka - 15 [46ad9250].mkv
 !new/[commie] kokoro connect - 04 [10ff2449].mkv
