@@ -7,14 +7,20 @@
 !new/.ec/[A-Destiny] Kingdom - 09 (1280x720 Hi10p AAC) [12B5D032].mkv
 !new/.ec/[ASL]_Annabel_-_Koi_to_Senkyou_to_Chocolate_OP_-_Signal_graph_[FLAC]_[w_Scans].rar
 !new/.ec/[ASL]_DECOx27_-_LOVE_CALENDER_[EXTRA].rar
+!new/.ec/[ASL]_Mizuki_Nana_-_Magical_Girl_Lyrical_NANOHA_The_MOVIE_2nd_As_OP_-_BRIGHT_STREAM_[FLAC].rar
 !new/.ec/[ASL]_Tomatsu_Haruka_-_Sword_Art_Online_ED_-_Yume_Sekai_[FLAC]_[w_Scans].rar
 !new/.ec/[ASL]_Various_Artists_-_Kono_Naka_ni_Hitori_Imouto_ga_Iru_ED_-_Heavenly_Lover_[FLAC]_[w_Scans].rar
 !new/.ec/[Commie] Accel World - 17 [F1078D77].mkv
 !new/.ec/[Commie] Campione! - 05 [48C02460].mkv
+!new/.ec/[Commie] Hagure Yuusha no Estetica - 01 [4F56F637].mkv
+!new/.ec/[Commie] Hagure Yuusha no Estetica - 02 [D724692A].mkv
+!new/.ec/[Commie] Hagure Yuusha no Estetica - 03 [1F4B950E].mkv
+!new/.ec/[Commie] Hagure Yuusha no Estetica - 04 [83D7F79C].mkv
 !new/.ec/[Commie] Horizon in the Middle of Nowhere - 17 [0C550F11].mkv
 !new/.ec/[Commie] Hyouka - 15 [46AD9250].mkv
 !new/.ec/[Commie] Natsuyuki Rendezvous - 05 [F33F3CDA].mkv
 !new/.ec/[Commie] Sword Art Online - 05 [54B2317C].mkv
+!new/.ec/[Commie] Tari Tari - 06 [5F26E9F5].mkv
 !new/.ec/[Commie] Yuru Yuri♪♪ - 05 [267AD712].mkv
 !new/.ec/[Doki] Oda Nobuna no Yabou ED Single - Hikari [Mizuta Makino] (FLAC) [1C49FA1C].zip
 !new/.ec/[Doki] Tari Tari - 06 (1280x720 Hi10P AAC) [022D7457].mkv
@@ -38,12 +44,15 @@
 !new/.ec/[HorribleSubs] Fairy Tail - 140 [720p].mkv
 !new/.ec/[HorribleSubs] Naruto Shippuuden - 271 [720p].mkv
 !new/.ec/[HorribleSubs] Polar Bear Cafe - 18 [720p].mkv
+!new/.ec/[HorribleSubs] Poyopoyo - 31 [720p].mkv
 !new/.ec/[HorribleSubs] SKET Dance - 69 [720p].mkv
 !new/.ec/[HorribleSubs] Saint Seiya Omega - 17 [720p].mkv
+!new/.ec/[HorribleSubs] The Knight in the Area - 29 [720p].mkv
 !new/.ec/[HorribleSubs] Utakoi - 02 [720p].mkv
 !new/.ec/[HorribleSubs] Utakoi - 03 [720p].mkv
 !new/.ec/[HorribleSubs] Utakoi - 04 [720p].mkv
 !new/.ec/[HorribleSubs] Yurumate3Dei - 16 [720p].mkv
+!new/.ec/[HorribleSubs] Yurumate3Dei - 18 [720p].mkv
 !new/.ec/[Mazui]_Hyouka_-_15_[1F3EB982].mkv
 !new/.ec/[Mazui]_Hyouka_-_16_[0D8901A5].mkv
 !new/.ec/[ReDone] Lovedol ~ Lovely Idol - 02 (DVD) [92FE89A6].mkv
@@ -52,6 +61,7 @@
 !new/.ec/[ReDone] Shinigami's Ballad - 01 (DVD) [43BB3778].mkv
 !new/.ec/[ReDone] Shinigami's Ballad - 02 (DVD) [4B94AA3D].mkv
 !new/.ec/[ReDone] Shinigami's Ballad - 03 (DVD) [8BD343A1].mkv
+!new/.ec/[RyRo]_Inazuma_Eleven_GO_Chrono_Stone_-_014_(720p)_[91D2754C].mkv
 !new/.ec/[Shin-S] Dakara Boku wa, H ga Dekinai. OP Single - Reason why XXX (FLAC) [Sasaki Sayaka].zip
 !new/.ec/[Shin-S] Jinrui wa Suitai Shimashita OP Single - Real World (FLAC) [nano.RIPE].zip
 !new/.ec/[Shin-S] Koi to Senkyo to Chocolate OP Single - Signal Graph (FLAC) [Annabel].zip
@@ -62,6 +72,7 @@
 !new/.ec/[SubDESU] Hagure Yuusha no Estetica - 05 (1280x720 x264 AAC) [5B6F385D].mkv
 !new/.ec/[UTW] Fate-Zero - Drama CD - 1 Scripts.zip
 !new/.ec/[UTW] Fate-Zero - Drama CD - 1 [73F79A10].mka
+!new/.ec/[Underwater] Rinne no Lagrange - 17 (720p) [380A15A0].mkv
 !new/.ec/[WhyNot] Phi Brain - Kami no Puzzle S2 - 17 [6B45A920].mkv
 !new/.ec/[gg]_Binbougami_ga!_-_05_[F2701080].mkv
 !new/.ec/[iSiscon]_Araragi_Tsukihi_(CV._Iguchi_Yuka),_Kousaki_Satoru_-_Platinum_Disco_&_Nisemonogatari_Gekiban_Ongakushuu_Sono_San_(FLAC).rar
