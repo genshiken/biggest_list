@@ -12,12 +12,14 @@
 !new/.ec/[ASL]_Various_Artists_-_Kono_Naka_ni_Hitori_Imouto_ga_Iru_ED_-_Heavenly_Lover_[FLAC]_[w_Scans].rar
 !new/.ec/[Commie] Accel World - 17 [F1078D77].mkv
 !new/.ec/[Commie] Campione! - 05 [48C02460].mkv
+!new/.ec/[Commie] Dog Days' - 05 [696AA736].mkv
 !new/.ec/[Commie] Hagure Yuusha no Estetica - 01 [4F56F637].mkv
 !new/.ec/[Commie] Hagure Yuusha no Estetica - 02 [D724692A].mkv
 !new/.ec/[Commie] Hagure Yuusha no Estetica - 03 [1F4B950E].mkv
 !new/.ec/[Commie] Hagure Yuusha no Estetica - 04 [83D7F79C].mkv
 !new/.ec/[Commie] Horizon in the Middle of Nowhere - 17 [0C550F11].mkv
 !new/.ec/[Commie] Hyouka - 15 [46AD9250].mkv
+!new/.ec/[Commie] Kokoro Connect - 05 [53D3D968].mkv
 !new/.ec/[Commie] Natsuyuki Rendezvous - 05 [F33F3CDA].mkv
 !new/.ec/[Commie] Sword Art Online - 05 [54B2317C].mkv
 !new/.ec/[Commie] Tari Tari - 06 [5F26E9F5].mkv
@@ -39,9 +41,14 @@
 !new/.ec/[EveTaku] AKB0048 Vol.01 - TVCM (BDRip 720p H.264 AAC)[412324E9].mkv
 !new/.ec/[EveTaku] Chitose Get You! - 05 (1280x720 x264-Hi10p AAC)[99A0B022].mkv
 !new/.ec/[FFFpeeps] Sengoku Collection - 18 [10bit][DDCEC2E0].mkv
+!new/.ec/[Formula]_Tales_of_Symphonia_OVA_-_The_United_World_Bonus_1_[5C28A7D5].mkv
+!new/.ec/[GotWoot]_Moyashimon_Returns_-_05_[10bit][212331AB].mkv
 !new/.ec/[Hiryuu] Dog Days_ 05 [Hi10P 1280x720 H264] [48915361].mkv
 !new/.ec/[HorribleSubs] Cardfight!! Vanguard (Asia Circuit) - 82 [720p].mkv
+!new/.ec/[HorribleSubs] Cardfight!! Vanguard (Asia Circuit) - 83 [720p].mkv
 !new/.ec/[HorribleSubs] Fairy Tail - 140 [720p].mkv
+!new/.ec/[HorribleSubs] Hunter X Hunter - 42 [720p].mkv
+!new/.ec/[HorribleSubs] Kuroko's Basketball - 18 [720p].mkv
 !new/.ec/[HorribleSubs] Naruto Shippuuden - 271 [720p].mkv
 !new/.ec/[HorribleSubs] Polar Bear Cafe - 18 [720p].mkv
 !new/.ec/[HorribleSubs] Poyopoyo - 31 [720p].mkv
@@ -53,8 +60,19 @@
 !new/.ec/[HorribleSubs] Utakoi - 04 [720p].mkv
 !new/.ec/[HorribleSubs] Yurumate3Dei - 16 [720p].mkv
 !new/.ec/[HorribleSubs] Yurumate3Dei - 18 [720p].mkv
+!new/.ec/[Jumonji-Giri]_[A-E]_Yakitate_Japan_Ep10_(064caf0e).mkv
+!new/.ec/[Jumonji-Giri]_[A-E]_Yakitate_Japan_Ep11_(2024b535).mkv
 !new/.ec/[Mazui]_Hyouka_-_15_[1F3EB982].mkv
 !new/.ec/[Mazui]_Hyouka_-_16_[0D8901A5].mkv
+!new/.ec/[Nipponsei] AKB0048 OP ED Single - Kibou ni Tsuite [NO NAME].zip
+!new/.ec/[Nipponsei] Accel World ED2 Single - Unite [Misawa Sachika].zip
+!new/.ec/[Nipponsei] Accel World Original Soundtrack feat. Ooshima Hiroyuki.zip
+!new/.ec/[Nipponsei] Dog Days' OP Single - FEARLESS HERO [Mizuki Nana].zip
+!new/.ec/[Nipponsei] Natsuiro Kiseki Insert Song 1 - Yasashisa ni Tsutsumareru You ni.zip
+!new/.ec/[Nipponsei] Natsuiro Kiseki Insert Song 2 - Yumeiro Graffiti [Kotobuki Minako & Takagaki Ayahi].zip
+!new/.ec/[Nipponsei] Nazo no Kanojo X ED Single - Houkago no Yakusoku [Yoshitani Ayako].zip
+!new/.ec/[Nipponsei] Rinne no Lagrange Season 2 OP Single - Marble [Nakajima Megumi].zip
+!new/.ec/[Nipponsei] TARI TARI OP Single - Dreamer [AiRI].zip
 !new/.ec/[ReDone] Lovedol ~ Lovely Idol - 02 (DVD) [92FE89A6].mkv
 !new/.ec/[ReDone] Saint October - 01 (DVD) [48297F24].mkv
 !new/.ec/[ReDone] Saint October - 02 (DVD) [9EE26C0C].mkv
@@ -62,16 +80,21 @@
 !new/.ec/[ReDone] Shinigami's Ballad - 02 (DVD) [4B94AA3D].mkv
 !new/.ec/[ReDone] Shinigami's Ballad - 03 (DVD) [8BD343A1].mkv
 !new/.ec/[RyRo]_Inazuma_Eleven_GO_Chrono_Stone_-_014_(720p)_[91D2754C].mkv
+!new/.ec/[RyRo]_Reach_the_Milky_Way!_Inazuma_Eleven_GO_Tanabata_Festival_-_Live_Post-Recording_Stage_[BC1F2428].mkv
 !new/.ec/[Shin-S] Dakara Boku wa, H ga Dekinai. OP Single - Reason why XXX (FLAC) [Sasaki Sayaka].zip
 !new/.ec/[Shin-S] Jinrui wa Suitai Shimashita OP Single - Real World (FLAC) [nano.RIPE].zip
 !new/.ec/[Shin-S] Koi to Senkyo to Chocolate OP Single - Signal Graph (FLAC) [Annabel].zip
 !new/.ec/[Shin-S] Kono Naka ni Hitori, Imouto ga Iru! ED Single - Heavenly Lover (FLAC) [Various].zip
+!new/.ec/[Shin-S] Kyoukai Senjou no Horizon II ED Single -Side SunRise- - Sora no Uta [Okui Masami].zip
+!new/.ec/[Shin-S] Kyoukai Senjou no Horizon II ED Single -Side SunSet- - Kanashimi wa Dare no Negai Demo nai [Yuuki Aira].zip
 !new/.ec/[Shin-S] Nazo no Kanojo X ED Single - Houkago no Yakusoku (FLAC) [Yoshitani Ayako].zip
 !new/.ec/[Shin-S] Rinne no Lagrange S2 OP & ED2 Single - Marble [Nakajima Megumi].zip
+!new/.ec/[Shin-S] Sword Art Online OP Single - crossing field [LiSA].zip
 !new/.ec/[SubDESU] Dakara Boku wa H ga Dekinai. - 05 (1280x720 x264 AAC) [AAD94672].mkv
 !new/.ec/[SubDESU] Hagure Yuusha no Estetica - 05 (1280x720 x264 AAC) [5B6F385D].mkv
 !new/.ec/[UTW] Fate-Zero - Drama CD - 1 Scripts.zip
 !new/.ec/[UTW] Fate-Zero - Drama CD - 1 [73F79A10].mka
+!new/.ec/[Underwater] Another 00 - The Other -Karma- (DVD 576p) [31B44743].mkv
 !new/.ec/[Underwater] Rinne no Lagrange - 17 (720p) [380A15A0].mkv
 !new/.ec/[WhyNot] Phi Brain - Kami no Puzzle S2 - 17 [6B45A920].mkv
 !new/.ec/[gg]_Binbougami_ga!_-_05_[F2701080].mkv
@@ -869,6 +892,7 @@
 !new/[CoalGuys] K-ON! Movie (720p) [D09FC86B].mkv
 !new/[Commie] Sword Art Online - 05 [54B2317C].mkv
 !new/[Deadfish] Rurouni Kenshin - Meiji Kenkaku Romantan - Shin Kyoto Hen - Act 01 [BD][MP4][AAC].mp4
+!new/[HorribleSubs] Oda Nobuna no Yabou - 05 [720p].mkv
 !new/[commie] hyouka - 15 [46ad9250].mkv
 !new/[commie] kokoro connect - 04 [10ff2449].mkv
 !new/[commie] tari tari - 05 [49fea213].mkv
@@ -1055,6 +1079,86 @@
 !new/belum/[TV_Series_1998]_Eat-Man__98/Eat-Man__98_-_10[12]_-_Mega_Mix_Part_2_[512x384][DVD][AM][FF510402].avi
 !new/belum/[TV_Series_1998]_Eat-Man__98/Eat-Man__98_-_11[12]_-_The_Farcical_Dream_Part_1_[512x384][DVD][AM][29D3D3AC].avi
 !new/belum/[TV_Series_1998]_Eat-Man__98/Eat-Man__98_-_12[12]_-_The_Farcical_Dream_Part_2_[512x384][DVD][AM][7756B877].avi
+!new/biggest/[BSS]_Moyashimon_[BD]/[BSS]_Moyashimon_-_01_[BD][7ECF7F4C].mkv
+!new/biggest/[BSS]_Moyashimon_[BD]/[BSS]_Moyashimon_-_02_[BD][8B59B6C0].mkv
+!new/biggest/[BSS]_Moyashimon_[BD]/[BSS]_Moyashimon_-_03_[BD][8188363B].mkv
+!new/biggest/[BSS]_Moyashimon_[BD]/[BSS]_Moyashimon_-_04_[BD][0B56DD26].mkv
+!new/biggest/[BSS]_Moyashimon_[BD]/[BSS]_Moyashimon_-_05_[BD][FE84A17D].mkv
+!new/biggest/[BSS]_Moyashimon_[BD]/[BSS]_Moyashimon_-_06_[BD][0F355572].mkv
+!new/biggest/[BSS]_Moyashimon_[BD]/[BSS]_Moyashimon_-_07_[BD][18C923C4].mkv
+!new/biggest/[BSS]_Moyashimon_[BD]/[BSS]_Moyashimon_-_08_[BD][EC770BB7].mkv
+!new/biggest/[BSS]_Moyashimon_[BD]/[BSS]_Moyashimon_-_09_[BD][AC9F3A62].mkv
+!new/biggest/[BSS]_Moyashimon_[BD]/[BSS]_Moyashimon_-_10_[BD][5CD808FC].mkv
+!new/biggest/[BSS]_Moyashimon_[BD]/[BSS]_Moyashimon_-_11_[BD][6797B246].mkv
+!new/biggest/[BSS]_Moyashimon_[BD]/[BSS]_Moyashimon_-_Microbe_Theater_Deluxe_-_01_[BD][E307701C].mkv
+!new/biggest/[BSS]_Moyashimon_[BD]/[BSS]_Moyashimon_-_Microbe_Theater_Deluxe_-_02_[BD][D233C8DE].mkv
+!new/biggest/[BSS]_Moyashimon_[BD]/[BSS]_Moyashimon_-_Microbe_Theater_Deluxe_-_03_[BD][C00AA058].mkv
+!new/biggest/[BSS]_Moyashimon_[BD]/[BSS]_Moyashimon_-_Microbe_Theater_Deluxe_-_04_[BD][7A6AA1B1].mkv
+!new/biggest/[FFF] Highschool DxD - Vol.01 [BD][720p-AAC]/[FFF] Highschool DxD - 01 [BD][720p-AAC][16CE46EC].mkv
+!new/biggest/[FFF] Highschool DxD - Vol.01 [BD][720p-AAC]/[FFF] Highschool DxD - 02 [BD][720p-AAC][A9C3CC91].mkv
+!new/biggest/[FFF] Highschool DxD - Vol.01 [BD][720p-AAC]/[FFF] Highschool DxD - SP01 [BD][720p-AAC][1AAA8FCF].mkv
+!new/biggest/[FFF] Highschool DxD - Vol.02 [BD][720p-AAC]/[FFF] Highschool DxD - 03 [BD][720p-AAC][D85F227F].mkv
+!new/biggest/[FFF] Highschool DxD - Vol.02 [BD][720p-AAC]/[FFF] Highschool DxD - 04 [BD][720p-AAC][8CBC4C6D].mkv
+!new/biggest/[FFF] Highschool DxD - Vol.02 [BD][720p-AAC]/[FFF] Highschool DxD - SP02 [BD][720p-AAC][247BF2A5].mkv
+!new/biggest/[FFF] Highschool DxD - Vol.03 [BD][720p-AAC]/[FFF] Highschool DxD - 05 [BD][720p-AAC][73198003].mkv
+!new/biggest/[FFF] Highschool DxD - Vol.03 [BD][720p-AAC]/[FFF] Highschool DxD - 06 [BD][720p-AAC][B8B0D11E].mkv
+!new/biggest/[FFF] Highschool DxD - Vol.03 [BD][720p-AAC]/[FFF] Highschool DxD - SP03 [BD][720p-AAC][95FFAC00].mkv
+!new/biggest/[FFF] Highschool DxD - Vol.04 [BD][720p-AAC]/[FFF] Highschool DxD - 07 [BD][720p-AAC][964AC830].mkv
+!new/biggest/[FFF] Highschool DxD - Vol.04 [BD][720p-AAC]/[FFF] Highschool DxD - 08 [BD][720p-AAC][0468778D].mkv
+!new/biggest/[FFF] Highschool DxD - Vol.04 [BD][720p-AAC]/[FFF] Highschool DxD - SP04 [BD][720p-AAC][C9AAC589].mkv
+!new/biggest/[FFF] Highschool DxD - Vol.05 [BD][720p-AAC]/[FFF] Highschool DxD - 09 [BD][720p-AAC][68C582EF].mkv
+!new/biggest/[FFF] Highschool DxD - Vol.05 [BD][720p-AAC]/[FFF] Highschool DxD - 10 [BD][720p-AAC][DB0C4337].mkv
+!new/biggest/[FFF] Highschool DxD - Vol.05 [BD][720p-AAC]/[FFF] Highschool DxD - OP01 [BD][720p-AAC][FD293102].mkv
+!new/biggest/[FFF] Highschool DxD - Vol.05 [BD][720p-AAC]/[FFF] Highschool DxD - SP05 [BD][720p-AAC][E5981710].mkv
+!new/biggest/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - 01v2 (BD 10-bit 1280x720 x264 AAC)[1CA43C16].mkv
+!new/biggest/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - 02v2 (BD 10-bit 1280x720 x264 AAC)[0837646D].mkv
+!new/biggest/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - 03v2 (BD 10-bit 1280x720 x264 AAC)[3A68B935].mkv
+!new/biggest/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - 04v2 (BD 10-bit 1280x720 x264 AAC)[BCC53538].mkv
+!new/biggest/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - 05v2 (BD 10-bit 1280x720 x264 AAC)[740A4507].mkv
+!new/biggest/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - 06v2 (BD 10-bit 1280x720 x264 AAC)[17D078CE].mkv
+!new/biggest/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - 07 (BD 10-bit 1280x720 x264 AAC)[3CD9E9F5].mkv
+!new/biggest/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - 08 (BD 10-bit 1280x720 x264 AAC)[FFB41B33].mkv
+!new/biggest/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - 09 (BD 10-bit 1280x720 x264 AAC)[89396C9F].mkv
+!new/biggest/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - 10 (BD 10-bit 1280x720 x264 AAC)[CD39E4BF].mkv
+!new/biggest/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - 11 (BD 10-bit 1280x720 x264 AAC)[D358ECB4].mkv
+!new/biggest/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - 12 (BD 10-bit 1280x720 x264 AAC)[9BAACE2D].mkv
+!new/biggest/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - Vol.1 Special 1v2 (BD 10-bit 1280x720 x264 AAC)[B1713EBF].mkv
+!new/biggest/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - Vol.1 Special 3 (BD 10-bit 1280x720 x264 AAC)[4B7B5A17].mkv
+!new/biggest/[Final8]Maken-Ki! - Special 2 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - Vol.1 Special 2 (BD 10-bit 1280x720 x264 AAC)[2DD727EA].mkv
+!new/biggest/[SubDESU] Seikon no Qwaser II (BD 1280x720 x264 AC-3)/[SubDESU] Seikon no Qwaser II - 01 (BD 1280x720 x264 AC-3) [04404ABE].mkv
+!new/biggest/[SubDESU] Seikon no Qwaser II (BD 1280x720 x264 AC-3)/[SubDESU] Seikon no Qwaser II - 02 (BD 1280x720 x264 AC-3) [3CA49482].mkv
+!new/biggest/[SubDESU] Seikon no Qwaser II (BD 1280x720 x264 AC-3)/[SubDESU] Seikon no Qwaser II - 03 (BD 1280x720 x264 AC-3) [CDE3E075].mkv
+!new/biggest/[SubDESU] Seikon no Qwaser II (BD 1280x720 x264 AC-3)/[SubDESU] Seikon no Qwaser II - 04 (BD 1280x720 x264 AC-3) [FBF4A112].mkv
+!new/biggest/[SubDESU] Seikon no Qwaser II (BD 1280x720 x264 AC-3)/[SubDESU] Seikon no Qwaser II - 05 (BD 1280x720 x264 AC-3) [AC4B17D2].mkv
+!new/biggest/[SubDESU] Seikon no Qwaser II (BD 1280x720 x264 AC-3)/[SubDESU] Seikon no Qwaser II - 06 (BD 1280x720 x264 AC-3) [F9653398].mkv
+!new/biggest/[SubDESU] Seikon no Qwaser II (BD 1280x720 x264 AC-3)/[SubDESU] Seikon no Qwaser II - 07 (BD 1280x720 x264 AC-3) [74970BAB].mkv
+!new/biggest/[SubDESU] Seikon no Qwaser II (BD 1280x720 x264 AC-3)/[SubDESU] Seikon no Qwaser II - 08 (BD 1280x720 x264 AC-3) [EFA9EFD1].mkv
+!new/biggest/[SubDESU] Seikon no Qwaser II (BD 1280x720 x264 AC-3)/[SubDESU] Seikon no Qwaser II - 09 (BD 1280x720 x264 AC-3) [8F315DDF].mkv
+!new/biggest/[SubDESU] Seikon no Qwaser II (BD 1280x720 x264 AC-3)/[SubDESU] Seikon no Qwaser II - 10 (BD 1280x720 x264 AC-3) [A1C79F50].mkv
+!new/biggest/[SubDESU] Seikon no Qwaser II (BD 1280x720 x264 AC-3)/[SubDESU] Seikon no Qwaser II - 11 (BD 1280x720 x264 AC-3) [F9ECE45A].mkv
+!new/biggest/[SubDESU] Seikon no Qwaser II (BD 1280x720 x264 AC-3)/[SubDESU] Seikon no Qwaser II - 12 (BD 1280x720 x264 AC-3) [749CEC6B].mkv
+!new/biggest/[Zurako] Kyoukai Senjou no Horizon (BD 720p AAC)/[Zurako]_Kyoukai_Senjou_no_Horizon_01_Those_Lined_Up_Before_the_Horizon_(BD_720p_AAC_AAC)_[483299CA].mkv
+!new/biggest/[Zurako] Kyoukai Senjou no Horizon (BD 720p AAC)/[Zurako]_Kyoukai_Senjou_no_Horizon_02_Innocents_at_the_Table_(BD_720p_AAC)_[79BEC089].mkv
+!new/biggest/[Zurako] Kyoukai Senjou no Horizon (BD 720p AAC)/[Zurako]_Kyoukai_Senjou_no_Horizon_03_Commandos_in_Town_(BD_720p_AAC_AAC)_[856BB24E].mkv
+!new/biggest/[Zurako] Kyoukai Senjou no Horizon (BD 720p AAC)/[Zurako]_Kyoukai_Senjou_no_Horizon_04_Covert_Ops_Under_the_Night_Sky_(BD_720p_AAC)_[BD538CFE].mkv
+!new/biggest/[Zurako] Kyoukai Senjou no Horizon (BD 720p AAC)/[Zurako]_Kyoukai_Senjou_no_Horizon_05_Graduates_Under_the_Moon_(BD_720p_AAC_AAC)_[3EFB9FB2].mkv
+!new/biggest/[Zurako] Kyoukai Senjou no Horizon (BD 720p AAC)/[Zurako]_Kyoukai_Senjou_no_Horizon_06_Advocate_at_the_Confession_Grounds_(BD_720p_AAC)_[22CB16FE].mkv
+!new/biggest/[Zurako] Kyoukai Senjou no Horizon (BD 720p AAC)/[Zurako]_Kyoukai_Senjou_no_Horizon_07_Musashi's_Knights_(BD_720p_AAC_AAC)_[CBC8C9B4].mkv
+!new/biggest/[Zurako] Kyoukai Senjou no Horizon (BD 720p AAC)/[Zurako]_Kyoukai_Senjou_no_Horizon_08_Ruler_of_the_Land_(BD_720p_AAC)_[23BE2262].mkv
+!new/biggest/[Zurako] Kyoukai Senjou no Horizon (BD 720p AAC)/[Zurako]_Kyoukai_Senjou_no_Horizon_09_The_Summit's_Flower_(BD_720p_AAC_AAC)_[35140D1A].mkv
+!new/biggest/[Zurako] Kyoukai Senjou no Horizon (BD 720p AAC)/[Zurako]_Kyoukai_Senjou_no_Horizon_10_The_Trumpeter_at_the_Starting_Line_(BD_720p_AAC_AAC)_[06190CFD].mkv
+!new/biggest/[Zurako] Kyoukai Senjou no Horizon (BD 720p AAC)/[Zurako]_Kyoukai_Senjou_no_Horizon_11_Musashi's_Mr._Impossible_(BD_720p_AAC)_[72211BD4].mkv
+!new/biggest/[Zurako] Kyoukai Senjou no Horizon (BD 720p AAC)/[Zurako]_Kyoukai_Senjou_no_Horizon_12_Opposition_Against_Crossing_Over_the_Parallel_Lines_(BD_720p_AAC)_[FBA8F552].mkv
+!new/biggest/[Zurako] Kyoukai Senjou no Horizon (BD 720p AAC)/[Zurako]_Kyoukai_Senjou_no_Horizon_13_Those_Lined_up_Above_the_Horizon_(BD_720p_AAC_AAC)_[02A77CBE].mkv
+!new/biggest/[Zurako] Kyoukai Senjou no Horizon (BD 720p AAC)/[Zurako]_Kyoukai_Senjou_no_Horizon_Characters_Introduction_01v3_(BD_720p_AAC)_[117F1700].mkv
+!new/biggest/[Zurako] Kyoukai Senjou no Horizon (BD 720p AAC)/[Zurako]_Kyoukai_Senjou_no_Horizon_Characters_Introduction_02v2_(BD_720p_AAC)_[9C035288].mkv
+!new/biggest/[Zurako] Kyoukai Senjou no Horizon (BD 720p AAC)/[Zurako]_Kyoukai_Senjou_no_Horizon_Characters_Introduction_03v2_(BD_720p_AAC)_[35D4AFDD].mkv
+!new/biggest/[Zurako] Kyoukai Senjou no Horizon (BD 720p AAC)/[Zurako]_Kyoukai_Senjou_no_Horizon_Characters_Introduction_04_(BD_720p_AAC)_[E51742AE].mkv
+!new/biggest/[Zurako] Kyoukai Senjou no Horizon (BD 720p AAC)/[Zurako]_Kyoukai_Senjou_no_Horizon_NCED_01v2_(BD_720p_AAC)_[6D7B87CC].mkv
+!new/biggest/[Zurako] Kyoukai Senjou no Horizon (BD 720p AAC)/[Zurako]_Kyoukai_Senjou_no_Horizon_NCED_02v2_(BD_720p_AAC)_[1D39A80A].mkv
+!new/biggest/[Zurako] Kyoukai Senjou no Horizon (BD 720p AAC)/[Zurako]_Kyoukai_Senjou_no_Horizon_NCED_03v2_(BD_720p_AAC)_[33F8C64A].mkv
+!new/biggest/[Zurako] Kyoukai Senjou no Horizon (BD 720p AAC)/[Zurako]_Kyoukai_Senjou_no_Horizon_NCOP_01v3_(BD_720p_AAC)_[2C76606F].mkv
+!new/biggest/[Zurako] Kyoukai Senjou no Horizon (BD 720p AAC)/[Zurako]_Kyoukai_Senjou_no_Horizon_Sensei's_Lesson_01_(BD_720p_AAC)_[DE1AE599].mkv
 !new/bingung/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].avi
 !new/bingung/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_01[13]_-_Contract_[720x416][DVD][RAW][Anon][717A1DB1].srt
 !new/bingung/[TV Series-2007] GR -Giant Robo-/GR_-Giant_Robo-_-_02[13]_-_Onslaught_[720x416][DVD][RAW][Anon][A4EEA65D].ass
