@@ -9569,6 +9569,8 @@ complete/i/Itazura na Kiss/[Jumonji-Giri] Itazura na Kiss - 05 [9FBD21A4].mkv
 complete/i/Itazura na Kiss/[Jumonji-Giri] Itazura na Kiss - 06 [3056B225].mkv
 complete/i/Itazura na Kiss/[Jumonji-Giri] Itazura na Kiss - 07 [D9434ED7].mkv
 complete/i/Itazura na Kiss/[Jumonji-Giri] Itazura na Kiss - 08 [111004B5].mkv
+complete/i/Itazura na Kiss/[Jumonji-Giri] Itazura na Kiss - 09 [CADAF313].mkv
+complete/i/Itazura na Kiss/[Jumonji-Giri] Itazura na Kiss - 10 [F76AC115].mkv
 complete/i/Itazura na Kiss/[m.3.3.w] Itazura na Kiss - 17 [63D41529].mkv
 complete/i/Itazura na Kiss/[m.3.3.w] Itazura na Kiss - 18 [F3094E87].mkv
 complete/i/Itazura na Kiss/[m.3.3.w] Itazura na Kiss - 19 [95BA164C].mkv
@@ -12271,6 +12273,7 @@ complete/l/Love Hina/[zx] Love Hina - 22 [7AF1FCDE].mkv
 complete/l/Love Hina/[zx] Love Hina - 23 [082196B9].mkv
 complete/l/Love Hina/[zx] Love Hina - 24 [16791DD5].mkv
 complete/l/Love Hina/[zx] Love Hina - 25 [End][2A1F0CF9].mkv
+complete/l/Lovedol ~Lovely Idol~/[ReDone] Lovedol ~ Lovely Idol - 02 [DVD][92FE89A6].mkv
 complete/l/Lovedol ~Lovely Idol~/[ReDone] Lovedol ~Lovely Idol~ - 01 [DVD][34AF30FB].mkv
 complete/l/Lovedol ~Lovely Idol~/[WinD] Lovedol ~Lovely Idol~ - 01 [0A4BB14A].mkv
 complete/l/Lovedol ~Lovely Idol~/[WinD] Lovedol ~Lovely Idol~ - 02 [BC9AE020].mkv
@@ -14472,17 +14475,21 @@ complete/m/Mouretsu Pirates/[Commie] Mouretsu Pirates - 23 [DFF3166A].mkv
 complete/m/Mouretsu Pirates/[Commie] Mouretsu Pirates - 24 [3AAB3760].mkv
 complete/m/Mouretsu Pirates/[Commie] Mouretsu Pirates - 25 [9CB8A604].mkv
 complete/m/Mouretsu Pirates/[Commie] Mouretsu Pirates - 26 [End][D34A5420].mkv
-complete/m/Moyashimon/[BSS] Moyashimon - 01 (1280x720) [7D26A219].mkv
-complete/m/Moyashimon/[BSS] Moyashimon - 02 (1280x720) [8C625699].mkv
-complete/m/Moyashimon/[BSS] Moyashimon - 03 (1280x720) [6B175FE3].mkv
-complete/m/Moyashimon/[BSS] Moyashimon - 04 (1280x720) [4E3400F3].mkv
-complete/m/Moyashimon/[BSS] Moyashimon - 05 (1280x720) [4F3C3CD5].mkv
-complete/m/Moyashimon/[BSS] Moyashimon - 06 (1280x720) [v2][C85BE80F].mkv
-complete/m/Moyashimon/[BSS] Moyashimon - 07 (1280x720) [AE63CFE5].mkv
-complete/m/Moyashimon/[BSS] Moyashimon - 08 (1280x720) [2659EA48].mkv
-complete/m/Moyashimon/[BSS] Moyashimon - 09 (1280x720) [BF10AFE4].mkv
-complete/m/Moyashimon/[BSS] Moyashimon - 10 (1280x720) [5553AA30].mkv
-complete/m/Moyashimon/[BSS] Moyashimon - 11 (1280x720) [End][83E87BC1].mkv
+complete/m/Moyashimon/[BSS] Moyashimon - 01 [BD][7ECF7F4C].mkv
+complete/m/Moyashimon/[BSS] Moyashimon - 02 [BD][8B59B6C0].mkv
+complete/m/Moyashimon/[BSS] Moyashimon - 03 [BD][8188363B].mkv
+complete/m/Moyashimon/[BSS] Moyashimon - 04 [BD][0B56DD26].mkv
+complete/m/Moyashimon/[BSS] Moyashimon - 05 [BD][FE84A17D].mkv
+complete/m/Moyashimon/[BSS] Moyashimon - 06 [BD][0F355572].mkv
+complete/m/Moyashimon/[BSS] Moyashimon - 07 [BD][18C923C4].mkv
+complete/m/Moyashimon/[BSS] Moyashimon - 08 [BD][EC770BB7].mkv
+complete/m/Moyashimon/[BSS] Moyashimon - 09 [BD][AC9F3A62].mkv
+complete/m/Moyashimon/[BSS] Moyashimon - 10 [BD][5CD808FC].mkv
+complete/m/Moyashimon/[BSS] Moyashimon - 11 [BD][6797B246].mkv
+complete/m/Moyashimon/[BSS] Moyashimon - Microbe Theater Deluxe - 01 [BD][E307701C].mkv
+complete/m/Moyashimon/[BSS] Moyashimon - Microbe Theater Deluxe - 02 [BD][D233C8DE].mkv
+complete/m/Moyashimon/[BSS] Moyashimon - Microbe Theater Deluxe - 03 [BD][C00AA058].mkv
+complete/m/Moyashimon/[BSS] Moyashimon - Microbe Theater Deluxe - 04 [BD][7A6AA1B1].mkv
 complete/m/Munto TV/[m.3.3.w] Munto TV - 01 [75D2FEAA].mkv
 complete/m/Munto TV/[m.3.3.w] Munto TV - 02 [695AD03E].mkv
 complete/m/Munto TV/[m.3.3.w] Munto TV - 03 [466C0C83].mkv
@@ -18622,15 +18629,12 @@ complete/s/School Rumble/[KAA-Mokkori] School Rumble - 14 [DVD][F85FB5BC].mkv
 complete/s/School Rumble/[KAA-Mokkori] School Rumble - 15 [DVD][C35C38A8].mkv
 complete/s/School Rumble/[KAA-Mokkori] School Rumble - 16 [DVD][1AC11469].mkv
 complete/s/School Rumble/[KAA-Mokkori] School Rumble - 17 [DVD][FE4C39AE].mkv
+complete/s/School Rumble/[KAA-Mokkori] School Rumble - 18 [DVD][0754789E].mkv
+complete/s/School Rumble/[KAA-Mokkori] School Rumble - 19 [DVD][1D6B33D0].mkv
+complete/s/School Rumble/[KAA-Mokkori] School Rumble - 20 [DVD][504F2E81].mkv
 complete/s/School Rumble/[KAA-Mokkori] School Rumble - 21 [DVD][1DCB19F8].mkv
 complete/s/School Rumble/[KAA-Mokkori] School Rumble - 22 [DVD][668C43BD].mkv
 complete/s/School Rumble/[KAA-Mokkori] School Rumble - 23 [DVD][9F9A4008].mkv
-complete/s/School Rumble/[WF] School Rumble - 18 [67399B31].avi
-complete/s/School Rumble/[WF] School Rumble - 19 [3D0F58D0].avi
-complete/s/School Rumble/[WF] School Rumble - 20 [6EF54D2B].avi
-complete/s/School Rumble/[WF] School Rumble - 21 [E5C7B004].avi
-complete/s/School Rumble/[WF] School Rumble - 22 [B51A69A2].avi
-complete/s/School Rumble/[WF] School Rumble - 23 [755DBF42].avi
 complete/s/School Rumble/[WF] School Rumble - 24 [D596F689].avi
 complete/s/School Rumble/[WF] School Rumble - 25 [70A3E450].avi
 complete/s/School Rumble/[WF] School Rumble - 26 [End][BD11525D].avi
@@ -18850,6 +18854,8 @@ complete/s/Senki Zesshou Symphogear/[DmonHiro] Senki Zesshou Symphogear - 05 [72
 complete/s/Senki Zesshou Symphogear/[DmonHiro] Senki Zesshou Symphogear - 06 [720p BD][DDE10797].mkv
 complete/s/Senki Zesshou Symphogear/[DmonHiro] Senki Zesshou Symphogear - 07 [720p BD][EDAB1E73].mkv
 complete/s/Senki Zesshou Symphogear/[DmonHiro] Senki Zesshou Symphogear - 08 [720p BD][AE3B2869].mkv
+complete/s/Senki Zesshou Symphogear/[DmonHiro] Senki Zesshou Symphogear - 09 [720p BD][7322C733].mkv
+complete/s/Senki Zesshou Symphogear/[DmonHiro] Senki Zesshou Symphogear - 10 [720p BD][6BA0DB07].mkv
 complete/s/Sentou Yousei Tasukete! Mave-chan/[dp] Sentou Yousei Tasukete! Mave-chan [A31B4444].avi
 complete/s/Serial Experiments Lain/[Coalgirls] Serial Experiments Lain - 01 [1080p BD][573CDDD6].mkv
 complete/s/Serial Experiments Lain/[Coalgirls] Serial Experiments Lain - 02 [1080p BD][19F59BAF].mkv
@@ -19152,6 +19158,9 @@ complete/s/Shinigami no Ballad/[-_-] Shinigami no Ballad - Ending 1 (Clean) [C88
 complete/s/Shinigami no Ballad/[-_-] Shinigami no Ballad - Opening 1 (Clean) [3840A365].mkv
 complete/s/Shinigami no Ballad/[DmonHiro] Shinigami no Ballad - 5 [DF17F278].mkv
 complete/s/Shinigami no Ballad/[DmonHiro] Shinigami no Ballad - 6 [End][D1C0C79B].mkv
+complete/s/Shinigami no Ballad/[ReDone] Shinigami's Ballad - 01 [DVD][43BB3778].mkv
+complete/s/Shinigami no Ballad/[ReDone] Shinigami's Ballad - 02 [DVD][4B94AA3D].mkv
+complete/s/Shinigami no Ballad/[ReDone] Shinigami's Ballad - 03 [DVD][8BD343A1].mkv
 complete/s/Shining Hearts - Shiawase no Pan/[Hiryuu] Shining Hearts - Shiawase no Pan - 01 [720p][DAB83BA4].mkv
 complete/s/Shining Hearts - Shiawase no Pan/[Hiryuu] Shining Hearts - Shiawase no Pan - 02 [720p][2B81F8FC].mkv
 complete/s/Shining Hearts - Shiawase no Pan/[Hiryuu] Shining Hearts - Shiawase no Pan - 03 [720p][FD413457].mkv
@@ -21298,6 +21307,8 @@ complete/t/To Heart - Special/[Exiled-Destiny] To Heart - Special 3 [6E954FAC].m
 complete/t/To Heart - Special/[Exiled-Destiny] To Heart - Special 4 [E72053F0].mkv
 complete/t/To Heart - Special/[Exiled-Destiny] To Heart - Special 5 [655AAD91].mkv
 complete/t/To Heart - Special/[Exiled-Destiny] To Heart - Special 6 [9A625F95].mkv
+complete/t/To Heart 2 Dungeon Travelers/[SubSmith] To Heart 2 Dungeon Travelers - 1 [1080p][76539452].mkv
+complete/t/To Heart 2 Dungeon Travelers/[SubSmith] To Heart 2 Dungeon Travelers - 2 [End][1080p][9DC36EC5].mkv
 complete/t/To Heart 2 OVA/[Avalon-AQS] To Heart 2 OVA - 1 [51BDBFBC].mkv
 complete/t/To Heart 2 OVA/[Avalon-AQS] To Heart 2 OVA - 2 [1D36EAF4].mkv
 complete/t/To Heart 2 OVA/[Avalon-AQS] To Heart 2 OVA - 3 [End][FEEB35CF].mkv
@@ -23213,6 +23224,9 @@ complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 06 [7E7A949D].mkv
 complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 07 [F3F9AF7F].mkv
 complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 08 [1B3FF057].mkv
 complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 09 [2B15692C].mkv
+complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 10 [064CAF0E].mkv
+complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 11 [2024B535].mkv
+complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 12 [623B2997].mkv
 complete/y/Yakushiji Ryoko no Kaiki Jikenbo/[AonE-AnY] Yakushiji Ryoko no Kaiki Jikenbo - 01 [ED975900].mkv
 complete/y/Yakushiji Ryoko no Kaiki Jikenbo/[AonE-AnY] Yakushiji Ryoko no Kaiki Jikenbo - 02 [C50AFECA].mkv
 complete/y/Yakushiji Ryoko no Kaiki Jikenbo/[AonE-AnY] Yakushiji Ryoko no Kaiki Jikenbo - 03 [556F1904].mkv
