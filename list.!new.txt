@@ -14,6 +14,8 @@
 !new/.ec/[ASL]_Various_Artists_-_Super_GameSong_LIVE2012_-_NEW_GAME_[FLAC]_[w_Scans].rar
 !new/.ec/[ASL]_eufonius_-_Kokoro_Connect_OP_-_paradigm_[FLAC]_[w_Scans].rar
 !new/.ec/[Aesir-O-T]_Kamen_Rider_X_Kamen_Rider_Fourze_&_OOO_Movie_War_Mega_Max_[BD_720]_[5552BBE9].mkv
+!new/.ec/[Aesir-O-T]_Kamen_Rider_X_Kamen_Rider_Fourze_&_OOO_Movie_War_Mega_Max_[BD_720]v2_[77563B8C].mkv
+!new/.ec/[Commie] Moyashimon Returns - 05 [6B90F33C].mkv
 !new/.ec/[Doki] Oda Nobuna no Yabou ED Single - Hikari [Mizuta Makino] (FLAC) [1C49FA1C].zip
 !new/.ec/[Doki] Planetarian Original Soundtrack (FLAC) [79F2EF80].zip
 !new/.ec/[Doki] Tari Tari - 06 (1280x720 Hi10P AAC) [022D7457].mkv
@@ -42,9 +44,12 @@
 !new/.ec/[HorribleSubs] Hunter X Hunter - 42 [720p].mkv
 !new/.ec/[HorribleSubs] Kuroko's Basketball - 18 [720p].mkv
 !new/.ec/[HorribleSubs] Naruto Shippuuden - 271 [720p].mkv
+!new/.ec/[HorribleSubs] Naruto Shippuuden - 274 [720p].mkv
 !new/.ec/[HorribleSubs] Polar Bear Cafe - 18 [720p].mkv
+!new/.ec/[HorribleSubs] Polar Bear Cafe - 19 [720p].mkv
 !new/.ec/[HorribleSubs] Poyopoyo - 31 [720p].mkv
 !new/.ec/[HorribleSubs] SKET Dance - 69 [720p].mkv
+!new/.ec/[HorribleSubs] SKET Dance - 70 [720p].mkv
 !new/.ec/[HorribleSubs] Saint Seiya Omega - 17 [720p].mkv
 !new/.ec/[HorribleSubs] Saint Seiya Omega - 18 [720p].mkv
 !new/.ec/[HorribleSubs] The Knight in the Area - 29 [720p].mkv
@@ -63,6 +68,22 @@
 !new/.ec/[Nipponsei] Nazo no Kanojo X ED Single - Houkago no Yakusoku [Yoshitani Ayako].zip
 !new/.ec/[Nipponsei] Rinne no Lagrange Season 2 OP Single - Marble [Nakajima Megumi].zip
 !new/.ec/[Nipponsei] TARI TARI OP Single - Dreamer [AiRI].zip
+!new/.ec/[ReDone] Tonagura! - Creditless Ending 1 (eps 01-12) (DVD) [7349EEE7].mkv
+!new/.ec/[ReDone] Tonagura! - Creditless Ending 2 (ep 13) (DVD) [8744682A].mkv
+!new/.ec/[ReDone] Tonagura! - Creditless Opening 01 (DVD) [5DE0283B].mkv
+!new/.ec/[ReDone] Tonagura! - Creditless Opening 02 (DVD) [D7A94959].mkv
+!new/.ec/[ReDone] Tonagura! - Creditless Opening 03 (DVD) [DE0C841F].mkv
+!new/.ec/[ReDone] Tonagura! - Creditless Opening 04 (DVD) [71354009].mkv
+!new/.ec/[ReDone] Tonagura! - Creditless Opening 05 (DVD) [5A07D3B2].mkv
+!new/.ec/[ReDone] Tonagura! - Creditless Opening 06 (DVD) [E8AEBFD5].mkv
+!new/.ec/[ReDone] Tonagura! - Creditless Opening 07 (DVD) [B1C2ABB2].mkv
+!new/.ec/[ReDone] Tonagura! - Creditless Opening 08 (DVD) [2BA7190D].mkv
+!new/.ec/[ReDone] Tonagura! - Creditless Opening 09 (DVD) [88736B4F].mkv
+!new/.ec/[ReDone] Tonagura! - Creditless Opening 10 (DVD) [61282967].mkv
+!new/.ec/[ReDone] Tonagura! - Creditless Opening 11 (DVD) [B92FD851].mkv
+!new/.ec/[ReDone] Tonagura! - Creditless Opening 12 (DVD) [76C67E66].mkv
+!new/.ec/[ReDone] Tonagura! - Creditless Opening 13 (DVD) [39348657].mkv
+!new/.ec/[ReDone] Tonagura! NC OP&ED (DVD).sfv
 !new/.ec/[RyRo] Reach the Milky Way! Inazuma Eleven GO Tanabata Festival - Live Post-Recording Stage [BC1F2428].mkv
 !new/.ec/[Shin-S] Dakara Boku wa, H ga Dekinai. OP Single - Reason why XXX (FLAC) [Sasaki Sayaka].zip
 !new/.ec/[Shin-S] Jinrui wa Suitai Shimashita OP Single - Real World (FLAC) [nano.RIPE].zip
