@@ -18,6 +18,7 @@
 !new/.ec/[Commie] Moyashimon Returns - 05 [6B90F33C].mkv
 !new/.ec/[Commie] Moyashimon Returns - 06 [D93B78B6].mkv
 !new/.ec/[Commie] Natsuyuki Rendezvous - 06 [96F718BB].mkv
+!new/.ec/[Commie] Oda Nobuna no Yabou - 05 [BD450977].mkv
 !new/.ec/[Doki] Oda Nobuna no Yabou ED Single - Hikari [Mizuta Makino] (FLAC) [1C49FA1C].zip
 !new/.ec/[Doki] Planetarian Original Soundtrack (FLAC) [79F2EF80].zip
 !new/.ec/[Doki] Tari Tari - 06 (1280x720 Hi10P AAC) [022D7457].mkv
@@ -40,6 +41,7 @@
 !new/.ec/[EveTaku] Chitose Get You! - 05 (1280x720 x264-Hi10p AAC)[99A0B022].mkv
 !new/.ec/[EveTaku] Chitose Get You! - 06 (1280x720 x264-Hi10p AAC)[CC259DFD].mkv
 !new/.ec/[FFFpeeps] Sengoku Collection - 18 [10bit][DDCEC2E0].mkv
+!new/.ec/[FFFpeeps] Sengoku Collection - 19 [10bit][72E68348].mkv
 !new/.ec/[Formula]_Tales_of_Symphonia_OVA_-_The_United_World_Bonus_1_[5C28A7D5].mkv
 !new/.ec/[Hiryuu] Dog Days_ 05 [Hi10P 1280x720 H264] [48915361].mkv
 !new/.ec/[HorribleSubs] Cardfight!! Vanguard (Asia Circuit) - 82 [720p].mkv
@@ -58,13 +60,19 @@
 !new/.ec/[HorribleSubs] Saint Seiya Omega - 17 [720p].mkv
 !new/.ec/[HorribleSubs] Saint Seiya Omega - 18 [720p].mkv
 !new/.ec/[HorribleSubs] The Knight in the Area - 29 [720p].mkv
+!new/.ec/[HorribleSubs] The Knight in the Area - 30 [720p].mkv
 !new/.ec/[HorribleSubs] Utakoi - 02 [720p].mkv
 !new/.ec/[HorribleSubs] Utakoi - 03 [720p].mkv
 !new/.ec/[HorribleSubs] Utakoi - 04 [720p].mkv
 !new/.ec/[HorribleSubs] Utakoi - 06 [720p].mkv
 !new/.ec/[HorribleSubs] Yurumate3Dei - 16 [720p].mkv
 !new/.ec/[HorribleSubs] Yurumate3Dei - 18 [720p].mkv
+!new/.ec/[HorribleSubs] Yurumate3Dei - 19 [720p].mkv
+!new/.ec/[Licca] Happy Birthday - Inochi Kagayaku Toki (h.264-Hi10P) [7F4F94E7].mkv
+!new/.ec/[Licca] Licca The Movie - Licca-chan to Yamaneko Hoshi no Tabi (h.264-Hi10P) [48741203].mkv
+!new/.ec/[Licca] Little Women II - Jo's Boys Episode 26 (h.264-Hi10P) [E606B953].mkv
 !new/.ec/[Licca] The Alps Story - My Annette Episode 14 (h.264-Hi10P) [2BCC0D58].mkv
+!new/.ec/[Licca] The Glass Rabbit (h.264) [66817D48].mkv
 !new/.ec/[Nipponsei] AKB0048 OP ED Single - Kibou ni Tsuite [NO NAME].zip
 !new/.ec/[Nipponsei] Accel World ED2 Single - Unite [Misawa Sachika].zip
 !new/.ec/[Nipponsei] Accel World Original Soundtrack feat. Ooshima Hiroyuki.zip
@@ -116,6 +124,7 @@
 !new/.ec/[WSRN-Licca] Mermaid Melody Pichi Pichi Pitch Pure - 14 [DVD H264 Hi10P 640x480] [B7F77683].mkv
 !new/.ec/[gg]_Binbougami_ga!_-_06_[A03C4B86].mkv
 !new/.ec/[iSiscon]_Araragi_Tsukihi_(CV._Iguchi_Yuka),_Kousaki_Satoru_-_Platinum_Disco_&_Nisemonogatari_Gekiban_Ongakushuu_Sono_San_(FLAC).rar
+!new/.ec/[yibis]_One_Piece_558_[720p][FEE4AD8A].mkv
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
