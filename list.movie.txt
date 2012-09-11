@@ -107,6 +107,7 @@ movie/Gundam 00 - A wakening of the Trailblazer/[gSS] Gundam 00 - A wakening of 
 movie/Gundam F91/[OZC] Gundam F91 (2011 release) [8BDFE061].mkv
 movie/Gundam SEED CE73 Stargazer/[Mendoi] Gundam SEED CE73 Stargazer [DVD][DE19D759].mp4
 movie/Gundam Wing Endless Waltz/[EG] Gundam Wing Endless Waltz Special Edition [1080p][7E457CAE].mkv
+movie/Happy Birthday - Inochi Kagayaku Toki/[Licca] Happy Birthday - Inochi Kagayaku Toki [7F4F94E7].mkv
 movie/Haruka Naru Toki no Naka de - Maihitoyo/[C1] Haruka Naru Toki no Naka de - Maihitoyo [97889F2C].mkv
 movie/Hayate no Gotoku! Heaven is a Place on Earth/[Commie] Hayate no Gotoku! Heaven is a Place on Earth [1080p BD][5AB3EFDF].mkv
 movie/HeartCatch Movie/[Doremi] HeartCatch Movie [1080p BD][0CC99389].mkv
@@ -164,6 +165,7 @@ movie/Laputa - Castle in the Sky (1986)/[Thora] Laputa - Castle in the Sky (1986
 movie/Legend of Galactic Heroes Movie/[Central Anime] Legend of Galactic Heroes - My Conquest is the Sea of Stars [DVD][2F466B9E].mkv
 movie/Legend of Galactic Heroes Movie/[Central Anime] Legend of Galactic Heroes - Overture to a New War [8A7D508D].mkv
 movie/Legend of Galactic Heroes Movie/[Unknown] Legend of Galactic Heroes - Golden Wings [47E956C1].avi
+movie/Licca The Movie - Licca-chan to Yamaneko Hoshi no Tabi/[Licca] Licca The Movie - Licca-chan to Yamaneko Hoshi no Tabi [48741203].mkv
 movie/Licca-chan no Nichiyoubi/[Licca] Licca-chan no Nichiyoubi [5A1EA067].mkv
 movie/Literature Girl/[Monokage] Literature Girl [1080p BD][5A0B3B7B].mkv
 movie/Loups=Garous/[Lambda-Delta] Loups=Garous [720p][DB081F1C].mkv
@@ -282,6 +284,7 @@ movie/Tekkon Kinkreet (2006)/[Thora] Tekkon Kinkreet (2006) [720p BD][C7E10EBF].
 movie/Tengen Toppa Gurren Lagann The Movie/[BSS] Tengen Toppa Gurren Lagann The Movie - Gurren-hen [74C3E9D3].mkv
 movie/Tengen Toppa Gurren Lagann The Movie/[BSS] Tengen Toppa Gurren Lagann The Movie - Lagann-hen [8A75A457].mkv
 movie/The Borrower Arrietty/[Coalgirls] The Borrower Arrietty [v2 1080p BD][1E8A3AC8].mkv
+movie/The Glass Rabbit/[Licca] The Glass Rabbit [66817D48].mkv
 movie/The Place Promised in Our Early Days (2004)/[niizk] The Place Promised in Our Early Days (2004) [1080p BD][1C9A104D].mkv
 movie/The Princess and the Pilot/[Mazui] The Princess and the Pilot [720p][E5A9C941].mkv
 movie/The Wings of Honneamise (1987)/[THORA] The Wings of Honneamise (1987) [720p BD][10104B10].mkv
@@ -339,3 +342,4 @@ movie/_other/[WPP] Rockman EXE the Movie - Hikari to Yami no PROGRAM [0D3AC681].
 movie/_other/[WinD] Higurashi no naku koro ni Special - Nekogoroshi [4C77CC76].mkv
 movie/_other/[YGO] Tsubasa Chronicle Movie - The Princess from the Land of the Birdcage [866D7371].mkv
 movie/_other/[h-b] Minky Momo - The Bridge over Dreams [DVD][0705E2C5].mkv
+movie/hack - Sekai no Mukou ni/[Commie] hack - Sekai no Mukou ni [1080p BD][8E9B72E8].mkv

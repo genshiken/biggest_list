@@ -169,19 +169,19 @@ complete/a/AA! Megami-sama OVA/[AniSubs] AA! Megami-sama - OVA 5 [End][1EC4C035]
 complete/a/AIKa Zero/[Mamiko] AIKa Zero - 2 (1280x720) [BD][91EC64BB].mkv
 complete/a/AIKa Zero/[Mamiko] AIKa Zero - 3 (1280x720) [End][BD][6F59D777].mkv
 complete/a/AIKa Zero/[ray=out] AIKa Zero - 1 [BD][1C61647E].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 01 [720p][379E601F].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 02 [720p][3BD30138].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 03 [720p][59363DCE].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 04 [720p][D1C84A90].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 05 [720p][6BDD8984].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 06 [720p][CD6A10DA].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 07 [720p][973B2DB4].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 08 [720p][90161129].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 09 [720p][2CE2C1D3].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 10 [720p][990627AF].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 11 [720p][C25A8BCE].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 12 [720p][477CE69B].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 13 [End][720p][6467275A].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - 01 [v2 720p][311464F8].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - 02 [v2 720p][03423852].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - 03 [v2 720p][05EBB7B9].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - 04 [v2 720p][698CC806].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - 05 [v2 720p][905A94AA].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - 06 [v2 720p][B2C7B2C9].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - 07 [v2 720p][95D6FD3C].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - 08 [v2 720p][E4F0D9BA].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - 09 [v2 720p][409B3E6B].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - 10 [v2 720p][E41A0F1D].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - 11 [v2 720p][111EFC1A].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - 12 [v2 720p][BDE3292A].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - 13 [End][v2 720p][94B8F10D].mkv
 complete/a/Acchi Kocchi/[Commie] Acchi Kocchi - 01 [E4F3D287].mkv
 complete/a/Acchi Kocchi/[Commie] Acchi Kocchi - 02 [AEA3ECF7].mkv
 complete/a/Acchi Kocchi/[Commie] Acchi Kocchi - 03 [A2BD6284].mkv
@@ -1720,6 +1720,66 @@ complete/b/Beck/[AniSubs] Beck - 08 [DVD][8F82EFC5].mkv
 complete/b/Beck/[AniSubs] Beck - Ending [DVD][A2CB5054].mkv
 complete/b/Beck/[AniSubs] Beck - Opening [DVD][9E6033D5].mkv
 complete/b/Beelzebub OVA/[SubDESU] Beelzebub OVA [3D4452B0].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 01 [720p][BF7ADF22].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 02 [720p][99C115A1].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 03 [720p][B7BB039D].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 04 [720p][1BB4D9A8].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 05 [720p][076028FC].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 06 [720p][55640F07].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 07 [720p][66D2B3CA].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 08 [720p][BEE07332].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 09 [720p][058307BA].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 10 [720p][0CF16633].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 11 [720p][72FC148B].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 12 [720p][2D7B6225].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 13 [720p][82DDE516].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 14 [720p][7DC551D2].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 15 [720p][831EA8FD].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 16 [720p][462367E8].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 17 [720p][1389DF4D].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 18 [720p][EDDFE500].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 19 [720p][6505B416].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 20 [720p][2391D971].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 21 [720p][15FA9084].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 22 [720p][F9980767].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 23 [720p][0387BED6].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 24 [720p][C1EA5982].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 25 [720p][95E70DD4].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 26 [720p][BC437038].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 27 [720p][6BA54B50].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 28 [720p][0F8C52AA].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 29 [720p][38EBC0B7].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 30 [720p][C83245D7].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 31 [720p][0B4E77E5].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 32 [720p][69D14C44].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 33 [720p][14B76BA5].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 34 [720p][2953CDA5].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 35 [720p][E8D24423].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 36 [720p][C62A822D].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 37 [720p][CBF05969].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 38 [720p][507239AF].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 39 [720p][F356B135].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 40 [720p][E8B76C0C].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 41 [720p][45BBA46F].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 42 [720p][89C7C488].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 43 [720p][243C97D0].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 44 [720p][D8EEB0DE].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 45 [720p][12DB596C].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 46 [720p][4A3E9008].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 47 [720p][27ECD4EA].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 48 [720p][5DA0FD1D].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 49 [720p][3B587D38].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 50 [720p][71E5EA16].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 51 [720p][33E041C5].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 52 [720p][17142383].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 53 [720p][C8596373].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 54 [720p][B9700D53].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 55 [720p][1C5BA847].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 56 [720p][DC55A42F].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 57 [720p][905FA943].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 58 [720p][AB6E1487].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 59 [720p][61A40CED].mkv
+complete/b/Beelzebub/[HorribleSubs] Beelzebub - 60 [End][720p][FD6AF770].mkv
 complete/b/Beet Excellion/[A-Keep AH] Beet Excellion - 01 [13C130AD].mkv
 complete/b/Beet Excellion/[A-Keep AH] Beet Excellion - 02 [316FC1D7].avi
 complete/b/Beet Excellion/[A-Keep AH] Beet Excellion - 03 [929BF038].avi
@@ -9519,6 +9579,18 @@ complete/i/Iriya's Sky, Summer of UFOs/[ReDone] Iriya's Sky, Summer of UFOs - 3 
 complete/i/Iriya's Sky, Summer of UFOs/[ReDone] Iriya's Sky, Summer of UFOs - 4 [DVD][F159EE2D].mkv
 complete/i/Iriya's Sky, Summer of UFOs/[ReDone] Iriya's Sky, Summer of UFOs - 5 [DVD][B222B3F6].mkv
 complete/i/Iriya's Sky, Summer of UFOs/[ReDone] Iriya's Sky, Summer of UFOs - 6 [End][DVD][6A766FAD].mkv
+complete/i/Iron Man/[Force-Works] Iron Man - 01 [A66813DB].mkv
+complete/i/Iron Man/[Force-Works] Iron Man - 02 [2D05AB2F].mkv
+complete/i/Iron Man/[Force-Works] Iron Man - 03 [9515B619].mkv
+complete/i/Iron Man/[Force-Works] Iron Man - 04 [F19E9890].mkv
+complete/i/Iron Man/[Force-Works] Iron Man - 05 [29711CD6].mkv
+complete/i/Iron Man/[Force-Works] Iron Man - 06 [13267F48].mkv
+complete/i/Iron Man/[Force-Works] Iron Man - 07 [B7B2BA36].mkv
+complete/i/Iron Man/[Force-Works] Iron Man - 08 [D9F96EDE].mkv
+complete/i/Iron Man/[Force-Works] Iron Man - 09 [F222DA32].mkv
+complete/i/Iron Man/[Force-Works] Iron Man - 10 [5B1A228E].mkv
+complete/i/Iron Man/[Force-Works] Iron Man - 11 [6392CE13].mkv
+complete/i/Iron Man/[Force-Works] Iron Man - 12 [End][9B1A4339].mkv
 complete/i/Isekai no Seikishi Monogatari/[Final8] Isekai no Seikishi Monogatari - 01 [v2 720p BD][00ABBDE0].mkv
 complete/i/Isekai no Seikishi Monogatari/[Final8] Isekai no Seikishi Monogatari - 02 [v2 720p BD][1DABF179].mkv
 complete/i/Isekai no Seikishi Monogatari/[Final8] Isekai no Seikishi Monogatari - 03 [v2 720p BD][1C842C02].mkv
@@ -9532,7 +9604,6 @@ complete/i/Isekai no Seikishi Monogatari/[Final8] Isekai no Seikishi Monogatari 
 complete/i/Isekai no Seikishi Monogatari/[Final8] Isekai no Seikishi Monogatari - 11 [v2 720p BD][218C4391].mkv
 complete/i/Isekai no Seikishi Monogatari/[Final8] Isekai no Seikishi Monogatari - 12 [720p BD][DAC7FAB4].mkv
 complete/i/Isekai no Seikishi Monogatari/[Final8] Isekai no Seikishi Monogatari - 13 [End][720p BD][5969BC5B].mkv
-complete/i/Isekai no Seikishi Monogatari/[Hakubi] Isekai no Seikishi Monogatari - 13 [End][282A227A].mkv
 complete/i/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 01 [720p BD][13658A69].mkv
 complete/i/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 02 [720p BD][50F35264].mkv
 complete/i/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi Monogatari - 03 [720p BD][081AF9DD].mkv
@@ -9545,6 +9616,7 @@ complete/i/Isekai no Seikishi Monogatari/[Wasurenai-Himitsu] Isekai no Seikishi 
 complete/i/Isekai no Seikishi Monogatari/[Wasurenai] Isekai no Seikishi Monogatari - 10 [720p BD][21AF365C].mkv
 complete/i/Isekai no Seikishi Monogatari/[Wasurenai] Isekai no Seikishi Monogatari - 11 [720p BD][5AE211C7].mkv
 complete/i/Isekai no Seikishi Monogatari/[Wasurenai] Isekai no Seikishi Monogatari - 12 [720p BD][DE6B80BA].mkv
+complete/i/Isekai no Seikishi Monogatari/[Wasurenai] Isekai no Seikishi Monogatari - 13 [End][720p BD][97588530].mkv
 complete/i/Itazura na Kiss/[BakaWolf-m.3.3.w] Itazura na Kiss - 01 [1A141A3E].mkv
 complete/i/Itazura na Kiss/[BakaWolf-m.3.3.w] Itazura na Kiss - 02 [v2][ECC19631].mkv
 complete/i/Itazura na Kiss/[BakaWolf-m.3.3.w] Itazura na Kiss - 03 [E02862C4].mkv
@@ -9571,6 +9643,8 @@ complete/i/Itazura na Kiss/[Jumonji-Giri] Itazura na Kiss - 07 [D9434ED7].mkv
 complete/i/Itazura na Kiss/[Jumonji-Giri] Itazura na Kiss - 08 [111004B5].mkv
 complete/i/Itazura na Kiss/[Jumonji-Giri] Itazura na Kiss - 09 [CADAF313].mkv
 complete/i/Itazura na Kiss/[Jumonji-Giri] Itazura na Kiss - 10 [F76AC115].mkv
+complete/i/Itazura na Kiss/[Jumonji-Giri] Itazura na Kiss - 11 [0B60A357].mkv
+complete/i/Itazura na Kiss/[Jumonji-Giri] Itazura na Kiss - 12 [EC194A30].mkv
 complete/i/Itazura na Kiss/[m.3.3.w] Itazura na Kiss - 17 [63D41529].mkv
 complete/i/Itazura na Kiss/[m.3.3.w] Itazura na Kiss - 18 [F3094E87].mkv
 complete/i/Itazura na Kiss/[m.3.3.w] Itazura na Kiss - 19 [95BA164C].mkv
@@ -9704,6 +9778,32 @@ complete/j/Jigoku Shoujo Futakomori/[Ayu] Jigoku Shoujo Futakomori - 23 [v2][DVD
 complete/j/Jigoku Shoujo Futakomori/[Ayu] Jigoku Shoujo Futakomori - 24 [DVD][10B2E233].mp4
 complete/j/Jigoku Shoujo Futakomori/[Ayu] Jigoku Shoujo Futakomori - 25 [DVD][C426C038].mp4
 complete/j/Jigoku Shoujo Futakomori/[Ayu] Jigoku Shoujo Futakomori - 26 [End][DVD][3FC8AC7F].mp4
+complete/j/Jigoku Shoujo Mitsuganae/[FTP-A] Jigoku Shoujo Mitsuganae - 10 [720p][01B06E31].mkv
+complete/j/Jigoku Shoujo Mitsuganae/[FTP-A] Jigoku Shoujo Mitsuganae - 11 [720p][5BFE4FF2].mkv
+complete/j/Jigoku Shoujo Mitsuganae/[FTP-A] Jigoku Shoujo Mitsuganae - 12 [720p][ECA21477].mkv
+complete/j/Jigoku Shoujo Mitsuganae/[FTP-A] Jigoku Shoujo Mitsuganae - 13 [720p][8B70273B].mkv
+complete/j/Jigoku Shoujo Mitsuganae/[FTP-A] Jigoku Shoujo Mitsuganae - 14 [720p][A02C3136].mkv
+complete/j/Jigoku Shoujo Mitsuganae/[FTP-A] Jigoku Shoujo Mitsuganae - 15 [720p][9545E1A6].mkv
+complete/j/Jigoku Shoujo Mitsuganae/[FTP-A] Jigoku Shoujo Mitsuganae - 16 [720p][0D47A56A].mkv
+complete/j/Jigoku Shoujo Mitsuganae/[FTP-A] Jigoku Shoujo Mitsuganae - 17 [720p][35C6CDCE].mkv
+complete/j/Jigoku Shoujo Mitsuganae/[FTP-A] Jigoku Shoujo Mitsuganae - 18 [720p][1F9ED4C9].mkv
+complete/j/Jigoku Shoujo Mitsuganae/[SS-Ayu] Jigoku Shoujo Mitsuganae - 01 [329008CE].mkv
+complete/j/Jigoku Shoujo Mitsuganae/[SS-Ayu] Jigoku Shoujo Mitsuganae - 02 [38A1851A].mkv
+complete/j/Jigoku Shoujo Mitsuganae/[SS-Ayu] Jigoku Shoujo Mitsuganae - 03 [664670A1].mkv
+complete/j/Jigoku Shoujo Mitsuganae/[SS-Ayu] Jigoku Shoujo Mitsuganae - 04 [7558FA4B].mkv
+complete/j/Jigoku Shoujo Mitsuganae/[SS-Ayu] Jigoku Shoujo Mitsuganae - 05 [160CEB3D].mkv
+complete/j/Jigoku Shoujo Mitsuganae/[SS-Ayu] Jigoku Shoujo Mitsuganae - 06 [09C62FEE].mkv
+complete/j/Jigoku Shoujo Mitsuganae/[SS-Ayu] Jigoku Shoujo Mitsuganae - 07 [35EA8ACD].mkv
+complete/j/Jigoku Shoujo Mitsuganae/[SS-Ayu] Jigoku Shoujo Mitsuganae - 08 [A600C692].mkv
+complete/j/Jigoku Shoujo Mitsuganae/[SS-Ayu] Jigoku Shoujo Mitsuganae - 09 [1F559416].mkv
+complete/j/Jigoku Shoujo Mitsuganae/[YuS-MaiWaiFu] Jigoku Shoujo Mitsuganae - 19 [v2][86BCEBC7].mkv
+complete/j/Jigoku Shoujo Mitsuganae/[YuS-MaiWaiFu] Jigoku Shoujo Mitsuganae - 20 [1B7A67CB].mkv
+complete/j/Jigoku Shoujo Mitsuganae/[YuS-MaiWaiFu] Jigoku Shoujo Mitsuganae - 21 [445038DF].mkv
+complete/j/Jigoku Shoujo Mitsuganae/[YuS-MaiWaiFu] Jigoku Shoujo Mitsuganae - 22 [4808C07E].mkv
+complete/j/Jigoku Shoujo Mitsuganae/[YuS-MaiWaiFu] Jigoku Shoujo Mitsuganae - 23 [65C7514F].mkv
+complete/j/Jigoku Shoujo Mitsuganae/[YuS-MaiWaiFu] Jigoku Shoujo Mitsuganae - 24 [2094D6DF].mkv
+complete/j/Jigoku Shoujo Mitsuganae/[YuS-MaiWaiFu] Jigoku Shoujo Mitsuganae - 25 [89A62AC4].mkv
+complete/j/Jigoku Shoujo Mitsuganae/[YuS-MaiWaiFu] Jigoku Shoujo Mitsuganae - 26 [End][8E7E0B71].mkv
 complete/j/Jigoku Shoujo/[Ayu] Jigoku Shoujo - 01 [B2DC2CE4].avi
 complete/j/Jigoku Shoujo/[Ayu] Jigoku Shoujo - 02 [v2][66463611].avi
 complete/j/Jigoku Shoujo/[Ayu] Jigoku Shoujo - 03 [8E8E2386].avi
@@ -11803,29 +11903,29 @@ complete/l/Lamune/[MDC] Lamune - 09 [DVD][D1F3D769].mkv
 complete/l/Lamune/[MDC] Lamune - 10 [DVD][A1763030].mkv
 complete/l/Lamune/[MDC] Lamune - 11 [DVD][255DCE05].mkv
 complete/l/Lamune/[MDC] Lamune - 12 [End][DVD][BB6CD268].mkv
-complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 01 [80588F40].mkv
-complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 02 [23BDE85A].mkv
-complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 03 [CAD4323D].mkv
-complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 04 [5919A3F3].mkv
-complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 05 [AC8302BB].mkv
-complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 06 [A187D6F6].mkv
-complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 07 [4C5B8C0B].mkv
-complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 08 [3E384061].mkv
-complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 09 [400BF763].mkv
-complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 10 [CD813E7B].mkv
-complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 11 [BF853045].mkv
-complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 12 [2E97F5F5].mkv
-complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 13 [AFF9E530].mkv
-complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 14 [3C7A37DE].mkv
-complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 15 [AB895DAE].mkv
-complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 16 [34168835].mkv
-complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 17 [1EF89ADF].mkv
-complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 18 [A5822656].mkv
-complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 19 [4A21D18D].mkv
-complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 20 [8CF68283].mkv
-complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 21 [85168E2E].mkv
-complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 22 [69A1E95A].mkv
-complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 23 [End][3B6AD37D].mkv
+complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 01 [v3][BDFCECF5].mkv
+complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 02 [v3][F19A6CDB].mkv
+complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 03 [v3][7B4C3106].mkv
+complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 04 [v2][095A455A].mkv
+complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 05 [v2][D87CE25C].mkv
+complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 06 [v2][76B605FE].mkv
+complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 07 [v2][31C1F597].mkv
+complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 08 [v2][2E329D72].mkv
+complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 09 [v2][BDD7F3AD].mkv
+complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 10 [v2][F039D557].mkv
+complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 11 [v2][E002E206].mkv
+complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 12 [v2][D8F72563].mkv
+complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 13 [v2][AA292F12].mkv
+complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 14 [v2][53CF94DC].mkv
+complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 15 [v2][EF6D9757].mkv
+complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 16 [v2][C0A75F10].mkv
+complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 17 [v2][36A7EDFC].mkv
+complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 18 [v2][F94E4B79].mkv
+complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 19 [v2][C882BBAE].mkv
+complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 20 [v2][56EB7D6C].mkv
+complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 21 [v2][67D49A26].mkv
+complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 22 [v2][B479EC88].mkv
+complete/l/Last Exile ~Fam, The Silver Wing~/[Commie] Last Exile ~Fam, The Silver Wing~ - 23 [End][v2][B056BE8F].mkv
 complete/l/Last Exile/[Anime-Takeover] Last Exile - 01 [E054129C].ogm
 complete/l/Last Exile/[Anime-Takeover] Last Exile - 02 [B960C792].ogm
 complete/l/Last Exile/[Anime-Takeover] Last Exile - 03 [E5E24511].ogm
@@ -12273,8 +12373,9 @@ complete/l/Love Hina/[zx] Love Hina - 22 [7AF1FCDE].mkv
 complete/l/Love Hina/[zx] Love Hina - 23 [082196B9].mkv
 complete/l/Love Hina/[zx] Love Hina - 24 [16791DD5].mkv
 complete/l/Love Hina/[zx] Love Hina - 25 [End][2A1F0CF9].mkv
-complete/l/Lovedol ~Lovely Idol~/[ReDone] Lovedol ~ Lovely Idol - 02 [DVD][92FE89A6].mkv
 complete/l/Lovedol ~Lovely Idol~/[ReDone] Lovedol ~Lovely Idol~ - 01 [DVD][34AF30FB].mkv
+complete/l/Lovedol ~Lovely Idol~/[ReDone] Lovedol ~Lovely Idol~ - 02 [DVD][92FE89A6].mkv
+complete/l/Lovedol ~Lovely Idol~/[ReDone] Lovedol ~Lovely Idol~ - 03 [DVD][FADDFDFA].mkv
 complete/l/Lovedol ~Lovely Idol~/[WinD] Lovedol ~Lovely Idol~ - 01 [0A4BB14A].mkv
 complete/l/Lovedol ~Lovely Idol~/[WinD] Lovedol ~Lovely Idol~ - 02 [BC9AE020].mkv
 complete/l/Lovedol ~Lovely Idol~/[WinD] Lovedol ~Lovely Idol~ - 03 [5322498C].mkv
@@ -15007,18 +15108,19 @@ complete/n/Naruto/Naruto - 217 [AonE][22A5F189].avi
 complete/n/Naruto/Naruto - 218 [AonE][D3BC9A2D].avi
 complete/n/Naruto/Naruto - 219 [AonE][05170444].avi
 complete/n/Naruto/Naruto - 220 [AonE][End][E15847D3].avi
-complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 01 [26AFFF70].mkv
-complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 02 [721DBE9E].mkv
-complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 03 [5EBA9404].mkv
-complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 04 [D0402D5E].mkv
-complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 05 [DD70944A].mkv
-complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 06 [4576631C].mkv
-complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 07 [A10E9E87].mkv
-complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 08 [152F73C3].mkv
-complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 09 [16DF7072].mkv
-complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 10 [76183975].mkv
-complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 11 [F533CA86].mkv
-complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 12 [End][C2A0E9E2].mkv
+complete/n/Natsuiro Kiseki OVA/[rori] Natsuiro Kiseki OVA [044F5EE6].mkv
+complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 01 [B3AF4D3C].mkv
+complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 02 [31D2FBFF].mkv
+complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 03 [8A8A01E4].mkv
+complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 04 [4B619324].mkv
+complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 05 [6E125D65].mkv
+complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 06 [5D2D21BC].mkv
+complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 07 [BC1982A2].mkv
+complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 08 [AA4289FD].mkv
+complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 09 [453EBFAE].mkv
+complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 10 [9E841020].mkv
+complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 11 [1BD6A124].mkv
+complete/n/Natsuiro Kiseki/[rori] Natsuiro Kiseki - 12 [End][97E0C8CF].mkv
 complete/n/Natsuiro no Sunadokei/[SS] Natsuiro no Sunadokei - 1 [630A528E].avi
 complete/n/Natsuiro no Sunadokei/[SS] Natsuiro no Sunadokei - 2 [End][D078279F].avi
 complete/n/Natsume Yuujinchou San/[Commie] Natsume Yuujinchou San - 01 [CB15A29C].mkv
@@ -15060,6 +15162,7 @@ complete/n/Natsume Yuujinchou/[BSS] Natsume Yuujinchou - 10 [41577B82].mkv
 complete/n/Natsume Yuujinchou/[BSS] Natsume Yuujinchou - 11 [BA42F76C].mkv
 complete/n/Natsume Yuujinchou/[BSS] Natsume Yuujinchou - 12 [B15C979D].mkv
 complete/n/Natsume Yuujinchou/[BSS] Natsume Yuujinchou - 13 [End][217FF831].mkv
+complete/n/Nazo no Kanojo X OVA/[GotWoot] Nazo no Kanojo X OVA [DVD][027C7086].mkv
 complete/n/Needless/[DmonHiro] Needless - 01 [720p BD][D5903F8B].mkv
 complete/n/Needless/[DmonHiro] Needless - 02 [720p BD][1FE15FE5].mkv
 complete/n/Needless/[DmonHiro] Needless - 03 [720p BD][B14A2084].mkv
@@ -16096,12 +16199,12 @@ complete/o/Overman King Gainer/[Exiled-Destiny] Overman King Gainer - 23 [999DAA
 complete/o/Overman King Gainer/[Exiled-Destiny] Overman King Gainer - 24 [6A1EF799].mkv
 complete/o/Overman King Gainer/[Exiled-Destiny] Overman King Gainer - 25 [D008B941].mkv
 complete/o/Overman King Gainer/[Exiled-Destiny] Overman King Gainer - 26 [End][E36D312A].mkv
-complete/o/Ozma/[HorribleSubs] Ozma - 4 [720p][70E2D02B].mkv
-complete/o/Ozma/[HorribleSubs] Ozma - 5 [720p][3A7BD0F4].mkv
-complete/o/Ozma/[HorribleSubs] Ozma - 6 [End][720p][7C5B178A].mkv
-complete/o/Ozma/[Underwater] Ozma - 1 [720p][1B699B08].mkv
+complete/o/Ozma/[Underwater] Ozma - 1 [720p][943A0CDA].mkv
 complete/o/Ozma/[Underwater] Ozma - 2 [720p][D4EC7E3B].mkv
 complete/o/Ozma/[Underwater] Ozma - 3 [720p][DEBE605F].mkv
+complete/o/Ozma/[Underwater] Ozma - 4 [720p][DBD99732].mkv
+complete/o/Ozma/[Underwater] Ozma - 5 [720p][B6265578].mkv
+complete/o/Ozma/[Underwater] Ozma - 6 [End][720p][D3BE39A8].mkv
 complete/p/Pandora Hearts/[Mochi] Pandora Hearts - 01 [v2][WS][6DF40609].mkv
 complete/p/Pandora Hearts/[Mochi] Pandora Hearts - 02 [WS][C8691596].mkv
 complete/p/Pandora Hearts/[Mochi] Pandora Hearts - 03 [WS][A97CE069].mkv
@@ -16354,7 +16457,9 @@ complete/p/Persona 4/[Commie] Persona 4 - 21 [v2][66494B49].mkv
 complete/p/Persona 4/[Commie] Persona 4 - 22 [v2][59DF8F40].mkv
 complete/p/Persona 4/[Commie] Persona 4 - 23 [v2][F3C11A62].mkv
 complete/p/Persona 4/[Commie] Persona 4 - 24 [v2][B92C07F0].mkv
+complete/p/Persona 4/[Commie] Persona 4 - 25 Director's Cut [720p BD][311CA781].mkv
 complete/p/Persona 4/[Commie] Persona 4 - 25 [End][v2][B0271645].mkv
+complete/p/Persona 4/[Commie] Persona 4 - 26 True Ending [BD 720p][0A24880E].mkv
 complete/p/Petit Cossette/[AF-F] Petit Cossette - 1 [91878FA5].avi
 complete/p/Petit Cossette/[AF-F] Petit Cossette - 2 [320FFC2F].avi
 complete/p/Petit Cossette/[AF-F] Petit Cossette - 3 [End][16818DF3].avi
@@ -17272,6 +17377,32 @@ complete/r/Real Drive/[Ureshii-Saizen] Real Drive - 23 (1280x720) [05D83517].mkv
 complete/r/Real Drive/[Ureshii-Saizen] Real Drive - 24 (1280x720) [413EF733].mkv
 complete/r/Real Drive/[Ureshii-Saizen] Real Drive - 25 (1280x720) [v2][DB6A0A88].mkv
 complete/r/Real Drive/[Ureshii-Saizen] Real Drive - 26 (1280x720) [End][51F63A20].mkv
+complete/r/Recorder to Randoseru Do/[CMS] Recorder to Randoseru Do - 01 [1080p BD][ED92B7F7].mkv
+complete/r/Recorder to Randoseru Do/[CMS] Recorder to Randoseru Do - 02 [1080p BD][F22397FD].mkv
+complete/r/Recorder to Randoseru Do/[CMS] Recorder to Randoseru Do - 03 [1080p BD][EC2FEF8D].mkv
+complete/r/Recorder to Randoseru Do/[CMS] Recorder to Randoseru Do - 04 [1080p BD][0B698C8C].mkv
+complete/r/Recorder to Randoseru Do/[CMS] Recorder to Randoseru Do - 05 [1080p BD][4DB27AE0].mkv
+complete/r/Recorder to Randoseru Do/[CMS] Recorder to Randoseru Do - 06 [1080p BD][9566EC5C].mkv
+complete/r/Recorder to Randoseru Do/[CMS] Recorder to Randoseru Do - 07 [1080p BD][4F08EE55].mkv
+complete/r/Recorder to Randoseru Do/[CMS] Recorder to Randoseru Do - 08 [1080p BD][558E781B].mkv
+complete/r/Recorder to Randoseru Do/[CMS] Recorder to Randoseru Do - 09 [1080p BD][7C977909].mkv
+complete/r/Recorder to Randoseru Do/[CMS] Recorder to Randoseru Do - 10 [1080p BD][736B1F83].mkv
+complete/r/Recorder to Randoseru Do/[CMS] Recorder to Randoseru Do - 11 [1080p BD][9FF9309C].mkv
+complete/r/Recorder to Randoseru Do/[CMS] Recorder to Randoseru Do - 12 [1080p BD][5B0E982C].mkv
+complete/r/Recorder to Randoseru Do/[CMS] Recorder to Randoseru Do - 13 [End][1080p BD][922E61F5].mkv
+complete/r/Recorder to Randoseru Re/[CMS] Recorder to Randoseru Re - 01 [1080p BD][09048F37].mkv
+complete/r/Recorder to Randoseru Re/[CMS] Recorder to Randoseru Re - 02 [1080p BD][55B332E5].mkv
+complete/r/Recorder to Randoseru Re/[CMS] Recorder to Randoseru Re - 03 [1080p BD][D442A71A].mkv
+complete/r/Recorder to Randoseru Re/[CMS] Recorder to Randoseru Re - 04 [1080p BD][1E4CA38C].mkv
+complete/r/Recorder to Randoseru Re/[CMS] Recorder to Randoseru Re - 05 [1080p BD][B8DA53F8].mkv
+complete/r/Recorder to Randoseru Re/[CMS] Recorder to Randoseru Re - 06 [1080p BD][173D3213].mkv
+complete/r/Recorder to Randoseru Re/[CMS] Recorder to Randoseru Re - 07 [1080p BD][F7911C86].mkv
+complete/r/Recorder to Randoseru Re/[CMS] Recorder to Randoseru Re - 08 [1080p BD][C225A62D].mkv
+complete/r/Recorder to Randoseru Re/[CMS] Recorder to Randoseru Re - 09 [1080p BD][8986D052].mkv
+complete/r/Recorder to Randoseru Re/[CMS] Recorder to Randoseru Re - 10 [1080p BD][A063A903].mkv
+complete/r/Recorder to Randoseru Re/[CMS] Recorder to Randoseru Re - 11 [1080p BD][5ABC7C65].mkv
+complete/r/Recorder to Randoseru Re/[CMS] Recorder to Randoseru Re - 12 [1080p BD][A17CA485].mkv
+complete/r/Recorder to Randoseru Re/[CMS] Recorder to Randoseru Re - 13 [End][1080p BD][087C648F].mkv
 complete/r/Red Garden/[gg] Red Garden - 01 [E60B7DEA].mkv
 complete/r/Red Garden/[gg] Red Garden - 02 [A5F360C3].mkv
 complete/r/Red Garden/[gg] Red Garden - 03 [86309631].mkv
@@ -18856,6 +18987,9 @@ complete/s/Senki Zesshou Symphogear/[DmonHiro] Senki Zesshou Symphogear - 07 [72
 complete/s/Senki Zesshou Symphogear/[DmonHiro] Senki Zesshou Symphogear - 08 [720p BD][AE3B2869].mkv
 complete/s/Senki Zesshou Symphogear/[DmonHiro] Senki Zesshou Symphogear - 09 [720p BD][7322C733].mkv
 complete/s/Senki Zesshou Symphogear/[DmonHiro] Senki Zesshou Symphogear - 10 [720p BD][6BA0DB07].mkv
+complete/s/Senki Zesshou Symphogear/[DmonHiro] Senki Zesshou Symphogear - 11 [720p BD][1E391565].mkv
+complete/s/Senki Zesshou Symphogear/[DmonHiro] Senki Zesshou Symphogear - 12 [720p BD][B8DB0158].mkv
+complete/s/Senki Zesshou Symphogear/[DmonHiro] Senki Zesshou Symphogear - 13 [End][720p BD][57C87FBD].mkv
 complete/s/Sentou Yousei Tasukete! Mave-chan/[dp] Sentou Yousei Tasukete! Mave-chan [A31B4444].avi
 complete/s/Serial Experiments Lain/[Coalgirls] Serial Experiments Lain - 01 [1080p BD][573CDDD6].mkv
 complete/s/Serial Experiments Lain/[Coalgirls] Serial Experiments Lain - 02 [1080p BD][19F59BAF].mkv
@@ -19150,17 +19284,15 @@ complete/s/Shin Koihime Musou/[polished] Shin Koihime Musou - 09 (1280x720) [BD]
 complete/s/Shin Koihime Musou/[polished] Shin Koihime Musou - 10 (1280x720) [BD][CE4CAEEB].mkv
 complete/s/Shin Koihime Musou/[polished] Shin Koihime Musou - 11 (1280x720) [BD][5136BBB7].mkv
 complete/s/Shin Koihime Musou/[polished] Shin Koihime Musou - 12 (1280x720) [BD][FFF68F1D].mkv
-complete/s/Shinigami no Ballad/[-_-] Shinigami no Ballad - 1 [D3D07B7F].mkv
-complete/s/Shinigami no Ballad/[-_-] Shinigami no Ballad - 2 [39CF85DD].mkv
-complete/s/Shinigami no Ballad/[-_-] Shinigami no Ballad - 3 [F1D3BBD9].mkv
-complete/s/Shinigami no Ballad/[-_-] Shinigami no Ballad - 4 [740FB343].mkv
-complete/s/Shinigami no Ballad/[-_-] Shinigami no Ballad - Ending 1 (Clean) [C884BAA8].mkv
-complete/s/Shinigami no Ballad/[-_-] Shinigami no Ballad - Opening 1 (Clean) [3840A365].mkv
-complete/s/Shinigami no Ballad/[DmonHiro] Shinigami no Ballad - 5 [DF17F278].mkv
-complete/s/Shinigami no Ballad/[DmonHiro] Shinigami no Ballad - 6 [End][D1C0C79B].mkv
-complete/s/Shinigami no Ballad/[ReDone] Shinigami's Ballad - 01 [DVD][43BB3778].mkv
-complete/s/Shinigami no Ballad/[ReDone] Shinigami's Ballad - 02 [DVD][4B94AA3D].mkv
-complete/s/Shinigami no Ballad/[ReDone] Shinigami's Ballad - 03 [DVD][8BD343A1].mkv
+complete/s/Shinigami no Ballad/[ReDone] Shinigami's Ballad - 1 [DVD][43BB3778].mkv
+complete/s/Shinigami no Ballad/[ReDone] Shinigami's Ballad - 2 [DVD][4B94AA3D].mkv
+complete/s/Shinigami no Ballad/[ReDone] Shinigami's Ballad - 3 [DVD][8BD343A1].mkv
+complete/s/Shinigami no Ballad/[ReDone] Shinigami's Ballad - 4 [DVD][940533FD].mkv
+complete/s/Shinigami no Ballad/[ReDone] Shinigami's Ballad - 5 [DVD][8579363C].mkv
+complete/s/Shinigami no Ballad/[ReDone] Shinigami's Ballad - 6 [End][DVD][26916C12].mkv
+complete/s/Shinigami no Ballad/[ReDone] Shinigami's Ballad - Ending (Clean) [DVD][2FDECABE].mkv
+complete/s/Shinigami no Ballad/[ReDone] Shinigami's Ballad - Opening (Clean) [DVD][FAFFDFFB].mkv
+complete/s/Shinigami no Ballad/[ReDone] Shinigami's Ballad - Promos [DVD][E4D436F0].mkv
 complete/s/Shining Hearts - Shiawase no Pan/[Hiryuu] Shining Hearts - Shiawase no Pan - 01 [720p][DAB83BA4].mkv
 complete/s/Shining Hearts - Shiawase no Pan/[Hiryuu] Shining Hearts - Shiawase no Pan - 02 [720p][2B81F8FC].mkv
 complete/s/Shining Hearts - Shiawase no Pan/[Hiryuu] Shining Hearts - Shiawase no Pan - 03 [720p][FD413457].mkv
@@ -19259,6 +19391,19 @@ complete/s/Shounen Onmyouji/[Yoroshiku] Shounen Onmyouji - 23 [EDBB049B].mp4
 complete/s/Shounen Onmyouji/[Yoroshiku] Shounen Onmyouji - 24 [DE2F13B3].mp4
 complete/s/Shounen Onmyouji/[Yoroshiku] Shounen Onmyouji - 25 [DVD][9AE4A0AD].mp4
 complete/s/Shounen Onmyouji/[Yoroshiku] Shounen Onmyouji - 26 [End][DVD][16556B76].mp4
+complete/s/Showa Monogatari/[GotWoot] Showa Monogatari - 01 [8A470E37].mkv
+complete/s/Showa Monogatari/[GotWoot] Showa Monogatari - 02 [v2][5C588DA2].mkv
+complete/s/Showa Monogatari/[GotWoot] Showa Monogatari - 03 [9F2E773D].mkv
+complete/s/Showa Monogatari/[GotWoot] Showa Monogatari - 04 [9671B023].mkv
+complete/s/Showa Monogatari/[GotWoot] Showa Monogatari - 05 [D4D4AFCF].mkv
+complete/s/Showa Monogatari/[GotWoot] Showa Monogatari - 06 [CEB7A37E].mkv
+complete/s/Showa Monogatari/[GotWoot] Showa Monogatari - 07 [1CA28CA1].mkv
+complete/s/Showa Monogatari/[GotWoot] Showa Monogatari - 08 [8651683A].mkv
+complete/s/Showa Monogatari/[GotWoot] Showa Monogatari - 09 [B68D24BD].mkv
+complete/s/Showa Monogatari/[GotWoot] Showa Monogatari - 10 [19B0814D].mkv
+complete/s/Showa Monogatari/[GotWoot] Showa Monogatari - 11 [BF438FFD].mkv
+complete/s/Showa Monogatari/[GotWoot] Showa Monogatari - 12 [C9292E6E].mkv
+complete/s/Showa Monogatari/[GotWoot] Showa Monogatari - 13 [End][AC7B9B87].mkv
 complete/s/Shuffle! Memories OVA/[SHiN-gx] Shuffle! Memories OVA [DVD][64DC5CDB].mkv
 complete/s/Shuffle! Memories/[Ayako] Shuffle! Memories - 01 [720p DVD][0F036849].mkv
 complete/s/Shuffle! Memories/[Ayako] Shuffle! Memories - 02 [720p DVD][ABD08C95].mkv
@@ -19874,57 +20019,6 @@ complete/s/Soukyuu no Fafner/[W_B] Soukyuu no Fafner - 23 [74EAB6EC].mkv
 complete/s/Soukyuu no Fafner/[W_B] Soukyuu no Fafner - 24 [E7C18CE7].mkv
 complete/s/Soukyuu no Fafner/[W_B] Soukyuu no Fafner - 25 [E157CEA2].mkv
 complete/s/Soukyuu no Fafner/[W_B] Soukyuu no Fafner - 26 [End][EF0ADCFC].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 01 [64480E45].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 02 [27887F6A].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 03 [6DA31886].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 04 [41C7378A].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 05 [64E1B3A9].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 06 [9890DDB0].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 07 [C9AFD4C1].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 08 [07CF52A7].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 09 [C8CF0C67].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 10 [24FB76DF].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 11 [CCBC5FF5].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 12 [AD4BD1AB].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 13 [54D3FCFE].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 14 [1F4118B5].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 15 [5E850610].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 16 [32355C92].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 17 [5AEACDDE].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 18 [3040B582].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 19 [C7FB82C0].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 20 [6C825160].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 21 [F471709C].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 22 [E5E1AC62].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 23 [F9A2A88F].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 24 [910E915D].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 25 [3028D210].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 26 [284DAC30].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 27 [C18F98D7].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 28 [5E678663].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 29 [8D6AD415].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 30 [1F00E7A6].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 31 [F1160439].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 32 [0370C657].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 33 [8E47E36A].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 34 [F082CCCF].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 35 [30130715].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 36 [94B84F57].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 37 [37A251C1].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 38 [0C42AB9F].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 39 [86F8FF28].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 40 [230D01B7].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 41 [7CC21493].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 42 [98896E05].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 43 [ED5E8777].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 44 [E2F5DC02].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 45 [622E0702].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 46 [77146FA0].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 47 [1F99D9E0].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 48 [7B2E34D0].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 49 [B3F1D35E].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 50 [369D8541].mkv
-complete/s/Soul Eater/[Arigatou] Soul Eater - 51 [End][217D4C63].mkv
 complete/s/Soul Eater/[Coalgirls] Soul Eater - 01 [720p BD][09357BAA].mkv
 complete/s/Soul Eater/[Coalgirls] Soul Eater - 02 [720p BD][56696AE6].mkv
 complete/s/Soul Eater/[Coalgirls] Soul Eater - 03 [720p BD][44D99E2A].mkv
@@ -19935,18 +20029,18 @@ complete/s/Soul Eater/[Coalgirls] Soul Eater - 07 [720p BD][ECC783F1].mkv
 complete/s/Soul Eater/[Coalgirls] Soul Eater - 08 [720p BD][B2D51A7C].mkv
 complete/s/Soul Eater/[Coalgirls] Soul Eater - 09 [720p BD][8FAF4F40].mkv
 complete/s/Soul Eater/[Coalgirls] Soul Eater - 10 [720p BD][B8D98F2D].mkv
-complete/s/Soul Eater/[Coalgirls] Soul Eater - 11 [720p BD][0A095AEF].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 11 [720p BD][DC56A212].mkv
 complete/s/Soul Eater/[Coalgirls] Soul Eater - 12 [720p BD][0465C9B4].mkv
-complete/s/Soul Eater/[Coalgirls] Soul Eater - 13 [720p BD][3A3FFA98].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 13 [720p BD][F7BAB64A].mkv
 complete/s/Soul Eater/[Coalgirls] Soul Eater - 14 [720p BD][78C536D1].mkv
 complete/s/Soul Eater/[Coalgirls] Soul Eater - 15 [720p BD][C2D1845D].mkv
-complete/s/Soul Eater/[Coalgirls] Soul Eater - 16 [720p BD][11CF87AC].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 16 [720p BD][398E5DE5].mkv
 complete/s/Soul Eater/[Coalgirls] Soul Eater - 17 [720p BD][C6710B40].mkv
-complete/s/Soul Eater/[Coalgirls] Soul Eater - 18 [720p BD][67C89ADF].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 18 [720p BD][D3D8549D].mkv
 complete/s/Soul Eater/[Coalgirls] Soul Eater - 19 [720p BD][CA2D95B2].mkv
 complete/s/Soul Eater/[Coalgirls] Soul Eater - 20 [720p BD][64402A75].mkv
 complete/s/Soul Eater/[Coalgirls] Soul Eater - 21 [720p BD][6211FB2D].mkv
-complete/s/Soul Eater/[Coalgirls] Soul Eater - 22 [720p BD][2F6A4DF1].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 22 [720p BD][FF4326D8].mkv
 complete/s/Soul Eater/[Coalgirls] Soul Eater - 23 [720p BD][1BE4326B].mkv
 complete/s/Soul Eater/[Coalgirls] Soul Eater - 24 [720p BD][794149FE].mkv
 complete/s/Soul Eater/[Coalgirls] Soul Eater - 25 [720p BD][053E22DA].mkv
@@ -19957,13 +20051,25 @@ complete/s/Soul Eater/[Coalgirls] Soul Eater - 29 [720p BD][020E14D8].mkv
 complete/s/Soul Eater/[Coalgirls] Soul Eater - 30 [720p BD][F71E3449].mkv
 complete/s/Soul Eater/[Coalgirls] Soul Eater - 31 [720p BD][E589BD82].mkv
 complete/s/Soul Eater/[Coalgirls] Soul Eater - 32 [720p BD][E533CE23].mkv
-complete/s/Soul Eater/[Coalgirls] Soul Eater - 33 [720p BD][A2A4B201].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 33 [720p BD][EA7ABFA6].mkv
 complete/s/Soul Eater/[Coalgirls] Soul Eater - 34 [720p BD][38A1C409].mkv
 complete/s/Soul Eater/[Coalgirls] Soul Eater - 35 [720p BD][B4E6CADE].mkv
-complete/s/Soul Eater/[Coalgirls] Soul Eater - 36 [720p BD][6D512AB8].mkv
-complete/s/Soul Eater/[Coalgirls] Soul Eater - 37 [720p BD][44FEAD0D].mkv
-complete/s/Soul Eater/[Coalgirls] Soul Eater - 38 [720p BD][276F6CCE].mkv
-complete/s/Soul Eater/[Coalgirls] Soul Eater - 39 [720p BD][59C77C22].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 36 [720p BD][FE16D4DD].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 37 [720p BD][C4892FCE].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 38 [720p BD][C978F900].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 39 [720p BD][93422ADF].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 40 [720p BD][D33CE3CD].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 41 [720p BD][B10FE33A].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 42 [720p BD][789C7857].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 43 [720p BD][CA732AEB].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 44 [720p BD][0B35ECEF].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 45 [720p BD][1265D1C1].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 46 [720p BD][A71E150F].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 47 [720p BD][C14C5203].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 48 [720p BD][E2AF3030].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 49 [720p BD][B5299147].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 50 [720p BD][4E19F251].mkv
+complete/s/Soul Eater/[Coalgirls] Soul Eater - 51 [720p BD][D0502E34].mkv
 complete/s/Soul Link/[ReDone] Soul Link - 01 [DVD][D3C267CC].mkv
 complete/s/Soul Link/[ReDone] Soul Link - 02 [DVD][21300891].mkv
 complete/s/Soul Link/[ReDone] Soul Link - 03 [DVD][6FDE8356].mkv
@@ -20963,6 +21069,7 @@ complete/t/The Idolm@ster/[Chibiki] The Idolm@ster - 22 [720p][79227718].mkv
 complete/t/The Idolm@ster/[Chibiki] The Idolm@ster - 23 [720p][C02ABDE5].mkv
 complete/t/The Idolm@ster/[Chibiki] The Idolm@ster - 24 [720p][1C43D090].mkv
 complete/t/The Idolm@ster/[Chibiki] The Idolm@ster - 25 [End][720p][C8DCD940].mkv
+complete/t/The Idolm@ster/[Chibiki] The Idolm@ster - 26 OVA [720p][4E9A6EA8].mkv
 complete/t/The Law of Ueki/[SHS-Animeseal] The Law of Ueki - 01 [3DEB6D1F].avi
 complete/t/The Law of Ueki/[SHS-Animeseal] The Law of Ueki - 02 [BD7F1F65].avi
 complete/t/The Law of Ueki/[SHS-Animeseal] The Law of Ueki - 03 [EB6B9509].avi
@@ -21288,19 +21395,6 @@ complete/t/Time of Eve/[Yabai] Time of Eve - 3 [v2][DVD][C6033409].mkv
 complete/t/Time of Eve/[Yabai] Time of Eve - 4 [DVD][E14F07FF].mkv
 complete/t/Time of Eve/[Yabai] Time of Eve - 5 [DVD][46F1FA3F].mkv
 complete/t/Time of Eve/[Yabai] Time of Eve - 6 [End][DVD][770460BD].mkv
-complete/t/To Heart - Remember my Memories/[ReDone] To Heart - Remember my Memories - 01 [DVD][04641A84].mkv
-complete/t/To Heart - Remember my Memories/[ReDone] To Heart - Remember my Memories - 02 [DVD][18FA126A].mkv
-complete/t/To Heart - Remember my Memories/[ReDone] To Heart - Remember my Memories - 03 [DVD][16AE26CE].mkv
-complete/t/To Heart - Remember my Memories/[ReDone] To Heart - Remember my Memories - 04 [DVD][4CE0A41E].mkv
-complete/t/To Heart - Remember my Memories/[ReDone] To Heart - Remember my Memories - 05 [DVD][CC12B666].mkv
-complete/t/To Heart - Remember my Memories/[ReDone] To Heart - Remember my Memories - 06 [DVD][4EFD7BC8].mkv
-complete/t/To Heart - Remember my Memories/[ReDone] To Heart - Remember my Memories - 07 [DVD][EC306FA2].mkv
-complete/t/To Heart - Remember my Memories/[ReDone] To Heart - Remember my Memories - 08 [DVD][AD09B429].mkv
-complete/t/To Heart - Remember my Memories/[ReDone] To Heart - Remember my Memories - 09 [DVD][5FA250D2].mkv
-complete/t/To Heart - Remember my Memories/[ReDone] To Heart - Remember my Memories - 10 [DVD][601E5C73].mkv
-complete/t/To Heart - Remember my Memories/[ReDone] To Heart - Remember my Memories - 11 [DVD][278D8676].mkv
-complete/t/To Heart - Remember my Memories/[ReDone] To Heart - Remember my Memories - 12 [DVD][CE41D91F].mkv
-complete/t/To Heart - Remember my Memories/[ReDone] To Heart - Remember my Memories - 13 [End][DVD][ADDCB206].mkv
 complete/t/To Heart - Special/[Exiled-Destiny] To Heart - Special 1 [B6AE0004].mkv
 complete/t/To Heart - Special/[Exiled-Destiny] To Heart - Special 2 [8A21978E].mkv
 complete/t/To Heart - Special/[Exiled-Destiny] To Heart - Special 3 [6E954FAC].mkv
@@ -21334,6 +21428,30 @@ complete/t/To Heart 2/[Jumonji-Giri] To Heart 2 - 12 [81DDF9D5].mkv
 complete/t/To Heart 2/[Jumonji-Giri] To Heart 2 - 13 [End][A18EFE24].mkv
 complete/t/To Heart 2/[Jumonji-Giri] To Heart 2 - Ending (Clean) [D429CDF4].mkv
 complete/t/To Heart 2/[Jumonji-Giri] To Heart 2 - Opening (Clean) [DE07DF14].mkv
+complete/t/To Heart ~Remember My Memories~ Heart Fighters/[ReDone] To Heart ~Remember My Memories~ Heart Fighters - 01 [DVD][DD81A159].mkv
+complete/t/To Heart ~Remember My Memories~ Heart Fighters/[ReDone] To Heart ~Remember My Memories~ Heart Fighters - 02 [DVD][63D8B7F7].mkv
+complete/t/To Heart ~Remember My Memories~ Heart Fighters/[ReDone] To Heart ~Remember My Memories~ Heart Fighters - 03 [DVD][8D410117].mkv
+complete/t/To Heart ~Remember My Memories~ Heart Fighters/[ReDone] To Heart ~Remember My Memories~ Heart Fighters - 04 [DVD][8FD6BA25].mkv
+complete/t/To Heart ~Remember My Memories~ Heart Fighters/[ReDone] To Heart ~Remember My Memories~ Heart Fighters - 05 [DVD][837B9E50].mkv
+complete/t/To Heart ~Remember My Memories~ Heart Fighters/[ReDone] To Heart ~Remember My Memories~ Heart Fighters - 06 [DVD][C9F98161].mkv
+complete/t/To Heart ~Remember My Memories~ Heart Fighters/[ReDone] To Heart ~Remember My Memories~ Heart Fighters - 07 [DVD][B63E8F51].mkv
+complete/t/To Heart ~Remember My Memories~/[ReDone] To Heart ~Remember My Memories~ - 01 [DVD][04641A84].mkv
+complete/t/To Heart ~Remember My Memories~/[ReDone] To Heart ~Remember My Memories~ - 02 [DVD][18FA126A].mkv
+complete/t/To Heart ~Remember My Memories~/[ReDone] To Heart ~Remember My Memories~ - 03 [DVD][16AE26CE].mkv
+complete/t/To Heart ~Remember My Memories~/[ReDone] To Heart ~Remember My Memories~ - 04 [DVD][4CE0A41E].mkv
+complete/t/To Heart ~Remember My Memories~/[ReDone] To Heart ~Remember My Memories~ - 05 [DVD][CC12B666].mkv
+complete/t/To Heart ~Remember My Memories~/[ReDone] To Heart ~Remember My Memories~ - 06 [DVD][4EFD7BC8].mkv
+complete/t/To Heart ~Remember My Memories~/[ReDone] To Heart ~Remember My Memories~ - 07 [DVD][EC306FA2].mkv
+complete/t/To Heart ~Remember My Memories~/[ReDone] To Heart ~Remember My Memories~ - 08 [DVD][AD09B429].mkv
+complete/t/To Heart ~Remember My Memories~/[ReDone] To Heart ~Remember My Memories~ - 09 [DVD][5FA250D2].mkv
+complete/t/To Heart ~Remember My Memories~/[ReDone] To Heart ~Remember My Memories~ - 10 [DVD][601E5C73].mkv
+complete/t/To Heart ~Remember My Memories~/[ReDone] To Heart ~Remember My Memories~ - 11 [DVD][278D8676].mkv
+complete/t/To Heart ~Remember My Memories~/[ReDone] To Heart ~Remember My Memories~ - 12 [DVD][CE41D91F].mkv
+complete/t/To Heart ~Remember My Memories~/[ReDone] To Heart ~Remember My Memories~ - 13 [End][DVD][ADDCB206].mkv
+complete/t/To Heart ~Remember My Memories~/[ReDone] To Heart ~Remember My Memories~ - Alternative Ending (Clean) [DVD][B3931633].mkv
+complete/t/To Heart ~Remember My Memories~/[ReDone] To Heart ~Remember My Memories~ - Ending (Clean) [DVD][6AE89256].mkv
+complete/t/To Heart ~Remember My Memories~/[ReDone] To Heart ~Remember My Memories~ - Ending 2 (Clean) [DVD][2FEEB879].mkv
+complete/t/To Heart ~Remember My Memories~/[ReDone] To Heart ~Remember My Memories~ - Opening (Clean) [DVD][61B9C83B].mkv
 complete/t/To Heart/[Exiled-Destiny] To Heart - 01 [5328882B].mkv
 complete/t/To Heart/[Exiled-Destiny] To Heart - 02 [48C763E4].mkv
 complete/t/To Heart/[Exiled-Destiny] To Heart - 03 [4D740245].mkv
@@ -21668,6 +21786,21 @@ complete/t/Tonagura!/[ReDone] Tonagura! - 10 [DVD][37BD0349].mkv
 complete/t/Tonagura!/[ReDone] Tonagura! - 11 [DVD][F89B731A].mkv
 complete/t/Tonagura!/[ReDone] Tonagura! - 12 [v2 DVD][3157679A].mkv
 complete/t/Tonagura!/[ReDone] Tonagura! - 13 [End][DVD][14BF200F].mkv
+complete/t/Tonagura!/[ReDone] Tonagura! - Ending 1 (Clean) [DVD][7349EEE7].mkv
+complete/t/Tonagura!/[ReDone] Tonagura! - Ending 2 (Clean) [DVD][8744682A].mkv
+complete/t/Tonagura!/[ReDone] Tonagura! - Opening 01 (Clean) [DVD][5DE0283B].mkv
+complete/t/Tonagura!/[ReDone] Tonagura! - Opening 02 (Clean) [DVD][D7A94959].mkv
+complete/t/Tonagura!/[ReDone] Tonagura! - Opening 03 (Clean) [DVD][DE0C841F].mkv
+complete/t/Tonagura!/[ReDone] Tonagura! - Opening 04 (Clean) [DVD][71354009].mkv
+complete/t/Tonagura!/[ReDone] Tonagura! - Opening 05 (Clean) [DVD][5A07D3B2].mkv
+complete/t/Tonagura!/[ReDone] Tonagura! - Opening 06 (Clean) [DVD][E8AEBFD5].mkv
+complete/t/Tonagura!/[ReDone] Tonagura! - Opening 07 (Clean) [DVD][B1C2ABB2].mkv
+complete/t/Tonagura!/[ReDone] Tonagura! - Opening 08 (Clean) [DVD][2BA7190D].mkv
+complete/t/Tonagura!/[ReDone] Tonagura! - Opening 09 (Clean) [DVD][88736B4F].mkv
+complete/t/Tonagura!/[ReDone] Tonagura! - Opening 10 (Clean) [DVD][61282967].mkv
+complete/t/Tonagura!/[ReDone] Tonagura! - Opening 11 (Clean) [DVD][B92FD851].mkv
+complete/t/Tonagura!/[ReDone] Tonagura! - Opening 12 (Clean) [DVD][76C67E66].mkv
+complete/t/Tonagura!/[ReDone] Tonagura! - Opening 13 (Clean) [DVD][39348657].mkv
 complete/t/Tono to Issho OAV/[Huzzah-Pretentious] Tono to Issho OAV [9151FA51].mkv
 complete/t/Top wo Nerae! 2/[ETB] Top wo Nerae! 2 - 1 [D41848B6].mkv
 complete/t/Top wo Nerae! 2/[ETB] Top wo Nerae! 2 - 2 [EA8B6076].mkv
@@ -22266,18 +22399,18 @@ complete/t/Tsukuyomi Moon Phase/[mahou] Tsukuyomi Moon Phase - 23 [DDE2C60A].avi
 complete/t/Tsukuyomi Moon Phase/[mahou] Tsukuyomi Moon Phase - 24 [0E8E3AB7].avi
 complete/t/Tsukuyomi Moon Phase/[mahou] Tsukuyomi Moon Phase - 25 [58F56F03].avi
 complete/t/Tsukuyomi Moon Phase/[mahou] Tsukuyomi Moon Phase - 26 [End][DVD][8F749B20].avi
-complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 01 [CBCB10F1].mkv
-complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 02 [EB127B12].mkv
-complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 03 [39121A7E].mkv
-complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 04 [C172C68E].mkv
-complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 05 [7796D4FC].mkv
-complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 06 [4230293F].mkv
-complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 07 [B59B03B4].mkv
-complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 08 [1D4DA339].mkv
-complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 09 [BDC5AD6F].mkv
-complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 10 [2A295EC7].mkv
-complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 11 [AC9D7FD7].mkv
-complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 12 [End][E8D0E586].mkv
+complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 01 [v2][BF4BD4C4].mkv
+complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 02 [v2][95556ABF].mkv
+complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 03 [v2][F180D0AC].mkv
+complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 04 [v2][12C70518].mkv
+complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 05 [v2][50769592].mkv
+complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 06 [v2][45E2649E].mkv
+complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 07 [v2][3425BB94].mkv
+complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 08 [v2][7C498F97].mkv
+complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 09 [v2][3146AAE4].mkv
+complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 10 [v2][6E5977C8].mkv
+complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 11 [v2][58BE2CBB].mkv
+complete/t/Tsuritama/[Commie-Fishing] Tsuritama - 12 [End][v2][014C4E92].mkv
 complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 01 [v2][E8F575A6].mkv
 complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 02 [v2][EC3C89DA].mkv
 complete/t/Turn-A Gundam/[EG] Turn-A Gundam - 03 [v2][37DE7104].mkv
@@ -23227,6 +23360,11 @@ complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 09 [2B15692C].mkv
 complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 10 [064CAF0E].mkv
 complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 11 [2024B535].mkv
 complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 12 [623B2997].mkv
+complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 13 [39D3FA8C].mkv
+complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 14 [DE9EF17A].mkv
+complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 15 [A56CFCA1].mkv
+complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 16 [4D52FFB7].mkv
+complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 17 [A649D149].mkv
 complete/y/Yakushiji Ryoko no Kaiki Jikenbo/[AonE-AnY] Yakushiji Ryoko no Kaiki Jikenbo - 01 [ED975900].mkv
 complete/y/Yakushiji Ryoko no Kaiki Jikenbo/[AonE-AnY] Yakushiji Ryoko no Kaiki Jikenbo - 02 [C50AFECA].mkv
 complete/y/Yakushiji Ryoko no Kaiki Jikenbo/[AonE-AnY] Yakushiji Ryoko no Kaiki Jikenbo - 03 [556F1904].mkv
