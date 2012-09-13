@@ -16,10 +16,25 @@
 !new/.ec/[EG]Zeta_Gundam_Heirs_To_The_Stars(720p_10bit_FLAC).mkv
 !new/.ec/[FFF] Shinryaku!! Ika Musume OVA - 01 [DVD][480p-AAC][71A0BE68].mkv
 !new/.ec/[FFF] Yondemasu yo, Azazel-san OVA - 03 [DVD][480p-AC3][CEBD6196].mkv
+!new/.ec/[HorribleSubs] Hakuoki Reimeiroku - 10 [720p].mkv
+!new/.ec/[HorribleSubs] Utakoi - 11 [720p].mkv
 !new/.ec/[Jumonji-Giri]_[Triad]_Zettai_Shonen_Ep01_(a62ce438).mkv
 !new/.ec/[Jumonji-Giri]_[Triad]_Zettai_Shonen_NCOP1_(a286bf5b).mkv
 !new/.ec/[Jumonji-Giri]_[Triad]_Zettai_Shonen_NCOP2_(9b4e81b7).mkv
+!new/.ec/[Licca] Little Women II - Jo's Boys Episode 29 (h.264-Hi10P) [15CCCA66].mkv
+!new/.ec/[Nipponsei] AKB0048 OP ED Single - Kibou ni Tsuite [NO NAME].zip
+!new/.ec/[Nipponsei] Accel World ED2 Single - Unite [Misawa Sachika].zip
+!new/.ec/[Nipponsei] Accel World Original Soundtrack feat. Ooshima Hiroyuki.zip
+!new/.ec/[Nipponsei] Dog Days' OP Single - FEARLESS HERO [Mizuki Nana].zip
+!new/.ec/[Nipponsei] Natsuiro Kiseki Insert Song 1 - Yasashisa ni Tsutsumareru You ni.zip
+!new/.ec/[Nipponsei] Natsuiro Kiseki Insert Song 2 - Yumeiro Graffiti [Kotobuki Minako & Takagaki Ayahi].zip
+!new/.ec/[Nipponsei] Nazo no Kanojo X ED Single - Houkago no Yakusoku [Yoshitani Ayako].zip
+!new/.ec/[Nipponsei] Rinne no Lagrange Season 2 OP Single - Marble [Nakajima Megumi].zip
+!new/.ec/[Nipponsei] TARI TARI OP Single - Dreamer [AiRI].zip
+!new/.ec/[Over-Time]_Spec-Ops_Cell_Go-Busters_-_29_[BADB477C].mkv
+!new/.ec/[PCSS] Yes! Pretty Cure 5 - 26 (DVD) [1931724A].mkv
 !new/.ec/[Pomf] To Love-Ru Darkness OVA - 01 [29FA608B].mkv
+!new/.ec/[RyRo]_Inazuma_Eleven_GO_Chrono_Stone_-_014_(720p)_[91D2754C].mkv
 !new/.ec/[RyRo]_Inazuma_Eleven_GO_Chrono_Stone_-_016_(720p)_[852ADA82].mkv
 !new/.ec/[RyRo]_Inazuma_Eleven_GO_Chrono_Stone_-_017_(720p)_[CFCB8524].mkv
 !new/.ec/[RyRo]_Inazuma_Eleven_GO_Chrono_Stone_-_018_(720p)_[B81B5895].mkv
@@ -32,9 +47,15 @@
 !new/.ec/[RyRo]_Inazuma_Eleven_GO_the_Movie_-_Extra_6_-_Eyecatches_(BD)_[282C41F2].mkv
 !new/.ec/[RyRo]_Inazuma_Eleven_GO_the_Movie_~Kyuukyoku_no_Kizuna_Gryphon~_(BD_720p)_[33901FB1].mkv
 !new/.ec/[RyRo]_Reach_the_Milky_Way!_Inazuma_Eleven_GO_Tanabata_Festival_-_Live_Post-Recording_Stage_[BC1F2428].mkv
+!new/.ec/[Saizen_&_Shinsen-Subs]_Captain_Tsubasa_Road_to_2002_-_46_[DVD][B2B170DA].mkv
+!new/.ec/[Saizen_&_Shinsen-Subs]_Captain_Tsubasa_Road_to_2002_-_47_[DVD][C1325F9E].mkv
+!new/.ec/[Saizen_&_Shinsen-Subs]_Captain_Tsubasa_Road_to_2002_-_48_[DVD][CC285FEA].mkv
+!new/.ec/[Saizen_&_Shinsen-Subs]_Captain_Tsubasa_Road_to_2002_-_49_[DVD][6ABE4F39].mkv
 !new/.ec/[Triad]_Shinigami's_Ballad_Trailer.avi
 !new/.ec/[UTW-Mazui]_Tamayura_~hitotose~_-_13_[BD][h264-720p_FLAC][09B35015].mkv
+!new/.ec/[WhyNot] Phi Brain - Kami no Puzzle S2 - 23 [A12C605F].mkv
 !new/.ec/[m.3.3.w]_Kimi_ni_Todoke_2nd_Season_-_00v2_(H.264)_[5C66A4B9].mkv
+!new/.ec/[yibis]_One_Piece_562_[720p][6241083D].mkv
 !new/.ec/cekz/Kid the Phantom Thief (Magic Kaito) - 07 - The Splendid Rivals [M-L][720p][H264-AAC][9308E13F].mkv
 !new/.ec/cekz/Kid the Phantom Thief (Magic Kaito) - 08 - The Secret of the Red Tear [M-L][720p][H264-AAC][59F0E646].mkv
 !new/.ec/cekz/[CMS] One Off OVA 01 - 02 [480p][D6F34465].mkv
