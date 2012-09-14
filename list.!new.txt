@@ -3,6 +3,7 @@
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
 !new/.ec/Detective Conan - Magic File 6 OVA [DCTP][H264-AAC][ECF51443].mp4
 !new/.ec/Detective_Conan_OVA_12_-_The_Miracle_of_Excalibur_[Kaitou-Hubuki][DVD][92F9096B].mkv
+!new/.ec/[A-Destiny] Kingdom - 15 (1280x720 Hi10p AAC) [8E9B474A].mkv
 !new/.ec/[A-Destiny] Toriko - 72 (1280x720 Hi10p AAC) [CDA2D41E].mkv
 !new/.ec/[ASL]_Ceui_-_Koi_to_Senkyou_to_Chocolate_ED_-_Kaze_no_Naka_no_Primrose_[FLAC]_[w_Scans].rar
 !new/.ec/[ASL]_Various_Artists_-_Hyouka_ED_-_Kimi_ni_Matsuwaru_Mystery_[FLAC]_[w_Scans].rar
@@ -11,6 +12,8 @@
 !new/.ec/[CMS] Nogizaka Haruka no Himitsu ~Finale~ 01 [BD][720p-AAC][2100E982].mkv
 !new/.ec/[Commie] Hagure Yuusha no Estetica - 10 [7CCD2F82].mkv
 !new/.ec/[Commie] Horizon in the Middle of Nowhere - 23 [3418DE8D].mkv
+!new/.ec/[Commie] Moyashimon Returns - 11 [59AABFC6].mkv
+!new/.ec/[Commie] Natsuyuki Rendezvous - 11 [3DBA23F8].mkv
 !new/.ec/[Commie] Oda Nobuna no Yabou - 09v2 [BE0775BE].mkv
 !new/.ec/[Commie] Oda Nobuna no Yabou - 10 [5D047619].mkv
 !new/.ec/[Commie] Yuru Yuri♪♪ - 11 [9D6BBCD9].mkv
@@ -20,6 +23,7 @@
 !new/.ec/[FFF] Shinryaku!! Ika Musume OVA - 01 [DVD][480p-AAC][71A0BE68].mkv
 !new/.ec/[FFF] Yondemasu yo, Azazel-san OVA - 03 [DVD][480p-AC3][CEBD6196].mkv
 !new/.ec/[HorribleSubs] Hakuoki Reimeiroku - 10 [720p].mkv
+!new/.ec/[HorribleSubs] Naruto Shippuuden - 279 [720p].mkv
 !new/.ec/[HorribleSubs] Polar Bear Cafe - 24 [720p].mkv
 !new/.ec/[HorribleSubs] SKET Dance - 75 [720p].mkv
 !new/.ec/[HorribleSubs] Saint Seiya Omega - 23 [720p].mkv
@@ -28,6 +32,8 @@
 !new/.ec/[Jumonji-Giri]_[Triad]_Zettai_Shonen_NCOP1_(a286bf5b).mkv
 !new/.ec/[Jumonji-Giri]_[Triad]_Zettai_Shonen_NCOP2_(9b4e81b7).mkv
 !new/.ec/[Licca] Little Women II - Jo's Boys Episode 29 (h.264-Hi10P) [15CCCA66].mkv
+!new/.ec/[Live-eviL]_The_Snow_Queen_-_Ep_01_[h264-10bit-&MP3]_[829C21E8].mkv
+!new/.ec/[Live-eviL]_The_Snow_Queen_-_Ep_02_[h264-10bit-&MP3]_[353DFC49].mkv
 !new/.ec/[Nipponsei] AKB0048 OP ED Single - Kibou ni Tsuite [NO NAME].zip
 !new/.ec/[Nipponsei] Accel World ED2 Single - Unite [Misawa Sachika].zip
 !new/.ec/[Nipponsei] Accel World Original Soundtrack feat. Ooshima Hiroyuki.zip
@@ -39,6 +45,7 @@
 !new/.ec/[Nipponsei] TARI TARI OP Single - Dreamer [AiRI].zip
 !new/.ec/[Over-Time]_Spec-Ops_Cell_Go-Busters_-_29_[BADB477C].mkv
 !new/.ec/[PCSS] Yes! Pretty Cure 5 - 26 (DVD) [1931724A].mkv
+!new/.ec/[Pomf] Koi to Senkyo to Chocolate - 10 [E9DCE670].mkv
 !new/.ec/[Pomf] To Love-Ru Darkness OVA - 01 [29FA608B].mkv
 !new/.ec/[RyRo]_Inazuma_Eleven_GO_Chrono_Stone_-_014_(720p)_[91D2754C].mkv
 !new/.ec/[RyRo]_Inazuma_Eleven_GO_Chrono_Stone_-_016_(720p)_[852ADA82].mkv
@@ -57,9 +64,11 @@
 !new/.ec/[Saizen_&_Shinsen-Subs]_Captain_Tsubasa_Road_to_2002_-_47_[DVD][C1325F9E].mkv
 !new/.ec/[Saizen_&_Shinsen-Subs]_Captain_Tsubasa_Road_to_2002_-_48_[DVD][CC285FEA].mkv
 !new/.ec/[Saizen_&_Shinsen-Subs]_Captain_Tsubasa_Road_to_2002_-_49_[DVD][6ABE4F39].mkv
+!new/.ec/[Shin-S] Oda Nobuna no Yabou Uta Hime 01 - Oda Nobuna & Hachisuka Goemon [Itou Kanae & Kaneda Tomoko].zip
 !new/.ec/[Triad]_Shinigami's_Ballad_Trailer.avi
 !new/.ec/[UTW-Mazui]_Tamayura_~hitotose~_-_13_[BD][h264-720p_FLAC][09B35015].mkv
 !new/.ec/[WhyNot] Phi Brain - Kami no Puzzle S2 - 23 [A12C605F].mkv
+!new/.ec/[gg]_Binbougami_ga!_-_11_[CCC04088].mkv
 !new/.ec/[m.3.3.w]_Kimi_ni_Todoke_2nd_Season_-_00v2_(H.264)_[5C66A4B9].mkv
 !new/.ec/[yibis]_One_Piece_562_[720p][6241083D].mkv
 !new/.ec/cekz/Kid the Phantom Thief (Magic Kaito) - 07 - The Splendid Rivals [M-L][720p][H264-AAC][9308E13F].mkv
