@@ -60,8 +60,8 @@ movie/Digimon Movie/[wpp] Digimon - Movie 5 [C4C94880].avi
 movie/Digimon Movie/[wpp] Digimon - Movie 6 [521F2407].avi
 movie/Digimon Movie/[wpp] Digimon - Movie 7 [03141F8D].avi
 movie/Digimon Savers 3D - Digital World Kiki Ippatsu!/[RyRo] Digimon Savers 3D - Digital World Kiki Ippatsu! [DVD][1BF4257A].mkv
-movie/Digimon Tamers - Movie/[WildBunch] Digimon Tamers - Movie 5 [DVD][F0E79729].mkv
 movie/Digimon Tamers Movie/[DmonHiro] Digimon Tamers - Movie 2 [DVD][E896EAA9].mkv
+movie/Digimon Tamers Movie/[WildBunch] Digimon Tamers - Movie 5 [DVD][F0E79729].mkv
 movie/Digimon X-Evolution/[RyRo] Digimon X-Evolution [DVD][65E683B1].mkv
 movie/Dirty Pair - Project Eden/[niizk] Dirty Pair - Project Eden [CB96DEDA].mkv
 movie/Doraemon Movie (2011) - Nobita and the New Steel Troops/Doraemon Movie (2011) - Nobita and the New Steel Troops [Yojigen][v2 720p][6D7BAB41].mkv
@@ -89,6 +89,7 @@ movie/Fresh Pretty Cure! Movie/[CureCom-Doremi] Fresh Pretty Cure! - Movie [DVD]
 movie/From Up On Poppy Hill (2011)/[Thora] From Up On Poppy Hill (2011) [1080p BD][BA378CFF].mkv
 movie/Fullmetal Alchemist - The Conqueror of Shamballa/[KAA] Fullmetal Alchemist - The Conqueror of Shamballa [EA07D24E].mkv
 movie/Fullmetal Alchemist - The Sacred Star of Milos/[UTW] Fullmetal Alchemist - The Sacred Star of Milos [720p BD][73953C60].mkv
+movie/Fuyu no Hi - Winter's Day/[GotWoot] Fuyu no Hi - Winter's Day [0493030B].mkv
 movie/Ged Senki - Tales from Earthsea/[niizk] Ged Senki - Tales from Earthsea [v2][39703EB2].mkv
 movie/Ghost in the Shell/[OZC] Ghost in the Shell Stand Alone Complex - Solid State Society [9E41633F].mkv
 movie/Ghost in the Shell/[OZC] Ghost in the Shell Stand Alone Complex - The Laughing Man [C8051FC7].mkv
@@ -118,6 +119,13 @@ movie/Hoshi o Ou Kodomo/[BSS] Hoshi o Ou Kodomo [1080p][9B65AF05].mkv
 movie/Hotarubi no Mori e/[Commie] Hotarubi no Mori e [1080p BD][52244604].mkv
 movie/Howl's Moving Castle (2004)/[Thora] Howl's Moving Castle (2004) [v2 1080p BD][4DEB2B80].mkv
 movie/Ice the Movie/[HQR] Ice the Movie [DVD][20869DF2].mkv
+movie/Inazuma Eleven GO the Movie ~Kyuukyoku no Kizuna Gryphon~/[RyRo] Inazuma Eleven GO the Movie - Extra 1 - Opening Day Stage Greeting [BD][E4479934].mkv
+movie/Inazuma Eleven GO the Movie ~Kyuukyoku no Kizuna Gryphon~/[RyRo] Inazuma Eleven GO the Movie - Extra 2 - Anison Plus 2011.12.05 [720p BD][F29C58AF].mkv
+movie/Inazuma Eleven GO the Movie ~Kyuukyoku no Kizuna Gryphon~/[RyRo] Inazuma Eleven GO the Movie - Extra 3 - Opening Creditless [BD][048CE1B8].mkv
+movie/Inazuma Eleven GO the Movie ~Kyuukyoku no Kizuna Gryphon~/[RyRo] Inazuma Eleven GO the Movie - Extra 4 - Ending Creditless [BD][B1EE8540].mkv
+movie/Inazuma Eleven GO the Movie ~Kyuukyoku no Kizuna Gryphon~/[RyRo] Inazuma Eleven GO the Movie - Extra 5 - Trailers [BD][EB1BB987].mkv
+movie/Inazuma Eleven GO the Movie ~Kyuukyoku no Kizuna Gryphon~/[RyRo] Inazuma Eleven GO the Movie - Extra 6 - Eyecatches [BD][282C41F2].mkv
+movie/Inazuma Eleven GO the Movie ~Kyuukyoku no Kizuna Gryphon~/[RyRo] Inazuma Eleven GO the Movie ~Kyuukyoku no Kizuna Gryphon~ [720p BD][33901FB1].mkv
 movie/Inazuma Eleven the Movie - Saikyou Gundan Ogre Shuurai/[RyRo] Inazuma Eleven the Movie - Saikyou Gundan Ogre Shuurai [720p BD][747AB3D0].mkv
 movie/Initial D 3rd Stage/[Unknown] Initial D 3rd Stage [572D2FAC].avi
 movie/Inukami! The Movie/[Mendoi-SHS] Inukai! The Movie [DVD][55AD2594].mkv
@@ -193,6 +201,7 @@ movie/Mai Mai Shinko to Sennen no Mahou/[anime-rg ray=out] Mai Mai Shinko to Sen
 movie/Mai Mai Shinko to Sennen no Mahou/[anime-rg ray=out] Mai Mai Shinko to Sennen no Mahou [720p BD][3554371A].mkv
 movie/Maison Ikkoku - The Final Movie/[Baf] Maison Ikkoku - The Final Movie [4615E849].avi
 movie/Major - The Ball of Friendship/[Frostii] Major - The Ball of Friendship [4F59FE07].mkv
+movie/Mardock Scramble - The Second Combustion (2011)/[Thora] Mardock Scramble - The Second Combustion (2011) [1080p BD][76A9FF99].mkv
 movie/Martian Successor Nadesico Movie/[Dual-Duality] Martian Successor Nadesico Movie [720p][3E30AEFF].mkv
 movie/Meguriau Sekai/[ANBU] Meguriau Sekai [AF23178A].mkv
 movie/Metropolis/[THORA] Metropolis [BD][323F7DC7].mkv
@@ -234,6 +243,8 @@ movie/Pokemon Best Wishes Movie - Victini and the Dark Hero - Zekrom/[PM] Pokemo
 movie/Pokemon Best Wishes Movie - Victini and the Light Hero - Reshiram/[PM] Pokemon Best Wishes Movie - Victini and the Light Hero - Reshiram [1080p][C1926AE8].mkv
 movie/Pokemon Diamond & Pearl Movie/[PM] Pokemon Diamond & Pearl Movie [B60285BB].mkv
 movie/Pokemon Movie/[PM] Pokemon - Movie 13 Extra [720p][55BA3B37].mkv
+movie/Pokemon Movie/[PM] Pokemon Best Wishes 15th Anniversary Celebration! A Super Ranking Special on Noteworthy Movie Scenes!! [720p][F6FFF6C0].mkv
+movie/Pokemon Movie/[PM] Pokemon Best Wishes Movie 15 - Extended Trailer [720P][E7CFC2AA].mkv
 movie/Pokemon Movie/[RG-RyRo] Pokemon - AG Movie 3 [DVD][E4AF749A].mkv
 movie/Pom Poko/[KirA] Pom Poko [DVD][DFBEA5A9].mp4
 movie/Ponyo on the Cliff by the Sea/[niizk] Ponyo on the Cliff by the Sea [1080p][0DF075A4].mkv
@@ -311,6 +322,7 @@ movie/Umi Kara no Shisha/[ray=out] Umi Kara no Shisha [DVD][8D677EE5].mkv
 movie/Welcome to the Space Show/[Lambda-Delta] Welcome to the Space Show [720p][D040A850].mkv
 movie/Whisper of the Heart (1995)/[Thora] Whisper of the Heart (1995) [1080p BD][56B08E55].mkv
 movie/Yurumates wa/[Frostii] Yurumates wa [v2][85452C31].mkv
+movie/Zeta Gundam - Heirs to the Stars/[EG] Zeta Gundam - Heirs to the Stars [720p][5ABA6EE3].mkv
 movie/Zeta Gundam Movie/[T-N] Zeta Gundam - Movie 1 [8F112ECE].avi
 movie/Zeta Gundam Movie/[T-N] Zeta Gundam - Movie 2 [906E55BD].avi
 movie/Zeta Gundam Movie/[T-N] Zeta Gundam - Movie 3 [D906DC63].avi
