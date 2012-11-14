@@ -34,6 +34,7 @@ extras/ARIA The ORIGINATION/[BSS] Aria the Origination - Picture Drama 6 [442EF8
 extras/ARIA The ORIGINATION/[BSS] Aria the Origination - Picture Drama 7 [CB5AC243].mkv
 extras/ARIA The ORIGINATION/[CrystalNova] Aria the Origination - Promo [82BB8C62].mkv
 extras/ARIA The ORIGINATION/[Pokoteng] Aria the Origination - Drama CD2 - Navigation 01 [FA0042E7].mkv
+extras/AURA ~Maryuuin Kouga's Last Battle~/[Commie] AURA ~Maryuuin Kouga's Last Battle~ - PV [720p BD][29DBA536].mkv
 extras/Aika Zero/[Seto Otaku] Aika Zero - Picture Drama 1 [1080p BD][398D71FB].mkv
 extras/Aika Zero/[Seto Otaku] Aika Zero - Picture Drama 2 [1080p BD][679DDE39].mkv
 extras/Aika Zero/[Seto Otaku] Aika Zero - Picture Drama 3 [1080p BD][0DDD92CF].mkv
@@ -694,6 +695,8 @@ extras/Prism Ark/[BitchSubs] Prism Ark - Special 3 [DVD][C45255AB].mkv
 extras/Prism Ark/[BitchSubs] Prism Ark - Special 4 [DVD][B5D2283E].mkv
 extras/Prism Ark/[BitchSubs] Prism Ark - Special 5 [DVD][ADEF44C7].mkv
 extras/Prism Ark/[BitchSubs] Prism Ark - Special 6 [DVD][C8123639].mkv
+extras/Prism Nana/[aether-raws] Prism Nana - Pilot PV 01 [E9022BD4].mkv
+extras/Prism Nana/[aether-raws] Prism Nana - Pilot PV 02 [1968B2A4].mkv
 extras/Puella Magi Madoka Magica/Puella Magi Madoka Magica Drama CD1 - Memories of You [112AE1A0].mkv
 extras/RahXephon/[A-L] RahXephon - Ending (Clean) [16812813].mkv
 extras/RahXephon/[A-L] RahXephon - Fate of Katun [8F02CA24].mkv

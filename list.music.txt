@@ -329,6 +329,8 @@ music/ANIME/Gekijouban Card Captor Sakura/Gekijouban Card Captor Sakura ED Singl
 music/ANIME/Gekijouban Card Captor Sakura/Gekijouban Card Captor Sakura ED Single - Tooi Kono Machi de/02. Kaiya Naomi - Sepia no hi.flac
 music/ANIME/Gekijouban Card Captor Sakura/Gekijouban Card Captor Sakura ED Single - Tooi Kono Machi de/03. Kaiya Naomi - Tooi Kono Machi de (instrumental).flac
 music/ANIME/Gekijouban Card Captor Sakura/Gekijouban Card Captor Sakura ED Single - Tooi Kono Machi de/04. Kaiya Naomi - Sepia no hi (instrumental).flac
+music/ASL/[ASL] KOTOKO - Yasashii Mahou no Tonaekata Original Soundtrack [FLAC].rar
+music/ASL/[ASL] Various Artists - Koi Iro Marriage Character Song & Song Album [FLAC].rar
 music/ASL/[ASL]_ Various_Artists_-_Kamisama_Dolls_Original_Soundtrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_ Various_Artists_-_TARI_TARI_ED_-_Shiokaze_no_Harmony_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_2PM_-_Ao_no_exorcist_ED_-_Take off_[FLAC].rar
@@ -1173,6 +1175,7 @@ music/ASL/[ASL]_Various_Artists_-_Mayo_Chiki_Original_Soundtrack_[FLAC]_[w_Scans
 music/ASL/[ASL]_Various_Artists_-_Mesu_Hime_no_Toriko_Haikousha_no_Seifuku_Shoujo_SOUND_TRACK_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Mitsudomoe_OST_-_Mitsudomo_Best_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Mobile_Suit_Gundam_AGE_Original_Soundtrack_Vol.1_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Mobile_Suit_Gundam_Unicorn_Original_Soundtrack_3_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Monobeno_Special_Soundtrack_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Murasaki-Ban_Vocal_Selection_II_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Muriyari_Otome_Days_Original_Soundtrack_[FLAC].rar
@@ -3559,6 +3562,7 @@ music/Love Live!/[Doremi] Love Live! - Bokura no LIVE Kimi to no LIFE [DC2A205D]
 music/Love Live!/[Doremi] Love Live! - Mogyutto Love De Sekkin Chu [4BF3E1FB].mkv
 music/Love Live!/[Doremi] Love Live! - Natsuiro Egao 1 2 Jump! [77D133E3].mkv
 music/Love Live!/[Doremi] Love Live! - Snow Halation [6C4D55B5].mkv
+music/Love Live!/[Doremi] Love Live! - Wonderful Rush [CA5248C5].mkv
 music/Misc Distro/(Host~CmkC) [EAC][110420] Hana-Saku Iroha - Opening Hana no Iro [nano.RIPE] (flac+scan).rar
 music/Misc Distro/21EMON.zip
 music/Misc Distro/Aria.zip
@@ -3853,6 +3857,7 @@ music/Nipponsei/[Nipponsei] Bakugan BATTLE BRAWLERS ED - Air Drive [Elephant Gir
 music/Nipponsei/[Nipponsei] Bakugan BATTLE BRAWLERS OP Single - Number One BATTLE BRAWLERS [Psychic Lover].zip
 music/Nipponsei/[Nipponsei] Bakuman 2 ED Single - monochrome rainbow [Tommy heavenly6].zip
 music/Nipponsei/[Nipponsei] Bakuman 2 OP Single - Dream of Life [Itou Shouhei].zip
+music/Nipponsei/[Nipponsei] Bakuman 3 OP Single - Moshimo no Hanashi [nano.RIPE].zip
 music/Nipponsei/[Nipponsei] Bakuman OP Single - Blue Bird [Kobukuro].zip
 music/Nipponsei/[Nipponsei] Bakumatsu Kikansetsu Irohanihoheto ED Single - Ai no Tsurugi [TAKAKO & THE CRAZY BOYS].zip
 music/Nipponsei/[Nipponsei] Bakumatsu Kikansetsu Irohanihoheto OP Single - Kouya Ruten [FictionJunction YUUKA].zip
@@ -3969,6 +3974,7 @@ music/Nipponsei/[Nipponsei] Claymore Intimate Persona Character Song Shuu .zip
 music/Nipponsei/[Nipponsei] Claymore OP Single - Raison d Etre [Nightmare].zip
 music/Nipponsei/[Nipponsei] Claymore Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Code Breaker ED Single - Shiroi Karasu [Suzumura Kenichi].zip
+music/Nipponsei/[Nipponsei] Code Breaker OP Single - DARK SHAME [GRANRODEO].zip
 music/Nipponsei/[Nipponsei] Code Geass Boukoku no Akito OP Single - More Than Words [Sakamoto Maaya].zip
 music/Nipponsei/[Nipponsei] Code Geass Hangyaku no Lelouch ED Single - Yuukyou Seishunka [ALI PROJECT].zip
 music/Nipponsei/[Nipponsei] Code Geass Hangyaku no Lelouch OP1 Single - COLORS [FLOW].zip
@@ -4110,6 +4116,7 @@ music/Nipponsei/[Nipponsei] Fullmetal Alchemist Milos no Seinaru Hoshi Main Them
 music/Nipponsei/[Nipponsei] Fullmetal Alchemist Milos no Seinaru Hoshi OP Single - Chasing hearts [miwa].zip
 music/Nipponsei/[Nipponsei] Fullmetal Alchemist Milos no Seinaru Hoshi Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Fushigi Hoshi no Futago Hime ED Single - Oshare Fantasy [Fine Rain] (320 kbps).zip
+music/Nipponsei/[Nipponsei] GIRLS und PANZER ED Single - Enter Enter MISSION! [Various].zip
 music/Nipponsei/[Nipponsei] GIRLS und PANZER OP Single - Dream Riser [ChouCho].zip
 music/Nipponsei/[Nipponsei] Gakuen Alice OP ED Single - Pikapika no Taiyo [Ueda Kana   Kugimiya Rie] [E1FCC52E] 320k CBR.zip
 music/Nipponsei/[Nipponsei] Gakuen Utopia Manabi Straight Character Mini Album Vol.1 - Amamiya Manami [Horie Yui].zip
@@ -4153,6 +4160,7 @@ music/Nipponsei/[Nipponsei] Gintama OP2 Single - Tooi Nioi [YO-KING].zip
 music/Nipponsei/[Nipponsei] Gintama Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Gintama' ED Single - Samurai Heart (Some Like It Hot!!) [SPYAIR].zip
 music/Nipponsei/[Nipponsei] Gintama' OP Single - Tougenkyou Alien [serial TV drama].zip
+music/Nipponsei/[Nipponsei] Gintama` ED Single - Moonwalk [MONOBRIGHT].zip
 music/Nipponsei/[Nipponsei] Gintama` OP Single - LET's GO OUT [AMOYAMO].zip
 music/Nipponsei/[Nipponsei] Gokujo. Gokurakuin Joshikou Ryou Monogatari OP ED Single - Gokujo. no Jouken [Various].zip
 music/Nipponsei/[Nipponsei] Gokujou Seitokai OP Single - Koi se yo Onna no ko [Tamura Yukari] (320 kbps).zip
@@ -4234,6 +4242,7 @@ music/Nipponsei/[Nipponsei] Hen Zemi OP Single - Punctuation! [Hanazawa Kana].zi
 music/Nipponsei/[Nipponsei] Heroic Age ED Single - Azurite [Urakabe Tae].zip
 music/Nipponsei/[Nipponsei] Hidamari Sketch OP Single - Sketch Switch [Various].zip
 music/Nipponsei/[Nipponsei] Hidamari Sketch X Hoshimittsu Character CD 6 - Sae [Shintani Ryouko].zip
+music/Nipponsei/[Nipponsei] Hidamari Sketch x Honeycomb ED Single - Yume Gumo [marble].zip
 music/Nipponsei/[Nipponsei] Hidamari Sketch x Honeycomb OP Single - Open Canvas [Various].zip
 music/Nipponsei/[Nipponsei] Hidamari Sketch x SP OP ED Single - Kimagure, Jan Ken Pon! [Various].zip
 music/Nipponsei/[Nipponsei] Hidan no Aria ED Single - Camellia no Hitomi [Nakano Aiko].zip
@@ -4306,6 +4315,7 @@ music/Nipponsei/[Nipponsei] Itsuka Tenma no Kuro Usagi Character Song CD Vol.2.z
 music/Nipponsei/[Nipponsei] Itsuka Tenma no Kuro Usagi ED Single - Utsusemi [Shikata Akiko].zip
 music/Nipponsei/[Nipponsei] Itsuka Tenma no Kuro Usagi OP Single - Once [Harada Hitomi].zip
 music/Nipponsei/[Nipponsei] Itsuka Tenma no Kuro Usagi Original Soundtrack.zip
+music/Nipponsei/[Nipponsei] Ixion Saga DT OP ED Single - DT Suteru [Golden Ixsion Bomber DT].zip
 music/Nipponsei/[Nipponsei] Jigoku Shoujo Drama Main Theme Album - Dream Catcher [OLIVIA].zip
 music/Nipponsei/[Nipponsei] Jigoku Shoujo Futakomori OP Single - NightmaRe [SNoW].zip
 music/Nipponsei/[Nipponsei] Jigoku Shoujo Futakomori Original Soundtrack.zip
@@ -4314,6 +4324,7 @@ music/Nipponsei/[Nipponsei] Jinrui wa Suitai Shimashita OP Single - Real World [
 music/Nipponsei/[Nipponsei] Jinrui wa Suitai Shimashita Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Jormungand ED Single - Ambivalentidea [Yanagi Nagi].zip
 music/Nipponsei/[Nipponsei] Jormungand Original Soundtrack.zip
+music/Nipponsei/[Nipponsei] Jormungand perfect order ED Single - Laterality [Yanagi Nagi].zip
 music/Nipponsei/[Nipponsei] Jormungand perfect order OP Single - UNDER SHAFT [Kurosaki Maon].zip
 music/Nipponsei/[Nipponsei] Joshi Koushi GIRLS-HIGH ED Single - incl. [meg rock].zip
 music/Nipponsei/[Nipponsei] Joshi Koushi GIRLS-HIGH OP Single - Kirameku [yozuca].zip
@@ -4324,6 +4335,7 @@ music/Nipponsei/[Nipponsei] Juuousei OP - Deep in Your Heart [Doumoto Kouichi].z
 music/Nipponsei/[Nipponsei] Juuousei Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Juushin Enbu ED Single - Kakegae no Nai Hito he [Hoshimura Mai].zip
 music/Nipponsei/[Nipponsei] Jyukai - Wild Flower (320 kbps).zip
+music/Nipponsei/[Nipponsei] K ED Single - Tsumetai Heya, Hitori [Komatsu Mikako].zip
 music/Nipponsei/[Nipponsei] K OP Single - KINGS [angela].zip
 music/Nipponsei/[Nipponsei] K-ON! Movie Album - Houkago Tea Time in MOVIE.zip
 music/Nipponsei/[Nipponsei] K-ON! Movie ED Single - Singing! [Houkago Tea Time].zip
@@ -5209,6 +5221,7 @@ music/Nipponsei/[Nipponsei] To Heart Remember My Memories OP-ED Single.zip
 music/Nipponsei/[Nipponsei] To Heart Remember my Memories Soundtrack and Image Songs.zip
 music/Nipponsei/[Nipponsei] ToHeart2 Dungeon Travelers OP ED Single - Niji iro no Mirai [Various].zip
 music/Nipponsei/[Nipponsei] ToHeart2 Dungeon Travelers Special CD - Nana iro no Hikari [Ono Ryouko & Kogure Ema].zip
+music/Nipponsei/[Nipponsei] ToLoveRU Trouble Darkness ED Single - Foul Play ni Kurari [Kanon Wakeshima].zip
 music/Nipponsei/[Nipponsei] ToLoveRU Trouble Darkness OP Single - Rakuen PROJECT [Ray].zip
 music/Nipponsei/[Nipponsei] Toki wo Kakeru Shoujo Main Theme Single - Garnet [Oku Hanako].zip
 music/Nipponsei/[Nipponsei] Toki wo Kakeru Shoujo Original Soundtrack.zip
@@ -5607,7 +5620,7 @@ music/Shin-S/[Shin-S] Fate Zero Image Song Album - PRAYER [Aoi Eir].zip
 music/Shin-S/[Shin-S] Fate Zero OP Single - oath sign [LiSA].zip
 music/Shin-S/[Shin-S] Fate Zero OP2 Single - to the beginning (FLAC) [Kalafina].zip
 music/Shin-S/[Shin-S] Freezing OP & ED Single - COLOR (FLAC) [MARiA & Kobayashi Aika].zip
-music/Shin-S/[Shin-S] GIRLS und PANZER ED Single - Enter Enter MISSION! [Ankou Team].zip
+music/Shin-S/[Shin-S] GIRLS und PANZER ED Single - Enter Enter MISSION! (FLAC) [Ankou Team].zip
 music/Shin-S/[Shin-S] GIRLS und PANZER OP Single - DreamRiser [ChouCho].zip
 music/Shin-S/[Shin-S] Gokujo. ~Gokurakuin Joshi Kouryou Monogatari~ OP & ED Single - Gokujo. no Joken [Various].zip
 music/Shin-S/[Shin-S] Guilty Crown ED2 & Black Rock Shooter ED Single - Kokuhaku [supercell].zip
@@ -5748,7 +5761,6 @@ music/Shin-S/[Shin-S] Oda Nobuna no Yabou Uta Hime 03 - Akechi Mitsuhide & Niwa 
 music/Shin-S/[Shin-S] Oda Nobuna no Yabou Uta Hime 04 - Takenaka Hanbei & Bontenmaru [Ogura Yui & Ookubo Rumi].zip
 music/Shin-S/[Shin-S] Oda Nobuna no Yabou Uta Hime 05 - Fróis Luís & Matsudaira Motoyasu [Satou Rina & Mimori Suzuko].zip
 music/Shin-S/[Shin-S] Onii-chan Dakedo Ai Sae Areba Kankei Nai yo ne ED Single - Life-ru is LOVE-ru!! (FLAC) [Various].zip
-music/Shin-S/[Shin-S] Onii-chan Dakedo Ai Sae Areba Kankei Nai yo ne ED Single - Life-ru is LOVE-ru!! [Various].zip
 music/Shin-S/[Shin-S] Onii-chan Dakedo Ai Sae Areba Kankei Nai yo ne OP Single - SELF PRODUCER [Chihara Minori].zip
 music/Shin-S/[Shin-S] Ore no Imouto ga Konna ni Kawaii Wake ga Nai Complete Collection+ - Oreimo Comp+! [Various].zip
 music/Shin-S/[Shin-S] Ore no Imouto ga Konna ni Kawaii Wake ga Nai ED Single 4 - Masquerade! [Hanazawa Kana & Nabatame Hitomi].zip
@@ -5771,6 +5783,7 @@ music/Shin-S/[Shin-S] Recorder to Randsell Theme Song Album - Glitter [Tada Aoi 
 music/Shin-S/[Shin-S] Rinne no Lagrange OP & ED Single - TRY UNITE! [Nakajima Megumi].zip
 music/Shin-S/[Shin-S] Rinne no Lagrange S2 ED Single - Jersey-Bu Damashii! [Various].zip
 music/Shin-S/[Shin-S] Rinne no Lagrange S2 OP & ED2 Single - Marble [Nakajima Megumi].zip
+music/Shin-S/[Shin-S] Robotics;Notes ED Single - Umikaze no Brave (FLAC) [fumika].zip
 music/Shin-S/[Shin-S] STAR DRIVER ~Kagayaki no Takuto~ OP2 Single - SHINING STAR [9nine].zip
 music/Shin-S/[Shin-S] Sacred Seven OP Single - stone cold [FictionJunction].zip
 music/Shin-S/[Shin-S] Sakamachi no Apollon ED Single - Altair [Hata Motohiro].zip
@@ -5813,6 +5826,7 @@ music/Shin-S/[Shin-S] TARI TARI OP Single - Dreamer [AiRI].zip
 music/Shin-S/[Shin-S] THE iDOLM@STER ANIM@TION MASTER Namassuka SPECIAL 01 [Various].zip
 music/Shin-S/[Shin-S] THE iDOLM@STER ANIM@TION MASTER Namassuka SPECIAL 02 [Various].zip
 music/Shin-S/[Shin-S] THE iDOLM@STER ANIM@TION MASTER Namassuka SPECIAL 03 [Various].zip
+music/Shin-S/[Shin-S] THE iDOLM@STER ANIM@TION MASTER Namassuka SPECIAL 04 [Various].zip
 music/Shin-S/[Shin-S] THE iDOLM@STER CINDERELLA MASTER 003 - Mimura Kanako [Ootsubo Yuka].zip
 music/Shin-S/[Shin-S] THE iDOLM@STER ED Single - The world is all one!! [765PRO ALLSTARS].zip
 music/Shin-S/[Shin-S] THE iDOLM@STER OP2 Single - CHANGE!!!! [765PRO ALLSTARS].zip
@@ -5823,7 +5837,7 @@ music/Shin-S/[Shin-S] Tasogare Otome x Amnesia ED2 Single - Calendrier -Yuuko- (
 music/Shin-S/[Shin-S] Tasogare Otome x Amnesia Insert Song Single - Requiem (FLAC) [Hiiragi Nao].zip
 music/Shin-S/[Shin-S] Tasogare Otome x Amnesia OP Single - CHOIR JAIL [Suzuki Konomi].zip
 music/Shin-S/[Shin-S] Tayutama -Kiss on my Deity- OP Single - The fine every day (FLAC) [Kicco].zip
-music/Shin-S/[Shin-S] To LOVE-Ru -Trouble- Darkness ED & Fate Extra CCC PSP Game Theme Song Single - Foul Play ni Kurari [Wakeshima Kanon].zip
+music/Shin-S/[Shin-S] To LOVE-Ru -Trouble- Darkness ED & Fate Extra CCC PSP Game Theme Song Single - Foul Play ni Kurari (FLAC) [Wakeshima Kanon].zip
 music/Shin-S/[Shin-S] To LOVE-Ru -Trouble- Darkness OP Single - Rakuen PROJECT [Ray].zip
 music/Shin-S/[Shin-S] ToHeart2 Dungeon Travelers Vol.1 Special CD - Nanairo no Hikari [Ono Ryouko & Kogure Ema].zip
 music/Shin-S/[Shin-S] Tonari no Kaibutsu-kun OP Single - Q&A Recital! [Tomatsu Haruka].zip

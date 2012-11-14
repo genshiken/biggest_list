@@ -138,6 +138,7 @@ movie/Jin-Roh The Wolf Brigade (2000)/[Thora] Jin-Roh The Wolf Brigade (2000) [1
 movie/Jungle Emperor Leo - Special 2009 Yuuki ga Mirai wo Kaeru/[RyRo] Jungle Emperor Leo - Special 2009 Yuuki ga Mirai wo Kaeru [720p][ED7CFFA4].mkv
 movie/Junkers Come Here/[niizk] Junkers Come Here [DBAC403C].mkv
 movie/K-ON! Movie/[CoalGuys] K-ON! Movie [1080p][6839C336].mkv
+movie/K-ON! Movie/[CoalGuys] K-ON! Movie [720p][D09FC86B].mkv
 movie/Kaiketsu Zorori/[Alopex] Kaiketsu Zorori [6C93DF0F].mkv
 movie/Kara no Kyoukai/[ANE] Kara no Kyoukai - Chapter 1 [720p BD][48562552].mkv
 movie/Kara no Kyoukai/[ANE] Kara no Kyoukai - Chapter 2 [720p BD][8B65761D].mkv
@@ -196,12 +197,15 @@ movie/Magical Girl Lyrical Nanoha The Movie 1st/[BSS] Magical Girl Lyrical Nanoh
 movie/Mahou Sensei Negima! Anime Final/[UTW] Mahou Sensei Negima! Anime Final [DVD][3E13B222].mkv
 movie/Mahoujin Guruguru Movie/[Anime-Keep] Mahoujin Guruguru Movie [0F189EAD].avi
 movie/Mai Mai Miracle (2009)/[Thora] Mai Mai Miracle (2009) [1080p BD][D4E75127].mkv
+movie/Mai Mai Shinko to Sennen no Mahou/[AonE-ANBU] Mai Mai Shinko to Sennen no Mahou [1080p][3BE08FBC].mkv
 movie/Mai Mai Shinko to Sennen no Mahou/[anime-rg ray=out] Mai Mai Shinko to Sennen no Mahou Translation Notes [9FEDE694].pdf
 movie/Mai Mai Shinko to Sennen no Mahou/[anime-rg ray=out] Mai Mai Shinko to Sennen no Mahou [1080p BD][D73AB920].mkv
 movie/Mai Mai Shinko to Sennen no Mahou/[anime-rg ray=out] Mai Mai Shinko to Sennen no Mahou [720p BD][3554371A].mkv
 movie/Maison Ikkoku - The Final Movie/[Baf] Maison Ikkoku - The Final Movie [4615E849].avi
 movie/Major - The Ball of Friendship/[Frostii] Major - The Ball of Friendship [4F59FE07].mkv
-movie/Mardock Scramble - The Second Combustion (2011)/[Thora] Mardock Scramble - The Second Combustion (2011) [1080p BD][76A9FF99].mkv
+movie/Mardock Scramble/[Coalgirls] Mardock Scramble - 1 [720p BD][AE4E623E].mkv
+movie/Mardock Scramble/[Coalgirls] Mardock Scramble - 2 [720p BD][C9C5342D].mkv
+movie/Mardock Scramble/[Thora] Mardock Scramble - The Second Combustion (2011) [1080p BD][76A9FF99].mkv
 movie/Martian Successor Nadesico Movie/[Dual-Duality] Martian Successor Nadesico Movie [720p][3E30AEFF].mkv
 movie/Meguriau Sekai/[ANBU] Meguriau Sekai [AF23178A].mkv
 movie/Metropolis/[THORA] Metropolis [BD][323F7DC7].mkv
@@ -281,6 +285,7 @@ movie/Slam Dunk Movie/[txxz] Slam Dunk - Movie 1 [DVD][1627A9FD].mkv
 movie/Slam Dunk Movie/[txxz] Slam Dunk - Movie 2 [DVD][7F5D63D3].mkv
 movie/Space Battleship Yamato Revival/[ANBU] Space Battleship Yamato Revival [1080p][EFAFC227].mkv
 movie/Spirited Away/[niizk] Spirited Away [0827A6C3].mkv
+movie/Strike Witches The Movie/[Underwater] Strike Witches The Movie [1080p BD][B797F6EB].mkv
 movie/Suite PreCure! Movie/[Coalgirls] Suite Precure Movie [1080p BD][E30F6398].mkv
 movie/Suite PreCure! Movie/[Doremi] Suite PreCure! Movie [1080p BD][1DF4A5F9].mkv
 movie/Summer Wars/[Frostii] Summer Wars (1280x720) [BD][9B12BBFA].mkv

@@ -172,10 +172,13 @@ complete/a/AIKa Zero/[ray=out] AIKa Zero - 1 [BD][1C61647E].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 01 [720p BD][452860EA].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 01 [v2 720p][311464F8].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 02 [1080p BD][8E9CC38F].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - 02 [720p BD][3DB0928E].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 02 [v2 720p][03423852].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 03 [1080p BD][A208C1F0].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - 03 [720p BD][338551E3].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 03 [v2 720p][05EBB7B9].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 04 [1080p BD][EB7B5A0A].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - 04 [720p BD][9177F58F].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 04 [v2 720p][698CC806].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 05 [v2 720p][905A94AA].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 06 [v2 720p][B2C7B2C9].mkv
@@ -201,6 +204,9 @@ complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 01 Extra - TVCM [720p BD][412324E9].
 complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 02 Extra - Menu [1080p BD][C668E1FF].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 02 Extra - Menu [3996AC53].png
 complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 02 Extra - Special [1080p BD][9ECAE656].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 Vol.02 - Menu [3996AC53].png
+complete/a/AKB0048/[EveTaku] AKB0048 Vol.02 - Menu [720p BD][3573E39B].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 Vol.02 - Special [720p BD][A2287DFB].mkv
 complete/a/Accel World/[Commie] Accel World - 01 [30E0CD08].mkv
 complete/a/Accel World/[Commie] Accel World - 02 [v2][95DB6780].mkv
 complete/a/Accel World/[Commie] Accel World - 03 [7CB826BE].mkv
@@ -2184,6 +2190,14 @@ complete/b/Black Rock Shooter/[Commie] Black Rock Shooter - 5 [017B1517].mkv
 complete/b/Black Rock Shooter/[Commie] Black Rock Shooter - 6 [6101E600].mkv
 complete/b/Black Rock Shooter/[Commie] Black Rock Shooter - 7 [03EAB99C].mkv
 complete/b/Black Rock Shooter/[Commie] Black Rock Shooter - 8 [End][678191C2].mkv
+complete/b/Black Rock Shooter/[Final8] Black Rock Shooter - 1 [720p BD][3DD4CB1A].mkv
+complete/b/Black Rock Shooter/[Final8] Black Rock Shooter - 2 [720p BD][C5232237].mkv
+complete/b/Black Rock Shooter/[Final8] Black Rock Shooter - 3 [720p BD][E901499F].mkv
+complete/b/Black Rock Shooter/[Final8] Black Rock Shooter - 4 [720p BD][D955D2FC].mkv
+complete/b/Black Rock Shooter/[Final8] Black Rock Shooter - 5 [720p BD][CE7E13DD].mkv
+complete/b/Black Rock Shooter/[Final8] Black Rock Shooter - 6 [720p BD][7AD77864].mkv
+complete/b/Black Rock Shooter/[Final8] Black Rock Shooter - 7 [720p BD][5FA9974C].mkv
+complete/b/Black Rock Shooter/[Final8] Black Rock Shooter - 8 [End][720p BD][89607476].mkv
 complete/b/Blade of the Immortal/[Arigatou] Blade of the Immortal - 01 [078A24B1].mkv
 complete/b/Blade of the Immortal/[Arigatou] Blade of the Immortal - 02 [B6C36316].mkv
 complete/b/Blade of the Immortal/[Arigatou] Blade of the Immortal - 03 [8333A174].mkv
@@ -3868,6 +3882,9 @@ complete/d/Daily Lives of High School Boys/[sage] Daily Lives of High School Boy
 complete/d/Daily Lives of High School Boys/[sage] Daily Lives of High School Boys - Special 01 [720p BD][A0DA4160].mkv
 complete/d/Daily Lives of High School Boys/[sage] Daily Lives of High School Boys - Special 02 [720p BD][9282425B].mkv
 complete/d/Daily Lives of High School Boys/[sage] Daily Lives of High School Boys - Special 03 [720p BD][39718A95].mkv
+complete/d/Dakara Boku wa, H ga Dekinai/[FFF] Dakara Boku wa, H ga Dekinai - 01 [720p BD][5EC7E7E6].mkv
+complete/d/Dakara Boku wa, H ga Dekinai/[FFF] Dakara Boku wa, H ga Dekinai - 02 [720p BD][E8CAD80B].mkv
+complete/d/Dakara Boku wa, H ga Dekinai/[FFF] Dakara Boku wa, H ga Dekinai - Opening 1 [720p BD][2E636F0B].mkv
 complete/d/Dakara Boku wa, H ga Dekinai/[GotWoot] Dakara Boku wa, H ga Dekinai - 07 [720p][0D0319A9].mkv
 complete/d/Dakara Boku wa, H ga Dekinai/[GotWoot] Dakara Boku wa, H ga Dekinai - 08 [7AD3DFF1].mkv
 complete/d/Dakara Boku wa, H ga Dekinai/[GotWoot] Dakara Boku wa, H ga Dekinai - 09 [61591743].mkv
@@ -10174,6 +10191,9 @@ complete/i/Itazura na Kiss/[Jumonji-Giri] Itazura na Kiss - 12 [EC194A30].mkv
 complete/i/Itazura na Kiss/[Jumonji-Giri] Itazura na Kiss - 13 [C60CADEF].mkv
 complete/i/Itazura na Kiss/[Jumonji-Giri] Itazura na Kiss - 14 [F58D7484].mkv
 complete/i/Itazura na Kiss/[Jumonji-Giri] Itazura na Kiss - 15 [34DC5719].mkv
+complete/i/Itazura na Kiss/[Jumonji-Giri] Itazura na Kiss - 16 [BF2193D5].mkv
+complete/i/Itazura na Kiss/[Jumonji-Giri] Itazura na Kiss - Ending 1 (Clean) [B497C088].mkv
+complete/i/Itazura na Kiss/[Jumonji-Giri] Itazura na Kiss - Ending 2 (Clean) [DCB6D996].mkv
 complete/i/Itazura na Kiss/[Jumonji-Giri] Itazura na Kiss - Opening 1 (Clean) [B98AFCCA].mkv
 complete/i/Itazura na Kiss/[Jumonji-Giri] Itazura na Kiss - Opening 2 (Clean) [8BE55F7A].mkv
 complete/i/Itazura na Kiss/[m.3.3.w] Itazura na Kiss - 17 [63D41529].mkv
@@ -12219,6 +12239,31 @@ complete/k/Kurokami/[AtsA] Kurokami - 23 (1920x1080) [End][BD][677856FF].mkv
 complete/k/Kurokami/[AtsA] Kurokami - Opening (Clean) [BD][F0457B63].mkv
 complete/k/Kurokami/[AtsA] Kurokami - Opening 2 (Clean) [BD][7428998A].mkv
 complete/k/Kurokami/[AtsA] Kurokami - Opening 3 (Clean) [BD][D8B05619].mkv
+complete/k/Kuroko's Basketball/[HorribleSubs] Kuroko's Basketball - 01 [720p][EC48C1DB].mkv
+complete/k/Kuroko's Basketball/[HorribleSubs] Kuroko's Basketball - 02 [720p][AEDB31D4].mkv
+complete/k/Kuroko's Basketball/[HorribleSubs] Kuroko's Basketball - 03 [720p][60B1CED6].mkv
+complete/k/Kuroko's Basketball/[HorribleSubs] Kuroko's Basketball - 04 [720p][E2B124EA].mkv
+complete/k/Kuroko's Basketball/[HorribleSubs] Kuroko's Basketball - 05 [720p][6AA397BF].mkv
+complete/k/Kuroko's Basketball/[HorribleSubs] Kuroko's Basketball - 06 [720p][2EFAB031].mkv
+complete/k/Kuroko's Basketball/[HorribleSubs] Kuroko's Basketball - 07 [720p][21228E6F].mkv
+complete/k/Kuroko's Basketball/[HorribleSubs] Kuroko's Basketball - 08 [720p][FDC787B1].mkv
+complete/k/Kuroko's Basketball/[HorribleSubs] Kuroko's Basketball - 09 [720p][EF40E039].mkv
+complete/k/Kuroko's Basketball/[HorribleSubs] Kuroko's Basketball - 10 [720p][B99B61E0].mkv
+complete/k/Kuroko's Basketball/[HorribleSubs] Kuroko's Basketball - 11 [720p][359898DE].mkv
+complete/k/Kuroko's Basketball/[HorribleSubs] Kuroko's Basketball - 12 [720p][ED7DCD56].mkv
+complete/k/Kuroko's Basketball/[HorribleSubs] Kuroko's Basketball - 13 [720p][84B39D55].mkv
+complete/k/Kuroko's Basketball/[HorribleSubs] Kuroko's Basketball - 14 [720p][44AE473D].mkv
+complete/k/Kuroko's Basketball/[HorribleSubs] Kuroko's Basketball - 15 [720p][52C402A8].mkv
+complete/k/Kuroko's Basketball/[HorribleSubs] Kuroko's Basketball - 16 [720p][3AAD9C3F].mkv
+complete/k/Kuroko's Basketball/[HorribleSubs] Kuroko's Basketball - 17 [720p][6D30E774].mkv
+complete/k/Kuroko's Basketball/[HorribleSubs] Kuroko's Basketball - 18 [720p][313DF375].mkv
+complete/k/Kuroko's Basketball/[HorribleSubs] Kuroko's Basketball - 19 [720p][8AD89220].mkv
+complete/k/Kuroko's Basketball/[HorribleSubs] Kuroko's Basketball - 20 [720p][55B4D9D0].mkv
+complete/k/Kuroko's Basketball/[HorribleSubs] Kuroko's Basketball - 21 [720p][28E72AC7].mkv
+complete/k/Kuroko's Basketball/[HorribleSubs] Kuroko's Basketball - 22 [720p][52657D66].mkv
+complete/k/Kuroko's Basketball/[HorribleSubs] Kuroko's Basketball - 23 [720p][3B4648A7].mkv
+complete/k/Kuroko's Basketball/[HorribleSubs] Kuroko's Basketball - 24 [720p][083F2C19].mkv
+complete/k/Kuroko's Basketball/[HorribleSubs] Kuroko's Basketball - 25 [End][720p][3BFCCA9C].mkv
 complete/k/Kuroshitsuji - OVA/[Shinsen-Subs] Kuroshitsuji - OVA [51FDE428].mkv
 complete/k/Kuroshitsuji II/[Commie] Kuroshitsuji II - 01 [02A3640C].mkv
 complete/k/Kuroshitsuji II/[Commie] Kuroshitsuji II - 02 [CEF406B3].mkv
@@ -17993,17 +18038,11 @@ complete/r/R-15/[Fail-15] R-15 - 04 [1080p BD][7E98290C].mkv
 complete/r/R-15/[Fail-15] R-15 - 05 [1080p BD][0B38E626].mkv
 complete/r/R-15/[Fail-15] R-15 - 06 [1080p BD][E60157D5].mkv
 complete/r/R-15/[Fail-15] R-15 - 07 [1080p BD][F3288FF2].mkv
-complete/r/R-15/[Fail-15] R-15 - 07 [720p][E474C4CD].mkv
 complete/r/R-15/[Fail-15] R-15 - 08 [1080p BD][250896E3].mkv
-complete/r/R-15/[Fail-15] R-15 - 08 [720p][5ED1E87D].mkv
 complete/r/R-15/[Fail-15] R-15 - 09 [1080p BD][8EB4D52F].mkv
-complete/r/R-15/[Fail-15] R-15 - 09 [720p][503AE6EB].mkv
 complete/r/R-15/[Fail-15] R-15 - 10 [1080p BD][819CFAD5].mkv
-complete/r/R-15/[Fail-15] R-15 - 10 [720p][622DC13B].mkv
 complete/r/R-15/[Fail-15] R-15 - 11 [1080p BD][3472DF36].mkv
-complete/r/R-15/[Fail-15] R-15 - 11 [720p][5F39251C].mkv
 complete/r/R-15/[Fail-15] R-15 - 12 [End][1080p BD][CC82C93E].mkv
-complete/r/R-15/[Fail-15] R-15 - 12 [End][720p][CEBE1CD6].mkv
 complete/r/R-15/[Fail-15] R-15 - Ending (Clean) [1080p BD][092318B9].mkv
 complete/r/R-15/[Fail-15] R-15 - Opening (Clean) [1080p BD][9A841FF0].mkv
 complete/r/RAY The Animation/[Froth-Bite] RAY The Animation - 01 [2E31080C].mp4
@@ -18381,11 +18420,16 @@ complete/r/Rinne no Lagrange/[Coalgirls] Rinne no Lagrange - 09 [720p BD][4E51C7
 complete/r/Rinne no Lagrange/[Coalgirls] Rinne no Lagrange - 10 [720p BD][8546AE86].mkv
 complete/r/Rinne no Lagrange/[Coalgirls] Rinne no Lagrange - 11 [720p BD][A51B0491].mkv
 complete/r/Rinne no Lagrange/[Coalgirls] Rinne no Lagrange - 12 [720p BD][8114DB2D].mkv
+complete/r/Rinne no Lagrange/[Coalgirls] Rinne no Lagrange - 13 [720p BD][FBCD0864].mkv
+complete/r/Rinne no Lagrange/[Coalgirls] Rinne no Lagrange - 14 [720p BD][B9DECC08].mkv
+complete/r/Rinne no Lagrange/[Coalgirls] Rinne no Lagrange - Ending (Clean) [720p BD][9596F796].mkv
+complete/r/Rinne no Lagrange/[Coalgirls] Rinne no Lagrange - Opening (Clean) [720p BD][0A857092].mkv
 complete/r/Rinne no Lagrange/[Coalgirls] Rinne no Lagrange - Special 1 [720p BD][A0990F8D].mkv
 complete/r/Rinne no Lagrange/[Coalgirls] Rinne no Lagrange - Special 2 [720p BD][0C559386].mkv
 complete/r/Rinne no Lagrange/[Coalgirls] Rinne no Lagrange - Special 3 [720p BD][A7DC4A95].mkv
 complete/r/Rinne no Lagrange/[Coalgirls] Rinne no Lagrange - Special 4 [720p BD][FA667C78].mkv
 complete/r/Rinne no Lagrange/[Coalgirls] Rinne no Lagrange - Special 5 [720p BD][364F9A5A].mkv
+complete/r/Rinne no Lagrange/[Coalgirls] Rinne no Lagrange - Special 6 [720p BD][44A52D9E].mkv
 complete/r/Rinne no Lagrange/[Commie] Rinne no Lagrange - 09 [C1864503].mkv
 complete/r/Rinne no Lagrange/[Commie] Rinne no Lagrange - 10 [5871E392].mkv
 complete/r/Rinne no Lagrange/[Commie] Rinne no Lagrange - 11 [00DB9687].mkv
@@ -24409,6 +24453,15 @@ complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 34 [80AFE3E5].mkv
 complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 35 [5547933E].mkv
 complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 36 [0B1D9034].mkv
 complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 37 [B48FB422].mkv
+complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 38 [42DF0EDD].mkv
+complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 39 [D0C39516].mkv
+complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 40 [EA3C401E].mkv
+complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 41 [2FDF86FB].mkv
+complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 42 [694D7C90].mkv
+complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 43 [EA98C0DC].mkv
+complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 44 [BB5C225A].mkv
+complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 45 [8248F621].mkv
+complete/y/Yakitate!! Japan/[Jumonji-Giri] Yakitate!! Japan - 46 [D5B458C0].mkv
 complete/y/Yakushiji Ryoko no Kaiki Jikenbo/[AonE-AnY] Yakushiji Ryoko no Kaiki Jikenbo - 01 [ED975900].mkv
 complete/y/Yakushiji Ryoko no Kaiki Jikenbo/[AonE-AnY] Yakushiji Ryoko no Kaiki Jikenbo - 02 [C50AFECA].mkv
 complete/y/Yakushiji Ryoko no Kaiki Jikenbo/[AonE-AnY] Yakushiji Ryoko no Kaiki Jikenbo - 03 [556F1904].mkv
@@ -25280,6 +25333,7 @@ complete/z/Zettai Shonen/[Jumonji-Giri] Zettai Shonen - 03 [6DFEA066].mkv
 complete/z/Zettai Shonen/[Jumonji-Giri] Zettai Shonen - 04 [v2][0CBED05B].mkv
 complete/z/Zettai Shonen/[Jumonji-Giri] Zettai Shonen - 05 [8F4A9F68].mkv
 complete/z/Zettai Shonen/[Jumonji-Giri] Zettai Shonen - 06 [82A39590].mkv
+complete/z/Zettai Shonen/[Jumonji-Giri] Zettai Shonen - 07 [E1782EC8].mkv
 complete/z/Zettai Shonen/[Jumonji-Giri] Zettai Shonen - Ending (Clean) [C7BE8599].mkv
 complete/z/Zettai Shonen/[Jumonji-Giri] Zettai Shonen - Opening 1 (Clean) [A286BF5B].mkv
 complete/z/Zettai Shonen/[Jumonji-Giri] Zettai Shonen - Opening 2 (Clean) [9B4E81B7].mkv
