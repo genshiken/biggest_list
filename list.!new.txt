@@ -2,6 +2,11 @@
 !new/.broken/[Chiki-Subs]_Mayo_Chiki_-_01v2_(1280x720_H.264.AAC)_[45704136].mkv
 !new/.broken/[HorribleSubs] Sukitte Ii na yo. - 01 [720p].mkv
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
+!new/.ec/oven/[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 07 (1280x720 Hi10P AAC) [33031C56].mkv
+!new/.ec/oven/[IB] Sukitte Iinayo - 07 [720p] [10bit] [8CFC9575].mkv
+!new/.ec/oven/[gg]_Jormungand_-_19_[B61FFD8F].mkv
+!new/.ec/oven/list-201211211045
+!new/.ec/oven/wget-log
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
@@ -760,38 +765,38 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 001 [AVC][9B042A7F].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 002 [AVC][75BA7FF1].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 003 [AVC][909C23DC].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 004 [AVC][C845F20C].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 005 [AVC][BC1B34AF].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 006 [AVC][151037A5].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 007 [AVC][33A286D1].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 008 [AVC][0631C5A3].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 009 [AVC][306F0D7B].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 010 [AVC][D750195C].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 011 [AVC][AE61A72E].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 012 [AVC][1DAB8182].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 013 [AVC][A0B9722C].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 014 [AVC][C5773973].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 015 [AVC][3715B63F].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 016 [AVC][C5F5C700].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 017-032 [AVC][2A787FEC].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 033-048 [AVC][9B0135D8].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 049-064 [AVC][18A83CD2].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 065-080 [AVC][15E95C0D].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 081-096 [AVC][55F8A55E].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 097-112 [AVC][2AE9C500].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 113-128 [AVC][D31ECE40].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 129-144 [AVC][0FDE537A].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 145-160 [AVC][32884F82].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 161-176 [AVC][390E5B24].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - 177-192 [AVC][A85538E5].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - Autumn Specials [AVC][6209DA3D].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - Spring Specials [AVC][1DC86D4A].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - Summer Specials [AVC][CD176B01].mkv
-!new/[ARR] Doraemon TV 001-192+Specials/[ARR] Doraemon - Winter Specials [AVC][2D234649].mkv
 !new/[Deadfish] Rurouni Kenshin - Meiji Kenkaku Romantan - Shin Kyoto Hen - Act 01 [BD][MP4][AAC].mp4
+!new/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - 01v2 (BD 10-bit 1280x720 x264 AAC)[1CA43C16].mkv
+!new/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - 02v2 (BD 10-bit 1280x720 x264 AAC)[0837646D].mkv
+!new/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - 03v2 (BD 10-bit 1280x720 x264 AAC)[3A68B935].mkv
+!new/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - 04v2 (BD 10-bit 1280x720 x264 AAC)[BCC53538].mkv
+!new/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - 05v2 (BD 10-bit 1280x720 x264 AAC)[740A4507].mkv
+!new/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - 06v2 (BD 10-bit 1280x720 x264 AAC)[17D078CE].mkv
+!new/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - 07 (BD 10-bit 1280x720 x264 AAC)[3CD9E9F5].mkv
+!new/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - 08 (BD 10-bit 1280x720 x264 AAC)[FFB41B33].mkv
+!new/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - 09 (BD 10-bit 1280x720 x264 AAC)[89396C9F].mkv
+!new/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - 10 (BD 10-bit 1280x720 x264 AAC)[CD39E4BF].mkv
+!new/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - 11 (BD 10-bit 1280x720 x264 AAC)[D358ECB4].mkv
+!new/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - 12 (BD 10-bit 1280x720 x264 AAC)[9BAACE2D].mkv
+!new/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - Vol.1 Special 1v2 (BD 10-bit 1280x720 x264 AAC)[B1713EBF].mkv
+!new/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - Vol.1 Special 3 (BD 10-bit 1280x720 x264 AAC)[4B7B5A17].mkv
+!new/[Final8]Maken-Ki! - Special 2 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - Vol.1 Special 2 (BD 10-bit 1280x720 x264 AAC)[2DD727EA].mkv
+!new/[Final8]Zero no Tsukaima F - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Zero no Tsukaima F - 01 (BD 10-bit 1280x720 x264 AAC)[1985C0FE].mkv
+!new/[Final8]Zero no Tsukaima F - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Zero no Tsukaima F - 02 (BD 10-bit 1280x720 x264 AAC)[22D9BAF6].mkv
+!new/[Final8]Zero no Tsukaima F - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Zero no Tsukaima F - 03 (BD 10-bit 1280x720 x264 AAC)[F7E8FDC3].mkv
+!new/[Final8]Zero no Tsukaima F - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Zero no Tsukaima F - 04 (BD 10-bit 1280x720 x264 AAC)[1F98F61D].mkv
+!new/[Final8]Zero no Tsukaima F - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Zero no Tsukaima F - 05 (BD 10-bit 1280x720 x264 AAC)[AA38F3B2].mkv
+!new/[Final8]Zero no Tsukaima F - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Zero no Tsukaima F - 06 (BD 10-bit 1280x720 x264 AAC)[871C32A0].mkv
+!new/[Final8]Zero no Tsukaima F - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Zero no Tsukaima F - 07 (BD 10-bit 1280x720 x264 AAC)[D5D6E80F].mkv
+!new/[Final8]Zero no Tsukaima F - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Zero no Tsukaima F - 08 (BD 10-bit 1280x720 x264 AAC)[D5D88FA5].mkv
+!new/[Final8]Zero no Tsukaima F - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Zero no Tsukaima F - 09 (BD 10-bit 1280x720 x264 AAC)[65E6A355].mkv
+!new/[Final8]Zero no Tsukaima F - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Zero no Tsukaima F - 10 (BD 10-bit 1280x720 x264 AAC)[6B15B99F].mkv
+!new/[Final8]Zero no Tsukaima F - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Zero no Tsukaima F - 11 (BD 10-bit 1280x720 x264 AAC)[5D710A6A].mkv
+!new/[Final8]Zero no Tsukaima F - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Zero no Tsukaima F - 12 (BD 10-bit 1280x720 x264 AAC)[E0D75B1C].mkv
+!new/[ReTouched] Plastic Nee-san - 01-04 (640x360 H264 AAC)/[ReTouched] Plastic Nee-san - 01 (640x360 H264 AAC) [6BAA9E18].mkv
+!new/[ReTouched] Plastic Nee-san - 01-04 (640x360 H264 AAC)/[ReTouched] Plastic Nee-san - 02 (640x360 H264 AAC) [5B4388E9].mkv
+!new/[ReTouched] Plastic Nee-san - 01-04 (640x360 H264 AAC)/[ReTouched] Plastic Nee-san - 03 (640x360 H264 AAC) [C54EFF8F].mkv
+!new/[ReTouched] Plastic Nee-san - 01-04 (640x360 H264 AAC)/[ReTouched] Plastic Nee-san - 04 (640x360 H264 AAC) [1D3EE453].mkv
 !new/[mazui]_hyouka_-_11.5_[lq][ebacbacc].mkv
 !new/belum/[TV_Series_1996]_Bakusou_Kyoudai_Let_s_&_Go/Bakusou_Kyoudai_Let_s_&_Go_-_01[51]_-_Episode_1_[640x480][DVD][RAW][Saiei][B67AAA56].mp4
 !new/belum/[TV_Series_1996]_Bakusou_Kyoudai_Let_s_&_Go/Bakusou_Kyoudai_Let_s_&_Go_-_02[51]_-_Episode_2_[640x480][DVD][RAW][Saiei][3C83C08C].mp4
