@@ -2,11 +2,13 @@
 !new/.broken/[Chiki-Subs]_Mayo_Chiki_-_01v2_(1280x720_H.264.AAC)_[45704136].mkv
 !new/.broken/[HorribleSubs] Sukitte Ii na yo. - 01 [720p].mkv
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
-!new/.ec/oven/[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 07 (1280x720 Hi10P AAC) [33031C56].mkv
-!new/.ec/oven/[IB] Sukitte Iinayo - 07 [720p] [10bit] [8CFC9575].mkv
-!new/.ec/oven/[gg]_Jormungand_-_19_[B61FFD8F].mkv
-!new/.ec/oven/list-201211211045
+!new/.ec/oven/[Commie] Busou Shinki - 08 [A659AF99].mkv
+!new/.ec/oven/[FFF] Medaka Box Abnormal - 07 [85194955].mkv
+!new/.ec/oven/[Hiryuu] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne 05 [Hi10P 1280x720 H264] [D6C12783].mkv
+!new/.ec/oven/list-201211240940
+!new/.ec/oven/ok/Gintama - 257 [HorribleSubs][720p][87B3B0A4].mkv
 !new/.ec/oven/wget-log
+!new/.ec/oven/wget-log.1
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
 !new/Carol/[raw] Carol OVA.ass
@@ -781,18 +783,6 @@
 !new/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - Vol.1 Special 1v2 (BD 10-bit 1280x720 x264 AAC)[B1713EBF].mkv
 !new/[Final8]Maken-Ki! - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - Vol.1 Special 3 (BD 10-bit 1280x720 x264 AAC)[4B7B5A17].mkv
 !new/[Final8]Maken-Ki! - Special 2 (BD 10-bit 1280x720 x264 AAC)/[Final8]Maken-Ki! - Vol.1 Special 2 (BD 10-bit 1280x720 x264 AAC)[2DD727EA].mkv
-!new/[Final8]Zero no Tsukaima F - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Zero no Tsukaima F - 01 (BD 10-bit 1280x720 x264 AAC)[1985C0FE].mkv
-!new/[Final8]Zero no Tsukaima F - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Zero no Tsukaima F - 02 (BD 10-bit 1280x720 x264 AAC)[22D9BAF6].mkv
-!new/[Final8]Zero no Tsukaima F - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Zero no Tsukaima F - 03 (BD 10-bit 1280x720 x264 AAC)[F7E8FDC3].mkv
-!new/[Final8]Zero no Tsukaima F - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Zero no Tsukaima F - 04 (BD 10-bit 1280x720 x264 AAC)[1F98F61D].mkv
-!new/[Final8]Zero no Tsukaima F - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Zero no Tsukaima F - 05 (BD 10-bit 1280x720 x264 AAC)[AA38F3B2].mkv
-!new/[Final8]Zero no Tsukaima F - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Zero no Tsukaima F - 06 (BD 10-bit 1280x720 x264 AAC)[871C32A0].mkv
-!new/[Final8]Zero no Tsukaima F - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Zero no Tsukaima F - 07 (BD 10-bit 1280x720 x264 AAC)[D5D6E80F].mkv
-!new/[Final8]Zero no Tsukaima F - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Zero no Tsukaima F - 08 (BD 10-bit 1280x720 x264 AAC)[D5D88FA5].mkv
-!new/[Final8]Zero no Tsukaima F - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Zero no Tsukaima F - 09 (BD 10-bit 1280x720 x264 AAC)[65E6A355].mkv
-!new/[Final8]Zero no Tsukaima F - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Zero no Tsukaima F - 10 (BD 10-bit 1280x720 x264 AAC)[6B15B99F].mkv
-!new/[Final8]Zero no Tsukaima F - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Zero no Tsukaima F - 11 (BD 10-bit 1280x720 x264 AAC)[5D710A6A].mkv
-!new/[Final8]Zero no Tsukaima F - 01-12 (BD 10-bit 1280x720 x264 AAC)/[Final8]Zero no Tsukaima F - 12 (BD 10-bit 1280x720 x264 AAC)[E0D75B1C].mkv
 !new/[ReTouched] Plastic Nee-san - 01-04 (640x360 H264 AAC)/[ReTouched] Plastic Nee-san - 01 (640x360 H264 AAC) [6BAA9E18].mkv
 !new/[ReTouched] Plastic Nee-san - 01-04 (640x360 H264 AAC)/[ReTouched] Plastic Nee-san - 02 (640x360 H264 AAC) [5B4388E9].mkv
 !new/[ReTouched] Plastic Nee-san - 01-04 (640x360 H264 AAC)/[ReTouched] Plastic Nee-san - 03 (640x360 H264 AAC) [C54EFF8F].mkv
