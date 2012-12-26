@@ -17504,33 +17504,32 @@ complete/p/Pita Ten/[HnK] Pita Ten - 23 [3EEEB8EA].avi
 complete/p/Pita Ten/[HnK] Pita Ten - 24 [3210F0FE].avi
 complete/p/Pita Ten/[HnK] Pita Ten - 25 [019B9BAD].avi
 complete/p/Pita Ten/[HnK] Pita Ten - 26 [End][F392C16A].avi
-complete/p/Planetes/[PSNR] Planetes - 01 (1280x720) [E96B08E4].mkv
-complete/p/Planetes/[PSNR] Planetes - 02 (1280x720) [F64A5177].mkv
-complete/p/Planetes/[PSNR] Planetes - 03 (1280x720) [F3EAB24F].mkv
-complete/p/Planetes/[PSNR] Planetes - 04 (1280x720) [9D7B3AA6].mkv
-complete/p/Planetes/[PSNR] Planetes - 05 (1280x720) [7EAC5FC8].mkv
-complete/p/Planetes/[PSNR] Planetes - 06 (1280x720) [EFD8F32F].mkv
-complete/p/Planetes/[PSNR] Planetes - 07 (1280x720) [78519E29].mkv
-complete/p/Planetes/[PSNR] Planetes - 08 (1280x720) [BCD32781].mkv
-complete/p/Planetes/[PSNR] Planetes - 09 (1280x720) [A062C9F4].mkv
-complete/p/Planetes/[PSNR] Planetes - 10 (1280x720) [810C5898].mkv
-complete/p/Planetes/[PSNR] Planetes - 11 (1280x720) [E23C4323].mkv
-complete/p/Planetes/[PSNR] Planetes - 12 (1280x720) [D6BE487C].mkv
-complete/p/Planetes/[PSNR] Planetes - 13 (1280x720) [1B761C35].mkv
-complete/p/Planetes/[PSNR] Planetes - 14 (1280x720) [FBF271F0].mkv
-complete/p/Planetes/[PSNR] Planetes - 15 (1280x720) [BD0653B1].mkv
-complete/p/Planetes/[PSNR] Planetes - 16 (1280x720) [AFAF7C38].mkv
-complete/p/Planetes/[PSNR] Planetes - 17 (1280x720) [FC1F2D6D].mkv
-complete/p/Planetes/[PSNR] Planetes - 18 (1280x720) [C2E97630].mkv
-complete/p/Planetes/[PSNR] Planetes - 19 (1280x720) [BF4892C9].mkv
-complete/p/Planetes/[PSNR] Planetes - 20 (1280x720) [0638C4AD].mkv
-complete/p/Planetes/[PSNR] Planetes - 21 (1280x720) [C976B1EC].mkv
-complete/p/Planetes/[PSNR] Planetes - 22 (1280x720) [92EDFA6A].mkv
-complete/p/Planetes/[PSNR] Planetes - 23 (1280x720) [A8039551].mkv
-complete/p/Planetes/[PSNR] Planetes - 24 (1280x720) [4C665D60].mkv
-complete/p/Planetes/[PSNR] Planetes - 25 (1280x720) [93C5E290].mkv
-complete/p/Planetes/[PSNR] Planetes - 26 (1280x720) [End][721D285B].mkv
-complete/p/Planetes/[PSNR] Planetes - Ending [C36E80FE].mkv
+complete/p/Planetes/[OZC] Planetes - 01 [v2][8250DA74].mkv
+complete/p/Planetes/[OZC] Planetes - 02 [v2][D048DB27].mkv
+complete/p/Planetes/[OZC] Planetes - 03 [758FD293].mkv
+complete/p/Planetes/[OZC] Planetes - 04 [35541052].mkv
+complete/p/Planetes/[OZC] Planetes - 05 [DC01DE84].mkv
+complete/p/Planetes/[OZC] Planetes - 06 [BBEA7AD7].mkv
+complete/p/Planetes/[OZC] Planetes - 07 [AE1A0E1E].mkv
+complete/p/Planetes/[OZC] Planetes - 08 [F35055E6].mkv
+complete/p/Planetes/[OZC] Planetes - 09 [879DB9EB].mkv
+complete/p/Planetes/[OZC] Planetes - 10 [FD10DEC1].mkv
+complete/p/Planetes/[OZC] Planetes - 11 [E7FCE27E].mkv
+complete/p/Planetes/[OZC] Planetes - 12 [3F1B0EDC].mkv
+complete/p/Planetes/[OZC] Planetes - 13 [5104F9DE].mkv
+complete/p/Planetes/[OZC] Planetes - 14 [3251F0D0].mkv
+complete/p/Planetes/[OZC] Planetes - 15 [510E2DB8].mkv
+complete/p/Planetes/[OZC] Planetes - 16 [1CB224AB].mkv
+complete/p/Planetes/[OZC] Planetes - 17 [871F72D0].mkv
+complete/p/Planetes/[OZC] Planetes - 18 [D4CDA48B].mkv
+complete/p/Planetes/[OZC] Planetes - 19 [42CA00C3].mkv
+complete/p/Planetes/[OZC] Planetes - 20 [6A5F3960].mkv
+complete/p/Planetes/[OZC] Planetes - 21 [392F0C6C].mkv
+complete/p/Planetes/[OZC] Planetes - 22 [AE699BF9].mkv
+complete/p/Planetes/[OZC] Planetes - 23 [15E38D0F].mkv
+complete/p/Planetes/[OZC] Planetes - 24 [42615A33].mkv
+complete/p/Planetes/[OZC] Planetes - 25 [79052881].mkv
+complete/p/Planetes/[OZC] Planetes - 26 [End][E77BBF38].mkv
 complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 00 Special [720p][511A2695].mkv
 complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 01 [720p][93A4D8AD].mkv
 complete/p/Pokemon Best Wishes/[PM] Pokemon Best Wishes - 02 [720p][9CDACBD7].mkv
