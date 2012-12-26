@@ -4,8 +4,10 @@ movie/A Letter to Momo/[Commie] A Letter to Momo [1080p BD][5E0CBE93].mkv
 movie/Agriculture Girls!/[Yoroshiku] Agriculture Girls! [E538B9BB].mkv
 movie/Ah! My Goddess Movie (2000)/[THORA] Ah! My Goddess Movie (2000) [720p][967EFAB3].mkv
 movie/Air - The Movie/[Koi] Air - The Movie [C26433E0].avi
+movie/Air - The Movie/[Tsundere] Air - The Movie [DVD][6ADD39AE].mkv
 movie/Akira (1988)/[Thora] Akira (1988) - English Dub [83ED406F].ac3
 movie/Akira (1988)/[Thora] Akira (1988) [1080p BD][B8FDCE8A].mkv
+movie/Angelic White Magical Girls/[Anime-Koi] Angelic White Magical Girls [1080p BD][E3661A74].mkv
 movie/Appleseed (2004)/[THORA] Appleseed (2004) (1280x720) [EE242662].mkv
 movie/Appleseed Ex Machina/[THORA] Appleseed Ex Machina [1080p][F5195BE1].mkv
 movie/Aquarion The Movie/[3xR] Aquarion The Movie [720p BD][D4A11BBE].mkv
@@ -285,6 +287,7 @@ movie/Slam Dunk Movie/[-ANF-] Slam Dunk - Movie 3 [DVD][D20B56CA].mkv
 movie/Slam Dunk Movie/[-ANF-] Slam Dunk - Movie 4 [DVD][DC7200A7].mkv
 movie/Slam Dunk Movie/[txxz] Slam Dunk - Movie 1 [DVD][1627A9FD].mkv
 movie/Slam Dunk Movie/[txxz] Slam Dunk - Movie 2 [DVD][7F5D63D3].mkv
+movie/Sora no Otoshimono - The Clockwork Angeloid/[DmonHiro] Sora no Otoshimono - The Clockwork Angeloid [720p BD][8253D36E].mkv
 movie/Space Battleship Yamato Revival/[ANBU] Space Battleship Yamato Revival [1080p][EFAFC227].mkv
 movie/Spirited Away/[niizk] Spirited Away [0827A6C3].mkv
 movie/Strike Witches The Movie/[Underwater] Strike Witches The Movie [1080p BD][B797F6EB].mkv
@@ -326,6 +329,7 @@ movie/Turn-A Gundam Movie 1/[EG] Turn-A Gundam Movie 1 [720p BD][626BE99C].mkv
 movie/Turn-A Gundam Movie 2/[EG] Turn-A Gundam Movie 2 [1080p BD][56E5859C].mkv
 movie/UN-GO 00 Inga-ron/[Commie] UN-GO 00 Inga-ron [73ACAA11].mkv
 movie/Umi Kara no Shisha/[ray=out] Umi Kara no Shisha [DVD][8D677EE5].mkv
+movie/Urusei Yatsura 2 - Beautiful Dreamer/[Live-eviL] Urusei Yatsura 2 - Beautiful Dreamer [6C62C44E].mkv
 movie/Welcome to the Space Show/[Lambda-Delta] Welcome to the Space Show [720p][D040A850].mkv
 movie/Whisper of the Heart (1995)/[Thora] Whisper of the Heart (1995) [1080p BD][56B08E55].mkv
 movie/Yurumates wa/[Frostii] Yurumates wa [v2][85452C31].mkv
@@ -333,6 +337,7 @@ movie/Zeta Gundam - Heirs to the Stars/[EG] Zeta Gundam - Heirs to the Stars [72
 movie/Zeta Gundam Movie/[T-N] Zeta Gundam - Movie 1 [8F112ECE].avi
 movie/Zeta Gundam Movie/[T-N] Zeta Gundam - Movie 2 [906E55BD].avi
 movie/Zeta Gundam Movie/[T-N] Zeta Gundam - Movie 3 [D906DC63].avi
+movie/Zone of the Enders 2167 Idolo/[Commie] Zone of the Enders 2167 Idolo [1080p BD][3725DBD2].mkv
 movie/_other/[A-Destiny] Konjiki no Gash Bell - Movie 01 [8D4A387A].mp4
 movie/_other/[AM] Gundam F91 [F4D0E776].mkv
 movie/_other/[AQS-Sprocket-TWH] Clannad - Motion Picture [674E95B8].mkv

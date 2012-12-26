@@ -1,0 +1,4 @@
+isos/windows-2003-sp2.iso
+isos/windows-7-ultimate-x64.iso
+isos/windows-7-ultimate-x86.iso
+isos/windows-xp-sp3-professional-x86.iso
