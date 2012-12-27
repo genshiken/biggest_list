@@ -2,10 +2,9 @@
 !new/.broken/[Chiki-Subs]_Mayo_Chiki_-_01v2_(1280x720_H.264.AAC)_[45704136].mkv
 !new/.broken/[HorribleSubs] Sukitte Ii na yo. - 01 [720p].mkv
 !new/.broken/[amusic] Various Artists - Literature Girl Memoire Soundtrack I - Yumemiru Shojo no Zensokyoku [w scans] (FLAC).zip
-!new/.ec/Detective Conan - Movie 16 - The Eleventh Striker [DCTP][1080p][H264][B3F676E6].mkv
-!new/.ec/Detective_Conan_-_674_[Kaitou-Hubuki][720p][10bit][6370EA8E].mkv
-!new/.ec/Detective_Conan_-_675_[Kaitou-Hubuki][720p][10bit][3AB93C60].mkv
-!new/.ec/Detective_Conan_-_676_[Kaitou-Hubuki][720p][10bit][62BE1F39].mkv
+!new/.ec/Detective Conan - 674 [Kaitou-Hubuki][720p][6370EA8E].mkv
+!new/.ec/Detective Conan - 675 [Kaitou-Hubuki][720p][3AB93C60].mkv
+!new/.ec/Detective Conan - 676 [Kaitou-Hubuki][720p][62BE1F39].mkv
 !new/.ec/[A-Destiny] Toriko - 87 (1280x720 Hi10p AAC) [11F4184D].mkv
 !new/.ec/[Commie] Ano Natsu de Matteru - Original Soundtrack 1 [FLAC]/01. 追憶.flac
 !new/.ec/[Commie] Ano Natsu de Matteru - Original Soundtrack 1 [FLAC]/02. 今日の始まり.flac
@@ -1494,6 +1493,10 @@
 !new/.ec/[mSubs - MQ] Armor Hunter Mellowlink (DVD)/[mSubs - MQ]Armor Hunter Mellowlink 07 - Railway (DVD).mkv
 !new/.ec/[mSubs - MQ] Armor Hunter Mellowlink (DVD)/[mSubs - MQ]Armor Hunter Mellowlink 08 - Ghost Town (DVD).mkv
 !new/.ec/[mSubs - MQ] Armor Hunter Mellowlink (DVD)/[mSubs - MQ]Armor Hunter Mellowlink 09 - Forest (DVD).mkv
+!new/.ec/[mSubs - MQ] Armor Hunter Mellowlink (DVD)/[mSubs - MQ]Armor Hunter Mellowlink 10 - Castle (DVD).mkv
+!new/.ec/[mSubs - MQ] Armor Hunter Mellowlink (DVD)/[mSubs - MQ]Armor Hunter Mellowlink 11 - Base (DVD).mkv
+!new/.ec/[mSubs - MQ] Armor Hunter Mellowlink (DVD)/[mSubs - MQ]Armor Hunter Mellowlink 12 - Last Stage (DVD).mkv
+!new/.ec/[yibis]_One_Piece_576_[720p][F8875096].mkv
 !new/.ec/list
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt
