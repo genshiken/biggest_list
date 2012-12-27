@@ -81,7 +81,6 @@
 !new/.ec/[Commie] Teekyuu - 12 [ABFDDCC1].mkv
 !new/.ec/[Commie] Tokyo Godfathers [BD 720p AAC] [C027CEDC].mkv
 !new/.ec/[Commie] Tonari no Kaibutsu - 13 [4B2A172C].mkv
-!new/.ec/[Doremi].Yes.Pretty.Cure.5.Go.Go!.31.[1280x720].[C65D4B1F].mkv
 !new/.ec/[EveTaku] The World God Only Knows Tenri-hen - 01 [480p-Hi10P][6CEB4332].mkv
 !new/.ec/[FroZen-EviL]_Yawara_-_117_[DVD][4A0C1BF4].mkv
 !new/.ec/[FroZen-EviL]_Yawara_-_118_[DVD][E09D6369].mkv
@@ -1483,14 +1482,18 @@
 !new/.ec/[OZC]Planetes Complete Series/Bonus Material/Promotional Trailers/[OZC]Planetes 'Series Trailer 1'.mkv
 !new/.ec/[OZC]Planetes Complete Series/Bonus Material/Promotional Trailers/[OZC]Planetes 'Series Trailer 2'.mkv
 !new/.ec/[OZC]Planetes Complete Series/Bonus Material/Promotional Trailers/[OZC]Planetes 'Series Trailer 3'.mkv
-!new/.ec/[Over-Time] Kamen Rider Wizard - 16 [DBBF42E6].mkv
-!new/.ec/[Over-Time]_Spec-Ops_Cell_Go-Busters_-_44_[DE878CEE].mkv
-!new/.ec/[Saizen-HnG]_Ashita_no_Joe_-_45_[DVD][B005544E].mkv
 !new/.ec/[Shin-S] Chuunibyou Demo Koi ga Shitai! Vocal Mini Album - Dark Iris Musical Grammar (FLAC) [Various].zip
 !new/.ec/[Shin-S] Rinne no Lagrange S2 ED Single - Jersey-Bu Damashii! (FLAC) [Various].zip
 !new/.ec/[UTW]_Nisemonogatari_-_02_[BD][h264-1080p_FLAC][F44637D0].mkv
-!new/.ec/[gg]_Magi_-_12_[A8B936C2].mkv
-!new/.ec/[rori] Sakurasou no Pet na Kanojo - 12 [476B8E59].mkv
+!new/.ec/[mSubs - MQ] Armor Hunter Mellowlink (DVD)/[mSubs - MQ]Armor Hunter Mellowlink 01 - Wilderness (DVD).mkv
+!new/.ec/[mSubs - MQ] Armor Hunter Mellowlink (DVD)/[mSubs - MQ]Armor Hunter Mellowlink 02 - Colosseum (DVD).mkv
+!new/.ec/[mSubs - MQ] Armor Hunter Mellowlink (DVD)/[mSubs - MQ]Armor Hunter Mellowlink 03 - Jungle (DVD).mkv
+!new/.ec/[mSubs - MQ] Armor Hunter Mellowlink (DVD)/[mSubs - MQ]Armor Hunter Mellowlink 04 - Leaning Tower (DVD).mkv
+!new/.ec/[mSubs - MQ] Armor Hunter Mellowlink (DVD)/[mSubs - MQ]Armor Hunter Mellowlink 05 - Battlefield (DVD).mkv
+!new/.ec/[mSubs - MQ] Armor Hunter Mellowlink (DVD)/[mSubs - MQ]Armor Hunter Mellowlink 06 - Prison (DVD).mkv
+!new/.ec/[mSubs - MQ] Armor Hunter Mellowlink (DVD)/[mSubs - MQ]Armor Hunter Mellowlink 07 - Railway (DVD).mkv
+!new/.ec/[mSubs - MQ] Armor Hunter Mellowlink (DVD)/[mSubs - MQ]Armor Hunter Mellowlink 08 - Ghost Town (DVD).mkv
+!new/.ec/[mSubs - MQ] Armor Hunter Mellowlink (DVD)/[mSubs - MQ]Armor Hunter Mellowlink 09 - Forest (DVD).mkv
 !new/.ec/list
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).avi
 !new/Canary/[アニメ][20020322] OVA カナリア (26m06s 640x480 WMV9+MP3).srt

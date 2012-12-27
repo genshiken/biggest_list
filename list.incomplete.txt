@@ -57,12 +57,6 @@ incomplete/Aoki Densetsu Shoot!/[Saizen] Aoki Densetsu Shoot! - 48 [DVD][EFD1516
 incomplete/Appleseed XIII/[UTW] Appleseed XIII - 01 [1080p BD][5DF6BED9].mkv
 incomplete/Appleseed XIII/[UTW] Appleseed XIII - 02 [1080p BD][92D4F156].mkv
 incomplete/Appleseed XIII/[UTW] Appleseed XIII - 03 [1080p BD][0BA750D7].mkv
-incomplete/Armored Trooper Votoms - Phantom Arc/[Formula] Armored Trooper Votoms - Phantom Arc - 04 [720p][CB04BA57].mkv
-incomplete/Armored Trooper Votoms - Phantom Arc/[Formula] Armored Trooper Votoms - Phantom Arc - 05 [720p][18938916].mkv
-incomplete/Armored Trooper Votoms - Phantom Arc/[Formula] Armored Trooper Votoms - Phantom Arc - 06 [720p][A2E2046C].mkv
-incomplete/Armored Trooper Votoms - Phantom Arc/[SHS-FoSu] Armored Trooper Votoms - Phantom Arc - 01 [720p][0C9F405D].mkv
-incomplete/Armored Trooper Votoms - Phantom Arc/[SHS-FoSu] Armored Trooper Votoms - Phantom Arc - 02 [720p][62FF6947].mkv
-incomplete/Armored Trooper Votoms - Phantom Arc/[SHS-FoSu] Armored Trooper Votoms - Phantom Arc - 03 [720p][6BD53E7C].mkv
 incomplete/Ashita no Joe/[Saizen-HnG] Ashita no Joe - 20 [DVD][544D7B17].mkv
 incomplete/Ashita no Joe/[Saizen-HnG] Ashita no Joe - 21 [DVD][DC78CD58].mkv
 incomplete/Ashita no Joe/[Saizen-HnG] Ashita no Joe - 22 [DVD][A2C17C06].mkv
@@ -88,6 +82,7 @@ incomplete/Ashita no Joe/[Saizen-HnG] Ashita no Joe - 41 [DVD][FAFF169A].mkv
 incomplete/Ashita no Joe/[Saizen-HnG] Ashita no Joe - 42 [DVD][814C06BA].mkv
 incomplete/Ashita no Joe/[Saizen-HnG] Ashita no Joe - 43 [DVD][7AC53ED7].mkv
 incomplete/Ashita no Joe/[Saizen-HnG] Ashita no Joe - 44 [DVD][12F3F776].mkv
+incomplete/Ashita no Joe/[Saizen-HnG] Ashita no Joe - 45 [DVD][B005544E].mkv
 incomplete/Ashita no Joe/[Saizen] Ashita no Joe - 01 [DVD][69BCAC10].mkv
 incomplete/Ashita no Joe/[Saizen] Ashita no Joe - 02 [DVD][3ABA8A8C].mkv
 incomplete/Ashita no Joe/[Saizen] Ashita no Joe - 03 [DVD][D162E486].mkv
@@ -2326,6 +2321,7 @@ incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 27 [72
 incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 28 [720p][3E8ECD51].mkv
 incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 29 [720p][410C0D06].mkv
 incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 30 [720p][EE76E583].mkv
+incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 31 [720p][C65D4B1F].mkv
 incomplete/Yes! Pretty Cure 5/[PCSS] Yes! Pretty Cure 5 - 21 [DVD][5D1AE662].mkv
 incomplete/Yes! Pretty Cure 5/[PCSS] Yes! Pretty Cure 5 - 22 [DVD][2F80A6AD].mkv
 incomplete/Yes! Pretty Cure 5/[PCSS] Yes! Pretty Cure 5 - 25 [DVD][55DD7883].mkv
