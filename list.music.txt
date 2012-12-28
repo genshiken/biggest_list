@@ -763,6 +763,7 @@ music/ASL/[ASL]_Rita_-_Kagayaki_no_Mirai_Every_my_Dear_[FLAC].rar
 music/ASL/[ASL]_Rita_-_Mjuka_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Rita_-_Oniuta_Bonus_CD_-_Onigoto_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Ryuuguu_Rena_(Nakahara_Mai)_-_Higurashi_no_Naku_Koro_ni_Kira_file_01_Bonus_CD_[FLAC].rar
+music/ASL/[ASL]_SID_-_MAGI_OP_-_V.I.P_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_SMEE_-_~Lover_Able~_IcyaLove_Memorial_Sound_Collection_[FLAC].rar
 music/ASL/[ASL]_SOUTH_OF_HEAVEN_-_KEEPER_OF_METAL_KEY_-AFTER-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_SOUTH_OF_HEAVEN_-_KEEPER_OF_METAL_KEY_-BEFORE-_[FLAC]_[w_Scans].rar
@@ -1486,6 +1487,7 @@ music/ASL/[ASL]_ZAQ_-_Chuunibyou_demo_Koi_ga_Shitai_OP_&_ED_-_Sparkling_Daydream
 music/ASL/[ASL]_Zephyr_Cradle_TAM_-_Zephyr_Violin_Duo_[FLAC].rar
 music/ASL/[ASL]_Zwei_-_Memories_Off_Yubikiri_no_Kioku_PSP_OP_Theme_-_Kaze_no_Uta_[FLAC].rar
 music/ASL/[ASL]_Zwei_-_ROBOTICS_NOTES_OP_Theme_-_Kakuchou_Place_[FLAC].rar
+music/ASL/[ASL]_Zwei_-_Robotics;Notes_OP_-_Junjou_Spectra_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Zwei_Wing_-_SENKIZESSHOU_SYMPHOGEAR_CHARACTER_SONG_1_[FLAC].rar
 music/ASL/[ASL]_aiko_-_Baby_[FLAC].rar
 music/ASL/[ASL]_aiko_-_Zutto_[FLAC].rar
@@ -3657,11 +3659,14 @@ music/Misc Distro/Summer Days OST.mka
 music/Misc Distro/Summer Days Original Soundtrack.mka
 music/Misc Distro/Suzumiya Haruhi no Yuuutsu 1 Soundtrack & Radio Bangumi  [Suzumiya Haruhi no Yuuutsu SOS-dan Radio Shibu Digest] 02 CD.rar
 music/Misc Distro/Suzumiya_Haruhi_no_Yuuutsu_1_Soundtrack.zip
+music/Misc Distro/Tenchi Universe OST.rar
 music/Misc Distro/ZARD - Golden Best -15th Anniversary-.zip
 music/Misc Distro/[#fishball]Winter Garden Sound Complete (320k).zip
 music/Misc Distro/[ADHOC] Kikou Shoujo ha Kizutsukanai Drama CD Side A.zip
 music/Misc Distro/[ADHOC] Kikou Shoujo ha Kizutsukanai Drama CD Side B.zip
 music/Misc Distro/[BPX] Rinne no Lagrange OST.zip
+music/Misc Distro/[Commie] Ano Natsu de Matteru - Original Soundtrack 1 [FLAC].zip
+music/Misc Distro/[Commie] Ano Natsu de Matteru - Original Soundtrack 2 [FLAC].zip
 music/Misc Distro/[Commie] Arata-naru Sekai - World's／Start／Load／End - Future - Original Soundtrack [FLAC].zip
 music/Misc Distro/[Doki] Oda Nobuna no Yabou ED Single - Hikari [Mizuta Makino] (FLAC) [1C49FA1C].zip
 music/Misc Distro/[Doki] Planetarian Original Soundtrack (FLAC) [79F2EF80].zip
@@ -3681,6 +3686,9 @@ music/Misc Distro/[NSX] (14.02.2006) ToHeart2 (Game) OST (2CDs) (320k).zip
 music/Misc Distro/[NSX] (16.02.2006) Leaf Theme Songs Collection (320k).zip
 music/Misc Distro/[NSX] (18.10.2005) D.C. ~Da Capo~ Complete Original Soundtrack [yozuca, rino & Nakayama Mami] (320k).zip
 music/Misc Distro/[NSX] (22.11.2006) YURIA - Really Really! Remember Memories OP Single [Scans] (320kbps).zip
+music/Misc Distro/[OZC] Planetes - OP+ED Single.zip
+music/Misc Distro/[OZC] Planetes - OST 1.zip
+music/Misc Distro/[OZC] Planetes - OST 2.zip
 music/Misc Distro/[Papa-Pirates]Takahashi Hitomi - BLOOD OP Single - Aozora no Namida.zip
 music/Misc Distro/[SECL-942] Mahou Shoujo Madoka Magika ED Single - Kalafina - Magia [flac+scans+cue+log].rar
 music/Misc Distro/[SOS-Dan] Suzumiya Haruhi no Tsumeawase (CBR320+Scans).rar
@@ -5692,6 +5700,7 @@ music/Shin-S/[Shin-S] Chihayafuru OP Single - YOUTHFUL [99RadioService].zip
 music/Shin-S/[Shin-S] Chouyaku Hyakunin Isshu Uta Koi ED Single - Singin' My Lu [SOUL'd OUT].zip
 music/Shin-S/[Shin-S] Chouyaku Hyakunin Isshu Uta Koi OP Single - Love Letter From Nanika [ecosystem].zip
 music/Shin-S/[Shin-S] Chuunibyou Demo Koi ga Shitai! OP Single - Sparkling Daydream (FLAC) [ZAQ].zip
+music/Shin-S/[Shin-S] Chuunibyou Demo Koi ga Shitai! Vocal Mini Album - Dark Iris Musical Grammar (FLAC) [Various].zip
 music/Shin-S/[Shin-S] Chuunibyou Demo Koi ga Shitai! Vocal Mini Album - Dark Iris Musical Grammar [Various].zip
 music/Shin-S/[Shin-S] ClariS - BIRTHDAY.zip
 music/Shin-S/[Shin-S] Copihan OP & ED Single - Loop [Yayuyu].zip
@@ -5906,6 +5915,7 @@ music/Shin-S/[Shin-S] RO-KYU-BU! OP & ED Single - SHOOT! [RO-KYU-BU!].zip
 music/Shin-S/[Shin-S] ROUND TABLE featuring Nino SINGLES BEST 2002-2012 - MEMORIES (FLAC).zip
 music/Shin-S/[Shin-S] Recorder to Randsell Theme Song Album - Glitter [Tada Aoi feat. Sister 773].zip
 music/Shin-S/[Shin-S] Rinne no Lagrange OP & ED Single - TRY UNITE! [Nakajima Megumi].zip
+music/Shin-S/[Shin-S] Rinne no Lagrange S2 ED Single - Jersey-Bu Damashii! (FLAC) [Various].zip
 music/Shin-S/[Shin-S] Rinne no Lagrange S2 ED Single - Jersey-Bu Damashii! [Various].zip
 music/Shin-S/[Shin-S] Rinne no Lagrange S2 OP & ED2 Single - Marble [Nakajima Megumi].zip
 music/Shin-S/[Shin-S] Robotics;Notes ED Single - Umikaze no Brave (FLAC) [fumika].zip
