@@ -3655,6 +3655,8 @@ music/Misc Distro/Ritsuko.Okazaki-Rabu.hina.OKAZAKI.COLLECTION-FLAC.rar
 music/Misc Distro/Rozen Maiden.zip
 music/Misc Distro/Shuffle.zip
 music/Misc Distro/Sowelu - 24 - Twenty Four.zip
+music/Misc Distro/Stratos 4 Advance OST.zip
+music/Misc Distro/Stratos 4 OST.zip
 music/Misc Distro/Summer Days OST.mka
 music/Misc Distro/Summer Days Original Soundtrack.mka
 music/Misc Distro/Suzumiya Haruhi no Yuuutsu 1 Soundtrack & Radio Bangumi  [Suzumiya Haruhi no Yuuutsu SOS-dan Radio Shibu Digest] 02 CD.rar
@@ -3665,6 +3667,7 @@ music/Misc Distro/[#fishball]Winter Garden Sound Complete (320k).zip
 music/Misc Distro/[ADHOC] Kikou Shoujo ha Kizutsukanai Drama CD Side A.zip
 music/Misc Distro/[ADHOC] Kikou Shoujo ha Kizutsukanai Drama CD Side B.zip
 music/Misc Distro/[BPX] Rinne no Lagrange OST.zip
+music/Misc Distro/[BSS] Darker Than Black - Gemini of the Meteor - Original Soundtrack [FLAC].zip
 music/Misc Distro/[Commie] Ano Natsu de Matteru - Original Soundtrack 1 [FLAC].zip
 music/Misc Distro/[Commie] Ano Natsu de Matteru - Original Soundtrack 2 [FLAC].zip
 music/Misc Distro/[Commie] Arata-naru Sekai - World's／Start／Load／End - Future - Original Soundtrack [FLAC].zip
@@ -6032,10 +6035,7 @@ music/Shukufuku no Campanella ED Single — Mirai Kaikisen [Hashimoto Miyuki] [f
 music/Shukufuku no Campanella ED Single — Mirai Kaikisen [Hashimoto Miyuki] [flac+scans]/original.cue
 music/Shukufuku no Campanella ED Single — Mirai Kaikisen [Hashimoto Miyuki] [flac+scans]/romaji.cue
 music/Soul Eater.zip
-music/Stratos 4 Advance OST.zip
-music/Stratos 4 OST.zip
 music/Sunset Swish - Mozaiku Kakera[320kbps.2007.02.28 X Scans].rar
-music/[BSS] Darker Than Black - Gemini of the Meteor - Original Soundtrack [FLAC].zip
 music/[EAC] I've APE Collection/[EAC].I've.Sound.APE.Collection.(Part.11).rar
 music/[EAC] I've APE Collection/[EAC].I've.Sound.APE.Collection.(Part.12).rar
 music/[EAC] I've APE Collection/[EAC].I've.Sound.APE.Collection.(Part.13).rar
