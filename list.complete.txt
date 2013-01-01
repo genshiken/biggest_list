@@ -170,16 +170,9 @@ complete/a/AIKa Zero/[Mamiko] AIKa Zero - 2 (1280x720) [BD][91EC64BB].mkv
 complete/a/AIKa Zero/[Mamiko] AIKa Zero - 3 (1280x720) [End][BD][6F59D777].mkv
 complete/a/AIKa Zero/[ray=out] AIKa Zero - 1 [BD][1C61647E].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 01 [720p BD][452860EA].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 01 [v2 720p][311464F8].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 02 [1080p BD][8E9CC38F].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 02 [720p BD][3DB0928E].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 02 [v2 720p][03423852].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 03 [1080p BD][A208C1F0].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 03 [720p BD][338551E3].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 03 [v2 720p][05EBB7B9].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 04 [1080p BD][EB7B5A0A].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 04 [720p BD][9177F58F].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 04 [v2 720p][698CC806].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 05 [v2 720p][905A94AA].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 06 [v2 720p][B2C7B2C9].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 07 [v2 720p][95D6FD3C].mkv
@@ -201,12 +194,9 @@ complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 01 Extra - PV01 [720p BD][E9B8C236].
 complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 01 Extra - PV02 [720p BD][38E2452D].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 01 Extra - PV03 [720p BD][A7BAB905].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 01 Extra - TVCM [720p BD][412324E9].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 02 Extra - Menu [1080p BD][C668E1FF].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 02 Extra - Menu [3996AC53].png
-complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 02 Extra - Special [1080p BD][9ECAE656].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 Vol.02 - Menu [3996AC53].png
-complete/a/AKB0048/[EveTaku] AKB0048 Vol.02 - Menu [720p BD][3573E39B].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 Vol.02 - Special [720p BD][A2287DFB].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 02 Extra - Menu [720p BD][3573E39B].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 02 Extra - Special [720p BD][A2287DFB].mkv
 complete/a/Accel World/[Commie] Accel World - 01 [30E0CD08].mkv
 complete/a/Accel World/[Commie] Accel World - 02 [v2][95DB6780].mkv
 complete/a/Accel World/[Commie] Accel World - 03 [7CB826BE].mkv
@@ -14895,6 +14885,18 @@ complete/m/Mayoi Neko Overrun!/[AtsA] Mayoi Neko Overrun! - 12 [1080p BD][AF2242
 complete/m/Mayoi Neko Overrun!/[AtsA] Mayoi Neko Overrun! - 13 [End][1080p BD][0FC9EB0B].mkv
 complete/m/Mayoi Neko Overrun!/[AtsA] Mayoi Neko Overrun! - Ending (Clean) [1080p BD][B424FD80].mkv
 complete/m/Mayoi Neko Overrun!/[AtsA] Mayoi Neko Overrun! - Opening (Clean) [1080p BD][273D42D2].mkv
+complete/m/Medaka Box Abnormal/[FFF] Medaka Box Abnormal - 01 [E9FB00C7].mkv
+complete/m/Medaka Box Abnormal/[FFF] Medaka Box Abnormal - 02 [EE630885].mkv
+complete/m/Medaka Box Abnormal/[FFF] Medaka Box Abnormal - 03 [7DAB3F1D].mkv
+complete/m/Medaka Box Abnormal/[FFF] Medaka Box Abnormal - 04 [F462188C].mkv
+complete/m/Medaka Box Abnormal/[FFF] Medaka Box Abnormal - 05 [36A986DA].mkv
+complete/m/Medaka Box Abnormal/[FFF] Medaka Box Abnormal - 06 [A0D681BC].mkv
+complete/m/Medaka Box Abnormal/[FFF] Medaka Box Abnormal - 07 [85194955].mkv
+complete/m/Medaka Box Abnormal/[FFF] Medaka Box Abnormal - 08 [426F11DF].mkv
+complete/m/Medaka Box Abnormal/[FFF] Medaka Box Abnormal - 09 [CFA6FAE4].mkv
+complete/m/Medaka Box Abnormal/[FFF] Medaka Box Abnormal - 10 [D42910F7].mkv
+complete/m/Medaka Box Abnormal/[FFF] Medaka Box Abnormal - 11 [CA52D472].mkv
+complete/m/Medaka Box Abnormal/[FFF] Medaka Box Abnormal - 12 [End][22E335F7].mkv
 complete/m/Medaka Box/[FFF] Medaka Box - 01 [9C9A8CC0].mkv
 complete/m/Medaka Box/[FFF] Medaka Box - 02 [882B9AEF].mkv
 complete/m/Medaka Box/[FFF] Medaka Box - 03 [AA86152E].mkv
@@ -16142,6 +16144,7 @@ complete/n/Negima!/[Exiled-Destiny] Negima! - 23 [0B90E44C].mkv
 complete/n/Negima!/[Exiled-Destiny] Negima! - 24 [4FEFA70D].mkv
 complete/n/Negima!/[Exiled-Destiny] Negima! - 25 [BD36BC7E].mkv
 complete/n/Negima!/[Exiled-Destiny] Negima! - 26 [End][8A736668].mkv
+complete/n/Nekogami Yaoyorozu OVA/[FFF] Nekogami Yaoyorozu OVA [1080p BD][50516184].mkv
 complete/n/Nekogami Yaoyorozu/[FFFpeeps] Nekogami Yaoyorozu - 01 [v2 720p][2EAE48CE].mkv
 complete/n/Nekogami Yaoyorozu/[FFFpeeps] Nekogami Yaoyorozu - 02 [720p][A267AF2E].mkv
 complete/n/Nekogami Yaoyorozu/[FFFpeeps] Nekogami Yaoyorozu - 03 [720p][1E12EE3A].mkv
@@ -21856,6 +21859,22 @@ complete/s/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 45 [720p][0C1927F9].
 complete/s/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 46 [720p][BA68578C].mkv
 complete/s/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 47 [720p][AF9DB696].mkv
 complete/s/Suite PreCure!/[Doremi-CureCom] Suite PreCure! - 48 [End][720p][9638680E].mkv
+complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 01 [720p BD][6EC2B8BA].mkv
+complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 02 [720p BD][A8170525].mkv
+complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 03 [1AEE25A2].mkv
+complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 04 [1B4CC7F9].mkv
+complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 05 [DF48BDB5].mkv
+complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 06 [EFEC0BC2].mkv
+complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 07 [D2CBDEAC].mkv
+complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 08 [A1BA6718].mkv
+complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 09 [4A1540AA].mkv
+complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 10 [D0428276].mkv
+complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 11 [892B7181].mkv
+complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 12 [D5F181C7].mkv
+complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 13 [End][C84FAA29].mkv
+complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - Ending (Clean) [720p BD][C6490719].mkv
+complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - Opening (Clean) [720p BD][441F04FA].mkv
+complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - Special 01 [720p BD][7F24B0B8].mkv
 complete/s/Summer Storm! - Open for Business/[Commie-Yanks] Summer Storm! - Open for Business - 13 [End][DVD][C613EAB5].mkv
 complete/s/Summer Storm! - Open for Business/[Commie] Summer Storm! - Open for Business - 02 [v2][75E7E6FA].mkv
 complete/s/Summer Storm! - Open for Business/[Commie] Summer Storm! - Open for Business - 03 [55286CB5].mkv
@@ -22125,16 +22144,18 @@ complete/t/Tari Tari/[Commie] Tari Tari - 01 [720p BD][71014C15].mkv
 complete/t/Tari Tari/[Commie] Tari Tari - 02 [720p BD][B0256392].mkv
 complete/t/Tari Tari/[Commie] Tari Tari - 03 [720p BD][7BEEEDC5].mkv
 complete/t/Tari Tari/[Commie] Tari Tari - 04 [720p BD][3AB6CEEF].mkv
-complete/t/Tari Tari/[Commie] Tari Tari - 05 [49FEA213].mkv
-complete/t/Tari Tari/[Commie] Tari Tari - 06 [5F26E9F5].mkv
-complete/t/Tari Tari/[Commie] Tari Tari - 07 [5D53BD30].mkv
-complete/t/Tari Tari/[Commie] Tari Tari - 08 [54A54FAE].mkv
+complete/t/Tari Tari/[Commie] Tari Tari - 05 [720p BD][499F091E].mkv
+complete/t/Tari Tari/[Commie] Tari Tari - 06 [720p BD][FEBECFE6].mkv
+complete/t/Tari Tari/[Commie] Tari Tari - 07 [720p BD][FD04B565].mkv
+complete/t/Tari Tari/[Commie] Tari Tari - 08 [720p BD][C6855F61].mkv
 complete/t/Tari Tari/[Commie] Tari Tari - 09 [6FD334C7].mkv
 complete/t/Tari Tari/[Commie] Tari Tari - 10 [6C47BFB2].mkv
 complete/t/Tari Tari/[Commie] Tari Tari - 11 [239D8456].mkv
 complete/t/Tari Tari/[Commie] Tari Tari - 12 [DB3518E2].mkv
 complete/t/Tari Tari/[Commie] Tari Tari - 13 [End][376FA04B].mkv
 complete/t/Tari Tari/[Commie] Tari Tari - Ending (Clean) [720p BD][CCB10C63].mkv
+complete/t/Tari Tari/[Commie] Tari Tari - Ending 2 (Clean) [720p BD][5F4D5CA0].mkv
+complete/t/Tari Tari/[Commie] Tari Tari - Ending 3 (Clean) [720p BD][6C1ACEC1].mkv
 complete/t/Tari Tari/[Commie] Tari Tari - Opening (Clean) [720p BD][4D7CAFB7].mkv
 complete/t/Tasogare Otome x Amnesia/[Commie] Tasogare Otome x Amnesia - 01 [1A5B2C81].mkv
 complete/t/Tasogare Otome x Amnesia/[Commie] Tasogare Otome x Amnesia - 02 [386ED436].mkv
@@ -22866,6 +22887,28 @@ complete/t/To Heart/[Exiled-Destiny] To Heart - 10 [DAB7587B].mkv
 complete/t/To Heart/[Exiled-Destiny] To Heart - 11 [0C047AF8].mkv
 complete/t/To Heart/[Exiled-Destiny] To Heart - 12 [BFAB7815].mkv
 complete/t/To Heart/[Exiled-Destiny] To Heart - 13 [End][5449E99B].mkv
+complete/t/To Love-Ru Darkness/[Commie] To Love-Ru Darkness - 01 [138CD44B].mkv
+complete/t/To Love-Ru Darkness/[Commie] To Love-Ru Darkness - 02 [2396C225].mkv
+complete/t/To Love-Ru Darkness/[Commie] To Love-Ru Darkness - 03 [70114EE4].mkv
+complete/t/To Love-Ru Darkness/[Commie] To Love-Ru Darkness - 04 [A295A1EC].mkv
+complete/t/To Love-Ru Darkness/[Commie] To Love-Ru Darkness - 05 [F3466324].mkv
+complete/t/To Love-Ru Darkness/[Commie] To Love-Ru Darkness - 06 [00BE1DDA].mkv
+complete/t/To Love-Ru Darkness/[Commie] To Love-Ru Darkness - 07 [89018F5A].mkv
+complete/t/To Love-Ru Darkness/[Commie] To Love-Ru Darkness - 08 [A7C7FF2C].mkv
+complete/t/To Love-Ru Darkness/[Commie] To Love-Ru Darkness - 09 [EDC8DC66].mkv
+complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - 01 [0D0D7AB1].mkv
+complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - 02 [AB80C971].mkv
+complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - 03 [0C5F7069].mkv
+complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - 04 [2BE3AC2B].mkv
+complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - 05 [D6812D0C].mkv
+complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - 06 [171A91CC].mkv
+complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - 07 [4633D75E].mkv
+complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - 08 [15BBFF93].mkv
+complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - 09 [6767F8A1].mkv
+complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - 10 [DC15110E].mkv
+complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - 11 [F0B03846].mkv
+complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - 12 [End][514BABE5].mkv
+complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness OVA - 01 [29FA608B].mkv
 complete/t/To Love-Ru OVA/[Yabai] To Love-Ru OVA - 1 [DVD 10bit][173E7127].mkv
 complete/t/To Love-Ru OVA/[Yabai] To Love-Ru OVA - 2 [DVD 10bit][41C17D0D].mkv
 complete/t/To Love-Ru OVA/[Yabai] To Love-Ru OVA - 3 [DVD 10bit][B45C2BE7].mkv
@@ -23203,19 +23246,19 @@ complete/t/Tonagura!/[ReDone] Tonagura! - Opening 10 (Clean) [DVD][61282967].mkv
 complete/t/Tonagura!/[ReDone] Tonagura! - Opening 11 (Clean) [DVD][B92FD851].mkv
 complete/t/Tonagura!/[ReDone] Tonagura! - Opening 12 (Clean) [DVD][76C67E66].mkv
 complete/t/Tonagura!/[ReDone] Tonagura! - Opening 13 (Clean) [DVD][39348657].mkv
-complete/t/Tonari no Kaibutsu/[Commie] Tonari no Kaibutsu - 01 [54AC9DBF].mkv
-complete/t/Tonari no Kaibutsu/[Commie] Tonari no Kaibutsu - 02 [EAD8234A].mkv
-complete/t/Tonari no Kaibutsu/[Commie] Tonari no Kaibutsu - 03 [DC6A5EA3].mkv
-complete/t/Tonari no Kaibutsu/[Commie] Tonari no Kaibutsu - 04 [54A97A1B].mkv
-complete/t/Tonari no Kaibutsu/[Commie] Tonari no Kaibutsu - 05 [A14877C3].mkv
-complete/t/Tonari no Kaibutsu/[Commie] Tonari no Kaibutsu - 06 [09F25554].mkv
-complete/t/Tonari no Kaibutsu/[Commie] Tonari no Kaibutsu - 07 [8C941250].mkv
-complete/t/Tonari no Kaibutsu/[Commie] Tonari no Kaibutsu - 08 [4E75DD3B].mkv
-complete/t/Tonari no Kaibutsu/[Commie] Tonari no Kaibutsu - 09 [861FBEA7].mkv
-complete/t/Tonari no Kaibutsu/[Commie] Tonari no Kaibutsu - 10 [EA8952F7].mkv
-complete/t/Tonari no Kaibutsu/[Commie] Tonari no Kaibutsu - 11 [09B5E6F1].mkv
-complete/t/Tonari no Kaibutsu/[Commie] Tonari no Kaibutsu - 12 [9AC0124D].mkv
-complete/t/Tonari no Kaibutsu/[Commie] Tonari no Kaibutsu - 13 [End][4B2A172C].mkv
+complete/t/Tonari no Kaibutsu/[Commie] Tonari no Kaibutsu - 01 [v2][6F88E64D].mkv
+complete/t/Tonari no Kaibutsu/[Commie] Tonari no Kaibutsu - 02 [v2][739A11EB].mkv
+complete/t/Tonari no Kaibutsu/[Commie] Tonari no Kaibutsu - 03 [v2][09E0695C].mkv
+complete/t/Tonari no Kaibutsu/[Commie] Tonari no Kaibutsu - 04 [v2][DE5AC4A1].mkv
+complete/t/Tonari no Kaibutsu/[Commie] Tonari no Kaibutsu - 05 [v2][CD0BAF65].mkv
+complete/t/Tonari no Kaibutsu/[Commie] Tonari no Kaibutsu - 06 [v2][9586A7F7].mkv
+complete/t/Tonari no Kaibutsu/[Commie] Tonari no Kaibutsu - 07 [v2][8302BE55].mkv
+complete/t/Tonari no Kaibutsu/[Commie] Tonari no Kaibutsu - 08 [v2][FF0939C5].mkv
+complete/t/Tonari no Kaibutsu/[Commie] Tonari no Kaibutsu - 09 [v2][E3C92D4F].mkv
+complete/t/Tonari no Kaibutsu/[Commie] Tonari no Kaibutsu - 10 [v2][9E59AF4A].mkv
+complete/t/Tonari no Kaibutsu/[Commie] Tonari no Kaibutsu - 11 [v2][9EC356AD].mkv
+complete/t/Tonari no Kaibutsu/[Commie] Tonari no Kaibutsu - 12 [v2][B0B36186].mkv
+complete/t/Tonari no Kaibutsu/[Commie] Tonari no Kaibutsu - 13 [End][v2][20501EB2].mkv
 complete/t/Tono to Issho OAV/[Huzzah-Pretentious] Tono to Issho OAV [9151FA51].mkv
 complete/t/Top wo Nerae! 2/[ETB] Top wo Nerae! 2 - 1 [D41848B6].mkv
 complete/t/Top wo Nerae! 2/[ETB] Top wo Nerae! 2 - 2 [EA8B6076].mkv

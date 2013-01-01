@@ -765,6 +765,7 @@ music/ASL/[ASL]_Rita_-_Oniuta_Bonus_CD_-_Onigoto_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Ryuuguu_Rena_(Nakahara_Mai)_-_Higurashi_no_Naku_Koro_ni_Kira_file_01_Bonus_CD_[FLAC].rar
 music/ASL/[ASL]_SID_-_MAGI_OP_-_V.I.P_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_SMEE_-_~Lover_Able~_IcyaLove_Memorial_Sound_Collection_[FLAC].rar
+music/ASL/[ASL]_SNUG_SPACE_-_REST_TIME_vol_1_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_SOUTH_OF_HEAVEN_-_KEEPER_OF_METAL_KEY_-AFTER-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_SOUTH_OF_HEAVEN_-_KEEPER_OF_METAL_KEY_-BEFORE-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_SOUTH_OF_HEAVEN_-_KEEPER_OF_METAL_KEY_LEGACY_[FLAC]_[w_Scans].rar
@@ -1285,6 +1286,7 @@ music/ASL/[ASL]_Various_Artists_-_RO-KYU-BU_Interval_1_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_RO-KYU-BU_pure_elements_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Ra-ra-ra_Suite_Precure_~UNLIMITED_ver.~_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Ramune_Original_Soundtrack_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Re-birth_colony_-Lost_azurite-_ORIGINAL_SOUNDTRACK_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Real_Imouto_ga_Iru_Ooizumi-kun_Baai_-_Complete_Soundtrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Rekishi_Hiwa_Historia_Original_Sound_Track_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Renai_Kateikyoushi_Rurumi_Coordinate_Original_Soundtrack_CD_[FLAC].rar
@@ -1392,6 +1394,7 @@ music/ASL/[ASL]_Various_Artists_-_UN-GO_ORIGINAL_SOUNDTRACK_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Universe_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Utatemeguri_Original_Sound_Track_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_VA_Compilation_CD_Vol_1_Panorama_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_VA_Compilation_CD_Vol_2_Panorama_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_VA_Compilation_CD_Vol_3_Panorama_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_VOCALO_LOVERS_feat._Hatsune_Miku_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Vestige_-Yaiba_ni_Nokoru_wa_Kimi_no_Omokage-_Original_Sound_Track_[FLAC]_[w_Scans].rar
@@ -3651,6 +3654,7 @@ music/Misc Distro/Persona_4_Original_Soundtrack_Disc2.zip
 music/Misc Distro/Prince of Tennis.zip
 music/Misc Distro/RAVE.zip
 music/Misc Distro/Ritsuko.Okazaki-A.Happy.Life-FLAC.rar
+music/Misc Distro/Ritsuko.Okazaki-Furutsubasuketto-FLAC.rar
 music/Misc Distro/Ritsuko.Okazaki-Rabu.hina.OKAZAKI.COLLECTION-FLAC.rar
 music/Misc Distro/Rozen Maiden.zip
 music/Misc Distro/Shuffle.zip
@@ -5693,6 +5697,7 @@ music/Shin-S/[Shin-S] Boku wa Tomodachi ga Sukunai ED Single - Watashi no Ki-mo-
 music/Shin-S/[Shin-S] Boku wa Tomodachi ga Sukunai Hasegawa Kobato Character Song CD - Kobato no Utattemita! [Hanazawa Kana].zip
 music/Shin-S/[Shin-S] Boku wa Tomodachi ga Sukunai TV OP & OVA ED Single - Zannenkei Rinjin-Bu (Hoshi Futatsu Han) [Various].zip
 music/Shin-S/[Shin-S] Boku wa Tomodachi ga Sukunai Vol.1 Bonus CD [Various].zip
+music/Shin-S/[Shin-S] Busou Shinki Character Song Album - Scenes from BUSOUSHINKI [Various].zip
 music/Shin-S/[Shin-S] Busou Shinki Character Song Series [Ki] - Lene [Nakajima Megumi].zip
 music/Shin-S/[Shin-S] Busou Shinki ED Single - Taiyou no Sign (FLAC) [azusa].zip
 music/Shin-S/[Shin-S] Busou Shinki OP Single - Install x Dream [Various].zip
@@ -5701,6 +5706,7 @@ music/Shin-S/[Shin-S] Campione! OP Single - BRAVE BLADE! [Sakuragawa Megu].zip
 music/Shin-S/[Shin-S] Chicchana Yukitsukai Sugar OP & ED Single - Sugar Baby Love [Ishida Youko & Yamamoto Maria].zip
 music/Shin-S/[Shin-S] Chihayafuru OP Single - YOUTHFUL [99RadioService].zip
 music/Shin-S/[Shin-S] Chouyaku Hyakunin Isshu Uta Koi ED Single - Singin' My Lu [SOUL'd OUT].zip
+music/Shin-S/[Shin-S] Chouyaku Hyakunin Isshu Uta Koi OP Single - Love Letter From Nanika (FLAC) [ecosystem].zip
 music/Shin-S/[Shin-S] Chouyaku Hyakunin Isshu Uta Koi OP Single - Love Letter From Nanika [ecosystem].zip
 music/Shin-S/[Shin-S] Chuunibyou Demo Koi ga Shitai! OP Single - Sparkling Daydream (FLAC) [ZAQ].zip
 music/Shin-S/[Shin-S] Chuunibyou Demo Koi ga Shitai! Vocal Mini Album - Dark Iris Musical Grammar (FLAC) [Various].zip
@@ -5735,6 +5741,7 @@ music/Shin-S/[Shin-S] GIRLS und PANZER Character Song Vol.4 - Akiyama Yukari [Na
 music/Shin-S/[Shin-S] GIRLS und PANZER Character Song Vol.5 - Reizei Mako [Iguchi Yuka].zip
 music/Shin-S/[Shin-S] GIRLS und PANZER ED Single - Enter Enter MISSION! (FLAC) [Ankou Team].zip
 music/Shin-S/[Shin-S] GIRLS und PANZER OP Single - DreamRiser [ChouCho].zip
+music/Shin-S/[Shin-S] GIRLS und PANZER Original Soundtrack [Various].zip
 music/Shin-S/[Shin-S] Gokujo. ~Gokurakuin Joshi Kouryou Monogatari~ OP & ED Single - Gokujo. no Joken [Various].zip
 music/Shin-S/[Shin-S] Guilty Crown ED2 & Black Rock Shooter ED Single - Kokuhaku [supercell].zip
 music/Shin-S/[Shin-S] Guilty Crown EGOIST 1st Album - Extra terrestrial Biological Entities (FLAC) [EGOIST].zip
@@ -5858,6 +5865,7 @@ music/Shin-S/[Shin-S] Moshidora ~Moshi Koukou Yakyuu no Joshi Manager ga Drucker
 music/Shin-S/[Shin-S] Mouretsu Uchuu Kaizoku OP & ED Single - Mouretsu Uchuu Koukyokyoku [Momoiro Clover Z].zip
 music/Shin-S/[Shin-S] Moyashimon Returns OP Single - Wake Up [ClariS].zip
 music/Shin-S/[Shin-S] Muv-Luv Alternative Total Eclipse ED Single - signs ~Saku Tsukiichi Yoru~ (FLAC) [Kuribayashi Minami].zip
+music/Shin-S/[Shin-S] Muv-Luv Alternative Total Eclipse ED2 Single - Revise the World (FLAC) [ayami].zip
 music/Shin-S/[Shin-S] Muv-Luv Alternative Total Eclipse ED2 Single - Revise the World [ayami].zip
 music/Shin-S/[Shin-S] Muv-Luv Alternative Total Eclipse Insert Song Single - NO PLACE LIKE A STAGE (FLAC) [Various].zip
 music/Shin-S/[Shin-S] Muv-Luv Alternative Total Eclipse OP Single - Go to the top (FLAC) [Koda Kumi].zip
@@ -5917,6 +5925,7 @@ music/Shin-S/[Shin-S] RO-KYU-BU! OP & ED Single - SHOOT! [RO-KYU-BU!].zip
 music/Shin-S/[Shin-S] ROUND TABLE featuring Nino SINGLES BEST 2002-2012 - MEMORIES (FLAC).zip
 music/Shin-S/[Shin-S] Recorder to Randsell Theme Song Album - Glitter [Tada Aoi feat. Sister 773].zip
 music/Shin-S/[Shin-S] Rinne no Lagrange OP & ED Single - TRY UNITE! [Nakajima Megumi].zip
+music/Shin-S/[Shin-S] Rinne no Lagrange S2 Character CD Vol.1 - Madoka (FLAC) [Ishihara Kaori].zip
 music/Shin-S/[Shin-S] Rinne no Lagrange S2 ED Single - Jersey-Bu Damashii! (FLAC) [Various].zip
 music/Shin-S/[Shin-S] Rinne no Lagrange S2 ED Single - Jersey-Bu Damashii! [Various].zip
 music/Shin-S/[Shin-S] Rinne no Lagrange S2 OP & ED2 Single - Marble [Nakajima Megumi].zip
@@ -5942,6 +5951,7 @@ music/Shin-S/[Shin-S] Senki Zesshou Symphogear Character Song 2 - Tachibana Hibi
 music/Shin-S/[Shin-S] Senki Zesshou Symphogear Character Song 3 - Kazanari Tsubasa [Mizuki Nana].zip
 music/Shin-S/[Shin-S] Senki Zesshou Symphogear Character Song 5 - Amou Kanade [Takayama Minami].zip
 music/Shin-S/[Shin-S] Senki Zesshou Symphogear Character Song 6 - Kohinata Miku [Iguchi Yuka].zip
+music/Shin-S/[Shin-S] Senki Zesshou Symphogear Character Song 7 - Tachibana Hibiki, Kazanari Tsubasa & Yukine Chris (FLAC) [Various].zip
 music/Shin-S/[Shin-S] Senki Zesshou Symphogear Character Song 7 - Tachibana Hibiki, Kazanari Tsubasa & Yukine Chris [Various].zip
 music/Shin-S/[Shin-S] Senki Zesshou Symphogear ED Single - Meteor Light [Takagaki Ayahi].zip
 music/Shin-S/[Shin-S] Senki Zesshou Symphogear OP Single - Synchrogazer [Mizuki Nana].zip
@@ -5963,6 +5973,7 @@ music/Shin-S/[Shin-S] Steins;Gate Vol.9 Bonus CD - Rabomen Spirits [Miyano Mamor
 music/Shin-S/[Shin-S] Sukitte Ii na yo. ED Single - slow dance [Suneohair].zip
 music/Shin-S/[Shin-S] Sword Art Online Character Song CD 1 - Asuna (FLAC) [Tomatsu Haruka].zip
 music/Shin-S/[Shin-S] Sword Art Online Character Song CD 2 - Sachi & Silica (FLAC) [Hayami Saori & Hidaka Rina].zip
+music/Shin-S/[Shin-S] Sword Art Online Character Song CD 3 - Lisbeth (FLAC) [Takagaki Ayahi].zip
 music/Shin-S/[Shin-S] Sword Art Online ED Single - Yume Sekai (FLAC) [Tomatsu Haruka].zip
 music/Shin-S/[Shin-S] Sword Art Online ED2 Single - Overfly (Anime Edition) (FLAC) [Haruna Luna].zip
 music/Shin-S/[Shin-S] Sword Art Online ED2 Single - Overfly (Limited Edition) (FLAC) [Haruna Luna].zip
