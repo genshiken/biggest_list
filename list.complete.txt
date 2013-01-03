@@ -173,9 +173,9 @@ complete/a/AKB0048/[EveTaku] AKB0048 - 01 [720p BD][452860EA].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 02 [720p BD][3DB0928E].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 03 [720p BD][338551E3].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 04 [720p BD][9177F58F].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 05 [v2 720p][905A94AA].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 06 [v2 720p][B2C7B2C9].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 07 [v2 720p][95D6FD3C].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - 05 [720p BD][C8E569E3].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - 06 [720p BD][BA3DBB65].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - 07 [720p BD][FFC96DB0].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 08 [v2 720p][E4F0D9BA].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 09 [v2 720p][409B3E6B].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 10 [v2 720p][E41A0F1D].mkv
@@ -197,6 +197,7 @@ complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 01 Extra - TVCM [720p BD][412324E9].
 complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 02 Extra - Menu [3996AC53].png
 complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 02 Extra - Menu [720p BD][3573E39B].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 02 Extra - Special [720p BD][A2287DFB].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 03 Extra - Making of Kibou-ni-Tsuite Music Video [720i BD][DC3707BA].mkv
 complete/a/Accel World/[Commie] Accel World - 01 [30E0CD08].mkv
 complete/a/Accel World/[Commie] Accel World - 02 [v2][95DB6780].mkv
 complete/a/Accel World/[Commie] Accel World - 03 [7CB826BE].mkv
@@ -8671,8 +8672,8 @@ complete/h/Hayate no Gotoku! - Can't Take My Eyes Off You/[Commie] Hayate no Got
 complete/h/Hayate no Gotoku! - Can't Take My Eyes Off You/[Commie] Hayate no Gotoku! - Can't Take My Eyes Off You - 08 [v2][FEA53453].mkv
 complete/h/Hayate no Gotoku! - Can't Take My Eyes Off You/[Commie] Hayate no Gotoku! - Can't Take My Eyes Off You - 09 [v2][7C859DBF].mkv
 complete/h/Hayate no Gotoku! - Can't Take My Eyes Off You/[Commie] Hayate no Gotoku! - Can't Take My Eyes Off You - 10 [22963BC7].mkv
-complete/h/Hayate no Gotoku! - Can't Take My Eyes Off You/[HorribleSubs] Hayate no Gotoku! - Can't Take My Eyes Off You - 11 [720p][31F92CFF].mkv
-complete/h/Hayate no Gotoku! - Can't Take My Eyes Off You/[HorribleSubs] Hayate no Gotoku! - Can't Take My Eyes Off You - 12 [End][720p][4D346EA1].mkv
+complete/h/Hayate no Gotoku! - Can't Take My Eyes Off You/[Commie] Hayate no Gotoku! - Can't Take My Eyes Off You - 11 [6F2DFA41].mkv
+complete/h/Hayate no Gotoku! - Can't Take My Eyes Off You/[Commie] Hayate no Gotoku! - Can't Take My Eyes Off You - 12 [End][9DA15143].mkv
 complete/h/Hayate no Gotoku!/[SS-Eclipse] Hayate no Gotoku! - 01 (1280x720) [6E15D0F0].mkv
 complete/h/Hayate no Gotoku!/[SS-Eclipse] Hayate no Gotoku! - 02 (1280x720) [48CEA2B0].mkv
 complete/h/Hayate no Gotoku!/[SS-Eclipse] Hayate no Gotoku! - 03 (1280x720) [D81D90EB].mkv
@@ -19897,7 +19898,6 @@ complete/s/Samurai Champloo/[NPC] Samurai Champloo - 23 [CB5980A5].mkv
 complete/s/Samurai Champloo/[NPC] Samurai Champloo - 24 [5B5EADF6].mkv
 complete/s/Samurai Champloo/[NPC] Samurai Champloo - 25 [64DCB054].mkv
 complete/s/Samurai Champloo/[NPC] Samurai Champloo - 26 [End][4E169422].mkv
-complete/s/Sankarea OVA/[Eveyuu] Sankarea - 00 OVA [DVD][4219AF02].mkv
 complete/s/Sankarea/[Commie] Sankarea - 01 [261B2905].mkv
 complete/s/Sankarea/[Commie] Sankarea - 02 [08DD7C48].mkv
 complete/s/Sankarea/[Commie] Sankarea - 03 [BDBFA66E].mkv
@@ -19910,6 +19910,8 @@ complete/s/Sankarea/[Commie] Sankarea - 09 [271E6703].mkv
 complete/s/Sankarea/[Commie] Sankarea - 10 [54845F38].mkv
 complete/s/Sankarea/[Commie] Sankarea - 11 [5A95B00F].mkv
 complete/s/Sankarea/[Commie] Sankarea - 12 [End][95BD1F2E].mkv
+complete/s/Sankarea/[Eveyuu] Sankarea - 00 OVA [DVD][4219AF02].mkv
+complete/s/Sankarea/[Eveyuu] Sankarea - 13 OVA [DVD][FF741818].mkv
 complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 01 [v2 DVD][D0DC52CD].mkv
 complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 02 [v2 DVD][84DFC61C].mkv
 complete/s/Sasameki Koto/[SHiN-gx] Sasameki Koto - 03 [v2 DVD][DC99430D].mkv
@@ -22007,11 +22009,12 @@ complete/s/Suteki Tantei Labyrinth/[OOM] Suteki Tantei Labyrinth - 04 [5016D873]
 complete/s/Suteki Tantei Labyrinth/[OOM] Suteki Tantei Labyrinth - 05 [FE57A423].avi
 complete/s/Suteki Tantei Labyrinth/[OOM] Suteki Tantei Labyrinth - 06 [7CA81218].avi
 complete/s/Sword Art Online/[Commie] Sword Art Offline - 01 [1080p BD][02D5FFF0].mkv
+complete/s/Sword Art Online/[Commie] Sword Art Offline - 02 [1080p BD][41EE010B].mkv
 complete/s/Sword Art Online/[Commie] Sword Art Online - 01 [1080p BD][EB76C8B2].mkv
 complete/s/Sword Art Online/[Commie] Sword Art Online - 02 [1080p BD][8EE695FF].mkv
-complete/s/Sword Art Online/[Commie] Sword Art Online - 03 [372B45D7].mkv
-complete/s/Sword Art Online/[Commie] Sword Art Online - 04 [EF0D41D8].mkv
-complete/s/Sword Art Online/[Commie] Sword Art Online - 05 [54B2317C].mkv
+complete/s/Sword Art Online/[Commie] Sword Art Online - 03 [1080p BD][7064F2AB].mkv
+complete/s/Sword Art Online/[Commie] Sword Art Online - 04 [1080p BD][37E3210E].mkv
+complete/s/Sword Art Online/[Commie] Sword Art Online - 05 [1080p BD][55DBF9B2].mkv
 complete/s/Sword Art Online/[Commie] Sword Art Online - 06 [8C198787].mkv
 complete/s/Sword Art Online/[Commie] Sword Art Online - 07 [B0A4E5EB].mkv
 complete/s/Sword Art Online/[Commie] Sword Art Online - 08 [877FA33D].mkv
@@ -22926,6 +22929,9 @@ complete/t/To Love-Ru Darkness/[Commie] To Love-Ru Darkness - 06 [00BE1DDA].mkv
 complete/t/To Love-Ru Darkness/[Commie] To Love-Ru Darkness - 07 [89018F5A].mkv
 complete/t/To Love-Ru Darkness/[Commie] To Love-Ru Darkness - 08 [A7C7FF2C].mkv
 complete/t/To Love-Ru Darkness/[Commie] To Love-Ru Darkness - 09 [EDC8DC66].mkv
+complete/t/To Love-Ru Darkness/[Commie] To Love-Ru Darkness - 10 [DB9D364B].mkv
+complete/t/To Love-Ru Darkness/[Commie] To Love-Ru Darkness - 11 [90ACF780].mkv
+complete/t/To Love-Ru Darkness/[Commie] To Love-Ru Darkness - 12 [End][BD659253].mkv
 complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - 01 [0D0D7AB1].mkv
 complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - 02 [AB80C971].mkv
 complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - 03 [0C5F7069].mkv
