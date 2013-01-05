@@ -5689,6 +5689,7 @@ music/Shin-S/[Shin-S] BRAVE 10 OP Single - Seirei Hirai [Ono Daisuke & Kakihara 
 music/Shin-S/[Shin-S] BTOOOM! ED Single - Aozora [May'n].zip
 music/Shin-S/[Shin-S] BTOOOM! OP Single - No pain, No game (Nano ver.) (FLAC) [nano].zip
 music/Shin-S/[Shin-S] Baby Princess 3D Paradise 0 Love OVA OP Single - Gyutto BABY Ai Nanda BABY [Various].zip
+music/Shin-S/[Shin-S] Bakuman. 3 ED Single - Pride on Everyday [sphere].zip
 music/Shin-S/[Shin-S] Bakuman. 3 OP Single - Moshimo no Hanashi [nano.RIPE].zip
 music/Shin-S/[Shin-S] Ben-To Character Songs & Etc. - Treasure! [Various].zip
 music/Shin-S/[Shin-S] Ben-To ED Single - Egao no Housoku [Ise Mariya].zip
@@ -5704,6 +5705,7 @@ music/Shin-S/[Shin-S] Busou Shinki ED Single - Taiyou no Sign (FLAC) [azusa].zip
 music/Shin-S/[Shin-S] Busou Shinki OP Single - Install x Dream [Various].zip
 music/Shin-S/[Shin-S] CODE BREAKER ED Single - Shiroi Karasu [Suzumura Kenichi].zip
 music/Shin-S/[Shin-S] Campione! OP Single - BRAVE BLADE! [Sakuragawa Megu].zip
+music/Shin-S/[Shin-S] Chata - Setsuna Memoria.zip
 music/Shin-S/[Shin-S] Chicchana Yukitsukai Sugar OP & ED Single - Sugar Baby Love [Ishida Youko & Yamamoto Maria].zip
 music/Shin-S/[Shin-S] Chihayafuru OP Single - YOUTHFUL [99RadioService].zip
 music/Shin-S/[Shin-S] Chouyaku Hyakunin Isshu Uta Koi ED Single - Singin' My Lu [SOUL'd OUT].zip
@@ -5754,6 +5756,7 @@ music/Shin-S/[Shin-S] Haiyore! Nyaruko-san OP Single - Taiyou Iwaku Moeyo Chaos 
 music/Shin-S/[Shin-S] Hanasaku Iroha Character Song Single - Oshimizu Nako [Toyosaki Aki].zip
 music/Shin-S/[Shin-S] Hanasaku Iroha Character Song Single - Wakura Yuina [Tomatsu Haruka].zip
 music/Shin-S/[Shin-S] Hanasaku Iroha OP Single - Hana no Iro [nano.RIPE].zip
+music/Shin-S/[Shin-S] Hayate no Gotoku! CAN'T TAKE MY EYES OFF YOU Character Song Single - Here I am, Here we are [Shiraishi Ryouko & Kugimiya Rie].zip
 music/Shin-S/[Shin-S] Hayate no Gotoku! CAN'T TAKE MY EYES OFF YOU OP Single - CAN'T TAKE MY EYES OFF YOU [eyelis].zip
 music/Shin-S/[Shin-S] Hidamari Sketch x Honeycomb ED Single - Yume Gumo (FLAC) [marble].zip
 music/Shin-S/[Shin-S] Hidamari Sketch x Honeycomb OP Single - Open Canvas [Various].zip
@@ -5865,6 +5868,7 @@ music/Shin-S/[Shin-S] Moshidora ~Moshi Koukou Yakyuu no Joshi Manager ga Drucker
 music/Shin-S/[Shin-S] Moshidora ~Moshi Koukou Yakyuu no Joshi Manager ga Drucker no Management wo Yondara~ OP Single - Yume Note [azusa].zip
 music/Shin-S/[Shin-S] Mouretsu Uchuu Kaizoku OP & ED Single - Mouretsu Uchuu Koukyokyoku [Momoiro Clover Z].zip
 music/Shin-S/[Shin-S] Moyashimon Returns OP Single - Wake Up [ClariS].zip
+music/Shin-S/[Shin-S] Musou 2 Theme Song Album [TOKINE & maoto].zip
 music/Shin-S/[Shin-S] Muv-Luv Alternative Total Eclipse ED Single - signs ~Saku Tsukiichi Yoru~ (FLAC) [Kuribayashi Minami].zip
 music/Shin-S/[Shin-S] Muv-Luv Alternative Total Eclipse ED2 Single - Revise the World (FLAC) [ayami].zip
 music/Shin-S/[Shin-S] Muv-Luv Alternative Total Eclipse ED2 Single - Revise the World [ayami].zip
@@ -5999,12 +6003,16 @@ music/Shin-S/[Shin-S] Tasogare Otome x Amnesia ED2 Single - Calendrier -Yuuko- (
 music/Shin-S/[Shin-S] Tasogare Otome x Amnesia Insert Song Single - Requiem (FLAC) [Hiiragi Nao].zip
 music/Shin-S/[Shin-S] Tasogare Otome x Amnesia OP Single - CHOIR JAIL [Suzuki Konomi].zip
 music/Shin-S/[Shin-S] Tayutama -Kiss on my Deity- OP Single - The fine every day (FLAC) [Kicco].zip
+music/Shin-S/[Shin-S] To LOVE-Ru -Trouble- Darkness Character Song CD - Lala Satalin Deviluke [Tomatsu Haruka].zip
+music/Shin-S/[Shin-S] To LOVE-Ru -Trouble- Darkness Character Song CD - Momo Belia Deviluke [Toyosaki Aki].zip
+music/Shin-S/[Shin-S] To LOVE-Ru -Trouble- Darkness Character Song CD - Nana Astar Deviluke [Itou Kanae].zip
 music/Shin-S/[Shin-S] To LOVE-Ru -Trouble- Darkness ED & Fate Extra CCC PSP Game Theme Song Single - Foul Play ni Kurari (FLAC) [Wakeshima Kanon].zip
 music/Shin-S/[Shin-S] To LOVE-Ru -Trouble- Darkness OP Single - Rakuen PROJECT [Ray].zip
 music/Shin-S/[Shin-S] ToHeart2 Dungeon Travelers OP & ED Single - Niji iro no Mirai [Various].zip
 music/Shin-S/[Shin-S] ToHeart2 Dungeon Travelers Vol.1 Special CD - Nanairo no Hikari [Ono Ryouko & Kogure Ema].zip
 music/Shin-S/[Shin-S] Tonari no Kaibutsu-kun ED Single - White Wishes [9nine].zip
 music/Shin-S/[Shin-S] Tonari no Kaibutsu-kun OP Single - Q&A Recital! [Tomatsu Haruka].zip
+music/Shin-S/[Shin-S] Toyosaki Aki - Orion to Spangle.zip
 music/Shin-S/[Shin-S] Toyosaki Aki - music.zip
 music/Shin-S/[Shin-S] UN-GO ED Single - Fantasy [LAMA].zip
 music/Shin-S/[Shin-S] Upotte!! ED Single - Himekuri [Sadohara Kaori].zip
