@@ -365,6 +365,8 @@ music/ASL/[ASL]_Annabel_-_Koi_to_Senkyou_to_Chocolate_OP_-_Signal_graph_[FLAC]_[
 music/ASL/[ASL]_Annabel_-_Sankarea_ED_-_Above_your_hand_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Annabel_-_miniascape_[FLAC].rar
 music/ASL/[ASL]_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_Original_Soundtrack_Vol2_[FLAC].rar
+music/ASL/[ASL]_Antistar_-_Tokyo_Babel_Special_Soundtrack_[EXTRA].rar
+music/ASL/[ASL]_Antistar_-_Tokyo_Babel_Special_Soundtrack_[FLAC].rar
 music/ASL/[ASL]_Aoba_Ringo_-_Fault!!_Ace_Vocal_Maxi_Single_[FLAC].rar
 music/ASL/[ASL]_Aoi_Eir_-_Fate_Zero_Image_Song_Album_-_Prayer_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Aoi_Eir_-_LisAni!_Vol6_Enclosed_CD_-_Avalon_Blue_[FLAC]_[w_Scans].rar
@@ -1571,6 +1573,7 @@ music/ASL/[ASL]_supercell_-_Today_Is_A_Beautifu_ Day_[EXTRA].rar
 music/ASL/[ASL]_supercell_-_Today_Is_A_Beautiful_Day_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_supercell_feat.Hatsune_Miku_-_Hajimete_no_Koi_ga_Owaru_Toki_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_supercell_feat.Hatsune_Miku_-_supercell_tribute_-Stowaways-_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_tohko_-_Aete_Mushisuru_Kimi_to_no_Mirai_Relay_broadcast_original_mini_soundtrack_[FLAC].rar
 music/ASL/[ASL]_tsundeRECords_-_PUDDLE_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_yozuca_-_Dakara_Boku_wa_H_ga_Dekinai_ED_-_Platinum_17_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_yuiko_-_Gratitude_Kaguya_x_yuiko_Vocal_Collection_[FLAC]_[w_Scans].rar

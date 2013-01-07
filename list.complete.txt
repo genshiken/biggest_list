@@ -169,35 +169,6 @@ complete/a/AA! Megami-sama OVA/[AniSubs] AA! Megami-sama - OVA 5 [End][1EC4C035]
 complete/a/AIKa Zero/[Mamiko] AIKa Zero - 2 (1280x720) [BD][91EC64BB].mkv
 complete/a/AIKa Zero/[Mamiko] AIKa Zero - 3 (1280x720) [End][BD][6F59D777].mkv
 complete/a/AIKa Zero/[ray=out] AIKa Zero - 1 [BD][1C61647E].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 01 [720p BD][452860EA].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 02 [720p BD][3DB0928E].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 03 [720p BD][338551E3].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 04 [720p BD][9177F58F].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 05 [720p BD][C8E569E3].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 06 [720p BD][BA3DBB65].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 07 [720p BD][FFC96DB0].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 08 [v2 720p][E4F0D9BA].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 09 [v2 720p][409B3E6B].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 10 [v2 720p][E41A0F1D].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 11 [v2 720p][111EFC1A].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 12 [v2 720p][BDE3292A].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - 13 [End][v2 720p][94B8F10D].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 01 Extra - CV Selection Results [720p BD][E7E55074].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 01 Extra - Character Introduction [720p BD][6C1492A6].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 01 Extra - Ending (Clean) [720p BD][52875E84].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 01 Extra - Final Auditions [720p BD][A322E39C].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 01 Extra - Menu [3996AC53].png
-complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 01 Extra - Menu [720p BD][468E9972].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 01 Extra - Opening (Clean) [720p BD][631CF058].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 01 Extra - Opening Introduction [720p BD][0F4203E3].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 01 Extra - PV01 [720p BD][E9B8C236].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 01 Extra - PV02 [720p BD][38E2452D].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 01 Extra - PV03 [720p BD][A7BAB905].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 01 Extra - TVCM [720p BD][412324E9].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 02 Extra - Menu [3996AC53].png
-complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 02 Extra - Menu [720p BD][3573E39B].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 02 Extra - Special [720p BD][A2287DFB].mkv
-complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 03 Extra - Making of Kibou-ni-Tsuite Music Video [720i BD][DC3707BA].mkv
 complete/a/Accel World/[Commie] Accel World - 01 [30E0CD08].mkv
 complete/a/Accel World/[Commie] Accel World - 02 [v2][95DB6780].mkv
 complete/a/Accel World/[Commie] Accel World - 03 [7CB826BE].mkv
@@ -16842,6 +16813,7 @@ complete/o/Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne/[Hiryuu] Onii-chan Dake
 complete/o/Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne/[Hiryuu] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 04 [720p][598D6380].mkv
 complete/o/Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne/[Hiryuu] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 05 [720p][D6C12783].mkv
 complete/o/Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne/[Hiryuu] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 06 [720p][A4E692F7].mkv
+complete/o/Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne/[Hiryuu] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 07 [720p][FFAE608E].mkv
 complete/o/Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne!! OVA/[GotWoot] Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne!! - 13 OVA [Uncut][720p BD][509F759C].mkv
 complete/o/Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne!!/[GotWoot] Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne!! - 01 [720p BD][1CFB4A55].mkv
 complete/o/Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne!!/[GotWoot] Onii-chan no Koto Nanka Zenzen Suki Janain Dakara ne!! - 02 [720p BD][A7DB431D].mkv
@@ -20252,9 +20224,13 @@ complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - 07 [720p
 complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - 08 [720p BD][C241621F].mkv
 complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - 09 [5E45CC81].mkv
 complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - 10 [945EE87C].mkv
-complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - 11 [65F220B4].mkv
-complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - 12 [350D0B60].mkv
-complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - 13 [End][AD8672BC].mkv
+complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - 11 [720p BD][BF0B7092].mkv
+complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - 12 [720p BD][30E34231].mkv
+complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - 13 [End][720p BD][06E72EF2].mkv
+complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - Ending (Clean) [720p BD][8C89FE4F].mkv
+complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - Opening 1 (Clean) [720p BD][3114E71D].mkv
+complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - Opening 2 (Clean) [720p BD][12AA3E91].mkv
+complete/s/Senki Zesshou Symphogear/[Commie] Senki Zesshou Symphogear - Opening 3 (Clean) [720p BD][299B8A13].mkv
 complete/s/Senki Zesshou Symphogear/[DmonHiro] Senki Zesshou Symphogear - 01 [720p BD][4170F866].mkv
 complete/s/Senki Zesshou Symphogear/[DmonHiro] Senki Zesshou Symphogear - 02 [720p BD][41AA4B72].mkv
 complete/s/Senki Zesshou Symphogear/[DmonHiro] Senki Zesshou Symphogear - 03 [720p BD][B17A000B].mkv
