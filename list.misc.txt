@@ -8,6 +8,7 @@ misc/apps/CoreAVC 2.0.0.0.exe
 misc/apps/CoreAVC 2.0.zip
 misc/apps/FileZilla Portable 2.2.32.paf.exe
 misc/apps/Firefox Setup 3.5.4.exe
+misc/apps/PhSp_CS2_English.exe
 misc/apps/Tomboy-0.14.2.msi
 misc/apps/VirtualBox-4.0.6-71344-SunOS.tar.gz
 misc/apps/VirtualBox-4.0.6-71344-Win.exe
@@ -33,6 +34,7 @@ misc/apps/office2007sp3-kb2526086-fullfile-en-us.exe
 misc/apps/openbsd-5.0-amd64.iso
 misc/apps/openbsd-5.0-i386.iso
 misc/apps/openbsd-5.0.txt
+misc/apps/photoshop_cs2_serial.txt
 misc/apps/ports.tar.gz
 misc/apps/putty.exe
 misc/apps/puzzles.zip

@@ -693,6 +693,7 @@ music/ASL/[ASL]_Mizuho_-_FORTUNE_ARTERIAL_Image_Theme_Maxi_Single_-_It_s_my_prec
 music/ASL/[ASL]_Mizuki_Nana_-_BLOOD-C_ED_-_Junketsu_Paradox_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Mizuki_Nana_-_Blood-C_The_Last_Dark_-_Time_Space_EP_[FLAC].rar
 music/ASL/[ASL]_Mizuki_Nana_-_Magical_Girl_Lyrical_NANOHA_The_MOVIE_2nd_As_OP_-_BRIGHT_STREAM_[FLAC].rar
+music/ASL/[ASL]_Mizuki_Nana_-_ROCKBOUND_NEIGHBORS_[FLAC].rar
 music/ASL/[ASL]_Mizuki_Nana_-_Senhime_Zesshou_Symphogear_OP_-_Synchrogazer_[FLAC].rar
 music/ASL/[ASL]_Mizuki_Nana_-_THE_MUSEUM_II_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Mizuta_Makino_-_Oda_Nobuna_no_Yabou_ED_-_Hikari_[FLAC]_[w_Scans].rar
@@ -860,6 +861,7 @@ music/ASL/[ASL]_TAMUSIC_LC_AZE_-_LC_VIOLY_[FLAC].rar
 music/ASL/[ASL]_TAMUSIC_Re_Volte_-_scenic_-key_classical_collect-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_TOY_-_Gurenka_Original_Mini_Soundtrack_[FLAC].rar
 music/ASL/[ASL]_Tainaka_Sachi_-_Fate_Stay_Night_OP_Single_-_disillusion_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Takagaki_ Ayahi_-_Sword_Art_Online_Bonus_Disc_3_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Takagaki_Ayahi_-_Tsuki_no_Namida_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Takahashi_Chiaki_-_THE_IDOLM@STER_MASTER_ARTIST_2_-SECOND_SEASON-_03_Azusa_Miura_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Takanashi_Miu_-_Papa_no_Iu_Koto_wo_Kikinasai!_Character_Song_CD_-_Brilliant_Days_[FLAC]_[w_Scans].rar
@@ -1146,6 +1148,7 @@ music/ASL/[ASL]_Various_Artists_-_Irotoridori_no_Hikari_Theme_Songs_Plus_[FLAC]_
 music/ASL/[ASL]_Various_Artists_-_Itsuka,_Todoku,_Ano_Sora_ni._ ~Precious_Selection~_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Ive_GIRLS_COMPILATION_8_-_LEVEL_OCTAVE_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Jinrui_wa_Suitai_Shimashita_Original_Soundtrack_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Jormungand_PERFECT_ORDER_Original_Soundtrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Joshiraku_ED_-_Nippon_Egao_Hyakkei_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Joshiraku_OP_-_Oato_ga_Yoroshikutte...yo!_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_JustyxNasty_Original_Vocal_Maxi_Single_[FLAC].rar
@@ -1304,6 +1307,7 @@ music/ASL/[ASL]_Various_Artists_-_Ramune_Original_Soundtrack_[FLAC]_[w_Scans].ra
 music/ASL/[ASL]_Various_Artists_-_Re-birth_colony_-Lost_azurite-_ORIGINAL_SOUNDTRACK_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Real_Imouto_ga_Iru_Ooizumi-kun_Baai_-_Complete_Soundtrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Rekishi_Hiwa_Historia_Original_Sound_Track_[FLAC].rar
+music/ASL/[ASL]_Various_Artists_-_Reminisphere_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Renai_Kateikyoushi_Rurumi_Coordinate_Original_Soundtrack_CD_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Rewrite_-_Soil_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Rewrite_Arrangement_Album_-_Branch_[FLAC].rar
@@ -5777,6 +5781,7 @@ music/Shin-S/[Shin-S] Haiyore! Nyaruko-san OP Single - Taiyou Iwaku Moeyo Chaos 
 music/Shin-S/[Shin-S] Hanasaku Iroha Character Song Single - Oshimizu Nako [Toyosaki Aki].zip
 music/Shin-S/[Shin-S] Hanasaku Iroha Character Song Single - Wakura Yuina [Tomatsu Haruka].zip
 music/Shin-S/[Shin-S] Hanasaku Iroha OP Single - Hana no Iro [nano.RIPE].zip
+music/Shin-S/[Shin-S] Hanazawa Kana - Silent Snow.zip
 music/Shin-S/[Shin-S] Hayate no Gotoku! CAN'T TAKE MY EYES OFF YOU Character Song Single - Here I am, Here we are [Shiraishi Ryouko & Kugimiya Rie].zip
 music/Shin-S/[Shin-S] Hayate no Gotoku! CAN'T TAKE MY EYES OFF YOU ED & Insert Song Single - Koi no Wana [Yamazaki Haruka].zip
 music/Shin-S/[Shin-S] Hayate no Gotoku! CAN'T TAKE MY EYES OFF YOU OP Single - CAN'T TAKE MY EYES OFF YOU [eyelis].zip
@@ -5840,6 +5845,7 @@ music/Shin-S/[Shin-S] Kimi ni Todoke Character Song Album - Secret Party ~Kitaho
 music/Shin-S/[Shin-S] Kimi to Boku. 2 ED Single - Kimi to Boku no Bankai [Sakai Yuu].zip
 music/Shin-S/[Shin-S] Kimi to Boku. 2 OP Single - Zutto [Sakou Tomohisa].zip
 music/Shin-S/[Shin-S] Koi to Senkyo to Chocolate Character Song Album - CHOCOLATE SELECTION [Various].zip
+music/Shin-S/[Shin-S] Koi to Senkyo to Chocolate Duet Song CD - Kiba Mifuyu & Aomi Isara [Mizuhashi Kaori & Kadowaki Mai].zip
 music/Shin-S/[Shin-S] Koi to Senkyo to Chocolate Duet Song CD - Sumiyoshi Chisato & Shinonome Satsuki [Nakamura Eriko & Asakawa Yuu].zip
 music/Shin-S/[Shin-S] Koi to Senkyo to Chocolate ED Single - Kaze no Naka no Primrose (FLAC) [Ceui].zip
 music/Shin-S/[Shin-S] Koi to Senkyo to Chocolate OP Single - Signal Graph (FLAC) [Annabel].zip
@@ -5849,6 +5855,7 @@ music/Shin-S/[Shin-S] Kono Naka ni Hitori, Imouto ga Iru! Character Song CD 1 - 
 music/Shin-S/[Shin-S] Kono Naka ni Hitori, Imouto ga Iru! Character Song CD 2 - Kannagi Miyabi [Sakura Ayane].zip
 music/Shin-S/[Shin-S] Kono Naka ni Hitori, Imouto ga Iru! Character Song CD 3 - Sagara Mei (FLAC) [Hidaka Rina].zip
 music/Shin-S/[Shin-S] Kono Naka ni Hitori, Imouto ga Iru! Character Song CD 3 - Sagara Mei [Hidaka Rina].zip
+music/Shin-S/[Shin-S] Kono Naka ni Hitori, Imouto ga Iru! Character Song CD 4 - Kunitachi Rinka [Taketatsu Ayana].zip
 music/Shin-S/[Shin-S] Kono Naka ni Hitori, Imouto ga Iru! Character Song vol.1 - Tsuruma Konoe (FLAC) [Ishihara Kaori].zip
 music/Shin-S/[Shin-S] Kono Naka ni Hitori, Imouto ga Iru! Character Song vol.2 - Kannagi Miyabi (FLAC) [Sakura Ayane].zip
 music/Shin-S/[Shin-S] Kono Naka ni Hitori, Imouto ga Iru! ED Single - Heavenly Lover (FLAC) [Various].zip
@@ -5863,6 +5870,7 @@ music/Shin-S/[Shin-S] Kyoukai Senjou no Horizon II OP Single - ZONE ALONE [Chiha
 music/Shin-S/[Shin-S] Kyoukai Senjou no Horizon OP Single - TERMINATED [Chihara Minori].zip
 music/Shin-S/[Shin-S] Kyoukai Senjou no Horizon The Repertory 02 - Aoi Kimi [Saitou Chiwa].zip
 music/Shin-S/[Shin-S] Little Busters! OP & ED Single - Little Busters! ~TV animation ver.~ (FLAC) [Rita].zip
+music/Shin-S/[Shin-S] Magi Character Song 01 - Aladdin, Alibaba & Morgiana [Various].zip
 music/Shin-S/[Shin-S] Magi OP Single - V.I.P (Anime Edition) [SID].zip
 music/Shin-S/[Shin-S] Magi OP Single - V.I.P [SID].zip
 music/Shin-S/[Shin-S] Mahou Shoujo Lyrical Nanoha The Movie 2nd A's ED Single - Hohoemi no Plumage [Tamura Yukari].zip
@@ -5902,6 +5910,7 @@ music/Shin-S/[Shin-S] Natsuiro Kiseki Vol.1 Bonus CD - Yasashisa ni Tsutsumareru
 music/Shin-S/[Shin-S] Natsuiro Kiseki Vol.2 Bonus CD - Yumeiro Graffiti (FLAC) [Kotobuki Minako & Takagaki Ayahi].zip
 music/Shin-S/[Shin-S] Natsuiro Kiseki Vol.3 Bonus CD - Hatsu Omoi Day (FLAC) [Tomatsu Haruka & Toyosaki Aki].zip
 music/Shin-S/[Shin-S] Natsuiro Kiseki Vol.4 Bonus CD - Super Diamond Girl (FLAC) [Various].zip
+music/Shin-S/[Shin-S] Natsuiro Kiseki Vol.6 Bonus CD - Sora wa Hareteku [Various].zip
 music/Shin-S/[Shin-S] Nazo no Kanojo X ED Single - Houkago no Yakusoku (FLAC) [Yoshitani Ayako].zip
 music/Shin-S/[Shin-S] Nazo no Kanojo X OP Single - Koi no Orchestra (FLAC) [Yoshitani Ayako].zip
 music/Shin-S/[Shin-S] Nekogami Yaoyorozu Character Songs Vol.1 - Yuzu & Gonta [Horie Yui & Sanpei Yuuko].zip
@@ -6047,6 +6056,7 @@ music/Shin-S/[Shin-S] Uta no Prince-sama Maji LOVE 1000% OP Single - Orpheus [Mi
 music/Shin-S/[Shin-S] VA Compilation CD Vol.2 - Panorama (FLAC) [Various].zip
 music/Shin-S/[Shin-S] WORKING'!! OP & ED Single - COOLISH WALK [Various].zip
 music/Shin-S/[Shin-S] Wooser no Sono Higurashi Theme Song Single - Love Me Gimme (FLAC) [Tia produced by ryo (supercell)].zip
+music/Shin-S/[Shin-S] Yanagi Nagi - Hoshi Akari no Gaitou.zip
 music/Shin-S/[Shin-S] Yuru Yuri 2 ED Single - 100% Chu~Gakusei [Various].zip
 music/Shin-S/[Shin-S] Yuru Yuri 2 Music 00 - Mirakurun [Taketatsu Ayana].zip
 music/Shin-S/[Shin-S] Yuru Yuri 2 Music 01 - Akaza Akari [Mikami Shiori].zip

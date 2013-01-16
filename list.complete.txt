@@ -9015,10 +9015,10 @@ complete/h/Higurashi no Naku Koro ni Kai/[WinD] Higurashi no Naku Koro ni Kai - 
 complete/h/Higurashi no Naku Koro ni Kai/[WinD] Higurashi no Naku Koro ni Kai - 22 [v2 DVD][B2255E80].mkv
 complete/h/Higurashi no Naku Koro ni Kai/[WinD] Higurashi no Naku Koro ni Kai - 23 [DVD][46118C5F].mkv
 complete/h/Higurashi no Naku Koro ni Kai/[WinD] Higurashi no Naku Koro ni Kai - 24 [End][DVD][94232396].mkv
-complete/h/Higurashi no Naku Koro ni Kira/[CMS] Higurashi no Naku Koro ni Kira - 1 [v2 720p BD][9BC362B8].mkv
-complete/h/Higurashi no Naku Koro ni Kira/[CMS] Higurashi no Naku Koro ni Kira - 2 [720p BD][45C1F259].mkv
-complete/h/Higurashi no Naku Koro ni Kira/[CMS] Higurashi no Naku Koro ni Kira - 3 [720p BD][8FEFD7EF].mkv
-complete/h/Higurashi no Naku Koro ni Kira/[CMS] Higurashi no Naku Koro ni Kira - 4 [End][720p BD][D74DAAD2].mkv
+complete/h/Higurashi no Naku Koro ni Kira/[CMS] Higurashi no Naku Koro ni Kira - 1 [720p BD][4C220448].mkv
+complete/h/Higurashi no Naku Koro ni Kira/[CMS] Higurashi no Naku Koro ni Kira - 2 [720p BD][28518FCD].mkv
+complete/h/Higurashi no Naku Koro ni Kira/[CMS] Higurashi no Naku Koro ni Kira - 3 [720p BD][71DA38CE].mkv
+complete/h/Higurashi no Naku Koro ni Kira/[CMS] Higurashi no Naku Koro ni Kira - 4 [End][720p BD][8DF15FEA].mkv
 complete/h/Higurashi no Naku Koro ni Rei/[WinD] Higurashi no Naku Koro ni Rei - 1 (1280x720) [BD][8E5CA65F].mkv
 complete/h/Higurashi no Naku Koro ni Rei/[WinD] Higurashi no Naku Koro ni Rei - 2 (1280x720) [BD][CC378E9B].mkv
 complete/h/Higurashi no Naku Koro ni Rei/[WinD] Higurashi no Naku Koro ni Rei - 3 (1280x720) [BD][D9CCC3FE].mkv
@@ -9544,6 +9544,7 @@ complete/h/Hyouka/[Commie] Hyouka - 19 [3A064B8F].mkv
 complete/h/Hyouka/[Commie] Hyouka - 20 [C49674B5].mkv
 complete/h/Hyouka/[Commie] Hyouka - 21 [D8E746A7].mkv
 complete/h/Hyouka/[Commie] Hyouka - 22 [End][F0218084].mkv
+complete/h/Hyouka/[Mazui] Hyouka - 11.5 [3C10E2F9].mkv
 complete/h/Hyper Police/[aod] Hyper Police - 01 [6C7C0B58].avi
 complete/h/Hyper Police/[aod] Hyper Police - 02 [D1AD2B20].avi
 complete/h/Hyper Police/[aod] Hyper Police - 03 [F763C0C7].avi
@@ -13214,7 +13215,7 @@ complete/l/Lovedol ~Lovely Idol~/[ReDone] Lovedol ~Lovely Idol~ - 03 [DVD][FADDF
 complete/l/Lovedol ~Lovely Idol~/[ReDone] Lovedol ~Lovely Idol~ - 04 [DVD][5788798A].mkv
 complete/l/Lovedol ~Lovely Idol~/[ReDone] Lovedol ~Lovely Idol~ - 05 [DVD][C735DC6B].mkv
 complete/l/Lovedol ~Lovely Idol~/[ReDone] Lovedol ~Lovely Idol~ - 06 [DVD][6FDEAF60].mkv
-complete/l/Lovedol ~Lovely Idol~/[WinD] Lovedol ~Lovely Idol~ - 07 [73CABF19].mkv
+complete/l/Lovedol ~Lovely Idol~/[ReDone] Lovedol ~Lovely Idol~ - 07 [DVD][536814EE].mkv
 complete/l/Lovedol ~Lovely Idol~/[WinD] Lovedol ~Lovely Idol~ - 08 [22706374].mkv
 complete/l/Lovedol ~Lovely Idol~/[WinD] Lovedol ~Lovely Idol~ - 09 [D9548693].mkv
 complete/l/Lovedol ~Lovely Idol~/[WinD] Lovedol ~Lovely Idol~ - 10 [0D06CD0D].mkv
@@ -16491,6 +16492,10 @@ complete/n/Nogizaka Haruka no Himitsu - Purezza/[HorribleSubs] Nogizaka Haruka n
 complete/n/Nogizaka Haruka no Himitsu - Purezza/[HorribleSubs] Nogizaka Haruka no Himitsu - Purezza - 09 (1280x720) [8DF18FD6].mkv
 complete/n/Nogizaka Haruka no Himitsu - Purezza/[HorribleSubs] Nogizaka Haruka no Himitsu - Purezza - 10 (1280x720) [E2AC326E].mkv
 complete/n/Nogizaka Haruka no Himitsu - Purezza/[HorribleSubs] Nogizaka Haruka no Himitsu - Purezza - 11 (1280x720) [A1B5CCC0].mkv
+complete/n/Nogizaka Haruka no Himitsu ~Finale~/[CMS] Nogizaka Haruka no Himitsu ~Finale~ - 1 [720p BD][2100E982].mkv
+complete/n/Nogizaka Haruka no Himitsu ~Finale~/[CMS] Nogizaka Haruka no Himitsu ~Finale~ - 2 [720p BD][EB3A2A97].mkv
+complete/n/Nogizaka Haruka no Himitsu ~Finale~/[CMS] Nogizaka Haruka no Himitsu ~Finale~ - 3 [720p BD][64E060DE].mkv
+complete/n/Nogizaka Haruka no Himitsu ~Finale~/[CMS] Nogizaka Haruka no Himitsu ~Finale~ - 4 [End][720p BD][193AE5D9].mkv
 complete/n/Nogizaka Haruka no Himitsu/[Coalgirls] Nogizaka Haruka no Himitsu - 01 (1280x720) [BD][708FAB81].mkv
 complete/n/Nogizaka Haruka no Himitsu/[Coalgirls] Nogizaka Haruka no Himitsu - 02 (1280x720) [BD][FBB99069].mkv
 complete/n/Nogizaka Haruka no Himitsu/[Coalgirls] Nogizaka Haruka no Himitsu - 03 (1280x720) [BD][2EDE14F6].mkv
@@ -16860,6 +16865,7 @@ complete/o/Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne/[Hiryuu] Onii-chan Dake
 complete/o/Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne/[Hiryuu] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 07 [720p][FFAE608E].mkv
 complete/o/Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne/[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 01 [720p][FC85E2A9].mkv
 complete/o/Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne/[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 02 [720p][C1731AD0].mkv
+complete/o/Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne/[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 03 [720p][CA1E496C].mkv
 complete/o/Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne/[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 04 [720p][07989C38].mkv
 complete/o/Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne/[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 05 [720p][7C56EBC0].mkv
 complete/o/Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne/[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 06 [720p][4DAC9FD6].mkv
@@ -21910,8 +21916,8 @@ complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 04 [1B4CC7F9].mkv
 complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 05 [DF48BDB5].mkv
 complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 06 [EFEC0BC2].mkv
 complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 07 [D2CBDEAC].mkv
-complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 08 [A1BA6718].mkv
-complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 09 [4A1540AA].mkv
+complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 08 [v2][620911BF].mkv
+complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 09 [v2][60A85459].mkv
 complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 10 [D0428276].mkv
 complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 11 [892B7181].mkv
 complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 12 [D5F181C7].mkv
@@ -24216,6 +24222,9 @@ complete/u/Utakoi/[WhyNot] Utakoi - 02 [B8981C8C].mkv
 complete/u/Utakoi/[WhyNot] Utakoi - 03 [324B1BBC].mkv
 complete/u/Utakoi/[WhyNot] Utakoi - 04 [8D37C0FC].mkv
 complete/u/Utakoi/[WhyNot] Utakoi - 05 [8B063D1E].mkv
+complete/u/Utakoi/[WhyNot] Utakoi - 06 [0DF55681].mkv
+complete/u/Utakoi/[WhyNot] Utakoi - 07 [5BEAF770].mkv
+complete/u/Utakoi/[WhyNot] Utakoi - 08 [222F09DD].mkv
 complete/u/Utawarerumono OVA/[Coalgirls] Utawarerumono OVA - 1 [720p BD][38206BEF].mkv
 complete/u/Utawarerumono OVA/[Coalgirls] Utawarerumono OVA - 2 [720p BD][9CB07E3A].mkv
 complete/u/Utawarerumono OVA/[Coalgirls] Utawarerumono OVA - 3 [End][720p BD][25B6A6BA].mkv
