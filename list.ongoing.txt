@@ -503,6 +503,7 @@ ongoing/Cuticle Detective Inaba/[HorribleSubs] Cuticle Detective Inaba - 01 [720
 ongoing/Cuticle Detective Inaba/[HorribleSubs] Cuticle Detective Inaba - 02 [720p][9C7DDD4A].mkv
 ongoing/Da Capo III/[ASF-Oyatsu] Da Capo III - 01 [720p][34BF4FDE].mkv
 ongoing/Da Capo III/[ASF-Oyatsu] Da Capo III - 02 [v2 720p][0FEBD9EF].mkv
+ongoing/Da Capo III/[ASF-Oyatsu] Da Capo III - 03 [v2 720p][F855AD81].mkv
 ongoing/Da Capo III/[ASF-Oyatsu] Da Capo III - Pre-Air Special [720p][A9808024].mkv
 ongoing/Da Capo III/[Commie] Da Capo III - 01 [29F95898].mkv
 ongoing/Da Capo III/[Commie] Da Capo III - 02 [0FCCC061].mkv
@@ -952,6 +953,9 @@ ongoing/Ginga e Kickoff!!/[Doremi-Oyatsu] Ginga e Kickoff!! - 27 [720p][0129E4D9
 ongoing/Ginga e Kickoff!!/[Doremi-Oyatsu] Ginga e Kickoff!! - 28 [720p][F0928AD8].mkv
 ongoing/Ginga e Kickoff!!/[Doremi-Oyatsu] Ginga e Kickoff!! - 29 [720p][9E973C73].mkv
 ongoing/Ginga e Kickoff!!/[Doremi-Oyatsu] Ginga e Kickoff!! - 30 [720p][35770916].mkv
+ongoing/Ginga e Kickoff!!/[Doremi-Oyatsu] Ginga e Kickoff!! - 31 [720p][6E592544].mkv
+ongoing/Ginga e Kickoff!!/[Doremi-Oyatsu] Ginga e Kickoff!! - 32 [720p][AA5D6983].mkv
+ongoing/Ginga e Kickoff!!/[Doremi-Oyatsu] Ginga e Kickoff!! - 33 [720p][45A8B8AE].mkv
 ongoing/Gintama S3/[HorribleSubs] Gintama S3 - 01 [720p][98E565E7].mkv
 ongoing/Gintama S3/[HorribleSubs] Gintama S3 - 02 [720p][8397A514].mkv
 ongoing/Gintama S3/[HorribleSubs] Gintama S3 - 03 [720p][4DF4DF79].mkv
@@ -1005,6 +1009,7 @@ ongoing/Gundam Unicorn/[Thora] Gundam Unicorn - 4 [720p BD][0ECE1F39].mkv
 ongoing/Gundam Unicorn/[Thora] Gundam Unicorn - 5 [720p BD][1CFE6D31].mkv
 ongoing/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 01 [720p][F4FC02B8].mkv
 ongoing/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 02 [720p][D4D378EA].mkv
+ongoing/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 03 [720p][BD2D8454].mkv
 ongoing/Hakuoki Reimeiroku/[HorribleSubs] Hakuoki Reimeiroku - 01 [720p][5936354E].mkv
 ongoing/Hakuoki Reimeiroku/[HorribleSubs] Hakuoki Reimeiroku - 02 [1080p][E43518D2].mkv
 ongoing/Hakuoki Reimeiroku/[HorribleSubs] Hakuoki Reimeiroku - 03 [720p][5E23612D].mkv
@@ -1272,6 +1277,7 @@ ongoing/Little Busters!/[UTW-Mazui] Little Busters! - 14 [720p][5F82E334].mkv
 ongoing/Little Busters!/[UTW-Mazui] Little Busters! - 15 [720p][864C20A3].mkv
 ongoing/Love Live!/[FFF] Love Live! - 01 [02F499E0].mkv
 ongoing/Love Live!/[FFF] Love Live! - 02 [1643F52C].mkv
+ongoing/Love Live!/[FFF] Love Live! - 03 [3C03E3EA].mkv
 ongoing/Lychee Light Club/[HorribleSubs] Lychee Light Club - 01 [720p][1792DE86].mkv
 ongoing/Lychee Light Club/[HorribleSubs] Lychee Light Club - 02 [720p][863ECEB9].mkv
 ongoing/Lychee Light Club/[HorribleSubs] Lychee Light Club - 03 [720p][E9758137].mkv
@@ -1305,6 +1311,7 @@ ongoing/Magi/[gg] Magi - 11 [F0BABC80].mkv
 ongoing/Magi/[gg] Magi - 12 [A8B936C2].mkv
 ongoing/Magi/[gg] Magi - 13 [DB38165F].mkv
 ongoing/Magi/[gg] Magi - 14 [BA3FF499].mkv
+ongoing/Magi/[gg] Magi - 15 [F56FCA98].mkv
 ongoing/Mangirl!/[Commie] Mangirl! - 01 [4389BA13].mkv
 ongoing/Mangirl!/[Commie] Mangirl! - 02 [F36273C0].mkv
 ongoing/Mangirl!/[Commie] Mangirl! - 03 [CDF2E70C].mkv
@@ -2356,6 +2363,7 @@ ongoing/Robotics;Notes/[Commie] Robotics;Notes - 09 [05254899].mkv
 ongoing/Robotics;Notes/[Commie] Robotics;Notes - 10 [576312B1].mkv
 ongoing/Robotics;Notes/[Commie] Robotics;Notes - 11 [1266575E].mkv
 ongoing/Robotics;Notes/[Commie] Robotics;Notes - 12 [04B0992D].mkv
+ongoing/Robotics;Notes/[Commie] Robotics;Notes - 13 [311E1A52].mkv
 ongoing/Robotics;Notes/[WhyNot] Robotics;Notes - 12 [D91E5502].mkv
 ongoing/Robotics;Notes/[WhyNot] Robotics;Notes - 13 [AAAAE60C].mkv
 ongoing/Saint Seiya Omega/[HorribleSubs] Saint Seiya Omega - 01 [720p][BA3F9192].mkv
@@ -2434,7 +2442,8 @@ ongoing/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - Drama CD/
 ongoing/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - Drama CD/07. Do You Love Me Enough to Dream About Me [FD5F4915].mkv
 ongoing/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - Drama CD/08. You Don't Want to Kiss Me [196989CF].mkv
 ongoing/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - Drama CD/09. Take Care of Me [8DDA45A6].mkv
-ongoing/Sasami@Ganbaranai/[Commie] Sasami@Ganbaranai - 01 [123A9F40].mkv
+ongoing/Sasami@Ganbaranai/[Commie] Sasami@Ganbaranai - 01 [v2][A11899AA].mkv
+ongoing/Sasami@Ganbaranai/[Commie] Sasami@Ganbaranai - 02 [9EC316D1].mkv
 ongoing/Sasami@Ganbaranai/[gg] Sasami@Ganbaranai- 01 [257674C1].mkv
 ongoing/Sasami@Ganbaranai/[gg] Sasami@Ganbaranai- 02 [EEF8C9E9].mkv
 ongoing/Seitokai Yakuindomo OVA/[Ayako-Himatsubushi] Seitokai Yakuindomo OVA - 01 [v2 DVD][EF82D238].mkv
@@ -2535,6 +2544,7 @@ ongoing/Smile Precure!/[Doremi] Smile Precure! - 43 [720p][827E076E].mkv
 ongoing/Smile Precure!/[Doremi] Smile Precure! - 44 [720p][C455865D].mkv
 ongoing/Smile Precure!/[Doremi] Smile Precure! - 45 [720p][B609D3E4].mkv
 ongoing/Smile Precure!/[Doremi] Smile Precure! - 46 [720p][E5AA2792].mkv
+ongoing/Smile Precure!/[Doremi] Smile Precure! - 47 [720p][D0CE4BC4].mkv
 ongoing/Space Brothers/[Commie] Space Brothers - 01 [v2][710D9F8C].mkv
 ongoing/Space Brothers/[Commie] Space Brothers - 02 [0755C430].mkv
 ongoing/Space Brothers/[Commie] Space Brothers - 03 [A5FC3964].mkv
@@ -2575,6 +2585,7 @@ ongoing/Space Brothers/[Commie] Space Brothers - 37 [6359BC35].mkv
 ongoing/Space Brothers/[Commie] Space Brothers - 38 [63D72E67].mkv
 ongoing/Space Brothers/[Commie] Space Brothers - 39 [50AC7F2E].mkv
 ongoing/Space Brothers/[Commie] Space Brothers - 40 [B77E6722].mkv
+ongoing/Space Brothers/[Commie] Space Brothers - 41 [56CF5B22].mkv
 ongoing/Tales of Symphonia OVA - The United World/[Formula] Tales of Symphonia OVA - The United World - 1 [AB66507E].mkv
 ongoing/Tales of Symphonia OVA - The United World/[Formula] Tales of Symphonia OVA - The United World - Special 1 [5C28A7D5].mkv
 ongoing/Tales of Symphonia OVA - The United World/[Formula] Tales of Symphonia OVA - The United World - Special 2 [0B401D14].mkv
@@ -2688,6 +2699,7 @@ ongoing/Toriko/[A-Destiny] Toriko - 86 [720p][C68C11AC].mkv
 ongoing/Toriko/[A-Destiny] Toriko - 87 [720p][11F4184D].mkv
 ongoing/Toriko/[A-Destiny] Toriko - 88 [720p][3CDA47F7].mkv
 ongoing/Toriko/[A-Destiny] Toriko - 89 [720p][33C6DD2F].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 90 [720p][42E23A2C].mkv
 ongoing/Uchurei/[GotWoot] Uchurei - 01 [FCEAE180].mkv
 ongoing/Uchurei/[GotWoot] Uchurei - 02 [E56D4B23].mkv
 ongoing/Uchurei/[GotWoot] Uchurei - 03 [E783DCCE].mkv
