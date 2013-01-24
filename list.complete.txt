@@ -10520,8 +10520,8 @@ complete/j/Jinrui wa Suitai Shimashita/[Commie] Jinrui wa Suitai Shimashita - 05
 complete/j/Jinrui wa Suitai Shimashita/[Commie] Jinrui wa Suitai Shimashita - 06 [720p BD][2A0AB849].mkv
 complete/j/Jinrui wa Suitai Shimashita/[Commie] Jinrui wa Suitai Shimashita - 07 [720p BD][55C9ABF8].mkv
 complete/j/Jinrui wa Suitai Shimashita/[Commie] Jinrui wa Suitai Shimashita - 08 [720p BD][B2D7E59B].mkv
-complete/j/Jinrui wa Suitai Shimashita/[Commie] Jinrui wa Suitai Shimashita - 09 [53EB287C].mkv
-complete/j/Jinrui wa Suitai Shimashita/[Commie] Jinrui wa Suitai Shimashita - 10 [FAC7F2D9].mkv
+complete/j/Jinrui wa Suitai Shimashita/[Commie] Jinrui wa Suitai Shimashita - 09 [720p BD][B98B2108].mkv
+complete/j/Jinrui wa Suitai Shimashita/[Commie] Jinrui wa Suitai Shimashita - 10 [720p BD][76B9B4FA].mkv
 complete/j/Jinrui wa Suitai Shimashita/[Commie] Jinrui wa Suitai Shimashita - 11 [0161F976].mkv
 complete/j/Jinrui wa Suitai Shimashita/[Commie] Jinrui wa Suitai Shimashita - 12 [End][F7D58343].mkv
 complete/j/Jinrui wa Suitai Shimashita/[Commie] Jinrui wa Suitai Shimashita - Ending (Clean) [720p BD][3EDD1C30].mkv
@@ -10530,9 +10530,7 @@ complete/j/Jinrui wa Suitai Shimashita/[Commie] Jinrui wa Suitai Shimashita - Sp
 complete/j/Jinrui wa Suitai Shimashita/[Commie] Jinrui wa Suitai Shimashita - Special 02 [720p BD][6BB4E22A].mkv
 complete/j/Jinrui wa Suitai Shimashita/[Commie] Jinrui wa Suitai Shimashita - Special 03 [720p BD][71C42E83].mkv
 complete/j/Jinrui wa Suitai Shimashita/[Commie] Jinrui wa Suitai Shimashita - Special 04 [720p BD][A7F086C2].mkv
-complete/j/Jinrui wa Suitai Shimashita/[Commie] Jinrui wa Suitai Shimashita - Special 05 [BD 720p AAC] [B7C073D8].mkv
-complete/j/Jormungand/[Asenshi] Jormungand Perfect Order - 24 [End][C51D004B].mkv
-complete/j/Jormungand/[HorribleSubs] Jormungand - 23 [720p][D20C3DC8].mkv
+complete/j/Jinrui wa Suitai Shimashita/[Commie] Jinrui wa Suitai Shimashita - Special 05 [720p BD][B7C073D8].mkv
 complete/j/Jormungand/[gg] Jormungand - 01 [382A285D].mkv
 complete/j/Jormungand/[gg] Jormungand - 02 [D48EDE54].mkv
 complete/j/Jormungand/[gg] Jormungand - 03 [v2][9AAE8987].mkv
@@ -10555,6 +10553,8 @@ complete/j/Jormungand/[gg] Jormungand - 19 [B61FFD8F].mkv
 complete/j/Jormungand/[gg] Jormungand - 20 [D7F99C9C].mkv
 complete/j/Jormungand/[gg] Jormungand - 21 [E396BA2D].mkv
 complete/j/Jormungand/[gg] Jormungand - 22 [9B30FB30].mkv
+complete/j/Jormungand/[gg] Jormungand - 23 [AC21DBD3].mkv
+complete/j/Jormungand/[gg] Jormungand - 24 [End][A73EC2D0].mkv
 complete/j/Joshiraku/[gg] Joshiraku - 01 [v2][5CBF8C48].mkv
 complete/j/Joshiraku/[gg] Joshiraku - 02 [v2][01AC8A77].mkv
 complete/j/Joshiraku/[gg] Joshiraku - 03 [v2][0D28A32C].mkv
@@ -13222,7 +13222,6 @@ complete/l/Lovedol ~Lovely Idol~/[WinD] Lovedol ~Lovely Idol~ - 09 [D9548693].mk
 complete/l/Lovedol ~Lovely Idol~/[WinD] Lovedol ~Lovely Idol~ - 10 [0D06CD0D].mkv
 complete/l/Lovedol ~Lovely Idol~/[WinD] Lovedol ~Lovely Idol~ - 11 [FC1F5151].mkv
 complete/l/Lovedol ~Lovely Idol~/[WinD] Lovedol ~Lovely Idol~ - 12 [End][F7A18CDB].mkv
-complete/l/Lovely Complex/[KissSub] Lovely Complex - 13 [4E63182A].avi
 complete/l/Lovely Complex/[KissSub] Lovely Complex - 14 [EF5DE95A].avi
 complete/l/Lovely Complex/[KissSub] Lovely Complex - 15 [7F3FEE74].avi
 complete/l/Lovely Complex/[KissSub] Lovely Complex - 16 [867EEEB2].avi
@@ -13246,6 +13245,7 @@ complete/l/Lovely Complex/[KiteSeekers-Kira] Lovely Complex - 09 [DVD][075EC755]
 complete/l/Lovely Complex/[KiteSeekers-Kira] Lovely Complex - 10 [DVD][B320F309].mkv
 complete/l/Lovely Complex/[KiteSeekers-Kira] Lovely Complex - 11 [DVD][414F2BB7].mkv
 complete/l/Lovely Complex/[KiteSeekers-Kira] Lovely Complex - 12 [v2 DVD][1E82F8C1].mkv
+complete/l/Lovely Complex/[KiteSeekers-Kira] Lovely Complex - 13 [DVD][D856BED7].mkv
 complete/l/Lucky Star OVA/[Elysium] Lucky Star OVA [720p BD][AC3FBE1E].mkv
 complete/l/Lucky Star/[Elysium] Lucky Star - 01 [720p BD][0BB96AD8].mkv
 complete/l/Lucky Star/[Elysium] Lucky Star - 02 [720p BD][B20FB349].mkv
@@ -16864,6 +16864,7 @@ complete/o/Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne/[Hiryuu] Onii-chan Dake
 complete/o/Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne/[Hiryuu] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 05 [720p][D6C12783].mkv
 complete/o/Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne/[Hiryuu] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 06 [720p][A4E692F7].mkv
 complete/o/Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne/[Hiryuu] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 07 [720p][FFAE608E].mkv
+complete/o/Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne/[Hiryuu] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 08 [720p][0C4DF89A].mkv
 complete/o/Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne/[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 01 [720p][FC85E2A9].mkv
 complete/o/Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne/[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 02 [720p][C1731AD0].mkv
 complete/o/Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne/[HorribleSubs] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 03 [720p][CA1E496C].mkv
