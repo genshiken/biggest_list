@@ -576,6 +576,7 @@ music/ASL/[ASL]_Kajiura_Yuki_-_Kara_no_Kyoukai_Satsujin_Kousatsu_Go_Original_Sou
 music/ASL/[ASL]_Kajiura_Yuki_-_Kara_no_Kyoukai_Satsujin_Kousatsu_Zen_Original_Soundtrack_[FLAC].rar
 music/ASL/[ASL]_Kajiura_Yuki_-_Kara_no_Kyoukai_Tsuukaku_Zanryuu_Original_Soundtrack_[FLAC].rar
 music/ASL/[ASL]_Kajiura_Yuki_-_Puella_Magi_Madoka_Magica_Original_Soundtrack_Vol_2_[FLAC].rar
+music/ASL/[ASL]_Kajiura_Yuki_-_Sword_Art_Online_Original_Soundtrack_vol_1_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Kajiura_Yuki_-_The_Works_for_Soundtrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Kajiura_Yuki_-_the_Garden_of_sinners_Gekijouban_Kara_no_Kyoukai_Ongakushuu_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Kalafina_-_After_Eden_[EXTRA].rar
@@ -1014,6 +1015,7 @@ music/ASL/[ASL]_Various_Artists_-_Busou_Shinki_OP_-_Install_x_Dream_[FLAC]_[w_Sc
 music/ASL/[ASL]_Various_Artists_-_CAMPANARIO_-_Shukufuku_no_Campanella_Original_Soundtrack_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_CARTAGRA_Original_Sound_Track_-_Manie_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_CAUCASUS_Original_Soundtrack_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_CAVE_NO_UTA_COMPILATION_IMAGE_SONG_ALBUM_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_CHAOS_GATE_Jingai_Makyou_Original_Soundtrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_CHAOS_HEAD_vocal_collection_[FLAC]_[w Scans].rar
 music/ASL/[ASL]_Various_Artists_-_CLANNAD_Original_Soundtrack_[FLAC]_[w_Scans].rar
@@ -1036,6 +1038,7 @@ music/ASL/[ASL]_Various_Artists_-_D.C.III_-Da_Capo_III-Theme_Music_CD_Special_Ed
 music/ASL/[ASL]_Various_Artists_-_D.C.III_Da_Capo_III_Original_Soundtrack_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_DC_III_OP_Vocal_CD_-_TRUE_MAGIC....._[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_DC_III_OP_Vocal_CD_-_shiny_steps_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_DOG_DAYS'_Original_Soundtrack_vol_1_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_DOG_DAYS_2_Limited_Edition_Bonus_CD_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_DOG_DAYS_4_Limited_Edtition_Bonus_CD_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_DRACU-RIOT_Original_Soundtrack_[FLAC]_[w_Scans].rar
@@ -1105,6 +1108,7 @@ music/ASL/[ASL]_Various_Artists_-_Guilty_Crown_SOUNDTRACK_ANOTHER_SIDE_03_[FLAC]
 music/ASL/[ASL]_Various_Artists_-_Guilty_Crown_SoundTrack_Another_Side_01_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Guilty_Crown_THEME_SONGS_COLLECTION_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Gwave_2010_2nd_Grace_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_HIGH_SCHOOL_DxD_-_Character_Song_GxS_Girls_Song_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_HOUKAGO_TEA_TIME_in_MOVIE_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Haiyore_Nyaruko-san_OP_-_Taiyou_Iwaku_Moeyo_Chaos_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Hanafubuki_Kachou_Fuugetsu_Sound_Track_-_Inochi_Mijikashi_Koi_Seyo_Otome_[FLAC]_[w_Scans].rar
@@ -5902,6 +5906,7 @@ music/Shin-S/[Shin-S] Little Busters! OP & ED Single - Little Busters! ~TV anima
 music/Shin-S/[Shin-S] Love Live! OP Single - Bokura wa Ima no Naka de (FLAC) [μ's].zip
 music/Shin-S/[Shin-S] Love Live! μ's Best Album - Best Live! collection (FLAC) [μ's].zip
 music/Shin-S/[Shin-S] Magi Character Song 01 - Aladdin, Alibaba & Morgiana [Various].zip
+music/Shin-S/[Shin-S] Magi ED Single - Seifuku no Mannequin (FLAC) [Nogizaka46].zip
 music/Shin-S/[Shin-S] Magi OP Single - V.I.P (Anime Edition) [SID].zip
 music/Shin-S/[Shin-S] Magi OP Single - V.I.P [SID].zip
 music/Shin-S/[Shin-S] Mahou Shoujo Lyrical Nanoha The Movie 2nd A's ED Single - Hohoemi no Plumage [Tamura Yukari].zip
@@ -6054,6 +6059,7 @@ music/Shin-S/[Shin-S] Sword Art Online ED2 Single - Overfly (Limited Edition) (F
 music/Shin-S/[Shin-S] Sword Art Online OP Single - crossing field (Regular Edition) [LiSA].zip
 music/Shin-S/[Shin-S] Sword Art Online OP Single - crossing field [LiSA].zip
 music/Shin-S/[Shin-S] Sword Art Online OP2 Single - INNOCENCE (FLAC) [Aoi Eir].zip
+music/Shin-S/[Shin-S] Sword Art Online Original Soundtrack 1 (FLAC) [Kajiura Yuki].zip
 music/Shin-S/[Shin-S] TARI TARI Character Song Mini Album - Sora Ban ~Miagetari, Habataitari~ [Various].zip
 music/Shin-S/[Shin-S] TARI TARI Character Song Mini Album - Umi Ban ~Moguttari, Tayuttari~ [Various].zip
 music/Shin-S/[Shin-S] TARI TARI ED Single - Shiokaze no Harmony [Shirahamazaka Koukou Gasshou-Bu].zip
@@ -6065,6 +6071,8 @@ music/Shin-S/[Shin-S] THE iDOLM@STER ANIM@TION MASTER Namassuka SPECIAL 04 [Vari
 music/Shin-S/[Shin-S] THE iDOLM@STER CINDERELLA MASTER 003 - Mimura Kanako [Ootsubo Yuka].zip
 music/Shin-S/[Shin-S] THE iDOLM@STER ED Single - The world is all one!! [765PRO ALLSTARS].zip
 music/Shin-S/[Shin-S] THE iDOLM@STER OP2 Single - CHANGE!!!! [765PRO ALLSTARS].zip
+music/Shin-S/[Shin-S] Tamako Market ED Single - Neguse (FLAC) [Suzaki Aya].zip
+music/Shin-S/[Shin-S] Tamako Market OP Single - Dramatic Market Ride (FLAC) [Suzaki Aya].zip
 music/Shin-S/[Shin-S] Tamayura ~hitotose~ ED & Insert Song Single - Kami-sama no Itazura [Nakajima Megumi].zip
 music/Shin-S/[Shin-S] Tantei Opera Milky Holmes 2 ED Single - Lovely Girls Anthem [Asou Natsuko].zip
 music/Shin-S/[Shin-S] Tantei Opera Milky Holmes 2 OP Single - Nazo! Nazo Happiness!! [Milky Holmes].zip
