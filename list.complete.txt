@@ -13222,7 +13222,6 @@ complete/l/Lovedol ~Lovely Idol~/[WinD] Lovedol ~Lovely Idol~ - 09 [D9548693].mk
 complete/l/Lovedol ~Lovely Idol~/[WinD] Lovedol ~Lovely Idol~ - 10 [0D06CD0D].mkv
 complete/l/Lovedol ~Lovely Idol~/[WinD] Lovedol ~Lovely Idol~ - 11 [FC1F5151].mkv
 complete/l/Lovedol ~Lovely Idol~/[WinD] Lovedol ~Lovely Idol~ - 12 [End][F7A18CDB].mkv
-complete/l/Lovely Complex/[KissSub] Lovely Complex - 14 [EF5DE95A].avi
 complete/l/Lovely Complex/[KissSub] Lovely Complex - 15 [7F3FEE74].avi
 complete/l/Lovely Complex/[KissSub] Lovely Complex - 16 [867EEEB2].avi
 complete/l/Lovely Complex/[KissSub] Lovely Complex - 17 [F5758740].avi
@@ -13246,6 +13245,7 @@ complete/l/Lovely Complex/[KiteSeekers-Kira] Lovely Complex - 10 [DVD][B320F309]
 complete/l/Lovely Complex/[KiteSeekers-Kira] Lovely Complex - 11 [DVD][414F2BB7].mkv
 complete/l/Lovely Complex/[KiteSeekers-Kira] Lovely Complex - 12 [v2 DVD][1E82F8C1].mkv
 complete/l/Lovely Complex/[KiteSeekers-Kira] Lovely Complex - 13 [DVD][D856BED7].mkv
+complete/l/Lovely Complex/[KiteSeekers-Kira] Lovely Complex - 14 [DVD][D0307FB2].mkv
 complete/l/Lucky Star OVA/[Elysium] Lucky Star OVA [720p BD][AC3FBE1E].mkv
 complete/l/Lucky Star/[Elysium] Lucky Star - 01 [720p BD][0BB96AD8].mkv
 complete/l/Lucky Star/[Elysium] Lucky Star - 02 [720p BD][B20FB349].mkv
@@ -21123,6 +21123,54 @@ complete/s/Slayers Revolution/[RaX] Slayers Revolution - 10 [D89C2164].mkv
 complete/s/Slayers Revolution/[RaX] Slayers Revolution - 11 [473C287C].mkv
 complete/s/Slayers Revolution/[RaX] Slayers Revolution - 12 [C411C037].mkv
 complete/s/Slayers Revolution/[RaX] Slayers Revolution - 13 [End][C9D8E810].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 01 [720p][4951C078].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 02 [720p][DD5F360A].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 03 [720p][A74ED11A].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 04 [720p][D68312B2].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 05 [720p][A685CB81].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 06 [720p][6DEAEB6A].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 07 [720p][C5D58E25].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 08 [720p][353919DA].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 09 [720p][456A2D81].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 10 [720p][9E760498].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 11 [720p][9829495C].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 12 [720p][7E88F591].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 13 [720p][CAF893F9].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 14 [720p][62CA2462].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 15 [720p][47149D9B].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 16 [720p][07F3E56D].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 17 [720p][14FC3BFB].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 18 [720p][84431ADB].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 19 [720p][02A34D22].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 20 [720p][EDB79D2C].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 21 [720p][1CF99205].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 22 [720p][F7D2960C].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 23 [v2 720p][CBC44F22].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 24 [720p][BB4392D7].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 25 [720p][1893A367].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 26 [720p][25EE95BD].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 27 [720p][0D4B441E].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 28 [720p][8C24B071].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 29 [720p][4D3FB103].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 30 [720p][FCBD4957].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 31 [720p][C9618BCB].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 32 [720p][D5EF4AC1].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 33 [720p][2DAC7566].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 34 [720p][3CF32675].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 35 [720p][D0F2B3E0].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 36 [720p][DF7B7C7E].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 37 [720p][16BB771D].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 38 [720p][89A5A7BD].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 39 [720p][859A7795].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 40 [720p][DCD1572A].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 41 [720p][98C11BF6].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 42 [720p][A83A9BC9].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 43 [720p][827E076E].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 44 [720p][C455865D].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 45 [720p][B609D3E4].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 46 [720p][E5AA2792].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 47 [720p][D0CE4BC4].mkv
+complete/s/Smile Precure!/[Doremi] Smile Precure! - 48 [End][720p][389E97FD].mkv
 complete/s/Softenni/[Ayako-Nishishi] Softenni - 01 [720p][A13C299A].mkv
 complete/s/Softenni/[Ayako-Nishishi] Softenni - 02 [720p][A48E8D59].mkv
 complete/s/Softenni/[Ayako-Nishishi] Softenni - 03 [720p][4FEC2634].mkv
@@ -23471,6 +23519,7 @@ complete/t/Touch/[CA] Touch - 098 [FBC496B3].avi
 complete/t/Touch/[CA] Touch - 099 [652A63FD].avi
 complete/t/Touch/[CA] Touch - 100 [236E2F22].avi
 complete/t/Touch/[CA] Touch - 101 [End][690195BD].avi
+complete/t/Touhou - Little Reimu/[Mazui] Touhou - Little Reimu [22810AC6].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 01 [v2][DVD][BA458FD5].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 02 [DVD][DCBD6DE5].mkv
 complete/t/Touka Gettan/[ReDone] Touka Gettan - 03 [DVD][491ACAE1].mkv
