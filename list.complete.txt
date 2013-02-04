@@ -15500,8 +15500,8 @@ complete/m/Moyashimon Returns/[Commie] Moyashimon Returns - 04 [720p BD][BCD500D
 complete/m/Moyashimon Returns/[Commie] Moyashimon Returns - 05 [720p BD][C551F8DC].mkv
 complete/m/Moyashimon Returns/[Commie] Moyashimon Returns - 06 [720p BD][BCF1EA99].mkv
 complete/m/Moyashimon Returns/[Commie] Moyashimon Returns - 07 [720p BD][98CB1908].mkv
-complete/m/Moyashimon Returns/[Commie] Moyashimon Returns - 08 [89FE8329].mkv
-complete/m/Moyashimon Returns/[Commie] Moyashimon Returns - 09 [42B040C4].mkv
+complete/m/Moyashimon Returns/[Commie] Moyashimon Returns - 08 [720p BD][18ECFCA0].mkv
+complete/m/Moyashimon Returns/[Commie] Moyashimon Returns - 09 [720p BD][45FF43C0].mkv
 complete/m/Moyashimon Returns/[Commie] Moyashimon Returns - 10 [5EFCBE2C].mkv
 complete/m/Moyashimon Returns/[Commie] Moyashimon Returns - 11 [End][59AABFC6].mkv
 complete/m/Moyashimon Returns/[Commie] Moyashimon Returns - Ending 1 (Clean) [720p BD][B52758D1].mkv
@@ -15511,6 +15511,8 @@ complete/m/Moyashimon Returns/[Commie] Moyashimon Returns - Ending 4 (Clean) [72
 complete/m/Moyashimon Returns/[Commie] Moyashimon Returns - Ending 5 (Clean) [720p BD][88EA86CC].mkv
 complete/m/Moyashimon Returns/[Commie] Moyashimon Returns - Ending 6 (Clean) [720p BD][92B6066B].mkv
 complete/m/Moyashimon Returns/[Commie] Moyashimon Returns - Ending 7 (Clean) [720p BD][3CEA911E].mkv
+complete/m/Moyashimon Returns/[Commie] Moyashimon Returns - Ending 8 (Clean) [720p BD][56064EB3].mkv
+complete/m/Moyashimon Returns/[Commie] Moyashimon Returns - Ending 9 (Clean) [720p BD][F1954DFB].mkv
 complete/m/Moyashimon Returns/[Commie] Moyashimon Returns - Opening (Clean) [720p BD][01D33C83].mkv
 complete/m/Moyashimon/[BSS] Moyashimon - 01 [BD][7ECF7F4C].mkv
 complete/m/Moyashimon/[BSS] Moyashimon - 02 [BD][8B59B6C0].mkv
