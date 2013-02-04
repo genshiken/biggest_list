@@ -716,6 +716,8 @@ music/ASL/[ASL]_Nakagawa_Koutarou_-_Inu_x_Boku_SS_Soundtrack_Vol_1_[FLAC].rar
 music/ASL/[ASL]_Nakagawa_Shoko_-_Beelzebub_ED_2_-_Tsuyogari_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Nakajima_Megumi_-_Be_With_You_[EXTRA].rar
 music/ASL/[ASL]_Nakajima_Megumi_-_Be_With_You_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Nakajima_Megumi_-_Kotoura-san_OP_-_Sonna_Kotoura_no_Mata_Urabanashi_Desho_[EXTRA].rar
+music/ASL/[ASL]_Nakajima_Megumi_-_Kotoura-san_OP_-_Sonna_Kotoura_no_Mata_Urabanashi_Desho_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Nakajima_Megumi_-_Moshidora_-_If_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Nakajima_Megumi_-_Rinne_no_Lagrange_OP_-_TRY_UNITE_Hello_[EXTRA].rar
 music/ASL/[ASL]_Nakajima_Megumi_-_Rinne_no_Lagrange_OP_-_TRY_UNITE_Hello_[FLAC]_[w_Scans].rar
@@ -920,6 +922,7 @@ music/ASL/[ASL]_Uesugi_Hiroshi_-_Papa_no_Iukoto_wo_Kikinasai!_Original_Soundtrac
 music/ASL/[ASL]_Uesugi_Hiroshi_-_Papa_no_Iukoto_wo_Kikinasai_Original_Soundtrack_vol_2_[FLAC].rar
 music/ASL/[ASL]_Usui_Yoshiyuki_-_Fireball_Charming_Chikuwabu_Box_Tokuten_Soundtrack_CD_[FLAC].rar
 music/ASL/[ASL]_VALSHE_-_jester_[FLAC].rar
+music/ASL/[ASL]_Various _Artists_-_Daitoshokan_no_Hitsujikai_ED_-_Ashita_e_no_Shiori_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Arists_-_Infinite_Stratos_ORIGINAL_SOUNDTRACK_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artist_-_Irotoridori_no_Sekai_Original_Soundtrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artist_-_Shining_Blade_Character_Song_Album_[FLAC]_[w_Scans].rar
@@ -1321,6 +1324,7 @@ music/ASL/[ASL]_Various_Artists_-_RADIANT_HISTORIA_Original_Soundtrack_[FLAC]_[w
 music/ASL/[ASL]_Various_Artists_-_RO-KYU-BU_Interval_1_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_RO-KYU-BU_pure_elements_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Ra-ra-ra_Suite_Precure_~UNLIMITED_ver.~_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Ragnarok_Online_Complete_Soundtrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Ramune_Original_Soundtrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Re-birth_colony_-Lost_azurite-_ORIGINAL_SOUNDTRACK_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Real_Imouto_ga_Iru_Ooizumi-kun_Baai_-_Complete_Soundtrack_[FLAC]_[w_Scans].rar
@@ -1610,6 +1614,7 @@ music/ASL/[ASL]_supercell_feat.Hatsune_Miku_-_Hajimete_no_Koi_ga_Owaru_Toki_[FLA
 music/ASL/[ASL]_supercell_feat.Hatsune_Miku_-_supercell_tribute_-Stowaways-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_tohko_-_Aete_Mushisuru_Kimi_to_no_Mirai_Relay_broadcast_original_mini_soundtrack_[FLAC].rar
 music/ASL/[ASL]_tsundeRECords_-_PUDDLE_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_yanaginagi_-_AMNESIA_OP_-_Zoetrope_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_yozuca_-_Dakara_Boku_wa_H_ga_Dekinai_ED_-_Platinum_17_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_yuiko_-_Gratitude_Kaguya_x_yuiko_Vocal_Collection_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_yuiko_-_Vivid_Watercolors_[FLAC]_[w_Scans].rar
@@ -3850,6 +3855,7 @@ music/Nipponsei/[Nipponsei] Amagami SS+ Character Songs & Soundtrack Vol.01.zip
 music/Nipponsei/[Nipponsei] Amagami SS+ Character Songs & Soundtrack Vol.02.zip
 music/Nipponsei/[Nipponsei] Amagami SS+ ED Single - Kokuhaku [azusa].zip
 music/Nipponsei/[Nipponsei] Amagami SS+ OP Single - Check my soul [azusa].zip
+music/Nipponsei/[Nipponsei] Amnesia OP Single - Zoetrope [Yanagi Nagi].zip
 music/Nipponsei/[Nipponsei] Angel Beats - Last Song [Girls Dead Monster].zip
 music/Nipponsei/[Nipponsei] Angel Heart ED1 Single - Dare ka ga Kimi wo Omotteru [Skoop on Somebody].zip
 music/Nipponsei/[Nipponsei] Angel Heart ED2 Single - Daydream Tripper [U WAVE].zip
@@ -4457,6 +4463,7 @@ music/Nipponsei/[Nipponsei] Jinrui wa Suitai Shimashita ED Single - Yume no Naka
 music/Nipponsei/[Nipponsei] Jinrui wa Suitai Shimashita OP Single - Real World [nano.RIPE].zip
 music/Nipponsei/[Nipponsei] Jinrui wa Suitai Shimashita Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Jojo no Kimyou na Bouken OP Single - Jojo ~Sono Chi no Sadame~ [Tominaga TOMMY Hiroaki].zip
+music/Nipponsei/[Nipponsei] Jojo no Kimyou na Bouken OP2 Single - BLOODY STREAM [Coda].zip
 music/Nipponsei/[Nipponsei] Jormungand ED Single - Ambivalentidea [Yanagi Nagi].zip
 music/Nipponsei/[Nipponsei] Jormungand Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Jormungand perfect order ED Single - Laterality [Yanagi Nagi].zip
@@ -4691,6 +4698,8 @@ music/Nipponsei/[Nipponsei] Mamoru-kun ni Megami no Shukufuku wo! OP Single - MA
 music/Nipponsei/[Nipponsei] Mamotte! Lollipop OP Single - Poppin' Heart wa Hitotsu Dake [Clover].zip
 music/Nipponsei/[Nipponsei] Manyuu Hikenchou OP ED Single - Unmei [AiRI].zip
 music/Nipponsei/[Nipponsei] Manyuu Hikenchou Original Soundtrack.zip
+music/Nipponsei/[Nipponsei] Maoyuu Maou Yuusha ED Single - Unknown Vision [Arai Akino].zip
+music/Nipponsei/[Nipponsei] Maoyuu Maou Yuusha OP Single - Mukaikaze [YOHKO].zip
 music/Nipponsei/[Nipponsei] Maria Holic Alive OP ED Single - Runrunriru Ranranrara [Various].zip
 music/Nipponsei/[Nipponsei] Maria-sama ga Miteru OVA ED Single - Chercher [KOTOKO].zip
 music/Nipponsei/[Nipponsei] Mashiroiro Symphony Character Song Vol.1 - Sena Airi & Uryuu Sakuno.zip
@@ -4731,6 +4740,8 @@ music/Nipponsei/[Nipponsei] Mitsudomoe OP Single - Mittsu Kazoete Daishuugou! [V
 music/Nipponsei/[Nipponsei] Mitsudomoe Zouryouchuu! ED Single - Randoseling [Nomico].zip
 music/Nipponsei/[Nipponsei] Mitsudomoe Zouryouchuu! OP Single - Waga Na wa Shougakusei [Various].zip
 music/Nipponsei/[Nipponsei] Moetan Original Soundtrack Character Mini Album.zip
+music/Nipponsei/[Nipponsei] Mondaiji Tachi ga Isekai Kara Kuru sou desu yo ED Single - To Be Continued [Sadohara Kaori].zip
+music/Nipponsei/[Nipponsei] Mondaiji Tachi ga Isekai Kara Kuru sou desu yo OP Single - Black White [Nomizu Iori].zip
 music/Nipponsei/[Nipponsei] Mononoke Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Moonlight Mile Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Moshidora ED Single - Daisuki da yo [momo].zip
@@ -5570,6 +5581,7 @@ music/Nipponsei/[Nipponsei] Zero no Tsukaima OP Single - First Kiss [ICHIKO].zip
 music/Nipponsei/[Nipponsei] Zero no Tsukaima Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Zetsuen no Tempest ED Single - happy endings [Hanazawa Kana].zip
 music/Nipponsei/[Nipponsei] Zettai Karen Children OVA OP Single - Seventh Heaven [Various].zip
+music/Nipponsei/[Nipponsei] Zettai Karen Children THE UNLIMITED OP Single - LAST RESOLUTION [Emblem of THE UNLIMITED].zip
 music/Nipponsei/[Nipponsei] Zettai Shounen ED Single - Shounen Humming [Itou Masumi].zip
 music/Nipponsei/[Nipponsei] Zettai Shounen OP Single - Hikari no Silhouette [CooRie].zip
 music/Nipponsei/[Nipponsei] Zettai Shounen Original Soundtrack.zip
@@ -5749,6 +5761,7 @@ music/Shin-S/[Shin-S] Ano Natsu de Matteru OP Single - sign [Ray].zip
 music/Shin-S/[Shin-S] Another Character Song Album - Songs party [Various].zip
 music/Shin-S/[Shin-S] Another ED Single - anamnesis [Annabel].zip
 music/Shin-S/[Shin-S] Another OP Single - Kyoumu Densen [ALI PROJECT].zip
+music/Shin-S/[Shin-S] Aoi Eir - BLAU (FLAC).zip
 music/Shin-S/[Shin-S] Aquarion EVOL OP & ED Single - Kimi no Shinwa ~Aquarion Dai Ni Shou~ [AKINO with bless4].zip
 music/Shin-S/[Shin-S] Arcana Famiglia OP Single - Magenta Another Sky (FLAC) [Harada Hitomi].zip
 music/Shin-S/[Shin-S] Astarotte no Omocha! ED Single - Manatsu no Photograph [azusa].zip
@@ -5769,6 +5782,8 @@ music/Shin-S/[Shin-S] Ben-To OP Single - LIVE for LIFE ~Ookami-tachi no Yoru~ [A
 music/Shin-S/[Shin-S] Boku wa Tomodachi ga Sukunai Add-on Disc OVA ED Single - Kimi wa Tomodachi (FLAC) [Various].zip
 music/Shin-S/[Shin-S] Boku wa Tomodachi ga Sukunai ED Single - Watashi no Ki-mo-chi [Inoue Marina & Itou Kanae].zip
 music/Shin-S/[Shin-S] Boku wa Tomodachi ga Sukunai Hasegawa Kobato Character Song CD - Kobato no Utattemita! [Hanazawa Kana].zip
+music/Shin-S/[Shin-S] Boku wa Tomodachi ga Sukunai NEXT ED Single - Bokura no Tsubasa [Rinjin-Bu].zip
+music/Shin-S/[Shin-S] Boku wa Tomodachi ga Sukunai NEXT OP Single - Be My Friend [Rinjin-Bu].zip
 music/Shin-S/[Shin-S] Boku wa Tomodachi ga Sukunai TV OP & OVA ED Single - Zannenkei Rinjin-Bu (Hoshi Futatsu Han) [Various].zip
 music/Shin-S/[Shin-S] Boku wa Tomodachi ga Sukunai Vol.1 Bonus CD [Various].zip
 music/Shin-S/[Shin-S] Busou Shinki Character Song Album - Scenes from BUSOUSHINKI [Various].zip
@@ -5870,6 +5885,7 @@ music/Shin-S/[Shin-S] Jinrui wa Suitai Shimashita ED Single - Yume no Naka no Wa
 music/Shin-S/[Shin-S] Jinrui wa Suitai Shimashita OP Single - Real World (FLAC) [nano.RIPE].zip
 music/Shin-S/[Shin-S] Jinrui wa Suitai Shitamashita OP Single - Real World [nano.RIPE].zip
 music/Shin-S/[Shin-S] JoJo no Kimyou na Bouken OP Single - JoJo ~Sono Chi no Sadame~ [Tominaga TOMMY Hiroaki].zip
+music/Shin-S/[Shin-S] JoJo no Kimyou na Bouken OP2 Single - BLOODY STREAM (FLAC) [Coda].zip
 music/Shin-S/[Shin-S] Jormungand ED Single - Ambivalentidea [Yanagi Nagi].zip
 music/Shin-S/[Shin-S] Jormungand OP Single - Borderland [Kawada Mami].zip
 music/Shin-S/[Shin-S] Jormungand PERFECT ORDER ED Single - Laterality [Yanagi Nagi].zip
@@ -5928,6 +5944,7 @@ music/Shin-S/[Shin-S] Kyoukai Senjou no Horizon II OP Single - ZONE ALONE [Chiha
 music/Shin-S/[Shin-S] Kyoukai Senjou no Horizon OP Single - TERMINATED [Chihara Minori].zip
 music/Shin-S/[Shin-S] Kyoukai Senjou no Horizon The Repertory 02 - Aoi Kimi [Saitou Chiwa].zip
 music/Shin-S/[Shin-S] Little Busters! OP & ED Single - Little Busters! ~TV animation ver.~ (FLAC) [Rita].zip
+music/Shin-S/[Shin-S] Love Live! ED Single - Kitto Seishun ga Kikoeru (FLAC) [μ's].zip
 music/Shin-S/[Shin-S] Love Live! OP Single - Bokura wa Ima no Naka de (FLAC) [μ's].zip
 music/Shin-S/[Shin-S] Love Live! μ's Best Album - Best Live! collection (FLAC) [μ's].zip
 music/Shin-S/[Shin-S] Magi Character Song 01 - Aladdin, Alibaba & Morgiana [Various].zip
@@ -6142,6 +6159,7 @@ music/Shin-S/[Shin-S] Yuru Yuri 2 Music 06 - Ikeda Chitose [Toyosaki Aki].zip
 music/Shin-S/[Shin-S] Yuru Yuri 2 Music 07 - Ohmuro Sakurako [Katou Emiri].zip
 music/Shin-S/[Shin-S] Yuru Yuri 2 Music 08 - Furutani Himawari [Mimori Suzuko].zip
 music/Shin-S/[Shin-S] Yuru Yuri 2 OP Single - Yes! Yuyuyu Yuru Yuri (FLAC) [Various].zip
+music/Shin-S/[Shin-S] Yuru Yuri no Uta Album 2 - Hai! Te-U-Ga ~High Tension Ultra Girls~ [Various].zip
 music/Shin-S/[Shin-S] Zero no Tsukaima F ED Single - Kiss Shite Agenai [Kugimiya Rie].zip
 music/Shin-S/[Shin-S] Zetsuen no Tempest ED Single - happy endings [Hanazawa Kana].zip
 music/Shin-S/[Shin-S] Zetsuen no Tempest OP Single - Spirit Inspiration [Nothing's Carved In Stone].zip
