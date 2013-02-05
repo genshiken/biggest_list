@@ -12034,6 +12034,7 @@ complete/k/Koi to Senkyo to Chocolate/[Pomf] Koi to Senkyo to Chocolate - 09 [01
 complete/k/Koi to Senkyo to Chocolate/[Pomf] Koi to Senkyo to Chocolate - 10 [E9DCE670].mkv
 complete/k/Koi to Senkyo to Chocolate/[Pomf] Koi to Senkyo to Chocolate - 11 [5AF97CAC].mkv
 complete/k/Koi to Senkyo to Chocolate/[Pomf] Koi to Senkyo to Chocolate - 12 [End][E02EDCE1].mkv
+complete/k/Koi-ken! Watashitachi Anime ni Nacchatta!/[CMS] Koi-ken! Watashitachi Anime ni Nacchatta! [720p][BEB4BB04].mkv
 complete/k/Koihime Musou OVA/[DmonHiro] Koihime Musou OVA [720p BD][7E63696F].mkv
 complete/k/Koihime Musou OVA/[ReDone] Koihime Musou OVA [DVD][FB61BD44].mkv
 complete/k/Koihime Musou OVA/[eXalpha-Anime & Monti] Koihime Musou OVA [DVD][8362FF07].mkv
@@ -16848,6 +16849,10 @@ complete/o/Onegai Twins/[A-E & A-Keep] Onegai Twins - 09 [887FEFCB].avi
 complete/o/Onegai Twins/[A-E & A-Keep] Onegai Twins - 10 [F4611333].avi
 complete/o/Onegai Twins/[A-E & A-Keep] Onegai Twins - 11 [13C1A1F7].avi
 complete/o/Onegai Twins/[A-E & A-Keep] Onegai Twins - 12 [End][CCBC6BF2].avi
+complete/o/Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne/[DmonHiro] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 01 [720p BD][707017FF].mkv
+complete/o/Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne/[DmonHiro] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 02 [720p BD][F16D482C].mkv
+complete/o/Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne/[DmonHiro] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - Opening (Clean) [720p BD][6CC55C16].mkv
+complete/o/Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne/[DmonHiro] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - Special 1 [720p BD][D56C4D94].mkv
 complete/o/Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne/[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 01 [720p][B66EEF09].mkv
 complete/o/Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne/[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 02 [720p][32B160CA].mkv
 complete/o/Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne/[Doki] Onii-chan Dakedo Ai Sae Areba Kankeinai yo ne - 03 [720p][7C020F20].mkv
@@ -24164,6 +24169,7 @@ complete/u/Umi Monogatari/[Wasurenai] Umi Monogatari ~Anata ga Ite Kureta Koto~ 
 complete/u/Umi Monogatari/[Wasurenai] Umi Monogatari ~Anata ga Ite Kureta Koto~ - 04 [DVD][150D7FFE].mkv
 complete/u/Umi Monogatari/[Wasurenai] Umi Monogatari ~Anata ga Ite Kureta Koto~ - 05 [DVD][19E6172E].mkv
 complete/u/Umi Monogatari/[Wasurenai] Umi Monogatari ~Anata ga Ite Kureta Koto~ - 06 [DVD][CA4DF607].mkv
+complete/u/Umi Monogatari/[Wasurenai] Umi Monogatari ~Anata ga Ite Kureta Koto~ - 07 [DVD][FDDF3776].mkv
 complete/u/Umi Monogatari/[chibi-Formula] Umi Monogatari - 01 (1280x720) [F94245C7].mkv
 complete/u/Umi Monogatari/[chibi-Formula] Umi Monogatari - 02 (1280x720) [DE0D21A3].mkv
 complete/u/Umi Monogatari/[chibi-Formula] Umi Monogatari - 03 (1280x720) [73F43EF5].mkv
@@ -25487,6 +25493,7 @@ complete/y/Yumeiro Patissiere Professional/[HorribleSubs] Yumeiro Patissiere Pro
 complete/y/Yumeiro Patissiere Professional/[HorribleSubs] Yumeiro Patissiere Professional - 11 [720p][E7DED19F].mkv
 complete/y/Yumeiro Patissiere Professional/[HorribleSubs] Yumeiro Patissiere Professional - 12 [720p][22B6E835].mkv
 complete/y/Yumeiro Patissiere Professional/[HorribleSubs] Yumeiro Patissiere Professional - 13 [End][720p][FA84A66C].mkv
+complete/y/Yumeiro Patissiere Professional/[Wasurenai] Yumeiro Patissiere SP Professional - 02 [6DCF9F6F].mkv
 complete/y/Yumeiro Patissiere/[Wasurenai] Yumeiro Patissiere - 01 [1AEC9035].mkv
 complete/y/Yumeiro Patissiere/[Wasurenai] Yumeiro Patissiere - 02 [v2][F044429F].mkv
 complete/y/Yumeiro Patissiere/[Wasurenai] Yumeiro Patissiere - 03 [2D5ED438].mkv

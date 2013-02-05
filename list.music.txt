@@ -622,6 +622,7 @@ music/ASL/[ASL]_Kitamura_Eri_-_Mayo_Chiki_OP_-_Be_Starters_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Kitamura_Eri_-_Nisemonogatari_OP2_-_Marshmallow_Justice_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Kitamura_Eri_-_Papa_no_Iu_Koto_wo_Kikinasai_OP_-_Happy_Girl_[FLAC].rar
 music/ASL/[ASL]_Kitamura_Eri_-_REALIZE_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Kitamura_Eri_-_Suiheisen_Made_Nan_Mile_-ORIGINAL_FLIGHT-_PSP_Theme_Song_-_Miracle_Gliders_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Kitamura_Eri_-_WORKING_Character_Song_MENU_4_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Kitsune_no_Kousakushitsu_-_NaTsuOTo_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Kiyoura_Natsumi_-_Phi_Brain_-Kami_no_Puzzle-_ED_Theme_-_Hologram_[FLAC]_[w_Scans].rar
@@ -3724,6 +3725,7 @@ music/Misc Distro/[ADHOC] Kikou Shoujo ha Kizutsukanai Drama CD Side A.zip
 music/Misc Distro/[ADHOC] Kikou Shoujo ha Kizutsukanai Drama CD Side B.zip
 music/Misc Distro/[BPX] Rinne no Lagrange OST.zip
 music/Misc Distro/[BSS] Darker Than Black - Gemini of the Meteor - Original Soundtrack [FLAC].zip
+music/Misc Distro/[CMSSide] Koi-ken! Watashitachi Anime ni Nacchatta! - Music Box [MP3][12F08192].zip
 music/Misc Distro/[Commie] Ano Natsu de Matteru - Original Soundtrack 1 [FLAC].zip
 music/Misc Distro/[Commie] Ano Natsu de Matteru - Original Soundtrack 2 [FLAC].zip
 music/Misc Distro/[Commie] Arata-naru Sekai - World's／Start／Load／End - Future - Original Soundtrack [FLAC].zip
@@ -6021,6 +6023,7 @@ music/Shin-S/[Shin-S] Ore no Imouto ga Konna ni Kawaii Wake ga Nai Complete Coll
 music/Shin-S/[Shin-S] Ore no Imouto ga Konna ni Kawaii Wake ga Nai ED Single 4 - Masquerade! [Hanazawa Kana & Nabatame Hitomi].zip
 music/Shin-S/[Shin-S] Ore no Imouto ga Konna ni Kawaii Wake ga Nai ED Single 5 - Suki Nandamon! [Taketatsu Ayana & Tamura Yukari].zip
 music/Shin-S/[Shin-S] Ore no Imouto ga Konna ni Kawaii Wake ga Nai Light Novel Vol.9 Theme Song Single - nexus [ClariS].zip
+music/Shin-S/[Shin-S] Ore no Kanojo to Osananajimi ga Shuraba Sugiru ED Single - W-Wonder tale (FLAC) [Tamura Yukari].zip
 music/Shin-S/[Shin-S] Ore-tachi ni Tsubasa wa Nai OP & ED Single - Spread Wings. [Misato Aki].zip
 music/Shin-S/[Shin-S] Otome wa Boku ni Koishiteru ~Futari no Elder~ OVA OP Single - Parade! [Asou Natsuko].zip
 music/Shin-S/[Shin-S] Otome-Break! Mobile Game Theme Song Single - Mitsukenakucha! Otome Gokoro!! (FLAC) [Various].zip
