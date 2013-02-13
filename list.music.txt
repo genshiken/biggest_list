@@ -5765,6 +5765,7 @@ music/Shin-S/[Shin-S] A Channel ED & Insert Song Single - Humming Girl [Various]
 music/Shin-S/[Shin-S] A Channel Insert Song Single 2 - Mermaid Sisters [Kotobuki Minako & Uchiyama Yumi].zip
 music/Shin-S/[Shin-S] A Channel OP Single - Morning Arch [Kawano Marina].zip
 music/Shin-S/[Shin-S] AKB0048 OP & ED Single - Kibou ni Tsuite [NO NAME].zip
+music/Shin-S/[Shin-S] AMNESIA ED Single - Recall (FLAC) [Ray].zip
 music/Shin-S/[Shin-S] Accel World ED2 Single - Unity [Misawa Sachika].zip
 music/Shin-S/[Shin-S] Accel World OP Single - Chase the world [May'n].zip
 music/Shin-S/[Shin-S] Accel World OP2 Single - Burst The Gravity (FLAC) [ALTIMA].zip
@@ -6114,6 +6115,7 @@ music/Shin-S/[Shin-S] Shinsekai Yori Original Soundtrack 1 [Komori Shigeo & Tane
 music/Shin-S/[Shin-S] Shirokuma Cafe ED Single - Bamboo Scramble [Fukuyama Jun].zip
 music/Shin-S/[Shin-S] Softenni ED Single - Tsumasaki Dachi [Itou Kanae].zip
 music/Shin-S/[Shin-S] Softenni OP Single - Rulebook wo Wasurechae [ULTRA-PRISM with Hakuouchuu Soft Tennis Club].zip
+music/Shin-S/[Shin-S] Star Driver THE MOVIE Theme Song Single - colorful (FLAC) [9nine].zip
 music/Shin-S/[Shin-S] Steins;Gate ED Single - Toki Tsukasadoru Juuni no Meiyaku [Sakakibara Yui].zip
 music/Shin-S/[Shin-S] Steins;Gate Vol.9 Bonus CD - Rabomen Spirits [Miyano Mamoru & Seki Tomokazu].zip
 music/Shin-S/[Shin-S] Strike Witches Movie Hime Uta Collection 1 - Sanya V. Litvyak, Eila Ilmatar Juutilainen & Heidemarie W. Schnaufer (FLAC) [Various].zip
@@ -6189,8 +6191,11 @@ music/Shin-S/[Shin-S] Yuru Yuri 2 Music 08 - Furutani Himawari [Mimori Suzuko].z
 music/Shin-S/[Shin-S] Yuru Yuri 2 OP Single - Yes! Yuyuyu Yuru Yuri (FLAC) [Various].zip
 music/Shin-S/[Shin-S] Yuru Yuri no Uta Album 2 - Hai! Te-U-Ga ~High Tension Ultra Girls~ [Various].zip
 music/Shin-S/[Shin-S] Zero no Tsukaima F ED Single - Kiss Shite Agenai [Kugimiya Rie].zip
+music/Shin-S/[Shin-S] Zetsuen no Tempest Character Song 1 - Takigawa Yoshino & Fuwa Mahiro (FLAC) [Uchiyama Kouki & Toyonaga Toshiyuki].zip
 music/Shin-S/[Shin-S] Zetsuen no Tempest ED Single - happy endings [Hanazawa Kana].zip
+music/Shin-S/[Shin-S] Zetsuen no Tempest ED2 Single - Bokutachi no Uta [Sakou Tomohisa].zip
 music/Shin-S/[Shin-S] Zetsuen no Tempest OP Single - Spirit Inspiration [Nothing's Carved In Stone].zip
+music/Shin-S/[Shin-S] Zetsuen no Tempest OP2 Single - Daisuki Nano ni (FLAC) [Kylee].zip
 music/Shin-S/[Shin-S] true tears 3rd Anniversary Song - Prism Sign [eufonius].zip
 music/Shukufuku no Campanella ED Single — Mirai Kaikisen [Hashimoto Miyuki] [flac+scans]/01 Mirai Kaikisen.flac
 music/Shukufuku no Campanella ED Single — Mirai Kaikisen [Hashimoto Miyuki] [flac+scans]/02 Sunao na Mama de.flac

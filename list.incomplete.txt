@@ -195,6 +195,7 @@ incomplete/Captain Harlock SSX (TV)/[Live-eviL] Captain Harlock SSX (TV) - 14 [C
 incomplete/Captain Harlock SSX (TV)/[Live-eviL] Captain Harlock SSX (TV) - 15 [4181FC23].mkv
 incomplete/Captain Harlock SSX (TV)/[Live-eviL] Captain Harlock SSX (TV) - 16 [571C6B21].mkv
 incomplete/Captain Harlock SSX (TV)/[Live-eviL] Captain Harlock SSX (TV) - 17 [7E096210].mkv
+incomplete/Captain Harlock SSX (TV)/[Live-eviL] Captain Harlock SSX (TV) - 18 [B90AE93E].mkv
 incomplete/Captain Harlock/[Live-eviL] Captain Harlock - 24 [0C66A50A].mkv
 incomplete/Captain Harlock/[Live-eviL] Captain Harlock - 25 [8CD9A7C0].mkv
 incomplete/Captain Harlock/[Live-eviL] Captain Harlock - 26 [30A9FC82].mkv
@@ -854,6 +855,7 @@ incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 18 [4C06816C].mkv
 incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 19 [581C7A77].mkv
 incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 20 [D17FF871].mkv
 incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 21 [E0DF656E].mkv
+incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 22 [8C3E9D67].mkv
 incomplete/Hyouge Mono/[Huzzah] Hyouge Mono - 01 [7EE66910].mkv
 incomplete/Hyouge Mono/[Huzzah] Hyouge Mono - 02 [92ABA684].mkv
 incomplete/Hyouge Mono/[Huzzah] Hyouge Mono - 03 [6A09E57E].mkv
@@ -1111,6 +1113,7 @@ incomplete/Kurenai OVA/[gleam] Kurenai OVA - 02 [C385E167].mkv
 incomplete/Kuroshitsuji II OVA/[Commie] Kuroshitsuji II - Making of OVA [DVD][C26F2C04].mkv
 incomplete/Kuroshitsuji II OVA/[Commie] Kuroshitsuji II OVA - 1 [DVD][8D6E7304].mkv
 incomplete/Kuroshitsuji II OVA/[Commie] Kuroshitsuji II OVA - 2 [DVD][C1287294].mkv
+incomplete/Kyou Kara Ore Wa!!/[Saizen-Yabai] Kyou Kara Ore Wa!! - 01 [DVD][F0AE3113].mkv
 incomplete/Kyou no Asuka Show/[m.3.3.w] Kyou no Asuka Show - 01-05 [v2][A199E830].mkv
 incomplete/Les Miserables/[Formula] Les Miserables - 01 [720p][7074DC3A].mkv
 incomplete/Les Miserables/[Formula] Les Miserables - 02 [720p][69E8B30F].mkv
@@ -1759,6 +1762,7 @@ incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 08 [69EF2B35].mkv
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 09 [C37FE63E].mkv
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 10 [189FCA07].mkv
 incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 11 [28E7C533].mkv
+incomplete/Queen Millennia/[Live-eviL] Queen Millennia (TV) - 12 [8081DAC7].mkv
 incomplete/Reform Without Wasted Draws - The Legend of Koizumi/[gg] Reform Without Wasted Draws - The Legend of Koizumi - 01 [Webcast][61B04813].mkv
 incomplete/Robin with his 100 Friends/[DATS] Robin with his 100 Friends - 04 [B465F131].mkv
 incomplete/Robin with his 100 Friends/[DATS] Robin with his 100 Friends - 05 [8E242AB3].mkv
@@ -2056,6 +2060,7 @@ incomplete/The Alps Story - My Annette/[Licca] The Alps Story - My Annette - 26 
 incomplete/The Alps Story - My Annette/[Licca] The Alps Story - My Annette - 27 [FA1D716E].mkv
 incomplete/The Alps Story - My Annette/[Licca] The Alps Story - My Annette - 28 [6BBEA9C3].mkv
 incomplete/The Alps Story - My Annette/[Licca] The Alps Story - My Annette - 29 [1D4F3492].mkv
+incomplete/The Alps Story - My Annette/[Licca] The Alps Story - My Annette - 30 [634B21F3].mkv
 incomplete/The Legend of Koizumi/[Monokage] The Legend of Koizumi - 01 [CAE5A5FE].mkv
 incomplete/The Legend of Koizumi/[Triad] The Legend of Koizumi - 01 [18EE398A].mkv
 incomplete/The Melancholy of Haruhi-chan/[Shamisen] Nyoron Churuya-san - 01 [73A3CBFD].mkv
@@ -2350,6 +2355,7 @@ incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 30 [72
 incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 31 [720p][C65D4B1F].mkv
 incomplete/Yes! Pretty Cure 5/[PCSS] Yes! Pretty Cure 5 - 21 [DVD][5D1AE662].mkv
 incomplete/Yes! Pretty Cure 5/[PCSS] Yes! Pretty Cure 5 - 22 [DVD][2F80A6AD].mkv
+incomplete/Yes! Pretty Cure 5/[PCSS] Yes! Pretty Cure 5 - 23 [DVD][CA2E363E].mkv
 incomplete/Yes! Pretty Cure 5/[PCSS] Yes! Pretty Cure 5 - 25 [DVD][55DD7883].mkv
 incomplete/Yes! Pretty Cure 5/[PCSS] Yes! Pretty Cure 5 - 26 [DVD][1931724A].mkv
 incomplete/Yes! Pretty Cure 5/[PCSS] Yes! Pretty Cure 5 - 27 [v2 DVD][ECD79E5B].mkv
