@@ -453,6 +453,7 @@ music/ASL/[ASL]_Electromuster_-_The_Personalizer_[FLAC].rar
 music/ASL/[ASL]_Elements_Garden_-_Mouretsu_Uchuu_Pirates_Original_Soundtrack_Vol_1_-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Elements_Garden_-_Taiyou_no_Promia_Complete_Soundtrack_CD_~Music_for_Milsant~_[FLAC].rar
 music/ASL/[ASL]_Elina_Olegovna_Obeh_(CV_Suzuki_Erio)_-_DRACU-RIOT_Character_Song_Vol_4_-_NO_LIMIT_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Erina_-_Vividred_Operation_OP_Single_-_ENERGY_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Eustia_Astraea_(CV._Nanjou_Yoshino)_-_Aiyoku_no_Eustia_Original_Character_Song_Series_-_EUSTIA_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_FLOW_-_Eureka_Seven_AO_OP_-_BravBlue_[FLAC].rar
 music/ASL/[ASL]_Faylan_-_Hagure_Yuusha_no_Estetica_OP_-_Realization_[FLAC]_[w_Scans].rar
@@ -647,6 +648,7 @@ music/ASL/[ASL]_Kouda_Kumi_-_Muv-Luv_Alternative_Total_Eclipse_OP_-_Go_to_the_To
 music/ASL/[ASL]_Kugimiya_Rie_-_Zero_no_Tsukaima_F_ED_-_Kiss_Shite_Agenai_[FLAC].rar
 music/ASL/[ASL]_Kuribayashi_Minami_-_Medaka_Box_OP_-_HAPPY_CRAZY_BOX_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Kuribayashi_Minami_-_Mobile_Suit_Gundam_Age _Ed_Theme_-_Kimi_no_Naka_no_Eiyuu_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Kuribayashi_Minami_-_Muv-Luv_Alternative_Total_Eclipse_OP_2_-_Doubt_the_World_[FLAC].rar
 music/ASL/[ASL]_Kuribayashi_Minami_10th_Anniversary_Best_Album_-_stories_[FLAC].rar
 music/ASL/[ASL]_Kurokami_Medaka_-_Medaka_Box_ED_-_Ohanabatake_ni_Tsuretette_[FLAC].rar
 music/ASL/[ASL]_Kuroki_Meisa_-_Ao_no_Exorcist_ED_-_Wired_Life_[FLAC].rar
@@ -771,6 +773,8 @@ music/ASL/[ASL]_RO-KYU-BU_-_Ro-Kyu-Bu_OP_ED_Theme_-_SHOOT_[EXTRA].rar
 music/ASL/[ASL]_RO-KYU-BU_-_Ro-Kyu-Bu_OP_ED_Theme_-_SHOOT_[FLAC].rar
 music/ASL/[ASL]_ROOKiEZ_is_PUNK_D_-_Ao_no_exorcist_OP_-_IN_MY_WORLD_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_ROUND_TABLE_feat_Nino_-_SINGLES_BEST_2002-2012_MEMORIES_[FLAC].rar
+music/ASL/[ASL]_Ray_-_AMNESIA_ED_-_Recall_[EXTRA].rar
+music/ASL/[ASL]_Ray_-_AMNESIA_ED_-_Recall_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Ray_-_Ano_Natsu_de_Matteru_OP_-_Sign_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Ray_-_To_Love-Ru_Darkness_OP_-_RAKUEN_PROJECT_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Reiche_-_Solas_[FLAC].rar
@@ -1545,6 +1549,8 @@ music/ASL/[ASL]_Yukizakurasou_-_planetarian_~Chiisana_Hoshi_no_Uta~_[FLAC]_[w_Sc
 music/ASL/[ASL]_Yuuki_Aira_-_Kyoukaisen-jou_no_Horizon_II_ED_Side_SunSet_-_Kanashimi_wa_Dare_no_Negai_demo_nai_[FLAC].rar
 music/ASL/[ASL]_Yuzuki_Tina_-_Dousei_LoverAble_Theme_Song_-_Egaiteta_Yume_[FLAC].rar
 music/ASL/[ASL]_ZAQ_-_Chuunibyou_demo_Koi_ga_Shitai_OP_&_ED_-_Sparkling_Daydream_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_ZAQ_-_Sasami-san_Ganbaranai_OP_-_Alteration_[EXTRA].rar
+music/ASL/[ASL]_ZAQ_-_Sasami-san_Ganbaranai_OP_-_Alteration_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Zephyr_Cradle_TAM_-_Zephyr_Violin_Duo_[FLAC].rar
 music/ASL/[ASL]_Zwei_-_Memories_Off_Yubikiri_no_Kioku_PSP_OP_Theme_-_Kaze_no_Uta_[FLAC].rar
 music/ASL/[ASL]_Zwei_-_ROBOTICS_NOTES_OP_Theme_-_Kakuchou_Place_[FLAC].rar
