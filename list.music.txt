@@ -625,6 +625,7 @@ music/ASL/[ASL]_Kitamura_Eri_-_Mayo_Chiki_OP_-_Be_Starters_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Kitamura_Eri_-_Nisemonogatari_OP2_-_Marshmallow_Justice_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Kitamura_Eri_-_Papa_no_Iu_Koto_wo_Kikinasai_OP_-_Happy_Girl_[FLAC].rar
 music/ASL/[ASL]_Kitamura_Eri_-_REALIZE_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Kitamura_Eri_-_RE_STORY_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Kitamura_Eri_-_Suiheisen_Made_Nan_Mile_-ORIGINAL_FLIGHT-_PSP_Theme_Song_-_Miracle_Gliders_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Kitamura_Eri_-_WORKING_Character_Song_MENU_4_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Kitsune_no_Kousakushitsu_-_NaTsuOTo_[FLAC]_[w_Scans].rar
@@ -1074,6 +1075,7 @@ music/ASL/[ASL]_Various_Artists_-_Denpa_Onna_to_Seishun_Otoko_Original_Soundtrac
 music/ASL/[ASL]_Various_Artists_-_Dies_irae_~Acta_est_Fabula~_Original_Soundtrack_-_Neuen_Welt_Symphonie_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_EXIT_TRANCE_PRESENTS_SPEED_ANIME_TRANCE_BEST_13_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_EXIT_TRANCE_PRESENTS_SPEED_ANIME_TRANCE_BEST_14_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_EXIT_TRANCE_PRESENTS_SPEED_ANIME_TRANCE_BEST_16_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_EXIT_TUNES_PRESENTS_GUMism_from_Megpoid_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_EXIT_TUNES_PRESENTS_GUMitive_from_megpoid_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_EXIT_TUNES_PRESENTS_Supernova_8_[FLAC]_[w_Scans].rar
