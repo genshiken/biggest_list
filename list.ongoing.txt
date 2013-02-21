@@ -48,6 +48,7 @@ ongoing/Amnesia/[Commie] Amnesia - 03 [021D0791].mkv
 ongoing/Amnesia/[Commie] Amnesia - 04 [58BF9E01].mkv
 ongoing/Amnesia/[Commie] Amnesia - 05 [1505A37B].mkv
 ongoing/Amnesia/[Commie] Amnesia - 06 [F79FAA80].mkv
+ongoing/Amnesia/[Commie] Amnesia - 07 [30DBE685].mkv
 ongoing/Aoi Sekai no Chuushin de/[HorribleSubs] Aoi Sekai no Chuushin de - 01 [720p][C65B7769].mkv
 ongoing/Aoi Sekai no Chuushin de/[HorribleSubs] Aoi Sekai no Chuushin de - 02 [720p][0C7B320A].mkv
 ongoing/Asa Made Jugyou Chu!/[FFF] Asa Made Jugyou Chu! - 01 [1080p BD][5AEDFD79].mkv
@@ -379,6 +380,7 @@ ongoing/Boku wa Tomodachi ga Sukunai NEXT/[Commie] Boku wa Tomodachi ga Sukunai 
 ongoing/Boku wa Tomodachi ga Sukunai NEXT/[Commie] Boku wa Tomodachi ga Sukunai NEXT - 03 [84E0857A].mkv
 ongoing/Boku wa Tomodachi ga Sukunai NEXT/[Commie] Boku wa Tomodachi ga Sukunai NEXT - 04 [4BA15954].mkv
 ongoing/Boku wa Tomodachi ga Sukunai NEXT/[Commie] Boku wa Tomodachi ga Sukunai NEXT - 05 [B393794E].mkv
+ongoing/Boku wa Tomodachi ga Sukunai NEXT/[Commie] Boku wa Tomodachi ga Sukunai NEXT - 06 [DD05334C].mkv
 ongoing/Boku wa Tomodachi ga Sukunai NEXT/[Mazui] Boku wa Tomodachi ga Sukunai NEXT - 01 [7F653193].mkv
 ongoing/Boku wa Tomodachi ga Sukunai NEXT/[Mazui] Boku wa Tomodachi ga Sukunai NEXT - 02 [AA292D99].mkv
 ongoing/Boku wa Tomodachi ga Sukunai NEXT/[Mazui] Boku wa Tomodachi ga Sukunai NEXT - 03 [9EF5A349].mkv
@@ -833,6 +835,7 @@ ongoing/Dokidoki! Precure/[Commie] Dokidoki! Precure - 02 [D3D815D2].mkv
 ongoing/Dokidoki! Precure/[Commie] Dokidoki! Precure - 03 [7AEEB86D].mkv
 ongoing/Dokidoki! Precure/[Doremi] DokiDoki! Precure - 01 [720p][7AA2B24C].mkv
 ongoing/Dokidoki! Precure/[Doremi] DokiDoki! Precure - 02 [720p][325FE5F8].mkv
+ongoing/Dokidoki! Precure/[Doremi] DokiDoki! Precure - 03 [720p][1F4B89D4].mkv
 ongoing/Ebiten/[HorribleSubs] Ebiten - 01 [720p][65988314].mkv
 ongoing/Ebiten/[HorribleSubs] Ebiten - 02 [720p][682C7A3A].mkv
 ongoing/Ebiten/[HorribleSubs] Ebiten - 03 [720p][3A2A584F].mkv
@@ -2496,6 +2499,8 @@ ongoing/Pretty Rhythm - Aurora Dream/[KiteSeekers-Wasurenai] Pretty Rhythm - Aur
 ongoing/Pretty Rhythm - Aurora Dream/[KiteSeekers-Wasurenai] Pretty Rhythm - Aurora Dream - 36 [576p][BD274DFB].mkv
 ongoing/Pretty Rhythm - Aurora Dream/[KiteSeekers-Wasurenai] Pretty Rhythm - Aurora Dream - 37 [576p][3CD5F96B].mkv
 ongoing/Pretty Rhythm - Aurora Dream/[KiteSeekers-Wasurenai] Pretty Rhythm - Aurora Dream - 38 [576p][8AD33A85].mkv
+ongoing/Pretty Rhythm - Aurora Dream/[KiteSeekers-Wasurenai] Pretty Rhythm - Aurora Dream - 39 [576p][E69DAF96].mkv
+ongoing/Pretty Rhythm - Aurora Dream/[KiteSeekers-Wasurenai] Pretty Rhythm - Aurora Dream - 40 [576p][58000EC1].mkv
 ongoing/Pretty Rhythm - Aurora Dream/[KiteSeekers-Wasurenai] Pretty Rhythm - Aurora Dream - Special 01 [C0FA7491].mkv
 ongoing/Pretty Rhythm - Aurora Dream/[KiteSeekers-Wasurenai] Pretty Rhythm - Aurora Dream - Special 02 [780A1B35].mkv
 ongoing/Pretty Rhythm - Aurora Dream/[KiteSeekers-Wasurenai] Pretty Rhythm - Aurora Dream - Special 03 [13A43709].mkv
@@ -2560,6 +2565,7 @@ ongoing/Puchimas!/[Chibiki] Puchimas! - 32 [360p][58199514].mkv
 ongoing/Puchimas!/[Chibiki] Puchimas! - 33 [360p][A3BB6D56].mkv
 ongoing/Puchimas!/[Chibiki] Puchimas! - 34 [360p][7E1F6C4B].mkv
 ongoing/Puchimas!/[Chibiki] Puchimas! - 35 [360p][9157E21D].mkv
+ongoing/Puchimas!/[Chibiki] Puchimas! - 37 [360p][8D9408C9].mkv
 ongoing/Queen's Blade Rebellion OVA/[Hiryuu] Queen's Blade Rebellion OVA - 1 [C0A55D06].mkv
 ongoing/Queen's Blade Rebellion OVA/[Hiryuu] Queen's Blade Rebellion OVA - Special 1 [E06D1ECF].mkv
 ongoing/Queen's Blade Rebellion OVA/[SFW] Queen's Blade Rebellion OVA - 2 [End][46EF7E6B].mkv
@@ -2733,6 +2739,7 @@ ongoing/Senyuu/[Commie] Senyuu - 03 [76B6544B].mkv
 ongoing/Senyuu/[Commie] Senyuu - 04 [48664BB3].mkv
 ongoing/Senyuu/[Commie] Senyuu - 05 [BDCF0B53].mkv
 ongoing/Senyuu/[Commie] Senyuu - 06 [622FBFFD].mkv
+ongoing/Senyuu/[Commie] Senyuu - 07 [4B8414A9].mkv
 ongoing/Shinryaku!! Ika Musume OVA/[FFF] Shinryaku!! Ika Musume OVA - 01 [DVD][71A0BE68].mkv
 ongoing/Shinsekai Yori - From the New World/[Commie] Shinsekai Yori - From the New World - 01 [4987D895].mkv
 ongoing/Shinsekai Yori - From the New World/[Commie] Shinsekai Yori - From the New World - 02 [170E72A1].mkv
@@ -2932,6 +2939,7 @@ ongoing/Toriko/[A-Destiny] Toriko - 90 [720p][42E23A2C].mkv
 ongoing/Toriko/[A-Destiny] Toriko - 91 [720p][2D8B3980].mkv
 ongoing/Toriko/[A-Destiny] Toriko - 92 [720p][E6296123].mkv
 ongoing/Toriko/[A-Destiny] Toriko - 93 [720p][031DDB1D].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 94 [720p][B9FD4489].mkv
 ongoing/Vividred Operation/[Commie] Vividred Operation - 01 [EEB956D7].mkv
 ongoing/Vividred Operation/[Commie] Vividred Operation - 02 [459C73B2].mkv
 ongoing/Vividred Operation/[Commie] Vividred Operation - 03 [D3429195].mkv
