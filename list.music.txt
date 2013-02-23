@@ -1218,6 +1218,7 @@ music/ASL/[ASL]_Various_Artists_-_Kud_Wafter_Original_SoundTrack_[FLAC]_[w_Scans
 music/ASL/[ASL]_Various_Artists_-_Kyoukai_Senjou_no_Horizon_Special_CD_1_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Kyoukai_Senjou_no_Horizon_Special_CD_2_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Kyoukaisen-Jou_no_Horizon_Bonus_CD_7_[FLAC].rar
+music/ASL/[ASL]_Various_Artists_-_Kyoukaisen-Jou_no_Horizon_ORIGINAL_SOUND_TRACK_2_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Kyoukaisen-Jou_no_Horizon_Special_ CD_5_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Kyoukaisen-Jou_no_Horizon_Special_CD_3_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_LAST_EXILE_-Fam_The_Silver_Wing-_OST_[FLAC]_[w_Scans].rar
@@ -1614,7 +1615,9 @@ music/ASL/[ASL]_nao_-_Hyperdimension_Neptunia_OP_-_Ryuusei_no_Bifrost_[FLAC].rar
 music/ASL/[ASL]_nao_-_Kamijigen_Game_Neptune_V_OP_-_Kamijigen_Fortune_Material_[FLAC].rar
 music/ASL/[ASL]_nao_-_One_Side_Summer_Maxi_Single_[FLAC].rar
 music/ASL/[ASL]_nao_-_Zecchou_Spiral!!_Theme_Song_Single_-_Zekkouchou_Spiral!!_GT_[FLAC].rar
+music/ASL/[ASL]_nao_-_first_Re_Place_[FLAC].rar
 music/ASL/[ASL]_nao_-_prismatic_infinity_carat._[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_nao_-_second_Re_Phase_[FLAC].rar
 music/ASL/[ASL]_primenotes_-_Real_Fantasy_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_rita_-_Little_Busters__OP_ED_-_Alicemagic__TV_animation_ver__[FLAC].rar
 music/ASL/[ASL]_school_food_punishment_-_C_-_RPG_[FLAC].rar
@@ -3746,6 +3749,7 @@ music/Misc Distro/ZARD - Golden Best -15th Anniversary-.zip
 music/Misc Distro/[#fishball]Winter Garden Sound Complete (320k).zip
 music/Misc Distro/[ADHOC] Kikou Shoujo ha Kizutsukanai Drama CD Side A.zip
 music/Misc Distro/[ADHOC] Kikou Shoujo ha Kizutsukanai Drama CD Side B.zip
+music/Misc Distro/[Audio-4U] (C82) 電奏楽団 (天門) — CHRONICLE [DENG-0006] (flac+scans).zip
 music/Misc Distro/[BPX] Rinne no Lagrange OST.zip
 music/Misc Distro/[BSS] Darker Than Black - Gemini of the Meteor - Original Soundtrack [FLAC].zip
 music/Misc Distro/[CMSSide] Koi-ken! Watashitachi Anime ni Nacchatta! - Music Box [MP3][12F08192].zip
@@ -4157,6 +4161,7 @@ music/Nipponsei/[Nipponsei] D.Gray-man ED1 Single - SNOW KISS [NIRGILIS].zip
 music/Nipponsei/[Nipponsei] D.Gray-man ED5 Single - Anata ga Koko ni iru Riyuu [Rie fu].zip
 music/Nipponsei/[Nipponsei] D.Gray-man OP1 Single - INNOCENT SORROW [abingdon boys school].zip
 music/Nipponsei/[Nipponsei] D.Gray-man OP3 Single - Doubt Trust [access].zip
+music/Nipponsei/[Nipponsei] Da Capo III ED Album - Aitai yo [Various].zip
 music/Nipponsei/[Nipponsei] Da Capo III OP Single - Sakura Happy Innovation [Various].zip
 music/Nipponsei/[Nipponsei] Dakara Boku wa, H ga Dekinai. ED Single - Platinum 17 [yozuca].zip
 music/Nipponsei/[Nipponsei] Dakara Boku wa, H ga Dekinai. OP Single - Reason why XXX [Sasaki Sayaka].zip
@@ -4278,6 +4283,7 @@ music/Nipponsei/[Nipponsei] Fushigi Hoshi no Futago Hime ED Single - Oshare Fant
 music/Nipponsei/[Nipponsei] GIRLS und PANZER ED Single - Enter Enter MISSION! [Various].zip
 music/Nipponsei/[Nipponsei] GIRLS und PANZER OP Single - Dream Riser [ChouCho].zip
 music/Nipponsei/[Nipponsei] GIRLS und Panzer Original Soundtrack.zip
+music/Nipponsei/[Nipponsei] GJ-bu OP Single - Mousou Koukan Nikki [Otome Shintou].zip
 music/Nipponsei/[Nipponsei] Gakuen Alice OP ED Single - Pikapika no Taiyo [Ueda Kana   Kugimiya Rie] [E1FCC52E] 320k CBR.zip
 music/Nipponsei/[Nipponsei] Gakuen Utopia Manabi Straight Character Mini Album Vol.1 - Amamiya Manami [Horie Yui].zip
 music/Nipponsei/[Nipponsei] Gakuen Utopia Manabi Straight Character Mini Album Vol.2 - Inamori Mika [Nonaka Ai].zip
@@ -5163,6 +5169,7 @@ music/Nipponsei/[Nipponsei] Senki Zesshou Symphogear ED Single - Meteor Light [T
 music/Nipponsei/[Nipponsei] Senki Zesshou Symphogear OP Single - Synchrograzer [Mizuki Nana].zip
 music/Nipponsei/[Nipponsei] Senki Zesshou Symphogear Original Soundtrack 1.zip
 music/Nipponsei/[Nipponsei] Senkou no Night Raid Original Soundtrack.zip
+music/Nipponsei/[Nipponsei] Senran Kagura ED1 ED2 Single - Fighting Dreamer [Various].zip
 music/Nipponsei/[Nipponsei] Sensei no Ojikan - Furare Kibun de Rock n Roll [DROPS].zip
 music/Nipponsei/[Nipponsei] Sensei no Ojikan - Oshieteageru [can-goo].zip
 music/Nipponsei/[Nipponsei] Sensei no Ojikan Original Soundtrack [C04F8A31].zip
@@ -5423,6 +5430,7 @@ music/Nipponsei/[Nipponsei] To Aru Kagaku no Railgun Archives 3.zip
 music/Nipponsei/[Nipponsei] To Aru Kagaku no Railgun OP2 Single - LEVEL 5 -judgelight- [fripSide].zip
 music/Nipponsei/[Nipponsei] To Aru Kagaku no Railgun OVA ED Single - Special 'ONE' [ELISA].zip
 music/Nipponsei/[Nipponsei] To Aru Kagaku no Railgun OVA OP Single - future gazer [fripSide].zip
+music/Nipponsei/[Nipponsei] To Aru Majutsu no Index ENdymion no Kiseki Main Theme Single - FIXED STAR [Kawada Mami].zip
 music/Nipponsei/[Nipponsei] To Aru Majutsu no Index II Archives 1.zip
 music/Nipponsei/[Nipponsei] To Aru Majutsu no Index II Archives 2.zip
 music/Nipponsei/[Nipponsei] To Aru Majutsu no Index II Archives 3.zip
@@ -5844,6 +5852,7 @@ music/Shin-S/[Shin-S] Copihan OP & ED Single - Loop [Yayuyu].zip
 music/Shin-S/[Shin-S] C³ ~Cube x Cursed x Curious~ Character Song Album [Various].zip
 music/Shin-S/[Shin-S] C³ ~Cube x Cursed x Curious~ OP Single - Endless Story [Tamura Yukari].zip
 music/Shin-S/[Shin-S] C³ ~Cube x Cursed x Curious~ OP2 & ED Single - Shirushi [Kitamura Eri].rar
+music/Shin-S/[Shin-S] D.C.III ~Da Capo III~ ED Single - Aitai yo (FLAC) [Various].zip
 music/Shin-S/[Shin-S] D.C.III ~Da Capo III~ OP Single - Sakura Happy Innovation [Various].zip
 music/Shin-S/[Shin-S] DOG DAYS ED Single - PRESENTER [Horie Yui].zip
 music/Shin-S/[Shin-S] DOG DAYS ED2 Single - Miracle Colors [Horie Yui].zip
@@ -5984,6 +5993,7 @@ music/Shin-S/[Shin-S] Kyoukai Senjou no Horizon OP Single - TERMINATED [Chihara 
 music/Shin-S/[Shin-S] Kyoukai Senjou no Horizon The Repertory 02 - Aoi Kimi [Saitou Chiwa].zip
 music/Shin-S/[Shin-S] Little Busters! OP & ED Single - Little Busters! ~TV animation ver.~ (FLAC) [Rita].zip
 music/Shin-S/[Shin-S] Love Live! ED Single - Kitto Seishun ga Kikoeru (FLAC) [μ's].zip
+music/Shin-S/[Shin-S] Love Live! Insert Song Single 1 - Susume Tomorrow (FLAC) [μ's].zip
 music/Shin-S/[Shin-S] Love Live! OP Single - Bokura wa Ima no Naka de (FLAC) [μ's].zip
 music/Shin-S/[Shin-S] Love Live! μ's Best Album - Best Live! collection (FLAC) [μ's].zip
 music/Shin-S/[Shin-S] Magi Character Song 01 - Aladdin, Alibaba & Morgiana [Various].zip
