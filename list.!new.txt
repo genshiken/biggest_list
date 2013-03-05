@@ -823,20 +823,6 @@
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/List.txt
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/disc_8.jpg
 !new/Maison Ikkoku - Complete Music Box/Maison Ikkoku - Complete Music Box Disc 08 KC-0071/mibox_cover.gif
-!new/Mouryou no Hako/Mouryou_no_Hako_-_01[h264][1280x720][Aero].mkv
-!new/Mouryou no Hako/Mouryou_no_Hako_-_02v2[h264][1280x720][Aero].mkv
-!new/Mouryou no Hako/Mouryou_no_Hako_-_03v2[h264][1280x720][Aero].mkv
-!new/Mouryou no Hako/Mouryou_no_Hako_-_04v2[h264][1280x720][Aero].mkv
-!new/Mouryou no Hako/Mouryou_no_Hako_-_05[h264][1280x720][Aero].mkv
-!new/Mouryou no Hako/Mouryou_no_Hako_-_06[h264][1280x720][Aero].mkv
-!new/Mouryou no Hako/Mouryou_no_Hako_-_07[h264][1280x720][Aero].mkv
-!new/Mouryou no Hako/Mouryou_no_Hako_-_08[h264][1280x720][Aero].mkv
-!new/Mouryou no Hako/Mouryou_no_Hako_-_09[h264][1280x720][Aero].mkv
-!new/Mouryou no Hako/[Aoi-Anime]Mouryou_no_Hako_10_[EE4CD532][HD].mp4
-!new/Mouryou no Hako/[Aoi-Anime]Mouryou_no_Hako_11_[8D4FEBCD][HD].mp4
-!new/Mouryou no Hako/[Aoi-Anime]Mouryou_no_Hako_12_[37E75EFB][HD].mp4
-!new/Mouryou no Hako/[Aoi-Anime]Mouryou_no_Hako_13_v2_[08B0A3F7][HD].mp4
-!new/Mouryou no Hako/[Dekiagari]Mouryou​_no​_Hako​_-​_14_(Special)​_720p​_[80D611AA].mkv
 !new/Mujin Wakusei Survive/[Raws-4U] Mujin Wakusei Survive - 01 HD (BS-hi 1024x768 H264 AAC).ass
 !new/Mujin Wakusei Survive/[Raws-4U] Mujin Wakusei Survive - 01 HD (BS-hi 1024x768 H264 AAC).mp4
 !new/Mujin Wakusei Survive/[Raws-4U] Mujin Wakusei Survive - 02 HD (BS-hi 1024x768 H264 AAC).ass
@@ -1396,58 +1382,6 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 04.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 05.avi
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
-!new/[CMBT]Cooking Master Boy/[CMBT] 01 - Genius Cooking Boy, Mao!.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 02 - A Mystery Mapo Tofu.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 03 - Go For It! Super Chef!.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 04 - The Cruel Rule of Yosen Shuka!.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 05 - Break with Tradition!  Defeat Yosen Shuka!.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 06 - Flame Chefs.  The Dumpling Brothers .mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 07 - Despicable Trap! Mao Cornered.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 08 - Dragon Dumpling Duel!.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 09 - Challenge the Dream!  Super Chef Examination.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 10 - Ultimate Skill!  Incomparable Noodles.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 11 - Final Battle!  The Legendary Cooking Arena.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 12 - A Great Rival Appears.  Talented Young Chef Fei.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 13 - The Catfish Noodle Completed!  Fated Decision.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 14 - Proof of Champions.  The Emblem of Glory.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 15 - Genius Boy Chef, Shilou!!.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 16 - Super Boobs!  Sweet Trap.  Beware of the Beauty.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 17 - Return! Dreamy Singe Cuisine.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 18 - Scary Red Congee.  Secret of the Haunted Mansion.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 19 - The Bridge of Love.  Galaxy Noodles.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 20 - The Ominous Black Chicken.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 21 - The Continent's #1 Challenges Yosen Shuka.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 22 - The Challenger!  Mao Chooses to Fight!.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 23 - Shine!  Big Bang Siu Mai.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 24 - Mysterious Invitation, Ambush by a Masked Chef!.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 25 - Inherited Spirit.  Bloody Battle at the Mansion!.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 26 - The Greatest Trump Card.  Joker's Laugh.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 27 - Heroism!  Grand Finale of Revenge!.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 28 - The Outdoor Cuisine of Friendship.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 29 - Underworld Guest, Cold-Hearted Genius Leon.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 30 - Sharpness of Evil!  Demonic Seven-Star Knives!.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 31 - Four Chinese Regions Locked!  Red Sea Bream Continental Seal.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 32 - Clash of Ice and Flame!  A Chef's Soul.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 33 - Legendary Cookware! The Secret of the Forever-Spirit Knife!!.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 34 - Evil City Shanghai!  The Underworld Declares War!!.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 35 - Huge Floating Cooking Arena!  Magical Iron Arm Soup.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 36 - Sanche Special!  Cold Jelly Soup.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 37 - Lakon, the King of Dim Sum.  1,600 Year-Old Spirit-Calming Bun.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 38 - Super Dim Sum Battle!  The Ultimate Decision!!.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 39 - Another Set of Seven-Star Knives!  Enigmatic Beauty Shan.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 40 - Wake Up Leon!  Destiny of a Chef.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 41 - Smash the Evil Blade!  Soul of the Seven-Star Knives!!.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 42 - Demon of Vengeance, Shou An!  Conclusion of Destiny.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 43 - Mao's Real Ability!  Magical Panda Tofu.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 44 - Shocking Verdict!  In the Palm of the Fairy.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 45 - The Yangtze River Burns!  Shou An's Final Fate.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 46 - Save Shell!  A Torrent of Noodles!!.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 47 - The Deity Descends!!  Miraculous Spiritual Deity Copperware.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 48 - Shooting Star of Heaven!  Special Comet Fried Rice.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 49 - Labyrinth of Darkness!  Soul-Connecting Serving of Porridge.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 50 - Imperial Capital Peking!  The Underworld Cooking Society Bares its Fangs.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 51 - Secret Plan of Fei the Genius!  Neo Manchu Han Imperial Feast.mkv
-!new/[CMBT]Cooking Master Boy/[CMBT] 52 - Huge Reversal!  Heroic Chefs of Glory.mkv
 !new/[Coalgirls]_Nisemonogatari_(1920x1080_Blu-ray_FLAC)/[Coalgirls]_Nisemonogatari_01_(1920x1080_Blu-ray_FLAC)_[0DD83FD9].mkv
 !new/[Coalgirls]_Nisemonogatari_(1920x1080_Blu-ray_FLAC)/[Coalgirls]_Nisemonogatari_02_(1920x1080_Blu-ray_FLAC)_[9E8AE5C0].mkv
 !new/[Coalgirls]_Nisemonogatari_(1920x1080_Blu-ray_FLAC)/[Coalgirls]_Nisemonogatari_03_(1920x1080_Blu-ray_FLAC)_[590605FD].mkv
@@ -1504,9 +1438,6 @@
 !new/[ReTouched] Plastic Nee-san - 01-04 (640x360 H264 AAC)/[ReTouched] Plastic Nee-san - 02 (640x360 H264 AAC) [5B4388E9].mkv
 !new/[ReTouched] Plastic Nee-san - 01-04 (640x360 H264 AAC)/[ReTouched] Plastic Nee-san - 03 (640x360 H264 AAC) [C54EFF8F].mkv
 !new/[ReTouched] Plastic Nee-san - 01-04 (640x360 H264 AAC)/[ReTouched] Plastic Nee-san - 04 (640x360 H264 AAC) [1D3EE453].mkv
-!new/[Shinsen-Subs]_Le_Chevalier_D'Eon_[Complete]/Torrent downloaded from Demonoid.com.txt
-!new/[Shinsen-Subs]_Le_Chevalier_D'Eon_[Complete]/[Shinsen-Subs]_Le_Chevalier_D'Eon_-_01_[1920x1080][H264-5.1AAC][8A8F5A2A].mkv
-!new/[mazui]_hyouka_-_11.5_[lq][ebacbacc].mkv
 !new/belum/[TV_Series_1996]_Bakusou_Kyoudai_Let_s_&_Go/Bakusou_Kyoudai_Let_s_&_Go_-_01[51]_-_Episode_1_[640x480][DVD][RAW][Saiei][B67AAA56].mp4
 !new/belum/[TV_Series_1996]_Bakusou_Kyoudai_Let_s_&_Go/Bakusou_Kyoudai_Let_s_&_Go_-_02[51]_-_Episode_2_[640x480][DVD][RAW][Saiei][3C83C08C].mp4
 !new/belum/[TV_Series_1996]_Bakusou_Kyoudai_Let_s_&_Go/Bakusou_Kyoudai_Let_s_&_Go_-_03[51]_-_Episode_3_[640x480][DVD][RAW][Saiei][DA1E2AD9].mp4
