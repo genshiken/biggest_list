@@ -445,6 +445,7 @@ music/ASL/[ASL]_Duca_-_Kurano-kunchi_no_Ongaku_Jijou_ORIGINAL_SOUND_TRACK_[FLAC]
 music/ASL/[ASL]_EGOIST_-_Extra_terrestrial_Biological_Entities_[FLAC].rar
 music/ASL/[ASL]_EGOIST_-_Guilty_Crown_ED_-_Departures_-Anata_ni_Okuru_Ai_no_Uta-_[EXTRA].rar
 music/ASL/[ASL]_EGOIST_-_Guilty_Crown_ED_-_Departures_-Anata_ni_Okuru_Ai_no_Uta-_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_EGOIST_-_PSYCHO-PASS_ED2_-_All_Alone_With_You_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_EGOIST_-_Psycho_Pass_ED_-_Namae_no_nai_Kaibutsu_[EXTRA].rar
 music/ASL/[ASL]_EGOIST_-_Psycho_Pass_ED_-_Namae_no_nai_Kaibutsu_[FLAC].rar
 music/ASL/[ASL]_ELISA_-_Hayate_No_Gotoku_HEAVEN_IS_A_PLACE_ON_EARTH_Insert_Song_-_Invisible_Message_[FLAC].rar
@@ -754,6 +755,7 @@ music/ASL/[ASL]_Ogura_Yui_-_RO-KYU-BU_Character_Songs_04_Hakamada_Hinata_[FLAC]_
 music/ASL/[ASL]_Okubo_Rumi_-_Acchi_Kocchi_ED_-_Te_wo_Gyu_Shite_ne_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Okui_Aki_-_Dusk_maiden_of_Amnesia_ED_-_Calendrier_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Okui_Masami_-_Kyoukaisen-jou_no_Horizon_II_ED_Side_SunRise_-_Sora_no_Uta_[FLAC].rar
+music/ASL/[ASL]_Okura_Asuka_-_Sakurasou_no_Pet_na_Kanojo_ED2_-_Prime_number_Kimi_to_Deaeru_Hi_[FLAC].rar
 music/ASL/[ASL]_Omigawa_Chiaki_-_Hanasaku_Iroha_Character_Song_Single_Minko_Tsurugi_-_Namida_de_sakuhana_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Ono_Masatoshi_-_Hunter_x_Hunter_OP_-_departure_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Ookuba_Rumi_-_Yuruyuri_Character_Disc_4_-_Marugoto_[FLAC]_[w_Scans].rar
@@ -868,6 +870,8 @@ music/ASL/[ASL]_Suara_-_Karin_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Supercell_-_Guilty_Crown_OP_-_My_Dearest_[EXTRA].rar
 music/ASL/[ASL]_Supercell_-_Guilty_Crown_OP_-_My_Dearest_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Supercell_-_Nerawareta_Gakuen_OP_-_Giniro_Hikousen_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Suzaki_Aya_-_Tamako_Market_ED_-_Neguse_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Suzaki_Aya_-_Tamako_Market_OP_-_Dramatic_Market_Ride_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Suzuki_Konomi_-_Sakurasou_no_Pet_na_Kanojo_ED_-_DAYS_of_DASH_[FLAC].rar
 music/ASL/[ASL]_Suzuki_Konomi_-_Tasogare_OtomexAmnesia_OP_-_CHOIR_JAIL_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Suzumura_Kenichi_-_Kamisama_no_Memo_Chou_ED_-_Asunaro_[FLAC]_[w_Scans].rar
@@ -941,6 +945,7 @@ music/ASL/[ASL]_Uesugi_Hiroshi_-_Papa_no_Iukoto_wo_Kikinasai!_Original_Soundtrac
 music/ASL/[ASL]_Uesugi_Hiroshi_-_Papa_no_Iukoto_wo_Kikinasai_Original_Soundtrack_vol_2_[FLAC].rar
 music/ASL/[ASL]_Usui_Yoshiyuki_-_Fireball_Charming_Chikuwabu_Box_Tokuten_Soundtrack_CD_[FLAC].rar
 music/ASL/[ASL]_VALSHE_-_jester_[FLAC].rar
+music/ASL/[ASL]_Various Artists_-_Mondaiji_tachi_ga_Isekai_kara_Kuru_soudesuyo_ Sound_Community_I_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various _Artists_-_Daitoshokan_no_Hitsujikai_ED_-_Ashita_e_no_Shiori_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Arists_-_Infinite_Stratos_ORIGINAL_SOUNDTRACK_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artist_-_Irotoridori_no_Sekai_Original_Soundtrack_[FLAC]_[w_Scans].rar
@@ -952,6 +957,7 @@ music/ASL/[ASL]_Various_Artist_-_Twinkle_Crusaders_Kirakira_Sound_Stage_02_-_Ria
 music/ASL/[ASL]_Various_Artist_-_Twinkle_Crusaders_Kirakira_Sound_Stage_03_-_Misa_&_Azel_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artist_-_Twinkle_Crusaders_Kirakira_Sound_Stage_04_-_Nanaka_&_Sacchin_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artist_-_Twinkle_Crusaders_Kirakira_Sound_Stage_05_-_Sio_&_Amylina_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_- _Ore_no_Kanojo_to_Osananajimi_ga_Shuraba_Sugiru_OP_-_Girlish_Lover_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_ Suzukaze_no_Melt_Original_Sound_Track_Melty_Wind_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_-puregirl-_Theme_Song_&_Soundtrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_11eyes_-PERFECT_VOCAL_ALBUM-_[FLAC].rar

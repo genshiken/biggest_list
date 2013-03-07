@@ -55,6 +55,7 @@ ongoing/Amnesia/[Commie] Amnesia - 05 [1505A37B].mkv
 ongoing/Amnesia/[Commie] Amnesia - 06 [F79FAA80].mkv
 ongoing/Amnesia/[Commie] Amnesia - 07 [30DBE685].mkv
 ongoing/Amnesia/[Commie] Amnesia - 08 [3C136FD8].mkv
+ongoing/Amnesia/[Commie] Amnesia - 09 [818671C3].mkv
 ongoing/Aoi Sekai no Chuushin de/[HorribleSubs] Aoi Sekai no Chuushin de - 01 [720p][C65B7769].mkv
 ongoing/Aoi Sekai no Chuushin de/[HorribleSubs] Aoi Sekai no Chuushin de - 02 [720p][0C7B320A].mkv
 ongoing/Asa Made Jugyou Chu!/[FFF] Asa Made Jugyou Chu! - 01 [1080p BD][5AEDFD79].mkv
@@ -571,6 +572,7 @@ ongoing/Da Capo III/[ASF-Oyatsu] Da Capo III - 05 [720p][359FDB50].mkv
 ongoing/Da Capo III/[ASF-Oyatsu] Da Capo III - 06 [720p][5FDA01CD].mkv
 ongoing/Da Capo III/[ASF-Oyatsu] Da Capo III - 07 [720p][20725106].mkv
 ongoing/Da Capo III/[ASF-Oyatsu] Da Capo III - 08 [720p][FEC9BEFC].mkv
+ongoing/Da Capo III/[ASF-Oyatsu] Da Capo III - 09 [720p][F63514EF].mkv
 ongoing/Da Capo III/[ASF-Oyatsu] Da Capo III - Pre-Air Special [720p][A9808024].mkv
 ongoing/Da Capo III/[Commie] Da Capo III - 01 [29F95898].mkv
 ongoing/Da Capo III/[Commie] Da Capo III - 02 [0FCCC061].mkv
@@ -2642,6 +2644,8 @@ ongoing/Puchimas!/[Chibiki] Puchimas! - 43 [360p][73DCB748].mkv
 ongoing/Puchimas!/[Chibiki] Puchimas! - 44 [360p][139F3F24].mkv
 ongoing/Puchimas!/[Chibiki] Puchimas! - 45 [360p][6E3C5666].mkv
 ongoing/Puchimas!/[Chibiki] Puchimas! - 46 [360p][91C433B7].mkv
+ongoing/Puchimas!/[Chibiki] Puchimas! - 47 [360p][A823D4F3].mkv
+ongoing/Puchimas!/[Chibiki] Puchimas! - 48 [360p][0B3BC2DA].mkv
 ongoing/Queen's Blade Rebellion OVA/[Hiryuu] Queen's Blade Rebellion OVA - 1 [C0A55D06].mkv
 ongoing/Queen's Blade Rebellion OVA/[Hiryuu] Queen's Blade Rebellion OVA - Special 1 [E06D1ECF].mkv
 ongoing/Queen's Blade Rebellion OVA/[SFW] Queen's Blade Rebellion OVA - 2 [End][46EF7E6B].mkv
@@ -2779,6 +2783,7 @@ ongoing/Sasami@Ganbaranai/[Commie] Sasami@Ganbaranai - 02 [9EC316D1].mkv
 ongoing/Sasami@Ganbaranai/[Commie] Sasami@Ganbaranai - 03 [B0F9EFCF].mkv
 ongoing/Sasami@Ganbaranai/[Commie] Sasami@Ganbaranai - 04 [C0849A1A].mkv
 ongoing/Sasami@Ganbaranai/[Commie] Sasami@Ganbaranai - 05 [4D754147].mkv
+ongoing/Sasami@Ganbaranai/[Commie] Sasami@Ganbaranai - 06 [E6F91DDC].mkv
 ongoing/Sasami@Ganbaranai/[gg] Sasami@Ganbaranai - 01 [257674C1].mkv
 ongoing/Sasami@Ganbaranai/[gg] Sasami@Ganbaranai - 02 [EEF8C9E9].mkv
 ongoing/Sasami@Ganbaranai/[gg] Sasami@Ganbaranai - 03 [39D83BCA].mkv
@@ -2820,6 +2825,7 @@ ongoing/Senran Kagura/[Commie] Senran Kagura - 05 [31179A97].mkv
 ongoing/Senran Kagura/[Commie] Senran Kagura - 06 [624AF2C2].mkv
 ongoing/Senran Kagura/[Commie] Senran Kagura - 07 [5820BB2E].mkv
 ongoing/Senran Kagura/[Commie] Senran Kagura - 08 [2D1B72E2].mkv
+ongoing/Senran Kagura/[Commie] Senran Kagura - 09 [F7A3C30A].mkv
 ongoing/Senyuu/[Commie] Senyuu - 01 [9C84D3D7].mkv
 ongoing/Senyuu/[Commie] Senyuu - 02 [C47836C7].mkv
 ongoing/Senyuu/[Commie] Senyuu - 03 [76B6544B].mkv
@@ -2828,6 +2834,7 @@ ongoing/Senyuu/[Commie] Senyuu - 05 [BDCF0B53].mkv
 ongoing/Senyuu/[Commie] Senyuu - 06 [622FBFFD].mkv
 ongoing/Senyuu/[Commie] Senyuu - 07 [4B8414A9].mkv
 ongoing/Senyuu/[Commie] Senyuu - 08 [115B7F5C].mkv
+ongoing/Senyuu/[Commie] Senyuu - 09 [728DDDED].mkv
 ongoing/Shinryaku!! Ika Musume OVA/[FFF] Shinryaku!! Ika Musume OVA - 01 [DVD][71A0BE68].mkv
 ongoing/Shinsekai Yori - From the New World/[Commie] Shinsekai Yori - From the New World - 01 [4987D895].mkv
 ongoing/Shinsekai Yori - From the New World/[Commie] Shinsekai Yori - From the New World - 02 [170E72A1].mkv
@@ -3039,6 +3046,7 @@ ongoing/Toriko/[A-Destiny] Toriko - 91 [720p][2D8B3980].mkv
 ongoing/Toriko/[A-Destiny] Toriko - 92 [720p][E6296123].mkv
 ongoing/Toriko/[A-Destiny] Toriko - 93 [720p][031DDB1D].mkv
 ongoing/Toriko/[A-Destiny] Toriko - 94 [720p][B9FD4489].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 95 [720p][1A5D1EDE].mkv
 ongoing/Vividred Operation/[Commie] Vividred Operation - 01 [EEB956D7].mkv
 ongoing/Vividred Operation/[Commie] Vividred Operation - 02 [459C73B2].mkv
 ongoing/Vividred Operation/[Commie] Vividred Operation - 03 [D3429195].mkv
