@@ -493,6 +493,7 @@ music/ASL/[ASL]_HAPPY_BIRTHDAY_-_Binbougami_ga_ED_-_Koi_Boudou_DAIKIRAI-DAISUKI_
 music/ASL/[ASL]_HIMEKA_-_himekanvas_[FLAC].rar
 music/ASL/[ASL]_HO-KAGO_TEA_TIME_-_K-On_Movie_ED_-_Singing_[FLAC].rar
 music/ASL/[ASL]_HOUKAGO_TEA_TIME_-_K-On!_Movie_Theme_Song_&_OP_-_Unmei_wa_Endless!_[FLAC].rar
+music/ASL/[ASL]_Hamasaki_Ayumi_-_Tales_of_Xillia_-_FIVE_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Hana_-_Subarashiki_Hibi_Theme_Song_-_Kuukirikigaku_Shoujo_to_Shounen_no_Shi_[FLAC].rar
 music/ASL/[ASL]_Hanae_-_Kamisama_Hajimemashita_OP_&_ED_-_Kamisama_Hajimemashita_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Hanazawa_Kana_-_Hoshizora_Destination_[EXTRA].rar
@@ -661,6 +662,7 @@ music/ASL/[ASL]_Kurokami_Medaka_-_Medaka_Box_ED_-_Ohanabatake_ni_Tsuretette_[FLA
 music/ASL/[ASL]_Kuroki_Meisa_-_Ao_no_Exorcist_ED_-_Wired_Life_[FLAC].rar
 music/ASL/[ASL]_Kurosaki_Maon_-_Hakuroki_Reimeiroku_OP_-_reimei_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Kurosaki_Maon_-_Jormungand_Perfect_Order_OP_-_UNDER_SHAFT_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Kylee_-_Zetsuen_no_Tempest_OP2_-_Daisuki_na_no_ni_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_L@ve_once_-mermaid_s_tears-_-_Character_Song_Collection_-_S@ng_once_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_LAMA_-_No.6_OP_Single_-_Spell_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_LIA_-_enigmaticLIA_4_[FLAC]_[w_Scans].rar
@@ -1237,6 +1239,7 @@ music/ASL/[ASL]_Various_Artists_-_LAST_EXILE_-Fam_The_Silver_Wing-_OST_[FLAC]_[w
 music/ASL/[ASL]_Various_Artists_-_LEGEND_SEVEN_Shirayuki_Hime_to_Shichinin_no_Eiyuu_SOUNDTRACK_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_LOVELY_QUEST_Original_Soundtrack_SOUND_QUEST_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_LOVE_2_QUAD_ORIGINAL_SOUNDTRACK_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_LOVExAGGRESSIVE_Special_Disk_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Leaf_Piano_Collection_2005_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_LiLiM_vocal_collection_01_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Little_Busters!_-_Deejay_Busters!_[FLAC]_[w_Scans].rar
