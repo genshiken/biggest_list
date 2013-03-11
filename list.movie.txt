@@ -145,6 +145,7 @@ movie/Jungle Emperor Leo - Special 2009 Yuuki ga Mirai wo Kaeru/[RyRo] Jungle Em
 movie/Junkers Come Here/[niizk] Junkers Come Here [DBAC403C].mkv
 movie/K-ON! Movie/[CoalGuys] K-ON! Movie [1080p][6839C336].mkv
 movie/K-ON! Movie/[CoalGuys] K-ON! Movie [720p][D09FC86B].mkv
+movie/Kagaku na Yatsura/[Kira-Doutei] Kagaku na Yatsura OVA [v2 1080p BD][7F0FF6A1].mkv
 movie/Kaiketsu Zorori/[Alopex] Kaiketsu Zorori [6C93DF0F].mkv
 movie/Kara no Kyoukai/[ANE] Kara no Kyoukai - Chapter 1 [720p BD][48562552].mkv
 movie/Kara no Kyoukai/[ANE] Kara no Kyoukai - Chapter 2 [720p BD][8B65761D].mkv
@@ -240,6 +241,7 @@ movie/Ninja Scroll Movie/[zx] Ninja Scroll [74B259BD].ogm
 movie/Ojamajo Doremi Sharp Movie/[Doremi] Ojamajo Doremi Sharp Movie [27E34A4E].avi
 movie/One Piece Movie/[yibis] One Piece - Movie 10 [720p][C927DDF1].mkv
 movie/One Piece Movie/[yibis] One Piece - Movie 9 (1280x720) [780350D8].mkv
+movie/Ookami Kodomo no Ame to Yuki/[Commie] Ookami Kodomo no Ame to Yuki [1080p BD][93347D85].mkv
 movie/Pale Cocoon/[Doremi-HF-Shakugan] Pale Cocoon [BAEE1167].avi
 movie/Paprika/[THORA] Paprika (2006) (1280x720) [BD][29C190A5].mkv
 movie/Patlabor Movie/[Thora] Patlabor the Movie (1989) [1080p BD][5F02E5DE].mkv
