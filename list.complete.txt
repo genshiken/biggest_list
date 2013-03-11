@@ -194,6 +194,7 @@ complete/a/Accel World/[Commie] Accel World - 22 [6710B6F2].mkv
 complete/a/Accel World/[Commie] Accel World - 23 [49ED301E].mkv
 complete/a/Accel World/[Commie] Accel World - 24 [End][812C0023].mkv
 complete/a/Accel World/[Commie] Accel World - EX01 [1080p BD][82795731].mkv
+complete/a/Accel World/[UTW] Accel World - EX02 [720p BD][6C39E83F].mkv
 complete/a/Acchi Kocchi/[Commie] Acchi Kocchi - 01 [E4F3D287].mkv
 complete/a/Acchi Kocchi/[Commie] Acchi Kocchi - 02 [AEA3ECF7].mkv
 complete/a/Acchi Kocchi/[Commie] Acchi Kocchi - 03 [A2BD6284].mkv
@@ -12335,6 +12336,7 @@ complete/k/Kono Naka ni Hitori Imouto ga Iru/[DmonHiro] Kono Naka ni Hitori Imou
 complete/k/Kono Naka ni Hitori Imouto ga Iru/[DmonHiro] Kono Naka ni Hitori Imouto ga Iru - 08 [720p BD][AAEE2C81].mkv
 complete/k/Kono Naka ni Hitori Imouto ga Iru/[DmonHiro] Kono Naka ni Hitori Imouto ga Iru - 09 [720p BD][4E57052F].mkv
 complete/k/Kono Naka ni Hitori Imouto ga Iru/[DmonHiro] Kono Naka ni Hitori Imouto ga Iru - 10 [720p BD][0320F922].mkv
+complete/k/Kono Naka ni Hitori Imouto ga Iru/[DmonHiro] Kono Naka ni Hitori Imouto ga Iru - 11 [720p BD][E0D183EF].mkv
 complete/k/Kono Naka ni Hitori Imouto ga Iru/[FFF] Kono Naka ni Hitori, Imouto ga Iru! - 01 [1080p BD][150AAC49].mkv
 complete/k/Kono Naka ni Hitori Imouto ga Iru/[FFF] Kono Naka ni Hitori, Imouto ga Iru! - 02 [1080p BD][436EA757].mkv
 complete/k/Kono Naka ni Hitori Imouto ga Iru/[FFF] Kono Naka ni Hitori, Imouto ga Iru! - Ending 01 [1080p BD][0AA80394].mkv
@@ -22058,8 +22060,8 @@ complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 01 [720p BD][6EC2B8BA].mkv
 complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 02 [720p BD][A8170525].mkv
 complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 03 [720p BD][41509560].mkv
 complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 04 [720p BD][F515C89B].mkv
-complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 05 [DF48BDB5].mkv
-complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 06 [EFEC0BC2].mkv
+complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 05 [720p BD][E83E2549].mkv
+complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 06 [720p BD][A14DD8DB].mkv
 complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 07 [D2CBDEAC].mkv
 complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 08 [v2][620911BF].mkv
 complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 09 [v2][60A85459].mkv
@@ -22073,6 +22075,8 @@ complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - Special 01 [720p BD][7F24B0B
 complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - Special 02 [720p BD][257FEF8D].mkv
 complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - Special 03 [720p BD][9717688C].mkv
 complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - Special 04 [720p BD][6B8922BD].mkv
+complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - Special 05 [720p BD][668A97C7].mkv
+complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - Special 06 [720p BD][F5BC53CB].mkv
 complete/s/Summer Storm! - Open for Business/[Commie-Yanks] Summer Storm! - Open for Business - 13 [End][DVD][C613EAB5].mkv
 complete/s/Summer Storm! - Open for Business/[Commie] Summer Storm! - Open for Business - 02 [v2][75E7E6FA].mkv
 complete/s/Summer Storm! - Open for Business/[Commie] Summer Storm! - Open for Business - 03 [55286CB5].mkv
