@@ -749,6 +749,7 @@ music/ASL/[ASL]_Nomico_-_Hoshizora_e_Kakaru_Hashi_OP_-_Hoshikaze_no_Horoscope_[F
 music/ASL/[ASL]_Nomizu_Iori_-_Gekkou_Catan_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Nomizu_Iori_-_Koreha_Zombie_Desuka_OF_THE_DEAD_OP_-_Passionato_[FLAC].rar
 music/ASL/[ASL]_Nomizu_Iori_-_Mondaiji_tachi_ga_Isekai_kara_Kuru_Sou_Desu_yo_OP_-_Black_White_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Nothings_Carved_In_Stone_-_Psycho-Pass_OP_-_Out_of_Control_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Noto_Mamiko_-_Ao_no_Kiseki_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_ONE_OK_ROCK_-_BLACK_ROCK_SHOOTER_THE_GAME_Theme_Song_-_NO_SCARED_[FLAC].rar
 music/ASL/[ASL]_Ogiso_Setsuna_-_White_Album_2_Drama_CD_Matsuri_no_Hi_Butai_no_Shita_no_Monogatari_[FLAC].rar
@@ -1229,6 +1230,7 @@ music/ASL/[ASL]_Various_Artists_-_Koiken_Otome_Soundtrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Koikishi_Purely_Kiss_ORIGINAL_SOUNDTRACK_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Koisuru_Koto_to_Mitsuketari_Koikoto_Original_Soundtrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Kokoro_Connect_Hito_Random_Original_Soundtrack__ED_Kokoro_no_Kara_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Kokoro_Connect_Kako_Random_Original_Soundtrack_&_ED_-_Salvage_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Kokoro_Connect_Kizu_Random_Original_Soundtrack_Ending_Theme_-Cry_out-_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Kono_Naka_ni_Hitori_Imouto_ga_Iru_ED_-_Heavenly_Lover_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Kouyoku_no_Soleil_viis_World_Original_Soundtrack_[FLAC].rar
@@ -1338,6 +1340,7 @@ music/ASL/[ASL]_Various_Artists_-_PULLTOP_VOCAL_COLLECTION_-_Uta_no_Kanzume_[FLA
 music/ASL/[ASL]_Various_Artists_-_PULLTOP_VOCAL_COLLECTION_2_-_Uta_no_Kanzume_2_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Panty_Stocking_with_Garterbelt_THE_WORST_ALBUM_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Papa_no_Iukoto_wo_Kikinasai_BD_Vol_3_Vocal_Track_CD_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Perfect_Slumbers_&_Nekomonogatari_(Kuro)_Gekiban_Ongakushuu_Shuuroku_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Persona_4_Anime_OP_ED_-_Skys_the_Limit_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Persona_4_Anime_OP_ED_2_-_Key_plus_Words_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Persona_4_the_ANIMATION_VOLUME_2_BONUS_CD_[FLAC].rar
@@ -5795,6 +5798,7 @@ music/PV/Yui Horie - Immoralist.DVD-Bakazooka.mkv
 music/PV/Yui Horie - Koisuru Tenkizu.avi
 music/PV/Yui Horie - YAHHO!!.DVD.x264-UAC.mkv
 music/PV/[HF-Testing]_A-Channel_OP_-_Kawano_Marina_-_Morning_Arch_[241EFEA8].mkv
+music/PV/[Kira-Music] Ogura Yui - Kawaru Mirai (Alice ver.) [v2 720p][670B7C5E].mkv
 music/PV/[Kira-Music]_Ogura_Yui_Kawaru_Mirai_v2_(Alice_ver.)_(h264_720p_AAC)_[670B7C5E].mkv
 music/PV/[Nipponsei] School Rumble - Onna no Ko Otoko no Ko [PV] [Ogura Yuko].avi
 music/PV/[Nipponsei] The Babystars [6A2FAA07].mpg
