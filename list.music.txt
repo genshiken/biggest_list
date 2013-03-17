@@ -572,7 +572,9 @@ music/ASL/[ASL]_KOKIA_-_Memorial_days_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_KOKIA_-_Tales_of_Innocence_R_OP_Theme_-_New_Day_New_Life_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_KOKOMI_-_Ever_17_OP_Theme_-_Lemuria_ni_Sasagu_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_KOTOKO_-_Accel_World_ED_-_unfinished_[FLAC].rar
+music/ASL/[ASL]_KOTOKO_-_BALDRSKY_ZERO_OPENING_THEME_-_WING_OF_ZERO_[FLAC].rar.rar
 music/ASL/[ASL]_KOTOKO_-_KOTOKO_5th_album_-_Hiraku_Uchuu_Pocket_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_KOTOKO_-_MATERIAL_BRAVE_OPENING_THEME_-_U_[FLAC].rar.rar
 music/ASL/[ASL]_KOTOKO_-_Renai_Replay_OP_ED_-_Restart_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_KOTOKO_-_Shakugan_no_Shana_III_OP_-_Light_My_Fire_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Kagami_Seira_-_Mini_Album_IdeAnimation_[FLAC]_[w_Scans].rar
@@ -1267,6 +1269,7 @@ music/ASL/[ASL]_Various_Artists_-_Maji_de_Watashi_ni_Koi_Shinasai_Original_Sound
 music/ASL/[ASL]_Various_Artists_-_Maji_de_Watashi_ni_Koishinasai_Character_Song_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Majisuki_~Marginal_Skip~_Vocal_Album_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Manatsu_no_Cielo_Samurai_Girl_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Manyokko_Shudaika_Bokutachi_ga_Mahou_Shoujo_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Mardock_Scramble_The_First_Compression_Original_SoundTrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Maria_Holic_-_Alive_OP_ED_-_runrun_riru_ranran_rara_._dounimo_tomaranai_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Maria_Holic_Alive_BD2_Bonus_Special_CD_-_Ryouchou-sensei_no_Kayou_Hit_Channel_~Dai-ni_no_Yoru~_[FLAC].rar
@@ -1361,6 +1364,8 @@ music/ASL/[ASL]_Various_Artists_-_Puella_Magi_Madoka_Magica_Original_Soundtrack_
 music/ASL/[ASL]_Various_Artists_-_Pure2_-Ultimate_Cool_Japan_Jazz-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Purple_Software_Sound_Chronicle_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_RADIANT_HISTORIA_Original_Soundtrack_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_RAGGIO_DI_SOLE_NOSTALGICO_ORIGINAL_SOUNDTRACK_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_RAGGIO_DI_SOLE_NOSTALGICO_VOCAL_COLLECTION_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_RO-KYU-BU_Interval_1_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_RO-KYU-BU_pure_elements_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Ra-ra-ra_Suite_Precure_~UNLIMITED_ver.~_[FLAC]_[w_Scans].rar
@@ -5910,6 +5915,7 @@ music/Shin-S/[Shin-S] Danshi Koukousei no Nichijou ED Single - Ohisama [Amesaki 
 music/Shin-S/[Shin-S] Danshi Koukousei no Nichijou OP & Insert Song Single - Shiny tale [Mix Speaker's,Inc.].zip
 music/Shin-S/[Shin-S] Denpa Onna to Seishun Otoko ED Single - Ruru [Yakushimaru Etsuko].zip
 music/Shin-S/[Shin-S] Denpa Onna to Seishun Otoko OP Single - Os-Uchuujin [Erio wo Kamatte-chan].zip
+music/Shin-S/[Shin-S] Detective Conan OP35 Single - TRY AGAIN [Kuraki Mai].zip
 music/Shin-S/[Shin-S] Dragon Crisis! ED Single - Mirai Bowl [Momoiro Clover].zip
 music/Shin-S/[Shin-S] Ebiten ~Kouritsu Ebisugawa Koukou Tenmon-Bu~ ED Single 1 - Chikyuu ni I LOVE YOU [Various].zip
 music/Shin-S/[Shin-S] Eiyuu Densetsu ~Sora no Kiseki~ OVA ED Single - Harmonia [Choucho] v2.zip
@@ -5927,6 +5933,7 @@ music/Shin-S/[Shin-S] GIRLS und PANZER Character Song Vol.5 - Reizei Mako [Iguch
 music/Shin-S/[Shin-S] GIRLS und PANZER ED Single - Enter Enter MISSION! (FLAC) [Ankou Team].zip
 music/Shin-S/[Shin-S] GIRLS und PANZER OP Single - DreamRiser [ChouCho].zip
 music/Shin-S/[Shin-S] GIRLS und PANZER Original Soundtrack [Various].zip
+music/Shin-S/[Shin-S] GJ-bu Character Song & Original Soundtrack 1 - GJ-bu no Ongaku G (FLAC) [Various].zip
 music/Shin-S/[Shin-S] GJ-bu OP Single - Mousou Koukan Nikki (FLAC) [Otome Shintou].zip
 music/Shin-S/[Shin-S] Gokujo. ~Gokurakuin Joshi Kouryou Monogatari~ OP & ED Single - Gokujo. no Joken [Various].zip
 music/Shin-S/[Shin-S] Guilty Crown ED2 & Black Rock Shooter ED Single - Kokuhaku [supercell].zip
@@ -6044,6 +6051,7 @@ music/Shin-S/[Shin-S] Kyoukai Senjou no Horizon The Repertory 02 - Aoi Kimi [Sai
 music/Shin-S/[Shin-S] Little Busters! OP & ED Single - Little Busters! ~TV animation ver.~ (FLAC) [Rita].zip
 music/Shin-S/[Shin-S] Love Live! ED Single - Kitto Seishun ga Kikoeru (FLAC) [μ's].zip
 music/Shin-S/[Shin-S] Love Live! Insert Song Single 1 - Susume Tomorrow (FLAC) [μ's].zip
+music/Shin-S/[Shin-S] Love Live! Insert Song Single 2 - Korekara no Someday (FLAC) [μ's].zip
 music/Shin-S/[Shin-S] Love Live! OP Single - Bokura wa Ima no Naka de (FLAC) [μ's].zip
 music/Shin-S/[Shin-S] Love Live! μ's Best Album - Best Live! collection (FLAC) [μ's].zip
 music/Shin-S/[Shin-S] Magi Character Song 01 - Aladdin, Alibaba & Morgiana [Various].zip
@@ -6087,6 +6095,7 @@ music/Shin-S/[Shin-S] Muv-Luv Alternative Total Eclipse ED2 Single - Revise the 
 music/Shin-S/[Shin-S] Muv-Luv Alternative Total Eclipse Insert Song Single - NO PLACE LIKE A STAGE (FLAC) [Various].zip
 music/Shin-S/[Shin-S] Muv-Luv Alternative Total Eclipse OP Single - Go to the top (FLAC) [Koda Kumi].zip
 music/Shin-S/[Shin-S] Muv-Luv Alternative Total Eclipse OP2 Single - Doubt the World [Kuribayashi Minami].zip
+music/Shin-S/[Shin-S] Muv-Luv Alternative Total Eclipse Song Collection [Various].zip
 music/Shin-S/[Shin-S] Natsuiro Kiseki OP & ED Single - Non stop road [sphere].zip
 music/Shin-S/[Shin-S] Natsuiro Kiseki Vol.1 Bonus CD - Yasashisa ni Tsutsumareru You ni [sphere & Itou Masumi].zip
 music/Shin-S/[Shin-S] Natsuiro Kiseki Vol.2 Bonus CD - Yumeiro Graffiti (FLAC) [Kotobuki Minako & Takagaki Ayahi].zip
@@ -6130,6 +6139,7 @@ music/Shin-S/[Shin-S] Ozma OP Single - NEVERLAND [F.T. Island].zip
 music/Shin-S/[Shin-S] PSYCHO-PASS ED Single - Namae no Nai Kaibutsu (FLAC) [EGOIST].zip
 music/Shin-S/[Shin-S] PSYCHO-PASS ED Single - Namae no Nai Kaibutsu [EGOIST].zip
 music/Shin-S/[Shin-S] PSYCHO-PASS OP Single - abnormalize [Ling Tosite Sigure].zip
+music/Shin-S/[Shin-S] PSYCHO-PASS OP2 Single - Out of Control (FLAC) [Nothing's Carved In Stone].zip
 music/Shin-S/[Shin-S] Papa no Iu Koto wo Kikinasai! Character Song CD - Takanashi Hina [Igarashi Hiromi].zip
 music/Shin-S/[Shin-S] Papa no Iu Koto wo Kikinasai! Character Song CD - Takanashi Miu [Kitamura Eri].zip
 music/Shin-S/[Shin-S] Papa no Iu Koto wo Kikinasai! Character Song CD - Takanashi Sora [Uesaka Sumire].zip
