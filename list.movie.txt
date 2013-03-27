@@ -294,6 +294,7 @@ movie/Slam Dunk Movie/[-ANF-] Slam Dunk - Movie 3 [DVD][D20B56CA].mkv
 movie/Slam Dunk Movie/[-ANF-] Slam Dunk - Movie 4 [DVD][DC7200A7].mkv
 movie/Slam Dunk Movie/[txxz] Slam Dunk - Movie 1 [DVD][1627A9FD].mkv
 movie/Slam Dunk Movie/[txxz] Slam Dunk - Movie 2 [DVD][7F5D63D3].mkv
+movie/Smile Precure! Movie/[Doremi] Smile Precure! Movie [720p BD][5CA3A58E].mkv
 movie/Sora no Otoshimono - The Clockwork Angeloid/[DmonHiro] Sora no Otoshimono - The Clockwork Angeloid [720p BD][8253D36E].mkv
 movie/Space Battleship Yamato Revival/[ANBU] Space Battleship Yamato Revival [1080p][EFAFC227].mkv
 movie/Spirited Away/[niizk] Spirited Away [0827A6C3].mkv
@@ -313,6 +314,7 @@ movie/Tengen Toppa Gurren Lagann The Movie/[BSS] Tengen Toppa Gurren Lagann The 
 movie/Tengen Toppa Gurren Lagann The Movie/[BSS] Tengen Toppa Gurren Lagann The Movie - Lagann-hen [8A75A457].mkv
 movie/The Borrower Arrietty/[Coalgirls] The Borrower Arrietty [v2 1080p BD][1E8A3AC8].mkv
 movie/The Glass Rabbit/[Licca] The Glass Rabbit [66817D48].mkv
+movie/The Life of Guskou Budori/[Commie] The Life of Guskou Budori [1080p BD][A0DA2BBA].mkv
 movie/The Place Promised in Our Early Days (2004)/[niizk] The Place Promised in Our Early Days (2004) [1080p BD][1C9A104D].mkv
 movie/The Princess and the Pilot/[Mazui] The Princess and the Pilot [720p][E5A9C941].mkv
 movie/The Wings of Honneamise (1987)/[THORA] The Wings of Honneamise (1987) [720p BD][10104B10].mkv

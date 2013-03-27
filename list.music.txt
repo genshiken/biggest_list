@@ -392,6 +392,7 @@ music/ASL/[ASL]_Barbarian_On_The_Groove_-_Cosmos_-Henchou_suru_Sekai-_[FLAC]_[w_
 music/ASL/[ASL]_Barbarian_On_The_Groove_-_op_Comrade_[FLAC].rar
 music/ASL/[ASL]_Binal_Cord_-_Cloister_of_Memories_[FLAC].rar
 music/ASL/[ASL]_Binal_Cord_-_Re_alize_[FLAC].rar
+music/ASL/[ASL]_Black_Berry_Recordings_-_AMARETTO_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Blue_Drops_-_Sora_no_Otoshimono_Tokei-jikake_no_Angeloid_Theme_Song_Single_-_SECOND_[FLAC].rar
 music/ASL/[ASL]_CAPCOM_-_ROCKMANZERO_The_Complete_Works_of_GAME_MUSIC_-Rockman_Zero_1~3-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_CUFFS_-_CAFE_SOURIRE_SOUNDTRACK_[FLAC]_[w_Scans].rar
@@ -4293,6 +4294,7 @@ music/Nipponsei/[Nipponsei] Fairy Tail Movie Houou no Miko Original Soundtrack.z
 music/Nipponsei/[Nipponsei] Fairy Tail OP ED Theme Songs Vol.1.zip
 music/Nipponsei/[Nipponsei] Fairy Tail OP ED Theme Songs Vol.2.zip
 music/Nipponsei/[Nipponsei] Fairy Tail Original Soundtrack Vol.3.zip
+music/Nipponsei/[Nipponsei] Fairy Tail Original Soundtrack Vol.4.zip
 music/Nipponsei/[Nipponsei] Fate Zero ED Single - MEMORIA [Aoi Eir].zip
 music/Nipponsei/[Nipponsei] Fate Zero ED2 Single - Sora wa Tataku Kaze wa Utau [Haruna Luna].zip
 music/Nipponsei/[Nipponsei] Fate Zero OP Single - oath sign [LiSA].zip
@@ -4691,6 +4693,7 @@ music/Nipponsei/[Nipponsei] Kore wa Zombie desu ka OF THE DEAD Meccha Festivo! K
 music/Nipponsei/[Nipponsei] Kore wa Zombie desu ka OF THE DEAD OP Single - Passionate [Nomizu Iori].zip
 music/Nipponsei/[Nipponsei] Kore wa Zombie desu ka OP Single - Makasete Tonight [Nomizu Iori].zip
 music/Nipponsei/[Nipponsei] Kore wa Zombie desu ka Original Soundtrack.zip
+music/Nipponsei/[Nipponsei] Kotoura-san ED Collection - Kibou no Hana to Tsurupeta to ESP Ken no Theme [Various].zip
 music/Nipponsei/[Nipponsei] Kotoura-san OP Single - Sonna Koto Ura no Mata Urabanashi desho [Nakajima Megumi].zip
 music/Nipponsei/[Nipponsei] Koutetsu Sangokushi ED Single - Kuon [Miyano Mamoru].zip
 music/Nipponsei/[Nipponsei] Koutetsu Sangokushi OP Single - Nostalgia [camino].zip
@@ -4751,7 +4754,9 @@ music/Nipponsei/[Nipponsei] MM! OP Single - Help!! [Taketatsu Ayana & Hayami Sao
 music/Nipponsei/[Nipponsei] Macross Frontier ~Sayonara no Tsubasa~ Ranka Lee 2nd Single - Houkago Overflow [Nakajima Megumi & May'n].zip
 music/Nipponsei/[Nipponsei] Macross Frontier ~Sayonara no Tsubasa~ netabare album the end of 'triangle'.zip
 music/Nipponsei/[Nipponsei] Magi ED Single - Yubi Bouenkyou [Nogizaka46].zip
+music/Nipponsei/[Nipponsei] Magi ED2 Single - The Bravery [supercell].zip
 music/Nipponsei/[Nipponsei] Magi OP Single - V.I.P [SID].zip
+music/Nipponsei/[Nipponsei] Magi OP2 Single - Matataku Hoshi no Shita de [Porno Graffitti].zip
 music/Nipponsei/[Nipponsei] Magical Pokan ED Single - Shichaimashou [Various].zip
 music/Nipponsei/[Nipponsei] Magikano ED Single - Maji Suki MAGIC [CLOVER] (320 kbps).zip
 music/Nipponsei/[Nipponsei] Magikano OP Single - Motto! [Nogawa Sakura] (320 kbps).zip
@@ -5966,6 +5971,7 @@ music/Shin-S/[Shin-S] Haiyore! Nyaruko-san OP Single - Taiyou Iwaku Moeyo Chaos 
 music/Shin-S/[Shin-S] Hakkenden -Touhou Hakken Ibun- OP Single - God FATE [Faylan].zip
 music/Shin-S/[Shin-S] Hanasaku Iroha Character Song Single - Oshimizu Nako [Toyosaki Aki].zip
 music/Shin-S/[Shin-S] Hanasaku Iroha Character Song Single - Wakura Yuina [Tomatsu Haruka].zip
+music/Shin-S/[Shin-S] Hanasaku Iroha HOME SWEET HOME Theme Song Single - Kagefumi [nano.RIPE].zip
 music/Shin-S/[Shin-S] Hanasaku Iroha OP Single - Hana no Iro [nano.RIPE].zip
 music/Shin-S/[Shin-S] Hanazawa Kana - Silent Snow.zip
 music/Shin-S/[Shin-S] Hanazawa Kana - claire.zip
@@ -6086,6 +6092,7 @@ music/Shin-S/[Shin-S] Mahou Shoujo Madoka Magica Movie Part I Theme Song Single 
 music/Shin-S/[Shin-S] Mahou Shoujo Madoka Magica Movie Part II Theme Song Single - Hikari Furu (FLAC) [Kalafina].zip
 music/Shin-S/[Shin-S] Maji de Watashi ni Koi Shinasai!! ED Single - Kimi no Maji wo Choudai [Various].zip
 music/Shin-S/[Shin-S] Maji de Watashi ni Koi Shinasai!! OP Single - U-n-d-e-r--STANDING! [SV TRIBE].zip
+music/Shin-S/[Shin-S] Mangirl! Theme Song Single - girl meets DEADLINE [Various].zip
 music/Shin-S/[Shin-S] Mashiro-iro Symphony Character Palette Vol.1 - Sena Airi & Uryuu Sakuno [Various].zip
 music/Shin-S/[Shin-S] Mashiro-iro Symphony Character Palette Vol.2 - Miu, Sana & Angelina [Various].zip
 music/Shin-S/[Shin-S] Mashiro-iro Symphony ED Single - Suisai Candy [marble].zip

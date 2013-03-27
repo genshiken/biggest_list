@@ -695,6 +695,18 @@ complete/a/Amazing Nurse Nanako/[unknown] Amazing Nurse Nanako - 3 [EA024D4C].mk
 complete/a/Amazing Nurse Nanako/[unknown] Amazing Nurse Nanako - 4 [458762BF].mkv
 complete/a/Amazing Nurse Nanako/[unknown] Amazing Nurse Nanako - 5 [19F8C471].mkv
 complete/a/Amazing Nurse Nanako/[unknown] Amazing Nurse Nanako - 6 [End][B707AFB3].mkv
+complete/a/Amnesia/[Commie] Amnesia - 01 [E483C05C].mkv
+complete/a/Amnesia/[Commie] Amnesia - 02 [550B465C].mkv
+complete/a/Amnesia/[Commie] Amnesia - 03 [021D0791].mkv
+complete/a/Amnesia/[Commie] Amnesia - 04 [58BF9E01].mkv
+complete/a/Amnesia/[Commie] Amnesia - 05 [1505A37B].mkv
+complete/a/Amnesia/[Commie] Amnesia - 06 [F79FAA80].mkv
+complete/a/Amnesia/[Commie] Amnesia - 07 [30DBE685].mkv
+complete/a/Amnesia/[Commie] Amnesia - 08 [3C136FD8].mkv
+complete/a/Amnesia/[Commie] Amnesia - 09 [818671C3].mkv
+complete/a/Amnesia/[Commie] Amnesia - 10 [F7D6CFBA].mkv
+complete/a/Amnesia/[Commie] Amnesia - 11 [5FFDEA10].mkv
+complete/a/Amnesia/[Commie] Amnesia - 12 [End][3EDB2C3A].mkv
 complete/a/Angel Beats!/[AtsA] Angel Beats! - 01 [v2 1080p BD][57B500DD].mkv
 complete/a/Angel Beats!/[AtsA] Angel Beats! - 02 [1080p BD][B066E7F3].mkv
 complete/a/Angel Beats!/[AtsA] Angel Beats! - 03 [1080p BD][912B97C7].mkv
@@ -3789,6 +3801,18 @@ complete/c/Crystal Blaze/Crystal Blaze - 09 [Hitode-AnimeSS][81CE819B].mkv
 complete/c/Crystal Blaze/Crystal Blaze - 10 [Hitode-AnimeSS][E629A061].mkv
 complete/c/Crystal Blaze/Crystal Blaze - 11 [Hitode][B68BB3AC].mkv
 complete/c/Crystal Blaze/Crystal Blaze - 12 [Hitode][End][34A70FB2].mkv
+complete/c/Cuticle Detective Inaba/[HorribleSubs] Cuticle Detective Inaba - 01 [720p][AD038C71].mkv
+complete/c/Cuticle Detective Inaba/[HorribleSubs] Cuticle Detective Inaba - 02 [720p][9C7DDD4A].mkv
+complete/c/Cuticle Detective Inaba/[HorribleSubs] Cuticle Detective Inaba - 03 [720p][0BD1E882].mkv
+complete/c/Cuticle Detective Inaba/[HorribleSubs] Cuticle Detective Inaba - 04 [720p][4322C9F4].mkv
+complete/c/Cuticle Detective Inaba/[HorribleSubs] Cuticle Detective Inaba - 05 [720p][F0BA2C26].mkv
+complete/c/Cuticle Detective Inaba/[HorribleSubs] Cuticle Detective Inaba - 06 [720p][27CF7F54].mkv
+complete/c/Cuticle Detective Inaba/[HorribleSubs] Cuticle Detective Inaba - 07 [720p][1E88B0B6].mkv
+complete/c/Cuticle Detective Inaba/[HorribleSubs] Cuticle Detective Inaba - 08 [720p][01285FE6].mkv
+complete/c/Cuticle Detective Inaba/[HorribleSubs] Cuticle Detective Inaba - 09 [720p][B3A42222].mkv
+complete/c/Cuticle Detective Inaba/[HorribleSubs] Cuticle Detective Inaba - 10 [720p][6BB73675].mkv
+complete/c/Cuticle Detective Inaba/[HorribleSubs] Cuticle Detective Inaba - 11 [720p][40BC6CBB].mkv
+complete/c/Cuticle Detective Inaba/[HorribleSubs] Cuticle Detective Inaba - 12 [End][720p][D6081C07].mkv
 complete/d/D.Gray-man/[Order] D.Gray-man - 001 [v2][716A4A5D].mp4
 complete/d/D.Gray-man/[Order] D.Gray-man - 002 [v2][A23CAD6F].mp4
 complete/d/D.Gray-man/[Order] D.Gray-man - 003 [EB53FCBB].mp4
@@ -7377,6 +7401,21 @@ complete/g/Girls Bravo/[Exiled-Destiny] Girls Bravo - 21 [D13C50A9].mkv
 complete/g/Girls Bravo/[Exiled-Destiny] Girls Bravo - 22 [EB9FB7CA].mkv
 complete/g/Girls Bravo/[Exiled-Destiny] Girls Bravo - 23 [71791D86].mkv
 complete/g/Girls Bravo/[Exiled-Destiny] Girls Bravo - 24 [End][34AD3D38].mkv
+complete/g/Girls und Panzer/[Commie] Girls und Panzer - 01 [v3][EA213BDD].mkv
+complete/g/Girls und Panzer/[Commie] Girls und Panzer - 02 [8D48AD22].mkv
+complete/g/Girls und Panzer/[Commie] Girls und Panzer - 03 [BD14DFAA].mkv
+complete/g/Girls und Panzer/[Commie] Girls und Panzer - 04 [C8013490].mkv
+complete/g/Girls und Panzer/[Commie] Girls und Panzer - 05 [0266E7CB].mkv
+complete/g/Girls und Panzer/[Commie] Girls und Panzer - 05.5 [56CF43E1].mkv
+complete/g/Girls und Panzer/[Commie] Girls und Panzer - 06 [EE102256].mkv
+complete/g/Girls und Panzer/[Commie] Girls und Panzer - 07 [AD91E758].mkv
+complete/g/Girls und Panzer/[Commie] Girls und Panzer - 08 [75E16614].mkv
+complete/g/Girls und Panzer/[Commie] Girls und Panzer - 09 [F901356B].mkv
+complete/g/Girls und Panzer/[Commie] Girls und Panzer - 10 [5F36B69E].mkv
+complete/g/Girls und Panzer/[Commie] Girls und Panzer - 11 [49DDE402].mkv
+complete/g/Girls und Panzer/[Commie] Girls und Panzer - 12 [End][v2][4A4FF7AF].mkv
+complete/g/Girls und Panzer/[Hiryuu] Girls und Panzer - 10.5 [720p][AF018B54].mkv
+complete/g/Girls und Panzer/[Hiryuu] Girls und Panzer - Special 1 [1080p BD][A488EFD6].mkv
 complete/g/Glass Mask (2005)/[D-YFI] Glass Mask (2005) - 01 [24EDC7AA].mkv
 complete/g/Glass Mask (2005)/[D-YFI] Glass Mask (2005) - 02 [9F5A0CE8].mkv
 complete/g/Glass Mask (2005)/[D-YFI] Glass Mask (2005) - 03 [E7C7521A].mkv
@@ -12125,6 +12164,8 @@ complete/k/Koi to Senkyo to Chocolate/[FFF] Koi to Senkyo to Chocolate - 06 [720
 complete/k/Koi to Senkyo to Chocolate/[FFF] Koi to Senkyo to Chocolate - 07 [720p BD][B7B8D8EC].mkv
 complete/k/Koi to Senkyo to Chocolate/[FFF] Koi to Senkyo to Chocolate - 08 [720p BD][C3C449A8].mkv
 complete/k/Koi to Senkyo to Chocolate/[FFF] Koi to Senkyo to Chocolate - 09 [720p BD][69683DB8].mkv
+complete/k/Koi to Senkyo to Chocolate/[FFF] Koi to Senkyo to Chocolate - 10 [720p BD][BA19899B].mkv
+complete/k/Koi to Senkyo to Chocolate/[FFF] Koi to Senkyo to Chocolate - 11 [720p BD][328F96D2].mkv
 complete/k/Koi to Senkyo to Chocolate/[FFF] Koi to Senkyo to Chocolate - Ending 1 [720p BD][11FE4C8C].mkv
 complete/k/Koi to Senkyo to Chocolate/[FFF] Koi to Senkyo to Chocolate - Opening 1 [720p BD][4C115197].mkv
 complete/k/Koi to Senkyo to Chocolate/[FFF] Koi to Senkyo to Chocolate - PV [720p BD][D6F8083E].mkv
@@ -13331,7 +13372,7 @@ complete/l/Lovedol ~Lovely Idol~/[ReDone] Lovedol ~Lovely Idol~ - 05 [DVD][C735D
 complete/l/Lovedol ~Lovely Idol~/[ReDone] Lovedol ~Lovely Idol~ - 06 [DVD][6FDEAF60].mkv
 complete/l/Lovedol ~Lovely Idol~/[ReDone] Lovedol ~Lovely Idol~ - 07 [DVD][536814EE].mkv
 complete/l/Lovedol ~Lovely Idol~/[ReDone] Lovedol ~Lovely Idol~ - 08 [DVD][55287095].mkv
-complete/l/Lovedol ~Lovely Idol~/[WinD] Lovedol ~Lovely Idol~ - 09 [D9548693].mkv
+complete/l/Lovedol ~Lovely Idol~/[ReDone] Lovedol ~Lovely Idol~ - 09 [DVD][79F081C3].mkv
 complete/l/Lovedol ~Lovely Idol~/[WinD] Lovedol ~Lovely Idol~ - 10 [0D06CD0D].mkv
 complete/l/Lovedol ~Lovely Idol~/[WinD] Lovedol ~Lovely Idol~ - 11 [FC1F5151].mkv
 complete/l/Lovedol ~Lovely Idol~/[WinD] Lovedol ~Lovely Idol~ - 12 [End][F7A18CDB].mkv
@@ -19013,6 +19054,28 @@ complete/r/Ro-Kyu-Bu!/[Coalgirls] Ro-Kyu-Bu! - 11 [720p BD][FE85DCB2].mkv
 complete/r/Ro-Kyu-Bu!/[Coalgirls] Ro-Kyu-Bu! - 12 [End][720p BD][BDC90420].mkv
 complete/r/Ro-Kyu-Bu!/[Coalgirls] Ro-Kyu-Bu! - Ending (Clean) [720p BD][7B48B43B].mkv
 complete/r/Ro-Kyu-Bu!/[Coalgirls] Ro-Kyu-Bu! - Opening (Clean) [720p BD][A6E5FDFF].mkv
+complete/r/Robotics;Notes/[Commie] Robotics;Notes - 01 [AD255FB0].mkv
+complete/r/Robotics;Notes/[Commie] Robotics;Notes - 02 [CC7F8571].mkv
+complete/r/Robotics;Notes/[Commie] Robotics;Notes - 03 [E5EB435A].mkv
+complete/r/Robotics;Notes/[Commie] Robotics;Notes - 04 [C1E1B38F].mkv
+complete/r/Robotics;Notes/[Commie] Robotics;Notes - 05 [9C8F5C36].mkv
+complete/r/Robotics;Notes/[Commie] Robotics;Notes - 06 [95BB47A9].mkv
+complete/r/Robotics;Notes/[Commie] Robotics;Notes - 07 [1A9DEE35].mkv
+complete/r/Robotics;Notes/[Commie] Robotics;Notes - 08 [8D52989B].mkv
+complete/r/Robotics;Notes/[Commie] Robotics;Notes - 09 [05254899].mkv
+complete/r/Robotics;Notes/[Commie] Robotics;Notes - 10 [576312B1].mkv
+complete/r/Robotics;Notes/[Commie] Robotics;Notes - 11 [1266575E].mkv
+complete/r/Robotics;Notes/[Commie] Robotics;Notes - 12 [04B0992D].mkv
+complete/r/Robotics;Notes/[Commie] Robotics;Notes - 13 [311E1A52].mkv
+complete/r/Robotics;Notes/[Commie] Robotics;Notes - 14 [CB1C3A84].mkv
+complete/r/Robotics;Notes/[Commie] Robotics;Notes - 15 [B81E35A7].mkv
+complete/r/Robotics;Notes/[Commie] Robotics;Notes - 16 [6770C040].mkv
+complete/r/Robotics;Notes/[Commie] Robotics;Notes - 17 [A6401DC9].mkv
+complete/r/Robotics;Notes/[Commie] Robotics;Notes - 18 [E4BDFFBC].mkv
+complete/r/Robotics;Notes/[Commie] Robotics;Notes - 19 [0D6DBF6F].mkv
+complete/r/Robotics;Notes/[Commie] Robotics;Notes - 20 [FA9B7461].mkv
+complete/r/Robotics;Notes/[Commie] Robotics;Notes - 21 [396BFF80].mkv
+complete/r/Robotics;Notes/[Commie] Robotics;Notes - 22 [End][6EE983F4].mkv
 complete/r/Rocket Girls/[Rakuda] Rocket Girls - 01 [4F4B8CD9].avi
 complete/r/Rocket Girls/[Rakuda] Rocket Girls - 02 [802BEBD3].avi
 complete/r/Rocket Girls/[Rakuda] Rocket Girls - 03 [FF3422C6].avi
@@ -20053,6 +20116,39 @@ complete/s/Sakura Wars/[AM] Sakura Wars - 22 [79CAC585].mkv
 complete/s/Sakura Wars/[AM] Sakura Wars - 23 [CDD9A257].mkv
 complete/s/Sakura Wars/[AM] Sakura Wars - 24 [AB988C22].mkv
 complete/s/Sakura Wars/[AM] Sakura Wars - 25 [End][AA3E91E5].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - 01 [C026AA28].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - 02 [A5561527].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - 03 [6831E7E2].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - 04 [1746BF2B].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - 05 [AEB8723A].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - 06 [3EDE6905].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - 07 [DADADAAA].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - 08 [25FE7EF2].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - 09 [C1FE26F1].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - 10 [5341E256].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - 11 [1BB342F3].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - 12 [476B8E59].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - 13 [880FC81D].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - 14 [494ABF94].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - 15 [8BD4CF80].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - 16 [0151A26F].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - 17 [CD855097].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - 18 [FCD5A64D].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - 19 [C670972A].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - 20 [70069C8F].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - 21 [4B96FE9F].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - 22 [A814ADA2].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - 23 [FA9F9E5B].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - 24 [End][96020783].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - Drama CD/01. Mashiro's Going to be Taking Care of You Today [F0CB400C].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - Drama CD/02. I'll Do Anything for You, Sorata [3F3D10A5].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - Drama CD/03. I'm Your Neighbor, and I'm Here to Play [096652E9].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - Drama CD/04. Then Were You Impersonating a Roasting Pig [2710E9BE].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - Drama CD/05. Respectfully Yours [41B6A348].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - Drama CD/06. But I Want to Take Care of You Too [627B42DE].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - Drama CD/07. Do You Love Me Enough to Dream About Me [FD5F4915].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - Drama CD/08. You Don't Want to Kiss Me [196989CF].mkv
+complete/s/Sakurasou no Pet na Kanojo/[rori] Sakurasou no Pet na Kanojo - Drama CD/09. Take Care of Me [8DDA45A6].mkv
 complete/s/Samurai 7/[KAA] Samurai 7 - 01 [DVD][1E1E0574].mkv
 complete/s/Samurai 7/[KAA] Samurai 7 - 02 [DVD][E15C41AD].mkv
 complete/s/Samurai 7/[KAA] Samurai 7 - 03 [DVD][01A9F600].mkv
@@ -23266,6 +23362,7 @@ complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - 10 [DC15110E].mkv
 complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - 11 [F0B03846].mkv
 complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - 12 [End][514BABE5].mkv
 complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness OVA - 01 [29FA608B].mkv
+complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness OVA - 02 [EB5217D2].mkv
 complete/t/To Love-Ru OVA/[Yabai] To Love-Ru OVA - 1 [DVD 10bit][173E7127].mkv
 complete/t/To Love-Ru OVA/[Yabai] To Love-Ru OVA - 2 [DVD 10bit][41C17D0D].mkv
 complete/t/To Love-Ru OVA/[Yabai] To Love-Ru OVA - 3 [DVD 10bit][B45C2BE7].mkv
