@@ -860,6 +860,7 @@ music/ASL/[ASL]_Shimotsuki_Haruka_-_Frost_Moon_Cafe _OP_ED_Theme_Single_-_smile_
 music/ASL/[ASL]_Shimotsuki_Haruka_-_Innocent_Grey_Shimotsuki_Haruka_Collection_-_Traumerei_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Shimotsuki_Haruka_-_Koboreru_Suna_no_Aria_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Shimotsuki_Haruka_-_Michibiki_no_Harmony_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Shimotsuki_Haruka_-_Omoi_no_Concerto_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Shimotsuki_Haruka_-_Oto_no_Compass_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Shimotsuki_Haruka_-_Tindharia_no_Kanade_-_Tindharia_no_Tane___Griotte_no_Nemurihime_Vocal___Original_Soundtrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Shimotsuki_Haruka_-_Tindharia_no_Kanade_Tindharia_no_Tane_Griotte_no_Nemurihime_Vocal_Original_Soundtrack_[FLAC]_[w_Scans].rar
@@ -1150,6 +1151,7 @@ music/ASL/[ASL]_Various_Artists_-_GWAVE_2008_1st_Experience_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_GWAVE_2008_2nd_Experience_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_GWAVE_2011_1st_Chronicle_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_GWAVE_2011_2nd_Chronicle_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_GWAVE_2012_1st_Memories_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_GWAVE_LOVE_BULLETSxTIE-UPPERS!_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_GWAVE_SuperFeature_s_vol_16_Sweetsongs_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_GWAVE_SuperFeature_s_vol_22_Astraythem_Blue_Disc_[FLAC].rar
@@ -1212,6 +1214,7 @@ music/ASL/[ASL]_Various_Artists_-_I_O_Perfect_Audiotracks_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_IdolMaster_-_Perfect_Idol_3_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Ikoku_Meiro_no_Croisee_OP_ED_Single_-_Sekai_wa_Odoru_yo_Kimi_to_Koko_kara_Hajimaru_Monogatari_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Ikoku_Meiro_no_Croisee_The_Animation_Original_Soundtrack_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_Ima_Sugu_Onii-chan_ni_Imouto_da_tte_Iitai_Original_Soundtrack_2_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Imasugu_Onii-chan_ni_Imouto_datte_Iitai_Theme_Song_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Imouto_Style_Original_Soundtrack_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Imouto_no_Katachi_Original_Sound_Track_[FLAC]_[w_Scans].rar
@@ -1542,6 +1545,7 @@ music/ASL/[ASL]_Various_Artists_-_Yuruyuri_Tokuten_Special-Sound_CD_vol3_[FLAC]_
 music/ASL/[ASL]_Various_Artists_-_Yuruyuri_no_Uta_Album_Aikawarazu_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_acoustic_guitar_de_air_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_always_vol.2_[FLAC].rar
+music/ASL/[ASL]_Various_Artists_-_applique_Song_Collection_-Tasogare_no_Saki_ni_Noboru_Ashita-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_atled_-everlasting_song_-Vocal Album-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_baka_to_test_to_shoukanjuu_ni_-_Watashi_to_Uchi_to_Otomegokoro_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_catwalk_ocelot_Vocal_Collection_CD_[FLAC]_[w_Scans].rar
@@ -1694,6 +1698,7 @@ music/ASL/[ASL]_supercell_feat.Hatsune_Miku_-_Hajimete_no_Koi_ga_Owaru_Toki_[FLA
 music/ASL/[ASL]_supercell_feat.Hatsune_Miku_-_supercell_tribute_-Stowaways-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_tohko_-_Aete_Mushisuru_Kimi_to_no_Mirai_Relay_broadcast_original_mini_soundtrack_[FLAC].rar
 music/ASL/[ASL]_tsundeRECords_-_PUDDLE_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_u_s_-_Love_Live_-_Susume_Tomorrow_STARTDASH_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_us_-_Love_Live_ED_-_Kitto_Seishun_ga_Kikoeru_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_yanaginagi_-_AMNESIA_OP_-_Zoetrope_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_yozuca_-_Dakara_Boku_wa_H_ga_Dekinai_ED_-_Platinum_17_[FLAC]_[w_Scans].rar
