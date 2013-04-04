@@ -793,6 +793,7 @@ music/ASL/[ASL]_R-15_Opening_Theme_-_Maji_Yaba_Mousou_LOVE_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_REMEDIOS_-_Ano_Hi_Mita_Hana_no_Namae_o_Boku-tachi_wa_Mada_Shiranai_Original_Soundtrack_REMEDIOS_Vol_1_[FLAC].rar
 music/ASL/[ASL]_REMEDIOS_-_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_Original_Soundtrack_Vol3_[FLAC].rar
 music/ASL/[ASL]_REMEDIOS_-_Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai_Original_Soundtrack_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_RESOUND_WAV_-_AirAria_AIR_Arrangement_sound_track_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_RO-KYU-BU_-_Ro-Kyu-Bu_OP_ED_Theme_-_SHOOT_[EXTRA].rar
 music/ASL/[ASL]_RO-KYU-BU_-_Ro-Kyu-Bu_OP_ED_Theme_-_SHOOT_[FLAC].rar
 music/ASL/[ASL]_ROOKiEZ_is_PUNK_D_-_Ao_no_exorcist_OP_-_IN_MY_WORLD_[FLAC]_[w_Scans].rar
@@ -1125,6 +1126,7 @@ music/ASL/[ASL]_Various_Artists_-_EXIT_TUNES_PRESENTS_Vocalonation_[FLAC]_[w_Sca
 music/ASL/[ASL]_Various_Artists_-_Eien_Shinken_Series_Vocal_Collection_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Elminage_II_DS_Remix_Best_Sound_Collection_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Escu-de_vocal_collection_vol.1_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_FAVORITE_10th_Anniversary_VOCAL_COLLECTION_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_FOLCLOLE_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_FORTUNE_ARTERIAL_Character_Song_Album_2_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_FORTUNE_ARTERIAL_Image_Theme_Maxi_Single_-_Tobira_Hiraite,_Futari_Mirai_e_[FLAC].rar
@@ -1614,6 +1616,7 @@ music/ASL/[ASL]_Yukizakurasou_-_Little_Busters_-Takeoff-_[FLAC].rar
 music/ASL/[ASL]_Yukizakurasou_-_Natsukage_Ano_Hikoukigumo_wo_Koeta,_Sono_Saki_e_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Yukizakurasou_-_Tori_no_Uta_-primal_sky-_[FLAC].rar
 music/ASL/[ASL]_Yukizakurasou_-_planetarian_~Chiisana_Hoshi_no_Uta~_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Yumeji_Ruri_-_Maou_to_Odore_CODEARCANA_Tokuten_Soundtrack_[FLAC].rar
 music/ASL/[ASL]_Yuuki_Aira_-_Kyoukaisen-jou_no_Horizon_II_ED_Side_SunSet_-_Kanashimi_wa_Dare_no_Negai_demo_nai_[FLAC].rar
 music/ASL/[ASL]_Yuzuki_Tina_-_Dousei_LoverAble_Theme_Song_-_Egaiteta_Yume_[FLAC].rar
 music/ASL/[ASL]_ZAQ_-_Chuunibyou_demo_Koi_ga_Shitai_OP_&_ED_-_Sparkling_Daydream_[FLAC]_[w_Scans].rar
@@ -5884,6 +5887,7 @@ music/Shin-S/[Shin-S] Accel World re acceleration Image Song - sympathia (FLAC) 
 music/Shin-S/[Shin-S] Accel World re acceleration Image Song - sympathia [Misawa Sachika].zip
 music/Shin-S/[Shin-S] Adlib Anime Kenkyuujo ED Single - WONDERFULER [Katou Emiri & Fukuhara Kaori].zip
 music/Shin-S/[Shin-S] Adlib Anime Kenkyuujo OP Single - Appare! Shunkan Sekkyoku Zai [Katou Emiri & Fukuhara Kaori].zip
+music/Shin-S/[Shin-S] Ai Mai Mii Theme Song Single - Girigiri Saikyou Ai Mai Mii! [Various].zip
 music/Shin-S/[Shin-S] Amagami SS+ OP Single - Check my soul [azusa].zip
 music/Shin-S/[Shin-S] Angel Beats! OP & ED Single - My Soul, Your Beats! [Lia & Tada Aoi].zip
 music/Shin-S/[Shin-S] Angel Beats! OP2 & Insert Song Album - Keep The Beats! [Girls Dead Monster].zip
@@ -5916,6 +5920,8 @@ music/Shin-S/[Shin-S] Ben-To OP Single - LIVE for LIFE ~Ookami-tachi no Yoru~ [A
 music/Shin-S/[Shin-S] Boku wa Tomodachi ga Sukunai Add-on Disc OVA ED Single - Kimi wa Tomodachi (FLAC) [Various].zip
 music/Shin-S/[Shin-S] Boku wa Tomodachi ga Sukunai ED Single - Watashi no Ki-mo-chi [Inoue Marina & Itou Kanae].zip
 music/Shin-S/[Shin-S] Boku wa Tomodachi ga Sukunai Hasegawa Kobato Character Song CD - Kobato no Utattemita! [Hanazawa Kana].zip
+music/Shin-S/[Shin-S] Boku wa Tomodachi ga Sukunai NEXT Character Song Single 1 - Kashiwazaki Sena (FLAC) [Itou Kanae].zip
+music/Shin-S/[Shin-S] Boku wa Tomodachi ga Sukunai NEXT Character Song Single 1 - Kashiwazaki Sena [Itou Kanae].zip
 music/Shin-S/[Shin-S] Boku wa Tomodachi ga Sukunai NEXT ED Single - Bokura no Tsubasa [Rinjin-Bu].zip
 music/Shin-S/[Shin-S] Boku wa Tomodachi ga Sukunai NEXT OP Single - Be My Friend [Rinjin-Bu].zip
 music/Shin-S/[Shin-S] Boku wa Tomodachi ga Sukunai TV OP & OVA ED Single - Zannenkei Rinjin-Bu (Hoshi Futatsu Han) [Various].zip
@@ -5990,6 +5996,7 @@ music/Shin-S/[Shin-S] Hanasaku Iroha Character Song Single - Oshimizu Nako [Toyo
 music/Shin-S/[Shin-S] Hanasaku Iroha Character Song Single - Wakura Yuina [Tomatsu Haruka].zip
 music/Shin-S/[Shin-S] Hanasaku Iroha HOME SWEET HOME Theme Song Single - Kagefumi [nano.RIPE].zip
 music/Shin-S/[Shin-S] Hanasaku Iroha OP Single - Hana no Iro [nano.RIPE].zip
+music/Shin-S/[Shin-S] Hanasaku Iroha Yunosagi Best Songs [Various].zip
 music/Shin-S/[Shin-S] Hanazawa Kana - Silent Snow.zip
 music/Shin-S/[Shin-S] Hanazawa Kana - claire.zip
 music/Shin-S/[Shin-S] Hayate no Gotoku! CAN'T TAKE MY EYES OFF YOU Character Song Single - Here I am, Here we are [Shiraishi Ryouko & Kugimiya Rie].zip
@@ -6093,10 +6100,12 @@ music/Shin-S/[Shin-S] Kyoukai Senjou no Horizon II ED Single -Side SunSet- - Kan
 music/Shin-S/[Shin-S] Kyoukai Senjou no Horizon II OP Single - ZONE ALONE [Chihara Minori].zip
 music/Shin-S/[Shin-S] Kyoukai Senjou no Horizon OP Single - TERMINATED [Chihara Minori].zip
 music/Shin-S/[Shin-S] Kyoukai Senjou no Horizon The Repertory 02 - Aoi Kimi [Saitou Chiwa].zip
+music/Shin-S/[Shin-S] LiSA - best day, best way.zip
 music/Shin-S/[Shin-S] Little Busters! OP & ED Single - Little Busters! ~TV animation ver.~ (FLAC) [Rita].zip
 music/Shin-S/[Shin-S] Love Live! ED Single - Kitto Seishun ga Kikoeru (FLAC) [μ's].zip
 music/Shin-S/[Shin-S] Love Live! Insert Song Single 1 - Susume Tomorrow (FLAC) [μ's].zip
 music/Shin-S/[Shin-S] Love Live! Insert Song Single 2 - Korekara no Someday (FLAC) [μ's].zip
+music/Shin-S/[Shin-S] Love Live! Insert Song Single 3 - No brand girls (FLAC) [μ's].zip
 music/Shin-S/[Shin-S] Love Live! OP Single - Bokura wa Ima no Naka de (FLAC) [μ's].zip
 music/Shin-S/[Shin-S] Love Live! μ's Best Album - Best Live! collection (FLAC) [μ's].zip
 music/Shin-S/[Shin-S] Magi Character Song 01 - Aladdin, Alibaba & Morgiana [Various].zip
@@ -6238,6 +6247,7 @@ music/Shin-S/[Shin-S] Senki Zesshou Symphogear Character Song 7 - Tachibana Hibi
 music/Shin-S/[Shin-S] Senki Zesshou Symphogear ED Single - Meteor Light [Takagaki Ayahi].zip
 music/Shin-S/[Shin-S] Senki Zesshou Symphogear OP Single - Synchrogazer [Mizuki Nana].zip
 music/Shin-S/[Shin-S] Senran Kagura ED Single - Fighting Dreamer [Various].zip
+music/Shin-S/[Shin-S] Senran Kagura ED Single 2 - Shissouron [Harada Hitomi].zip
 music/Shin-S/[Shin-S] Senran Kagura OP Single - Break your world (FLAC) [Sasaki Sayaka].zip
 music/Shin-S/[Shin-S] Shakugan no Shana III -Final- ED Single - I'll believe [ALTIMA].zip
 music/Shin-S/[Shin-S] Shakugan no Shana III -Final- ED2 Single - ONE [ALTIMA].zip
@@ -6251,6 +6261,7 @@ music/Shin-S/[Shin-S] Shinsekai Yori ED Single - Wareta Ringo [Taneda Risa & Han
 music/Shin-S/[Shin-S] Shinsekai Yori Original Soundtrack 1 (FLAC) [Komori Shigeo & Taneda Risa].zip
 music/Shin-S/[Shin-S] Shinsekai Yori Original Soundtrack 1 [Komori Shigeo & Taneda Risa].zip
 music/Shin-S/[Shin-S] Shirokuma Cafe ED Single - Bamboo Scramble [Fukuyama Jun].zip
+music/Shin-S/[Shin-S] Shirokuma Cafe ED10 Single - Bamboo Rendezvous [Hanazawa Kana].zip
 music/Shin-S/[Shin-S] Softenni ED Single - Tsumasaki Dachi [Itou Kanae].zip
 music/Shin-S/[Shin-S] Softenni OP Single - Rulebook wo Wasurechae [ULTRA-PRISM with Hakuouchuu Soft Tennis Club].zip
 music/Shin-S/[Shin-S] Star Driver THE MOVIE Theme Song Single - colorful (FLAC) [9nine].zip
@@ -6281,7 +6292,9 @@ music/Shin-S/[Shin-S] THE iDOLM@STER ANIM@TION MASTER Namassuka SPECIAL 04 [Vari
 music/Shin-S/[Shin-S] THE iDOLM@STER CINDERELLA MASTER 003 - Mimura Kanako [Ootsubo Yuka].zip
 music/Shin-S/[Shin-S] THE iDOLM@STER ED Single - The world is all one!! [765PRO ALLSTARS].zip
 music/Shin-S/[Shin-S] THE iDOLM@STER OP2 Single - CHANGE!!!! [765PRO ALLSTARS].zip
+music/Shin-S/[Shin-S] Tamako Market Character Song Album - twinkle ride CD [Various].zip
 music/Shin-S/[Shin-S] Tamako Market ED Single - Neguse (FLAC) [Suzaki Aya].zip
+music/Shin-S/[Shin-S] Tamako Market Insert Song Single - My Love's Like (FLAC) [Cage North].zip
 music/Shin-S/[Shin-S] Tamako Market OP Single - Dramatic Market Ride (FLAC) [Suzaki Aya].zip
 music/Shin-S/[Shin-S] Tamayura ~hitotose~ ED & Insert Song Single - Kami-sama no Itazura [Nakajima Megumi].zip
 music/Shin-S/[Shin-S] Tantei Opera Milky Holmes 2 ED Single - Lovely Girls Anthem [Asou Natsuko].zip
@@ -6313,10 +6326,12 @@ music/Shin-S/[Shin-S] Upotte!! OP Single - I.N.G [sweet ARMS].zip
 music/Shin-S/[Shin-S] Usagi Drop OP Single - SWEET DROPS [PUFFY].zip
 music/Shin-S/[Shin-S] Uta no Prince-sama Maji LOVE 1000% OP Single - Orpheus [Miyano Mamoru].zip
 music/Shin-S/[Shin-S] VA Compilation CD Vol.2 - Panorama (FLAC) [Various].zip
+music/Shin-S/[Shin-S] Vividred Operation ED & Character Song Collection 01 - WE ARE ONE! (FLAC) [Sakura Ayane & Murakawa Rie].zip
 music/Shin-S/[Shin-S] Vividred Operation ED & Character Song Collection 01 - WE ARE ONE! [Sakura Ayane & Murakawa Rie].zip
 music/Shin-S/[Shin-S] Vividred Operation OP Single - ENERGY (FLAC) [earthmind].zip
 music/Shin-S/[Shin-S] WORKING'!! OP & ED Single - COOLISH WALK [Various].zip
 music/Shin-S/[Shin-S] Wooser no Sono Higurashi Theme Song Single - Love Me Gimme (FLAC) [Tia produced by ryo (supercell)].zip
+music/Shin-S/[Shin-S] Yama no Susume Theme Song Single - Staccato Days [Iguchi Yuka & Asumi Kana].zip
 music/Shin-S/[Shin-S] Yanagi Nagi - Hoshi Akari no Gaitou.zip
 music/Shin-S/[Shin-S] Yuru Yuri 2 ED Single - 100% Chu~Gakusei [Various].zip
 music/Shin-S/[Shin-S] Yuru Yuri 2 Music 00 - Mirakurun [Taketatsu Ayana].zip

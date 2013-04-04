@@ -2354,8 +2354,8 @@ complete/b/Blue Submarine/[zx] Blue Submarine - 2 [BCFAE4DC].mkv
 complete/b/Blue Submarine/[zx] Blue Submarine - 3 [9BCC6C28].mkv
 complete/b/Blue Submarine/[zx] Blue Submarine - 4 [End][784D3582].mkv
 complete/b/Boku Otaryman/[Frostii] Boku Otaryman [v2][D3A91CE7].mkv
-complete/b/Boku no Imouto wa Osaka Okan/[Commie] Boku no Imouto wa Osaka Okan - 01 [551C5328].mkv
-complete/b/Boku no Imouto wa Osaka Okan/[Commie] Boku no Imouto wa Osaka Okan - 02 [65C0D763].mkv
+complete/b/Boku no Imouto wa Osaka Okan/[Commie] Boku no Imouto wa Osaka Okan - 01 [v2][D07619B6].mkv
+complete/b/Boku no Imouto wa Osaka Okan/[Commie] Boku no Imouto wa Osaka Okan - 02 [v2][EA716EF8].mkv
 complete/b/Boku no Imouto wa Osaka Okan/[Commie] Boku no Imouto wa Osaka Okan - 03 [4150ABDB].mkv
 complete/b/Boku no Imouto wa Osaka Okan/[Commie] Boku no Imouto wa Osaka Okan - 04 [638D395B].mkv
 complete/b/Boku no Imouto wa Osaka Okan/[Commie] Boku no Imouto wa Osaka Okan - 05 [93A6872C].mkv
@@ -2363,19 +2363,9 @@ complete/b/Boku no Imouto wa Osaka Okan/[Commie] Boku no Imouto wa Osaka Okan - 
 complete/b/Boku no Imouto wa Osaka Okan/[Commie] Boku no Imouto wa Osaka Okan - 07 [D5DCD984].mkv
 complete/b/Boku no Imouto wa Osaka Okan/[Commie] Boku no Imouto wa Osaka Okan - 08 [4E6049E6].mkv
 complete/b/Boku no Imouto wa Osaka Okan/[Commie] Boku no Imouto wa Osaka Okan - 09 [B73F8AF2].mkv
-complete/b/Boku no Imouto wa Osaka Okan/[Commie] Boku no Imouto wa Osaka Okan - 10 [7A98F791].mkv
+complete/b/Boku no Imouto wa Osaka Okan/[Commie] Boku no Imouto wa Osaka Okan - 10 [v2][ECCAB501].mkv
 complete/b/Boku no Imouto wa Osaka Okan/[Commie] Boku no Imouto wa Osaka Okan - 11 [3B54112A].mkv
-complete/b/Boku no Imouto wa Osaka Okan/[Commie] Boku no Imouto wa Osaka Okan - 12 [End][F1E06B60].mkv
-complete/b/Boku no Imouto wa Osaka Okan/[HorribleSubs] Boku no Imouto wa Osaka Okan - 01 [720p][24B51F01].mkv
-complete/b/Boku no Imouto wa Osaka Okan/[HorribleSubs] Boku no Imouto wa Osaka Okan - 02 [720p][447047D8].mkv
-complete/b/Boku no Imouto wa Osaka Okan/[HorribleSubs] Boku no Imouto wa Osaka Okan - 03 [720p][572A29A9].mkv
-complete/b/Boku no Imouto wa Osaka Okan/[HorribleSubs] Boku no Imouto wa Osaka Okan - 04 [720p][D0DA44E3].mkv
-complete/b/Boku no Imouto wa Osaka Okan/[HorribleSubs] Boku no Imouto wa Osaka Okan - 05 [720p][450C84DC].mkv
-complete/b/Boku no Imouto wa Osaka Okan/[HorribleSubs] Boku no Imouto wa Osaka Okan - 06 [720p][3FE69B7A].mkv
-complete/b/Boku no Imouto wa Osaka Okan/[HorribleSubs] Boku no Imouto wa Osaka Okan - 07 [720p][D223C68B].mkv
-complete/b/Boku no Imouto wa Osaka Okan/[HorribleSubs] Boku no Imouto wa Osaka Okan - 08 [720p][2AB87D9A].mkv
-complete/b/Boku no Imouto wa Osaka Okan/[HorribleSubs] Boku no Imouto wa Osaka Okan - 09 [720p][AD7248B7].mkv
-complete/b/Boku no Imouto wa Osaka Okan/[HorribleSubs] Boku no Imouto wa Osaka Okan - 10 [720p][79F0E438].mkv
+complete/b/Boku no Imouto wa Osaka Okan/[Commie] Boku no Imouto wa Osaka Okan - 12 [End][v2][0C7187E1].mkv
 complete/b/Boku wa Tomodachi ga Sukunai/[Commie] Boku wa Tomodachi ga Sukunai - 00 OVA [6C477CD0].mkv
 complete/b/Boku wa Tomodachi ga Sukunai/[Mazui] Boku wa Tomodachi ga Sukunai - 00 OVA [858EBA34].mkv
 complete/b/Boku wa Tomodachi ga Sukunai/[Mazui] Boku wa Tomodachi ga Sukunai - 01 [89288C3C].mkv
@@ -2532,18 +2522,18 @@ complete/b/Busou Renkin/[Kyuu] Busou Renkin - 24 [A50EB28D].avi
 complete/b/Busou Renkin/[Kyuu] Busou Renkin - 25 [06E8B5C7].avi
 complete/b/Busou Renkin/[Kyuu] Busou Renkin - 26 [End][BD36EDE8].avi
 complete/b/Busou Shinki Moon Angel/[Commie] Busou Shinki Moon Angel [1080p BD][F1661D05].mkv
-complete/b/Busou Shinki/[Commie] Busou Shinki - 01 [77A1EB68].mkv
-complete/b/Busou Shinki/[Commie] Busou Shinki - 02 [6D3E6C7D].mkv
-complete/b/Busou Shinki/[Commie] Busou Shinki - 03 [59570B93].mkv
-complete/b/Busou Shinki/[Commie] Busou Shinki - 04 [AB47B24F].mkv
-complete/b/Busou Shinki/[Commie] Busou Shinki - 05 [E93D7A64].mkv
-complete/b/Busou Shinki/[Commie] Busou Shinki - 06 [8895AE0E].mkv
-complete/b/Busou Shinki/[Commie] Busou Shinki - 07 [8CE66944].mkv
-complete/b/Busou Shinki/[Commie] Busou Shinki - 08 [A659AF99].mkv
-complete/b/Busou Shinki/[Commie] Busou Shinki - 09 [61B5879D].mkv
-complete/b/Busou Shinki/[Commie] Busou Shinki - 10 [9CE4C3D5].mkv
-complete/b/Busou Shinki/[Commie] Busou Shinki - 11 [878BD23C].mkv
-complete/b/Busou Shinki/[Commie] Busou Shinki - 12 [End][A86F6378].mkv
+complete/b/Busou Shinki/[Commie] Busou Shinki - 01 [v2][F3D22869].mkv
+complete/b/Busou Shinki/[Commie] Busou Shinki - 02 [v2][3D2D2CBA].mkv
+complete/b/Busou Shinki/[Commie] Busou Shinki - 03 [v2][22A1E68E].mkv
+complete/b/Busou Shinki/[Commie] Busou Shinki - 04 [v2][BEBDAE0E].mkv
+complete/b/Busou Shinki/[Commie] Busou Shinki - 05 [v2][4F2F437D].mkv
+complete/b/Busou Shinki/[Commie] Busou Shinki - 06 [v2][50E6E05C].mkv
+complete/b/Busou Shinki/[Commie] Busou Shinki - 07 [v2][E35BE2FD].mkv
+complete/b/Busou Shinki/[Commie] Busou Shinki - 08 [v2][904DEE20].mkv
+complete/b/Busou Shinki/[Commie] Busou Shinki - 09 [v2][2782789A].mkv
+complete/b/Busou Shinki/[Commie] Busou Shinki - 10 [v2][33A988A1].mkv
+complete/b/Busou Shinki/[Commie] Busou Shinki - 11 [v2][AEEB9336].mkv
+complete/b/Busou Shinki/[Commie] Busou Shinki - 12 [End][v2][6CD46DB4].mkv
 complete/b/Butt Biting Bug/[Commie] Butt Biting Bug - 01 [4F42FC8F].mkv
 complete/b/Butt Biting Bug/[Commie] Butt Biting Bug - 02 [081505D5].mkv
 complete/b/Butt Biting Bug/[Commie] Butt Biting Bug - 03 [B5E8F69F].mkv
@@ -15344,20 +15334,19 @@ complete/m/Mitsudomoe Picture Drama/[m.3.3.w] Mitsudomoe Picture Drama - 3 [7545
 complete/m/Mitsudomoe Picture Drama/[m.3.3.w] Mitsudomoe Picture Drama - 4 [8F4EC242].mkv
 complete/m/Mitsudomoe Picture Drama/[m.3.3.w] Mitsudomoe Picture Drama - 5 [0A8EEB54].mkv
 complete/m/Mitsudomoe Picture Drama/[m.3.3.w] Mitsudomoe Picture Drama - 6 [End][9675C519].mkv
-complete/m/Mitsudomoe Zouryouchuu!/[polished] Mitsudomoe Zouryouchuu! - 1 [1080p BD][D2736550].mkv
-complete/m/Mitsudomoe Zouryouchuu!/[polished] Mitsudomoe Zouryouchuu! - 2 [1080p BD][1D036B53].mkv
-complete/m/Mitsudomoe Zouryouchuu!/[polished] Mitsudomoe Zouryouchuu! - 3 [1080p BD][6DE67AAD].mkv
-complete/m/Mitsudomoe Zouryouchuu!/[polished] Mitsudomoe Zouryouchuu! - 4 [1080p BD][9EF772EC].mkv
-complete/m/Mitsudomoe Zouryouchuu!/[polished] Mitsudomoe Zouryouchuu! - 5 [1080p BD][A5D7FD34].mkv
-complete/m/Mitsudomoe Zouryouchuu!/[polished] Mitsudomoe Zouryouchuu! - 6 [1080p BD][EA56A96F].mkv
-complete/m/Mitsudomoe Zouryouchuu!/[polished] Mitsudomoe Zouryouchuu! - 7 [1080p BD][FFDC36BD].mkv
-complete/m/Mitsudomoe Zouryouchuu!/[polished] Mitsudomoe Zouryouchuu! - 8 [End][1080p BD][1815B794].mkv
-complete/m/Mitsudomoe Zouryouchuu!/[polished] Mitsudomoe Zouryouchuu! - Ending 1 (Clean) [1080p BD][2026E01C].mkv
-complete/m/Mitsudomoe Zouryouchuu!/[polished] Mitsudomoe Zouryouchuu! - Ending 2 (Clean) [1080p BD][BD5B2277].mkv
-complete/m/Mitsudomoe Zouryouchuu!/[polished] Mitsudomoe Zouryouchuu! - Ending 3 (Clean) [1080p BD][5E365BAD].mkv
-complete/m/Mitsudomoe Zouryouchuu!/[polished] Mitsudomoe Zouryouchuu! - Ending 4 (Clean) [1080p BD][D9810FF6].mkv
-complete/m/Mitsudomoe Zouryouchuu!/[polished] Mitsudomoe Zouryouchuu! - Opening 1 (Clean) [1080p BD][284AE0D0].mkv
-complete/m/Mitsudomoe Zouryouchuu!/[polished] Mitsudomoe Zouryouchuu! - Opening 2 (Clean) [1080p BD][5922C902].mkv
+complete/m/Mitsudomoe Zouryouchuu!/[DmonHiro] Mitsudomoe Zouryouchuu! - 01 [720p BD][9C32BC06].mkv
+complete/m/Mitsudomoe Zouryouchuu!/[DmonHiro] Mitsudomoe Zouryouchuu! - 02 [720p BD][C665E29D].mkv
+complete/m/Mitsudomoe Zouryouchuu!/[DmonHiro] Mitsudomoe Zouryouchuu! - 03 [720p BD][1AA965EA].mkv
+complete/m/Mitsudomoe Zouryouchuu!/[DmonHiro] Mitsudomoe Zouryouchuu! - 04 [720p BD][FC27A15C].mkv
+complete/m/Mitsudomoe Zouryouchuu!/[DmonHiro] Mitsudomoe Zouryouchuu! - 05 [720p BD][D0D10716].mkv
+complete/m/Mitsudomoe Zouryouchuu!/[DmonHiro] Mitsudomoe Zouryouchuu! - 06 [720p BD][36327F49].mkv
+complete/m/Mitsudomoe Zouryouchuu!/[DmonHiro] Mitsudomoe Zouryouchuu! - 07 [720p BD][EC603D81].mkv
+complete/m/Mitsudomoe Zouryouchuu!/[DmonHiro] Mitsudomoe Zouryouchuu! - 08 [End][720p BD][334342AE].mkv
+complete/m/Mitsudomoe Zouryouchuu!/[DmonHiro] Mitsudomoe Zouryouchuu! - Ending 1 (Clean) [720p BD][BF4B3785].mkv
+complete/m/Mitsudomoe Zouryouchuu!/[DmonHiro] Mitsudomoe Zouryouchuu! - Ending 2 (Clean) [720p BD][2CDE8D60].mkv
+complete/m/Mitsudomoe Zouryouchuu!/[DmonHiro] Mitsudomoe Zouryouchuu! - Ending 3 (Clean) [720p BD][4660CC6E].mkv
+complete/m/Mitsudomoe Zouryouchuu!/[DmonHiro] Mitsudomoe Zouryouchuu! - Opening 1 (Clean) [720p BD][432954ED].mkv
+complete/m/Mitsudomoe Zouryouchuu!/[DmonHiro] Mitsudomoe Zouryouchuu! - Opening 2 (Clean) [720p BD][7724624C].mkv
 complete/m/Mitsudomoe/[polished] Mitsudomoe - 01 [v2 1080p BD][F05BD8B1].mkv
 complete/m/Mitsudomoe/[polished] Mitsudomoe - 02 [v2 1080p BD][D90EE8FE].mkv
 complete/m/Mitsudomoe/[polished] Mitsudomoe - 03 [1080p BD][B94932B4].mkv
@@ -18216,6 +18205,7 @@ complete/p/Prince of Tennis - National Tournament Semifinals/[Saizen] Prince of 
 complete/p/Prince of Tennis - National Tournament Semifinals/[Saizen] Prince of Tennis - National Championship Chapter Semifinals - 5 [DVD][A04599B9].mp4
 complete/p/Prince of Tennis - National Tournament Semifinals/[Saizen] Prince of Tennis - National Championship Chapter Semifinals - 6 [End][DVD][4931085E].mp4
 complete/p/Prince of Tennis - Special - The Truth Behind the Genius/[Shinsen-Subs] Prince of Tennis - Special - The Truth Behind the Genius [490EDE87].avi
+complete/p/Prince of Tennis - The Ultimate Tennis Match at an English Castle!/[Ryugan-Saizen] Prince of Tennis - The Ultimate Tennis Match at an English Castle! [DVD][1712C9E6].mkv
 complete/p/Prince of Tennis OVA/[a-o] Prince of Tennis OVA - A Day of the Survival Mountain [67B631FD].avi
 complete/p/Prince of Tennis/Prince of Tennis - 001 [a-o][074B1230].avi
 complete/p/Prince of Tennis/Prince of Tennis - 002 [a-o][423A2008].avi
@@ -22156,8 +22146,8 @@ complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 03 [720p BD][41509560].mkv
 complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 04 [720p BD][F515C89B].mkv
 complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 05 [720p BD][E83E2549].mkv
 complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 06 [720p BD][A14DD8DB].mkv
-complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 07 [D2CBDEAC].mkv
-complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 08 [v2][620911BF].mkv
+complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 07 [720p BD][740F2161].mkv
+complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 08 [720p BD][CE6FA299].mkv
 complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 09 [v2][60A85459].mkv
 complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 10 [D0428276].mkv
 complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - 11 [892B7181].mkv
@@ -22171,6 +22161,8 @@ complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - Special 03 [720p BD][9717688
 complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - Special 04 [720p BD][6B8922BD].mkv
 complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - Special 05 [720p BD][668A97C7].mkv
 complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - Special 06 [720p BD][F5BC53CB].mkv
+complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - Special 07 [720p BD][95E098AD].mkv
+complete/s/Sukitte Iinayo/[Commie] Sukitte Iinayo - Special 08 [720p BD][39EAF3BC].mkv
 complete/s/Summer Storm! - Open for Business/[Commie-Yanks] Summer Storm! - Open for Business - 13 [End][DVD][C613EAB5].mkv
 complete/s/Summer Storm! - Open for Business/[Commie] Summer Storm! - Open for Business - 02 [v2][75E7E6FA].mkv
 complete/s/Summer Storm! - Open for Business/[Commie] Summer Storm! - Open for Business - 03 [55286CB5].mkv
