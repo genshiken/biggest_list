@@ -8324,8 +8324,7 @@ complete/g/Guyver - The Bioboosted Armor/[G-F] Guyver - The Bioboosted Armor - 2
 complete/g/Guyver - The Bioboosted Armor/[G-F] Guyver - The Bioboosted Armor - 24 [31B80DBB].mp4
 complete/g/Guyver - The Bioboosted Armor/[G-F] Guyver - The Bioboosted Armor - 25 [3394766D].mp4
 complete/g/Guyver - The Bioboosted Armor/[G-F] Guyver - The Bioboosted Armor - 26 [End][3EA97B39].mp4
-complete/g/Gyo OVA/[GotWoot] Gyo [C549FBB8].mkv
-complete/g/Gyo OVA/[WhyNot] Gyo OVA [v0 720p BD][E2F6B2AA].mkv
+complete/g/Gyo OVA/[WhyNot] Gyo OVA [BD 720p][4406948B].mkv
 complete/h/H2 - Specials/[ILA] H2 - Special 1 [81D42307].ogm
 complete/h/H2 - Specials/[ILA] H2 - Special 2 [B7721DC8].ogm
 complete/h/H2/[ILA] H2 - 01 [v2][73A6AC24].ogm
@@ -9633,6 +9632,45 @@ complete/h/Hyakko/[SS] Hyakko - 10 (1280x720) [8D266761].mkv
 complete/h/Hyakko/[SS] Hyakko - 11 (1280x720) [13BF0607].mkv
 complete/h/Hyakko/[SS] Hyakko - 12 (1280x720) [A745A789].mkv
 complete/h/Hyakko/[SS] Hyakko - 13 (1280x720) [End][8077AB71].mkv
+complete/h/Hyouge Mono/[Doremi] Hyouge Mono - 15 [F8D7FFC4].mkv
+complete/h/Hyouge Mono/[Doremi] Hyouge Mono - 16 [1C1C4389].mkv
+complete/h/Hyouge Mono/[Doremi] Hyouge Mono - 17 [51DA6A25].mkv
+complete/h/Hyouge Mono/[Doremi] Hyouge Mono - 18 [4C06816C].mkv
+complete/h/Hyouge Mono/[Doremi] Hyouge Mono - 19 [581C7A77].mkv
+complete/h/Hyouge Mono/[Doremi] Hyouge Mono - 20 [D17FF871].mkv
+complete/h/Hyouge Mono/[Doremi] Hyouge Mono - 21 [E0DF656E].mkv
+complete/h/Hyouge Mono/[Doremi] Hyouge Mono - 22 [8C3E9D67].mkv
+complete/h/Hyouge Mono/[Doremi] Hyouge Mono - 23 [200D0E77].mkv
+complete/h/Hyouge Mono/[Doremi] Hyouge Mono - 24 [7DD665B5].mkv
+complete/h/Hyouge Mono/[Doremi] Hyouge Mono - 25 [809170B8].mkv
+complete/h/Hyouge Mono/[Doremi] Hyouge Mono - 26 [491ED322].mkv
+complete/h/Hyouge Mono/[Doremi] Hyouge Mono - 27 [80557F31].mkv
+complete/h/Hyouge Mono/[Doremi] Hyouge Mono - 28 [DDF13BDF].mkv
+complete/h/Hyouge Mono/[Doremi] Hyouge Mono - 29 [48EDCED7].mkv
+complete/h/Hyouge Mono/[Doremi] Hyouge Mono - 30 [106C2073].mkv
+complete/h/Hyouge Mono/[Doremi] Hyouge Mono - 31 [692EB1B0].mkv
+complete/h/Hyouge Mono/[Doremi] Hyouge Mono - 32 [0C24D09B].mkv
+complete/h/Hyouge Mono/[Doremi] Hyouge Mono - 33 [12F1835A].mkv
+complete/h/Hyouge Mono/[Doremi] Hyouge Mono - 34 [3373BFF0].mkv
+complete/h/Hyouge Mono/[Doremi] Hyouge Mono - 35 [B45F405E].mkv
+complete/h/Hyouge Mono/[Doremi] Hyouge Mono - 36 [C3BC1130].mkv
+complete/h/Hyouge Mono/[Doremi] Hyouge Mono - 37 [ACC93D64].mkv
+complete/h/Hyouge Mono/[Doremi] Hyouge Mono - 38 [515AB6D9].mkv
+complete/h/Hyouge Mono/[Doremi] Hyouge Mono - 39 [End][AD37664A].mkv
+complete/h/Hyouge Mono/[Huzzah] Hyouge Mono - 01 [7EE66910].mkv
+complete/h/Hyouge Mono/[Huzzah] Hyouge Mono - 02 [92ABA684].mkv
+complete/h/Hyouge Mono/[Huzzah] Hyouge Mono - 03 [6A09E57E].mkv
+complete/h/Hyouge Mono/[Huzzah] Hyouge Mono - 04 [B02B342B].mkv
+complete/h/Hyouge Mono/[Huzzah] Hyouge Mono - 05 [AEFD43AB].mkv
+complete/h/Hyouge Mono/[Huzzah] Hyouge Mono - 06 [0F79B85D].mkv
+complete/h/Hyouge Mono/[Huzzah] Hyouge Mono - 07 [6CBD5CC4].mkv
+complete/h/Hyouge Mono/[Huzzah] Hyouge Mono - 08 [2544F708].mkv
+complete/h/Hyouge Mono/[Huzzah] Hyouge Mono - 09 [751F62DA].mkv
+complete/h/Hyouge Mono/[Huzzah] Hyouge Mono - 10 [2EB089CB].mkv
+complete/h/Hyouge Mono/[Huzzah] Hyouge Mono - 11 [10CE194C].mkv
+complete/h/Hyouge Mono/[Huzzah] Hyouge Mono - 12 [10D01102].mkv
+complete/h/Hyouge Mono/[Huzzah] Hyouge Mono - 13 [8D6ABFB2].mkv
+complete/h/Hyouge Mono/[Huzzah] Hyouge Mono - 14 [522A80AF].mkv
 complete/h/Hyouka/[Commie] Hyouka - 01 [7CBD29BC].mkv
 complete/h/Hyouka/[Commie] Hyouka - 02 [v2][82AF6EF7].mkv
 complete/h/Hyouka/[Commie] Hyouka - 03 [CED1D963].mkv

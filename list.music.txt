@@ -4378,6 +4378,7 @@ music/Nipponsei/[Nipponsei] Fushigi Hoshi no Futago Hime ED Single - Oshare Fant
 music/Nipponsei/[Nipponsei] GIRLS und PANZER ED Single - Enter Enter MISSION! [Various].zip
 music/Nipponsei/[Nipponsei] GIRLS und PANZER OP Single - Dream Riser [ChouCho].zip
 music/Nipponsei/[Nipponsei] GIRLS und Panzer Original Soundtrack.zip
+music/Nipponsei/[Nipponsei] GJ-bu Character Song & Soundtrack Kouhen GJ-bu no Ongaku 'J'.zip
 music/Nipponsei/[Nipponsei] GJ-bu Character Song & Soundtrack Zenpun GJ-bu no Ongaku 'G'.zip
 music/Nipponsei/[Nipponsei] GJ-bu OP Single - Mousou Koukan Nikki [Otome Shintou].zip
 music/Nipponsei/[Nipponsei] Gakuen Alice OP ED Single - Pikapika no Taiyo [Ueda Kana   Kugimiya Rie] [E1FCC52E] 320k CBR.zip
@@ -4597,6 +4598,7 @@ music/Nipponsei/[Nipponsei] Jinrui wa Suitai Shimashita OP Single - Real World [
 music/Nipponsei/[Nipponsei] Jinrui wa Suitai Shimashita Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Jojo no Kimyou na Bouken OP Single - Jojo ~Sono Chi no Sadame~ [Tominaga TOMMY Hiroaki].zip
 music/Nipponsei/[Nipponsei] Jojo no Kimyou na Bouken OP2 Single - BLOODY STREAM [Coda].zip
+music/Nipponsei/[Nipponsei] Jojo no Kimyou na Bouken Original Soundtrack - Battle Tendency.zip
 music/Nipponsei/[Nipponsei] Jojo no Kimyou na Bouken Original Soundtrack - Phantom Blood [Future].zip
 music/Nipponsei/[Nipponsei] Jormungand ED Single - Ambivalentidea [Yanagi Nagi].zip
 music/Nipponsei/[Nipponsei] Jormungand Original Soundtrack.zip
@@ -4840,6 +4842,8 @@ music/Nipponsei/[Nipponsei] Manyuu Hikenchou OP ED Single - Unmei [AiRI].zip
 music/Nipponsei/[Nipponsei] Manyuu Hikenchou Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Maoyuu Maou Yuusha ED Single - Unknown Vision [Arai Akino].zip
 music/Nipponsei/[Nipponsei] Maoyuu Maou Yuusha OP Single - Mukaikaze [YOHKO].zip
+music/Nipponsei/[Nipponsei] Maoyuu Maou Yuusha Original Soundtrack - Maou Ban.zip
+music/Nipponsei/[Nipponsei] Maoyuu Maou Yuusha Original Soundtrack - Yuu Ban.zip
 music/Nipponsei/[Nipponsei] Maria Holic Alive OP ED Single - Runrunriru Ranranrara [Various].zip
 music/Nipponsei/[Nipponsei] Maria-sama ga Miteru OVA ED Single - Chercher [KOTOKO].zip
 music/Nipponsei/[Nipponsei] Mashiroiro Symphony Character Song Vol.1 - Sena Airi & Uryuu Sakuno.zip
@@ -5234,6 +5238,7 @@ music/Nipponsei/[Nipponsei] Sankarea Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Saraiya Goyou ED Single - Sign of Love [immi].zip
 music/Nipponsei/[Nipponsei] Saraiya Goyou Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Sasami-san @ Ganbaranai OP Single - Alteration [ZAQ].zip
+music/Nipponsei/[Nipponsei] Sasami-san @ Ganbaranai Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Sayonara Zetsubou Sensei Character Song Album.zip
 music/Nipponsei/[Nipponsei] Sayonara Zetsubou Sensei Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] School Days Anime Original Soundtrack.zip

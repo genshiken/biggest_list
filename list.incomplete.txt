@@ -852,44 +852,6 @@ incomplete/Honto ni Atta! Reibai Sensei/[IB] Honto ni Atta! Reibai Sensei - 19 [
 incomplete/Honto ni Atta! Reibai Sensei/[IB] Honto ni Atta! Reibai Sensei - 20 [720p][6BDEB29B].mkv
 incomplete/Honto ni Atta! Reibai Sensei/[IB] Honto ni Atta! Reibai Sensei - 21 [720p][A955DFC1].mkv
 incomplete/Honto ni Atta! Reibai Sensei/[IB] Honto ni Atta! Reibai Sensei - 22 [720p][854F400D].mkv
-incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 15 [F8D7FFC4].mkv
-incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 16 [1C1C4389].mkv
-incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 17 [51DA6A25].mkv
-incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 18 [4C06816C].mkv
-incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 19 [581C7A77].mkv
-incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 20 [D17FF871].mkv
-incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 21 [E0DF656E].mkv
-incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 22 [8C3E9D67].mkv
-incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 23 [200D0E77].mkv
-incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 24 [7DD665B5].mkv
-incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 25 [809170B8].mkv
-incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 26 [491ED322].mkv
-incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 27 [80557F31].mkv
-incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 28 [DDF13BDF].mkv
-incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 29 [48EDCED7].mkv
-incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 30 [106C2073].mkv
-incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 31 [692EB1B0].mkv
-incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 32 [0C24D09B].mkv
-incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 33 [12F1835A].mkv
-incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 34 [3373BFF0].mkv
-incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 35 [B45F405E].mkv
-incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 36 [C3BC1130].mkv
-incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 37 [ACC93D64].mkv
-incomplete/Hyouge Mono/[Doremi] Hyouge Mono - 38 [515AB6D9].mkv
-incomplete/Hyouge Mono/[Huzzah] Hyouge Mono - 01 [7EE66910].mkv
-incomplete/Hyouge Mono/[Huzzah] Hyouge Mono - 02 [92ABA684].mkv
-incomplete/Hyouge Mono/[Huzzah] Hyouge Mono - 03 [6A09E57E].mkv
-incomplete/Hyouge Mono/[Huzzah] Hyouge Mono - 04 [B02B342B].mkv
-incomplete/Hyouge Mono/[Huzzah] Hyouge Mono - 05 [AEFD43AB].mkv
-incomplete/Hyouge Mono/[Huzzah] Hyouge Mono - 06 [0F79B85D].mkv
-incomplete/Hyouge Mono/[Huzzah] Hyouge Mono - 07 [6CBD5CC4].mkv
-incomplete/Hyouge Mono/[Huzzah] Hyouge Mono - 08 [2544F708].mkv
-incomplete/Hyouge Mono/[Huzzah] Hyouge Mono - 09 [751F62DA].mkv
-incomplete/Hyouge Mono/[Huzzah] Hyouge Mono - 10 [2EB089CB].mkv
-incomplete/Hyouge Mono/[Huzzah] Hyouge Mono - 11 [10CE194C].mkv
-incomplete/Hyouge Mono/[Huzzah] Hyouge Mono - 12 [10D01102].mkv
-incomplete/Hyouge Mono/[Huzzah] Hyouge Mono - 13 [8D6ABFB2].mkv
-incomplete/Hyouge Mono/[Huzzah] Hyouge Mono - 14 [522A80AF].mkv
 incomplete/Idol Densetsu Eriko/[KiteSeekers-Licca] Idol Densetsu Eriko - 11 [DVD][9CF7FE22].mkv
 incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 01 [5F1FCE3C].mkv
 incomplete/Igano Kabamaru/[Saizen] Igano Kabamaru - 02 [CD5565DA].mkv
@@ -1283,6 +1245,7 @@ incomplete/Miracle Train/[Shinsen-Subs] Miracle Train - 12 [4E9E078A].mkv
 incomplete/Miracle Train/[Shinsen-Subs] Miracle Train - 13 [D44BC1BB].mkv
 incomplete/Miyuki/[FroZen-EviL] Miyuki - 01 [DVD][ADCB65B5].mkv
 incomplete/Miyuki/[FroZen-EviL] Miyuki - 02 [DVD][3DAAFF6B].mkv
+incomplete/Miyuki/[FroZen-EviL] Miyuki - 03 [DVD][C90729BC].mkv
 incomplete/Mizu Iro Jidai/[KiteSeekers] Mizu Iro Jidai - 29 [C61B844F].mkv
 incomplete/Mizu Iro Jidai/[KiteSeekers] Mizu Iro Jidai - 30 [73039107].mkv
 incomplete/Mizu Iro Jidai/[KiteSeekers] Mizu Iro Jidai - 32 [C1454A4D].mkv
@@ -2368,6 +2331,7 @@ incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 31 [72
 incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 32 [720p][26E8E9E6].mkv
 incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 33 [720p][B6B4FC12].mkv
 incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 34 [720p][07DFCA48].mkv
+incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 35 [720p][70079107].mkv
 incomplete/Yes! Pretty Cure 5/[PCSS] Yes! Pretty Cure 5 - 21 [DVD][5D1AE662].mkv
 incomplete/Yes! Pretty Cure 5/[PCSS] Yes! Pretty Cure 5 - 22 [DVD][2F80A6AD].mkv
 incomplete/Yes! Pretty Cure 5/[PCSS] Yes! Pretty Cure 5 - 23 [DVD][CA2E363E].mkv
