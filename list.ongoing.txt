@@ -188,6 +188,19 @@ ongoing/!complete-recent/Girls und Panzer/[Commie] Girls und Panzer - 11 [49DDE4
 ongoing/!complete-recent/Girls und Panzer/[Commie] Girls und Panzer - 12 [End][v2][4A4FF7AF].mkv
 ongoing/!complete-recent/Girls und Panzer/[Hiryuu] Girls und Panzer - 10.5 [720p][AF018B54].mkv
 ongoing/!complete-recent/Girls und Panzer/[Hiryuu] Girls und Panzer - Special 1 [1080p BD][A488EFD6].mkv
+ongoing/!complete-recent/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 01 [720p][F4FC02B8].mkv
+ongoing/!complete-recent/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 02 [720p][D4D378EA].mkv
+ongoing/!complete-recent/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 03 [720p][BD2D8454].mkv
+ongoing/!complete-recent/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 04 [720p][C6D2E700].mkv
+ongoing/!complete-recent/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 05 [720p][6418F76D].mkv
+ongoing/!complete-recent/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 06 [720p][3D4A10AF].mkv
+ongoing/!complete-recent/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 07 [720p][1F4FD2BB].mkv
+ongoing/!complete-recent/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 08 [720p][D1E2C287].mkv
+ongoing/!complete-recent/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 09 [720p][F14B4229].mkv
+ongoing/!complete-recent/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 10 [720p][B5615C02].mkv
+ongoing/!complete-recent/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 11 [720p][ABE4914E].mkv
+ongoing/!complete-recent/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 12 [720p][2B60EC42].mkv
+ongoing/!complete-recent/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 13 [End][720p][F6482689].mkv
 ongoing/!complete-recent/Inferno Cop/[Commie] Inferno Cop - 01 [v2][6846824B].mkv
 ongoing/!complete-recent/Inferno Cop/[Commie] Inferno Cop - 02 [v2][24ABC229].mkv
 ongoing/!complete-recent/Inferno Cop/[Commie] Inferno Cop - 03 [v2][AF86D492].mkv
@@ -689,11 +702,15 @@ ongoing/Ai-Mai-Mi/[HorribleSubs] Ai-Mai-Mi - 11 [CBF489DC].mkv
 ongoing/Ai-Mai-Mi/[HorribleSubs] Ai-Mai-Mi - 12 [936E900B].mkv
 ongoing/Ai-Mai-Mi/[HorribleSubs] Ai-Mai-Mi - 13 [8E231E10].mkv
 ongoing/Aiura/[Commie] Aiura - 01 [01D20EB9].mkv
-ongoing/Aku no Hana/[gg] Aku no Hana - 01 [88C4AA88].mkv
+ongoing/Aiura/[Commie] Aiura - 02 [408E3EBC].mkv
+ongoing/Aku no Hana/[gg] Aku no Hana - 01 [v2][0F69A819].mkv
+ongoing/Aku no Hana/[gg] Aku no Hana - 02 [DF0473DD].mkv
 ongoing/Aoi Sekai no Chuushin de/[HorribleSubs] Aoi Sekai no Chuushin de - 01 [720p][C65B7769].mkv
 ongoing/Aoi Sekai no Chuushin de/[HorribleSubs] Aoi Sekai no Chuushin de - 02 [720p][0C7B320A].mkv
 ongoing/Aoi Sekai no Chuushin de/[HorribleSubs] Aoi Sekai no Chuushin de - 03 [720p][69BBAA5F].mkv
+ongoing/Arata Kangatari/[Anime-Koi] Arata Kangatari - 02 [720p][13A79A6E].mkv
 ongoing/Arata Kangatari/[HorribleSubs] Arata Kangatari - 01 [720p][17AD1E31].mkv
+ongoing/Arata Kangatari/[HorribleSubs] Arata Kangatari - 02 [720p][F279BA6E].mkv
 ongoing/Asa Made Jugyou Chu!/[FFF] Asa Made Jugyou Chu! - 01 [1080p BD][5AEDFD79].mkv
 ongoing/Bakumatsu Gijinden Roman/[WhyNot] Bakumatsu Gijinden Roman - 01 [v2][8F8EEA1C].mkv
 ongoing/Bakumatsu Gijinden Roman/[WhyNot] Bakumatsu Gijinden Roman - 02 [v2][8A54D036].mkv
@@ -1104,6 +1121,7 @@ ongoing/Cardfight!! Vanguard/[HorribleSubs] Cardfight!! Vanguard Link Joker - 11
 ongoing/Cardfight!! Vanguard/[HorribleSubs] Cardfight!! Vanguard Link Joker - 114 [720p][0F24828D].mkv
 ongoing/Cardfight!! Vanguard/[HorribleSubs] Cardfight!! Vanguard Link Joker - 115 [720p][5A75BCC9].mkv
 ongoing/Cardfight!! Vanguard/[HorribleSubs] Cardfight!! Vanguard Link Joker - 116 [720p][EF3B2FBC].mkv
+ongoing/Cardfight!! Vanguard/[HorribleSubs] Cardfight!! Vanguard Link Joker - 118 [720p][696134D3].mkv
 ongoing/Chihayafuru 2/[Commie] Chihayafuru 2 - 01 [2B6A36BB].mkv
 ongoing/Chihayafuru 2/[Commie] Chihayafuru 2 - 02 [047979DE].mkv
 ongoing/Chihayafuru 2/[Commie] Chihayafuru 2 - 03 [1CF5B3CC].mkv
@@ -1117,6 +1135,7 @@ ongoing/Chihayafuru 2/[Commie] Chihayafuru 2 - 10 [F6E01294].mkv
 ongoing/Chihayafuru 2/[Commie] Chihayafuru 2 - 11 [C230C74C].mkv
 ongoing/Chihayafuru 2/[Commie] Chihayafuru 2 - 12 [7869F992].mkv
 ongoing/Chihayafuru 2/[Commie] Chihayafuru 2 - 13 [8D3C8A89].mkv
+ongoing/Chihayafuru 2/[Commie] Chihayafuru 2 - 14 [2CEDC4D3].mkv
 ongoing/Chitose Get You!!/[CMS] Chitose Get You!! - 01 [720p][1CADFF77].mkv
 ongoing/Chitose Get You!!/[CMS] Chitose Get You!! - 02 [720p][0AD78035].mkv
 ongoing/Chitose Get You!!/[CMS] Chitose Get You!! - 03 [720p][911C3030].mkv
@@ -1149,7 +1168,9 @@ ongoing/Code Geass Akito the Exiled/[Thora] Code Geass Akito the Exiled - 01 [10
 ongoing/Code Geass Akito the Exiled/[gg] Code Geass Akito the Exiled - 01 [B785F404].mkv
 ongoing/Dansai Bunri no Crime Edge/[Anime-Koi] Dansai Bunri no Crime Edge - 01 [720p][DC257A3D].mkv
 ongoing/Dansai Bunri no Crime Edge/[Anime-Koi] Dansai Bunri no Crime Edge - 02 [720p][894654E6].mkv
+ongoing/Dansai Bunri no Crime Edge/[Anime-Koi] Dansai Bunri no Crime Edge - 03 [720p][25BD9DF4].mkv
 ongoing/Date A Live/[FFF] Date A Live - 01 [0D301EFB].mkv
+ongoing/Date A Live/[FFF] Date A Live - 02 [D30B878D].mkv
 ongoing/Detective Conan/Detective Conan - 001 [FBI][Remastered][8548B1E5].mkv
 ongoing/Detective Conan/Detective Conan - 012 [Puto-usotsuki][720p][DEC2D98B].mkv
 ongoing/Detective Conan/Detective Conan - 018 [FBI][788EEAAC].mkv
@@ -1391,9 +1412,11 @@ ongoing/Detective Conan/Detective Conan - 686 [Kaitou-Hubuki][720p][11223344].mk
 ongoing/Detective Conan/Detective Conan - 687 [Kaitou-Hubuki][720p][A6C77AEC].mkv
 ongoing/Detective Conan/Detective Conan - 688 [Kaitou-Hubuki][720p][81DB10DD].mkv
 ongoing/Detective Conan/Detective Conan - 689 [Kaitou-Hubuki][720p][963D314D].mkv
+ongoing/Detective Conan/Detective Conan - 690 [Kaitou-Hubuki][v2 720p][A53FDDA0].mkv
 ongoing/Detective Conan/Detective Conan - 690 [M-L][720p][720DC690].mkv
 ongoing/Detective Conan/Detective Conan - 691 [M-L][720p][720DC691].mkv
 ongoing/Devil Survivor 2 The Animation/[Commie] Devil Survivor 2 The Animation - 01 [7B5CC11F].mkv
+ongoing/Devil Survivor 2 The Animation/[Commie] Devil Survivor 2 The Animation - 02 [9D6F30C3].mkv
 ongoing/Digimon Xros Wars II/[OD] Digimon Xros Wars II - 06 [720p][0AA6BEC1].mkv
 ongoing/Digimon Xros Wars II/[WildBunch] Digimon Xros Wars II - 01 [720p][DCCCA469].mkv
 ongoing/Digimon Xros Wars II/[WildBunch] Digimon Xros Wars II - 02 [720p][32E16226].mkv
@@ -1430,6 +1453,7 @@ ongoing/Dokidoki! Precure/[Commie] Dokidoki! Precure - 07 [DA3D0B8E].mkv
 ongoing/Dokidoki! Precure/[Commie] Dokidoki! Precure - 08 [C7A69565].mkv
 ongoing/Dokidoki! Precure/[Commie] Dokidoki! Precure - 09 [4860762F].mkv
 ongoing/Dokidoki! Precure/[Commie] Dokidoki! Precure - 10 [E9D66344].mkv
+ongoing/Dokidoki! Precure/[Commie] Dokidoki! Precure - 11 [D4615180].mkv
 ongoing/Fairy Tail/Fairy Tail - 001 [Mamiko][0307DF54].mkv
 ongoing/Fairy Tail/Fairy Tail - 002 [Mamiko][531F9793].mkv
 ongoing/Fairy Tail/Fairy Tail - 003 [Mamiko][C7677EC8].mkv
@@ -1590,6 +1614,7 @@ ongoing/Fairy Tail/Fairy Tail - 173 [HorribleSubs][720p][6F812CF2].mkv
 ongoing/Fairy Tail/Fairy Tail - 174 [HorribleSubs][720p][485A2E00].mkv
 ongoing/Fairy Tail/Fairy Tail - 175 [HorribleSubs][720p][F25B7CD8].mkv
 ongoing/Ginga Kikoutai Majestic Prince/[Commie] Ginga Kikoutai Majestic Prince - 01 [96FA39F8].mkv
+ongoing/Ginga Kikoutai Majestic Prince/[Commie] Ginga Kikoutai Majestic Prince - 02 [58230F78].mkv
 ongoing/Gintama S3/[HorribleSubs] Gintama S3 - 01 [720p][98E565E7].mkv
 ongoing/Gintama S3/[HorribleSubs] Gintama S3 - 02 [720p][8397A514].mkv
 ongoing/Gintama S3/[HorribleSubs] Gintama S3 - 03 [720p][4DF4DF79].mkv
@@ -1645,18 +1670,7 @@ ongoing/Haitai Nanafa/[Sigh-Kaylith] Haitai Nanafa - 05 [720p][3196754C].mkv
 ongoing/Haitai Nanafa/[Sigh-Kaylith] Haitai Nanafa - 06 [720p][B05FDA06].mkv
 ongoing/Haitai Nanafa/[Sigh-Kaylith] Haitai Nanafa - 07 [720p][1C649E71].mkv
 ongoing/Haiyore! Nyarlko W/[Commie] Haiyore! Nyarlko W - 01 [v2][EDD833E5].mkv
-ongoing/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 01 [720p][F4FC02B8].mkv
-ongoing/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 02 [720p][D4D378EA].mkv
-ongoing/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 03 [720p][BD2D8454].mkv
-ongoing/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 04 [720p][C6D2E700].mkv
-ongoing/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 05 [720p][6418F76D].mkv
-ongoing/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 06 [720p][3D4A10AF].mkv
-ongoing/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 07 [720p][1F4FD2BB].mkv
-ongoing/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 08 [720p][D1E2C287].mkv
-ongoing/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 09 [720p][F14B4229].mkv
-ongoing/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 10 [720p][B5615C02].mkv
-ongoing/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 11 [720p][ABE4914E].mkv
-ongoing/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 12 [720p][2B60EC42].mkv
+ongoing/Haiyore! Nyarlko W/[Commie] Haiyore! Nyarlko W - 02 [7BFE6E2E].mkv
 ongoing/Hakuoki Reimeiroku/[HorribleSubs] Hakuoki Reimeiroku - 01 [720p][5936354E].mkv
 ongoing/Hakuoki Reimeiroku/[HorribleSubs] Hakuoki Reimeiroku - 02 [1080p][E43518D2].mkv
 ongoing/Hakuoki Reimeiroku/[HorribleSubs] Hakuoki Reimeiroku - 03 [720p][5E23612D].mkv
@@ -1670,7 +1684,12 @@ ongoing/Hakuoki Reimeiroku/[HorribleSubs] Hakuoki Reimeiroku - 10 [720p][647DE64
 ongoing/Hakuoki Reimeiroku/[HorribleSubs] Hakuoki Reimeiroku - 11 [720p][3CAB3976].mkv
 ongoing/Hanayaka Nari, Waga Ichizoku Kinetograph OVA/[NyanTaku] Hanayaka Nari, Waga Ichizoku Kinetograph OVA - 1 [720p][9E83F3C4].mkv
 ongoing/Hataraku Maou-sama!/[Commie] Hataraku Maou-sama! - 01 [377BE214].mkv
+ongoing/Hataraku Maou-sama!/[Commie] Hataraku Maou-sama! - 02 [9268D145].mkv
 ongoing/Hayate no Gotoku! Cuties/[HorribleSubs] Hayate no Gotoku! Cuties - 01 [720p][B75480EA].mkv
+ongoing/Hayate no Gotoku! Cuties/[HorribleSubs] Hayate no Gotoku! Cuties - 02 [720p][A88D5E43].mkv
+ongoing/Hentai Ouji to Warawanai Neko/[CoalGuys] Hentai Ouji to Warawanai Neko - 01 [1319B1A6].mkv
+ongoing/Hentai Ouji to Warawanai Neko/[Commie] Hentai Ouji to Warawanai Neko. - 01 [33F204D5].mkv
+ongoing/Hentai Ouji to Warawanai Neko/[rori] Hentai Ouji to Warawanai Neko - 01 [76056615].mkv
 ongoing/Hiiro no Kakera S2/[HorribleSubs] Hiiro no Kakera S2 - 01 [720p][549C48F6].mkv
 ongoing/Hiiro no Kakera S2/[HorribleSubs] Hiiro no Kakera S2 - 02 [720p][F0B858F5].mkv
 ongoing/Hiiro no Kakera S2/[HorribleSubs] Hiiro no Kakera S2 - 03 [720p][C1D44865].mkv
@@ -1759,7 +1778,9 @@ ongoing/Hunter x Hunter (2011)/[HorribleSubs] Hunter x Hunter (2011) - 71 [720p]
 ongoing/Hunter x Hunter (2011)/[HorribleSubs] Hunter x Hunter (2011) - 72 [720p][53B8AC7B].mkv
 ongoing/Hunter x Hunter (2011)/[HorribleSubs] Hunter x Hunter (2011) - 73 [720p][64014A55].mkv
 ongoing/Hunter x Hunter (2011)/[HorribleSubs] Hunter x Hunter (2011) - 74 [720p][8291608D].mkv
+ongoing/Hunter x Hunter (2011)/[HorribleSubs] Hunter x Hunter (2011) - 75 [720p][F0A19E1D].mkv
 ongoing/Hyakka Ryouran Samurai Bride/[FFF] Hyakka Ryouran Samurai Bride - 01 [59B7C327].mkv
+ongoing/Hyakka Ryouran Samurai Bride/[FFF] Hyakka Ryouran Samurai Bride - 02 [C7F62C15].mkv
 ongoing/Ikkitousen Shuugaku Toushi Keppuu-roku/[SubDesu] Ikkitousen Shuugaku Toushi Keppuu-roku - 1 [720p][B99F6896].mkv
 ongoing/Inazuma Eleven GO Chrono Stone/[RyRo] Inazuma Eleven GO Chrono Stone - 001 [720p][A356EF65].mkv
 ongoing/Inazuma Eleven GO Chrono Stone/[RyRo] Inazuma Eleven GO Chrono Stone - 002 [720p][0314EE60].mkv
@@ -1851,6 +1872,7 @@ ongoing/Kami-sama Hajimemashita/[HorribleSubs] Kamisama Kiss - 08 [720p][5A2C2F2
 ongoing/Kami-sama Hajimemashita/[HorribleSubs] Kamisama Kiss - 10 [720p][BE76DCFC].mkv
 ongoing/Kami-sama Hajimemashita/[HorribleSubs] Kamisama Kiss - 13 [720p][37EA45A0].mkv
 ongoing/Karneval/[Anime-Koi] Karneval - 01 [720p][E619A01C].mkv
+ongoing/Karneval/[Anime-Koi] Karneval - 02 [720p][FA8C2E20].mkv
 ongoing/Kimi no Iru Machi OVA/[Commie] Kimi no Iru Machi OVA - 01 [5070FF62].mkv
 ongoing/Kimi no Iru Machi OVA/[Commie] Kimi no Iru Machi OVA - 02 [8810984F].mkv
 ongoing/Kingdom/[A-Destiny] Kingdom - 01 [720p][264FD4B3].mkv
@@ -1917,7 +1939,10 @@ ongoing/Minami-ke Tadaima/[UTW] Minami-ke Tadaima - 11 [720p][1C0E9FA0].mkv
 ongoing/Minami-ke Tadaima/[UTW] Minami-ke Tadaima - 12 [720p][D1911F82].mkv
 ongoing/Minami-ke Tadaima/[UTW] Minami-ke Tadaima - 13 [720p][311D49EF].mkv
 ongoing/Mushibugyo/[HorribleSubs] Mushibugyo - 01 [720p][5C4E1FE0].mkv
+ongoing/Mushibugyo/[HorribleSubs] Mushibugyo - 02 [720p][F57457AE].mkv
+ongoing/Namiuchigiwa no Muromi-san/[HorribleSubs] Namiuchigiwa no Muromi-san - 02 [720p][6DAFB663].mkv
 ongoing/Namiuchigiwa no Muromi-san/[Vivid] Namiuchigiwa no Muromi-san - 01 [04AAE0FA].mkv
+ongoing/Namiuchigiwa no Muromi-san/[Vivid] Namiuchigiwa no Muromi-san - 02 [7C0E4A33].mkv
 ongoing/Naruto Shippuuden Special/[Rising Sun] Naruto Shippuuden Special - Uchiha Madara vs Shodaime Hokage Senju Hashirama and Kyuubi [720p][3C839B67].mkv
 ongoing/Naruto Shippuuden/[DB] Naruto Shippuden - 050 [E0CD2BF4].avi
 ongoing/Naruto Shippuuden/[DB] Naruto Shippuden - 051-052 [5083E20D].avi
@@ -2751,11 +2776,13 @@ ongoing/One Piece/One Piece - Special 2 [K-F][v2 DVD][03CFFEF6].avi
 ongoing/One Piece/One Piece - Special 3 [K-F][DVD][6F259023].mp4
 ongoing/One Piece/One Piece - Special 4 [K-F][DVD][0BE160AB].mp4
 ongoing/Ore no Imouto ga Konnani Kawaii Wake ga Nai S2/[Commie] Ore no Imouto ga Konnani Kawaii Wake ga Nai S2 - 01 [6270E791].mkv
+ongoing/Ore no Imouto ga Konnani Kawaii Wake ga Nai S2/[Commie] Ore no Imouto ga Konnani Kawaii Wake ga Nai S2 - 02 [57D5D398].mkv
 ongoing/Otome wa Boku ni Koishiteru Futari no Elder The Animation/[Anime-Koi] Otome wa Boku ni Koishiteru Futari no Elder The Animation - 01 [1080p BD][8CCDB504].mkv
 ongoing/Otome wa Boku ni Koishiteru Futari no Elder The Animation/[Anime-Koi] Otome wa Boku ni Koishiteru Futari no Elder The Animation - 02 [3EBD1E47].mkv
 ongoing/Otome wa Boku ni Koishiteru Futari no Elder The Animation/[Anime-Koi] Otome wa Boku ni Koishiteru Futari no Elder The Animation - 03 [AE00BB37].mkv
 ongoing/Otome wa Boku ni Koishiteru Futari no Elder The Animation/[Anime-Koi] Otome wa Boku ni Koishiteru Futari no Elder The Animation - Extra [1080p BD][CA1C57A4].mkv
 ongoing/Photokano/[UTW] Photokano - 01 [720p][540168B3].mkv
+ongoing/Photokano/[UTW] Photokano - 02 [720p][1A61BE6C].mkv
 ongoing/Pokemon Best Wishes 2N/[PM] Pokemon Best Wishes 2N - 01 [720p][86E953D9].mkv
 ongoing/Pokemon Best Wishes 2N/[PM] Pokemon Best Wishes 2N - 02 [720p][069AFD8B].mkv
 ongoing/Pokemon Best Wishes 2N/[PM] Pokemon Best Wishes 2N - 03 [720p][9F8AFD0E].mkv
@@ -2764,6 +2791,7 @@ ongoing/Pokemon Best Wishes 2N/[PM] Pokemon Best Wishes 2N - 05 [720p][438E1C29]
 ongoing/Pokemon Best Wishes 2N/[PM] Pokemon Best Wishes 2N - 06 [720p][B89AB6ED].mkv
 ongoing/Pokemon Best Wishes 2N/[PM] Pokemon Best Wishes 2N - 07 [720p][B95836DD].mkv
 ongoing/Pokemon Best Wishes 2N/[PM] Pokemon Best Wishes 2N - 08 [720p][FAC5561F].mkv
+ongoing/Pokemon Best Wishes 2N/[PM] Pokemon Best Wishes 2N - 09 [720p][BC4B56DC].mkv
 ongoing/Polar Bear Cafe/[HorribleSubs] Polar Bear Cafe - 01 [720p][432DC865].mkv
 ongoing/Polar Bear Cafe/[HorribleSubs] Polar Bear Cafe - 02 [720p][9586937B].mkv
 ongoing/Polar Bear Cafe/[HorribleSubs] Polar Bear Cafe - 03 [720p][BD83AFE3].mkv
@@ -2923,6 +2951,7 @@ ongoing/Pretty Rhythm - Aurora Dream/[KiteSeekers-Wasurenai] Pretty Rhythm - Aur
 ongoing/Pretty Rhythm - Aurora Dream/[KiteSeekers-Wasurenai] Pretty Rhythm - Aurora Dream - 42 [576p][7072E09F].mkv
 ongoing/Pretty Rhythm - Aurora Dream/[KiteSeekers-Wasurenai] Pretty Rhythm - Aurora Dream - 43 [576p][D7D8D370].mkv
 ongoing/Pretty Rhythm - Aurora Dream/[KiteSeekers-Wasurenai] Pretty Rhythm - Aurora Dream - 44 [576p][7B116BE3].mkv
+ongoing/Pretty Rhythm - Aurora Dream/[KiteSeekers-Wasurenai] Pretty Rhythm - Aurora Dream - 45 [576p][42905679].mkv
 ongoing/Pretty Rhythm - Aurora Dream/[KiteSeekers-Wasurenai] Pretty Rhythm - Aurora Dream - Special 01 [C0FA7491].mkv
 ongoing/Pretty Rhythm - Aurora Dream/[KiteSeekers-Wasurenai] Pretty Rhythm - Aurora Dream - Special 02 [780A1B35].mkv
 ongoing/Pretty Rhythm - Aurora Dream/[KiteSeekers-Wasurenai] Pretty Rhythm - Aurora Dream - Special 03 [13A43709].mkv
@@ -3036,7 +3065,8 @@ ongoing/Queen's Blade Rebellion/[HorribleSubs] Queen's Blade Rebellion - 12 [720
 ongoing/Recorder to Randoseru OVA/[CMS] Recorder to Randoseru OVA - 01 [DVD][77732C1B].mkv
 ongoing/Recorder to Randoseru OVA/[CMS] Recorder to Randoseru OVA - 02 [DVD][FA7B3528].mkv
 ongoing/Red Data Girl/[Commie] Red Data Girl - 01 [043C47ED].mkv
-ongoing/Red Data Girl/[Commie] Red Data Girl - 02 [F6F084C9].mkv
+ongoing/Red Data Girl/[Commie] Red Data Girl - 02 [v2][01C3A367].mkv
+ongoing/Red Data Girl/[Commie] Red Data Girl - 03 [CA2A90A5].mkv
 ongoing/Saint Seiya Omega/[HorribleSubs] Saint Seiya Omega - 01 [720p][BA3F9192].mkv
 ongoing/Saint Seiya Omega/[HorribleSubs] Saint Seiya Omega - 02 [720p][AF3F9D99].mkv
 ongoing/Saint Seiya Omega/[HorribleSubs] Saint Seiya Omega - 03 [720p][79F92466].mkv
@@ -3089,6 +3119,7 @@ ongoing/Saint Seiya Omega/[HorribleSubs] Saint Seiya Omega - 49 [720p][E9016AEE]
 ongoing/Saint Seiya Omega/[HorribleSubs] Saint Seiya Omega - 50 [720p][6A7832B6].mkv
 ongoing/Saint Seiya Omega/[HorribleSubs] Saint Seiya Omega - 51 [720p][B4977799].mkv
 ongoing/Saint Seiya Omega/[HorribleSubs] Saint Seiya Omega - 52 [720p][789104CE].mkv
+ongoing/Saint Seiya Omega/[HorribleSubs] Saint Seiya Omega - 53 [720p][4AB45C3F].mkv
 ongoing/Saint Young Men OVA/[Commie] Saint Young Men OVA - 01 [DVD 576p][CBF535E4].mkv
 ongoing/Saki Achiga-hen - Episode of Side-A/[HorribleSubs] Saki Achiga-hen - Episode of Side-A - 09 [720p][C3E00C35].mkv
 ongoing/Saki Achiga-hen - Episode of Side-A/[HorribleSubs] Saki Achiga-hen - Episode of Side-A - 10 [720p][385D4C2D].mkv
@@ -3105,6 +3136,7 @@ ongoing/Saki Achiga-hen - Episode of Side-A/[Underwater-Mahjong] Saki Achiga-hen
 ongoing/Saki Achiga-hen - Episode of Side-A/[Underwater-Mahjong] Saki Achiga-hen - Episode of Side-A - 06 [720p][FBB0D693].mkv
 ongoing/Saki Achiga-hen - Episode of Side-A/[Underwater-Mahjong] Saki Achiga-hen - Episode of Side-A - 07 [720p][936F1ACA].mkv
 ongoing/Saki Achiga-hen - Episode of Side-A/[Underwater-Mahjong] Saki Achiga-hen - Episode of Side-A - 08 [720p][291AE2A6].mkv
+ongoing/Sazae-san/[gg] Sazae-san - 2199 [89952269].mkv
 ongoing/Seitokai Yakuindomo OVA/[Ayako-Himatsubushi] Seitokai Yakuindomo OVA - 01 [v2 DVD][EF82D238].mkv
 ongoing/Seitokai Yakuindomo OVA/[Ayako-Himatsubushi] Seitokai Yakuindomo OVA - 02 [DVD][84FDC487].mkv
 ongoing/Seitokai Yakuindomo OVA/[Ayako-Himatsubushi] Seitokai Yakuindomo OVA - 03 [720p BD][9F2ABDF5].mkv
@@ -3122,7 +3154,9 @@ ongoing/Sekaiichi Hatsukoi 2/[sage] Sekaiichi Hatsukoi 2 - 10 [720p][04A8D3CB].m
 ongoing/Sekaiichi Hatsukoi 2/[sage] Sekaiichi Hatsukoi 2 - 11 [720p][3E4B5B4A].mkv
 ongoing/Sekaiichi Hatsukoi 2/[sage] Sekaiichi Hatsukoi 2 - 12 [720p][B6502764].mkv
 ongoing/Shingeki no Kyojin/[Commie] Shingeki no Kyojin - 01 [v2][00E11B42].mkv
+ongoing/Shingeki no Kyojin/[Commie] Shingeki no Kyojin - 02 [066EA243].mkv
 ongoing/Shingeki no Kyojin/[gg] Shingeki no Kyojin - 01 [0B164A9D].mkv
+ongoing/Shingeki no Kyojin/[gg] Shingeki no Kyojin - 02 [v2][C7872F6C].mkv
 ongoing/Shinryaku!! Ika Musume OVA/[FFF] Shinryaku!! Ika Musume OVA - 01 [DVD][71A0BE68].mkv
 ongoing/Space Brothers/[Commie] Space Brothers - 01 [v2][710D9F8C].mkv
 ongoing/Space Brothers/[Commie] Space Brothers - 02 [0755C430].mkv
@@ -3176,6 +3210,7 @@ ongoing/Space Brothers/[Commie] Space Brothers - 49 [3BFD1A11].mkv
 ongoing/Space Brothers/[Commie] Space Brothers - 50 [747FF14C].mkv
 ongoing/Space Brothers/[Commie] Space Brothers - 51 [397BC251].mkv
 ongoing/Space Brothers/[Commie] Space Brothers - 52 [077D1A27].mkv
+ongoing/Space Brothers/[Commie] Space Brothers - 53 [51E89BAD].mkv
 ongoing/Sparrow's Hotel/[HorribleSubs] Sparrow's Hotel - 01 [720p][C9C8D640].mkv
 ongoing/Straight Title Robot Anime/[HorribleSubs] Straight Title Robot Anime - 01 [720p][2C0C3010].mkv
 ongoing/Straight Title Robot Anime/[HorribleSubs] Straight Title Robot Anime - 02 [720p][F9ED2968].mkv
@@ -3187,8 +3222,11 @@ ongoing/Straight Title Robot Anime/[HorribleSubs] Straight Title Robot Anime - 0
 ongoing/Straight Title Robot Anime/[HorribleSubs] Straight Title Robot Anime - 08 [720p][D02E5041].mkv
 ongoing/Straight Title Robot Anime/[HorribleSubs] Straight Title Robot Anime - 09 [720p][0B608FD0].mkv
 ongoing/Straight Title Robot Anime/[HorribleSubs] Straight Title Robot Anime - 10 [720p][16E07E15].mkv
+ongoing/Straight Title Robot Anime/[HorribleSubs] Straight Title Robot Anime - 11 [720p][857132A6].mkv
 ongoing/Suisei no Gargantia/[Commie] Suisei no Gargantia - 01 [F882BA13].mkv
+ongoing/Suisei no Gargantia/[Commie] Suisei no Gargantia - 02 [39F86A78].mkv
 ongoing/Suisei no Gargantia/[UTW-Vivid] Suisei no Gargantia - 01 [720p][FA28D2FD].mkv
+ongoing/Suisei no Gargantia/[UTW-Vivid] Suisei no Gargantia - 02 [720p][739A99E9].mkv
 ongoing/Tales of Symphonia OVA - The United World/[Formula] Tales of Symphonia OVA - The United World - 1 [AB66507E].mkv
 ongoing/Tales of Symphonia OVA - The United World/[Formula] Tales of Symphonia OVA - The United World - Special 1 [5C28A7D5].mkv
 ongoing/Tales of Symphonia OVA - The United World/[Formula] Tales of Symphonia OVA - The United World - Special 2 [0B401D14].mkv
@@ -3202,115 +3240,126 @@ ongoing/Tanken Driland/[sage] Tanken Driland - 07 [720p][F3A3D393].mkv
 ongoing/Tanken Driland/[sage] Tanken Driland - 08 [720p][6D71817B].mkv
 ongoing/The World God Only Knows Tenri-hen/[EveTaku] The World God Only Knows Tenri-hen - 01 [6CEB4332].mkv
 ongoing/The World God Only Knows Tenri-hen/[EveTaku] The World God Only Knows Tenri-hen - 02 [D5D23E41].mkv
-ongoing/Toriko/[A-Destiny SGKK] Toriko - 01 [720p][C8FD67E4].mkv
-ongoing/Toriko/[A-Destiny SGKK] Toriko - 02 [720p][C350CFD9].mkv
-ongoing/Toriko/[A-Destiny SGKK] Toriko - 03 [720p][3F139E3A].mkv
-ongoing/Toriko/[A-Destiny SGKK] Toriko - 04 [720p][ED384487].mkv
-ongoing/Toriko/[A-Destiny SGKK] Toriko - 05 [720p][347CFA57].mkv
-ongoing/Toriko/[A-Destiny SGKK] Toriko - 06 [720p][58D782AC].mkv
-ongoing/Toriko/[A-Destiny SGKK] Toriko - 07 [720p][5CB1DAD4].mkv
-ongoing/Toriko/[A-Destiny SGKK] Toriko - 08 [720p][77BB2CB5].mkv
-ongoing/Toriko/[A-Destiny SGKK] Toriko - 09 [720p][93CB8DB3].mkv
-ongoing/Toriko/[A-Destiny SGKK] Toriko - 10 [720p][17F65CF1].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 11 [720p][C0DC5D62].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 12 [720p][ABD7C0D7].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 13 [720p][E1619E08].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 14 [720p][B429B970].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 15 [720p][357A6213].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 16 [720p][45EFC80F].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 17 [720p][76D3BEA7].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 18 [720p][BDBF871D].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 19 [720p][F800804B].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 20 [v2 720p][667B0FA7].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 21 [720p][41546921].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 22 [720p][3FA7DC1A].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 23 [720p][D5CB0B87].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 24 [720p][20840008].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 25 [720p][70321AEC].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 26 [720p][C240EEEC].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 27 [720p][AEE9E29C].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 28 [720p][B540B895].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 29 [720p][E8576B7D].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 30 [720p][201A1AD3].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 31 [720p][1E970C2A].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 32 [720p][A19E3492].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 33 [720p][A638F71A].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 34 [720p][6870C12A].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 35 [720p][FF43B499].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 36 [720p][F7683326].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 37 [720p][2D96B7A5].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 38 [720p][C8DE71F1].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 39 [720p][08B9716A].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 40 [720p][BFC7D706].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 41 [720p][23D6B161].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 42 [v2 720p][BAE7D137].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 43 [720p][76E37E76].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 44 [720p][2AF4EF91].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 45 [720p][9A2AADCD].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 46 [720p][6995A12A].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 47 [720p][C4AACDEA].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 48 [720p][5E613373].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 49 [720p][8930EB8B].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 50 [720p][29029C02].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 51 [720p][BB161D38].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 52 [720p][F2E22F63].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 53 [720p][57E8ECD6].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 54 [720p][0231C5F8].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 55 [720p][C1334418].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 56 [720p][3343B799].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 57 [720p][B804F24F].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 58 [720p][2430B288].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 59 [720p][C8B8F3A1].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 60 [720p][DAFF3ABE].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 61 [720p][0D5A095F].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 62 [720p][566B656A].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 63 [720p][8DD7078E].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 64 [720p][448E0201].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 65 [720p][A4873633].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 66 [720p][399EFDDD].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 67 [720p][256A7BE3].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 68 [720p][4EF5F48D].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 69 [720p][C4205416].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 70 [720p][171E7C96].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 71 [720p][6A898768].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 72 [720p][CDA2D41E].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 73 [720p][EC77D467].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 74 [720p][FC764EC4].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 75 [720p][62052536].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 76 [720p][D52ABBB4].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 77 [720p][0BA9DBE7].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 78 [720p][24CADF2F].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 79 [720p][ACFF4490].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 80 [720p][ABEF2CC6].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 81 [720p][949915A5].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 82 [720p][98EF7E87].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 83 [720p][1EC6C8D2].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 84 [720p][5EEC7E5D].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 85 [720p][84E24465].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 86 [720p][C68C11AC].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 87 [720p][11F4184D].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 88 [720p][3CDA47F7].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 89 [720p][33C6DD2F].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 90 [720p][42E23A2C].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 91 [720p][2D8B3980].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 92 [720p][E6296123].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 93 [720p][031DDB1D].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 94 [720p][B9FD4489].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 95 [720p][1A5D1EDE].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 96 [720p][03006685].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 97 [720p][49D4BAF5].mkv
-ongoing/Toriko/[A-Destiny] Toriko - 98 [720p][BCBD68B2].mkv
+ongoing/Toaru Kagaku no Railgun S/[Commie] Toaru Kagaku no Railgun S - 01 [0405339A].mkv
+ongoing/Toaru Kagaku no Railgun S/[UTW-Mazui] Toaru Kagaku no Railgun S - 01 [720p][C8FB4B0A].mkv
+ongoing/Toriko/[A-Destiny SGKK] Toriko - 001 [720p][C8FD67E4].mkv
+ongoing/Toriko/[A-Destiny SGKK] Toriko - 002 [720p][C350CFD9].mkv
+ongoing/Toriko/[A-Destiny SGKK] Toriko - 003 [720p][3F139E3A].mkv
+ongoing/Toriko/[A-Destiny SGKK] Toriko - 004 [720p][ED384487].mkv
+ongoing/Toriko/[A-Destiny SGKK] Toriko - 005 [720p][347CFA57].mkv
+ongoing/Toriko/[A-Destiny SGKK] Toriko - 006 [720p][58D782AC].mkv
+ongoing/Toriko/[A-Destiny SGKK] Toriko - 007 [720p][5CB1DAD4].mkv
+ongoing/Toriko/[A-Destiny SGKK] Toriko - 008 [720p][77BB2CB5].mkv
+ongoing/Toriko/[A-Destiny SGKK] Toriko - 009 [720p][93CB8DB3].mkv
+ongoing/Toriko/[A-Destiny SGKK] Toriko - 010 [720p][17F65CF1].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 011 [720p][C0DC5D62].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 012 [720p][ABD7C0D7].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 013 [720p][E1619E08].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 014 [720p][B429B970].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 015 [720p][357A6213].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 016 [720p][45EFC80F].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 017 [720p][76D3BEA7].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 018 [720p][BDBF871D].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 019 [720p][F800804B].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 020 [v2 720p][667B0FA7].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 021 [720p][41546921].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 022 [720p][3FA7DC1A].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 023 [720p][D5CB0B87].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 024 [720p][20840008].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 025 [720p][70321AEC].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 026 [720p][C240EEEC].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 027 [720p][AEE9E29C].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 028 [720p][B540B895].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 029 [720p][E8576B7D].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 030 [720p][201A1AD3].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 031 [720p][1E970C2A].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 032 [720p][A19E3492].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 033 [720p][A638F71A].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 034 [720p][6870C12A].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 035 [720p][FF43B499].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 036 [720p][F7683326].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 037 [720p][2D96B7A5].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 038 [720p][C8DE71F1].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 039 [720p][08B9716A].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 040 [720p][BFC7D706].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 041 [720p][23D6B161].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 042 [v2 720p][BAE7D137].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 043 [720p][76E37E76].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 044 [720p][2AF4EF91].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 045 [720p][9A2AADCD].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 046 [720p][6995A12A].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 047 [720p][C4AACDEA].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 048 [720p][5E613373].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 049 [720p][8930EB8B].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 050 [720p][29029C02].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 051 [720p][BB161D38].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 052 [720p][F2E22F63].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 053 [720p][57E8ECD6].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 054 [720p][0231C5F8].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 055 [720p][C1334418].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 056 [720p][3343B799].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 057 [720p][B804F24F].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 058 [720p][2430B288].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 059 [720p][C8B8F3A1].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 060 [720p][DAFF3ABE].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 061 [720p][0D5A095F].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 062 [720p][566B656A].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 063 [720p][8DD7078E].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 064 [720p][448E0201].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 065 [720p][A4873633].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 066 [720p][399EFDDD].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 067 [720p][256A7BE3].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 068 [720p][4EF5F48D].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 069 [720p][C4205416].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 070 [720p][171E7C96].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 071 [720p][6A898768].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 072 [720p][CDA2D41E].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 073 [720p][EC77D467].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 074 [720p][FC764EC4].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 075 [720p][62052536].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 076 [720p][D52ABBB4].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 077 [720p][0BA9DBE7].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 078 [720p][24CADF2F].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 079 [720p][ACFF4490].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 080 [720p][ABEF2CC6].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 081 [720p][949915A5].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 082 [720p][98EF7E87].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 083 [720p][1EC6C8D2].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 084 [720p][5EEC7E5D].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 085 [720p][84E24465].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 086 [720p][C68C11AC].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 087 [720p][11F4184D].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 088 [720p][3CDA47F7].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 089 [720p][33C6DD2F].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 090 [720p][42E23A2C].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 091 [720p][2D8B3980].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 092 [720p][E6296123].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 093 [720p][031DDB1D].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 094 [720p][B9FD4489].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 095 [720p][1A5D1EDE].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 096 [720p][03006685].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 097 [720p][49D4BAF5].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 098 [720p][BCBD68B2].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 099 [720p][863E6C73].mkv
+ongoing/Toriko/[A-Destiny] Toriko - 100 [720p][7D79AE4F].mkv
 ongoing/Uta no Prince-sama 2/[HorribleSubs] Uta no Prince-sama 2 - 01 [720p][17C9C203].mkv
 ongoing/Uta no Prince-sama Maji Love 2000%/[WhyNot] Uta no Prince-sama Maji Love 2000% - 01 [5C1CBCF4].mkv
 ongoing/Uta no Prince-sama Maji Love 2000%/[WhyNot] Uta no Prince-sama Maji Love 2000% - 02 [71404F90].mkv
+ongoing/Valvrave the Liberator/[gg] Valvrave the Liberator - 01 [191CFABD].mkv
 ongoing/Yahari Ore no Seishun Love Comedy wa Machigatteiru/[Commie] Yahari Ore no Seishun Love Comedy wa Machigatteiru - 01 [F57C1A6B].mkv
+ongoing/Yahari Ore no Seishun Love Comedy wa Machigatteiru/[Commie] Yahari Ore no Seishun Love Comedy wa Machigatteiru - 02 [DFA1AC92].mkv
 ongoing/Yondemasu yo, Azazel-san OVA/[FFF] Yondemasu yo, Azazel-san OVA - 03 [DVD][CEBD6196].mkv
 ongoing/Yondemasu yo, Azazel-san Z/[WhyNot] Yondemasu yo, Azazel-san Z - 01 [199E37BE].mkv
+ongoing/Yondemasu yo, Azazel-san Z/[WhyNot] Yondemasu yo, Azazel-san Z - 02 [5B8AE4A9].mkv
 ongoing/Young Animator Training Project 2011/[gg] Young Animator Training Project 2011 - Dudu the Floatie [85849EE3].mkv
 ongoing/Young Animator Training Project 2011/[gg] Young Animator Training Project 2011 - Minding My Own Business [F7326F1F].mkv
 ongoing/Young Animator Training Project 2011/[gg] Young Animator Training Project 2011 - Wasurenagumo [F73D699B].mkv
 ongoing/Yuyushiki/[Commie] Yuyushiki - 01 [8CD0C29F].mkv
+ongoing/Yuyushiki/[Commie] Yuyushiki - 02 [7A4486FD].mkv
 ongoing/Zettai Bouei Leviathan/[HorribleSubs] Zettai Bouei Leviathan - 01 [720p][82BC272E].mkv
+ongoing/Zettai Bouei Leviathan/[HorribleSubs] Zettai Bouei Leviathan - 02 [720p][F2B31238].mkv
+ongoing/Zettai Bouei Leviathan/[Oyatsu] Zettai Bouei Leviathan - 01 [720p][284CD2AB].mkv
+ongoing/Zettai Bouei Leviathan/[Oyatsu] Zettai Bouei Leviathan - 02 [720p][32401376].mkv
 ongoing/Zettai Karen Children THE UNLIMITED - Hyoubu Kyousuke/[HorribleSubs] Zettai Karen Children THE UNLIMITED - Hyoubu Kyousuke - 01 [720p][464DF2B7].mkv
 ongoing/Zettai Karen Children THE UNLIMITED - Hyoubu Kyousuke/[HorribleSubs] Zettai Karen Children THE UNLIMITED - Hyoubu Kyousuke - 02 [720p][B300034C].mkv
 ongoing/Zettai Karen Children THE UNLIMITED - Hyoubu Kyousuke/[HorribleSubs] Zettai Karen Children THE UNLIMITED - Hyoubu Kyousuke - 03 [720p][71D031C1].mkv
