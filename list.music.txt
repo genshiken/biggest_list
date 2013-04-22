@@ -746,6 +746,9 @@ music/ASL/[ASL]_Morinaga_Mayumi_-_EXTRA_Whipping_Cream_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_NEGOTO_-_Gundam_AGE_OP2_-_Sharp_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_NOVELS_-_TIGER_BUNNY_OP_2_-_Missing_Link_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_NO_NAME_-_AKB0048_OP_ED_-_Kibou_ni_Tsuite_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_NO_NAME_-_AKB0048_next_stage_OP_ED_-_Kono_Namida_wo_Kimi_ni_Sasagu_Type_A_[FLAC].rar
+music/ASL/[ASL]_NO_NAME_-_AKB0048_next_stage_OP_ED_-_Kono_Namida_wo_Kimi_ni_Sasagu_Type_B_[FLAC].rar
+music/ASL/[ASL]_NO_NAME_-_AKB0048_next_stage_OP_ED_-_Kono_Namida_wo_Kimi_ni_Sasagu_Type_C_[FLAC].rar
 music/ASL/[ASL]_Nakagawa_Koutarou_-_Inu_x_Boku_SS_Soundtrack_Vol_1_[FLAC].rar
 music/ASL/[ASL]_Nakagawa_Shoko_-_Beelzebub_ED_2_-_Tsuyogari_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Nakajima_Megumi_-_Be_With_You_[EXTRA].rar
@@ -902,6 +905,7 @@ music/ASL/[ASL]_StylipS_-_Kono_Naka_ni_Hitori_Imouto_ga_Iru_OP_-_Choose_me_Darli
 music/ASL/[ASL]_StylipS_-_Saki_Achiga-hen_episode_of_side-A_OP_-_MIRACLE_RUSH_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_StylipS_-_StylipS_Anniversary_Disc_Step_One_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Suara_-_Karin_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Suguha_(CV_Taketatsu_Ayana)_-_Sword_Art_Online_Bonus_Disc_6_[FLAC].rar
 music/ASL/[ASL]_Supercell_-_Guilty_Crown_OP_-_My_Dearest_[EXTRA].rar
 music/ASL/[ASL]_Supercell_-_Guilty_Crown_OP_-_My_Dearest_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Supercell_-_MAGI_ED2_-_The_Bravery_[FLAC].rar
@@ -1628,6 +1632,7 @@ music/ASL/[ASL]_Yousei_Teikoku_-_Mirai_Nikki_OP_-_Kuusou_Mesologie_[FLAC]_[w_Sca
 music/ASL/[ASL]_Yousei_Teikoku_-_gothic_lolita_agitator_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_YuNa_-_Secret_Game_Original_Soundtrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_YuNa_-_Utatemeguri_Special_Song_CD_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Yui_(CV_Itou_Kanae)_-_Sword_Art_Online_Bonus_Disc_5_[FLAC].rar
 music/ASL/[ASL]_Yui_Kaori_-_Futari_[EXTRA].rar
 music/ASL/[ASL]_Yui_Kaori_-_Futari_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Yui_Kaori_-_Our_Steady_Boy_[EXTRA].rar
@@ -4272,6 +4277,8 @@ music/Nipponsei/[Nipponsei] Dakara Boku wa, H ga Dekinai. ED Single - Platinum 1
 music/Nipponsei/[Nipponsei] Dakara Boku wa, H ga Dekinai. OP Single - Reason why XXX [Sasaki Sayaka].zip
 music/Nipponsei/[Nipponsei] Dance In The Vampire Bund Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Dancougar Nova OP ED Single - Tori no Uta [Senri Manaka].zip
+music/Nipponsei/[Nipponsei] Dansai Bunri no Crime Edge ED Single - Kimi no Futari [YURI KARI].zip
+music/Nipponsei/[Nipponsei] Dansai Bunri no Crime Edge OP Single - Unmei no Kagami [Aimi].zip
 music/Nipponsei/[Nipponsei] Danshi Koukousei no Nichijou OP Single - Shiny tale [Mix Speaker's,Inc.].zip
 music/Nipponsei/[Nipponsei] Danshi Koukousei no Nichijou Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Dantalian no Shoka OP ED Single - yes, prisoner [maRIONnetTe & Yucca].zip
@@ -4523,6 +4530,7 @@ music/Nipponsei/[Nipponsei] Heart Catch Precure! ED2 Single - Tomorrow Song ~Ash
 music/Nipponsei/[Nipponsei] Heartcatch Precure! Insert Song Single - Power of Shine [Kuwashima Houko & Hisakawa Aya].zip
 music/Nipponsei/[Nipponsei] Heartcatch Precure! Movie OP ED Single - Alright! Heartcatch Precure! for the Movie [Ikeda Aya & Kudou Mayu].zip
 music/Nipponsei/[Nipponsei] Hen Zemi OP Single - Punctuation! [Hanazawa Kana].zip
+music/Nipponsei/[Nipponsei] Hentai Ouji to Warawanai Neko. OP Single - Fantastic future [Tamura Yukari].zip
 music/Nipponsei/[Nipponsei] Heroic Age ED Single - Azurite [Urakabe Tae].zip
 music/Nipponsei/[Nipponsei] Hidamari Sketch OP Single - Sketch Switch [Various].zip
 music/Nipponsei/[Nipponsei] Hidamari Sketch Theme Song Colletion.zip
@@ -4679,6 +4687,7 @@ music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai OP Single - God only knows 
 music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai OVA OP Single - Natsu iro Surprise [Toyama Nao].zip
 music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai Tenri Hen Main Theme Single - Hikari no Kiseki [eyelis].zip
+music/Nipponsei/[Nipponsei] Kami Nomi zo Shiru Sekai x Hayate no Gotoku! Collaboration Single - Kiseki no Door [Various].zip
 music/Nipponsei/[Nipponsei] Kami-chama Karin ED Single - Anemone [Nakahara Mai].zip
 music/Nipponsei/[Nipponsei] Kami-chama Karin OP Single - Ankoku Tengoku [ALI PROJECT].zip
 music/Nipponsei/[Nipponsei] Kami-chama Karin Original Soundtrack.zip
@@ -5069,6 +5078,7 @@ music/Nipponsei/[Nipponsei] Ore no Imouto ga Konna ni Kawaii Wake ga nai ED5 ED6
 music/Nipponsei/[Nipponsei] Ore no Imouto ga Konna ni Kawaii Wake ga nai ED7 ED8 Single - Masquerade! [Various].zip
 music/Nipponsei/[Nipponsei] Ore no Imouto ga Konna ni Kawaii Wake ga nai OP Single - irony [ClariS].zip
 music/Nipponsei/[Nipponsei] Ore no Imouto ga Konna ni Kawaii Wake ga nai Original Soundtrack.zip
+music/Nipponsei/[Nipponsei] Ore no Imouto ga Konna ni Kawaii Wake ga nai. OP Single - reunion [ClariS].zip
 music/Nipponsei/[Nipponsei] Ore no Kanojo to Osananajimi ga Shuraba Sugiru ED Single - W Wonder tale [Tamura Yukari].zip
 music/Nipponsei/[Nipponsei] Ore no Kanojo to Osananajimi ga Shuraba Sugiru OP Single - Girlish Lover [Various].zip
 music/Nipponsei/[Nipponsei] Ore-tachi ni Tsubasa wa nai ED2 Single - NEVERLAND [Hashimoto Miyuki].zip
@@ -5461,6 +5471,8 @@ music/Nipponsei/[Nipponsei] Sword Art Online ED Single - Yume Sekai [Tomatsu Har
 music/Nipponsei/[Nipponsei] Sword Art Online ED2 Single - Overfly [Haruna Luna].zip
 music/Nipponsei/[Nipponsei] Sword Art Online Image Song Single 1 - My Independent Destiny [Tomatsu Haruka].zip
 music/Nipponsei/[Nipponsei] Sword Art Online Image Song Single 2 - Memory Heart Message.zip
+music/Nipponsei/[Nipponsei] Sword Art Online Image Song Single 4 - I know 'ai' [Itou Kanae].zip
+music/Nipponsei/[Nipponsei] Sword Art Online Image Song Single 5 - Face to You [Taketatsu Ayana].zip
 music/Nipponsei/[Nipponsei] Sword Art Online Insert Song 3 - Cheer! Tear Cheer!!.zip
 music/Nipponsei/[Nipponsei] Sword Art Online OP Single - crossing field [LiSA].zip
 music/Nipponsei/[Nipponsei] Sword Art Online OP2 Single - INNOCENCE [Aoi Eir].zip
@@ -5682,6 +5694,7 @@ music/Nipponsei/[Nipponsei] Working'!! OP ED Single - COOLISH WALK [Various].zip
 music/Nipponsei/[Nipponsei] Working'!! Original Soundtrack Vol.1.zip
 music/Nipponsei/[Nipponsei] Working'!! Original Soundtrack Vol.2.zip
 music/Nipponsei/[Nipponsei] World Destruction OP Single - ZERO [AAA].zip
+music/Nipponsei/[Nipponsei] Yahari Ore no Seishun Love Come wa Machigatteiru. OP Single - Yuki Toki [Yanagi Nagi].zip
 music/Nipponsei/[Nipponsei] Yakitate Japan ED Single - SUNDAY [The Babystars] [CD0E57D0] 320k CBR.zip
 music/Nipponsei/[Nipponsei] Yakitate Japan ED2 Single - To All Tha Dreamers [SOUL D OUT].zip
 music/Nipponsei/[Nipponsei] Yakitate Japan ED3 Single - Hummingbird [little by little].zip
@@ -5734,6 +5747,7 @@ music/Nipponsei/[Nipponsei] Yuru Yuri ED Single - My Pace de Ikimashou [Various]
 music/Nipponsei/[Nipponsei] Yuru Yuri OP Single - Yuri Yura Rarara Yuru Yuri Dai Jiken [Various].zip
 music/Nipponsei/[Nipponsei] Yuru Yuri Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Yuru Yuri no Uta - Album Aikawarazu.zip
+music/Nipponsei/[Nipponsei] Yuyushiki OP Single - Seeno! [Various].zip
 music/Nipponsei/[Nipponsei] ZegaPain ED Single - Little Goodbye [ROCKY CHACK] (320 kbps).zip
 music/Nipponsei/[Nipponsei] ZegaPain OP Single - Kimi he Mukau Hikari [Akino Arai] (320 kbps).zip
 music/Nipponsei/[Nipponsei] Zegapain Original Soundtrack 1.zip
@@ -6149,6 +6163,7 @@ music/Shin-S/[Shin-S] Love Live! Insert Song Single 1 - Susume Tomorrow (FLAC) [
 music/Shin-S/[Shin-S] Love Live! Insert Song Single 2 - Korekara no Someday (FLAC) [μ's].zip
 music/Shin-S/[Shin-S] Love Live! Insert Song Single 3 - No brand girls (FLAC) [μ's].zip
 music/Shin-S/[Shin-S] Love Live! OP Single - Bokura wa Ima no Naka de (FLAC) [μ's].zip
+music/Shin-S/[Shin-S] Love Live! Original Song CD 1 - Kousaka Honoka (FLAC) [Nitta Emi].zip
 music/Shin-S/[Shin-S] Love Live! μ's Best Album - Best Live! collection (FLAC) [μ's].zip
 music/Shin-S/[Shin-S] Magi Character Song 01 - Aladdin, Alibaba & Morgiana [Various].zip
 music/Shin-S/[Shin-S] Magi ED Single - Seifuku no Mannequin (FLAC) [Nogizaka46].zip
