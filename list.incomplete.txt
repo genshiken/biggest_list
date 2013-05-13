@@ -94,6 +94,7 @@ incomplete/Ashita no Joe/[Saizen-HnG] Ashita no Joe - 53 [DVD][34EFCAC3].mkv
 incomplete/Ashita no Joe/[Saizen-HnG] Ashita no Joe - 54 [v2 DVD][C4031DF9].mkv
 incomplete/Ashita no Joe/[Saizen-HnG] Ashita no Joe - 55 [DVD][8B49D2B0].mkv
 incomplete/Ashita no Joe/[Saizen-HnG] Ashita no Joe - 56 [DVD][EA308DB1].mkv
+incomplete/Ashita no Joe/[Saizen-HnG] Ashita no Joe - 57 [DVD][525DD319].mkv
 incomplete/Ashita no Joe/[Saizen] Ashita no Joe - 01 [DVD][69BCAC10].mkv
 incomplete/Ashita no Joe/[Saizen] Ashita no Joe - 02 [DVD][3ABA8A8C].mkv
 incomplete/Ashita no Joe/[Saizen] Ashita no Joe - 03 [DVD][D162E486].mkv
@@ -1250,6 +1251,7 @@ incomplete/Miyuki/[FroZen-EviL] Miyuki - 02 [DVD][3DAAFF6B].mkv
 incomplete/Miyuki/[FroZen-EviL] Miyuki - 03 [DVD][C90729BC].mkv
 incomplete/Miyuki/[FroZen-EviL] Miyuki - 04 [DVD][71E419AD].mkv
 incomplete/Miyuki/[FroZen-EviL] Miyuki - 05 [DVD][2EAA2630].mkv
+incomplete/Miyuki/[FroZen-EviL] Miyuki - 06 [DVD][2EDD54DC].mkv
 incomplete/Mizu Iro Jidai/[KiteSeekers] Mizu Iro Jidai - 29 [C61B844F].mkv
 incomplete/Mizu Iro Jidai/[KiteSeekers] Mizu Iro Jidai - 30 [73039107].mkv
 incomplete/Mizu Iro Jidai/[KiteSeekers] Mizu Iro Jidai - 32 [C1454A4D].mkv
@@ -1805,7 +1807,6 @@ incomplete/Saint October/[AoG] Saint October - 17 [46F1474E].mkv
 incomplete/Saint October/[AoG] Saint October - 18 [E2652201].mkv
 incomplete/Saint October/[AoG] Saint October - 19 [1E51D5B2].mkv
 incomplete/Saint October/[AoG] Saint October - 20 [02B842AF].mkv
-incomplete/Saint October/[Dyslexic] Saint October - 13 [90DB5AAC].avi
 incomplete/Saint October/[Dyslexic] Saint October - 15 [82429562].avi
 incomplete/Saint October/[ReDone] Saint October - 01 [DVD][48297F24].mkv
 incomplete/Saint October/[ReDone] Saint October - 02 [DVD][9EE26C0C].mkv
@@ -1819,6 +1820,7 @@ incomplete/Saint October/[ReDone] Saint October - 09 [DVD][6BDB108B].mkv
 incomplete/Saint October/[ReDone] Saint October - 10 [DVD][25E9000B].mkv
 incomplete/Saint October/[ReDone] Saint October - 11 [DVD][CE99F5A1].mkv
 incomplete/Saint October/[ReDone] Saint October - 12 [DVD][8A274A86].mkv
+incomplete/Saint October/[ReDone] Saint October - 13 [DVD][E3677637].mkv
 incomplete/Sekai-ichi Hatsukoi/[HorribleSubs] Sekai-ichi Hatsukoi - 01 [720p][E8DA2E81].mkv
 incomplete/Sekai-ichi Hatsukoi/[HorribleSubs] Sekai-ichi Hatsukoi - 02 [720p][85A41E7E].mkv
 incomplete/Sekai-ichi Hatsukoi/[HorribleSubs] Sekai-ichi Hatsukoi - 03 [720p][6E2C2550].mkv
@@ -2340,6 +2342,7 @@ incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 32 [72
 incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 33 [720p][B6B4FC12].mkv
 incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 34 [720p][07DFCA48].mkv
 incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 35 [720p][70079107].mkv
+incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 36 [720p][5F6B0247].mkv
 incomplete/Yes! Pretty Cure 5/[PCSS] Yes! Pretty Cure 5 - 21 [DVD][5D1AE662].mkv
 incomplete/Yes! Pretty Cure 5/[PCSS] Yes! Pretty Cure 5 - 22 [DVD][2F80A6AD].mkv
 incomplete/Yes! Pretty Cure 5/[PCSS] Yes! Pretty Cure 5 - 23 [DVD][CA2E363E].mkv
