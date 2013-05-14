@@ -476,6 +476,7 @@ music/ASL/[ASL]_Faylan_-_Hagure_Yuusha_no_Estetica_OP_-_Realization_[FLAC]_[w_Sc
 music/ASL/[ASL]_Faylan_-_Mirai_Nikki_ED_-_Blood_teller_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Faylan_-_Mirai_Nikki_OP_-_Dead_END_Soukyuu_no_Hikari_[FLAC].rar
 music/ASL/[ASL]_Faylan_-_Mobile_Suit_Gundam_AGE_ED3_Single_-_WHITE_justice_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Faylan_-_PRISM_[FLAC].rar
 music/ASL/[ASL]_Faylan_-_Senjou_no_Valkyria_3_Ta_ga_Tame_no_Juusou_OP_-_Tomoshibi_[MP3]_[w_Scans].rar
 music/ASL/[ASL]_Faylan_-_Tantei_Opera_Milky_Holmes_ED_-_Honnou_no_DOUBT_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Febian_Reza_Pane_-_PIANO_ARRANGE_RADIANT_HISTORIA_[FLAC]_[w_Scans].rar
@@ -889,6 +890,7 @@ music/ASL/[ASL]_Sawano_Hiroyuki_-_Guilty_Crown_SOUNDTRACK_ANOTHER_SIDE_02_[FLAC]
 music/ASL/[ASL]_Sayaka_Sasaki_-_Nichjou_ED_Single_Zzz_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Seki_Tomokazu_-_STEINS;GATE_Laboratory_Member_003_Hashida_Itaru_[FLAC].rar
 music/ASL/[ASL]_Shade_-_Alice_Sound_Album_Vol_21_DAITEIKOKU_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Shade_-_RANCE_MINI_SOUND_ALBUM_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_ShibayanRecords_-_Kokoro_Vibration_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Shiina_Miyako_-_Maji_de_Watashi_ni_Koishinasai!!_3rd_Special_CD_-_Miyako_wo_Hitorijime!_[FLAC].rar
 music/ASL/[ASL]_Shikata_Akiko_-_Byakumu_no_Mayu_~Ricordando_il_passato~_[FLAC]_[w_Scans].rar
@@ -1012,6 +1014,7 @@ music/ASL/[ASL]_Uesugi_Hiroshi_-_Papa_no_Iukoto_wo_Kikinasai!_Original_Soundtrac
 music/ASL/[ASL]_Uesugi_Hiroshi_-_Papa_no_Iukoto_wo_Kikinasai_Original_Soundtrack_vol_2_[FLAC].rar
 music/ASL/[ASL]_Usui_Yoshiyuki_-_Fireball_Charming_Chikuwabu_Box_Tokuten_Soundtrack_CD_[FLAC].rar
 music/ASL/[ASL]_Utakano_-_Photokano_ED_-_Smile_F_[FLAC].rar
+music/ASL/[ASL]_Utatsuki_Kaori_-_GOING_ON_[FLAC].rar
 music/ASL/[ASL]_VALSHE_-_jester_[FLAC].rar
 music/ASL/[ASL]_Various Artists_-_Mondaiji_tachi_ga_Isekai_kara_Kuru_soudesuyo_ Sound_Community_I_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various _Artists_-_Daitoshokan_no_Hitsujikai_ED_-_Ashita_e_no_Shiori_[FLAC]_[w_Scans].rar
@@ -1185,6 +1188,7 @@ music/ASL/[ASL]_Various_Artists_-_Eien_Shinken_Series_Vocal_Collection_[FLAC]_[w
 music/ASL/[ASL]_Various_Artists_-_Elminage_II_DS_Remix_Best_Sound_Collection_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Escu-de_vocal_collection_vol.1_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_FAVORITE_10th_Anniversary_VOCAL_COLLECTION_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Various_Artists_-_FLAT_VOCAL_COLLECTION_-_FLAT_ULTRA_LUNA_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_FOLCLOLE_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_FORTUNE_ARTERIAL_Character_Song_Album_2_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_FORTUNE_ARTERIAL_Image_Theme_Maxi_Single_-_Tobira_Hiraite,_Futari_Mirai_e_[FLAC].rar
@@ -1300,6 +1304,7 @@ music/ASL/[ASL]_Various_Artists_-_JustyxNasty_Original_Vocal_Maxi_Single_[FLAC].
 music/ASL/[ASL]_Various_Artists_-_KINGDOM_HEARTS_Dream_Drop_Distance_Original_Soundtrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_KSL_Live_World_2010_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Kagayaku_Mono_Ten_yori_Ochi_[FLAC].rar
+music/ASL/[ASL]_Various_Artists_-_Kakumeiki_Valvrave_OP_-_Preserved_Roses_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Kami_Nomi_zo_Shiru_Sekai_Character_Cover_Album_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Kami_Nomi_zo_Shiru_Sekai_x_Hayate_no_Gotoku_Collaborate_Single_-_Advance_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Kami_Nomi_zo_Shiru_Sekai_x_Hayate_no_Gotoku_Collaborate_Single_-_Ringo_Ribbon_[FLAC]_[w_Scans].rar
@@ -1691,6 +1696,7 @@ music/ASL/[ASL]_Yarai_Miu_(CV_Natsuno_Koori)_-_DRACU-RIOT_Character_Song_Vol_1_-
 music/ASL/[ASL]_Yarizui_Sen_(cv_Ise_Mariya)_-_Bento_ED_-_Egao_no_Housoku_[FLAC].rar
 music/ASL/[ASL]_Yokoyama_Masaru_-_TV_ANIMATION_Acchi_Kocchi_ORIGINAL_SOUNDTRACK_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Yonao_Keishi_-_Kajiri_Kamui_Kagura_Shinza_no_Utage_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Yonao_Keishi_-_Zero_Infinity_-Devil_of_Maxwell-_Vermilion_-Bind_of_Blood-_Original_Soundtrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Yoshikawa_Miku_-_FRAGILE_Sayonara_Tsuki_no_Haikyo_Original_Soundtrack_PLUS_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Yousei_Teikoku_-_Mirai_Nikki_OP_-_Kuusou_Mesologie_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Yousei_Teikoku_-_PAX_VESANIA_[FLAC].rar

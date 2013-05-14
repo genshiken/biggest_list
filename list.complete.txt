@@ -13418,7 +13418,6 @@ complete/l/Lovedol ~Lovely Idol~/[ReDone] Lovedol ~Lovely Idol~ - 09 [DVD][79F08
 complete/l/Lovedol ~Lovely Idol~/[ReDone] Lovedol ~Lovely Idol~ - 10 [DVD][1D7E7FC9].mkv
 complete/l/Lovedol ~Lovely Idol~/[ReDone] Lovedol ~Lovely Idol~ - 11 [DVD][8E69DD13].mkv
 complete/l/Lovedol ~Lovely Idol~/[ReDone] Lovedol ~Lovely Idol~ - 12 [End][DVD][43115C02].mkv
-complete/l/Lovely Complex/[KissSub] Lovely Complex - 15 [7F3FEE74].avi
 complete/l/Lovely Complex/[KissSub] Lovely Complex - 16 [867EEEB2].avi
 complete/l/Lovely Complex/[KissSub] Lovely Complex - 17 [F5758740].avi
 complete/l/Lovely Complex/[KissSub] Lovely Complex - 18 [6278A45D].avi
@@ -13442,6 +13441,7 @@ complete/l/Lovely Complex/[KiteSeekers-Kira] Lovely Complex - 11 [DVD][414F2BB7]
 complete/l/Lovely Complex/[KiteSeekers-Kira] Lovely Complex - 12 [v2 DVD][1E82F8C1].mkv
 complete/l/Lovely Complex/[KiteSeekers-Kira] Lovely Complex - 13 [DVD][D856BED7].mkv
 complete/l/Lovely Complex/[KiteSeekers-Kira] Lovely Complex - 14 [DVD][D0307FB2].mkv
+complete/l/Lovely Complex/[KiteSeekers-Kira] Lovely Complex - 15 [DVD][1FEE8F52].mkv
 complete/l/Lucky Star OVA/[Elysium] Lucky Star OVA [720p BD][AC3FBE1E].mkv
 complete/l/Lucky Star/[Elysium] Lucky Star - 01 [720p BD][0BB96AD8].mkv
 complete/l/Lucky Star/[Elysium] Lucky Star - 02 [720p BD][B20FB349].mkv
@@ -15497,6 +15497,9 @@ complete/m/Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo/[Commie] Mondaiji-tach
 complete/m/Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo/[Commie] Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo - 08 [CA031F12].mkv
 complete/m/Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo/[Commie] Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo - 09 [0452BD62].mkv
 complete/m/Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo/[Commie] Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo - 10 [End][BADBEC9D].mkv
+complete/m/Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo/[FFF] Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo - 01 [1080p BD][9F58D303].mkv
+complete/m/Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo/[FFF] Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo - 02 [1080p BD][5C12F8EB].mkv
+complete/m/Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo/[FFF] Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo - Opening 01 [1080p BD][5413A709].mkv
 complete/m/Mononoke/[Shinsen-Subs] Mononoke - 01 [7593BDAC].mkv
 complete/m/Mononoke/[Shinsen-Subs] Mononoke - 02 [AA2D79D3].mkv
 complete/m/Mononoke/[Shinsen-Subs] Mononoke - 03 [F4B333F4].mkv
