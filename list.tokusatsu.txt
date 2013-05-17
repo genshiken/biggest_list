@@ -252,6 +252,7 @@ tokusatsu/Kamen Rider Wizard/[Over-Time] Kamen Rider Wizard - 31 [92ED440C].mkv
 tokusatsu/Kamen Rider Wizard/[Over-Time] Kamen Rider Wizard - 32 [D7ADB9D5].mkv
 tokusatsu/Kamen Rider Wizard/[Over-Time] Kamen Rider Wizard - 33 [3F70EC01].mkv
 tokusatsu/Kamen Rider Wizard/[Over-Time] Kamen Rider Wizard - 34 [072AF624].mkv
+tokusatsu/Kamen Rider Wizard/[Over-Time] Kamen Rider Wizard - 35 [7FF9C15A].mkv
 tokusatsu/Kamen Rider X Kamen Rider - W & Decade - Movie Taisen (2010 Director's Cut)/[W-Time] Kamen Rider X Kamen Rider - W & Decade - Movie Taisen (2010 Director's Cut) [DD583D13].mkv
 tokusatsu/Kamen Rider X Kamen Rider Fourze & OOO Movie War Mega Max/[Aesir-O-T] Kamen Rider X Kamen Rider Fourze & OOO Movie War Mega Max [v2 720p BD][77563B8C].mkv
 tokusatsu/Kamen Rider X Kamen Rider Fourze & OOO Movie War Mega Max/[Over-Time] Kamen Rider X Kamen Rider Fourze & OOO Movie War Mega Max [B653FCA5].mkv
@@ -314,6 +315,7 @@ tokusatsu/Pirate Sentai Gokaiger/[Over-Time] Pirate Sentai Gokaiger - 49 [65A6B1
 tokusatsu/Pirate Sentai Gokaiger/[Over-Time] Pirate Sentai Gokaiger - 50 [C7FD8660].mkv
 tokusatsu/Pirate Sentai Gokaiger/[Over-Time] Pirate Sentai Gokaiger - 51 [End][v2][9F8C99A5].mkv
 tokusatsu/Space Sheriff Gavan The Movie/[Over-Time] Space Sheriff Gavan The Movie [1080p][1B77BDDD].mkv
+tokusatsu/Spec-Ops Cell Go-Busters The Movie/[Over-Time] Spec-Ops Cell Go-Busters The Movie [Director's Cut][1080p][032F37BA].mkv
 tokusatsu/Spec-Ops Cell Go-Busters The Movie/[Over-Time] Spec-Ops Cell Go-Busters The Movie [Director's Cut][720p][9612EDB0].mkv
 tokusatsu/Spec-Ops Cell Go-Busters/[Over-Time] Spec-Ops Cell Go-Busters - 01 [2798D8A8].mkv
 tokusatsu/Spec-Ops Cell Go-Busters/[Over-Time] Spec-Ops Cell Go-Busters - 02 [5AEC5529].mkv
@@ -365,7 +367,7 @@ tokusatsu/Spec-Ops Cell Go-Busters/[Over-Time] Spec-Ops Cell Go-Busters - 47 [86
 tokusatsu/Spec-Ops Cell Go-Busters/[Over-Time] Spec-Ops Cell Go-Busters - 48 [4C2AD966].mkv
 tokusatsu/Spec-Ops Cell Go-Busters/[Over-Time] Spec-Ops Cell Go-Busters - 49 [75D5B5F2].mkv
 tokusatsu/Spec-Ops Cell Go-Busters/[Over-Time] Spec-Ops Cell Go-Busters - 50 [End][61E45567].mkv
-tokusatsu/Special Ops Sentai Go-Busters VS Pirate Sentai Gokaiger/[Over-Time] Special Ops Sentai Go-Busters VS Pirate Sentai Gokaiger [0FEABB56].mkv
+tokusatsu/Special Ops Sentai Go-Busters VS Pirate Sentai Gokaiger/[Over-Time] Special Ops Sentai Go-Busters VS Pirate Sentai Gokaiger [720p][7785CCE0].mkv
 tokusatsu/Super Hero Wars/[Over-Time] Super Hero Wars [ECBC4537].mkv
 tokusatsu/Unofficial Sentai Akibaranger 2/[Over-Time] Unofficial Sentai Akibaranger 2 - 01 [14C6034E].mkv
 tokusatsu/Unofficial Sentai Akibaranger 2/[Over-Time] Unofficial Sentai Akibaranger 2 - 02 [76029DCD].mkv
@@ -397,3 +399,4 @@ tokusatsu/Voltasaur Team Kyoryuger/[Over-Time] Voltasaur Team Kyoryuger - 09 [F5
 tokusatsu/Voltasaur Team Kyoryuger/[Over-Time] Voltasaur Team Kyoryuger - 10 [4C18729B].mkv
 tokusatsu/Voltasaur Team Kyoryuger/[Over-Time] Voltasaur Team Kyoryuger - 11 [B546B184].mkv
 tokusatsu/Voltasaur Team Kyoryuger/[Over-Time] Voltasaur Team Kyoryuger - 12 [8EF4D87E].mkv
+tokusatsu/Voltasaur Team Kyoryuger/[Over-Time] Voltasaur Team Kyoryuger - 13 [04F25A06].mkv

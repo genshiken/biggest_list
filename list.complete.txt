@@ -22594,7 +22594,9 @@ complete/t/Tamako Market/[Commie] Tamako Market - 01 [v2][D93CF8CB].mkv
 complete/t/Tamako Market/[Commie] Tamako Market - 02 [0F660E5B].mkv
 complete/t/Tamako Market/[Commie] Tamako Market - 02 [720p BD][4B0154B0].mkv
 complete/t/Tamako Market/[Commie] Tamako Market - 03 [6B855991].mkv
+complete/t/Tamako Market/[Commie] Tamako Market - 03 [720p BD][5F7DD1AC].mkv
 complete/t/Tamako Market/[Commie] Tamako Market - 04 [4BC1E208].mkv
+complete/t/Tamako Market/[Commie] Tamako Market - 04 [720p BD][82A206EB].mkv
 complete/t/Tamako Market/[Commie] Tamako Market - 05 [B4E595DB].mkv
 complete/t/Tamako Market/[Commie] Tamako Market - 06 [45DA0715].mkv
 complete/t/Tamako Market/[Commie] Tamako Market - 07 [8631E4AF].mkv
@@ -22606,6 +22608,7 @@ complete/t/Tamako Market/[Commie] Tamako Market - 12 [End][5E4B5638].mkv
 complete/t/Tamako Market/[Commie] Tamako Market - Ending (Clean) [720p BD][B61D6BD3].mkv
 complete/t/Tamako Market/[Commie] Tamako Market - Opening (Clean) [720p BD][FA981058].mkv
 complete/t/Tamako Market/[Commie] Tamako Market - Special 1 [720p BD][E70E69A0].mkv
+complete/t/Tamako Market/[Commie] Tamako Market - Special 2 [720p BD][582BF657].mkv
 complete/t/Tamayura OVA/[Mamiko] Tamayura OVA - 1-2 [v2 1080p BD][49F42A52].mkv
 complete/t/Tamayura OVA/[Mamiko] Tamayura OVA - 3-4 [End][v2 1080p BD][88BC0721].mkv
 complete/t/Tamayura OVA/[Nuke] Tamayura OVA - 1 [BDD25C72].mkv
@@ -25976,6 +25979,7 @@ complete/y/YuruYuri/[Coalgirls] YuruYuri - Ending [1080p BD][56B8580F].mkv
 complete/y/YuruYuri/[Coalgirls] YuruYuri - Opening [1080p BD][F94F020D].mkv
 complete/y/YuruYuri/[Coalgirls] YuruYuri - Special [1080p BD][73BE8F03].mkv
 complete/y/YuruYuri/[SHiN-gx] YuruYuri Drama CD - 01 [v2][93FACF6F].mkv
+complete/y/YuruYuri/[SHiN-gx] YuruYuri Drama CD - 03 [36A2DF14].mkv
 complete/y/Yurumate3Dei/[HorribleSubs] Yurumate3Dei - 01 [720p][15DFA0FE].mkv
 complete/y/Yurumate3Dei/[HorribleSubs] Yurumate3Dei - 02 [720p][027E77DC].mkv
 complete/y/Yurumate3Dei/[HorribleSubs] Yurumate3Dei - 03 [720p][E7FB130B].mkv
