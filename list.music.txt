@@ -366,6 +366,7 @@ music/ASL/[ASL]_Aimi_-_Dansai_Bunri_no_Crime_Edge_OP_-_Unmei_no_Ori_[FLAC].rar
 music/ASL/[ASL]_Aimi_-_Oda_Nobuna_no_Yabou_OP_-_Link_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Airi_-_30-sai_no_Hoken_Taiiku_ED_-_Learn together_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Aizawa_Mai_-_Nichijou_Character_Song_4_Naganohara_Mio_-_Mio_no_Kaputte_Kaputte_Moechigire_[FLAC].rar
+music/ASL/[ASL]_Amagiri_Yune_CV_Toyota_Sera_-_Amairo_Islenauts_Character_Song_Vol_2_-_Watashi_dake_no_Sora_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Amatoya_Nari_-_Yuki_no_Sekai_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Amuro_Namie_-_Go_Round_YEAH-OH_[FLAC].rar
 music/ASL/[ASL]_Annabel_-_Another_ED_-_anamnesis_[FLAC].rar
@@ -801,6 +802,7 @@ music/ASL/[ASL]_Naruke_Michiko_-_Nora_to_Toki_no_Koubou_OST_Arrange_Ver_[FLAC].r
 music/ASL/[ASL]_Nishizawa_Hagumi_-_Inpyuri_-Hito_to_Anata_to_Ayakashi_to-_Original_Soundtrack_[FLAC].rar
 music/ASL/[ASL]_Nishizawa_Hagumi_-_Natsuyuki_~summer_snow~_Maxi_Single_-_Natsu_no_Hi_no_Refrain_[FLAC].rar
 music/ASL/[ASL]_Nomico_-_Hoshizora_e_Kakaru_Hashi_OP_-_Hoshikaze_no_Horoscope_[FLAC]_[w_Scans].zip
+music/ASL/[ASL]_Nomizu_Iori_-_Date_A_Live_ED_-_SAVE_THE_WORLD_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Nomizu_Iori_-_Gekkou_Catan_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Nomizu_Iori_-_Koreha_Zombie_Desuka_OF_THE_DEAD_OP_-_Passionato_[FLAC].rar
 music/ASL/[ASL]_Nomizu_Iori_-_Mondaiji_tachi_ga_Isekai_kara_Kuru_Sou_Desu_yo_OP_-_Black_White_[FLAC]_[w_Scans].rar
@@ -925,6 +927,7 @@ music/ASL/[ASL]_Shimotsuki_Haruka_-_break_time_[FLAC].rar
 music/ASL/[ASL]_Shimotsuki_Haruka_-_melodies_memories_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Shimotsuki_Haruka_-_melodies_memories_[w_Scans]_[FLAC].rar
 music/ASL/[ASL]_Shiraishi_Minoru_-_Nichijou_Character_Song_3_Sakamoto-san_-_Sakamoto-san_no_nyaa_to_Iu_to_demo_Omotta_ka_[FLAC].rar
+music/ASL/[ASL]_Shirley_Warwick_CV_Kitami_Rikka_-_Amairo_Islenauts_Character_Song_Vol_1_-_step_forward_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Shizuka_Ito_-_Amagami_SS_ED_Single_-_Kimi_no_Hitomi_ni_Koishiteru_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Silly_Walker_-_Life_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Softenni_The_Animation_-_Character_Song_Drama_CD_Gasshuku_[FLAC]_[w_Scans].rar
@@ -4146,6 +4149,8 @@ music/Nipponsei/[Nipponsei] Arakawa Under The Bridge Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Arakawa Under The Bridge x Bridge ED Single - Akai Coat [Suneohair].zip
 music/Nipponsei/[Nipponsei] Arakawa Under The Bridge x Bridge OP Single - COSMOS vs ALIEN [Yakushimaru Etsuko].zip
 music/Nipponsei/[Nipponsei] Arashiro Beni - Beni [with MAJOR ED] 192 kbps.zip
+music/Nipponsei/[Nipponsei] Arata Kangatari ED Single - The Misfit Go [OLDCODEX].zip
+music/Nipponsei/[Nipponsei] Arata Kangatari OP Single - GENESIS ARIA [Sphere].zip
 music/Nipponsei/[Nipponsei] Arcana Famiglia ED Single - Pieces of Treasure [Various].zip
 music/Nipponsei/[Nipponsei] Arcana Famiglia OP Single - Magenta Another Sky [Harada Hitomi].zip
 music/Nipponsei/[Nipponsei] Asatte no Houkou Character Image Album - Komorebi Diary -Karada Hen-.zip
@@ -4402,6 +4407,7 @@ music/Nipponsei/[Nipponsei] Dantalian no Shoka Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Darker Than Black -Kuro no Keiyakusha- Gekihan.zip
 music/Nipponsei/[Nipponsei] Darker Than Black ED Single - Tsuki Akari [Rie Fu].zip
 music/Nipponsei/[Nipponsei] Darker Than Black OP Single - HOWLING [abingdon boys school].zip
+music/Nipponsei/[Nipponsei] Date A Live ED Single - SAVE THE WORLD [Nomizu Iori].zip
 music/Nipponsei/[Nipponsei] Date A Live OP Single - Date A Live [sweet ARMS].zip
 music/Nipponsei/[Nipponsei] Deadman Wonderland ED Single - SHINY SHINY [DWB feat. Nirgilis].zip
 music/Nipponsei/[Nipponsei] Deadman Wonderland OP Single - One Reason [DWB feat. fade].zip
@@ -4600,6 +4606,7 @@ music/Nipponsei/[Nipponsei] Hagure Yuusha no Estetica OP Single - Realization [F
 music/Nipponsei/[Nipponsei] Haiyore! Nyaruko-san ED Single - Zutto Be with you [RAMM ni Hai Yoru Nyaruko-san].zip
 music/Nipponsei/[Nipponsei] Haiyore! Nyaruko-san OP Single - Taiyou Iwaku Moeyo Chaos [Ushiro Kara Haiyori Tai G].zip
 music/Nipponsei/[Nipponsei] Haiyore! Nyaruko-san W ED1 ED2 Single - Yotte S.O.S [RAMM ni Haiyoru XXX].zip
+music/Nipponsei/[Nipponsei] Haiyore! Nyaruko-san W ED3 ED4 Single - Kirai na Wake Lychee [RAMM ni Haiyoru XXX].zip
 music/Nipponsei/[Nipponsei] Haiyore! Nyaruko-san W OP Single - Koi wa Chaos no Shimobenari [Various].zip
 music/Nipponsei/[Nipponsei] Hakkenden -Touhou Hakken Ibun- ED Single - String of pain [Kakihara Tetsuya].zip
 music/Nipponsei/[Nipponsei] Hakkenden -Touhou Hakken Ibun- OP Single - God FATE [Faylan].zip
@@ -4627,6 +4634,7 @@ music/Nipponsei/[Nipponsei] Happiness! ED Single - Magical Generation [Sakakibar
 music/Nipponsei/[Nipponsei] Happiness! OP Single - Happiness! [Murata Ayumi].zip
 music/Nipponsei/[Nipponsei] Hataraki Man ED Single - Shangri-la [Chat Monchy].zip
 music/Nipponsei/[Nipponsei] Hataraki Man OP Single - Hataraku Otoko [Puffy].zip
+music/Nipponsei/[Nipponsei] Hataraku Maou-sama ED Single - Sankaku e.p. [nano.RIPE].zip
 music/Nipponsei/[Nipponsei] Hataraku Maou-sama OP Single - ZERO!! [Kuribayashi Minami.zip
 music/Nipponsei/[Nipponsei] Hayate no Gotoku Character CD 1 - Ayasaki Hayate [Shiraishi Ryouko].zip
 music/Nipponsei/[Nipponsei] Hayate no Gotoku Character CD 2 - Maria [Tanaka Rie].zip
@@ -5093,12 +5101,14 @@ music/Nipponsei/[Nipponsei] NARUTO Shippuuden ED20 Single - By My Side [Hemenway
 music/Nipponsei/[Nipponsei] NARUTO Shippuuden ED21 Single - Cascade [UNLIMITS].zip
 music/Nipponsei/[Nipponsei] NARUTO Shippuuden ED22 Single - Kono Koe Karashite feat. CHEHON [AISHA].zip
 music/Nipponsei/[Nipponsei] NARUTO Shippuuden ED23 Single - MOTHER [MUCC].zip
+music/Nipponsei/[Nipponsei] NARUTO Shippuuden ED24 Single - Sayonara Memory [7!!].zip
 music/Nipponsei/[Nipponsei] NARUTO Shippuuden Movie - Blood Prison Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] NARUTO Shippuuden OP07 Single - Toumei Datta Sekai [Hata Motohiro].zip
 music/Nipponsei/[Nipponsei] NARUTO Shippuuden OP08 Single - Diver [NICO Touches the Walls].zip
 music/Nipponsei/[Nipponsei] NARUTO Shippuuden OP09 Single - Lovers [7!!].zip
 music/Nipponsei/[Nipponsei] NARUTO Shippuuden OP10 single - newsong [tacica].zip
 music/Nipponsei/[Nipponsei] NARUTO Shippuuden OP11 Single - Totsugeki Rock [The Cro-magnons].zip
+music/Nipponsei/[Nipponsei] NARUTO Shippuuden OP12 Album - Moshimo [Daisuke].zip
 music/Nipponsei/[Nipponsei] NIGHT HEAD GENESIS ED - Nemutteita Kimochi Nemutteita Kokoro [Aya Kamiki].zip
 music/Nipponsei/[Nipponsei] Nagasarete Airantou Character Image Album Soundtrack.zip
 music/Nipponsei/[Nipponsei] Namiuchigiwa no Muromi-san OP Single - Nanatsu no Umi Yori Kimi no Umi [Uesaka Sumire].zip
@@ -5575,6 +5585,7 @@ music/Nipponsei/[Nipponsei] Strike Witches 2 Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Strike Witches Movie Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Suara - Amane Uta (320 kbps).zip
 music/Nipponsei/[Nipponsei] Sugar Sugar Rune OP ED Single - Chocola ni Muuchu [Nomoto Karia] 320k.zip
+music/Nipponsei/[Nipponsei] Suisei no Gargantia ED Single - Sora to Kimi no Message [ChouCho].zip
 music/Nipponsei/[Nipponsei] Suisei no Gargantia OP Single - Kono Sekai wa Bokura wo Matteita [Chihara Minori].zip
 music/Nipponsei/[Nipponsei] Suite Precure Movie Original Soundtrack.zip
 music/Nipponsei/[Nipponsei] Suite Precure OP ED Single - La La La Suite Precure ~UNLIMITED ver.~ [Various].zip
@@ -5833,6 +5844,7 @@ music/Nipponsei/[Nipponsei] Working'!! OP ED Single - COOLISH WALK [Various].zip
 music/Nipponsei/[Nipponsei] Working'!! Original Soundtrack Vol.1.zip
 music/Nipponsei/[Nipponsei] Working'!! Original Soundtrack Vol.2.zip
 music/Nipponsei/[Nipponsei] World Destruction OP Single - ZERO [AAA].zip
+music/Nipponsei/[Nipponsei] Yahari Ore no Seishun Love Come wa Machigatteiru. ED Single - Hello Alone [Hayami Saori & Touyama Nao].zip
 music/Nipponsei/[Nipponsei] Yahari Ore no Seishun Love Come wa Machigatteiru. OP Single - Yuki Toki [Yanagi Nagi].zip
 music/Nipponsei/[Nipponsei] Yakitate Japan ED Single - SUNDAY [The Babystars] [CD0E57D0] 320k CBR.zip
 music/Nipponsei/[Nipponsei] Yakitate Japan ED2 Single - To All Tha Dreamers [SOUL D OUT].zip
