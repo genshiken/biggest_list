@@ -1703,6 +1703,8 @@ complete/b/Bastard/[P-A] Bastard - 4 [C28433A5].avi
 complete/b/Bastard/[P-A] Bastard - 5 [12092B7B].avi
 complete/b/Bastard/[P-A] Bastard - 6 [End][BB7B561D].avi
 complete/b/Battle Girls - Time Paradox/[FFF] Sengoku Otome - Momoiro Paradox - 01 [720p BD][A1862FA8].mkv
+complete/b/Battle Girls - Time Paradox/[FFF] Sengoku Otome - Momoiro Paradox - 02 [720p BD][4A82527E].mkv
+complete/b/Battle Girls - Time Paradox/[FFF] Sengoku Otome - Momoiro Paradox - 03 [720p BD][430EB80F].mkv
 complete/b/Battle Girls - Time Paradox/[HorribleSubs] Battle Girls - Time Paradox - 01 [720p][0A48D141].mkv
 complete/b/Battle Girls - Time Paradox/[HorribleSubs] Battle Girls - Time Paradox - 02 [720p][3C7574F1].mkv
 complete/b/Battle Girls - Time Paradox/[HorribleSubs] Battle Girls - Time Paradox - 03 [720p][84C6E941].mkv
@@ -8393,6 +8395,7 @@ complete/h/H2/[ILA] H2 - 36 [6E08D02C].ogm
 complete/h/H2/[ILA] H2 - 37 [E58F6187].ogm
 complete/h/H2/[ILA] H2 - 38 [E52E3A23].ogm
 complete/h/H2/[ILA] H2 - 39 [End][4E427399].ogm
+complete/h/H2/[Sighzen] H2 - 01 [DVD][409D7B5A].mkv
 complete/h/H2O - Footprints in the Sand/[Ureshii & F-B] H2O - Footprints in the Sand - 01 [7D8FFEFC].mkv
 complete/h/H2O - Footprints in the Sand/[Ureshii & F-B] H2O - Footprints in the Sand - 02 [8B17A7F9].mkv
 complete/h/H2O - Footprints in the Sand/[Ureshii & F-B] H2O - Footprints in the Sand - 03 [6EB26189].mkv
@@ -25422,18 +25425,20 @@ complete/y/Yakushiji Ryoko no Kaiki Jikenbo/[AonE-AnY] Yakushiji Ryoko no Kaiki 
 complete/y/Yakushiji Ryoko no Kaiki Jikenbo/[AonE-AnY] Yakushiji Ryoko no Kaiki Jikenbo - 11 [80F9F840].mkv
 complete/y/Yakushiji Ryoko no Kaiki Jikenbo/[AonE-AnY] Yakushiji Ryoko no Kaiki Jikenbo - 12 [8EF165FD].mkv
 complete/y/Yakushiji Ryoko no Kaiki Jikenbo/[AonE-AnY] Yakushiji Ryoko no Kaiki Jikenbo - 13 [End][6E3F3A31].mkv
-complete/y/Yama no Susume/[Commie] Yama no Susume - 01 [25152B28].mkv
-complete/y/Yama no Susume/[Commie] Yama no Susume - 02 [B293F8E8].mkv
-complete/y/Yama no Susume/[Commie] Yama no Susume - 03 [v2][64CFA57C].mkv
-complete/y/Yama no Susume/[Commie] Yama no Susume - 04 [F7087B36].mkv
-complete/y/Yama no Susume/[Commie] Yama no Susume - 05 [4FC32398].mkv
-complete/y/Yama no Susume/[Commie] Yama no Susume - 06 [522FA71C].mkv
-complete/y/Yama no Susume/[Commie] Yama no Susume - 07 [92874D77].mkv
-complete/y/Yama no Susume/[Commie] Yama no Susume - 08 [6647F660].mkv
-complete/y/Yama no Susume/[Commie] Yama no Susume - 09 [901CE9EB].mkv
-complete/y/Yama no Susume/[Commie] Yama no Susume - 10 [E3755618].mkv
-complete/y/Yama no Susume/[Commie] Yama no Susume - 11 [C2046AD5].mkv
-complete/y/Yama no Susume/[Commie] Yama no Susume - 12 [End][B84E1679].mkv
+complete/y/Yama no Susume/[Commie] Yama no Susume - 01 [720p BD][034F320E].mkv
+complete/y/Yama no Susume/[Commie] Yama no Susume - 02 [720p BD][70683C3A].mkv
+complete/y/Yama no Susume/[Commie] Yama no Susume - 03 [720p BD][EAFA5500].mkv
+complete/y/Yama no Susume/[Commie] Yama no Susume - 04 [720p BD][1D88DFCD].mkv
+complete/y/Yama no Susume/[Commie] Yama no Susume - 05 [720p BD][4F17E7D7].mkv
+complete/y/Yama no Susume/[Commie] Yama no Susume - 06 [720p BD][C7784CE0].mkv
+complete/y/Yama no Susume/[Commie] Yama no Susume - 07 [720p BD][0E31A9CD].mkv
+complete/y/Yama no Susume/[Commie] Yama no Susume - 08 [720p BD][920E01E0].mkv
+complete/y/Yama no Susume/[Commie] Yama no Susume - 09 [720p BD][7943716C].mkv
+complete/y/Yama no Susume/[Commie] Yama no Susume - 10 [720p BD][C199FAFF].mkv
+complete/y/Yama no Susume/[Commie] Yama no Susume - 11 [720p BD][E0FB24E7].mkv
+complete/y/Yama no Susume/[Commie] Yama no Susume - 12 [End][720p BD][5A0ED1C9].mkv
+complete/y/Yama no Susume/[Commie] Yama no Susume - 13 OVA [720p BD][F2C11DBC].mkv
+complete/y/Yama no Susume/[Commie] Yama no Susume - Ending (Clean) [720p BD][38E2AC75].mkv
 complete/y/Yamato Nadeshiko Shichi Henge/[Kiss-Kyuu] Yamato Nadeshiko Shichi Henge - 01 [D7178BEA].avi
 complete/y/Yamato Nadeshiko Shichi Henge/[Kiss-Kyuu] Yamato Nadeshiko Shichi Henge - 02 [952FCF77].avi
 complete/y/Yamato Nadeshiko Shichi Henge/[Kiss-Kyuu] Yamato Nadeshiko Shichi Henge - 03 [ABA95E98].avi

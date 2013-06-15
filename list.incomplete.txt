@@ -1259,6 +1259,8 @@ incomplete/Miyuki/[FroZen-EviL] Miyuki - 05 [DVD][2EAA2630].mkv
 incomplete/Miyuki/[FroZen-EviL] Miyuki - 06 [DVD][2EDD54DC].mkv
 incomplete/Miyuki/[FroZen] Miyuki - 07 [DVD][CBF8F327].mkv
 incomplete/Miyuki/[FroZen] Miyuki - 08 [DVD][25250A8D].mkv
+incomplete/Miyuki/[FroZen] Miyuki - 09 [DVD][5161EBBD].mkv
+incomplete/Miyuki/[FroZen] Miyuki - 10 [DVD][F645F8DE].mkv
 incomplete/Mizu Iro Jidai/[KiteSeekers] Mizu Iro Jidai - 29 [C61B844F].mkv
 incomplete/Mizu Iro Jidai/[KiteSeekers] Mizu Iro Jidai - 30 [73039107].mkv
 incomplete/Mizu Iro Jidai/[KiteSeekers] Mizu Iro Jidai - 32 [C1454A4D].mkv
@@ -2350,6 +2352,8 @@ incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 33 [72
 incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 34 [720p][07DFCA48].mkv
 incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 35 [720p][70079107].mkv
 incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 36 [720p][5F6B0247].mkv
+incomplete/Yes! Pretty Cure 5 Go Go!/[Doremi] Yes! Pretty Cure 5 Go Go! - 37 [720p][F78C2FBC].mkv
+incomplete/Yes! Pretty Cure 5/[PCSS] Yes! Pretty Cure 5 - 01 [DVD][65D0BF45].mkv
 incomplete/Yes! Pretty Cure 5/[PCSS] Yes! Pretty Cure 5 - 21 [DVD][5D1AE662].mkv
 incomplete/Yes! Pretty Cure 5/[PCSS] Yes! Pretty Cure 5 - 22 [DVD][2F80A6AD].mkv
 incomplete/Yes! Pretty Cure 5/[PCSS] Yes! Pretty Cure 5 - 23 [DVD][CA2E363E].mkv
@@ -2375,7 +2379,6 @@ incomplete/Yes! Pretty Cure 5/[PCSS] Yes! Pretty Cure 5 - 46 [v2 DVD][34BF53C7].
 incomplete/Yes! Pretty Cure 5/[PCSS] Yes! Pretty Cure 5 - 47 [DVD][E4D5D156].mkv
 incomplete/Yes! Pretty Cure 5/[PCSS] Yes! Pretty Cure 5 - 48 [v2 DVD][2038D38A].mkv
 incomplete/Yes! Pretty Cure 5/[PCSS] Yes! Pretty Cure 5 - 49 [End][DVD][1D5CE62B].mkv
-incomplete/Yes! Pretty Cure 5/[T-N twrev] Yes! PreCure 5 - 01 [8D7A1CCD].avi
 incomplete/Yoshimune/[F-B & Scramble!] Yoshimune - 01 [D6661800].mp4
 incomplete/Yoshimune/[F-B & Scramble!] Yoshimune - 02 [B6EA56DA].mp4
 incomplete/Yoshimune/[F-B & Scramble!] Yoshimune - 03 [244BD028].mp4
