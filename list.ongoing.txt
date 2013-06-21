@@ -630,6 +630,18 @@ ongoing/!complete-recent/Psycho-Pass/[Commie] Psycho-Pass - 21 [v2][7C84693C].mk
 ongoing/!complete-recent/Psycho-Pass/[Commie] Psycho-Pass - 22 [End][v2][AC1DD83B].mkv
 ongoing/!complete-recent/Psycho-Pass/[Commie] Psycho-Pass - Ending 1 (Clean) [1080p BD][541BC17E].mkv
 ongoing/!complete-recent/Psycho-Pass/[Commie] Psycho-Pass - Opening 1 (Clean) [1080p BD][DFADD9D8].mkv
+ongoing/!complete-recent/Red Data Girl/[Commie] Red Data Girl - 01 [043C47ED].mkv
+ongoing/!complete-recent/Red Data Girl/[Commie] Red Data Girl - 02 [v2][01C3A367].mkv
+ongoing/!complete-recent/Red Data Girl/[Commie] Red Data Girl - 03 [CA2A90A5].mkv
+ongoing/!complete-recent/Red Data Girl/[Commie] Red Data Girl - 04 [EC2EDD3E].mkv
+ongoing/!complete-recent/Red Data Girl/[Commie] Red Data Girl - 05 [3112FD30].mkv
+ongoing/!complete-recent/Red Data Girl/[Commie] Red Data Girl - 06 [654713AA].mkv
+ongoing/!complete-recent/Red Data Girl/[Commie] Red Data Girl - 07 [9E511653].mkv
+ongoing/!complete-recent/Red Data Girl/[Commie] Red Data Girl - 08 [526C52AD].mkv
+ongoing/!complete-recent/Red Data Girl/[Commie] Red Data Girl - 09 [980ECC1E].mkv
+ongoing/!complete-recent/Red Data Girl/[Commie] Red Data Girl - 10 [451EB042].mkv
+ongoing/!complete-recent/Red Data Girl/[Commie] Red Data Girl - 11 [930AC43D].mkv
+ongoing/!complete-recent/Red Data Girl/[Commie] Red Data Girl - 12 [End][B0D20687].mkv
 ongoing/!complete-recent/Robotics;Notes/[Commie] Robotics;Notes - 01 [AD255FB0].mkv
 ongoing/!complete-recent/Robotics;Notes/[Commie] Robotics;Notes - 02 [CC7F8571].mkv
 ongoing/!complete-recent/Robotics;Notes/[Commie] Robotics;Notes - 03 [E5EB435A].mkv
@@ -771,6 +783,7 @@ ongoing/Aiura/[Commie] Aiura - 07 [2AC75627].mkv
 ongoing/Aiura/[Commie] Aiura - 08 [4A7C414D].mkv
 ongoing/Aiura/[Commie] Aiura - 09 [2A8050AC].mkv
 ongoing/Aiura/[Commie] Aiura - 10 [941849BD].mkv
+ongoing/Aiura/[Commie] Aiura - 11 [7F2FC611].mkv
 ongoing/Aku no Hana/[gg] Aku no Hana - 01 [v2][0F69A819].mkv
 ongoing/Aku no Hana/[gg] Aku no Hana - 02 [DF0473DD].mkv
 ongoing/Aku no Hana/[gg] Aku no Hana - 03 [1591D8CE].mkv
@@ -1596,6 +1609,7 @@ ongoing/Dokidoki! Precure/[Commie] Dokidoki! Precure - 16 [FE37D4B5].mkv
 ongoing/Dokidoki! Precure/[Commie] Dokidoki! Precure - 17 [5B527BF9].mkv
 ongoing/Dokidoki! Precure/[Commie] Dokidoki! Precure - 18 [30F354C2].mkv
 ongoing/Dokidoki! Precure/[Commie] Dokidoki! Precure - 19 [83928530].mkv
+ongoing/Dokidoki! Precure/[Commie] Dokidoki! Precure - 20 [A0563EAA].mkv
 ongoing/Fairy Tail/Fairy Tail - 001 [Mamiko][0307DF54].mkv
 ongoing/Fairy Tail/Fairy Tail - 002 [Mamiko][531F9793].mkv
 ongoing/Fairy Tail/Fairy Tail - 003 [Mamiko][C7677EC8].mkv
@@ -1829,6 +1843,7 @@ ongoing/Haiyore! Nyarlko W/[Commie] Haiyore! Nyarlko W - 06 [6BFA9FE7].mkv
 ongoing/Haiyore! Nyarlko W/[Commie] Haiyore! Nyarlko W - 07 [D8974AE2].mkv
 ongoing/Haiyore! Nyarlko W/[Commie] Haiyore! Nyarlko W - 08 [52CB91DD].mkv
 ongoing/Haiyore! Nyarlko W/[Commie] Haiyore! Nyarlko W - 09 [32D0CFDC].mkv
+ongoing/Haiyore! Nyarlko W/[Commie] Haiyore! Nyarlko W - 10 [4CC5B6BA].mkv
 ongoing/Hakuoki Reimeiroku/[HorribleSubs] Hakuoki Reimeiroku - 01 [720p][5936354E].mkv
 ongoing/Hakuoki Reimeiroku/[HorribleSubs] Hakuoki Reimeiroku - 02 [1080p][E43518D2].mkv
 ongoing/Hakuoki Reimeiroku/[HorribleSubs] Hakuoki Reimeiroku - 03 [720p][5E23612D].mkv
@@ -3172,17 +3187,6 @@ ongoing/Queen's Blade Rebellion/[HorribleSubs] Queen's Blade Rebellion - 11 [720
 ongoing/Queen's Blade Rebellion/[HorribleSubs] Queen's Blade Rebellion - 12 [720p][AC528449].mkv
 ongoing/Recorder to Randoseru OVA/[CMS] Recorder to Randoseru OVA - 01 [DVD][77732C1B].mkv
 ongoing/Recorder to Randoseru OVA/[CMS] Recorder to Randoseru OVA - 02 [DVD][FA7B3528].mkv
-ongoing/Red Data Girl/[Commie] Red Data Girl - 01 [043C47ED].mkv
-ongoing/Red Data Girl/[Commie] Red Data Girl - 02 [v2][01C3A367].mkv
-ongoing/Red Data Girl/[Commie] Red Data Girl - 03 [CA2A90A5].mkv
-ongoing/Red Data Girl/[Commie] Red Data Girl - 04 [EC2EDD3E].mkv
-ongoing/Red Data Girl/[Commie] Red Data Girl - 05 [3112FD30].mkv
-ongoing/Red Data Girl/[Commie] Red Data Girl - 06 [654713AA].mkv
-ongoing/Red Data Girl/[Commie] Red Data Girl - 07 [9E511653].mkv
-ongoing/Red Data Girl/[Commie] Red Data Girl - 08 [526C52AD].mkv
-ongoing/Red Data Girl/[Commie] Red Data Girl - 09 [980ECC1E].mkv
-ongoing/Red Data Girl/[Commie] Red Data Girl - 10 [451EB042].mkv
-ongoing/Red Data Girl/[Commie] Red Data Girl - 11 [930AC43D].mkv
 ongoing/Saint Seiya Omega/[HorribleSubs] Saint Seiya Omega - 01 [720p][BA3F9192].mkv
 ongoing/Saint Seiya Omega/[HorribleSubs] Saint Seiya Omega - 02 [720p][AF3F9D99].mkv
 ongoing/Saint Seiya Omega/[HorribleSubs] Saint Seiya Omega - 03 [720p][79F92466].mkv
