@@ -475,6 +475,7 @@ music/ASL/[ASL]_EGOIST_-_PSYCHO-PASS_ED2_-_All_Alone_With_You_[FLAC]_[w_Scans].r
 music/ASL/[ASL]_EGOIST_-_Psycho_Pass_ED_-_Namae_no_nai_Kaibutsu_[EXTRA].rar
 music/ASL/[ASL]_EGOIST_-_Psycho_Pass_ED_-_Namae_no_nai_Kaibutsu_[FLAC].rar
 music/ASL/[ASL]_ELISA_-_Hayate_No_Gotoku_HEAVEN_IS_A_PLACE_ON_EARTH_Insert_Song_-_Invisible_Message_[FLAC].rar
+music/ASL/[ASL]_ELISA_-_Kakumeiki_Valvrave_ED2_-_Soba_ni_Iru_yo_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_EXIT_TUNES_PRESENTS_Mayumi_Morinaga_-_Exp._[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_EastNewSound_-_Split_Theory_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Ecnemuse_-_Witch_s_Garden_BGM_Digital_Sound_Tracks_Witch_[FLAC].rar
@@ -524,6 +525,7 @@ music/ASL/[ASL]_HIMEKA_-_himekanvas_[FLAC].rar
 music/ASL/[ASL]_HO-KAGO_TEA_TIME_-_K-On_Movie_ED_-_Singing_[FLAC].rar
 music/ASL/[ASL]_HOUKAGO_TEA_TIME_-_K-On!_Movie_Theme_Song_&_OP_-_Unmei_wa_Endless!_[FLAC].rar
 music/ASL/[ASL]_Hamasaki_Ayumi_-_Tales_of_Xillia_-_FIVE_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Hana_-_Himawari_no_Kyoukai_to_Nagai_Natsuyasumi_Vocal_CD_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Hana_-_Subarashiki_Hibi_Theme_Song_-_Kuukirikigaku_Shoujo_to_Shounen_no_Shi_[FLAC].rar
 music/ASL/[ASL]_Hanae_-_Kamisama_Hajimemashita_OP_&_ED_-_Kamisama_Hajimemashita_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Hanazawa_Kana_-_Hoshizora_Destination_[EXTRA].rar
@@ -760,7 +762,9 @@ music/ASL/[ASL]_Makise_Kurisu_-_STEINS;GATE_BD_Vol.6_Tokuten_CD_-_Mirai_Gadget_C
 music/ASL/[ASL]_Mano_Erina_-_FRIENDS_[FLAC].rar
 music/ASL/[ASL]_Marie_-_GWAVE_SuperFeatures_vol5_THE-KATANA-ROCK_GEKKA_HOMURA_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Marie_-_Onigokko_Official_Tsuuhan_Tokuten_-_Otakara_CD_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Masaki_Gaillard_(CV_Kiritani_Hana)_-_Amairo_Islenauts_Character_Song_Vol_4_-_Daisuki_Nanda_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Mass_Alert_-_Heroman_ED2_-_Boku_no_Te_wa_Kimi_no_Tame_ni_[FLAC]_[w_Scans].rar
+music/ASL/[ASL]_Matsumoto_Fuminori_-_Himawari_no_Kyoukai_to_Nagai_Natsuyasumi_Soundtrack_CD_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Matsutani_Suguru_-_Usagi_Drop_Original_Soundtrack_[FLAC].rar
 music/ASL/[ASL]_May'n_-_Accel_World_OP_-_Chase_the_world_[FLAC].rar
 music/ASL/[ASL]_May_n_-_Heat_[EXTRA].rar
@@ -1432,6 +1436,7 @@ music/ASL/[ASL]_Various_Artists_-_Magus_Tale_Sekaiju_to_Koi_suru_Mahoutsukai_Ori
 music/ASL/[ASL]_Various_Artists_-_Mahou_Shoujo_Lyrical_Nanoha_The_MOVIE_2nd_A_s_Drama_CD_-Side_T-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Mahou_Shoujo_Lyrical_Nanoha_The_MOVIE_2nd_A_s_Drama_CD_-Side_Y-_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Mahoutsukai_no_Yoru_Original_Soundtrack_[FLAC].rar
+music/ASL/[ASL]_Various_Artists_-_Maji_de_Watashi_ni_Koi_Shinasai_A-1_Vocal_CD_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Maji_de_Watashi_ni_Koi_Shinasai_Original_Soundtrack_[FLAC]_[w_Scans].rar
 music/ASL/[ASL]_Various_Artists_-_Maji_de_Watashi_ni_Koishinasai_Character_Song_[FLAC].rar
 music/ASL/[ASL]_Various_Artists_-_Majisuki_~Marginal_Skip~_Vocal_Album_[FLAC]_[w_Scans].rar
@@ -6484,6 +6489,7 @@ music/Shin-S/[Shin-S] Ore no Imouto ga Konna ni Kawaii Wake ga Nai Complete Coll
 music/Shin-S/[Shin-S] Ore no Imouto ga Konna ni Kawaii Wake ga Nai ED Single 4 - Masquerade! [Hanazawa Kana & Nabatame Hitomi].zip
 music/Shin-S/[Shin-S] Ore no Imouto ga Konna ni Kawaii Wake ga Nai ED Single 5 - Suki Nandamon! [Taketatsu Ayana & Tamura Yukari].zip
 music/Shin-S/[Shin-S] Ore no Imouto ga Konna ni Kawaii Wake ga Nai Light Novel Vol.9 Theme Song Single - nexus [ClariS].zip
+music/Shin-S/[Shin-S] Ore no Imouto ga Konna ni Kawaii Wake ga Nai. ED Single 1 - Kanjousen loop (FLAC) [Various].zip
 music/Shin-S/[Shin-S] Ore no Imouto ga Konna ni Kawaii Wake ga Nai. OP Single - reunion (FLAC) [ClariS].zip
 music/Shin-S/[Shin-S] Ore no Kanojo to Osananajimi ga Shuraba Sugiru Character Song CD - Harusaki Chiwa [Akasaki Chinatsu].zip
 music/Shin-S/[Shin-S] Ore no Kanojo to Osananajimi ga Shuraba Sugiru Character Song CD - Natsukawa Masuzu (FLAC) [Various].zip
