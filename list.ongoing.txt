@@ -807,6 +807,7 @@ ongoing/Code Geass Akito the Exiled/[Thora] Code Geass Akito the Exiled - 01 [10
 ongoing/Code Geass Akito the Exiled/[gg] Code Geass Akito the Exiled - 01 [B785F404].mkv
 ongoing/Danganronpa The Animation/[UTW] Danganronpa The Animation - 01 [720p][A15D14F2].mkv
 ongoing/Danganronpa The Animation/[UTW] Danganronpa The Animation - 02 [720p][B1A2027B].mkv
+ongoing/Danganronpa The Animation/[UTW] Danganronpa The Animation - 03 [720p][04C216E5].mkv
 ongoing/Detective Conan/Detective Conan - 001 [FBI][Remastered][8548B1E5].mkv
 ongoing/Detective Conan/Detective Conan - 012 [Puto-usotsuki][720p][DEC2D98B].mkv
 ongoing/Detective Conan/Detective Conan - 018 [FBI][788EEAAC].mkv
@@ -1274,11 +1275,15 @@ ongoing/Fairy Tail/Fairy Tail - 174 [HorribleSubs][720p][485A2E00].mkv
 ongoing/Fairy Tail/Fairy Tail - 175 [HorribleSubs][720p][F25B7CD8].mkv
 ongoing/Fate-Kaleid Liner Prisma Ilya/[Commie] Fate-Kaleid Liner Prisma Illya - 01 [A393058E].mkv
 ongoing/Fate-Kaleid Liner Prisma Ilya/[UTW] Fate-Kaleid Liner Prisma Ilya - 01 [720p][89639D47].mkv
+ongoing/Fate-Kaleid Liner Prisma Ilya/[UTW] Fate-Kaleid Liner Prisma Ilya - 02 [720p][3874DE96].mkv
 ongoing/Free!/[Commie] Free! - 01 [29F0B62D].mkv
 ongoing/Free!/[Commie] Free! - 02 [10A782E5].mkv
 ongoing/Gatchaman Crowds/[Commie] Gatchaman Crowds - 01 [2F85EBA6].mkv
 ongoing/Gen'ei wo Kakeru Taiyou/[Commie] Gen'ei wo Kakeru Taiyou - 01 [27B09AD9].mkv
 ongoing/Gen'ei wo Kakeru Taiyou/[Commie] Gen'ei wo Kakeru Taiyou - 02 [6BE2D10A].mkv
+ongoing/Gen'ei wo Kakeru Taiyou/[Underwater] Gen'ei wo Kakeru Taiyou - Il Sole Penetra le Illusioni - 01 [720p][v2][AA482088].mkv
+ongoing/Gen'ei wo Kakeru Taiyou/[Underwater] Gen'ei wo Kakeru Taiyou - Il Sole Penetra le Illusioni - 02 [720p][75759C10].mkv
+ongoing/Gen'ei wo Kakeru Taiyou/[Underwater] Gen'ei wo Kakeru Taiyou - Il Sole Penetra le Illusioni - 03 [720p][BBB498DA].mkv
 ongoing/Ghost in the Shell Arise/[Commie] Ghost in the Shell Arise - 01 [1080p BD][33FA8B1A].mkv
 ongoing/Ginga Kikoutai Majestic Prince/[Commie] Ginga Kikoutai Majestic Prince - 01 [96FA39F8].mkv
 ongoing/Ginga Kikoutai Majestic Prince/[Commie] Ginga Kikoutai Majestic Prince - 02 [58230F78].mkv
@@ -1514,6 +1519,7 @@ ongoing/Kami-sama Hajimemashita/[HorribleSubs] Kamisama Kiss - 10 [720p][BE76DCF
 ongoing/Kami-sama Hajimemashita/[HorribleSubs] Kamisama Kiss - 13 [720p][37EA45A0].mkv
 ongoing/Kamisama no Inai Nichiyoubi/[Vivid] Kamisama no Inai Nichiyoubi - 01 [11FE4442].mkv
 ongoing/Kamisama no Inai Nichiyoubi/[Vivid] Kamisama no Inai Nichiyoubi - 02 [1CC2B506].mkv
+ongoing/Kamisama no Inai Nichiyoubi/[Vivid] Kamisama no Inai Nichiyoubi - 03 [F893DC7B].mkv
 ongoing/Kimi no Iru Machi OVA/[Commie] Kimi no Iru Machi OVA - 01 [5070FF62].mkv
 ongoing/Kimi no Iru Machi OVA/[Commie] Kimi no Iru Machi OVA - 02 [8810984F].mkv
 ongoing/Kingdom S2/[A-Destiny] Kingdom S2 - 01 [720p][0D6E0DE1].mkv
@@ -2762,6 +2768,7 @@ ongoing/Shingeki no Kyojin/[gg] Shingeki no Kyojin - 13.5 [3BB1B229].mkv
 ongoing/Shingeki no Kyojin/[gg] Shingeki no Kyojin - 14 [9C2C0E7E].mkv
 ongoing/Shinryaku!! Ika Musume OVA/[FFF] Shinryaku!! Ika Musume OVA - 01 [DVD][71A0BE68].mkv
 ongoing/Shinryaku!! Ika Musume OVA/[Underwater-Vivid] Shinryaku!! Ika Musume OVA - 01 [576p DVD][7483C55C].mkv
+ongoing/Shinryaku!! Ika Musume OVA/[Underwater-Vivid] Shinryaku!! Ika Musume OVA - 02 (DVD 576p) [14ABB694].mkv
 ongoing/Silver Spoon/[Commie] Silver Spoon - 01 [E27AA97C].mkv
 ongoing/Space Brothers/[Commie] Space Brothers - 01 [v2][710D9F8C].mkv
 ongoing/Space Brothers/[Commie] Space Brothers - 02 [0755C430].mkv
@@ -2868,8 +2875,8 @@ ongoing/Teekyuu/[Commie] Teekyuu - 12 [720p BD][BC7CF0BC].mkv
 ongoing/Teekyuu/[Commie] Teekyuu - 13 [CE39A980].mkv
 ongoing/Teekyuu/[Commie] Teekyuu - 14 [419211A6].mkv
 ongoing/Teekyuu/[Commie] Teekyuu - Opening (Clean) [720p BD][E9A6CD0B].mkv
-ongoing/The World God Only Knows - Goddesses Arc/[Vivid] The World God Only Knows - Goddesses Arc - 01 [D2040DB8].mkv
-ongoing/The World God Only Knows - Goddesses Arc/[Vivid] The World God Only Knows - Goddesses Arc - 02 [DCC9FF41].mkv
+ongoing/The World God Only Knows - Goddesses Arc/[Vivid] The World God Only Knows - Goddesses Arc - 01 [v2][0271B535].mkv
+ongoing/The World God Only Knows - Goddesses Arc/[Vivid] The World God Only Knows - Goddesses Arc - 02 [v2][BC164B55].mkv
 ongoing/The World God Only Knows Tenri-hen/[EveTaku] The World God Only Knows Tenri-hen - 01 [6CEB4332].mkv
 ongoing/The World God Only Knows Tenri-hen/[EveTaku] The World God Only Knows Tenri-hen - 02 [D5D23E41].mkv
 ongoing/Toaru Kagaku no Railgun S/[Commie] Toaru Kagaku no Railgun S - 01 [0405339A].mkv
@@ -2900,6 +2907,7 @@ ongoing/Toaru Kagaku no Railgun S/[UTW-Mazui] Toaru Kagaku no Railgun S - 11 [72
 ongoing/Toaru Kagaku no Railgun S/[UTW-Mazui] Toaru Kagaku no Railgun S - 12 [720p][20E590E0].mkv
 ongoing/Toaru Kagaku no Railgun S/[UTW-Mazui] Toaru Kagaku no Railgun S - 13 [v2 720p][CD016773].mkv
 ongoing/Toaru Kagaku no Railgun S/[UTW-Mazui] Toaru Kagaku no Railgun S - 14 [720p][3A139231].mkv
+ongoing/Toaru Kagaku no Railgun S/[UTW-Mazui] Toaru Kagaku no Railgun S - 15 [720p][CFCB76A2].mkv
 ongoing/Toriko/[A-Destiny SGKK] Toriko - 001 [720p][C8FD67E4].mkv
 ongoing/Toriko/[A-Destiny SGKK] Toriko - 002 [720p][C350CFD9].mkv
 ongoing/Toriko/[A-Destiny SGKK] Toriko - 003 [720p][3F139E3A].mkv
@@ -3017,8 +3025,11 @@ ongoing/Turning Girls/[Commie] Turning Girls - 03 [22922517].mkv
 ongoing/Turning Girls/[Commie] Turning Girls - 04 [B9708CE1].mkv
 ongoing/Uchouten Kazoku/[Vivid] Uchouten Kazoku - 01 [CEA1F5F5].mkv
 ongoing/Uchouten Kazoku/[Vivid] Uchouten Kazoku - 02 [FB1776A8].mkv
+ongoing/Uchouten Kazoku/[Vivid] Uchouten Kazoku - 03 [31A6608D].mkv
 ongoing/Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui!/[Commie] Watashi ga Motenai no wa Dou Kangaete mo Omaera ga Warui! - 01 [D2AA2AB7].mkv
 ongoing/Yami Shibai/[WhyNot] Yami Shibai - 01 [FC98FCB1].mkv
+ongoing/Yami Shibai/[WhyNot] Yami Shibai - 02 [58E5D3C9].mkv
+ongoing/Yami Shibai/[WhyNot] Yami Shibai - 03 [52C2AE37].mkv
 ongoing/Yondemasu yo, Azazel-san OVA/[FFF] Yondemasu yo, Azazel-san OVA - 03 [DVD][CEBD6196].mkv
 ongoing/Young Animator Training Project 2011/[gg] Young Animator Training Project 2011 - Dudu the Floatie [85849EE3].mkv
 ongoing/Young Animator Training Project 2011/[gg] Young Animator Training Project 2011 - Minding My Own Business [F7326F1F].mkv
