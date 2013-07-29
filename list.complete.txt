@@ -179,8 +179,11 @@ complete/a/AKB0048/[EveTaku] AKB0048 - 07 [720p BD][FFC96DB0].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 08 [720p BD][8C620252].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 09 [720p BD][EDE5D53C].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 10 [720p BD][4CC70F8C].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - 11 [720p BD][96765DB0].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 11 [v2 720p][111EFC1A].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - 12 [720p BD][847C76C8].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 12 [v2 720p][BDE3292A].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - 13 [720p BD][FFA9B85D].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 13 [v2 720p][94B8F10D].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 14 [720p][811B964F].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - 15 [720p][2ADE5652].mkv
@@ -212,6 +215,10 @@ complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 02 Extra - Menu [720p BD][3573E39B].
 complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 02 Extra - Special [720p BD][A2287DFB].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 03 Extra - Making of Kibou-ni-Tsuite Music Video [720i BD][DC3707BA].mkv
 complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 04 Extra - Making of AKB0048 Dubbing [720i BD][1689EAA1].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 05 Extra - Making of AKB0048 Dubbing  ~to the next stage~ [720i BD][1C15AD9A].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 05 Extra - Niji no Ressha PV01 [720p BD][EDB276D9].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 05 Extra - Niji no Ressha PV02 [720p BD][7759948D].mkv
+complete/a/AKB0048/[EveTaku] AKB0048 - Vol. 05 Extra - Niji no Ressha PV03 [720p BD][26A41B83].mkv
 complete/a/Accel World/[Commie] Accel World - 01 [30E0CD08].mkv
 complete/a/Accel World/[Commie] Accel World - 02 [v2][95DB6780].mkv
 complete/a/Accel World/[Commie] Accel World - 03 [7CB826BE].mkv
@@ -7596,6 +7603,7 @@ complete/g/Girls und Panzer/[Commie] Girls und Panzer - 11 [49DDE402].mkv
 complete/g/Girls und Panzer/[Commie] Girls und Panzer - 12 [End][v2][4A4FF7AF].mkv
 complete/g/Girls und Panzer/[Hiryuu] Girls und Panzer - 10.5 [720p][AF018B54].mkv
 complete/g/Girls und Panzer/[Hiryuu] Girls und Panzer - Special 1 [1080p BD][A488EFD6].mkv
+complete/g/Girls und Panzer/[Hiryuu] Girls und Panzer - Special 2 [1080p BD][9CC8A4C1].mkv
 complete/g/Glass Mask (2005)/[D-YFI] Glass Mask (2005) - 01 [24EDC7AA].mkv
 complete/g/Glass Mask (2005)/[D-YFI] Glass Mask (2005) - 02 [9F5A0CE8].mkv
 complete/g/Glass Mask (2005)/[D-YFI] Glass Mask (2005) - 03 [E7C7521A].mkv
@@ -8571,6 +8579,7 @@ complete/h/H2/[ILA] H2 - 37 [E58F6187].ogm
 complete/h/H2/[ILA] H2 - 38 [E52E3A23].ogm
 complete/h/H2/[ILA] H2 - 39 [End][4E427399].ogm
 complete/h/H2/[Sighzen] H2 - 01 [DVD][409D7B5A].mkv
+complete/h/H2/[Sighzen] H2 - 02 [DVD][7C6B9AB8].mkv
 complete/h/H2O - Footprints in the Sand/[Ureshii & F-B] H2O - Footprints in the Sand - 01 [7D8FFEFC].mkv
 complete/h/H2O - Footprints in the Sand/[Ureshii & F-B] H2O - Footprints in the Sand - 02 [8B17A7F9].mkv
 complete/h/H2O - Footprints in the Sand/[Ureshii & F-B] H2O - Footprints in the Sand - 03 [6EB26189].mkv
@@ -8664,19 +8673,6 @@ complete/h/Hajime no Ippo - New Challenger/[Frostii] Hajime no Ippo - New Challe
 complete/h/Hajime no Ippo - New Challenger/[Frostii] Hajime no Ippo - New Challenger - 24 (1280x720) [26CD1BDA].mkv
 complete/h/Hajime no Ippo - New Challenger/[Frostii] Hajime no Ippo - New Challenger - 25 (1280x720) [39B1BBE4].mkv
 complete/h/Hajime no Ippo - New Challenger/[Frostii] Hajime no Ippo - New Challenger - 26 (1280x720) [End][95E01227].mkv
-complete/h/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 01 [720p][F4FC02B8].mkv
-complete/h/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 02 [720p][D4D378EA].mkv
-complete/h/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 03 [720p][BD2D8454].mkv
-complete/h/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 04 [720p][C6D2E700].mkv
-complete/h/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 05 [720p][6418F76D].mkv
-complete/h/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 06 [720p][3D4A10AF].mkv
-complete/h/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 07 [720p][1F4FD2BB].mkv
-complete/h/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 08 [720p][D1E2C287].mkv
-complete/h/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 09 [720p][F14B4229].mkv
-complete/h/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 10 [720p][B5615C02].mkv
-complete/h/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 11 [720p][ABE4914E].mkv
-complete/h/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 12 [720p][2B60EC42].mkv
-complete/h/Hakkenden Touhou Hakken Ibun/[Anime-Koi] Hakkenden Touhou Hakken Ibun - 13 [End][720p][F6482689].mkv
 complete/h/Hakuouki - Shinsengumi Kitan/[DB] Hakuouki - 00 Season 1 Review [3F5A04B4].avi
 complete/h/Hakuouki - Shinsengumi Kitan/[DB] Hakuouki - 01 [F4418030].avi
 complete/h/Hakuouki - Shinsengumi Kitan/[DB] Hakuouki - 02 [87A717AE].avi
@@ -9293,6 +9289,7 @@ complete/h/High School DxD/[Hiryuu] High School DxD - 10 [720p][418B7BAA].mkv
 complete/h/High School DxD/[Hiryuu] High School DxD - 11 [720p][DA4C02C0].mkv
 complete/h/High School DxD/[Hiryuu] High School DxD - 12 [End][720p][82B783D3].mkv
 complete/h/High School DxD/[Hiryuu] High School DxD - 13 OVA [720p BD][4F0A878F].mkv
+complete/h/High School DxD/[Hiryuu] High School DxD - 14 OVA [1080p BD][4AB6F2A0].mkv
 complete/h/High School Girls/[LIME] High School Girls - 01 [1FF0B570].avi
 complete/h/High School Girls/[LIME] High School Girls - 02 [AC41BC75].avi
 complete/h/High School Girls/[LIME] High School Girls - 03 [728E61DB].avi
@@ -9626,6 +9623,8 @@ complete/h/Hitohira/[Starlight] Hitohira - 10 [3798F1BF].mkv
 complete/h/Hitohira/[Starlight] Hitohira - 11 [63E875AA].mkv
 complete/h/Hitohira/[Starlight] Hitohira - 12 [End][21169106].mkv
 complete/h/Hoihoi-san - OVA/[A-Flux] Hoihoi-san - OVA [339B779A].avi
+complete/h/Holy Knight OVA/[CMS] Holy Knight OVA - 1 [720p BD][FACD3E52].mkv
+complete/h/Holy Knight OVA/[CMS] Holy Knight OVA - 2 [End][720p BD][37BFE7D7].mkv
 complete/h/Honey & Clover II/[ANE] Honey & Clover II - 01 [DVD][E93AE318].mkv
 complete/h/Honey & Clover II/[ANE] Honey & Clover II - 02 [DVD][9C49B372].mkv
 complete/h/Honey & Clover II/[ANE] Honey & Clover II - 03 [DVD][D35F276B].mkv
@@ -19740,6 +19739,7 @@ complete/r/Rizelmine/[ReDone] Rizelmine - 24 [End][DVD][7893C2BD].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - Ending 1 [DVD][59C1FE24].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - Ending 2 [DVD][C89C1581].mkv
 complete/r/Rizelmine/[ReDone] Rizelmine - Opening [DVD][3AC69E00].mkv
+complete/r/Ro-Kyu-Bu! OVA/[Asenshi] Ro-Kyu-Bu! OVA [319FD59B].mkv
 complete/r/Ro-Kyu-Bu!/[Coalgirls] Ro-Kyu-Bu! - 01 [720p BD][90045B70].mkv
 complete/r/Ro-Kyu-Bu!/[Coalgirls] Ro-Kyu-Bu! - 02 [720p BD][5D280A68].mkv
 complete/r/Ro-Kyu-Bu!/[Coalgirls] Ro-Kyu-Bu! - 03 [720p BD][31B9F0FF].mkv
@@ -20003,6 +20003,7 @@ complete/r/Rurouni Kenshin/[B-A] Rurouni Kenshin - 92 [F0740412].mkv
 complete/r/Rurouni Kenshin/[B-A] Rurouni Kenshin - 93 [55A4A177].mkv
 complete/r/Rurouni Kenshin/[B-A] Rurouni Kenshin - 94 [EAAF4C30].mkv
 complete/r/Rurouni Kenshin/[B-A] Rurouni Kenshin - 95 [End][069E972B].mkv
+complete/r/Ryo (Anime Mirai 2013)/[gg] Ryo (Anime Mirai 2013) [1080p BD][0BF97B3D].mkv
 complete/s/SD Gundam Legend of the Three Kingdoms Brave Battle Warriors/[Huzzah] SD Gundam Legend of the Three Kingdoms Brave Battle Warriors - 01 [103F5B1F].mkv
 complete/s/SD Gundam Legend of the Three Kingdoms Brave Battle Warriors/[Huzzah] SD Gundam Legend of the Three Kingdoms Brave Battle Warriors - 02 [00DE9C3E].mkv
 complete/s/SD Gundam Legend of the Three Kingdoms Brave Battle Warriors/[Huzzah] SD Gundam Legend of the Three Kingdoms Brave Battle Warriors - 03 [A449F8B0].mkv
@@ -23231,6 +23232,7 @@ complete/t/TOKKO/[Oyasumi] TOKKO - 10 [3CEB0C76].mkv
 complete/t/TOKKO/[Oyasumi] TOKKO - 11 [181041B0].mkv
 complete/t/TOKKO/[Oyasumi] TOKKO - 12 [36B3286B].mkv
 complete/t/TOKKO/[Oyasumi] TOKKO - 13 [End][2889099C].mkv
+complete/t/TWGOK - Magical Star Kanon 100% OVA/[CMS] TWGOK - Magical Star Kanon 100% OVA [DVD][E9F43685].mkv
 complete/t/Tactics/[Spoon-SHS] Tactics - 01 [0A245FA0].avi
 complete/t/Tactics/[Spoon-SHS] Tactics - 02 [DA34F1EE].avi
 complete/t/Tactics/[Spoon-SHS] Tactics - 03 [932C4677].avi
@@ -24125,6 +24127,8 @@ complete/t/To Love-Ru Darkness/[Commie] To Love-Ru Darkness - 10 [DB9D364B].mkv
 complete/t/To Love-Ru Darkness/[Commie] To Love-Ru Darkness - 11 [90ACF780].mkv
 complete/t/To Love-Ru Darkness/[Commie] To Love-Ru Darkness - 12 [End][BD659253].mkv
 complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - 01 [0D0D7AB1].mkv
+complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - 01 [1080p BD][65B25B71].mkv
+complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - 02 [1080p BD][C0833FE2].mkv
 complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - 02 [AB80C971].mkv
 complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - 03 [0C5F7069].mkv
 complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - 04 [2BE3AC2B].mkv
@@ -24136,6 +24140,8 @@ complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - 09 [6767F8A1].mkv
 complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - 10 [DC15110E].mkv
 complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - 11 [F0B03846].mkv
 complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - 12 [End][514BABE5].mkv
+complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - Ending 01 [1080p BD][D7D56972].mkv
+complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness - Opening 01 [1080p BD][B2E83940].mkv
 complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness OVA - 01 [29FA608B].mkv
 complete/t/To Love-Ru Darkness/[Pomf] To Love-Ru Darkness OVA - 02 [EB5217D2].mkv
 complete/t/To Love-Ru OVA/[Yabai] To Love-Ru OVA - 1 [DVD 10bit][173E7127].mkv
