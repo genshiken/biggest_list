@@ -1714,6 +1714,9 @@
 !new/Tenchi Muyo/Tenchi Muyo! Ryo-ohki 3 OVA/Tenchi Muyo! Ryo-ohki OVA 3 - 06.avi
 !new/[A-Destiny] Kingdom S2 - 07 (1280x720 Hi10p AAC) [22E6DEDF].mkv
 !new/[A-Destiny] Kingdom S2 - 08 (1280x720 Hi10p AAC) [891CF045].mkv
+!new/[Asenshi-Doremi] Ro-Kyu-Bu! SS - 11 [720p 10bit][EFE2D10E].mkv
+!new/[BSS-Commie] HeartCatch Precure! - 05 [447167F3].mkv
+!new/[CMS] Recorder to Randoseru Mi 11 [720p][EC95C701].mkv
 !new/[Coalgirls]_Magical_Girl_Madoka_Magica_the_Movie_I_-_Beginnings_(1280x720_Blu-ray_FLAC)_[037FF0ED].mkv
 !new/[Coalgirls]_Nisemonogatari_(1920x1080_Blu-ray_FLAC)/[Coalgirls]_Nisemonogatari_01_(1920x1080_Blu-ray_FLAC)_[0DD83FD9].mkv
 !new/[Coalgirls]_Nisemonogatari_(1920x1080_Blu-ray_FLAC)/[Coalgirls]_Nisemonogatari_02_(1920x1080_Blu-ray_FLAC)_[9E8AE5C0].mkv
@@ -1766,6 +1769,10 @@
 !new/[Coalgirls]_Nisemonogatari_(1920x1080_Blu-ray_FLAC)/[Coalgirls]_Nisemonogatari_OP1b_(1920x1080_Blu-ray_FLAC)_[FDE71249].mkv
 !new/[Coalgirls]_Nisemonogatari_(1920x1080_Blu-ray_FLAC)/[Coalgirls]_Nisemonogatari_OP2_(1920x1080_Blu-ray_FLAC)_[B978241D].mkv
 !new/[Coalgirls]_Nisemonogatari_(1920x1080_Blu-ray_FLAC)/[Coalgirls]_Nisemonogatari_OP3_(1920x1080_Blu-ray_FLAC)_[948BD021].mkv
+!new/[Commie] Ginga Kikoutai Majestic Prince - 24 [1FD13428].mkv
+!new/[Commie] High School DxD New - 11 [E623907A].mkv
+!new/[Commie] High School DxD New - 12 [AF2EDFC9].mkv
+!new/[Commie] Monogatari Series Second Season - 10 [34C8F5C8].mkv
 !new/[Commie] Servant x Service - 05 [9A2CFC19].mkv
 !new/[Commie] Servant x Service - 06 [B84DEFE7].mkv
 !new/[Commie] Servant x Service - 07 [18F277A0].mkv
@@ -1773,11 +1780,22 @@
 !new/[Commie] Servant x Service - 09 [87FCE703].mkv
 !new/[Commie] Servant x Service - 10 [FE2AD3FC].mkv
 !new/[Commie] Servant x Service - 11 [2DB616C4].mkv
+!new/[Commie] Shingeki no Kyojin - 24 [8FDA8FBD].mkv
+!new/[Commie] Space Brothers - 74 [06E11744].mkv
+!new/[Commie] Teekyuu - 24 [2D694CD3].mkv
 !new/[Deadfish] Rurouni Kenshin - Meiji Kenkaku Romantan - Shin Kyoto Hen - Act 01 [BD][MP4][AAC].mp4
 !new/[EveTaku] Ore no Imouto ga Konnani Kawaii Wake ga Nai 2 - 01 (1280x720 x264-Hi10P AAC)[BD220B11].mkv
 !new/[EveTaku] Shingeki no Kyojin - 20 (1280x720 x264 AAC)[B02DD487].mkv
 !new/[EveTaku] Shingeki no Kyojin - 21 (1280x720 x264-Hi10P AAC)[4ACA0C44].mkv
 !new/[EveTaku] Shingeki no Kyojin - 22 (1280x720 x264-Hi10P AAC)[F99AEEAC].mkv
+!new/[HorribleSubs] Cardfight!! Vanguard Link Joker - 140 [720p].mkv
+!new/[HorribleSubs] Cardfight!! Vanguard Link Joker - 141 [720p].mkv
+!new/[HorribleSubs] Fantasista Doll - 11 [720p].mkv
+!new/[HorribleSubs] Genshiken Nidaime - 12 [720p].mkv
+!new/[HorribleSubs] Hunter X Hunter - 97 [720p].mkv
+!new/[HorribleSubs] Kiniro Mosaic - 12 [720p].mkv
+!new/[HorribleSubs] Mushibugyo - 25 [720p].mkv
+!new/[Over-Time] GARO - The One Who Shines in the Darkness - 24 [720][B75681FA].mkv
 !new/[ReTouched] Plastic Nee-san - 01-04 (640x360 H264 AAC)/[ReTouched] Plastic Nee-san - 01 (640x360 H264 AAC) [6BAA9E18].mkv
 !new/[ReTouched] Plastic Nee-san - 01-04 (640x360 H264 AAC)/[ReTouched] Plastic Nee-san - 02 (640x360 H264 AAC) [5B4388E9].mkv
 !new/[ReTouched] Plastic Nee-san - 01-04 (640x360 H264 AAC)/[ReTouched] Plastic Nee-san - 03 (640x360 H264 AAC) [C54EFF8F].mkv
@@ -1786,6 +1804,12 @@
 !new/[UTW-Mazui]_Toaru_Kagaku_no_Railgun_S_-_20_[720p][CD07F005].mkv
 !new/[UTW-Mazui]_Toaru_Kagaku_no_Railgun_S_-_21_[720p][2F9819A5].mkv
 !new/[UTW-Vivid]_Suisei_no_Gargantia_-_01_[h264-720p][FA28D2FD].mkv
+!new/[Underwater] Gen'ei wo Kakeru Taiyou - Il Sole Penetra le Illusioni - 12 (720p) [8F5A54FD].mkv
+!new/[Vivid] Kamisama no Inai Nichiyoubi - 12 [E39E531C].mkv
+!new/[Vivid] Uchouten Kazoku - 12 [749832F4].mkv
+!new/[WhyNot-Migoto] Yami Shibai - 12 [720p][B6DEDF55].mkv
+!new/[gg]_Shingeki_no_Kyojin_-_24_[D44C4951].mkv
+!new/[sage] Higurashi no Naku Koro ni Kaku ~Outbreak~ OVA [DVD][480p-AAC][EF25D72A].mkv
 !new/belum/[TV_Series_1996]_Bakusou_Kyoudai_Let_s_&_Go/Bakusou_Kyoudai_Let_s_&_Go_-_01[51]_-_Episode_1_[640x480][DVD][RAW][Saiei][B67AAA56].mp4
 !new/belum/[TV_Series_1996]_Bakusou_Kyoudai_Let_s_&_Go/Bakusou_Kyoudai_Let_s_&_Go_-_02[51]_-_Episode_2_[640x480][DVD][RAW][Saiei][3C83C08C].mp4
 !new/belum/[TV_Series_1996]_Bakusou_Kyoudai_Let_s_&_Go/Bakusou_Kyoudai_Let_s_&_Go_-_03[51]_-_Episode_3_[640x480][DVD][RAW][Saiei][DA1E2AD9].mp4
