@@ -13466,7 +13466,12 @@ complete/k/Kyouran Kazoku Nikki/[SS-Eclipse] Kyouran Kazoku Nikki - 23 (1280x720
 complete/k/Kyouran Kazoku Nikki/[SS-Eclipse] Kyouran Kazoku Nikki - 24 (1280x720) [FB4463A0].mkv
 complete/k/Kyouran Kazoku Nikki/[SS-Eclipse] Kyouran Kazoku Nikki - 25 (1280x720) [ECDF817A].mkv
 complete/k/Kyouran Kazoku Nikki/[SS-Eclipse] Kyouran Kazoku Nikki - 26 (1280x720) [End][2C2AF775].mkv
-complete/k/Kyousogiga/[Commie] Kyousogiga - OVA [3AB612F0].mkv
+complete/k/Kyousogiga (2012)/[Commie] Kyousogiga (2012) - 1 [F597E512].mkv
+complete/k/Kyousogiga (2012)/[Commie] Kyousogiga (2012) - 2 [BA453BF6].mkv
+complete/k/Kyousogiga (2012)/[Commie] Kyousogiga (2012) - 3 [67E03005].mkv
+complete/k/Kyousogiga (2012)/[Commie] Kyousogiga (2012) - 4 [EDCA0511].mkv
+complete/k/Kyousogiga (2012)/[Commie] Kyousogiga (2012) - 5 [End][992E1E55].mkv
+complete/k/Kyousogiga OVA/[Commie] Kyousogiga OVA [3AB612F0].mkv
 complete/k/kimikiss pure rouge Special/[BSS] kimikiss pure rouge - Special [DVD][133B3ECF].mkv
 complete/k/kimikiss pure rouge/[BSS] kimikiss pure rouge - 01 [DVD][E74C19C2].mkv
 complete/k/kimikiss pure rouge/[BSS] kimikiss pure rouge - 02 [DVD][FD576C7A].mkv
