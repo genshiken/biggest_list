@@ -21035,9 +21035,12 @@ complete/s/Saki Achiga-hen - Episode of Side-A/[Underwater-FFF] Saki Achiga-hen 
 complete/s/Saki Achiga-hen - Episode of Side-A/[Underwater-FFF] Saki Achiga-hen - Episode of Side-A - 11 [1080p BD][67EDE0F3].mkv
 complete/s/Saki Achiga-hen - Episode of Side-A/[Underwater-FFF] Saki Achiga-hen - Episode of Side-A - 12 [1080p BD][8DB503CD].mkv
 complete/s/Saki Achiga-hen - Episode of Side-A/[Underwater-FFF] Saki Achiga-hen - Episode of Side-A - 13 [1080p BD][445DE44C].mkv
+complete/s/Saki Achiga-hen - Episode of Side-A/[Underwater-FFF] Saki Achiga-hen - Episode of Side-A - 14 [1080p BD][C8A13815].mkv
+complete/s/Saki Achiga-hen - Episode of Side-A/[Underwater-FFF] Saki Achiga-hen - Episode of Side-A - 15 [1080p BD][E490827F].mkv
 complete/s/Saki Achiga-hen - Episode of Side-A/[Underwater-FFF] Saki Achiga-hen - Episode of Side-A - Ending 01 [1080p BD][30BA3F97].mkv
 complete/s/Saki Achiga-hen - Episode of Side-A/[Underwater-FFF] Saki Achiga-hen - Episode of Side-A - Ending 02 [1080p BD][280EFFB2].mkv
 complete/s/Saki Achiga-hen - Episode of Side-A/[Underwater-FFF] Saki Achiga-hen - Episode of Side-A - Opening 01 [1080p BD][CA49D334].mkv
+complete/s/Saki Achiga-hen - Episode of Side-A/[Underwater-FFF] Saki Achiga-hen - Episode of Side-A - Opening 02 [1080p BD][AD827343].mkv
 complete/s/Saki/[Underwater-Mahjong] Saki - 01 [v2][CB375B6F].mkv
 complete/s/Saki/[Underwater-Mahjong] Saki - 02 [4482BF52].mkv
 complete/s/Saki/[Underwater-Mahjong] Saki - 03 [5BCE854F].mkv
@@ -23537,6 +23540,7 @@ complete/t/TOKKO/[Oyasumi] TOKKO - 11 [181041B0].mkv
 complete/t/TOKKO/[Oyasumi] TOKKO - 12 [36B3286B].mkv
 complete/t/TOKKO/[Oyasumi] TOKKO - 13 [End][2889099C].mkv
 complete/t/TWGOK - Magical Star Kanon 100% OVA/[CMS] TWGOK - Magical Star Kanon 100% OVA [DVD][E9F43685].mkv
+complete/t/TWGOK - Magical Star Kanon 100% OVA/[Vivid-Taku] The World God Only Knows - Magical Star Kanon 100% [720p][A6A677E9].mkv
 complete/t/Tactics/[Spoon-SHS] Tactics - 01 [0A245FA0].avi
 complete/t/Tactics/[Spoon-SHS] Tactics - 02 [DA34F1EE].avi
 complete/t/Tactics/[Spoon-SHS] Tactics - 03 [932C4677].avi
@@ -25842,18 +25846,6 @@ complete/v/Valkyria Chronicles/[Coalgirls] Valkyria Chronicles - Ending 2 [1080p
 complete/v/Valkyria Chronicles/[Coalgirls] Valkyria Chronicles - Opening 1 (alt) [1080p BD][414F6192].mkv
 complete/v/Valkyria Chronicles/[Coalgirls] Valkyria Chronicles - Opening 1 [1080p BD][4460A3C1].mkv
 complete/v/Valkyria Chronicles/[Coalgirls] Valkyria Chronicles - Opening 2 [1080p BD][0F31ECED].mkv
-complete/v/Valvrave the Liberator/[gg] Valvrave the Liberator - 01 [191CFABD].mkv
-complete/v/Valvrave the Liberator/[gg] Valvrave the Liberator - 02 [3514DF30].mkv
-complete/v/Valvrave the Liberator/[gg] Valvrave the Liberator - 03 [BE1ED705].mkv
-complete/v/Valvrave the Liberator/[gg] Valvrave the Liberator - 04 [88D7EE45].mkv
-complete/v/Valvrave the Liberator/[gg] Valvrave the Liberator - 05 [3726226E].mkv
-complete/v/Valvrave the Liberator/[gg] Valvrave the Liberator - 06 [91EBBF3A].mkv
-complete/v/Valvrave the Liberator/[gg] Valvrave the Liberator - 07 [DC0B0458].mkv
-complete/v/Valvrave the Liberator/[gg] Valvrave the Liberator - 08 [FAE7A3BA].mkv
-complete/v/Valvrave the Liberator/[gg] Valvrave the Liberator - 09 [95151096].mkv
-complete/v/Valvrave the Liberator/[gg] Valvrave the Liberator - 10 [B6145398].mkv
-complete/v/Valvrave the Liberator/[gg] Valvrave the Liberator - 11 [216044B1].mkv
-complete/v/Valvrave the Liberator/[gg] Valvrave the Liberator - 12 [End][F9F3F5C5].mkv
 complete/v/Vampire Knight Guilty/[A-Kraze Diffusion] Vampire Knight Guilty - 01 [720p][35A9D51D].mkv
 complete/v/Vampire Knight Guilty/[A-Kraze Diffusion] Vampire Knight Guilty - 02 [720p][2B161723].mkv
 complete/v/Vampire Knight Guilty/[A-Kraze Diffusion] Vampire Knight Guilty - 03 [720p][0B8C23F5].mkv
