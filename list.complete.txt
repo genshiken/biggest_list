@@ -444,18 +444,20 @@ complete/a/Air/[uguu~] Air - 09 [1080p BD][82FB10CD].mkv
 complete/a/Air/[uguu~] Air - 10 [1080p BD][8ED16F73].mkv
 complete/a/Air/[uguu~] Air - 11 [1080p BD][C0500F9C].mkv
 complete/a/Air/[uguu~] Air - 12 [End][1080p BD][BDE2360C].mkv
-complete/a/Aiura/[Commie] Aiura - 01 [01D20EB9].mkv
-complete/a/Aiura/[Commie] Aiura - 02 [408E3EBC].mkv
-complete/a/Aiura/[Commie] Aiura - 03 [F779F9A6].mkv
-complete/a/Aiura/[Commie] Aiura - 04 [D6B36532].mkv
-complete/a/Aiura/[Commie] Aiura - 05 [A0763083].mkv
-complete/a/Aiura/[Commie] Aiura - 06 [F68BD875].mkv
-complete/a/Aiura/[Commie] Aiura - 07 [2AC75627].mkv
-complete/a/Aiura/[Commie] Aiura - 08 [4A7C414D].mkv
-complete/a/Aiura/[Commie] Aiura - 09 [2A8050AC].mkv
-complete/a/Aiura/[Commie] Aiura - 10 [941849BD].mkv
-complete/a/Aiura/[Commie] Aiura - 11 [7F2FC611].mkv
-complete/a/Aiura/[Commie] Aiura - 12 [End][1DA2E0C9].mkv
+complete/a/Aiura/[Commie] Aiura - 01 [720p BD][711FED66].mkv
+complete/a/Aiura/[Commie] Aiura - 02 [720p BD][3ED2501B].mkv
+complete/a/Aiura/[Commie] Aiura - 03 [720p BD][BB832327].mkv
+complete/a/Aiura/[Commie] Aiura - 04 [720p BD][4C0657F6].mkv
+complete/a/Aiura/[Commie] Aiura - 05 [720p BD][7A7225E2].mkv
+complete/a/Aiura/[Commie] Aiura - 06 [720p BD][DB80D13A].mkv
+complete/a/Aiura/[Commie] Aiura - 07 [720p BD][08647490].mkv
+complete/a/Aiura/[Commie] Aiura - 08 [720p BD][BD02B68F].mkv
+complete/a/Aiura/[Commie] Aiura - 09 [720p BD][17B219D1].mkv
+complete/a/Aiura/[Commie] Aiura - 10 [720p BD][A350CD91].mkv
+complete/a/Aiura/[Commie] Aiura - 11 [720p BD][C2F9AC22].mkv
+complete/a/Aiura/[Commie] Aiura - 12 [End][720p BD][9A99B6EF].mkv
+complete/a/Aiura/[Commie] Aiura - Ending (Clean) [720p BD][0DAD3FD8].mkv
+complete/a/Aiura/[Commie] Aiura - Opening (Clean) [720p BD][8C07C3AC].mkv
 complete/a/Akagi/[Triad] Akagi - 01 [C416CB1F].avi
 complete/a/Akagi/[Triad] Akagi - 02 [CFCDC545].avi
 complete/a/Akagi/[Triad] Akagi - 03 [35B0007C].avi
