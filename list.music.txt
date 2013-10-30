@@ -6456,6 +6456,7 @@ music/Shin-S/[Shin-S] Accel World re acceleration Image Song - sympathia [Misawa
 music/Shin-S/[Shin-S] Adlib Anime Kenkyuujo ED Single - WONDERFULER [Katou Emiri & Fukuhara Kaori].zip
 music/Shin-S/[Shin-S] Adlib Anime Kenkyuujo OP Single - Appare! Shunkan Sekkyoku Zai [Katou Emiri & Fukuhara Kaori].zip
 music/Shin-S/[Shin-S] Ai Mai Mii Theme Song Single - Girigiri Saikyou Ai Mai Mii! [Various].zip
+music/Shin-S/[Shin-S] Aikatsu! 2 OP & ED Single - KIRA Power (FLAC) [STAR ANIS].zip
 music/Shin-S/[Shin-S] Aiura ED Single - Ichigo Ichie (FLAC) [Various].zip
 music/Shin-S/[Shin-S] Aiura OP Single - Kani Do-Luck! [Various].zip
 music/Shin-S/[Shin-S] Aku no Hana OP & ED Album - Aku no Kafu (FLAC) [Various].zip
@@ -6473,6 +6474,8 @@ music/Shin-S/[Shin-S] Another ED Single - anamnesis [Annabel].zip
 music/Shin-S/[Shin-S] Another OP Single - Kyoumu Densen [ALI PROJECT].zip
 music/Shin-S/[Shin-S] Aoi Eir - BLAU (FLAC).zip
 music/Shin-S/[Shin-S] Aoi Sekai no Chuushin de ED Single - 0 to 1 no Hana (FLAC) [Mimori Suzuko & Kitta Izumi].zip
+music/Shin-S/[Shin-S] Aoki Hagane no Arpeggio -Ars Nova- ED Single - Blue Field (FLAC) [Trident].zip
+music/Shin-S/[Shin-S] Aoki Hagane no Arpeggio -Ars Nova- OP Single - SAVIOR OF SONG (FLAC) [nano].zip
 music/Shin-S/[Shin-S] Aquarion EVOL OP & ED Single - Kimi no Shinwa ~Aquarion Dai Ni Shou~ [AKINO with bless4].zip
 music/Shin-S/[Shin-S] Arata Kangatari OP Single - GENESIS ARIA (FLAC) [sphere].zip
 music/Shin-S/[Shin-S] Arcana Famiglia OP Single - Magenta Another Sky (FLAC) [Harada Hitomi].zip
@@ -6549,6 +6552,7 @@ music/Shin-S/[Shin-S] Detective Conan OP35 Single - TRY AGAIN [Kuraki Mai].zip
 music/Shin-S/[Shin-S] Dragon Crisis! ED Single - Mirai Bowl [Momoiro Clover].zip
 music/Shin-S/[Shin-S] Ebiten ~Kouritsu Ebisugawa Koukou Tenmon-Bu~ ED Single 1 - Chikyuu ni I LOVE YOU [Various].zip
 music/Shin-S/[Shin-S] Eiyuu Densetsu ~Sora no Kiseki~ OVA ED Single - Harmonia [Choucho] v2.zip
+music/Shin-S/[Shin-S] Fairy Fencer F PS3 Game OP & ED Single - Resonant World (FLAC) [Various].zip
 music/Shin-S/[Shin-S] Fantasista Doll ED Single - DAY by DAY (FLAC) [Various].zip
 music/Shin-S/[Shin-S] Fantasista Doll OP Single - Ima yo! Fantasista Doll (FLAC) [Various].zip
 music/Shin-S/[Shin-S] Fate Zero ED Single - MEMORIA [Aoi Eir].zip
@@ -6582,6 +6586,7 @@ music/Shin-S/[Shin-S] Genshiken Nidaime OP Single - Genshi, Joshi wa, Taiyou Dat
 music/Shin-S/[Shin-S] Gin no Saji OP Single - Faraway (FLAC) [miwa].zip
 music/Shin-S/[Shin-S] Ginga Kikoutai Majestic Prince ED Single - Sayonara tte Iu [Ishikawa Chiaki].zip
 music/Shin-S/[Shin-S] Ginga Kikoutai Majestic Prince OP Single - Watashi wa Souzou Suru [Kon Natsumi].zip
+music/Shin-S/[Shin-S] Gingitsune OP Single - tiny lamp (FLAC) [fhána].zip
 music/Shin-S/[Shin-S] Gokujo. ~Gokurakuin Joshi Kouryou Monogatari~ OP & ED Single - Gokujo. no Joken [Various].zip
 music/Shin-S/[Shin-S] Guilty Crown ED2 & Black Rock Shooter ED Single - Kokuhaku [supercell].zip
 music/Shin-S/[Shin-S] Guilty Crown EGOIST 1st Album - Extra terrestrial Biological Entities (FLAC) [EGOIST].zip
@@ -6695,6 +6700,7 @@ music/Shin-S/[Shin-S] Kill Me Baby! OP & ED Single - Kill Me no Baby! [Tamura Mu
 music/Shin-S/[Shin-S] Kimi ni Todoke Character Song Album - Secret Party ~Kitahoro Koukou Gakkousai Another Side~ [Various].zip
 music/Shin-S/[Shin-S] Kimi to Boku. 2 ED Single - Kimi to Boku no Bankai [Sakai Yuu].zip
 music/Shin-S/[Shin-S] Kimi to Boku. 2 OP Single - Zutto [Sakou Tomohisa].zip
+music/Shin-S/[Shin-S] Kiniro Mosaic Character Song CD 1 - Oomiya Shinobu (FLAC) [Nishi Asuka].zip
 music/Shin-S/[Shin-S] Kiniro Mosaic OP & ED Single - Jumping!! (FLAC) [Rhodanthe].zip
 music/Shin-S/[Shin-S] Koi to Senkyo to Chocolate Character Song Album - CHOCOLATE SELECTION [Various].zip
 music/Shin-S/[Shin-S] Koi to Senkyo to Chocolate Duet Song CD - Kiba Mifuyu & Aomi Isara [Mizuhashi Kaori & Kadowaki Mai].zip
@@ -6731,10 +6737,13 @@ music/Shin-S/[Shin-S] Kyoukai Senjou no Horizon II ED Single -Side SunSet- - Kan
 music/Shin-S/[Shin-S] Kyoukai Senjou no Horizon II OP Single - ZONE ALONE [Chihara Minori].zip
 music/Shin-S/[Shin-S] Kyoukai Senjou no Horizon OP Single - TERMINATED [Chihara Minori].zip
 music/Shin-S/[Shin-S] Kyoukai Senjou no Horizon The Repertory 02 - Aoi Kimi [Saitou Chiwa].zip
+music/Shin-S/[Shin-S] Kyoukai no Kanata OP Single - Kyoukai no Kanata (FLAC) [Chihara Minori].zip
 music/Shin-S/[Shin-S] Lamune ED Single - Summer vacation (FLAC) [Murata Ayumi].zip
 music/Shin-S/[Shin-S] Lamune OP Single - Lamune iro no Melody (FLAC) [mayu].zip
+music/Shin-S/[Shin-S] LiSA - LANDSPACE (FLAC).zip
 music/Shin-S/[Shin-S] LiSA - best day, best way.zip
 music/Shin-S/[Shin-S] Little Busters! OP & ED Single - Little Busters! ~TV animation ver.~ (FLAC) [Rita].zip
+music/Shin-S/[Shin-S] Log Horizon OP Single - database feat. TAKUMA (10-FEET) (FLAC) [MAN WITH A MISSION].zip
 music/Shin-S/[Shin-S] Love Hina OP & ED Single - Sakura Saku (FLAC) [Hayashibara Megumi].zip
 music/Shin-S/[Shin-S] Love Lab OP Single - Love Shitai! (FLAC) [Various].zip
 music/Shin-S/[Shin-S] Love Live! ED Single - Kitto Seishun ga Kikoeru (FLAC) [μ's].zip
@@ -6742,6 +6751,7 @@ music/Shin-S/[Shin-S] Love Live! Insert Song Single 1 - Susume Tomorrow (FLAC) [
 music/Shin-S/[Shin-S] Love Live! Insert Song Single 2 - Korekara no Someday (FLAC) [μ's].zip
 music/Shin-S/[Shin-S] Love Live! Insert Song Single 3 - No brand girls (FLAC) [μ's].zip
 music/Shin-S/[Shin-S] Love Live! OP Single - Bokura wa Ima no Naka de (FLAC) [μ's].zip
+music/Shin-S/[Shin-S] Love Live! Original CD - Puwapuwao! (FLAC) [Printemps].zip
 music/Shin-S/[Shin-S] Love Live! Original Song CD 1 - Kousaka Honoka (FLAC) [Nitta Emi].zip
 music/Shin-S/[Shin-S] Love Live! Original Song CD 2 - Minami Kotori & Sonoda Umi (FLAC) [Uchida Aya & Mimori Suzuko].zip
 music/Shin-S/[Shin-S] Love Live! Original Song CD 3 - Koizumi Hanayo (FLAC) [Kubo Yurika].zip
@@ -6797,6 +6807,7 @@ music/Shin-S/[Shin-S] Muv-Luv Alternative Total Eclipse OP Single - Go to the to
 music/Shin-S/[Shin-S] Muv-Luv Alternative Total Eclipse OP2 Single - Doubt the World [Kuribayashi Minami].zip
 music/Shin-S/[Shin-S] Muv-Luv Alternative Total Eclipse Song Collection [Various].zip
 music/Shin-S/[Shin-S] My Little Pony ~Tomodachi wa Mahou~ OP Single - Magical Dai Dai Daibouken! ~Nanamori Chu Gorakubu in My Little Pony~ (FLAC) [Various].zip
+music/Shin-S/[Shin-S] Nagi no Asukara OP Single - lull ~Soshite Bokura wa~ (FLAC) [Ray].zip
 music/Shin-S/[Shin-S] Namiuchigiwa no Muromi-san Character Song Album - Namiuchigiwa no MUSIC (FLAC) [Various].zip
 music/Shin-S/[Shin-S] Natsuiro Kiseki OP & ED Single - Non stop road [sphere].zip
 music/Shin-S/[Shin-S] Natsuiro Kiseki Vol.1 Bonus CD - Yasashisa ni Tsutsumareru You ni [sphere & Itou Masumi].zip
@@ -6811,6 +6822,7 @@ music/Shin-S/[Shin-S] Nekogami Yaoyorozu Character Songs Vol.3 - Mayu & Sasana &
 music/Shin-S/[Shin-S] Nekogami Yaoyorozu ED Single - Oh My God [Tomatsu Haruka].zip
 music/Shin-S/[Shin-S] Nekomonogatari (Kuro) ED Single - Kieru daydream (FLAC) [Kawano Marina].zip
 music/Shin-S/[Shin-S] Nekomonogatari (Kuro) OP & Original Soundtrack (FLAC) [Horie Yui & Kousaki Satoru].zip
+music/Shin-S/[Shin-S] Nekomonogatari (Shiro) OP Single - chocolate insomnia (FLAC) [Horie Yui].zip
 music/Shin-S/[Shin-S] Nerawareta Gakuen OP Single - Giniro Hikousen (FLAC) [supercell].zip
 music/Shin-S/[Shin-S] New Prince of Tennis ED Single - ENJOY [Amikyuu Danji].zip
 music/Shin-S/[Shin-S] New Prince of Tennis OP Single - Mirai no Bokura e [Fujisawa Norimasa].zip
@@ -6884,9 +6896,11 @@ music/Shin-S/[Shin-S] Robotics;Notes OP Single - Junjou Spectra (FLAC) [Zwei].zi
 music/Shin-S/[Shin-S] Robotics;Notes OP2 Single - Houkou no Messiah [HARUKI].zip
 music/Shin-S/[Shin-S] Romeo x Juliet OP Single - Inori ~ You Raise Me Up (FLAC) [Lena Park].zip
 music/Shin-S/[Shin-S] Rozen Maiden (2013) ED Single - Alternative (FLAC) [Annabel].zip
+music/Shin-S/[Shin-S] Rozen Maiden (2013) OP Single - Watashi no Bara wo Haminasai (FLAC) [ALI PROJECT].zip
 music/Shin-S/[Shin-S] STAR DRIVER ~Kagayaki no Takuto~ OP2 Single - SHINING STAR [9nine].zip
 music/Shin-S/[Shin-S] Sacred Seven OP Single - stone cold [FictionJunction].zip
 music/Shin-S/[Shin-S] Sakamachi no Apollon ED Single - Altair [Hata Motohiro].zip
+music/Shin-S/[Shin-S] Sakura no Mau Koro ni ~Sotsugyou Album Dai Ichi Gakushou~ (FLAC) [Various].zip
 music/Shin-S/[Shin-S] Sakurasou no Pet na Kanojo Character Song 1 - Shiina Mashiro (FLAC) [Kayano Ai].zip
 music/Shin-S/[Shin-S] Sakurasou no Pet na Kanojo ED Single - DAYS of DASH (FLAC) [Suzuki Konomi].zip
 music/Shin-S/[Shin-S] Sakurasou no Pet na Kanojo ED Single - DAYS of DASH [Suzuki Konomi].zip
@@ -6940,6 +6954,8 @@ music/Shin-S/[Shin-S] Shinsekai Yori Original Soundtrack 1 (FLAC) [Komori Shigeo
 music/Shin-S/[Shin-S] Shinsekai Yori Original Soundtrack 1 [Komori Shigeo & Taneda Risa].zip
 music/Shin-S/[Shin-S] Shirokuma Cafe ED Single - Bamboo Scramble [Fukuyama Jun].zip
 music/Shin-S/[Shin-S] Shirokuma Cafe ED10 Single - Bamboo Rendezvous [Hanazawa Kana].zip
+music/Shin-S/[Shin-S] Shoujo Byou - Souhaku Sisferia (DVDISO).zip
+music/Shin-S/[Shin-S] Shoujo Byou - Souhaku Sisferia (FLAC).zip
 music/Shin-S/[Shin-S] Sketchbook ~full color'S~ ED Single - Sketchbook wo Motta Mama (FLAC) [Makino Yui].zip
 music/Shin-S/[Shin-S] Softenni ED Single - Tsumasaki Dachi [Itou Kanae].zip
 music/Shin-S/[Shin-S] Softenni OP Single - Rulebook wo Wasurechae [ULTRA-PRISM with Hakuouchuu Soft Tennis Club].zip
@@ -7016,6 +7032,7 @@ music/Shin-S/[Shin-S] Tonari no Kaibutsu-kun OP Single - Q&A Recital! [Tomatsu H
 music/Shin-S/[Shin-S] Toyosaki Aki - Orion to Spangle.zip
 music/Shin-S/[Shin-S] Toyosaki Aki - music.zip
 music/Shin-S/[Shin-S] UN-GO ED Single - Fantasy [LAMA].zip
+music/Shin-S/[Shin-S] Uchouten Kazoku ED Single - Que sera sera (FLAC) [fhána].zip
 music/Shin-S/[Shin-S] Uchouten Kazoku OP Single - Uchouten Jinsei (FLAC) [milktub].zip
 music/Shin-S/[Shin-S] Upotte!! ED Single - Himekuri [Sadohara Kaori].zip
 music/Shin-S/[Shin-S] Upotte!! OP Single - I.N.G [sweet ARMS].zip
@@ -7029,6 +7046,7 @@ music/Shin-S/[Shin-S] Vividred Operation ED & Character Song Collection 02 - STE
 music/Shin-S/[Shin-S] Vividred Operation OP Single - ENERGY (FLAC) [earthmind].zip
 music/Shin-S/[Shin-S] WORKING'!! OP & ED Single - COOLISH WALK [Various].zip
 music/Shin-S/[Shin-S] Wagamama Fairy Mirumo de Pon! OP & ED Single - Pretty Cake Magic (FLAC) [Kaede + Cheek Fairy].zip
+music/Shin-S/[Shin-S] Walkure Romanze OP Single - UN-DELAYED (FLAC) [Hashimoto Miyuki].zip
 music/Shin-S/[Shin-S] Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! OP Single - Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui [Suzuki Konomi n' Kiba of Akiba].zip
 music/Shin-S/[Shin-S] Wooser no Sono Higurashi Theme Song Single - Love Me Gimme (FLAC) [Tia produced by ryo (supercell)].zip
 music/Shin-S/[Shin-S] Yahari Ore no Seishun Love Come wa Machigatteiru. Character Song Album - Yahari Kono Charason wa Machigatteiru. (flac) [Various].zip
